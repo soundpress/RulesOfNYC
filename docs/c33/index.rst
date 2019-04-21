@@ -1,6 +1,39 @@
 Title 50: Community Assistance Unit
 ===================================================
 
+Chapter 2: Sale of Alcoholic Beverages At Events Authorized By A Street Activity Permit
+--------------------------------------------------
+
+
+
+*§ 2-01 Sale of Alcoholic Beverages Prohibited.* ::
+
+
+No sponsor who has received a permit to conduct a street activity from the Street Activity Permit Office (SAPO) shall sell or otherwise distribute alcoholic beverages to any person during the course of such street activity, nor shall such sponsor allow any vendor or any other person or entity that participates in such street activity to sell or otherwise distribute alcoholic beverages to any person during the course of such street activity.
+
+
+
+
+
+
+*§ 2-02 Enforcement.* ::
+
+
+The director of SAPO shall have the authority to deny an application for a street activity permit, to condition the approval of an application for a street activity permit, or to revoke a street activity permit, based on the past or present failure of the applicant or sponsor to comply with the provisions of this chapter.
+
+
+
+
+
+
+*§ 2-03 Exception.* ::
+
+
+This prohibition shall not apply to entities or persons licensed by the New York state liquor authority to sell alcoholic beverages at retail to be consumed on the premises where sold, including those licensees who operate a sidewalk cafe pursuant to a license issued by the commissioner of consumer affairs.
+
+
+
+
 Chapter 1: Application, Fees and Charges For Street Activity Permits
 --------------------------------------------------
 
@@ -11,87 +44,87 @@ Chapter 1: Application, Fees and Charges For Street Activity Permits
 
 These rules shall apply to all applications for street activity permits, and for purposes of this chapter, the following terms shall have the following meanings:
 
-   "Applicant" means an individual or entity applying for a street activity permit that is responsible for the street activity proposed in the application.
+"Applicant" means an individual or entity applying for a street activity permit that is responsible for the street activity proposed in the application.
 
-   "Block" means the linear stretch of a street between the curb lines of the cross streets that intersect such block.
+"Block" means the linear stretch of a street between the curb lines of the cross streets that intersect such block.
 
-   "Block party" means a community sponsored Street event requiring the closure of a single block of a street, or a portion thereof, for a single day in which no fundraising or the sale of goods or services occurs, and does not otherwise fall into any other category.
+"Block party" means a community sponsored Street event requiring the closure of a single block of a street, or a portion thereof, for a single day in which no fundraising or the sale of goods or services occurs, and does not otherwise fall into any other category.
 
-   "Business improvement district" means an entity established pursuant to article nine of the general municipal law.
+"Business improvement district" means an entity established pursuant to article nine of the general municipal law.
 
-   "Civic event" means a Plaza or Street event that is sponsored by a documented not-for-profit organization that is open to the public, may offer free services or information to the community, and does not have a fundraising component or include the sale of goods or services. Civic events include, but are not limited to, artistic/cultural performances, classes, religious worship or educational gatherings that support the mission of the sponsoring, documented not-for-profit organization. Civic events may not include signs or banners displaying sponsors or supporter logos that exceed ten percent (10%) of the face of the sign or banner.
+"Civic event" means a Plaza or Street event that is sponsored by a documented not-for-profit organization that is open to the public, may offer free services or information to the community, and does not have a fundraising component or include the sale of goods or services. Civic events include, but are not limited to, artistic/cultural performances, classes, religious worship or educational gatherings that support the mission of the sponsoring, documented not-for-profit organization. Civic events may not include signs or banners displaying sponsors or supporter logos that exceed ten percent (10%) of the face of the sign or banner.
 
-   "Civic center" means a use of property for public facilities such as schools, libraries and/or parks.
+"Civic center" means a use of property for public facilities such as schools, libraries and/or parks.
 
-   "Charitable event" means a Plaza or Street event in which the sole purpose of the activity is fundraising by or for a specific documented not-for-profit organization. Charitable events shall not include street fairs or block parties, Civic events or Commercial/Promotional events or Street events that fall into any other category. Charitable events may not include signs or banners displaying sponsors or supporter logos that exceed ten percent (10%) of the face of the sign or banner.
+"Charitable event" means a Plaza or Street event in which the sole purpose of the activity is fundraising by or for a specific documented not-for-profit organization. Charitable events shall not include street fairs or block parties, Civic events or Commercial/Promotional events or Street events that fall into any other category. Charitable events may not include signs or banners displaying sponsors or supporter logos that exceed ten percent (10%) of the face of the sign or banner.
 
-   "Clean-up" means a Street event that is held for the purpose of neighborhood improvement by a documented not-for-profit organization, Community Sponsor or an individual with an indigenous relationship with the proposed event location. No fundraising or sale of goods or services to the general public shall occur at a Clean-up.
+"Clean-up" means a Street event that is held for the purpose of neighborhood improvement by a documented not-for-profit organization, Community Sponsor or an individual with an indigenous relationship with the proposed event location. No fundraising or sale of goods or services to the general public shall occur at a Clean-up.
 
-   "Commercial/Promotional event" means a Plaza or Street event that promotes, advertises or introduces a product, corporation, company or other commercial entity or the goods or services of a corporation, company or other commercial entity to either the general public or to a portion of the general public. Commercial/Promotional events do not include Charitable or Civic events.
+"Commercial/Promotional event" means a Plaza or Street event that promotes, advertises or introduces a product, corporation, company or other commercial entity or the goods or services of a corporation, company or other commercial entity to either the general public or to a portion of the general public. Commercial/Promotional events do not include Charitable or Civic events.
 
-   "Commercial center" means a use of property for active ground floor uses such as retail.
+"Commercial center" means a use of property for active ground floor uses such as retail.
 
-   "Community sponsor" means a community-based, documented not-for-profit organization, association, corporation or the like that has an indigenous relationship to the specific street or geographic community where the Street event is proposed.
+"Community sponsor" means a community-based, documented not-for-profit organization, association, corporation or the like that has an indigenous relationship to the specific street or geographic community where the Street event is proposed.
 
-   "Deadline" means the number of days prior to the start of an event by which an Applicant must submit an application for review.
+"Deadline" means the number of days prior to the start of an event by which an Applicant must submit an application for review.
 
-   "Event time" means the time between set up and break down of a Street or Plaza event.
+"Event time" means the time between set up and break down of a Street or Plaza event.
 
-   "Extra large event, Street or Plaza" means an event that is a Commercial/Promotional event or a Charitable event and has an extensive impact on the surrounding community and vehicular and/or pedestrian traffic, uses multiple locations or a combination of Pedestrian plazas or full street closure; requires significant set-up including, but not limited to, erection of structures that may require a Department of Buildings permit; and requires substantial coordination between the Street Activity Permit Office and City agency staff, including the Police Department, Fire Department, Department of Transportation and the Executive Director of Office of Citywide Event Coordination and Management.
+"Extra large event, Street or Plaza" means an event that is a Commercial/Promotional event or a Charitable event and has an extensive impact on the surrounding community and vehicular and/or pedestrian traffic, uses multiple locations or a combination of Pedestrian plazas or full street closure; requires significant set-up including, but not limited to, erection of structures that may require a Department of Buildings permit; and requires substantial coordination between the Street Activity Permit Office and City agency staff, including the Police Department, Fire Department, Department of Transportation and the Executive Director of Office of Citywide Event Coordination and Management.
 
-   "Farmer's market" means an open-air market held on a sidewalk for the sale to the general public of products grown, raised, caught or baked by local farmers and fishers and that does not have a fundraising component. An Applicant for a farmer's market shall be a documented not-for-profit corporation with federal tax exempt status.
+"Farmer's market" means an open-air market held on a sidewalk for the sale to the general public of products grown, raised, caught or baked by local farmers and fishers and that does not have a fundraising component. An Applicant for a farmer's market shall be a documented not-for-profit corporation with federal tax exempt status.
 
-   "Health fair" means a community sponsored event in which a health vendor(s) promotes and provides in-kind services to the community, taking place within a Pedestrian plaza or requiring the closure of a single block of a street, or a portion thereof, for a single day in which no fundraising or sale of goods or services occurs, and in which a health vendor(s) does not pay a fee to participate.
+"Health fair" means a community sponsored event in which a health vendor(s) promotes and provides in-kind services to the community, taking place within a Pedestrian plaza or requiring the closure of a single block of a street, or a portion thereof, for a single day in which no fundraising or sale of goods or services occurs, and in which a health vendor(s) does not pay a fee to participate.
 
-   "Inflatables" means balloons or displays that are expanded with air or gas and used for event promotion, logo placement, product display or recreational purposes. Blimps and inflatable rides are not considered inflatables for purpose of this section.
+"Inflatables" means balloons or displays that are expanded with air or gas and used for event promotion, logo placement, product display or recreational purposes. Blimps and inflatable rides are not considered inflatables for purpose of this section.
 
-   "Plaza event" means any activity within a Pedestrian plaza where the activity will interfere with or obstruct the regular use of such Pedestrian plaza, but shall not include activities conducted pursuant to a valid film, parade or construction permit.
+"Plaza event" means any activity within a Pedestrian plaza where the activity will interfere with or obstruct the regular use of such Pedestrian plaza, but shall not include activities conducted pursuant to a valid film, parade or construction permit.
 
-   "Plaza event, Large" means usage of over fifty percent (50%) of a Pedestrian plaza's square footage with an expected attendance between fifty percent to one hundred (50-100%) of the Pedestrian plaza's capacity and held with or without the use of amplified sound.
+"Plaza event, Large" means usage of over fifty percent (50%) of a Pedestrian plaza's square footage with an expected attendance between fifty percent to one hundred (50 - 100%) of the Pedestrian plaza's capacity and held with or without the use of amplified sound.
 
-   "Plaza event, Medium" means usage of twenty-five to fifty percent (25-50%) of the Pedestrian plaza's square footage with an expected attendance between twenty-five to fifty percent (25-50%) of the Pedestrian plaza's capacity and held with or without the use of amplified sound.
+"Plaza event, Medium" means usage of twenty-five to fifty percent (25 - 50%) of the Pedestrian plaza's square footage with an expected attendance between twenty-five to fifty percent (25 - 50%) of the Pedestrian plaza's capacity and held with or without the use of amplified sound.
 
    "Plaza event, Small" means usage of less than twenty-five percent (25%) of the Pedestrian plaza's square footage with an expected attendance of less than twenty-five percent (25%) of the Pedestrian plaza's capacity and held with or without the use of amplified sound.
 
-   "Pedestrian plaza" means an area designed by the Department of Transportation for pedestrian circulation, use, and enjoyment on property under the jurisdiction of the Department of Transportation including, but not limited to, property mapped as a public place or property within the bed of a roadway, and which may contain amenities such as tables, seating, trees, plants, lighting, bike racks, or public art. Pedestrian plazas are categorized into the levels defined below, and a list of levels and which Pedestrian plazas fall into a particular level are available at http://www1.nyc.gov/site/cecm/permitting/plazas.page.
+"Pedestrian plaza" means an area designed by the Department of Transportation for pedestrian circulation, use, and enjoyment on property under the jurisdiction of the Department of Transportation including, but not limited to, property mapped as a public place or property within the bed of a roadway, and which may contain amenities such as tables, seating, trees, plants, lighting, bike racks, or public art. Pedestrian plazas are categorized into the levels defined below, and a list of levels and which Pedestrian plazas fall into a particular level are available at http://www1.nyc.gov/site/cecm/permitting/plazas.page.
 
-   "Pedestrian plaza, Level A" means a Pedestrian plaza where (a) the total size is greater than 100,000 square feet, the total area occupies more than 2 consecutive Blocks, and the area is located near a Transit hub, a Civic center and a Commercial center; or (b) the total size is less than or equal to 100,000 square feet but greater than 30,000 square feet, the total area occupies more than 4 consecutive Blocks and the area is located near a combination of at least 2 of the following: a Transit hub, a Civic center or a Commercial center.
+"Pedestrian plaza, Level A" means a Pedestrian plaza where (a) the total size is greater than 100,000 square feet, the total area occupies more than 2 consecutive Blocks, and the area is located near a Transit hub, a Civic center and a Commercial center; or (b) the total size is less than or equal to 100,000 square feet but greater than 30,000 square feet, the total area occupies more than 4 consecutive Blocks and the area is located near a combination of at least 2 of the following: a Transit hub, a Civic center or a Commercial center.
 
-   "Pedestrian plaza, Level B" means a Pedestrian plaza where (a) the total size is less than or equal to 100,000 square feet but greater than 30,000 square feet, the total area occupies one or more Blocks, and the area is located near a Transit hub, Civic center or a Commercial center; or (b) the total size is less than or equal to 30,000 square feet but greater than 10,000 square feet, the total area occupies more than 2 consecutive Blocks and the area is located near a combination of at least 2 of the following: a Transit hub, a Civic center or a Commercial center.
+"Pedestrian plaza, Level B" means a Pedestrian plaza where (a) the total size is less than or equal to 100,000 square feet but greater than 30,000 square feet, the total area occupies one or more Blocks, and the area is located near a Transit hub, Civic center or a Commercial center; or (b) the total size is less than or equal to 30,000 square feet but greater than 10,000 square feet, the total area occupies more than 2 consecutive Blocks and the area is located near a combination of at least 2 of the following: a Transit hub, a Civic center or a Commercial center.
 
-   "Pedestrian plaza, Level C" means a Pedestrian plaza where (a) the total size is less than or equal to 30,000 square feet but greater than 10,000 square feet, the total area occupies one or more Blocks, and the area is located near a Transit hub, Civic center or a Commercial center; or (b) the total size is less than or equal to 10,000 square feet, the total area occupies more than 2 consecutive Blocks and the area is located near a Transit hub, a Civic center and a Commercial center.
+"Pedestrian plaza, Level C" means a Pedestrian plaza where (a) the total size is less than or equal to 30,000 square feet but greater than 10,000 square feet, the total area occupies one or more Blocks, and the area is located near a Transit hub, Civic center or a Commercial center; or (b) the total size is less than or equal to 10,000 square feet, the total area occupies more than 2 consecutive Blocks and the area is located near a Transit hub, a Civic center and a Commercial center.
 
-   "Pedestrian plaza, Level D" means a Pedestrian plaza where (a) the total size is less than or equal to 10,000 square feet, the total area occupies one or more Blocks, and the area is located near a Transit hub, a Civic center or a Commercial center.
+"Pedestrian plaza, Level D" means a Pedestrian plaza where (a) the total size is less than or equal to 10,000 square feet, the total area occupies one or more Blocks, and the area is located near a Transit hub, a Civic center or a Commercial center.
 
-   "Pedestrian plaza block" means the continuous portion of a Pedestrian plaza between the curb lines of the cross streets that intersect such pedestrian Plaza.
+"Pedestrian plaza block" means the continuous portion of a Pedestrian plaza between the curb lines of the cross streets that intersect such pedestrian Plaza.
 
-   "Pedestrian plaza capacity" means the percentage or area of a Pedestrian plaza that is not designated for pedestrian circulation space, emergency access, or a Plaza subconcession approved by the Department of Transportation.
+"Pedestrian plaza capacity" means the percentage or area of a Pedestrian plaza that is not designated for pedestrian circulation space, emergency access, or a Plaza subconcession approved by the Department of Transportation.
 
-   "Pedestrian plaza partner" means an organization selected by the Department of Transportation to assist with functions related to Pedestrian plazas, pursuant to a non-exclusive agreement with the Department of Transportation, pursuant to chapter 13 or 14 of the City Charter. Such functions may include, but are not limited to, the design, daily management, maintenance, programming, and the provision of funding to support such functions.
+"Pedestrian plaza partner" means an organization selected by the Department of Transportation to assist with functions related to Pedestrian plazas, pursuant to a non-exclusive agreement with the Department of Transportation, pursuant to chapter 13 or 14 of the City Charter. Such functions may include, but are not limited to, the design, daily management, maintenance, programming, and the provision of funding to support such functions.
 
-   "Pedestrian plaza partner event" means a Civic event in which the applicant is solely the Pedestrian plaza partner for a Plaza event that occurs on the Pedestrian plaza that the Pedestrian plaza partner programs under agreement with the Department of Transportation.
+"Pedestrian plaza partner event" means a Civic event in which the applicant is solely the Pedestrian plaza partner for a Plaza event that occurs on the Pedestrian plaza that the Pedestrian plaza partner programs under agreement with the Department of Transportation.
 
-   "Press Conference/Rally/Stationary Demonstration" means a public convening with minimal elements in a Pedestrian plaza, requiring the use of over fifty percent (50%) of one Pedestrian plaza or over fifty percent (50%) of one Pedestrian plaza in conjunction with any part of any other Pedestrian plaza(s) for a single day, and which is not a Commercial/Promotional event or a Charitable event and no fundraising or the sale of goods or services occurs.
+"Press Conference/Rally/Stationary Demonstration" means a public convening with minimal elements in a Pedestrian plaza, requiring the use of over fifty percent (50%) of one Pedestrian plaza or over fifty percent (50%) of one Pedestrian plaza in conjunction with any part of any other Pedestrian plaza(s) for a single day, and which is not a Commercial/Promotional event or a Charitable event and no fundraising or the sale of goods or services occurs.
 
-   "Production event" means an event that occurs for no more than fifteen (15) consecutive days in a curb lane and/or sidewalk to facilitate the pick up and drop off of passengers and the set up or break down of event components only, has no impact on pedestrian and/or vehicular traffic and requires minimal coordination between SAPO, the Office of Citywide Event Coordination and Management and the Applicant.
+"Production event" means an event that occurs for no more than fifteen (15) consecutive days in a curb lane and/or sidewalk to facilitate the pick up and drop off of passengers and the set up or break down of event components only, has no impact on pedestrian and/or vehicular traffic and requires minimal coordination between SAPO, the Office of Citywide Event Coordination and Management and the Applicant.
 
-   "Street event" means any activity on a public street, street curb lane, or sidewalk where the activity will interfere with or obstruct the regular use of the location by pedestrian or vehicular traffic but shall not include activities conducted pursuant to a valid film permit, parade or construction permit.
+"Street event" means any activity on a public street, street curb lane, or sidewalk where the activity will interfere with or obstruct the regular use of the location by pedestrian or vehicular traffic but shall not include activities conducted pursuant to a valid film permit, parade or construction permit.
 
-   "Street event, Large" means a Commercial/Promotional event or a Charitable event that has an extensive impact on the surrounding community and vehicular and/or pedestrian traffic; includes the full street closure of one Block; requires significant set-up including, but not limited to, erection of structures that may require a Department of Buildings permit; and requires substantial coordination between SAPO, including the Executive Director of Office of Citywide Event Coordination and Management, and City agency staff, including the Police Department, Fire Department, Department of Transportation.
+"Street event, Large" means a Commercial/Promotional event or a Charitable event that has an extensive impact on the surrounding community and vehicular and/or pedestrian traffic; includes the full street closure of one Block; requires significant set-up including, but not limited to, erection of structures that may require a Department of Buildings permit; and requires substantial coordination between SAPO, including the Executive Director of Office of Citywide Event Coordination and Management, and City agency staff, including the Police Department, Fire Department, Department of Transportation.
 
-   "Street event, Medium" means a Commercial/Promotional event or a Charitable event that impacts pedestrian and/or vehicular traffic and requires significant set up on a sidewalk and curb lane, or includes an obstruction such as a tent, canopy, stage platform, bleacher, reviewing stand, outdoor bandstand or similar structure that may require a Department of Buildings permit; and requires coordination between SAPO and City agency staff, including the Police Department, Department of Transportation and the Executive Director of the Office of Citywide Event Coordination and Management.
+"Street event, Medium" means a Commercial/Promotional event or a Charitable event that impacts pedestrian and/or vehicular traffic and requires significant set up on a sidewalk and curb lane, or includes an obstruction such as a tent, canopy, stage platform, bleacher, reviewing stand, outdoor bandstand or similar structure that may require a Department of Buildings permit; and requires coordination between SAPO and City agency staff, including the Police Department, Department of Transportation and the Executive Director of the Office of Citywide Event Coordination and Management.
 
-   "Street event, Small" means an event that occurs for a short period of time with low or minimum impact on pedestrian or vehicular traffic and requires little coordination between SAPO, including the Executive Director of the Office of Citywide Event Coordination and Management, and the Police Department and the Applicant. A Street event, Small includes, but is not limited to:
+"Street event, Small" means an event that occurs for a short period of time with low or minimum impact on pedestrian or vehicular traffic and requires little coordination between SAPO, including the Executive Director of the Office of Citywide Event Coordination and Management, and the Police Department and the Applicant. A Street event, Small includes, but is not limited to:
 
-      (a) use of the curb lane or sidewalk for placement of promotional materials, red carpet, tent(s) or display of a vehicle; or
+   (a) use of the curb lane or sidewalk for placement of promotional materials, red carpet, tent(s) or display of a vehicle; or
 
-      (b) a Commercial/Promotional event.
+   (b) a Commercial/Promotional event.
 
-   "Street fair" means a community sponsored event requiring a street closure of one Block or more in which the general public can purchase goods or services provided by vendors and vendors may pay a fee to participate.
+"Street fair" means a community sponsored event requiring a street closure of one Block or more in which the general public can purchase goods or services provided by vendors and vendors may pay a fee to participate.
 
-   "Transit hub" means a use of property for a mass transit station or stop and/or the interchange of multiple modes of transportation.
+"Transit hub" means a use of property for a mass transit station or stop and/or the interchange of multiple modes of transportation.
 
-   Vendor means an individual, entity or organization that sells or offers for sale, food, goods, tickets or services.
+Vendor means an individual, entity or organization that sells or offers for sale, food, goods, tickets or services.
 
 
 
@@ -350,12 +383,12 @@ These rules shall apply to all applications for street activity permits, and for
     * - Clean-up
       - Processing fee only
       - 60 Days
-    * - Day fee (as per § 1-08(a))
+    * - Day fee (as per 50 RCNY § 1-08(a))
       - $35 each day after the first day
-      - 
+      -  
     * - Extra Large Event, Street or Plaza
       - Up to $66,000 per location
-      - 
+      -  
     * - Farmers Market
       - $15 per day
       - 60 Days
@@ -366,19 +399,19 @@ These rules shall apply to all applications for street activity permits, and for
       - Fee per Plaza block $31,000 Large $15,500 Small or Medium
       - 45 Days (1 Plaza block)60 days (Multiple Plaza blocks)
     * - Plaza Event (Pedestrian plaza Level B)
-      - MN Plaza Event Fees per Plaza block $20,000 Large$10,000 Medium $5,000 SmallSI, QN, BX, BK Plaza Event Fees per Plaza block $8,000 Large$4,000 Medium $2,000 Small
+      - MN Plaza Event Fees per Plaza block$20,000 Large$10,000 Medium $5,000 SmallSI, QN, BX, BK Plaza Event Fees per Plaza block$8,000 Large$4,000 Medium $2,000 Small
       - 30 Days (1 Plaza block)45 days (Multiple Plaza blocks)
     * - Plaza Event (Pedestrian plaza Level C)
-      - MN Plaza Event Fees per Plaza block $11,000 Large$5,500 Medium $2,500 SmallSI, QN, BX, BK Plaza Event Fees per Plaza block $5,000 Large$2,500 Medium $1,000 Small
+      - MN Plaza Event Fees per Plaza block$11,000 Large$5,500 Medium $2,500 SmallSI, QN, BX, BK Plaza Event Fees per Plaza block $5,000 Large$2,500 Medium $1,000 Small
       - 30 Days
     * - Plaza Event (Pedestrian plaza Level D)
-      - MN Plaza Event Fees $2,500 Large $1,250 Medium or SmallSI, QN, BX, BK Plaza$2,000 Large $1,000 Medium or Small
+      - MN Plaza Event Fees$2,500 Large$1,250 Medium or SmallSI, QN, BX, BK Plaza$2,000 Large $1,000 Medium or Small
       - 14 Days
     * - Press Conference/ Rally/Stationary Demonstration
       - Processing fee only
       - 10 Days unless need for event could not be anticipated in advance
     * - Production Event
-      - $290 (with curb lane or sidewalk) $700 (with curb lane and sidewalk)
+      - $290 (with curb lane or sidewalk)$700 (with curb lane and sidewalk)
       - 10 Days
     * - Street event
       - Street event, Large $25,000Street event, Medium $11,000Street event, Small $3,100
@@ -423,39 +456,6 @@ These rules shall apply to all applications for street activity permits, and for
 (i) The Director of SAPO shall have the authority to require that full or partial payment of the fee be made prior to the date of the activity and to require that any amounts remaining owed to the City be paid within a specified period of time following the date of such activity.
 
 
-
-
-
-
-Chapter 2: Sale of Alcoholic Beverages At Events Authorized By A Street Activity Permit
---------------------------------------------------
-
-
-
-*§ 2-01 Sale of Alcoholic Beverages Prohibited.* ::
-
-
-No sponsor who has received a permit to conduct a street activity from the Street Activity Permit Office (SAPO) shall sell or otherwise distribute alcoholic beverages to any person during the course of such street activity, nor shall such sponsor allow any vendor or any other person or entity that participates in such street activity to sell or otherwise distribute alcoholic beverages to any person during the course of such street activity.
-
-
-
-
-
-
-*§ 2-02 Enforcement.* ::
-
-
-The director of SAPO shall have the authority to deny an application for a street activity permit, to condition the approval of an application for a street activity permit, or to revoke a street activity permit, based on the past or present failure of the applicant or sponsor to comply with the provisions of this chapter.
-
-
-
-
-
-
-*§ 2-03 Exception.* ::
-
-
-This prohibition shall not apply to entities or persons licensed by the New York state liquor authority to sell alcoholic beverages at retail to be consumed on the premises where sold, including those licensees who operate a sidewalk cafe pursuant to a license issued by the commissioner of consumer affairs.
 
 
 

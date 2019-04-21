@@ -707,25 +707,29 @@ For this purpose the amount of floor area shall be calculated based upon the flo
     * - For all other applications with no commerical or community facility use, the fee shall be based upon the number of dwelling units being proposed, in the amount of $830 per dwelling unit, however, in cases of open uses, the fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area, as follows:
       - 
       - 
-    * -  
-      - Less than 10,000 square feet
+    * - Less than 10,000 square feet
       -  $1,060
-    * -  
-      - 10,000 to 19,999 square feet
+      - 
+    * - 10,000 to 19,999 square feet
       -  $1,590
-    * -  
-      - 20,000 to 39,999 square feet
+      - 
+    * - 20,000 to 39,999 square feet
       -  $2,040
-    * -  
-      - 40,000 to 69,999 square feet
+      - 
+    * - 40,000 to 69,999 square feet
       -  $2,645
-    * -  
-      - 70,000 to 99,999 square feet
+      - 
+    * - 70,000 to 99,999 square feet
       -  $3,100
-    * -  
-      - 100,000 square feet and over
+      - 
+    * - 100,000 square feet and over
       -  $3,400
 ~
+
+
+
+
+      -
 
  
 
@@ -857,9 +861,9 @@ This chapter sets forth the procedures applicable to the review of actions locat
 
 (a) Local discretionary actions that are classified as Type 1 or Unlisted pursuant to the State Environmental Quality Review Act (SEQRA) or City Environmental Quality Review (CEQR);
 
-(b) State actions that are subject to WRP consistency review by the relevant state agency pursuant to the applicable laws and regulations referenced in subdivision b of 62 RCNY § 4-03;
+(b) State actions that are subject to WRP consistency review by the relevant state agency pursuant to the applicable laws and regulations referenced in 62 RCNY § 4-03(b);
 
-(c) Federal direct actions, permit and license actions, and financial assistance actions that are subject to WRP consistency review by the New York State Department of State (DOS) for the relevant federal agency pursuant to the applicable laws and regulations referenced in subdivision b of 62 RCNY § 4-03.
+(c) Federal direct actions, permit and license actions, and financial assistance actions that are subject to WRP consistency review by the New York State Department of State (DOS) for the relevant federal agency pursuant to the applicable laws and regulations referenced in 62 RCNY § 4-03(b).
 
 The Department's or the CCC's review of state and federal actions, as referenced herein, is advisory and for the purpose of consultation in accordance with state and federal laws and regulations.
 
@@ -960,15 +964,15 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 *§ 5-02 General Provisions.* ::
 
 
-(a) Continuation of Executive Order No. 91 [43 RCNY §§ 6-01 et seq.]; [;See Appendix A to these rules];. Until the City Planning Commission promulgates further rules governing environmental review of actions taken by the city, Executive Order No. 91 of August 24, 1977, as amended (Executive Order 91), shall continue to govern environmental quality review in the city except where inconsistent with these rules, provided, however, that the following provisions of Executive Order 91 shall not apply: the definitions of "Agency", "Lead Agencies" and "Project data statement" defined in § 6-02, subdivision (b) of § 6-03, subdivision (a) of § 6-05, the introductory paragraph of subdivision (b) of § 6-05, paragraphs one and two of subdivision (a) of § 6-12, § 6-14, and subdivision (b) of the TYPE II part of § 6-15.
+(a) Continuation of Executive Order No. 91 [43 RCNY §§ 6-01 et seq.] [See Appendix A to these rules]. Until the City Planning Commission promulgates further rules governing environmental review of actions taken by the city, Executive Order No. 91 of August 24, 1977, as amended (Executive Order 91), shall continue to govern environmental quality review in the city except where inconsistent with these rules, provided, however, that the following provisions of Executive Order 91 shall not apply: the definitions of "Agency", "Lead Agencies" and "Project data statement" defined in 43 RCNY § 6-02, 43 RCNY § 6-03(b), 43 RCNY § 6-05(a), the introductory paragraph of 43 RCNY § 6-05(b), paragraphs one and two of 43 RCNY § 6-12(a), 43 RCNY § 6-14, and subdivision (b) of the TYPE II part of 43 RCNY § 6-15.
 
 (b) Rules of Construction. 
 
-   (1) All functions required by Executive Order 91 to be performed by the "lead agencies," as formerly defined in § 6-02 of such Executive Order, shall be performed by the lead agency prescribed by or selected pursuant to these rules or by the Office of Environmental Coordination where authorized by these rules.
+   (1) All functions required by Executive Order 91 to be performed by the "lead agencies," as formerly defined in 43 RCNY § 6-02, shall be performed by the lead agency prescribed by or selected pursuant to these rules or by the Office of Environmental Coordination where authorized by these rules.
 
-   (2) Wherever Executive Order 91 explicitly or by implication refers to subdivision (b) of the Type II part of § 6-15 of such Executive Order, such reference shall be deemed to be to § 617.13(d) of the SEQRA Regulations.
+   (2) Wherever Executive Order 91 explicitly or by implication refers to subdivision (b) of the Type II part of 43 RCNY § 6-15, such reference shall be deemed to be to § 617.13(d) of the SEQRA Regulations.
 
-   (3) The reference to "a determination pursuant to § 6-03(b) of this Executive Order" contained in Executive Order 91 § 6-05(b)(1) shall be deemed to refer to selection of a lead agency pursuant to § 5-03 of these rules.
+   (3) The reference to "a determination pursuant to 43 RCNY § 6-03(b)" contained in 43 RCNY § 6-05(b)(1) shall be deemed to refer to selection of a lead agency pursuant to 62 RCNY § 5-03.
 
    (4) The Office of Environmental Coordination shall succeed to functions performed by the City Clerk pursuant to Executive Order 91 with respect to the receipt and filing of documents.
 
@@ -978,7 +982,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
    (1) All definitions contained in Executive Order 91, other than the definitions of "agency" and "lead agencies", shall apply to these rules.
 
-   (2) "Action" as defined in § 6-02 of Executive Order 91 includes all contemporaneous or subsequent actions that are included in a review pursuant to City Environmental Quality Review.
+   (2) "Action" as defined in 43 RCNY § 6-02, includes all contemporaneous or subsequent actions that are included in a review pursuant to City Environmental Quality Review.
 
    (3) The following additional definitions shall apply to these rules unless otherwise noted:
 
@@ -1064,7 +1068,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 (i) Transfer of Lead Agency Status. Lead agency status may be transferred from the lead agency, at its discretion, to an involved agency that agrees to become the lead agency. In deciding whether a transfer of lead agency status is appropriate, agencies shall use the selection procedure set forth in subdivision (h) of this section. Notice of transfer of lead agency status must be given by the new lead agency to the applicant and all other involved and interested agencies within 10 days of the transfer. The Chair of the City Planning Commission may act on behalf of such Commission pursuant to this subdivision.
 
-(j) Selection of Lead Agency Where Actions Involve City and State Agencies. Where an action involves both city and state agencies, the city agency prescribed by or selected pursuant to subdivisions (a) through (i) of this section shall, together with such state agencies, participate in selection of the lead agency pursuant to SEQRA, and such selection shall be binding upon the city. The criteria set forth in § 617.6(e)(5) of the SEQRA Regulations shall be considered in deciding whether or not a city agency shall serve as lead agency. The Office of Environmental Coordination shall perform the functions set forth in subdivision (d) of § 5-04 of these rules.
+(j) Selection of Lead Agency Where Actions Involve City and State Agencies. Where an action involves both city and state agencies, the city agency prescribed by or selected pursuant to subdivisions (a) through (i) of this section shall, together with such state agencies, participate in selection of the lead agency pursuant to SEQRA, and such selection shall be binding upon the city. The criteria set forth in § 617.6(e)(5) of the SEQRA Regulations shall be considered in deciding whether or not a city agency shall serve as lead agency. The Office of Environmental Coordination shall perform the functions set forth in subdivision (d) of 62 RCNY § 5-04.
 
 
 
@@ -1088,7 +1092,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
    (4) At the request of a lead agency, coordinate the work of the technical staffs of interested agencies in order to complete environmental review, and expedite responses by interested agencies to requests of the lead agency;
 
-   (5) (i) Receive and maintain on file notifications of commencement of environmental review, determinations of significance (including completed environmental assessment statements), draft and final scopes issued pursuant to 62 RCNY § 5-07 of these rules, draft and final environmental impact statements, and significant supporting documentation comprising the official records of environmental reviews,
+   (5) (i) Receive and maintain on file notifications of commencement of environmental review, determinations of significance (including completed environmental assessment statements), draft and final scopes issued pursuant to 62 RCNY § 5-07, draft and final environmental impact statements, and significant supporting documentation comprising the official records of environmental reviews,
 
       (ii) provide to the public upon request, or make available for inspection by the public during normal business hours, materials maintained on file pursuant to this paragraph,
 
@@ -1166,15 +1170,15 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
    (1) An action listed in 62 RCNY § 5-05(c), which is also classified as Type I pursuant to 6 NYCRR Part 617.4, shall remain Type I and subject to environmental review.
 
-   (2) An action listed in 62 RCNY § 5-05(c)(2) – (5), or (8) of these rules involving ground disturbance shall remain subject to environmental review, unless it is determined that any potentially significant hazardous materials impacts will be avoided.
+   (2) An action listed in 62 RCNY § 5-05(c)(2) - (5), or (8) involving ground disturbance shall remain subject to environmental review, unless it is determined that any potentially significant hazardous materials impacts will be avoided.
 
-   (3) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) of these rules involving excavation of an area that was not previously excavated shall remain subject to environmental review, unless it is determined that the project site is not archaeologically sensitive.
+   (3) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) involving excavation of an area that was not previously excavated shall remain subject to environmental review, unless it is determined that the project site is not archaeologically sensitive.
 
-   (4) An action listed in 62 RCNY § 5-05(c)(4) of these rules shall remain subject to environmental review, unless it is determined that any potentially significant noise impacts will be avoided.
+   (4) An action listed in 62 RCNY § 5-05(c)(4) shall remain subject to environmental review, unless it is determined that any potentially significant noise impacts will be avoided.
 
-   (5) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) of these rules involving the removal or alteration of significant natural resources shall remain subject to environmental review.
+   (5) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) involving the removal or alteration of significant natural resources shall remain subject to environmental review.
 
-   (6) An action listed in 62 RCNY § 5-05(c)(2), (4), (5), (6), (8), or (11) – (13) of these rules shall remain subject to environmental review if the project site is:
+   (6) An action listed in 62 RCNY § 5-05(c)(2), (4), (5), (6), (8), or (11) - (13) shall remain subject to environmental review if the project site is:
 
       (i) wholly or partially within any historic building, structure, facility, site or district that is calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark;
 
@@ -1214,9 +1218,9 @@ After a notice of determination (positive declaration) is issued, the lead agenc
 
 (b) Public Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall publish in the City Record a notice indicating that a draft environmental impact statement will be prepared for the proposed action and requesting public comment with respect to the identification of issues to be addressed in the draft environmental impact statement. Such notice shall be in a format provided by the OEC and shall state that the draft scope and the environmental assessment statement may be obtained by any member of the public from the lead agency and/or the OEC. Such notice shall also contain the date, time and place of the public scoping meeting, shall provide that written comments will be accepted by the lead agency through the tenth day following such meeting, and shall set forth guidelines for public participation in such meeting.
 
-(c) Agency Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall transmit the draft scope and the environmental assessment statement to all interested and involved agencies (including the City Council where it is interested or involved), to the applicant, to the OEC and to agencies entitled to send representatives to the public scoping meeting pursuant to § 197-c(d) or 668(a)(7) of the Charter. Together with the draft scope and the environmental assessment statement, a letter shall be transmitted indicating the date, time and place of the public scoping meeting, and stating that comments will be accepted by the lead agency through the tenth day following such meeting. The lead agency may consult with other agencies regarding their comments, and shall forward any written comments received pursuant to this subdivision to the OEC.
+(c) Agency Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall transmit the draft scope and the environmental assessment statement to all interested and involved agencies (including the City Council where it is interested or involved), to the applicant, to the OEC and to agencies entitled to send representatives to the public scoping meeting pursuant to § 197-c(d) or § 668(a)(7) of the Charter. Together with the draft scope and the environmental assessment statement, a letter shall be transmitted indicating the date, time and place of the public scoping meeting, and stating that comments will be accepted by the lead agency through the tenth day following such meeting. The lead agency may consult with other agencies regarding their comments, and shall forward any written comments received pursuant to this subdivision to the OEC.
 
-(d) Public Scoping Meeting. The lead agency shall chair the public scoping meeting. In addition to the lead agency, all other interested and involved agencies that choose to send representatives (including the City Council where it is interested or involved), the applicant, the OEC, and agencies entitled to send representatives pursuant to § 197-c(d) or 668(a)(7) of the Charter may participate. The meeting shall include an opportunity for the public to observe discussion among interested and involved agencies, agencies entitled to send representatives, the applicant and the OEC. Reasonable time shall be provided for the public to comment with respect to the identification of issues to be addressed in the draft environmental impact statement. The OEC shall assist the lead agency in ensuring that the public scoping meeting is conducted in an effective manner.
+(d) Public Scoping Meeting. The lead agency shall chair the public scoping meeting. In addition to the lead agency, all other interested and involved agencies that choose to send representatives (including the City Council where it is interested or involved), the applicant, the OEC, and agencies entitled to send representatives pursuant to § 197-c(d) or § 668(a)(7) of the Charter may participate. The meeting shall include an opportunity for the public to observe discussion among interested and involved agencies, agencies entitled to send representatives, the applicant and the OEC. Reasonable time shall be provided for the public to comment with respect to the identification of issues to be addressed in the draft environmental impact statement. The OEC shall assist the lead agency in ensuring that the public scoping meeting is conducted in an effective manner.
 
 (e) Final Scope. Within thirty days after the public scoping meeting, the lead agency shall issue a final scope, which may be prepared by the applicant and approved by the lead agency. The lead agency may consult further with the OEC and other agencies prior to issuance of the final scope. Where a lead agency receives substantial new information after issuance of a final scope, it may amend the final scope to reflect such information.
 
@@ -1256,7 +1260,7 @@ After a notice of determination (positive declaration) is issued, the lead agenc
 
    (4) a notice of determination (positive declaration) has been issued more than thirty days prior to the effective date of these rules; provided, however, that if a negative declaration or conditional negative declaration is rescinded, or if a classification as exempt, excluded or Type II is no longer applicable, or if a supplemental environmental impact statement is required, or if a notice of determination (positive declaration) has been issued less than thirty days prior to the effective date of these rules or is issued on or after the effective date of these rules, these rules shall apply, and the lead agency prescribed by or selected pursuant to these rules shall thereupon assume lead agency status at the earliest time practicable.
 
-(b) Except as provided in subdivision (a) of this section, the lead agency prescribed by or selected pursuant to these rules shall assume lead agency status at the earliest time practicable. If a determination of significance has not been made and such lead agency determines that the action requires environmental review, it shall notify the OEC that it is commencing environmental review and shall complete or cause to be completed the standardized environmental assessment statement provided by the OEC, regardless of whether a project data statement has been completed. However, such lead agency shall not be required to engage in scoping pursuant to 62 RCNY § 5-07 of these rules if a final scope has already been prepared. Until the lead agency prescribed by or selected pursuant to these rules assumes lead agency status, the action shall be subject to Executive Order 91 as in effect prior to the effective date of these rules; however, after the effective date of these rules, the prior lead agency or agencies shall not issue a determination of significance or notice of completion of a draft or final environmental impact statement, classify an action as exempt, excluded or Type II, convene a scoping meeting or conduct a public hearing pursuant to CEQR.
+(b) Except as provided in subdivision (a) of this section, the lead agency prescribed by or selected pursuant to these rules shall assume lead agency status at the earliest time practicable. If a determination of significance has not been made and such lead agency determines that the action requires environmental review, it shall notify the OEC that it is commencing environmental review and shall complete or cause to be completed the standardized environmental assessment statement provided by the OEC, regardless of whether a project data statement has been completed. However, such lead agency shall not be required to engage in scoping pursuant to 62 RCNY § 5-07 if a final scope has already been prepared. Until the lead agency prescribed by or selected pursuant to these rules assumes lead agency status, the action shall be subject to Executive Order 91 as in effect prior to the effective date of these rules; however, after the effective date of these rules, the prior lead agency or agencies shall not issue a determination of significance or notice of completion of a draft or final environmental impact statement, classify an action as exempt, excluded or Type II, convene a scoping meeting or conduct a public hearing pursuant to CEQR.
 
 
 
@@ -1277,6 +1281,511 @@ The provisions of these rules shall be severable and if any phrase, clause, sent
 
 
 These rules shall take effect on October 1, 1991.
+
+
+
+
+
+
+
+**APPENDIX A TO CHAPTER 5: CITY ENVIRONMENTAL QUALITY REVIEW (CEQR) (EXECUTIVE ORDER NO. 91 OF 1977, AS AMENDED)**
+
+
+
+*§ 6-01 Applicability.* ::
+
+
+(Except as modified by City Planning Rules, § 502(a) and (d).)
+
+No final decision to carry out or approve any action which may have a significant effect on the environment shall be made by any agency until there has been full compliance with the provisions of this chapter.
+
+
+
+
+
+
+*§ 6-02 Definitions.* ::
+
+
+(Additional definitions, City Planning Rules 62 RCNY § 5-02(c).)
+
+As used herein, the following terms shall have the indicated meanings unless noted otherwise:
+
+Action.(Modified by City Planning Rules 62 RCNY § 5-02(c)(2).) "Action" means any activity of an agency, other than an exempt action enumerated in § 6-04 of this chapter, including but not limited to the following:
+
+   (1) non-ministerial decisions on physical activities such as construction or other activities which change the use or appearance of any natural resource or structure;
+
+   (2) non-ministerial decisions on funding activities such as the proposing, approval or disapproval of contracts, grants, subsidies, loans, tax abatements or exemptions or other forms of direct or indirect financial assistance, other than expense budget funding activities;
+
+   (3) planning activities such as site selection for other activities and the proposing, approval or disapproval of master or long range plans, zoning or other land use maps, ordinances or regulations, development plans or other plans designed to provide a program for future activities;
+
+   (4) policy making activities such as the making, modification or establishment of rules, regulations, procedures, policies and guidelines;
+
+   (5) non-ministerial decisions on licensing activities, such as the proposing, approval or disapproval of a lease, permit, license, certificate or other entitlement for use or permission to act.
+
+Agency.(Inapplicable. See City Planning Rules 62 RCNY § 5-02(a), 62 RCNY § 5-02(c)(3)(i).) "Agency" means any agency, administration, department, board, commission, council, governing body or any other governmental entity of the City of New York, unless otherwise specifically referred to as a state or federal agency.
+
+Applicant. "Applicant" means any person required to file an application pursuant to this chapter.
+
+Conditional negative declaration. "Conditional negative declaration" means a written statement prepared by the lead agencies after conducting an environmental analysis of an action and accepted by the applicant in writing, which announces that the lead agencies have determined that the action will not have a significant effect on the environment if the action is modified in accordance with conditions or alternative designed to avoid adverse environmental impacts.
+
+DEC. "DEC" means the New York State Department of Environmental Conservation.
+
+Environment. "Environment" means the physical conditions which will be affected by a proposed action, including land, air, water, minerals, flora, fauna, noise, objects of historic or aesthetic significance, existing patterns of population concentration, distribution or growth, and existing community or neighborhood character.
+
+Environmental analysis. "Environmental analysis" means the lead agencies' evaluation of the short and long term, primary and secondary environmental effects of an action, with particular attention to the same areas of environmental impacts as would be contained in an EIS. It is the means by which the lead agencies determine whether an action under consideration may or will not have a significant effect on the environment.
+
+Environmental assessment form.(Retitled Environmental Assessment Statement; see City Planning Rules 62 RCNY § 5-04(c)(3).) "Environmental assessment form" means a written form completed by the lead agencies, designed to assist their evaluation of actions to determine whether an action under consideration may or will not have a significant effect on the environment.
+
+Environmental impact statement (EIS). "Environmental impact statement (EIS)" means any written document prepared in accordance with §§ 6-08, 6-10, 6-12 and 6-13 of this chapter. An EIS may either be in a draft or a final form.
+
+Environmental report. "Environmental report" means a report to be submitted to the lead agencies by a non-agency applicant when the lead agencies prepare or cause to be prepared a draft EIS for an action involving such an applicant. An environmental report shall contain an analysis of the environmental factors specified in § 6-10 of this chapter as they relate to the applicant's proposed action and such other information as may be necessary for compliance with this chapter, including the preparation of an EIS.
+
+Lead agencies.(Inapplicable, City Planning Rules 62 RCNY § 5-02(a). Superseded by City Planning Rules 62 RCNY § 5-02(b)(1) and 62 RCNY § 5-02(c)(3)(vi); also see City Planning Rules 62 RCNY § 5-03 for choice of lead agency.)
+
+Ministerial action. "Ministerial action" means an action performed upon a given state of facts in a prescribed manner imposed by law without the exercise of any judgment or discretion as to the propriety of the action, although such law may require, in some degree, a construction of its language or intent.
+
+Negative declaration. "Negative declaration" means a written statement prepared by the lead agencies after conducting an environmental analysis of an action which announces that the lead agencies have determined that the action will not have a significant effect on the environment.
+
+Notice of determination.(See also City Planning Rules 62 RCNY § 5-02(c)(3)(iii).) "Notice of determination" means a written statement prepared by the lead agencies after conducting an environmental analysis of an action which announces that the lead agencies have determined that the action may have a significant effect on the environment, thus requiring the preparation of an EIS.
+
+NYCRR.(See also City Planning Rules 62 RCNY § 5-02(c)(3)(viii).) "NYCRR" means the New York Code of Rules and Regulations.
+
+Person. "Person" means an agency, individual, corporation, governmental entity, partnership, association, trustee or other legal entity.
+
+Project data statement.(Inapplicable, City Planning Rules 62 RCNY § 5-02(a). Superseded by Environmental Assessment Statement, see City Planning Rules 62 RCNY § 5-04(c)(3). See also City Planning Rules 62 RCNY § 5-05(b)(1) and 62 RCNY § 5-08(a).)
+
+SEQRA. "SEQRA" means the State Environmental Quality Review Act (Article 8 of the New York State Environmental Conservation Law).
+
+Typically associated environmental effect. "Typically associated environmental effect" means changes in one or more natural resources which usually occur because of impacts on other such resources as a result of natural interrelationships or cycles.
+
+ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 8 of the New York City Charter).
+
+
+
+
+
+
+*§ 6-03 Actions Involving Federal or State Participation.* ::
+
+
+(a) (See also City Planning Rules 62 RCNY § 5-04(e)) If an action under consideration by an agency may involve a "major federal action significantly affecting the quality of the human environment under the National Environmental Policy Act of 1969," then the following procedures shall apply:
+
+   (1) in the case of an action for which there has been duly prepared both a draft EIS and a final EIS, no agency shall have an obligation to prepare an EIS or to make findings pursuant to § 6-12 of this chapter.
+
+   (2) in the case of an action for which there has been prepared a Negative Declaration or other written threshold determination that the action will not require a federal impact statement under the National Environmental Policy Act of 1969, the lead agencies shall determine whether or not the action may have a significant effect on the environment pursuant to this chapter, and the action shall be fully subject to the same.
+
+(b) (Inapplicable, City Planning Rules 62 RCNY § 5-02(a). Entire subdivision (b) superseded by City Planning Rules 62 RCNY § 5-03(j) and 62 RCNY § 5-04(d).)
+
+
+
+
+
+
+*§ 6-04 Exempt Actions.* ::
+
+
+(See also City Planning Rules 62 RCNY § 5-02(d).)
+
+The following actions shall not be subject to the provisions of this chapter:
+
+(a) projects or activities classified as Type I pursuant to § 6-15 of this chapter directly undertaken or funded by an agency prior to June 1, 1977 except that if such action is sought to be modified after June 1, 1977, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of this chapter;
+
+   (1) such actions include, but are not limited to, those actions defined in § 6-02 "Action" (1), (2), (3) and (4) of this chapter;
+
+   (2) an action shall be deemed to be undertaken at the point that:
+
+      (i) the agency is irreversibly bound or committed to the ultimate completion of a specifically designed activity or project; or
+
+      (ii) in the case of construction activities, a contract for substantial construction has been entered into or if a continuous program of on-site construction or modification has been engaged in; or
+
+      (iii) the agency gives final approval for the issuance to an applicant of a discretionary contract, grant, subsidy, loan or other form of financial assistance; or
+
+      (iv) in the case of an action involving federal or state participation, a draft EIS has been prepared pursuant to the National Environmental Policy Act of 1969 or SEQRA, respectively.
+
+(b) projects or activities classified as Type I pursuant to § 6-15 of this chapter approved by an agency prior to September 1, 1977 except that if such action is sought to be modified after September 1, 1977, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of this chapter;
+
+   (1) such actions include, but are not limited to, those actions defined in § 6-02 "Action" (2) and (5) of this chapter;
+
+   (2) an action shall be deemed to be approved at the point that:
+
+      (i) the agency gives final approval for the issuance to an applicant of a discretionary contract, grant, subsidy, loan or other form of financial assistance; or
+
+      (ii) the agency gives final approval for the issuance to an applicant of a discretionary lease, permit, license, certificate or other entitlement for use or permission to act; or
+
+      (iii) in the case of an action involving federal or state participation, a draft EIS has been prepared pursuant to the National Environmental Policy Act of 1969 or SEQRA, respectively.
+
+(c) projects or activities not otherwise classified as Type I pursuant to § 6-15 of this chapter directly undertaken, funded or approved by an agency prior to November 1, 1978 except that if such action is sought to be modified after November 1, 1978, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of this chapter;
+
+   (1) such actions include, but are not limited to, those actions defined in § 6-02 "Action" of this chapter;
+
+   (2) an action shall be deemed to be undertaken as provided in paragraphs (a)(2) and (b)(2) of this section, as applicable.
+
+(d) enforcement or criminal proceedings or the exercise of prosecutorial discretion in determining whether or not to institute such proceedings;
+
+(e) (See City Planning Rules 62 RCNY § 5-02(d).) ministerial actions, which shall appear on a list compiled, certified and made available for public inspection by the lead agencies, except as provided in § 6-15(a), Type I, of this chapter, relating to critical areas and historic resources;
+
+(f) maintenance or repair involving no substantial changes in existing structures or facilities;
+
+(g) actions subject to the provisions requiring a certificate of environmental compatibility and public need in Article 7 and 8 of the Public Service Law;
+
+(h) actions which are immediately necessary on a limited emergency basis for the protection or preservation of life, health, property or natural resources; and
+
+(i) actions of the Legislature of the State of New York or of any court.
+
+
+
+
+
+
+*§ 6-05 Determination of Significant Effect – Applications.* ::
+
+
+(a) (Inapplicable, City Planning Rules 62 RCNY § 5-02(a). Superseded by City Planning Rules 62 RCNY § 5-05(a). See also City Planning Rules 62 RCNY § 5-02(b)(2) and 62 RCNY § 5-02(d).)
+
+(b) (Introductory paragraph inapplicable, City Planning Rules 62 RCNY § 5-02(a). Paragraph (b) superseded by City Planning Rules 62 RCNY § 5-08.) The applicant initiating the proposed action, other than an exempt or Type II action pursuant to § 6-04 of this chapter, shall file an application with the lead agencies, which application shall include a Project Data Statement and such other documents and additional information as the lead agencies may require to conduct an environmental analysis to determine whether the action may or will not have a significant effect on the environment. Where possible existing City applications shall be modified to incorporate this procedure and a one-stop review process developed;
+
+   (1) within 20 calendar days of receipt of a determination pursuant to § 6-03(b) of this chapter, if applicable, the lead agencies shall notify the applicant, in writing, whether the application is complete or whether additional information is required;
+
+   (2) (Determination pursuant to 62 RCNY § 5-03(b) deemed to refer to lead agency selection pursuant to City Planning Rules 62 RCNY § 5-03. See City Planning Rules 62 RCNY § 5-02(b)(3).) when all required information has been received, the lead agencies shall notify the applicant, in writing, that the application is complete.
+
+(c) Each application shall include an identification of those agencies, including federal or state agencies, which to the best knowledge of the applicant, have jurisdiction by law over the action or any portion thereof.
+
+(d) Where appropriate, the application documents may include a concise statement or reasons why, in the judgment of the applicant, the proposed action is one which will not require the preparation of an EIS pursuant to this chapter.
+
+(e) Initiating applicants shall consider the environmental impacts of proposed actions and alternatives at the earliest possible point in their planning processes, and shall develop wherever possible, measures to mitigate or avoid adverse environmental impacts. A statement discussing such considerations, alternatives and mitigating measures shall be included in the application documents.
+
+(f) Nothing in this section shall be deemed to prohibit an applicant from submitting a preliminary application in the early stages of a project or activity for review and comment by the lead agencies.
+
+
+
+
+
+
+*§ 6-06 Determination of Significant Effect – Criteria.* ::
+
+
+(a) An action may have a significant effect on the environment if it can reasonably be expected to lead to one of the following consequences:
+
+   (1) a substantial adverse change to ambient air or water quality or noise levels or in solid waste production, drainage, erosion or flooding;
+
+   (2) the removal or destruction of large quantities of vegetation or fauna, the substantial interference with the movement of any resident or migratory fish or wildlife species, impacts on critical habitat areas, or the substantial affecting of a rare or endangered species of animal or plant or the habitat of such a species;
+
+   (3) the encouraging or attracting of a large number of people to a place or places for more than a few days relative to the number of people who would come to such a place absent the action;
+
+   (4) the creation of a material conflict with a community's existing plans or goals as officially approved or adopted;
+
+   (5) the impairment of the character or quality of important historical, archeological, architectural or aesthetic resources (including the demolition or alteration of a structure which is eligible for inclusion in an official inventory of such resources), or of existing community or neighborhood character;
+
+   (6) a major change in the use of either the quantity or type of energy;
+
+   (7) the creation of a hazard to human health or safety;
+
+   (8) a substantial change in the use or intensity of use of land or other natural resources or in their capacity to support existing uses, except where such a change has been included, referred to, or implicit in a broad "programmatic" EIS prepared pursuant to § 6-13 of this chapter.
+
+   (9) the creation of a material demand for other actions which would result in one of the above consequences;
+
+   (10) changes in two or more elements of the environment, no one of which is substantial, but taken together result in a material change to the environment.
+
+(b) (Reference to § 6-15 Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 62 RCNY § 5-02(b)(2).) For the purpose of determining whether an action will cause one of the foregoing consequences, the action shall be deemed to include other contemporaneous or subsequent actions which are included in any long-range comprehensive integrated plan of which the action under consideration is a part, which are likely to be undertaken as a result thereof, or which are dependent thereon. The significance of a likely consequence (i.e. where it is material, substantial, large, important, etc.) should be assessed in connection with its setting, its probability of occurring, its duration, its irreversibility, its controllability, its geographic scope and its magnitude (i.e. degree of change or its absolute size). § 6-15 of this chapter refers to lists of actions which are likely to have a significant effect on the environment and contains lists of actions found not to have a significant effect on the environment.
+
+
+
+
+
+
+*§ 6-07 Determination of Significant Effect – Notification.* ::
+
+
+(a) (Error. Reference to § 6-05(a) should be to § 6-05(b).) The lead agencies shall determine within 15 calendar days following notification of completion of the application pursuant to § 6-05(a) of this chapter whether the proposed action may have a significant effect on the environment;
+
+   (1) (Reference to § 6-15(b) Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 62 RCNY § 5-02(b)(2).) In making their determination, the lead agencies shall employ the Environmental Assessment Form, apply the criteria contained in § 6-06 and consider the lists of actions contained in § 6-15 of this chapter;
+
+   (2) The lead agencies may consult with, and shall receive the cooperation of any other agency before making their determination pursuant to this subdivision (a).
+
+(b) The lead agencies shall provide written notification to the applicant immediately upon determination of whether the action may or will not have a significant effect on the environment. Such determination shall be in one of the following forms:
+
+   (1) Negative Declaration.(Reference to § 6-15, Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13 See Rules 62 RCNY § 5-02(b)(2).) If the lead agencies determine that the proposed action is not an exempt action or a Type II action pursuant to §§ 6-04 and 6-15 of this chapter, respectively, and that the action will not have a significant effect on the environment, they shall issue a Negative Declaration which shall contain the following information:
+
+      (i) an action identifying number;
+
+      (ii) a brief description of the action;
+
+      (iii) the proposed location of the action;
+
+      (iv) a statement that the lead agencies have determined that the action will not have a significant effect on the environment;
+
+      (v) a statement setting forth the reasons supporting the lead agencies' determination.
+
+   (2) Conditional Negative Declaration.(Reference to § 6-15, Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 62 RCNY § 5-02(b)(2).) If the lead agencies determine that the proposed action is not an exempt action or a Type II action pursuant to §§ 6-04 and 6-15 of this chapter, respectively, and that the action will not have a significant effect on the environment if the applicant modifies its proposed action in accordance with conditions or alternatives designed to avoid adverse environmental impacts, they shall issue a Conditional Negative Declaration which shall contain the following information (in addition to the information required for a Negative Declaration pursuant to paragraph (1) of this subdivision):
+
+      (i) a list of conditions, modifications or alternatives to the proposed action which supports the determination;
+
+      (ii) the signature of the applicant or its authorized representative, accepting the conditions, modifications or alternatives to the proposed action;
+
+      (iii) a statement that if such conditions, modifications or alternatives are not fully incorporated into the proposed action, such Conditional Negative Declaration shall become null and void. In such event, a Notice of Determination shall be immediately issued pursuant to paragraph (3) of this subdivision.
+
+   (3) Notice of Determination.(Reference to § 6-15 Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 62 RCNY § 5-02(b)(2).) If the lead agencies determine that the proposed action is not an exempt action or a Type II action pursuant to §§ 6-04 and 6-15 of this chapter, respectively, and that the action may have a significant effect on the environment, they shall issue a Notice of Determination which shall contain the following information:
+
+      (i) an action description number;
+
+      (ii) a brief description of the action;
+
+      (iii) the proposed location of the action;
+
+      (iv) a brief description of the possible significant effects on the environment of the action;
+
+      (v) a request that the applicant prepare or cause to be prepared, at its option, a draft EIS in accordance with §§ 6-08 and 6-12 of this chapter.
+
+(c) (See additional circulation provisions, City Planning Rules 62 RCNY § 5-06(b) and 62 RCNY § 5-06(c). City clerk function transferred to Office of Environ. Coord., City Planning Rules 62 RCNY § 5-02(b)(4).) The lead agencies shall make available for public inspection the Negative Declaration, Conditional Negative Declaration or the Notice of Determination and transmit the same to the applicant, the regional director of the DEC, the commissioner of DEC, the appropriate Community Planning Board(s), the City Clerk, and all other agencies, including federal and state agencies, which may be involved in the proposed action.
+
+
+
+
+
+
+*§ 6-08 Draft Environmental Impact Statements – Responsibility for Preparation.* ::
+
+
+(a) Non-agency applicants.
+
+   (1) (Rules add formal scoping, City Planning Rules 62 RCNY § 5-07. Interested and involved agencies assist with DEIS on request. See City Planning Rules 62 RCNY § 5-05(b)(2).) After receipt of a Notice of Determination pursuant to § 6-07(c)(3) of this chapter, a non-agency applicant shall notify the lead agencies in writing as to whether it will exercise its option to prepare or cause to be prepared a draft EIS, and as to whom it has designated to prepare the draft EIS, provided that no person so designated shall have an investment or employment interest in the ultimate realization of the proposed action;
+
+   (2) (See also City Planning Rules 62 RCNY § 5-05(b)(3) for requirements of lead consultation on mitigations.) the lead agencies may prepare or cause to be prepared a draft EIS for an action involving a non-agency applicant. In such event, the applicant shall provide, upon request, an environmental report to assist the lead agencies in preparing or causing to be prepared the draft EIS and such other information as may be necessary. All agencies shall fully cooperate with the lead agencies in all matters relating to the preparation of the draft EIS.
+
+   (3) if the non-agency applicant does not exercise its option to prepare or cause to be prepared a draft EIS, and the lead agencies do not prepare or cause to be prepared such draft EIS, then the proposed action and review thereof shall terminate.
+
+(b) Agency applicants.
+
+   (1) When an action which may have a significant effect on the environment is initiated by an agency, the initiating agency shall be directly responsible for the preparation of a draft EIS. However, preparation of the draft EIS may be coordinated through the lead agencies.
+
+   (2) (See City Planning Rules 62 RCNY § 5-05(b)(3) for requirements of lead consultation on mitigations.) All agencies, whether or not they may be involved in the proposed action, shall fully cooperate with the lead agencies and the applicant agency in all matters relating to the coordination of the preparation of the draft EIS.
+
+(c) Notwithstanding the provisions contained in subdivisions (a) and (b) of this section, when a draft EIS is prepared, the lead agencies shall make their own independent judgment of the scope, contents and adequacy of such draft EIS.
+
+
+
+
+
+
+*§ 6-09 Environmental Impact Statements – Content.* ::
+
+
+(a) (Lead to be guided by technical standards and methodologies developed by Office of Environ. Coord., City Planning Rules 62 RCNY § 5-04(c).) Environmental impact statements should be clearly written in a brief and concise manner capable of being read and understood by the public. Within the framework presented in subdivision (d) of this section, such statements should deal only with the specific significant environmental impacts which can be reasonably anticipated. They should not contain more detail than is appropriate considering the nature and magnitude of the proposed action and the significance of its potential impacts.
+
+(b) All draft and final EIS's shall include a cover page stating:
+
+   (1) whether it is a draft or a final;
+
+   (2) the name or other descriptive title of the action;
+
+   (3) the location of the action;
+
+   (4) the name and address of the lead agencies and the name and telephone number of a person at the lead agencies to be contacted for further information;
+
+   (5) identification of individuals or organizations which prepared any portion of the statement; and
+
+   (6) the date of its completion.
+
+(c) If a draft or final EIS exceeds ten pages in length, it shall have a table of contents following the cover page.
+
+(d) The body of all draft and final EIS's shall contain at least the following:
+
+   (1) a description of the proposed action and its environmental setting;
+
+   (2) a statement of the environmental impacts of the proposed action, including its short-term and long-term effects, and typically associated environmental effects;
+
+   (3) an identification of any adverse environmental effects which cannot be avoided if the proposed action is implemented;
+
+   (4) a discussion of the social and economic impacts of the proposed action;
+
+   (5) a discussion of alternatives to the proposed action and the comparable impacts and effects of such alternatives;
+
+   (6) an identification of any irreversible and irretrievable commitments of resources which would be involved in the proposed action should it be implemented;
+
+   (7) a description of mitigation measures proposed to minimize adverse environmental impacts;
+
+   (8) a description of any growth-inducing aspects of the proposed action, where applicable and significant;
+
+   (9) a discussion of the effects of the proposed action on the use and conservation of energy, where applicable and significant;
+
+   (10) a list of underlying studies, reports or other information obtained and considered in preparing the statement; and
+
+   (11) (for the final EIS only) copies or a summary of the substantive comments received in response to the draft EIS and the applicant's response to such comments.
+
+(e) An EIS may incorporate by reference all or portions of other documents which contain information relevant to the statement. The referenced documents shall be made available to the public in the same places where copies of the statement are made available. When a statement uses incorporation by reference, the referenced document shall be briefly described and its date of preparation provided.
+
+
+
+
+
+
+*§ 6-10 Draft Environmental Impact Statements – Procedures.* ::
+
+
+(a) Notice of Completion. Upon the satisfactory completion of a draft EIS, the lead agencies shall immediately prepare, file and make available for public inspection a Notice of Completion as provided in paragraphs (1), (2) and (3) of this subdivision. Where a proposed action is simultaneously subject to the Uniform Land Use Review Procedure ("ULURP"), the City Planning Commission shall not certify an application pursuant to ULURP until a Notice of Completion has been filed as provided in paragraph (3) of this subdivision.
+
+   (1) Contents of Notice of Completion. All Notices of Completion shall contain the following:
+
+      (i) an action identifying number;
+
+      (ii) a brief description of the action;
+
+      (iii) the location of the action and its potential impacts and effects; and
+
+      (iv) a statement that comments on the draft EIS are requested and will be received and considered by the lead agencies at their offices. The Notice shall specify the public review and comment period on the draft EIS, which shall be for not less than 30 calendar days from the date of filing and circulation of the notice, or not less than 10 calendar days following the close of a public hearing on the draft EIS, whichever last occurs.
+
+   (2) Transmission, Notice of Completion. All Notices of Completion shall be transmitted to the following:
+
+      (i) all other agencies, including federal and state agencies, involved in the proposed action;
+
+      (ii) all persons who have requested it;
+
+      (iii) the editor of the State Bulletin;
+
+      (iv) the State clearinghouse;
+
+      (v) the appropriate regional clearinghouse designated under the Federal Office of Management and Budget Circular A-95.
+
+   (3) Filing Notice of Completion. All Notices of Completion shall be filed with and made available for public inspection by the following:
+
+      (i) the Commissioner of DEC;
+
+      (ii) the regional director of DEC;
+
+      (iii) the agency applicant, where applicable;
+
+      (iv) the appropriate Community Planning Board(s);
+
+      (v) the City Clerk;
+
+      (vi) the lead agencies.
+
+(b) Filing and availability of draft EIS.(City clerk function transferred to OEC, City Planning Rules 62 RCNY § 5-02(b)(4).) All draft EIS's shall be filed with and made available for public inspection by the same persons and agencies with whom Notices of Completion must be filed pursuant to paragraph (a)(3) of this section.
+
+(c) Public hearings on draft EIS.
+
+   (1) Upon completion of a draft EIS, the lead agencies shall conduct a public hearing on the draft EIS.
+
+   (2) The hearing shall commence no less than 15 calendar days or more than 60 calendar days after the filing of a draft EIS pursuant to subdivision (b) of this section, except where a different hearing date is required as appropriate under another law or regulation.
+
+   (3) Notice of the public hearing may be contained in the Notice of Completion or, if not so contained, shall be given in the same manner in which the Notice of Completion is transmitted and filed pursuant to subdivision (a) of this section. In either case, the notice of hearing shall also be published at least 10 calendar days in advance of the public hearing in a newspaper of general circulation in the area of the potential impact and effect of the proposed action.
+
+   (4) Where a proposed action is simultaneously subject to ULURP, a public hearing conducted by the appropriate community or borough board and/or the City Planning Commission pursuant to ULURP shall satisfy the hearing requirement of this section. Where more than one hearing is conducted by the aforementioned bodies, whichever hearing last occurs shall be deemed the hearing for purposes of this chapter.
+
+
+
+
+
+
+*§ 6-11 Final Environmental Impact Statements – Procedures.* ::
+
+
+(a)    (Interested and involved agencies assist with FEIS on request, City Planning Rules 62 RCNY § 5-05(b)(2).) Except as provided in paragraph (1) of this subdivision, the lead agencies shall prepare or cause to be prepared a final EIS within 30 calendar days after the close of a public hearing.
+
+   (1) If the proposed action has been withdrawn or if, on the basis of the draft EIS and the hearing, the lead agencies have determined that the action will not have a significant effect on the environment, no final EIS shall be prepared. In such cases, the lead agencies shall prepare, file and transmit a Negative Declaration as prescribed in § 6-07 of this chapter.
+
+   (2) The final EIS shall reflect a revision and updating of the matters contained in the draft EIS in light of further review by the lead agencies, comments received and the record of the public hearing.
+
+(b) Immediately upon the completion of a final EIS, the lead agencies shall prepare, file, transmit and make available for public inspection a Notice of Completion of a final EIS in a manner specified in § 6-11(a) of this chapter, provided, however, that the Notice shall not contain the statement described in subparagraph (a)(1)(iv) of such section.
+
+(c) Immediately upon completion of a final EIS, it shall be filed and made available for public inspection in the same manner as the draft EIS pursuant to § 6-11(b) of this chapter.
+
+
+
+
+
+
+*§ 6-12 Agency Decision Making.* ::
+
+
+(a) No final decision to carry out or approve an action which may have a significant effect on the environment shall be made until after the filing and consideration of a final EIS.
+
+   (1) (Inapplicable, City Planning Rules, 62 RCNY § 5-02(a).)
+
+   (2) (Inapplicable, City Planning Rules, 62 RCNY § 5-02(a).)
+
+(b) When an agency decides to carry out or approve an action which may have a significant effect on the environment, it shall make the following findings in a written decision:
+
+   (1) consistent with social, economic and other essential considerations of state and city policy, from among the reasonable alternatives thereto, the action to be carried out or approved is one which minimizes or avoids adverse environmental effects to the maximum extent possible, including the effects disclosed in the relevant environmental impact statement;
+
+   (2) consistent with social, economic and other essential considerations of state and city policy, all practicable means will be taken in carrying out or approving the action to minimize or avoid adverse environmental effects.
+
+(c) For public information purposes, the Decision shall be filed in the same manner as the draft EIS pursuant to § 6-11(b) of this chapter.
+
+
+
+
+
+
+*§ 6-13 Programmatic Environmental Impact Statements.* ::
+
+
+(a) Whenever possible, agencies shall identify programs or categories of actions, particularly projects or plans which are wide in scope or implemented over a long time frame, which would most appropriately serve as the subject of a single EIS. Broad program statements, master or area wide statements, or statements for comprehensive plans are often appropriate to assess the environmental effects of the following:
+
+   (1) a number of separate actions in a given geographic area;
+
+   (2) a chain of contemplated actions;
+
+   (3) separate actions having generic or common impacts;
+
+   (4) programs or plans having wide application or restricting the range of future alternative policies or projects.
+
+(b) No further EIS's need be prepared for actions which are included in a programmatic EIS prepared pursuant to subdivision (a) of this section. However:
+
+   (1) a programmatic EIS shall be amended or supplemented to reflect impacts which are not addressed or adequately analyzed in the EIS as originally prepared; and
+
+   (2) actions which significantly modify a plan or program which has been the subject of an EIS shall require a supplementary EIS;
+
+   (3) programmatic EIS's requiring amendment and actions requiring supplementary EIS's pursuant to this section shall be processed in full compliance with the requirements of this chapter.
+
+
+
+
+
+
+*§ 6-14 Rules and Regulations.* ::
+
+
+(Inapplicable, City Planning Rules 62 RCNY § 5-02(a).)
+
+
+
+
+
+
+*§ 6-15 Lists of Actions.* ::
+
+
+(a) Type I.(See City Planning Rules 62 RCNY § 5-02(d).) Type I actions enumerated in § 617.12 of 6 NYCRR 617 are likely to, but will not necessarily, require the preparation of an EIS because they will in almost every instance significantly affect the environment. However, ministerial actions never require the preparation of an EIS except where such actions may directly affect a critical area or an historic resource enumerated in paragraphs (22) and (23), respectively, of subdivision (a) of § 617.12. In addition, for the purpose of defining paragraph (2) of said subdivision and section, the following thresholds shall apply:
+
+   (1) relating to public institutions:
+
+      (i) new correction or detention centers with an inmate capacity of at least 200 inmates;
+
+      (ii) new sanitation facilities, including:
+
+         (A) incinerators of at least 250 tons per day capacity;
+
+         (B) garages with a capacity of more than 50 vehicles;
+
+         (C) marine transfer stations;
+
+      (iii) new hospital or health related facilities containing at least 100,000 sq. ft. of floor area;
+
+      (iv) new schools with seating capacity of at least 1,500 seats;
+
+      (v) any new community or public facility not otherwise specified herein, containing at least 100,000 sq. ft. of floor area, or the expansion of an existing facility by more than 50 percent of size or capacity, where the total size of an expanded facility exceeds 100,000 sq. ft. of floor area.
+
+   (2) relating to major office centers: any new office structure which has a minimum of 200,000 sq. ft. of floor area and exceeds permitted floor area under existing zoning by more than 20 percent, or the expansion of an existing facility by more than 50 percent of floor area, where the total size of an expanded facility exceeds 240,000 sq. ft. of floor area.
+
+(b) Type II.
+
+   (1) (See City Planning Rules 62 RCNY § 5-02(d).) Type II actions will never require the preparation of an EIS because they are determined not to have a significant effect on the environment, except where such actions may directly affect a critical area or an historic resource enumerated in paragraphs (22) and (23), respectively, of subdivision (a) of § 617.12 of 6 NYCRR 617.
+
+   (2) (Inapplicable. Replaced by State Type II list 6 NYCRR Part 617.13. See City Planning Rules 62 RCNY § 5-02(a) and 62 RCNY § 5-02(b)(2).)
+
+
 
 
 
@@ -1317,7 +1826,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 (a) Department Review. Each proposed plan shall be reviewed by the Department staff who shall report to the Commission not later than 90 days after the plan's submission as to whether the plan appears to meet the standards for form and content and for consistency with sound planning, as set forth in 62 RCNY § 6-04. Prior to making the report, the staff shall inform the sponsor of all deficiencies with respect to form and content and any changes, additions or deletions which, in the opinion of the staff, may correct such deficiencies. The sponsor may, thereupon, indicate its willingness to make such changes, additions or deletions in which case the Department will defer its report to the Commission until the changes have been made. The sponsor may, instead, request that the plan be presented without change to the Commission for its threshold findings of form and content and sound planning policy. At the time of any Department report on a proposed plan, the Commission may receive a similar report from representatives of the sponsor.
 
-(b) City Planning Commission Determination. Within 30 days after its presentation by the Department staff, the Commission shall determine, when required by the Charter and in accordance with the standards set forth in 63 RCNY § 6-04, whether the proposed plan is of appropriate form and sufficient content, and whether it is in accordance with sound planning policy. If the Commission has determined that a proposed plan does not meet the standards for form or content or for sound planning policy, it shall direct the plan back to the sponsor with a statement explaining its deficiencies. When the Commission has determined that a proposed plan is of appropriate form and content and is in accordance with sound planning policy, it shall direct the Department to undertake the necessary environmental review if the plan has been sponsored by a community board in accordance with 62 RCNY Ch. 5. If the plan has been sponsored by an agency other than a community board the Commission shall determine whether a Type II declaration, a negative declaration, or a notice of completion of a draft EIS has been issued, and if so, it shall direct the Department to distribute the plan in accordance with 62 RCMU § 6-06.
+(b) City Planning Commission Determination. Within 30 days after its presentation by the Department staff, the Commission shall determine, when required by the Charter and in accordance with the standards set forth in 63 RCNY § 6-04, whether the proposed plan is of appropriate form and sufficient content, and whether it is in accordance with sound planning policy. If the Commission has determined that a proposed plan does not meet the standards for form or content or for sound planning policy, it shall direct the plan back to the sponsor with a statement explaining its deficiencies. When the Commission has determined that a proposed plan is of appropriate form and content and is in accordance with sound planning policy, it shall direct the Department to undertake the necessary environmental review if the plan has been sponsored by a community board in accordance with 62 RCNY Chapter 5. If the plan has been sponsored by an agency other than a community board the Commission shall determine whether a Type II declaration, a negative declaration, or a notice of completion of a draft EIS has been issued, and if so, it shall direct the Department to distribute the plan in accordance with 62 RCMU § 6-06.
 
 (c) Coordination of Plan Review. The Commission may determine that, despite its finding of appropriate form and content and sound planning policy, a proposed plan should not immediately proceed because there are other planning efforts, ULURP reviews or environmental studies underway which should be coordinated with the plan. In such a case, the Commission may direct the Department to work with the sponsor and any other interested agencies in developing an appropriate timetable and strategy for the plan, and to report back to the Commission.
 
@@ -1333,7 +1842,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 *§ 6-04 Standards.* ::
 
 
-(a) [;Plan Form and Content];. The form and content of all proposed plans shall be consistent with the following:
+(a) Plan Form and Content. The form and content of all proposed plans shall be consistent with the following:
 
    (1) A plan may take the form of a comprehensive or master plan for a neighborhood, community district, borough or other broad geographic area of the city. Such a plan would combine elements related to housing, industrial and commercial uses, transportation, land use regulation, open space, recreation, community facilities and other infrastructure and service improvements which promote the orderly growth, improvement and future development of the community, borough or city.
 
@@ -1456,7 +1965,7 @@ A concession shall be considered a major concession and therefore subject to §�
 
 (a) it has been determined pursuant to City Environmental Quality Review to require an Environmental Impact Statement, or
 
-(b) except as provided in § 7-03, the concession will cause one or more of the thresholds set forth in § 7-02 to be exceeded.
+(b) except as provided in 62 RCNY § 7-03, the concession will cause one or more of the thresholds set forth in 62 RCNY § 7-02 to be exceeded.
 
 
 
@@ -1508,7 +2017,7 @@ Notwithstanding any other provision of these rules the following shall not be co
 
 (c) Reuse of former amusement park lands for amusement or recreational purposes;
 
-(d) Any renewal, reissuance, extension, amendment of an existing concession or issuance of a new concession which continues a currently existing use or which permits a use which existed lawfully on the property at any point in the preceding two years, whether operated by a private or public entity, provided that any extension or amendment or the cumulative effect of any amendments or extensions made over any five year period does not include modifications which when added to the existing concession, cause any threshold of § 7-02 to be exceeded and increase the size of an existing concession by ten percent or more;
+(d) Any renewal, reissuance, extension, amendment of an existing concession or issuance of a new concession which continues a currently existing use or which permits a use which existed lawfully on the property at any point in the preceding two years, whether operated by a private or public entity, provided that any extension or amendment or the cumulative effect of any amendments or extensions made over any five year period does not include modifications which when added to the existing concession, cause any threshold of 62 RCNY § 7-02 to be exceeded and increase the size of an existing concession by ten percent or more;
 
 (e) A concession for which authorization to use a different procedure was granted or obtained, or which is operated under an agreement executed, prior to the effective date of this major concession rule;
 
@@ -1531,7 +2040,7 @@ Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursua
 *§ 8-01 Purpose.* ::
 
 
-These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to Section 93-82 of the Zoning Resolution (ZR).
+These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to § 93-82 of the Zoning Resolution (ZR).
 
 
 
@@ -1573,14 +2082,14 @@ These rules of procedure are established for the review of applications for cert
 *§ 8-04 Certification for Permitted Parking Spaces.* ::
 
 
-(a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR Section 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR Section 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR Section 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
+(a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR § 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR § 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR § 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
 
-(b) Applicant Reduces Existing Spaces On Site. Notwithstanding the provisions of paragraph (a), if an applicant intends to eliminate existing parking spaces at the site that is the subject of the application, a certification for permitted parking spaces may be granted to the extent that elimination of existing parking spaces allows such determination to be made pursuant to ZR Section 93-821 (e)(1) and (2), provided: (i) that such existing parking spaces shall be eliminated prior to issuance of the certification. The elimination of such existing parking spaces shall be evidenced by: (aa) an acknowledgement from the New York City Department of Consumer Affairs that license(s) issued by such agency for the operation of public parking at the site have been surrendered or, if such license(s) are pending renewal at the time, that the licensee has stated to the New York City Department of Consumer Affairs in writing that the license(s) will not be renewed; or (bb) if the licensee is no longer in control of the premises, in the form of an affidavit from the owner or applicant attesting to the fact that the licensee is not in control of the premises and is not authorized to operate at the premises; and (ii) a restrictive declaration executed by all parties-in-interest, as such term is defined in ZR Section 12-10, providing that any resumption of use of the eliminated spaces prior to or during construction shall be prohibited, has been recorded in the office of the City Register. If the number of parking spaces requested in the application exceeds the number of permitted spaces available by reason of the elimination of existing spaces, any subsequent certifications with respect to additional spaces shall be made in accordance with the provisions of paragraph (a) above.
-
-
+(b) Applicant Reduces Existing Spaces On Site. Notwithstanding the provisions of paragraph (a), if an applicant intends to eliminate existing parking spaces at the site that is the subject of the application, a certification for permitted parking spaces may be granted to the extent that elimination of existing parking spaces allows such determination to be made pursuant to ZR § 93-821 (e)(1) and (2), provided: (i) that such existing parking spaces shall be eliminated prior to issuance of the certification. The elimination of such existing parking spaces shall be evidenced by: (aa) an acknowledgement from the New York City Department of Consumer Affairs that license(s) issued by such agency for the operation of public parking at the site have been surrendered or, if such license(s) are pending renewal at the time, that the licensee has stated to the New York City Department of Consumer Affairs in writing that the license(s) will not be renewed; or (bb) if the licensee is no longer in control of the premises, in the form of an affidavit from the owner or applicant attesting to the fact that the licensee is not in control of the premises and is not authorized to operate at the premises; and (ii) a restrictive declaration executed by all parties-in-interest, as such term is defined in ZR § 12-10, providing that any resumption of use of the eliminated spaces prior to or during construction shall be prohibited, has been recorded in the office of the City Register. If the number of parking spaces requested in the application exceeds the number of permitted spaces available by reason of the elimination of existing spaces, any subsequent certifications with respect to additional spaces shall be made in accordance with the provisions of paragraph (a) above.
 
 
-Chapter 9: Rules For the Processing of Applications For Certification To Allow A Limited Increase In Street Wall Width Pursuant To Section 132-51 of the Zoning Resolution
+
+
+Chapter 9: Rules For the Processing of Applications For Certification To Allow A Limited Increase In Street Wall Width Pursuant To § 132-51 of the Zoning Resolution
 --------------------------------------------------
 
 
@@ -1588,7 +2097,7 @@ Chapter 9: Rules For the Processing of Applications For Certification To Allow A
 *§ 9-01 Purpose.* ::
 
 
-These rules of procedure are established for the review of applications for Certification to Allow a Limited Increase in Street Wall Width pursuant to Section 132-51 of the Zoning Resolution (ZR).
+These rules of procedure are established for the review of applications for Certification to Allow a Limited Increase in Street Wall Width pursuant to § 132-51 of the Zoning Resolution (ZR).
 
 
 
@@ -1598,7 +2107,7 @@ These rules of procedure are established for the review of applications for Cert
 *§ 9-02 Pre-Filing Process.* ::
 
 
-(a) The applicant must submit for review a draft application which must include material required by the Department of City Planning ("the Department") demonstrating the information and items set forth in ZR Section 132-51. Draft applications must be submitted to the specific division of the Department that is designated on the application form for receipt of an application filed pursuant to ZR Section 132-51, by submission to the division so named on the application form at the New York City Department of City Planning. Upon receipt, the Department will record the date and time of receipt.
+(a) The applicant must submit for review a draft application which must include material required by the Department of City Planning ("the Department") demonstrating the information and items set forth in ZR § 132-51. Draft applications must be submitted to the specific division of the Department that is designated on the application form for receipt of an application filed pursuant to ZR § 132-51, by submission to the division so named on the application form at the New York City Department of City Planning. Upon receipt, the Department will record the date and time of receipt.
 
 (b) The Department will review each draft application for accuracy and completeness in order of receipt. The Department will notify the applicant in order of receipt whether the draft application is complete and may be filed in accordance with the provisions of 62 RCNY § 9-03, or whether the draft application is incomplete and requires revision. Such notification will be provided via the delivery method identified by the applicant on the application form, and will include a specification of the portions of the application that are incorrect or incomplete and require revision, if applicable.
 
@@ -1626,7 +2135,7 @@ Filing. Following notification pursuant to 62 RCNY § 9-02(b) or (c) that a draf
 *§ 9-04 Review and Certification of Applications.* ::
 
 
-For applications for establishments within the same set of applicable geographic boundaries as set forth in ZR Section 132-51(c), review and certification of applications will be made in the order of application filing date and time. As set forth in ZR Section 132-51(c), the set of applicable geographic boundaries means the same block frontage containing the applicant's establishment, the block frontage directly across the street from the block containing such establishment, and the blocks fronting on the commercial street immediately adjacent to the north and south of the block containing the applicant's establishment.
+For applications for establishments within the same set of applicable geographic boundaries as set forth in ZR § 132-51(c), review and certification of applications will be made in the order of application filing date and time. As set forth in ZR § 132-51(c), the set of applicable geographic boundaries means the same block frontage containing the applicant's establishment, the block frontage directly across the street from the block containing such establishment, and the blocks fronting on the commercial street immediately adjacent to the north and south of the block containing the applicant's establishment.
 
 
 
@@ -1636,9 +2145,9 @@ For applications for establishments within the same set of applicable geographic
 *§ 9-05 Lapse of Certification.* ::
 
 
-(a) Effect of Lapse. If a certification granted pursuant to ZR Section 132-51 lapses in accordance with the provisions set forth in the final paragraph of that section, or if an authorization granted pursuant to ZR Section 132-52 lapses in accordance with the provisions set forth in ZR Section 11-42, the effect of such lapse is that the underlying application for such certification or authorization will not be considered an "approved application" for purposes of ZR Section 132-51(c)(2).
+(a) Effect of Lapse. If a certification granted pursuant to ZR § 132-51 lapses in accordance with the provisions set forth in the final paragraph of that section, or if an authorization granted pursuant to ZR § 132-52 lapses in accordance with the provisions set forth in ZR § 11-42, the effect of such lapse is that the underlying application for such certification or authorization will not be considered an "approved application" for purposes of ZR § 132-51(c)(2).
 
-(b) Substantial Construction. For purposes of ZR Section 132-51, the term "substantial construction" means that the entirety of the interior space associated with the extension pursuant to the certification has been combined, has been made a part of the operations of the enlarged establishment, and remains open to customers from any and all doorways located along the approved retail frontage, except that entrances serving portions of the establishment reserved for employees only do not need to be open to customers.
+(b) Substantial Construction. For purposes of ZR § 132-51, the term "substantial construction" means that the entirety of the interior space associated with the extension pursuant to the certification has been combined, has been made a part of the operations of the enlarged establishment, and remains open to customers from any and all doorways located along the approved retail frontage, except that entrances serving portions of the establishment reserved for employees only do not need to be open to customers.
 
 
 
@@ -1651,7 +2160,7 @@ Chapter 10: Pre-application Process: Submission and Meeting Participation Requir
 *§ 10-01 Purpose.* ::
 
 
-These rules establish submission and meeting participation requirements ("Pre-Application Process") prior to the filing of land use applications pursuant to the Zoning Resolution and Sections 197-a, 197-c, 197-d, 199, 200, and 201 of the New York City Charter or of applications for environmental review pursuant to 62 RCNY Ch. 5. The purpose of these rules is to:
+These rules establish submission and meeting participation requirements ("Pre-Application Process") prior to the filing of land use applications pursuant to the Zoning Resolution and §§ 197-a, 197-c, 197-d, 199, 200, and 201 of the New York City Charter or of applications for environmental review pursuant to 62 RCNY Chapter 5. The purpose of these rules is to:
 
 (a) assist potential applicants or their designated representatives ("Applicants") and the Department of City Planning ("Department") in identifying the land use and environmental issues related to a proposed project and the land use applications and applications for environmental review necessary to facilitate the proposed project; and
 
@@ -1863,9 +2372,364 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 *§ 10-10 Filing of Application for Environmental Review.* ::
 
 
-(a) After an Applicant receives notification pursuant to 62 RCNY § 10-08(b) that it may proceed to file an application for environmental review, the Applicant may file such application pursuant to 62 RCNY Ch. 5.
+(a) After an Applicant receives notification pursuant to 62 RCNY § 10-08(b) that it may proceed to file an application for environmental review, the Applicant may file such application pursuant to 62 RCNY Chapter 5.
 
 (b) Notwithstanding subdivision (a) of this section, an Applicant may proceed with filing an application for environmental review where otherwise provided in this chapter.
+
+
+
+
+APPENDIX A TO TITLE 62: CRITERIA FOR THE LOCATION OF CITY FACILITIES*
+--------------------------------------------------
+
+
+
+*Preface* ::
+
+
+These criteria are intended to guide the siting of city facilities, as provided by Section 203 of the City Charter. The fair distribution of city facilities will depend on balancing a number of factors, such as community needs for services, efficient and cost effective delivery of those services, effects on community stability and revitalization, and broad geographic distribution of facilities. Furthermore, these factors can be weighed more effectively, and siting decisions can be accepted more readily, when communities have been meaningfully informed and consulted early in the siting process. The intent of these guidelines is to improve, not to obstruct, the process of siting facilities.
+
+Under the provisions of Section 204 of the Charter, the Mayor will prepare an annual Statement of Needs in accordance with these criteria. The Statement of Needs will provide early notice of facility proposals to Borough Presidents, Community Boards, and the public at large. It will be accompanied by a map and text indicating the location and current use of all city properties and of state and federal facilities, as designated by the Charter. This will allow the public and city agencies to assess the existing distribution of facilities and analyze factors of compatibility and concentration. Section 204 also provides procedures for public review and comment on the Statement of Needs, permits Borough Presidents to propose locations for city facilities, and requires city agencies to consider the statements that ensue from that review. Those provisions, together with these criteria, should provide a more open and systematic process for the consideration of facility sites.
+
+The criteria will have several applications in the Section 204 proceedings. The Mayor and city agencies will use them in formulating plans for facilities. Community Boards will refer to them in commenting on the Statement of Needs, and Borough Presidents will employ them in recommending specific sites for facilities. The City Planning Commission will consider them in acting on site selection and acquisition proposals subject to the Uniform Land Use Review Procedure (ULURP) and in the review of city office sites pursuant to Section 195 of the Charter. Sponsoring agencies will also observe them in actions that do not proceed through ULURP such as city contracts, facility reductions, and closings. Although recognizing that non-city agencies are not subject to these criteria, the Commission encourages all such agencies to consider the factors identified in these criteria when they are siting facilities in this city.
+
+Since the principles and procedures contained in these guidelines are new and untested, it is important to monitor and evaluate their effects. The Department of City Planning will undertake this evaluation and report its findings to the Commission and the Mayor within twenty-four months of adoption and periodically thereafter.
+
+
+
+
+
+
+*Article 1 Authority.* ::
+
+
+Pursuant to Section 203 of the New York City Charter, the City Planning Commission is authorized to establish criteria for the location of new city facilities, the significant expansion of existing facilities, and the closing or significant reduction in size or service capacity of existing facilities.
+
+
+
+
+
+
+*Article 2 Purpose and Goals.* ::
+
+
+The purpose of these criteria is to foster neighborhood stability and revitalization by furthering the fair distribution among communities of city facilities. Toward this end, the city shall seek to:
+
+a) Site facilities equitably by balancing the considerations of community needs for services, efficient and cost-effective service delivery, and the social, economic, and environmental impacts of city facilities upon surrounding areas;
+
+b) Base its siting and service allocation proposals on the city's long-range policies and strategies, sound planning, zoning, budgetary principles, and local and citywide land use and service delivery plans;
+
+c) Expand public participation by creating an open and systematic planning process in which communities are fully informed, early in the process, of the city's specific criteria for determining the need for a given facility and its proposed location, the consequences of not taking the proposed action, and the alternatives for satisfying the identified need;
+
+d) Foster consensus building to avoid undue delay or conflict in siting facilities providing essential city services;
+
+e) Plan for the fair distribution among communities of facilities providing local or neighborhood services in accordance with relative needs among communities for those services;
+
+f) Lessen disparities among communities in the level of responsibility each bears for facilities serving citywide or regional needs;
+
+g) Preserve the social fabric of the city's diverse neighborhoods by avoiding undue concentrations of institutional uses in residential areas; and
+
+h) Promote government accountability by fully considering all potential negative effects, mitigating them as much as possible, and monitoring neighborhood impacts of facilities once they are built.
+
+
+
+
+
+
+*Article 3 Definitions.* ::
+
+
+For purposes of these rules, the following definitions apply.
+
+a) City facility: A facility providing city services whose location, expansion, closing or reduction in size is subject to control and supervision by a city agency, and which is:
+
+   (i) operated by the city on property owned or leased by the city which is greater than 750 square feet in total floor area; or
+
+   (ii) used primarily for a program or programs operated pursuant to a written agreement on behalf of the city which derives at least 50 percent and at least $50,000 of its annual funding from the city.
+
+b) New facility: A city facility newly established as a result of an acquisition, lease, construction, or contractual action or the substantial change in use of an existing facility.
+
+c) Residential facility: A city facility with sleeping accommodations which provides temporary or transitional housing, provides for pre-trial detention or custody of sentenced inmates, or provides a significant amount of on-site support services for residents with special needs for supervision, care, or treatment.
+
+d) Local or neighborhood facility: A city facility serving an area no larger than a community district or local service delivery district (pursuant to Section 2704 of the Charter), in which the majority of persons served by the facility live or work (see Attachment A).
+
+e) Regional or citywide facility: A facility which serves two or more community districts or local service delivery districts, an entire borough, or the city as a whole and which may be located in any of several different areas consistent with the specific criteria for that facility as described in the Citywide Statement of Needs pursuant to Section 204 of the Charter (see Attachment B).
+
+f) Significant expansion: An addition of real property by purchase, lease or interagency transfer, or construction of an enlargement, which would expand the lot area, floor area or capacity of a city facility by 25 percent or more and by at least 500 square feet. An expansion of less that 25 percent shall be deemed significant if it, together with expansions made in the prior three-year period, would expand the facility by 25 percent or more and by at least 500 square feet.
+
+g) Significant reduction: A surrender or discontinuance of the use of real property that would reduce the size or capacity to deliver service of a city facility by 25 percent or more. A reduction of less than 25 percent shall be deemed significant if it, together with reductions made in the prior three-year period, would reduce the facility by 25 percent or more.
+
+
+
+
+
+
+*Article 4 Criteria for Siting or Expanding Facilities.* ::
+
+
+The following criteria and procedures apply to the siting of all new facilities other than administrative offices and data processing facilities ar.d the significant expansion of such facilities.
+
+4.1 The sponsoring agency and, for actions subject to the Uniform Land Use Review Procedure (ULURP) or review pursuant to Section 195 of the Charter, the City Planning Commission, shall consider the following criteria:
+
+a) Compatibility of the facility with existing facilities and programs, both city and non-city, in the immediate vicinity of the site.
+
+b) Extent to which neighborhood character would be adversely affected by a concentration of city and/or non-city facilities.
+
+c) Suitability of the site to provide cost-effective delivery of the intended services. Consideration of sites shall include properties not under city ownership, unless the agency provides a written explanation of why it is not reasonable to do so in this instance.
+
+d) Consistency with the locational and other specific criteria for the facility identified in the Statement of Needs or, if the facility is not listed in the Statement, in a subsequent submission to a Borough President.
+
+e) Consistency with any plan adopted pursuant to Section 197-a of the Charter.
+
+4.2Procedures for Consultation. In formulating its facility proposals, the sponsoring agency shall:
+
+a) Consider the Mayor's and Borough President's stategic policy statements, the Community Board's Statement of District Needs and Budget Priorities, and any published Department of City Planning land use plan for the area.
+
+b) Consider any comments received from the Community Boards or Borough Presidents and any alternative sites proposed by a Borough President pusuant to Section 204(f) of the Charter, as well as any comments or recommendations received in any meetings, consultations or communications with the Community Boards or Borough Presidents. If the Statement of Needs has identified the community district where a proposed facility would be sited, then, upon the written request of the affected Community Board, the sponsoring agency should attend the Board's hearing on the Statement. If the community district is later identified, then the sponsoring agency shall at that point notify the Community Board and offer to meet with the board or its designee to discuss the proposed program.
+
+
+
+
+
+
+*Article 5 Criteria for Siting or Expanding Local/Neighborhood Facilities.* ::
+
+
+In addition to the criteria and procedures stated in Article 4, the following criteria and procedures apply to the siting of new local or neighborhood facilities other than administrative offices and data processing facilities, and the significant expansion of such facilities (see Attachment A).
+
+5.1 The sponsoring agency and, for actions subject to ULURP or review pursuant to Section 195 of the Charter, the City Planning Commission, shall consider the following criteria:
+
+a) Need for the facility or expansion in the community or local service delivery district. The sponsoring agency should prepare an analysis which identifies the conditions or characteristics that indicate need within a local area (e.g., infant mortality rates, facility utilization rates, emergency response time, parkland/population ratios) and which assesses relative needs among communities for the service provided by the facility. New or expanded facilities should, wherever possible, be located in areas with low ratios of service supply to service demand.
+
+b) Accessibility of the site to those it is intended to serve.
+
+5.2 A Community Board may choose to designate or establish a committee to monitor selected local facilities after siting approval pursuant to these criteria. Following site selection and approval for such a facility, the sponsoring agency and Community Board shall jointly establish a mutually acceptable procedure by which the agency periodically reports to the committee regarding the plans and procedures that may affect the compatibility of the facility with the surrounding community and responds to community concerns.
+
+
+
+
+
+
+*Article 6 Criteria for Siting or Expanding Regional/Citywide Facilities.* ::
+
+
+In addition to the criteria and procedures stated in Article 4, the following criteria and procedures apply to the siting of new regional and citywide facilities other than administrative offices and data processing facilities, and the significant expansion of such facilities (see Attachment B).
+
+6.1 The sponsoring agency and, for actions subject to ULURP or review pursuant to Section 195 of the Charter, the City Planning Commission, shall consider the following criteria:
+
+a) Need for the facility or expansion. Need shall be established in a citywide or borough-wide service plan or, as applicable, by inclusion in the city's ten-year capital strategy, four-year capital program, or other analyses of service needs.
+
+b) Distribution of similar facilities throughout the city. To promote the fair geographic distribution of facilities, the sponsoring agency should examine the distribution among the boroughs of existing and proposed facilities, both city and non-city, that provide similar services, in addition to the availability of appropriately zoned sites.
+
+c) Size of the facility. To lessen local impacts and increase broad distribution of facilities, the new facility or expansion should not exceed the minimum size necessary to achieve efficient and cost-effective delivery of services to meet existing and projected needs.
+
+d) Adequacy of the streets and transit to handle the volume and frequency of traffic generated by the facility.
+
+6.2 Where practicable, the Mayor may initiate and sponsor a consensus building process to determine the location of a proposed regional facility. A Borough President may submit a written request for such a process if the request is made within 90 days of publication of the Statement of Needs or, if the facility is not listed in the Statement, within 30 days of a subsequent submission to the Borough President.
+
+In the consensus building process, representatives of affected interests will convene to assess potential sites in accordance with these criteria and the specific criteria set forth in the Statement of Needs. The participants may include but need not be limited to representatives of the Mayor, the sponsoring agency, the Borough President(s), and the affected Community Board(s). The participants may review any issue relevant to site selection under these criteria. The process shall be completed within a reasonable time period to be determined by the Mayor. If location of the facility is subject to ULURP, the process shall be completed prior to submission of a ULURP application. If the participants (including the sponsoring agency) reach consensus, the agency will submit whatever agreements were reached regarding the facility and site to the City Planning Commission as part of its ULURP application for the site. If no such consensus is reached, the sponsoring agency may initiate ULURP, if applicable, for its proposed site.
+
+6.3 Upon the request of the Borough President and/or Community Board, a sponsoring agency and Community Board shall establish a facility monitoring committee, or designate an existing Community Board committee, to monitor a facility following selection and approval of its site. The agency shall inform the committee of plans and procedures that may affect the compatibility of the facility with the surrounding community. Once the facility is constructed, the sponsoring agency shall meet with the committee according to a schedule established by the committee and agency to report on the status of those plans and procedures and to respond to community concerns. The committee may also submit reports to the agency head addressing outstanding issues. The agency head shall respond to the committee's report within 45 days and shall identify the actions, if any, that the agency plans in response to such concerns.
+
+6.4 Transportation and Waste Management Facilities. Transportation and waste management facilities (see Attachment B) are subject to the following criteria in addition to those stated in Article 4 and Sections 6.1, 6.2, and 6.3.
+
+6.41 The proposed site should be optimally located to promote effective service delivery in that any alternative site actively considered by the sponsoring agency or identified pursuant to Section 204(f) of the Charter would add significantly to the cost of constructing or operating the facility or would significantly impair effective service delivery.
+
+6.42 In order to avoid aggregate noise, odor, or air quality impacts on adjacent residential areas, the sponsoring agency and the City Planning Commission, in its review of the proposal, shall take into consideration the number and proximity of existing city and non-city facilities, situated within approximately a one-half mile radius of the proposed site, which have similar environmental impacts.
+
+6.5 Residential Facilities. Regional or citywide residential facilities (see Attachment B) are subject to the following criteria in addition to those stated in Article 4 and Sections 6.1, 6.2, and 6.3.
+
+6.51 Undue concentration or clustering of city and non-city facilities providing similar services or serving a similar population should be avoided in residential areas.
+
+6.52 Necessary support services for the facility and its residents should be available or provided.
+
+6.53 In community districts with a high ratio* of residential facility beds to population, the proposed siting shall be subject to the following additional considerations:
+
+   a) Whether the facility, in combination with other similar city and non-city facilities within a defined area surrounding the site (approximately a half-mile radius, adjusted for significant physical boundaries), would have a significant cumulative negative impact on neighborhood character.
+
+   b) Whether the site is well located for efficient service delivery.
+
+   c) Whether any alternative sites actively considered by the sponsoring agency or identified pursuant to Section 204(f) of the Charter which are in community districts with lower ratios of residential facility beds to population than the citywide average would add significantly to the cost of constructing or operating the facility or would impair service delivery.
+
+To facilitate this evaluation, the Department of City Planning will publish annually an index of the number of beds per thousand population, by type of residential facility (as set forth in Appendix C) and overall, in each community district. The index will be based upon the number of beds in all city, state, federal, and private facilities in operation or approved for operation.
+
+
+
+
+
+
+*Article 7 Criteria for Siting or Expanding Administrative Offices and Data Processing Facilities.* ::
+
+
+The following criteria apply to the siting of new city administrative offices and data processing facilities and the significant expansion of such facilities, pursuant to Section 195 of the City Charter.
+
+7.1 The sponsoring agency and the City Planning Commission shall consider the following criteria:
+
+a) Suitability of the site to provide cost-effective operations.
+
+b) Suitability of the site for operational efficiency, taking into consideration its accessibility to staff, the public and/or other sectors of city government.
+
+c) Consistency with the locational and other specific criteria for the facility stated in the Statement of Needs.
+
+d) Whether the facility can be located so as to support development and revitalization of the city's regional business districts without constraining operational efficiency.
+
+
+
+
+
+
+*Article 8 Criteria for Closing or Reducing Facilities.* ::
+
+
+The following criteria and procedures apply to the closing of existing facilities and the significant reduction in size or capacity to deliver service of existing facilities.
+
+8.1 The sponsoring agency shall consider the following criteria:
+
+a) The extent to which the closing or reduction would create or significantly increase any existing imbalance among communities of service levels relative to need. Wherever possible, such actions should be proposed for areas with high ratios of service supply to service demand.
+
+b) Consistency with the specific criteria for selecting the facility for closure or reduction as identified in the Statement of Needs.
+
+8.2 In proposing facility closings or reductions, the sponsoring agency shall consult with the affected Community Board(s) and Borough President about the alternatives within the district or borough, if any, for achieving the planned reduction and the measures to be taken to ensure adequate levels of service.
+
+
+
+
+
+
+*Article 9 Actions not Subject to the Uniform Land Use Review Procedure or Section 195.* ::
+
+
+9.1 Whenever an agency takes an action with respect to a city facility that is subject to these criteria but is not subject to ULURP or to Charter Section 195 review, the agency shall submit a statement to the Mayor, with copies to the affected Community Board(s), Borough President, and Department of City Planning, which describes the agency's consideration and application of the relevant sections of these criteria, and states the reasons for any inconsistencies.
+
+
+
+
+
+
+*Attachment A* ::
+
+
+Local / Neighborhood Facilities*
+
+Branch libraries
+
+Community cultural programs
+
+Community health/mental health services
+
+Community-based social programs
+
+Day care centers
+
+Drop-off recycling centers
+
+Employment centers
+
+Fire stations
+
+Local, non-residential drug prevention and/or treatment centers
+
+Local parks
+
+Parking lots/garages
+
+Police precincts
+
+Sanitation garages
+
+Senior centers
+
+* List is illustrative and should not be considered to include all such facilities.
+
+
+
+
+
+
+*Attachment B* ::
+
+
+Regional / Citywide Facilities:*
+
+Administrative offices
+
+Courts
+
+Data processing facilities
+
+Department of Health centers
+
+Income maintenance centers
+
+Maintenance/storage facilities
+
+Museums, zoos, performance centers, galleries and gardens
+
+Regional, non-residential drug prevention and/or treatment centers
+
+Regional parks
+
+Transportation and Waste Management Facilities:
+
+Airports, heliports
+
+Ferry terminals
+
+Sewage treatment plants
+
+Sludge management and transfer facilities
+
+Solid waste transfer and recycling facilities
+
+Solid waste landfills
+
+Solid waste incinerators, resource recovery plants
+
+Residential Facilities:
+
+Group homes/halfway houses
+
+Hospices
+
+Nursing homes/health-related facilities
+
+Prisons, jails, detention, remand facilities
+
+Residential facilities for children
+
+Residential substance abuse facilities
+
+Secure and non-secure detention facilities for children
+
+Supported housing for people with mental health or physical problems
+
+Temporary housing
+
+Transitional housing
+
+* List is illustrative and should not be considered to include all such facilities.
+
+
+
+
+
+
+*Attachment C* ::
+
+
+Types of Residential Facilities (as referenced in Section 6.53)*
+
+a) Correctional facilities, including prisons, jails, detention and remand facilities, and secure detention for children
+
+b) Nursing homes and health-related facilities, including hospices
+
+c) Small residential care facilities and temporary housing facilities, serving no more than 25 people, including group homes, halfway houses, residential facilities for children, residential substance abuse and mental health/retardation facilities, supported housing, shelters, temporary and transitional housing, non-secure detention for children
+
+d) Large temporary and transitional housing facilities, providing shelter or transitional housing for more than 25 people
+
+e) Large residential care facilities, serving more than 25 people, including halfway houses, residential facilities for children, homes for adults, residential substance abuse and mental health/retardation facilities, supported housing, psychiatric centers
+
+* Lists by type are illustrative and should not be considered to include all such facilities.
 
 
 

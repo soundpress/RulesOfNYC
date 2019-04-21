@@ -25,13 +25,13 @@ Chapter 1: Rules of Procedure
 
 (c) Chair. The Mayor shall preside at all meetings as Chair.
 
-(d) Quorum. Except as provided in subdivision (a) of § l-05, a majority of the members of the Board entitled to vote on a matter before the Board shall constitute a quorum for action on such matter, provided that a quorum shall be deemed present only where such majority includes at least one of either the Speaker or the affected Borough President.
+(d) Quorum. Except as provided in subdivision (a) of 70 RCNY § 1-05, a majority of the members of the Board entitled to vote on a matter before the Board shall constitute a quorum for action on such matter, provided that a quorum shall be deemed present only where such majority includes at least one of either the Speaker or the affected Borough President.
 
 (e) Votes.
 
-   (1) Except as provided in subdivision (a) of § 1-05, any action respecting a matter before the Board shall require the affirmative vote of a majority of the members of the Board entitled to vote on such matter.
+   (1) Except as provided in subdivision (a) of 70 RCNY § 1-05, any action respecting a matter before the Board shall require the affirmative vote of a majority of the members of the Board entitled to vote on such matter.
 
-   (2) The Hearing Secretary shall conduct a roll call upon every matter to be acted upon and all votes shall be taken by the ayes and nays. A roll call shall be conducted at the request of the Chair, unless the matter is laid over pursuant to subdivision (k) of § 1-01.
+   (2) The Hearing Secretary shall conduct a roll call upon every matter to be acted upon and all votes shall be taken by the ayes and nays. A roll call shall be conducted at the request of the Chair, unless the matter is laid over pursuant to subdivision (k) of 70 RCNY § 1-01.
 
    (3) The vote of any member abstaining shall be considered a negative vote.
 
@@ -99,7 +99,7 @@ Chapter 1: Rules of Procedure
 *§ 1-03 Calendars.* ::
 
 
-(a) Preparation of Calendar. The Mayor's Office of Contracts, Public Hearings Unit shall prepare and cause to be printed a Calendar including a description of all matters to be presented and considered at each meeting of the Board. The resolutions shall be arranged in the order prescribed in subdivision (i) of § 1-01 of these Rules. The Mayor's Office of Contracts, Public Hearings Unit shall also keep a record of matters which have been laid over.
+(a) Preparation of Calendar. The Mayor's Office of Contracts, Public Hearings Unit shall prepare and cause to be printed a Calendar including a description of all matters to be presented and considered at each meeting of the Board. The resolutions shall be arranged in the order prescribed in subdivision (i) of 70 RCNY § 1-01. The Mayor's Office of Contracts, Public Hearings Unit shall also keep a record of matters which have been laid over.
 
 (b) Calendar Closing Date. The Mayor's Office of Contracts, Public Hearings Unit shall close the Calendar at 12 o'clock noon fifteen calendar days prior to a regular meeting of the Board.
 

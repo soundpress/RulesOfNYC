@@ -580,7 +580,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 *§ 4-10 Schedule of Fees.* ::
 
 
-(a)  The fees for the processing of the below-listed applications and requests submitted to the Topographical Bureau shall be as follows:
+(a)  The fees for the processing of the below-listed applications and requests submitted to the Topographical Bureau shall be as follows: 
 
  
 

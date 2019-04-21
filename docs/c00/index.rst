@@ -3756,6 +3756,19 @@ Chapter 35: Electrical Inspection
 
 
 
+Chapter 37: Reference Standards [Repealed]
+--------------------------------------------------
+
+
+
+*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 36: Electrical Contractors
 --------------------------------------------------
 
@@ -3787,19 +3800,6 @@ Chapter 36: Electrical Contractors
 (c) Subdivision (b) shall not apply to electrician's license applicants whose work experience includes electrical work that was not supervised by a licensed electrician, or that was otherwise illegal.
 
 (d) Nothing in this rule shall affect how credit for the seven and one-half (71/2) years of work experience is computed pursuant to New York City Administrative Code § 27-3010(a)-(e).
-
-
-
-
-Chapter 37: Reference Standards [Repealed]
---------------------------------------------------
-
-
-
-*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
-
-
-
 
 
 

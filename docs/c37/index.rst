@@ -262,19 +262,19 @@ Chapter 3: Fees
       - Fee 
     * -  
       - $1,000 or less
-      - $  10 
+      - $10 
     * -  
       - $1,001 to $5,000
-      - $  25 
+      - $25 
     * -  
       - $5,001 to $7,500
-      - $  35 
+      - $35 
     * -  
       - $7,501 to $25,000
-      - $  50 
+      - $50 
     * -  
       - $25,001 to $50,000
-      - $  75 
+      - $75 
     * -  
       - $50,001 to $75,000
       - $100 
@@ -292,7 +292,7 @@ Chapter 3: Fees
       - $150.00 
     * - (viii)
       - Assignment of contract within 7 days of sale
-      - $         0 
+      - $0 
     * -  
       - Between 8 and 14 days from sale
       - $100.00 
@@ -304,19 +304,16 @@ Chapter 3: Fees
       -  
     * -  
       -  Public and Quasi Public Agencies
-      - $    1.00 
+      - $1.00 
     * -  
       -  All Other Applicants
       - $350.00 
     * -  
       - Category IV – Carnarsie Cemetery
       -  
-    * -  
-      -  Schedule of Prices Certificate of Burial Right
-      -  
 ~
 
- 
+Schedule of PricesCertificate of Burial Right
 
 A certificate of burial right grants the privilege of interment or entombment in a specified grave or plot. Each grave measures 3 feet by 9 feet. Two interments may be in each grave in the traditional area and three in each grave in the park area. Each plot in the urn gardens measures 2 feet by 2 feet and permits the interment of several urns. Prices of certificates of burial rights are as follows:
 
@@ -327,11 +324,11 @@ A certificate of burial right grants the privilege of interment or entombment in
     :header-rows: 1
 
     * - Traditional Area
-      -  $1,995.00
+      - $1,995.00
     * - Park Area
-      - 1,995.00
+      - $1,995.00
     * - Urn Gardens
-      - 300.00
+      - $300.00
 ~
 
 
@@ -350,45 +347,45 @@ A certificate of burial right grants the privilege of interment or entombment in
     * - (x)
       - Annual care. All plot holders without perpetual care shall pay an annual care charge of $50.00 per grave, payable each year in advance.
       - 
-    * -  (xi)
+    * - (xi)
       - Foundation charges.
       -  
     * -  
       - Minimum foundation: 30"across by 12"wide by 3' deep
-      - $   295.00
+      - $295.00
     * -  
       - Every additional cubic foot or part thereof
-      - 30.00
+      - $30.00
     * - (xii)
       - Interment and other fees.
       -  
     * -  
       - Interment
-      - 625.00
+      - $625.00
     * -  
       - Cremated remains
-      - 300.00
+      - $300.00
     * -  
       - Disinterment and/or openings
-      - 625.00
+      - $625.00
     * -  
       - Removal of remains (one grave to another)
       - $1,250.00
     * -  
       - Use of chapel, per day
-      - 225.00
+      - $225.00
     * -  
       - Use of receiving vault per day
-      - 120.00
+      - $120.00
     * -  
       - Transfer of certificate of burial right [Fee inclusive of one (1) Affidavit Fee and one (1) Probe Fee for each grave]
-      - 80.00
+      - $80.00
     * -  
       - Affidavit Fee
-      - 40.00
+      - $40.00
     * -  
       - Probe(s) each
-      - 40.00 
+      - $40.00 
     * - (xiii)
       - Late charges and penalties. Arrearages in annual care charges may be assessed a late payment charge equal to 20% of the balance in arrears, except that late payment charges assessed subsequent to December 31, 1991, shall be excluded from the balance upon which late charges are assessed. Persons issuing checks returned as uncollectible shall be charged a penalty of $15.00 per check.
       - 
@@ -398,9 +395,9 @@ A certificate of burial right grants the privilege of interment or entombment in
 
 Category V – Redemption of properties taken In Rem – Management fees
 
-      (i) Seven (7%) percent of all rents billed during the period of management by the City (from the date vesting through the date of release); or Twenty-Five ($25.00) Dollars per month, or fraction thereof, during the period of management by the City; whichever is greater.
+   (i) Seven (7%) percent of all rents billed during the period of management by the City (from the date vesting through the date of release); or Twenty-Five ($25.00) Dollars per month, or fraction thereof, during the period of management by the City; whichever is greater.
 
-      (ii) Vacant property, deriving no income, is to be charged the minimum fee of Twenty-Five ($25.00) Dollars per month, or fraction thereof, during the period of management by the City.
+   (ii) Vacant property, deriving no income, is to be charged the minimum fee of Twenty-Five ($25.00) Dollars per month, or fraction thereof, during the period of management by the City.
 
 Note: The Twenty-Five ($25.00) Dollar fee is to be applied to each lot within the "property"only if the lots are not contiguous.
 
@@ -446,9 +443,9 @@ Chapter 6: 'Original Equipment Manufacturer Agreements' For Purposes of the City
 *§ 6-01 Definitions.* ::
 
 
-For purposes of the City's anti-apartheid rider, included in City contracts pursuant to Administrative Code Section 6-115* whenever the contractor has agreed to sign the rider, a company shall be deemed to be providing goods or services to South Africa pursuant to an "original equipment manufacturer agreement which provides for or authorizes the sale of equipment, alone or as part of a finished product, to a South African entity" in accordance with the following definitions:
+For purposes of the City's anti-apartheid rider, included in City contracts pursuant to Administrative Code § 6-115 whenever the contractor has agreed to sign the rider, a company shall be deemed to be providing goods or services to South Africa pursuant to an "original equipment manufacturer agreement which provides for or authorizes the sale of equipment, alone or as part of a finished product, to a South African entity" in accordance with the following definitions:
 
-(a) "Company #1" includes the company which seeks to enter a contract with a City agency, and is determining whether it is qualified to sign the City's anti-apartheid rider, and all "affiliates" of that company, as that term is defined in Administrative Code Section 6-115(a)(8).*
+(a) "Company #1" includes the company which seeks to enter a contract with a City agency, and is determining whether it is qualified to sign the City's anti-apartheid rider, and all "affiliates" of that company, as that term is defined in Administrative Code § 6-115(a)(8).
 
 (b) "Sale" includes lease or rental of equipment.
 
@@ -790,11 +787,11 @@ New York City's Recycling Law, which is codified as §§ 16-301 et seq. of the A
 
 Aggregate product purchase. "Aggregate product purchase" shall mean a procurement of products by DMSS which consists of a group or groups of products which are related to each other in one of the following ways:
 
-   (1) The products are manufactured by a single manufacturer and are purchased in the form of a price list which is a listing of items and their prices;
+(1) The products are manufactured by a single manufacturer and are purchased in the form of a price list which is a listing of items and their prices;
 
-   (2) The products are contained in a published catalog which is offered to DMSS at prices listed in the catalog or at a discount therefrom; or
+(2) The products are contained in a published catalog which is offered to DMSS at prices listed in the catalog or at a discount therefrom; or
 
-   (3) The products have been combined in a class for award to a single vendor based upon fiscal, operational or pricing advantages.
+(3) The products have been combined in a class for award to a single vendor based upon fiscal, operational or pricing advantages.
 
 Commissioner. "Commissioner" shall mean the Commissioner of the Department of Citywide Administrative Services of the City of New York, or his or her designee.
 
@@ -1074,19 +1071,19 @@ Note – The minimum content standards are based on the weight of material (not 
     * - Glass 6
       -  
     * - Minimum Percentage by Weight of Secondary Material Content 
-      -  Minimum Percentage by Weight of Post-Consumer Material Content
+      - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 50 percent 
       - 35 percent 
     * - Rubber 6
       -  
     * - Minimum Percentage by Weight of Secondary Material Content 
-      -  Minimum Percentage by Weight of Post-Consumer Material Content
+      - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 50 percent 
       - 25 percent 
     * - Solvents 6
       -  
     * - Minimum Percentage by Weight of Secondary Material Content 
-      -  Minimum Percentage by Weight of Post-Consumer Material Content
+      - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 75 percent 
       - 75 percent 
 ~
@@ -1275,6 +1272,187 @@ All permits issued shall include the conditions set forth above.
 
 
 
+Chapter 12: Municipal Employees' Charitable Contributions
+--------------------------------------------------
+
+
+
+*§ 12-01 Definitions.* ::
+
+
+Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the Combined Municipal Campaign to obtain contributions with respect to the ensuing year of contributions.
+
+Charitable non-profit organization. "Charitable non-profit organization" shall mean a private non-profit organization performing charitable services for human health and welfare or recreation, eligible for approval as a coordinating agency, or for membership in the combined Municipal Campaign in accordance with the provisions of these rules.
+
+Combined municipal campaign. "Combined municipal campaign" shall mean the joint campaign of the coordinating agency with one or more other charitable non-profit organizations, based on their written agreement, approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-06, for the joint conduct and sharing in the result of annual solicitation campaign.
+
+Commissioner. "Commissioner" shall mean the Commissioner of Citywide Administrative Services.
+
+Coordinating agency. "Coordinating agency" shall mean a federated community campaign, as defined in section 93-b of the General Municipal Law, which is approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-05 to serve as the agent for the Combined Municipal Campaign.
+
+Year of contributions. Year of contributions. "Year of contributions" shall mean the calendar year or other period designated by the Commissioner of Citywide Administrative Services for collection of the payroll deductions authorized by municipal employees pursuant to § 93-b of the General Municipal Law on behalf of the Combined Municipal Campaign.
+
+
+
+
+
+
+*§ 12-02 Coordinating Agency; Constituent Organizations.* ::
+
+
+The coordinating agency shall consist of the charitable non-profit organizations named as constituent members thereof upon the Commissioner of Citywide Administrative Services' approval of the coordinating agency, subject to changes by discontinuance of such participation or the addition of eligible charitable non-profit organizations. The coordinating agency shall give prompt written notice of any such changes to the Commissioner of Citywide Administrative Services.
+
+
+
+
+
+
+*§ 12-03 Charitable Non-Profit Organizations.* ::
+
+
+To be eligible as a constituent organization of the coordinating agency or as a participating organization in the Combined Municipal Campaign, a charitable non-profit organization must meet and maintain the following requirements:
+
+(a) It shall be
+
+   (1) a private, non-profit corporation, association, or organization,
+
+   (2) incorporated or authorized to do business in New York, or a member of a federation of charitable organizations which is authorized to do business in New York, and
+
+   (3) organized to render voluntary charitable services for human health and welfare or recreation.
+
+(b) It shall be and remain registered with the Secretary of State; in compliance with the requirements and provisions of article 7-A of the Executive Law of New York; and a tax exempt organization under the terms of Section 501(c)(3) of the U.S. Internal Revenue Code.
+
+(c) It shall operate without discrimination in regard to all persons served by the campaign and comply with all requirements of law and regulations respecting nondiscrimination and equal employment opportunity with respect to its officers, staff, employees and volunteers.
+
+(d) As its principal purpose, function and activity, it shall carry out a bona fide program of charitable services in support and advancement of the health, welfare or recreation of a substantial number of persons in need of such services.
+
+
+
+
+
+
+*§ 12-04 Coordinating Agency; Qualification Requirements.* ::
+
+
+To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in 55 RCNY § 12-03, and in addition, shall
+
+(a) constitute a federation of a substantial number of charitable non-profit organizations;
+
+(b) conduct a bona fide program for the provision of services for human health and welfare or recreation services for the aid, support and advancement of a substantial number of residents in the City; and
+
+(c) agree to combine with other eligible charitable non-profit organizations and/or federations of such organizations to form a Combined Municipal Campaign, and serve as agent of the Combined Municipal Campaign as set forth in 55 RCNY § 12-06.
+
+
+
+
+
+
+*§ 12-05 Approval of Coordinating Agency.* ::
+
+
+(a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in 55 RCNY § 12-04 may make written application to the Commissioner of Citywide Administrative Services for approval as the coordinating agency for the City.
+
+(b) In December of every year there shall be made available at the offices of the Commissioner of Citywide Administrative Services a proposed calendar of events for the preceding years' Combined Municipal Campaign, if any. This schedule shall include a timetable for application.
+
+(c) The application shall contain a detailed statement and furnish documentation evidencing the organization's compliance with all conditions of eligibility as a coordinating agency and shall provide the following:
+
+   (1) corporate or registered business name and address of the organization; name, titles and addresses of its directors or principals and executive officers; registration number obtained upon registration pursuant to Article 7-A of the Executive Law;
+
+   (2) concise description of the organization's structure, origin, and history of its activities in the City; financial statements for its two immediately preceding years of operation, showing contributions and other revenues received, administrative and overhead expenses, costs of operations and other significant financial data; a specification of the extent its operations have been carried out by volunteers' services;
+
+   (3) statement of its plan and program for performing charitable services within the City over the next three-year period, with particular description of projected benefits to employees' communities of residence;
+
+   (4) copies of charter or certificate of incorporation, bylaws, latest external audit by a certified public accountant and letter from the Internal Revenue Service certifying tax exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code;
+
+   (5) a listing, by corporate or registered business name, address, and name of the authorized principal representative, of each constituent charitable non-profit organization included in the coordinating agency; the applicant shall certify that it has examined and established compliance by all of its constituent organizations with the conditions and requirements of eligibility specified in 55 RCNY § 12-03.
+
+(d) The applicant shall furnish additional information and documentation as requested by the Commissioner of Citywide Administrative Services.
+
+(e) The Commissioner's determination as to the approval or refusal of an application hereunder shall be conclusive and binding, and written notice thereof shall be given to the applicant.
+
+(f) If it should become necessary to change the coordinating agency while the annual solicitation campaign or the year of contributions is in progress, the Commissioner shall substitute another charitable non-profit organization eligible to be coordinating agency pursuant to 55 RCNY § 12-04.
+
+
+
+
+
+
+*§ 12-06 Combined Municipal Campaign; Structure and Operations.* ::
+
+
+(a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to 55 RCNY §§ 12-07 and 12-08 to form a Combined Municipal Campaign.
+
+(b) Such contract shall be subject to approval by the Commissioner of Citywide Administrative Services and shall:
+
+   (1) identify each charitable non-profit organization participating with the coordinating agency by corporate or business name and address, and name its authorized representative;
+
+   (2) provide an annual budget of the campaign and specify the allocation among the coordinating agency and participating organizations of administrative expenses including publicity, central receipt, accounting and distribution of contributions, and loss of anticipated income to the campaign due to withdrawal of consent to contribution, termination of employment, or other discontinuation of payroll deduction;
+
+   (3) state the method of calculation of the share of total contributions to be received respectively by the coordinating agency and each participating organization, and the manner of payment to them;
+
+   (4) inform participants that the administrative expenses of the campaign shall be divided equally among each participating agency; for this purpose each participating constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency.
+
+   (5) Contain such other terms and conditions as may be required by the Commissioner.
+
+(c) The coordinating agency shall be the recipient in the first instance of all contributions made by employees to the campaign, including both contributions collected through payroll deductions and those made by check. The coordinating agency shall act in a fiduciary capacity with respect to its receipt and distribution of the contributions in accordance with the terms of the Combined Municipal Campaign contract.
+
+(d) The annual solicitation campaign shall be conducted at such times and pursuant to such procedures as shall be approved by the Commissioner.
+
+(e) The coordinating agency shall submit a report to the Commissioner at the end of each calendar year and at such other times as the Commissioner may request, stating the total amount of contributions collected through the Combined Municipal Campaign, the amount received by each participating agency, and such other information as the Director may request.
+
+
+
+
+
+
+*§ 12-07 Application for Participation in the Combined Municipal Campaign.* ::
+
+
+(a) A charitable non-profit organization seeking participation in the Combined Municipal Campaign shall make written application therefor to the Commissioner, who shall forward such application to the coordinating agency.
+
+(b) Such application shall be made on the form prescribed by the Commissioner and shall be accompanied by all required documentation.
+
+(c) The coordinating agency shall review the applications and approve the applications of all organizations qualified pursuant to 55 RCNY § 12-03.
+
+(d) The coordinating agency shall notify each applicant in writing whether or not it has been accepted as a participating organization in the Combined Municipal Campaign. If an applicant has not been accepted for participation, such notice shall state the reasons therefor, and shall state that the decision may be appealed to the Commissioner within fourteen days.
+
+
+
+
+
+
+*§ 12-08 Review of Non-Acceptance for Participation.* ::
+
+
+(a) An organization which has been notified of non-acceptance for participation in the Combined Municipal Campaign may, within fourteen days of the date notice was sent to the applicant by the coordinating agency, appeal in writing to the Commissioner for review of the determination of the coordinating agency. Copies of all material previously submitted to the coordinating agency shall be furnished to the Commissioner by the organization seeking review.
+
+(b) The Commissioner, consistent with these rules, shall determine whether sufficient grounds existed for non-acceptance of the applicant or whether the coordinating agency's decision shall be reversed, in which case the Commissioner shall direct the coordinating agency to accept the applicant for participation in the Combined Municipal Campaign.
+
+(c) The Commissioner's written determination shall be transmitted to the applicant and the coordinating agency, and shall be final and conclusive. Upon a determination directing the acceptance of the applicant, the coordinating agency shall forthwith arrange for the participation of the applicant in the Combined Municipal Campaign.
+
+
+
+
+
+
+*§ 12-09 Conduct of Solicitation Among City Employees.* ::
+
+
+(a) Contributions by employees to any charitable non-profit organization shall be purely voluntary.
+
+(b) No form of pressure or coercion shall be used at any time by any employee or charitable non-profit organization to persuade employees to contribute to any charitable non-profit organization.
+
+(c) An employee who wishes to make a charitable contribution through the Combined Municipal Campaign shall do so by completing and signing the form furnished by the Director. The employee shall indicate on the form whether the contribution is to be given to a particular organization participating in the Combined Municipal Campaign, or to the Combined Municipal Campaign itself for distribution to all participating organizations in the manner set forth in this section. Contributions may be made by submitting a single check made out to the order of the Combined Municipal Campaign, or by consenting to payroll deduction of a specified amount per pay period. If the employee chooses to contribute to the Combined Municipal Campaign through payroll deduction, the year of contribution shall be deemed to be the period between the time the consent to the deduction is given and the time such consent is withdrawn or the employee leaves his/her agency of employment, whichever shall occur first. The deduction shall continue until the employee either withdraws his/her consent to the payroll deduction or the employee leaves his/her agency of employment, whichever shall occur first.
+
+(d) Employees shall be allowed to withdraw their consent to payroll deduction for contribution to charitable non-profit organizations at any time, upon written notice to the Commissioner.
+
+(e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in 55 RCNY § 12-06, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
+
+(f) When an employee's paycheck is refunded by the employee's agency to the Department of Finance, any charitable contribution deducted for the period covered by such paycheck shall be returned to the City by the coordinating agency, or recovered by the City from the Combined Municipal Campaign by deduction from subsequent payments.
+
+
+
+
 Chapter 11: Personnel Practice and Procedure
 --------------------------------------------------
 
@@ -1321,25 +1499,25 @@ Chapter 11: Personnel Practice and Procedure
       - Fee
     * - Under $30,000
       - $40
-    * - 30,000-34,999
+    * - $30,000 - $34,999
       - $47
-    * - 35,000-39,999
+    * - $35,000 - $39,999
       - $54
-    * - 40,000-44,999
+    * - $40,000 - $44,999
       - $61
-    * - 45,000-62,999
+    * - $45,000 - $62,999
       - $68
-    * - 63,000-69,999
+    * - $63,000 - $69,999
       - $82
-    * - 70,000-74,999
+    * - $70,000 - $74,999
       - $85
-    * - 75,000-79,999
+    * - $75,000 - $79,999
       - $88
-    * - 80,000-89,000
+    * - $80,000 - $89,000
       - $91
-    * - 89,001-99,999
+    * - $89,001 - $99,999
       - $96
-    * - 100,000 &amp; over
+    * - $100,000 &amp; over
       - $101
 ~
 
@@ -1509,7 +1687,7 @@ Chapter 11: Personnel Practice and Procedure
 
    (6) other – as may be provided
 
-      (v) Correspondence and address: All correspondence relating to examination issues shall be sent to the Department of Citywide Administrative Services, Division of Citywide Personnel Services, One Centre Street, 14th Floor, New York, N.Y. 10007, unless otherwise specified.
+(v) Correspondence and address: All correspondence relating to examination issues shall be sent to the Department of Citywide Administrative Services, Division of Citywide Personnel Services, One Centre Street, 14th Floor, New York, N.Y. 10007, unless otherwise specified.
 
 (w) Seniority and veterans' credit. Where seniority or Veterans' Preference credit is claimed, the candidate must achieve a passing score in order to be eligible for such credit.
 
@@ -1580,65 +1758,65 @@ These regulations shall be applicable also to examinations conducted by the Depa
     :header-rows: 1
 
     * - Climber or Tower Crane Rigger
-      -  $275
+      - $275
     * - High Pressure Boiler Operating Engineer
-      -  $200
+      - $200
     * - Hoisting Machine Operator
-      -  $200
+      - $200
     * - Hoisting Machine Operator (Endorsement)
-      -  $225
+      - $225
     * - Master Electrician
-      -  $275
+      - $275
     * - Master Fire Suppression Piping Contractor
-      -  $250
+      - $250
     * - Master Plumber
-      -  $275
+      - $275
     * - Master Rigger
-      -  $275
+      - $275
     * - Master Sign Hanger
-      -  $275
+      - $275
     * - Motion Picture Operator
-      -  $200
+      - $200
     * - Oil Burning Equipment Installer:
       -  
     * -  Class A
       - $275
     * -  Class B
-      -  $275
+      - $275
     * -  Class A and Class B together
-      -  $275
+      - $275
     * - Portable High Pressure Boiler Operating Engineer
-      -  $275
+      - $275
     * - Site Safety Manager
-      -  $250
+      - $250
     * - Special Electrician
-      -  $275
+      - $275
     * - Special Rigger
-      -  $210
+      - $210
     * - Special Sign Hanger
-      -  $210
+      - $210
     * - For possessor of a valid license for Master Plumber
-      -  $  60
+      - $60
     * - Welder
       -  
     * -  Class 1
       - $375
     * -  Class 1 Restricted
-      -  $340
+      - $340
     * -  Class 2
-      -  $275
+      - $275
     * -  Class 2 Restricted
-      -  $200
+      - $200
     * -  Class 3
-      -  $330
+      - $330
     * -  Class 3 Restricted
-      -  $220
+      - $220
     * -  Class 4
-      -  $110
+      - $110
     * - For additional practical tests in any license examination other than Special Rigger, Special Sign Hanger and Welder
-      -  $220
+      - $220
     * - For examination for appointment as City Surveyor
-      -  $275
+      - $275
 ~
 
  
@@ -1741,7 +1919,7 @@ The names of successful candidates in the license examinations listed above will
 *§ 11-03 Adjudications of the Department of Citywide Administrative Services.* ::
 
 
-(a) Pursuant to the New York City Charter §§ 1041, 1046-1048, and by designation by the Mayor, the Department of Citywide Administrative Services has determined that adjudications held pursuant to Section 210.2(g) of the Civil Service Law Article 14 ("The Taylor Law") to determine whether an employee has violated the Taylor Law shall be conducted by the Department or a designee of the Commissioner of Citywide Administrative Services. Such designee shall be a Hearing Officer who is authorized in writing by the Commissioner of Citywide Administrative Services to conduct hearings pursuant to the Taylor Law. Administrative Law Judges from the Office of Administrative Trials and Hearings ("OATH") may be designated as Hearing Officers authorized by the Commissioner of Citywide Administrative Services to conduct hearings pursuant to the Taylor Law.
+(a) Pursuant to the New York City Charter §§ 1041, 1046 - 1048, and by designation by the Mayor, the Department of Citywide Administrative Services has determined that adjudications held pursuant to Section 210.2(g) of the Civil Service Law Article 14 ("The Taylor Law") to determine whether an employee has violated the Taylor Law shall be conducted by the Department or a designee of the Commissioner of Citywide Administrative Services. Such designee shall be a Hearing Officer who is authorized in writing by the Commissioner of Citywide Administrative Services to conduct hearings pursuant to the Taylor Law. Administrative Law Judges from the Office of Administrative Trials and Hearings ("OATH") may be designated as Hearing Officers authorized by the Commissioner of Citywide Administrative Services to conduct hearings pursuant to the Taylor Law.
 
 (b) Disciplinary hearings and disability hearings conducted pursuant to Civil Service Law §§ 72 and 75 shall be conducted by OATH. In all adjudications conducted by OATH, pursuant to Civil Service Law §§ 71, 72, 73 and 75, the Administrative Law Judge shall make written proposed findings of fact, conclusions of law, a recommended decision and, where appropriate, a proposed penalty. The Commissioner of Citywide Administrative Services may adopt, reject, or modify any such recommendations.
 
@@ -1790,187 +1968,6 @@ The names of successful candidates in the license examinations listed above will
 (g) Findings of fact. In all hearings conducted by the Department or a designee of the Commissioner of Citywide Administrative Services, the Hearing Officer shall make findings of fact and determine whether the employee has established that he or she did not violate Section 210 of the New York Civil Service Law. These findings and the determination shall be in writing and delivered to the Commissioner of Citywide Administrative Services within a reasonable time following the conclusion of the hearing. The Commissioner of Citywide Administrative Services shall then notify the employee of the Hearing Officer's findings and determination.
 
 (h) Appeals. The determination of the hearing officer may be appealed by any party by bringing a proceeding pursuant to Article 78 of the New York Civil Practice Law and Rules.
-
-
-
-
-Chapter 12: Municipal Employees' Charitable Contributions
---------------------------------------------------
-
-
-
-*§ 12-01 Definitions.* ::
-
-
-Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the Combined Municipal Campaign to obtain contributions with respect to the ensuing year of contributions.
-
-Charitable non-profit organization. "Charitable non-profit organization" shall mean a private non-profit organization performing charitable services for human health and welfare or recreation, eligible for approval as a coordinating agency, or for membership in the combined Municipal Campaign in accordance with the provisions of these rules.
-
-Combined municipal campaign. "Combined municipal campaign" shall mean the joint campaign of the coordinating agency with one or more other charitable non-profit organizations, based on their written agreement, approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-06, for the joint conduct and sharing in the result of annual solicitation campaign.
-
-Commissioner. "Commissioner" shall mean the Commissioner of Citywide Administrative Services.
-
-Coordinating agency. "Coordinating agency" shall mean a federated community campaign, as defined in section 93-b of the General Municipal Law, which is approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-05 to serve as the agent for the Combined Municipal Campaign.
-
-Year of contributions. Year of contributions. "Year of contributions" shall mean the calendar year or other period designated by the Commissioner of Citywide Administrative Services for collection of the payroll deductions authorized by municipal employees pursuant to § 93-b of the General Municipal Law on behalf of the Combined Municipal Campaign.
-
-
-
-
-
-
-*§ 12-02 Coordinating Agency; Constituent Organizations.* ::
-
-
-The coordinating agency shall consist of the charitable non-profit organizations named as constituent members thereof upon the Commissioner of Citywide Administrative Services' approval of the coordinating agency, subject to changes by discontinuance of such participation or the addition of eligible charitable non-profit organizations. The coordinating agency shall give prompt written notice of any such changes to the Commissioner of Citywide Administrative Services.
-
-
-
-
-
-
-*§ 12-03 Charitable Non-Profit Organizations.* ::
-
-
-To be eligible as a constituent organization of the coordinating agency or as a participating organization in the Combined Municipal Campaign, a charitable non-profit organization must meet and maintain the following requirements:
-
-(a) It shall be
-
-   (1) a private, non-profit corporation, association, or organization,
-
-   (2) incorporated or authorized to do business in New York, or a member of a federation of charitable organizations which is authorized to do business in New York, and
-
-   (3) organized to render voluntary charitable services for human health and welfare or recreation.
-
-(b) It shall be and remain registered with the Secretary of State; in compliance with the requirements and provisions of article 7-A of the Executive Law of New York; and a tax exempt organization under the terms of Section 501(c)(3) of the U.S. Internal Revenue Code.
-
-(c) It shall operate without discrimination in regard to all persons served by the campaign and comply with all requirements of law and regulations respecting nondiscrimination and equal employment opportunity with respect to its officers, staff, employees and volunteers.
-
-(d) As its principal purpose, function and activity, it shall carry out a bona fide program of charitable services in support and advancement of the health, welfare or recreation of a substantial number of persons in need of such services.
-
-
-
-
-
-
-*§ 12-04 Coordinating Agency; Qualification Requirements.* ::
-
-
-To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in 55 RCNY § 12-03, and in addition, shall
-
-(a) constitute a federation of a substantial number of charitable non-profit organizations;
-
-(b) conduct a bona fide program for the provision of services for human health and welfare or recreation services for the aid, support and advancement of a substantial number of residents in the City; and
-
-(c) agree to combine with other eligible charitable non-profit organizations and/or federations of such organizations to form a Combined Municipal Campaign, and serve as agent of the Combined Municipal Campaign as set forth in 55 RCNY § 12-06.
-
-
-
-
-
-
-*§ 12-05 Approval of Coordinating Agency.* ::
-
-
-(a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in 55 RCNY § 12-04 may make written application to the Commissioner of Citywide Administrative Services for approval as the coordinating agency for the City.
-
-(b) In December of every year there shall be made available at the offices of the Commissioner of Citywide Administrative Services a proposed calendar of events for the preceding years' Combined Municipal Campaign, if any. This schedule shall include a timetable for application.
-
-(c) The application shall contain a detailed statement and furnish documentation evidencing the organization's compliance with all conditions of eligibility as a coordinating agency and shall provide the following:
-
-   (1) corporate or registered business name and address of the organization; name, titles and addresses of its directors or principals and executive officers; registration number obtained upon registration pursuant to article 7-A of the Executive Law;
-
-   (2) concise description of the organization's structure, origin, and history of its activities in the City; financial statements for its two immediately preceding years of operation, showing contributions and other revenues received, administrative and overhead expenses, costs of operations and other significant financial data; a specification of the extent its operations have been carried out by volunteers' services;
-
-   (3) statement of its plan and program for performing charitable services within the City over the next three-year period, with particular description of projected benefits to employees' communities of residence;
-
-   (4) copies of charter or certificate of incorporation, bylaws, latest external audit by a certified public accountant and letter from the Internal Revenue Service certifying tax exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code;
-
-   (5) a listing, by corporate or registered business name, address, and name of the authorized principal representative, of each constituent charitable non-profit organization included in the coordinating agency; the applicant shall certify that it has examined and established compliance by all of its constituent organizations with the conditions and requirements of eligibility specified in 55 RCNY § 12-03.
-
-(d) The applicant shall furnish additional information and documentation as requested by the Commissioner of Citywide Administrative Services.
-
-(e) The Commissioner's determination as to the approval or refusal of an application hereunder shall be conclusive and binding, and written notice thereof shall be given to the applicant.
-
-(f) If it should become necessary to change the coordinating agency while the annual solicitation campaign or the year of contributions is in progress, the Commissioner shall substitute another charitable non-profit organization eligible to be coordinating agency pursuant to 55 RCNY § 12-04.
-
-
-
-
-
-
-*§ 12-06 Combined Municipal Campaign; Structure and Operations.* ::
-
-
-(a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to 55 RCNY §§ 12-07 and 12-08 to form a Combined Municipal Campaign.
-
-(b) Such contract shall be subject to approval by the Commissioner of Citywide Administrative Services and shall:
-
-   (1) identify each charitable non-profit organization participating with the coordinating agency by corporate or business name and address, and name its authorized representative;
-
-   (2) provide an annual budget of the campaign and specify the allocation among the coordinating agency and participating organizations of administrative expenses including publicity, central receipt, accounting and distribution of contributions, and loss of anticipated income to the campaign due to withdrawal of consent to contribution, termination of employment, or other discontinuation of payroll deduction;
-
-   (3) state the method of calculation of the share of total contributions to be received respectively by the coordinating agency and each participating organization, and the manner of payment to them;
-
-   (4) inform participants that the administrative expenses of the campaign shall be divided equally among each participating agency; for this purpose each participating constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency.
-
-   (5) Contain such other terms and conditions as may be required by the Commissioner.
-
-(c) The coordinating agency shall be the recipient in the first instance of all contributions made by employees to the campaign, including both contributions collected through payroll deductions and those made by check. The coordinating agency shall act in a fiduciary capacity with respect to its receipt and distribution of the contributions in accordance with the terms of the Combined Municipal Campaign contract.
-
-(d) The annual solicitation campaign shall be conducted at such times and pursuant to such procedures as shall be approved by the Commissioner.
-
-(e) The coordinating agency shall submit a report to the Commissioner at the end of each calendar year and at such other times as the Commissioner may request, stating the total amount of contributions collected through the Combined Municipal Campaign, the amount received by each participating agency, and such other information as the Director may request.
-
-
-
-
-
-
-*§ 12-07 Application for Participation in the Combined Municipal Campaign.* ::
-
-
-(a) A charitable non-profit organization seeking participation in the Combined Municipal Campaign shall make written application therefor to the Commissioner, who shall forward such application to the coordinating agency.
-
-(b) Such application shall be made on the form prescribed by the Commissioner and shall be accompanied by all required documentation.
-
-(c) The coordinating agency shall review the applications and approve the applications of all organizations qualified pursuant to 55 RCNY § 12-03.
-
-(d) The coordinating agency shall notify each applicant in writing whether or not it has been accepted as a participating organization in the Combined Municipal Campaign. If an applicant has not been accepted for participation, such notice shall state the reasons therefor, and shall state that the decision may be appealed to the Commissioner within fourteen days.
-
-
-
-
-
-
-*§ 12-08 Review of Non-Acceptance for Participation.* ::
-
-
-(a) An organization which has been notified of non-acceptance for participation in the Combined Municipal Campaign may, within fourteen days of the date notice was sent to the applicant by the coordinating agency, appeal in writing to the Commissioner for review of the determination of the coordinating agency. Copies of all material previously submitted to the coordinating agency shall be furnished to the Commissioner by the organization seeking review.
-
-(b) The Commissioner, consistent with these rules, shall determine whether sufficient grounds existed for non-acceptance of the applicant or whether the coordinating agency's decision shall be reversed, in which case the Commissioner shall direct the coordinating agency to accept the applicant for participation in the Combined Municipal Campaign.
-
-(c) The Commissioner's written determination shall be transmitted to the applicant and the coordinating agency, and shall be final and conclusive. Upon a determination directing the acceptance of the applicant, the coordinating agency shall forthwith arrange for the participation of the applicant in the Combined Municipal Campaign.
-
-
-
-
-
-
-*§ 12-09 Conduct of Solicitation Among City Employees.* ::
-
-
-(a) Contributions by employees to any charitable non-profit organization shall be purely voluntary.
-
-(b) No form of pressure or coercion shall be used at any time by any employee or charitable non-profit organization to persuade employees to contribute to any charitable non-profit organization.
-
-(c) An employee who wishes to make a charitable contribution through the Combined Municipal Campaign shall do so by completing and signing the form furnished by the Director. The employee shall indicate on the form whether the contribution is to be given to a particular organization participating in the Combined Municipal Campaign, or to the Combined Municipal Campaign itself for distribution to all participating organizations in the manner set forth in this section. Contributions may be made by submitting a single check made out to the order of the Combined Municipal Campaign, or by consenting to payroll deduction of a specified amount per pay period. If the employee chooses to contribute to the Combined Municipal Campaign through payroll deduction, the year of contribution shall be deemed to be the period between the time the consent to the deduction is given and the time such consent is withdrawn or the employee leaves his/her agency of employment, whichever shall occur first. The deduction shall continue until the employee either withdraws his/her consent to the payroll deduction or the employee leaves his/her agency of employment, whichever shall occur first.
-
-(d) Employees shall be allowed to withdraw their consent to payroll deduction for contribution to charitable non-profit organizations at any time, upon written notice to the Commissioner.
-
-(e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in 55 RCNY § 12-06, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
-
-(f) When an employee's paycheck is refunded by the employee's agency to the Department of Finance, any charitable contribution deducted for the period covered by such paycheck shall be returned to the City by the coordinating agency, or recovered by the City from the Combined Municipal Campaign by deduction from subsequent payments.
 
 
 

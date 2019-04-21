@@ -17799,3 +17799,36 @@ Chapter 54: Community Right-To-Know Law Penalty Schedule
 
 
 
+Chapter 58: Notification of Mold Remediation
+--------------------------------------------------
+
+
+
+*§ 58-01 Applicability* ::
+
+
+(a)  This rule applies to mold remediation projects for which a notification to the department of environmental protection is required pursuant to § 24-154 of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 58-02 Conditions that Pose an Immediate Threat of Harm to Any Person or Damage to Property.* ::
+
+
+(a) To determine if a notification of mold remediation must be filed, pursuant to § 24-154 of the Administrative Code, an immediate risk of harm to any person or damage to property is considered to exist when any of the following are present in the dwelling to be remediated:
+
+   (1) At least 30 square feet or more of visible mold within one room.
+
+   (2) Excessive water accumulation or flooding.
+
+(b) Before commencing work, the mold remediation contractor must determine if any of the conditions listed in subdivision (a) exist, and must indicate in the mold remediation notice which, if any of these conditions exist, and attach appropriate documentation of said condition.
+
+
+
+
+
+

@@ -9,7 +9,7 @@ Chapter 1: Practice and Procedure
 *§ 1-01 Definitions.* ::
 
 
-As used in this chapter, the following terms have the meanings set forth in § 12-303 of the administrative code of the City of New York: "Director," "Board of Collective Bargaining," "Board of Certification," "municipal agency," "municipal employees," "mayoral agency," "public employer," "public employees," "municipal employee organization," "public employee organization," "Municipal Labor Committee," "certified employee organization," "matters within the scope of collective bargaining," "executive order," "grievance," "labor member," "city member," "impartial member," "designated representative," and "designated employee organization".
+As used in this chapter, the following terms have the meanings set forth in § 12-303 of the Administrative Code of the City of New York: "Director," "Board of Collective Bargaining," "Board of Certification," "municipal agency," "municipal employees," "mayoral agency," "public employer," "public employees," "municipal employee organization," "public employee organization," "Municipal Labor Committee," "certified employee organization," "matters within the scope of collective bargaining," "executive order," "grievance," "labor member," "city member," "impartial member," "designated representative," and "designated employee organization".
 
 Deputy Director. The term "Deputy Director" means a deputy appointed by the Director pursuant to § 1170 of the New York City Charter.
 

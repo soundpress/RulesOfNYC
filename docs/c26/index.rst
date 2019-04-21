@@ -45,7 +45,7 @@ Each agency's records access officer shall have the following responsibilities:
 
 (f) Upon failure to locate records, he shall state in writing that the agency is not the custodian of such records or that the records cannot be found after diligent search.
 
-(g) He shall maintain the records required to be maintained by subdivisions (b) and (f) of 43 RCNY § 1-05 of these Rules and Regulations.
+(g) He shall maintain the records required to be maintained by subdivisions (b) and (f) of 43 RCNY § 1-05.
 
 
 
@@ -190,6 +190,51 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 
+Chapter 3: City Policy Concerning Aliens
+--------------------------------------------------
+
+
+
+*§ 3-01 Definitions.* ::
+
+
+Alien. "Alien" means any person who is not a citizen or national of the United States.
+
+Line worker. "Line worker" means a person employed by any City agency whose duties involve contact with the public.
+
+
+
+
+
+
+*§ 3-02 Confidentiality of Information Respecting Aliens.* ::
+
+
+(a) No City officer or employee shall transmit information respecting any alien to federal immigration authorities unless
+
+   (1) such officer's or employee's agency is required by law to disclose information respecting such alien, or
+
+   (2) such agency has been authorized, in writing signed by such alien, to verify such alien's immigration status, or
+
+   (3) such alien is suspected by such agency of engaging in criminal activity, including an attempt to obtain public assistance benefits through the use of fraudulent documents.
+
+(b) Each agency shall designate one or more officers or employees who shall be responsible for receiving reports from such agency's line workers on aliens suspected of criminal activity and for determining, on a case by case basis, what action, if any, to take on such reports. No such determination shall be made by any line worker, nor shall any line worker transmit information respecting any alien directly to federal immigration authorities.
+
+(c) Enforcement agencies, including the Police Department and the Department of Correction, shall continue to cooperate with federal authorities in investigating and apprehending aliens suspected of criminal activity. However, such agencies shall not transmit to federal authorities information respecting any alien who is the victim of a crime.
+
+
+
+
+
+
+*§ 3-03 Availability of City Services to Aliens.* ::
+
+
+Any service provided by a City agency shall be made available to all aliens who are otherwise eligible for such service unless such agency is required by law to deny eligibility for such service to aliens. Every City agency shall encourage aliens to make use of those services provided by such agency for which aliens are not denied eligibility by law.
+
+
+
+
 Chapter 2: Percent For Art Law Procedures
 --------------------------------------------------
 
@@ -218,7 +263,7 @@ Director. "Director" means the director of the Mayor's Office of Construction or
 
 Eligible project. "Eligible project" means a capital project for which capital funds are appropriated by the city, and which involves the construction or substantial reconstruction of a city-owned building or structure, the intended use of which requires that it be accessible to the public generally or to members of the public participating in, requiring or receiving programs, services or benefits provided thereat. Buildings or structures within this category include, but shall not be limited to, office buildings, buildings designed for recreational purposes, police precinct houses, fire houses, schools, prisons and detention centers, hospitals and clinics, passenger terminals, shelters, libraries, community centers and court buildings.
 
-Panel. "Panel" means an advisory panel as provided in 43 RCNY § 2-03 hereof.
+Panel. "Panel" means an advisory panel as provided in 43 RCNY § 2-03.
 
 Substantial reconstruction. "Substantial reconstruction" means a capital project in which at least two of the major systems [;electrical, HVAC (heating, ventilating and air conditioning), or plumbing]; of a building are replaced and general construction work, including but not limited to new flooring, ceilings, partitions, windows, affects at least 80 percent of the building's floor area.
 
@@ -381,51 +426,6 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-Chapter 3: City Policy Concerning Aliens
---------------------------------------------------
-
-
-
-*§ 3-01 Definitions.* ::
-
-
-Alien. "Alien" means any person who is not a citizen or national of the United States.
-
-Line worker. "Line worker" means a person employed by any City agency whose duties involve contact with the public.
-
-
-
-
-
-
-*§ 3-02 Confidentiality of Information Respecting Aliens.* ::
-
-
-(a) No City officer or employee shall transmit information respecting any alien to federal immigration authorities unless
-
-   (1) such officer's or employee's agency is required by law to disclose information respecting such alien, or
-
-   (2) such agency has been authorized, in writing signed by such alien, to verify such alien's immigration status, or
-
-   (3) such alien is suspected by such agency of engaging in criminal activity, including an attempt to obtain public assistance benefits through the use of fraudulent documents.
-
-(b) Each agency shall designate one or more officers or employees who shall be responsible for receiving reports from such agency's line workers on aliens suspected of criminal activity and for determining, on a case by case basis, what action, if any, to take on such reports. No such determination shall be made by any line worker, nor shall any line worker transmit information respecting any alien directly to federal immigration authorities.
-
-(c) Enforcement agencies, including the Police Department and the Department of Correction, shall continue to cooperate with federal authorities in investigating and apprehending aliens suspected of criminal activity. However, such agencies shall not transmit to federal authorities information respecting any alien who is the victim of a crime.
-
-
-
-
-
-
-*§ 3-03 Availability of City Services to Aliens.* ::
-
-
-Any service provided by a City agency shall be made available to all aliens who are otherwise eligible for such service unless such agency is required by law to deny eligibility for such service to aliens. Every City agency shall encourage aliens to make use of those services provided by such agency for which aliens are not denied eligibility by law.
-
-
-
-
 Chapter 4: Charge For Bad Checks [Executive Order No. 125]
 --------------------------------------------------
 
@@ -467,9 +467,9 @@ Petitioner. "Petitioner" shall mean the person who files a petition.
 
 Rule. "Rule" shall have the meaning set forth in § 1041(5) of the New York City Charter (City Administrative Procedure Act) and shall mean generally any statement or communication of general applicability that
 
-   (1) implements or applies law or policy or
+(1) implements or applies law or policy or
 
-   (2) prescribes the procedural requirements of an agency, including an amendment, suspension, or repeal of any such statement or communication.
+(2) prescribes the procedural requirements of an agency, including an amendment, suspension, or repeal of any such statement or communication.
 
 
 
@@ -550,6 +550,207 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 
+Chapter 7: New York City Made In New York Film Production Tax Credit Program
+--------------------------------------------------
+
+
+
+*§ 7-01 Purpose and General Description.* ::
+
+
+(a)  The purpose of these regulations is to set forth the application process for the New York City Made In New York Film Production Tax Credit program established by Local Law Number 2 of the Year 2005, as amended by Local Law No. 24 of the Year 2006, pursuant to subdivision (b) of § 1201-a of the Tax Law. The Mayor's Office of Film, Theatre and Broadcasting has authority to promulgate regulations to establish procedures for the allocation of such credits including, but not limited to, the application process, standards for application evaluations, and any other provisions deemed necessary and appropriate. The Mayor's Office of Film, Theatre and Broadcasting shall administer the program, including the issuance of tax credit certificates. These regulations do not govern the New York State film production tax credit program. Eligibility in and receipt of a tax credit in the New York State program does not guarantee eligibility in or receipt of a tax credit in the New York City Made In New York film production tax credit program. In addition, eligibility in and receipt of a tax credit in the New York City Made In New York film production tax credit program does not guarantee eligibility in or receipt of a tax credit in the New York State program.
+
+(b) A taxpayer which has been issued a certificate of tax credit shall be allowed to claim a New York City Made in New York film production tax credit pursuant to §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York, whichever is applicable.
+
+(c) Such tax credit shall only be allowed with respect to a qualified film that is completed on or after January 1, 2005. For this purpose, a film will be considered completed upon substantial completion of post-production.
+
+
+
+
+
+
+*§ 7-02 Definitions.* ::
+
+
+As used in this regulation, the following terms shall have the following meanings:
+
+(a) Authorized applicant. "Authorized applicant" means a qualified film production company that is scheduled to begin principal and ongoing photography on the qualified film no more than ninety (90) days after submitting an initial application to the Office and intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets.
+
+(b) Approved applicant. "Approved applicant" means an authorized applicant that has been issued a certificate of conditional eligibility by the Office.
+
+(c) Certificate of conditional eligibility. "Certificate of conditional eligibility" means a certificate issued by the Office which states that the authorized applicant has met the criteria set forth in 43 RCNY § 7-06(a) and is being considered for the New York City Made In New York film production tax credit, pending successful completion of the final application and issuance of a certificate of tax credit. Such certificate of conditional eligibility shall include, but not be limited to, the following information: name and address of the authorized applicant, effective date, taxpayer identification number, a statement that the initial application meets the appropriate criteria for conditional eligibility under this regulation and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
+
+(d) Certificate of tax credit. "Certificate of tax credit" means a certificate issued by the Office which states the amount of the New York City Made In New York film production tax credit that the approved applicant has qualified for, based on the Office's analysis under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such certificate shall include, but not be limited to, the following information: name and address of the approved applicant, name of the qualified film the credit applies to, the amount of the tax credit to be received by the approved applicant and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
+
+(e) Completeness of the application. "Completeness of the application" means that all questions on the application itself were fully addressed by either the authorized or approved applicant and that any additional substantiating documents that were requested by the Office were provided in a manner sufficient to allow the Office to properly evaluate the application.
+
+(f) Completion of production of a qualified film. "Completion of production of a qualified film" for purposes of paragraph (1) of subdivision (c) of 43 RCNY § 7-03 and paragraphs (4) and (5) of subdivision (b) of 43 RCNY § 7-06 and subdivision (k) of 43 RCNY § 7-02, means that post-production of a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for the striking of prints or electronic copies, and/or ready for broadcast or delivery to a distributor. All activities and expenses related to marketing and distribution, including the making of release prints, video dupes or other forms of copies, promotional images, and poster art are considered to occur after the production of a qualified film is completed.
+
+(g) Commissioner. "Commissioner" means the Commissioner of the City of New York Mayor's Office of Film, Theatre and Broadcasting.
+
+(h) Effective date. "Effective date" means the date the certificate of conditional eligibility becomes effective. Such date is determined by the date the initial application is received by the Office. In the event that the applicant's principal and ongoing photography on a qualified film does not actually begin within ninety (90) days of the submission of the initial application, the applicant's effective date will be recalculated to correspond to the date ninety (90) days prior to the date that the approved applicant submits, and the Office receives, a notification of actual commencement of principal and ongoing photography. If the actual commencement of principal and ongoing photography does not begin within one hundred eighty (180) days of submission of the initial application, the application shall no longer be deemed valid.
+
+(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the home video market that has a running time of at least seventy-five (75) minutes in length.
+
+(j) Film production facility. "Film production facility" means a building and/or complex of buildings and their improvements and associated back-lot facilities in which films are or are intended to be regularly produced and which contain at least one sound stage.
+
+(k) Final application. "Final application" means a document created by the Office and submitted by an approved applicant after it has completed production of a qualified film which contains information concerning actual expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but not be limited to: actual data with regard to the qualified film's total budget, the total production costs at film production facilities in and outside of New York, and the total number of shooting days in and outside of New York and any other information the Office determines is necessary to properly evaluate the application.
+
+(l) Initial application. "Initial application" means a document created by the Office and submitted by an authorized applicant which contains information concerning projected expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but is not limited to, the following information: the estimated total budget for the qualified film, estimates of expenditures at a qualifying production facility, estimates of shooting days and expenditures in New York City and outside of New York City and any other information the Office determines is necessary to properly evaluate the application.
+
+(m) Notification of actual commencement of principal and ongoing photography. "Notification of actual commencement of principal and ongoing photography" means the date the Office receives written notice from the approved applicant that the actual production of a qualified film, including the principal and ongoing photography, has commenced on a date specified in such notice, which date is on or before the date that the approved applicant has submitted such notice.
+
+(n) Office. "Office" means the City of New York Mayor's Office of Film, Theatre and Broadcasting.
+
+(o) Pre-production. "Pre-production" means the process of preparation for actual physical production which begins after a qualified film has received a firm agreement of financial commitment ("greenlit") with, for example, the establishment of a dedicated production office, the hiring of key crew members such as a Unit Production Manager, Line Producer and Location Manager, and includes, but is not limited to, activities such as location scouting, hiring of crew, and execution of contracts with vendors of equipment and stage space.
+
+(p) [Reserved.]
+
+(q) Priority number. "Priority number" means the number used by the Office to determine allocation of the New York City Made In New York film production tax credit. Priority number shall be based on the applicant's effective date; provided, however, that in the event that there is more than one initial application with the same effective date, priority shall be given to the authorized applicant with the earliest anticipated date of commencement of principal and ongoing photography. Provided further that if the principal and ongoing photography does not begin on the anticipated date, and the commencement date is within the one hundred eighty (180)-day limitation provided in subdivision (h) of this section, such priority number shall be recalculated based upon the date that the Office receives notification of actual commencement of principal and ongoing photography from the approved applicant.
+
+(r) Post-production. "Post-production" means the final stage in a qualified film's production after principal and ongoing photography is completed, including, but not limited to, editing, Foley recording, Automatic Dialogue Replacement, sound editing, special effects, scoring and music editing, beginning and end credits, negative cutting, soundtrack production, the addition of sound/visual effects, dubbing, and subtitling. Advertising and marketing activities and expenses are not included in post-production.
+
+(s) Premature application. "Premature application" means an initial application in which the Office reasonably determines that the applicant cannot commence principal and ongoing photography within ninety (90) days of the date the initial application was submitted. Such determination may, but is not required to, be based on, among other things, vagueness of the applicant's answers on the initial application and during the initial interview and lack of documentation supporting an applicant's initial application.
+
+(t) Principal and ongoing photography. "Principal and ongoing photography" means the filming of major and significant portions of a qualified film that involves the lead actors.
+
+(u) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. Production costs shall not include (i) costs for a story, script or scenario to be used for a qualified film and (ii) wages or salaries or other compensation for writers, directors, including music directors, producers, actors and performers (other than background actors or other performers with no scripted lines). Production costs generally include technical and crew production costs, such as expenditures for film production facilities, or any part thereof, props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
+
+(v) Qualified film. "Qualified film" means a feature-length film, television film, television pilot and/or each episode of a television series, regardless of the medium by means of which the film, pilot or episode is created or conveyed. Qualified film shall not include (i) a documentary film, news or current affairs program, interview or talk program, magazine program, variety or skit program, "how-to" (i.e., instructional) film or program, film or program consisting primarily of stock footage, sporting event or sporting program, game show, award ceremony, film or program intended primarily for industrial, corporate or institutional end-users, fundraising film or program, daytime drama (i.e., daytime "soap opera"), commercials, music videos or "reality" program or (ii) a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
+
+(w) Qualified film production company. "Qualified film production company" means a corporation, partnership, limited partnership, or other entity or individual which or who is principally engaged in the production of a qualified film and controls the qualified film during production and is responsible for payment of the direct production expenses (including pre and post-production) and is a signatory to the qualified film's contracts with its payroll company and facility operators.
+
+(x) Qualified film production facility. "Qualified film production facility" means a film production facility in New York City, which contains at least one sound stage having a minimum of seven thousand square feet of contiguous production space.
+
+(y) Qualified production costs. "Qualified production costs" means production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
+
+(z) Sound stage. "Sound stage" means a large interior room or space which provides a controlled environment in which filming takes place on sets built or assembled specifically for the production.
+
+(aa) Television film. "Television film", which may also be known as "movie-of-the-week," "mow," "made for television movie," or "mini-series," means a production intended for broadcast on television, whether free or via a subscription-based service, that has a running time of at least ninety (90) minutes in length (inclusive of commercial advertisement and interstitial programming).
+
+(bb) Television pilot. "Television pilot" means the initial episode produced for a proposed episodic television series. This category will include shorter formats which are known as "television presentation," a production of at least fifteen (15) minutes in length, produced for the purposes of selling a proposed television series, but not intended for broadcast.
+
+(cc) Television series. "Television series", which may also be known as "episodic television series," means a regularly occurring production intended in its initial run for broadcast no more than once weekly, on television, whether free or via subscription-based service, that has a running time of at least thirty (30) minutes in length (inclusive of commercial advertisement and interstitial programming).
+
+
+
+
+
+
+*§ 7-03 Application Process.* ::
+
+
+For the purposes of this Chapter, only an authorized applicant shall be eligible to apply for the New York City Made In New York film production tax credit.
+
+(a) Initial application.
+
+   (1) An authorized applicant shall submit an initial application to the Office prior to the start of principal and ongoing photography.
+
+   (2) The authorized applicant shall have an interview with the Office to discuss the details of the initial application. A producer and either the line producer, unit production manager, production accountant or their designee, approved by the Office, shall attend such meeting.
+
+   (3) The Office shall approve or disapprove the initial application based upon criteria set forth in 43 RCNY § 7-06(a).
+
+   (4) If the initial application is approved, the Office shall issue a certificate of conditional eligibility to the authorized applicant. The Office shall provide a copy of such certificate of conditional eligibility to the Department of Finance. If the initial application is disapproved, the Office shall provide the authorized applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the authorized applicant's initial application. If the initial application is disapproved as premature, an authorized applicant may resubmit the application.
+
+   (5) Applications shall be reviewed by the Office in the order they are received.
+
+(b) Notification. The approved applicant shall notify the Office, in writing, on the date principal and ongoing photography begins on the qualified film. In addition, the approved applicant shall provide a sign off budget or its equivalent and other supporting documents requested by the Office on this date.
+
+(c) Final application.
+
+   (1) Within ninety (90) days after the completion of production of a qualified film, or, if a written extension request is submitted, one hundred fifty (150) days after the completion of production, the approved applicant shall submit a final application to the Office.
+
+   (2) The Office shall approve or disapprove the final application based upon criteria set forth in 43 RCNY § 7-06(b). The Office may request additional documentation, including copies of receipts of qualified production costs, in connection with its consideration of the final application. If the final application is approved, the Office shall issue a certificate of tax credit to the approved applicant. The Office shall provide a copy of such certificate of tax credit to the Department of Finance. If the final application is disapproved, the Office shall provide the applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the applicant's final application.
+
+
+
+
+
+
+*§ 7-04 [Reserved]* ::
+
+
+The Office shall allocate the amount of the credits allocated for each calendar year in order of priority based upon an applicant's effective date. In the event that an approved applicant's New York City Made In New York production tax credit would exceed the maximum amount of credits allowed for that given year, the approved applicant will be allocated credits on a priority basis in the immediately succeeding calendar year. A maximum of $12.5 million of credits may be allocated in 2004 and 2005, and $30 million in 2006 through 2011.
+
+
+
+
+
+
+*§ 7-06 Criteria for Evaluation of Applications.* ::
+
+
+(a)  Initial application. In the event that any of the following criteria are not met, or in the event that the Office concludes that the authorized applicant knowingly submitted false or misleading information, the Office shall disapprove the initial application:
+
+   (1) the application is substantially complete;
+
+   (2) the application is not premature and is submitted prior to the start of principal and ongoing photography;
+
+   (3) the application is submitted within one hundred eighty (180) days of the start of the principal and ongoing photography;
+
+   (4) the authorized applicant is a qualified film production company;
+
+   (5) the authorized applicant intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
+
+   (6) the authorized applicant is planning to produce a qualified film;
+
+   (7) the qualified film will be completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
+
+   (8) the authorized applicant's projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are likely to equal or exceed seventy-five percent of the projected production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
+
+   (9) in the event that the projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film are expected to equal or exceed seventy-five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film.
+
+(b) Final application. In the event that any of the following criteria are not met, or the Office determines that the approved applicant knowingly submitted false or misleading information, the Office shall disapprove the final application:
+
+   (1) the application is substantially complete;
+
+   (2) the approved applicant shot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
+
+   (3) the application is submitted with respect to a completed qualified film that was completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
+
+   (4) the approved applicant's actual date of completion of production of the qualified film was within one year of its projected completion date;
+
+   (5) the final application was submitted within ninety (90) days after the completion of production of a qualified film, or, if a written extension request has been submitted, one hundred fifty (150) days after the completion of production;
+
+   (6) the approved applicant's actual qualified production costs paid or incurred (excluding post-production costs) which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of the qualified film equaled or exceeded seventy-five percent of the production costs (excluding post-production costs) paid or incurred that were attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
+
+   (7) in the event that the actual qualified production costs (excluding post-production costs) paid or incurred that are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film equaled or exceeded seventy five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film. If the shooting days spent in New York equaled or exceeded the seventy five percent threshold, the Office shall include in their calculation of the New York City Made In New York film production tax credit the portion of qualified production costs attributable to the use of tangible property or the performance of services in the production of a qualified film outside of a qualified film production facility.
+
+(c) For purposes of this section, the Office may consider whether an authorized applicant executes or has executed an agreement with the Office that obligates the authorized applicant to include the Office's "Made In New York" logo in the screen credits of the qualified film indicating receipt of the tax credit.
+
+
+
+
+
+
+*§ 7-07 Record Retention.* ::
+
+
+Each authorized and approved applicant must maintain records, in paper or electronic form, of any qualified productions costs used to calculate its potential or actual benefit(s) under this program for a minimum of three years from the date of filing of the tax return on which the applicant claims the tax credit. The Office shall have the right to request such records upon reasonable notice.
+
+
+
+
+
+
+*§ 7-08 Appeal Process.* ::
+
+
+If the authorized applicant's initial application or an approved applicant's final application is disapproved by the Office, or if the approved applicant disagrees with the amount of the tax credit granted by the Office, the applicant may appeal such determination. In the case of an appeal from a disapproval of an initial or final application, such appeal shall be made by sending a letter to the City of New York Mayor's Office of Film, Theatre and Broadcasting, Attn: Commissioner, 1697 Broadway, New York, NY 10019, within thirty (30) days from the date of the denial letter issued by the Office. In the case of an appeal from a determination of the amount of the tax credit, such appeal shall be made by sending a letter to the same address as listed above within thirty (30) days from the date of issuance of the certificate of tax credit. Failure to request an appeal within thirty (30) days will finalize the denial decision and/or the amount of the tax credit. Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review. Such appeal officer will make a report on the appeal to the Commissioner. The Commissioner or his designee shall issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appellant within ten (10) days after the date the Commissioner or his designee renders the final order.
+
+
+
+
+
+
+*§ 7-09 Applicability.* ::
+
+
+The amendments made by the rules that added this section shall not apply to initial or final applications submitted prior to the effective date of such amendments, with the exception of the amendments made to 43 RCNY § 7-05 by § 4 of such rules.
+
+
+
+
 Chapter 6: City Environmental Quality Review (CEQR) [Executive Order No. 91 of 1977, As Amended]
 --------------------------------------------------
 
@@ -570,7 +771,7 @@ Chapter 6: City Environmental Quality Review (CEQR) [Executive Order No. 91 of 1
 
 [Additional definitions, City Planning Rules 43 RCNY § 5-02(c).] As used herein, the following terms shall have the indicated meanings unless noted otherwise:
 
-Action.[Modified by City Planning Rules 43 RCNY § 5-02(c)(2).] "Action" means any activity of an agency, other than an exempt action enumerated in 43 RCNY § 6-04 of this chapter, including but not limited to the following:
+Action.[Modified by City Planning Rules 43 RCNY § 5-02(c)(2).] "Action" means any activity of an agency, other than an exempt action enumerated in 43 RCNY § 6-04, including but not limited to the following:
 
    (1) non-ministerial decisions on physical activities such as construction or other activities which change the use or appearance of any natural resource or structure;
 
@@ -598,7 +799,7 @@ Environmental assessment form. [Retitled Environmental Assessment Statement; see
 
 Environmental impact statement (EIS). "Environmental impact statement (EIS)" means any written document prepared in accordance with 43 RCNY §§ 6-08, 6-10, 6-12 and 6-13. An EIS may either be in a draft or a final form.
 
-Environmental report. "Environmental report" means a report to be submitted to the lead agencies by a non-agency applicant when the lead agencies prepares or cause to be prepared a draft EIS for an action involving such an applicant. An environmental report shall contain an analysis of the environmental factors specified in 43 RCNY § 6-10 of this chapter as they relate to the applicant's proposed action and such other information as may be necessary for compliance with this chapter, including the preparation of an EIS.
+Environmental report. "Environmental report" means a report to be submitted to the lead agencies by a non-agency applicant when the lead agencies prepares or cause to be prepared a draft EIS for an action involving such an applicant. An environmental report shall contain an analysis of the environmental factors specified in 43 RCNY § 6-10 as they relate to the applicant's proposed action and such other information as may be necessary for compliance with this chapter, including the preparation of an EIS.
 
 Lead agencies. [Inapplicable, City Planning Rules 43 RCNY § 5-02(a). Superseded by City Planning Rules 43 RCNY § 5-02(b)(1) and 43 RCNY § 5-02(c)(3)(vi); also see City Planning Rules 43 RCNY § 5-03 for choice of lead agency.]"Lead agencies" means the Department of Environmental Protection and the Department of City Planning of the City of New York, as designated by the Mayor pursuant to § 617.4 of Part 617 of Volume 6 of the New York Code of Rules and Regulations, for the purpose of implementing the provisions of Article 8 of the Environmental Conservation Law (SEQRA) in the City of New York, by order dated December 23, 1976.
 
@@ -630,7 +831,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 (a) [See also City Planning Rules 43 RCNY § 5-04(e)] If an action under consideration by an agency may involve a "major federal action significantly affecting the quality of the human environment under the National Environmental Policy Act of 1969," then the following procedures shall apply:
 
-   (1) in the case of an action for which there has been duly prepared both a draft EIS and a final EIS, no agency shall have an obligation to prepare an EIS or to make findings pursuant to 43 RCNY § 6-12 of this chapter.
+   (1) in the case of an action for which there has been duly prepared both a draft EIS and a final EIS, no agency shall have an obligation to prepare an EIS or to make findings pursuant to 43 RCNY § 6-12.
 
    (2) in the case of an action for which there has been prepared a Negative Declaration or other written threshold determination that the action will not require a federal impact statement under the National Environmental Policy Act of 1969, the lead agencies shall determine whether or not the action may have a significant effect on the environment pursuant to this chapter, and the action shall be fully subject to the same.
 
@@ -656,7 +857,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 [See also City Planning Rules 43 RCNY § 5-02(d).] The following actions shall not be subject to the provisions of this chapter:
 
-(a) projects or activities classified as Type I pursuant to 43 RCNY § 6-15 of this chapter directly undertaken or funded by an agency prior to June 1, 1977 except that if such action is sought to be modified after June 1, 1977, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of [;this chapter;
+(a) projects or activities classified as Type I pursuant to 43 RCNY § 6-15 directly undertaken or funded by an agency prior to June 1, 1977 except that if such action is sought to be modified after June 1, 1977, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of [;this chapter;
 
    (1) such actions include, but are not limited to, those actions defined in 43 RCNY § 6-09. "Action" (1), (2), (3) and (4) of [;this chapter;
 
@@ -682,7 +883,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
       (iii) in the case of an action involving federal or state participation, a draft EIS has been prepared pursuant to the National Environmental Policy Act of 1969 or SEQRA, respectively.
 
-(c) projects or activities not otherwise classified as Type I pursuant to 43 RCNY § 6-15 of this chapter directly undertaken, funded or approved by an agency prior to November 1, 1978 except that if such action is sought to be modified after November 1, 1978, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of this chapter;
+(c) projects or activities not otherwise classified as Type I pursuant to 43 RCNY § 6-15 directly undertaken, funded or approved by an agency prior to November 1, 1978 except that if such action is sought to be modified after November 1, 1978, which modification may have a significant adverse effect on the environment, then such modification shall be an action fully subject to the requirements of this chapter;
 
    (1) such actions include, but are not limited to, those actions defined in 43 RCNY § 6-02 "Action" of this chapter;
 
@@ -690,7 +891,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 (d) enforcement or criminal proceedings or the exercise of prosecutorial discretion in determining whether or not to institute such proceedings;
 
-(e) [;See City Planning Rules 43 RCNY § 5-02(d).]; ministerial actions, which shall appear on a list compiled, certified and made available for public inspection by the lead agencies, except as provided in 43 RCNY § 6-15(a), Type I, of this chapter, relating to critical areas and historic resources;
+(e) [;See City Planning Rules 43 RCNY § 5-02(d).]; ministerial actions, which shall appear on a list compiled, certified and made available for public inspection by the lead agencies, except as provided in 43 RCNY § 6-15(a), Type I, relating to critical areas and historic resources;
 
 (f) maintenance or repair involving no substantial changes in existing structures or facilities;
 
@@ -710,11 +911,11 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 (a) [Inapplicable, City Planning Rules 43 RCNY § 5-02(a). Superseded by City Planning Rules 43 RCNY § 5-05(a). See also City Planning Rules 43 RCNY § 5-02(b)(2) and 43 RCNY § 5-02(d).]Each agency shall ascertain whether an application need be filed pursuant to this section, employing lists of actions, classified as either exempt, Type I or Type II pursuant to 43 RCNY §§ 6-04
 									 and 6-15
-									 of this chapter, respectively, which lists shall be certified by the lead agencies.
+									, respectively, which lists shall be certified by the lead agencies.
 
-(b) [Introductory paragraph inapplicable, City Planning Rules 43 RCNY § 5-02(a). Paragraph (b) superseded by City Planning Rules § 5-08.] The applicant initiating the proposed action, other than an exempt or Type II action pursuant to 43 RCNY § 6-04 of this chapter, shall file an application with the lead agencies, which application shall include a Project Data Statement and such other documents and additional information as the lead agencies may require to conduct an environmental analysis to determine whether the action may or will not have a significant effect on the environment. Where possible existing City applications shall be modified to incorporate this procedure and a one-stop review process developed;
+(b) [Introductory paragraph inapplicable, City Planning Rules 43 RCNY § 5-02(a). Paragraph (b) superseded by City Planning Rules § 5-08.] The applicant initiating the proposed action, other than an exempt or Type II action pursuant to 43 RCNY § 6-04, shall file an application with the lead agencies, which application shall include a Project Data Statement and such other documents and additional information as the lead agencies may require to conduct an environmental analysis to determine whether the action may or will not have a significant effect on the environment. Where possible existing City applications shall be modified to incorporate this procedure and a one-stop review process developed;
 
-   (1) within 20 calendar days of receipt of a determination pursuant to 43 RCNY § 6-03(b) of this chapter, if applicable, the lead agencies shall notify the applicant, in writing, whether the application is complete or whether additional information is required;
+   (1) within 20 calendar days of receipt of a determination pursuant to 43 RCNY § 6-03(b), if applicable, the lead agencies shall notify the applicant, in writing, whether the application is complete or whether additional information is required;
 
    (2) [Determination pursuant to 43 RCNY § 5-03(b) deemed to refer to lead agency selection pursuant to City Planning Rules 43 RCNY § 5-03. See City Planning Rules 43 RCNY § 5-02(b)(3).] when all required information has been received, the lead agencies shall notify the applicant, in writing, that the application is complete.
 
@@ -756,7 +957,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
    (10) changes in two or more elements of the environment, no one of which is substantial, but taken together result in a material change to the environment.
 
-(b) [Reference to 43 RCNY § 6-15 Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 43 RCNY § 5-02(b)(2).] For the purpose of determining whether an action will cause one of the foregoing consequences, the action shall be deemed to include other contemporaneous or subsequent actions which are included in any long-range comprehensive integrated plan of which the action under consideration is a part, which are likely to be undertaken as a result thereof, or which are dependent thereon. The significance of a likely consequence (i.e., where it is material, substantial, large, important, etc.) should be assessed in connection with its setting, its probability of occurring, its duration, its irreversibility, its controllability, its geographic scope and its magnitude (i.e., degree of change or its absolute size). Section 6-15 of this chapter refers to lists of actions which are likely to have a significant effect on the environment and contains lists of actions found not to have a significant effect on the environment.
+(b) [Reference to 43 RCNY § 6-15 Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 43 RCNY § 5-02(b)(2).] For the purpose of determining whether an action will cause one of the foregoing consequences, the action shall be deemed to include other contemporaneous or subsequent actions which are included in any long-range comprehensive integrated plan of which the action under consideration is a part, which are likely to be undertaken as a result thereof, or which are dependent thereon. The significance of a likely consequence (i.e., where it is material, substantial, large, important, etc.) should be assessed in connection with its setting, its probability of occurring, its duration, its irreversibility, its controllability, its geographic scope and its magnitude (i.e., degree of change or its absolute size). 43 RCNY § 6-15 refers to lists of actions which are likely to have a significant effect on the environment and contains lists of actions found not to have a significant effect on the environment.
 
 
 
@@ -766,15 +967,15 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 *§ 6-07 Determination of Significant Effect – Notification.* ::
 
 
-(a) [Error. Reference to 43 RCNY § 6-05(a) should be to 43 RCNY § 6-05(b).] The lead agencies shall determine within 15 calendar days following notification of completion of the application pursuant to 43 RCNY § 6-05(a) of this chapter whether the proposed action may have a significant effect on the environment;
+(a) [Error. Reference to 43 RCNY § 6-05(a) should be to 43 RCNY § 6-05(b).] The lead agencies shall determine within 15 calendar days following notification of completion of the application pursuant to 43 RCNY § 6-05(a) whether the proposed action may have a significant effect on the environment;
 
-   (1) [Reference to 43 RCNY § 6-15(b) Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 43 RCNY § 5-02(b)(2).] In making their determination, the lead agencies shall employ the Environmental Assessment Form, apply the criteria contained in 43 RCNY § 6-06 and consider the lists of actions contained in 43 RCNY § 6-15 of this chapter;
+   (1) [Reference to 43 RCNY § 6-15(b) Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See City Planning Rules 43 RCNY § 5-02(b)(2).] In making their determination, the lead agencies shall employ the Environmental Assessment Form, apply the criteria contained in 43 RCNY § 6-06 and consider the lists of actions contained in 43 RCNY § 6-15;
 
    (2) The lead agencies may consult with, and shall receive the cooperation of any other agency before making their determination pursuant to this subdivision (a).
 
 (b) The lead agencies shall provide written notification to the applicant immediately upon determination of whether the action may or will not have a significant effect on the environment. Such determination shall be in one of the following forms:
 
-   (1) Negative Declaration. [Reference to 43 RCNY § 6-15, Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See Rules 43 RCNY §§ 5-02(b)(2).] If the lead agencies determine that the proposed action is not an exempt action or a Type II action pursuant to 43 RCNY §§ 6-04 and 6-15 of this chapter, respectively, and that the action will not have a significant effect on the environment, they shall issue a Negative Declaration which shall contain the following information:
+   (1) Negative Declaration. [Reference to 43 RCNY § 6-15, Type II list, deemed to be State Type II list of 6 NYCRR Part 617.13. See Rules 43 RCNY §§ 5-02(b)(2).] If the lead agencies determine that the proposed action is not an exempt action or a Type II action pursuant to 43 RCNY §§ 6-04 and 6-15, respectively, and that the action will not have a significant effect on the environment, they shall issue a Negative Declaration which shall contain the following information:
 
       (i) an action identifying number;
 
@@ -818,7 +1019,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 (a) Non-agency applicants. 
 
-   (1) [Rules add formal scoping, City Planning Rules 43 RCNY § 5-07. Interested and involved agencies assist with DEIS on request. See City Planning Rules 43 RCNY § 5-05(b)(2).] After receipt of a Notice of Determination pursuant to 43 RCNY § 6-07(c)(3) of this chapter, a non-agency applicant shall notify the lead agencies in writing as to whether it will exercise its option to prepare or cause to be prepared a draft EIS, and as to whom it has designated to prepare the draft EIS, provided that no person so designated shall have an investment or employment interest in the ultimate realization of the proposed action;
+   (1) [Rules add formal scoping, City Planning Rules 43 RCNY § 5-07. Interested and involved agencies assist with DEIS on request. See City Planning Rules 43 RCNY § 5-05(b)(2).] After receipt of a Notice of Determination pursuant to 43 RCNY § 6-07(c)(3), a non-agency applicant shall notify the lead agencies in writing as to whether it will exercise its option to prepare or cause to be prepared a draft EIS, and as to whom it has designated to prepare the draft EIS, provided that no person so designated shall have an investment or employment interest in the ultimate realization of the proposed action;
 
    (2) [See also City Planning Rules 43 RCNY § 5-05(b)(3) for requirements of lead consultation on mitigations.] The lead agencies may prepare or cause to be prepared a draft EIS for an action involving a non-agency applicant. In such event, the applicant shall provide, upon request, an environmental report to assist the lead agencies in preparing or causing to be prepared the draft EIS and such other information as may be necessary. All agencies shall fully cooperate with the lead agencies in all matters relating to the preparation of the draft EIS.
 
@@ -952,13 +1153,13 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 (a) [Interested and involved agencies assist with FEIS on request, City Planning Rules 43 RCNY § 5-05(b)(2).] Except as provided in paragraph (1) of this subdivision, the lead agencies shall prepare or cause to be prepared a final EIS within 30 calendar days after the close of a public hearing.
 
-   (1) If the proposed action has been withdrawn or if, on the basis of the draft EIS and the hearing, the lead agencies have determined that the action will not have a significant effect on the environment, no final EIS shall be prepared. In such cases, the lead agencies shall prepare, file and circulate a Negative Declaration as prescribed in 43 RCNY § 6-07 of this chapter.
+   (1) If the proposed action has been withdrawn or if, on the basis of the draft EIS and the hearing, the lead agencies have determined that the action will not have a significant effect on the environment, no final EIS shall be prepared. In such cases, the lead agencies shall prepare, file and circulate a Negative Declaration as prescribed in 43 RCNY § 6-07.
 
    (2) The final EIS shall reflect a revision and updating of the matters contained in the draft EIS in light of further review by the lead agencies, comments received and the record of the public hearing.
 
-(b) Immediately upon the completion of a final EIS, the lead agencies shall prepare, file, circulate and make available for public inspection a Notice of Completion of a final EIS in a manner specified in 43 RCNY § 6-11(a) of this chapter, provided, however, that the Notice shall not contain the statement described in subparagraph (a)(1)(iv) of such section.
+(b) Immediately upon the completion of a final EIS, the lead agencies shall prepare, file, circulate and make available for public inspection a Notice of Completion of a final EIS in a manner specified in 43 RCNY § 6-11(a), provided, however, that the Notice shall not contain the statement described in subparagraph (a)(1)(iv) of such section.
 
-(c) Immediately upon completion of a final EIS, copies shall be filed and made available for public inspection in the same manner as the draft EIS pursuant to 43 RCNY § 6-11(b) of this chapter.
+(c) Immediately upon completion of a final EIS, copies shall be filed and made available for public inspection in the same manner as the draft EIS pursuant to 43 RCNY § 6-11(b).
 
 
 
@@ -980,7 +1181,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
    (2) consistent with social, economic and other essential considerations of state and city policy, all practicable means will be taken in carrying out or approving the action to minimize or avoid adverse environmental effects.
 
-(c) For public information purposes, a copy of the Decision shall be filed in the same manner as the draft EIS pursuant to 43 RCNY § 6-11(b) of this chapter.
+(c) For public information purposes, a copy of the Decision shall be filed in the same manner as the draft EIS pursuant to 43 RCNY § 6-11(b).
 
 
 
@@ -1055,207 +1256,6 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
    (2) [Inapplicable. Replaced by State Type II list 6 NYCRR Part 617.13. See City Planning Rules 43 RCNY § 5-02(a) and 43 RCNY § 5-02(b)(2).] Pursuant to SEQRA, as amended, a list of Type II actions shall be promulgated prior to July 1, 1978, to become effective on September 1, 1978.
 
 Effective Date.[See new City Planning transition Rules 43 RCNY § 5-08 and 43 RCNY § 5-11. New Rules effective Oct. 1, 1991.]
-
-
-
-
-Chapter 7: New York City Made In New York Film Production Tax Credit Program
---------------------------------------------------
-
-
-
-*§ 7-01 Purpose and General Description.* ::
-
-
-(a)  The purpose of these regulations is to set forth the application process for the New York City Made In New York Film Production Tax Credit program established by Local Law Number 2 of the Year 2005, as amended by Local Law No. 24 of the Year 2006, pursuant to subdivision (b) of § 1201-a of the Tax Law. The Mayor's Office of Film, Theatre and Broadcasting has authority to promulgate regulations to establish procedures for the allocation of such credits including, but not limited to, the application process, standards for application evaluations, and any other provisions deemed necessary and appropriate. The Mayor's Office of Film, Theatre and Broadcasting shall administer the program, including the issuance of tax credit certificates. These regulations do not govern the New York State film production tax credit program. Eligibility in and receipt of a tax credit in the New York State program does not guarantee eligibility in or receipt of a tax credit in the New York City Made In New York film production tax credit program. In addition, eligibility in and receipt of a tax credit in the New York City Made In New York film production tax credit program does not guarantee eligibility in or receipt of a tax credit in the New York State program.
-
-(b) A taxpayer which has been issued a certificate of tax credit shall be allowed to claim a New York City Made in New York film production tax credit pursuant to §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York, whichever is applicable.
-
-(c) Such tax credit shall only be allowed with respect to a qualified film that is completed on or after January 1, 2005. For this purpose, a film will be considered completed upon substantial completion of post-production.
-
-
-
-
-
-
-*§ 7-02 Definitions.* ::
-
-
-As used in this regulation, the following terms shall have the following meanings:
-
-(a) Authorized applicant. "Authorized applicant" means a qualified film production company that is scheduled to begin principal and ongoing photography on the qualified film no more than ninety (90) days after submitting an initial application to the Office and intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets.
-
-(b) Approved applicant. "Approved applicant" means an authorized applicant that has been issued a certificate of conditional eligibility by the Office.
-
-(c) Certificate of conditional eligibility. "Certificate of conditional eligibility" means a certificate issued by the Office which states that the authorized applicant has met the criteria set forth in 43 RCNY § 7-06(a) of this chapter and is being considered for the New York City Made In New York film production tax credit, pending successful completion of the final application and issuance of a certificate of tax credit. Such certificate of conditional eligibility shall include, but not be limited to, the following information: name and address of the authorized applicant, effective date, taxpayer identification number, a statement that the initial application meets the appropriate criteria for conditional eligibility under this regulation and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
-
-(d) Certificate of tax credit. "Certificate of tax credit" means a certificate issued by the Office which states the amount of the New York City Made In New York film production tax credit that the approved applicant has qualified for, based on the Office's analysis under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such certificate shall include, but not be limited to, the following information: name and address of the approved applicant, name of the qualified film the credit applies to, the amount of the tax credit to be received by the approved applicant and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
-
-(e) Completeness of the application. "Completeness of the application" means that all questions on the application itself were fully addressed by either the authorized or approved applicant and that any additional substantiating documents that were requested by the Office were provided in a manner sufficient to allow the Office to properly evaluate the application.
-
-(f) Completion of production of a qualified film. "Completion of production of a qualified film" for purposes of paragraph (1) of subdivision (c) of 43 RCNY § 7-03 and paragraphs (4) and (5) of subdivision (b) of 43 RCNY § 7-06 and subdivision (k) of 43 RCNY § 7-02, means that post-production of a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for the striking of prints or electronic copies, and/or ready for broadcast or delivery to a distributor. All activities and expenses related to marketing and distribution, including the making of release prints, video dupes or other forms of copies, promotional images, and poster art are considered to occur after the production of a qualified film is completed.
-
-(g) Commissioner. "Commissioner" means the Commissioner of the City of New York Mayor's Office of Film, Theatre and Broadcasting.
-
-(h) Effective date. "Effective date" means the date the certificate of conditional eligibility becomes effective. Such date is determined by the date the initial application is received by the Office. In the event that the applicant's principal and ongoing photography on a qualified film does not actually begin within ninety (90) days of the submission of the initial application, the applicant's effective date will be recalculated to correspond to the date ninety (90) days prior to the date that the approved applicant submits, and the Office receives, a notification of actual commencement of principal and ongoing photography. If the actual commencement of principal and ongoing photography does not begin within one hundred eighty (180) days of submission of the initial application, the application shall no longer be deemed valid.
-
-(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the home video market that has a running time of at least seventy-five (75) minutes in length.
-
-(j) Film production facility. "Film production facility" means a building and/or complex of buildings and their improvements and associated back-lot facilities in which films are or are intended to be regularly produced and which contain at least one sound stage.
-
-(k) Final application. "Final application" means a document created by the Office and submitted by an approved applicant after it has completed production of a qualified film which contains information concerning actual expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but not be limited to: actual data with regard to the qualified film's total budget, the total production costs at film production facilities in and outside of New York, and the total number of shooting days in and outside of New York and any other information the Office determines is necessary to properly evaluate the application.
-
-(l) Initial application. "Initial application" means a document created by the Office and submitted by an authorized applicant which contains information concerning projected expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but is not limited to, the following information: the estimated total budget for the qualified film, estimates of expenditures at a qualifying production facility, estimates of shooting days and expenditures in New York City and outside of New York City and any other information the Office determines is necessary to properly evaluate the application.
-
-(m) Notification of actual commencement of principal and ongoing photography. "Notification of actual commencement of principal and ongoing photography" means the date the Office receives written notice from the approved applicant that the actual production of a qualified film, including the principal and ongoing photography, has commenced on a date specified in such notice, which date is on or before the date that the approved applicant has submitted such notice.
-
-(n) Office. "Office" means the City of New York Mayor's Office of Film, Theatre and Broadcasting.
-
-(o) Pre-production. "Pre-production" means the process of preparation for actual physical production which begins after a qualified film has received a firm agreement of financial commitment ("greenlit") with, for example, the establishment of a dedicated production office, the hiring of key crew members such as a Unit Production Manager, Line Producer and Location Manager, and includes, but is not limited to, activities such as location scouting, hiring of crew, and execution of contracts with vendors of equipment and stage space.
-
-(p) [Reserved.]
-
-(q) Priority number. "Priority number" means the number used by the Office to determine allocation of the New York City Made In New York film production tax credit. Priority number shall be based on the applicant's effective date; provided, however, that in the event that there is more than one initial application with the same effective date, priority shall be given to the authorized applicant with the earliest anticipated date of commencement of principal and ongoing photography. Provided further that if the principal and ongoing photography does not begin on the anticipated date, and the commencement date is within the one hundred eighty (180)-day limitation provided in subdivision (h) of this section, such priority number shall be recalculated based upon the date that the Office receives notification of actual commencement of principal and ongoing photography from the approved applicant.
-
-(r) Post-production. "Post-production" means the final stage in a qualified film's production after principal and ongoing photography is completed, including, but not limited to, editing, Foley recording, Automatic Dialogue Replacement, sound editing, special effects, scoring and music editing, beginning and end credits, negative cutting, soundtrack production, the addition of sound/visual effects, dubbing, and subtitling. Advertising and marketing activities and expenses are not included in post-production.
-
-(s) Premature application. "Premature application" means an initial application in which the Office reasonably determines that the applicant cannot commence principal and ongoing photography within ninety (90) days of the date the initial application was submitted. Such determination may, but is not required to, be based on, among other things, vagueness of the applicant's answers on the initial application and during the initial interview and lack of documentation supporting an applicant's initial application.
-
-(t) Principal and ongoing photography. "Principal and ongoing photography" means the filming of major and significant portions of a qualified film that involves the lead actors.
-
-(u) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. Production costs shall not include (i) costs for a story, script or scenario to be used for a qualified film and (ii) wages or salaries or other compensation for writers, directors, including music directors, producers, actors and performers (other than background actors or other performers with no scripted lines). Production costs generally include technical and crew production costs, such as expenditures for film production facilities, or any part thereof, props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
-
-(v) Qualified film. "Qualified film" means a feature-length film, television film, television pilot and/or each episode of a television series, regardless of the medium by means of which the film, pilot or episode is created or conveyed. Qualified film shall not include (i) a documentary film, news or current affairs program, interview or talk program, magazine program, variety or skit program, "how-to" (i.e., instructional) film or program, film or program consisting primarily of stock footage, sporting event or sporting program, game show, award ceremony, film or program intended primarily for industrial, corporate or institutional end-users, fundraising film or program, daytime drama (i.e., daytime "soap opera"), commercials, music videos or "reality" program or (ii) a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
-
-(w) Qualified film production company. "Qualified film production company" means a corporation, partnership, limited partnership, or other entity or individual which or who is principally engaged in the production of a qualified film and controls the qualified film during production and is responsible for payment of the direct production expenses (including pre and post-production) and is a signatory to the qualified film's contracts with its payroll company and facility operators.
-
-(x) Qualified film production facility. "Qualified film production facility" means a film production facility in New York City, which contains at least one sound stage having a minimum of seven thousand square feet of contiguous production space.
-
-(y) Qualified production costs. "Qualified production costs" means production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
-
-(z) Sound stage. "Sound stage" means a large interior room or space which provides a controlled environment in which filming takes place on sets built or assembled specifically for the production.
-
-(aa) Television film. "Television film", which may also be known as "movie-of-the-week," "mow," "made for television movie," or "mini-series," means a production intended for broadcast on television, whether free or via a subscription-based service, that has a running time of at least ninety (90) minutes in length (inclusive of commercial advertisement and interstitial programming).
-
-(bb) Television pilot. "Television pilot" means the initial episode produced for a proposed episodic television series. This category will include shorter formats which are known as "television presentation," a production of at least fifteen (15) minutes in length, produced for the purposes of selling a proposed television series, but not intended for broadcast.
-
-(cc) Television series. "Television series", which may also be known as "episodic television series," means a regularly occurring production intended in its initial run for broadcast no more than once weekly, on television, whether free or via subscription-based service, that has a running time of at least thirty (30) minutes in length (inclusive of commercial advertisement and interstitial programming).
-
-
-
-
-
-
-*§ 7-03 Application Process.* ::
-
-
-For the purposes of this Chapter, only an authorized applicant shall be eligible to apply for the New York City Made In New York film production tax credit.
-
-(a) Initial application.
-
-   (1) An authorized applicant shall submit an initial application to the Office prior to the start of principal and ongoing photography.
-
-   (2) The authorized applicant shall have an interview with the Office to discuss the details of the initial application. A producer and either the line producer, unit production manager, production accountant or their designee, approved by the Office, shall attend such meeting.
-
-   (3) The Office shall approve or disapprove the initial application based upon criteria set forth in 43 RCNY § 7-06(a) of these rules.
-
-   (4) If the initial application is approved, the Office shall issue a certificate of conditional eligibility to the authorized applicant. The Office shall provide a copy of such certificate of conditional eligibility to the Department of Finance. If the initial application is disapproved, the Office shall provide the authorized applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the authorized applicant's initial application. If the initial application is disapproved as premature, an authorized applicant may resubmit the application.
-
-   (5) Applications shall be reviewed by the Office in the order they are received.
-
-(b) Notification. The approved applicant shall notify the Office, in writing, on the date principal and ongoing photography begins on the qualified film. In addition, the approved applicant shall provide a sign off budget or its equivalent and other supporting documents requested by the Office on this date.
-
-(c) Final application.
-
-   (1) Within ninety (90) days after the completion of production of a qualified film, or, if a written extension request is submitted, one hundred fifty (150) days after the completion of production, the approved applicant shall submit a final application to the Office.
-
-   (2) The Office shall approve or disapprove the final application based upon criteria set forth in 43 RCNY § 7-06(b). The Office may request additional documentation, including copies of receipts of qualified production costs, in connection with its consideration of the final application. If the final application is approved, the Office shall issue a certificate of tax credit to the approved applicant. The Office shall provide a copy of such certificate of tax credit to the Department of Finance. If the final application is disapproved, the Office shall provide the applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the applicant's final application.
-
-
-
-
-
-
-*§ 7-04 [Reserved]* ::
-
-
-The Office shall allocate the amount of the credits allocated for each calendar year in order of priority based upon an applicant's effective date. In the event that an approved applicant's New York City Made In New York production tax credit would exceed the maximum amount of credits allowed for that given year, the approved applicant will be allocated credits on a priority basis in the immediately succeeding calendar year. A maximum of $12.5 million of credits may be allocated in 2004 and 2005, and $30 million in 2006 through 2011.
-
-
-
-
-
-
-*§ 7-06 Criteria for Evaluation of Applications.* ::
-
-
-(a)  Initial application. In the event that any of the following criteria are not met, or in the event that the Office concludes that the authorized applicant knowingly submitted false or misleading information, the Office shall disapprove the initial application:
-
-   (1) the application is substantially complete;
-
-   (2) the application is not premature and is submitted prior to the start of principal and ongoing photography;
-
-   (3) the application is submitted within one hundred eighty (180) days of the start of the principal and ongoing photography;
-
-   (4) the authorized applicant is a qualified film production company;
-
-   (5) the authorized applicant intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
-
-   (6) the authorized applicant is planning to produce a qualified film;
-
-   (7) the qualified film will be completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
-
-   (8) the authorized applicant's projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are likely to equal or exceed seventy-five percent of the projected production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
-
-   (9) in the event that the projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film are expected to equal or exceed seventy-five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film.
-
-(b) Final application. In the event that any of the following criteria are not met, or the Office determines that the approved applicant knowingly submitted false or misleading information, the Office shall disapprove the final application:
-
-   (1) the application is substantially complete;
-
-   (2) the approved applicant shot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
-
-   (3) the application is submitted with respect to a completed qualified film that was completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
-
-   (4) the approved applicant's actual date of completion of production of the qualified film was within one year of its projected completion date;
-
-   (5) the final application was submitted within ninety (90) days after the completion of production of a qualified film, or, if a written extension request has been submitted, one hundred fifty (150) days after the completion of production;
-
-   (6) the approved applicant's actual qualified production costs paid or incurred (excluding post-production costs) which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of the qualified film equaled or exceeded seventy-five percent of the production costs (excluding post-production costs) paid or incurred that were attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
-
-   (7) in the event that the actual qualified production costs (excluding post-production costs) paid or incurred that are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film equaled or exceeded seventy five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film. If the shooting days spent in New York equaled or exceeded the seventy five percent threshold, the Office shall include in their calculation of the New York City Made In New York film production tax credit the portion of qualified production costs attributable to the use of tangible property or the performance of services in the production of a qualified film outside of a qualified film production facility.
-
-(c) For purposes of this section, the Office may consider whether an authorized applicant executes or has executed an agreement with the Office that obligates the authorized applicant to include the Office's "Made In New York" logo in the screen credits of the qualified film indicating receipt of the tax credit.
-
-
-
-
-
-
-*§ 7-07 Record Retention.* ::
-
-
-Each authorized and approved applicant must maintain records, in paper or electronic form, of any qualified productions costs used to calculate its potential or actual benefit(s) under this program for a minimum of three years from the date of filing of the tax return on which the applicant claims the tax credit. The Office shall have the right to request such records upon reasonable notice.
-
-
-
-
-
-
-*§ 7-08 Appeal Process.* ::
-
-
-If the authorized applicant's initial application or an approved applicant's final application is disapproved by the Office, or if the approved applicant disagrees with the amount of the tax credit granted by the Office, the applicant may appeal such determination. In the case of an appeal from a disapproval of an initial or final application, such appeal shall be made by sending a letter to the City of New York Mayor's Office of Film, Theatre and Broadcasting, Attn: Commissioner, 1697 Broadway, New York, NY 10019, within thirty (30) days from the date of the denial letter issued by the Office. In the case of an appeal from a determination of the amount of the tax credit, such appeal shall be made by sending a letter to the same address as listed above within thirty (30) days from the date of issuance of the certificate of tax credit. Failure to request an appeal within thirty (30) days will finalize the denial decision and/or the amount of the tax credit. Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review. Such appeal officer will make a report on the appeal to the Commissioner. The Commissioner or his designee shall issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appellant within ten (10) days after the date the Commissioner or his designee renders the final order.
-
-
-
-
-
-
-*§ 7-09 Applicability.* ::
-
-
-The amendments made by the rules that added this section shall not apply to initial or final applications submitted prior to the effective date of such amendments, with the exception of the amendments made to 43 RCNY § 7-05 by § 4 of such rules.
 
 
 
@@ -1385,9 +1385,9 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
       (ii) Filming or photography of a parade, rally, protest, or demonstration except when using vehicles or equipment.
 
-   (2) Optional Permits: Persons who are engaged in filming or still photography and are not otherwise required to obtain a permit pursuant to paragraph (1) of subdivision (b) of this section may be issued an Optional Permit. a.  Persons requesting such an Optional Permit shall provide accurate information concerning their postal address and, if available, e-mail address, telephone number and fax number; and accurate information as to the location(s) of such activities, the date(s) and time(s) during which such activities are proposed to take place. b.  MOFTB shall process Optional Permit requests in accordance with the provisions of paragraphs four, five, six, seven, eight, nine and ten of subdivision (b) of 43 RCNY § 9-02 of these rules.
+   (2) Optional Permits: Persons who are engaged in filming or still photography and are not otherwise required to obtain a permit pursuant to paragraph (1) of subdivision (b) of this section may be issued an Optional Permit. a.  Persons requesting such an Optional Permit shall provide accurate information concerning their postal address and, if available, e-mail address, telephone number and fax number; and accurate information as to the location(s) of such activities, the date(s) and time(s) during which such activities are proposed to take place. b.  MOFTB shall process Optional Permit requests in accordance with the provisions of paragraphs four, five, six, seven, eight, nine and ten of subdivision (b) of 43 RCNY § 9-02.
 
-(c) Press passes. The use of a press pass issued by the New York City Police Department ("NYPD") in accordance with Chapter 11 of Title 38 of the Rules of the City of New York ("Press Credentials"), where an individual is acting in furtherance of the activity authorized by such press pass, and is engaged in filming as defined in these rules, does not require that a permit be obtained pursuant to this chapter.
+(c) Press passes. The use of a press pass issued by the New York City Police Department ("NYPD") in accordance with 38 RCNY Chapter 11 ("Press Credentials"), where an individual is acting in furtherance of the activity authorized by such press pass, and is engaged in filming as defined in these rules, does not require that a permit be obtained pursuant to this chapter.
 
 (d) Authorization from other agencies: Notwithstanding the provisions of subdivision (a) of this section, scouting, rigging or shooting activities within City parks or the interiors of City buildings, bridges or tunnels require, if applicable, separate authorization from the City agency with jurisdiction over the location. The use of certain items or activities, including but not limited to animals, firearms (actual or simulated), special effects, pyrotechnics, police uniforms, police vehicles, driving shots with tow or camera rigs, and conditions that require holding of traffic may require authorization and/or assistance from the relevant government agency.
 
@@ -1439,7 +1439,7 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
       c. At the same time, or some time thereafter, an applicant shall seek a scouting, rigging, and/or shooting permit.
 
-      d. At the same time, or prior thereto, the applicant shall have obtained and provided to MOFTB a certificate of insurance for a policy that reflects the requirements contained in 43 RCNY § 9-03 of this chapter.
+      d. At the same time, or prior thereto, the applicant shall have obtained and provided to MOFTB a certificate of insurance for a policy that reflects the requirements contained in 43 RCNY § 9-03.
 
    (2) New Project Account Application contents. Applicants shall complete an application, on a form prescribed by MOFTB, which shall contain detailed identifying information about the applicant and the project. In completing such form, applications shall provide the information set forth below.
 
@@ -1614,7 +1614,7 @@ Chapter 10: Green Building Standards
 *§ 10-02 Selected Green Building Rating System.* ::
 
 
-Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and after June 26, 2009 the "selected green building rating system" is the Leadership in Energy and Environmental Design (LEED) 2009 New Construction and Major Renovations Rating System, LEED 2009 for Commercial Interiors Rating System, LEED 2009 for Schools New Construction and Major Renovations Rating System, LEED 2009 for Core and Shell Development Rating System, and LEED 2009 for Existing Buildings: Operations and Maintenance Rating System published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines except that for projects that either received funding from the city treasury or received design approval prior to June 26, 2009 or that applied to the United States Green Building Council for certification prior to June 26, 2009, the selected green building rating system may be New Construction version 2.2, Existing Buildings version 2.0, or Commercial Interiors version 2.0 of the Leadership in Energy and Environmental Design (LEED) building rating system published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines. Except as otherwise provided in subdivision (a) of 43 RCNY § 10-05 of this chapter for calculation of required reductions in energy cost, the selected green building rating system shall apply to capital projects subject to subdivision (b) of § 224.1 of the Charter unless an alternative, not less stringent, green building standard has been specifically approved by the Director of the Office of Environmental Coordination as set forth in such subdivision.
+Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and after June 26, 2009 the "selected green building rating system" is the Leadership in Energy and Environmental Design (LEED) 2009 New Construction and Major Renovations Rating System, LEED 2009 for Commercial Interiors Rating System, LEED 2009 for Schools New Construction and Major Renovations Rating System, LEED 2009 for Core and Shell Development Rating System, and LEED 2009 for Existing Buildings: Operations and Maintenance Rating System published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines except that for projects that either received funding from the city treasury or received design approval prior to June 26, 2009 or that applied to the United States Green Building Council for certification prior to June 26, 2009, the selected green building rating system may be New Construction version 2.2, Existing Buildings version 2.0, or Commercial Interiors version 2.0 of the Leadership in Energy and Environmental Design (LEED) building rating system published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines. Except as otherwise provided in subdivision (a) of 43 RCNY § 10-05 for calculation of required reductions in energy cost, the selected green building rating system shall apply to capital projects subject to subdivision (b) of § 224.1 of the Charter unless an alternative, not less stringent, green building standard has been specifically approved by the Director of the Office of Environmental Coordination as set forth in such subdivision.
 
 
 
@@ -1624,7 +1624,7 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
 *§ 10-03 Applicability.* ::
 
 
-(a)  Except as otherwise provided in subdivision (b) of this section, capital projects within spaces classified in the occupancy groups listed in paragraph (1) of this subdivision having one or more of the six characteristics listed in paragraph (2) of this subdivision, are subject to this chapter and the green building requirements of § 224.1 of the Charter, summarized in 43 RCNY § 10-04 of this chapter.
+(a)  Except as otherwise provided in subdivision (b) of this section, capital projects within spaces classified in the occupancy groups listed in paragraph (1) of this subdivision having one or more of the six characteristics listed in paragraph (2) of this subdivision, are subject to this chapter and the green building requirements of § 224.1 of the Charter, summarized in 43 RCNY § 10-04.
 
    (1) Occupancy Groups.
 
@@ -1985,7 +1985,7 @@ Chapter 11: Environmental Preferable Purchasing Program
 *§ 11-02 Applicability, Exemptions and Waivers.* ::
 
 
-Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstanding sections 6-302(a)(3)(i)-(vi) of the administrative code of the city of New York, these rules shall apply to products purchased or leased by any agency or purchased or leased by a contractor pursuant to any contract with any agency for construction work in any building, such contracts being designated as being subject to this chapter, pursuant to section 6-302 of the administrative code of the city of New York on the applicability of the environmentally preferable purchasing program contained in chapter three of title six of such code. These rules shall be subject to any exemption or waiver contained in section 6-303 of such code or contained in any other provision of such chapter.
+Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstanding § 6-302(a)(3)(i)-(vi) of the Administrative Code of the City of New York, these rules shall apply to products purchased or leased by any agency or purchased or leased by a contractor pursuant to any contract with any agency for construction work in any building, such contracts being designated as being subject to this chapter, pursuant to § 6-302 of the Administrative Code of the City of New York on the applicability of the environmentally preferable purchasing program contained in chapter three of title six of such code. These rules shall be subject to any exemption or waiver contained in § 6-303 of the Administrative Code or contained in any other provision of such chapter.
 
 
 
@@ -2258,13 +2258,13 @@ Any of the following mercury-added lamps shall comply with the standards specifi
       - Minimum Lamp Life (Rated Hours)
       - Maximum Mercury (mg.)
     * - T5 
-      - 46-48 
+      - 46 - 48 
       - 28 
       - 2,700 
       - 20,000 
       - 5 
     * - T5 High Output 
-      - 45-46 
+      - 45 - 46 
       - 54 
       - 4,600 
       - 20,000 
@@ -2391,7 +2391,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
       - 15 
     * - T12 U-Bent, 6"Spacing 
       - Any 
-      - 31-32/34 
+      - 31 - 32/34 
       - 2,000 
       - 18,000 
       - 8 
@@ -2775,7 +2775,7 @@ Chapter 12: Waivers from Inclusion In the Doing Business Database
 *§ 12-01 Purpose.* ::
 
 
-The purpose of this chapter is to set forth the procedure for persons to seek waivers from inclusion in the doing business database as described in paragraph (c) of subdivision 18 of section 3-702 of the administrative code.
+The purpose of this chapter is to set forth the procedure for persons to seek waivers from inclusion in the doing business database as described in paragraph (c) of subdivision 18 of § 3-702 of the administrative code.
 
 
 
@@ -2787,15 +2787,15 @@ The purpose of this chapter is to set forth the procedure for persons to seek wa
 
 For the purposes of this chapter, the following terms shall have the following meanings:
 
-(a) Agency. "Agency" shall mean the city of New York or any agency or entity affiliated with the city of New York as defined in paragraph (a) of subdivision 18 of section 3-702 of the administrative code.
+(a) Agency. "Agency" shall mean the city of New York or any agency or entity affiliated with the city of New York as defined in paragraph (a) of subdivision 18 of § 3-702 of the administrative code.
 
-(b) Business dealings with the city. "Business dealings with the city" shall have the same meaning as in paragraph (a) of subdivision 18 of section 3-702 of the administrative code.
+(b) Business dealings with the city. "Business dealings with the city" shall have the same meaning as in paragraph (a) of subdivision 18 of § 3-702 of the administrative code.
 
 (c) City chief procurement officer or CCPO. "City chief procurement officer" or "CCPO" shall mean the person to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers.
 
-(d) Doing business database. "Doing business database" shall mean the database established pursuant to subdivision 20 of section 3-702 of the administrative code.
+(d) Doing business database. "Doing business database" shall mean the database established pursuant to subdivision 20 of § 3-702 of the administrative code.
 
-(e) Person. "Person" shall have the same meaning as in subdivision 20 of section 3-702 of the administrative code.
+(e) Person. "Person" shall have the same meaning as in subdivision 20 of § 3-702 of the administrative code.
 
 
 
@@ -2815,7 +2815,7 @@ A waiver may be requested by any person having business dealings with the city i
 *§ 12-04 Procedure for Requesting Waiver.* ::
 
 
-(a)  Any person seeking a waiver from the doing business database in connection with a transaction considered a business dealing with the city shall obtain a waiver application form from the CCPO as described in section 12-07 of this chapter. The waiver applicant shall provide all information that is required of waiver applicants and submit the application to the agency involved with the transaction.
+(a)  Any person seeking a waiver from the doing business database in connection with a transaction considered a business dealing with the city shall obtain a waiver application form from the CCPO as described in 43 RCNY § 12-07. The waiver applicant shall provide all information that is required of waiver applicants and submit the application to the agency involved with the transaction.
 
 (b) Within ten (10) business days of receipt of the waiver application from the applicant, the agency shall provide all information that is required of agencies and submit the completed application to the CCPO. The CCPO shall notify the waiver applicant when the waiver application is received from the agency.
 
@@ -2835,7 +2835,7 @@ A waiver may be requested by any person having business dealings with the city i
 *§ 12-05 Public Notice of Waiver Approvals.* ::
 
 
-All approved waivers shall be posted on the websites of both the CCPO and the campaign finance board in locations that are accessible by the public. In the event that an independently elected official (or an agency under the control of such an official), submits a written response for consideration by the CCPO pursuant to section 12-04(e), a copy of such response shall be included in the CCPO's public posting.
+All approved waivers shall be posted on the websites of both the CCPO and the campaign finance board in locations that are accessible by the public. In the event that an independently elected official (or an agency under the control of such an official), submits a written response for consideration by the CCPO pursuant to 43 RCNY § 12-04(e), a copy of such response shall be included in the CCPO's public posting.
 
 
 
@@ -2869,7 +2869,7 @@ Waivers granted under these rules apply only to the requirement that information
 
       (ii) whether no other reasonable alternative exists in light of such considerations as cost, uniqueness and the critical nature of such goods, services or construction to the accomplishment of the agency's mission;
 
-      (iii) the efforts undertaken by the agency to obtain from the waiver applicant the information required to establish the doing business database in accordance with subdivision 20 of section 3-702 of the administrative code; and
+      (iii) the efforts undertaken by the agency to obtain from the waiver applicant the information required to establish the doing business database in accordance with subdivision 20 of § 3-702 of the administrative code; and
 
       (iv) whether the agency believes that it would be in the best interests of the city for the waiver application to be granted.
 
@@ -2904,7 +2904,7 @@ A waiver shall be granted only after substantial efforts have been made by the C
 
 
 
-Chapter 13: Indigent Defense Plan For the City of New York Section 13-01
+Chapter 13: Indigent Defense Plan For the City of New York
 --------------------------------------------------
 
 
@@ -2979,6 +2979,199 @@ Attorneys on the Criminal Panels representing or who have represented indigent p
 
 
 
+Chapter 15: New York City 'Made In New York Marketing Credit Program'
+--------------------------------------------------
+
+
+
+*§ 15-01 Purpose and general description.* ::
+
+
+(a) The "Made in New York Marketing Credit Program" ("the Program"), established and administered by the Mayor's Office of Media and Entertainment ("MOME"), offers "Made in New York" film and television productions a number of opportunities to promote their project in major media markets that are City-Owned assets or are privately owned and operated media outlets with which the City has established relationships. Qualified "Made in New York" productions that apply and are approved for this Program will be provided media outlets including, but not limited to, bus shelters, subway cars, and broadcasts on New York City Media group television stations. The amount of media advertising offered will be determined by certain production costs as defined in this rule. In exchange for the marketing credits, recipients will be required to make a monetary contribution to a New York City cultural institution approved by the New York City Department of Cultural Affairs or a non-profit organization with proposals for program funding on a Participatory Budgeting New York City ballot. The "Made in NY" logo must be included in all media advertising.
+
+(b) The purpose of this rule is to outline the application process for the Program. These procedures govern the allocation of marketing credits, including the application process, standards for assessing evaluations, and other provisions necessary and appropriate for fulfilling the purposes of the Program.
+
+(c) In order to receive the marketing credit, a marketing credit recipient must donate a Community Benefit to a New York City cultural institution or non-profit organization within thirty (30) days of completion of the authorized applicant's media campaign.
+
+
+
+
+
+
+
+
+*§ 15-02 Definitions.* ::
+
+
+As used in this rule, the following terms have the following meanings:
+
+(a) Application form. "Application form" means the document created by the Office that is submitted by an authorized applicant to receive "Made in New York Marketing Credit Program" credit after it has completed production of a qualified film. The application form will include a list of non-profit cultural institutions and community organizations approved by the New York City Department of Cultural Affairs and Participatory Budgeting New York City, respectively, as eligible for Program donations.
+
+(b) Authorized applicant. "Authorized applicant" means a qualified film/television production and/or distribution company that is distributing a qualified film.
+
+(c) Certificate of marketing credit. "Certificate of marketing credit" means a certificate issued by the Office which establishes the amount of media assets for which the approved applicant has qualified, based on the Office's analysis according to the provisions of this chapter. The certificate will include such information as name and address of the authorized applicant; name of the qualified film in connection with which the credit applies; the amount of media assets to be received by the approved applicant; and a disclaimer stating that actual receipt of the marketing credit is subject to availability of media assets for the Program.
+
+(d) Completion of the application. "Completion of the application" means that all questions on an application have been fully addressed by an authorized applicant and that any additional supporting documents requested by the Office have been provided in a manner sufficient to allow the Office to properly evaluate the application.
+
+(e) Commissioner. "Commissioner" means the Commissioner of the New York City Office of Media and Entertainment.
+
+(f) Community Benefit. "Community Benefit" means a monetary contribution to a New York City cultural institution or community organization of (1) a minimum of $10,000 (ten thousand dollars) for any qualified film with qualified production costs equal to $10,000,000 (ten million dollars) or more, or (2) 0.1% (one-tenth per cent) of the qualified production costs for any qualified film having qualified production costs less than $10,000,000 (ten million dollars).
+
+(g) Effective date. "Effective date" means the date of the first usage of the marketing credit, i.e., when media assets are first utilized. The effective date is determined by the authorized applicant based on media asset availability provided by the Office.
+
+(h) End credit requirements. “End credit requirements” means those acknowledgements that an authorized applicant agrees to include in each qualified film as a condition for participation in the Program. Each qualified film must include in the end credits: (1) the “Made in NY” logo; and (2) the phrase “The ‘Made in NY’ logo is a trademark of the City of New York and is used with the City’s permission.”
+
+(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the public that is sixty (60) minutes or longer in length.
+
+(j) Marketing credit. "Marketing credit" means an allocation of media assets available free of charge to a qualified film.
+
+(k) Media asset. "Media asset" means available advertising media including, but not limited to, bus shelters, subway cars, taxi TV, and broadcasts on New York City Media group television stations that the Office makes available for this purpose.
+
+(l) New York City cultural institution or community organization. "New York City cultural institution or non-profit community organization" means an Internal Revenue Code § 501(c)(3) non-profit organization identified by the New York City Department of Cultural Affairs or through Participatory Budgeting New York City as an organization which supports and strengthens New York City's creative community or neighborhoods.
+
+(m) Office or MOME. "Office" or "MOME" means the New York City Mayor's Office of Media and Entertainment.
+
+(n) Priority number. "Priority number" means the number assigned by the Office to determine allocation of the marketing credit. "Priority number" will be based on the date an authorized applicant has submitted a completed application; provided, however, that in the event that there is more than one application with the same date, priority will be given to the authorized applicant having the earliest anticipated date of release of the qualified film.
+
+(o) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. "Production costs" do not include (1) costs for a story, script or scenario to be used for a qualified film or (2) wages, salaries or other compensation for writers, directors (including music directors), producers, actors and performers (other than background actors or other performers with no scripted lines). "Production costs" generally include below-the-line costs, as defined by industry standards, including but not limited to technical and crew production costs, such as expenditures for film production facilities props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
+
+(p) Qualified film. "Qualified film" means a feature-length film, television film, television special, and/or television series, regardless of the medium by means of which it is created or conveyed, of which: (1) 75% of its total shooting days take place in New York City, or (2) 75% of its production costs are "qualified production costs." A "qualified film" must have production costs of at least $400,000 and must have completed production no earlier than twenty-four (24) months prior to the date of application to the Program. A "qualified film", if distributed exclusively over the Internet, must be distributed through a paid subscription-based streaming service or advertiser supported streaming service. "Qualified film" does not include a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
+
+(q) Qualified film/television production and or distribution company. "Qualified film/television production and or distribution company" means a corporation, partnership, limited partnership, or other entity or individual that is principally engaged in the distribution of a qualified film, controls the qualified film during release, and is responsible for payment of the cultural component.
+
+(r) Qualified production costs. "Qualified production costs" means the below-the-line production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
+
+(s) Release of a qualified film. "Release of a qualified film" means that the post-production work in connection with a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for broadcast or delivery to a distributor.
+
+(t) Television film. "Television film", also known as "movie-of-the-week," "MOW," "made for television movie," or "mini-series," means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least sixty (60) minutes in length (exclusive of commercial advertisement and interstitial programming).
+
+(u) Television special. "Television special" means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length (exclusive of commercial advertisement and interstitial programming). "Television special" includes, but is not limited to, an awards show and a telethon.
+
+(v) Television series. "Television series" means a regularly occurring production on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length per episode (exclusive of commercial advertisement and interstitial programming). "Television series" includes, but is not limited to, late-night variety series, daily news series, situation comedies, single camera comedies, reality series, game shows, morning news and newsmagazine shows.
+
+
+
+
+
+
+
+
+*§ 15-03 Application process.* ::
+
+
+For the purposes of this chapter, only an authorized applicant will be eligible to apply for the New York City Made in New York Marketing Credit Program.
+
+(a) The application form required for the Program will be available on the Office's website, and must be completed and submitted by an authorized applicant to the Office through its U.S. postal mail or email address as set forth in the application form. In addition, applicants may submit such application through private delivery services including, but not limited to, Federal Express, United Postal Service (UPS) or private messenger. In addition to providing contact information including its name, postal address, electronic (email) address and fax number, the applicant must also submit information about total production costs at film production facilities in and outside of New York; the total number of shooting days in and outside of New York; and any other information the Office determines is necessary to properly evaluate the application.
+
+(b) An authorized applicant may submit an application for a qualified film that is a television series no more than once a year.
+
+(c) The authorized applicant must include information about the date that the qualified film is set to make its debut in theatres, on television, online, on DVD or any and all media. The application must be received at least sixty (60) days prior to the release date.
+
+(d) Applications will be reviewed by the Office in the order they are received.
+
+(e) The Office will approve or disapprove the application based upon criteria outlined in 43 RCNY § 15-04(a).
+
+(f) The Office will advise the authorized applicant about whether its request has been approved, by U.S. postal service or electronic mail, no later than twenty (20) business days from receipt of the application. The notification will inform the applicant of such approval or disapproval. If approved, the notification will inform the applicant the amount and type of media assets available for the promotional media campaign during the dates requested on the application.
+
+
+
+
+
+
+
+
+*§ 15-04 Evaluation of applications.* ::
+
+
+(a) In order to be approved for marketing credit, each of the following requirements must be satisfied:
+
+   (1) the application is substantially complete;
+
+   (2) the authorized applicant is a producer and/or distributor with a qualified film or television series;
+
+   (3) the authorized applicant's qualified production costs paid or incurred are attributable to the use of tangible property or the performance of services in the production of a qualified film;
+
+   (4) the authorized applicant has identified the cultural institution or community organization to which it will make a payment as part of the Program; and
+
+   (5) the authorized applicant intends to comply with the end credit requirements set forth in 43 RCNY § 15-02(h).
+
+(b) In the event that all of the criteria outlined in this section are not met, or in the event that the Office concludes that the authorized applicant has knowingly submitted false or misleading information, the Office will disapprove the application.
+
+
+
+
+
+
+
+
+*§ 15-05 Allocation of New York City Made in New York marketing credit.* ::
+
+
+(a) When an application has been approved the Office will allocate the credit in order of priority based upon submission date of an application and subject to the availability of media assets. In the event that an marketing credit recipient is unable to use the media assets after the credit has been allocated, such recipient will lose its "first come, first served" status and will be accommodated subject to availability without guarantee of reallocation.
+
+(b) The Office will allocate the credit based on a project's qualified production costs. The amount of qualified production costs will determine which of the following three tiers an applicant would qualify for:
+
+   Tier 1: Qualified production costs of $10 million (ten million dollars) or more
+
+   Tier 2: Qualified production costs of at least $5 million (five million dollars) and less than $10 million (ten million dollars)
+
+   Tier 3: Qualified production costs of at least $400,000 (four hundred thousand dollars) and less than $5 million (five million dollars)
+
+(c) Depending on the availability of media assets, the Office will determine the amount and type of media assets assigned to each tier, which will be allocated to marketing credit recipients according to their tier category.
+
+(d) Productions that have qualified production costs of $10 million or more, or are produced (i) by a company of which more than 5 percent of the beneficial ownership is owned directly or indirectly by a publicly traded entity, or (ii) by a company having more than $35 million in annual revenue, must pay for the costs, if any, of printing materials for distribution through the media assets assigned under the credit.
+
+(e) If a marketing credit recipient does not pay the Community Benefit within thirty (30) days of the completion of such recipient's media campaign, such recipient may be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
+
+
+
+
+
+
+
+
+*§ 15-06 Appeal process.* ::
+
+
+(a) If an authorized applicant's application is disapproved by the Office, or if a marketing credit recipient disagrees with the amount of the media assets granted by the Office, each such person or entity may appeal such determination.
+
+(b) In the case of an appeal from a disapproval of an application, an authorized applicant can request an appeal by sending a letter to the Mayor's Office of Media and Entertainment, Attn: Commissioner, to the address and by the means specified in the application form, within thirty (30) days from the date of the denial letter issued by the Office.
+
+(c) In the case of an appeal from a determination of the amount of media assets, a marketing credit recipient can request an appeal by sending a letter to the Commissioner as provided in Subdivision (b), within thirty (30) days from the date of issuance of the certificate of marketing credit.
+
+(d) If an authorized applicant or a marketing credit recipient fails to request an appeal within thirty (30) days of the Office's denial decision and/or allocated amount of media assets, such decision will be deemed final.
+
+(e) Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review the matter. The appeal officer may reverse, affirm or modify the original determination and provide a written explanation of his or her finding in a report to the Commissioner. The Commissioner or his or her designee must issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appealing person or entity within ten (10) days after the date the Commissioner or his or her designee renders the final order.
+
+
+
+
+
+
+
+
+*§ 15-07 Final report.* ::
+
+
+As part of the community benefit component of the Program, within thirty (30) days after the completion of a marketing credit recipient's media campaign, such recipient must submit to the Office by U.S. mail, email or fax, proof of payment to the identified New York City cultural institution, in the form of a cancelled check or letter of acknowledgment. Such recipients who have not satisfied this component of the Program will be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
+
+
+
+
+
+
+
+
+*§ 15-08 Record retention.* ::
+
+
+Each marketing credit recipient must maintain records, in paper or electronic form, of any qualified productions costs used to calculate the media assets received through this Program for a minimum of three years from the date of filing of the tax return applicable to the time period for which such recipient claims the marketing credit. The Office has the right to request such records upon reasonable notice.
+
+
+
+
+
+
 Chapter 14: Environmental Remediation
 --------------------------------------------------
 
@@ -3008,13 +3201,13 @@ For the purposes of this subchapter, the following terms shall have the followin
 
 a. "Affordable housing development" means a development that will be built by a developer on a qualified local brownfield site where at least twenty percent of the housing units are affordable to families that earn no more than eighty percent of the average median income of an area, as determined by the United States department of housing and urban development, and that has been issued a letter of interest from a federal, state or local housing subsidy program.
 
-b. "Alternatives analysis" means a study undertaken to develop and evaluate options for remedial action in accordance with section 43-1407(i).
+b. "Alternatives analysis" means a study undertaken to develop and evaluate options for remedial action in accordance with 43 RCNY § 43-1407(i).
 
 c. "Applicant" means a person who has submitted a request to participate in the City voluntary cleanup program but is not yet an enrollee.
 
 d. "Change of use" means the transfer of title to all or part of a qualified local brownfield site that results in a change in the party or parties implementing a site management plan; the erection of any structure on the site; the creation of a park or other public or private recreational facility on the site, or any activity that is likely to disrupt or expose contamination or to increase direct human exposure to contamination; or any other conduct that will or may tend to significantly interfere with an ongoing or completed remedial program at such site and the continued ability to implement the engineering and institutional controls associated with such site, including such condition as may be included in a property's site management plan.
 
-e. "Citizen participation plan" is a site-specific plan for citizen involvement in a remedial program, as provided in section 24-905 of the administrative code of the city of New York, section 27-1417(2) of the New York state environmental conservation law, and 6 New York codes, rules, and regulations ("NYCRR") part 375-1.10(c).
+e. "Citizen participation plan" is a site-specific plan for citizen involvement in a remedial program, as provided in § 24-905 of the administrative code of the city of New York, § 27-1417(2) of the New York state environmental conservation law, and 6 New York codes, rules, and regulations ("NYCRR") part 375-1.10(c).
 
 f. "Community facility development" means a development that will be built by a developer on a qualified local brownfield site where the development provides specific benefits to the local community, including but not limited to, a community facility use pursuant to the zoning resolution.
 
@@ -3056,7 +3249,7 @@ y. "Groundwater" means water below the land surface in a saturated zone of soil 
 
 z. "Hazardous materials e-designation" means the designation of an (E) pursuant to § 11-15 of the zoning resolution of the city of New York, because of potential soil contamination at a rezoned property.
 
-aa. "Hazardous waste" means a hazardous waste as defined in section 27-1301 of the New York state environmental conservation law.
+aa. "Hazardous waste" means a hazardous waste as defined in § 27-1301 of the New York state environmental conservation law.
 
 bb. "Historic fill material" means non-indigenous material, deposited or disposed of to raise the topographic elevation of real property, which material may have been contaminated prior to emplacement, and is in no way connected with the subsequent operations at the location of the emplacement and which includes, without limitation, construction and demolition debris including uncontaminated solid waste resulting from the construction, remodeling, repair and demolition of utilities, structures, land clearing and roads. It may also include solid waste resulting from dredge spoils, incinerator residue, demolition debris, coal ash, fly ash, and non-hazardous waste. "Historic fill material" does not include any material which is chemical production waste or waste from processing of metal or mineral ores, residues, slag or tailings. In addition, historic fill material does not include a municipal solid waste site built after nineteen hundred sixty two.
 
@@ -3068,9 +3261,9 @@ ee. "Local brownfield cleanup agreement" or "agreement" means an agreement execu
 
 ff. "Non-aqueous phase liquid" means a contaminant that is a liquid which may be denser or lighter than water and does not mix easily or dissolve in water, but remains as a separate phase.
 
-gg. "Notice holder" means the enrollee named in the notice of completion issued by the office, as well as such enrollee's successors and assigns who have received a transfer of such notice in accordance with section 43-1408(g).
+gg. "Notice holder" means the enrollee named in the notice of completion issued by the office, as well as such enrollee's successors and assigns who have received a transfer of such notice in accordance with 43 RCNY § 43-1408(g).
 
-hh. "Notice of completion" means a written notice that is issued by the office to an enrollee who has successfully investigated and remediated a qualified local brownfield site to the satisfaction of the office. Notice of completion shall have the same meaning as certificate of completion, as defined in section 24-902 of the administrative code of the city of New York.
+hh. "Notice of completion" means a written notice that is issued by the office to an enrollee who has successfully investigated and remediated a qualified local brownfield site to the satisfaction of the office. Notice of completion shall have the same meaning as certificate of completion, as defined in § 24-902 of the administrative code of the city of New York.
 
 ii. "Office" means the office of environmental remediation.
 
@@ -3092,7 +3285,7 @@ oo. "Permanent cleanup" means a cleanup or remedy that would allow a site to be 
 
 pp. "Person" means an individual, trust, firm, joint stock company, limited liability company, corporation, joint venture, partnership, association, state, municipality, commission, political subdivision of a state, public benefit corporation or any interstate body.
 
-qq. "Petroleum" means petroleum as defined in section 172 of the New York state navigation law and section 17-1003 of the New York state environmental conservation law.
+qq. "Petroleum" means petroleum as defined in section 172 of the New York state navigation law and § 17-1003 of the New York state environmental conservation law.
 
 rr. "Professional engineer" means an individual or firm licensed or otherwise authorized under article one hundred forty-five of the New York state education law to practice engineering.
 
@@ -3108,7 +3301,7 @@ uu. "Qualified local brownfield site" or "site."
 
    1. Except as provided in paragraph 3 of this subdivision, "qualified local brownfield site" or "site" means:
 
-      A. any real property within the city, the redevelopment or reuse of which may be complicated by the presence or potential presence of detectable levels of contamination, as defined in section 24-902 of the administrative code of the city of New York as light to moderate levels of contamination, including real property containing historic fill material and real property rejected from or ineligible for the state brownfield cleanup program pursuant to title 14 of article 27 of the New York state environmental conservation law and excluding any real property that meets the definition of a coordinated brownfield site; or
+      A. any real property within the city, the redevelopment or reuse of which may be complicated by the presence or potential presence of detectable levels of contamination, as defined in § 24-902 of the administrative code of the city of New York as light to moderate levels of contamination, including real property containing historic fill material and real property rejected from or ineligible for the state brownfield cleanup program pursuant to title 14 of article 27 of the New York state environmental conservation law and excluding any real property that meets the definition of a coordinated brownfield site; or
 
       B. any real property that meets the definition of a coordinated brownfield site.
 
@@ -3118,9 +3311,9 @@ uu. "Qualified local brownfield site" or "site."
 
       A. containing discharges of petroleum, except coordinated brownfield sites;
 
-      B. listed or proposed for listing in the state registry of inactive hazardous waste disposal sites pursuant to section 27-1305 of the New York state environmental conservation law and classified as either (i) causing or presenting an imminent danger of causing irreversible or irreparable damage to the public health or environment – immediate action required, (ii) significant threat to the public health or environment – action required, (iii) does not present a significant threat to the public health or environment – action may be deferred, or (iv) site properly closed – requires continued management;
+      B. listed or proposed for listing in the state registry of inactive hazardous waste disposal sites pursuant to § 27-1305 of the New York state environmental conservation law and classified as either (i) causing or presenting an imminent danger of causing irreversible or irreparable damage to the public health or environment – immediate action required, (ii) significant threat to the public health or environment – action required, (iii) does not present a significant threat to the public health or environment – action may be deferred, or (iv) site properly closed – requires continued management;
 
-      C. a site which the office determines is a suspected inactive hazardous waste site pursuant to section 27-1303 of the New York state environmental conservation law;
+      C. a site which the office determines is a suspected inactive hazardous waste site pursuant to § 27-1303 of the New York state environmental conservation law;
 
       D. listed or proposed to be listed on the national priorities list pursuant to 42 U.S.C. § 9605;
 
@@ -3226,13 +3419,13 @@ c. Application contents.
 
    2. Applications, including attachments, shall be submitted electronically.
 
-   3. Applications shall include (A) a completed application form, (B) a completed City voluntary cleanup agreement, pursuant to section 43-1405, executed by the applicant, and (C) a remedial investigation report and a remedial action work plan or, when permitted or otherwise required by the office, a remedial investigation work plan.
+   3. Applications shall include (A) a completed application form, (B) a completed City voluntary cleanup agreement, pursuant to 43 RCNY § 43-1405, executed by the applicant, and (C) a remedial investigation report and a remedial action work plan or, when permitted or otherwise required by the office, a remedial investigation work plan.
 
    4. Applications shall also include a citizen participation plan, a proposed document repository, a notice of the application and a draft fact sheet describing all work plans or reports submitted with the application. The notice of application and fact sheet must be approved by the office prior to release to the site contact list.
 
    5. Applications shall state the basis for which the property meets the definition of a qualified local brownfield site.
 
-      A. An application that states that a property meets the definition of a qualified local brownfield site based on section 43-1402(uu)(1)(A) shall include a confirmation of such statement from a qualified environmental professional, made after the completion of the remedial investigation report. The office shall not execute a final City voluntary cleanup agreement for entry into the program without receipt of this confirmation. The office shall independently evaluate whether the property meets the definition of a qualified local brownfield site based on section 43-1402(uu)(1)(A).
+      A. An application that states that a property meets the definition of a qualified local brownfield site based on 43 RCNY § 43-1402(uu)(1)(A) shall include a confirmation of such statement from a qualified environmental professional, made after the completion of the remedial investigation report. The office shall not execute a final City voluntary cleanup agreement for entry into the program without receipt of this confirmation. The office shall independently evaluate whether the property meets the definition of a qualified local brownfield site based on 43 RCNY § 43-1402(uu)(1)(A).
 
       B. An application that states that a property meets the definition of a qualified local brownfield site based on its meeting the definition of a coordinated brownfield site shall include a detailed statement setting forth the environmental conditions that are the basis for the site being a coordinated brownfield site. In addition to technical information regarding the environmental conditions, such statement shall specify whether the environmental conditions have already been reported to the state and/or federal government and whether the state and/or federal government has issued any approval or disapproval of any work plan at the site. The applicant shall include with the application copies of any and all documents concerning the federal and state involvement in the cleanup.
 
@@ -3244,17 +3437,17 @@ d. General review and approval of application. The office shall review the appli
 
 e. Admission into the City voluntary cleanup program. The office shall evaluate complete applications for eligibility and, if the applicant is eligible, shall admit the applicant into the program.
 
-   1. Qualified local brownfield sites that are not coordinated brownfield sites. If the office determines that a property meets the definition of a qualified local brownfield site based on section 43-1402(uu)(1)(A) and the applicant meets all other conditions of eligibility pursuant to section 43-1403, the office shall admit the applicant into the program.
+   1. Qualified local brownfield sites that are not coordinated brownfield sites. If the office determines that a property meets the definition of a qualified local brownfield site based on 43 RCNY § 43-1402(uu)(1)(A) and the applicant meets all other conditions of eligibility pursuant to 43 RCNY § 43-1403, the office shall admit the applicant into the program.
 
    2. Qualified local brownfield sites that are coordinated brownfield sites. When an applicant proposes a property as a coordinated brownfield site for entry into the City voluntary cleanup program, the following process shall apply:
 
-      A. if the office determines that such property is a coordinated brownfield site, and if the applicant meets all other conditions of eligibility pursuant to section 43-1403, the office shall admit the applicant into the program. For a coordinated brownfield site:
+      A. if the office determines that such property is a coordinated brownfield site, and if the applicant meets all other conditions of eligibility pursuant to 43 RCNY § 43-1403, the office shall admit the applicant into the program. For a coordinated brownfield site:
 
          i. the office shall coordinate investigation and remediation with the appropriate state or federal agency; and
 
          ii. the office shall not issue a notice of completion for such property until a notice is received from the applicable state and/or federal agency that the cleanup has been completed.
 
-      B. if the office determines that such property is not a coordinated brownfield site because the state and/or federal agency has not provided express written authorization, and the office determines that a portion of such property may meet the definition of a qualified local brownfield site based on section 43-1402(uu)(1)(A), the office may allow the applicant to amend its application to (i) describe the site boundaries, pursuant to section 43-1405(a)(1), that meet the definition of a qualified local brownfield site based on section 43-1402(uu)(1)(A), and (ii) comply with subparagraph A of paragraph five of subdivision c of this section. The office shall evaluate the modified application pursuant to paragraph one of this subdivision.
+      B. if the office determines that such property is not a coordinated brownfield site because the state and/or federal agency has not provided express written authorization, and the office determines that a portion of such property may meet the definition of a qualified local brownfield site based on 43 RCNY § 43-1402(uu)(1)(A), the office may allow the applicant to amend its application to (i) describe the site boundaries, pursuant to 43 RCNY § 43-1405(a)(1), that meet the definition of a qualified local brownfield site based on 43 RCNY § 43-1402(uu)(1)(A), and (ii) comply with subparagraph A of paragraph five of subdivision c of this section. The office shall evaluate the modified application pursuant to paragraph one of this subdivision.
 
          i. If the applicant does not so modify the application, the office shall reject the application.
 
@@ -3286,7 +3479,7 @@ a. The following terms and conditions apply to City voluntary cleanup agreements
 
    1. Description of site boundaries. The City voluntary cleanup agreement shall contain a description of the site's boundaries.
 
-   2. The enrollee shall provide access to the site and all relevant information regarding activities at the site, including all environmental studies and testing, in accordance with section 24-903(f) of the administrative code of the city of New York.
+   2. The enrollee shall provide access to the site and all relevant information regarding activities at the site, including all environmental studies and testing, in accordance with § 24-903(f) of the administrative code of the city of New York.
 
    3. Enrollment fee.
 
@@ -3304,7 +3497,7 @@ The enrollee shall include the project name and project number on its check.
 
       E. The office may waive all or part of the enrollment fee where:
 
-         i. a qualified local brownfield site is within a New York state brownfield opportunity area pursuant to section 970-r of the New York state general municipal law and its proposed development and reuse is consistent with the strategic brownfield goals established in a brownfield opportunity area plan and/or as stated in a letter to the office from a brownfield opportunity area grantee who has an executed brownfield opportunity area contract with the state;
+         i. a qualified local brownfield site is within a New York state brownfield opportunity area pursuant to § 970-r of the New York state general municipal law and its proposed development and reuse is consistent with the strategic brownfield goals established in a brownfield opportunity area plan and/or as stated in a letter to the office from a brownfield opportunity area grantee who has an executed brownfield opportunity area contract with the state;
 
          ii. the proposed development on the qualified local brownfield site is an affordable housing development;
 
@@ -3346,7 +3539,7 @@ The enrollee shall include the project name and project number on its check.
 
       A. If a condition that requires reporting and/or notice to a state and/or federal agency, including a release of petroleum, is found to exist on a site during the course of the remedial program, then the enrollee shall immediately notify the appropriate state and/or federal agency in accordance with applicable law and regulation and provide copies of such notification to the office. In such event the office reserves the right to modify the City voluntary cleanup agreement or terminate it in accordance with paragraph ten of this subdivision.
 
-      B. If such condition renders the site a property for which state or federal law requires the investigation or remediation, or a portion of an investigation or remediation, to be supervised and/or approved by a state and/or federal agency, then the office shall review the site pursuant to section 43-1404(e). If the office determines that the site is no longer eligible for the City voluntary cleanup program, then the office shall terminate the agreement, in accordance with paragraph ten of this subdivision.
+      B. If such condition renders the site a property for which state or federal law requires the investigation or remediation, or a portion of an investigation or remediation, to be supervised and/or approved by a state and/or federal agency, then the office shall review the site pursuant to 43 RCNY § 43-1404(e). If the office determines that the site is no longer eligible for the City voluntary cleanup program, then the office shall terminate the agreement, in accordance with paragraph ten of this subdivision.
 
    10. Termination of the City voluntary cleanup agreement.
 
@@ -3354,7 +3547,7 @@ The enrollee shall include the project name and project number on its check.
 
          i. The enrollee provides written notice to the office and site contact list at least fifteen days in advance of the termination; and
 
-         ii. At the time of termination, as determined by the office, the site is in no worse condition, from an environmental and public health perspective, than before the applicant entered into the City voluntary cleanup agreement. The enrollee may seek dispute resolution within fifteen days of the effective date of the notice of determination by the office, as provided in section 43-1410(d).
+         ii. At the time of termination, as determined by the office, the site is in no worse condition, from an environmental and public health perspective, than before the applicant entered into the City voluntary cleanup agreement. The enrollee may seek dispute resolution within fifteen days of the effective date of the notice of determination by the office, as provided in 43 RCNY § 43-1410(d).
 
       B. Termination of the agreement by the office. The Office may terminate the City voluntary cleanup agreement for cause, including, but not limited to, if the enrollee or the site is no longer eligible for the City voluntary cleanup program, the enrollee provided information or made statements that are materially inaccurate or incomplete, or the enrollee failed to substantially comply with the agreement's terms and conditions, including, without limitation, the failure to initiate, proceed with, or complete the remedial program in accordance with its schedule.
 
@@ -3364,7 +3557,7 @@ The enrollee shall include the project name and project number on its check.
 
             (b) provide the enrollee with a reasonable opportunity of thirty days to correct deficiencies.
 
-         ii. The City voluntary cleanup agreement shall be terminated thirty-one days after the effective date of the office's notice, as provided in section 43-1410(d), unless the enrollee:
+         ii. The City voluntary cleanup agreement shall be terminated thirty-one days after the effective date of the office's notice, as provided in 43 RCNY § 43-1410(d), unless the enrollee:
 
             (a) seeks dispute resolution within fifteen days of the effective date of the notice; or
 
@@ -3372,9 +3565,9 @@ The enrollee shall include the project name and project number on its check.
 
          iii. If the office determines that the deficiency has been cured, the proposed termination of the City voluntary cleanup agreement shall be withdrawn.
 
-         iv. If the office determines that the recipient has not proven that the deficiency has been cured, the office shall provide notice to the recipient. The recipient shall have fifteen days after the effective date of the notice, as provided in section 43-1410(d), to seek dispute resolution. If the recipient does not seek dispute resolution within such fifteen day period, the City voluntary cleanup agreement shall be terminated on the sixteenth day.
+         iv. If the office determines that the recipient has not proven that the deficiency has been cured, the office shall provide notice to the recipient. The recipient shall have fifteen days after the effective date of the notice, as provided in 43 RCNY § 43-1410(d), to seek dispute resolution. If the recipient does not seek dispute resolution within such fifteen day period, the City voluntary cleanup agreement shall be terminated on the sixteenth day.
 
-         v. Nothing herein shall preclude the office from terminating a City voluntary cleanup agreement with less than thirty days notice if the New York state department of environmental conservation determines that the site constitutes a significant threat. Prior to terminating a City voluntary cleanup agreement pursuant to this clause, the office shall provide the enrollee with written notice, indicating the reason for the termination, and shall provide the enrollee with an opportunity to challenge in writing the finding of the office that the New York state department of environmental conservation had determined that the site constitutes a significant threat. The enrollee shall submit papers supporting such challenge to the office no later than fifteen days from the effective date of the written notice of termination, as provided in section 43-1410(d). Such challenge shall be decided by the director solely on the basis of papers submitted by the enrollee. The director shall render a written decision and furnish a copy thereof to the enrollee. The director's written decision shall be the final determination of the office.
+         v. Nothing herein shall preclude the office from terminating a City voluntary cleanup agreement with less than thirty days notice if the New York state department of environmental conservation determines that the site constitutes a significant threat. Prior to terminating a City voluntary cleanup agreement pursuant to this clause, the office shall provide the enrollee with written notice, indicating the reason for the termination, and shall provide the enrollee with an opportunity to challenge in writing the finding of the office that the New York state department of environmental conservation had determined that the site constitutes a significant threat. The enrollee shall submit papers supporting such challenge to the office no later than fifteen days from the effective date of the written notice of termination, as provided in 43 RCNY § 43-1410(d). Such challenge shall be decided by the director solely on the basis of papers submitted by the enrollee. The director shall render a written decision and furnish a copy thereof to the enrollee. The director's written decision shall be the final determination of the office.
 
       C. Termination by either the enrollee or the office does not affect the enrollee's obligations to pay fees pursuant to paragraph three of this subdivision and to indemnify the city pursuant to paragraph seven of this subdivision, until and including the date of termination.
 
@@ -3508,7 +3701,7 @@ d. Review of work plans and reports.
 *§ 43-1407 Remedial program.* ::
 
 
-a. The remedial program shall be fully protective of public health and the environment including, but not limited to, soil, groundwater according to its classification pursuant to section 17-0301 of the New York state environmental conservation law, drinking water, surface water, air (including indoor air), sensitive populations (including children), and ecological resources (including fish and wildlife).
+a. The remedial program shall be fully protective of public health and the environment including, but not limited to, soil, groundwater according to its classification pursuant to § 17-0301 of the New York state environmental conservation law, drinking water, surface water, air (including indoor air), sensitive populations (including children), and ecological resources (including fish and wildlife).
 
    1. Remedial actions shall be selected and the remedial action work plan shall be approved based upon consideration of the following:
 
@@ -3608,13 +3801,13 @@ e. Scope of the investigation.
 
    5. Off-site contamination. Responsibility for off-site contamination is determined by the enrollee's status as follows:
 
-      A. A volunteer shall perform a qualitative exposure assessment of the contamination that has migrated from the site consistent with section 27-1415(2)(b) of the New York state environmental conservation law and state guidance document DER-10, issued by the division of environmental remediation of the New York state department of environmental conservation. For sites being addressed by a volunteer, the volunteer has no obligation to implement a remedy to address an off-site exposure identified by this assessment.
+      A. A volunteer shall perform a qualitative exposure assessment of the contamination that has migrated from the site consistent with § 27-1415(2)(b) of the New York state environmental conservation law and state guidance document DER-10, issued by the division of environmental remediation of the New York state department of environmental conservation. For sites being addressed by a volunteer, the volunteer has no obligation to implement a remedy to address an off-site exposure identified by this assessment.
 
       B. A participant shall fully investigate and characterize the nature and extent of contamination that has migrated or emanated from the site to off-site locations.
 
-   6. The remedial investigation report must demonstrate whether conditions at the site without remediation meet the applicable unrestricted use soil cleanup objectives set forth in the table in 6 NYCRR section 375-6.8(a).
+   6. The remedial investigation report must demonstrate whether conditions at the site without remediation meet the applicable unrestricted use soil cleanup objectives set forth in the table in 6 NYCRR § 375-6.8(a).
 
-   7. Where the applicable unrestricted use soil cleanup objectives set forth in the table in 6 NYCRR section 375-6.8(a) will not be achieved, any determination that the requirements of the brownfield cleanup program have been met without the need for remediation shall be supported by a remedial alternatives analysis.
+   7. Where the applicable unrestricted use soil cleanup objectives set forth in the table in 6 NYCRR § 375-6.8(a) will not be achieved, any determination that the requirements of the brownfield cleanup program have been met without the need for remediation shall be supported by a remedial alternatives analysis.
 
 f. Remedial action selection.
 
@@ -3658,13 +3851,13 @@ f. Remedial action selection.
 
             (b) applicable zoning laws and maps;
 
-            (c) brownfield opportunity areas pursuant to section 970-r of the New York state general municipal law;
+            (c) brownfield opportunity areas pursuant to § 970-r of the New York state general municipal law;
 
             (d) applicable comprehensive community master plans, local waterfront revitalization plans as provided for in article forty-two of the New York state executive law, or any other applicable land use plan formally adopted by the city of New York;
 
             (e) proximity to real property currently used for residential use, schools and childcare facilities, and to commercial, industrial, agricultural, and/or recreational areas;
 
-            (f) any written or oral comments on the proposed use that are submitted by members of the public through activities performed under the citizen participation plan pursuant to section 43-1409(c);
+            (f) any written or oral comments on the proposed use that are submitted by members of the public through activities performed under the citizen participation plan pursuant to 43 RCNY § 43-1409(c);
 
             (g) environmental justice impacts, which for purposes of this section include the extent to which the proposed use may reasonably be expected to cause or increase a disproportionate burden on the community in which the site is located, including low-income minority communities, or to result in a disproportionate concentration of commercial or industrial uses in what has historically been a mixed use or residential community;
 
@@ -3708,7 +3901,7 @@ h. Cleanup tracks. For sites or portions of sites where the office has determine
 
       A. The remedial program shall achieve a cleanup level that will allow the site to be used for any purpose without any restrictions on the use of the site as described in paragraph one of subdivision k of this section.
 
-      B. The soil component of the remedial program shall achieve the unrestricted soil cleanup objectives pursuant to the table in 6 NYCRR section 375-6.8(a) for all soils above bedrock.
+      B. The soil component of the remedial program shall achieve the unrestricted soil cleanup objectives pursuant to the table in 6 NYCRR § 375-6.8(a) for all soils above bedrock.
 
       C. The remedial program shall not include the use of long-term institutional or engineering controls; provided, however, that a restriction on groundwater use may be included as a component of the remedial program if the enrollee:
 
@@ -3728,9 +3921,9 @@ h. Cleanup tracks. For sites or portions of sites where the office has determine
 
       A. The remedial program may provide for the restriction of the use of the site as described in paragraph two of subdivision k of this section.
 
-      B. The soil component of the remedial program shall achieve the lowest of the three applicable contaminant-specific soil cleanup objectives for all soils above bedrock, as set forth in 6 NYCRR sections 375-6.4, 375-6.5 and 375-6.6, except as provided in subparagraph C below.
+      B. The soil component of the remedial program shall achieve the lowest of the three applicable contaminant-specific soil cleanup objectives for all soils above bedrock, as set forth in 6 NYCRR §§ 375-6.4, 375-6.5 and 375-6.6, except as provided in subparagraph C below.
 
-      C. The requirement to achieve contaminant-specific soil cleanup objectives pursuant to the table in 6 NYCRR section 375-6.8(b) for all soils above bedrock shall not apply to soils at a depth greater than fifteen feet below ground surface, provided that:
+      C. The requirement to achieve contaminant-specific soil cleanup objectives pursuant to the table in 6 NYCRR § 375-6.8(b) for all soils above bedrock shall not apply to soils at a depth greater than fifteen feet below ground surface, provided that:
 
          i. the soils below fifteen feet do not represent a source of contamination;
 
@@ -3738,7 +3931,7 @@ h. Cleanup tracks. For sites or portions of sites where the office has determine
 
          iii. off-site groundwater affected by on-site contamination does not exceed standards; and
 
-         iv. on-site groundwater use is restricted. If the office determines that a waterfront site that is proposed for industrial use is susceptible to significant coastal erosion from severe storm events, the soil component of the remedial program must achieve the contaminant-specific soil cleanup objectives set forth in 6 NYCRR section 375-6.4(b)(3).
+         iv. on-site groundwater use is restricted. If the office determines that a waterfront site that is proposed for industrial use is susceptible to significant coastal erosion from severe storm events, the soil component of the remedial program must achieve the contaminant-specific soil cleanup objectives set forth in 6 NYCRR § 375-6.4(b)(3).
 
       D. The remedial program shall not use long-term institutional or engineering controls to achieve the restricted soil cleanup objectives. The use of short-term institutional or engineering controls is permitted, provided that:
 
@@ -3750,15 +3943,15 @@ h. Cleanup tracks. For sites or portions of sites where the office has determine
 
       E. The remedial program may include the use of long-term institutional or engineering controls to address contamination related to other media including, but not limited to, groundwater and soil vapor.
 
-   3. Track three: Restricted use with modified soil cleanup objectives. The remedial program for a site being remediated pursuant to track three shall satisfy the provisions for a track two remedial program; provided, however, that the office may approve the modification of one or more of the contaminant-specific soil cleanup objectives set forth in the table in 6 NYCRR section 375-6.8(b) based upon site-specific data. Any such modification shall be performed in accordance with 6 NYCRR section 375-6.9 and in consultation with the New York state department of environmental conservation and/or the New York state department of health.
+   3. Track three: Restricted use with modified soil cleanup objectives. The remedial program for a site being remediated pursuant to track three shall satisfy the provisions for a track two remedial program; provided, however, that the office may approve the modification of one or more of the contaminant-specific soil cleanup objectives set forth in the table in 6 NYCRR § 375-6.8(b) based upon site-specific data. Any such modification shall be performed in accordance with 6 NYCRR § 375-6.9 and in consultation with the New York state department of environmental conservation and/or the New York state department of health.
 
    4. Track four: Restricted use with site-specific soil cleanup objectives. The following provisions apply to a site, or portion thereof, being remediated pursuant to track four:
 
       A. In developing the site-specific soil cleanup objectives, the enrollee may, solely or in combination:
 
-         i. use the soil cleanup objectives, as set forth in 6 NYCRR subpart 375-6, except if the office determines that a waterfront site that is proposed for industrial use is susceptible to significant coastal erosion from severe storm events, the enrollee may, solely or in combination, use the soil cleanup objectives as set forth in 6 NYCRR section 375-6.4(b)(1)-(3);
+         i. use the soil cleanup objectives, as set forth in 6 NYCRR subpart 375-6, except if the office determines that a waterfront site that is proposed for industrial use is susceptible to significant coastal erosion from severe storm events, the enrollee may, solely or in combination, use the soil cleanup objectives as set forth in 6 NYCRR § 375-6.4(b)(1)-(3);
 
-         ii. develop or modify site specific soil cleanup objectives, as set forth at 6 NYCRR section 375-6.9; or
+         ii. develop or modify site specific soil cleanup objectives, as set forth at 6 NYCRR § 375-6.9; or
 
          iii. propose site-specific soil cleanup objectives that are protective of public health and the environment.
 
@@ -3770,19 +3963,19 @@ h. Cleanup tracks. For sites or portions of sites where the office has determine
 
             (a) the top two feet of all exposed surface soils that are not otherwise covered by the components of the development of the site (such as buildings or pavement) shall not exceed the applicable contaminant-specific soil cleanup objectives pursuant to subparagraph B of paragraph two of this subdivision; and
 
-            (b) where it is necessary to utilize off-site soil to achieve this requirement, the soil brought to the site shall satisfy the requirements of 6 NYCRR section 375-6.7(d).
+            (b) where it is necessary to utilize off-site soil to achieve this requirement, the soil brought to the site shall satisfy the requirements of 6 NYCRR § 375-6.7(d).
 
          ii. for commercial use:
 
             (a) the top one foot of all exposed surface soils that are not otherwise covered by the components of the development of the site (such as buildings or pavement) shall not exceed the applicable contaminant-specific soil cleanup objectives pursuant to subparagraph B of paragraph two of this subdivision; and
 
-            (b) where it is necessary to utilize off-site soil to achieve this requirement, the soil brought to the site shall satisfy the requirements of 6 NYCRR section 375-6.7(d).
+            (b) where it is necessary to utilize off-site soil to achieve this requirement, the soil brought to the site shall satisfy the requirements of 6 NYCRR § 375-6.7(d).
 
          iii. for industrial use:
 
             (a) the top one foot of all exposed surface soils that are not otherwise covered by the components of the development of the site (such as buildings or pavement) shall not exceed the applicable contaminant-specific soil cleanup objectives pursuant to subparagraph B of paragraph two of this subdivision; and
 
-            (b) where it is necessary to utilize off-site soil to achieve this requirement, the soil brought to the site shall satisfy the requirements of 6 NYCRR section 375-6.7(d).
+            (b) where it is necessary to utilize off-site soil to achieve this requirement, the soil brought to the site shall satisfy the requirements of 6 NYCRR § 375-6.7(d).
 
    5. All tracks. For remedial programs under all tracks, the threat to public health and the environment resulting from contamination in environmental media other than soil shall be evaluated in the development of remedial alternatives and addressed in the alternatives analysis to ensure that the remedial program meets the requirements of this subchapter.
 
@@ -3874,7 +4067,7 @@ k. Use of a site. A site or a portion of a site may be used for either unrestric
 
       A. "Residential use" is the land use category that allows a site to be used for any use other than raising livestock or producing animal products for human consumption. Restrictions on the use of groundwater are allowed, but no other institutional or engineering controls are allowed with respect to the residential use soil cleanup objectives. When considering the applicability of this land use category, the office shall consider the ability to implement the proposed site management plan and its implementation program, including the need for common ownership of the site in order to implement the site management plan.
 
-      B. "Restricted-residential use" is the land use category that shall only be considered when there is common ownership or a single owner/managing entity of the site. When considering the applicability of this land use category, the Office shall consider the ability to implement the proposed site management plan and its implementation program. Restricted-residential use: [ALP S-001]
+      B. "Restricted-residential use" is the land use category that shall only be considered when there is common ownership or a single owner/managing entity of the site. When considering the applicability of this land use category, the Office shall consider the ability to implement the proposed site management plan and its implementation program. Restricted-residential use:
 
          i. shall, at a minimum, include restrictions that prohibit: (a) any vegetable gardens on a site, where such gardens in the restricted-residential soil are feasible and reasonably anticipated; and (b) single family housing.
 
@@ -3884,7 +4077,7 @@ k. Use of a site. A site or a portion of a site may be used for either unrestric
 
       D. "Industrial use," also known as manufacturing use, is the land use category that shall only be considered for the primary purpose of manufacturing, production, fabrication or assembly processes and ancillary services. Industrial use does not include any recreational component.
 
-   3. The Office may approve a remedial program that relies upon no restrictions on use (unrestricted use) or on a range of restrictions on use (restricted uses). The Office may also consider area-wide or city-wide restrictions on use in approval of a remedial program. The following hierarchy represents the range from a less restrictive to a more restrictive land use: [ALP S-001]
+   3. The Office may approve a remedial program that relies upon no restrictions on use (unrestricted use) or on a range of restrictions on use (restricted uses). The Office may also consider area-wide or city-wide restrictions on use in approval of a remedial program. The following hierarchy represents the range from a less restrictive to a more restrictive land use:
 
       A. residential;
 
@@ -3924,7 +4117,7 @@ l. Institutional controls, engineering controls, and restrictive declarations.
 
       D. an analysis sufficient to support a conclusion that effective implementation, maintenance, monitoring, reporting, funding and enforcement of institutional and/or engineering controls can be reasonably expected;
 
-      E. where required by the office, financial assurance, in accordance with section 43-1410(b), to ensure the long term implementation, maintenance, monitoring, reporting, and enforcement of any such controls; and
+      E. where required by the office, financial assurance, in accordance with 43 RCNY § 43-1410(b), to ensure the long term implementation, maintenance, monitoring, reporting, and enforcement of any such controls; and
 
       F. any engineering control must be used in conjunction with institutional controls to ensure the continued integrity of such engineering control.
 
@@ -3986,7 +4179,7 @@ l. Institutional controls, engineering controls, and restrictive declarations.
 
       F. In addition to the periodic reporting requirement, the enrollee or owner shall timely notify the office of any failure of one or more of the institutional or engineering controls and shall provide a work plan to remedy any failure of the institutional or engineering control.
 
-      G. The office shall review the work plan referenced in subparagraphs E and F of this paragraph as provided in section 43-1406(c)(5) and the enrollee or owner shall implement the corrective measures in accordance with the approved work plan. The enrollee or owner shall submit a certification, meeting the requirements of clause ii of subparagraph E of this paragraph upon completion of the corrective measures.
+      G. The office shall review the work plan referenced in subparagraphs E and F of this paragraph as provided in 43 RCNY § 43-1406(c)(5) and the enrollee or owner shall implement the corrective measures in accordance with the approved work plan. The enrollee or owner shall submit a certification, meeting the requirements of clause ii of subparagraph E of this paragraph upon completion of the corrective measures.
 
       H. The report provided in subparagraph B of this paragraph shall be placed by the enrollee in the site document repository.
 
@@ -4026,7 +4219,7 @@ d. Recording of the notice of completion. Within sixty days of issuance, the not
 
 e. No further action by the city.
 
-   1. Subsequent to the issuance of a notice of completion, subject to the provisions of section 24-906 of the administrative code of the city of New York and except as provided in the City voluntary cleanup agreement, the remedial action work plan, site management plan, declaration of covenants and restrictions, or notice of completion, the city shall not take or require any further investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding matters addressed at the site. If the office seeks to exercise its rights reserved pursuant to section 24-906(b) of the administrative code of the city of New York, it shall provide notice to the holder of the notice of completion, as provided in paragraph two of subdivision f of this section.
+   1. Subsequent to the issuance of a notice of completion, subject to the provisions of § 24-906 of the administrative code of the city of New York and except as provided in the City voluntary cleanup agreement, the remedial action work plan, site management plan, declaration of covenants and restrictions, or notice of completion, the city shall not take or require any further investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding matters addressed at the site. If the office seeks to exercise its rights reserved pursuant to § 24-906(b) of the administrative code of the city of New York, it shall provide notice to the holder of the notice of completion, as provided in paragraph two of subdivision f of this section.
 
    2. "Matters addressed" at the site shall mean all response actions taken by the enrollee to implement the City voluntary cleanup agreement for the site and all response costs incurred and to be incurred by any person or party in connection with the work performed under such agreement, which costs have been paid by the enrollee, including fees for costs incurred by the city pursuant to the City voluntary cleanup agreement.
 
@@ -4074,7 +4267,7 @@ g. Transfer of a notice of completion. A notice of completion may be transferred
 
    1. The office shall be provided:
 
-      A. Advance notice of the transfer of a notice of completion, pursuant to section 43-1410(d); and
+      A. Advance notice of the transfer of a notice of completion, pursuant to 43 RCNY § 43-1410(d); and
 
       B. A written notice of transfer, filed within thirty days of the transfer on an office-approved form, in accordance with the filing requirements of the original notice set forth in subdivision d of this section.
 
@@ -4124,7 +4317,7 @@ f. Document repository. The enrollee shall establish a document repository at a 
 
    1. Documents shall be placed in the repository that are:
 
-      A. set forth in section 43-1406(d) or 43-1407(l)(3); or
+      A. set forth in 43 RCNY § 43-1406(d) or 43 RCNY § 43-1407(l)(3); or
 
       B. otherwise designated by the office for inclusion.
 
@@ -4134,7 +4327,7 @@ f. Document repository. The enrollee shall establish a document repository at a 
 
 g. Public notice and public comment.
 
-   1. In addition to distributing a notice of application as required by section 43-1404(f), public notice, in the form of a fact sheet, and public comment activities are required for each site in the City voluntary cleanup program at the following milestones:
+   1. In addition to distributing a notice of application as required by 43 RCNY § 43-1404(f), public notice, in the form of a fact sheet, and public comment activities are required for each site in the City voluntary cleanup program at the following milestones:
 
       A. Upon the availability of a remedial investigation work plan, if such plan is submitted as part of the application. The applicant shall distribute to the site contact list public notice, in the form of a fact sheet summarizing the contents of the work plan, noting the initiation of a thirty-day public comment period, and identifying the location of the repository where the document can be reviewed. The office shall not approve the remedial investigation work plan until the public comment period has ended.
 
@@ -4202,7 +4395,7 @@ b. Financial assurance.
 
       D. insurance; or
 
-      E. documentation of a financial capability test, as set forth in of 6 NYCRR section 373-2.8(d)(5).
+      E. documentation of a financial capability test, as set forth in of 6 NYCRR § 373-2.8(d)(5).
 
    3. Preparation of estimated amount of financial assurance. If the office requires posting of financial assurance as a condition of accepting institutional or engineering controls, the enrollee shall provide an estimated amount of financial assurance for the office's consideration. The enrollee shall be responsible for having a professional engineer or other qualified environmental professional prepare the estimate, and, in the event the financial assurance is being provided through environmental insurance, for having an independent insurance professional provide a certification that such policy meets the requirements of this subdivision. The estimate shall include an itemized listing of each cost and how the cost was calculated, including the cost of contracting with a third party.
 
@@ -4254,7 +4447,7 @@ d. Effective date of submissions and notices.
 
 e. Participation in the City voluntary cleanup program shall not relieve an enrollee of the obligation to obtain any permit required by state or federal law, rule or regulation for any action undertaken by such enrollee in the course of implementing a remedial program.
 
-f. In accordance with section 27-1303 of the New York state environmental conservation law, the Office shall report suspected inactive hazardous waste sites within the city of New York to the New York state department of environmental conservation.
+f. In accordance with § 27-1303 of the New York state environmental conservation law, the Office shall report suspected inactive hazardous waste sites within the city of New York to the New York state department of environmental conservation.
 
 
 
@@ -4303,15 +4496,15 @@ b. Applicability. Brownfield incentive grants are available to provide financial
 
 a. "Affordable housing development" means a development that will be built by a developer on a qualifying brownfield property where at least twenty percent of the housing units are affordable to families that earn no more than eighty percent of the average median income of an area, as determined by the United States department of housing and urban development, and that has been issued a letter of interest from a federal, state, or local housing subsidy program.
 
-b. "Brownfield opportunity area" means an area in the city of New York with a concentration of brownfields for which the New York state department of state has awarded a brownfield opportunity area grant to a recipient pursuant to general municipal law section 970-r or that has otherwise been identified by the Office as a place-based community brownfield planning area.
+b. "Brownfield opportunity area" means an area in the city of New York with a concentration of brownfields for which the New York state department of state has awarded a brownfield opportunity area grant to a recipient pursuant to general municipal law § 970-r or that has otherwise been identified by the Office as a place-based community brownfield planning area.
 
-c. "Community based organization" means a community based organization as defined in section 970-r(1)(c) of the general municipal law.
+c. "Community based organization" means a community based organization as defined in § 970-r(1)(c) of the general municipal law.
 
 d. "Community facility development" means a development that will be built by a developer on a qualifying brownfield property where the development provides specific benefits to the local community, including, but not limited to, a community facility use pursuant to the zoning resolution.
 
 e. "Designated Coastal Flood Zone" means coastal flood zones designated by the Federal Emergency Management Agency (FEMA) or other coastal flood zones designated or recognized by the City.
 
-f. "E-designation hazardous material site" means a property that has been designated with an (E) on a zoning map, pursuant to section 11-15 of the zoning resolution, because of potential hazardous material contamination.
+f. "E-designation hazardous material site" means a property that has been designated with an (E) on a zoning map, pursuant to § 11-15 of the zoning resolution, because of potential hazardous material contamination.
 
 g. "Grant administration contractor" means an entity under contract with the New York city economic development corporation, the department of environmental protection or the Office for administration of the New York city brownfield incentive grant program. The grant administration contractor shall provide oversight of the grant process, including, but not limited to, review of grant applications including evaluation of eligibility for grants; review of statements of work; establishment and maintenance of a list of qualified vendors; communication with grantees and qualified vendors; and performance of quality control of work products.
 
@@ -4327,7 +4520,7 @@ l. "Preferred community development project" means a development proposed for a 
 
    (1) an affordable housing development;
 
-   (2) consistent with the strategic brownfield goals established in a brownfield opportunity area plan pursuant to section 970-r of the general municipal law, as evidenced by a letter from the recipient of a brownfield opportunity area grant pursuant to 43 RCNY § 43-1418(d)(4)(B)(i);
+   (2) consistent with the strategic brownfield goals established in a brownfield opportunity area plan pursuant to § 970-r of the general municipal law, as evidenced by a letter from the recipient of a brownfield opportunity area grant pursuant to 43 RCNY § 43-1418(d)(4)(B)(i);
 
    (3) consistent with the strategic brownfield goals established by a place-based community brownfield planning organization recognized by the Office and as evidenced by a letter from the place-based community brownfield planning organization pursuant to 43 RCNY § 43-1418(d)(4)(B)(ii); or
 
@@ -4385,19 +4578,19 @@ q. "Strategic brownfield property" means a property within a brownfield opportun
 
 a. Pre-enrollment grants are awarded for services and activities performed at qualifying brownfield properties that are not yet enrolled in the City voluntary cleanup program.
 
-   1. Pre-development grants finance the services and activities that usually precede environmental field investigation and advance brownfield projects at an early stage of the project. Pre-development grants may be used for eligible services and/or activities, as provided in section 43-1419.
+   1. Pre-development grants finance the services and activities that usually precede environmental field investigation and advance brownfield projects at an early stage of the project. Pre-development grants may be used for eligible services and/or activities, as provided in 43 RCNY § 43-1419.
 
-   2. Environmental investigation grants finance the characterization of a property's subsurface contamination. Environmental investigation services and activities are typically performed after pre-development work and prior to environmental remediation on a brownfield property. Environmental investigation grants may be used for eligible services and/or activities, as provided in section 43-1419.
+   2. Environmental investigation grants finance the characterization of a property's subsurface contamination. Environmental investigation services and activities are typically performed after pre-development work and prior to environmental remediation on a brownfield property. Environmental investigation grants may be used for eligible services and/or activities, as provided in 43 RCNY § 43-1419.
 
    3. City pre-enrollment grants finance eligible pre-enrollment activities and services at publicly-owned sites, at affordable and/or supportive housing sites funded by the New York city department of housing preservation and development, at industrial or manufacturing development sites supported by the New York city economic development corporation or other project receiving substantial support from the City, and at environmental tax lien sites designated by the New York city office of management and budget.
 
 b. Enrollment cleanup grants are grants awarded for activities performed at qualifying brownfield properties that are enrolled in the City voluntary cleanup program.
 
-   1. Cleanup grants pay for costs incurred in a property's remediation. They may be used for eligible services and/or activities, as provided in § 43-1419, that are included in, and performed according to the terms of, a remedial action work plan approved by the Office.
+   1. Cleanup grants pay for costs incurred in a property's remediation. They may be used for eligible services and/or activities, as provided in 43 RCNY § 43-1419, that are included in, and performed according to the terms of, a remedial action work plan approved by the Office.
 
-   2. Brownfield opportunity area strategic property bonus cleanup grants are a type of cleanup grant that is awarded to pay for eligible cleanup services and/or activities at strategic brownfield properties. [ALP S-001]
+   2. Brownfield opportunity area strategic property bonus cleanup grants are a type of cleanup grant that is awarded to pay for eligible cleanup services and/or activities at strategic brownfield properties.
 
-   3. Track one bonus cleanup grants are a type of cleanup grant that provides funding for track one cleanups, as set forth in § 43-1407(h)(1) of this chapter.
+   3. Track one bonus cleanup grants are a type of cleanup grant that provides funding for track one cleanups, as set forth in 43 RCNY § 43-1407(h)(1) of this chapter.
 
    4. Climate change resilience bonus cleanup grants provide funding to accelerate designated coastal flood zone cleanup and are intended to enhance public and environmental protection.
 
@@ -4405,13 +4598,13 @@ b. Enrollment cleanup grants are grants awarded for activities performed at qual
 
    6. Green property certification grants pay for a New York city green property certification plaque. To be eligible for a green property certification grant, parties must receive a notice of completion from the Office or a certificate of completion of the New York state department of environmental conservation.
 
-   7. City enrollment grants fund eligible cleanup activities at publicly-owned sites, at affordable and/or supportive housing sites funded by the New York city department of housing preservation and development, at industrial or manufacturing development sites supported by the New York city economic development corporation or other projects receiving substantial support from the City, and at environmental tax lien sites designated by the New York city office of management and budget. They may be used for eligible services and/or activities, as provided in §43-1419, that are included in, and performed according to the terms of, a remedial action work plan approved by the office or by the New York state department of environmental conservation.
+   7. City enrollment grants fund eligible cleanup activities at publicly-owned sites, at affordable and/or supportive housing sites funded by the New York city department of housing preservation and development, at industrial or manufacturing development sites supported by the New York city economic development corporation or other projects receiving substantial support from the City, and at environmental tax lien sites designated by the New York city office of management and budget. They may be used for eligible services and/or activities, as provided in 43 RCNY § 43-1419, that are included in, and performed according to the terms of, a remedial action work plan approved by the office or by the New York state department of environmental conservation.
 
 c. Other Grants.
 
-   1. Technical assistance grants are awarded to a developer of a preferred community development project where such developer is a not-for-profit corporation, to a community based organization that seeks to apply for a department of state brownfield opportunity area grant, or to a community brownfield planning organization facilitating community brownfield planning activities and services in a place-based community brownfield planning area. The grant covers a range of technical services performed by a qualified vendor for project pre-development, management and technical assistance, as provided in section 43-1419.
+   1. Technical assistance grants are awarded to a developer of a preferred community development project where such developer is a not-for-profit corporation, to a community based organization that seeks to apply for a department of state brownfield opportunity area grant, or to a community brownfield planning organization facilitating community brownfield planning activities and services in a place-based community brownfield planning area. The grant covers a range of technical services performed by a qualified vendor for project pre-development, management and technical assistance, as provided in 43 RCNY § 43-1419.
 
-   2. Brownfield opportunity area local match grants are awarded to a recipient of a New York state department of state brownfield opportunity area grant or to a community brownfield planning organization identified by the Office that is facilitating brownfield planning activities and services for a place-based community brownfield planning area. For recipients of a New York state brownfield opportunity area grant, this grant assists grantees that meet the local match requirement for a state brownfield opportunity area grant pursuant to general municipal law section 970-r.
+   2. Brownfield opportunity area local match grants are awarded to a recipient of a New York state department of state brownfield opportunity area grant or to a community brownfield planning organization identified by the Office that is facilitating brownfield planning activities and services for a place-based community brownfield planning area. For recipients of a New York state brownfield opportunity area grant, this grant assists grantees that meet the local match requirement for a state brownfield opportunity area grant pursuant to general municipal law § 970-r.
 
    3. E-designation hazardous material remediation grants and restrictive declaration hazardous material remediation grants provide funding for hazardous material cleanup at e-designation hazardous material sites and restrictive declaration hazardous material sites that are not enrolled in the City voluntary cleanup program, that have an approved remedial action plan, and that have received a notice of satisfaction from the office for remediation of hazardous material.
 
@@ -4437,13 +4630,13 @@ b. Property eligibility.
 
    2. A property shall meet the definition of a qualifying brownfield property for the type of grant(s) sought.
 
-   3. A property admitted to the brownfield cleanup program administered by the New York state department of environmental conservation is ineligible for a grant except for a City pre-enrollment grant as defined in § 43-1417(b)(3), a City enrollment grant as defined in § 43-1417(b)(7), a brownfield green job training grant as defined in § 43-1417(b)(5), and a green property certification grant, as defined in § 43-1417(b)(6).
+   3. A property admitted to the brownfield cleanup program administered by the New York state department of environmental conservation is ineligible for a grant except for a City pre-enrollment grant as defined in 43 RCNY § 43-1417(b)(3), a City enrollment grant as defined in 43 RCNY § 43-1417(b)(7), a brownfield green job training grant as defined in 43 RCNY § 43-1417(b)(5), and a green property certification grant, as defined in 43 RCNY § 43-1417(b)(6).
 
 c. Applicant eligibility.
 
-   1. An applicant is ineligible for a grant if the person is subject to any pending action or proceeding or order identified in section 43-1403(b) of this chapter relating to the property.
+   1. An applicant is ineligible for a grant if the person is subject to any pending action or proceeding or order identified in 43 RCNY § 43-1403(b) of this chapter relating to the property.
 
-   2. An applicant who has received a prior pre-enrollment grant or a technical assistance grant and did not submit information on the outcome of the brownfield project as required by section 43-1421(b)(5) is not eligible for any additional pre-enrollment brownfield incentive grant until such information is submitted.
+   2. An applicant who has received a prior pre-enrollment grant or a technical assistance grant and did not submit information on the outcome of the brownfield project as required by 43 RCNY § 43-1421(b)(5) is not eligible for any additional pre-enrollment brownfield incentive grant until such information is submitted.
 
    3. An applicant who has received a prior pre-enrollment grant or a technical assistance grant for a property that required remedial action and was subsequently developed and that was not enrolled in a New York city or New York state remedial program is not eligible for additional pre-enrollment grants. However, at the discretion of the office, the applicant may still be eligible for an additional enrollment grant.
 
@@ -4467,7 +4660,7 @@ d. Eligibility requirements for specific grants.
 
          iii. In lieu of a phase one investigation, recognized environmental conditions may be identified in studies performed by the office, or by other means acceptable to the office.
 
-   2. Enrollment grants. Enrollment in the City voluntary cleanup program is required for a property to be eligible for an enrollment grant except for a City enrollment grant as defined in § 43-1417(b)(7), a green property certification grant as defined in § 43-1417(b)(6), and a green job training grant as defined in §43-1417(b)(5) which may also allow enrollment in the New York state brownfield cleanup program.
+   2. Enrollment grants. Enrollment in the City voluntary cleanup program is required for a property to be eligible for an enrollment grant except for a City enrollment grant as defined in 43 RCNY § 43-1417(b)(7), a green property certification grant as defined in 43 RCNY § 43-1417(b)(6), and a green job training grant as defined in 43 RCNY § 43-1417(b)(5) which may also allow enrollment in the New York state brownfield cleanup program.
 
       A. Cleanup grants.
 
@@ -4479,7 +4672,7 @@ d. Eligibility requirements for specific grants.
 
          iv. To be eligible for a climate change resilience bonus cleanup grant, a qualifying brownfield property must be located in a designated coastal flood zone and be enrolled in the City voluntary cleanup program.
 
-         v. To be eligible for a brownfield green job training grant, an applicant must employ a participant in a City, state, or federally supported non-profit work force development program for work participating in construction activities at a remedial action site regulated by the Office or the New York state department of environmental conservation or an environmental project recognized by the Office. Reimbursement is subject to the award limit set forth in § 43-1422(c)(9)).
+         v. To be eligible for a brownfield green job training grant, an applicant must employ a participant in a City, state, or federally supported non-profit work force development program for work participating in construction activities at a remedial action site regulated by the Office or the New York state department of environmental conservation or an environmental project recognized by the Office. Reimbursement is subject to the award limit set forth in 43 RCNY § 43-1422(c)(9)).
 
          vi. To be eligible for a green property certification grant, a party must have received a notice of completion from the Office or a certificate of completion from the New York state department of environmental conservation in accordance with 6 NYCRR § 375-3.9.
 
@@ -4715,17 +4908,17 @@ b. Brownfield incentive grant agreements shall include:
 
 a. Brownfield incentive grants shall be paid to the grantee or the qualified vendor who performed the work upon receipt of invoices for eligible activities and/or services listed in schedule B, provided that brownfield opportunity area local match grants shall be paid to the grantee upon receipt of a copy of a work plan approved by the New York state department of state and a copy of a contract executed with the New York state department of state. Brownfield opportunity area local match grants shall be paid to a community based organization in a place-based community brownfield planning area identified by the Office upon receipt of an executed agreement with the Office identifying the work to be performed.
 
-b. A grantee may be awarded brownfield incentive grants from one or more of the grant types for the same qualifying brownfield property. Total grant amounts awarded to the grantee, including costs for grant administration, may not exceed the award limits identified in subdivision c of this section.
+b. A grantee may be awarded brownfield incentive grants from one or more of the grant types for the same qualifying brownfield property. Total grant amounts awarded to the grantee may not exceed the award limits identified in subdivision c of this section.
 
 c. Award limits.
 
-   1. Generally. Grants may be awarded for a qualifying brownfield property totaling up to the amount listed in schedule A, including the costs for administration pursuant to 43 RCNY § 43-1423(a)(2). Activities and services in connection with pre-enrollment and enrollment grants can be performed by a qualified vendor under contract with the New York City economic development corporation, the New York City department of environmental protection or the Office.
+   1. Generally. Grants may be awarded for a qualifying brownfield property totaling up to the amount listed in schedule A. Activities and services in connection with pre-enrollment and enrollment grants can be performed by a qualified vendor under contract with the New York City economic development corporation, the New York City department of environmental protection or the Office.
 
-   2. Preferred community development projects. A grantee for a preferred community development project may be awarded: (1) a pre-enrollment grant of up to $25,000, (2) a technical assistance grant of up to $5,000, and (3) once the project is enrolled in the City voluntary cleanup program, an enrollment grant of up to $35,000, including the sum of the pre-enrollment grant and excluding the sum of the technical assistance grant. A not-for-profit developer of a preferred community development project or a developer of a residential building where 100% of the units are affordable is eligible for an enrollment grant of $50,000. The amount of the enrollment grant includes the sum of the pre-enrollment grant and excludes the sum of the technical assistance grant. The cost of grant administration shall not be deducted from grants awarded to a grantee of a preferred community development project.
+   2. Preferred community development projects. A grantee for a preferred community development project may be awarded: (1) a pre-enrollment grant of up to $25,000, (2) a technical assistance grant of up to $5,000, and (3) once the project is enrolled in the City voluntary cleanup program, an enrollment grant of up to $35,000, including the sum of the pre-enrollment grant and excluding the sum of the technical assistance grant. A not-for-profit developer of a preferred community development project or a developer of a residential building where 100% of the units are affordable is eligible for an enrollment grant of $50,000. The amount of the enrollment grant includes the sum of the pre-enrollment grant and excludes the sum of the technical assistance grant.
 
-   3. Brownfield opportunity area local match grant. A grantee of a brownfield opportunity area local match grant may receive a grant of up to $25,000 or ten percent of the brownfield opportunity area grant award from the New York state department of state, for step one of the brownfield opportunity area program, whichever is less, and $25,000 or ten percent of the brownfield opportunity area grant award from the New York state department of state for step two of the brownfield opportunity area program, whichever is less. A grantee of a brownfield opportunity area local match grant that is a community based organization in a place-based community brownfield planning area may receive a grant of up to $25,000. Activities and services on behalf of a community based organization that conducts place-based community brownfield planning through a brownfield opportunity area local match grant can be performed by a qualified vendor under contract with the New York City economic development corporation, the New York City department of environmental protection or the Office. The cost of grant administration shall not be deducted from grants awarded to a grantee of a brownfield opportunity area local match grant.
+   3. Brownfield opportunity area local match grant. A grantee of a brownfield opportunity area local match grant may receive a grant of up to $25,000 or ten percent of the brownfield opportunity area grant award from the New York state department of state, for step one of the brownfield opportunity area program, whichever is less, and $25,000 or ten percent of the brownfield opportunity area grant award from the New York state department of state for step two of the brownfield opportunity area program, whichever is less. A grantee of a brownfield opportunity area local match grant that is a community based organization in a place-based community brownfield planning area may receive a grant of up to $25,000. Activities and services on behalf of a community based organization that conducts place-based community brownfield planning through a brownfield opportunity area local match grant can be performed by a qualified vendor under contract with the New York City economic development corporation, the New York City department of environmental protection or the Office.
 
-   4. Community based organization applicant for a brownfield opportunity area grant. A community based organization that seeks to apply for a brownfield opportunity grant may receive a technical assistance grant of up to $10,000 for eligible consulting services. Community based organizations that conduct place-based community brownfield planning in areas identified by the Office may also receive a technical assistance grant of $10,000. Activities and services on behalf of a community based organization that conducts place-based community brownfield planning through a technical assistance grant can be performed by a qualified vendor under contract with the New York City economic development corporation, the New York City department of environmental protection or the Office. The cost of grant administration shall not be deducted from grants awarded to a grantee of a community based organization brownfield opportunity area grant.
+   4. Community based organization applicant for a brownfield opportunity area grant. A community based organization that seeks to apply for a brownfield opportunity grant may receive a technical assistance grant of up to $10,000 for eligible consulting services. Community based organizations that conduct place-based community brownfield planning in areas identified by the Office may also receive a technical assistance grant of $10,000. Activities and services on behalf of a community based organization that conducts place-based community brownfield planning through a technical assistance grant can be performed by a qualified vendor under contract with the New York City economic development corporation, the New York City department of environmental protection or the Office.
 
    5. Brownfield opportunity area strategic property bonus cleanup grant. A grantee of a brownfield opportunity area strategic property bonus cleanup grant may receive a grant of up to $10,000 for cleanup services and activities. This grant award may be in addition to pre-enrollment and other enrollment grants received under this program.
 
@@ -4737,17 +4930,17 @@ c. Award limits.
 
       B. A grantee for an e-designation hazardous material site or a restrictive declaration hazardous material site that has been admitted into the City voluntary cleanup program may be awarded an enrollment grant of up to $25,000.
 
-      C. A grantee for an e-designation hazardous material site or a restrictive declaration hazardous material site that has been admitted into the City voluntary cleanup program and is a preferred community development project may be awarded an enrollment grant of up to $35,000. The cost of grant administration shall not be deducted from grants awarded to a grantee of a preferred community development project.
+      C. A grantee for an e-designation hazardous material site or a restrictive declaration hazardous material site that has been admitted into the City voluntary cleanup program and is a preferred community development project may be awarded an enrollment grant of up to $35,000.
 
-   8. Climate change resilience bonus cleanup grants. An applicant for a climate change resilience bonus cleanup grant may receive a grant award of up to $10,000. This grant award shall be in addition to a pre-enrollment and enrollment grants received under this program, and the costs of administration shall be deducted from grants awarded to the grantee.
+   8. Climate change resilience bonus cleanup grants. An applicant for a climate change resilience bonus cleanup grant may receive a grant award of up to $10,000. This grant award shall be in addition to a pre-enrollment and enrollment grants received under this program.
 
-   9. Brownfield green job training grants. An applicant for a brownfield green job training grant may receive a grant award of up to $6,000. This grant award shall be in addition to pre-enrollment and enrollment grants received under this program, and the costs of administration shall not be deducted from the brownfield green job training grant awarded to the grantee.
+   9. Brownfield green job training grants. An applicant for a brownfield green job training grant may receive a grant award of up to $6,000. This grant award shall be in addition to pre-enrollment and enrollment grants received under this program.
 
-   10. Green property certification grants. An applicant for a green property certification grant is eligible for a grant of up to $1,000 to cover the cost of one New York city green property certification plaque for each eligible site pursuant to 43 RCNY § 43-1428. The cost of administration shall not be deducted from grants awarded to the grantee.
+   10. Green property certification grants. An applicant for a green property certification grant is eligible for a grant of up to $1,000 to cover the cost of one New York city green property certification plaque for each eligible site pursuant to 43 RCNY § 43-1428.
 
-   11. City pre-enrollment grants. City pre-enrollment grants are funded to a maximum of $125,000 for pre-enrollment activities and services. The Office may award a grant higher than this amount where it determines that a City-supported affordable or supportive housing development or an industrial project supported by the New York City Economic Development Corporation incurs more than $125,000 in investigation costs to enroll in the State brownfield program or obtain DEC’s approval of its remedial action work plan. If such a project is denied entry into the State brownfield program and enrolls instead in the City voluntary program, it will be reimbursed for the cost of conducting a site investigation. Activities and services for a City pre-enrollment grant can be performed by a qualified vendor under contract with the New York city economic development corporation, the New York city department of environmental protection or the Office. The cost of grant administration shall not be deducted from grants awarded to a grantee of a City pre-enrollment grant.
+   11. City pre-enrollment grants. City pre-enrollment grants are funded to a maximum of $125,000 for pre-enrollment activities and services. The Office may award a grant higher than this amount where it determines that a City-supported affordable or supportive housing development or an industrial project supported by the New York City Economic Development Corporation incurs more than $125,000 in investigation costs to enroll in the State brownfield program or obtain DEC’s approval of its remedial action work plan. If such a project is denied entry into the State brownfield program and enrolls instead in the City voluntary program, it will be reimbursed for the cost of conducting a site investigation. Activities and services for a City pre-enrollment grant can be performed by a qualified vendor under contract with the New York city economic development corporation, the New York city department of environmental protection or the Office.
 
-   12. City enrollment grants are funded to a maximum of $250,000 for eligible services and activities including any City pre-enrollment grants. If a City-supported affordable housing or industrial project is enrolled in the City voluntary cleanup program, the project is eligible for a cleanup grant of $50,000. Activities and services for a City enrollment grant can be performed by a qualified vendor under contract with the New York city economic development corporation, the department of environmental protection, or the Office. The cost of grant administration shall not be deducted from grants awarded to a grantee of a city enrollment grant.
+   12. City enrollment grants are funded to a maximum of $250,000 for eligible services and activities including any City pre-enrollment grants. If a City-supported affordable housing or industrial project is enrolled in the City voluntary cleanup program, the project is eligible for a cleanup grant of $50,000. Activities and services for a City enrollment grant can be performed by a qualified vendor under contract with the New York city economic development corporation, the department of environmental protection, or the Office.
 
 
 
@@ -4759,11 +4952,7 @@ c. Award limits.
 *§ 43-1423 Grant Disbursements and Administration.* ::
 
 
-a. Administration of grants.
-
-   1. The grant administration contractor shall review all invoices and all other documents provided by the applicant pursuant to this subchapter prior to awarding grant funds, in order to ensure that services and/or activities comply with this subchapter.
-
-   2. The grant administration contractor may reduce awards, other than awards for a preferred community development project, a brownfield opportunity area local match grant, a green job training grant, a City pre-enrollment grant, a City enrollment grant and a technical assistance grant for a community based organization that seeks to apply for a brownfield opportunity grant or one that conducts place-based community brownfield planning, by a reasonable amount to cover costs of administering the New York city brownfield incentive grant program.
+a. Administration of grants. The grant administration contractor shall review all invoices and all other documents provided by the applicant pursuant to this subchapter prior to awarding grant funds, in order to ensure that services and/or activities comply with this subchapter.
 
 b. Disbursement of grants.
 
@@ -4773,7 +4962,7 @@ b. Disbursement of grants.
 
    3. Enrollment grants may be reimbursed in the year following the award year if funds are no longer available in the award year and are available in the subsequent year.
 
-   4. Pre-development and environmental investigation grants are awarded subject to the grant award limits pursuant to section 43-1422 and subject to the grant payment percentage limit applied to eligible costs for approved services and activities in schedule B. A preferred community development project where the developer is a not-for-profit corporation is not subject to the grant payment percentage limit.
+   4. Pre-development and environmental investigation grants are awarded subject to the grant award limits pursuant to 43 RCNY § 43-1422 and subject to the grant payment percentage limit applied to eligible costs for approved services and activities in schedule B. A preferred community development project where the developer is a not-for-profit corporation is not subject to the grant payment percentage limit.
 
 
 
@@ -4787,39 +4976,50 @@ b. Disbursement of grants.
 
 VCP: The City Voluntary Cleanup Program administered by the Office of Environmental Remediation.BOA: The brownfield opportunity area. This is a program for area-wide brownfield and community planning managed by the New York State Department of State.N/A: not applicable.
 
-1   Properties for which a grant is pursued can fall into only one type. The property type may change as conditions change.
 
-2   The grant administration contractor may reduce the grant amount to cover the cost of administration.
+										1   Properties for which a grant is pursued can fall into only one type. The property type may change as conditions change.
 
-3   Includes e-designation hazardous material sites and restrictive declaration hazardous material sites that are enrolled in the VCP.
 
-4   Grants shall not be reduced to cover the cost of grant administration.
+										2   Includes e-designation hazardous material sites and restrictive declaration hazardous material sites that are enrolled in the VCP.
 
-5   This property type includes e-designation hazardous material sites and restrictive declaration hazardous materials sites that are also preferred community development projects and enrolled in the VCP.
 
-6   A BOA grant recipient with an executed state assistance contract by definition also has an approved work program. A BOA grant recipient is eligible for local match grants both for step 1 and step 2 of the BOA program. A place-based community planning area with an agreement with the Office is eligible for a $25,000 BOA local match grant.
+										3   This property type includes e-designation hazardous material sites and restrictive declaration hazardous materials sites that are also preferred community development projects and enrolled in the VCP.
 
-7   Limit includes all proceeds from pre-development grant.
 
-8   Limit includes all proceeds from the pre- development grant and the environmental investigation grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary program by April 2013 receive larger BIG grant awards.
+										4   A BOA grant recipient with an executed state assistance contract by definition also has an approved work program. A BOA grant recipient is eligible for local match grants both for step 1 and step 2 of the BOA program. A place-based community planning area with an agreement with the Office is eligible for a $25,000 BOA local match grant.
 
-9   A not for profit developer of a preferred community development project, or a developer of a residential building where 100% of the units are affordable, is eligible for a $50,000 cleanup grant, which includes all proceeds of the predevelopment and environmental investigation grants.
 
-10   A not for profit developer of a preferred community development project which is a BOA strategic site is eligible for a $50,000 cleanup grant, which includes all proceeds from the pre-development and environmental investigation grants.
+										5   Limit includes all proceeds from pre-development grant.
 
-11   For e-designation hazardous material sites and restrictive declaration hazardous material sites that are remediated pursuant to an Office-approved remedial work plan. The grant amount reflects the reduced funding of the BIG program. Projects that received a notice of satisfaction by April 2013 receive a larger BIG grant award.
 
-12   Limit includes all proceeds from the pre-development grant, environmental investigation grant and cleanup grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary cleanup program by April 2013 receive larger BIG grant awards.
+										6   Limit includes all proceeds from the pre-development grant and the environmental investigation grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary program by April 2013 receive larger BIG grant awards.
 
-13   Limit includes all proceeds from the City pre-enrollment grant. If a City-supported affordable housing or industrial project is enrolled in the City voluntary cleanup program, the project would be eligible for a $50,000 cleanup grant.
 
-14   Technical assistance grants for preferred community development projects are limited to not-for-profit developers.
+										7   A not for profit developer of a preferred community development project, or a developer of a residential building where 100% of the units are affordable, is eligible for a $50,000 cleanup grant, which includes all proceeds of the predevelopment and environmental investigation grants.
 
-15   The grant pays for technical assistance with development of a BOA program application or, for a place-based community planning area, services and consultation in planning for the re-use of a development site.
 
-16   The maximum grant for a not-for-profit developer of a preferred community development project is $77,000.
+										8   A not for profit developer of a preferred community development project which is a BOA strategic site is eligible for a $50,000 cleanup grant, which includes all proceeds from the pre-development and environmental investigation grants.
 
-17   The maximum grant for a not-for-profit developer of a BOA strategic site or a strategic site of a place-based brownfield community planning organization recognized by the Office is $87,000.
+
+										9   For e-designation hazardous material sites and restrictive declaration hazardous material sites that are remediated pursuant to an Office-approved remedial work plan. The grant amount reflects the reduced funding of the BIG program. Projects that received a notice of satisfaction by April 2013 receive a larger BIG grant award.
+
+
+										10   Limit includes all proceeds from the pre-development grant, environmental investigation grant and cleanup grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary cleanup program by April 2013 receive larger BIG grant awards.
+
+
+										11   Limit includes all proceeds from the City pre-enrollment grant. If a City-supported affordable housing or industrial project is enrolled in the City voluntary cleanup program, the project would be eligible for a $50,000 cleanup grant.
+
+
+										12   Technical assistance grants for preferred community development projects are limited to not-for-profit developers.
+
+
+										13   The grant pays for technical assistance with development of a BOA program application or, for a place-based community planning area, services and consultation in planning for the re-use of a development site.
+
+
+										14   The maximum grant for a not-for-profit developer of a preferred community development project is $82,000.
+
+
+										15   The maximum grant for a not-for-profit developer of a BOA strategic site or a strategic site of a place-based brownfield community planning organization recognized by the Office is $92,000.
 
 
 
@@ -4831,15 +5031,32 @@ VCP: The City Voluntary Cleanup Program administered by the Office of Environmen
 *Schedule B: Eligible Services and Activities/Reimbursable Allowance a, b* ::
 
 
-a   All listed prices are inclusive of all subcontractor, professional oversight, materials and equipment costs.
 
-b   The Grant Allowance amounts presented in Schedule B represent the maximum amounts up to which specified activities may be funded. An eligible service and activity will not necessarily be funded up to that maximum amount.
+										a   All listed prices are inclusive of all subcontractor, professional oversight, materials and equipment costs.
 
-c   Pursuant to 43 RCNY § 43-1423(b)(4), predevelopment and environmental investigation grants, other than for preferred community development projects where the developer is a not-for-profit corporation, are reimbursed subject to the grant payment percentage limit of 75% for eligible costs for approved services and activities.
 
-d   This column applies to preferred community development projects where the developer or community based organization is a not-for-profit corporation. Pursuant to 43 RCNY § 43-1423(b)(4), such projects are not subject to the grant payment percentage limit.
+										b   The Grant Allowance amounts presented in Schedule B represent the maximum amounts up to which specified activities may be funded. An eligible service and activity will not necessarily be funded up to that maximum amount.
 
-e   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial investigation activities and all document preparation activities including: a remedial investigation work plan, a Phase I environmental site assessment, a remedial investigation report, sampling, field oversight, mobilization, monitoring, chemical analysis and a remedial action work plan. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial investigation or remedial work plan preparation may be claimed.
+
+										c   Pursuant to 43 RCNY § 43-1423(b)(4), predevelopment and environmental investigation grants, other than for preferred community development projects where the developer is a not-for-profit corporation, are reimbursed subject to the grant payment percentage limit of 75% for eligible costs for approved services and activities.
+
+
+										d   This column applies to preferred community development projects where the developer or community based organization is a not-for-profit corporation. Pursuant to 43 RCNY § 43-1423(b)(4), such projects are not subject to the grant payment percentage limit.
+
+
+										e   Reimbursement up to $85,000 subject to the project award cap. This payment is intended to cover all remedial action activities. This activity can only be selected for projects that have enrolled in the City’s Voluntary Cleanup Program.
+
+
+										f   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial investigation activities and all document preparation activities including: a remedial investigation work plan, a Phase I environmental site assessment, a remedial investigation report, sampling, field oversight, mobilization, monitoring, chemical analysis and a remedial action work plan. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial investigation or remedial work plan preparation may be claimed.
+
+
+										g   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial action oversight activities and all document preparation activities including: field oversight by staff, daily reports, CAMP monitoring and equipment, HASP monitoring, sample collection, and preparation of a remedial action report. It does not cover construction of remedial systems including engineering controls. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial action oversight or remedial action report preparation may be claimed.
+
+
+										h   Reimbursement for field oversight consists of oversight of active remedial work by a qualified environmental professional, CAMP monitoring equipment, HASP monitoring, and the collection of samples. The deliverable is a daily report that identifies the qualified environmental professional.
+
+
+										i   Eligible activities consist of the purchase of Pollution Legal Liability, Contractors Pollution Liability and Cleanup Cost Cap Insurance. The total amount of reimbursable expenses may not surpass the grant limits established in Schedule A. Purchase of environmental insurance for a project that subsequently enrolls in the City voluntary
 
 
 
@@ -5149,7 +5366,7 @@ b. Modification of Special Mixed Use Noise Requirements. Pursuant to the Zoning 
 
    6. If OER agrees to modify the noise requirements, OER will provide the department of buildings with notice of such modification, stating that it does not object to the issuance of a building permit, or a temporary or final certificate of occupancy.
 
-c. Fee for Modifying Special Mixed Use Noise Requirements. An applicant requesting that the Office modify the required noise attenuation in a special mixed use district pursuant to Section 123-32 of the Zoning Resolution, or in another area where the Office is authorized to make such modification, must pay a fee of $1,050.
+c. Fee for Modifying Special Mixed Use Noise Requirements. An applicant requesting that the Office modify the required noise attenuation in a special mixed use district pursuant to § 123-32 of the Zoning Resolution, or in another area where the Office is authorized to make such modification, must pay a fee of $1,050.
 
    1. OER will conduct an initial review of an application and thereafter inform the applicant of the fee amount.
 
@@ -5170,199 +5387,6 @@ c. Fee for Modifying Special Mixed Use Noise Requirements. An applicant requesti
    7. If the applicant disagrees with OER’s comments, the applicant must be given an opportunity to respond in writing, setting forth the applicant’s position regarding any additional information.
 
    8. Upon receipt and review of applicant submissions, OER will endeavor to issue a determination within thirty (30) days.
-
-
-
-
-
-
-Chapter 15: New York City 'Made In New York Marketing Credit Program'
---------------------------------------------------
-
-
-
-*§ 15-01 Purpose and general description.* ::
-
-
-(a) The "Made in New York Marketing Credit Program" ("the Program"), established and administered by the Mayor's Office of Media and Entertainment ("MOME"), offers "Made in New York" film and television productions a number of opportunities to promote their project in major media markets that are City-Owned assets or are privately owned and operated media outlets with which the City has established relationships. Qualified "Made in New York" productions that apply and are approved for this Program will be provided media outlets including, but not limited to, bus shelters, subway cars, and broadcasts on New York City Media group television stations. The amount of media advertising offered will be determined by certain production costs as defined in this rule. In exchange for the marketing credits, recipients will be required to make a monetary contribution to a New York City cultural institution approved by the New York City Department of Cultural Affairs or a non-profit organization with proposals for program funding on a Participatory Budgeting New York City ballot. The "Made in NY" logo must be included in all media advertising.
-
-(b) The purpose of this rule is to outline the application process for the Program. These procedures govern the allocation of marketing credits, including the application process, standards for assessing evaluations, and other provisions necessary and appropriate for fulfilling the purposes of the Program.
-
-(c) In order to receive the marketing credit, a marketing credit recipient must donate a Community Benefit to a New York City cultural institution or non-profit organization within thirty (30) days of completion of the authorized applicant's media campaign.
-
-
-
-
-
-
-
-
-*§ 15-02 Definitions.* ::
-
-
-As used in this rule, the following terms have the following meanings:
-
-(a) Application form. "Application form" means the document created by the Office that is submitted by an authorized applicant to receive "Made in New York Marketing Credit Program" credit after it has completed production of a qualified film. The application form will include a list of non-profit cultural institutions and community organizations approved by the New York City Department of Cultural Affairs and Participatory Budgeting New York City, respectively, as eligible for Program donations.
-
-(b) Authorized applicant. "Authorized applicant" means a qualified film/television production and/or distribution company that is distributing a qualified film.
-
-(c) Certificate of marketing credit. "Certificate of marketing credit" means a certificate issued by the Office which establishes the amount of media assets for which the approved applicant has qualified, based on the Office's analysis according to the provisions of this chapter. The certificate will include such information as name and address of the authorized applicant; name of the qualified film in connection with which the credit applies; the amount of media assets to be received by the approved applicant; and a disclaimer stating that actual receipt of the marketing credit is subject to availability of media assets for the Program.
-
-(d) Completion of the application. "Completion of the application" means that all questions on an application have been fully addressed by an authorized applicant and that any additional supporting documents requested by the Office have been provided in a manner sufficient to allow the Office to properly evaluate the application.
-
-(e) Commissioner. "Commissioner" means the Commissioner of the New York City Office of Media and Entertainment.
-
-(f) Community Benefit. "Community Benefit" means a monetary contribution to a New York City cultural institution or community organization of (1) a minimum of $10,000 (ten thousand dollars) for any qualified film with qualified production costs equal to $10,000,000 (ten million dollars) or more, or (2) 0.1% (one-tenth per cent) of the qualified production costs for any qualified film having qualified production costs less than $10,000,000 (ten million dollars).
-
-(g) Effective date. "Effective date" means the date of the first usage of the marketing credit, i.e., when media assets are first utilized. The effective date is determined by the authorized applicant based on media asset availability provided by the Office.
-
-(h) End credit requirements. “End credit requirements” means those acknowledgements that an authorized applicant agrees to include in each qualified film as a condition for participation in the Program. Each qualified film must include in the end credits: (1) the “Made in NY” logo; and (2) the phrase “The ‘Made in NY’ logo is a trademark of the City of New York and is used with the City’s permission.”
-
-(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the public that is sixty (60) minutes or longer in length.
-
-(j) Marketing credit. "Marketing credit" means an allocation of media assets available free of charge to a qualified film.
-
-(k) Media asset. "Media asset" means available advertising media including, but not limited to, bus shelters, subway cars, taxi TV, and broadcasts on New York City Media group television stations that the Office makes available for this purpose.
-
-(l) New York City cultural institution or community organization. "New York City cultural institution or non-profit community organization" means an Internal Revenue Code § 501(c)(3) non-profit organization identified by the New York City Department of Cultural Affairs or through Participatory Budgeting New York City as an organization which supports and strengthens New York City's creative community or neighborhoods.
-
-(m) Office or MOME. "Office" or "MOME" means the New York City Mayor's Office of Media and Entertainment.
-
-(n) Priority number. "Priority number" means the number assigned by the Office to determine allocation of the marketing credit. "Priority number" will be based on the date an authorized applicant has submitted a completed application; provided, however, that in the event that there is more than one application with the same date, priority will be given to the authorized applicant having the earliest anticipated date of release of the qualified film.
-
-(o) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. "Production costs" do not include (1) costs for a story, script or scenario to be used for a qualified film or (2) wages, salaries or other compensation for writers, directors (including music directors), producers, actors and performers (other than background actors or other performers with no scripted lines). "Production costs" generally include below-the-line costs, as defined by industry standards, including but not limited to technical and crew production costs, such as expenditures for film production facilities props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
-
-(p) Qualified film. "Qualified film" means a feature-length film, television film, television special, and/or television series, regardless of the medium by means of which it is created or conveyed, of which: (1) 75% of its total shooting days take place in New York City, or (2) 75% of its production costs are "qualified production costs." A "qualified film" must have production costs of at least $400,000 and must have completed production no earlier than twenty-four (24) months prior to the date of application to the Program. A "qualified film", if distributed exclusively over the Internet, must be distributed through a paid subscription-based streaming service or advertiser supported streaming service. "Qualified film" does not include a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
-
-(q) Qualified film/television production and or distribution company. "Qualified film/television production and or distribution company" means a corporation, partnership, limited partnership, or other entity or individual that is principally engaged in the distribution of a qualified film, controls the qualified film during release, and is responsible for payment of the cultural component.
-
-(r) Qualified production costs. "Qualified production costs" means the below-the-line production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
-
-(s) Release of a qualified film. "Release of a qualified film" means that the post-production work in connection with a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for broadcast or delivery to a distributor.
-
-(t) Television film. "Television film", also known as "movie-of-the-week," "MOW," "made for television movie," or "mini-series," means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least sixty (60) minutes in length (exclusive of commercial advertisement and interstitial programming).
-
-(u) Television special. "Television special" means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length (exclusive of commercial advertisement and interstitial programming). "Television special" includes, but is not limited to, an awards show and a telethon.
-
-(v) Television series. "Television series" means a regularly occurring production on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length per episode (exclusive of commercial advertisement and interstitial programming). "Television series" includes, but is not limited to, late-night variety series, daily news series, situation comedies, single camera comedies, reality series, game shows, morning news and newsmagazine shows.
-
-
-
-
-
-
-
-
-*§ 15-03 Application process.* ::
-
-
-For the purposes of this chapter, only an authorized applicant will be eligible to apply for the New York City Made in New York Marketing Credit Program.
-
-(a) The application form required for the Program will be available on the Office's website, and must be completed and submitted by an authorized applicant to the Office through its U.S. postal mail or email address as set forth in the application form. In addition, applicants may submit such application through private delivery services including, but not limited to, Federal Express, United Postal Service (UPS) or private messenger. In addition to providing contact information including its name, postal address, electronic (email) address and fax number, the applicant must also submit information about total production costs at film production facilities in and outside of New York; the total number of shooting days in and outside of New York; and any other information the Office determines is necessary to properly evaluate the application.
-
-(b) An authorized applicant may submit an application for a qualified film that is a television series no more than once a year.
-
-(c) The authorized applicant must include information about the date that the qualified film is set to make its debut in theatres, on television, online, on DVD or any and all media. The application must be received at least sixty (60) days prior to the release date.
-
-(d) Applications will be reviewed by the Office in the order they are received.
-
-(e) The Office will approve or disapprove the application based upon criteria outlined in 43 RCNY § 15-04(a).
-
-(f) The Office will advise the authorized applicant about whether its request has been approved, by U.S. postal service or electronic mail, no later than twenty (20) business days from receipt of the application. The notification will inform the applicant of such approval or disapproval. If approved, the notification will inform the applicant the amount and type of media assets available for the promotional media campaign during the dates requested on the application.
-
-
-
-
-
-
-
-
-*§ 15-04 Evaluation of applications.* ::
-
-
-(a) In order to be approved for marketing credit, each of the following requirements must be satisfied:
-
-   (1) the application is substantially complete;
-
-   (2) the authorized applicant is a producer and/or distributor with a qualified film or television series;
-
-   (3) the authorized applicant's qualified production costs paid or incurred are attributable to the use of tangible property or the performance of services in the production of a qualified film;
-
-   (4) the authorized applicant has identified the cultural institution or community organization to which it will make a payment as part of the Program; and
-
-   (5) the authorized applicant intends to comply with the end credit requirements set forth in 43 RCNY § 15-02(h).
-
-(b) In the event that all of the criteria outlined in this section are not met, or in the event that the Office concludes that the authorized applicant has knowingly submitted false or misleading information, the Office will disapprove the application.
-
-
-
-
-
-
-
-
-*§ 15-05 Allocation of New York City Made in New York marketing credit.* ::
-
-
-(a) When an application has been approved the Office will allocate the credit in order of priority based upon submission date of an application and subject to the availability of media assets. In the event that an marketing credit recipient is unable to use the media assets after the credit has been allocated, such recipient will lose its "first come, first served" status and will be accommodated subject to availability without guarantee of reallocation.
-
-(b) The Office will allocate the credit based on a project's qualified production costs. The amount of qualified production costs will determine which of the following three tiers an applicant would qualify for:
-
-   Tier 1: Qualified production costs of $10 million (ten million dollars) or more
-
-   Tier 2: Qualified production costs of at least $5 million (five million dollars) and less than $10 million (ten million dollars)
-
-   Tier 3: Qualified production costs of at least $400,000 (four hundred thousand dollars) and less than $5 million (five million dollars)
-
-(c) Depending on the availability of media assets, the Office will determine the amount and type of media assets assigned to each tier, which will be allocated to marketing credit recipients according to their tier category.
-
-(d) Productions that have qualified production costs of $10 million or more, or are produced (i) by a company of which more than 5 percent of the beneficial ownership is owned directly or indirectly by a publicly traded entity, or (ii) by a company having more than $35 million in annual revenue, must pay for the costs, if any, of printing materials for distribution through the media assets assigned under the credit.
-
-(e) If a marketing credit recipient does not pay the Community Benefit within thirty (30) days of the completion of such recipient's media campaign, such recipient may be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
-
-
-
-
-
-
-
-
-*§ 15-06 Appeal process.* ::
-
-
-(a) If an authorized applicant's application is disapproved by the Office, or if a marketing credit recipient disagrees with the amount of the media assets granted by the Office, each such person or entity may appeal such determination.
-
-(b) In the case of an appeal from a disapproval of an application, an authorized applicant can request an appeal by sending a letter to the Mayor's Office of Media and Entertainment, Attn: Commissioner, to the address and by the means specified in the application form, within thirty (30) days from the date of the denial letter issued by the Office.
-
-(c) In the case of an appeal from a determination of the amount of media assets, a marketing credit recipient can request an appeal by sending a letter to the Commissioner as provided in Subdivision (b), within thirty (30) days from the date of issuance of the certificate of marketing credit.
-
-(d) If an authorized applicant or a marketing credit recipient fails to request an appeal within thirty (30) days of the Office's denial decision and/or allocated amount of media assets, such decision will be deemed final.
-
-(e) Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review the matter. The appeal officer may reverse, affirm or modify the original determination and provide a written explanation of his or her finding in a report to the Commissioner. The Commissioner or his or her designee must issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appealing person or entity within ten (10) days after the date the Commissioner or his or her designee renders the final order.
-
-
-
-
-
-
-
-
-*§ 15-07 Final report.* ::
-
-
-As part of the community benefit component of the Program, within thirty (30) days after the completion of a marketing credit recipient's media campaign, such recipient must submit to the Office by U.S. mail, email or fax, proof of payment to the identified New York City cultural institution, in the form of a cancelled check or letter of acknowledgment. Such recipients who have not satisfied this component of the Program will be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
-
-
-
-
-
-
-
-
-*§ 15-08 Record retention.* ::
-
-
-Each marketing credit recipient must maintain records, in paper or electronic form, of any qualified productions costs used to calculate the media assets received through this Program for a minimum of three years from the date of filing of the tax return applicable to the time period for which such recipient claims the marketing credit. The Office has the right to request such records upon reasonable notice.
 
 
 

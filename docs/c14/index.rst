@@ -5325,7 +5325,7 @@ Maximum Allowance for All Buildings
       -  
     * -  
       -  
-      -     Electric service equipment
+      - Electric service equipment
       -  
       -  
       -  
@@ -5343,13 +5343,13 @@ Maximum Allowance for All Buildings
       - 1,500.00 + 110.00
     * -  *
       -  
-      -     Apartment panel
+      - Apartment panel
       - d.u.
       - 300.00
       - 300.00
     * -  
       -  
-      -     Risers
+      - Risers
       -  
       -  
       -  

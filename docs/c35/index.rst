@@ -1,6 +1,233 @@
 Title 52: Campaign Finance Board
 ===================================================
 
+Chapter 2: Candidate Requirements
+--------------------------------------------------
+
+
+
+*§ 2-01 Certification.* ::
+
+
+(a) Contents. The candidate shall specify in the certification whether he or she is joining the Program as a participant pursuant to § 3-703 of the Code or as a limited participant pursuant to § 3-718 of the Code. The certification shall include all filer registration information required by 52 RCNY § 1-11 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the certification, the participant or limited participant shall designate a principal committee. A candidate filing the certification as a limited participant shall affirm that he or she has a sufficient amount of personal funds to fund his or her own campaign. A candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
+
+(b) Legal effect. The participant shall comply fully with Program requirements in all elections for which the certification is submitted, regardless of the office sought and regardless whether the participant: (1) meets all the requirements of law to have his or her name on the ballot in the election; or (2) meets the Act's threshold for eligibility for public funds; or (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election. The limited participant shall comply fully with the Program requirements in all elections for which the certification is submitted, regardless of the office sought and regardless whether the limited participant meets all the requirements of law to have his or her name on the ballot in the election. A candidate who does not file a timely certification or who rescinds his or her certification in a timely manner shall be deemed to be a non-participant pursuant to § 3-719 of the Code. The certification applies to all elections for an office covered by the Act that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act.
+
+(c) Signatures. The certification shall contain any signatures and notarizations as may be required by the Board; provided, however, that to the extent the Board permits a candidate to submit a certification in a non-electronic format, such certification will only be accepted by the Board if it contains an original notarized signature from both the candidate and the principal committee treasurer.
+
+(d) Amendments. The participant or limited participant shall notify the Board of any material change in the information submitted pursuant to this rule, including, but not limited to any new, or any change to any required information concerning any political committee, bank account, unique merchant account, candidate or treasurer employment, address, telephone number, or e-mail address, included in the filer registration information required by 52 RCNY § 1-11, in such manner as may be provided by the Board and no later than the next deadline for filing a disclosure statement or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change, provided, however, that if the participant or limited participant has extinguished all outstanding liabilities resulting from the election to which the certification relates, including payment of any penalties and/or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change to the information required by 52 RCNY § 1-11 after issuance of the candidate's final audit report, except as provided in 52 RCNY § 4-03(b). If, based upon a reasonable belief that there has been a material change in the information submitted, the Board requests an amendment, the participant or limited participant shall submit promptly any amendment necessary in such manner as may be provided by the Board. Notification of any change to the candidate's or treasurer's information included in the certification must be made to the Board for six (6) years after the date of the last election to which the certification relates.
+
+(e) Petition for extraordinary circumstances.
+
+   (1) Pursuant to § 3-703(1)(c) of the Code, a certification may be accepted no later than the seventh day after the occurrence of an extraordinary circumstance in an election, if: (i) prior to, or together with, the certification, a written petition is submitted to the Board, sworn to or affirmed by a candidate in such election seeking to join the Program as a participant or limited participant, which sets forth the facts alleged to present an extraordinary circumstance; and (ii) following review of the petition, the Board declares that an extraordinary circumstance has occurred in the election which permits or permitted the acceptance of additional certifications, as provided in § 3-703(1)(c). The Board shall provide written notice to each participant and limited participant in an election of its declaration of an extraordinary circumstance in the election, which shall include the names of any additional candidates who have filed certifications in a timely manner in light of the extraordinary circumstance.
+
+   (2) Nothing in this rule shall be construed to: (i) require the Board to make a declaration of an extraordinary circumstance within seven days of its occurrence; or (ii) extend the deadline for joining the Program, in the event the Board does not declare that an extraordinary circumstance has occurred until more than seven days after its occurrence; or (iii) prohibit the acceptance of a certification filed by a candidate in an election within seven days after the occurrence of an extraordinary circumstance in that election, if the candidate did not file a petition under subparagraph (1)(i), provided that another candidate in such election has filed such a petition and the Board makes the declaration under subparagraph (1)(ii).
+
+   (3) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating his or her campaign for reelection (which may be submitted together with a petition under subparagraph (1)(i)).
+
+(f) Rescission. A participant or limited participant may rescind his or her certification on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first, by filing a certification rescission form.
+
+
+
+
+
+
+
+
+*§ 2-02 Breach of Certification.* ::
+
+
+The Board considers each of the following activities to be a fundamental breach of the obligations affirmed and accepted by the participant or limited participant in the certification:
+
+(a) submission of a disclosure statement which the participant knew or should have known includes substantial fraudulent matchable contribution claims;
+
+(b) use of public funds to make or reimburse substantial campaign expenditures which the participant knew or should have known were fraudulent;
+
+(c) cooperation in alleged independent expenditures, whereby material or activity that directly or indirectly assists or benefits a participant's or limited participant's nomination or election, which is purported to be paid by independent expenditures, was in fact authorized, requested, suggested, fostered, or cooperated in by the participant or limited participant;
+
+(d) use of a political committee or other entity over which a participant or limited participant exercises authority to conceal from the Board expenditures that directly or indirectly assist or benefit the participant's or limited participant's nomination or election; and
+
+(e) submission of substantial information which the participant or limited participant knew or should have known was false, or the submission of substantial documentation which the participant or limited participant knew or should have known was fabricated or falsified, which would avoid a finding of violation or public funds repayment determination. In the event of a fundamental breach, the participant will be deemed by the Board to be ineligible for public funds and to have forfeited all public funds previously received for the elections covered by the certifications and the participant or limited participant will be subject to such civil and criminal sanctions as are applicable under § 3-711 of the Code and other applicable law. This rule is not intended to be an enumeration of all circumstances that may constitute a fundamental breach of obligations, as may be determined by the Board.
+
+
+
+
+
+
+*§ 2-03 Campaign Information. [Repealed]* ::
+
+
+(a) Deposit of receipts. All contributions, loans, and other receipts shall be deposited into the account(s) listed on the candidate's filer registration and/or certification and in disclosure statements filed with the Board. Candidates opening accounts shall maintain at least one account with check writing privileges.
+
+(b) Separate accounts for different elections. Receipts accepted for one election shall not be commingled in any account with receipts accepted for any other election, except that receipts for a primary and general election for the same office in the same calendar year may be deposited in the same account. Notwithstanding the foregoing, a candidate seeking election both to an office subject to the Act and to a federal office may maintain a separate allocation account for shared expenses in accordance with Advisory Opinion No. 1996-2 .
+
+(c) Runoff primary and runoff special elections. A candidate may accept contributions for an anticipated runoff primary or anticipated runoff special election pursuant to 52 RCNY § 1-04(q).
+
+   (1) i)  If a candidate accepts receipts for a runoff election, they shall be deposited into an account from which no disbursements, withdrawals, or transfers are made prior to the day of the preceding primary or special election, as the case may be, except that such contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
+
+      (ii) Receipts accepted for a runoff primary shall not be (i) commingled in any account with any receipts accepted for any other election; or (ii) used for a primary or general election held in the year that the runoff primary is held or anticipated.
+
+      (iii) Receipts accepted for a runoff special election shall not be commingled in any account with any receipts accepted for any other election or used for any other election until the runoff special election is actually held; provided, however, that funds may be transferred from a special election account to a runoff special election account after the special election so that the funds transferred may be spent in the runoff special election. Receipts accepted for an anticipated runoff special election that is not held may not be spent or otherwise transferred until the earlier of (A) the first January 12 after the date of the special election for which the runoff special election was anticipated or (B) the date upon which all the candidate's liabilities from the special election have been ex- tinguished.
+
+   (2) Notwithstanding any provision of subdivision (b) or paragraph (c)(1) to the contrary, funds may be exchanged between an account maintained for a primary and/or the general election and an account maintained for a runoff primary for the following reasons only:
+
+      (i) transfers from a primary and/or general election account to a runoff primary account made after the primary election so that the funds transferred may be spent in the runoff primary; and
+
+      (ii) transfers from a runoff primary account to a primary and/or general election account made after the runoff primary is held so that the funds transferred may be spent in the general election.
+
+(d) Special elections. Receipts accepted for a special election shall not be commingled in any account with any receipts accepted for any other election, except that receipts accepted for a special election may be deposited into an account established for a runoff special election pursuant to 52 RCNY § 1-04(q) in accordance with paragraph (c) above.
+
+(e) Personal and business funds. The personal or business funds of a candidate, his or her agent, or any other person or entity may not be commingled with campaign funds. This rule does not restrict the deposit of contributions or loans into an account maintained by an authorized committee.
+
+(f) Court-ordered rerun elections. Public funds received for a court-ordered rerun election shall not be commingled in any account with any other funds.
+
+(g) Segregated Bank Accounts for 52 RCNY § 5-01(n) Disbursements. Contributions received pursuant to 52 RCNY § 5-01(n)(2) shall be deposited into a segregated bank account established pursuant to such Rule.
+
+
+
+
+
+
+*§ 2-07 Participant's Disqualification from Ballot.* ::
+
+
+(a) Public fund eligibility. To be eligible for public funds, a participant must qualify to be on the ballot, and be opposed on the ballot, or, for the optional early public funds payment, certify that he or she intends to meet all the requirements of law to have his or her name on the ballot for the primary or general election.
+
+(b) Notice of disqualification. If a participant or the participant's only remaining opponent in an election is disqualified from the ballot by the New York City Board of Elections or a court of competent jurisdiction, the participant shall immediately inform the Board, by a hand-delivered memorandum, facsimile transmission, telegram, or other method of equivalent speed. If the disqualification by a court of competent jurisdiction was on the grounds that fraudulent acts were committed in order to obtain a place on the ballot, the notice shall so state.
+
+(c) Remedies for disqualification. The participant shall notify the Board immediately, in writing, if the disqualified candidate is seeking to appeal or otherwise remedy a disqualification. This notice shall indicate whether a judicial appeal is being taken as of right or by permission and the specific nature of any other judicial remedy sought.
+
+(d) Disqualification reversed. The participant shall immediately inform the Board, in writing, if the disqualification of the participant or the opponent is reversed by a court of competent jurisdiction.
+
+
+
+
+
+
+
+
+*§ 2-08 Write-in Candidates.* ::
+
+
+(a) Notice. Any candidate who is seeking nomination or election to a covered office as a write-in candidate must promptly so notify the Board in writing.
+
+(b) Disclosure obligations. Any candidate who is seeking nomination or election as a write-in candidate must file all disclosure statements for the election as required by 52 RCNY § 3-02.
+
+(c) Ineligibility for public funds. A participant who is seeking nomination or election exclusively as a write-in candidate and who is not on the ballot for the election is ineligible to receive public funds. A participant who is on the ballot for a covered election and who is opposed in such election solely by one or more candidates seeking nomination or election exclusively as write-in candidates and who are not on the ballot is ineligible to receive public funds.
+
+(d) Inclusion in Voter Guide. A candidate who is seeking nomination or election exclusively as a write-in candidate and who is not on the ballot for the election shall not be included in the voter guide for that election.
+
+
+
+
+
+
+*§ 2-09 Terminating a Candidacy.* ::
+
+
+(a) No "Opting-Out". A candidate may discontinue filing disclosure statements after filing a verified statement that his or her candidacy is terminated in accordance with subsections (b) or (c) of this rule, or if the Board has deemed the candidacy terminated pursuant to subsection (d) of this rule. Terminating a candidacy does not relieve the candidate of other Program obligations, such as maintaining records required by these Rules, submitting documentation or information in response to requests by the Board, and paying penalties for violations of the requirements of the Act and these Rules.
+
+(b) "Off the ballot" termination.
+
+   (1) A participant may submit to the Board a verification that he or she is not a candidate for that election if the participant: (i) is not on the ballot for that election; (ii) is not seeking nomination or election as a write-in candidate; (iii) has not received public funds; and (iv) has not submitted and does not intend to submit a petition for payment after final disqualification from the ballot, pursuant to 52 RCNY § 5-02(b). The verification shall be in such form and manner as shall be provided by the Board, and shall contain such signatures as may be required by the Board.
+
+   (2) A limited participant or non-participant may submit to the Board a verification that he or she is not a candidate for that election if the candidate: (i) is not on the ballot for that election; and (ii) is not seeking nomination or election as a write-in candidate. The verification shall be in such form and manner as shall be provided by the Board, and shall contain such signatures as may be required by the Board.
+
+(c) "Ceased campaigning" termination. A particiant may submit to the Board a verification that he or she is not a candidate for that election if the participant: (1) has ceased all campaign activity for that election; (2) has not received public funds; and (3) has not submitted and does not intend to submit a petition for payment after final disqualification from the ballot, pursuant to 52 RCNY § 5-02(b). A limited participant or non-participant may submit to the Board a verification that he or she is not a candidate for that election if the candidate has ceased all campaign activity for that election. The verification shall be in such form and manner as shall be provided by the Board, and shall contain such signatures as may be required by the Board.
+
+(d) Termination by Board. The Board may send a notice to a participant that his or her candidacy has been deemed terminated if the participant: (1) is not on the ballot for that election; (2) has not received public funds; and (3) has not submitted a petition for payment after final disqualification from the ballot, pursuant to 52 RCNY § 5-02(b). The Board may send a notice to a limited participant or non-participant that his or her candidacy has been deemed terminated if the candidate is not on the ballot for that election. If the candidate is continuing to seek nomination or election as a write-in candidate, or, in the case of a participant, intends to submit a petition for public funds pursuant to 52 RCNY § 5-02(b), the candidate must so notify the Board within 10 days after receiving the notice of termination, in which case the Board will reverse the termination and the candidate must continue to submit disclosure statements. In any event, the termination will be reversed and disclosure obligations resumed if the candidate remains a candidate in the election.
+
+
+
+
+
+
+*§ 2-10 Limited Participation.* ::
+
+
+(a) Generally. A limited participant shall not be eligible to receive public funds pursuant to § 3-705 of the Code. A limited participant is not subject to the contribution limits pursuant to § 3-703(f) of the Code; provided, however, that a limited participant shall not accept, at any time before or after the filing of a certification with the Board, either directly, indirectly, or by transfer, any monetary or in-kind contribution, or any loan, guarantee, or other security for such loan made in connection with such candidate's nomination for election or election, except for monetary contributions from the candidate to his or her principal committee made out of the candidate's personal funds or property, in-kind contributions made by the candidate to his or her principal committee, and advances received. A candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
+
+(b) Program compliance. Except as otherwise specified in these Rules, the limited participant shall comply fully with Program requirements, including the following:
+
+   (1) Campaign finance disclosure statements. The limited participant shall file all disclosure statements as required pursuant to 52 RCNY Chapter 3 of these Rules.
+
+   (2) Accounting and auditing. The limited participant shall be subject to all Program accounting and auditing requirements as set forth in 52 RCNY Chapter 4 of these Rules.
+
+   (3) Expenditure limitations. The limited participant shall not make expenditures which in the aggregate exceed the expenditure limitations set forth in the Act.
+
+(c) Penalties. The limited participant shall be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act or these Rules.
+
+
+
+
+
+
+*§ 2-11 Non-Participation.* ::
+
+
+(a) Generally. A candidate who does not file a certification, pursuant to either § 3-703 or § 3-718 of the Code, or who rescinds his or her certification prior to the rescission deadline by filing a certification rescission form, shall be deemed to be a non-participant, pursuant to § 3-719 of the Code. A non-participant shall not be eligible to receive public funds, pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant may accept contributions from political committees notwithstanding the restrictions on such contributions contained in § 3-703(k) of the Code.
+
+(b) Compliance. Except as otherwise specified in these Rules, the non-participant shall comply fully with the requirements of the Act:
+
+   (1) Campaign finance disclosure statements. The non-participant shall file all disclosure statements as required pursuant to 52 RCNY Chapter 3.
+
+   (2) Accounting and auditing. The non-participant shall be subject to all accounting and auditing requirements as set forth in 52 RCNY Chapter 4.
+
+   (3) Corporate, limited liability company, and partnership contributions. The non-participant shall not accept, either directly or indirectly, any contribution, loan, guarantee, or other security for such loan from any corporation, limited liability company, or partnership, including a limited liability partnership, other than a corporation, limited liability company, or partnership that is a political committee as defined in the Act. This prohibition does not apply to loans made in the regular course of business, regardless what form of business entity the lender assumes; but does prohibit the acceptance of a guarantee or other security for such a loan from a corporation, limited liability company, or partnership.
+
+   (4) Contribution limitations. The non-participant shall not accept, either directly, indirectly, or by transfer, any contribution or contributions from any one individual, political committee, labor organization or other entity for all covered elections held in the same calendar year in which he or she is a candidate which in the aggregate exceed the contribution limitations set forth in § 3-703(1)(f) and (1-a) of the Code; provided, however, that a non-participant may make contributions to his or her own authorized committees with his or her personal funds or property and may make advances or loans with his or her personal funds or property, without regard to any contribution limitations provided in § 3-703(1)(f) or (h) or (1-a) of the Code. A candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
+
+(c) Penalties. A non-participant shall be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act or these Rules.
+
+
+
+
+
+
+
+
+*§ 2-12 Mandatory Training.* ::
+
+
+(a) Mandatory pre-election training. Participating candidates, their campaign managers, treasurers or persons with significant managerial control over a campaign shall be required to attend a training provided by the Board concerning compliance with the requirements of the Program and use of the Program software. For purposes of determining compliance with this rule, "persons with significant managerial control" shall not include campaign consultants, and the individual attending the training must be listed on the candidate's filer registration. Such training shall be completed in accordance with a schedule to be published by the Board.
+
+(b) Optional Post-Election Training. In order to prepare campaigns to respond effectively to issues raised in the draft audit report, the Act encourages candidates and their staffs to attend post-election audit trainings. Pursuant to § 3-710(1) of the Code, where the candidate, the campaign manager, or the treasurer has attended a post-election audit training provided by the Board, the Board will issue final audit reports within fourteen months after the deadline for submission of the final disclosure report for the covered election, in the case of city council and borough-wide races, and within sixteen months after the deadline for submission of the final disclosure report for the covered election in the case of citywide races. The deadlines for attendance at such trainings shall be:
+
+   (1) For city council and borough-wide races, the earlier of twenty days following issuance of the draft audit report or eight months after the deadline for submission of the final disclosure report for the covered election;
+
+   (2) For citywide races, the earlier of twenty days following issuance of the draft audit report or ten months after the deadline for submission of the final disclosure report for the covered election.
+
+
+
+
+
+
+*§ 2-13 Identification of communications.* ::
+
+
+(a) When a candidate makes expenditures for any literature, advertisement, or other communication, the communication must include the words "paid for by" followed by the first and last name of the candidate or the name of the candidate's authorized committee, or, if the candidate has more than one authorized committee, the candidate's principal committee; provided that, if the name of the committee does not include the first and/or last name of the candidate, then the words "paid for by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
+
+(b) When a candidate authorizes any individual or entity, other than the candidate, to pay for any literature, advertisement, or other communication in support of or in opposition to any candidate in any covered election, the communication must include the words "authorized by" followed by the first and last name of the candidate or the name of the candidate's authorized committee, or, if the candidate has more than one authorized committee, the candidate's principal committee; provided that, if the name of the committee does not include the first and/or last name of the candidate, then the words "authorized by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
+
+(c) The identification required by subdivision a or b of this section must be in the following form:
+
+   (1) For printed material, an internet advertisement, or a website, the identification must be written in a font of conspicuous size and style and contained in a box within the borders of the communication.
+
+   (2) For a communication broadcast on radio, the identification must be clearly spoken at the beginning or end of the communication.
+
+   (3) For a communication broadcast by television, satellite, cable, or similar medium, the identification must be clearly spoken at the beginning or end of the communication and, simultaneous with the spoken disclosure, written in a font of conspicuous size and style contained in a box within the borders of the communication.
+
+   (4) For a telephone communication, the identification must be clearly spoken at the beginning or end of the communication. If the identification is spoken at the end of the communication, then the name of the candidate must also be clearly spoken at the beginning of the call.
+
+(d) For communications primarily in a language other than English, all required written or spoken identification required by this rule must be in such language.
+
+(e) This requirement may be modified by the Board concerning items upon which identification would be impractical.
+
+
+
+
+
+
 Chapter 1: General Provisions
 --------------------------------------------------
 
@@ -129,17 +356,17 @@ Treasurer. "Treasurer" means the treasurer of any authorized committee involved 
 *§ 1-03 Restrictions on Use of Receipts.* ::
 
 
-(a) Restriction on use. In addition to the restriction set forth in Rule 5-03(e)(2) and, except as otherwise provided in subdivision (b):
+(a) Restriction on use. In addition to the restriction set forth in 52 RCNY § 5-03(e)(2) and, except as otherwise provided in subdivision (b):
 
-   (1) the candidate may expend, transfer, or use receipts, including receipts resulting from a sale, lease, or other transfer of assets, only to pay expenses incurred in that election; no receipts, including receipts accepted for another election, if any, deposited in a separate account as provided in Rule 2-06(b), may be expended, transferred, or used for any other purpose until any required repayments to the Fund have been made and any fines or civil penalties assessed pursuant to the Act have been paid;
+   (1) the candidate may expend, transfer, or use receipts, including receipts resulting from a sale, lease, or other transfer of assets, only to pay expenses incurred in that election; no receipts, including receipts accepted for another election, if any, deposited in a separate account as provided in 52 RCNY § 2-06(b), may be expended, transferred, or used for any other purpose until any required repayments to the Fund have been made and any fines or civil penalties assessed pursuant to the Act have been paid;
 
-   (2) receipts deposited in an account shall not be used for any purpose other than the election for which that account was established, pursuant to Rule 2-06(b), except as otherwise provided in Rule 2-06(c) for runoff primary election or runoff special election accounts;
+   (2) receipts deposited in an account shall not be used for any purpose other than the election for which that account was established, pursuant to 52 RCNY § 2-06(b), except as otherwise provided in 52 RCNY § 2-06(c) for runoff primary election or runoff special election accounts;
 
    (3) after the participant first receives public funds for an election, the principal committee for that election may not make a transfer to a political committee not involved in that election until all unspent campaign funds from that election have been repaid;
 
    (4) after the participant first receives public funds for an election, the principal committee for that election may not make expenditures to pay expenses or debt from a previous election (other than a primary election held in the same calendar year).
 
-(b) Exception. After the first January 11 after an election, a candidate involved in that election may expend, transfer, or use receipts accepted for another election, provided that the receipts have been deposited in and are disbursed from a separate account, as provided in 52 RCNY § 2-06(b). Funds accepted and separately deposited for the previous election may be transferred to this account only after any required repayments to the Fund have been made and any fines or civil penalties assessed pursuant to the Act have been paid. Contributions and loans accepted for the previous election after such election are subject to 52RCNY §§ 1-04(m) and 1-05(g).
+(b) Exception. After the first January 11 after an election, a candidate involved in that election may expend, transfer, or use receipts accepted for another election, provided that the receipts have been deposited in and are disbursed from a separate account, as provided in 52 RCNY § 2-06(b). Funds accepted and separately deposited for the previous election may be transferred to this account only after any required repayments to the Fund have been made and any fines or civil penalties assessed pursuant to the Act have been paid. Contributions and loans accepted for the previous election after such election are subject to 52 RCNY §§ 1-04(m) and 1-05(g).
 
 
 
@@ -157,7 +384,7 @@ Treasurer. "Treasurer" means the treasurer of any authorized committee involved 
 
    (1) Excess and prohibited contributions. When a candidate knows or has reason to know that he or she has accepted a contribution, contributions, or aggregate contributions from a single source in excess of the applicable contribution limit, including a contribution or contributions from a contributor having business dealings with the city, or from a source prohibited by the Act or the Charter, the candidate shall promptly return the excess portion or prohibited contribution, as the case may be, by bank check or certified check made out to the contributor; provided, however, that in the case of a contribution from a contributor having business dealings with the city in excess of the applicable limitation set forth in § 3-703(1-a) of the Code, the candidate shall return the excess portion of such contribution within 20 days of receipt of notice from the Board that the contribution exceeds such limitation. Alternatively, if return of the contribution to the contributor is impracticable, the candidate may pay to the Fund an amount equal to the amount of the prohibited contribution or the excess portion, as the case may be. Remedial actions taken pursuant to this rule will not, however, preclude imposition of a penalty under the Act; provided, however, that no violation shall issue and no penalty shall be imposed where the excess portion of a contribution from a contributor having business dealings with the city is postmarked or delivered within 20 days of receipt of notification from the Board. The Board shall provide such notification to the candidate within 20 days of the reporting of the contribution, or, in the case of a contribution reported during the six weeks preceding the candidate's next covered election, the Board shall provide such notification within 3 business days; provided, however, that if such twentieth day is a Saturday, Sunday, or legal holiday, notification by the Board by 5 p.m. on the next business day shall be considered timely. If the candidate demonstrates to the Board, within 20 days of receipt of such notice, that the contributor identified by the Board as having business dealings with the city has applied to the Mayor's Office of Contract Services or the City Clerk for removal from the doing business database and that such application is pending, the candidate may retain contribution(s) received from such contributor until the Board notifies the candidate that the Mayor's Office of Contract Services or the City Clerk has denied the application for removal, in which case the candidate shall have 20 days from receipt of such second notice to return the excess portion of the contribution(s). Contributions from contributors who have applied for removal from the doing business database shall not be considered matchable contributions unless and until the contributor is removed from the doing business database by the Mayor's Office of Contract Services or the City Clerk. A candidate may not accept any contributions in excess of the applicable contribution limits or from sources prohibited by the Act or the Charter.
 
-   (2) Restrictions on return. After receiving public funds for an election, a participant may not return a contribution, unless directed by the Board to do so, until any required repayments to the Fund have been made, except if the contribution: (i) exceeds the contribution limit, including the limit applicable to contributors having business dealings with the City, (ii) is otherwise illegal, (iii) is returned because of the particular source or intermediary involved, or (iv) was deposited in a separate account, pursuant to Rule 2-06(c) for a runoff election that is not held.
+   (2) Restrictions on return. After receiving public funds for an election, a participant may not return a contribution, unless directed by the Board to do so, until any required repayments to the Fund have been made, except if the contribution: (i) exceeds the contribution limit, including the limit applicable to contributors having business dealings with the City, (ii) is otherwise illegal, (iii) is returned because of the particular source or intermediary involved, or (iv) was deposited in a separate account, pursuant to 52 RCNY § 2-06(c) for a runoff election that is not held.
 
 (d) Contributions from political committees.
 
@@ -235,7 +462,7 @@ Treasurer. "Treasurer" means the treasurer of any authorized committee involved 
 
       (iv) the labor organizations make contributions from separate accounts.
 
-   (3) It is the responsibility of the candidate to determine whether a contribution exceeds the applicable contribution limit. To ensure that the candidate does not accept a contribution exceeding the applicable limit, the candidate must review the relationship between affiliated contributors before the candidate accepts and deposits their contributions or rejects and returns the contributions under Rule 1-04(b) and (c). The candidate has the burden of demonstrating why the candidate has retained an over-the-limit contribution from contributors who or which constitute a single source.
+   (3) It is the responsibility of the candidate to determine whether a contribution exceeds the applicable contribution limit. To ensure that the candidate does not accept a contribution exceeding the applicable limit, the candidate must review the relationship between affiliated contributors before the candidate accepts and deposits their contributions or rejects and returns the contributions under 52 RCNY § 1-04(b) and (c). The candidate has the burden of demonstrating why the candidate has retained an over-the-limit contribution from contributors who or which constitute a single source.
 
 (i) [Reserved.]
 
@@ -259,7 +486,7 @@ Treasurer. "Treasurer" means the treasurer of any authorized committee involved 
 
    (1) If a candidate makes expenditures in connection with, or otherwise cooperates in, raising contributions for any other candidate or political committee:
 
-      (i) the expenditures incurred and in-kind contributions received in connection with such fundraising, including in the form of endorsements, shall be allocated in accordance with Rule 1-08(h); and
+      (i) the expenditures incurred and in-kind contributions received in connection with such fundraising, including in the form of endorsements, shall be allocated in accordance with 52 RCNY § 1-08(h); and
 
       (ii) if any of the contributions so raised is:
 
@@ -275,7 +502,7 @@ Treasurer. "Treasurer" means the treasurer of any authorized committee involved 
 
 (q) Anticipated runoff primary or runoff special elections. A candidate seeking the nomination of a political party or seeking election in a special election may not accept contributions for a runoff primary election or runoff special election, unless the candidate has previously demonstrated to the Board that a runoff election is reasonably anticipated. Runoff election contributions may not be accepted once it is no longer reasonable to anticipate such a runoff election. To the extent permitted by this subdivision, the candidate (and each opposing candidate seeking the same party nomination or seeking election in the same special election, as the case may be) may solicit and accept additional contributions for the anticipated runoff election, up to the amount permitted for the runoff election by § 3-703(1)(f) of the Code, under the following conditions:
 
-   (1) every runoff election contribution shall be deposited in a separate account and subject to restrictions on use, as provided in Rule 2-06(c);
+   (1) every runoff election contribution shall be deposited in a separate account and subject to restrictions on use, as provided in 52 RCNY § 2-06(c);
 
    (2) until a primary or special election is held that results in a runoff election, each solicitation of runoff election contributions shall expressly state that such contributions are being solicited only for a runoff election that may not occur;
 
@@ -351,7 +578,7 @@ If a special election to fill a vacancy is declared, the Board may provide for t
 *§ 1-07 Funds Originally Received for Other Elections.* ::
 
 
-(a)  Use. Funds originally received by a committee not otherwise involved in a covered election may be used in a covered election subject to the requirements of this rule, but may not be claimed as matchable contributions for that election.
+(a) Use. Funds originally received by a committee not otherwise involved in a covered election may be used in a covered election subject to the requirements of this rule, but may not be claimed as matchable contributions for that election.
 
 (b) Surplus funds. The Board deems the cash balance reported in the candidate's first semi-annual form or Board disclosure statement at the beginning of the first reporting period for an election to be the total amount of surplus funds the committee had from a previous election; except that the amount deemed to be surplus funds may be reduced by the following:
 
@@ -377,7 +604,7 @@ For purposes of enforcing the contribution limit and contribution prohibitions, 
 *§ 1-08 Expenditures.* ::
 
 
-(a)  Expenditures. Expenditures include all disbursements made, liabilities incurred, and contributions received by a candidate, except disbursements to return contributions, repay loans, return public funds, and transfers. Some expenditures are subject to the expenditure limits of the Act and other expenditures are exempt.
+(a) Expenditures. Expenditures include all disbursements made, liabilities incurred, and contributions received by a candidate, except disbursements to return contributions, repay loans, return public funds, and transfers. Some expenditures are subject to the expenditure limits of the Act and other expenditures are exempt.
 
 (b) Making an expenditure. As provided and described in § 3-706 (1) and (2) of the Code, an expenditure for goods or services is made when the goods or services are received, used, or rendered, regardless when payment is made. Expenditures for goods or services received, used, or rendered in more than one year shall be attributed in a reasonable manner to the expenditure limits of § 3-706(1) or (2) of the Code, as appropriate.
 
@@ -393,9 +620,9 @@ For purposes of enforcing the contribution limit and contribution prohibitions, 
 
    (2) (i)  If there is no contested primary election for an office, expenditures made by a participant or limited participant seeking that office are subject to the general election expenditure limit of § 3-706(1) of the Code.
 
-      (ii) If there is a contested or write-in primary election in any party for an office, every participant or limited participant seeking that office, regardless whether the participant or limited participant is in the primary election, may make expenditures subject to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant or limited participant files the three pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to Rule 3-02(c), (d), and (e) in a timely manner. In this case, the general election expenditure limit will first apply after the date of the primary election.
+      (ii) If there is a contested or write-in primary election in any party for an office, every participant or limited participant seeking that office, regardless whether the participant or limited participant is in the primary election, may make expenditures subject to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant or limited participant files the three pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to 52 RCNY § 3-02(c), (d), and (e) in a timely manner. In this case, the general election expenditure limit will first apply after the date of the primary election.
 
-      (iii) Notwithstanding subparagraph (i), if a participant or limited participant demonstrates to the Board that for a period preceding the primary election the participant or limited participant had reasonably anticipated a primary election in any party for the office the participant or limited participant seeks, the participant or limited participant may attribute expenditures made before and during that period to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant or limited participant files the three pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to Rule 3-02(c), (d), and (e) in a timely manner. In this case, the general election expenditure limit will first apply after that period. In order to demonstrate to the Board that for a period preceding the primary election the participant or limited participant had reasonably anticipated a primary election, the participant or limited participant must file a petition, consisting of an affidavit with supporting documentation, with the Board no later than ten business days following the date the last remaining candidate other than the participant or limited participant was finally disqualified from the ballot as set forth in Rule 5-02(b). The affidavit must specify the period of time during which it was reasonable to anticipate that a primary election would be held, identify the prospective candidate(s), and provide a factual basis for the participant's or limited participant's belief that a primary election was reasonably anticipated during the specified period of time. The supporting documentation must demonstrate that the prospective candidate(s) engaged in activities that would lead a reasonable person to believe that such candidate(s) would participate in the primary election. Such activities may include: (i) raising or spending funds for the primary election; (ii) authorizing a political committee with the Board of Elections for the primary election; (iii) filing a filer registration and/or certification form with the Board; (iv) engaging in petitioning activity, including the filing of petitions with the Board of Elections; (v) producing and/or distributing campaign literature; and (vi) campaigning for office or otherwise publicly declaring an intent to participate in the primary election.
+      (iii) Notwithstanding subparagraph (i), if a participant or limited participant demonstrates to the Board that for a period preceding the primary election the participant or limited participant had reasonably anticipated a primary election in any party for the office the participant or limited participant seeks, the participant or limited participant may attribute expenditures made before and during that period to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant or limited participant files the three pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to 52 RCNY § 3-02(c), (d), and (e) in a timely manner. In this case, the general election expenditure limit will first apply after that period. In order to demonstrate to the Board that for a period preceding the primary election the participant or limited participant had reasonably anticipated a primary election, the participant or limited participant must file a petition, consisting of an affidavit with supporting documentation, with the Board no later than ten business days following the date the last remaining candidate other than the participant or limited participant was finally disqualified from the ballot as set forth in 52 RCNY § 5-02(b). The affidavit must specify the period of time during which it was reasonable to anticipate that a primary election would be held, identify the prospective candidate(s), and provide a factual basis for the participant's or limited participant's belief that a primary election was reasonably anticipated during the specified period of time. The supporting documentation must demonstrate that the prospective candidate(s) engaged in activities that would lead a reasonable person to believe that such candidate(s) would participate in the primary election. Such activities may include: (i) raising or spending funds for the primary election; (ii) authorizing a political committee with the Board of Elections for the primary election; (iii) filing a filer registration and/or certification form with the Board; (iv) engaging in petitioning activity, including the filing of petitions with the Board of Elections; (v) producing and/or distributing campaign literature; and (vi) campaigning for office or otherwise publicly declaring an intent to participate in the primary election.
 
       (iv) Once it is determined by petition litigation or otherwise that no primary election will be held for nomination to an office, expenditures made by participants or limited participant seeking that office are subject to the general election expenditure limit of § 3-706(1) of the Code.
 
@@ -495,7 +722,7 @@ For purposes of enforcing the contribution limit and contribution prohibitions, 
 
          (C) expenditures for which the candidate has, without making public disclosure of an outstanding liability in a timely manner, promised or made reimbursement or other payment to the party committee or constituted committee. These expenditures will be considered in-kind contributions during the time preceding the reimbursement or other payment by the candidate.
 
-   (6) If candidates announce they are running together as a "ticket" for which they have chosen to join together in a broad spectrum of activities to promote each other's election, the Board will presume that expenditures made by one candidate's campaign for materials or activities that clearly identify the other candidate are in-kind contributions to the second candidate. The following factors would increase the burden a candidate would have in overcoming this presumption: (i) the campaigns have staff, consultants, office space, or telephone lines in common; (ii) other in-kind contributions, expenditure refunds, advances, or joint expenditures have been made between these campaigns. If the expenditures are in-kind contributions, the expenditures are subject to the apportionment requirements of Rule 1-08(h).
+   (6) If candidates announce they are running together as a "ticket" for which they have chosen to join together in a broad spectrum of activities to promote each other's election, the Board will presume that expenditures made by one candidate's campaign for materials or activities that clearly identify the other candidate are in-kind contributions to the second candidate. The following factors would increase the burden a candidate would have in overcoming this presumption: (i) the campaigns have staff, consultants, office space, or telephone lines in common; (ii) other in-kind contributions, expenditure refunds, advances, or joint expenditures have been made between these campaigns. If the expenditures are in-kind contributions, the expenditures are subject to the apportionment requirements of 52 RCNY § 1-08(h).
 
 (g) Spending public funds.
 
@@ -637,7 +864,7 @@ For purposes of enforcing the contribution limit and contribution prohibitions, 
 *§ 1-09 Documents Submitted to and Issued by the Board.* ::
 
 
-(a)  Date received.
+(a) Date received.
 
    (1) Generally. Documents submitted to the Board, whether in an electronic manner or otherwise, will be deemed to have been submitted upon receipt by the Board. The Board receives hand-delivered documents at its offices, weekdays between 9 a.m. and 5 p.m., unless otherwise provided by the Board.
 
@@ -657,7 +884,7 @@ For purposes of enforcing the contribution limit and contribution prohibitions, 
 
 (b) Legibility; Readability. The Board will not accept any electronic disclosure statement or other document, or any part thereof, that is infected with a virus, damaged, blank, improperly formatted, or otherwise unreadable by the Board, or if the disclosure statement or other document, or any part thereof, is in a non-electronic format, is illegible.
 
-(c) Documentation. Disclosure statements will not be deemed complete unless submitted with the records required by Rules 3-04(a) and 4-01(b)(2) and (3) for each matchable contribution claimed in the disclosure statement.
+(c) Documentation. Disclosure statements will not be deemed complete unless submitted with the records required by 52 RCNY § 3-04(a) and 52 RCNY § 4-01(b)(2) and (3) for each matchable contribution claimed in the disclosure statement.
 
 (d) Date issued or provided. Documents sent by mail, including any report or notice, shall be considered issued or provided by the Board on the date the document is postmarked. Documents sent by a common carrier shall be considered issued or provided by the Board on the date that the documents were received by the common carrier. Documents sent by electronic mail to an e-mail address provided to the Board shall be considered issued or provided upon transmission, unless the Board is informed that the transmission did not reach the intended recipient.
 
@@ -693,240 +920,13 @@ If any rule or portion thereof is adjudged invalid by a court of competent juris
 
    (5) other information as required by the Board.
 
-(b) The candidate shall notify the Board of any material change, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or e-mail address, in the filer registration form in such manner as may be provided by the Board. The candidate shall notify the Board of any such changes no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the election to which the filer registration relates, including payment of any penalties and/or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change to the filer registration information after the date the candidate's final audit report is issued, except as provided in Rule 4-03(b).
+(b) The candidate shall notify the Board of any material change, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or e-mail address, in the filer registration form in such manner as may be provided by the Board. The candidate shall notify the Board of any such changes no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the election to which the filer registration relates, including payment of any penalties and/or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change to the filer registration information after the date the candidate's final audit report is issued, except as provided in 52 RCNY § 4-03(b).
 
-(c) Small campaign registration. If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a candidate, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in section 14-124(4) of the State Election Law, the candidate may, instead of submitting a filer registration form, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the candidate, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in section 14-124(4) of the State Election Law, and that if such amount is exceeded, the candidate will submit a filer registration form and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement.
+(c) Small campaign registration. If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a candidate, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the State Election Law, the candidate may, instead of submitting a filer registration form, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the candidate, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the State Election Law, and that if such amount is exceeded, the candidate will submit a filer registration form and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement.
 
 (d) Applicable requirements. Because the requirements of the Act and these Rules apply to financial transactions that take place before a participant or limited participant joins the Program, the Board advises candidates to comply with all applicable requirements set forth in the Act and these Rules, in anticipation of joining the Program.
 
 (e) Construction. The submission of a filer registration form, or an amendment thereto, shall not be construed as a statement of intent to become a candidate, to run for any particular office, or to join the Program.
-
-
-
-
-
-
-Chapter 2: Candidate Requirements
---------------------------------------------------
-
-
-
-*§ 2-01 Certification.* ::
-
-
-(a)  Contents. The candidate shall specify in the certification whether he or she is joining the Program as a participant pursuant to § 3-703 of the Code or as a limited participant pursuant to § 3-718 of the Code. The certification shall include all filer registration information required by Rule 1-11 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the certification, the participant or limited participant shall designate a principal committee. A candidate filing the certification as a limited participant shall affirm that he or she has a sufficient amount of personal funds to fund his or her own campaign. A candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
-
-(b) Legal effect. The participant shall comply fully with Program requirements in all elections for which the certification is submitted, regardless of the office sought and regardless whether the participant: (1) meets all the requirements of law to have his or her name on the ballot in the election; or (2) meets the Act's threshold for eligibility for public funds; or (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election. The limited participant shall comply fully with the Program requirements in all elections for which the certification is submitted, regardless of the office sought and regardless whether the limited participant meets all the requirements of law to have his or her name on the ballot in the election. A candidate who does not file a timely certification or who rescinds his or her certification in a timely manner shall be deemed to be a non-participant pursuant to § 3-719 of the Code. The certification applies to all elections for an office covered by the Act that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act.
-
-(c) Signatures. The certification shall contain any signatures and notarizations as may be required by the Board; provided, however, that to the extent the Board permits a candidate to submit a certification in a non-electronic format, such certification will only be accepted by the Board if it contains an original notarized signature from both the candidate and the principal committee treasurer.
-
-(d) Amendments. The participant or limited participant shall notify the Board of any material change in the information submitted pursuant to this rule, including, but not limited to any new, or any change to any required information concerning any political committee, bank account, unique merchant account, candidate or treasurer employment, address, telephone number, or e-mail address, included in the filer registration information required by 52 RCNY § 1-11, in such manner as may be provided by the Board and no later than the next deadline for filing a disclosure statement or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change, provided, however, that if the participant or limited participant has extinguished all outstanding liabilities resulting from the election to which the certification relates, including payment of any penalties and/or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change to the information required by 52 RCNY § 1-11 after issuance of the candidate's final audit report, except as provided in 52 RCNY § 4-03(b). If, based upon a reasonable belief that there has been a material change in the information submitted, the Board requests an amendment, the participant or limited participant shall submit promptly any amendment necessary in such manner as may be provided by the Board. Notification of any change to the candidate's or treasurer's information included in the certification must be made to the Board for six (6) years after the date of the last election to which the certification relates.
-
-(e) Petition for extraordinary circumstances.
-
-   (1) Pursuant to § 3-703(1)(c) of the Code, a certification may be accepted no later than the seventh day after the occurrence of an extraordinary circumstance in an election, if: (i) prior to, or together with, the certification, a written petition is submitted to the Board, sworn to or affirmed by a candidate in such election seeking to join the Program as a participant or limited participant, which sets forth the facts alleged to present an extraordinary circumstance; and (ii) following review of the petition, the Board declares that an extraordinary circumstance has occurred in the election which permits or permitted the acceptance of additional certifications, as provided in § 3-703(1)(c). The Board shall provide written notice to each participant and limited participant in an election of its declaration of an extraordinary circumstance in the election, which shall include the names of any additional candidates who have filed certifications in a timely manner in light of the extraordinary circumstance.
-
-   (2) Nothing in this rule shall be construed to: (i) require the Board to make a declaration of an extraordinary circumstance within seven days of its occurrence; or (ii) extend the deadline for joining the Program, in the event the Board does not declare that an extraordinary circumstance has occurred until more than seven days after its occurrence; or (iii) prohibit the acceptance of a certification filed by a candidate in an election within seven days after the occurrence of an extraordinary circumstance in that election, if the candidate did not file a petition under subparagraph (1)(i), provided that another candidate in such election has filed such a petition and the Board makes the declaration under subparagraph (1)(ii).
-
-   (3) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating his or her campaign for reelection (which may be submitted together with a petition under subparagraph (1)(i)).
-
-(f) Rescission. A participant or limited participant may rescind his or her certification on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first, by filing a certification rescission form.
-
-
-
-
-
-
-
-
-*§ 2-02 Breach of Certification.* ::
-
-
-The Board considers each of the following activities to be a fundamental breach of the obligations affirmed and accepted by the participant or limited participant in the certification:
-
-(a) submission of a disclosure statement which the participant knew or should have known includes substantial fraudulent matchable contribution claims;
-
-(b) use of public funds to make or reimburse substantial campaign expenditures which the participant knew or should have known were fraudulent;
-
-(c) cooperation in alleged independent expenditures, whereby material or activity that directly or indirectly assists or benefits a participant's or limited participant's nomination or election, which is purported to be paid by independent expenditures, was in fact authorized, requested, suggested, fostered, or cooperated in by the participant or limited participant;
-
-(d) use of a political committee or other entity over which a participant or limited participant exercises authority to conceal from the Board expenditures that directly or indirectly assist or benefit the participant's or limited participant's nomination or election; and
-
-(e) submission of substantial information which the participant or limited participant knew or should have known was false, or the submission of substantial documentation which the participant or limited participant knew or should have known was fabricated or falsified, which would avoid a finding of violation or public funds repayment determination. In the event of a fundamental breach, the participant will be deemed by the Board to be ineligible for public funds and to have forfeited all public funds previously received for the elections covered by the certifications and the participant or limited participant will be subject to such civil and criminal sanctions as are applicable under § 3-711 of the Code and other applicable law. This rule is not intended to be an enumeration of all circumstances that may constitute a fundamental breach of obligations, as may be determined by the Board.
-
-
-
-
-
-
-*§ 2-03 Campaign Information. [Repealed]* ::
-
-
-(a)  Deposit of receipts. All contributions, loans, and other receipts shall be deposited into the account(s) listed on the candidate's filer registration and/or certification and in disclosure statements filed with the Board. Candidates opening accounts shall maintain at least one account with check writing privileges.
-
-(b) Separate accounts for different elections. Receipts accepted for one election shall not be commingled in any account with receipts accepted for any other election, except that receipts for a primary and general election for the same office in the same calendar year may be deposited in the same account. Notwithstanding the foregoing, a candidate seeking election both to an office subject to the Act and to a federal office may maintain a separate allocation account for shared expenses in accordance with Advisory Opinion No. 1996-2 .
-
-(c) Runoff primary and runoff special elections. A candidate may accept contributions for an anticipated runoff primary or anticipated runoff special election pursuant to 52 RCNY § 1-04(q).
-
-   (1) i)  If a candidate accepts receipts for a runoff election, they shall be deposited into an account from which no disbursements, withdrawals, or transfers are made prior to the day of the preceding primary or special election, as the case may be, except that such contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
-
-      (ii) Receipts accepted for a runoff primary shall not be (i) commingled in any account with any receipts accepted for any other election; or (ii) used for a primary or general election held in the year that the runoff primary is held or anticipated.
-
-      (iii) Receipts accepted for a runoff special election shall not be commingled in any account with any receipts accepted for any other election or used for any other election until the runoff special election is actually held; provided, however, that funds may be transferred from a special election account to a runoff special election account after the special election so that the funds transferred may be spent in the runoff special election. Receipts accepted for an anticipated runoff special election that is not held may not be spent or otherwise transferred until the earlier of (A) the first January 12 after the date of the special election for which the runoff special election was anticipated or (B) the date upon which all the candidate's liabilities from the special election have been ex- tinguished.
-
-   (2) Notwithstanding any provision of subdivision (b) or paragraph (c)(1) to the contrary, funds may be exchanged between an account maintained for a primary and/or the general election and an account maintained for a runoff primary for the following reasons only:
-
-      (i) transfers from a primary and/or general election account to a runoff primary account made after the primary election so that the funds transferred may be spent in the runoff primary; and
-
-      (ii) transfers from a runoff primary account to a primary and/or general election account made after the runoff primary is held so that the funds transferred may be spent in the general election.
-
-(d) Special elections. Receipts accepted for a special election shall not be commingled in any account with any receipts accepted for any other election, except that receipts accepted for a special election may be deposited into an account established for a runoff special election pursuant to 52 RCNY § 1-04(q) in accordance with paragraph (c) above.
-
-(e) Personal and business funds. The personal or business funds of a candidate, his or her agent, or any other person or entity may not be commingled with campaign funds. This rule does not restrict the deposit of contributions or loans into an account maintained by an authorized committee.
-
-(f) Court-ordered rerun elections. Public funds received for a court-ordered rerun election shall not be commingled in any account with any other funds.
-
-(g) Segregated Bank Accounts for 52 RCNY § 5-01(n) Disbursements. Contributions received pursuant to 52 RCNY § 5-01(n)(2) shall be deposited into a segregated bank account established pursuant to such Rule.
-
-
-
-
-
-
-*§ 2-07 Participant's Disqualification from Ballot.* ::
-
-
-(a)  Public fund eligibility. To be eligible for public funds, a participant must qualify to be on the ballot, and be opposed on the ballot, or, for the optional early public funds payment, certify that he or she intends to meet all the requirements of law to have his or her name on the ballot for the primary or general election.
-
-(b) Notice of disqualification. If a participant or the participant's only remaining opponent in an election is disqualified from the ballot by the New York City Board of Elections or a court of competent jurisdiction, the participant shall immediately inform the Board, by a hand-delivered memorandum, facsimile transmission, telegram, or other method of equivalent speed. If the disqualification by a court of competent jurisdiction was on the grounds that fraudulent acts were committed in order to obtain a place on the ballot, the notice shall so state.
-
-(c) Remedies for disqualification. The participant shall notify the Board immediately, in writing, if the disqualified candidate is seeking to appeal or otherwise remedy a disqualification. This notice shall indicate whether a judicial appeal is being taken as of right or by permission and the specific nature of any other judicial remedy sought.
-
-(d) Disqualification reversed. The participant shall immediately inform the Board, in writing, if the disqualification of the participant or the opponent is reversed by a court of competent jurisdiction.
-
-
-
-
-
-
-
-
-*§ 2-08 Write-in Candidates.* ::
-
-
-(a)  Notice. Any candidate who is seeking nomination or election to a covered office as a write-in candidate must promptly so notify the Board in writing.
-
-(b) Disclosure obligations. Any candidate who is seeking nomination or election as a write-in candidate must file all disclosure statements for the election as required by 52 RCNY § 3-02.
-
-(c) Ineligibility for public funds. A participant who is seeking nomination or election exclusively as a write-in candidate and who is not on the ballot for the election is ineligible to receive public funds. A participant who is on the ballot for a covered election and who is opposed in such election solely by one or more candidates seeking nomination or election exclusively as write-in candidates and who are not on the ballot is ineligible to receive public funds.
-
-(d) Inclusion in Voter Guide. A candidate who is seeking nomination or election exclusively as a write-in candidate and who is not on the ballot for the election shall not be included in the voter guide for that election.
-
-
-
-
-
-
-*§ 2-09 Terminating a Candidacy.* ::
-
-
-(a)  No "Opting-Out". A candidate may discontinue filing disclosure statements after filing a verified statement that his or her candidacy is terminated in accordance with subsections (b) or (c) of this rule, or if the Board has deemed the candidacy terminated pursuant to subsection (d) of this rule. Terminating a candidacy does not relieve the candidate of other Program obligations, such as maintaining records required by these Rules, submitting documentation or information in response to requests by the Board, and paying penalties for violations of the requirements of the Act and these Rules.
-
-(b) "Off the ballot" termination.
-
-   (1) A participant may submit to the Board a verification that he or she is not a candidate for that election if the participant: (i) is not on the ballot for that election; (ii) is not seeking nomination or election as a write-in candidate; (iii) has not received public funds; and (iv) has not submitted and does not intend to submit a petition for payment after final disqualification from the ballot, pursuant to 52 RCNY § 5-02(b). The verification shall be in such form and manner as shall be provided by the Board, and shall contain such signatures as may be required by the Board.
-
-   (2) A limited participant or non-participant may submit to the Board a verification that he or she is not a candidate for that election if the candidate: (i) is not on the ballot for that election; and (ii) is not seeking nomination or election as a write-in candidate. The verification shall be in such form and manner as shall be provided by the Board, and shall contain such signatures as may be required by the Board.
-
-(c) "Ceased campaigning" termination. A particiant may submit to the Board a verification that he or she is not a candidate for that election if the participant: (1) has ceased all campaign activity for that election; (2) has not received public funds; and (3) has not submitted and does not intend to submit a petition for payment after final disqualification from the ballot, pursuant to 52 RCNY § 5-02(b). A limited participant or non-participant may submit to the Board a verification that he or she is not a candidate for that election if the candidate has ceased all campaign activity for that election. The verification shall be in such form and manner as shall be provided by the Board, and shall contain such signatures as may be required by the Board.
-
-(d) Termination by Board. The Board may send a notice to a participant that his or her candidacy has been deemed terminated if the participant: (1) is not on the ballot for that election; (2) has not received public funds; and (3) has not submitted a petition for payment after final disqualification from the ballot, pursuant to 52 RCNY § 5-02(b). The Board may send a notice to a limited participant or non-participant that his or her candidacy has been deemed terminated if the candidate is not on the ballot for that election. If the candidate is continuing to seek nomination or election as a write-in candidate, or, in the case of a participant, intends to submit a petition for public funds pursuant to 52 RCNY § 5-022(b), the candidate must so notify the Board within 10 days after receiving the notice of termination, in which case the Board will reverse the termination and the candidate must continue to submit disclosure statements. In any event, the termination will be reversed and disclosure obligations resumed if the candidate remains a candidate in the election.
-
-
-
-
-
-
-*§ 2-10 Limited Participation.* ::
-
-
-(a)  Generally. A limited participant shall not be eligible to receive public funds pursuant to § 3-705 of the Code. A limited participant is not subject to the contribution limits pursuant to § 3-703(f) of the Code; provided, however, that a limited participant shall not accept, at any time before or after the filing of a certification with the Board, either directly, indirectly, or by transfer, any monetary or in-kind contribution, or any loan, guarantee, or other security for such loan made in connection with such candidate's nomination for election or election, except for monetary contributions from the candidate to his or her principal committee made out of the candidate's personal funds or property, in-kind contributions made by the candidate to his or her principal committee, and advances received. A candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
-
-(b) Program compliance. Except as otherwise specified in these Rules, the limited participant shall comply fully with Program requirements, including the following:
-
-   (1) Campaign finance disclosure statements. The limited participant shall file all disclosure statements as required pursuant to 52 RCNY Chapter 3 of these Rules.
-
-   (2) Accounting and auditing. The limited participant shall be subject to all Program accounting and auditing requirements as set forth in 52 RCNY Chapter 4 of these Rules.
-
-   (3) Expenditure limitations. The limited participant shall not make expenditures which in the aggregate exceed the expenditure limitations set forth in the Act.
-
-(c) Penalties. The limited participant shall be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act or these Rules.
-
-
-
-
-
-
-*§ 2-11 Non-Participation.* ::
-
-
-(a)  Generally. A candidate who does not file a certification, pursuant to either § 3-703 or § 3-718 of the Code, or who rescinds his or her certification prior to the rescission deadline by filing a certification rescission form, shall be deemed to be a non-participant, pursuant to § 3-719 of the Code. A non-participant shall not be eligible to receive public funds, pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant may accept contributions from political committees notwithstanding the restrictions on such contributions contained in § 3-703(k) of the Code.
-
-(b) Compliance. Except as otherwise specified in these Rules, the non-participant shall comply fully with the requirements of the Act:
-
-   (1) Campaign finance disclosure statements. The non-participant shall file all disclosure statements as required pursuant to 52 RCNY Chapter 3 of these Rules.
-
-   (2) Accounting and auditing. The non-participant shall be subject to all accounting and auditing requirements as set forth in 52 RCNY Chapter 4 of these Rules.
-
-   (3) Corporate, limited liability company, and partnership contributions. The non-participant shall not accept, either directly or indirectly, any contribution, loan, guarantee, or other security for such loan from any corporation, limited liability company, or partnership, including a limited liability partnership, other than a corporation, limited liability company, or partnership that is a political committee as defined in the Act. This prohibition does not apply to loans made in the regular course of business, regardless what form of business entity the lender assumes; but does prohibit the acceptance of a guarantee or other security for such a loan from a corporation, limited liability company, or partnership.
-
-   (4) Contribution limitations. The non-participant shall not accept, either directly, indirectly, or by transfer, any contribution or contributions from any one individual, political committee, labor organization or other entity for all covered elections held in the same calendar year in which he or she is a candidate which in the aggregate exceed the contribution limitations set forth in § 3-703(1)(f) and (1-a) of the Code; provided, however, that a non-participant may make contributions to his or her own authorized committees with his or her personal funds or property and may make advances or loans with his or her personal funds or property, without regard to any contribution limitations provided in § 3-703(1)(f) or (h) or (1-a) of the Code. A candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
-
-(c) Penalties. A non-participant shall be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act or these Rules.
-
-
-
-
-
-
-
-
-*§ 2-12 Mandatory Training.* ::
-
-
-(a)  Mandatory pre-election training. Participating candidates, their campaign managers, treasurers or persons with significant managerial control over a campaign shall be required to attend a training provided by the Board concerning compliance with the requirements of the Program and use of the Program software. For purposes of determining compliance with this rule, "persons with significant managerial control" shall not include campaign consultants, and the individual attending the training must be listed on the candidate's filer registration. Such training shall be completed in accordance with a schedule to be published by the Board.
-
-(b) Optional Post-Election Training. In order to prepare campaigns to respond effectively to issues raised in the draft audit report, the Act encourages candidates and their staffs to attend post-election audit trainings. Pursuant to § 3-710(1) of the Code, where the candidate, the campaign manager, or the treasurer has attended a post-election audit training provided by the Board, the Board will issue final audit reports within fourteen months after the deadline for submission of the final disclosure report for the covered election, in the case of city council and borough-wide races, and within sixteen months after the deadline for submission of the final disclosure report for the covered election in the case of citywide races. The deadlines for attendance at such trainings shall be:
-
-   (1) For city council and borough-wide races, the earlier of twenty days following issuance of the draft audit report or eight months after the deadline for submission of the final disclosure report for the covered election;
-
-   (2) For citywide races, the earlier of twenty days following issuance of the draft audit report or ten months after the deadline for submission of the final disclosure report for the covered election.
-
-
-
-
-
-
-*§ 2-13 Identification of communications.* ::
-
-
-(a) When a candidate makes expenditures for any literature, advertisement, or other communication, the communication must include the words "paid for by" followed by the first and last name of the candidate or the name of the candidate's authorized committee, or, if the candidate has more than one authorized committee, the candidate's principal committee; provided that, if the name of the committee does not include the first and/or last name of the candidate, then the words "paid for by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
-
-(b) When a candidate authorizes any individual or entity, other than the candidate, to pay for any literature, advertisement, or other communication in support of or in opposition to any candidate in any covered election, the communication must include the words "authorized by" followed by the first and last name of the candidate or the name of the candidate's authorized committee, or, if the candidate has more than one authorized committee, the candidate's principal committee; provided that, if the name of the committee does not include the first and/or last name of the candidate, then the words "authorized by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
-
-(c) The identification required by subdivision a or b of this section must be in the following form:
-
-   (1) For printed material, an internet advertisement, or a website, the identification must be written in a font of conspicuous size and style and contained in a box within the borders of the communication.
-
-   (2) For a communication broadcast on radio, the identification must be clearly spoken at the beginning or end of the communication.
-
-   (3) For a communication broadcast by television, satellite, cable, or similar medium, the identification must be clearly spoken at the beginning or end of the communication and, simultaneous with the spoken disclosure, written in a font of conspicuous size and style contained in a box within the borders of the communication.
-
-   (4) For a telephone communication, the identification must be clearly spoken at the beginning or end of the communication. If the identification is spoken at the end of the communication, then the name of the candidate must also be clearly spoken at the beginning of the call.
-
-(d) For communications primarily in a language other than English, all required written or spoken identification required by this rule must be in such language.
-
-(e) This requirement may be modified by the Board concerning items upon which identification would be impractical.
 
 
 
@@ -957,7 +957,7 @@ Disclosure statements serve several different purposes:
 *§ 3-02 Filing Dates.* ::
 
 
-(a)  First disclosure statement.
+(a) First disclosure statement.
 
    (1) A candidate's first disclosure statement shall be the first disclosure statement during the applicable election cycle covering the date on which the candidate first raises or spends funds in furtherance of his or her campaign for election for an office covered by the Act unless otherwise provided by New York Election Law.
 
@@ -985,7 +985,7 @@ Disclosure statements serve several different purposes:
 
    (3) Deferred filing. A candidate need not submit a full disclosure statement, if the candidate has accepted less than $2,000 in contributions and loans since the candidate last submitted a disclosure statement and has not made expenditures exceeding forty-five percent of the applicable expenditure limit. This paragraph does not apply to semi-annual disclosure statements. On each disclosure statement filing date for which an exception is not provided pursuant to paragraph (1) or (2), the treasurer shall verify, in a manner provided by the Board, that a full disclosure statement is not required to be submitted pursuant to this paragraph.
 
-   (4) Small campaigns. A candidate who has filed a small campaign registration form pursuant to Rule 1-11(c) need not submit disclosure statements if neither the total cumulative receipts nor the total cumulative expenditures of the candidate exceeds an amount equal to the amount necessary to qualify for the exception provided in section 14-124(4) of the State Election Law. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in section 14-124(4) of the State Election Law, the candidate must submit all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
+   (4) Small campaigns. A candidate who has filed a small campaign registration form pursuant to 52 RCNY § 1-11(c) need not submit disclosure statements if neither the total cumulative receipts nor the total cumulative expenditures of the candidate exceeds an amount equal to the amount necessary to qualify for the exception provided in § 14-124(4) of the State Election Law. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the State Election Law, the candidate must submit all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
 
    (5) Other political committees. Political committees that are not involved in a covered election shall not file disclosure statements, or State or Federal forms, except as requested by the Board. Notwithstanding the foregoing, the financial records of any committees of a candidate are subject to Board review for purposes of monitoring the candidate's compliance with the requirements of the Act and these Rules and shall be made available to the Board upon its request.
 
@@ -1013,7 +1013,7 @@ Disclosure statements serve several different purposes:
 *§ 3-03 Contents.* ::
 
 
-(a)  Reporting period.
+(a) Reporting period.
 
    (1) Generally. The reporting period for each disclosure statement shall:
 
@@ -1135,9 +1135,9 @@ Disclosure statements serve several different purposes:
 
    (4) Credit card and charge card purchases. The candidate shall report the actual vendor and purchase price incurred for any goods purchased with a credit card or charge card, in the manner provided by the Board. Disbursements to credit card and charge card accounts shall not be itemized as such.
 
-   (5) Contributions to political committees. Political contributions to political committees that support or oppose candidates in New York City (except political committees of other candidates), including state party committees, that are made by a candidate with his or her personal funds and that, in the aggregate for any single political committee, exceed the contribution limit applicable to the offices of mayor, public advocate, and comptroller for contributors having business dealings with the city pursuant to section 3-703(1-a) of the Code, are presumed to be expenditures in furtherance of the candidate's campaign and contributions from the candidate to the candidate's campaign, and, as such, must be reported to the Board. The candidate may rebut this presumption by providing evidence indicating that the contributions were not in furtherance of the candidate's campaign. Such contributions are subject to all applicable expenditure and contribution limits, except that contributions made to committees registered with the New York State Board of Elections and/or the Federal Election Commission as independent expenditure committees are not subject to such limits. Candidates must create and maintain records of such contributions. Contributions made with a candidate's personal funds as provided in this paragraph shall not be the basis for a deduction from such candidate's public funds payment pursuant to Rule 5-01(n)(1).
+   (5) Contributions to political committees. Political contributions to political committees that support or oppose candidates in New York City (except political committees of other candidates), including state party committees, that are made by a candidate with his or her personal funds and that, in the aggregate for any single political committee, exceed the contribution limit applicable to the offices of mayor, public advocate, and comptroller for contributors having business dealings with the city pursuant to section 3-703(1-a) of the Code, are presumed to be expenditures in furtherance of the candidate's campaign and contributions from the candidate to the candidate's campaign, and, as such, must be reported to the Board. The candidate may rebut this presumption by providing evidence indicating that the contributions were not in furtherance of the candidate's campaign. Such contributions are subject to all applicable expenditure and contribution limits, except that contributions made to committees registered with the New York State Board of Elections and/or the Federal Election Commission as independent expenditure committees are not subject to such limits. Candidates must create and maintain records of such contributions. Contributions made with a candidate's personal funds as provided in this paragraph shall not be the basis for a deduction from such candidate's public funds payment pursuant to 52 RCNY § 5-01(n)(1).
 
-(f) Documentation. Together with each disclosure statement, the candidate shall submit documentation to verify the accuracy of the data reported, including all bank records and deposit slips required to be maintained pursuant to Rules 4-01(b)(1) and 4-01(f)(1) not previously submitted. A disclosure statement may be rejected as an insufficient submission if not accompanied by such documentation.
+(f) Documentation. Together with each disclosure statement, the candidate shall submit documentation to verify the accuracy of the data reported, including all bank records and deposit slips required to be maintained pursuant to 52 RCNY § 4-01(b)(1) and (f)(1) not previously submitted. A disclosure statement may be rejected as an insufficient submission if not accompanied by such documentation.
 
 
 
@@ -1149,7 +1149,7 @@ Disclosure statements serve several different purposes:
 *§ 3-04 Claiming Matchable Contributions.* ::
 
 
-(a) Threshold; Back-up documentation. A participant's disclosure statement shall indicate whether he or she has met the Act's threshold for eligibility for public funds. Participants shall submit with each disclosure statement a copy of the records required to be maintained pursuant to Rules 4-01(b)(2) and (3) for each matchable contribution claimed in the disclosure statement. A matchable contribution claim will be invalidated unless the records that are required to be maintained pursuant to Rules 4-01(b)(2) and (3) are submitted with the disclosure statement in which the contribution is reported. Matchable contribution claims determined by the Board to be invalid pursuant to the Act and these Rules shall not be counted toward a participant's threshold for eligibility for public financing. This rule applies to candidates seeking to preserve matchable contribution claims received prior to filing a certification with the Board pursuant to § 3-703(12)(a) of the Code.
+(a) Threshold; Back-up documentation. A participant's disclosure statement shall indicate whether he or she has met the Act's threshold for eligibility for public funds. Participants shall submit with each disclosure statement a copy of the records required to be maintained pursuant to 52 RCNY § 4-01(b)(2) and (3) for each matchable contribution claimed in the disclosure statement. A matchable contribution claim will be invalidated unless the records that are required to be maintained pursuant to 52 RCNY § 4-01(b)(2) and (3) are submitted with the disclosure statement in which the contribution is reported. Matchable contribution claims determined by the Board to be invalid pursuant to the Act and these Rules shall not be counted toward a participant's threshold for eligibility for public financing. This rule applies to candidates seeking to preserve matchable contribution claims received prior to filing a certification with the Board pursuant to § 3-703(12)(a) of the Code.
 
 (b) Matchable contributions. The disclosure statement shall state the total amount of matchable contributions claimed in a reporting period and whether the participant seeks public funds for these matchable contributions. Contributions received in violation of any law, including but not limited to cash contributions from any one contributor greater than $100, are not matchable.
 
@@ -1201,7 +1201,7 @@ Disclosure statements that fail to comply substantially with disclosure requirem
 *§ 3-08 Verification.* ::
 
 
-The candidate or treasurer shall verify that the disclosure statement is true and complete to the best of his or her knowledge, information, and belief. The disclosure statement shall contain such signatures as may be required by the Board; provided, that to the extent a candidate is permitted to submit a disclosure statement in a non-electronic format pursuant to 52 RCNYChapter 9, such disclosure statement will only be accepted by the Board if it contains an original signature from the candidate or the treasurer.
+The candidate or treasurer shall verify that the disclosure statement is true and complete to the best of his or her knowledge, information, and belief. The disclosure statement shall contain such signatures as may be required by the Board; provided, that to the extent a candidate is permitted to submit a disclosure statement in a non-electronic format pursuant to 52 RCNY Chapter 9, such disclosure statement will only be accepted by the Board if it contains an original signature from the candidate or the treasurer.
 
 
 
@@ -1235,7 +1235,7 @@ A political committee making expenditures in support of or in opposition to a ba
 
    (1) Due dates. A participant may submit proof of compliance with the Board and such proof shall be considered timely submitted if it is submitted to the Board on or prior to the last business day of July in the year of the covered election, except as provided by paragraph (2).
 
-   (2) Special election due dates. In the case of a special election, if the deadline for filing financial disclosure reports with the conflicts of interest board pursuant to § 12-110(b)(2) of the Code is before the due date for the first disclosure statement required to be filed with the Board pursuant to Rule 3-02(a)(2), the participant's compliance with the requirements in § 12-110 of the Code shall be considered timely demonstrated to the Board if the Board receives confirmation of the participant's compliance on or prior to the disclosure statement due date. If the deadline for filing financial disclosure reports with the conflicts of interest board pursuant to § 12-110(b)(2) of the Code is on or after the due date for the first disclosure statement required to be filed with the Board pursuant to Rule 3-02(a)(2), the participant's compliance with the requirements in § 12-110 of the Code shall be considered timely demonstrated to the Board if the Board receives confirmation of the participant's compliance no later than one business day after the last day for filing disclosure reports with the conflicts of interest board.
+   (2) Special election due dates. In the case of a special election, if the deadline for filing financial disclosure reports with the conflicts of interest board pursuant to § 12-110(b)(2) of the Code is before the due date for the first disclosure statement required to be filed with the Board pursuant to 52 RCNY § 3-02(a)(2), the participant's compliance with the requirements in § 12-110 of the Code shall be considered timely demonstrated to the Board if the Board receives confirmation of the participant's compliance on or prior to the disclosure statement due date. If the deadline for filing financial disclosure reports with the conflicts of interest board pursuant to § 12-110(b)(2) of the Code is on or after the due date for the first disclosure statement required to be filed with the Board pursuant to 52 RCNY § 3-02(a)(2), the participant's compliance with the requirements in § 12-110 of the Code shall be considered timely demonstrated to the Board if the Board receives confirmation of the participant's compliance no later than one business day after the last day for filing disclosure reports with the conflicts of interest board.
 
 (b) Date submitted. 52 RCNY § 1-09 shall be applicable for the purpose of determining the date of receipt by the Board of documents submitted pursuant to this section.
 
@@ -1252,7 +1252,7 @@ Chapter 4: Accounting and Auditing
 *§ 4-01 Records to be kept.* ::
 
 
-(a)  Generally. Candidates must keep records that enable the Board to verify the accuracy of disclosure statements, substantiate that expenditures were made in furtherance of the campaign, were qualified expenditures, or were permissible post-election expenditures, and confirm any matchable contributions claimed. Candidates must maintain and may be required to produce originals and copies of checks, bills, or other documentation to verify contributions, expenditures, or other transactions reported in their disclosure statements. Candidates shall maintain clear and accurate records sufficient to show an audit trail that demonstrates compliance with the Act and these Rules. The records shall be made and maintained contemporaneously with the transactions recorded, and maintained and organized in a manner that facilitates expeditious review by the Board. Nothing in this chapter shall be construed to modify the requirements of New York Election Law § 14-118. The records maintained for each campaign finance transaction, whether maintained on paper and/or electronically, shall be accurate and, if necessary, modified promptly to ensure continuing accuracy. Records that are contemporaneous and complete, as described in this Rule, including records using forms supplied by the Board, shall be presumed to be sufficient to demonstrate financial activity. If at any time a candidate becomes aware that a record of an expenditure, whether maintained on paper or electronically or both, is missing or incomplete, the candidate may create a new record or modify an existing record, provided that the record so created or modified is clearly identified by the candidate as such, and provided, further, that if the missing or incomplete record is an invoice from a vendor, the candidate must in the first instance attempt to get a duplicate or more complete record directly from such vendor prior to creating a new record or modifying an existing record. In addition, the candidate must create a further record, in the form of a signed, dated, and notarized statement by the candidate and/or treasurer and/or other campaign representative having first-hand knowledge of the matter, explaining the reasons for and the circumstances surrounding the creation or modification of a record. The Board reserves the right not to accept a noncontemporaneous record created or modified pursuant to this paragraph if, after review of the timing and other circumstances, it determines that the record is not sufficient to document the actual transaction.
+(a) Generally. Candidates must keep records that enable the Board to verify the accuracy of disclosure statements, substantiate that expenditures were made in furtherance of the campaign, were qualified expenditures, or were permissible post-election expenditures, and confirm any matchable contributions claimed. Candidates must maintain and may be required to produce originals and copies of checks, bills, or other documentation to verify contributions, expenditures, or other transactions reported in their disclosure statements. Candidates shall maintain clear and accurate records sufficient to show an audit trail that demonstrates compliance with the Act and these Rules. The records shall be made and maintained contemporaneously with the transactions recorded, and maintained and organized in a manner that facilitates expeditious review by the Board. Nothing in this chapter shall be construed to modify the requirements of New York Election Law § 14-118. The records maintained for each campaign finance transaction, whether maintained on paper and/or electronically, shall be accurate and, if necessary, modified promptly to ensure continuing accuracy. Records that are contemporaneous and complete, as described in this Rule, including records using forms supplied by the Board, shall be presumed to be sufficient to demonstrate financial activity. If at any time a candidate becomes aware that a record of an expenditure, whether maintained on paper or electronically or both, is missing or incomplete, the candidate may create a new record or modify an existing record, provided that the record so created or modified is clearly identified by the candidate as such, and provided, further, that if the missing or incomplete record is an invoice from a vendor, the candidate must in the first instance attempt to get a duplicate or more complete record directly from such vendor prior to creating a new record or modifying an existing record. In addition, the candidate must create a further record, in the form of a signed, dated, and notarized statement by the candidate and/or treasurer and/or other campaign representative having first-hand knowledge of the matter, explaining the reasons for and the circumstances surrounding the creation or modification of a record. The Board reserves the right not to accept a noncontemporaneous record created or modified pursuant to this paragraph if, after review of the timing and other circumstances, it determines that the record is not sufficient to document the actual transaction.
 
 (b) Receipts.
 
@@ -1358,7 +1358,7 @@ Chapter 4: Accounting and Auditing
 
    (3) that shows that a loan has been forgiven. The loan agreement shall be contemporaneous and in writing, shall be signed and dated by both parties, and shall provide all terms and conditions of the loan, including the amount and term of the loan. The candidate shall retain copies of loan checks and records of electronic transfers.
 
-(h) Subcontracted goods and services. Candidates required to itemize the cost of subcontracted goods and services pursuant to Rule 3-03(e)(3)(ii) shall obtain and maintain documentation from the consultant or other person who or which subcontracts, containing all information required to be disclosed pursuant to that rule.
+(h) Subcontracted goods and services. Candidates required to itemize the cost of subcontracted goods and services pursuant to 52 RCNY § 3-03(e)(3)(ii) shall obtain and maintain documentation from the consultant or other person who or which subcontracts, containing all information required to be disclosed pursuant to that rule.
 
 (i) Fundraisers. Candidates shall maintain records for all fund-raising events, including all house parties, which shall contain: the date and location of the event; the person(s) and/or organization(s), other than the candidate's authorized committee, hosting the event; an itemized listing of all expenses incurred in connection with the event, including all expenses whether or not paid or incurred by the authorized committee; and the contributor name and amount of each contribution received at or in connection with the event. This subdivision does not apply to activities on an individual's residential premises, including house parties, to the extent that the cost of those activities do not exceed $500 and are not contributions pursuant to § 3-702(8)(ii) of the Code.
 
@@ -1400,7 +1400,7 @@ Chapter 4: Accounting and Auditing
 *§ 4-04 Assistance to Candidates; Records.* ::
 
 
-In order to promote compliance with the requirements of the Act and these Rules, the Board's staff shall offer assistance to candidates in developing campaign procedures for gathering campaign finance information and keeping records and shall, to the extent feasible, provide model recordkeeping journals and forms. A participant's failure to keep records required by this Chapter, or provide to the Board, upon its request or as required by these Rules, records or other information, may result in a determination that matchable contribution claims are invalid pursuant to 52 RCNY § 5-01(d)(17); a determination pursuant to § 3-710(2)(b) of the Code that the participant made expenditures for purposes other than qualified campaign expenditures, including a determination whether the participating candidate shall be required to personally repay such expenditures to the Board; a determination pursuant to § 3-710(2)(c) of the Code that the participant must return excess funds to the Board due to the failure to demonstrate that the participant made expenditures in furtherance of his or her nomination or election equal to or greater than the total of contributions, other receipts, and payments from the fund received; the withholding of public funds pursuant to § 5-01(e); and the assessment of penalties pursuant to §§ 3-710.5 and 3-711 of the Code.
+In order to promote compliance with the requirements of the Act and these Rules, the Board's staff shall offer assistance to candidates in developing campaign procedures for gathering campaign finance information and keeping records and shall, to the extent feasible, provide model recordkeeping journals and forms. A participant's failure to keep records required by this Chapter, or provide to the Board, upon its request or as required by these Rules, records or other information, may result in a determination that matchable contribution claims are invalid pursuant to 52 RCNY § 5-01(d)(17); a determination pursuant to § 3-710(2)(b) of the Code that the participant made expenditures for purposes other than qualified campaign expenditures, including a determination whether the participating candidate shall be required to personally repay such expenditures to the Board; a determination pursuant to § 3-710(2)(c) of the Code that the participant must return excess funds to the Board due to the failure to demonstrate that the participant made expenditures in furtherance of his or her nomination or election equal to or greater than the total of contributions, other receipts, and payments from the fund received; the withholding of public funds pursuant to 52 RCNY § 5-01(e); and the assessment of penalties pursuant to §§ 3-710.5 and 3-711 of the Code.
 
 
 
@@ -1410,9 +1410,54 @@ In order to promote compliance with the requirements of the Act and these Rules,
 *§ 4-05 Audits.* ::
 
 
-(a)  The Board shall conduct desk and field audits of participants, limited participants, and non-participants, regardless whether the candidates receive public funds. Field audits may be conducted before or after an election, as the Board deems appropriate. In conducting audits, the Board may use random sampling of data and other analytic techniques, as appropriate. The Board shall conduct campaign audits in accordance with generally accepted government auditing standards.
+(a) The Board shall conduct desk and field audits of participants, limited participants, and non-participants, regardless whether the candidates receive public funds. Field audits may be conducted before or after an election, as the Board deems appropriate. In conducting audits, the Board may use random sampling of data and other analytic techniques, as appropriate. The Board shall conduct campaign audits in accordance with generally accepted government auditing standards.
 
-(b) The Board shall issue all draft and final audit reports in accordance with the deadlines provided in § 3-710(1)(a) and (b) of the Code subject to any applicable exceptions to those deadlines provided in § 3-710(1)(d), (e), and (f) of the Code; provided, however, that the Board shall not be required to provide the candidate a final audit report within fourteen months after the deadline for submission of the final disclosure report for the covered election for city council races and borough-wide races, or within sixteen months after the deadline for submission of the final disclosure report for the covered election for citywide races, unless the candidate or the candidate's treasurer or campaign manager completed an audit training provided by the Board prior to the applicable deadline provided in Rule 2-12(b).
+(b) The Board shall issue all draft and final audit reports in accordance with the deadlines provided in § 3-710(1)(a) and (b) of the Code subject to any applicable exceptions to those deadlines provided in § 3-710(1)(d), (e), and (f) of the Code; provided, however, that the Board shall not be required to provide the candidate a final audit report within fourteen months after the deadline for submission of the final disclosure report for the covered election for city council races and borough-wide races, or within sixteen months after the deadline for submission of the final disclosure report for the covered election for citywide races, unless the candidate or the candidate's treasurer or campaign manager completed an audit training provided by the Board prior to the applicable deadline provided in 52 RCNY § 2-12(b).
+
+
+
+
+Chapter 6: Public Access To Information
+--------------------------------------------------
+
+
+
+*§ 6-01 Generally.* ::
+
+
+(a) Records access officer. The Board's Director of Administrative Services or the Executive Director's designee is its records access officer. The records access officer is responsible for ensuring appropriate agency response to public requests for access to records. The records access officer shall ensure that Board staff:
+
+   (1) upon receipt of a written request to inspect records:
+
+      (i) make the records available for inspection; or
+
+      (ii) deny access to the records in whole or in part and explain in writing the reason for the denial;
+
+   (2) upon written request for copies of records:
+
+      (i) make a copy available upon payment or offer to pay fees, if any, in accordance with this Rule; or
+
+      (ii) deny the request for copies of records in whole or in part and explain in writing the reasons for the denial;
+
+   (3) upon written request, certify that a record is a true copy; and
+
+   (4) upon failure to locate records pursuant to a written request, certify that:
+
+      (i) the Board is not the custodian for such records; or
+
+      (ii) the records of which the Board is a custodian cannot be found after diligent search.
+
+(b) Record location, availability, and use. Records shall be available for public inspection and copying at the offices of the Board. Requests for public access to records shall be accepted and records produced during the hours of 10 a.m. - 4 p.m., Monday through Friday. The records access officer, or his or her designee, shall have the discretion to limit the number of records a requester may receive at any one time. No marks of any kind shall be made by a requester on any record provided for inspection. Inspection or copying of records shall be permitted only in the area designated by the records access officer for such purpose.
+
+(c) Requests for access. Board staff may require a written request for access to records, but oral requests may be accepted when records are readily available. A response shall be given regarding any written request reasonably describing records sought within 5 business days of receipt of the request. A request shall reasonably describe the records sought. Whenever possible, a requester shall supply information regarding dates, file designations, or other information that may describe the records sought and enable the efficient location of the records. If the records access officer does not grant or deny access to records sought within 5 business days of receipt of a written request, he or she shall furnish a written acknowledgment of receipt of the request and a statement of the approximate date on which the request will be granted or denied. If circumstances prevent disclosure to the requester within 20 business days from the date of the acknowledgment of the receipt of the request, the Board shall state in writing the reason for the inability to grant the request within 20 business days and a date certain within a reasonable period, depending on the circumstances, when the request will be granted.
+
+(d) Denial of access. Denial of access to records shall be made in writing stating the reason for the denial and advising the requester of the right to appeal. The Board's Executive Director or the Executive Director's designee shall hear appeals from denial of access to records. The time for deciding an appeal shall commence upon receipt of a dated written appeal, including:
+
+   (1) the date of the denial of access; and
+
+   (2) the name and return address of the requester. The Executive Director or the Executive Director's designee shall transmit to the Committee on Open Government copies of all appeals upon receipt. The Executive Director or the Executive Director's designee shall inform the requester and the Committee on Open Government of a decision on the appeal, in writing, within 10 business days of receipt of an appeal.
+
+(e) Fees. The Board may charge 25 cents per page for photocopies not exceeding 9 inches by 14 inches or the actual cost of reproducing any other record. In determining the actual cost, the Board may include: (i) an amount equal to the hourly salary attributed to the lowest paid Board employee who has the necessary skill required to prepare a copy of the requested record, except that no fee shall be charged for staff time if less than two hours is needed to prepare a copy of the requested record; (ii) the actual cost of storage devices or media provided to the requester in complying with the request; and (iii) the actual cost to the Board of engaging an outside professional service to prepare a copy of a record, where the Board's information technology equipment is inadequate to prepare a copy.
 
 
 
@@ -1429,7 +1474,7 @@ Chapter 5: Public Funds
 
    (2) Public funds cap.
 
-      (i) The Board shall determine, pursuant to § 3-705(7)(a) of the Code, whether a participant is opposed by another candidate who has spent or contracted or obligated to spend, or received in loans or contributions, or both, an amount which in the aggregate exceeds one-fifth of the expenditure limit applicable to the participant. Such determination shall be made pursuant to Rule 7-03.
+      (i) The Board shall determine, pursuant to § 3-705(7)(a) of the Code, whether a participant is opposed by another candidate who has spent or contracted or obligated to spend, or received in loans or contributions, or both, an amount which in the aggregate exceeds one-fifth of the expenditure limit applicable to the participant. Such determination shall be made pursuant to 52 RCNY § 7-03.
 
       (ii) Participants seeking additional public funds, pursuant to § 3-705(7)(b) of the Code must file a signed statement with the Board, pursuant to § 3-705(7)(b) no later than the due date for the disclosure statement immediately preceding the public funds payment for which the participant is seeking to receive the additional public funds; provided, however, that participants seeking to receive the additional public funds on the first date payments are made by the Board after the optional early public funds payment, must file the signed statement with the Board no later than the day before the first date the Board of Elections conducts hearings on any ballot petition filed by any candidate seeking nomination for election in any primary occurring in the same election cycle for which the candidate is seeking nomination for election, without regard to whether such hearings are related to a petition filed by an opponent of the participant.
 
@@ -1527,7 +1572,7 @@ Chapter 5: Public Funds
 
    (1) the participant has failed to meet one of the eligibility criteria of the Act or these Rules;
 
-   (2) the participant is required to repay public funds previously received, as described in Rule 5-03, or the participant has failed to pay any outstanding claim of the Board for the payment of civil penalties or the repayment of public funds against such participant or his or her principal committee or a principal committee of such participant from a prior covered election, provided that the participant has received written notice of the potential payment obligation and potential ineligibility determination in advance of the certification deadline for the current covered election or an opportunity to present reasons for his or her eligibility for public funds to the Board;
+   (2) the participant is required to repay public funds previously received, as described in 52 RCNY § 5-03, or the participant has failed to pay any outstanding claim of the Board for the payment of civil penalties or the repayment of public funds against such participant or his or her principal committee or a principal committee of such participant from a prior covered election, provided that the participant has received written notice of the potential payment obligation and potential ineligibility determination in advance of the certification deadline for the current covered election or an opportunity to present reasons for his or her eligibility for public funds to the Board;
 
    (3) the participant fails to submit a disclosure statement required by these rules;
 
@@ -1543,7 +1588,7 @@ Chapter 5: Public Funds
 
    (9) there is reason to believe that the participant or an agent of the participant has committed a violation of the Act or these Rules;
 
-   (10) the participant or an agent of the participant has been found by the Board to have committed fraud in the course of Program participation or to be in breach of certification pursuant to Rule 2-02; or
+   (10) the participant or an agent of the participant has been found by the Board to have committed fraud in the course of Program participation or to be in breach of certification pursuant to 52 RCNY § 2-02; or
 
    (11) there is reason to believe that the participant or an agent of the participant has engaged in conduct detrimental to the Program that is in violation of any other applicable law.
 
@@ -1553,7 +1598,7 @@ Chapter 5: Public Funds
 
 (i) Pre-election payments.
 
-   (1) Pursuant to § 3-709(5) and (6) of the Code: (i) no public funds shall be paid to participants in a primary or general election any earlier than four business days after the final day to file a written certification for such election, pursuant to paragraph (c) of subdivision 1 of Section 3-703 of the Code; (ii) no public funds shall be paid to participants in a runoff primary election or general election any earlier than the day after the day of the primary election held to nominate candidates for such election; and (iii) no public funds shall be paid to participants in a runoff special election held to fill a vacancy any earlier than the day after the day of the special election for which such runoff special election is held.
+   (1) Pursuant to § 3-709(5) and (6) of the Code: (i) no public funds shall be paid to participants in a primary or general election any earlier than four business days after the final day to file a written certification for such election, pursuant to paragraph (c) of subdivision 1 of § 3-703 of the Code; (ii) no public funds shall be paid to participants in a runoff primary election or general election any earlier than the day after the day of the primary election held to nominate candidates for such election; and (iii) no public funds shall be paid to participants in a runoff special election held to fill a vacancy any earlier than the day after the day of the special election for which such runoff special election is held.
 
    (2) Pursuant to § 3-703(1)(a) and (5) of the Code, public funds are not payable to a participant who has not met the legal requirements to have his or her name on the ballot, who is unopposed, or, for the optional early public funds payment, who has not certified that he or she intends to meet all the requirements of law to have his or her name on the ballot.
 
@@ -1591,7 +1636,7 @@ Chapter 5: Public Funds
 
          (C) contributions to other political committees that do not meet the requirements provided in § 3-705(8) of the Code for contributions that shall not be a basis for reducing public funds payments; and
 
-         (D) loans to other candidates that are not repaid within 30 days or by the date of the election, whichever is earlier, or spending for other candidates, including joint expenditures, to the extent such expenditures benefit another candidate, and independent expenditures; provided that independent expenditures made by the principal committee of a participant shall not be a basis for reducing public funds payments to that participant, where such expenditures do not, in the aggregate, exceed the amount provided in §§ 3-705(8)(i), (ii), or (iii) of the Code, as applicable, for contributions to political committees;
+         (D) loans to other candidates that are not repaid within 30 days or by the date of the election, whichever is earlier, or spending for other candidates, including joint expenditures, to the extent such expenditures benefit another candidate, and independent expenditures; provided that independent expenditures made by the principal committee of a participant shall not be a basis for reducing public funds payments to that participant, where such expenditures do not, in the aggregate, exceed the amount provided in § 3-705(8)(i), (ii), or (iii) of the Code, as applicable, for contributions to political committees;
 
          (E) loans to or spending for political party committees and political clubs that are not reimbursed within 30 days or by the date of the election, whichever is earlier, provided that if the participant demonstrates that the expenditure was for a tangible item that directly promotes the participant's election, such as an advertisement in a fundraising journal, this subdivision shall not apply to the fair market value of that item; and
 
@@ -1605,7 +1650,7 @@ Chapter 5: Public Funds
 
       (iii) funds deposited into the segregated bank account are not used for any purpose other than disbursements governed by subparagraph (ii) of paragraph (1) above or payment of bank fees associated with the segregated bank account;
 
-      (iv) contributors whose contributions are deposited into the segregated bank account have confirmed in writing, pursuant to Rule 4-01(b) (3)(ii)(C), that they understand that these contributions will only be used for such disbursements and will not be matched with public funds;
+      (iv) contributors whose contributions are deposited into the segregated bank account have confirmed in writing, pursuant to 52 RCNY § 4-01(b)(3)(ii)(C), that they understand that these contributions will only be used for such disbursements and will not be matched with public funds;
 
       (v) copies of such written confirmations are submitted to the Board by the due date for the disclosure statement in which such contributions are required to be reported pursuant to these Rules;
 
@@ -1629,7 +1674,7 @@ Chapter 5: Public Funds
 
 (p) Responding to invalid matching claims reports. In the event that the Board concludes that one or more of a participant's matchable contribution claims are invalid, a participant responding to the Board's report shall do so by the March 15 following the election or 60 days after receiving the report, whichever is later. In the case of a special election, a participant shall respond to an invalid matching claims report no later than 60 days after receiving the report.
 
-(q) Ballot disqualification by Board of Elections; candidate not opposed on the ballot. The Board will not make payment to any participant disqualified from the ballot by the Board of Elections or by a court, or to any participant for an election in which all other candidates have been disqualified from the ballot by the Board of Elections or by a court, until after such participant or other candidate, as the case may be, is restored to the ballot by a subsequent determination by a court of competent jurisdiction. A participant who appears as the only candidate on the ballot in an election shall not be eligible to receive public funds, notwithstanding any write-in candidates in that election, except as otherwise provided in Rule 5-02(b).
+(q) Ballot disqualification by Board of Elections; candidate not opposed on the ballot. The Board will not make payment to any participant disqualified from the ballot by the Board of Elections or by a court, or to any participant for an election in which all other candidates have been disqualified from the ballot by the Board of Elections or by a court, until after such participant or other candidate, as the case may be, is restored to the ballot by a subsequent determination by a court of competent jurisdiction. A participant who appears as the only candidate on the ballot in an election shall not be eligible to receive public funds, notwithstanding any write-in candidates in that election, except as otherwise provided in 52 RCNY § 5-02(b).
 
 (r) Reduction in maximum public funds payable. Pursuant to § 3-705 of the Act, the maximum amount of public funds a participant may otherwise be eligible to receive will be reduced by the sum of the following:
 
@@ -1637,7 +1682,7 @@ Chapter 5: Public Funds
 
    (2) any public funds retained by the Board in lieu of funds the participant is required to pay back to the Fund pursuant to the Act;
 
-   (3) any public funds withheld pursuant to Rule 5-01(e)(2); and
+   (3) any public funds withheld pursuant to 52 RCNY § 5-01(e)(2); and
 
    (4) pursuant to § 3-703(1-b) of the Code, an amount equal to the total unreturned contributions in excess of the limitations applicable to persons having business dealings with the city.
 
@@ -1657,7 +1702,7 @@ Chapter 5: Public Funds
 *§ 5-02 Review of Eligibility, Payment, and Repayment Determinations.* ::
 
 
-(a)  Written petitions for review.
+(a) Written petitions for review.
 
    (1) After the Board provides a participant a written determination specifying the basis for payment or non-payment of public funds prior to the election, the participant may petition the Board in writing for reconsideration of such determination. Such petition must state the grounds for reconsideration and may include a request to appear before the Board concerning the subject of such petition. Before the election, the Board shall review the determination that is the subject of the petition for review within five business days of the filing of such petition. In the event the Board is unable to convene within five business days, the Board may delegate to the Chair of the Board or his or her designee authority to make a determination regarding the petition. The Board shall timely issue a written determination on the subject of the petition. If the petition is denied, the Board's notice shall inform the participant of the right to appeal the Board's determination pursuant to Article 78 of the Civil Practice Law and Rules.
 
@@ -1685,7 +1730,7 @@ Chapter 5: Public Funds
 *§ 5-03 Repaying Public Funds.* ::
 
 
-(a)  Participants returning public funds. Participants returning public funds shall make a check payable or endorse the public fund check to the "New York City Election Campaign Finance Fund." Participants may not reclaim public funds they have returned.
+(a) Participants returning public funds. Participants returning public funds shall make a check payable or endorse the public fund check to the "New York City Election Campaign Finance Fund." Participants may not reclaim public funds they have returned.
 
 (b) Participant is disqualified from the ballot.
 
@@ -1701,7 +1746,7 @@ Chapter 5: Public Funds
 
    (1) Pursuant to § 3-710(2)(c) of the Code, the Board shall notify a participant in writing if it finds that the participant owes unspent campaign funds to the Board. The participant shall promptly pay to the Board unspent campaign funds from an election; provided, however, that all unspent campaign funds for a participant shall be immediately due and payable to the Board upon a determination by the Board that the participant has delayed the post-election audit process. The participant shall promptly pay to the Board any additional unspent campaign funds based upon a determination made by the Board at a subsequent date. The amount of unspent campaign funds shall be presumed to be equal to the participant's authorized committee bank account balance on January 11 in the year following the election, or for special elections, on the last day of the reporting period for the final disclosure statement the candidate is required to file with the Board for such election, less any permissible documented post-election expenditures pursuant to subparagraph (ii) of paragraph (2) of this subdivision. The Board may also consider information revealed in the course of an audit or investigation in making an unspent campaign funds determination, including, but not limited to, the fact that campaign expenditures were made in violation of law, that expenditures were made for any purpose other than the furtherance of the participant's nomination or election, or that the participant has not maintained or provided requested documentation. If a participant repays to the Fund all funds remaining in his or her authorized committee bank account on or before December 31 in the year of the election, or, for special elections, on or before the last day of the month following the month in which the election took place, such participant shall be presumed not to owe additional unspent funds, provided that any contributions received and expenditures made after such funds are repaid must be raised and spent in compliance with the Act and these Rules.
 
-   (2) (i)  A participant may not use receipts for any purpose other than disbursements in the preceding election until all unspent campaign funds have been repaid, except as otherwise provided in Rule 1-03(b). Notwithstanding the presumption of Rule 1-08(c)(1), a participant has the burden of demonstrating that a post-election expenditure is for the preceding election.
+   (2) (i)  A participant may not use receipts for any purpose other than disbursements in the preceding election until all unspent campaign funds have been repaid, except as otherwise provided in 52 RCNY § 1-03(b). Notwithstanding the presumption of 52 RCNY § 1-08(c)(1), a participant has the burden of demonstrating that a post-election expenditure is for the preceding election.
 
       (ii) Before repaying unspent campaign funds, a participant may make post-election expenditures only for routine activities involving nominal cost associated with winding up a campaign and responding to the post-election audit. Such expenditures may include: payment of utility bills and rent; reasonable staff salaries and consultancy fees for responding to a post-election audit; reasonable staff salaries and legal fees incurred prior to the date of the issuance of the participant's final audit report and associated with defending against a claim that public funds must be repaid; a post-election event for staff, volunteers, and/or supporters held within thirty days of the election; reasonable moving expenses related to closing the campaign office; a holiday card mailing to contributors, campaign volunteers, and staff; thank you notes for contributors, campaign volunteers, and staff; payment of taxes and other reasonable expenses for compliance with applicable tax laws; and interest expense. Routine post-election expenditures that may be paid for with unspent campaign funds do not include such items as post-election mailings other than as specifically provided for in this subparagraph; making contributions; or making bonus payments or gifts to staff or volunteers. Unspent campaign funds may not be used for transition and inauguration activities.
 
@@ -1715,9 +1760,9 @@ Chapter 5: Public Funds
 
       (iii) the participant has failed to demonstrate eligibility for the public funds paid or compliance with Program requirements, or both; or
 
-      (iv) a determination pursuant to § 3-705(6), (7), or § 3-706(3) of the Code is reversed following reconsideration pursuant to Rule 7-03(k).
+      (iv) a determination pursuant to § 3-705(6), (7), or § 3-706(3) of the Code is reversed following reconsideration pursuant to 52 RCNY § 7-03(k).
 
-(g) Repayment determinations. The participant shall promptly repay public funds upon any determination made by the Board that a repayment is required pursuant to the Act and this rule. Any claim for the repayment of public funds shall be based on a final determination issued by the Board following an adjudication pursuant to Rule 7-02(f), unless such adjudication is waived by the candidate or principal committee.
+(g) Repayment determinations. The participant shall promptly repay public funds upon any determination made by the Board that a repayment is required pursuant to the Act and this rule. Any claim for the repayment of public funds shall be based on a final determination issued by the Board following an adjudication pursuant to 52 RCNY § 7-02(f), unless such adjudication is waived by the candidate or principal committee.
 
 
 
@@ -1744,51 +1789,6 @@ To safeguard the administration of the Fund and assure candidates that sufficien
 
 
 
-Chapter 6: Public Access To Information
---------------------------------------------------
-
-
-
-*§ 6-01 Generally.* ::
-
-
-(a)  Records access officer. The Board's Director of Administrative Services or the Executive Director's designee is its records access officer. The records access officer is responsible for ensuring appropriate agency response to public requests for access to records. The records access officer shall ensure that Board staff:
-
-   (1) upon receipt of a written request to inspect records:
-
-      (i) make the records available for inspection; or
-
-      (ii) deny access to the records in whole or in part and explain in writing the reason for the denial;
-
-   (2) upon written request for copies of records:
-
-      (i) make a copy available upon payment or offer to pay fees, if any, in accordance with this Rule; or
-
-      (ii) deny the request for copies of records in whole or in part and explain in writing the reasons for the denial;
-
-   (3) upon written request, certify that a record is a true copy; and
-
-   (4) upon failure to locate records pursuant to a written request, certify that:
-
-      (i) the Board is not the custodian for such records; or
-
-      (ii) the records of which the Board is a custodian cannot be found after diligent search.
-
-(b) Record location, availability, and use. Records shall be available for public inspection and copying at the offices of the Board. Requests for public access to records shall be accepted and records produced during the hours of 10 a.m.-4 p.m., Monday through Friday. The records access officer, or his or her designee, shall have the discretion to limit the number of records a requester may receive at any one time. No marks of any kind shall be made by a requester on any record provided for inspection. Inspection or copying of records shall be permitted only in the area designated by the records access officer for such purpose.
-
-(c) Requests for access. Board staff may require a written request for access to records, but oral requests may be accepted when records are readily available. A response shall be given regarding any written request reasonably describing records sought within 5 business days of receipt of the request. A request shall reasonably describe the records sought. Whenever possible, a requester shall supply information regarding dates, file designations, or other information that may describe the records sought and enable the efficient location of the records. If the records access officer does not grant or deny access to records sought within 5 business days of receipt of a written request, he or she shall furnish a written acknowledgment of receipt of the request and a statement of the approximate date on which the request will be granted or denied. If circumstances prevent disclosure to the requester within 20 business days from the date of the acknowledgment of the receipt of the request, the Board shall state in writing the reason for the inability to grant the request within 20 business days and a date certain within a reasonable period, depending on the circumstances, when the request will be granted.
-
-(d) Denial of access. Denial of access to records shall be made in writing stating the reason for the denial and advising the requester of the right to appeal. The Board's Executive Director or the Executive Director's designee shall hear appeals from denial of access to records. The time for deciding an appeal shall commence upon receipt of a dated written appeal, including:
-
-   (1) the date of the denial of access; and
-
-   (2) the name and return address of the requester. The Executive Director or the Executive Director's designee shall transmit to the Committee on Open Government copies of all appeals upon receipt. The Executive Director or the Executive Director's designee shall inform the requester and the Committee on Open Government of a decision on the appeal, in writing, within 10 business days of receipt of an appeal.
-
-(e) Fees. The Board may charge 25 cents per page for photocopies not exceeding 9 inches by 14 inches or the actual cost of reproducing any other record. In determining the actual cost, the Board may include: (i) an amount equal to the hourly salary attributed to the lowest paid Board employee who has the necessary skill required to prepare a copy of the requested record, except that no fee shall be charged for staff time if less than two hours is needed to prepare a copy of the requested record; (ii) the actual cost of storage devices or media provided to the requester in complying with the request; and (iii) the actual cost to the Board of engaging an outside professional service to prepare a copy of a record, where the Board's information technology equipment is inadequate to prepare a copy.
-
-
-
-
 Chapter 7: Campaign Finance Board
 --------------------------------------------------
 
@@ -1797,7 +1797,7 @@ Chapter 7: Campaign Finance Board
 *§ 7-01 Complaints and Investigations.* ::
 
 
-(a)  Initiation of proceeding.
+(a) Initiation of proceeding.
 
       (i) A proceeding under subdivision four of § 1136.1 of the Charter or under the Act may be commenced when:
 
@@ -1807,7 +1807,7 @@ Chapter 7: Campaign Finance Board
 
       (ii) The following violations shall constitute infractions:
 
-   (1) a limited and non-repetitive failure, not to exceed a total of three such failures, to comply with the contribution limitations or prohibitions contained in §§ 3-703(1)(f), (h), (k), and (l) of the Code, provided such contribution is promptly returned to the contributor upon notice from the Board of the acceptance of the contribution; and
+   (1) a limited and non-repetitive failure, not to exceed a total of three such failures, to comply with the contribution limitations or prohibitions contained in § 3-703(1)(f), (h), (k), and (l) of the Code, provided such contribution is promptly returned to the contributor upon notice from the Board of the acceptance of the contribution; and
 
    (2) a failure to file a complete and timely disclosure statement in a form and manner acceptable to the Board, provided such disclosure statement is promptly refiled in a form and manner acceptable to the Board, and provided, further, that this shall apply to only one disclosure statement per election cycle.
 
@@ -1833,9 +1833,9 @@ Chapter 7: Campaign Finance Board
 *§ 7-02 Board Determinations.* ::
 
 
-(a)  Determination that complaint lacks merit. Following an investigation, the Board may determine that a complaint is lacking in merit or that violations of the Charter, Act and these Rules have not been substantiated and dismiss the complaint or terminate the investigation.
+(a) Determination that complaint lacks merit. Following an investigation, the Board may determine that a complaint is lacking in merit or that violations of the Charter, Act and these Rules have not been substantiated and dismiss the complaint or terminate the investigation.
 
-(b) Participant not eligible for public funds. Following an investigation, the Board may make a determination that a participant is ineligible to receive public funds. In the event of a determination of ineligibility, the Board will send written notification to the participant and the participant may request reconsideration of such determination pursuant to Rule 5-02(a).
+(b) Participant not eligible for public funds. Following an investigation, the Board may make a determination that a participant is ineligible to receive public funds. In the event of a determination of ineligibility, the Board will send written notification to the participant and the participant may request reconsideration of such determination pursuant to 52 RCNY § 5-02(a).
 
 (c) Notice and opportunity to contest.
 
@@ -1899,7 +1899,7 @@ Chapter 7: Campaign Finance Board
 *§ 7-03 Review of Contributions and Expenditures.* ::
 
 
-(a)  Determination of eligibility.
+(a) Determination of eligibility.
 
    (1) Pursuant to § 3-705(6) of the Code, the Board shall determine whether a limited participant or a non-participant has spent or contracted or become obligated to spend an amount which, in the aggregate, exceeds ten thousand dollars; (2) pursuant to § 3-705(7)(a) of the Code, the Board shall determine whether a candidate has spent or contracted or become obligated to spend, or received in loans or contributions, or both, an amount which, in the aggregate, exceeds one-fifth of the applicable expenditure limit for such office as provided by § 3-706(1) of the Code; (3) pursuant to § 3-706(3)(a) of the Code, the Board shall determine whether a non-participant has spent or contracted or become obligated to spend, or received in loans or contributions, or both, an amount which, in the aggregate, exceeds one-half the expenditure limit applicable to the participant(s) and/or limited participant(s) opposing that candidate; (4) pursuant to § 3-706(3)(b) of the Code, the Board shall determine whether a non-participant has spent or contracted or become obligated to spend, or received in loans or contributions, or both, an amount which, in the aggregate, exceeds three times the expenditure limit applicable to the participant(s) and/or limited participant(s) opposing that candidate; and (5) the Board shall verify the truthfulness of any certified signed statement submitted pursuant to § 3-705(7)(b) of the Code and the Board shall determine whether supporting documentation submitted pursuant to § 3-705(7)(b) of the Code demonstrates the existence of the condition or conditions described in such statement. For the purposes of making a determination pursuant to § 3-705(7)(b)(1) of the Code, a non-participating or a limited participating candidate shall be presumed to have the ability to self finance when it is demonstrated through supporting documentation that such candidate has readily available funds in excess of one-fifth of the applicable expenditure limit and that such candidate can reasonably be expected to spend such funds for his or her nomination or election.
 
@@ -2057,7 +2057,7 @@ Chapter 9: Disclosure Statements Including Submissions In Electronic Media
 *§ 9-01 Submission in Electronic Medium.* ::
 
 
-(a)  Electronic Submission Generally. Except as specifically permitted pursuant to Rule 9-02, disclosure statements shall be generated by using Candidate Software for Managing and Reporting Transactions (C-SMART) and submitted in such form and manner as shall be provided by the Board. Documentation, whether electronically scanned or in hard copy form, shall be submitted in a form and manner as prescribed by the Board.
+(a) Electronic Submission Generally. Except as specifically permitted pursuant to 52 RCNY § 9-02, disclosure statements shall be generated by using Candidate Software for Managing and Reporting Transactions (C-SMART) and submitted in such form and manner as shall be provided by the Board. Documentation, whether electronically scanned or in hard copy form, shall be submitted in a form and manner as prescribed by the Board.
 
 (b) C-SMART.
 
@@ -2075,9 +2075,9 @@ Chapter 9: Disclosure Statements Including Submissions In Electronic Media
 *§ 9-02 [;Submitting Disclosure Statements; Format; Authorization];** ::
 
 
-(a)  Exceptions.
+(a) Exceptions.
 
-   (1) Any candidate who seeks to submit disclosure statements, or a portion thereof, in any format or manner other than permitted by Rule 9-01 above, including but not limited to non-electronic formats and electronic formats not generated by C-SMART, shall submit a written request for authorization to the Board no later than four weeks before the filing date for the first disclosure statement for which the candidate desires an exception from Rule 9-01, or in the case of a special election, as soon as possible but no later than seven days before such disclosure statement filing date. Such written request shall be in a form and manner as prescribed by the Board. Small campaigns, as defined in Rule 3-02(f)(4), and other candidates who demonstrate that submission of disclosure statements in an electronic format would pose a substantial hardship, shall be permitted, upon request, to submit disclosure statements to the Board in non-electronic formats. Board authorization shall be in writing and shall apply only to the candidate, paper forms, and/or electronic submission form and manner specified therein. The authorization shall indicate whether it applies to one or more disclosure statements.
+   (1) Any candidate who seeks to submit disclosure statements, or a portion thereof, in any format or manner other than permitted by 52 RCNY § 9-01 above, including but not limited to non-electronic formats and electronic formats not generated by C-SMART, shall submit a written request for authorization to the Board no later than four weeks before the filing date for the first disclosure statement for which the candidate desires an exception from 52 RCNY § 9-01, or in the case of a special election, as soon as possible but no later than seven days before such disclosure statement filing date. Such written request shall be in a form and manner as prescribed by the Board. Small campaigns, as defined in 52 RCNY § 3-02(f)(4), and other candidates who demonstrate that submission of disclosure statements in an electronic format would pose a substantial hardship, shall be permitted, upon request, to submit disclosure statements to the Board in non-electronic formats. Board authorization shall be in writing and shall apply only to the candidate, paper forms, and/or electronic submission form and manner specified therein. The authorization shall indicate whether it applies to one or more disclosure statements.
 
    (2) State and Federal forms may not be submitted to the Board unless they are specifically permitted pursuant to subsection (1) above or § 3-703(8) of the Code.
 
@@ -2091,7 +2091,7 @@ Chapter 9: Disclosure Statements Including Submissions In Electronic Media
 *§ 9-03 Disclosure Statement Submission Requirements.* ::
 
 
-(a)  Verification. The treasurer or candidate shall verify that the electronic submission is true and complete, to the best of his or her knowledge, information, and belief.
+(a) Verification. The treasurer or candidate shall verify that the electronic submission is true and complete, to the best of his or her knowledge, information, and belief.
 
 (b) Deficient submissions; legibility. A submission is deficient and not in compliance with the disclosure requirements of the Act and these Rules if:
 
@@ -2353,7 +2353,7 @@ This chapter applies to every candidate elected to the office of mayor, public a
 *§ 11-02 Registration.* ::
 
 
-(a)  Before any private funds are raised or spent for transition or inauguration into office, the elected candidate shall register each entity created and authorized to accept donations and loans, and make expenditures, for transition and/or inauguration into office on behalf of the elected candidate. The failure to make this registration in a timely manner is a violation of § 3-802 of the Code, and subject to penalty thereunder.
+(a) Before any private funds are raised or spent for transition or inauguration into office, the elected candidate shall register each entity created and authorized to accept donations and loans, and make expenditures, for transition and/or inauguration into office on behalf of the elected candidate. The failure to make this registration in a timely manner is a violation of § 3-802 of the Code, and subject to penalty thereunder.
 
 (b) The registration shall be submitted in such form and manner as shall be provided by the Board and shall contain all information required by the Board, including:
 
@@ -2375,7 +2375,7 @@ This chapter applies to every candidate elected to the office of mayor, public a
 *§ 11-03 Periodic Disclosure Reports.* ::
 
 
-(a)  Forms. The Board shall provide forms and instructions for the submission of periodic disclosure reports by entities registered under 52 RCNY § 11-02. Except as otherwise provided in subdivision (b), disclosure reports shall be submitted on the forms provided by the Board and shall contain all information for the reporting period required by the Board, including:
+(a) Forms. The Board shall provide forms and instructions for the submission of periodic disclosure reports by entities registered under 52 RCNY § 11-02. Except as otherwise provided in subdivision (b), disclosure reports shall be submitted on the forms provided by the Board and shall contain all information for the reporting period required by the Board, including:
 
    (1) the cash balance at the beginning and end of the reporting period;
 
@@ -2439,15 +2439,15 @@ The following restrictions apply pursuant to § 3-801 of the Code.
 
    (3) authorize or register a previously existing entity to raise or spend funds for transition or inauguration into office;
 
-   (4) continue in existence an entity registered under Rule 11-02 after it has paid all liabilities it incurred for transition and inauguration into office and otherwise has disposed of all funds pursuant to paragraph (f) below; or
+   (4) continue in existence an entity registered under 52 RCNY § 11-02 after it has paid all liabilities it incurred for transition and inauguration into office and otherwise has disposed of all funds pursuant to paragraph (f) below; or
 
-   (5) continue in existence an entity registered under Rule 11-02 after (i) April 30 in the year following the year of the election, or (ii) in the case of a special election, 60 days after inauguration.
+   (5) continue in existence an entity registered under 52 RCNY § 11-02 after (i) April 30 in the year following the year of the election, or (ii) in the case of a special election, 60 days after inauguration.
 
 (b) An entity authorized by an elected candidate to raise or spend funds for transition or inauguration into office shall not:
 
    (1) accept donations or other receipts from any political committee authorized by the elected candidate;
 
-   (2) accept donations from a political committee that has not registered with the Board under § 3-801(3) of the Code on a form that includes the information set forth in Rule 1-04(d)(1) (political committees registered for an election cycle pursuant to § 3-707 of the Code shall be deemed registered for purposes of § 3-801(3) of the Code with respect to transition and inauguration expenditures immediately following an election held in that cycle);
+   (2) accept donations from a political committee that has not registered with the Board under § 3-801(3) of the Code on a form that includes the information set forth in 52 RCNY § 1-04(d)(1) (political committees registered for an election cycle pursuant to § 3-707 of the Code shall be deemed registered for purposes of § 3-801(3) of the Code with respect to transition and inauguration expenditures immediately following an election held in that cycle);
 
    (3) accept donations in excess of the donation limits set forth in § 3-801(2)(b) of the Code;
 
@@ -2461,7 +2461,7 @@ The following restrictions apply pursuant to § 3-801 of the Code.
 
    (8) accept any donations from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to § 3-703(1)(l) of the Code or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation made by a natural person who has business dealings with the city to a transition or inaugural committee where such donation is from the candidate-elect, or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
 
-(c) In determining compliance with the donation limits of §§ 3-801(2)(b) and (d) of the Code, the Board shall total all donations from a single source to all transition and inauguration entities authorized by an elected candidate, using the standards for determining whether donations are from a single source that apply to contributions from a single source under Rule 1-04(h).
+(c) In determining compliance with the donation limits of §§ 3-801(2)(b) and (d) of the Code, the Board shall total all donations from a single source to all transition and inauguration entities authorized by an elected candidate, using the standards for determining whether donations are from a single source that apply to contributions from a single source under 52 RCNY § 1-04(h).
 
 (d) Loans are deemed to be donations, subject to the limits and restrictions of the Code, to the extent the loan is not repaid by, or is made after, the date of the elected candidate’s inauguration into office.
 
@@ -2471,7 +2471,7 @@ The following restrictions apply pursuant to § 3-801 of the Code.
 
 (f) If the entity has funds remaining after all liabilities have been paid, it shall return such funds to one or more of its donors, or if that is impracticable, to the Fund.
 
-(g) An elected candidate may donate to his or her entity registered under Rule 11-02 with his or her personal funds or property, make in-kind donations to his or her entities with his or her personal funds or property, and make advances to such entity with his or her personal funds or property, without regard to the donation limits of § 3-801(2)(b) of the Code. An elected candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
+(g) An elected candidate may donate to his or her entity registered under 52 RCNY § 11-02 with his or her personal funds or property, make in-kind donations to his or her entities with his or her personal funds or property, and make advances to such entity with his or her personal funds or property, without regard to the donation limits of § 3-801(2)(b) of the Code. An elected candidate's personal funds or property shall include his or her funds or property jointly held with his or her spouse, domestic partner, or unemancipated children.
 
 
 
@@ -2483,7 +2483,7 @@ The following restrictions apply pursuant to § 3-801 of the Code.
 *§ 11-05 Records and Audit.* ::
 
 
-(a)  Each entity required to be registered under 52 RCNY § 11-02 must exercise reasonable care to keep records that enable the Board to verify the accuracy of disclosure reports and compliance with all requirements of § 3-801 of the Code and this chapter. The records kept shall be clear, accurate, and sufficient to show an audit trail that demonstrates compliance. The records shall be made and maintained contemporaneously with the transactions recorded, and maintained and organized in a manner that facilitates expeditious review by the Board.
+(a) Each entity required to be registered under 52 RCNY § 11-02 must exercise reasonable care to keep records that enable the Board to verify the accuracy of disclosure reports and compliance with all requirements of § 3-801 of the Code and this chapter. The records kept shall be clear, accurate, and sufficient to show an audit trail that demonstrates compliance. The records shall be made and maintained contemporaneously with the transactions recorded, and maintained and organized in a manner that facilitates expeditious review by the Board.
 
 (b) The records to be kept shall include:
 
@@ -2524,7 +2524,7 @@ Chapter 12: Procedural Rules For Formal Adjudications
 
 
 
-**Subchapter A*: General Matters**
+**Subchapter A: General Matters**
 
 
 
@@ -2563,7 +2563,7 @@ Respondent. "Respondent" shall mean a party against whom claims are asserted by 
 *§ 12-02 Applicability.* ::
 
 
-(a)  This chapter shall apply solely to cases that are subject to CAPA, including hearings, pre-hearing and post-hearing matters, brought by the Board pursuant to the New York City Campaign Finance Act, Title 3 of the New York City Administrative Code (the "Administrative Code").
+(a) This chapter shall apply solely to cases that are subject to CAPA, including hearings, pre-hearing and post-hearing matters, brought by the Board pursuant to the New York City Campaign Finance Act, Title 3 of the New York City Administrative Code (the "Administrative Code").
 
 (b) In the event of any inconsistency between this chapter, other chapters of this title, and the rules of OATH, this chapter shall govern.
 
@@ -2610,7 +2610,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-06 Commencement of Proceedings and Pleadings.* ::
 
 
-(a)  The Petition.
+(a) The Petition.
 
    (i) The Board shall institute proceedings pursuant to this chapter by serving a petition, sworn to or affirmed as to the truth thereof, on respondent(s). The petition shall include a short and plain statement of the matters to be adjudicated. It shall set forth the facts which, if proved, would constitute a violation of the City Charter, the Administrative Code, or the Board's Rules, as well as the applicable provisions thereof which are alleged to have been violated. The petition shall also set forth a statement of the relief requested. If applicable, the petition shall set forth the facts which, if proved, constitute a required payment or repayment of public funds.
 
@@ -2618,9 +2618,9 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 
 (b) Service of the Petition.
 
-   (i) The Board shall serve the petition upon the respondent. Service of the petition shall be made by regular first-class mail to respondent's last known residential or business address (e.g., address listed in the Filer Registration form, Certification form, or amendments to the Filer Registration or Certification provided by respondent as required by Rules 1-11 and 2-01). Service of the petition shall be complete upon mailing.
+   (i) The Board shall serve the petition upon the respondent. Service of the petition shall be made by regular first-class mail to respondent's last known residential or business address (e.g., address listed in the Filer Registration form, Certification form, or amendments to the Filer Registration or Certification provided by respondent as required by 52 RCNY § 1-11 and 52 RCNY § 2-01). Service of the petition shall be complete upon mailing.
 
-   (ii) In the alternative, service of the petition may be made by electronic means to respondent's last known e-mail address (e.g., listed in the Filer Registration form, Certification form, or amendments to the Filer Registration or Certification provided by respondent as required by Rules 1-11 and 2-01). Service of the petition by electronic means shall be complete on the date of transmission.
+   (ii) In the alternative, service of the petition may be made by electronic means to respondent's last known e-mail address (e.g., listed in the Filer Registration form, Certification form, or amendments to the Filer Registration or Certification provided by respondent as required by 52 RCNY § 1-11 and 52 RCNY § 2-01). Service of the petition by electronic means shall be complete on the date of transmission.
 
 (c) Answer.
 
@@ -2644,9 +2644,9 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-07 Filing of Papers.* ::
 
 
-(a)  Generally. The notice accompanying the petition shall notify the parties of the designated hearing officer(s) and of the place to file papers. Papers may be filed with the hearing officer in person, by mail or by electronic means.
+(a) Generally. The notice accompanying the petition shall notify the parties of the designated hearing officer(s) and of the place to file papers. Papers may be filed with the hearing officer in person, by mail or by electronic means.
 
-(b) Headings. If an OATH index number has been assigned pursuant to Rule 12-08(d), the subject matter heading for each paper sent by personal service, mail or electronic means must indicate the OATH index number.
+(b) Headings. If an OATH index number has been assigned pursuant to 52 RCNY § 12-08(d), the subject matter heading for each paper sent by personal service, mail or electronic means must indicate the OATH index number.
 
 (c) Means of service on adversary. Submission of papers to the hearing officer by electronic means, mail, or personal delivery without providing equivalent method of service to all other parties shall be deemed to be an ex parte communication.
 
@@ -2660,13 +2660,13 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-08 Docketing the Case at OATH.* ::
 
 
-(a)  Only cases referred to OATH must be docketed.
+(a) Only cases referred to OATH must be docketed.
 
 (b) Only the Board may docket a case at OATH. Following service of the petition upon the respondent, the Board shall docket a case by delivering to OATH a completed intake sheet, with a petition and appropriate proof of service of the petition.
 
 (c) When a case is docketed, OATH shall place it on the trial calendar, the conference calendar, or on open status. Cases involving the same respondent or respondents shall be scheduled for joint hearings or conferences.
 
-(d) When a case is docketed, it shall be given an index number and assigned to an administrative law judge. Assignments shall be made and changed at the discretion of the chief administrative law judge of OATH or his or her designee, and motions concerning such assignments shall not be entertained except pursuant to Rule 12-09.
+(d) When a case is docketed, it shall be given an index number and assigned to an administrative law judge. Assignments shall be made and changed at the discretion of the chief administrative law judge of OATH or his or her designee, and motions concerning such assignments shall not be entertained except pursuant to 52 RCNY § 12-09.
 
 (e) After docketing the case at OATH or selecting a hearing date, the Board shall serve notice of hearing, if a hearing date has been selected, and a notice of conference, if a conference date has been selected, within five business days. The notice shall be served by first class mail or electronic means, and appropriate proof of service shall be maintained by the Board.
 
@@ -2682,7 +2682,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-09 Disqualification of Hearing Officers.* ::
 
 
-(a)  A motion for disqualification of a hearing officer shall be addressed to that hearing officer, shall be accompanied by a statement of the reasons for such application, and shall be made as soon as practicable after a party has reasonable cause to believe that grounds for disqualification exist.
+(a) A motion for disqualification of a hearing officer shall be addressed to that hearing officer, shall be accompanied by a statement of the reasons for such application, and shall be made as soon as practicable after a party has reasonable cause to believe that grounds for disqualification exist.
 
 (b) The hearing officer shall be disqualified for bias, prejudice, interest, or any other cause for which a judge may be disqualified in accordance with § 14 of the Judiciary Law. In addition, a hearing officer may, sua sponte or on motion of any party, withdraw from any case, where in the hearing officer's discretion, his/her ability to provide a fair and impartial adjudication might reasonably be questioned.
 
@@ -2696,7 +2696,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-10 Conferences.* ::
 
 
-(a)  Only cases referred to OATH are eligible for conferences.
+(a) Only cases referred to OATH are eligible for conferences.
 
 (b) Conferences may be held for the formulation and simplification of issues, the possibility of obtaining admissions or stipulations of fact and of admissibility and authenticity of documents, the order of proof and of witnesses, discovery issues, legal issues, pre-hearing applications, scheduling, and settlement of the case.
 
@@ -2708,7 +2708,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 
 (f) All settlement offers, whether or not made at a conference, shall be confidential and shall be inadmissible in any future hearing.
 
-(g) A settlement shall be reduced to writing, or, in the discretion of the administrative law judge, placed on the record. In the event that a settlement is reached other than at a conference, the hearing officer shall be notified immediately pursuant to Rule 12-12(f). Copies of all written settlement agreements shall be sent promptly to the hearing officer.
+(g) A settlement shall be reduced to writing, or, in the discretion of the administrative law judge, placed on the record. In the event that a settlement is reached other than at a conference, the hearing officer shall be notified immediately pursuant to 52 RCNY § 12-12(f). Copies of all written settlement agreements shall be sent promptly to the hearing officer.
 
 (h) In the event that the case is not settled at the conference, outstanding pre-hearing matters, including discovery issues, shall be raised during the conference. In the event that the case is not settled at the conference, a hearing date may be set, if such a date has not already been set. The parties shall be expected to know their availability and the availability of their witnesses for a hearing.
 
@@ -2720,11 +2720,11 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-11 Notice of Conference or Hearing.* ::
 
 
-(a)  When a case is placed on either the conference calendar or the trial calendar, the Board shall serve respondent with notice of the following: the date, time and place of the conference or hearing; each party's right to representation by an attorney or other representative at the conference or hearing; the requirement that a person representing a party at the conference or hearing must file a notice of appearance prior to the conference or hearing; and, in a notice of a hearing served by the Board, the fact that failure of the respondent or an authorized representative of the respondent to appear at the hearing may result in a declaration of default and waiver of the right to a hearing, or other disposition, against the respondent.
+(a) When a case is placed on either the conference calendar or the trial calendar, the Board shall serve respondent with notice of the following: the date, time and place of the conference or hearing; each party's right to representation by an attorney or other representative at the conference or hearing; the requirement that a person representing a party at the conference or hearing must file a notice of appearance prior to the conference or hearing; and, in a notice of a hearing served by the Board, the fact that failure of the respondent or an authorized representative of the respondent to appear at the hearing may result in a declaration of default and waiver of the right to a hearing, or other disposition, against the respondent.
 
 (b) The notice of conference or hearing shall be served by first class mail or electronic means, and appropriate proof of service shall be maintained. A copy of the notice of conference, with proof of service, shall be filed with the administrative law judge at or before the commencement of the conference. A copy of the notice of hearing, with proof of service, shall be filed with the hearing officer at or before the commencement of the hearing.
 
-(c) When multiple petitions against a single respondent, or petitions against multiple respondents, are placed on the conference or trial calendar for a joint conference or hearing pursuant to Rule 12-08, notice of hearing or notice of conference pursuant to this section shall include notice of such joinder.
+(c) When multiple petitions against a single respondent, or petitions against multiple respondents, are placed on the conference or trial calendar for a joint conference or hearing pursuant to 52 RCNY § 12-08, notice of hearing or notice of conference pursuant to this section shall include notice of such joinder.
 
 
 
@@ -2734,7 +2734,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-12 Adjournments.* ::
 
 
-(a)  Applications for adjournments of conferences or hearings shall be governed by this section and by Rule 12-14 or Rule 12-27. Conversion of a hearing date to a conference date, or from conference to hearing, shall be deemed to be an adjournment.
+(a) Applications for adjournments of conferences or hearings shall be governed by this section and by 52 RCNY § 12-14 or 52 RCNY § 12-27. Conversion of a hearing date to a conference date, or from conference to hearing, shall be deemed to be an adjournment.
 
 (b) Applications to adjourn conferences or hearings shall be made to the hearing officer as soon as the need for the adjournment becomes apparent. Applications for adjournments are addressed to the discretion of the hearing officer, and shall be granted only for good cause. Although consent of all parties to a request for an adjournment shall be a factor in favor of granting the request, such consent shall not by itself constitute good cause for an adjournment. Delay in seeking an adjournment shall militate against grant of the request.
 
@@ -2756,7 +2756,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-13 Discovery.* ::
 
 
-(a)  Requests for production of documents, for identification of hearing witnesses, and for inspection of real evidence to be introduced at the hearing may be directed by any party to any other party without leave of the hearing officer.
+(a) Requests for production of documents, for identification of hearing witnesses, and for inspection of real evidence to be introduced at the hearing may be directed by any party to any other party without leave of the hearing officer.
 
 (b) Depositions shall only be taken upon motion for good cause shown. Other discovery devices, including interrogatories, shall not be permitted except upon agreement among the parties or upon motion for good cause shown. Resort to such extraordinary discovery devices shall not generally be cause for adjournment of a conference or hearing.
 
@@ -2774,11 +2774,11 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-14 Pre-Hearing Motions.* ::
 
 
-(a)  Pre-hearing motions shall be consolidated and addressed to the hearing officer as promptly as possible, and sufficiently in advance of the hearing to permit a timely decision to be made. Delay in presenting such a motion may, in the discretion of the hearing officer, weigh against the granting of the motion, or may lead to the granting of the motion upon appropriate conditions.
+(a) Pre-hearing motions shall be consolidated and addressed to the hearing officer as promptly as possible, and sufficiently in advance of the hearing to permit a timely decision to be made. Delay in presenting such a motion may, in the discretion of the hearing officer, weigh against the granting of the motion, or may lead to the granting of the motion upon appropriate conditions.
 
 (b) The hearing officer may in his or her discretion permit pre-hearing motions to be made in writing, by electronic means, or orally, including by telephone. The hearing officer may require the parties to submit legal briefs on any motion. Parties are encouraged to make pre-hearing motions, or to conduct preliminary discussions and scheduling of such motions, by conference telephone call or by electronic means to the hearing officer.
 
-(c) Motion papers shall state the grounds upon which the motion is made and the relief or order sought. Motion papers shall include notice to all other parties of their time pursuant to subdivision (d) of this section to serve papers in opposition to the motion. Motion papers and papers in opposition shall be served on all other parties, and proof of service shall be filed with the papers. The filing of motion papers or papers in opposition by a representative who has not previously appeared shall constitute the filing of a notice of appearance by that representative, and shall conform to the requirements of Rule 12-15(b).
+(c) Motion papers shall state the grounds upon which the motion is made and the relief or order sought. Motion papers shall include notice to all other parties of their time pursuant to subdivision (d) of this section to serve papers in opposition to the motion. Motion papers and papers in opposition shall be served on all other parties, and proof of service shall be filed with the papers. The filing of motion papers or papers in opposition by a representative who has not previously appeared shall constitute the filing of a notice of appearance by that representative, and shall conform to the requirements of 52 RCNY § 12-15(b).
 
 (d) Unless otherwise directed by the hearing officer upon application or sua sponte, the opposing party shall file and serve responsive papers no later than eight days after service of the motion papers if service of the motion papers was by personal delivery or electronic means, and no later than thirteen days after service if service of the motion papers was by mail.
 
@@ -2799,7 +2799,7 @@ The Board shall designate, at its sole discretion, a hearing officer to preside 
 *§ 12-15 Appearances at OATH.* ::
 
 
-(a)  A party may appear in person, by an attorney, or by a duly authorized representative. A person appearing for a party, including by telephone conference call, is required to file a notice of appearance with OATH. Docketing of a case by an attorney or representative of a party shall be deemed to constitute the filing of a notice of appearance by that person. The filing of any papers by an attorney or representative who has not previously appeared shall constitute the filing of a notice of appearance by that person, and shall conform to the requirements of subdivisions (b) and (d) of this Rule. Participation in a telephone conference call on behalf of a party by an attorney or representative of the party shall be deemed an appearance by the attorney or representative. Nonetheless, upon making such an appearance, the attorney or representative shall file a notice of appearance in conformity with subdivisions (b) and (d) of this section.
+(a) A party may appear in person, by an attorney, or by a duly authorized representative. A person appearing for a party, including by telephone conference call, is required to file a notice of appearance with OATH. Docketing of a case by an attorney or representative of a party shall be deemed to constitute the filing of a notice of appearance by that person. The filing of any papers by an attorney or representative who has not previously appeared shall constitute the filing of a notice of appearance by that person, and shall conform to the requirements of subdivisions (b) and (d) of this Rule. Participation in a telephone conference call on behalf of a party by an attorney or representative of the party shall be deemed an appearance by the attorney or representative. Nonetheless, upon making such an appearance, the attorney or representative shall file a notice of appearance in conformity with subdivisions (b) and (d) of this section.
 
 (b) The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States shall be indicated by the suffix "Esq." and the designation "attorney for (petitioner or respondent)", and the appearance of any other person shall be indicated by the designation "representative for (petitioner or respondent)".
 
@@ -2823,7 +2823,7 @@ No ex parte communications, other than those related to ministerial matters rega
 
 
 
-**Subchapter D*: Hearings**
+**Subchapter D: Hearings**
 
 
 
@@ -2836,7 +2836,7 @@ In the conduct of an adjudication, a hearing officer may:
 
 (b) upon the request of any party, or upon the hearing officer's discretion, subpoena the attendance of witnesses and the production of books, records, or other information;
 
-(c) regulate the course of the hearing in accordance with Rule 12-21;
+(c) regulate the course of the hearing in accordance with 52 RCNY § 12-21;
 
 (d) dispose of procedural requests or similar matters;
 
@@ -2872,9 +2872,9 @@ The parties shall have all of their witnesses available on the hearing date. A p
 *§ 12-20 Subpoenas.* ::
 
 
-(a)  A subpoena ad testificandum requiring the attendance of a person to give testimony prior to or at a hearing or a subpoena duces tecum requiring the production of documents or things at or prior to a hearing may be issued only by the hearing officer upon application of a party or sua sponte.
+(a) A subpoena ad testificandum requiring the attendance of a person to give testimony prior to or at a hearing or a subpoena duces tecum requiring the production of documents or things at or prior to a hearing may be issued only by the hearing officer upon application of a party or sua sponte.
 
-(b) A request by a party that the hearing officer issue a subpoena shall be deemed to be a motion, and shall be made in compliance with Rule 12-14 or 12-27, as appropriate; provided, however, that such a motion shall be made on 24 hours notice by electronic means or personal delivery of papers, including a copy of the proposed subpoena, unless the hearing officer directs otherwise. For cases before OATH, the proposed subpoena may be prepared by completion of a form subpoena available from OATH. The making and scheduling of requests for issuance of subpoenas by telephone conference call to the hearing officer or by electronic means is encouraged.
+(b) A request by a party that the hearing officer issue a subpoena shall be deemed to be a motion, and shall be made in compliance with 52 RCNY § 12-14 or 52 RCNY § 12-27, as appropriate; provided, however, that such a motion shall be made on 24 hours notice by electronic means or personal delivery of papers, including a copy of the proposed subpoena, unless the hearing officer directs otherwise. For cases before OATH, the proposed subpoena may be prepared by completion of a form subpoena available from OATH. The making and scheduling of requests for issuance of subpoenas by telephone conference call to the hearing officer or by electronic means is encouraged.
 
 (c) Subpoenas shall be served in the manner provided by § 2303 of the Civil Practice Law and Rules, unless the hearing officer directs otherwise.
 
@@ -2908,7 +2908,7 @@ The hearing officer will make reasonable efforts to provide language assistance 
 *§ 12-23 Failure to Appear.* ::
 
 
-All parties, counsel and other representatives are required to be present at the hearing and prepared to proceed at the time scheduled for commencement of the hearing. Commencement of the hearing, or of any session of the hearing, shall not be delayed beyond the scheduled starting time except for good cause as determined in the discretion of the hearing officer. Absent a finding of good cause, and to the extent permitted by the law applicable to the claims asserted in the petition, the hearing officer may direct that the hearing proceed in the absence of any missing party or representative, render a disposition of the case adverse to the missing party, or take other appropriate measures, including the imposition of appropriate sanctions. Relief from the direction of the hearing officer may be had only upon motion brought as promptly as possible pursuant to Rule 12-14 or 12-27. The hearing officer may grant or deny such a motion, in whole, in part, or upon stated conditions.
+All parties, counsel and other representatives are required to be present at the hearing and prepared to proceed at the time scheduled for commencement of the hearing. Commencement of the hearing, or of any session of the hearing, shall not be delayed beyond the scheduled starting time except for good cause as determined in the discretion of the hearing officer. Absent a finding of good cause, and to the extent permitted by the law applicable to the claims asserted in the petition, the hearing officer may direct that the hearing proceed in the absence of any missing party or representative, render a disposition of the case adverse to the missing party, or take other appropriate measures, including the imposition of appropriate sanctions. Relief from the direction of the hearing officer may be had only upon motion brought as promptly as possible pursuant to 52 RCNY § 12-14 or 52 RCNY § 12-27. The hearing officer may grant or deny such a motion, in whole, in part, or upon stated conditions.
 
 
 
@@ -2918,7 +2918,7 @@ All parties, counsel and other representatives are required to be present at the
 *§ 12-24 Evidence at the Hearing.* ::
 
 
-(a)  Compliance with technical rules of evidence, including hearsay rules, shall not necessarily be required. Principles of civil practice and rules of evidence may be applied to ensure an orderly proceeding and a clear record, and to assist the hearing officer in the role as trier of fact. The order of proceedings may be altered by the hearing officer for convenience of the parties, attorneys, witnesses, or OATH, where substantial prejudice will not result.
+(a) Compliance with technical rules of evidence, including hearsay rules, shall not necessarily be required. Principles of civil practice and rules of evidence may be applied to ensure an orderly proceeding and a clear record, and to assist the hearing officer in the role as trier of fact. The order of proceedings may be altered by the hearing officer for convenience of the parties, attorneys, witnesses, or OATH, where substantial prejudice will not result.
 
 (b) The hearing officer may limit examination, the presentation of testimonial, documentary or other evidence, and the submission of rebuttal evidence. Objections to evidence offered, or to other matters, will be noted in the transcript, and exceptions need not be taken to rulings made over objections. The hearing officer may call witnesses, may require any party to clarify confusion, fill gaps in the record, or produce witnesses, and may question witnesses directly.
 
@@ -2934,7 +2934,7 @@ All parties, counsel and other representatives are required to be present at the
 *§ 12-25 Official Notice.* ::
 
 
-(a)  In reaching a decision, the hearing officer may take official notice, before or after submission of the case for decision, on request of a party or sua sponte on notice to the parties, of any fact which may be judicially noticed by the courts of this state. Matters of which official notice is taken shall be noted in the record, or appended thereto. The parties shall be given a reasonable opportunity on request to refute the officially noticed matters by evidence or by presentation of authority.
+(a) In reaching a decision, the hearing officer may take official notice, before or after submission of the case for decision, on request of a party or sua sponte on notice to the parties, of any fact which may be judicially noticed by the courts of this state. Matters of which official notice is taken shall be noted in the record, or appended thereto. The parties shall be given a reasonable opportunity on request to refute the officially noticed matters by evidence or by presentation of authority.
 
 (b) Official notice may be taken, without notice to the parties, of rules published in the Rules of the City of New York or in The City Record. In addition, all parties are deemed to have notice that official notice may be taken of other regulations, directives, guidelines, and similar documents that are lawfully applicable to the parties, provided that any such materials that are unpublished are filed with the hearing officer sufficiently before commencement of the hearing to enable all parties to address at the hearing any issue as to the applicability or meaning of any such materials.
 
@@ -2946,7 +2946,7 @@ All parties, counsel and other representatives are required to be present at the
 *§ 12-26 Public Access to Proceedings.* ::
 
 
-(a)  Other than conferences, all proceedings shall be open to the public, unless the hearing officer finds that a legally recognized ground exists for closure of all or a portion of the proceeding, or unless closure is required by law. Witnesses may be excluded from proceedings other than their own testimony in the discretion of the hearing officer.
+(a) Other than conferences, all proceedings shall be open to the public, unless the hearing officer finds that a legally recognized ground exists for closure of all or a portion of the proceeding, or unless closure is required by law. Witnesses may be excluded from proceedings other than their own testimony in the discretion of the hearing officer.
 
 (b) No person shall make or cause to be made a stenographic, electronic, audio, audio-visual or other verbatim or photographic reproduction of any hearing or other proceeding, whether such hearing or other proceeding is conducted in person, by telephone, or otherwise, except upon application to the hearing officer. Except as otherwise provided by law (e.g., N.Y. Civil Rights Law, § 52), such application shall be addressed to the discretion of the hearing officer, who may deny the application or grant it in full, in part, or upon such conditions as the hearing officer deems necessary to preserve the decorum of the proceedings and to protect the interests of the parties, witnesses and any other concerned persons.
 
@@ -2960,7 +2960,7 @@ All parties, counsel and other representatives are required to be present at the
 *§ 12-27 Hearing Motions.* ::
 
 
-Motions may be made during the hearing orally or in writing. Hearing motions made in writing shall satisfy the requirements of Rule 12-14. The hearing officer may, in his or her discretion, require that any hearing motion be briefed or otherwise supported in writing. In cases referred to a hearing officer for disposition by report and recommendation to the Board's Chair, motions addressing the sufficiency of the petition or the sufficiency of the petitioner's evidence shall be reserved until closing statements.
+Motions may be made during the hearing orally or in writing. Hearing motions made in writing shall satisfy the requirements of 52 RCNY § 12-14. The hearing officer may, in his or her discretion, require that any hearing motion be briefed or otherwise supported in writing. In cases referred to a hearing officer for disposition by report and recommendation to the Board's Chair, motions addressing the sufficiency of the petition or the sufficiency of the petitioner's evidence shall be reserved until closing statements.
 
 
 
@@ -3018,7 +3018,7 @@ Chapter 13: Disclosure of Independent Expenditures
 *§ 13-01 Definitions.* ::
 
 
-Except as otherwise provided, the definitions set forth in Rule 1-02 apply in this chapter. In addition, the following terms shall have the following meanings:
+Except as otherwise provided, the definitions set forth in 52 RCNY § 1-02 apply in this chapter. In addition, the following terms shall have the following meanings:
 
 Ballot proposal. "Ballot proposal" means a municipal ballot proposal, initiative, measure, or referendum. Activities associated with ballot proposals initiated by petition include the circulation of petitions to place the proposal on the ballot. Activities associated with ballot proposals not initiated by petition include those conducted after the measure or language is filed with the City Clerk.
 
@@ -3284,7 +3284,7 @@ Each disclosure statement shall consist of the following information:
 *§ 13-05 Non-Independent Expenditures.* ::
 
 
-An expenditure by an individual or entity referring to a candidate, that was authorized, requested, suggested, fostered by, or cooperated in by such candidate or the opponent of such candidate, or their agents, is not an independent expenditure and is not governed by this chapter. Factors used by the Board to determine whether an expenditure is independent or non-independent are referenced in Rule 1-08(f).
+An expenditure by an individual or entity referring to a candidate, that was authorized, requested, suggested, fostered by, or cooperated in by such candidate or the opponent of such candidate, or their agents, is not an independent expenditure and is not governed by this chapter. Factors used by the Board to determine whether an expenditure is independent or non-independent are referenced in 52 RCNY § 1-08(f).
 
 
 

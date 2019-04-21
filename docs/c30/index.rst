@@ -373,7 +373,7 @@ The Law Enforcement Bureau, complainant, respondent, and other necessary parties
 
 (b) Effective Date. A conciliation agreement shall be deemed binding at the time that such agreement is executed by the Law Enforcement Bureau and by all complainants and respondents and other necessary parties entering into the agreement.
 
-(c) Entry of Order by Commission. When a conciliation agreement has been fully executed, the Law Enforcement Bureau shall promptly forward such agreement to the Chair. The signature of the Chair on a conciliation agreement with the notation "SO ORDERED" shall be construed to be an order of the Commission pursuant to HRL 8-115(d) directing the parties to such conciliation agreement to perform each and all of their obligations under such conciliation agreement in the time and manner set forth in such conciliation agreement. The Chair shall deliver the order of the Commission to the Law Enforcement Bureau for service upon the parties to the agreement.
+(c) Entry of Order by Commission. When a conciliation agreement has been fully executed, the Law Enforcement Bureau shall promptly forward such agreement to the Chair. The signature of the Chair on a conciliation agreement with the notation "SO ORDERED" shall be construed to be an order of the Commission pursuant to HRL § 8-115(d) directing the parties to such conciliation agreement to perform each and all of their obligations under such conciliation agreement in the time and manner set forth in such conciliation agreement. The Chair shall deliver the order of the Commission to the Law Enforcement Bureau for service upon the parties to the agreement.
 
 
 
@@ -420,7 +420,7 @@ In the event any party has failed to comply with any request by the Law Enforcem
 *§ 1-73 Motions Relating to Sanctions for Failure to Comply With Order for Investigative Record-Keeping.* ::
 
 
-The Law Enforcement Bureau may make a motion to have the Chair make such orders or take such actions as are permitted by HRL 8-118 in the event a respondent has failed to comply with an order for investigative record-keeping issued by the Chair pursuant to 47 RCNY § 1-33.
+The Law Enforcement Bureau may make a motion to have the Chair make such orders or take such actions as are permitted by HRL § 8-118 in the event a respondent has failed to comply with an order for investigative record-keeping issued by the Chair pursuant to 47 RCNY § 1-33.
 
 
 
@@ -481,7 +481,7 @@ Cisgender. “Cisgender” is a term used to describe a person whose gender iden
 
 Commission. "Commission" means the New York City Commission on Human Rights.
 
-Conditional offer of employment. "Conditional offer of employment," as used in Section 8-107(11-a) of the Administrative Code and 47 RCNY § 2-04 for purposes of establishing when an applicant's criminal history can be considered by an employer, refers to an offer of employment, promotion or transfer. A conditional offer of employment can only be revoked based on one of the following:
+Conditional offer of employment. "Conditional offer of employment," as used in § 8-107(11-a) of the Administrative Code and 47 RCNY § 2-04 for purposes of establishing when an applicant's criminal history can be considered by an employer, refers to an offer of employment, promotion or transfer. A conditional offer of employment can only be revoked based on one of the following:
 
    1. The results of a criminal background check, and only after the "Fair Chance Process," as defined in this section, has been followed.
 
@@ -509,9 +509,9 @@ Direct relationship. "Direct relationship" refers to a finding that the nature o
 
 Domestic partners. "Domestic partners" means persons who have a registered domestic partnership, which shall include any partnership registered pursuant to chapter 2 of title 3 of the Administrative Code, any partnership registered in accordance with executive order number 123, dated August 7, 1989, and any partnership registered in accordance with executive order number 48, dated January 7, 1993, and persons who are members of a marriage that is not recognized by the state of New York, a domestic partnership, or a civil union, lawfully entered into in another jurisdiction.
 
-Employer. "Employer" refers to an employer as defined by Section 8-102(5) of the Administrative Code.
+Employer. "Employer" refers to an employer as defined by § 8-102(5) of the Administrative Code.
 
-Fair Chance Process. "Fair Chance Process" refers to the postconditional offer process mandated by Section 8-107(11-a) of the Administrative Code when employers elect to withdraw a conditional offer of employment or deny a promotion or transfer based on an applicant's conviction history.
+Fair Chance Process. "Fair Chance Process" refers to the postconditional offer process mandated by § 8-107(11-a) of the Administrative Code when employers elect to withdraw a conditional offer of employment or deny a promotion or transfer based on an applicant's conviction history.
 
 Gender. “Gender” includes actual or perceived sex, gender identity, and gender expression including a person’s actual or perceived genderrelated self-image, appearance, behavior, expression, or other genderrelated characteristic, regardless of the sex assigned to that person at birth.
 
@@ -569,13 +569,13 @@ Sex. “Sex” is a combination of several characteristics, including but not li
 
 Statement. "Statement," when used in connection with criminal history, refers to any communications made, orally or in writing, to a person for the purpose of obtaining criminal history, including, without limitation, stating that a background check is required for a position.
 
-Stop Credit Discrimination in Employment Act. “Stop Credit Discrimination in Employment Act” refers to Local Law No. 37 of 2015, codified in Sections 8-102(29) and 8-107(9)(d), (24) of the administrative code of the City of New York.
+Stop Credit Discrimination in Employment Act. “Stop Credit Discrimination in Employment Act” refers to Local Law No. 37 of 2015, codified in §§ 8-102(29) and 8-107(9)(d), (24) of the Administrative Code of the City of New York.
 
 Temporary help firms. "Temporary help firms" are businesses that recruit, hire, and assign their own employees to perform work or services for other organizations, to support or supplement the other organization's workforce, or to provide assistance in special work situations such as, without limitation, employee absences, skill shortages, seasonal workloads, or special assignments or projects.
 
 Terms and conditions. "Terms and conditions" means conditions of employment, including but not limited to hiring, termination, transfers, promotions, privileges, compensation, benefits, professional development and training opportunities, and job duties.
 
-Trade secret. “Trade secret” means information that: (i) derives significant independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy, both within the workplace and in the public; and (iii) can reasonably be said to be the end product of significant innovation. The term “trade secret” does not include general proprietary company information such as the information contained in handbooks and policies. The term “regular access to trade secrets” does not include access to or the use of client, customer, or mailing lists or other information regularly collected in the course of business. In considering whether information constitutes a trade secret for the purposes of an exemption under Section 8-107(24)(b)(2)(E) of the administrative code, the Commission will consider various factors, including: (1) efforts made by the employer to protect and develop such information for the purpose of increasing competitive advantage; (2) whether the information was regularly shared with entry level and non-salaried employees and supervisors or managers of such employees; (3) what efforts would be required to replicate such information by someone knowledgeable within the field; (4) the value of the information to competitors; and (5) the amount of money and effort expended by the employer to develop the information.
+Trade secret. “Trade secret” means information that: (i) derives significant independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy, both within the workplace and in the public; and (iii) can reasonably be said to be the end product of significant innovation. The term “trade secret” does not include general proprietary company information such as the information contained in handbooks and policies. The term “regular access to trade secrets” does not include access to or the use of client, customer, or mailing lists or other information regularly collected in the course of business. In considering whether information constitutes a trade secret for the purposes of an exemption under § 8-107(24)(b)(2)(E) of the Administrative Code, the Commission will consider various factors, including: (1) efforts made by the employer to protect and develop such information for the purpose of increasing competitive advantage; (2) whether the information was regularly shared with entry level and non-salaried employees and supervisors or managers of such employees; (3) what efforts would be required to replicate such information by someone knowledgeable within the field; (4) the value of the information to competitors; and (5) the amount of money and effort expended by the employer to develop the information.
 
 Transgender. “Transgender” – sometimes shortened to “trans” – is a term used to describe a person whose gender identity does not conform with the sex assigned at birth.
 
@@ -615,7 +615,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 47 RCNY § 2-04(a) through 2-04(g) relate to prohibitions on discrimination in employment only. 47 RCNY § 2-04(h) relates to prohibitions on discrimination in licensing only. 47 RCNY § 2-04(i) relates to enforcement of violations of the Human Rights Law under this section in employment and licensing.
 
-(a) Per Se Violations. The Commission has determined that the following are per se violations of Sections 8-107(10), (11) or (11-a) of the Human Rights Law (regardless of whether any adverse employment action is taken against an individual applicant or employee), unless an exemption listed under subdivision (g) of this section applies:
+(a) Per Se Violations. The Commission has determined that the following are per se violations of §§ 8-107(10), (11) or (11-a) of the Human Rights Law (regardless of whether any adverse employment action is taken against an individual applicant or employee), unless an exemption listed under subdivision (g) of this section applies:
 
    (1) Declaring, printing, or circulating, or causing the declaration, printing, or circulation of, any solicitation, advertisement, policy or publication that expresses, directly or indirectly, orally or in writing, any limitation or specification in employment regarding criminal history. This includes, but is not limited to, advertisements and employment applications containing phrases such as: "no felonies," "background check required," and "must have clean record."
 
@@ -625,7 +625,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
    (4) Using within the City a standard form, such as a boilerplate job application, intended to be used across multiple jurisdictions, that requests or refers to criminal history. Disclaimers or other language indicating that applicants should not answer specific questions if applying for a position that is subject to the Human Rights Law do not shield an employer from liability.
 
-   (5) Failing to comply with requirements of Section 8-107(11-a) of the Human Rights Law, when they are applicable: (1) to provide the applicant a written copy of any inquiry an employer conducted into the applicant's criminal history; (2) to share with the applicant a written copy of the employer's Article 23-A analysis; or (3) to hold the prospective position open for at least three business days from the date of an applicant's receipt of both the inquiry and analysis.
+   (5) Failing to comply with requirements of § 8-107(11-a) of the Human Rights Law, when they are applicable: (1) to provide the applicant a written copy of any inquiry an employer conducted into the applicant's criminal history; (2) to share with the applicant a written copy of the employer's Article 23-A analysis; or (3) to hold the prospective position open for at least three business days from the date of an applicant's receipt of both the inquiry and analysis.
 
    (6) Requiring applicants or employees to disclose an arrest that, at the time disclosure is required, has resulted in a non-conviction as defined in 47 RCNY § 2-01.
 
@@ -821,13 +821,13 @@ If any provision of these Regulations or the application thereof is held invalid
     * - Employer Size(at the time of the violation)
       - 1st Violation
       - 2nd Violation(within 3 years of the resolution date of the first violation)
-    * - 4-9 employees
+    * - 4 - 9 employees
       -  $500.00
       - $1,000.00
-    * - 10-20 employees
+    * - 10 - 20 employees
       -  $1,000.00
       - $5,000.00
-    * - 21-50 employees
+    * - 21 - 50 employees
       - $3,500.00
       - $10,000.00
     * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has between four and nine employees and is using a discriminatory advertisement in violation of 47 RCNY § 2-04(a)(1) and an application that references criminal history in violation of 47 RCNY § 2-04(a)(2) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
@@ -851,7 +851,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
       (vii) Failure to Respond.
 
-         (A) If a respondent fails to respond within 90 days to a complaint accompanied by an Early Resolution Notice, all allegations in the complaint will be deemed admitted unless good cause to the contrary is shown pursuant to Section 8-111(c) of the Human Rights Law.
+         (A) If a respondent fails to respond within 90 days to a complaint accompanied by an Early Resolution Notice, all allegations in the complaint will be deemed admitted unless good cause to the contrary is shown pursuant to § 8-111(c) of the Human Rights Law.
 
          (B) Upon default, the Law Enforcement Bureau may refer the case to the Office of Administrative Trials and Hearings pursuant to 47 RCNY § 1-71 and, in a written motion pursuant to 48 RCNY Chapter 1, seek an expedited trial and issuance of a report and recommendation that finds respondent in default and recommend the affirmative relief and penalties requested by the Law Enforcement Bureau. The motion papers will include: all supporting evidence; a copy of the complaint and any additional documentation sent to the respondent; the Early Resolution Notice; and proof of service of the motion.
 
@@ -871,7 +871,7 @@ If any provision of these Regulations or the application thereof is held invalid
 *§ 2-05 Prohibitions on Discrimination Based on Credit by Employers, Labor Organizations, Employment Agencies, and Agencies Authorized To Issue Licenses, Registrations, or Permits.* ::
 
 
-(a) Per Se Violations. The following are per se violations of Sections 8-107(9)(d) and 8-107(24) of the Administrative Code (regardless of whether any adverse employment or licensing action is taken against an individual applicant, licensee, or permittee), except where an exemption applies pursuant to subdivision (c) of this section:
+(a) Per Se Violations. The following are per se violations of §§ 8-107(9)(d) and 8-107(24) of the Administrative Code (regardless of whether any adverse employment or licensing action is taken against an individual applicant, licensee, or permittee), except where an exemption applies pursuant to subdivision (c) of this section:
 
    (1) Requesting consumer credit history from an applicant, licensee, or permittee.
 
@@ -881,7 +881,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
    (4) Requesting or requiring applicants for employment, licenses, or permits to consent to the disclosure of their consumer credit history to the employer.
 
-(b) Presumptive Violations. It shall be a rebuttable presumption that posting or circulating any solicitation indicating that the employer, labor organization, employment agency, or licensing agency will use consumer credit history for employment, licensing, or permitting purposes constitutes a violation of Sections 8-107(9)(d) and 8-107(24) of the administrative code of the City of New York, except where an exemption applies pursuant to subdivision (c) of this section.
+(b) Presumptive Violations. It shall be a rebuttable presumption that posting or circulating any solicitation indicating that the employer, labor organization, employment agency, or licensing agency will use consumer credit history for employment, licensing, or permitting purposes constitutes a violation of §§ 8-107(9)(d) and 8-107(24) of the Administrative Code of the City of New York, except where an exemption applies pursuant to subdivision (c) of this section.
 
 (c) Exemptions Under the Stop Credit Discrimination in Employment Act.
 
@@ -960,16 +960,16 @@ If any provision of these Regulations or the application thereof is held invalid
     * - Employer Size(at the time of the violation)
       - 1st Violation
       - 2nd Violation (within 3 years of the resolution date of the first violation)
-    * - 4-9
+    * - 4 - 9
       - $500.00
       - $1,000.00
-    * - 10-20
+    * - 10 - 20
       - $1,000.00
       - $5,000.00
-    * - 21-50
+    * - 21 - 50
       - $3,500.00
       - $10,000.00
-    * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has 4-9 employees who requests consumer credit history from an applicant orally in violation of 47 RCNY § 2-05(a)(1) and requires that same applicant to sign a waiver authorizing a credit check in violation of 47 RCNY § 2-05(a)(4) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
+    * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has 4 - 9 employees who requests consumer credit history from an applicant orally in violation of 47 RCNY § 2-05(a)(1) and requires that same applicant to sign a waiver authorizing a credit check in violation of 47 RCNY § 2-05(a)(4) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
       - 
       - 
 ~
@@ -982,11 +982,11 @@ If any provision of these Regulations or the application thereof is held invalid
 
    (6) Admission of Liability in an Early Resolution Case. An admission of liability must be returned to the Commission in the manner prescribed in the Early Resolution Notice. Once the admission is received, the Law Enforcement Bureau will promptly forward it to the Chair. The signature of the Chair with the notation “SO ORDERED” constitutes the final order of the Commission. A copy of such order will be served upon the respondent.
 
-   (7) Contesting Liability and Filing an Answer in an Early Resolution Case. Notwithstanding any provision of 47 RCNY § 1-61 or 47 RCNY § 1-62, if a respondent elects to deny liability and contest the allegations in the complaint, the respondent shall file an answer and, upon receipt of the answer, the Law Enforcement Bureau will refer the case to the Office of Administrative Trials and Hearings for a hearing pursuant to 47 RCNY § 1-71. The hearing will be conducted in accordance with Subchapter C of Chapter 2 of Title 48 of the Rules of the City of New York.
+   (7) Contesting Liability and Filing an Answer in an Early Resolution Case. Notwithstanding any provision of 47 RCNY § 1-61 or 47 RCNY § 1-62, if a respondent elects to deny liability and contest the allegations in the complaint, the respondent shall file an answer and, upon receipt of the answer, the Law Enforcement Bureau will refer the case to the Office of Administrative Trials and Hearings for a hearing pursuant to 47 RCNY § 1-71. The hearing will be conducted in accordance with Subchapter C of 48 RCNY Chapter 2.
 
    (8) Failure to Respond in an Early Resolution Case.
 
-      (i) If a respondent fails to respond to a complaint accompanied by an Early Resolution Notice within 90 days, all allegations in the complaint will be deemed admitted unless good cause to the contrary is shown, pursuant to Section 8-111(c) of the Administrative Code.
+      (i) If a respondent fails to respond to a complaint accompanied by an Early Resolution Notice within 90 days, all allegations in the complaint will be deemed admitted unless good cause to the contrary is shown, pursuant to § 8-111(c) of the Administrative Code.
 
       (ii) If a respondent fails to respond to a complaint accompanied by an Early Resolution Notice within 90 days, the Law Enforcement Bureau may refer the case to the Office of Administrative Trials and Hearings pursuant to 47 RCNY § 1-71 and, in a written motion pursuant to 48 RCNY § 1-50, seek an expedited trial and issuance of a report and recommendation that finds respondent in default and recommends the affirmative relief and penalties requested by the Law Enforcement Bureau. The motion papers will include all supporting evidence, a copy of the complaint, the Early Resolution Notice, and proof of service.
 

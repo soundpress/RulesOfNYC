@@ -32,9 +32,9 @@ Filing. "Filing" means submitting papers to OATH, whether in person, by mail, or
 
 Mailing. "Mailing" means the deposit, in a post office or official depository under the exclusive care and custody of the United States Postal Service, of a paper enclosed in a first class postpaid wrapper, addressed to the address designated by a person for that purpose or, if none is designated, at such person's last known address.
 
-OATH. "OATH" means the Office of Administrative Trials and Hearings, including the OATH Trials Division and the OATH Hearings Division (see section 6-02).
+OATH. "OATH" means the Office of Administrative Trials and Hearings, including the OATH Trials Division and the OATH Hearings Division (see 48 RCNY § 6-02).
 
-OATH Trials Division. "OATH Trials Division" means the adjudicatory body authorized to conduct proceedings pursuant to Chapters 1 and 2 of this Title.
+OATH Trials Division. "OATH Trials Division" means the adjudicatory body authorized to conduct proceedings pursuant to 48 RCNY Chapters 1 and 2.
 
 Petition. "Petition" means a document, analogous to a complaint in a civil action, which states the claims to be adjudicated.
 
@@ -1077,7 +1077,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 *§ 5-06 Special Procedures* ::
 
 
-(a) Summary suspension based on a failure to be timely tested for drug use. When the TLC submits to the Tribunal written documentation pursuant to 35 RCNY § 68-16(d) submitted by a Licensee, as defined in § 35 RCNY 51-03, refuting summary suspension based on a failure to be timely tested for drug use, the Tribunal will issue a decision based on the written documentation. The decision will include findings of fact and conclusions of law. The decision may be appealed in accordance with the process established in 48 RCNY § 6-19.
+(a) Summary suspension based on a failure to be timely tested for drug use. When the TLC submits to the Tribunal written documentation pursuant to 35 RCNY § 68-16(d) submitted by a Licensee, as defined in 35 RCNY § 51-03, refuting summary suspension based on a failure to be timely tested for drug use, the Tribunal will issue a decision based on the written documentation. The decision will include findings of fact and conclusions of law. The decision may be appealed in accordance with the process established in 48 RCNY § 6-19.
 
 (b) Unlicensed activity. Pursuant to § 19-529.2 of the Administrative Code, a decision on unlicensed activity with a commuter van will be issued within one (1) business day of the conclusion of the hearing or the default.
 
@@ -1121,7 +1121,7 @@ As used in this chapter:
 
 "OATH Hearings Division" means the Health Tribunal, the Environmental Control Board as defined in Charter § 1049-a, and the Administrative Tribunal referenced in Title 19 of the Administrative Code of the City of New York.
 
-"OATH Trials Division" means the adjudicatory body authorized to conduct proceedings pursuant to Chapters 1 and 2 of this Title.
+"OATH Trials Division" means the adjudicatory body authorized to conduct proceedings pursuant to 48 RCNY Chapters 1 and 2.
 
 "Party" means the Petitioner or the person named as Respondent in a proceeding before the Tribunal.
 
@@ -2002,6 +2002,334 @@ A written application to file a post-hearing agreement must be made jointly and 
 
 **APPENDIX A: RULES OF CONDUCT FOR ADMINISTRATIVE LAW JUDGES AND HEARING OFFICERS OF THE CITY OF NEW YORK**
 
+
+
+*§ 100 Terminology.* ::
+
+
+Terms used in these Rules are defined as follows:
+
+(A) A "candidate" is a person seeking selection for or retention in public office by any public election, including primary and general elections and including partisan and nonpartisan elections. A person becomes a candidate for public office as soon as he or she makes a public announcement of candidacy or authorizes solicitation or acceptance of contributions.
+
+(B) A "City administrative law judge" is an administrative law judge, hearing examiner, hearing officer or any other person who conducts or participates in the decision of adjudicative proceedings within a City tribunal. The term "City administrative law judge" does not include members of boards or commissions. The term "City administrative law judge" also does not include the head of an agency, unless the agency is a City tribunal.
+
+(C) A "City tribunal" is any City agency or any unit within a City agency that is authorized or charged by law with responsibility for conducting adjudicative proceedings. "City tribunals" to which these Rules are applicable include the tribunals constituting or within the Department of Consumer Affairs, the Department of Finance, the Department of Health and Mental Hygiene, the Environmental Control Board, the Office of Administrative Trials and Hearings, the Police Department, the Tax Appeals Tribunal, the Taxi and Limousine Commission and any similar agencies or units.
+
+(D) "Closely related" means that the relationship between one person and another is that of parent and child; siblings; grandparent and grandchild; great-grandparent and great-grandchild; first cousins; or aunt/uncle and niece/nephew.
+
+(E) A "domestic partner" is a member of a domestic partnership registered pursuant to Administrative Code § 3-240 or in accordance with Executive Order 123 of 1989 or Executive Order 48 of 1993 or a member of a marriage that is not recognized by the State of New York or of any domestic partnership or civil union entered into in another jurisdiction.
+
+(F) "Economic interest" means ownership of a more than de minimis legal or equitable interest, or a relationship as officer, director, advisor or other active participant in the affairs of a party, provided that:
+
+   (1) ownership of an interest in a mutual or common investment fund that holds securities is not an economic interest in such securities or in the manager of such fund unless the City administrative law judge participates in the management of the fund or a proceeding pending or impending before the City administrative law judge could substantially affect the value of the interest;
+
+   (2) service as an officer, director, advisor or other active participant in an educational, religious, charitable, cultural, fraternal or civic organization, or service by a spouse, domestic partner or child as an officer, director, advisor or other active participant in any such organization does not create an economic interest in securities held by that organization;
+
+   (3) a deposit in a financial institution, the proprietary interest of a policyholder in a mutual insurance company, of a depositor in a mutual savings association or of a member in a credit union, or a similar proprietary interest, is not an economic interest in the organization, unless a proceeding pending or impending before the City administrative law judge could substantially affect the value of the interest;
+
+   (4) ownership of government securities is not an economic interest in the issuer unless a proceeding pending or impending before the City administrative law judge could substantially affect the value of the securities;
+
+   (5) a "de minimis" interest is one so insignificant that it could not raise reasonable questions as to a City administrative law judge's impartiality.
+
+(G) An "ex parte communication" is a communication that concerns a pending or impending proceeding before a City administrative law judge and occurs between the City administrative law judge and a party, or a representative of a party, to the proceeding without notice to and outside the presence of one or more other parties to the proceeding.
+
+(H) "Fiduciary" includes such relationships as executor, administrator, trustee and guardian.
+
+(I) "Impartial" means without bias or prejudice in favor of, or against, particular parties or classes of parties, and with an open mind in considering issues that may come before the City administrative law judge.
+
+(J) An "impending proceeding" is one that has not yet been commenced but is reasonably foreseeable and not merely hypothetical.
+
+(K) "Integrity" denotes probity, fairness, honesty, uprightness and soundness of character; it also denotes a firm adherence to these Rules and their standard of values.
+
+(L) To "know" is to have actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances.
+
+(M) A "member of the City administrative law judge's family" is a spouse, domestic partner, child, grandchild, parent, grandparent, sibling or any other person with whom the City administrative law judge maintains a comparable relationship.
+
+(N) "Nonpublic information" is confidential information of which a City administrative law judge becomes aware as a result of his or her judicial duties and which is not otherwise available to the public.
+
+(O) A "pending proceeding" is one that has begun but not yet reached its final disposition.
+
+(P) A "political organization" is a political party, political club or other group, the principal purpose of which is to further the election or appointment of candidates to political office.
+
+(Q) "Primarily employed by the City" means employed on a full-time basis or the equivalent or regularly scheduled to work the equivalent of 20 hours per week at one or more City tribunals.
+
+(R) "Require." Where these Rules prescribe that a City administrative law judge "require" certain conduct of others, the term "require" means that a City administrative law judge is to exercise reasonable direction and control over the conduct of those persons subject to his or her direction and control.
+
+
+
+
+
+
+*§ 101  A City Administrative Law Judge Shall Uphold the Integrity of the Tribunal on Which He or She Serves.* ::
+
+
+The administration of justice in our City depends on tribunals that adjudicate fairly, without partiality, prejudgment or impropriety. A City administrative law judge should participate in establishing, maintaining and enforcing high standards of conduct, and shall personally observe those standards so that the integrity of the tribunal on which he or she serves will be preserved. The provisions of these Rules are to be construed and applied to further that objective. Persons covered by these Rules remain subject to Chapter 68 of the City Charter and the rules and opinions issued by the Conflicts of Interest Board interpreting those provisions. To the extent that these Rules conflict with the provisions of Chapter 68 or the rules or opinions of the Conflicts of Interest Board, the provisions of Chapter 68 and the rules and opinions of the Conflicts of Interest Board shall take precedence unless these Rules are more restrictive. Persons covered by these Rules remain subject to Executive Order 16 of 1978 and amendments thereto, and to all other applicable City rules and executive orders. Nothing in these Rules shall limit the duty of City administrative law judges to comply with Chapter 68, the rules and opinions of the Conflicts of Interest Board, Executive Order 16 of 1978 and amendments thereto, and any additional obligations imposed by rules, guidelines or directives issued by agencies or tribunals, or the duty of administrative law judges in the Office of Administrative Trials and Hearings ("OATH") to comply with the Code of Judicial Conduct as set forth in the Rules of the Chief Administrative Judge of the Courts for the State of New York, 22 NYCRR §§ 100 et seq.
+
+
+
+
+
+
+*§ 102  A City Administrative Law Judge Shall Avoid Impropriety and the Appearance of Impropriety in All of His or Her Activities.* ::
+
+
+(A) A City administrative law judge shall respect and comply with the law and shall act at all times in a manner that promotes public confidence in the integrity and impartiality of City tribunals.
+
+(B) A City administrative law judge shall not allow family, social, political or other relationships to influence his or her judicial conduct or judgment.
+
+(C) A City administrative law judge shall not lend the prestige of judicial office to advance the private interests of the City administrative law judge or others; nor shall a City administrative law judge convey to others, or permit others to convey, the impression that they are in a special position to influence him or her.
+
+(D) A City administrative law judge shall not testify voluntarily as a character witness before a City tribunal on which he or she serves.
+
+(E) A City administrative law judge shall not hold membership in any organization that practices invidious discrimination on the basis of actual or perceived age, race, creed, color, gender (including gender identity), sexual orientation, religion, national origin, disability, marital status, domestic partnership status, alienage or citizenship status, military status, or any other protected status enumerated in the City Human Rights Law, Administrative Code § 8-101, or the State Human Rights Law, Executive Law § 291. This provision does not prohibit a City administrative law judge from holding membership in an organization that is dedicated to the preservation of religious, ethnic, cultural or other values of legitimate common interest to its members.
+
+
+
+
+
+
+*§ 103  A City Administrative Law Judge Shall Perform His or Her Judicial Duties Impartially and Diligently.* ::
+
+
+(A)  Adjudicative responsibilities.
+
+   (1) A City administrative law judge shall be faithful to the law and maintain professional competence in it. A City administrative law judge shall not be swayed by partisan interests, public clamor or fear of public criticism.
+
+   (2) A City administrative law judge shall require order and decorum in proceedings before him or her.
+
+   (3) A City administrative law judge shall be patient, dignified and courteous to the parties, representatives, witnesses and others with whom the City administrative law judge deals in an official capacity and shall require similar conduct of others subject to his or her direction and control.
+
+   (4) A City administrative law judge shall accord to every party to a proceeding, or to that party's representative, the right to be heard according to law.
+
+   (5) A City administrative law judge shall perform judicial duties with impartiality. A City administrative law judge in the performance of judicial duties shall not, by words or conduct, manifest bias or prejudice, including but not limited to bias or prejudice based upon actual or perceived age, race, creed, color, gender (including gender identity), sexual orientation, religion, national origin, disability, marital status, domestic partnership status, alienage or citizenship status, military status or any other protected status enumerated in the City Human Rights Law, Administrative Code § 8-101, or the State Human Rights Law, Executive Law § 291, or socioeconomic status, and shall require City tribunal staff and others subject to the City administrative law judge's direction and control to refrain from such words or conduct.
+
+   (6) A City administrative law judge shall require the parties and their representatives in proceedings before him or her to refrain from manifesting, by words or conduct, bias or prejudice against parties, witnesses, counsel or others based upon actual or perceived age, race, creed, color, gender (including gender identity), sexual orientation, religion, national origin, disability, marital status, domestic partnership status, alienage or citizenship status, military status or any other protected status enumerated in the City Human Rights Law, Administrative Code § 8-101, or the State Human Rights Law, Executive Law § 291, or socioeconomic status. This provision does not preclude legitimate advocacy when age, race, creed, color, gender, sexual orientation, religion, national origin, disability, marital status, domestic partnership status, alienage or citizenship status, military status, socioeconomic status or any other similar factor is an issue in the proceeding.
+
+   (7) A City administrative law judge shall not initiate, permit or consider ex parte communications, except:
+
+      (a) Ex parte communications that are made for scheduling or administrative purposes and that do not affect a substantial right of any party are authorized, if the City administrative law judge (i) reasonably believes that no party will gain a procedural or tactical advantage as a result of the ex parte communication, and (ii) insofar as practical and appropriate, provides for prompt notification of other parties or their representatives of the substance of the ex parte communication and allows an opportunity to respond.
+
+      (b) A City administrative law judge, with the consent of the parties, may confer separately with the parties and their representatives on agreed-upon matters.
+
+      (c) A City administrative law judge may initiate or consider any ex parte communications when authorized by law to do so.
+
+   (8) A City administrative law judge shall take appropriate steps to ensure that any party not represented by an attorney or other relevant professional has the opportunity to have his or her case fully heard on all relevant points.
+
+      (a) Among the practices that a City administrative law judge may appropriately follow and may find helpful in advancing the ability of a litigant not represented by an attorney or other relevant professional to be fully heard are the following: (i) liberally construing and allowing amendment of papers that a party not represented by an attorney has prepared; (ii) providing brief information about the nature of the hearing, who else is participating in the hearing and how the hearing will be conducted; (iii) providing brief information about what types of evidence may be presented; (iv) being attentive to language barriers that may affect parties or witnesses; (v) questioning witnesses to elicit general information and to obtain clarification; (vi) modifying the traditional order of taking evidence; (vii) minimizing the use of complex legal terms; (viii) explaining the basis for a ruling when made during the hearing or when made after the hearing in writing; (ix) making referrals to resources that may be available to assist the party in the preparation of the case.
+
+      (b) A City administrative law judge shall ensure that any steps taken in fulfillment of the obligations of this paragraph are reflected in the record of the proceeding. A communication between a City administrative law judge and a litigant made in fulfillment of the obligations of this paragraph remains subject to the restrictions on ex parte communications contained in the preceding paragraph.
+
+   (9) A City administrative law judge shall dispose of all judicial matters promptly, efficiently and fairly.
+
+   (10) A City administrative law judge shall not make any public comment about a pending or impending proceeding in any City tribunal. This paragraph does not prohibit a City administrative law judge from making authorized public statements in the course of his or her official duties or from explaining for public information the procedures of the tribunal. This paragraph does not apply to proceedings in which the City administrative law judge is a litigant or a representative of a litigant.
+
+   (11) A City administrative law judge shall not:
+
+      (a) make pledges or promises of conduct in office that are inconsistent with the impartial performance of the adjudicative duties of the office;
+
+      (b) with respect to cases, controversies or issues that are likely to come before the tribunal, make commitments that are inconsistent with the impartial performance of the adjudicative duties of the office.
+
+   (12) A City administrative law judge shall not disclose, or use for any purpose unrelated to judicial duties, nonpublic information acquired in a judicial capacity.
+
+(B) Administrative responsibilities.
+
+   (1) A City administrative law judge shall diligently discharge his or her administrative responsibilities without bias or prejudice, maintain professional competence in judicial administration and cooperate with other City administrative law judges and tribunal staff in the administration of judicial business.
+
+   (2) A City administrative law judge shall require tribunal staff subject to his or her direction and control to observe the standards of fidelity and diligence that apply to the City administrative law judge and to refrain from manifesting bias or prejudice in the performance of their official duties.
+
+(C) Disciplinary responsibilities.
+
+   (1) A City administrative law judge who receives information indicating a substantial likelihood that another City administrative law judge has committed a substantial violation of these Rules shall promptly report such information to the head of the tribunal, the Administrative Justice Coordinator in the Office of the Mayor or the Chief Judge of OATH, or, as applicable, to the official occupying any successor position. In addition, a City administrative law judge must comply with any agency rules requiring the reporting of such information within the agency or tribunal.
+
+   (2) If, in the course of performing judicial duties, a City administrative law judge receives information indicating a substantial likelihood that a lawyer appearing before him or her has committed a substantial violation of the Code of Professional Responsibility the City administrative law judge shall take appropriate action.
+
+   (3) Acts of a City administrative law judge in the discharge of disciplinary responsibilities are part of his or her judicial duties.
+
+(D) Disqualification.
+
+   (1) A City administrative law judge shall disqualify himself or herself in a proceeding in which the City administrative law judge's impartiality might reasonably be questioned, including but not limited to instances where:
+
+      (a) (i)  the City administrative law judge has a personal bias or prejudice concerning a party; or (ii) the City administrative law judge has personal knowledge of disputed evidentiary facts concerning the proceeding;
+
+      (b) (i)  the City administrative law judge, while in private practice, is serving or has served as a lawyer in the matter in controversy; (ii) the City administrative law judge knows that a lawyer with whom he or she was associated in private practice served during that association as a lawyer in the matter in controversy; (iii) the City administrative law judge knows that a lawyer with whom he or she is associated in private practice is serving as a lawyer in the matter in controversy; or (iv) the City administrative law judge knows that he or she or a lawyer with whom he or she was or is associated in private practice has been or will be a material witness in the matter in controversy;
+
+      (c) the City administrative law judge has served in governmental employment and in such capacity participated as counsel, advisor or material witness in the matter in controversy;
+
+      (d) the City administrative law judge knows that he or she, individually or as a fiduciary, or the City administrative law judge's spouse or domestic partner, or a person known by the City administrative law judge to be closely related to either of them, or the spouse of such person: (i) is a party to the proceeding; (ii) is an officer, director or trustee of a party; (iii) has an economic interest in the subject matter in controversy; or (iv) has any other interest that could be substantially affected by the proceeding;
+
+      (e) the City administrative law judge knows that the City administrative law judge or his or her spouse, domestic partner or a person known by the City administrative law judge to be closely related to either of them, or the spouse or domestic partner of such a person, is acting as a lawyer in the proceeding or is likely to be a material witness in the proceeding;
+
+      (f) the City administrative law judge has made a pledge or promise of conduct in office that is inconsistent with the impartial performance of the adjudicative duties of the office or has made a public statement not in the City administrative law judge's adjudicative capacity that commits the City administrative law judge with respect to (i) an issue in the proceeding, or (ii) the parties or controversy in the proceeding;
+
+      (g) notwithstanding the provisions of subparagraph (d) above, if a City administrative law judge would be disqualified because of the appearance or discovery, after the matter was assigned to the City administrative law judge, that the City administrative law judge, individually or as fiduciary, or the City administrative law judge's spouse or domestic partner or a person known by the City administrative law judge to be closely related to either of them, or the spouse of such person, has an economic interest in the subject matter in controversy, disqualification is not required if the City administrative law judge, spouse, domestic partner or other relevant person, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
+
+   (2) A City administrative law judge shall keep informed about his or her personal and fiduciary economic interests and make a reasonable effort to keep informed about the personal economic interests of his or her spouse or domestic partner and minor children residing in the City administrative law judge's household.
+
+(E) Remittal of disqualification.
+
+   (1) A City administrative law judge disqualified by the terms of subdivision (D) above may disclose on the record the basis for his or her disqualification. Thereafter, subject to paragraph (2) below, if the parties who have appeared and not defaulted and their representatives, without participation by the City administrative law judge, all agree that the City administrative law judge should not be disqualified, and the City administrative law judge believes that he or she will be impartial and is willing to participate, the City administrative law judge may participate in the proceeding. The agreement shall be incorporated in the record of the proceeding.
+
+   (2) Notwithstanding paragraph (1) above, disqualification of a City administrative law judge shall not be remitted if participation in the proceeding by the City administrative law judge would violate Chapter 68 of the Charter or if the basis for disqualification is that:
+
+      (a) the City administrative law judge has a personal bias or prejudice concerning a party;
+
+      (b) the City administrative law judge, while in private practice, served as a lawyer in the matter in controversy;
+
+      (c) the City administrative law judge has been or will be a material witness concerning the matter in controversy; or
+
+      (d) the City administrative law judge or his or her spouse or domestic partner is a party to the proceeding or is an officer, director or trustee of a party to the proceeding.
+
+
+
+
+
+
+*§ 104  A City Administrative Law Judge Shall Conduct His or Her Extra-Judicial Activities so as to Minimize the Risk of Conflict with Judicial Obligations.* ::
+
+
+(A)  Extra-judicial activities in general. A City administrative law judge shall conduct all of his or her extra-judicial activities so that they:
+
+   (1) do not cast reasonable doubt on the City administrative law judge's capacity to act impartially as a City administrative law judge;
+
+   (2) do not detract from the dignity of judicial office;
+
+   (3) do not interfere with the proper performance of judicial duties; and
+
+   (4) are not incompatible with judicial office.
+
+(B) Governmental, civic or charitable activities.
+
+   (1) A City administrative law judge shall not appear at a public hearing before an executive or legislative body or official if doing so would cast doubt on his or her ability to decide impartially regarding any issue or party that with reasonable foreseeability might come before him or her unless the issue or party is one with respect to which the City administrative law judge would in any event be disqualified under these Rules or any other provision of law.
+
+   (2) In connection with civic or charitable activities, a City administrative law judge may participate in fund-raising or solicitation for membership if:
+
+      (a) the City administrative law judge does not use or permit use of the prestige of judicial office for fund-raising or solicitation for membership;
+
+      (b) the fund-raising or solicitation for membership is not directed at persons who have appeared, are appearing or are foreseeably likely to appear before the City administrative law judge;
+
+      (c) the City administrative law judge's participation in the fund-raising or solicitation for membership would not detract from the dignity of judicial office or interfere with the proper performance of judicial duties or be incompatible with judicial office;
+
+      (d) the fund-raising or solicitation for membership is not prohibited by Chapter 68 of the City Charter or any other provision of law.
+
+   (3) A City administrative law judge shall not accept:
+
+      (a) appointment to a governmental committee or commission or other governmental position if his or her activity in such capacity would cast doubt on his or her ability to decide impartially regarding any issue or party that with reasonable foreseeability might come before him or her; or
+
+      (b) appointment or employment as a peace officer or police officer, as those terms are defined in Criminal Procedure Law § 1.20, unless he or she is a member of the uniformed force of the police department exercising adjudicative duties.
+
+   (4) If not otherwise prohibited by Chapter 68 of the Charter or any other provision of law, a City administrative law judge may be a member or serve as an officer, director, trustee or advisor of an organization or governmental agency devoted to the improvement of the law, the legal system or the administration of justice or of an educational, religious, charitable, cultural, fraternal or civic organization not conducted for profit, subject to the following limitations and the other requirements of these rules.
+
+      (a) A City administrative law judge shall not serve as an officer, director, trustee or advisor if it is likely that (i) the organization will be engaged in proceedings that ordinarily would come before the City administrative law judge or (ii) such service will involve the City administrative law judge in frequent transactions or continuing business relationships with lawyers or other persons likely to come before the City tribunal on which the City administrative law judge serves.
+
+      (b) A City administrative law judge may be listed as an officer, director, trustee or advisor of such an organization, provided that such listing on letterhead or elsewhere does not include the City administrative law judge's judicial designation unless comparable designations are listed for other persons.
+
+(C) Financial activities.
+
+   (1) A City administrative law judge shall not engage in financial and business dealings that:
+
+      (a) may reasonably be perceived to reflect adversely on the City administrative law judge's impartiality or exploit his or her judicial position;
+
+      (b) involve the City administrative law judge with any business, organization or activity that ordinarily would come before him or her; or
+
+      (c) involve the City administrative law judge in frequent transactions or continuing business relationships with those lawyers or other persons who regularly come before the tribunal on which the City administrative law judge serves.
+
+   (2) A City administrative law judge shall manage his or her investments and other financial interests to minimize the number of cases in which he or she is disqualified. As soon as he or she can do so without serious financial detriment, the City administrative law judge shall divest himself or herself of investments and other financial interests that might require frequent disqualification.
+
+   (3) A City administrative law judge shall not accept, and shall urge members of his or her family residing in the City administrative law judge's household not to accept, a gift, bequest, favor or loan from anyone, unless such gift, bequest, favor or loan is permitted by Chapter 68 of the Charter and any other applicable provision of law and is:
+
+      (a) a gift incident to a public testimonial, books, tapes and other resource materials supplied by publishers on a complimentary basis for official use, or an invitation to the City administrative law judge and his or her guest to attend a bar-related function or an activity devoted to the improvement of the law, the legal system or the administration of justice;
+
+      (b) a gift, award or benefit incident to the business, profession or other separate activity of a spouse, domestic partner or other family member of a City administrative law judge residing in the City administrative law judge's household, including gifts, awards and benefits for the use of both the spouse or other family member and the City administrative law judge (as spouse or family member), provided the gift, award or benefit could not reasonably be perceived as intended to influence the City administrative law judge in the performance of judicial duties;
+
+      (c) a gift which is customary on family and social occasions;
+
+      (d) a gift from a relative or friend, for a special occasion such as a wedding, anniversary or birthday, if the gift is fairly commensurate with the occasion and the relationship;
+
+      (e) a gift, bequest, favor or loan from a relative or friend whose appearance or interest in a case would in any event require disqualification under § 103(D) of these Rules;
+
+      (f) a loan from a lending institution in its regular course of business on the same terms generally available to persons who are not City administrative law judges;
+
+      (g) a scholarship or fellowship awarded on the same terms and based on the same criteria applied to any other applicants; or
+
+      (h) any other gift, bequest, favor or loan, unless the donor is a party or other person who has come or is likely to come before the City administrative law judge or the City administrative law judge knows the donor is or intends to become engaged in business dealings with the City. Any gift received under this subparagraph that exceeds $1,000.00 must be reported to the Administrative Justice Coordinator in the Office of the Mayor or, as applicable, to the official occupying any successor position.
+
+(D) Fiduciary activities. The same restrictions on financial activities that apply to a City administrative law judge personally also apply to the City administrative law judge while acting in a fiduciary capacity.
+
+(E) Service as arbitrator or mediator. A City administrative law judge may act as an arbitrator or mediator, consistent with Chapter 68 of the Charter and the rules and opinions issued by the Conflicts of Interest Board interpreting those provisions and any applicable agency or tribunal rules, as long as such activity affects neither the independent professional judgment of the City administrative law judge nor the conduct of his or her official duties.
+
+(F) Practice of law.
+
+   (1) Consistent with all other provisions of these Rules, with Chapter 68 of the Charter and the rules and opinions of the Conflicts of Interest Board, any applicable agency or tribunal rules and with all other provisions of law, a City administrative law judge may practice law, as long as such activity affects neither the independent professional judgment of the City administrative law judge nor the conduct of his or her official duties.
+
+   (2) A City administrative law judge shall not represent or appear on behalf of private interests before the City tribunal on which he or she serves.
+
+   (3) A City administrative law judge primarily employed by the City shall not represent or appear on behalf of private interests before any City tribunal or agency.
+
+   (4) A City administrative law judge shall not be associated or affiliated with any firm, company or organization that regularly represents or appears on behalf of private interests before the City tribunal on which he or she serves.
+
+(G) Compensation and reimbursement. A City administrative law judge may receive compensation and reimbursement of expenses for the extra-judicial activities permitted by these Rules, if the source of such payments does not give the appearance of influencing the City administrative law judge's performance of judicial duties or otherwise give the appearance of impropriety, subject to the following restrictions:
+
+   (1) Compensation shall not exceed a reasonable amount nor shall it exceed what a person who is not a City administrative law judge would receive for the same activity.
+
+   (2) Expense reimbursement shall be limited to the actual cost of travel, food and lodging reasonably incurred by the City administrative law judge and, where appropriate to the occasion, by the City administrative law judge's spouse, domestic partner or guest. Any payment in excess of such an amount is compensation.
+
+
+
+
+
+
+*§ 105  A City Administrative Law Judge Shall Refrain From Inappropriate Political Activity.* ::
+
+
+(A) A City administrative law judge shall not act as a leader or hold an office in a political organization.
+
+(B) A City administrative law judge shall not solicit funds for a political organization or candidate.
+
+(C) A City administrative law judge shall resign from office and withdraw his or her name from any roster for assignment or employment as a City administrative law judge upon becoming a candidate for elective non-judicial office, except that he or she may continue to hold office while being a candidate for election to or serving as a delegate in a State constitutional convention, if otherwise permitted by law to do so.
+
+(D) A City administrative law judge who is a candidate for elective judicial office shall comply with the Rules of the Chief Administrator of the Courts for the State of New York governing the conduct of such candidates, 22 NYCRR § 100.5. A determination by the State Commission on Judicial Conduct, a court of the State of New York or any other authorized entity that a City administrative law judge has violated those Rules shall constitute misconduct and may subject a City administrative law judge to discipline hereunder.
+
+(E) A City administrative law judge who engages in any other partisan political activity should be mindful that such activity not detract from, or reduce public confidence in, the fairness, impartiality or dignity of his or her office or the tribunal he or she serves nor be in violation of Chapter 68 of the City Charter or any other applicable law.
+
+
+
+
+
+
+*§ 106  Misconduct.* ::
+
+
+(A)  A violation of these Rules may constitute misconduct and may subject a City administrative law judge to discipline.
+
+(B) A complaint alleging that a City administrative law judge has violated these Rules may be made to the head of the City tribunal on which the City administrative law judge serves or served or to the Administrative Justice Coordinator in the Office of the Mayor or the Chief Judge of OATH or, as applicable, to the official occupying any successor position. For purposes of this and the succeeding paragraphs of this section, a "complaint" shall include a report made pursuant to § 103(C)(1) of these Rules.
+
+(C) If the head of a City tribunal receives a complaint, he or she shall so advise the Administrative Justice Coordinator in the Office of the Mayor and the Chief Judge of OATH or, as applicable, the official occupying any successor position.
+
+(D) A complaint received by the Administrative Justice Coordinator in the Office of the Mayor or the Chief Judge of OATH or, as applicable, the official occupying any successor position, shall be referred, after consultation and as appropriate, to the head of the City tribunal on which the City administrative law judge serves or served, to the Conflicts of Interest Board and/or to the Department of Investigation. A complaint concerning the head of a tribunal located within a City agency may also be referred, after consultation and as appropriate, to the head of such agency. A complaint concerning the head of a tribunal not located within a City agency may be referred by the Administrative Justice Coordinator in the Office of the Mayor or the official occupying any successor position, to the Mayor or the Mayor's designee.
+
+(E) The head of each City tribunal shall report to the Administrative Justice Coordinator in the Office of the Mayor and the Chief Judge of OATH or, as applicable, to the official occupying any successor position, the disposition of each complaint alleging a violation of these Rules that has been received by or referred to the head of the tribunal.
+
+(F) The Chief Judge of OATH or, as applicable, the official occupying any successor position, shall maintain a record of every complaint of a violation of these Rules made under this section and of the disposition of each complaint, which record shall be confidential consistent with applicable law. The Chief Judge of OATH or, as applicable, the official occupying any successor position, shall maintain an index of all City administrative law judges found to have violated these Rules and of the discipline imposed in each such case, which index shall be made available for public inspection and copying.
+
+(G) Notwithstanding the foregoing, with respect to a tribunal in any City agency having an internal investigation division, a complaint alleging that an administrative law judge serving on such a tribunal has violated these Rules shall be made to the head of that agency.
+
+(H) Nothing contained herein shall prohibit the head of a tribunal or other officer responsible for employing or appointing a City administrative law judge from refusing further employment to, terminating the employment of or otherwise disciplining the City administrative law judge, if the head of the tribunal or other officer is otherwise authorized to do so.
+
+
+
+
+
+
+*§ 107  Advisory Opinions; Advisory Committee.* ::
+
+
+(A) Advisory opinions. Advisory opinions with respect to these Rules may be issued jointly by the Administrative Justice Coordinator in the Office of the Mayor and the Chief Judge of OATH or, as applicable, by the official occupying any successor position, after consultation with each other. A request for an advisory opinion may be made by a City administrative law judge, including the supervisor of a City administrative law judge or the head of a City tribunal, or by the head of a City agency. A request may be addressed to the Chief Judge of OATH, or, as applicable, to the official occupying any successor position, who shall provide a copy of it to the Administrative Justice Coordinator in the Office of the Mayor, or, as applicable, to the official occupying any successor position, and who shall maintain a record of all such requests for advisory opinions and of all opinions issued in response thereto. An advisory opinion issued under these Rules shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Advisory opinions shall be issued only with respect to proposed future conduct or action by a City administrative law judge. A City administrative law judge whose conduct or action is the subject of an advisory opinion shall not be subject to sanction by virtue of acting or failing to act due to a reasonable reliance on the opinion unless material facts were omitted or misstated in the request. A previously issued opinion may be amended, upon notice to the subject City administrative law judge, but the amendment shall apply only to future conduct or action by the City administrative law judge. Advisory opinions shall be made public with such deletions as may be necessary to prevent disclosure of the identity of the subject City administrative law judge or any other involved party.
+
+(B) Advisory committee. The Administrative Justice Coordinator in the Office of the Mayor and the Chief Judge of OATH or, as applicable, the official occupying any successor position may jointly appoint an advisory committee and may consult that committee in the preparation of advisory opinions. Advisory committee members shall be members of the bar especially knowledgeable about matters of ethics, administrative law or the operations of City tribunals. Upon request, the committee shall advise the Administrative Justice Coordinator in the Office of the Mayor and the Chief Judge of OATH or, as applicable, the official occupying any successor position, with respect to any question concerning application of these Rules as to which the committee's advice is sought.
+
+
+
+
 Chapter 7: [Community Service Program]
 --------------------------------------------------
 
@@ -2387,7 +2715,7 @@ As used in this chapter:
 
 (b) A Respondent is eligible for Community Service if the Respondent appears in person before a Hearing Officer and admits to a Specified Violation alleged in a summons, or if the Specified Violation is sustained at a hearing. Respondent need not opt for community service at the time of the hearing.
 
-(c) A Respondent is not eligible for Community Service if the Specified Violation arose during the conduct of commercial activity or activity carried out for a commercial purpose, except when the commercial activity alleged is a violation of Administrative Code Section 18-146(c)(15).
+(c) A Respondent is not eligible for Community Service if the Specified Violation arose during the conduct of commercial activity or activity carried out for a commercial purpose, except when the commercial activity alleged is a violation of Administrative Code § 18-146(c)(15).
 
 
 

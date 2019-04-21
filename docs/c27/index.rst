@@ -76,7 +76,7 @@ Chapter 2: Comptroller's Prevailing Wage Law Regulations
 *§ 2-01 Applicability.* ::
 
 
-These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state labor law articles eight and nine and New York City administrative code Section 19-142; Comptroller investigations, determinations, hearings and reports and recommendations made to the New York city department of housing preservation and development under New York state real property tax law Sections 421-a (8), (16)(h) and (17)(g); and Comptroller investigations, determinations, hearings and reports and recommendations made to city agencies under the prevailing wage provisions of New York City administrative code Section 6-109.
+These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state labor law articles eight and nine and New York City Administrative Code § 19-142; Comptroller investigations, determinations, hearings and reports and recommendations made to the New York city department of housing preservation and development under New York state real property tax law § 421-a(8), (16)(h) and (17)(g); and Comptroller investigations, determinations, hearings and reports and recommendations made to city agencies under the prevailing wage provisions of New York City Administrative Code § 6-109.
 
 
 
@@ -100,9 +100,9 @@ Complaining Worker. “Complaining Worker” means a worker who has filed a writ
 
 Comptroller. “Comptroller” means the City of New York comptroller or the comptroller’s designee.
 
-Covered Employer. “Covered Employer” means any person or entity subject to liability for Prevailing Wages and/or Supplements under labor law articles eight or nine on public works projects or building service contracts for the City of New York by and through its agencies or public benefit corporations; or under real property tax law Sections 421-a (8), (16)(h), or 17(g); or New York City administrative code Sections 6-109 or 19-142.
+Covered Employer. “Covered Employer” means any person or entity subject to liability for Prevailing Wages and/or Supplements under labor law articles eight or nine on public works projects or building service contracts for the City of New York by and through its agencies or public benefit corporations; or under real property tax law § 421-a(8), (16)(h), or 17(g); or New York City Administrative Code § 6-109 or 19-142.
 
-Covered Work. “Covered Work” means any work that is subject to the requirements of articles eight or nine of the labor law on public works projects or building service contracts for the City of New York by and through its agencies or public benefit corporations; or subject to the requirements of real property tax law Sections 421-a (8), (16)(h) or (17)(g); or New York City administrative code Sections 6-109 or 19-142. “Covered Work” does not include purely supervisory work, or work that is not performed on or about the site of the project, contract or building in question.
+Covered Work. “Covered Work” means any work that is subject to the requirements of articles eight or nine of the labor law on public works projects or building service contracts for the City of New York by and through its agencies or public benefit corporations; or subject to the requirements of real property tax law § 421-a(8), (16)(h) or (17)(g); or New York City Administrative Code § 6-109 or 19-142. “Covered Work” does not include purely supervisory work, or work that is not performed on or about the site of the project, contract or building in question.
 
 Covered Worker. “Covered Worker” means any person who performs Covered Work.
 
@@ -110,7 +110,7 @@ Daily Sign-In Log. “Daily Sign-In Log” means a daily attendance record in th
 
 Document. “Document” means records in any form or electronically stored information, including writings, graphs, charts and other data or data compilations stored in any medium.
 
-Prevailing Wage and/or Supplement. “Prevailing Wage and Supplement” or “Prevailing Wage” or “Prevailing Supplement” mean Prevailing Wages and/or Supplements as defined in labor law articles eight and nine; real property tax law Sections 421-a (8), (16)(h) or (17)(g); and New York City administrative code Sections 6-109(a) and 19-142.
+Prevailing Wage and/or Supplement. “Prevailing Wage and Supplement” or “Prevailing Wage” or “Prevailing Supplement” mean Prevailing Wages and/or Supplements as defined in labor law articles eight and nine; real property tax law § 421-a(8), (16)(h) or (17)(g); and New York City Administrative Code §§ 6-109(a) and 19-142.
 
 Worker Notice Poster. “Worker Notice Poster” means a notice in the form provided on the comptroller’s website detailing the Prevailing Wages and Supplements due for Covered Work performed on a particular project, contract or building.
 
@@ -186,9 +186,9 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 *§ 2-05 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.* ::
 
 
-(a) The Bureau investigates and determines underpayments of Prevailing Wages and Supplements by Covered Employers under labor law articles eight and nine, real property tax law Sections 421-a (8), (16)(h), and (17)(g) and New York city administrative code Section 19-142 for Covered Work performed within the two-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint by a Covered Worker with the Bureau or the New York State Department of Labor.
+(a) The Bureau investigates and determines underpayments of Prevailing Wages and Supplements by Covered Employers under labor law articles eight and nine, real property tax law § 421-a(8), (16)(h), and (17)(g) and New York City Administrative Code § 19-142 for Covered Work performed within the two-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint by a Covered Worker with the Bureau or the New York State Department of Labor.
 
-(b) The Bureau investigates and determines underpayments of Prevailing Wages and Supplements by Covered Employers under New York City administrative code Section 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue. Compliance investigations concerning underpayment of Prevailing Wages and Supplements for Building Service Employees that are also covered by labor law article nine are governed by the provisions of 44 RCNY § 2-05(a).
+(b) The Bureau investigates and determines underpayments of Prevailing Wages and Supplements by Covered Employers under New York City Administrative Code § 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue. Compliance investigations concerning underpayment of Prevailing Wages and Supplements for Building Service Employees that are also covered by labor law article nine are governed by the provisions of 44 RCNY § 2-05(a).
 
 (c) The Bureau may decline to investigate and determine underpayments of Prevailing Wages and/or Supplements if the Complaining Worker or the Complaining Worker’s representative has participated in any other legal proceeding to recover the same unpaid Prevailing Wages and/or Supplements that are the subject of the complaint.
 
@@ -202,9 +202,9 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 (h) If a Covered Employer failed to keep or provide to the Bureau in a timely manner accurate records as required by 44 RCNY § 2-04(c), the Bureau is permitted to calculate underpayments of Prevailing Wages and/or Supplements due to Covered Workers by using the best available evidence and the burden shifts to the Covered Employer to negate the reasonableness of the Bureau’s calculations. In such case, the amount and extent of underpayment is a matter of reasonable inference and may be based upon the statements of Covered Workers.
 
-(i) The Bureau may resolve a compliance determination by stipulation of settlement with a Covered Employer, which includes: (i) findings and assessments as to the underpayment of Prevailing Wages and/or Supplements, (ii) findings as to the willfulness of the violation, (iii) assessments of interest and, (iv) in cases brought under labor law articles eight and nine and New York city administrative code Sections 6-109 and 19-142 only, assessment of a civil penalty.
+(i) The Bureau may resolve a compliance determination by stipulation of settlement with a Covered Employer, which includes: (i) findings and assessments as to the underpayment of Prevailing Wages and/or Supplements, (ii) findings as to the willfulness of the violation, (iii) assessments of interest and, (iv) in cases brought under labor law articles eight and nine and New York City Administrative Code §§ 6-109 and 19-142 only, assessment of a civil penalty.
 
-(j) Stipulations of settlement resolving compliance determinations under labor law articles eight and nine and New York City administrative code Section 19-142 are endorsed by the Comptroller and have the effect of an order of the Fiscal Officer under those laws. Stipulations of settlement resolving compliance investigations under real property tax law Sections 421-a (8), (16)(h) and (17)(g) must be endorsed by the New York City department of housing preservation and development in order to have final effect under that statute. Stipulations of settlement resolving compliance investigations under New York City administrative code Section 6-109 must be endorsed by the contracting agency in order to have final effect under that statute.
+(j) Stipulations of settlement resolving compliance determinations under labor law articles eight and nine and New York City Administrative Code § 19-142 are endorsed by the Comptroller and have the effect of an order of the Fiscal Officer under those laws. Stipulations of settlement resolving compliance investigations under real property tax law § 421-a(8), (16)(h) and (17)(g) must be endorsed by the New York City department of housing preservation and development in order to have final effect under that statute. Stipulations of settlement resolving compliance investigations under New York City Administrative Code § 6-109 must be endorsed by the contracting agency in order to have final effect under that statute.
 
 (k) Interest.
 
@@ -214,7 +214,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 (l) Civil Penalty.
 
-   (1) In cases brought under labor law articles eight and nine and New York City administrative code Sections 6-109 and 19-142, the Bureau assesses any civil penalty in accordance with the criteria set forth in labor law Sections 220(8), 220-b (2)(d) and 235(5)(b) and New York City administrative code Section 6-109(e)(1)(a).
+   (1) In cases brought under labor law articles eight and nine and New York City Administrative Code §§ 6-109 and 19-142, the Bureau assesses any civil penalty in accordance with the criteria set forth in labor law §§ 220(8), 220-b (2)(d) and 235(5)(b) and New York City Administrative Code § 6-109(e)(1)(a).
 
    (2) The Bureau may waive the civil penalty for a Covered Employer entering into a stipulation of settlement for underpayments of Prevailing Wages and/or Supplements by its subcontractor where there is uncontroverted evidence of all of the following:
 
@@ -242,7 +242,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 *§ 2-06 Hearings, Reports and Recommendations and Orders.* ::
 
 
-(a) Designation. All hearings required by New York labor law articles eight and nine; real property tax law Sections 421-a (8), (16)(h) and (17)(g); and New York city administrative code Sections 6-109 and 19-142 are held by the office of administrative trials and hearings trials division.
+(a) Designation. All hearings required by New York labor law articles eight and nine; real property tax law § 421-a(8), (16)(h) and (17)(g); and New York City Administrative Code §§ 6-109 and 19-142 are held by the office of administrative trials and hearings trials division.
 
 (b) Discovery. Each party must provide to all other parties, no later than ten business days before trial: (i) the names of all witnesses the party expects to present at trial, (ii) copies of all Documents or other exhibits the party expects to introduce at trial, (iii) copies of all Documents provided by each Complaining Worker and (iv) copies of all statements, in any form, provided by each Covered Employer that is a party to the hearing.
 
@@ -256,17 +256,17 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
    (1) Within a reasonable time after the conclusion of the hearing, the administrative law judge issues a written report, including proposed findings of fact and conclusions of law, and recommendation as to the order.
 
-   (2) In cases brought under labor law articles eight and nine and New York City administrative code Section 19-142, the administrative law judge forwards the report and recommendation to the Comptroller for consideration and the Comptroller issues an order.
+   (2) In cases brought under labor law articles eight and nine and New York City Administrative Code § 19-142, the administrative law judge forwards the report and recommendation to the Comptroller for consideration and the Comptroller issues an order.
 
-   (3) In cases brought under real property tax law Sections 421-a (8), (16)(h), and (17)(g), the administrative law judge forwards the report and recommendation to the New York City department of housing preservation and development for consideration and that agency issues an order.
+   (3) In cases brought under real property tax law § 421-a(8), (16)(h), and (17)(g), the administrative law judge forwards the report and recommendation to the New York City department of housing preservation and development for consideration and that agency issues an order.
 
-   (4) In cases brought under New York city administrative code Section 6-109, the administrative law judge forwards the report and recommendation to the contracting agency for consideration, and the contracting agency issues an order.
+   (4) In cases brought under New York City Administrative Code § 6-109, the administrative law judge forwards the report and recommendation to the contracting agency for consideration, and the contracting agency issues an order.
 
 (e) Order.
 
-   (1) In cases brought under labor law articles eight and nine and New York City administrative code Section 19-142, the Comptroller may, on his or her own initiative or on application duly made, on notice to all parties: (i) request further information or briefing on any relevant issue or (ii) provide copies of any recalculation of Prevailing Wages and Supplements underpayment, interest and civil penalty, and request comments from the parties to the hearing before issuing an order. Such request and any responses are part of the record.
+   (1) In cases brought under labor law articles eight and nine and New York City Administrative Code § 19-142, the Comptroller may, on his or her own initiative or on application duly made, on notice to all parties: (i) request further information or briefing on any relevant issue or (ii) provide copies of any recalculation of Prevailing Wages and Supplements underpayment, interest and civil penalty, and request comments from the parties to the hearing before issuing an order. Such request and any responses are part of the record.
 
-   (2) In cases brought under labor law articles eight and nine and New York City administrative code Section 19-142, the Comptroller may adopt, reject or modify the administrative law judge’s report and recommendation when issuing an order; such order is to be based exclusively upon the record as a whole, including facts of which official notice has been taken.
+   (2) In cases brought under labor law articles eight and nine and New York City Administrative Code § 19-142, the Comptroller may adopt, reject or modify the administrative law judge’s report and recommendation when issuing an order; such order is to be based exclusively upon the record as a whole, including facts of which official notice has been taken.
 
    (3) The Bureau files the order of the Comptroller and serves a notice of filing, with copy of the order, on every party.
 
@@ -283,7 +283,7 @@ Chapter 3: Comptroller’s Living Wage and Minimum Average Hourly Wage Law Regul
 *§ 3-01 Applicability.* ::
 
 
-These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state real property tax law Section 421-a (16)(c) and to Comptroller investigations, determinations, hearings and reports and recommendations made to City agencies under the living wage provisions of New York City administrative code Section 6-109.
+These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state real property tax law § 421-a(16)(c) and to Comptroller investigations, determinations, hearings and reports and recommendations made to City agencies under the living wage provisions of New York City Administrative Code § 6-109.
 
 
 
@@ -303,9 +303,9 @@ Complaining Worker. “Complaining Worker” means a worker who has filed a writ
 
 Comptroller. “Comptroller” means the City of New York comptroller or the comptroller’s designee.
 
-Covered Employer. “Covered Employer” means any person or entity subject to liability for Wages and Supplements under real property tax law Section 421-a (16)(c) or New York city administrative code Section 6-109.
+Covered Employer. “Covered Employer” means any person or entity subject to liability for Wages and Supplements under real property tax law § 421-a(16)(c) or New York City Administrative Code § 6-109.
 
-Covered Work. “Covered Work” means any work that is subject to the requirements of real property tax law Section 421-a (16)(c) or New York city administrative code Section 6-109.
+Covered Work. “Covered Work” means any work that is subject to the requirements of real property tax law § 421-a(16)(c) or New York City Administrative Code § 6-109.
 
 Covered Worker. “Covered Worker” means any person who performs Covered Work.
 
@@ -313,7 +313,7 @@ Daily Sign-In Log. “Daily Sign-In Log” means a daily attendance record in th
 
 Document. “Document” means records in any form or electronically stored information, including writings, graphs, charts and other data or data compilations stored in any medium.
 
-Wage and Supplement. “Wage and Supplement” means Living Wage and Health Benefits or Health Benefits Supplement Rate as defined in New York City administrative code Section 6-109(b), or minimum average hourly wage as set forth in real property tax law Section 421-a (16)(c).
+Wage and Supplement. “Wage and Supplement” means Living Wage and Health Benefits or Health Benefits Supplement Rate as defined in New York City Administrative Code § 6-109(b), or minimum average hourly wage as set forth in real property tax law § 421-a(16)(c).
 
 Worker Notice Poster. “Worker Notice Poster” means a notice in the form provided on the comptroller’s website detailing the Wage and Supplement due for Covered Work performed on a particular project, contract or building.
 
@@ -347,7 +347,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 (d) Each Covered Employer must post a Worker Notice Poster in a prominent and accessible place at each project, contract or building on which it performs Covered Work. The Worker Notice Poster must set forth the Wages and Supplements due for the Covered Work performed on that project, contract or building.
 
-(e) Each Independent Monitor contracted under real property tax law Section 421-a (16)(c) must submit one Project Wide Certified Payroll Report to the Bureau within one year of the Completion Date for each project that involves Covered Work. The Project Wide Certified Payroll Report must attach all Contractor Certified Payroll Reports submitted to the Independent Monitor, and must be signed and affirmed to be true under penalties of perjury by the Independent Monitor, based upon a review of the information contained in the attached Contractor Certified Payroll Reports. The Project Wide Certified Payroll Report must:
+(e) Each Independent Monitor contracted under real property tax law § 421-a(16)(c) must submit one Project Wide Certified Payroll Report to the Bureau within one year of the Completion Date for each project that involves Covered Work. The Project Wide Certified Payroll Report must attach all Contractor Certified Payroll Reports submitted to the Independent Monitor, and must be signed and affirmed to be true under penalties of perjury by the Independent Monitor, based upon a review of the information contained in the attached Contractor Certified Payroll Reports. The Project Wide Certified Payroll Report must:
 
    1) Identify all Covered Employers that performed Covered Work on the project;
 
@@ -365,7 +365,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
    8) Calculate and set forth the Average Hourly Wage paid for all Covered Work on the project; and
 
-   9) If the Average Hourly Wage is less than the applicable minimum average hourly wage as set forth in real property tax law Section 421-a (16)(c), then calculate and set forth the aggregate amount of the deficiency for all Covered Workers on the project.
+   9) If the Average Hourly Wage is less than the applicable minimum average hourly wage as set forth in real property tax law § 421-a(16)(c), then calculate and set forth the aggregate amount of the deficiency for all Covered Workers on the project.
 
 
 
@@ -377,9 +377,9 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 *§ 3-04 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.* ::
 
 
-(a) The Bureau investigates and determines underpayments of Living Wage and Health Benefits or Health Benefits Supplement Rate by Covered Employers under New York City administrative code Section 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue.
+(a) The Bureau investigates and determines underpayments of Living Wage and Health Benefits or Health Benefits Supplement Rate by Covered Employers under New York City Administrative Code § 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue.
 
-(b) The Bureau investigates and determines liability for underpayments of minimum average hourly wage by Covered Employers under real property tax law Section 421-a (16)(c) for Covered Work on a project, provided such compliance investigation is commenced within one year of the Completion Date of the project.
+(b) The Bureau investigates and determines liability for underpayments of minimum average hourly wage by Covered Employers under real property tax law § 421-a(16)(c) for Covered Work on a project, provided such compliance investigation is commenced within one year of the Completion Date of the project.
 
 (c) The Bureau may decline to investigate and determine underpayments of Wages and Supplements if the Complaining Worker or the Complaining Worker’s representative has participated in any other legal proceeding to recover the same unpaid Wages and Supplements that are the subject of the complaint.
 
@@ -393,11 +393,11 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 (h) If a Covered Employer failed to keep or provide to the Bureau in a timely manner accurate records as required by 44 RCNY § 3-03(a), the Bureau is permitted to calculate underpayments of Wages and Supplements due to Covered Workers by using the best available evidence and the burden shifts to the Covered Employer to negate the reasonableness of the Bureau’s calculations. In such case, the amount and extent of underpayment is a matter of reasonable inference and may be based upon the statements of Covered Workers.
 
-(i) The Bureau may resolve a compliance determination by stipulation of settlement with a Covered Employer, which includes: (i) findings and assessments as to the underpayment of Wages and Supplements, (ii) findings as to the willfulness of the violation, (iii) assessments of interest and, (iv) in cases brought under New York city administrative code Section 6-109 only, assessment of a civil penalty.
+(i) The Bureau may resolve a compliance determination by stipulation of settlement with a Covered Employer, which includes: (i) findings and assessments as to the underpayment of Wages and Supplements, (ii) findings as to the willfulness of the violation, (iii) assessments of interest and, (iv) in cases brought under New York city Administrative Code § 6-109 only, assessment of a civil penalty.
 
-(j) Stipulations of settlement resolving compliance determinations under real property tax law Section 421-a (16)(c) are endorsed by the Comptroller and have the effect of an order of the Fiscal Officer under that statute.
+(j) Stipulations of settlement resolving compliance determinations under real property tax law § 421-a(16)(c) are endorsed by the Comptroller and have the effect of an order of the Fiscal Officer under that statute.
 
-(k) Stipulations of settlement resolving compliance investigations under New York City administrative code Section 6-109 must be endorsed by the contracting agency in order to have final effect under that statute.
+(k) Stipulations of settlement resolving compliance investigations under New York City Administrative Code § 6-109 must be endorsed by the contracting agency in order to have final effect under that statute.
 
 (l) Interest.
 
@@ -417,7 +417,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 *§ 3-05 Hearings, Reports and Recommendations and Orders.* ::
 
 
-(a) Designation. All hearings required by New York real property tax law Section 421-a (16)(c) and New York City administrative code Section 6-109 are held by the office of administrative trials and hearings trials division.
+(a) Designation. All hearings required by New York real property tax law § 421-a(16)(c) and New York City Administrative Code § 6-109 are held by the office of administrative trials and hearings trials division.
 
 (b) Discovery. Each party must provide to all other parties, no later than ten business days before trial: (i) the names of all witnesses the party expects to present at trial, (ii) copies of all Documents or other exhibits the party expects to introduce at trial, (iii) copies of all Documents provided by each Complaining Worker and (iv) copies of all statements, in any form, provided by each Covered Employer that is a party to the hearing.
 
@@ -431,11 +431,11 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
    (1) Within a reasonable time after the conclusion of the hearing, the administrative law judge issues a written report, including proposed findings of fact and conclusions of law, and recommendation as to the order.
 
-   (2) In cases brought under real property tax law Section 421-a (16)(c), the administrative law judge forwards the report and recommendation to the Comptroller for consideration and the Comptroller issues an order.
+   (2) In cases brought under real property tax law § 421-a(16)(c), the administrative law judge forwards the report and recommendation to the Comptroller for consideration and the Comptroller issues an order.
 
-   (3) In cases brought under New York city administrative code Section 6-109, the administrative law judge forwards the report and recommendation to the contracting agency for consideration, and the contracting agency issues an order.
+   (3) In cases brought under New York City Administrative Code § 6-109, the administrative law judge forwards the report and recommendation to the contracting agency for consideration, and the contracting agency issues an order.
 
-(e) Orders under real property tax law Section 421-a (16)(c).
+(e) Orders under real property tax law § 421-a(16)(c).
 
    (1) The Comptroller may, on his or her own initiative or on application duly made, on notice to all parties: (i) request further information or briefing on any relevant issue or (ii) provide copies of any recalculation of Wages and Supplements underpayment and interest, and request comments from the parties to the hearing before issuing an order. Such request and any responses are part of the record.
 

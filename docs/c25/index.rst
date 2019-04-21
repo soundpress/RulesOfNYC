@@ -1,6 +1,19 @@
 Title 42: Department of Probation
 ===================================================
 
+Chapter 2: Adjudications
+--------------------------------------------------
+
+
+
+*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.* ::
+
+
+New York City Department of Probation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner of the Department of Probation.
+
+
+
+
 Chapter 1: Procedure For Obtaining Pre-Sentence Reports
 --------------------------------------------------
 
@@ -9,7 +22,9 @@ Chapter 1: Procedure For Obtaining Pre-Sentence Reports
 *§ 1-01 Requests for Records.* ::
 
 
-The request for such records shall be in writing, indicating the case name and appellate court where pending, submitted by the subject-defendant, counsel on appeal, or the Assistant District Attorney, or by order of the sentencing court or by subpoena and directed to the New York City Department of Probation, Office of the General Counsel, 115 Leonard Street, New York, N.Y. 10013. In order to identify the correct records, the request shall also include the following information: Defendant's full name.
+The request for such records shall be in writing, indicating the case name and appellate court where pending, submitted by the subject-defendant, counsel on appeal, or the Assistant District Attorney, or by order of the sentencing court or by subpoena and directed to the New York City Department of Probation, Office of the General Counsel, 115 Leonard Street, New York, N.Y. 10013. In order to identify the correct records, the request shall also include the following information:
+
+Defendant's full name.
 
 NYSIS number.
 
@@ -46,19 +61,6 @@ Defendant's date of birth.
 
 
 
-Chapter 2: Adjudications
---------------------------------------------------
-
-
-
-*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.* ::
-
-
-New York City Department of Probation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner of the Department of Probation.
-
-
-
-
 Chapter 3: Fees
 --------------------------------------------------
 
@@ -67,7 +69,7 @@ Chapter 3: Fees
 *§ 3-01 Probation Administrative Fee.* ::
 
 
-(a) General. Pursuant to section 257-c of the Executive Law and section 9-201 of the Administrative Code of the City of New York, any individual currently serving or who shall be sentenced to a period of probation in New York City upon conviction of any crime under article thirty-one of the Vehicle and Traffic Law shall pay an administrative fee of thirty dollars per month to the New York City Department of Probation.
+(a) General. Pursuant to § 257-c of the Executive Law and § 9-201 of the Administrative Code of the City of New York, any individual currently serving or who shall be sentenced to a period of probation in New York City upon conviction of any crime under article thirty-one of the Vehicle and Traffic Law shall pay an administrative fee of thirty dollars per month to the New York City Department of Probation.
 
 (b) Collection of the Probation Administrative Fee. The probation administrative fee shall be paid on the first of every month, commencing on November 1, 2010. The fee shall be payable by money order, certified check or cashier's check made out to the New York City Department of Probation or any electronic, credit card or debit card payment method that the New York City Department of Probation develops the capacity to accept. The probationer shall include his or her case name and case number on the money order or check. The fee shall be sent to:
 

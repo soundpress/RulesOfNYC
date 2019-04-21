@@ -120,7 +120,7 @@ Chapter 2: Burial Claims
 
 (a) The laws of the state of New York require that New York City be responsible for the burial of poor people who reside here. New York City meets these requirements in two ways. For those deceased persons who do not have a friend or relative who is willing to arrange for burial, the deceased is interred in New York City's burial ground (known as "Potter's Field"). For those deceased persons who have a friend or relative who wishes to arrange for burial through a funeral director, New York City will help pay burial expenses if there is no legally responsible relative living with the deceased at the time of death or prior to the institutionalization of the deceased who is financially able to pay for the burial. These regulations explain when and how much New York City will pay for the burial expenses when the funeral was arranged by a friend or relative.
 
-(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
+(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in 68 RCNY § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
 
 
 
@@ -130,7 +130,7 @@ Chapter 2: Burial Claims
 *§ 2-02 Definitions.* ::
 
 
-Applicant. An applicant is a relative or friend of the indigent decedent who has authorized or provided for the burial of an indigent person, has signed the prescribed form seeking assistance for burial expenses, and has hand-delivered the signed application to personnel of the Burial Claims Unit. A legally responsible relative who resided with the deceased prior to the deceased's institutionalization or at the time of death must be the applicant, for that deceased individual. Except for Organizational Friends, as defined in § 2-02 "Friend" (2), applicants or their authorized representatives must appear in person at the Burial Claims Unit of the Human Resources Administration to apply for benefits.
+Applicant. An applicant is a relative or friend of the indigent decedent who has authorized or provided for the burial of an indigent person, has signed the prescribed form seeking assistance for burial expenses, and has hand-delivered the signed application to personnel of the Burial Claims Unit. A legally responsible relative who resided with the deceased prior to the deceased's institutionalization or at the time of death must be the applicant, for that deceased individual. Except for Organizational Friends, as defined in 68 RCNY § 2-02 "Friend" (2), applicants or their authorized representatives must appear in person at the Burial Claims Unit of the Human Resources Administration to apply for benefits.
 
 Application. An application is an action by which a person indicates his or her desire to receive a grant for burial expenses through signing and hand-delivering the prescribed form to personnel of the Burial Claims Unit.
 
@@ -140,23 +140,23 @@ Burial expenses. Burial expenses mean any cost related to the funeral or burial 
 
 Friend. A friend may be either an (1) individual; or (2) a charitable and/or religious organization.
 
-   (1) Individual friend. A friend is any person who, prior to the decedent's death, maintained such regular contact with the deceased as to be familiar with the decedent's activities, health and religious beliefs. Such "friend" shall present a sworn, notarized statement stating the facts and circumstances upon which the claim that he is a "friend" is based. The following persons are not "friends" of the deceased for purposes of these regulations: Funeral directors and employees of the funeral home through whom funeral arrangements have or will be made; Public Administrators, acting in their official capacity; hospital administrators and hospital employees acting in their official capacity; administrators and employees of all facilities set forth in Article 28 of the Public Health Law acting in their official capacity.
+(1) Individual friend. A friend is any person who, prior to the decedent's death, maintained such regular contact with the deceased as to be familiar with the decedent's activities, health and religious beliefs. Such "friend" shall present a sworn, notarized statement stating the facts and circumstances upon which the claim that he is a "friend" is based. The following persons are not "friends" of the deceased for purposes of these regulations: Funeral directors and employees of the funeral home through whom funeral arrangements have or will be made; Public Administrators, acting in their official capacity; hospital administrators and hospital employees acting in their official capacity; administrators and employees of all facilities set forth in Article 28 of the Public Health Law acting in their official capacity.
 
-   (2) Organizational friend. A charitable and/or religious organization may qualify as an "organizational friend" if the New York City Department of Social Services gives advance approval of such status based on the organization's satisfactorily meeting the following criteria:
+(2) Organizational friend. A charitable and/or religious organization may qualify as an "organizational friend" if the New York City Department of Social Services gives advance approval of such status based on the organization's satisfactorily meeting the following criteria:
 
-      (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
+   (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
 
-      (ii) Part of the organization's function is to bury indigent persons;
+   (ii) Part of the organization's function is to bury indigent persons;
 
-      (iii) The organization's principal place of business is in New York City;
+   (iii) The organization's principal place of business is in New York City;
 
-      (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) of the United States Internal Revenue Code;
+   (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) of the United States Internal Revenue Code;
 
-      (v) No board member or officer of the organization is a funeral home director with which the organization does business;
+   (v) No board member or officer of the organization is a funeral home director with which the organization does business;
 
-      (vi) A substantial amount of the organization's funding for burial purposes comes from private sources; and
+   (vi) A substantial amount of the organization's funding for burial purposes comes from private sources; and
 
-      (vii) Annually, the organization makes its books and records available to the New York City Department of Social Services for inspection, review and audit, if necessary.
+   (vii) Annually, the organization makes its books and records available to the New York City Department of Social Services for inspection, review and audit, if necessary.
 
 Funeral directing. Funeral directing means the care and disposal of the body of a deceased person and/or the preserving, "disinfecting and preparing by embalming or otherwise, the body of a deceased person for funeral services, transportation, burial or cremation; and/or funeral directing or embalming as present known, pursuant to § 3400(d) of the Public Health Law or in accordance with the statutes of the funeral director's home state.
 
@@ -192,7 +192,7 @@ Supplemental Security Income. Supplemental Security Income, or SSI, means the re
 
 (c) The applicant shall receive a prescribed application form. An applicant shall complete the application form before any assistance shall be authorized. All documents required to verify eligibility for and the amount of benefits must be submitted within sixty days of the application for benefits. Failure to provide such documents within the time set forth in this section shall result in a finding of ineligibility and a denial of the application except as stated in this subdivision (c). An applicant who cannot submit the documentation within sixty days of the date of application shall inform the Burial Claims Unit in writing of the delay and the reason therefor within the sixty-day period. Extensions of this period shall be granted at the discretion of the Burial Claims Unit.
 
-(d) Applications on behalf of indigents who were in receipt of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance at the date of death may be made prior to burial and eligibility for a grant for burial expenses will be determined within two working days of application. If the applicant is a legally responsible relative, (s)he must also be a recipient of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance. If eligibility is found, the applicant shall be issued a pre-approval letter addressed to the funeral director acknowledging eligibility subject to the monetary and documentation requirements set forth in these regulations. Authorization for payment of burial expenses shall be deferred until receipt of all documentation. Such documentation must be supplied within 60 days of application except as described in § 2-03(c). The Burial Claims Unit will make every effort to authorize payment within two weeks of receipt of all necessary documentation in cases under this subdivision (d).
+(d) Applications on behalf of indigents who were in receipt of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance at the date of death may be made prior to burial and eligibility for a grant for burial expenses will be determined within two working days of application. If the applicant is a legally responsible relative, (s)he must also be a recipient of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance. If eligibility is found, the applicant shall be issued a pre-approval letter addressed to the funeral director acknowledging eligibility subject to the monetary and documentation requirements set forth in these regulations. Authorization for payment of burial expenses shall be deferred until receipt of all documentation. Such documentation must be supplied within 60 days of application except as described in 68 RCNY § 2-03(c). The Burial Claims Unit will make every effort to authorize payment within two weeks of receipt of all necessary documentation in cases under this subdivision (d).
 
 (e) Application on behalf of indigents who were not in receipt of public assistance from the Human Resources Administration of New York or Supplemental Security Assistance at the date of death are subject to further eligibility verification. The Burial Claims Unit will make every effort to make a final determination of eligibility for payment within thirty days of receipt of all necessary documentation required in this regulation. Applicants who authorized the burial of public assistance or SSI recipients and who did not apply before burial as allowed in subdivision (d), are subject to this subdivision (e).
 
@@ -351,7 +351,9 @@ The purpose of these rules is to establish an evaluation procedure for employmen
 *§ 3-02 Definitions.* ::
 
 
-As used in these rules, the following terms shall have the following meanings: Cohort. A group that includes all public assistance recipients who are or have been enrolled in an employment training program, whose scheduled date of completion of that program is within a specific one-year period, but does not include those recipients who withdrew or were otherwise removed from the program within thirty days of their date of enrollment in the program. Recipients whose original scheduled date of completion would place them within a cohort, but whose date of completion has been rescheduled with the approval of OES, shall not be included in that cohort.
+As used in these rules, the following terms shall have the following meanings:
+
+Cohort. A group that includes all public assistance recipients who are or have been enrolled in an employment training program, whose scheduled date of completion of that program is within a specific one-year period, but does not include those recipients who withdrew or were otherwise removed from the program within thirty days of their date of enrollment in the program. Recipients whose original scheduled date of completion would place them within a cohort, but whose date of completion has been rescheduled with the approval of OES, shall not be included in that cohort.
 
 Date of enrollment. The first date upon which a public assistance recipient is scheduled to attend a class at an employment training program.
 
@@ -383,7 +385,7 @@ Paid employment. Lawful employment for which a person is paid on an hourly, per 
 
    (3) It shall establish, and report to OES, a scheduled date of completion for each public assistance recipient enrolled in its program. The completion date shall not be later than two years from the date of enrollment of any public assistance recipient, except as may otherwise be required pursuant to applicable law. This requirement shall apply with respect to public assistance recipients who enroll on or after May 1, 1996 and to recipients who have enrolled prior to such date and are continuing their studies in the program as of that date.
 
-   (4) If it has been subject to an employment placement rate review, as described in section 3-04 of these rules, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
+   (4) If it has been subject to an employment placement rate review, as described in 68 RCNY § 3-04, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
 
 (b) To be approved as an employment training program for which a public assistance recipient may receive training-related expenses, or a full or partial exemption from requirements to participate in other OES work-related activities, a literacy program must meet the following conditions:
 
@@ -395,7 +397,7 @@ Paid employment. Lawful employment for which a person is paid on an hourly, per 
 
    (3) It shall establish, and report to OES, a scheduled date of completion for each public assistance recipient enrolled in its program. The completion date shall not be later than two years from the date of enrollment of any public assistance recipient, except as may otherwise be required pursuant to applicable law. This requirement shall apply with respect to public assistance recipients who enroll on or after May 1, 1996, and to recipients who have enrolled prior to such date and are continuing their studies in the program as of that date.
 
-   (4) If it has been subject to an employment placement rate review, as described in section 3-04 of these rules, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
+   (4) If it has been subject to an employment placement rate review, as described in 68 RCNY § 3-04, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
 
 (c) To be approved as an employment training program for which a public assistance recipient may receive training-related expenses, or a full or partial exemption from requirements to participate in other OES work-related activities, a job placement program must meet the following conditions:
 
@@ -407,7 +409,7 @@ Paid employment. Lawful employment for which a person is paid on an hourly, per 
 
    (3) It shall establish, and report to OES, a scheduled date of completion for each public assistance recipient enrolled in its program. The completion date shall not be later than two years from the date of enrollment of any public assistance recipient, except as may otherwise be required pursuant to applicable law. This requirement shall apply with respect to public assistance recipients who enroll on or after May 1, 1996, and to recipients who have enrolled prior to such date and are continuing their studies in the program as of that date.
 
-   (4) If it has been subject to an employment placement rate review, as described in section 3-04 of these rules, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
+   (4) If it has been subject to an employment placement rate review, as described in 68 RCNY § 3-04, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
 
 (d) To be approved as an employment training program for which a public assistance recipient may receive training-related expenses, or a full or partial exemption from requirements to participate in other OES work-related activities, an associate's degree or other post-secondary two-year degree program must meet the following conditions:
 
@@ -419,7 +421,7 @@ Paid employment. Lawful employment for which a person is paid on an hourly, per 
 
    (4) It establishes, and reports to OES, a scheduled date of completion for each public assistance recipient enrollee. The completion date shall not be later than two years from the date of enrollment of any public assistance recipient, except as may otherwise be required pursuant to applicable law.
 
-   (5) If it has been subject to an employment placement rate review, as described in section 3-04 of these rules, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
+   (5) If it has been subject to an employment placement rate review, as described in 68 RCNY § 3-04, it has a current Certificate of Approval Following Employment Placement Rate Review or a current Certificate of Conditional Approval Following Employment Placement Rate Review.
 
 
 
@@ -431,21 +433,21 @@ Paid employment. Lawful employment for which a person is paid on an hourly, per 
 
 (a)  Once every six months, an employment training program which has had sufficient public assistance recipient enrollees to form a cohort, as described herein, shall be subject to an employment placement rate review to determine its continued eligibility for approval, as follows:
 
-   (1) For vocational training programs, the minimum size of a cohort, as defined in section 3-02 of these rules, shall be 25. A vocational training program shall pass the employment placement rate review if 40% of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed.
+   (1) For vocational training programs, the minimum size of a cohort, as defined in 68 RCNY § 3-02, shall be 25. A vocational training program shall pass the employment placement rate review if 40% of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed.
 
-   (2) For literacy programs, the minimum size of a cohort, as defined in section 3-02 of these rules, shall be 50. A literacy program shall pass the employment placement rate review if the following percentage of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed:
+   (2) For literacy programs, the minimum size of a cohort, as defined in 68 RCNY § 3-02, shall be 50. A literacy program shall pass the employment placement rate review if the following percentage of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed:
 
       (i) For a review conducted in 1996, 10%;
 
       (ii) For a review conducted in 1997 or thereafter, 15%.
 
-   (3) For job placement programs, the minimum size of a cohort, as defined in section 3-02 of these rules, shall be 25. A job placement program shall pass the employment placement rate review if the following percentage of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed:
+   (3) For job placement programs, the minimum size of a cohort, as defined in 68 RCNY § 3-02, shall be 25. A job placement program shall pass the employment placement rate review if the following percentage of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed:
 
       (i) For a review conducted in 1996, 40%;
 
       (ii) For a review conducted in 1997 or thereafter 50%.
 
-   (4) For associate's degree and other post-secondary two-year degree programs, the minimum size of a cohort, as defined in section 3-02 of these rules, shall be 25. An associate's degree program or other post-secondary two-year degree program shall pass the employment placement rate review if the following percentage of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed:
+   (4) For associate's degree and other post-secondary two-year degree programs, the minimum size of a cohort, as defined in 68 RCNY § 3-02, shall be 25. An associate's degree program or other post-secondary two-year degree program shall pass the employment placement rate review if the following percentage of persons in the cohort have secured paid employment at any time following their date of enrollment up to the date the employment placement rate review is completed:
 
       (i) For a review conducted in 1996, 25%;
 
@@ -527,9 +529,9 @@ Paid employment. Lawful employment for which a person is paid on an hourly, per 
 
 (b) OES will review and make a determination of whether to approve the request of a public assistance recipient to participate in an employment training activity according to the following criteria and applicable State regulations:
 
-   (1) The employment training program must be approved as described in section 3-03, and must not be under suspension for failure to comply with any provision of these rules.
+   (1) The employment training program must be approved as described in 68 RCNY § 3-03, and must not be under suspension for failure to comply with any provision of these rules.
 
-   (2) In the case of an employment training program for which OES has granted a conditional approval, a public assistance recipient's request will be approved only if the number of public assistance recipients who have enrolled in the program since the date of issuance of the Certificate of Conditional Approval is below the maximum number allowed as set forth in subdivision i of section 3-04.
+   (2) In the case of an employment training program for which OES has granted a conditional approval, a public assistance recipient's request will be approved only if the number of public assistance recipients who have enrolled in the program since the date of issuance of the Certificate of Conditional Approval is below the maximum number allowed as set forth in subdivision i of 68 RCNY § 3-04.
 
    (3) If the public assistance recipient has already received training related expenses to attend a total of twenty-four months of training in one or more employment training programs (regardless of whether such twenty-four months were interrupted by any period of time during which the recipient was not enrolled in an employment training program), OES may, at its discretion, and subject to applicable federal and State law and rules, allow the recipient to continue receiving training related expenses and/or exemption from other work-related activities on condition that the recipient continues to make satisfactory progress; withdraw approval for further training related expenses or a further exemption; or require that the recipient participate in other OES work-related activities while the recipient remains in the program and continues to receive training related expenses. Nothing herein shall be deemed to limit the ability of OES to assign a public assistance recipient to work-related activities, consistent with applicable law.
 
@@ -567,435 +569,9 @@ OES shall not approve the application for training related expenses and/or an ex
 *§ 3-09 Consequences of Enrollment in a Program that Becomes Disapproved.* ::
 
 
-(a)  In the event that an employment training program becomes disapproved for failure to pass the employment placement rate review, or for the reasons set forth in subdivisions b or c of section 3-05, a public assistance recipient who is already enrolled in the program at the time it is disapproved shall continue to receive training related expenses and/or be excused from other OES work-related activities until the earlier of the recipient's training completion date, or the date when the recipient withdraws from the program or OES withdraws approval pursuant to paragraph 5 of subdivision b of section 3-07.
+(a)  In the event that an employment training program becomes disapproved for failure to pass the employment placement rate review, or for the reasons set forth in subdivisions b or c of 68 RCNY § 3-05, a public assistance recipient who is already enrolled in the program at the time it is disapproved shall continue to receive training related expenses and/or be excused from other OES work-related activities until the earlier of the recipient's training completion date, or the date when the recipient withdraws from the program or OES withdraws approval pursuant to paragraph 5 of subdivision b of 68 RCNY § 3-07.
 
-(b) In the event that an employment training program becomes disapproved pursuant to subdivision a of section 3-05, a public assistance recipient enrolled in such program shall not receive further training related expenses or continue to be excused from other OES work-related activities. Such a recipient may immediately submit a School Enrollment Form for another employment training program.
-
-
-
-
-Chapter 4: Distribution of Food and Administrative Funds To Emergency Food Providers
---------------------------------------------------
-
-
-
-*§ 4-01 Definitions.* ::
-
-
-EFAP. EFAP shall stand for the Emergency Food Assistance Program. The City-funded program aids emergency food providers by supplying them with food and administrative funds.
-
-Food provider. A "food provider" shall mean a food pantry, soup kitchen or other similarly constituted non-profit food program which provides food to people based on their having inadequate income to meet their immediate need for food, and which has been certified by the Human Resources Administration to participate in EFAP.
-
-Food pantry. A "food pantry" distributes food packages containing canned and other non-perishable food items which are to be prepared and eaten at home. More than one meal per individual is provided in the food package.
-
-Soup kitchen. A "soup kitchen" serves meals to individuals in a congregate setting or through other direct distribution (i.e., van distribution of meals to homeless in parks and other public places). Typically, one meal per individual is served.
-
-Cycle. A "cycle" is a six month period.
-
-Administration. The "Administration" shall mean the Human Resources Admin- istration.
-
-EFAP Advisory Group. The EFAP Advisory Group shall consist of persons active or concerned with the operation of emergency food programs. The group is chosen by the Administration for advice on the implementation of the Emergency Food Assistance Program.
-
-
-
-
-
-
-*§ 4-02 [;Eligibility];.* ::
-
-
-To be eligible to receive funds from EFAP, each food provider must meet the following eligibility criteria:
-
-(a) no charges or fees may be assessed for the food provided through EFAP; (b) the provider must have sources of food other than the Administration;
-
-(c) the provider must serve a minimum of 100 meals per month;
-
-(d) EFAP food cannot be used to serve an organization's "institutional resident" population. (Residents of institutions are those individuals entitled to at least two meals per day as part of the institutions normal service. Examples: Homeless Shelters, Group Homes, Treatment/Rehabilitation Facilities, etc.);
-
-(e) all EFAP food must be properly and securely stored; it cannot be stored, prepared or distributed from a private home, apartment or other personal residence;
-
-(f) the provider must agree to submit a monthly service report which records the number of individuals served per month.
-
-(g) EFAP food and/or funds cannot be used to supplant funds provided through any government contract to provide meals to a specific population (i.e.: Senior Centers or nonresidential treatment programs with government contracts to provide meals).
-
-(h) the provider shall not require attendance at any religious service or other program activity as a prerequisite for receiving emergency food.
-
-
-
-
-
-
-*§ 4-03 [;Certification Requirements];.* ::
-
-
-A food provider must be certified by the Administration. Certification requirements include:
-
-(a) completion of the EFAP Application Form;
-
-(b) satisfaction of the requirements of § 4-02 above;
-
-(c) receipt of a site visit by an Administration employee. An Annual recertification visit is also required.
-
-(d) signing an agreement to abide by all EFAP requirements.
-
-
-
-
-
-
-*§ 4-04 [;Food Allocation and Administrative Funds, Biannual Review];.* ::
-
-
-Each food provider's food allocation and administrative funds shall be determined two times per year.
-
-
-
-
-
-
-*§ 4-05 [;Food Budget];.* ::
-
-
-The EFAP food budget will consist of two components: a food supplement and a meal budget.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - EFAP FoodSupplement
-      -  
-      - +
-      -  
-      - EFAP MealBudget
-      -  
-      - =
-      -  
-      - Total EFAP FoodBudget
-~
-
-
-
- Correspondingly each provider's food allocation may consist of two components: a food supplement (discretionary) and a meal budget.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Food Supplement(Discretionary)
-      -  
-      - +
-      -  
-      - Meal Budget
-      -  
-      - =
-      -  
-      - A Provider's FoodAllocation
-~
-
-
-
-
-
-(a) The EFAP food supplement per cycle shall be equal to no more than ten percent of the total EFAP Food Budget. A food supplement may be awarded to a provider based on the recommendations of the EFAP Advisory Group. These funds shall address needs that could not easily be factored into a set formula. It is envisioned that the funds shall be used to provide food money to: underserved communities by giving additional support to current EFAP providers to expand their service or to enable the Administration to recruit new service providers; programs providing services to special populations, e.g., immigrants and people with HIV; and, to fund special projects. The EFAP food supplement shall only be distributed to groups which meet the definition of "food provider" established in § 4.01 and which meet the eligibility criteria established in § 4.02.
-
-(b) The EFAP meal budget wil be equal to the total EFAP food budget minus the EFAP food supplement.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Total EFAP FoodBudget
-      -  
-      - -
-      -  
-      - EFAP FoodSupplement
-      -  
-      - =
-      -  
-      - EFAP MealBudget
-~
-
-
-
- Each provider will receive a meal budget per cycle based on its number of funded meals. To arrive at a provider's meal budget, a series of calculations will be made. First, the total number of funded meals for all programs will be calculated by determining the number of meals served per program; determining the number of funded meals per program through the application of the sliding scale, as specified in paragraph (2) of this subdivision; and then adding together the number of funded meals for all programs. The sum of the funded meals for all programs will be divided into the EFAP meal budget yielding the dollar value of each funded meal.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - EFAP MealBudget
-      -  
-      - &amp;divide;
-      -  
-      - Total Number ofFunded Meals forAll Providers
-      -  
-      - =
-      -  
-      - Dollar Value ofEach Funded Meal
-~
-
-
-
- Finally, the number of funded meals for a provider is multiplied by the dollar value of each funded meal providing the provider with its meal budget.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - # of Funded Mealsfor Provider
-      -  
-      - ×
-      -  
-      - Dollar Valueof EachFunded Meal
-      -  
-      - =
-      -  
-      - A Provider'sMeal Budget
-~
-
-
-
-
-
-   (1) Food providers will continue to report the number of individuals served per month. The new formula will take into account that food pantries provide many meals per individual; while soup kitchens generally serve one meal per individual. The new formula will convert individuals served to meals served according to the following formulae:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - The Total # of IndividualsServed in each Soup Kitchenfor Twelve Month Period
-      -  
-      - =
-      -  
-      - Total # of Meals Servedin each Soup Kitchen forTwelve Month Period
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - The Total # of IndividualsServed in Each FoodPantry for Twelve MonthPeriod
-      -  
-      - ×
-      -  
-      - 3 Meals perIndividualServed
-      -  
-      - =
-      -  
-      - Total # of MealsServed in Each FoodPantry for TwelveMonth Period
-~
-
-
-
-
-
-   (2) The number of meals served per provider will be weighted so that smaller providers receive more money per meal served, while at the same time the formula provides additional money for each meal served, albeit at a declining rate. All providers will be ranked according to the number of meals served during a twelve month period. Seven meal categories with minimum and maximum number of meals served will be established. The meal categories will be set as follows. First all providers will be sorted according to the total number of meals served within the twelve month period. The smallest ten percent of the providers will set the first category (i.e., the number of meals served by the provider that falls at the tenth percentile will be the maximum number of meals in the first category). The second category will begin with one more meal than the maximum number of meals for the first category. The upper limit of this category will be set at the number of meals served by the provider that falls at the twentieth percentile. The remaining five meal catgories will be set according to similar guidelines with the maximum number of meals included in each category being set at 30%, 80%, 87%, 94% and 100% respectively. The meals served by a provider are then multiplied by the appropriate meal factor for each category in order to determine the sum total of funded meals for each program. The following chart lists the percentage of programs within each meal category and the meal factor to be using in calculating the funded meals in each category.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Meal Category 
-      -  
-      - Percent of Programs within category 
-      -  
-      - Meal Factor 
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 1 
-      -  
-      - 10% 
-      -  
-      -   8 
-      -  
-    * -  
-      - 2 
-      -  
-      - 10% 
-      -  
-      -   4 
-      -  
-    * -  
-      - 3 
-      -  
-      - 10% 
-      -  
-      -   2 
-      -  
-    * -  
-      - 4 
-      -  
-      - 50% 
-      -  
-      -   1 
-      -  
-    * -  
-      - 5 
-      -  
-      -   7% 
-      -  
-      -  .5 
-      -  
-    * -  
-      - 6 
-      -  
-      -   7% 
-      -  
-      -   .25 
-      -  
-    * -  
-      - 7 
-      -  
-      -   6% 
-      -  
-      - .125 
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- For example if the first three meal categories were:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Meal Category 
-      -  
-      - Meal Factor 
-      -  
-    * -  
-      - 0-2,799 meals 
-      -  
-      - 8 
-      -  
-    * -  
-      - 2,800-4,999 meals 
-      -  
-      - 4 
-      -  
-    * -  
-      - 5,000-6,699 meals 
-      -  
-      - 2 
-      - 
-~
-
-
-
- One would determine the total number of funded meals for a provider serving 6,000 meals per year as follows:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 2,799 × 8  =
-      -  
-      - 22,392
-    * -  
-      - (4,999-2,800) × 4  =
-      -  
-      -   8,796
-    * -  
-      - (6,000-5,000) × 2  =
-      -  
-      -   2,000
-    * -  
-      -  
-      -  
-      - 33,188 funded meals
-~
-
-
-
- The total number of funded meals is then multiplied by the dollar value of each funded meal to determine a provider's meal budget.
-
-
-
-
-
-
-*§ 4-06 [;Allocation of Administrative Funds];.* ::
-
-
-Each food provider shall be eligible to receive administrative funds to be used to cover approved operating expenses. Administrative funds shall be allocated in a way that takes into account the fact that soup kitchens generally have greater operating expenses than food pantries. Administrative funds for each food provider shall be allocated by using their dollars budgeted in the EFAP administrative line. Soup kitchens shall be eligible for twice as much administrative funding as food pantries due to significantly higher non-food costs associated with congregate meal preparation.
-
-
-
-
-
-
-*§ 4-07 [;Modifications];.* ::
-
-
-The amount of food and administrative funds allocated to each provider may be changed by the Human Resources Administration for any allocation period, regardless of the above formulae, based on various factors, including, but not limited to:
-
-(a) failure to submit monthly service reports;
-
-(b) submission of inaccurate monthly service reports;
-
-(c) a change in the provider's status from active to on-hold or closed;
-
-(d) a request from the provider that its allocation be reduced.
-
-(e) other factors dictating the need to reallocate funds, including, but not limited to changing demographics or changed demographic projections, or geographic im- balances.
+(b) In the event that an employment training program becomes disapproved pursuant to subdivision a of 68 RCNY § 3-05, a public assistance recipient enrolled in such program shall not receive further training related expenses or continue to be excused from other OES work-related activities. Such a recipient may immediately submit a School Enrollment Form for another employment training program.
 
 
 
@@ -1088,13 +664,349 @@ Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptom
 *§ 5-02 Rent Limitation.* ::
 
 
-(a) In accordance with section 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
+(a) In accordance with § 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
 
 (b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
 
 (c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
 
 (d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
+
+
+
+
+Chapter 4: Distribution of Food and Administrative Funds To Emergency Food Providers
+--------------------------------------------------
+
+
+
+*§ 4-01 Definitions.* ::
+
+
+EFAP. EFAP shall stand for the Emergency Food Assistance Program. The City-funded program aids emergency food providers by supplying them with food and administrative funds.
+
+Food provider. A "food provider" shall mean a food pantry, soup kitchen or other similarly constituted non-profit food program which provides food to people based on their having inadequate income to meet their immediate need for food, and which has been certified by the Human Resources Administration to participate in EFAP.
+
+Food pantry. A "food pantry" distributes food packages containing canned and other non-perishable food items which are to be prepared and eaten at home. More than one meal per individual is provided in the food package.
+
+Soup kitchen. A "soup kitchen" serves meals to individuals in a congregate setting or through other direct distribution (i.e., van distribution of meals to homeless in parks and other public places). Typically, one meal per individual is served.
+
+Cycle. A "cycle" is a six month period.
+
+Administration. The "Administration" shall mean the Human Resources Admin- istration.
+
+EFAP Advisory Group. The EFAP Advisory Group shall consist of persons active or concerned with the operation of emergency food programs. The group is chosen by the Administration for advice on the implementation of the Emergency Food Assistance Program.
+
+
+
+
+
+
+*§ 4-02 [Eligibility.]* ::
+
+
+To be eligible to receive funds from EFAP, each food provider must meet the following eligibility criteria:
+
+(a) no charges or fees may be assessed for the food provided through EFAP; (b) the provider must have sources of food other than the Administration;
+
+(c) the provider must serve a minimum of 100 meals per month;
+
+(d) EFAP food cannot be used to serve an organization's "institutional resident" population. (Residents of institutions are those individuals entitled to at least two meals per day as part of the institutions normal service. Examples: Homeless Shelters, Group Homes, Treatment/Rehabilitation Facilities, etc.);
+
+(e) all EFAP food must be properly and securely stored; it cannot be stored, prepared or distributed from a private home, apartment or other personal residence;
+
+(f) the provider must agree to submit a monthly service report which records the number of individuals served per month.
+
+(g) EFAP food and/or funds cannot be used to supplant funds provided through any government contract to provide meals to a specific population (i.e.: Senior Centers or nonresidential treatment programs with government contracts to provide meals).
+
+(h) the provider shall not require attendance at any religious service or other program activity as a prerequisite for receiving emergency food.
+
+
+
+
+
+
+*§ 4-03 [Certification Requirements.]* ::
+
+
+A food provider must be certified by the Administration. Certification requirements include:
+
+(a) completion of the EFAP Application Form;
+
+(b) satisfaction of the requirements of 68 RCNY § 4-02 above;
+
+(c) receipt of a site visit by an Administration employee. An Annual recertification visit is also required.
+
+(d) signing an agreement to abide by all EFAP requirements.
+
+
+
+
+
+
+*§ 4-04 [Food Allocation and Administrative Funds, Biannual Review.]* ::
+
+
+Each food provider's food allocation and administrative funds shall be determined two times per year.
+
+
+
+
+
+
+*§ 4-05 [Food Budget.]* ::
+
+
+The EFAP food budget will consist of two components: a food supplement and a meal budget.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - EFAP Food Supplement
+      - +
+      - EFAP Meal Budget
+      - =
+      - Total EFAP Food Budget 
+~
+
+
+
+ 
+
+Correspondingly each provider's food allocation may consist of two components: a food supplement (discretionary) and a meal budget.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Food Supplement (Discretionary)
+      - +
+      - Meal Budget
+      - =
+      - A Provider's Food Allocation
+~
+
+
+
+ 
+
+(a) The EFAP food supplement per cycle shall be equal to no more than ten percent of the total EFAP Food Budget. A food supplement may be awarded to a provider based on the recommendations of the EFAP Advisory Group. These funds shall address needs that could not easily be factored into a set formula. It is envisioned that the funds shall be used to provide food money to: underserved communities by giving additional support to current EFAP providers to expand their service or to enable the Administration to recruit new service providers; programs providing services to special populations, e.g., immigrants and people with HIV; and, to fund special projects. The EFAP food supplement shall only be distributed to groups which meet the definition of "food provider" established in § 4.01 and which meet the eligibility criteria established in § 4.02.
+
+(b) The EFAP meal budget wil be equal to the total EFAP food budget minus the EFAP food supplement.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Total EFAP Food Budget
+      - -
+      - EFAP Food Supplement
+      - =
+      - EFAP Meal Budget 
+~
+
+
+
+ 
+
+Each provider will receive a meal budget per cycle based on its number of funded meals. To arrive at a provider's meal budget, a series of calculations will be made. First, the total number of funded meals for all programs will be calculated by determining the number of meals served per program; determining the number of funded meals per program through the application of the sliding scale, as specified in paragraph (2) of this subdivision; and then adding together the number of funded meals for all programs. The sum of the funded meals for all programs will be divided into the EFAP meal budget yielding the dollar value of each funded meal.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - EFAP Meal Budget
+      - ÷
+      - Total Number of Funded Meals for All Providers
+      - =
+      - Dollar Value of Each Funded Meal
+~
+
+
+
+ 
+
+Finally, the number of funded meals for a provider is multiplied by the dollar value of each funded meal providing the provider with its meal budget.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - # of Funded Meals for Provider
+      - ×
+      - Dollar Value of Each Funded Meal
+      - =
+      - A Provider's Meal Budget
+~
+
+
+
+ 
+
+   (1) Food providers will continue to report the number of individuals served per month. The new formula will take into account that food pantries provide many meals per individual; while soup kitchens generally serve one meal per individual. The new formula will convert individuals served to meals served according to the following formulae:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - The Total # of Individuals Served in each Soup Kitchen for Twelve Month Period
+      - =
+      - Total # of Meals Served in each Soup Kitchen for Twelve Month Period
+~
+
+
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - The Total # of Individuals Served in Each Food Pantry for Twelve Month Period
+      - ×
+      - 3 Meals per Individual Served
+      - =
+      - Total # of Meals Served in Each Food Pantry for Twelve Month Period 
+~
+
+
+
+ 
+
+   (2) The number of meals served per provider will be weighted so that smaller providers receive more money per meal served, while at the same time the formula provides additional money for each meal served, albeit at a declining rate. All providers will be ranked according to the number of meals served during a twelve month period. Seven meal categories with minimum and maximum number of meals served will be established. The meal categories will be set as follows. First all providers will be sorted according to the total number of meals served within the twelve month period. The smallest ten percent of the providers will set the first category (i.e., the number of meals served by the provider that falls at the tenth percentile will be the maximum number of meals in the first category). The second category will begin with one more meal than the maximum number of meals for the first category. The upper limit of this category will be set at the number of meals served by the provider that falls at the twentieth percentile. The remaining five meal catgories will be set according to similar guidelines with the maximum number of meals included in each category being set at 30%, 80%, 87%, 94% and 100% respectively. The meals served by a provider are then multiplied by the appropriate meal factor for each category in order to determine the sum total of funded meals for each program. The following chart lists the percentage of programs within each meal category and the meal factor to be using in calculating the funded meals in each category.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Meal Category
+      - Percent of Programs Within Category
+      - Meal Factor 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1
+      - 10%
+      - 8
+    * - 2
+      - 10%
+      - 4
+    * - 3
+      - 10%
+      - 2
+    * - 4
+      - 50%
+      - 1
+    * - 5
+      - 7%
+      - .5
+    * - 6
+      - 7%
+      - .25
+    * - 7
+      - 6%
+      - .125
+~
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Meal Category
+      - Meal Factor
+    * - 0 - 2,799 meals
+      - 8
+    * - 2,800 - 4,999 meals
+      - 4
+    * - 5,000 - 6,699 meals
+      - 2
+~
+
+
+
+ 
+
+One would determine the total number of funded meals for a provider serving 6,000 meals per year as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 2,799 × 8 =
+      - 22,392
+    * - (4,999 - 2,800) × 4 =
+      - 8,796
+    * - (6,000 - 5,000) × 2 =
+      - 2,000
+    * -  
+      - 33,188 funded meals
+~
+
+
+
+ 
+
+The total number of funded meals is then multiplied by the dollar value of each funded meal to determine a provider's meal budget.
+
+
+
+
+
+
+*§ 4-06 [Allocation of Administrative Funds.]* ::
+
+
+Each food provider shall be eligible to receive administrative funds to be used to cover approved operating expenses. Administrative funds shall be allocated in a way that takes into account the fact that soup kitchens generally have greater operating expenses than food pantries. Administrative funds for each food provider shall be allocated by using their dollars budgeted in the EFAP administrative line. Soup kitchens shall be eligible for twice as much administrative funding as food pantries due to significantly higher non-food costs associated with congregate meal preparation.
+
+
+
+
+
+
+*§ 4-07 [Modifications.]* ::
+
+
+The amount of food and administrative funds allocated to each provider may be changed by the Human Resources Administration for any allocation period, regardless of the above formulae, based on various factors, including, but not limited to:
+
+(a) failure to submit monthly service reports;
+
+(b) submission of inaccurate monthly service reports;
+
+(c) a change in the provider's status from active to on-hold or closed;
+
+(d) a request from the provider that its allocation be reduced.
+
+(e) other factors dictating the need to reallocate funds, including, but not limited to changing demographics or changed demographic projections, or geographic im- balances.
 
 
 
@@ -1109,11 +1021,11 @@ Chapter 6: IDNYC Program
 
 For the purposes of this chapter:
 
-(a) "IDNYC Card" has the same meaning as "New York City identity card," as provided in section 3-115(a) of the Administrative Code of the City of New York.
+(a) "IDNYC Card" has the same meaning as "New York City identity card," as provided in § 3-115(a) of the Administrative Code of the City of New York.
 
 (b) "HRA" means the New York City Human Resources Administration.
 
-(c) "Resident" has the same meaning as provided in section 3-115(a) of the Administrative Code of the City of New York.
+(c) "Resident" has the same meaning as provided in § 3-115(a) of the Administrative Code of the City of New York.
 
 (d) "Caretaker" means a birth parent; adoptive parent; step parent; court-appointed guardian, custodian, or conservator; foster care parent; a sponsor of a minor appointed by the United States Department of Health and Human Services, Office of Refugee Resettlement (ORR); an employee from the New York City Administration for Children's Services (ACS), New York State Office for People with Developmental Disabilities (OPWDD), New York State Department of Health (NYS DOH), New York State Office of Mental Health (NYS OMH), New York City Department of Health and Mental Hygiene (NYC DOHMH), a designated ACS foster care agency, or an agency or facility, including a residential care facility, that is operated, licensed, certified or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH; a cohabitant of an applicant who has been determined by OPWDD to be a person with a developmental disability; an applicant's Social Security representative payee; or such other categories of individuals that HRA may designate as caretakers in the future pursuant to subdivision (f) of 68 RCNY § 6-07.
 
@@ -1181,7 +1093,7 @@ For the purposes of this chapter:
 
 (d) Except as provided in 68 RCNY § 6-06(a), all documents used to establish identity and residency must include the name of the individual whose identity and residency is being established. If any of the documents used to establish identity and residency bear a name that is not consistent with the one on the IDNYC application, the applicant must also present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change.
 
-(e) Applicants must present documents in person at an enrollment site designated by HRA in accordance with Section 3-115(b)(2) of the Administrative Code of the City of New York. IDNYC provides free on-site document translation services to applicants who provide original documents that are not in English. Original documents will be returned immediately to the applicant before they leave the enrollment center. IDNYC will not make copies of or digitally scan any documents used by applicants to establish identity or residency.
+(e) Applicants must present documents in person at an enrollment site designated by HRA in accordance with § 3-115(b)(2) of the Administrative Code of the City of New York. IDNYC provides free on-site document translation services to applicants who provide original documents that are not in English. Original documents will be returned immediately to the applicant before they leave the enrollment center. IDNYC will not make copies of or digitally scan any documents used by applicants to establish identity or residency.
 
 (f) Wherever a photo identification is required, the photo must bear a reasonable likeness to the person whose identity is being established. The person's gender identity or gender expression will not be the basis for rejection of a photo.
 
@@ -1621,7 +1533,7 @@ The following documents are worth four points and establish identity and residen
       - 1 
       - No
     * - Selective Service Registration Card
-      - A card issued by the U.S. Selective Service System to men ages 18-25, who have registered with the Selective Service.
+      - A card issued by the U.S. Selective Service System to men ages 18 - 25, who have registered with the Selective Service.
       - No 
       - 1 
       - Yes
@@ -2105,7 +2017,7 @@ For the purposes of this chapter, unless otherwise specified, the following term
 *§ 7-02 Administration of the LINC I, LINC II, and LINC III Programs.* ::
 
 
-HRA shall administer the LINC Rental Assistance Programs for Families with Children and shall make eligibility determinations in accordance with this subchapter, except that initial eligibility determinations for current shelter residents pursuant to subparagraph (C) of paragraph (1) of subdivision (a) of section 7-03 or 7-04 of this chapter, or paragraph (3) of subdivision (a) of section 7-05 of this chapter, are made by HRA's Family Independence Administration in consultation with DHS's Division of Policy and Planning and Division of Family Services.
+HRA shall administer the LINC Rental Assistance Programs for Families with Children and shall make eligibility determinations in accordance with this subchapter, except that initial eligibility determinations for current shelter residents pursuant to subparagraph (C) of paragraph (1) of subdivision (a) of 68 RCNY § 7-03 or 68 RCNY § 7-04, or paragraph (3) of subdivision (a) of 68 RCNY § 7-05, are made by HRA's Family Independence Administration in consultation with DHS's Division of Policy and Planning and Division of Family Services.
 
 
 
@@ -2137,9 +2049,9 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
       (F) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services.
 
-   (2) The number of eligible households that will be certified to receive LINC I rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of section 7-09 of this chapter, upon finding that a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and that appropriate funding is available to provide LINC I rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (C), (D), and (F) of paragraph (1) of this subdivision up to the time when the lease for the housing to which LINC I rental assistance will be applied is executed. Priority will be given to families whose current stays in the City shelter system are the longest.
+   (2) The number of eligible households that will be certified to receive LINC I rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of 68 RCNY §  7-09, upon finding that a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and that appropriate funding is available to provide LINC I rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (C), (D), and (F) of paragraph (1) of this subdivision up to the time when the lease for the housing to which LINC I rental assistance will be applied is executed. Priority will be given to families whose current stays in the City shelter system are the longest.
 
-   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the maximum monthly rental assistance amount pursuant to subdivision (a) of section 7-06 of this chapter. The monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
+   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the maximum monthly rental assistance amount pursuant to subdivision (a) of 68 RCNY § 7-06. The monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
 
 (b) Renewals after the First Year.
 
@@ -2155,7 +2067,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
    (2) Subject to the availability of funding, households that meet the continued eligibility requirements set forth in paragraph (1) of this subdivision may receive up to two additional one-year extensions after their third year in the LINC I rental assistance program pursuant to a determination by HRA on a case-by-case basis.
 
-   (3) HRA will determine a household's eligibility for renewal of LINC I rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to the commencement of each one-year renewal period, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to subdivision (a) of section 7-06 of this chapter. The monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
+   (3) HRA will determine a household's eligibility for renewal of LINC I rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to the commencement of each one-year renewal period, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to subdivision (a) of 68 RCNY § 7-06. The monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
 
    (4) If a household has transferred to the LINC I program after being in receipt of LINC VI rental assistance, the time the household participated in the LINC VI program shall be considered time in the LINC I program for purposes of renewal. If the effective date of the first lease for the residence towards which LINC I rental assistance shall be applied is not more than ten months after the start of the household's current year of participation in the LINC VI program, then the household's current year of LINC rental assistance shall begin anew on the effective date of such lease. If the effective date of the first lease for the residence towards which LINC I rental assistance shall be applied is more than ten months after the start of the household's current year of participation in the LINC VI program, then the household's next year of LINC rental assistance shall begin on the effective date of such lease.
 
@@ -2189,9 +2101,9 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
       (F) For households currently in shelter, HRA must have determined that the household will be eligible for Public Assistance upon exit from shelter. For households transferring to the LINC II program from the LINC VI program. HRA must have determined that the household will be eligible for Public Assistance following the transfer.
 
-   (2) The number of eligible households that will be certified to receive LINC II rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of section 7-09 of this chapter, upon finding that a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and that appropriate funding is available to provide LINC II rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (C), (E), and (F) of paragraph (1) of this subdivision up to the time when the lease for the housing to which LINC II rental assistance will be applied is executed. Priority will be given to families whose current stays in the City shelter system are the longest and among those, further priority may be given to families who are receiving social services from multiple government agencies or who have a member who is in receipt of disability benefits and/or who is an employable adult.
+   (2) The number of eligible households that will be certified to receive LINC II rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of 68 RCNY § 7-09, upon finding that a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and that appropriate funding is available to provide LINC II rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (C), (E), and (F) of paragraph (1) of this subdivision up to the time when the lease for the housing to which LINC II rental assistance will be applied is executed. Priority will be given to families whose current stays in the City shelter system are the longest and among those, further priority may be given to families who are receiving social services from multiple government agencies or who have a member who is in receipt of disability benefits and/or who is an employable adult.
 
-   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the maximum monthly rental assistance amount pursuant to subdivision (a) of section 7-06 of this chapter. The monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
+   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the maximum monthly rental assistance amount pursuant to subdivision (a) of 68 RCNY § 7-06. The monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
 
 (b) Renewals after the First Year.
 
@@ -2207,7 +2119,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
       (E) The household must provide prompt notice to HRA of any rent arrears that have accrued so that they may be addressed.
 
-   (2) HRA will determine a household's eligibility for renewal of LINC II rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to the commencement of each one-year renewal period, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to subdivision (a) of section 7-06 of this chapter. The monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income. Prior to the commencement of the renewal period, HRA will review whether a household is meeting all of the eligibility requirements set forth in paragraph (1) of this subdivision and will assist the household with maintaining eligibility as appropriate.
+   (2) HRA will determine a household's eligibility for renewal of LINC II rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to the commencement of each one-year renewal period, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to subdivision (a) of 68 RCNY § 7-06. The monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income. Prior to the commencement of the renewal period, HRA will review whether a household is meeting all of the eligibility requirements set forth in paragraph (1) of this subdivision and will assist the household with maintaining eligibility as appropriate.
 
    (3) If a household has transferred to the LINC II program after being in receipt of LINC VI rental assistance, the time the household participated in the LINC VI program shall be considered time in the LINC II program for purposes of renewal. If the effective date of the first lease for the residence towards which LINC II rental assistance shall be applied is not more than ten months after the start of the household's current year of participation in the LINC VI program, then the household's current year of LINC rental assistance shall begin anew on the effective date of such lease. If the effective date of the first lease for the residence towards which LINC II rental assistance shall be applied is more than ten months after the start of the household's current year of participation in the LINC VI program, then the household's next year of LINC rental assistance shall begin on the effective date of such lease.
 
@@ -2231,15 +2143,15 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
       (C) The household must, at the time of certification and up to the time when the lease for the housing to which LINC III rental assistance will be applied is executed, include at least one member who:
 
-         (i) is currently eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and Section 459-a of the New York Social Services Law and either resides in a DHS shelter and is eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations, or resides in an HRA shelter; or
+         (i) is currently eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and § 459-a of the New York Social Services Law and either resides in a DHS shelter and is eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations, or resides in an HRA shelter; or
 
-         (ii) is in receipt of LINC VI rental assistance and has submitted an application for LINC III rental assistance on a form and in a format established by HRA and was eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and Section 459-a of the New York Social Services Law at the time his or her application for LINC VI rental assistance was approved; and
+         (ii) is in receipt of LINC VI rental assistance and has submitted an application for LINC III rental assistance on a form and in a format established by HRA and was eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and § 459-a of the New York Social Services Law at the time his or her application for LINC VI rental assistance was approved; and
 
       (D) The household must, at the time of certification and up to the time of lease signing, be in compliance with Public Assistance requirements.
 
-   (2) The number of eligible households that will be certified to receive LINC III rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of section 7-09 of this chapter, upon finding that a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and that appropriate funding is available to provide LINC III rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (1) of this subdivision. Priority will be given to families who have resided in a DHS Shelter or an HRA Shelter for the longest consecutive periods, families currently residing in an HRA Shelter who have reached the 180-day time limit under New York Social Services Law § 459-b and would otherwise be discharged to a DHS Shelter, and families who are currently residing in a DHS Shelter due to lack of capacity in HRA Shelters or who have been discharged from an HRA Shelter to a DHS Shelter.
+   (2) The number of eligible households that will be certified to receive LINC III rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of 68 RCNY § 7-09, upon finding that a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and that appropriate funding is available to provide LINC III rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (1) of this subdivision. Priority will be given to families who have resided in a DHS Shelter or an HRA Shelter for the longest consecutive periods, families currently residing in an HRA Shelter who have reached the 180-day time limit under New York Social Services Law § 459-b and would otherwise be discharged to a DHS Shelter, and families who are currently residing in a DHS Shelter due to lack of capacity in HRA Shelters or who have been discharged from an HRA Shelter to a DHS Shelter.
 
-   (3) At the time of certification, and prior to lease signing, HRA will calculate, pursuant to subdivision (b) of section 7-06 of this chapter, the household's maximum monthly rent amount, the maximum monthly LINC III rental assistance amount and any contributions required to be made by household members not eligible for Public Assistance. The LINC III rental assistance amount and the amounts of any required contributions are subject to change during the household's participation in the LINC III program as set forth in paragraph (3) and subparagraph (G) of paragraph (2) of subdivision (b) of section 7-06 of this chapter.
+   (3) At the time of certification, and prior to lease signing, HRA will calculate, pursuant to subdivision (b) of 68 RCNY § 7-06, the household's maximum monthly rent amount, the maximum monthly LINC III rental assistance amount and any contributions required to be made by household members not eligible for Public Assistance. The LINC III rental assistance amount and the amounts of any required contributions are subject to change during the household's participation in the LINC III program as set forth in paragraph (3) and subparagraph (G) of paragraph (2) of subdivision (b) of 68 RCNY § 7-06.
 
    (4) In no event shall HRA certify for LINC III rental assistance a household that includes the perpetrator of the domestic violence that resulted in the determination of eligibility for HRA shelter described in subparagraph (C) of paragraph (1) of subdivision (a) of this section.
 
@@ -2259,7 +2171,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
       (E) The household must provide prompt notice to HRA of any rent arrears that have accrued so that they may be addressed.
 
-   (2) HRA will determine a household's eligibility for renewal of LINC III rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to the commencement of each one-year renewal period, HRA will recalculate, pursuant to subdivision (b) of section 7-06 of this chapter, the household's maximum monthly rent amount, the maximum monthly rental assistance amount and any contributions required to be made by household members not eligible for Public Assistance. This recalculation is in addition to any recalculations required by subparagraph (G) of paragraph (2) of subdivision (b) of section 7-06 of this chapter. Prior to the commencement of the renewal period, HRA will review whether a household is meeting the eligibility requirements set forth in paragraph (1) of this subdivision and will assist the household with maintaining eligibility as appropriate. If the household's monthly program participant contribution and rental assistance amount are calculated under paragraph (3) of subdivision (b) of section 7-06 of this chapter, the monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
+   (2) HRA will determine a household's eligibility for renewal of LINC III rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to the commencement of each one-year renewal period, HRA will recalculate, pursuant to subdivision (b) of 68 RCNY § 7-06, the household's maximum monthly rent amount, the maximum monthly rental assistance amount and any contributions required to be made by household members not eligible for Public Assistance. This recalculation is in addition to any recalculations required by subparagraph (G) of paragraph (2) of subdivision (b) of 68 RCNY § 7-06. Prior to the commencement of the renewal period, HRA will review whether a household is meeting the eligibility requirements set forth in paragraph (1) of this subdivision and will assist the household with maintaining eligibility as appropriate. If the household's monthly program participant contribution and rental assistance amount are calculated under paragraph (3) of subdivision (b) of 68 RCNY § 7-06, the monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
 
    (3) HRA in its discretion may waive any of the requirements set forth in paragraph (1) of this subdivision on a case-by-case basis if the household's failure to meet the requirement was due to circumstances beyond the household's control, or where non- renewal is likely to result in the household's entry into shelter.
 
@@ -2311,7 +2223,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
  
 
-   (2) A program participant contribution of thirty percent of the household's total gross income at the time of certification or renewal, plus the amount of any increases in the rent permitted under paragraph (2) of subdivision (l) of section 7-09 of this chapter that are above the household's allowable rent as determined pursuant to paragraph (1) of this subdivision, shall be paid by the household directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rental assistance amount. HRA shall pay the monthly rental assistance amount directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rental assistance payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing.
+   (2) A program participant contribution of thirty percent of the household's total gross income at the time of certification or renewal, plus the amount of any increases in the rent permitted under paragraph (2) of subdivision (l) of 68 RCNY § 7-09 that are above the household's allowable rent as determined pursuant to paragraph (1) of this subdivision, shall be paid by the household directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rental assistance amount. HRA shall pay the monthly rental assistance amount directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rental assistance payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing.
 
 (b) LINC III Rental Assistance Program.
 
@@ -2376,7 +2288,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
       (H) HRA shall pay the monthly rental assistance amount directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rental assistance payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing. Notwithstanding any inconsistent provisions of this section, (i) any such advance rental assistance payments shall be calculated based on the household size at the time of lease signing and (ii) if the household's rental assistance amount would otherwise have been reduced under this subdivision during the year in which rental assistance payments have been paid in advance, the household is required to pay the difference to HRA. If the household does not pay such difference to HRA during the year in which rental assistance payments have been paid in advance, HRA shall have the right to recover such difference from the household.
 
-   (3) If a household in receipt of LINC III rental assistance has become ineligible for Public Assistance as a result of increased income or no longer includes a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations or a pregnant woman, a program participant contribution of thirty percent of the household's total gross income, plus the amount of any increases in the rent permitted under paragraph (2) of subdivision (l) of section 7-09 of this chapter that are above the household's allowable rent as determined pursuant to paragraph (1) of this subdivision, will be required and will be paid by the household directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rental assistance amount. The household's monthly program participant contribution and rental assistance amount will not change during the remainder of the household's current year in the program, regardless of changes in household composition or income and shall continue to be calculated in accordance with this paragraph for so long as the household remains eligible for the program even if the household later becomes eligible for Public Assistance or again includes a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations.
+   (3) If a household in receipt of LINC III rental assistance has become ineligible for Public Assistance as a result of increased income or no longer includes a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations or a pregnant woman, a program participant contribution of thirty percent of the household's total gross income, plus the amount of any increases in the rent permitted under paragraph (2) of subdivision (l) of 68 RCNY § 7-09 that are above the household's allowable rent as determined pursuant to paragraph (1) of this subdivision, will be required and will be paid by the household directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rental assistance amount. The household's monthly program participant contribution and rental assistance amount will not change during the remainder of the household's current year in the program, regardless of changes in household composition or income and shall continue to be calculated in accordance with this paragraph for so long as the household remains eligible for the program even if the household later becomes eligible for Public Assistance or again includes a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations.
 
 
 
@@ -2388,9 +2300,9 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 *§ 7-07 Right of Review.* ::
 
 
-(a) Challenges by Shelter Residents or LINC VI Program Participants in Receipt of a LINC II Certification Letter and by LINC II Program Participants Regarding LINC II Rental Assistance. Shelter residents or LINC VI program participants who have received a LINC II certification letter and LINC II program participants shall have the right to seek review pursuant to Part 358 of Title 18 of the New York Code, Rules and Regulations of all determinations and actions made by DHS and/or HRA pursuant to section 7-04 of this chapter.
+(a) Challenges by Shelter Residents or LINC VI Program Participants in Receipt of a LINC II Certification Letter and by LINC II Program Participants Regarding LINC II Rental Assistance. Shelter residents or LINC VI program participants who have received a LINC II certification letter and LINC II program participants shall have the right to seek review pursuant to Part 358 of Title 18 of the New York Code, Rules and Regulations of all determinations and actions made by DHS and/or HRA pursuant to 68 RCNY § 7-04.
 
-(b) All Other Challenges. All other challenges to determinations or actions made by DHS and/or HRA under this chapter, as well as any failures to act, or failures to act with reasonable promptness, by DHS and/or HRA in implementing the provisions of this chapter, shall be governed by the procedures set forth in section 7-08 of this chapter.
+(b) All Other Challenges. All other challenges to determinations or actions made by DHS and/or HRA under this chapter, as well as any failures to act, or failures to act with reasonable promptness, by DHS and/or HRA in implementing the provisions of this chapter, shall be governed by the procedures set forth in 68 RCNY § 7-08.
 
 
 
@@ -2402,7 +2314,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 *§ 7-08 Agency Review Conference and HRA Administrative Appeal Process.* ::
 
 
-(a) Right to HRA Administrative Review. A shelter resident, LINC VI program participant, or LINC I or LINC III program participant may request an agency review conference and/or an HRA administrative hearing to seek review of any determinations or actions for which a right to review is provided under subdivision (b) of section 7-07 of this chapter.
+(a) Right to HRA Administrative Review. A shelter resident, LINC VI program participant, or LINC I or LINC III program participant may request an agency review conference and/or an HRA administrative hearing to seek review of any determinations or actions for which a right to review is provided under subdivision (b) of 68 RCNY § 7-07.
 
 (b) Agency Review Conference.
 
@@ -2412,7 +2324,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
    (3) Except as provided in paragraph (4) of this subdivision, an agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an HRA administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
 
-   (4) Notwithstanding paragraph (3) of this subdivision, an agency review conference to review a failure by DHS and/or HRA to issue a certification letter pursuant to section 7-03, 7-04 or 7-05 of this chapter may be brought at any time if such household has not received such letter.
+   (4) Notwithstanding paragraph (3) of this subdivision, an agency review conference to review a failure by DHS and/or HRA to issue a certification letter pursuant to 68 RCNY § 7-03, 7-04 or 7-05 may be brought at any time if such household has not received such letter.
 
    (5) A request for an agency review conference will extend the time period to request an HRA administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
 
@@ -2422,7 +2334,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
    (2) Except as provided in paragraph (3) of this subdivision and paragraph (5) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
 
-   (3) A request for an administrative hearing to challenge a failure by DHS and/or HRA to issue a certification letter under section 7-03, 7-04 or 7-05 of this chapter may be brought at any time if such household has not received such letter.
+   (3) A request for an administrative hearing to challenge a failure by DHS and/or HRA to issue a certification letter under 68 RCNY § 7-03, 7-04 or 7-05 may be brought at any time if such household has not received such letter.
 
 (d) Authorized Representative.
 
@@ -2432,7 +2344,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
 (e) Continued Assistance.
 
-   (1) If a LINC I or LINC III program participant requests an administrative appeal of a determination by HRA that rental assistance payments issued under section 7-03 or 7-05 of this chapter are to be reduced, restricted, suspended or discontinued, or that the program participant's household is not eligible for renewal pursuant to subdivision (b) of section 7-03 or subdivision (c) of section 7-05 of this chapter, such program participant shall have the right to continued receipt of LINC I or LINC III rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (I) of this section, provided that:
+   (1) If a LINC I or LINC III program participant requests an administrative appeal of a determination by HRA that rental assistance payments issued under 68 RCNY § 7-03 or 7-05 are to be reduced, restricted, suspended or discontinued, or that the program participant's household is not eligible for renewal pursuant to subdivision (b) of 68 RCNY § 7-03 or subdivision (c) of 68 RCNY § 7-05, such program participant shall have the right to continued receipt of LINC I or LINC III rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (I) of this section, provided that:
 
       (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
 
@@ -2585,7 +2497,7 @@ For the purposes of this subchapter, unless otherwise specified, the following t
 *§ 7-11 Administration of the LINC Rental Assistance Programs for Single Adults and Adult Families.* ::
 
 
-HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except that initial eligibility determinations pursuant to subdivision (a) of section 7-12 or 7-13 of this chapter shall be made by HRA in consultation with DHS.
+HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except that initial eligibility determinations pursuant to subdivision (a) of 68 RCNY § 7-12 or 7-13 of this chapter shall be made by HRA in consultation with DHS.
 
 
 
@@ -2609,9 +2521,9 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
       (C) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services.
 
-   (2) The number of eligible households that can be certified to receive LINC IV rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of section 7-17 of this chapter, when a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and appropriate funding is available to provide LINC IV rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (1) of this subdivision until the lease or other agreement for the housing to which LINC rental assistance will be applied is executed. Priority will be given to households whose Homeless Adult member or members have met the definition of Homeless Adult under paragraph (1), (2) or (3) of subdivision (b) of section 7-10 of this chapter for the longest period of time and to households whose Homeless Adult member or members meet the definition of a Homeless Adult under paragraph (4) of subdivision (b) of section 7-10 and have been referred by HRA's Rental Assistance Unit or another City agency, with additional priority given to households that include the oldest Homeless Adults or medically frail Homeless Adults.
+   (2) The number of eligible households that can be certified to receive LINC IV rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of 68 RCNY § 7-17, when a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and appropriate funding is available to provide LINC IV rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (1) of this subdivision until the lease or other agreement for the housing to which LINC rental assistance will be applied is executed. Priority will be given to households whose Homeless Adult member or members have met the definition of Homeless Adult under paragraph (1), (2) or (3) of subdivision (b) of 68 RCNY § 7-10 for the longest period of time and to households whose Homeless Adult member or members meet the definition of a Homeless Adult under paragraph (4) of subdivision (b) of 68 RCNY § 7-10 and have been referred by HRA's Rental Assistance Unit or another City agency, with additional priority given to households that include the oldest Homeless Adults or medically frail Homeless Adults.
 
-   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the maximum monthly rental assistance amount pursuant to section 7-14 of this chapter. Except as provided in section 7-15 of this chapter, the monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
+   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the maximum monthly rental assistance amount pursuant to 68 RCNY § 7-14. Except as provided in 68 RCNY § 7-15, the monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
 
 (b) Renewals after the First Year.
 
@@ -2629,7 +2541,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
       (D) The household must provide prompt notice to HRA of any rent arrears that have accrued so that they may be addressed.
 
-   (2) HRA will determine a household's eligibility for renewal of LINC IV rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to section 7-14 of this chapter. Except as provided in section 7-15 of this chapter, the monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
+   (2) HRA will determine a household's eligibility for renewal of LINC IV rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to 68 RCNY § 7-14. Except as provided in 68 RCNY § 7-15, the monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
 
    (3) HRA in its discretion may waive any of the requirements set forth in paragraph (1) of this subdivision on a case-by-case basis if the household's failure to meet the requirement was due to circumstances beyond the household's control, or where non-renewal is likely to result in the household's entry into shelter.
 
@@ -2651,9 +2563,9 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
       (C) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services.
 
-   (2) The number of eligible households that can be certified to receive LINC V rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of section 7-17 of this chapter, when a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and appropriate funding is available to provide LINC V rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (1) of this subdivision until the lease or other agreement for the housing to which LINC rental assistance will be applied is executed. Priority will be given to households whose Homeless Adult member or members have met the definition of Homeless Adult under paragraph (1), (2) or (3) of subdivision (b) of section 7-10 of this chapter for the longest period of time and to households whose Homeless Adult member or members meet the definition of a Homeless Adult under paragraph (4) of subdivision (b) of section 7-10 and have been referred by HRA's Rental Assistance Unit or another City agency, with additional priority given based on the number of hours worked per week.
+   (2) The number of eligible households that can be certified to receive LINC V rental assistance will be limited by the amount of available funding. Subject to HRA's exercise of discretion under subdivision (a) of 68 RCNY § 7-17, when a household has met the eligibility requirements set forth in paragraph (1) of this subdivision and appropriate funding is available to provide LINC V rental assistance to such household, HRA and/or DHS shall issue such household a certification letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (1) of this subdivision until the lease or other agreement for the housing to which LINC rental assistance will be applied is executed. Priority will be given to households whose Homeless Adult member or members have met the definition of Homeless Adult under paragraph (1), (2) or (3) of subdivision (b) of 68 RCNY § 7-10 for the longest period of time and to households whose Homeless Adult member or members meet the definition of a Homeless Adult under paragraph (4) of subdivision (b) of 68 RCNY § 7-10 and have been referred by HRA's Rental Assistance Unit or another City agency, with additional priority given based on the number of hours worked per week.
 
-   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to section 7-14 of this chapter. Except as provided in section 7-15 of this chapter, the monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
+   (3) At the time of certification, HRA will calculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to 68 RCNY § 7-14. Except as provided in 68 RCNY § 7-15, the monthly program participant contribution and monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition or income.
 
 (b) Renewals after the First Year.
 
@@ -2671,7 +2583,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
    (2) Subject to the availability of funding, households that meet the continued eligibility requirements in paragraph (1) of this subdivision may receive additional one-year extensions after their fifth year in the LINC V rental assistance program on a case-by-case basis.
 
-   (3) HRA will determine a household's eligibility for renewal of LINC V rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal period, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to section 7-14 of this chapter. Except as provided in section 7-15 of this chapter, the monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
+   (3) HRA will determine a household's eligibility for renewal of LINC V rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal period, HRA will recalculate the household's monthly program participant contribution and the monthly rental assistance amount pursuant to 68 RCNY § 7-14. Except as provided in 68 RCNY § 7-15, the monthly program participant contribution and monthly rental assistance amount will not change during the one-year renewal period, regardless of changes in household composition or income.
 
    (4) HRA in its discretion may waive any of the requirements set forth in paragraph (1) of this subdivision on a case-by-case basis if the household's failure to meet the requirement was due to circumstances beyond the household's control, or where non-renewal is likely to result in the household's entry into shelter.
 
@@ -2732,7 +2644,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
  
 
-   (2) A program participant contribution of thirty percent of the household's total monthly gross income at the time of certification or renewal, plus the amount of any increases in the rent permitted under paragraph (2) of subdivision (l) of section 7-17 of this chapter that are above the household's allowable rent as determined pursuant to paragraph (1) of this subdivision, will be required and will be paid by the household directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rental assistance amount. HRA shall pay the monthly rental assistance amount directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rental assistance payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing.
+   (2) A program participant contribution of thirty percent of the household's total monthly gross income at the time of certification or renewal, plus the amount of any increases in the rent permitted under paragraph (2) of subdivision (l) of 68 RCNY § 7-17 that are above the household's allowable rent as determined pursuant to paragraph (1) of this subdivision, will be required and will be paid by the household directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rental assistance amount. HRA shall pay the monthly rental assistance amount directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rental assistance payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing.
 
 (b) Room Rentals.
 
@@ -2778,7 +2690,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
    (3) Except as provided in paragraph (4) of this subdivision, an agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an HRA administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
 
-   (4) Notwithstanding paragraph (3) of this subdivision, a request for an agency review conference to review a failure by DHS and/or HRA to issue a certification letter pursuant to subdivision (a) of section 7-12 or 7-13 of this chapter may be made at any time prior to the receipt of any such letter.
+   (4) Notwithstanding paragraph (3) of this subdivision, a request for an agency review conference to review a failure by DHS and/or HRA to issue a certification letter pursuant to subdivision (a) of 68 RCNY § 7-12 or 7-13 may be made at any time prior to the receipt of any such letter.
 
    (5) A request for an agency review conference will extend the time period to request an HRA administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
 
@@ -2788,7 +2700,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
    (2) Except as provided in paragraph (3) of this subdivision and paragraph (5) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
 
-   (3) A request for an administrative hearing to challenge a failure by DHS and/or HRA to issue a certification letter under subdivision (a) of section 7-12 or 7-13 of this chapter may be brought at any time prior to the receipt of any such letter.
+   (3) A request for an administrative hearing to challenge a failure by DHS and/or HRA to issue a certification letter under subdivision (a) of 68 RCNY § 7-12 or 7-13 may be brought at any time prior to the receipt of any such letter.
 
 (d) Authorized Representative.
 
@@ -2798,7 +2710,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
 (e) Aid Continuing.
 
-   (1) If a LINC IV or LINC V program participant requests an administrative appeal of a determination by HRA that rental assistance payments issued under section 7-14 of this chapter are to be reduced, restricted, suspended or discontinued, or that the program participant's household is not eligible for renewal pursuant to subdivision (b) of section 7-12 or 7-13 of this chapter, such program participant shall have the right to continued receipt of LINC IV or LINC V rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+   (1) If a LINC IV or LINC V program participant requests an administrative appeal of a determination by HRA that rental assistance payments issued under 68 RCNY § 7-14 are to be reduced, restricted, suspended or discontinued, or that the program participant's household is not eligible for renewal pursuant to subdivision (b) of 68 RCNY § 7-12 or 7-13, such program participant shall have the right to continued receipt of LINC IV or LINC V rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
 
       (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
 
@@ -2886,9 +2798,9 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
 (i) If a program participant leaves the apartment or room for which the program participant is receiving LINC IV or LINC V rental assistance due to an eviction or move, the landlord or primary tenant must return any over-payment to HRA.
 
-(j) Any apartment to which LINC IV or LINC V rental assistance is applied pursuant to subdivision (a) of section 7-14 of this chapter must pass a City inspection. Section 8 Housing Quality Standards set forth in Section 982.401 of Title 24 of the Code of Federal Regulations will be applied in the inspection process with respect to the physical condition of apartments. The number of persons who can occupy a particular apartment will be evaluated on a case-by-case basis with each household.
+(j) Any apartment to which LINC IV or LINC V rental assistance is applied pursuant to subdivision (a) of 68 RCNY § 7-14 must pass a City inspection. Section 8 Housing Quality Standards set forth in Section 982.401 of Title 24 of the Code of Federal Regulations will be applied in the inspection process with respect to the physical condition of apartments. The number of persons who can occupy a particular apartment will be evaluated on a case-by-case basis with each household.
 
-(k) Where LINC IV or LINC V rental assistance is applied towards a single room pursuant to subdivision (b) of section 7-14 of this chapter, the room and the residence containing the room must pass a safety and habitability inspection to be conducted by DHS.
+(k) Where LINC IV or LINC V rental assistance is applied towards a single room pursuant to subdivision (b) of 68 RCNY § 7-14, the room and the residence containing the room must pass a safety and habitability inspection to be conducted by DHS.
 
 (l) As a condition of participating in the LINC Rental Assistance Programs for Single Adults and Adult Families, a landlord who has entered into a lease for an apartment with a household receiving LINC IV or LINC V rental assistance shall be required to:
 
@@ -2939,7 +2851,7 @@ For the purposes of this subchapter, the following terms shall have the followin
 *§ 7-19 Administration of the LINC VI Rental Assistance Program.* ::
 
 
-HRA shall administer the LINC VI Rental Assistance Program, except that HRA shall make in consultation with DHS initial eligibility determinations pursuant to paragraph (1) of subdivision (a) of section 7-20 of this chapter for households residing in a DHS Shelter.
+HRA shall administer the LINC VI Rental Assistance Program, except that HRA shall make in consultation with DHS initial eligibility determinations pursuant to paragraph (1) of subdivision (a) of 68 RCNY § 7-20 for households residing in a DHS Shelter.
 
 
 
@@ -2967,13 +2879,13 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 
             (III) resided in the City shelter system for at least ninety consecutive days, excluding gaps of up to three calendar days;
 
-         (ii) a member who meets the description set forth in paragraph (1) of subdivision (b) of section 7-10 of this chapter and resided in a shelter operated by or on behalf of DHS for any period of time between May 1, 2015 and July 31, 2015; or
+         (ii) a member who meets the description set forth in paragraph (1) of subdivision (b) of 68 RCNY § 7-10 and resided in a shelter operated by or on behalf of DHS for any period of time between May 1, 2015 and July 31, 2015; or
 
-         (iii) a member who meets the description set forth in paragraph (2), (3), or (4) of subdivision (b) of section 7-10 of this chapter.
+         (iii) a member who meets the description set forth in paragraph (2), (3), or (4) of subdivision (b) of 68 RCNY § 7-10.
 
-      (C) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly rent payment from the household that does not exceed the applicable maximum rent set forth in the table in subdivision (a) of section 7-21 of this chapter.
+      (C) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly rent payment from the household that does not exceed the applicable maximum rent set forth in the table in subdivision (a) of 68 RCNY § 7-21.
 
-      (D) The host family and the host family's residence must meet the requirements of subdivision (j) of section 7-24 of this chapter.
+      (D) The host family and the host family's residence must meet the requirements of subdivision (j) of 68 RCNY § 7-24.
 
       (E) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services.
 
@@ -2995,7 +2907,7 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 
       (C) All members of the household eligible for Public Assistance must receive Public Assistance.
 
-   (2) HRA will determine a household's eligibility for renewal of LINC VI rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly rental assistance amount pursuant to section 7-21 of this chapter. Except as provided in section 7-22 of this chapter, the monthly rental assistance amount will not change during the one-year renewal period.
+   (2) HRA will determine a household's eligibility for renewal of LINC VI rental assistance at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly rental assistance amount pursuant to 68 RCNY § 7-21. Except as provided in 68 RCNY § 7-22, the monthly rental assistance amount will not change during the one-year renewal period.
 
    (3) HRA in its discretion may waive any of the requirements set forth in paragraph (1) of this subdivision on a case-by-case basis if the household's failure to meet the requirement was due to circumstances beyond the household's control, or where non-renewal is likely to result in the household's entry into shelter.
 
@@ -3015,15 +2927,13 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 
  
 
- 
-
 
 .. list-table::
     :header-rows: 1
 
     * - Household Size
-      - 1-2
-      - 3-4
+      - 1 - 2
+      - 3 - 4
       - 5 or more
     * - Maximum Rent
       - $650
@@ -3095,7 +3005,7 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 
 (e) Continued Assistance.
 
-   (1) If a LINC VI program participant requests an administrative appeal of a determination by HRA that rental assistance payments issued under section 7-21 of this chapter are to be reduced, restricted, suspended or discontinued, or that the program participant's household is not eligible for renewal pursuant to subdivision (b) of section 7-20 of this chapter, such program participant shall have the right to continued receipt of LINC VI rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (I) of this section, provided that:
+   (1) If a LINC VI program participant requests an administrative appeal of a determination by HRA that rental assistance payments issued under 68 RCNY § 7-21 are to be reduced, restricted, suspended or discontinued, or that the program participant's household is not eligible for renewal pursuant to subdivision (b) of 68 RCNY § 7-20, such program participant shall have the right to continued receipt of LINC VI rental assistance payments at the rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (I) of this section, provided that:
 
       (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
 
@@ -3275,7 +3185,7 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 
       (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
 
-      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of section 8-05 of this chapter and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
+      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY §8-05 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
 
       (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
 
@@ -3293,11 +3203,11 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 
    (2) The number of eligible households that can be approved to receive rent supplements under the City Family Eviction Prevention Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA.
 
-   (3) At the time of approval, HRA will calculate, pursuant to section 8-05 of this chapter, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the City Family Eviction Prevention Supplement Program as set forth in section 8-05 of this chapter.
+   (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the City Family Eviction Prevention Supplement Program as set forth in 68 RCNY § 8-05.
 
    (4) In no event shall HRA approve a CITYFEPS rent supplement for a household that includes the perpetrator of the domestic violence that resulted in the determination of eligibility for HRA shelter described in clause (i) of subparagraph (C) of paragraph (1) of this subdivision.
 
-(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Eviction Prevention Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS supplement is being applied, except as provided in section 8-06 of this chapter. 
+(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Eviction Prevention Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS supplement is being applied, except as provided in 68 RCNY §8-06. 
 
 (Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 12/30/2015, eff. 1/29/2016) 
 
@@ -3321,7 +3231,8 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 
       (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
 
-      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and must have a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of section 8-05 of this chapter and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
+      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and must have a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
+									 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
 
       (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
 
@@ -3339,9 +3250,11 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 
    (2) The number of eligible households that can be approved to receive rent supplements under the City Family Exit Plan Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA. 
 
-   (3) At the time of approval, HRA will calculate, pursuant to section 8-05 of this chapter, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the CITYFEPS program as set forth in section 8-05 of this chapter. 
+   (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05
+									, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the CITYFEPS program as set forth in 68 RCNY § 8-05
+									. 
 
-(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Exit Plan Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS rent supplement is being applied, except as provided in section 8-06 of this chapter. 
+(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Exit Plan Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS rent supplement is being applied, except as provided in 68 RCNY §8-06. 
 
 (Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 12/30/2015, eff. 1/29/2016) 
 
@@ -3353,9 +3266,7 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 *§ 8-05 Maximum Rents and Calculation of Monthly Program Participant Contributions and Rent Supplement Amounts.* ::
 
 
-(a) Except as otherwise provided in this section, at the time of approval pursuant to paragraph (2) of subdivision (a) of section 8-03 or 8-04 of this chapter, the maximum CITYFEPS rent supplement amount and the maximum rent towards which CITYFEPS rent supplements may be applied shall not exceed the amounts set forth in the table below. 
-
- 
+(a) Except as otherwise provided in this section, at the time of approval pursuant to paragraph (2) of subdivision (a) of 68 RCNY §8-03 or 8-04, the maximum CITYFEPS rent supplement amount and the maximum rent towards which CITYFEPS rent supplements may be applied shall not exceed the amounts set forth in the table below.
 
  
 
@@ -3428,11 +3339,14 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 
 (a) A household receiving a CITYFEPS rent supplement may not move to a new residence and maintain eligibility for a CITYFEPS rent supplement except with the prior approval of HRA. HRA shall grant such approval if: 
 
-   (1) The new monthly rent obligation does not exceed the maximum rent for the household's size under subdivision (a) of section 8-05 of this chapter and is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; and 
+   (1) The new monthly rent obligation does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
+									 and is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; and 
 
-   (2) The need for the move is a direct result of: (A) the household's inability to pay required contributions pursuant to subdivision (g) of section 8-05 of this chapter due to changes in the household's income, composition or rent obligations; (B) a vacate order issued by a City agency or court; or (C) a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis. 
+   (2) The need for the move is a direct result of: (A) the household's inability to pay required contributions pursuant to subdivision (g) of 68 RCNY § 8-05
+									 due to changes in the household's income, composition or rent obligations; (B) a vacate order issued by a City agency or court; or (C) a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis. 
 
-(b) If HRA has approved a move to a new residence, HRA shall recalculate the monthly CITYFEPS rent supplement amount and program participant contribution pursuant to section 8-05 of this chapter. 
+(b) If HRA has approved a move to a new residence, HRA shall recalculate the monthly CITYFEPS rent supplement amount and program participant contribution pursuant to 68 RCNY § 8-05
+									. 
 
 (Added City Record 7/16/2015, eff. 8/15/2015) 
 
@@ -3587,7 +3501,7 @@ For the purposes of this subchapter, the following terms have the following mean
 
 (a) "DHS" means the New York City Department of Homeless Services.
 
-(b) A "DHS Shelter for Single Adults" means a shelter for single adults operated by or on behalf of DHS, or a DHS veterans shelter as that term is defined in Section 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
+(b) A "DHS Shelter for Single Adults" means a shelter for single adults operated by or on behalf of DHS, or a DHS veterans shelter as that term is defined in § 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
 
 (c) A "DHS Shelter for Adult Families" means a shelter for adult families operated by or on behalf of DHS.
 
@@ -3621,7 +3535,7 @@ For the purposes of this subchapter, the following terms have the following mean
 *§ 8-11 Administration of the Special Exit and Prevention Supplement Program.* ::
 
 
-HRA shall administer the Special Exit and Prevention Supplement Program, except that initial eligibility determinations pursuant to subdivision (a) of section 8-12 of this chapter shall be made by HRA in consultation with DHS.
+HRA shall administer the Special Exit and Prevention Supplement Program, except that initial eligibility determinations pursuant to subdivision (a) of 68 RCNY § 8-12 shall be made by HRA in consultation with DHS.
 
 
 
@@ -3673,7 +3587,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
       (C) The household must be in receipt of Public Assistance;
 
-      (D) The household must have a rental agreement for the residence to which the SEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the applicable maximum rent under section 8-13 of this chapter and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or U.S. Department of Housing and Urban Development regulations;
+      (D) The household must have a rental agreement for the residence to which the SEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the applicable maximum rent under 68 RCNY § 8-13 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or U.S. Department of Housing and Urban Development regulations;
 
       (E) The residence to which the SEPS rent supplement shall be applied must be located within the City of New York;
 
@@ -3689,7 +3603,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
    (2) The number of eligible households that can be approved to participate in the SEPS Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA.
 
-   (3) At the time of approval, HRA will calculate the household's monthly program participant contribution and the maximum monthly rent supplement amount pursuant to section 8-13 of this chapter. Except as provided in section 8-14 of this chapter, the monthly program participant contribution and monthly rent supplement amount will not change during the first year of the program, regardless of changes in household composition or income.
+   (3) At the time of approval, HRA will calculate the household's monthly program participant contribution and the maximum monthly rent supplement amount pursuant to 68 RCNY § 8-13. Except as provided in 68 RCNY § 8-14, the monthly program participant contribution and monthly rent supplement amount will not change during the first year of the program, regardless of changes in household composition or income.
 
 (b) Renewals after the First Year.
 
@@ -3705,7 +3619,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
       (B) receives compensation for a disability resulting from a line-of-duty injury or disease pursuant to Subchapter II or Subchapter IV of Chapter 11 of Part II of Title 38 of the United States Code, or receives a non-service-connected disability pension pursuant to Subchapter II of Chapter 15 of Part II of Title 38 of the United States Code.
 
-   (3) HRA will determine a household's eligibility for renewal in the SEPS Program at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly program participant contribution and the monthly rent supplement amount pursuant to section 8-13 of this chapter. Except as provided in section 8-14 of this chapter, the monthly program participant contribution and monthly rent supplement will not change during the one-year renewal period, regardless of changes in household composition or income.
+   (3) HRA will determine a household's eligibility for renewal in the SEPS Program at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly program participant contribution and the monthly rent supplement amount pursuant to 68 RCNY § 8-13. Except as provided in 68 RCNY § 8-14, the monthly program participant contribution and monthly rent supplement will not change during the one-year renewal period, regardless of changes in household composition or income.
 
    (4) HRA in its discretion may waive any of the requirements in paragraph (1) of this subdivision on a case-by-case basis where non-renewal is likely to result in the household's entry into shelter. HRA may also waive the requirement set forth in subparagraph (B) of paragraph (1) of this subdivision if the household's failure to meet the requirement was due to circumstances beyond its control.
 
@@ -3722,8 +3636,6 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 (a) Apartment Rentals.
 
    (1) The maximum monthly rent for an apartment towards which a SEPS rent supplement may be applied during the first year of the rental agreement must not exceed the amounts in the table below:
-
- 
 
  
 
@@ -3907,7 +3819,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
 (i) HRA shall provide a household moving expenses, a security deposit voucher equal to one month's rent, and a broker's fee equal to up to one month's rent when available under Section 352.6 of Title 18 of the New York Codes, Rules and Regulations.
 
-(j) If a household includes a person younger than eighteen years of age, SEPS rent supplement payments may not be applied towards a room rental. A household residing in a single room must promptly notify HRA if it intends to add a person younger than eighteen years of age to the household so that HRA can assist the household in implementing a move pursuant to section 8-14 of this chapter.
+(j) If a household includes a person younger than eighteen years of age, SEPS rent supplement payments may not be applied towards a room rental. A household residing in a single room must promptly notify HRA if it intends to add a person younger than eighteen years of age to the household so that HRA can assist the household in implementing a move pursuant to 68 RCNY § 8-14.
 
 
 
@@ -3930,7 +3842,7 @@ Chapter 9: HRA HOME TBRA Program
 
 (d) An "assisted unit" is a residential unit to which HRA HOME TBRA rental assistance payments are being applied pursuant to this chapter.
 
-(e) A "chronically street homeless individual" means an individual (1) who has been identified by the New York City Department of Homeless Services as not residing in a shelter, residence, or other accommodations for nine of the past twenty-four months at the close of the HRA HOME TBRA application period and who has not secured any other temporary or permanent housing; or (2) who currently resides in a DHS safe haven or uses a DHS stabilization bed as those terms are defined in Section 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
+(e) A "chronically street homeless individual" means an individual (1) who has been identified by the New York City Department of Homeless Services as not residing in a shelter, residence, or other accommodations for nine of the past twenty-four months at the close of the HRA HOME TBRA application period and who has not secured any other temporary or permanent housing; or (2) who currently resides in a DHS safe haven or uses a DHS stabilization bed as those terms are defined in § 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
 
 (f) "Citizen" means citizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations.
 
@@ -3940,7 +3852,7 @@ Chapter 9: HRA HOME TBRA Program
 
 (i) "DHS Shelter" means a shelter for families with children or adult families operated by or on behalf of DHS.
 
-(j) A "guest" is an individual who was not included in a household's application for HRA HOME TBRA or added to the household as a member pursuant to subdivision (d) of section 9-14 of this chapter, and who is staying in an assisted unit with the consent of a household member.
+(j) A "guest" is an individual who was not included in a household's application for HRA HOME TBRA or added to the household as a member pursuant to subdivision (d) of 68 RCNY § 9-14, and who is staying in an assisted unit with the consent of a household member.
 
 (k) The "household" means the individual or individuals who have applied for, have had an application submitted on their behalf for, or are participating in HRA HOME TBRA.
 
@@ -3988,7 +3900,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
    (1) The household must:
 
-      (A) Consist of two or more individuals or a pregnant person, currently reside in a DHS Shelter or HRA Shelter, and have resided in shelter for more than 120 days as of the close of the application period established pursuant to subdivision (a) of section 9-04 of this chapter; or
+      (A) Consist of two or more individuals or a pregnant person, currently reside in a DHS Shelter or HRA Shelter, and have resided in shelter for more than 120 days as of the close of the application period established pursuant to subdivision (a) of 68 RCNY § 9-04; or
 
       (B) Consist of or include at least one chronically street homeless individual;
 
@@ -4020,15 +3932,18 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
 (c) HRA will provide notice to an applicant household if HRA determines that an application is incomplete, and such household will have ten days from the date the notice is sent to supplement the application. HRA may grant an additional extension of time to supplement the application for good cause. Failure to supplement the application within ten days or any applicable extension period will result in denial of such household's application for HRA HOME TBRA.
 
-(d) Coupons will be issued in order of assigned number to applicant households that meet the requirements set forth in subdivision (a) of section 9-03 of this chapter until coupons are no longer available. If HRA determines that an applicant household is ineligible for HRA HOME TBRA, HRA will notify such household that its application has been denied and the reasons for denial. Remaining applicant households that meet the requirements set forth in subdivision (a) of section 9-03 will be placed on a waitlist in order of assigned number and notified in writing of their placement on the waitlist. Once placed on the waitlist, a household will retain its placement on the waitlist unless it is selected or removed from the waitlist pursuant to subdivision (e) of this section.
+(d) Coupons will be issued in order of assigned number to applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03 until coupons are no longer available. If HRA determines that an applicant household is ineligible for HRA HOME TBRA, HRA will notify such household that its application has been denied and the reasons for denial. Remaining applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03 will be placed on a waitlist in order of assigned number and notified in writing of their placement on the waitlist. Once placed on the waitlist, a household will retain its placement on the waitlist unless it is selected or removed from the waitlist pursuant to subdivision (e) of this section.
 
 (e) Selection or Removal of Households from Waitlist.
 
-   (1) Subject to available funding and HRA HOME TBRA coupons, households will be selected for participation in HRA HOME TBRA from the waitlist in order of assigned number, provided such households continue to meet the requirements set forth in subdivision (a) of section 9-03 of this chapter.
+   (1) Subject to available funding and HRA HOME TBRA coupons, households will be selected for participation in HRA HOME TBRA from the waitlist in order of assigned number, provided such households continue to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
+									.
 
-   (2) Households that are unable to establish that they continue to satisfy the requirements set forth in subdivision (a) of section 9-03 of this chapter will be removed from the waitlist and informed that their applications have been denied.
+   (2) Households that are unable to establish that they continue to satisfy the requirements set forth in subdivision (a) of 68 RCNY § 9-03
+									 will be removed from the waitlist and informed that their applications have been denied.
 
-   (3) HRA may request an applicant household on the waitlist to provide additional documentation regarding the household's income and composition and to establish that the household continues to meet the requirements set forth in subdivision (a) of section 9-03 of this chapter. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.
+   (3) HRA may request an applicant household on the waitlist to provide additional documentation regarding the household's income and composition and to establish that the household continues to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
+									. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.
 
    (4) In the event that HRA does not have sufficient funding to select the household at the top of the waitlist for HRA HOME TBRA participation due to such household's unit size, HRA shall not select a household with a smaller unit size, but shall select the household at the top of the waitlist when sufficient funding is available.
 
@@ -4048,9 +3963,9 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
 (c) HRA may extend a household's initial coupon term for documented special circumstances, including if such extension is needed as a reasonable accommodation on the basis of disability.
 
-(d) If a household submits a request for unit approval pursuant to subdivision (b) of section 9-06 of this chapter, the coupon term will be stayed until HRA approves or denies the request.
+(d) If a household submits a request for unit approval pursuant to subdivision (b) of 68 RCNY §9-06, the coupon term will be stayed until HRA approves or denies the request.
 
-(e) HRA HOME TBRA rental assistance payments shall only be available if a household receives a unit approval pursuant to subdivision (b) of section 9-06 of this chapter prior to the expiration of the coupon term. A household that does not obtain a unit approval prior to the expiration of the coupon term may submit a new application for participation in HRA HOME TBRA if HRA re-opens the application period pursuant to subdivision (a) of section 9-04 of this chapter.
+(e) HRA HOME TBRA rental assistance payments shall only be available if a household receives a unit approval pursuant to subdivision (b) of 68 RCNY §9-06 prior to the expiration of the coupon term. A household that does not obtain a unit approval prior to the expiration of the coupon term may submit a new application for participation in HRA HOME TBRA if HRA re-opens the application period pursuant to subdivision (a) of 68 RCNY §9-04.
 
 (f) HRA HOME TBRA rental assistance payments shall only be available if a household complies with program obligations as outlined in the coupon.
 
@@ -4072,7 +3987,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
    (2) The lease complies with the requirements in Section 92.253(a)-(b) of Title 24 of the Code of Federal Regulations;
 
-   (3) The rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations and, for the household's first year in the unit, does not exceed the applicable rent standard amount established pursuant to subdivision (b) of section 9-08 of this chapter;
+   (3) The rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations and, for the household's first year in the unit, does not exceed the applicable rent standard amount established pursuant to subdivision (b) of 68 RCNY §9-08;
 
    (4) The unit is located within the City of New York; and
 
@@ -4114,11 +4029,11 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
       (A) the household's adjusted income does not exceed 80 percent of the area median income;
 
-      (B) at least one member of the household is a citizen or qualifying noncitizen as set forth in paragraph (4) of subdivision (a) of section 9-03 of this chapter; and
+      (B) at least one member of the household is a citizen or qualifying noncitizen as set forth in paragraph (4) of subdivision (a) of 68 RCNY §9-03; and
 
       (C) the household continues to reside in the assisted unit.
 
-   (2) HRA will determine a household's eligibility for recertification at the end of each year of the household's participation in HRA HOME TBRA. Prior to annual recertification, HRA will recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to section 9-08 of this chapter. Except as provided in subdivision (c) of this section or section 9-10 of this chapter, the total monthly household contribution and HRA HOME TBRA rental assistance amount will not change during the one-year recertification period, regardless of changes in household composition or income.
+   (2) HRA will determine a household's eligibility for recertification at the end of each year of the household's participation in HRA HOME TBRA. Prior to annual recertification, HRA will recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08. Except as provided in subdivision (c) of this section or 68 RCNY §9-10, the total monthly household contribution and HRA HOME TBRA rental assistance amount will not change during the one-year recertification period, regardless of changes in household composition or income.
 
    (3) A household's eligibility for recertification is conditioned on the household's timely cooperation with any requests by HRA for household information and documentation.
 
@@ -4126,19 +4041,19 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
    (1) Program participants must report to HRA any changes in household composition within thirty (30) days of such changes occurring.
 
-   (2) When informed of changes in household composition prior to annual recertification, HRA shall conduct an interim recertification to determine the household's continued eligibility and whether the change in household composition results or will result in an HQS failure. If an HQS failure has resulted or will result, the household shall be responsible for remedying or avoiding such failure, including requesting prior approval pursuant to paragraph (1) of subdivision (a) of section 9-10 of this chapter to move to a new unit. If the household's change in composition affects the household size, a new unit size will not be assigned pursuant to subdivision (a) of section 9-08 of this chapter until the household's next annual recertification and the household's rent standard amount will not change until such recertification. If the household's change in composition results in a change in household income, the provisions in subdivision (c) of this section shall apply.
+   (2) When informed of changes in household composition prior to annual recertification, HRA shall conduct an interim recertification to determine the household's continued eligibility and whether the change in household composition results or will result in an HQS failure. If an HQS failure has resulted or will result, the household shall be responsible for remedying or avoiding such failure, including requesting prior approval pursuant to paragraph (1) of subdivision (a) of 68 RCNY §9-10 to move to a new unit. If the household's change in composition affects the household size, a new unit size will not be assigned pursuant to subdivision (a) of 68 RCNY §9-08 until the household's next annual recertification and the household's rent standard amount will not change until such recertification. If the household's change in composition results in a change in household income, the provisions in subdivision (c) of this section shall apply.
 
 (c) Changes in Income Prior to Annual Recertification.
 
    (1) Program participants may report changes in household income to HRA at any time prior to annual recertification.
 
-   (2) When informed of an increase in household income prior to annual recertification, HRA may conduct an interim recertification to determine the household's continued eligibility. In the event of an interim recertification pursuant to this subdivision, HRA may recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to section 9-08 of this chapter.
+   (2) When informed of an increase in household income prior to annual recertification, HRA may conduct an interim recertification to determine the household's continued eligibility. In the event of an interim recertification pursuant to this subdivision, HRA may recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08.
 
-   (3) When informed of a decrease in household income prior to annual recertification, HRA shall conduct an interim recertification and recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to section 9-08 of this chapter.
+   (3) When informed of a decrease in household income prior to annual recertification, HRA shall conduct an interim recertification and recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08.
 
 (d) A household's participation in HRA HOME TBRA will be terminated during the Rental Assistance Contract term if:
 
-   (1) HRA determines that a household member knowingly permitted another individual who is not eligible for HRA HOME TBRA due to immigration status in accordance with Part 5 of Title 24 of the Code of Federal Regulations and Section 1436a of Title 42 of the United States Code to reside on a permanent basis in the assisted unit. In such an event, the household will be barred from submitting a new application for HRA HOME TBRA for not less than 24 months. This provision does not apply to a household if the ineligibility of the ineligible individual was considered in calculating the prorated HRA HOME TBRA rental assistance amount pursuant to subdivision (e) of section 9-08 of this chapter.
+   (1) HRA determines that a household member knowingly permitted another individual who is not eligible for HRA HOME TBRA due to immigration status in accordance with Part 5 of Title 24 of the Code of Federal Regulations and Section 1436a of Title 42 of the United States Code to reside on a permanent basis in the assisted unit. In such an event, the household will be barred from submitting a new application for HRA HOME TBRA for not less than 24 months. This provision does not apply to a household if the ineligibility of the ineligible individual was considered in calculating the prorated HRA HOME TBRA rental assistance amount pursuant to subdivision (e) of 68 RCNY §9-08.
 
    (2) The household is absent from the assisted unit for more than a total of 180 days in a 12-month period in any circumstance and for any reason.
 
@@ -4150,13 +4065,13 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
       (C) That the household is not maintaining an alternative residence.
 
-   (4) The household fails to grant access to the assisted unit for an HQS inspection pursuant to section 9-09 of this chapter.
+   (4) The household fails to grant access to the assisted unit for an HQS inspection pursuant to 68 RCNY §9-09.
 
    (5) The household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA. Such HQS failure may result from actions or inactions that include but are not limited to the household's failure to pay for any utilities for which the household is responsible for payment, or damage to the dwelling unit or premises beyond ordinary wear and tear caused by any member or guest of the household.
 
    (6) The household fails to comply with program obligations.
 
-   (7) The rental assistance amount calculated pursuant to subdivision (c) of section 9-08 of this chapter has been zero for six months.
+   (7) The rental assistance amount calculated pursuant to subdivision (c) of 68 RCNY §9-08 has been zero for six months.
 
 (Added City Record 11/30/2015, eff. 12/30/2015)
 
@@ -4171,8 +4086,6 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 (a) Unit Size.
 
    (1) A household will be assigned a standard unit size, corresponding to the number of bedrooms needed for the household size, as set forth in the table below. HRA shall assign such unit size at the time of coupon issuance and include it on the coupon issued to the household.
-
- 
 
  
 
@@ -4246,7 +4159,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
          (iv) Fifty dollars, which may be reduced based on financial hardship at HRA's discretion;
 
-      (B) The amount, if any, by which the rent exceeds the applicable rent standard amount established pursuant to subdivision (b) of section 9-08 of this chapter, after the household's first year in the assisted unit; and
+      (B) The amount, if any, by which the rent exceeds the applicable rent standard amount established pursuant to subdivision (b) of 68 RCNY §9-08, after the household's first year in the assisted unit; and
 
       (C) The amount, if any, by which the HRA HOME TBRA rental assistance amount has been reduced pursuant to subdivision (e) of this section.
 
@@ -4272,9 +4185,9 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 *§ 9-09 Inspections.* ::
 
 
-(a) A unit for which a household requests approval pursuant to subdivision (b) of section 9-06 of this chapter must pass an HQS inspection and will be subject to inspections in accordance with Section 92.209 of Title 24 of the Code of Federal Regulations, including but not limited to additional inspections to ensure continued compliance with HQS based on complaints from the household, landlord, interested third parties or the general public. Except in emergency situations, HRA will provide reasonable notice of any inspection and a reasonable opportunity for the landlord and household to reschedule an inspection.
+(a) A unit for which a household requests approval pursuant to subdivision (b) of 68 RCNY §9-06 must pass an HQS inspection and will be subject to inspections in accordance with Section 92.209 of Title 24 of the Code of Federal Regulations, including but not limited to additional inspections to ensure continued compliance with HQS based on complaints from the household, landlord, interested third parties or the general public. Except in emergency situations, HRA will provide reasonable notice of any inspection and a reasonable opportunity for the landlord and household to reschedule an inspection.
 
-(b) The landlord must maintain the assisted unit in accordance with HQS. If the landlord fails to maintain the assisted unit in accordance with HQS and fails to remedy any HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations within the period specified by HRA, HRA shall either abate HRA HOME TBRA rental assistance payments in their entirety until such time as the landlord remedies the HQS failure as determined by HRA, or terminate the Rental Assistance Contract and cease HRA HOME TBRA rental assistance payments. This provision does not apply if the landlord is not responsible for the HQS failure. If HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to this subdivision, HRA shall allow the household to move pursuant to section 9-10 of this chapter.
+(b) The landlord must maintain the assisted unit in accordance with HQS. If the landlord fails to maintain the assisted unit in accordance with HQS and fails to remedy any HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations within the period specified by HRA, HRA shall either abate HRA HOME TBRA rental assistance payments in their entirety until such time as the landlord remedies the HQS failure as determined by HRA, or terminate the Rental Assistance Contract and cease HRA HOME TBRA rental assistance payments. This provision does not apply if the landlord is not responsible for the HQS failure. If HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to this subdivision, HRA shall allow the household to move pursuant to 68 RCNY §9-10.
 
 (c) If the household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA, HRA shall terminate the household's participation in HRA HOME TBRA.
 
@@ -4292,7 +4205,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
    (1) The household is overcrowded in the assisted unit;
 
-   (2) HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to subdivision (b) of section 9-09 of this chapter;
+   (2) HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to subdivision (b) of 68 RCNY §9-09;
 
    (3) The lease for the assisted unit has terminated by mutual agreement of the household and landlord and the landlord signs a release of the lease and the Rental Assistance Contract;
 
@@ -4300,11 +4213,11 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
    (5) The need for the move is a direct result of a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis.
 
-(b) All requirements of section 9-06 of this chapter must be met before a household may move to a new assisted unit.
+(b) All requirements of 68 RCNY §9-06 must be met before a household may move to a new assisted unit.
 
-(c) If HRA has approved a move to a new unit, HRA shall reassign the household a unit size, re-determine the household's rent standard amount, and recalculate the HRA HOME TBRA rental assistance amount and the household's total monthly household contribution pursuant to section 9-08 of this chapter.
+(c) If HRA has approved a move to a new unit, HRA shall reassign the household a unit size, re-determine the household's rent standard amount, and recalculate the HRA HOME TBRA rental assistance amount and the household's total monthly household contribution pursuant to 68 RCNY §9-08.
 
-(d) Upon an approved move to a new unit, the household shall be recertified pursuant to subdivision (a) of section 9-07 of this chapter. The household's annual recertification cycle shall coincide with the new lease term.
+(d) Upon an approved move to a new unit, the household shall be recertified pursuant to subdivision (a) of 68 RCNY §9-07. The household's annual recertification cycle shall coincide with the new lease term.
 
 (e) If a household moves from an assisted unit, HRA HOME TBRA rental assistance payments for such unit shall cease as of the month after the month that the household moves from such unit. The landlord may keep the HRA HOME TBRA rental assistance payment for the month during which the household moves from such unit.
 
@@ -4342,7 +4255,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 *§ 9-12 Right of Review.* ::
 
 
-An applicant or program participant may request an agency review conference and/or an HRA administrative hearing pursuant to section 9-13 of this chapter to seek review of the following determinations only, but in no event shall an agency review conference or HRA administrative hearing be available to review a determination based solely on a lack of available funding for HRA HOME TBRA:
+An applicant or program participant may request an agency review conference and/or an HRA administrative hearing pursuant to 68 RCNY §9-13 to seek review of the following determinations only, but in no event shall an agency review conference or HRA administrative hearing be available to review a determination based solely on a lack of available funding for HRA HOME TBRA:
 
 (a) A denial of a household's application for HRA HOME TBRA;
 
@@ -4352,9 +4265,9 @@ An applicant or program participant may request an agency review conference and/
 
 (d) A household's removal from the waitlist;
 
-(e) A household's termination from HRA HOME TBRA pursuant to paragraphs (1)-(6) of subdivision (d) of section 9-07 of this chapter;
+(e) A household's termination from HRA HOME TBRA pursuant to paragraphs (1) - (6) of subdivision (d) of 68 RCNY §9-07;
 
-(f) The assignment of a household's unit size and the calculation of a household's HRA HOME TBRA rental assistance amount and monthly household contribution pursuant to section 9-08 of this chapter, provided that determinations of or changes to the HRA HOME TBRA rent standard amount shall not be reviewable; and
+(f) The assignment of a household's unit size and the calculation of a household's HRA HOME TBRA rental assistance amount and monthly household contribution pursuant to 68 RCNY §9-08, provided that determinations of or changes to the HRA HOME TBRA rent standard amount shall not be reviewable; and
 
 (g) A denial of a household's request to move.
 
@@ -4480,7 +4393,7 @@ An applicant or program participant may request an agency review conference and/
 
 (c) Households must report an absence of the household from the assisted unit, as well as the absence of any individual household member, that is expected to last more than 90 days and, where practicable, receive prior approval for the absence.
 
-(d) A guest shall not reside in an assisted unit for more than 90 days during a year unless such guest is added to the household as a member. To add such guest as a member of the household, the program participant must notify HRA of the change in household composition, and HRA shall conduct an interim recertification pursuant to subdivisions (b) and (c) of section 9-07 of this chapter. If a household does not seek to add a guest as a member of the household, HRA may ask the household to provide verification that the guest is not residing permanently in the assisted unit.
+(d) A guest shall not reside in an assisted unit for more than 90 days during a year unless such guest is added to the household as a member. To add such guest as a member of the household, the program participant must notify HRA of the change in household composition, and HRA shall conduct an interim recertification pursuant to subdivisions (b) and (c) of 68 RCNY §9-07. If a household does not seek to add a guest as a member of the household, HRA may ask the household to provide verification that the guest is not residing permanently in the assisted unit.
 
 (e) An applicant household does not have any right or entitlement to have its application selected for review, to be listed on the HRA HOME TBRA waitlist, to any particular position on such waitlist, or to selection for participation in HRA HOME TBRA. The preceding sentence does not affect or prejudice any right, independent of this chapter, to bring a judicial action challenging a violation of a constitutional or statutory requirement.
 
@@ -4492,11 +4405,304 @@ An applicant or program participant may request an agency review conference and/
 
 (i) A landlord who signs a lease with a household participating in HRA HOME TBRA is prohibited from demanding, requesting, or receiving any amount above the rent or fees as stipulated in the lease agreement regardless of any changes in household composition, except that a landlord may charge fees customarily charged in rental housing in accordance with Section 92.214(b)(3) of Title 24 of the Code of Federal Regulations subject to prior approval from HRA. Except as provided in the preceding sentence, a landlord who demands, requests or receives any amount above what is set forth in the lease will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing.
 
-(j) If a program participant moves or is evicted from an assisted unit, the landlord must return any over-payment to HRA except as otherwise provided in section 9-10 of this chapter.
+(j) If a program participant moves or is evicted from an assisted unit, the landlord must return any over-payment to HRA except as otherwise provided in 68 RCNY §9-10.
 
 (k) In the event of the death of the sole member of a household participating in HRA HOME TBRA, HRA HOME TBRA assistance cannot be transferred and will be terminated.
 
 (Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+Chapter 11: Pathway Home
+--------------------------------------------------
+
+
+
+*§ 11-01 Definitions.* ::
+
+
+(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+
+(b) "DHS" means the New York City Department of Homeless Services.
+
+(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
+
+(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
+
+(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+
+(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+
+(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
+
+(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
+
+(i) "HRA" means the New York City Human Resources Administration.
+
+(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+
+(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(m) The "Pathway Home Program" means the program established pursuant to this chapter.
+
+(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
+
+(o) A "program participant" means an adult household member.
+
+(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+
+(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+
+
+
+
+
+
+
+
+*§ 11-02 Administration of the Pathway Home Program.* ::
+
+
+HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
+
+
+
+
+
+
+
+
+*§ 11-03 Eligibility.* ::
+
+
+(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
+
+   (1) The household must meet one of the following conditions:
+
+      (A) The household resides in DHS shelter and
+
+         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
+
+         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
+
+      (B) The household is street homeless; or
+
+      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
+
+   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+
+   (4) All members of the household who are eligible for PA must be in receipt of PA.
+
+   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
+
+   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
+
+   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
+
+(b) Qualifying Shelter Stay and Limitations.
+
+   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
+
+   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
+
+(c) Applications must be submitted on a form and in a format established by HRA.
+
+(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
+
+
+
+
+
+
+
+
+*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
+
+
+(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Pathway Home Payments
+      - 
+      - 
+      - 
+    * - Household Size
+      - 1 or 2
+      - 3 or 4
+      - 5+
+    * - Monthly Payment to Host
+      - $1,200
+      -  $1,500
+      - $1,800
+~
+
+
+
+ 
+
+(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
+
+(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
+
+
+
+
+
+
+
+
+*§ 11-05 Moves.* ::
+
+
+(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
+
+(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
+
+
+
+
+
+
+
+
+*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+
+
+(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference.
+
+   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for a DSS Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+
+   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
+
+   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
+
+(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
+
+(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
+
+      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+
+   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+
+(m) Additional appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+
+
+
+
+
+
+
+*§ 11-07 Additional Provisions.* ::
+
+
+(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
+
+(b) Waitlists will not be maintained for the Pathway Home Program.
+
+(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
+
+(d) Shelter residents are responsible for identifying potential host families.
+
+(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
+
+(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
+
+(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
+
+(h) Any host family residence must pass a safety and habitability inspection. Additionally:
+
+   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
+
+   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
+
+(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
+
+(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
+
+
 
 
 
@@ -5111,299 +5317,6 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 (g) If HRA offers incentives to landlords to participate in the CityFHEPS program, such incentives shall not be available for the rental of a unit where the previous tenant was receiving CityFHEPS, FHEPS or rental assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8, unless the landlord can show good cause for not renewing such tenant, such as serious or repeated violations of the lease. Good cause will generally not be found unless the landlord has provided the tenant with 30 days written notice of the intent to not renew, including the reasons for non-renewal.
 
 (Added City Record 9/28/2018, eff. 10/28/2018)
-
-
-
-
-Chapter 11: Pathway Home
---------------------------------------------------
-
-
-
-*§ 11-01 Definitions.* ::
-
-
-(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
-
-(b) "DHS" means the New York City Department of Homeless Services.
-
-(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
-
-(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
-
-(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
-
-(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
-
-(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
-
-(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
-
-(i) "HRA" means the New York City Human Resources Administration.
-
-(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
-
-(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
-
-(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
-
-(m) The "Pathway Home Program" means the program established pursuant to this chapter.
-
-(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
-
-(o) A "program participant" means an adult household member.
-
-(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
-
-(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
-
-
-
-
-
-
-
-
-*§ 11-02 Administration of the Pathway Home Program.* ::
-
-
-HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
-
-
-
-
-
-
-
-
-*§ 11-03 Eligibility.* ::
-
-
-(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
-
-   (1) The household must meet one of the following conditions:
-
-      (A) The household resides in DHS shelter and
-
-         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
-
-         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
-
-      (B) The household is street homeless; or
-
-      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
-
-   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
-
-   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
-
-   (4) All members of the household who are eligible for PA must be in receipt of PA.
-
-   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
-
-   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
-
-   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
-
-   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
-
-(b) Qualifying Shelter Stay and Limitations.
-
-   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
-
-   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
-
-(c) Applications must be submitted on a form and in a format established by HRA.
-
-(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
-
-
-
-
-
-
-
-
-*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
-
-
-(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Pathway Home Payments
-      - 
-      - 
-      - 
-    * - Household Size
-      - 1 or 2
-      - 3 or 4
-      - 5+
-    * - Monthly Payment to Host
-      - $1,200
-      -  $1,500
-      - $1,800
-~
-
-
-
- 
-
-(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
-
-(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
-
-
-
-
-
-
-
-
-*§ 11-05 Moves.* ::
-
-
-(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
-
-(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
-
-
-
-
-
-
-
-
-*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
-
-
-(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
-
-(b) Agency Review Conference.
-
-   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
-
-   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
-
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
-
-   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
-
-(c) Request for a DSS Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
-
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
-
-(d) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
-
-   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
-
-(e) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
-
-   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
-
-   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
-
-      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
-
-(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
-
-(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
-
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
-
-(i) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
-
-   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
-
-(j) Abandonment of Request for Administrative Hearing.
-
-   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
-
-      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
-
-   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
-
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
-
-(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
-
-   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
-
-   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
-
-(m) Additional appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
-
-   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
-
-   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
-
-   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
-
-
-
-
-
-
-
-
-*§ 11-07 Additional Provisions.* ::
-
-
-(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
-
-(b) Waitlists will not be maintained for the Pathway Home Program.
-
-(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
-
-(d) Shelter residents are responsible for identifying potential host families.
-
-(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
-
-(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
-
-(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
-
-(h) Any host family residence must pass a safety and habitability inspection. Additionally:
-
-   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
-
-   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
-
-(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
-
-(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
-
-
 
 
 

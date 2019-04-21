@@ -11454,8 +11454,7 @@ The tax is calculated at the rate applicable to a sale of an individual cooperat
 
    (9) Credit. In the case of the original transfer of cooperative housing corporation stock by a cooperative corporation or cooperative plan sponsor in connection with the grant or transfer of a proprietary leasehold, a credit is allowed for a proportionate part of the amount of any tax paid upon the conveyance to the cooperative housing corporation of the land and building or buildings comprising the cooperative dwelling or dwellings. This credit is calculated as follows:
 
-Credit = A ×
-									N          T
+Credit = A ×   N      T
 
 Where:
 
@@ -11467,7 +11466,7 @@ Where:
 
 To illustrate: X, the owner of a ten unit apartment building, sells the property to Y Cooperative Corporation for $1,000,000. A transfer tax of $20,000 is paid in connection with this transfer. Y is authorized to issue 100 shares of stock. Each of the 10 apartments is allocated 10 shares. Y sells 10 shares to Z for $300,000 within 24 months of payment by X of the $20,000 transfer tax. A credit is allowed against the $3,000 transfer tax due on this subsequent sale from Y to Z, computed as follows:
 
-Credit = $20,000 ×  10  = $2,000       100
+Credit = $20,000 ×   10= $2,000      100
 
 This credit shall not reduce the transfer tax due on the stock sale from the cooperative housing corporation or sponsor below zero. This credit applies only for original transfers of stock by the cooperative housing corporation or cooperative plan sponsor. It does not apply to taxable resales of cooperative housing corporation stock. No credit is allowed for any tax paid more than 24 months prior to the date on which occurs the first in a series of transfers of shares of stock in the offering of cooperative housing corporation shares. Thus, if the first of the original transfers of shares from the cooperative housing corporation or sponsor is made within 24 months of the payment of the tax imposed on the conveyance of the property to the cooperative housing corporation, then all original transfers from the cooperative housing corporation or plan sponsor, regardless of when made, will be entitled to an appropriate credit. If the first transfer is made more than 24 months after payment of the tax imposed on the conveyance of the property to the cooperative housing corporation, then no credit is allowed.
 
@@ -15845,15 +15844,21 @@ Example 6: Corporation A is a member of three joint ventures: AB, AC and AD. Cor
 
 The maximum additional exemption allowable to venture AB for Corporation A is its pro rata share of Corporation A's net income allocable to New York City or $50,000
 
-[$400,000 × $100,000 = $50,000].       $800,000
+
+										
+										[$400,000 ×   $100,000 = $50,000].    $800,000
 
 The maximum additional exemption allowable to venture AC for its distribution to Corporation A is $150,000
 
-[$400,000 × $300,000 = $150,000].       $800,000
+
+										
+										[$400,000 ×   $300,000 = $150,000].    $800,000
 
 The maximum additional exemption allowable to venture AD for its distribution to Corporation A is $200,000
 
-[$400,000 × $400,000 = $200,000].       $800,000
+
+										
+										[$400,000 ×   $400,000 = $200,000].    $800,000
 
       (iv) The additional exemption allowed an unincorporated business with respect to a corporate partner is limited to the corporate partner's net income allocable to the City even though the corporate partner does not pay a New York City general corporation tax measured by allocated net income because one of the alternative measures of the general corporation tax produces a higher tax.
 

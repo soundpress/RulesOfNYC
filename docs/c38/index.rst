@@ -517,11 +517,11 @@ The Commissioner from time to time shall establish fees for use by the public of
 *§ 1-07 Civil Penalties.* ::
 
 
-(a) Any violation of these rules shall subject the respondent to a civil penalty which may be recovered in a proceeding before the Office of Administrative Trials and Hearings, pursuant to Section 1049-a of the Charter. Such proceedings will be commenced by the service of a civil summons returnable to the Office of Administrative Trials and Hearings in accordance with such section. The Office of Administrative Trials and Hearings may impose the penalties in the following table below for violations of the Department’s rules.
+(a) Any violation of these rules shall subject the respondent to a civil penalty which may be recovered in a proceeding before the Office of Administrative Trials and Hearings, pursuant to § 1049-a of the Charter. Such proceedings will be commenced by the service of a civil summons returnable to the Office of Administrative Trials and Hearings in accordance with such section. The Office of Administrative Trials and Hearings may impose the penalties in the following table below for violations of the Department’s rules.
 
-(b) In addition, except as otherwise provided below, violation of the rules of this chapter shall also constitute an offense (classified as a “violation” under the Penal Law), which may be punished in a separate court proceeding by imprisonment of up to one day or a fine of not more than $200. Violations marked with an asterisk are also misdemeanors prohibited by Section 18-146 or Section 18-147 of the New York City Administrative Code and are subject to additional penalties.
+(b) In addition, except as otherwise provided below, violation of the rules of this chapter shall also constitute an offense (classified as a “violation” under the Penal Law), which may be punished in a separate court proceeding by imprisonment of up to one day or a fine of not more than $200. Violations marked with an asterisk are also misdemeanors prohibited by § 18-146 or § 18-147 of the New York City Administrative Code and are subject to additional penalties.
 
-(c) “Default penalty” shall mean the penalty imposed by the Office of Administrative Tribunals and Hearings acting, pursuant to Section 1049-a of the Charter of the City of New York in accordance with subparagraph (d) of paragraph one of subdivision d of Section 1049-1 of such Charter.
+(c) “Default penalty” shall mean the penalty imposed by the Office of Administrative Tribunals and Hearings acting, pursuant to § 1049-a of the Charter of the City of New York in accordance with subparagraph (d) of paragraph one of subdivision d of § 1049-1 of such Charter.
 
  
 
@@ -1421,9 +1421,9 @@ SUMMER DAY CAMP
 .. list-table::
     :header-rows: 1
 
-    * - Regular Day Session (9:00 A.M. to 5:00 P.M.)Ages 6-13
+    * - Regular Day Session (9:00 A.M. to 5:00 P.M.)Ages 6 - 13
       - $500.00 per child
-    * - Extended Day Session (8 A.M. to 6:00 P.M.)Ages 6-13
+    * - Extended Day Session (8 A.M. to 6:00 P.M.)Ages 6 - 13
       - $575.00 per child
 ~
 
@@ -1523,7 +1523,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
    Sampling. "Sampling" shall mean the direct distribution of a commercial product or service to the public for the purpose of promoting that product.
 
-(b) A permit pursuant to 56 RCNY § 2-08 shall not issue until the permittee has paid the concession fee required by the Department under this section, unless otherwise exempted by this section. The Commissioner shall charge an applicant a concession fee in accordance with the following schedule. The concession fee shall be charged in addition to any bonding requirement imposed by the Commissioner pursuant to 56 RCNY § 1-03(b)(4) of this title or any other amount or fee imposed by any other City agency or agencies.
+(b) A permit pursuant to 56 RCNY § 2-08 shall not issue until the permittee has paid the concession fee required by the Department under this section, unless otherwise exempted by this section. The Commissioner shall charge an applicant a concession fee in accordance with the following schedule. The concession fee shall be charged in addition to any bonding requirement imposed by the Commissioner pursuant to 56 RCNY § 1-03(b)(4) or any other amount or fee imposed by any other City agency or agencies.
 
  
 
@@ -1544,16 +1544,16 @@ CAPITAL PROJECT BID DOCUMENTS
       - Level C Parks 
       - Level D Parks 
     * - Promotional/Commercial, Private
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Under 25% of Designated Area
       - N/A
       - $12,000
       - $7,200
       - $2,400
-    * - 25%-50% of Designated Area
+    * - 25% - 50% of Designated Area
       - N/A
       - $20,000
       - $12,000
@@ -1564,21 +1564,21 @@ CAPITAL PROJECT BID DOCUMENTS
       - $13,200
       - $4,400
     * - Athletic
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Athletic Non-Charitable Event
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Under 25% of Designated Area
       - N/A
       - $8,000
       - $4,800
       - $1,600
-    * - 25%-50% of Designated Area
+    * - 25% - 50% of Designated Area
       - N/A
       - $16,000
       - $9,600
@@ -1589,16 +1589,16 @@ CAPITAL PROJECT BID DOCUMENTS
       - $10,800
       - $3,600
     * - Athletic Charitable Event
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Under 25% of Designated Area
       - N/A
       - $1,000
       - $600
       - $200
-    * - 25%-50% of Designated Area
+    * - 25% - 50% of Designated Area
       - N/A
       - $2,000
       - $1,200
@@ -1609,16 +1609,16 @@ CAPITAL PROJECT BID DOCUMENTS
       - $1,800
       - $600
     * - General Event
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Under 25% of Designated Area
       - N/A
       - $3,000
       - $1,800
       - $600
-    * - 25%-50% of Designated Area
+    * - 25% - 50% of Designated Area
       - N/A
       - $11,000
       - $6,600
@@ -1629,10 +1629,10 @@ CAPITAL PROJECT BID DOCUMENTS
       - $7,800
       - $2,600
     * - Subtotal:
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Fixed-Rate Charges*
       - Level A Parks 
       - Level B Parks 
@@ -1649,16 +1649,16 @@ CAPITAL PROJECT BID DOCUMENTS
       - $900
       - $300
     * - Tent
-      -  
-      -  
-      -  
-      -  
-    * - 801 sq. ft.-6,400 sq. ft.
+      - 
+      - 
+      - 
+      - 
+    * - 801 sq. ft. - 6,400 sq. ft.
       - $4,200
       - $3,000
       - $1,800
       - $600
-    * - 6,401 sq. ft.-10,000 sq. ft.
+    * - 6,401 sq. ft. - 10,000 sq. ft.
       - N/A
       - $6,400
       - $3,840
@@ -1669,16 +1669,16 @@ CAPITAL PROJECT BID DOCUMENTS
       - $6,000
       - $2,000
     * - Stage
-      -  
-      -  
-      -  
-      -  
-    * - 1,000 cubic ft.-2,500 cubic ft.
+      - 
+      - 
+      - 
+      - 
+    * - 1,000 cubic ft. - 2,500 cubic ft.
       - $2,100
       - $1,500
       - $900
       - $300
-    * - 2,501 cubic ft.-10,000 cubic ft.
+    * - 2,501 cubic ft. - 10,000 cubic ft.
       - $7,000
       - $5,000
       - $3,000
@@ -1689,11 +1689,11 @@ CAPITAL PROJECT BID DOCUMENTS
       - $6,000
       - $2,000
     * - Back Drop
-      -  
-      -  
-      -  
-      -  
-    * - 6 ft.-20 ft.
+      - 
+      - 
+      - 
+      - 
+    * - 6 ft. - 20 ft.
       - $7,000
       - $5,000
       - $3,000
@@ -1704,25 +1704,25 @@ CAPITAL PROJECT BID DOCUMENTS
       - $6,000
       - $2,000
     * - Inflatables**
-      -  
-      -  
-      -  
-      -  
-    * - 15 cubic feet-50 cubic feet
+      - 
+      - 
+      - 
+      - 
+    * - 15 cubic feet - 50 cubic feet
       - $7,000
       - $5,000
       - $3,000
       - $1,000
-    * - 51 cubic feet-100 cubic feet
+    * - 51 cubic feet - 100 cubic feet
       - $14,000
       - $10,000
       - $6,000
       - $2,000
     * - Display Vehicles***
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Mid-size
       - $10,000
       - $7,500
@@ -1734,40 +1734,40 @@ CAPITAL PROJECT BID DOCUMENTS
       - $7,500
       - $3,000
     * - Event Time
-      -  
-      -  
-      -  
-      -  
-    * - 18 Hours-48 Hours
+      - 
+      - 
+      - 
+      - 
+    * - 18 Hours - 48 Hours
       - $7,000
       - $5,000
       - $3,000
       - $1,000
-    * - 49 Hours-96 Hours
+    * - 49 Hours - 96 Hours
       - $14,000
       - $10,000
       - $6,000
       - $2,000
-    * - 97 Hours-168 Hours
+    * - 97 Hours - 168 Hours
       - $28,000
       - $20,000
       - $12,000
       - $4,000
     * - 169 Hours and More
-      -  
-      - priced bynegotiation
-      -  
-      -  
+      - 
+      - priced by negotiation
+      - 
+      - 
     * - Subtotal:
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
     * - Total:
-      -  
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
+      - 
 ~
 
  
@@ -1850,29 +1850,29 @@ CAPITAL PROJECT BID DOCUMENTS
 
 (a) The following terms (as they are used in this section) will have the meanings listed below:
 
-"Adult League." Adult Leagues are Adult Recreation sports leagues, including, but not limited to community based organization leagues, independent leagues, college leagues and corporate leagues.
+   "Adult League." Adult Leagues are Adult Recreation sports leagues, including, but not limited to community based organization leagues, independent leagues, college leagues and corporate leagues.
 
-"Adult Recreation." Adult Recreation refers to a category of applicants for and holders of permits for the use of ballfields or courts for athletic activity that are not within the category of Youth Recreation.
+   "Adult Recreation." Adult Recreation refers to a category of applicants for and holders of permits for the use of ballfields or courts for athletic activity that are not within the category of Youth Recreation.
 
-"New Applicant." New Applicant(s) are:
+   "New Applicant." New Applicant(s) are:
 
-   (1) those applicant(s) that received permits for the previous year or season, and wish to apply for a different number of hours, or a different number of ballfields or courts at the same location for which a permit was held in the previous year or season;
+      (1) those applicant(s) that received permits for the previous year or season, and wish to apply for a different number of hours, or a different number of ballfields or courts at the same location for which a permit was held in the previous year or season;
 
-   (2) applicant(s) who have never sought permits for the use of a particular ballfield or court before; or
+      (2) applicant(s) who have never sought permits for the use of a particular ballfield or court before; or
 
-   (3) Returning Applicant(s) who include new or additional requests in their permit application(s) are treated as New Applicant(s) for such new or additional permit requests.
+      (3) Returning Applicant(s) who include new or additional requests in their permit application(s) are treated as New Applicant(s) for such new or additional permit requests.
 
-"Returning Applicant." Returning Applicant(s) are those applicant(s) requesting the same number of hours, and number of ballfields or courts at a location as they received under permit(s) for the previous year or season.
+   "Returning Applicant." Returning Applicant(s) are those applicant(s) requesting the same number of hours, and number of ballfields or courts at a location as they received under permit(s) for the previous year or season.
 
-"Seasonal Applicant." Seasonal Applicant(s) are all applicants who are not within the category of Short Term Permit Applicants.
+   "Seasonal Applicant." Seasonal Applicant(s) are all applicants who are not within the category of Short Term Permit Applicants.
 
-"Short Term Permit Applicant." Short Term Applicant(s) are applicants that request permits to use ballfield(s) or court(s) for no more than four (4) days of athletic activity within a seven (7) day period. The request must not be connected with any other request for a ballfield or court permit during the same season.
+   "Short Term Permit Applicant." Short Term Applicant(s) are applicants that request permits to use ballfield(s) or court(s) for no more than four (4) days of athletic activity within a seven (7) day period. The request must not be connected with any other request for a ballfield or court permit during the same season.
 
-"Youth League." Youth Leagues are Youth Recreation sports leagues, including, but not limited to high school leagues, little leagues, community based organization leagues, and unaffiliated leagues.
+   "Youth League." Youth Leagues are Youth Recreation sports leagues, including, but not limited to high school leagues, little leagues, community based organization leagues, and unaffiliated leagues.
 
-"Youth Recreation." Youth Recreation refers to a category of applicants for and holders of permits for athletic activity with participants who are all 17 years old or younger. Youth Recreation shall also include school recreation programs (grade school through high school athletic programs) regardless of the age of the participants.
+   "Youth Recreation." Youth Recreation refers to a category of applicants for and holders of permits for athletic activity with participants who are all 17 years old or younger. Youth Recreation shall also include school recreation programs (grade school through high school athletic programs) regardless of the age of the participants.
 
-(b) (1) Permit Application Process. Any person who wishes to reserve a ballfield or court under the jurisdiction or management of the Department for basketball, handball, baseball, softball, cricket, roller hockey, volleyball, football, lacrosse, rugby, ultimate frisbee, soccer, or any other ballfield or court sport must obtain a written permit from the Department. Any person applying for a permit on behalf of a group or athletic league must indicate that they are doing so on the permit application. Only one (1) individual per group or athletic league may apply for a permit. Tennis permit regulations are separately addressed in section 2-01.
+(b) (1) Permit Application Process. Any person who wishes to reserve a ballfield or court under the jurisdiction or management of the Department for basketball, handball, baseball, softball, cricket, roller hockey, volleyball, football, lacrosse, rugby, ultimate frisbee, soccer, or any other ballfield or court sport must obtain a written permit from the Department. Any person applying for a permit on behalf of a group or athletic league must indicate that they are doing so on the permit application. Only one (1) individual per group or athletic league may apply for a permit. Tennis permit regulations are separately addressed in 56 RCNY § 2-01.
 
    (2) The permit applicant must submit all applications to the Department's borough permit office in the borough where the requested ballfield or court is located. Applications may be submitted via postal mail, through the Department's website, or in-person or via facsimile (fax). Permit applications received by the borough permit office will be date and time stamped to acknowledge receipt. Applicants must apply separately to each borough permit office where they are seeking a ballfield or court.
 
@@ -1885,13 +1885,13 @@ CAPITAL PROJECT BID DOCUMENTS
     :header-rows: 1
 
     * - Season
-      - Spring and SummerSeason
+      - Spring and Summer Season
       - Fall Season
       - Winter Season
-    * - ApplicationPeriod
-      - November 15 throughJanuary 15
+    * - Application Period
+      - November 15 through January 15
       - April 15 through June 15
-      - September 15 throughNovember 1
+      - September 15 through November 1
 ~
 
 
@@ -1907,13 +1907,13 @@ CAPITAL PROJECT BID DOCUMENTS
     :header-rows: 1
 
     * - Season
-      - Spring and SummerSeason
+      - Spring and Summer Season
       - Fall Season
-      - Winter Season
-    * - SeasonalRecreationalPeriod
-      - March 17 throughAugust 31
-      - September 1st throughNovember 31
-      - December 1 throughMarch 16November 1
+      - Winter Season 
+    * - Seasonal Recreational Period
+      - March 17 through August 31
+      - September 1 through November 31
+      - December 1 through March 16
 ~
 
 
@@ -1976,7 +1976,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
    (10) The Department may inspect any ballfield or court to determine if the permit holder is utilizing all of its permitted time. In the event that the Department determines the permit holder is not using all of the permitted time, the Department may reduce the amount of permitted time.
 
-   (11) If the use of ballfields or courts constitutes a special event as outlined in 56 RCNY § 2-08 of the Department's rules, a special event permit shall be required in addition to the relevant ballfield permits. If the use of ballfields or courts involves vending as outlined in 56 RCNY § 1-05(b) of the Department's rules, vending permits shall be required in addition to the relevant ballfield permits.
+   (11) If the use of ballfields or courts constitutes a special event as outlined in 56 RCNY § 2-08, a special event permit shall be required in addition to the relevant ballfield permits. If the use of ballfields or courts involves vending as outlined in 56 RCNY § 1-05(b), vending permits shall be required in addition to the relevant ballfield permits.
 
 
 
@@ -2004,19 +2004,19 @@ CAPITAL PROJECT BID DOCUMENTS
 
    Person with Disability Athletic Complex Membership Fee. “Person with Disability Athletic Complex Membership Fee” means the membership fee for use of the Ocean Breeze Park Track &amp; Field Athletic Complex for all patrons who present government-issued photo identification along with one of the following documents when purchasing or renewing a membership:
 
-      • New York City Department of Transportation Parking Permit for People with Disabilities (PPPD);
+      •   New York City Department of Transportation Parking Permit for People with Disabilities (PPPD);
 
-      • MTA Access-A-Ride ID card;
+      •   MTA Access-A-Ride ID card;
 
-      • MTA Reduced Fare ID card;
+      •   MTA Reduced Fare ID card;
 
-      • Certification from the New York State Office of Mental Health that the patron is receiving services from a program it licenses, operates, certifies, or funds;
+      •   Certification from the New York State Office of Mental Health that the patron is receiving services from a program it licenses, operates, certifies, or funds;
 
-      • Certification from the New York State Office for People with Developmental Disabilities that the patron is eligible to receive services from a program it licenses, operates, certifies, or funds;
+      •   Certification from the New York State Office for People with Developmental Disabilities that the patron is eligible to receive services from a program it licenses, operates, certifies, or funds;
 
-      • Certification from the New York State Commission for the Blind that the patron has a central visual acuity of 20/200 or less or limitation in the field of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees in the better eye with the use of a correcting lens; or
+      •   Certification from the New York State Commission for the Blind that the patron has a central visual acuity of 20/200 or less or limitation in the field of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees in the better eye with the use of a correcting lens; or
 
-      • New York State Parks Individual Access Pass.
+      •   New York State Parks Individual Access Pass.
 
 This membership fee does not include the Track &amp; Field Practice Fee. Membership includes, but is not limited to, use of the Track &amp; Field Area during designated times, fitness equipment, recreational programs, and group fitness classes. Documents presented to the Department will not be retained after the applicant’s eligibility for the membership fee is determined.
 
@@ -2034,41 +2034,39 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
    Veteran Athletic Complex Membership Fee. “Veteran Athletic Complex Membership Fee” means the membership fee for use of the Ocean Breeze Track &amp; Field Athletic Complex for all patrons who present one of the following forms of documentation when purchasing or renewing a membership:
 
-      • New York City IDNYC with Veteran Designator;
+      •   New York City IDNYC with Veteran Designator;
 
-      • New York State DMV Driver’s License or Non-Driver ID with Veteran Designator;
+      •   New York State DMV Driver’s License or Non-Driver ID with Veteran Designator;
 
-      • United States Uniformed Services Identification Card for Retired Personnel (DD-2 RET);
+      •   United States Uniformed Services Identification Card for Retired Personnel (DD-2 RET);
 
-      • U.S. Department of Veterans’ Affairs Veterans Hospital Identification Card (VHIC);
+      •   U.S. Department of Veterans’ Affairs Veterans Hospital Identification Card (VHIC);
 
-      • Armed Forces of the United States Report of Transfer or Discharge (DD-214) with government-issued photo identification; or
+      •   Armed Forces of the United States Report of Transfer or Discharge (DD-214) with government-issued photo identification; or
 
-      • National Guard Bureau Report of Separation &amp; Record of Service (NGB-22) with government-issued photo identification.
+      •   National Guard Bureau Report of Separation &amp; Record of Service (NGB-22) with government-issued photo identification.
 
 This membership fee does not include the Track &amp; Field Practice Fee. Membership includes, but is not limited to, use of the Track &amp; Field Area during designated times, fitness equipment, recreational programs, and group fitness classes.
 
    Veteran Track &amp; Field Practice Fee. “Veteran Track &amp; Field Practice Fee” means the Track &amp; Field Practice Fee for all patrons who present one of the following forms of documentation:
 
-      • New York City IDNYC with Veteran Designator;
+      •   New York City IDNYC with Veteran Designator;
 
-      • New York State DMV Driver’s License or Non-Driver ID with Veteran Designator;
+      •   New York State DMV Driver’s License or Non-Driver ID with Veteran Designator;
 
-      • United States Uniformed Services Identification Card for Retired Personnel (DD-2 RET);
+      •   United States Uniformed Services Identification Card for Retired Personnel (DD-2 RET);
 
-      • U.S. Department of Veterans’ Affairs Veterans Hospital Identification Card (VHIC);
+      •   U.S. Department of Veterans’ Affairs Veterans Hospital Identification Card (VHIC);
 
-      • Armed Forces of the United States Report of Transfer or Discharge (DD-214) with government-issued photo identification; or
+      •   Armed Forces of the United States Report of Transfer or Discharge (DD-214) with government-issued photo identification; or
 
-      • National Guard Bureau Report of Separation &amp; Record of Service (NGB-22) with government-issued photo identification.
+      •   National Guard Bureau Report of Separation &amp; Record of Service (NGB-22) with government-issued photo identification.
 
    Young Adult Athletic Complex Membership Fee. "Young Adult Athletic Complex Membership Fee" means the membership fee for use of the Ocean Breeze Track &amp; Field Athletic Complex for patrons between and including eighteen (18) and twenty-four (24) years old. This membership fee does not include the Track &amp; Field Practice Fee. Membership includes, but is not limited to, use of the Track &amp; Field Area during designated times, fitness equipment, recreational programs, and group fitness classes. Patrons must present government-issued photo identification to demonstrate eligibility for the Young Adult Athletic Complex Membership Fee.
 
    Young Adult Track &amp; Field Practice Fee. "Young Adult Track &amp; Field Practice Fee” means the Track &amp; Field Practice Fee for all patrons between and including eighteen (18) and twenty-four (24) year olds. Patrons must present government-issued photo identification to demonstrate eligibility for the Young Adult Track &amp; Field Practice Fee.
 
 (b) Ocean Breeze Track &amp; Field Athletic Complex Membership Fees. The annual membership does not include Track &amp; Field Session Fee or Track &amp; Field Practice Fees.The Ocean Breeze Park Track &amp; Field Athletic Complex member the following amount an annual membership fees are:
-
- 
 
  
 
@@ -2098,8 +2096,6 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
  
 
- 
-
 
 .. list-table::
     :header-rows: 1
@@ -2123,8 +2119,6 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
  
 
 (d) Track &amp; Field Session Fees. Track &amp; Field Sessions are only available in two-hour increments, and a person may pay for multiple Track &amp; Field Sessions to schedule an athletic event lasting longer than two hours. The Track &amp; Field Session fees are:
-
- 
 
  
 
@@ -2152,8 +2146,6 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $200.00 for each two-hour Track &amp; Field Session 
     * - Event management software 
       - $250.00 for each event
-    * -  
-      -  
 ~
 
 
@@ -2182,19 +2174,19 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
    Person with Disability Membership Fee. “Person with Disability Membership Fee” means the membership fee for use of recreation centers for all patrons who present government-issued photo identification along with one of the following documents when purchasing or renewing a membership:
 
-      • New York City Department of Transportation Parking Permit for People with Disabilities (PPPD);
+      •   New York City Department of Transportation Parking Permit for People with Disabilities (PPPD);
 
-      • MTA Access-A-Ride ID card;
+      •   MTA Access-A-Ride ID card;
 
-      • MTA Reduced Fare ID card;
+      •   MTA Reduced Fare ID card;
 
-      • Certification from the New York State Office of Mental Health that the patron is receiving services from a program it licenses, operates, certifies, or funds;
+      •   Certification from the New York State Office of Mental Health that the patron is receiving services from a program it licenses, operates, certifies, or funds;
 
-      • Certification from the New York State Office for People with Developmental Disabilities that the patron is eligible to receive services from a program it licenses, operates, certifies, or funds;
+      •   Certification from the New York State Office for People with Developmental Disabilities that the patron is eligible to receive services from a program it licenses, operates, certifies, or funds;
 
-      • Certification from the New York State Commission for the Blind that the patron has a central visual acuity of 20/200 or less or limitation in the field of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees in the better eye with the use of a correcting lens; or
+      •   Certification from the New York State Commission for the Blind that the patron has a central visual acuity of 20/200 or less or limitation in the field of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees in the better eye with the use of a correcting lens; or
 
-      • New York State Parks Individual Access Pass.
+      •   New York State Parks Individual Access Pass.
 
 This membership does not include session fees. Membership includes, but is not limited to, use of fitness equipment, indoor pools and computer resource centers. Documents presented to the Department will not be retained after the applicant’s eligibility for the membership fee is determined.
 
@@ -2210,17 +2202,17 @@ This membership does not include session fees. Membership includes, but is not l
 
    Veteran Membership Fee. “Veteran Membership Fee” means the membership fee for use of recreation centers for all patrons who present one of the following forms of documentation when purchasing or renewing a membership:
 
-      • New York City IDNYC with Veteran Designator;
+      •   New York City IDNYC with Veteran Designator;
 
-      • New York State DMV Driver’s License or Non-Driver ID with Veteran Designator;
+      •   New York State DMV Driver’s License or Non-Driver ID with Veteran Designator;
 
-      • United States Uniformed Services Identification Card for Retired Personnel (DD-2 RET);
+      •   United States Uniformed Services Identification Card for Retired Personnel (DD-2 RET);
 
-      • U.S. Department of Veterans’ Affairs Veterans Hospital Identification Card (VHIC);
+      •   U.S. Department of Veterans’ Affairs Veterans Hospital Identification Card (VHIC);
 
-      • Armed Forces of the United States Report of Transfer or Discharge (DD-214) with government-issued photo identification; or
+      •   Armed Forces of the United States Report of Transfer or Discharge (DD-214) with government-issued photo identification; or
 
-      • National Guard Bureau Report of Separation &amp; Record of Service (NGB-22) with government-issued photo identification.
+      •   National Guard Bureau Report of Separation &amp; Record of Service (NGB-22) with government-issued photo identification.
 
 This membership does not include session fees. Membership includes, but is not limited to, use of fitness equipment, indoor pools and computer resource centers.
 
@@ -2237,14 +2229,14 @@ This membership does not include session fees. Membership includes, but is not l
 .. list-table::
     :header-rows: 1
 
-    * - Type ofRecreation Center
-      - ChildMembership Fee
-      - Young AdultMembership Fee
-      - AdultMembership Fee
-      - Adult Membership Fee(with valid IDNYC Card)
-      - VeteranMembership Fee
-      - Person with DisabilityMembership Fee
-      - Senior CitizenMembership Fee
+    * - Type of Recreation Center
+      - Child Membership Fee
+      - Young Adult Membership Fee
+      - Adult Membership Fee
+      - Adult Membership Fee (with valid IDNYC Card)
+      - Veteran Membership Fee
+      - Person with Disability Membership Fee
+      - Senior Citizen Membership Fee
     * - Recreation Center with Indoor Pool
       - $0
       - $25
@@ -2275,7 +2267,7 @@ This membership does not include session fees. Membership includes, but is not l
 .. list-table::
     :header-rows: 1
 
-    * - Type ofRecreation Center
+    * - Type of Recreation Center
       - Session Fee(Maximum)
     * - Recreation Center with Indoor Pool
       - $10 - $100
@@ -2341,7 +2333,7 @@ This membership does not include session fees. Membership includes, but is not l
 .. list-table::
     :header-rows: 1
 
-    * -  
+    * - 
       - Department Groups
       - Youth Groups and Students
       - 18 to 24-Year-Old Groups
@@ -2351,12 +2343,12 @@ This membership does not include session fees. Membership includes, but is not l
       - Single classroom or park program: $100 for every 30 participantsCombined classroom and park program: $125 for every 30 participants*Schools receiving Title I funding are eligible for a 50% discount.
       - Single classroom or park program: $100 for every 30 participants
       - Single classroom or park program: $250 for every 30 participants
-    * - Custom Adventure — Day Program
+    * - Custom Adventure – Day Program
       - No fee
       - $250 for every 30 participants
       - $750 for every 30 participants
       - $1,000 for every 30 participants
-    * - Custom Adventure — Overnight Program
+    * - Custom Adventure – Overnight Program
       - No fee
       - $500 for every 30 participants and up to 10 chaperones
       - $1,500 for every 30 participants
@@ -2379,7 +2371,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 
-*§ 2-16 [Automated External Defibrillators]** ::
+*§ 2-16 [Automated External Defibrillators.]* ::
 
 
 The Department will place automated external defibrillators in the following locations:
@@ -2537,7 +2529,7 @@ Waiting list. "Waiting list" means a list maintained by the Department of person
 
 (a) The marina, piers and boat basin are open to permittees, a permittee's family, their guests, contractors and other persons who have obtained the permission of the dockmaster or Department to enter. All private contractors must be properly licensed and insured, proof of which shall be registered with the marina division. In addition, the dockmaster shall establish and post regular hours during which the public shall have access to specified portions of the marina and boat basin.
 
-(b) Keys are issued to the marina and boat basin piers each year for permittees. To receive a key, permittees must have paid for the full seasonal dockage or mooring and have no other outstanding charges, and must sign an agreement regarding the Department's key policy. Permittees must also have completed a dockage or mooring permit application and provided all required vessel insurance and registration as required by 56 RCNY § 3-06 (d) and (q).
+(b) Keys are issued to the marina and boat basin piers each year for permittees. To receive a key, permittees must have paid for the full seasonal dockage or mooring and have no other outstanding charges, and must sign an agreement regarding the Department's key policy. Permittees must also have completed a dockage or mooring permit application and provided all required vessel insurance and registration as required by 56 RCNY § 3-06(d) and (q).
 
 
 
@@ -2549,7 +2541,7 @@ Waiting list. "Waiting list" means a list maintained by the Department of person
 
 Access to the marina, piers and boat basin by guests is subject to the following conditions:
 
-(a) All guests and members of a permittee's family must comply with these rules. Anyone who fails to comply with such rules may be expelled from the facility. Anyone who repeatedly fails to comply with the rules may be permanently barred from the facility. Permittees are responsible for the conduct of their guests and family members. Violations of these rules by guests and/or a permittee's family can be grounds for termination of the permittee's permit in accordance with § 3-06(g) of this chapter.
+(a) All guests and members of a permittee's family must comply with these rules. Anyone who fails to comply with such rules may be expelled from the facility. Anyone who repeatedly fails to comply with the rules may be permanently barred from the facility. Permittees are responsible for the conduct of their guests and family members. Violations of these rules by guests and/or a permittee's family can be grounds for termination of the permittee's permit in accordance with 56 RCNY § 3-06(g).
 
 (b) In the interest of safety, the dockmaster may limit the number of guests on a vessel. In no cases shall the number of persons on board a vessel exceed the manufacturer's builders plate.
 
@@ -2599,11 +2591,11 @@ All vessels in the marina, piers and boat basin may be boarded by authorized off
 
 (j) The supervisory dockmaster may revoke, terminate or refuse to renew any permit issued pursuant to this section:
 
-(k) where the permittee or applicant for the renewal has been found liable in a proceeding before the Environmental Control Board of the City of New York (ECB) or in a court of three or more violations of these rules set forth in 56 RCNY Chapters 1 and 2 of this title;
+(k) where the permittee or applicant for the renewal has been found liable in a proceeding before the Environmental Control Board of the City of New York (ECB) or in a court of three or more violations of these rules set forth in 56 RCNY Chapters 1 and 2;
 
    (2) where the applicant for renewal or permittee has failed to pay any outstanding fees, charges, fines or civil penalties within 15 days of the date of mailing of a written notice of such outstanding amount;
 
-   (3) where the permittee or applicant for renewal has been found liable in a proceeding before the ECB or in a court of engaging in disorderly behavior as defined in 56 RCNY § 1-04(i), paragraphs (6), (7), and (9) of 56 RCNY Chapter 1 of this title; or
+   (3) where the permittee or applicant for renewal has been found liable in a proceeding before the ECB or in a court of engaging in disorderly behavior as defined in 56 RCNY § 1-04(i), paragraphs (6), (7), and (9) of 56 RCNY Chapter 1; or
 
    (4) as provided in subdivision o of this section, in accordance with the needs or requirements of the Department or the interests of the City as determined by the supervisory dockmaster.
 
@@ -2709,7 +2701,7 @@ The Department shall maintain and utilize a waiting list for the issuance of Boa
 
 (t) Hoses and water lines must be turned to the closed position upon completion of use. Water lines must never be left running unattended or for extended periods of time.
 
-(u) Any person who engages in disorderly behavior as defined in section 1-04(i) of chapter 1 of this title may, in addition to any other applicable penalties, be expelled immediately from the marina, piers, or boat basin.
+(u) Any person who engages in disorderly behavior as defined in 56 RCNY § 1-04(i) may, in addition to any other applicable penalties, be expelled immediately from the marina, piers, or boat basin.
 
 (v) No person may offer or provide any form of tip, money, gift or any other gratuity to any City employee at any facility. No person may procure any services from Department staff except as specifically allowed under these rules. Violations of this provision will result in termination of any permit and will bar the violator from any Department facility for a minimum of 24 months. Objections to termination of a permit or denial of permit eligibility shall be available under subdivision n of 56 RCNY § 3-06.
 
@@ -2771,7 +2763,9 @@ The Department shall maintain and utilize a waiting list for the issuance of Boa
 
 All vessels docked in the facility shall have on board at all times all equipment required by the Coast Guard, as well as for vessels longer than 25 feet:
 
-(a) Two 10-pound CO2 canister fire extinguishers or two dry chemical 20 pound ABC fire extinguishers approved for marine use and stored at opposite ends of the vessel.
+(a) Two 10-pound CO
+									2
+									 canister fire extinguishers or two dry chemical 20 pound ABC fire extinguishers approved for marine use and stored at opposite ends of the vessel.
 
 (b) No fewer than two operable automatic smoke alarms.
 
@@ -2955,34 +2949,34 @@ In addition to any penalties provided for in the chapter, violations of these ru
 
     * - Seasonal Dockage
       - Summer(May 1 to October 31)
-      - $120/linear foot or$3,000, whichevershall be greater
+      - $120/linear foot or $3,000, whichever shall be greater
     * -  
       - Winter(November 1 to April 30) – Current Winter permittees only
       - $105/linear foot or $2,625, whichever shall be greater
     * - Transient Dockage(Non-commercial boats only)
       -  
-      - $3.50/linear footper day for up to 14 days$42.00/linear foot for stays of 15 to 29 days$75.00/linear foot for stays over 29 days
+      - $3.50/linear foot per day for up to 14 days$42.00/linear foot for stays of 15 to 29 days$75.00/linear foot for stays over 29 days
     * - Passenger Pickup/Drop off(Non-commercial boats only)
       - 40 feet or less41 feet or more
       - $25$40
-    * - Dinghy Landing OnlyNon-permit holders,non-transient dockage
+    * - Dinghy Landing OnlyNon-permit holders, non-transient dockage
       - 14 feet or less
       - $26/day
     * - Dock &amp; Dine(4 hour maximum)
       -  
       - $1.25/linear foot
     * - Commercial Landing Fee
-      - 30 minutes for loading and 30minutes for unloading maximum
+      - 30 minutes for loading and30 minutes for unloading maximum
       - $4/linear foot
     * - Commercial Pickup(Non-commercial boats only)
       - 6 passengers or less
       - $32/trip
     * - Mooring
       - DailyWeeklyEntire Season (May 1 to Oct 31)
-      - $30$180$1550
+      - $30$180$1,550
     * - Electricity
       - For permit holders only
-      - Billed monthly based on rate paid by Department
+      - Billed monthly based on rate paid by Department 
     * - Transient Electricity
       - 30 amp50 amp100 amp
       - $10/day$20/day$35/day
@@ -3033,29 +3027,26 @@ In addition to any penalties provided for in the chapter, violations of these ru
 
     * - Summer Dockage
       - 20 feet or less21 to 26 feet27 to 35 feet36 to 45 feet46 to 65 feet66 feet or greater
-      - $1325$70/linear foot$73/linear foot$78/linear foot$95/linear foot$118/linear foot &gt;
+      - $1,325$70/linear foot$73/linear foot$78/linear foot$95/linear foot$118/linear foot
     * - Commercial Charter Boat
       - May 1 to October 31November 1 to April 30
       - $135/linear foot$52/linear foot
     * - Winter StorageWater storage available
-      - Water
-      - $35/linear foot or $700, whichever shall be greater
-    * -  
-      - Land 
-      - $50/linear foot or $1,000, whichever shall be greater
+      - WaterLand 
+      - $35/linear foot or $700, whichever shall be greater$50/linear foot or $1,000, whichever shall be greater
     * - Transient Dockage
-      - Non-commercialboats only
-      - $2/linear foot/day(24 hours)
+      - Non-commercial boats only
+      - $2/linear foot/day (24 hours)
     * -  
-      - Sporting events/concerts in the park (event duration only)/dock &amp; dine
+      - Sporting events/concerts in the park(event duration only)/dock &amp; dine
       - $1/linear foot
     * -  
       - Commercial vessels(does not include passenger loading/unloading fee)
-      - $2.50/linear foot/day(24 hours)
+      - $2.50/linear foot/day (24 hours)
     * - Passenger Pickup/Drop off(Non-commercial boats only)
       - 40 feet or less41 feet or more
       - $20$30
-    * - Dinghy Landing Only(Non-permit holders,non-transient dockage)
+    * - Dinghy Landing Only(Non-permit holders, non-transient dockage)
       - 14 feet or less
       - $22/day
     * - Commercial Landing Fee
@@ -3076,7 +3067,7 @@ In addition to any penalties provided for in the chapter, violations of these ru
     * - Hydrohoist Wet Storage(No vessel)
       - Winter
       - $500
-    * - Vessel or Dinghy Trailer Storage (Limited space via waitlist, winter permittees only)
+    * - Vessel or Dinghy Trailer Storage(Limited space via waitlist, winter permittees only)
       - Summer
       - $400
     * - Key Deposit or Replacement
@@ -3088,7 +3079,7 @@ In addition to any penalties provided for in the chapter, violations of these ru
 
 WORLD'S FAIR LABOR RATES
 
-A fifty percent deposit must be pre-paid for any work order estimated by the dockmaster or yard manager to be greater than $400. In addition, the following fees must be paid in full in advance of services being rendered: Haul Out, Launch, Move One Way, Block, Load on Trailer, Pressure Wash Bottom, Step or Unstep Mast.
+A fifty percent deposit must be pre-paid for any work order estimated by the dockmaster or yard manager to be greater than $400. In addition, the following fees must be paid in full in advance of services being rendered: Haul Out, Launch, Move One Way, Block, Load on Trailer, Pressure Wash Bottom, Step or Unstep Mast. 
 
  
 
@@ -3098,7 +3089,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the doc
 
     * - Labor Rate
       -  
-      - $75/hour
+      - $75/hour 
     * - Parts (Parts sold over-the-counter in the marina must be paid for in full prior to receipt)
       - Boat repair, maintenance
       - Sold at Manufacturer Suggested Retail Price (MSRP)
@@ -3151,7 +3142,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the doc
 
  
 
-(c) Sheepshead Bay Piers (May 2012 and subsequent years)
+(c) Sheepshead Bay Piers (May 2012 and subsequent years) 
 
  
 
@@ -3167,13 +3158,10 @@ A fifty percent deposit must be pre-paid for any work order estimated by the doc
       - $2 /linear foot/day
     * - Commercial Vessels
       - Loading and Unloading
-      - $3/foot/30 minutes loading and unloading maximum
-    * -  
-      -  
-      - $3/foot/hour beyond 30 minutesloading/unloading
+      - $3/foot/30 minutes loading and unloading maximum$3/foot/hour beyond 30 minutesloading/unloading 
     * - Dock &amp; Dine
       - Non-commercial vessels onlyUp to 4 hours
-      - $1/linear foot
+      - $1/linear foot 
 ~
 
 
@@ -3333,7 +3321,7 @@ The Department shall maintain a waiting list for the issuance of permits, which 
 
 (j) No person shall ride or store a bicycle or other vehicle on the walkways and docks.
 
-(k) Any person who engages in disorderly behavior as defined in 56 RCNY § 1-04(i), paragraphs (6), (7) and (9) of chapter 1 of this title may, in addition to any other applicable penalties, be expelled immediately from the marina facility.
+(k) Any person who engages in disorderly behavior as defined in 56 RCNY § 1-04(i), paragraphs (6), (7) and (9), in addition to any other applicable penalties, be expelled immediately from the marina facility.
 
 (l) No person shall run or skate on the dock.
 
@@ -3589,7 +3577,7 @@ Chapter 5: Rules Governing Tree Replacement
 
          vii. whether the tree provides exceptional services based on its location (e.g., shade in a playground or sitting area, property value in front of a building, stormwater absorption in or near a wetland).
 
-   (5) a. Number of Replacement Trees. Based on the factors established in 56 RCNY § 5-02(a)(1)-(4), the Department will determine the required number of replacement trees.
+   (5) a. Number of Replacement Trees. Based on the factors established in 56 RCNY § 5-02(a)(1) - (4), the Department will determine the required number of replacement trees.
 
       b. In no case shall the number of replacement trees equal less than one caliper inch of replacement tree for each caliper inch of tree removed.
 
@@ -3716,7 +3704,7 @@ This chapter establishes certain procedures with respect to the operation of Gar
 *§ 6-04 Active Gardens to be Preserved; Gardens not Deemed Mapped Parkland.* ::
 
 
-Except as provided in section 6-05 of this chapter, all Lots under the Department's jurisdiction will be used and preserved as Gardens as long as they comply with the Department's registration and licensing requirements. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
+Except as provided in 56 RCNY § 6-05, all Lots under the Department's jurisdiction will be used and preserved as Gardens as long as they comply with the Department's registration and licensing requirements. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
 
 
 
@@ -3738,7 +3726,7 @@ Except as provided in section 6-05 of this chapter, all Lots under the Departmen
 
       b. The offer contained in the Alternate Site Notice will be deemed rejected, and the Garden Contact Person will have no further right to select a site from the Alternate Site List for relocation of the Garden if (i) the Department and GreenThumb do not receive, within 45 calendar days after the date of the Alternate Site Notice, written notice from the Garden Contact Person that the Gardening Group has selected a site from the Alternate Site List for relocation of the Garden, or (ii) the Department or GreenThumb receives written notice from the Garden Contact Person at any time that the Gardening Group will not select a site from the Alternate Site List for relocation of the Garden.
 
-      c. If the Alternate Site List states that there is no available City-owned vacant land within one half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 56 RCNY §§ 6-05(b)(2)(a) and 6-05(b)(2)(b) of this chapter will not apply.
+      c. If the Alternate Site List states that there is no available City-owned vacant land within one half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 56 RCNY §§ 6-05(b)(2)(a) and 6-05(b)(2)(b) will not apply.
 
    (3) Any site on the Alternate Site List will be offered "as is," and a Gardening Group will be responsible for performing all necessary work on such lot. The Department will, upon request and contingent upon staff availability and resources, assist the Gardening Group with its relocation and gardening efforts at the alternate site. The City will offer the Gardening Group an opportunity to register with GreenThumb for the alternate site, and once registered, obtain a License.
 
@@ -3760,7 +3748,7 @@ Except as provided in section 6-05 of this chapter, all Lots under the Departmen
 
    (5) The Department will send a Garden Review Statement to the Garden Contact Person, the Alternate Garden Contact Person, the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located by written notice not less than 45 calendar days before any Transfer. The sending of such notice will constitute notice of the proposed Transfer.
 
-   (6) The Department or Other Agency will include a Garden Review Statement in any application for approval of a Transfer pursuant to section 197-c of the City Charter, in any application to the City Council or the Mayor for approval of a Transfer pursuant to Article 15 of the General Municipal Law, Article 16 of the General Municipal Law, or Article XI of the Private Housing Finance Law, and in any application to a Borough Board for approval of a Transfer pursuant to section 384(b)(4) of the City Charter.
+   (6) The Department or Other Agency will include a Garden Review Statement in any application for approval of a Transfer pursuant to § 197-c of the City Charter, in any application to the City Council or the Mayor for approval of a Transfer pursuant to Article 15 of the General Municipal Law, Article 16 of the General Municipal Law, or Article XI of the Private Housing Finance Law, and in any application to a Borough Board for approval of a Transfer pursuant to § 384(b)(4) of the City Charter.
 
 (c) If the Transfer of a Lot is disapproved through an applicable public review process, a Garden may remain on such Lot, subject to Registration, execution of a License, and compliance with all GreenThumb program requirements, until approval of a future Transfer of such Lot. Any new approval of such future Transfer will be subject to the Garden Review Process.
 
@@ -3793,8 +3781,6 @@ Except as provided in section 6-05 of this chapter, all Lots under the Departmen
 (c) Any Garden must comply with all applicable federal, state, and local laws, rules, regulations, codes and ordinances and is subject to the GreenThumb Registration and License requirements and this chapter.
 
 (d) The Department may establish New Gardens on available City-owned land. New Gardens shall be subject to the same requirements of the Department as any other garden and all other provisions of this chapter concerning registration, licensing and transfer.
-
- 
 
 
 

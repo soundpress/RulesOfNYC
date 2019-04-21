@@ -47,7 +47,7 @@ The following terms are defined for purposes of this chapter:
 
 (d) Before applying for a permit for microtrenching from the Department of Transportation the owner must submit the following documents to the Department:
 
-   a. Proof of security. "Proof of security" means proof that the issuer of any bond, insurance, letter of credit or other security issued in connection with the owner's telecommunications franchise agreements has agreed to extend the coverage of such security to the owner's microtrenching, without change to any other terms and conditions of such security that are for the benefit of the Department or the City. The Department will have the right to draw on the security to cover any unpaid fines assessed pursuant to section 1-07(c) of this chapter, or to cover any unmet obligation to remove conduit pursuant to section 1-06 of this chapter.
+   a. Proof of security. "Proof of security" means proof that the issuer of any bond, insurance, letter of credit or other security issued in connection with the owner's telecommunications franchise agreements has agreed to extend the coverage of such security to the owner's microtrenching, without change to any other terms and conditions of such security that are for the benefit of the Department or the City. The Department will have the right to draw on the security to cover any unpaid fines assessed pursuant to 67 RCNY §1-07(c), or to cover any unmet obligation to remove conduit pursuant to 67 RCNY §1-06.
 
    b. Indemnification. The owner shall execute an indemnification agreement prepared by the Department.
 
@@ -83,7 +83,7 @@ The following terms are defined for purposes of this chapter:
 *§ 1-04 Ownership and Maintenance of Conduit.* ::
 
 
-Except as provided in section 1-08(b) of this chapter, the owner must retain title to the conduit and must maintain the conduit in working order and good repair, and in compliance with the rules of this chapter. The owner must comply with all requirements, directives and orders of the Department of Transportation regarding microtrenching.
+Except as provided in 67 RCNY §1-08(b), the owner must retain title to the conduit and must maintain the conduit in working order and good repair, and in compliance with the rules of this chapter. The owner must comply with all requirements, directives and orders of the Department of Transportation regarding microtrenching.
 
 
 
@@ -155,25 +155,25 @@ Except as provided in section 1-08(b) of this chapter, the owner must retain tit
 
    c. Violations include the following. (Descriptions are for informational purposes only; the text of the rule itself determines the scope and meaning of the rule.)
 
-      i. Section 1-02(a): Performing microtrenching without or beyond the scope of a Department of Transportation-issued microtrenching permit.
+      i. 67 RCNY §1-02(a): Performing microtrenching without or beyond the scope of a Department of Transportation-issued microtrenching permit.
 
-      ii. Section 1-02(c): Providing fiber-optic service by microtrenching where prohibited.
+      ii. 67 RCNY §1-02(c): Providing fiber-optic service by microtrenching where prohibited.
 
-      iii. Section 1-02(e): Failure to notify the Department, or to timely notify the Department, of the intended dates of microtrenching construction.
+      iii. 67 RCNY §1-02(e): Failure to notify the Department, or to timely notify the Department, of the intended dates of microtrenching construction.
 
-      iv. Section 1-02(f): Failure to file, or to timely file, drawings as required after conclusion of microtrenching construction.
+      iv. 67 RCNY §1-02(f): Failure to file, or to timely file, drawings as required after conclusion of microtrenching construction.
 
-      v. Section 1-03: Failure to install required excess capacity.
+      v. 67 RCNY §1-03: Failure to install required excess capacity.
 
-      vi. Section 1-04: Failure to maintain conduit in good repair, in compliance with these rules, or in compliance with requirements of the Department of Transportation.
+      vi. 67 RCNY §1-04: Failure to maintain conduit in good repair, in compliance with these rules, or in compliance with requirements of the Department of Transportation.
 
-      vii. Section 1-05: Failure to make excess capacity available; failure to make excess capacity available timely; attempt to overcharge for excess capacity; failure to respond or respond timely to a request for excess capacity; failure to offer excess capacity on a first-come, first-served basis.
+      vii. 67 RCNY §1-05: Failure to make excess capacity available; failure to make excess capacity available timely; attempt to overcharge for excess capacity; failure to respond or respond timely to a request for excess capacity; failure to offer excess capacity on a first-come, first-served basis.
 
-      viii. Section 1-05(j): Failure to report to the Department as required.
+      viii. 67 RCNY §1-05(j): Failure to report to the Department as required.
 
-      ix. Section 1-06: Failure to remove or dispose of conduit as directed.
+      ix. 67 RCNY §1-06: Failure to remove or dispose of conduit as directed.
 
-      x. Section 1-07(b): Failure to cooperate with an audit, investigation or review.
+      x. 67 RCNY §1-07(b): Failure to cooperate with an audit, investigation or review.
 
       xi. Any other violation of the rules of this chapter.
 
@@ -187,15 +187,15 @@ Except as provided in section 1-08(b) of this chapter, the owner must retain tit
 *§ 1-08 Miscellaneous Provisions.* ::
 
 
-(a) Conduit that was installed before the effective date of this chapter, in compliance with the terms of a microtrenching pilot program, will be allowed to remain in place despite any non-compliance with sections 1-02 or 1-03 of this chapter. All of the other rules of this chapter apply to such conduit.
+(a) Conduit that was installed before the effective date of this chapter, in compliance with the terms of a microtrenching pilot program, will be allowed to remain in place despite any non-compliance with 67 RCNY §1-02 or 67 RCNY §1-03. All of the other rules of this chapter apply to such conduit.
 
-(b) An owner may transfer ownership of conduit to another entity that would be an "owner" as defined by section 1-01(g) of this chapter. A transfer may not be made effective before the submission to the Department of the contract or other document effectuating the transfer.
+(b) An owner may transfer ownership of conduit to another entity that would be an "owner" as defined by 67 RCNY §1-01(g). A transfer may not be made effective before the submission to the Department of the contract or other document effectuating the transfer.
 
 (c) To the extent that any applicable federal or state law or regulation requires an owner to make excess capacity available to a person or entity more expeditiously or on any other term more favorable to that person or entity than a term provided for by the rules of this chapter, then the applicable federal or state law or regulation applies with respect to such persons or entities instead of the term provided for by the rules of this chapter.
 
-(d) By voluntarily choosing to install conduit pursuant to this chapter, an owner agrees that the owner will not charge telecommunications franchisees any fees or costs for the use or occupancy of duct installed pursuant to this chapter greater than the fees provided in section 1-05(b) of this chapter; represents that the owner has received any regulatory permission, approval or authority that may be required to install such conduit and to charge such fees; and acknowledges that the City of New York relies on that agreement and that representation in furtherance of the City's interests in expanding fiber-optic cable deployment, especially in underserved areas.
+(d) By voluntarily choosing to install conduit pursuant to this chapter, an owner agrees that the owner will not charge telecommunications franchisees any fees or costs for the use or occupancy of duct installed pursuant to this chapter greater than the fees provided in 67 RCNY §1-05(b); represents that the owner has received any regulatory permission, approval or authority that may be required to install such conduit and to charge such fees; and acknowledges that the City of New York relies on that agreement and that representation in furtherance of the City's interests in expanding fiber-optic cable deployment, especially in underserved areas.
 
-(e) The provisions of this chapter that require an owner to install excess capacity, to make it available to telecommunications franchisees, and to forego any fees and costs except as provided in section 1-05(b) of this chapter that might otherwise be permitted by any applicable rate regulation are integral to this chapter and essential to the City's purposes in promulgating this chapter. The City's determination to permit microtrenching is expressly based on the assumptions that an owner's conduit will include excess capacity and that the excess capacity will be available to telecommunications franchisees without payment of any fees or costs except as provided in section 1-05(b) of this chapter. Therefore, if any court or other tribunal of competent jurisdiction invalidates any of those provisions, this chapter will be invalidated in its entirety and microtrenching will not be permitted, and owners must remove or otherwise dispose of all conduit as directed by the Department.
+(e) The provisions of this chapter that require an owner to install excess capacity, to make it available to telecommunications franchisees, and to forego any fees and costs except as provided in 67 RCNY §1-05(b) that might otherwise be permitted by any applicable rate regulation are integral to this chapter and essential to the City's purposes in promulgating this chapter. The City's determination to permit microtrenching is expressly based on the assumptions that an owner's conduit will include excess capacity and that the excess capacity will be available to telecommunications franchisees without payment of any fees or costs except as provided in 67 RCNY §1-05(b). Therefore, if any court or other tribunal of competent jurisdiction invalidates any of those provisions, this chapter will be invalidated in its entirety and microtrenching will not be permitted, and owners must remove or otherwise dispose of all conduit as directed by the Department.
 
 
 
@@ -320,11 +320,11 @@ Substantial Common Ownership. "Substantial Common Ownership" shall mean that:
 
 (b) Notwithstanding any other provision of this section:
 
-   (1) an owner who fails on two occasions within any three month period to provide phone service from a public pay telephone for any period of time exceeding twenty-four continuous hours or who fails to provide coinless twenty-four hour 911 service from such public pay telephone in compliance with the provisions of subdivision (a) or subdivision (b) of § 6-05 of this chapter, as the case may be, shall be in violation of such subdivision(s) and shall be liable for a civil penalty of not more than two thousand five hundred dollars ($2,500) for each violation which may be recovered in a civil action or in a proceeding before the Environmental Control Board. In the case of a violation exceeding twenty-four hours, each day's continuance shall be a separate and distinct occasion in which an offense has occurred. An owner of a public pay telephone shall not be considered to have failed to provide the service required in this subdivision where such owner has posted and maintained a written notification on the public pay telephone within seventy-two hours of the occurrence and provided written notification to the Department, within twenty-four hours, of the occurrence of an event or a condition beyond his or her control, such as a power failure or an inability of the telephone company to provide access to the switched telephone network, that has rendered such telephone unable to provide such service.
+   (1) an owner who fails on two occasions within any three month period to provide phone service from a public pay telephone for any period of time exceeding twenty-four continuous hours or who fails to provide coinless twenty-four hour 911 service from such public pay telephone in compliance with the provisions of subdivision (a) or subdivision (b) of 67 RCNY § 6-05, as the case may be, shall be in violation of such subdivision(s) and shall be liable for a civil penalty of not more than two thousand five hundred dollars ($2,500) for each violation which may be recovered in a civil action or in a proceeding before the Environmental Control Board. In the case of a violation exceeding twenty-four hours, each day's continuance shall be a separate and distinct occasion in which an offense has occurred. An owner of a public pay telephone shall not be considered to have failed to provide the service required in this subdivision where such owner has posted and maintained a written notification on the public pay telephone within seventy-two hours of the occurrence and provided written notification to the Department, within twenty-four hours, of the occurrence of an event or a condition beyond his or her control, such as a power failure or an inability of the telephone company to provide access to the switched telephone network, that has rendered such telephone unable to provide such service.
 
-   (2) an owner who fails on at least two occasions, each such occasion lasting for a duration of forty-eight (48) hours, or on one occasion that lasts for a duration of seventy-two (72) hours to maintain a public pay telephone in compliance with the provisions of subdivision (c) of § 6-05 of this chapter shall be in violation of such subdivision and shall be liable for a civil penalty of not more than one thousand dollars ($1,000) for each such violation.
+   (2) an owner who fails on at least two occasions, each such occasion lasting for a duration of forty-eight (48) hours, or on one occasion that lasts for a duration of seventy-two (72) hours to maintain a public pay telephone in compliance with the provisions of subdivision (c) of 67 RCNY § 6-05 shall be in violation of such subdivision and shall be liable for a civil penalty of not more than one thousand dollars ($1,000) for each such violation.
 
-(c) Notwithstanding any other provision of § 6-02, violation of any provision of this chapter shall be punishable by a civil penalty of not more than one thousand dollars ($1,000) for each such violation, recoverable in a civil action or in a proceeding before the Environmental Control Board. In the case of a continuing violation, each day's continuance shall be a separate and distinct offense.
+(c) Notwithstanding any other provision of 67 RCNY § 6-02, violation of any provision of this chapter shall be punishable by a civil penalty of not more than one thousand dollars ($1,000) for each such violation, recoverable in a civil action or in a proceeding before the Environmental Control Board. In the case of a continuing violation, each day's continuance shall be a separate and distinct offense.
 
 (d) An owner who is liable for a civil penalty for a violation pursuant to subdivision (c) of this section shall also be liable in the amount of the expense, if any, incurred by the city in the rendering inoperable, removal, storage and/or disposal of the public pay telephone and the performance of related repair and restoration work.
 
@@ -402,7 +402,7 @@ Except where otherwise required by law, notice by the Commissioner pursuant to t
 
    (4) A notice of violation for a violation of a provision of subdivision (d) of this section may be issued where two inspections at least seventy-two (72) hours apart disclose that a displaced public pay telephone has not been restored to its original position or that an installation or portion of an installation has been broken in place, fractured, detached or is otherwise unsafe and has not been repaired or made safe.
 
-   (5) A violation shall be considered to have continued throughout a period specified in this subdivision when a condition set forth in subdivisions (a), (b), (c) or (d) of this section has been identified upon at least two inspections that encompass such period within one hundred sixty-eight (168) hours; provided that, demonstration by an owner that the condition underlying such violation was corrected within such period shall be a defense to an action pursuant to § 6-05.
+   (5) A violation shall be considered to have continued throughout a period specified in this subdivision when a condition set forth in subdivisions (a), (b), (c) or (d) of this section has been identified upon at least two inspections that encompass such period within one hundred sixty-eight (168) hours; provided that, demonstration by an owner that the condition underlying such violation was corrected within such period shall be a defense to an action pursuant to 67 RCNY § 6-05.
 
 (f) Damage to streets. An owner of a public pay telephone installation shall be responsible for all repairs to streets damaged due to the placement, installation, maintenance or removal of such public pay telephone installation.
 
@@ -532,7 +532,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
    (1) unless the applicant possesses a franchise to install, maintain and operate public pay telephones on, over and under the streets and other inalienable property of the City;
 
-   (2) unless the applicant has, where required, obtained the consent of the owner or commercial lessee of a building as provided in § 6-34 of this chapter;
+   (2) unless the applicant has, where required, obtained the consent of the owner or commercial lessee of a building as provided in 67 RCNY § 6-34;
 
    (3) where a public pay telephone will unreasonably interfere with the use of a street by the public or where it will unreasonably interfere with the use of the abutting property.
 
@@ -562,7 +562,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 *§ 6-33 Term of Permit; Termination of Permit.* ::
 
 
-(a) Term of permit. A permit for a public pay telephone shall continue in effect, unless earlier revoked or suspended by the Commissioner pursuant to § 6-37 of this subchapter or § 23-404 of the Administrative Code, for the term of the franchise held by the owner of such telephone except:
+(a) Term of permit. A permit for a public pay telephone shall continue in effect, unless earlier revoked or suspended by the Commissioner pursuant to 67 RCNY § 6-37 or § 23-404 of the Administrative Code, for the term of the franchise held by the owner of such telephone except:
 
    (1) as provided in subdivision (b) of this section; or
 
@@ -582,7 +582,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
    (2) The Commissioner shall notify the permittee of his or her intention to terminate the permit and the reason for such proposed action. No later than five business days following such notification, the permittee may submit a letter to the Commissioner setting forth any reasons why such permit should not be terminated and such telephone removed. The Commissioner shall review the reasons set forth in such letter and shall determine whether to terminate the permit and require the removal of the telephone. The Commissioner shall notify the permittee of his or her final determination and the reasons therefor and shall, where applicable, specify in such notice the date by which the telephone shall be removed. In the event that the permittee fails to remove the public pay telephone by the date specified by the Commissioner, the Commissioner may remove or cause the removal of the public pay telephones and have repair and restoration work performed at the expense of the permittee, who shall be liable in a civil action for the amount expended by the City.
 
-   (3) (i) In the event that a public pay telephone is removed in connection with a street widening or capital project as provided in subparagraph (b)(1)(ii) or at the request of the Commissioner, the permittee may apply to the Commissioner for permission to reinstall the public pay telephone at another location (provided however that such installation shall be compliant with § 6-41 of this chapter, unless such compliance is waived in writing by the Commissioner) or, following the completion of such street widening or capital project, at or near its original location. A fee will not be required.
+   (3) (i) In the event that a public pay telephone is removed in connection with a street widening or capital project as provided in subparagraph (b)(1)(ii) or at the request of the Commissioner, the permittee may apply to the Commissioner for permission to reinstall the public pay telephone at another location (provided however that such installation shall be compliant with 67 RCNY § 6-41, unless such compliance is waived in writing by the Commissioner) or, following the completion of such street widening or capital project, at or near its original location. A fee will not be required.
 
       (ii) Where such permission is granted, the permittee shall not be required to obtain a new permit for the public pay telephone and the permit previously issued for such public pay telephone shall continue in effect. In the event that the permittee elects not to install such public pay telephone at another location, the fee for such a permit shall be kept in reserve and may be applied to the next permit requested by the permittee.
 
@@ -649,7 +649,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-35.1 Repealed.* ::
+*§ 6-35.1 New Applications for Permits. [Repealed]* ::
 
 
 (
@@ -683,7 +683,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
    (3) [Reserved.]
 
-   (4) City authority to operate. The Commissioner may invoke the Department's authority pursuant to § 6-47 of this chapter.
+   (4) City authority to operate. The Commissioner may invoke the Department's authority pursuant to 67 RCNY § 6-47.
 
 (c) Notification to permittee and opportunity to contest Commissioner's action. Except as provided in subdivision (e) of this section, before taking an action pursuant to this section, the Commissioner shall notify the owner of a public telephone with regard to which the action is proposed of the reason for such proposed action. Such notice shall specify the action, if any, that may be taken by the permittee to correct the condition and the manner and time period in which such condition must be corrected or in which, if the condition is not one that is capable of correction, the time by which the telephone shall be removed. Except as provided in subdivision (d) of this section the owner shall respond no later than five business days following such notice. Such response shall either: (i) certify to the Commissioner that such condition has been corrected in accordance with the manner specified by the Commissioner in such notice; or (ii) set forth the reasons why the Commissioner should not take the proposed action. Failure of an owner to timely respond to such notice by the Commissioner shall constitute default, and shall subject the owner to revocation of the permit and removal of the telephone pursuant to the provisions of subdivision (a) of this section. The Commissioner shall review the response of the permittee and notify the permittee of the final determination and the reasons therefor.
 
@@ -705,14 +705,14 @@ A public pay telephone shall not display advertising material, unless in accorda
 *§ 6-37 Determination of Public Nuisance.* ::
 
 
-For the purposes of this subchapter, "public nuisance" shall have the meaning set forth in § 23-401 of the Code and § 6-01 of subchapter A of this chapter. The Commissioner may determine that a public pay telephone constitutes a public nuisance when a written complaint is made, including, but not limited to a complaint by the Community Board in the Community District in which such telephone is located stating that such public pay telephone constitutes a public nuisance, as so defined. The complaint must also be verified by the police precinct in which such telephone is located.
+For the purposes of this subchapter, "public nuisance" shall have the meaning set forth in § 23-401 of the Code and 67 RCNY § 6-01. The Commissioner may determine that a public pay telephone constitutes a public nuisance when a written complaint is made, including, but not limited to a complaint by the Community Board in the Community District in which such telephone is located stating that such public pay telephone constitutes a public nuisance, as so defined. The complaint must also be verified by the police precinct in which such telephone is located.
 
 
 
 
 
 
-*§ 6-38 [Reserved]* ::
+*§ 6-38 Interim Issuance of Permits. [Repealed]* ::
 
 
 (
@@ -725,7 +725,7 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 
-*§ 6-38.2 [Repealed]* ::
+*§ 6-38.2 Moves to the Curb. [Repealed]* ::
 
 
 (
@@ -750,15 +750,10 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 
-
-**Subchapter D: Requirements for Public Pay Telephones**
-
+*Appendix A: Application to Install and Maintain A Public Pay Telephone (PPT) [Repealed]* ::
 
 
-*§ 6-40 Applicability.* ::
-
-
-A public pay telephone shall comply with the requirements set forth in this subchapter provided, however, that the provisions of subdivision (d), subparagraphs (i), (ii), (vii), (viii) and (x) through (xxiv) of paragraph (e)(2), and subdivisions (f) through (n) of § 6-41 of subchapter D shall not apply to a public pay telephone permitted pursuant to this chapter that was previously licensed pursuant to former § 19-131 or 19-128 of the Code.
+A public pay telephone shall comply with the requirements set forth in this subchapter provided, however, that the provisions of subdivision (d), subparagraphs (i), (ii), (vii), (viii) and (x) through (xxiv) of paragraph (e)(2), and subdivisions (f) through (n) of 67 RCNY § 6-41 shall not apply to a public pay telephone permitted pursuant to this chapter that was previously licensed pursuant to former § 19-131 or 19-128 of the Code.
 
 (Amended City Record 7/9/2015, eff. 8/8/2015)
 
@@ -875,7 +870,7 @@ A public pay telephone shall comply with the requirements set forth in this subc
 (k) 
 									[Reserved.]
 
-(l) Sidewalks of a distinctive design. A public pay telephone shall not be installed on, or result in the destruction, damage or removal of any part of, a sidewalk of a distinctive design. For purposes of this subdivision, "sidewalk of a distinctive design" shall include a pavement of granite, slate, bluestone or brick and a sidewalk constructed and approved pursuant to § 2-09(f)(xvi) of Title 34 of the Rules of the City of New York.
+(l) Sidewalks of a distinctive design. A public pay telephone shall not be installed on, or result in the destruction, damage or removal of any part of, a sidewalk of a distinctive design. For purposes of this subdivision, "sidewalk of a distinctive design" shall include a pavement of granite, slate, bluestone or brick and a sidewalk constructed and approved pursuant to 34 RCNY § 2-09(f)(xvi).
 
 (m) A public pay telephone must be installed upon a paved surface, unless such telephone is attached to the facade of building or other structure.
 
@@ -893,7 +888,7 @@ A public pay telephone shall comply with the requirements set forth in this subc
 
 Each public pay telephone location, single or multiple, shall have a sign in a form prescribed by the Commissioner, and consistent with the Rules and Regulations promulgated by the New York State Public Service Commission, installed so that it is visible within the enclosures for such telephone. Such sign shall:
 
-(a) be of dimensions no less than 2" by 5"
+(a) be of dimensions no less than 2" by 5";
 
 (b) include Americans with Disabilities Act ("ADA") symbols indicating that the telephone is equipped to assist hearing impaired persons;
 
@@ -925,7 +920,7 @@ Each public pay telephone location, single or multiple, shall have a sign in a f
 
 (c) Installation.
 
-   (1) Every public pay telephone installation (as such is defined in § 6-01 of this chapter) shall be maintained in a condition of good repair. All painted surfaces must receive a fresh coat of paint at least once a year.
+   (1) Every public pay telephone installation (as such is defined in 67 RCNY § 6-01) shall be maintained in a condition of good repair. All painted surfaces must receive a fresh coat of paint at least once a year.
 
    (2) Broken or missing lights, broken or unattached or missing advertising panels or other components of a public pay telephone enclosure shall all be repaired or replaced, as applicable, within seventy-two hours, of being damaged, provided however that upon notice from the Department, such disrepair shall be remedied within forty-eight (48) hours.
 
@@ -935,7 +930,7 @@ Each public pay telephone location, single or multiple, shall have a sign in a f
 
    (5) Notwithstanding the foregoing, any dangerous condition shall be fixed as soon as possible but no later than twenty-four hours. For the purposes of this subdivision (c), the definition of "dangerous condition" shall include, but not be limited to, a public pay telephone installation and associated equipment possessing jagged or sharp edges, improperly grounded or insulated or bare telephone or electrical wires carrying electrical current, and deteriorated or damaged sidewalk flags.
 
-(d) Telephone service. A public pay telephone shall be maintained such that upon proper payment, a call can be completed. For example, a public pay telephone that could not complete a call to a location or instrument using "anonymous call rejection" on a caller ID or caller number identification device would be in violation of this subdivision (d) of § 6-43 and of subdivision (b) of § 6-05 of this chapter.
+(d) Telephone service. A public pay telephone shall be maintained such that upon proper payment, a call can be completed. For example, a public pay telephone that could not complete a call to a location or instrument using "anonymous call rejection" on a caller ID or caller number identification device would be in violation of this subdivision (d) of 67 RCNY § 6-43 and of subdivision (b) of 67 RCNY § 6-05.
 
 (e) 
 									[Reserved.]
@@ -978,7 +973,7 @@ A franchisee shall comply with the provisions of the Americans with Disabilities
 *§ 6-45 Compliance with Other Authority.* ::
 
 
-(a) As provided in subdivision (d) of § 6-30 of this subchapter, notwithstanding any other provision of this chapter, a permit shall not be issued for a public pay telephone pursuant to this chapter unless the owner of such telephone demonstrates that he or she has obtained all permissions required by applicable provisions of Federal, State and local law, as well as rules and regulations promulgated and agreements entered into pursuant thereto.
+(a) As provided in subdivision (d) of 67 RCNY § 6-30, notwithstanding any other provision of this chapter, a permit shall not be issued for a public pay telephone pursuant to this chapter unless the owner of such telephone demonstrates that he or she has obtained all permissions required by applicable provisions of Federal, State and local law, as well as rules and regulations promulgated and agreements entered into pursuant thereto.
 
 (b) A public pay telephone shall be sited, installed, operated and maintained in compliance with all applicable provisions of Federal, State and local law, as well as rules and regulations promulgated and agreements entered into pursuant thereto.
 
@@ -987,7 +982,7 @@ A franchisee shall comply with the provisions of the Americans with Disabilities
 
 
 
-*§ 6-46 [Reserved]* ::
+*§ 6-46 Timing and Installation. [Repealed]* ::
 
 
 If pursuant to any provision of this chapter, a public pay telephone, or group of public pay telephones, becomes subject to removal by the Department, and if the location of such payphone or group of payphones is consistent with the requirements of subchapter D of this chapter, then the Department shall have the authority to, in lieu of removal of such payphone or payphones, operate (directly or through a designee) such payphone or payphones for the account of the City and/or make such payphone or payphones available for purchase or lease from the City by holders of public pay telephone franchises granted by the City. The Department, or its designee, purchaser or lessee, shall be authorized to make any necessary or convenient modifications to such payphone or payphones to secure the service provided from such payphone or payphones and the revenues generated from such payphone or payphones.

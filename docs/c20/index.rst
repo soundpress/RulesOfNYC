@@ -516,7 +516,7 @@ These Rules shall apply to any person, firm, partnership, corporation, company o
 
 (c) The Rifle/Shotgun Section reserves the right to require the custodian and alternate custodian to be fingerprinted and/or photographed in contemplation of issuing an organization registration certificate.
 
-(d) The custodian and alternate custodian shall ensure that all members or employees using rifles and shotguns registered by the organization are licensed by the Rifle/Shotgun Section to possess rifles and shotguns. The provisions of § 2-05(d) shall not be applicable to the following organizations:
+(d) The custodian and alternate custodian shall ensure that all members or employees using rifles and shotguns registered by the organization are licensed by the Rifle/Shotgun Section to possess rifles and shotguns. The provisions of 38 RCNY § 2-05(d) shall not be applicable to the following organizations:
 
    (1) An organization actively engaged in the instruction of minors in the use of rifles and/or shotguns or the supervision of a competition or target practice for minors. A custodian and alternate custodian, designated by an organization of this nature, shall closely supervise all minors using rifles and/or shotguns registered by the organization, and ensure that such minors are instructed in the safe use of rifles and/or shotguns.
 
@@ -661,7 +661,7 @@ All New York City rifle and shotgun permittees shall be aware of the responsibil
 
 (e) If the applicant's answer to Question 2, 3 or 4 on the application is YES s/he shall submit a letter from a licensed physician stating that s/he has examined the applicant within the last 30 days, that the examination included a review of the applicant's medical record and all pertinent hospital and institutional records, and shall conclude that the applicant is capable of possessing a rifle or a shotgun without presenting a danger of harm to the applicant or to others. Further evidence may be requested.
 
-(f) Four color photographs, 11/2 × 11/2 inches, of the applicant, from the chest up, taken within the past thirty (30) days shall accompany the application. The wearing of any article of clothing or other adornment obscuring the identification of the wearer is not acceptable.
+(f) Four color photographs, 1-1/2 × 1-1/2 inches, of the applicant, from the chest up, taken within the past thirty (30) days shall accompany the application. The wearing of any article of clothing or other adornment obscuring the identification of the wearer is not acceptable.
 
 (g) Payment of applicable fees shall be made by certified check or money order, made payable to the N.Y.C. Police Department or to the N.Y.S. Division of Criminal Justice Services, respectively.
 
@@ -677,7 +677,7 @@ All New York City rifle and shotgun permittees shall be aware of the responsibil
 *§ 3-03 Grounds for Denial of Permit.* ::
 
 
-In addition to other bases for disqualification pursuant to federal, state, and local law and this chapter, an application for a rifle/shotgun permit may be denied where it is determined that an applicant lacks good moral character or that other good cause exists for denial, pursuant to section 10-303 of the Administrative Code of the City of New York. Such a determination shall be made based upon consideration of the following factors:
+In addition to other bases for disqualification pursuant to federal, state, and local law and this chapter, an application for a rifle/shotgun permit may be denied where it is determined that an applicant lacks good moral character or that other good cause exists for denial, pursuant to § 10-303 of the Administrative Code of the City of New York. Such a determination shall be made based upon consideration of the following factors:
 
 (a) The applicant has been arrested, indicted or convicted for a crime or violation except minor traffic violations, in any federal, state or local jurisdiction.
 
@@ -747,7 +747,7 @@ If for any reason her/his application is denied the applicant has the right to a
 
    (8) unlawful discharge of a rifle/shotgun.
 
-(b) The permittee's rifle/shotgun permit may be suspended for a defined period or revoked upon evidence of any disqualification pursuant to subdivision a of section 10-303 of the Administrative Code and 38 RCNY §§ 3-02 and 3-03. A rifle/shotgun permit shall be revoked upon the conviction in this state or elsewhere of a felony or a serious offense, as defined in subdivision seventeen of section 265.00 of the penal law. Evidence of disqualification may be demonstrated by an investigation, by a permittee's failure to cooperate with such an investigation, or by other evidence.
+(b) The permittee's rifle/shotgun permit may be suspended for a defined period or revoked upon evidence of any disqualification pursuant to subdivision a of § 10-303 of the Administrative Code and 38 RCNY §§ 3-02 and 3-03. A rifle/shotgun permit shall be revoked upon the conviction in this state or elsewhere of a felony or a serious offense, as defined in subdivision seventeen of section 265.00 of the penal law. Evidence of disqualification may be demonstrated by an investigation, by a permittee's failure to cooperate with such an investigation, or by other evidence.
 
 (c) If her/his permit is suspended or revoked, the permittee shall be required to deposit any rifles or shotguns as well as any handgun license and any handguns in her/his possession with her/his local police precinct and forward a copy of the voucher together with her/his permit to the Rifle/Shotgun Section, 120-55 Queens Boulevard, Kew Gardens, N.Y. 11424, Room B-11. Her/his failure to comply within ten (10) calendar days from the date of suspension or revocation may result in the arrest of the permittee.
 
@@ -1026,7 +1026,7 @@ Shotgun. The term "shotgun" shall mean a "shotgun" as defined in § 265.00 of th
 *§ 4-04 Licensee Requirements.* ::
 
 
-(a) For purposes of this section, all employees, as defined in § 4-02 of this chapter, of a licensed gunsmith or dealer in firearms, shall personally be in possession of the required, valid license(s) or permit(s) issued by the License Division to possess handguns, rifles and/or shotguns. No person shall be employed who has been convicted anywhere of a felony, misdemeanor, serious offense as defined in § 265.00(17) of the New York State Penal Law, or a misdemeanor crime of domestic violence, as defined in § 921(a) of title 18 of the United States Code. No person shall be employed who is the subject of a suspension or ineligibility order issued pursuant to § 530.14 of the New York State Criminal Procedure Law or § 842-a of the New York State Family Court Act. The fitness of any employee for continued employment is subject to review by the Commissioner. The licensee may be directed to terminate such employment if such employment involves access in any manner to firearms, rifles, shotguns, machine-guns, or assault weapons, based upon an arrest for any offense, or upon previous connection with a premises wherein the license was revoked or denied, or on said employee's character or reputation, or upon the employee's being or becoming the recipient or subject of an order of protection or a temporary order of protection. Licensees shall submit a roster of employees in triplicate on a form prescribed by the Commissioner, together with original application and with each renewal application. A report of any change of personnel, or change of residence address of an employee shall be filed in writing with the Commanding Officer of the precinct wherein the premises is located, within 48 hours after such change becomes effective.
+(a) For purposes of this section, all employees, as defined in 38 RCNY § 4-02, of a licensed gunsmith or dealer in firearms, shall personally be in possession of the required, valid license(s) or permit(s) issued by the License Division to possess handguns, rifles and/or shotguns. No person shall be employed who has been convicted anywhere of a felony, misdemeanor, serious offense as defined in § 265.00(17) of the New York State Penal Law, or a misdemeanor crime of domestic violence, as defined in § 921(a) of title 18 of the United States Code. No person shall be employed who is the subject of a suspension or ineligibility order issued pursuant to § 530.14 of the New York State Criminal Procedure Law or § 842-a of the New York State Family Court Act. The fitness of any employee for continued employment is subject to review by the Commissioner. The licensee may be directed to terminate such employment if such employment involves access in any manner to firearms, rifles, shotguns, machine-guns, or assault weapons, based upon an arrest for any offense, or upon previous connection with a premises wherein the license was revoked or denied, or on said employee's character or reputation, or upon the employee's being or becoming the recipient or subject of an order of protection or a temporary order of protection. Licensees shall submit a roster of employees in triplicate on a form prescribed by the Commissioner, together with original application and with each renewal application. A report of any change of personnel, or change of residence address of an employee shall be filed in writing with the Commanding Officer of the precinct wherein the premises is located, within 48 hours after such change becomes effective.
 
 (b) No firearms shall be sold, or given away, or otherwise disposed of, except to a person expressly authorized under the provisions of Articles 265 and 400 of the New York State Penal Law and §§ 1.20 and 2.10 of the New York State Criminal Procedure Law to possess and have such firearm. Any police officer or peace officer as defined in the Criminal Procedure Law shall produce her/his shield and proper identification card before purchasing a pistol or revolver. A peace officer whose status does not confer authorization to possess firearms pursuant to § 2.10 of the New York State Criminal Procedure Law shall possess a handgun license or rifle/shotgun permit in order to be a lawful transferee. Therefore, before delivering a firearm, rifle, shotgun, machine-gun or assault weapon to a peace officer, the licensee shall verify that person's status as a peace officer with the License Division Incident Section at (212) 374-5538 or 5539.
 
@@ -1086,7 +1086,7 @@ Shotgun. The term "shotgun" shall mean a "shotgun" as defined in § 265.00 of th
 
 (r) This record shall be arranged in columnar form as outlined below. The first page of this book shall have an inscription bearing the name and address of the premises, license number, name of the owner of the premises, name of employee designated to make entries, and the date of the book being opened. Beginning on page 2, each even numbered page shall contain a record of ammunition received and starting with page 3, each odd numbered page shall contain a record of ammunition dispersed.
 
-AMMUNITION RECEIVED
+AMMUNITION RECEIVED 
 
  
 
@@ -1170,7 +1170,7 @@ AMMUNITION RECEIVED
 
  
 
-AMMUNITION SOLD
+AMMUNITION SOLD 
 
  
 
@@ -1350,7 +1350,7 @@ Chapter 5: Handgun Licenses
 *§ 5-01 Types of Handgun Licenses.* ::
 
 
-As used in this chapter, the term "handgun" shall mean a pistol or revolver. This section contains a description of the various types of handgun licenses issued by the Police Department. 38 RCNY § 5-09 of this subchapter contains a description of the procedure for obtaining an exemption from New York State Penal Law Article 265, allowing pre-license possession of a handgun for the purpose of possessing and using a handgun for instructional purposes with a certified instructor in small arms at an authorized small arms range/shooting club.
+As used in this chapter, the term "handgun" shall mean a pistol or revolver. This section contains a description of the various types of handgun licenses issued by the Police Department. 38 RCNY § 5-09 contains a description of the procedure for obtaining an exemption from New York State Penal Law Article 265, allowing pre-license possession of a handgun for the purpose of possessing and using a handgun for instructional purposes with a certified instructor in small arms at an authorized small arms range/shooting club.
 
 (a) Premises License – Residence or Business. This is a restricted handgun license, issued for a specific business or residence location. The handgun shall be safeguarded at the specific address indicated on the license. This license permits the transporting of an unloaded handgun directly to and from an authorized small arms range/shooting club, secured unloaded in a locked container. Ammunition shall be carried separately.
 
@@ -1526,7 +1526,7 @@ In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry
 *§ 5-07 License Approval/Disapproval Procedures.* ::
 
 
-(a) It takes approximately six months to process an application. If her/his application is approved the applicant shall receive a "Notice of Application Approval" in the mail. If the applicant moves during the time her/his application is being processed, the applicant shall immediately notify the License Division's Handgun License Application Section, Room 110A, One Police Plaza, New York, New York 10038, 212-374-5553, and be guided by their instructions. Failure to make timely notification may result in the disapproval/cancellation of the applicant's application.
+(a) It takes approximately six months to process an application. If her/his application is approved the applicant shall receive a "Notice of Application Approval" in the mail. If the applicant moves during the time her/his application is being processed, the applicant shall immediately notify the License Division's Handgun License Application Section, Room 110A, One Police Plaza, New York, New York 10038, (212) 374-5553, and be guided by their instructions. Failure to make timely notification may result in the disapproval/cancellation of the applicant's application.
 
 (b) To receive her/his license the applicant shall report in person with her/his "Notice of Application Approval" letter, to the Issuing Unit – Room 152, One Police Plaza, New York, New York 10038 – within thirty (30) calendar days of the date on the "Notice of Application Approval" letter. Licenses shall only be issued between the hours of 9 a.m. and 12 p.m., Monday through Thursday. The applicant should note that the Issuing Unit is closed on all legal holidays.
 
@@ -2962,7 +2962,7 @@ Chapter 11: Press Credentials
 
 (b) To be eligible to receive a Single Event Press Card for a Single Event an individual must be a member of the press, as defined in subdivision (d) of 38 RCNY § 11-01, who:
 
-   (1) follows the preregistration process set forth in subdivision (c) of 38 RCNY § 11-03 of this chapter; and
+   (1) follows the preregistration process set forth in subdivision (c) of 38 RCNY § 11-03; and
 
    (2) applies for said Single Event Press Card in person, by fax or by e-mail:
 
@@ -3343,7 +3343,7 @@ Where the property clerk has reasonable cause to believe that property was unlaw
 *§ 12-37 Property Not Subject to Forfeiture but Subject to More Than One Claim.* ::
 
 
-When property is not subject to forfeiture under § 12-36 of this subchapter, but is, or may be, subject to more than one claim, the police property clerk shall take the following action:
+When property is not subject to forfeiture under 38 RCNY § 12-36, but is, or may be, subject to more than one claim, the police property clerk shall take the following action:
 
 (a) Where the person from whom the property was taken makes a timely demand to the police property clerk for the return of the property, the property clerk shall return the property to the claimant unless an additional claim is made in writing or in person within 25 days of the claimant's demand, in which case the property clerk shall within five days of the date of the additional claim provide each interested person (including the original claimant) with the name and address of all such interested persons, and shall retain the property pending a disposition of the matter between the persons who claim it. If within 30 days thereafter no settlement is reached between the persons who claim it, and the police property clerk has received no court order regarding the property or any notice of any action pending between the persons who claim it regarding the property, the police property clerk shall release the property to the claimant from whom the property was taken.
 
@@ -4381,7 +4381,7 @@ Chapter 17: Prohibited Assault Weapons
 
 
 
-Chapter 18: Seizure of Bicycles Pursuant To Administrative Code Section 19-176
+Chapter 18: Seizure of Bicycles Pursuant To Administrative Code § 19-176
 --------------------------------------------------
 
 
@@ -4614,16 +4614,16 @@ For purposes of these rules, the following terms shall have the following meanin
       - Number of MOS Performing Traffic Control Functions
       - Traffic Control Cost*
     * - Extra Small
-      - 0-99
+      - 0 - 99
       - up to $100,000 
     * - Small
-      - 100-499
+      - 100 - 499
       - up to $500,000
     * - Medium
-      - 500-999
+      - 500 - 999
       - up to $1,000,000
     * - Large
-      - 1,000-1,999
+      - 1,000 - 1,999
       - up to $2,000,000
     * - Extra Large
       - 2,000 or more
@@ -4648,9 +4648,9 @@ For purposes of these rules, the following terms shall have the following meanin
 
    (i) City-sponsored events;
 
-   (ii) "Occasions of extraordinary public interest" as defined in 38 RCNY § 19-01(b) of this title;
+   (ii) "Occasions of extraordinary public interest" as defined in 38 RCNY § 19-01(b);
 
-   (iii) Demonstrations, as defined in 38 RCNY § 19-02(d) of this title:
+   (iii) Demonstrations, as defined in 38 RCNY § 19-02(d);
 
    (iv) Charitable Athletic Parades; or
 
@@ -4667,7 +4667,7 @@ Chapter 21: Recordkeeping For Pawnbrokers and Second-Hand Dealers and Related In
 *§ 21-01 Introduction.* ::
 
 
-Sections 21-02 through 21-09 of this Chapter have been promulgated by the Police Commissioner to implement the provisions of Local Law No. 149 of 2013 ("the Local Law"), which establishes new requirements for recordkeeping by pawnbrokers and certain second-hand dealers in New York City. Sections 21-10 and 21-11 of this Chapter generally codify certain, long-standing written recordkeeping requirements and address related administrative inspections.
+38 RCNY §§ 21-02 through 21-09 have been promulgated by the Police Commissioner to implement the provisions of Local Law No. 149 of 2013 ("the Local Law"), which establishes new requirements for recordkeeping by pawnbrokers and certain second-hand dealers in New York City. 38 RCNY §§ 21-10 and 21-11 generally codify certain, long-standing written recordkeeping requirements and address related administrative inspections.
 
 Editor's note: the Local Law referenced in this section amended §§ 20-267, 20-273, and 20-277 of the Administrative Code.
 
@@ -4681,7 +4681,7 @@ Editor's note: the Local Law referenced in this section amended §§ 20-267, 20-
 *§ 21-02 Definitions.* ::
 
 
-Dealer in Second-Hand Articles. "Dealer in Second-Hand Articles" or "Second-Hand Dealer" means a dealer in second-hand articles as such person is defined in Section 20-264 of the New York City Administrative Code.
+Dealer in Second-Hand Articles. "Dealer in Second-Hand Articles" or "Second-Hand Dealer" means a dealer in second-hand articles as such person is defined in § 20-264 of the New York City Administrative Code.
 
 Dealer Subject to Electronic Recordkeeping Requirements. "Dealer Subject to Electronic Recordkeeping Requirements" means a dealer in second-hand articles who deals in: (1) the purchase or sale of any second-hand manufactured article composed wholly or in part of gold, silver, platinum, or other precious metals; the purchase or sale of any old gold, silver, platinum or other precious metals; the purchase of articles or things comprised of gold, silver, platinum or other precious metals for the purpose of melting or refining; the purchase or sale of used electrical appliances excluding kitchen appliances; the purchase or sale of any used electronic equipment, computers or component parts of electronic equipment or computers; or (2) the purchase or sale of pawnbroker tickets or other evidence of pledged articles, or the redemption or sale of pledged articles, where the second-hand dealer is not a pawnbroker.
 

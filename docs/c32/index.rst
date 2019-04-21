@@ -106,19 +106,6 @@ No request for disposal of records shall be granted if in the judgment of the De
 
 
 
-Chapter 2: Municipal Archives Research Service and Copy Fee Schedule
---------------------------------------------------
-
-
-
-*§ 2-01 Vital Records.* ::
-
-
-Additional charges for oversize, cropping, or other services and products.
-
-
-
-
 Chapter 3: Municipal Archives Guidelines Regarding Access To Archival Material
 --------------------------------------------------
 
@@ -129,7 +116,7 @@ Chapter 3: Municipal Archives Guidelines Regarding Access To Archival Material
 
 The New York City Municipal Archives, a division of the Department of Records and Information Services, is open to all qualified persons subject to the following regulations:
 
-A. ACCESS TO MATERIALS.
+A. Access to Materials.
 
    (1) Researchers must provide acceptable identification upon request.
 
@@ -141,7 +128,7 @@ A. ACCESS TO MATERIALS.
 
    (5) Special access restrictions and procedures apply to New York County District Attorney closed case files, and Board of Education "anti-Communist" case files.
 
-B. REFERENCE ROOM RULES.
+B. Reference Room Rules.
 
    (1) Researchers may bring only those materials needed for research to the document research area.
 
@@ -159,7 +146,7 @@ B. REFERENCE ROOM RULES.
 
    (8) Researchers must preserve the existing order of material and notify staff if any material is discovered to be not in order.
 
-C. REPRODUCTION AND PUBLICATION OF MATERIALS. The Municipal Archives recognizes its responsibility to facilitate access to its collections by permitting the reproduction, reprinting, publishing, or other use of archival material, subject to the following conditions:
+C. Reproduction and Publication of Materials. The Municipal Archives recognizes its responsibility to facilitate access to its collections by permitting the reproduction, reprinting, publishing, or other use of archival material, subject to the following conditions:
 
    (1) The physical condition of an item may prohibit reproduction.
 
@@ -171,7 +158,7 @@ C. REPRODUCTION AND PUBLICATION OF MATERIALS. The Municipal Archives recognizes 
 
    (5) Permission to publish, reprint, broadcast, re-duplicate, or make other use of archival material may be granted subject to the conditions indicated in the Publish/Use Contract form (MA-45), and may be subject to licensing or use fees. The Director shall decide when and to what degree these restrictions shall apply.
 
-D. CITATION.
+D. Citation.
 
    (1) Proper acknowledgment or credit must be given to the Municipal Archives for all material used.
 
@@ -216,6 +203,19 @@ B. The regulation governing public access to all archival material are set forth
    (1) For requests to examine records in case files that are less than fifty years old (from the year of indictment), the Municipal Archives Director, or an authorized staff member, will submit to DANY the following information: name of researcher and affiliation, if any, subject and purpose of research, case file number(s) and name(s) of defendant(s). The Municipal Archives will submit this information to DANY prior to granting the researcher access to the requested records. DANY will be permitted to examine the material in the requested file(s) and separate any items as to which (a) public disclosure is prohibited by statute or court order (e.g. minutes of Grand Jury proceedings); or (b) disclosure would threaten the life or safety of any person, such as information about confidential informants or undercover law enforcement personnel. The Municipal Archives will not permit access to any items separated by DANY from other items in the file. The DANY will have five business days (from the date of notification that the case file is available) in which to conduct a case file review.
 
    (2) For all case files regardless of age, the Municipal Archives will not permit access to minutes of Grand Jury proceedings or any other records as to which disclosure is prohibited by statute or court order. The Municipal Archives will also consider requests by DANY to maintain the confidentiality of records whose age is greater than 50 years when exceptional circumstances warrant granting such request.
+
+
+
+
+Chapter 2: Municipal Archives Research Service and Copy Fee Schedule
+--------------------------------------------------
+
+
+
+*§ 2-01 Vital Records.* ::
+
+
+Additional charges for oversize, cropping, or other services and products.
 
 
 

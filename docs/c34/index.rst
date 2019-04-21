@@ -17,7 +17,7 @@ When used in this chapter:
 
 “Alternate Principal Officer” means a person appointed by the Principal Officer as an authorized representative who is permitted to certify Reports on behalf of the Principal Officer.
 
-"Authorization Letter" means the letter submitted pursuant to Sections 3-213(c)(3) and (4) of the Lobbying Law if a lobbyist is an employee of a client.
+"Authorization Letter" means the letter submitted pursuant to § 3-213(c)(3) and (4) of the Lobbying Law if a lobbyist is an employee of a client.
 
 "City Clerk's Address" means the City Clerk's street address, its email address or fax number. Its street address is 141 Worth Street, Attn: Lobbying Bureau, New York, NY 10013. Its email address is lobbyist_helpdesk@cityclerk.nyc.gov. Its fax number is (212) 669-4224.
 
@@ -39,13 +39,13 @@ When used in this chapter:
 
 "Principal Officer" means an employee who has the legal capacity to enter into a contract on behalf of a lobbyist or client.
 
-"Retainer" means the written agreement, or the written statement of the substance of any oral agreement, between a lobbyist and client or a lobbyist and Co-lobbyist pursuant to Sections 3-213(c)(3) and (4) of the Lobbying Law.
+"Retainer" means the written agreement, or the written statement of the substance of any oral agreement, between a lobbyist and client or a lobbyist and Co-lobbyist pursuant to § 3-213(c)(3) and (4) of the Lobbying Law.
 
 "Reports" mean all filings required by the Lobbying Law, including statements of registration, periodic reports, lobbyist annual reports, client annual reports, termination notices, fundraising and political consulting reports, and any amendments thereof, unless otherwise stated.
 
 "Respondent" means the lobbyist or client in any action brought before OATH by the City Clerk pursuant to the Lobbying Law or the Rules.
 
-"Rules" mean chapter 1 of title 51 of the Rules of the City of New York.
+"Rules" mean 51 RCNY Chapter 1.
 
 
 
@@ -147,9 +147,9 @@ When used in this chapter:
 
 (a) Generally. A lobbyist or client must designate a Principal Officer in e-Lobbyist. A lobbyist or client may not designate more than one Principal Officer at any given time.
 
-   (1) If the Principal Officer engages in lobbying activity as defined in Section 3-211(c) of the Lobbying Law, the Principal Officer must be designated in e-Lobbyist as a "Certifying Principal Officer-Employee who lobbies" or any equivalent designation in any subsequent modification of e-Lobbyist.
+   (1) If the Principal Officer engages in lobbying activity as defined in § 3-211(c) of the Lobbying Law, the Principal Officer must be designated in e-Lobbyist as a "Certifying Principal Officer-Employee who lobbies" or any equivalent designation in any subsequent modification of e-Lobbyist.
 
-   (2) If the Principal Officer does not engage in lobbying activity as defined in Section 3-211(c) of the Lobbying Law, the Principal Officer must be designated in e-Lobbyist as a "Certifying Principal Officer-Employee" or any equivalent designation in any subsequent modification of e-Lobbyist.
+   (2) If the Principal Officer does not engage in lobbying activity as defined in § 3-211(c) of the Lobbying Law, the Principal Officer must be designated in e-Lobbyist as a "Certifying Principal Officer-Employee" or any equivalent designation in any subsequent modification of e-Lobbyist.
 
 (b) Responsibilities. The Principal Officer must:
 
@@ -157,7 +157,7 @@ When used in this chapter:
 
    (2) be listed on all statements of registration in which the Principal Officer lobbies on behalf of the registered client;
 
-   (3) certify all Reports pursuant to Section 3-222 of the Lobbying Law;
+   (3) certify all Reports pursuant to § 3-222 of the Lobbying Law;
 
    (4) be the recipient of all official communications sent by the Lobbying Bureau; and
 
@@ -381,7 +381,7 @@ When used in this chapter:
 
    (2) The Principal Officer of each party to the Retainer must sign the Retainer, unless it is impracticable. If the Principal Officer is unable to sign the Retainer, another person with capacity to legally bind the parties to a contract must sign the Retainer.
 
-   (3) Whenever an amendment is made to a Retainer, the lobbyist or Co-lobbyist must file an amended statement of registration and submit the amended Retainer and the original Retainer within ten (10) days as required by Section 3-213(d)(1) of the Lobbying Law.
+   (3) Whenever an amendment is made to a Retainer, the lobbyist or Co-lobbyist must file an amended statement of registration and submit the amended Retainer and the original Retainer within ten (10) days as required by § 3-213(d)(1) of the Lobbying Law.
 
    (4) Failure to include any term of the Retainer required by this section of the Rules shall result in the statement of registration being deemed incomplete and may result in civil penalties pursuant to the procedures set forth in 51 RCNY § 1-12(c)(3).
 
@@ -395,7 +395,7 @@ When used in this chapter:
 
       (iii) the signature of the Principal Officer.
 
-   (2) Whenever a client anticipates that additional employees will engage in lobbying on its behalf, an amended statement of registration listing the additional employees must be filed within ten (10) days, along with a supplemental Authorization Letter and the original Authorization Letter, as required by Section 3-213(d)(1) of the Lobbying Law.
+   (2) Whenever a client anticipates that additional employees will engage in lobbying on its behalf, an amended statement of registration listing the additional employees must be filed within ten (10) days, along with a supplemental Authorization Letter and the original Authorization Letter, as required by § 3-213(d)(1) of the Lobbying Law.
 
 (c) Start Date.
 
@@ -431,7 +431,7 @@ When used in this chapter:
 *§ 1-09 Registration Fees.* ::
 
 
-Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration must be accompanied by (1) a fee of $150 for the first statement of registration and (2) a fee of $50 for each additional statement of registration.
+Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be accompanied by (1) a fee of $150 for the first statement of registration and (2) a fee of $50 for each additional statement of registration.
 
 
 
@@ -487,7 +487,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
       (i) the filing of a statement of registration was inadvertent for any of the reasons stated in 51 RCNY § 1-10(b)(1);
 
-      (ii) the fundraising and/or political consulting activity which was the basis for filing the report does not constitute fundraising and/or political consulting activity under Sections 3-211(h) and (i) of the Lobbying Law;
+      (ii) the fundraising and/or political consulting activity which was the basis for filing the report does not constitute fundraising and/or political consulting activity under § 3-211(h) and (i) of the Lobbying Law;
 
       (iii) the fundraising and political consulting report was mistakenly filed as a result of a duplicate enrollment of the lobbyist; or
 
@@ -591,35 +591,35 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
 (b) Types of Violations. Lobbyists and clients may be subject to a penalty for the following:
 
-   (1) failure to enroll in e-Lobbyist as required by Section 3-213(a)(3) of the Lobbying Law;
+   (1) failure to enroll in e-Lobbyist as required by § 3-213(a)(3) of the Lobbying Law;
 
-   (2) failure to file any Report as required by Sections 3-213, 3-215, 3-216, 3-216.1 and 3-217 of the Lobbying Law;
+   (2) failure to file any Report as required by §§ 3-213, 3-215, 3-216, 3-216.1 and 3-217 of the Lobbying Law;
 
    (3) failure to include a term of a Retainer or Authorization required by 51 RCNY § 1-08;
 
-   (4) knowingly and willfully providing incorrect information to the City Clerk pursuant to Section 3-223(a) of the Lobbying Law;
+   (4) knowingly and willfully providing incorrect information to the City Clerk pursuant to § 3-223(a) of the Lobbying Law;
 
-   (5) failure to pay the registration fee as required by Section 3-213(e) of the Lobbying Law;
+   (5) failure to pay the registration fee as required by § 3-213(e) of the Lobbying Law;
 
-   (6) failure to fully cooperate with any inquiry made by the City Clerk in accordance with Section 3-212(a) of the Lobbying Law;
+   (6) failure to fully cooperate with any inquiry made by the City Clerk in accordance with § 3-212(a) of the Lobbying Law;
 
-   (7) failure of a Principal Officer to certify any Report as required by Section 3-222 of the Lobbying Law;
+   (7) failure of a Principal Officer to certify any Report as required by § 3-222 of the Lobbying Law;
 
    (8) failure, by the applicable deadline in the Lobbying Law, to:
 
-      (i) enroll in e-Lobbyist pursuant to Section 3-213(a)(3) of the Lobbying Law and 51 RCNY § 1-03(a);
+      (i) enroll in e-Lobbyist pursuant to § 3-213(a)(3) of the Lobbying Law and 51 RCNY § 1-03(a);
 
-      (ii) file any Report, including failing to complete any required portion thereof or supplying incorrect information, pursuant to Sections 3-213; 3-215; 3-216; 3-216.1 and 3-217 of the Lobbying Law;
+      (ii) file any Report, including failing to complete any required portion thereof or supplying incorrect information, pursuant to §§ 3-213; 3-215; 3-216; 3-216.1 and 3-217 of the Lobbying Law;
 
-      (iii) file a Retainer or Authorization Letter as required by Sections 3-213(c)(3) and (4) of the Lobbying Law;
+      (iii) file a Retainer or Authorization Letter as required by § 3-213(c)(3) and (4) of the Lobbying Law;
 
-      (iv) respond to a lawful subpoena issued by the City Clerk pursuant to Section 3-212(a) of the Lobbying Law; or
+      (iv) respond to a lawful subpoena issued by the City Clerk pursuant to § 3-212(a) of the Lobbying Law; or
 
-      (v) pay any civil penalty assessed by the City Clerk in accordance with Section 3-223 of the Lobbying Law;
+      (v) pay any civil penalty assessed by the City Clerk in accordance with § 3-223 of the Lobbying Law;
 
    (9) the Principal Officer or Designee intentionally disclosing his or her e-Lobbyist password in violation of 51 RCNY § 1-04(c)(2) or 51 RCNY § 1-05(c)(3), respectively;
 
-   (10) failure to comply with the terms of use agreement of e-Lobbyist pursuant to Section 3-212(a) of the Lobbying Law; or
+   (10) failure to comply with the terms of use agreement of e-Lobbyist pursuant to § 3-212(a) of the Lobbying Law; or
 
    (11) any other act or omission that constitutes a violation of the Lobbying Law or Rules.
 
@@ -627,9 +627,9 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
    (1) Late Filings.
 
-      (i) Generally. Any lobbyist or client who fails to file a Report by the deadline for such Report will be subject to late filing penalties. Pursuant to Section 3-223(c)(2) of the Lobbying Law, a lobbyist or client who has never previously filed a Report will be charged a late filing penalty of ten dollars ($10) per day for each Report that is late and all other lobbyists or clients will be charged a late filing penalty of twenty-five dollars ($25) per day for each Report that is late. Late filing penalties accrue from the day after the filing deadline through, and including, the day the Report is filed, and include weekends and holidays.
+      (i) Generally. Any lobbyist or client who fails to file a Report by the deadline for such Report will be subject to late filing penalties. Pursuant to § 3-223(c)(2) of the Lobbying Law, a lobbyist or client who has never previously filed a Report will be charged a late filing penalty of ten dollars ($10) per day for each Report that is late and all other lobbyists or clients will be charged a late filing penalty of twenty-five dollars ($25) per day for each Report that is late. Late filing penalties accrue from the day after the filing deadline through, and including, the day the Report is filed, and include weekends and holidays.
 
-      (ii) Notice. Pursuant to Section 3-223(c)(1) of the Lobbying Law, following either the failure to file or the late filing of a Report, the City Clerk will send a notice by email and certified mail, return-receipt requested, advising the lobbyist or client of the following:
+      (ii) Notice. Pursuant to § 3-223(c)(1) of the Lobbying Law, following either the failure to file or the late filing of a Report, the City Clerk will send a notice by email and certified mail, return-receipt requested, advising the lobbyist or client of the following:
 
          (A) if a Report has not been filed, that such Report must be filed and the applicable late filing penalty paid no later than fourteen (14) business days after the date of emailing or mailing of the notice by the City Clerk, whichever is earlier; or
 
@@ -667,7 +667,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
          (B) 51 RCNY § 1-13 to seek civil penalties in an amount set forth in 51 RCNY § 1-12(d), if applicable.
 
-   (3) Other Violations. Any violation of the Lobbying Law or Rules not punishable under Sections 3-223(a), (b) or (c) of the Lobbying Law will be enforced pursuant to the following procedure:
+   (3) Other Violations. Any violation of the Lobbying Law or Rules not punishable under § 3-223(a), (b) or (c) of the Lobbying Law will be enforced pursuant to the following procedure:
 
       (A) Formal Notice. The City Clerk will send a formal notice by email and certified mail, return-receipt requested, advising the lobbyist or client of the violation.
 
@@ -675,7 +675,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
 (d) Civil Penalties.
 
-   (1) Pursuant to Section 3-223(c) and (d) of the Lobbying Law, lobbyists or clients that fail to cure a violation within fourteen (14) business days after the date of emailing or mailing of a notice to cure, whichever is earlier, will be subject to a civil penalty based upon the following schedule:
+   (1) Pursuant to § 3-223(c) and (d) of the Lobbying Law, lobbyists or clients that fail to cure a violation within fourteen (14) business days after the date of emailing or mailing of a notice to cure, whichever is earlier, will be subject to a civil penalty based upon the following schedule:
 
  
 
@@ -727,7 +727,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
       (ii) If a violation is settled or satisfied after a formal proceeding begins in OATH, a notice of withdrawal without prejudice will be filed by the City Clerk with OATH and served upon the lobbyist or client by first-class mail or email.
 
-(f) Waiver or Reduction of Late Filing Penalties. If a lobbyist or client is subject to a late filing penalty, a lobbyist or client may request a waiver or reduction of such late filing penalty pursuant to Section 3-223(c)(2) of the Lobbying Law.
+(f) Waiver or Reduction of Late Filing Penalties. If a lobbyist or client is subject to a late filing penalty, a lobbyist or client may request a waiver or reduction of such late filing penalty pursuant to § 3-223(c)(2) of the Lobbying Law.
 
    (1) A request for a waiver or reduction of a late filing penalty must be received by the City Clerk no later than fourteen (14) business days after the date of emailing or mailing of the notice, whichever is earlier, issued by the City Clerk pursuant to 51 RCNY § 1-12(c)(1)(ii). Such request must be sent in writing by first-class mail or hand delivery to the City Clerk's Address on forms prescribed by the City Clerk.
 
@@ -837,15 +837,15 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 *§ 1-16 Amnesty.* ::
 
 
-(a) Generally. On January 1, 2016, a six-month amnesty program shall commence pursuant to Section 3-223(i) of the Lobbying Law.
+(a) Generally. On January 1, 2016, a six-month amnesty program shall commence pursuant to § 3-223(i) of the Lobbying Law.
 
 (b) Eligibility.
 
    (1) Amnesty will be available to:
 
-      (i) any lobbyist who was required to have filed, but has never filed, a statement of registration pursuant to Section 3-213 of the Lobbying Law at any time on or after December 10, 2006; or
+      (i) any lobbyist who was required to have filed, but has never filed, a statement of registration pursuant to § 3-213 of the Lobbying Law at any time on or after December 10, 2006; or
 
-      (ii) any client who was required to have filed, but has never filed, an annual report pursuant to Section 3-217 of the Lobbying Law at any time on or after December 10, 2006.
+      (ii) any client who was required to have filed, but has never filed, an annual report pursuant to § 3-217 of the Lobbying Law at any time on or after December 10, 2006.
 
    (2) Parties who act as both lobbyist and client will be eligible for amnesty only in the capacity in which such party qualifies pursuant to subdivision (b) of this section. If the applicant qualifies as both a lobbyist and a client, the applicant shall be eligible for amnesty in both capacities.
 
@@ -855,7 +855,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
       (ii) a party to any pending criminal litigation in any court of law relating to any violation of the Lobbying Law.
 
-(c) Notice of Intent to Participate. Prior to January 1, 2016, a lobbyist or client may file a notice of intent to participate in the amnesty program on forms prescribed by the City Clerk. This filing entitles the lobbyist or client to the benefits provided by Section 3-223(i)(2) of the Lobbying Law.
+(c) Notice of Intent to Participate. Prior to January 1, 2016, a lobbyist or client may file a notice of intent to participate in the amnesty program on forms prescribed by the City Clerk. This filing entitles the lobbyist or client to the benefits provided by § 3-223(i)(2) of the Lobbying Law.
 
    (i) Effect of Notice of Intent to Participate.
 
@@ -877,7 +877,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
    (2) Submission of Application. Applications must be submitted by email, first-class mail or hand-delivery to the City Clerk’s Address, Attention: Amnesty. Any applications submitted by email or handdelivery must be received no later than 11:59 P.M. Eastern Standard Time on June 30 2016. Any application submitted by first-class mail must be postmarked no later than June 30, 2016.
 
-(e) Effect of Amnesty. If amnesty is granted, the City Clerk will waive any late filing and civil penalties that could be assessed against such lobbyist or client, as set forth in Section 3-223 of the Lobbying Law, for the period from December 10, 2006 to the earlier of (i) the date the application was filed or (ii) the date the notice of intent was filed. Such lobbyist or client shall not be subject to any criminal penalties authorized by Section 3-223 of the Lobbying Law, for the period from December 10, 2006 to the earlier of (i) the date the application was filed or (ii) the date the notice of intent was filed.
+(e) Effect of Amnesty. If amnesty is granted, the City Clerk will waive any late filing and civil penalties that could be assessed against such lobbyist or client, as set forth in § 3-223 of the Lobbying Law, for the period from December 10, 2006 to the earlier of (i) the date the application was filed or (ii) the date the notice of intent was filed. Such lobbyist or client shall not be subject to any criminal penalties authorized by § 3-223 of the Lobbying Law, for the period from December 10, 2006 to the earlier of (i) the date the application was filed or (ii) the date the notice of intent was filed.
 
 (f) Denial of Amnesty.
 
@@ -1342,11 +1342,11 @@ Chapter 4: Domestic Partner Registration
 *§ 4-01 Domestic Partner Affidavit Form.* ::
 
 
-(a) Both parties must be present at the time of submitting their affidavit to register as domestic partners at the City Clerk's office. Parties must provide acceptable identification as specified in 51 RCNY § 4-03 of these Rules, and register during regular business hours.
+(a) Both parties must be present at the time of submitting their affidavit to register as domestic partners at the City Clerk's office. Parties must provide acceptable identification as specified in 51 RCNY § 4-03, and register during regular business hours.
 
 (b) Both partners must sign the affidavit in the presence of a Notary Public or Commissioner of Deeds who will then sign and notarize the document before the affidavit is submitted for registration in the City Clerk's office.
 
-(c) The foregoing do not apply to cases where City Clerk personnel are processing a domestic partnership registration in a prison or a hospital, pursuant to 51 RCNY § 4-02 of these Rules.
+(c) The foregoing do not apply to cases where City Clerk personnel are processing a domestic partnership registration in a prison or a hospital, pursuant to 51 RCNY § 4-02.
 
 
 

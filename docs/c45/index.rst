@@ -69,7 +69,7 @@ No person shall use or occupy any wharf property or any marginal street for any 
 
 (f) Any permit may be suspended or revoked upon expiration of any workman's compensation or other required insurance, or at the discretion of the Commissioner. A permit shall normally be revoked whenever the Commissioner shall have determined that an unreasonable delay has occurred in the completion of the work authorized by such permit.
 
-(g) Any permit issued by the Commissioner under which no work has begun within one year from the date thereof shall be revoked unless otherwise directed by the Commissioner. Whenever a permit is revoked for any reason, no work for which a permit is required by this § 2-03 shall proceed unless any application for a new permit shall have been approved and a new permit issued.
+(g) Any permit issued by the Commissioner under which no work has begun within one year from the date thereof shall be revoked unless otherwise directed by the Commissioner. Whenever a permit is revoked for any reason, no work for which a permit is required by this 66 RCNY § 2-03 shall proceed unless any application for a new permit shall have been approved and a new permit issued.
 
 (h) Any application for a permit which has been disapproved entirely or in part and upon which no further action has been taken by the applicant within one year after the notice of disapproval was given shall be cancelled unless otherwise directed by the Commissioner. An application once so cancelled may be reinstated at the discretion of the Commissioner, provided such application complies with all provisions of the law in effect at the time reinstatement is granted.
 
@@ -253,7 +253,7 @@ No person shall fail or refuse to pay upon demand to the Commissioner the rates 
 *§ 2-17 Smoking and Lighted Material.* ::
 
 
-No person shall smoke, possess or throw away any lighted match, cigar, pipe, cigarette or other lighted material while in or about any structure located on waterfront property (except a private dwelling as defined in § 4 of the Multiple Dwelling Law); or while on or about any vessel or other craft which carries as cargo any of the flammable or explosive substances or materials mentioned in § 2-11 above, and which is tied, anchored or made fast at or about any waterfront property or marginal street; provided that the Commissioner and/or the Fire Commissioner of The City of New York may in writing from time to time designate portions of any of the aforementioned structures, locations, vessels or crafts where smoking may be permitted and may prescribe the types and locations of containers or receptacles into which such lighted material and such lighted matches, cigars or cigarettes shall be deposited.
+No person shall smoke, possess or throw away any lighted match, cigar, pipe, cigarette or other lighted material while in or about any structure located on waterfront property (except a private dwelling as defined in § 4 of the Multiple Dwelling Law); or while on or about any vessel or other craft which carries as cargo any of the flammable or explosive substances or materials mentioned in 66 RCNY § 2-11 above, and which is tied, anchored or made fast at or about any waterfront property or marginal street; provided that the Commissioner and/or the Fire Commissioner of The City of New York may in writing from time to time designate portions of any of the aforementioned structures, locations, vessels or crafts where smoking may be permitted and may prescribe the types and locations of containers or receptacles into which such lighted material and such lighted matches, cigars or cigarettes shall be deposited.
 
 
 
@@ -277,11 +277,11 @@ No person shall smoke, possess or throw away any lighted match, cigar, pipe, cig
 
    (6) Granting such permission shall be determined by the Commissioner to be consistent with the public interest and not in conflict with any plan or program for waterfront development.
 
-(b) Any written permission granted under this section may be suspended or revoked by the Commissioner at his discretion whenever any of the conditions enumerated in paragraphs one through six of § 2-18(a) above, are no longer satisfied, or whenever necessary to insure safety to persons or property.
+(b) Any written permission granted under this section may be suspended or revoked by the Commissioner at his discretion whenever any of the conditions enumerated in paragraphs one through six of 66 RCNY § 2-18(a) above, are no longer satisfied, or whenever necessary to insure safety to persons or property.
 
-(c) No person owning, chartering, occupying or using a houseboat or converted craft tied, anchored or made fast on or about waterfront property, a marginal street, or the waters of the port of The City of New York shall knowingly maintain such houseboat or converted craft, or any of its appurtenances or facilities, in an unsafe condition, or not in good repair, or in a condition which may endanger any person, or which impedes, encumbers or obstructs waterfront property or a marginal street in its free use or for navigation. Such persons shall comply forthwith with all orders of the Commissioner or the Fire Department of The City of New York directing that any such conditions be corrected or abated, or that such houseboat or converted craft be removed, pursuant to § 2-06, or other applicable provisions of law.
+(c) No person owning, chartering, occupying or using a houseboat or converted craft tied, anchored or made fast on or about waterfront property, a marginal street, or the waters of the port of The City of New York shall knowingly maintain such houseboat or converted craft, or any of its appurtenances or facilities, in an unsafe condition, or not in good repair, or in a condition which may endanger any person, or which impedes, encumbers or obstructs waterfront property or a marginal street in its free use or for navigation. Such persons shall comply forthwith with all orders of the Commissioner or the Fire Department of The City of New York directing that any such conditions be corrected or abated, or that such houseboat or converted craft be removed, pursuant to 66 RCNY § 2-06, or other applicable provisions of law.
 
-(d) No person shall make any repairs, construction, installations, or alterations on or about any houseboat or converted craft, tied, anchored or made fast on or about waterfront property, a margin street or the waters of the port of The City of New York without first obtaining the written permission of the Commissioner, pursuant to § 2-03 above. All such persons shall likewise obtain and exhibit upon demand the Certificate of Completion mentioned in § 2-03 above, which is hereby made applicable in all respects to such work on such houseboats and converted crafts.
+(d) No person shall make any repairs, construction, installations, or alterations on or about any houseboat or converted craft, tied, anchored or made fast on or about waterfront property, a margin street or the waters of the port of The City of New York without first obtaining the written permission of the Commissioner, pursuant to 66 RCNY § 2-03 above. All such persons shall likewise obtain and exhibit upon demand the Certificate of Completion mentioned in 66 RCNY § 2-03 above, which is hereby made applicable in all respects to such work on such houseboats and converted crafts.
 
 
 
@@ -691,33 +691,47 @@ Chapter 4: Fees
 
 (b) The fee schedule below lists each of these categories separately. One hundred percent of the fee is due at the time of filing a permit application and fees are not refundable. All applications must be accompanied by the full fee in order to be processed. A fee computation should be included with each application.
 
-NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFFECTIVE OCTOBER 1, 1986  
+NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFFECTIVE OCTOBER 1, 1986
+
+ 
 
 
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * - CATEGORY I NEW BUILDING
+      - FEE
 ~
 
 
 
-  
+
 
 
 .. list-table::
     :header-rows: 1
 
-    * -  CATEGORY I NEW BUILDING 
-      -  
-      - FEE 
-      -  
-      -  
-      -  
+    * - 0 to 1,000 Square Feet
+      - $55.00
+    * - 1,001 to 5,000 Square Feet
+      - $110.00
+    * - 5,001 to 10,000 Square Feet
+      - $220.00
+    * - 10,001 to 20,000 Square Feet
+      - $440.00
+    * - 20,001 to 40,000 Square Feet
+      - $880.00
+    * - 40,001 to 60,000 Square Feet
+      - $1,320.00
+    * - 60,001 to 80,000 Square Feet
+      - $1,760.00
+    * - 80,001 to 100,000 Square Feet
+      - $2,200.00
+    * - Add $440.00 for each additional 20,000 Square Feet or Part of
       - 
 ~
 
-
+ 
 
  
 
@@ -725,25 +739,41 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * - CATEGORY II OPEN AREA FEE
+      - FEE
 ~
 
 
 
-  
+
 
 
 .. list-table::
     :header-rows: 1
 
-    * - 0
-      -  
-      - to
-      -  
-      -  
+    * - 0 to 10,000 Square Feet
+      - $28.00
+    * - 10,001 to 50,000 Square Feet
+      - $138.00
+    * - 50,001 to 100,000 Square Feet
+      - $275.00
+    * - 100,001 to 200,000 Square Feet
+      - $825.00
+    * - 200,001 to 300,000 Square Feet
+      - $1,375.00
+    * - 300,001 to 400,000 Square Feet
+      - $1,925.00
+    * - 400,001 to 500,000 Square Feet
+      - $2,475.00
+    * - Add $550.00 for each additional 100,000 Square Feet or Part of
 ~
 
 
+
+
+      -
+
+ 
 
  
 
@@ -751,26 +781,73 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 .. list-table::
     :header-rows: 1
 
-    * -  1,000 Square Feet
-      -  
+    * - CATEGORY III MISCELLANEOUS FEE
+      - FEE
 ~
 
 
 
-$     55.00 
+
 
 
 .. list-table::
     :header-rows: 1
 
-    * - 1,001
-      -  
-      - to
-      -  
-      -  
+    * - $0 to $1,000
+      - $28.00
+    * - $1,001 to $5,000
+      - $55.00
+    * - $5,001 to $10,000
+      - $110.00
+    * - $10,001 to $20,000
+      - $220.00
+    * - $20,001 to $50,000
+      - $440.00
+    * - $50,001 to $100,000
+      - $660.00
+    * - $100,001 to $200,000
+      - $880.00
+    * - $200,001 to $300,000
+      - $1,320.00
+    * - $300,001 to $400,000
+      - $1,760.00
+    * - $400,001 to $500,000
+      - $2,200.00
+    * - $500,001 to $600,000
+      - $2,640.00
+    * - $600,001 to $700,000
+      - $3,080.00
+    * - $700,001 to $800,000
+      - $3,520.00
+    * - $800,001 to $900,000
+      - $3,960.00
+    * - $900,001 to $1,000,000
+      - $4,400.00
+    * - $1,00,001 to $1,100,000
+      - $4,840.00
+    * - $1,10,001 to $1,200,000
+      - $5,280.00
+    * - $1,20,001 to $1,300,000
+      - $5,720.00
+    * - $1,30,001 to $1,400,000
+      - $6,160.00
+    * - $1,40,001 to $1,500,000
+      - $6,600.00
+    * - $1,50,001 to $1,600,000
+      - $7,040.00
+    * - $1,60,001 to $1,700,000
+      - $7,480.00
+    * - $1,70,001 to $1,800,000
+      - $7,920.00
+    * - Add $440.00 for each additional $100,000 of Estimated Cost or Part of
 ~
 
 
+
+
+      -
+
+ 
 
  
 
@@ -778,212 +855,15 @@ $     55.00 
 .. list-table::
     :header-rows: 1
 
-    * -  5,000 Square Feet
-      -  
-~
-
-
-
-$   110.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 5,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   10,000 Square Feet
-      -  
-~
-
-
-
-$   220.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 10,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   20,000 Square Feet
-      -  
-~
-
-
-
-$   440.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 20,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   40,000 Square Feet
-      -  
-~
-
-
-
-$   880.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 40,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   60,000 Square Feet
-      -  
-~
-
-
-
-$1,320.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 60,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   80,000 Square Feet
-      -  
-~
-
-
-
-$1,760.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 80,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 100,000 Square Feet
-      -  
-~
-
-
-
-$2,200.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- Add $440.00 for each additional 20,000 Square Feet or Part of.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  CATEGORY II OPEN AREA FEE 
-      -  
-      - FEE 
-      -  
-      -  
-      -  
+    * - CATEGORY IV AMENDMENTS
       - 
+    * - Any revisions or changes submitted thirty days after date of approval – $200.00
 ~
 
 
+
+
+      -  
 
  
 
@@ -991,249 +871,15 @@ $2,200.00 
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 0
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   10,000 Square Feet
-      -  
-~
-
-
-
-$     28.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 10,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   50,000 Square Feet
-      -  
-~
-
-
-
-$   138.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 50,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 100,000 Square Feet
-      -  
-~
-
-
-
-$   275.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 100,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 200,000 Square Feet
-      -  
-~
-
-
-
-$   825.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 200,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 300,000 Square Feet
-      -  
-~
-
-
-
-$1,375.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 300,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 400,000 Square Feet
-      -  
-~
-
-
-
-$1,925.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 400,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 500,000 Square Feet
-      -  
-~
-
-
-
-$2,475.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- Add $550.00 for each additional 100,000 Square Feet or Part of.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  CATEGORY III MISCELLANEOUS FEE 
-      -  
-      - FEE 
-      -  
-      -  
-      -  
+    * - CATEGORY V CHANGE OF USE
       - 
+    * - No physical work, including lot subdivisions – $100.00
 ~
 
 
+
+
+      -  
 
  
 
@@ -1241,979 +887,59 @@ $2,475.00 
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 0
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -     1,000.00
-      -  
-~
-
-
-
-$     28.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -     5,000.00
-      -  
-~
-
-
-
-$     55.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 5,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   10,000.00
-      -  
-~
-
-
-
-$   110.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 10,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   20,000.00
-      -  
-~
-
-
-
-$   220.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 20,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -   50,000.00
-      -  
-~
-
-
-
-$   440.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 50,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 100,000.00
-      -  
-~
-
-
-
-$   660.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 100,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 200,000.00
-      -  
-~
-
-
-
-$   880.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 200,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 300,000.00
-      -  
-~
-
-
-
-$1,320.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 300,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 400,000.00
-      -  
-~
-
-
-
-$1,760.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 400,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 500,000.00
-      -  
-~
-
-
-
-$2,200.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 500,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 600,000.00
-      -  
-~
-
-
-
-$2,640.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 600,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 700,000.00
-      -  
-~
-
-
-
-$3,080.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 700,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 800,000.00
-      -  
-~
-
-
-
-$3,520.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 800,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 900,000.00
-      -  
-~
-
-
-
-$3,960.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 900,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,000,000.00
-      -  
-~
-
-
-
-$4,400.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,000,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,100,000.00
-      -  
-~
-
-
-
-$4,840.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,100,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,200,000.00
-      -  
-~
-
-
-
-$5,280.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,200,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,300,000.00
-      -  
-~
-
-
-
-$5,720.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,300,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,400,000.00
-      -  
-~
-
-
-
-$6,160.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,400,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,500,000.00
-      -  
-~
-
-
-
-$6,600.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,500,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,600,000.00
-      -  
-~
-
-
-
-$7,040.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,600,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,700,000.00
-      -  
-~
-
-
-
-$7,480.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,700,001
-      -  
-      - to
-      -  
-      -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1,800,000.00
-      -  
-~
-
-
-
-$7,920.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- Add $440.00 for each additional $100,000.00 of Estimated Cost or Part of.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- CATEGORY IV CATEGORY IV AMENDMENTS  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- Any revisions or changes submitted thirty days after date of approval – $200.00.  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- CATEGORY V CHANGE OF USE  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- No physical work, including lot subdivisions – $100.00  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- CATEGORY VI SPECIAL FEES The department shall be entitled to charge the following fees:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1.  Acknowledgements (Notary)
-      -  
+    * - CATEGORY VI SPECIAL FEESThe department shall be entitled to charge the following fees: 
+      - 
+      - 
+      - 
+      - 
+    * - 1. Acknowledgements (Notary)
+      - 
+      - 
       - per signature
-      -  
-      - $    .25
+      - $0.25
+    * - 2. Certificate of Completion or Notice of Completion
+      - 
+      - 
+      - per copy
+      - $5.00
+    * - 3. Certificate of pending Violations
+      - 
+      - 
+      - per copy
+      - $35.00
+    * - 4. Preparing Copy of Record
+      - 
+      - 
+      - 
+      - 
+    * - 
+      - A)Preparing and certifying a copy of record or document other than a plan, certificate of completion, notice of completion or certificate of pending violationNote: A page to consist of one face of a card or record
+      - 
+      - first pageeach additional page 
+      - $20.00$3.00
+    * - 
+      - B)
+      - 1.Photostat copy of a plan 18"x 24"or less
+      - per copy
+      - $15.00
     * - 
       - 
-      - 
-      - 
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 2.  
-      - Certificate of Completion or Notice of Completion
-~
-
-
-
-per copy$  5.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 3.  
-      - Certificate of pending Violations
-~
-
-
-
-per copy$35.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  
-      - Preparing Copy of Record
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  A)  
-      - Preparing and certifying a copy of recordor document other than a plan, certificateof completion, notice of completion or certificate of pending violation
-~
-
-
-
-first page$20.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - each additional page 
-      -  
-      - $  3.00
-      -  
-      -  
+      - 2.Photostat copy of a plan exceeding 18"x 24"for first section 18"x 24"each additional section 18"x 24"or less
+      - copy
+      - $15.00
     * - 
       - 
-      - 
-      - 
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  A)  
-      - Note: A page to consist of one face of a card or record
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  B)  1.  
-      - Photostat copy of a plan 18"x 24"or less
-~
-
-
-
-per copy$15.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  B)  2.  
-      - Photostat copy of a plan exceeding18"x 24"for first section 18"x 24"each additional section 18"x 24"orless
-~
-
-
-
-copy$15.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  B)  3.  
-      - Extra photostat copies of plans each section 18"x 24"
-~
-
-
-
-copy$  3.00 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 4.  B)  4.  
-      - Places of Assembly
-~
-
-
-
-each copy$50.00 
-
-
-.. list-table::
-    :header-rows: 1
-
+      - 3.Extra photostat copies of plans each section 18"x 24"
+      - copy
+      - $3.00
     * - 
+      - 
+      - 4. Places of Assembly
+      - each copy
+      - $50.00
 ~
 
-
-
-
+ 
 
 
 
@@ -2279,7 +1005,7 @@ Category I on-site cogenerator. "Category I on-site cogenerator" shall mean an o
 
 Category II on-site cogenerator. "Category II on-site cogenerator" shall mean an on-site cogenerator, other than a clean on-site cogenerator, that was certified after June 30, 2003.
 
-Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility and qualification of an applicant to receive a special rebate. The certificate of eligibility shall include such information as is required pursuant to § 5-42(b) of these rules.
+Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility and qualification of an applicant to receive a special rebate. The certificate of eligibility shall include such information as is required pursuant to 66 RCNY § 5-42(b).
 
 Charter. "Charter" means the New York City Charter, as amended.
 
@@ -2301,13 +1027,13 @@ DBS or DSBS. "DBS" or "DSBS" shall mean the New York City Department of Small Bu
 
 DOF. "DOF" means the New York City Department of Finance or its successor in function.
 
-Discount. "Discount" means the amount of a reduction in a bill for energy services rendered to a vendor or NYCPUS by a utility, or to a vendor by NYCPUS, in accordance with the requirements of § 5-15 of these rules, equal to the special rebates made by such vendor or NYCPUS to eligible energy users, eligible owners or qualified eligible energy users.
+Discount. "Discount" means the amount of a reduction in a bill for energy services rendered to a vendor or NYCPUS by a utility, or to a vendor by NYCPUS, in accordance with the requirements of 66 RCNY § 5-15, equal to the special rebates made by such vendor or NYCPUS to eligible energy users, eligible owners or qualified eligible energy users.
 
 ECSP or Program. "ECSP" or the "Program" means the Program described in the Act and these rules.
 
 Effective date. "Effective date" means the effective date of a certificate of eligibility, which date is the first day of the first billing cycle after a certificate of eligibility is issued.
 
-Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 5-13(a) of these rules, to which charges the applicable percentages in § 5-16 or § 5-18 of these rules are applied to determine the amount of a special rebate.
+Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with 66 RCNY § 5-13(a), to which charges the applicable percentages in 66 RCNY § 5-16 or 66 RCNY § 5-18 are applied to determine the amount of a special rebate.
 
 Eligible energy user. "Eligible energy user" means any non-residential user of energy services, that purchases such energy services directly from a utility, a vendor, NYCPUS or an on-site cogenerator, and that satisfies the applicable criteria set forth in Subchapter B of these rules.
 
@@ -2317,9 +1043,9 @@ Eligible move-in area. "Eligible move-in area" means:
 
    (2) with respect to an applicant that relocates from premises within a commercial development pressure area to replacement premises, all areas within the City except (i) those areas lying south of the center line of 96th Street in the Borough of Manhattan and (ii) commercial development pressure areas;
 
-   (3) with respect to an applicant that occupies premises that meet the criteria of § 5-12(b) (specially eligible premises) of these rules, all areas within the City except those areas lying south of the center line of 96th Street in the Borough of Manhattan; and
+   (3) with respect to an applicant that occupies premises that meet the criteria of 66 RCNY § 5-12(b) (specially eligible premises), all areas within the City except those areas lying south of the center line of 96th Street in the Borough of Manhattan; and
 
-   (4) with respect to an applicant that occupies premises that meet the criteria of § 5-12(c) (manufacturing) of these rules, those areas lying south of the center line of 96th Street in the Borough of Manhattan.
+   (4) with respect to an applicant that occupies premises that meet the criteria of 66 RCNY § 5-12(c) (manufacturing), those areas lying south of the center line of 96th Street in the Borough of Manhattan.
 
 Eligible move-out area. "Eligible move-out area" means with respect to an applicant that relocates and occupies replacement premises:
 
@@ -2329,19 +1055,19 @@ Eligible move-out area. "Eligible move-out area" means with respect to an applic
 
    (3) a commercial development pressure area.
 
-Eligible on-site cogenerator charges. "Eligible on-site cogenerator charges" shall mean charges for energy services purchases from a utility related to the delivery of natural gas to a category II on-site cogenerator determined in accordance with § 5-13(d).
+Eligible on-site cogenerator charges. "Eligible on-site cogenerator charges" shall mean charges for energy services purchases from a utility related to the delivery of natural gas to a category II on-site cogenerator determined in accordance with 66 RCNY § 5-13(d).
 
 Eligible owner. "Eligible owner" means an owner, manager or operator of a specially eligible premises that satisfies the applicable criteria of Subchapter B of these rules.
 
 Eligible premises. "Eligible premises" mean those premises that are: (1) replacement premises; or (2) specially eligible premises.
 
-Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 5-13(b) of these rules, to which the applicable percentage in § 5-16 or § 5-18 of these rules are applied to determine the amount of a special rebate.
+Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with 66 RCNY § 5-13(b) of these rules, to which the applicable percentage in 66 RCNY § 5-16 or 66 RCNY § 5-18 are applied to determine the amount of a special rebate.
 
 Employee. "Employee" shall mean any full-time or part-time employee (as provided herein) of an eligible energy user, an affiliate of an eligible energy user, and any contractor working exclusively at an eligible site for operations of an eligible energy user (or an affiliate of an eligible energy user) eligible to receive special rebates. The number of part-time employees and contractors shall be calculated by dividing (i) the number of hours worked by employees, other than full-time employees, and contractors at the eligible energy user's eligible premises, during the applicable period; by (ii) the number of weeks in the applicable period; and then by (iii) 35 person-hours.
 
 Energy conservation measures. "Energy conservation measures" shall have the meaning set forth in subdivision (p) of § 22-601 of the code.
 
-Energy services. "Energy services" shall mean (i) the transportation of electric or natural gas commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of gas or electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of gas or electric commodity to a utility system, except that gas pipeline services shall be considered energy services for purposes of calculating rebates for users eligible to receive rebates under § 5-18(b)(5) of these rules. Energy services shall not include transportation of natural gas to the extent the gas transported is used by a category I on-site cogenerator or a clean on-site cogenerator in the production of electricity that is eligible for special rebates under § 5-14(f).
+Energy services. "Energy services" shall mean (i) the transportation of electric or natural gas commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of gas or electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of gas or electric commodity to a utility system, except that gas pipeline services shall be considered energy services for purposes of calculating rebates for users eligible to receive rebates under 66 RCNY § 5-18(b)(5). Energy services shall not include transportation of natural gas to the extent the gas transported is used by a category I on-site cogenerator or a clean on-site cogenerator in the production of electricity that is eligible for special rebates under 66 RCNY § 5-14(f).
 
 Energy services bill. "Energy services bill" means the statement of charges for energy services rendered to a recipient by: (i) a utility; (ii) a vendor; or (iii) NYCPUS.
 
@@ -2377,7 +1103,7 @@ Real property. "Real property" means land and articles, structures, substructure
 
 Recipient. "Recipient" means an applicant that has satisfied the eligibility criteria of Subchapter B of these rules and has been certified by the commissioner as: (1) an eligible energy user; (2) an eligible owner; (3) a qualified eligible energy user; or (4) a category I on-site cogenerator, a category II on-site cogenerator, or a clean on-site cogenerator.
 
-Replacement premises. "Replacement premises" mean premises occupied by an applicant in replacement of previously occupied premises from which the applicant has relocated, provided the premises satisfy the criteria set forth in § 5-12(a) of these rules.
+Replacement premises. "Replacement premises" mean premises occupied by an applicant in replacement of previously occupied premises from which the applicant has relocated, provided the premises satisfy the criteria set forth in 66 RCNY § 5-12(a).
 
 Retail vendor. "Retail vendor" means any applicant that:
 
@@ -2391,9 +1117,9 @@ Service classification. "Service classification" means the classification used b
 
 Site visit. "Site visit" means an on-site inspection performed by or at the direction of DBS to determine the use of energy services or occupancy of certain buildings, real property or any portion of such building or real property.
 
-Special rebate. "Special rebate" means the amount of reduction in an energy services bill rendered by a utility, a vendor or NYCPUS for energy services to an eligible energy user, a qualified eligible energy user, an eligible owner, or an agent of any of these, or a category I, II or clean on-site cogenerator, and calculated in accordance with the provisions set forth in § 5-14 of these rules.
+Special rebate. "Special rebate" means the amount of reduction in an energy services bill rendered by a utility, a vendor or NYCPUS for energy services to an eligible energy user, a qualified eligible energy user, an eligible owner, or an agent of any of these, or a category I, II or clean on-site cogenerator, and calculated in accordance with the provisions set forth in 66 RCNY § 5-14.
 
-Specially eligible premises. "Specially eligible premises" means non-residential premises that meet the requirements set forth in subdivision (i) of § 22-601 of the code and § 5-12(b) of these rules.
+Specially eligible premises. "Specially eligible premises" means non-residential premises that meet the requirements set forth in subdivision (i) of § 22-601 of the code and 66 RCNY § 5-12(b).
 
 Survey. "Survey" means a study or report based on on-site field inspections, professional surveys by a licensed professional engineer, data collection or meter readings or other actions to determine the use, consumption and application of energy services or the occupancy of certain buildings or real property, or portions thereof.
 
@@ -2403,7 +1129,7 @@ Targeted eligible premises. "Targeted eligible premises" shall have the meaning 
 
 UDC. "UDC" means the New York State Urban Development Corporation or any subsidiary thereof created and defined by § 6254 of the Unconsolidated Laws of the State of New York.
 
-Utility. "Utility" means any provider of energy services within the City that is subject both to the jurisdiction and general supervision of the PSC and to a tax imposed pursuant to chapter 11 of title 11 of the code, and for purposes of this chapter 5, shall include LIPA, or its subsidiary, to the extent that LIPA provides energy services within the City of New York and makes payment to such City that is equivalent to the tax imposed on utilities pursuant to chapter 11 of title 11 of the code.
+Utility. "Utility" means any provider of energy services within the City that is subject both to the jurisdiction and general supervision of the PSC and to a tax imposed pursuant to chapter 11 of title 11 of the code, and for purposes of this chapter 5, shall include LIPA, or its subsidiary, to the extent that LIPA provides energy services within the City of New York and makes payment to such City that is equivalent to the tax imposed on utilities pursuant to Chapter 11 of Title 11 of the code.
 
 Utility credit. "Utility credit" means a credit to which a utility is entitled, in accordance with the rules promulgated by DOF, against the tax imposed under Chapter 11 of Title 11 of the code, and equal to the aggregate amount of all special rebates and/or discounts granted by such utility in accordance with the requirements of the Act and these rules.
 
@@ -2433,7 +1159,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 (c) Provisions of these rules that restate the Act and that do not provide rules or procedures for the exercise of regulatory authority shall not be construed as increasing or diminishing any rights or duties created by the Act, but may be used to assist in the interpretation of the Act.
 
-(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of ECSP set forth in § 5-01 of these rules shall be used to assist in the interpretation and application of such provision.
+(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of ECSP set forth in 66 RCNY § 5-01 shall be used to assist in the interpretation and application of such provision.
 
 (e) Reference to particular provisions of law in these rules shall be deemed to refer to such provisions as interpreted by the applicable decisions of Federal and New York State courts.
 
@@ -2451,7 +1177,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 (c) The commissioner may suspend or revoke a certificate of eligibility if a recipient is found to have made material misrepresentations or misstatements or omissions concerning the prior, current or future status of its continued eligibility under ECSP.
 
-(d) Denial of an application for a certificate of eligibility or the suspension or revocation of a certificate of eligibility pursuant to the provisions of this Subchapter shall be subject to an opportunity to be heard pursuant to §§ 5-45, 5-46 and 5-47 of these rules.
+(d) Denial of an application for a certificate of eligibility or the suspension or revocation of a certificate of eligibility pursuant to the provisions of this Subchapter shall be subject to an opportunity to be heard pursuant to 66 RCNY §§ 5-45, 5-46 and 5-47.
 
 
 
@@ -2501,11 +1227,11 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (2) Such applicant or recipient, referred to as an eligible owner, (i) purchases energy services from a utility or NYCPUS; (ii) owns, operates or manages real property and/or a building, which building and/or real property qualifies as a specially eligible premises; and (iii) otherwise complies with all requirements of the Act and these rules applicable to an eligible owner.
 
-   (3) An applicant or recipient may, if all requirements are met, qualify as both (i) an eligible owner and (ii) an eligible energy user and/or qualified eligible energy user. In such cases, the applicant or recipient may be an eligible owner with respect to the specially eligible premises as a whole and therefore may be entitled to a special rebate applied against certain eligible charges with respect to common areas and/or equipment, as provided in § 5-13(c) of these rules. Such an applicant or recipient may also be an eligible energy user or qualified eligible energy user with respect to the premises it occupies within such specially eligible premises or targeted eligible premises, as the case may be, and therefore may be entitled to a special rebate applied against certain other eligible charges or eligible public utility charges with respect to such premises, as provided in these rules. Provided, however, that no portion of energy services used by such an applicant or recipient shall be the basis for more than one special rebate.
+   (3) An applicant or recipient may, if all requirements are met, qualify as both (i) an eligible owner and (ii) an eligible energy user and/or qualified eligible energy user. In such cases, the applicant or recipient may be an eligible owner with respect to the specially eligible premises as a whole and therefore may be entitled to a special rebate applied against certain eligible charges with respect to common areas and/or equipment, as provided in 66 RCNY § 5-13(c). Such an applicant or recipient may also be an eligible energy user or qualified eligible energy user with respect to the premises it occupies within such specially eligible premises or targeted eligible premises, as the case may be, and therefore may be entitled to a special rebate applied against certain other eligible charges or eligible public utility charges with respect to such premises, as provided in these rules. Provided, however, that no portion of energy services used by such an applicant or recipient shall be the basis for more than one special rebate.
 
 (d) A qualified eligible energy user is a recipient that: (i) has been certified as a qualified eligible energy user in accordance with the Act prior to November 1, 2000; (ii) purchases energy services from NYCPUS or a vendor that purchases such services from NYCPUS; and (iii) otherwise complies with all requirements of the Act and these rules applicable to a qualified eligible energy user.
 
-(e) 1)  An on-site cogenerator is an applicant or recipient that: (i) meets the definition of a category I or category II on-site cogenerator or a clean on-site cogenerator in § 5-02 of these rules; (ii) purchases energy services relating to natural gas from a utility; (iii) otherwise complies with all requirements of the Act and these rules applicable to a category I or category II on-site cogenerator or a clean on-site cogenerator, respectively, and (iv) sells substantially all its electricity output to eligible energy users on the same site.
+(e) 1)  An on-site cogenerator is an applicant or recipient that: (i) meets the definition of a category I or category II on-site cogenerator or a clean on-site cogenerator in 66 RCNY § 5-02; (ii) purchases energy services relating to natural gas from a utility; (iii) otherwise complies with all requirements of the Act and these rules applicable to a category I or category II on-site cogenerator or a clean on-site cogenerator, respectively, and (iv) sells substantially all its electricity output to eligible energy users on the same site.
 
    (2) A category I or clean on-site cogenerator may, if all requirements are met, qualify as an eligible energy user with respect to charges for energy services that are not used in the production of electricity, including charges for the production of thermal product, provided, however, that no portion of energy services, or natural gas energy services in the case of a category I on-site cogenerator or a clean on-site cogenerator, used by such on-site cogenerator shall be the basis for more than one special rebate.
 
@@ -2577,7 +1303,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 (C) subsequent to the approval of the lease described in subparagraph (4) or (5) of subdivision (i) of § 22-601 of the code by UDC or by the City in accordance with the applicable Charter provisions;
 
-      (iii) for applications made after the effective date of these rules, the expenditures made for such construction or renovation described in paragraph (1) of this subdivision (b) of this § 5-12, must be in excess of ten percent (10%) of the assessed value of the real property and building in the tax year in which such construction or renovation commenced;
+      (iii) for applications made after the effective date of these rules, the expenditures made for such construction or renovation described in paragraph (1) of this subdivision (b) of this 66 RCNY § 5-12, must be in excess of ten percent (10%) of the assessed value of the real property and building in the tax year in which such construction or renovation commenced;
 
       (iv) the real property and building are located in an eligible move-in area;
 
@@ -2591,7 +1317,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (2) Notwithstanding the provisions set forth in subparagraph (A), paragraph (1) of this subdivision (b), an applicant that occupies premises within a building that would otherwise qualify as eligible to receive benefits under ICIP except that the real property on which such building is located is exempt from real property taxation, may be eligible as an occupant of premises within specially eligible premises, if all other applicable requirements of eligibility of this Subchapter B are met and such applicant receives a certification from DOF stating that the premises are within a building for which expenditures for improvements have been made in compliance with the applicable provisions of subdivision (i) of § 22-601 of the code and this paragraph (b).
 
-(c) Special criteria applicable to manufacturing premises located in Manhattan below 96th Street. Non-residential premises contained in real property located in the area lying south of the center line of 96th Street in the Borough of Manhattan may qualify as specially eligible premises if the criteria in paragraph (4) of subdivision (i) of § 22-601 of the code and the provisions of subdivision (b) of this § 5-12 for specially eligible premises are otherwise satisfied where such premises are used primarily for manufacturing activities, provided such premises shall be improved as a result of expenditures in an amount in excess of ten per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced.
+(c) Special criteria applicable to manufacturing premises located in Manhattan below 96th Street. Non-residential premises contained in real property located in the area lying south of the center line of 96th Street in the Borough of Manhattan may qualify as specially eligible premises if the criteria in paragraph (4) of subdivision (i) of § 22-601 of the code and the provisions of subdivision (b) of this 66 RCNY § 5-12 for specially eligible premises are otherwise satisfied where such premises are used primarily for manufacturing activities, provided such premises shall be improved as a result of expenditures in an amount in excess of ten per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced.
 
 
 
@@ -2607,7 +1333,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (2) Eligible charges shall not include the following charges:
 
-      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
+      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by 66 RCNY § 5-11(f)(ii);
 
       (ii) charges for energy services that are resold; and
 
@@ -2619,7 +1345,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (2) Eligible public utility service charges shall not include the following charges:
 
-      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user or qualified eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
+      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user or qualified eligible energy user for energy services, as authorized by 66 RCNY § 5-11(f)(ii);
 
       (ii) charges for such energy services that are resold; and
 
@@ -2639,7 +1365,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (2) Eligible on-site cogenerator charges shall not include the following charges:
 
-      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
+      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by 66 RCNY § 5-11(f)(ii);
 
       (ii) charges for energy services that are resold;
 
@@ -2661,7 +1387,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (2) An eligible energy user, qualified eligible energy user, or category II on-site co-generator has the burden of demonstrating to the commissioner that charges for energy services are eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges, respectively. If a determination of eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges cannot be ascertained by the commissioner without a survey or the eligible energy user, qualified eligible energy user, or category II on-site cogenerator is not satisfied with the commissioner's determination of such charges, such user may request that the commissioner cause a survey to be conducted by a licensed professional engineer satisfactory to DSBS at such user's expense, of the applicant's usage of energy services. Upon completion of the survey, the professional who prepares such survey shall submit the report, together with a certification as to the amount of eligible charges or eligible public utility service charges to the commissioner for his or her review.
 
-   (3) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine those charges that constitute the eligible energy user's, qualified eligible energy user's, or category II on-site cogenerator's eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges to which a special rebate may be applied. If such user disagrees with the commissioner's findings, such user may request an opportunity to be heard in accordance with §§ 5-45, 5-46 and 5-47 of these rules.
+   (3) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine those charges that constitute the eligible energy user's, qualified eligible energy user's, or category II on-site cogenerator's eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges to which a special rebate may be applied. If such user disagrees with the commissioner's findings, such user may request an opportunity to be heard in accordance with 66 RCNY §§ 5-45, 5-46 and 5-47.
 
 
 
@@ -2671,31 +1397,31 @@ If any provision of these rules or their application shall be adjudged by any co
 *§ 5-14 Special Rebates.* ::
 
 
-(a)(1)  A utility that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible charges for such energy services.
+(a) (1) A utility that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in 66 RCNY § 5-16 and the eligible charges for such energy services.
 
    (2) A utility other than LIPA that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-18 of these rules and the eligible charges for such energy services.
 
-   (3) A utility that sells energy services to a category II on-site cogenerator shall be required to make a special rebate to such cogenerator equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible on-site cogenerator charges for such energy services.
+   (3) A utility that sells energy services to a category II on-site cogenerator shall be required to make a special rebate to such cogenerator equal to the product of the applicable percentage specified for special rebates in the schedule contained in 66 RCNY § 5-16 and the eligible on-site cogenerator charges for such energy services.
 
-(b) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority and certified as an eligible energy user or eligible owner pursuant to § 22-602(c) of the Code prior to November 1, 2000, NYCPUS shall make such special rebate to such user in the amount or amounts derived by calculating the full amount of the special rebate to which such eligible energy user or eligible owner would have been entitled pursuant to the schedule contained in § 5-18 of these rules for eligible charges relating to the purchase of such energy services had such user purchased such energy services directly from the utility, and subtracting from such full amount the difference between the eligible charges relating to the purchase of such energy services had such eligible energy user or eligible owner purchased the energy services directly from the utility and the eligible public utility service charges relating to the purchase of such energy services actually charged to such eligible energy user by NYCPUS for actual purchases of energy services from NYCPUS; except that (i) in no event shall the amount of such special rebate exceed the amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in § 5-18 of these rules had such eligible energy user or eligible owner purchased the energy services directly from the utility at the price charged by such utility, and (ii) for any monthly billing period where the calculation of such special rebate results in a negative number, the amount of such special rebate shall be deemed to be zero.
+(b) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority and certified as an eligible energy user or eligible owner pursuant to § 22-602(c) of the Code prior to November 1, 2000, NYCPUS shall make such special rebate to such user in the amount or amounts derived by calculating the full amount of the special rebate to which such eligible energy user or eligible owner would have been entitled pursuant to the schedule contained in 66 RCNY § 5-18 for eligible charges relating to the purchase of such energy services had such user purchased such energy services directly from the utility, and subtracting from such full amount the difference between the eligible charges relating to the purchase of such energy services had such eligible energy user or eligible owner purchased the energy services directly from the utility and the eligible public utility service charges relating to the purchase of such energy services actually charged to such eligible energy user by NYCPUS for actual purchases of energy services from NYCPUS; except that (i) in no event shall the amount of such special rebate exceed the amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in 66 RCNY § 5-18 had such eligible energy user or eligible owner purchased the energy services directly from the utility at the price charged by such utility, and (ii) for any monthly billing period where the calculation of such special rebate results in a negative number, the amount of such special rebate shall be deemed to be zero.
 
-(c) 1)  Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority, has applied for ECSP benefits after October 31, 2000, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in § 5-16 of these rules and the eligible public utility service charges for such energy services.
+(c) 1)  Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority, has applied for ECSP benefits after October 31, 2000, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in 66 RCNY § 5-16 and the eligible public utility service charges for such energy services.
 
-   (2) Where, pursuant to such an agreement, NYCPUS sells energy services to a qualified eligible energy user that has been individually approved by such power authority, applied for ECSP benefits prior to November 1, 2000, regardless of the date of certification, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in § 5-18 of these rules and the eligible public utility service charges for such energy services.
+   (2) Where, pursuant to such an agreement, NYCPUS sells energy services to a qualified eligible energy user that has been individually approved by such power authority, applied for ECSP benefits prior to November 1, 2000, regardless of the date of certification, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in 66 RCNY § 5-18 and the eligible public utility service charges for such energy services.
 
-   (3) A user or owner that applied for ECSP benefits as a qualified eligible energy user before November 1, 2000, but was not certified pursuant to § 5-36 of these rules as such prior to such date, may be certified as an eligible energy user after such date and the special rebates to which such user or owner is eligible shall be determined pursuant to § 5-18 in accordance with these rules.
+   (3) A user or owner that applied for ECSP benefits as a qualified eligible energy user before November 1, 2000, but was not certified pursuant to 66 RCNY § 5-36 as such prior to such date, may be certified as an eligible energy user after such date and the special rebates to which such user or owner is eligible shall be determined pursuant to 66 RCNY § 5-18 in accordance with these rules.
 
-(d) 1)  A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in § 5-16 of these rules and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
+(d) 1)  A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in 66 RCNY § 5-16 and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
 
    (2) A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits prior to November 1, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in § 5-18 of these rules and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
 
-(e) 1)  A vendor that sells energy services provided by NYCPUS to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible public utility service charges for sales of energy services made by such vendor.
+(e) 1)  A vendor that sells energy services provided by NYCPUS to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in 66 RCNY § 5-16 and the eligible public utility service charges for sales of energy services made by such vendor.
 
-   (2) A vendor that sells energy services provided by NYCPUS to a qualified eligible energy user that was certified pursuant to § 22-602(c) of the Code prior to November 1, 2000, or to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 and was certified pursuant to § 5-36 of these rules after October 31, 2000 may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in § 5-18 of these rules and the eligible public utility service charges for sales of energy services made by such vendor.
+   (2) A vendor that sells energy services provided by NYCPUS to a qualified eligible energy user that was certified pursuant to § 22-602(c) of the Code prior to November 1, 2000, or to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 and was certified pursuant to 66 RCNY § 5-36 after October 31, 2000 may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in 66 RCNY § 5-18 and the eligible public utility service charges for sales of energy services made by such vendor.
 
-(f) 1)  A utility that delivers natural gas to a category I on-site cogenerator that produces electricity for an eligible energy user or eligible owner certified before July 1, 2003, and a utility that delivers natural gas to a clean on-site cogenerator that produces electricity for an eligible energy user and is certified after June 30, 2003, shall be required to make special rebates against the energy bill rendered to such on-site cogenerator by such utility for the sale or delivery, or both, of such gas in the amount or amounts derived by taking the product of 4.44 cents multiplied by an eligibility factor, multiplied by the number of kilowatt hours of electricity produced by such on-site cogenerator and used by such eligible energy user or eligible owner during the billing period, excluding the charges for electricity used for heating any premises, any special charges on such bill, including but not limited to, collection charges, late payment charges, or excess distribution charges, and charges for energy that is resold; where the eligibility factor shall equal 100 percent during the first eight years after initial certification as an eligible energy user, 80 percent during the 9th such year, 60 percent during the 10th such year, 40 percent during the 11th such year and 20 percent during the 12th and final such year, such years to be calculated in accordance with the provisions of § 5-19 of these rules. Provided, however, that the number of kilowatt hours of electricity on which the total of the special rebates payable to a clean on-site cogenerator is based in any calendar or fiscal year as specified by the commissioner pursuant to the formula set forth in this paragraph shall not exceed 13,140,000.
+(f) 1)  A utility that delivers natural gas to a category I on-site cogenerator that produces electricity for an eligible energy user or eligible owner certified before July 1, 2003, and a utility that delivers natural gas to a clean on-site cogenerator that produces electricity for an eligible energy user and is certified after June 30, 2003, shall be required to make special rebates against the energy bill rendered to such on-site cogenerator by such utility for the sale or delivery, or both, of such gas in the amount or amounts derived by taking the product of 4.44 cents multiplied by an eligibility factor, multiplied by the number of kilowatt hours of electricity produced by such on-site cogenerator and used by such eligible energy user or eligible owner during the billing period, excluding the charges for electricity used for heating any premises, any special charges on such bill, including but not limited to, collection charges, late payment charges, or excess distribution charges, and charges for energy that is resold; where the eligibility factor shall equal 100 percent during the first eight years after initial certification as an eligible energy user, 80 percent during the 9th such year, 60 percent during the 10th such year, 40 percent during the 11th such year and 20 percent during the 12th and final such year, such years to be calculated in accordance with the provisions of 66 RCNY § 5-19. Provided, however, that the number of kilowatt hours of electricity on which the total of the special rebates payable to a clean on-site cogenerator is based in any calendar or fiscal year as specified by the commissioner pursuant to the formula set forth in this paragraph shall not exceed 13,140,000.
 
-   (2) i)  A category I on-site cogenerator and a clean on-site cogenerator may be eligible to receive special rebates based on eligible charges for transportation of natural gas that is not used in the production of electricity. If eligible, such special rebate for a category I cogenerator providing electricity to an eligible energy user that applied before November 1, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with § 5-18. If eligible, such special rebate for a clean on-site cogenerator or a category I on-site cogenerator providing electricity to an eligible energy user that applied after October 31, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with § 5-16.
+   (2) i)  A category I on-site cogenerator and a clean on-site cogenerator may be eligible to receive special rebates based on eligible charges for transportation of natural gas that is not used in the production of electricity. If eligible, such special rebate for a category I cogenerator providing electricity to an eligible energy user that applied before November 1, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with 66 RCNY § 5-18. If eligible, such special rebate for a clean on-site cogenerator or a category I on-site cogenerator providing electricity to an eligible energy user that applied after October 31, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with 66 RCNY § 5-16.
 
 (g) Determination of special rebates payable to category I on-site cogenerators and clean on-site cogenerators by the commissioner. (1) The commissioner shall have the authority to determine the information he or she requires to review and determine appropriate special rebates payable under this section. He or she may require electric and/or thermal production to be metered in a reliable manner and that site visits be made to verify meter readings.
 
@@ -2703,7 +1429,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
    (3) A clean on-site cogenerator shall have the burden of demonstrating to the commissioner that its nitrous oxide emissions will not exceed the emissions threshold described herein. If a determination of such amount or use cannot be made by the commissioner without a survey or such cogenerator is not satisfied with the commissioner's determination, the commissioner may require, or such user may request, that a survey of the applicant's production and usage of energy services be conducted by a person with experience in conducting such surveys satisfactory to DSBS at such user's expense. Upon completion of the survey, the person who prepares such survey shall submit his or her report, together with a certification as to the plant's emissions.
 
-   (4) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the special rebate to which such category I cogenerator or clean on-site cogenerator is entitled. If such user disagrees or with the commissioner's findings, such user may request an opportunity to be heard in accordance with §§ 5-45, 5-46 and 5-47 of these rules.
+   (4) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the special rebate to which such category I cogenerator or clean on-site cogenerator is entitled. If such user disagrees or with the commissioner's findings, such user may request an opportunity to be heard in accordance with 66 RCNY §§ 5-45, 5-46 and 5-47.
 
 
 
@@ -2713,9 +1439,9 @@ If any provision of these rules or their application shall be adjudged by any co
 *§ 5-15 Discounts.* ::
 
 
-(a)  A utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users and eligible owners in accordance with § 5-14 of these rules.
+(a)  A utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users and eligible owners in accordance with 66 RCNY § 5-14.
 
-(b) A utility that sells energy services to a public utility service shall be required to make a discount to such public utility service in an amount equal to the sum of the special rebates and discounts certified to such utility by such public utility service as having been made by such public utility service in accordance with § 5-14 of these rules.
+(b) A utility that sells energy services to a public utility service shall be required to make a discount to such public utility service in an amount equal to the sum of the special rebates and discounts certified to such utility by such public utility service as having been made by such public utility service in accordance with 66 RCNY § 5-14.
 
 (c) NYCPUS shall be required to make a discount to a vendor to which it sells energy services equal to the sum of the special rebates certified to NYCPUS by such vendor as having been made by such vendor to eligible energy users, eligible owners or qualified eligible energy users to which such vendor of energy services has resold such energy.
 
@@ -2727,90 +1453,37 @@ If any provision of these rules or their application shall be adjudged by any co
 *§ 5-16 Table of Percentages Applicable to the Calculation of Special Rebates for Users that Applied for ECSP Benefits After October 31, 2000.* ::
 
 
-Schedule of Special Rebates 
+Schedule of Special Rebates
 
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
+ 
 
 
 .. list-table::
     :header-rows: 1
 
     * - Months During Benefit Period 
-      - 
-      - Applicable % for Natural Gas 
-      - 
-      - Applicable % for Electricity 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
+      - Applicable % for Natural Gas
+      - Applicable % for Electricity
     * - First through ninety-sixty
-      - 
-      - 35% 
-      - 
-      - 45% 
+      - 35%
+      - 45%
     * - Ninety-seventh through one hundred eighth
-      - 
-      - 28% 
-      - 
-      - 36% 
+      - 28%
+      - 36%
     * - One hundred ninth through one hundred twentieth
-      - 
-      - 21% 
-      - 
-      - 27% 
+      - 21%
+      - 27%
     * - One hundred twenty-first through one hundred thirty-second
-      - 
-      - 14% 
-      - 
-      - 18% 
+      - 14%
+      - 18%
     * - One hundred thirty-third through one hundred forty-fourth
-      - 
-      -   7% 
-      - 
-      -   9% 
+      - 7%
+      - 9%
 ~
 
 
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-
 
 
 
@@ -2820,7 +1493,7 @@ Schedule of Special Rebates 
 *§ 5-17 Special Rebates for Those that Applied for ECSP Benefits Prior to November 1, 2000 and are Certified Prior to July 1, 2001. [Repealed]* ::
 
 
-(a)  Paragraph (4) of subdivision (a) of § 22-602 of the code states that the commissioner may increase the applicable percentages set forth in § 5-16 of these rules "in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in § 5-18(b) of these rules shall be applicable to the calculations of special rebates for all eligible energy users, eligible owners, and qualified eligible energy users that applied for ECSP benefits prior to November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
+(a)  Paragraph (4) of subdivision (a) of § 22-602 of the code states that the commissioner may increase the applicable percentages set forth in 66 RCNY § 5-16 "in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in 66 RCNY § 5-18(b) shall be applicable to the calculations of special rebates for all eligible energy users, eligible owners, and qualified eligible energy users that applied for ECSP benefits prior to November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
 
 (b) For all billing cycles prior to the ninety-seventh month of each of the above-noted eligible energy user's, eligible owner's and qualified eligible energy user's benefit period occurring during the period beginning on or after April 30, 2003, each such user shall receive rebates on eligible charges as specified in this paragraph; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges or eligible public utility service charges charged in any billing cycle.
 
@@ -2838,199 +1511,26 @@ Schedule of Special Rebates 
 
    (6) The rebate percentage to be applied to eligible charges for energy services provided by LIPA to an eligible energy user or eligible owner that applied for ECSP benefits before November 11, 2000 shall be 49% to the extent services are received through the Power for Jobs program and 57% to the extent energy services are provided by LIPA under its other commercial rates.
 
-(c) For all billing cycles after the ninety-sixth month of each of the above-noted user's benefit period and thereafter during the period beginning with the first billing cycle following June 1, 2001, the applicable rebate percentages on eligible charges, determined as specified in § 5-18(b) of these rules, shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:  
+(c) For all billing cycles after the ninety-sixth month of each of the above-noted user's benefit period and thereafter during the period beginning with the first billing cycle following June 1, 2001, the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-18(b), shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
+
+ 
 
 
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Month of Benefit Period
-      -  
+    * - Month of Benefit Period
       -  Adjustment Factor
-      - 
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 97 through 108
-      -  
+    * - 97 through 108
       - 0.8 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 109 through 120
-      -  
-      - 0.6 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 121 through 132
-      -  
-      - 0.4 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 133 through 144
-      -  
-      - 0.2 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 145 and thereafter
-      -  
-      - 0.0 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
+    * - 109 through 120
+      - 0.6
+    * - 121 through 132
+      - 0.4
+    * - 133 through 144
+      - 0.2
+    * - 145 and thereafter
+      - 0.0
 ~
 
 
@@ -3045,7 +1545,7 @@ Schedule of Special Rebates 
 *§ 5-19 Benefit Period.* ::
 
 
-(a)  Except as set forth in (b) of this § 5-19, all recipients shall be eligible to receive a special rebate for a period not to exceed one hundred and forty-four (144) consecutive months commencing at the beginning of the month immediately following the effective date of their certificate of eligibility.
+(a)  Except as set forth in (b) of this 66 RCNY § 5-19, all recipients shall be eligible to receive a special rebate for a period not to exceed one hundred and forty-four (144) consecutive months commencing at the beginning of the month immediately following the effective date of their certificate of eligibility.
 
 (b) A recipient that occupies premises within specially eligible premises after the effective date on which an initial certificate of eligibility of the first eligible energy user occupying such premises is eligible to receive a special rebate for the remaining portion of the benefit period prescribed in such certificate of eligibility for such premises.
 
@@ -3062,15 +1562,15 @@ Schedule of Special Rebates 
 *§ 5-21 Granting of Special Rebates to Eligible Energy Users, Eligible Owners, Qualified Eligible Energy Users and On-Site Cogenerators.* ::
 
 
-(a)(1)  A utility and NYCPUS shall reduce their monthly bills for energy services to eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators that are eligible to receive a special rebate pursuant to § 5-14 of these rules during their respective benefit periods by the applicable special rebate calculated in accordance with such § 5-14.
+(a) (1) A utility and NYCPUS shall reduce their monthly bills for energy services to eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators that are eligible to receive a special rebate pursuant to 66 RCNY § 5-14 during their respective benefit periods by the applicable special rebate calculated in accordance with such 66 RCNY § 5-14.
 
-   (2) A utility and NYCPUS shall commence reducing each such monthly bill in accordance with this subdivision (a) of this § 5-21 within thirty (30) days of receipt of the executed certificate of eligibility, or upon the effective date of the certificate of eligibility, whichever is later. The special rebate provided by a utility or public utility service shall be separately stated and shown on each such bill.
+   (2) A utility and NYCPUS shall commence reducing each such monthly bill in accordance with this subdivision (a) of this 66 RCNY § 5-21 within thirty (30) days of receipt of the executed certificate of eligibility, or upon the effective date of the certificate of eligibility, whichever is later. The special rebate provided by a utility or public utility service shall be separately stated and shown on each such bill.
 
-(b) 1)  A vendor that elects to provide an eligible energy user, eligible owner or qualified eligible energy user with special rebates pursuant to § 5-14 of these rules shall provide such user or owner with a monthly bill for submetered energy services reduced during its benefit period by the applicable special rebate calculated in accordance with such § 5-14.
+(b) 1)  A vendor that elects to provide an eligible energy user, eligible owner or qualified eligible energy user with special rebates pursuant to 66 RCNY § 5-14 shall provide such user or owner with a monthly bill for submetered energy services reduced during its benefit period by the applicable special rebate calculated in accordance with such 66 RCNY § 5-14.
 
-   (2) Such vendor shall commence reducing each such monthly submetered bill for energy services upon the effective date of the certificate of eligibility by the full amount of the special rebate that is calculated in accordance with the applicable provisions of § 5-14 of these rules. The special rebate shall be provided to such eligible energy user, eligible owner or qualified eligible energy user by the vendor on a monthly basis during the benefit period and such amount shall be separately stated and shown on each bill.
+   (2) Such vendor shall commence reducing each such monthly submetered bill for energy services upon the effective date of the certificate of eligibility by the full amount of the special rebate that is calculated in accordance with the applicable provisions of 66 RCNY § 5-14. The special rebate shall be provided to such eligible energy user, eligible owner or qualified eligible energy user by the vendor on a monthly basis during the benefit period and such amount shall be separately stated and shown on each bill.
 
-   (3) Such eligible energy user, eligible owner or qualified eligible energy user, upon receipt of its reduced bill from the vendor, must remit payment in accordance with the written agreement between such user or owner and such vendor together with an executed remittance form, in accordance with § 5-22 of these rules, setting forth the dollar amount of the special rebate such user or owner has received from its vendor for the applicable monthly billing cycle.
+   (3) Such eligible energy user, eligible owner or qualified eligible energy user, upon receipt of its reduced bill from the vendor, must remit payment in accordance with the written agreement between such user or owner and such vendor together with an executed remittance form, in accordance with 66 RCNY § 5-22, setting forth the dollar amount of the special rebate such user or owner has received from its vendor for the applicable monthly billing cycle.
 
    (4) The vendor shall execute and forward the remittance form to the utility or NYCPUS, whichever entity supplied such vendor with energy services, together with payment for the balance of the bill for such energy services in order to receive a discount from the utility or NYCPUS. The amount on such remittance form shall be credited on its bill for the monthly billing cycle during which the special rebate was made to the eligible energy user, eligible owner or qualified eligible energy user, or for such subsequent monthly billing cycle where payment by the vendor to the utility or NYCPUS was not timely made.
 
@@ -3100,7 +1600,7 @@ Schedule of Special Rebates 
 
    (8) the schedule of special rebates the recipient may receive for the benefit period pursuant to Subchapter B of these rules;
 
-   (9) the amount of any additional fee charged by the vendor pursuant to paragraph 5-11(f)(ii) of these rules;
+   (9) the amount of any additional fee charged by the vendor pursuant to 66 RCNY § 5-11(f)(ii);
 
    (10) such other information as may be requested by the commissioner.
 
@@ -3114,7 +1614,7 @@ Schedule of Special Rebates 
 *§ 5-22.1 Cogenerator Credit Form.* ::
 
 
-(a)  A cogenerator credit form shall consist of a form approved by the commissioner.
+(a) A cogenerator credit form shall consist of a form approved by the commissioner.
 
 (b) A category I or clean on-site cogenerator shall submit a cogenerator credit form to the commissioner and to the utility within ninety (90) days of the end of the billing period for which special rebates are sought.
 
@@ -3126,9 +1626,9 @@ Schedule of Special Rebates 
 *§ 5-23 Granting of Discount to Vendors.* ::
 
 
-(a)  Vendors that have granted special rebates to eligible energy user or eligible owners in accordance with § 5-14 of these rules, shall submit executed remittance forms to the utility or NYCPUS, as applicable. Each remittance form shall be limited to a single monthly billing cycle.
+(a)  Vendors that have granted special rebates to eligible energy user or eligible owners in accordance with 66 RCNY § 5-14 of these rules, shall submit executed remittance forms to the utility or NYCPUS, as applicable. Each remittance form shall be limited to a single monthly billing cycle.
 
-(b) A utility or NYCPUS shall grant a discount to a vendor equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by a vendor to eligible energy user, eligible owners or qualified eligible energy users in accordance with § 5-15 of these rules, provided, however, that the discount granted by the utility or NYCPUS shall not exceed the bill(s) for the energy services supplied to such vendor by such utility or NYCPUS, respectively. At no time shall a utility or NYCPUS be required to carry forward on its books and records any discounts not fully made to a vendor to reduce bills for subsequent billing cycles.
+(b) A utility or NYCPUS shall grant a discount to a vendor equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by a vendor to eligible energy user, eligible owners or qualified eligible energy users in accordance with 66 RCNY § 5-15, provided, however, that the discount granted by the utility or NYCPUS shall not exceed the bill(s) for the energy services supplied to such vendor by such utility or NYCPUS, respectively. At no time shall a utility or NYCPUS be required to carry forward on its books and records any discounts not fully made to a vendor to reduce bills for subsequent billing cycles.
 
 
 
@@ -3138,9 +1638,9 @@ Schedule of Special Rebates 
 *§ 5-24 Granting of Discounts to NYCPUS.* ::
 
 
-(a)  A utility shall provide NYCPUS with a discount against its monthly bill upon proper and timely submission of executed remittance forms to the utility. Each remittance form shall be limited to a single monthly billing cycle.
+(a) A utility shall provide NYCPUS with a discount against its monthly bill upon proper and timely submission of executed remittance forms to the utility. Each remittance form shall be limited to a single monthly billing cycle.
 
-(b) The utility shall grant a discount to NYCPUS equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by NYCPUS to eligible energy users, eligible owners or qualified eligible energy users in accordance with § 5-15 of these rules and discounts granted to vendors that, in turn, granted special rebates to eligible energy users, eligible owners or qualified eligible energy users in accordance with § 5-14 of these rules, provided, however, that the discount granted by the utility shall not be in an amount that exceeds the bill(s) for energy services supplied to NYCPUS by such utility. At no time shall a utility be required to carry forward on its books and records any discounts not fully made to NYCPUS to reduce bills for subsequent billing cycles.
+(b) The utility shall grant a discount to NYCPUS equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by NYCPUS to eligible energy users, eligible owners or qualified eligible energy users in accordance with 66 RCNY § 5-15 and discounts granted to vendors that, in turn, granted special rebates to eligible energy users, eligible owners or qualified eligible energy users in accordance with 66 RCNY § 5-14, provided, however, that the discount granted by the utility shall not be in an amount that exceeds the bill(s) for energy services supplied to NYCPUS by such utility. At no time shall a utility be required to carry forward on its books and records any discounts not fully made to NYCPUS to reduce bills for subsequent billing cycles.
 
 
 
@@ -3150,7 +1650,7 @@ Schedule of Special Rebates 
 *§ 5-25 Granting of Utility Credit to Utilities; Audit.* ::
 
 
-(a)  Utilities that have granted special rebates to eligible energy users, eligible owners or on-site cogenerators in accordance with § 5-14 of these rules or discounts to vendors or NYCPUS in accordance with § 5-15 of these rules shall be entitled to a utility credit equal to the aggregate amount of all such special rebates and discounts it has provided to eligible energy users, eligible owners, qualified eligible energy users, on-site cogenerators, vendors and/or NYCPUS, whichever is applicable.
+(a)  Utilities that have granted special rebates to eligible energy users, eligible owners or on-site cogenerators in accordance with 66 RCNY § 5-14 or discounts to vendors or NYCPUS in accordance with 66 RCNY § 5-15 shall be entitled to a utility credit equal to the aggregate amount of all such special rebates and discounts it has provided to eligible energy users, eligible owners, qualified eligible energy users, on-site cogenerators, vendors and/or NYCPUS, whichever is applicable.
 
 (b) Such utility credit may be taken only as provided for in the code, these rules and the rules promulgated by the commissioner of DOF, for the purpose of permitting utilities a deduction against certain taxes.
 
@@ -3173,7 +1673,7 @@ Schedule of Special Rebates 
 
 (a)  All application forms may be obtained from DBS and, upon completion, shall be submitted to DBS. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
 
-(b) A check for the non-refundable application filing fee specified in § 5-34 of these rules shall be submitted by the applicant to the commissioner together with an executed original copy of the application.
+(b) A check for the non-refundable application filing fee specified in 66 RCNY § 5-34 shall be submitted by the applicant to the commissioner together with an executed original copy of the application.
 
 
 
@@ -3219,15 +1719,15 @@ Schedule of Special Rebates 
 
    (4) a sworn statement agreeing to return all special rebates in excess of $10,000 per employee received during any calendar year, with interest calculated at the prime rate as specified in The New York Times published on the last day of that calendar year, compounded monthly.
 
-(b) In addition to the requirements of subdivision (a) of this § 5-33, an applicant that purchases energy services from a vendor shall submit as part of its application in form and substance satisfactory to the commissioner, the following:
+(b) In addition to the requirements of subdivision (a) of this 66 RCNY § 5-33, an applicant that purchases energy services from a vendor shall submit as part of its application in form and substance satisfactory to the commissioner, the following:
 
    (1) a written contract or lease agreement between the applicant and the vendor setting forth an agreement by such vendor to provide individual and accurate submetering of the applicant's premises, and stating as conditions for the sale of energy services from such vendor to the applicant that:
 
       (i) the applicant will be separately billed for its usage of energy services; and
 
-      (ii) the price charged by such vendor for such energy services, electricity and/or natural gas, shall not exceed the limits set forth in § 5-11(f)(ii) of these rules; and
+      (ii) the price charged by such vendor for such energy services, electricity and/or natural gas, shall not exceed the limits set forth in 66 RCNY § 5-11(f)(ii); and
 
-   (2) a written confirmation by such applicant's vendor to the commissioner stating the vendor's agreement to participate in ECSP by providing a special rebate to the applicant and by complying with the terms of the agreement referred to in paragraph (b)(1) of this § 5-33. Pursuant to such written confirmation, the vendor shall agree to provide separate monthly bills to the applicant itemizing all charges for energy services consumed and separately state the applicable ECSP benefit.
+   (2) a written confirmation by such applicant's vendor to the commissioner stating the vendor's agreement to participate in ECSP by providing a special rebate to the applicant and by complying with the terms of the agreement referred to in paragraph (b)(1) of this 66 RCNY § 5-33. Pursuant to such written confirmation, the vendor shall agree to provide separate monthly bills to the applicant itemizing all charges for energy services consumed and separately state the applicable ECSP benefit.
 
 (c) In addition to the requirements of subdivision (a) and (b) of this section, an applicant seeking to be certified as a clean on-sight cogenerator shall provide evidence, acceptable to the commissioner, that the electricity generating facility seeking certification has an emission rate for nitrous oxides required of clean on-site cogenerators.
 
@@ -3239,43 +1739,33 @@ Schedule of Special Rebates 
 *§ 5-34 Application Filing Fee.* ::
 
 
-(a)  For commercial buildings seeking designation as a specially eligible premises and commercial firms qualifying for ECSP by virtue of a relocation, the application fee shall be determined as set forth below:  
+(a)  For commercial buildings seeking designation as a specially eligible premises and commercial firms qualifying for ECSP by virtue of a relocation, the application fee shall be determined as set forth below: 
+
+ 
 
 
 .. list-table::
     :header-rows: 1
 
-    * -  
-      - Gross Square Footage of Applicant's Premises
-      -  
+    * - Gross Square Footage of Applicant's Premises
       - Fee
-    * -  
-      - Less than 10,000 square feet
-      -  
+    * - Less than 10,000 square feet
       - $500
-    * -  
-      - 10,001 to 25,000 square feet
-      -  
+    * - 10,001 to 25,000 square feet
       - $1,000
-    * -  
-      - 25,001 to 50,000 square feet
-      -  
+    * - 25,001 to 50,000 square feet
       - $1,250
-    * -  
-      - 50,001 to 100,000 square feet
-      -  
+    * - 50,001 to 100,000 square feet
       - $1,500
-    * -  
-      - 100,001 to 250,000 square feet
-      -  
+    * - 100,001 to 250,000 square feet
       - $2,500
-    * -  
-      - Over 250,000 square feet
-      -  
+    * - Over 250,000 square feet
       - $5,000
 ~
 
 
+
+ 
 
  In the case of an eligible owner (for example, a landlord) applying for ECSP benefits for a building, gross square footage for purposes of the filing fee is limited to square footage that is not or will not be occupied by tenants (i.e., common areas, equipment rooms etc.).
 
@@ -3305,7 +1795,7 @@ Schedule of Special Rebates 
 
    (6) any other representations or warranties as may be required in the application or requested by the commissioner.
 
-(b) In addition to the requirements of subdivision (a) of this § 5-35, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner), on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any special rebate that the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive a special rebate for any reason.
+(b) In addition to the requirements of subdivision (a) of this 66 RCNY § 5-35, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner), on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any special rebate that the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive a special rebate for any reason.
 
 
 
@@ -3374,7 +1864,7 @@ If the commissioner grants an applicant's application for a certificate of eligi
 *§ 5-43 Notification to Utilities, Vendors and/or NYCPUS.* ::
 
 
-(a)  DBS shall notify the utility, the vendor, and/or NYCPUS, whichever is appropriate, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with § 5-52 of these rules.
+(a)  DBS shall notify the utility, the vendor, and/or NYCPUS, whichever is appropriate, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with 66 RCNY § 5-52.
 
 (b) DBS shall notify, in writing, the utility, the vendor and/or NYCPUS, whichever is appropriate, of any changes in an applicant's certificate of eligibility.
 
@@ -3416,7 +1906,7 @@ Within thirty (30) days after the mailing of a written determination by the comm
 *§ 5-46 Opportunity to be Heard.* ::
 
 
-If an opportunity to be heard is requested in accordance with § 5-45 of these rules, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
+If an opportunity to be heard is requested in accordance with 66 RCNY § 5-45, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
 
 
 
@@ -3428,16 +1918,96 @@ If an opportunity to be heard is requested in accordance with § 5-45 of these r
 
 (a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
 
-(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to § 5-46 of these rules.
+(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to 66 RCNY § 5-46.
 
 (c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
 
-  
 
 
 
 
-Chapter 5-a: New York City Lower Manhattan Energy Program
+
+*APPENDIX A: RATE SCHEDULES* ::
+
+
+ATTACHMENT A: CON EDISON ELECTRIC SERVICE PSC No. 2 Retail Access Rate Schedule and PSC No. 9 Electric Rate Schedule
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15910-img$3.0$p=
+
+ATTACHMENT B: NEW YORK CITY PUBLIC UTILITY SERVICE ELECTRIC SERVICEService Tariff No. 4
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15908-img$3.0$p=
+
+ATTACHMENT C: CON EDISON NATURAL GAS SERCICEPSC No. 9 Gas Rate Schedule
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15912-img$3.0$p=
+
+ATTACHMENT D: KEYSPAN NATURAL GAS SERVICEPSC No. 12 Gas Rate Schedule
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15914-img$3.0$p=
+
+ATTACHMENT D-1: KEYSPAN NATURAL GAS SERVICEPSC No. 12 Gas Rate ScheduleTemporary Additional Benefit for Keyspan SC4A(High Load Factor) Charges
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Average Monthly Consumption
+      - 
+    * - 100 therms or less
+      - 0%
+    * - 101 to 500
+      - 9%
+    * - 501 to 1,000
+      - 25%
+    * - 1,001 to 2,250
+      - 38%
+    * - 2,251 to 5,000
+      - 42%
+    * - 5,001 to 10,000
+      - 40%
+    * - 10,001 to 20,000
+      - 39%
+    * - 20,001 to 50,000
+      - 39%
+    * - 50,001 to 100,000
+      - 39%
+    * - 100,0001 to 1,000,000
+      - 39%
+    * - Greater than 1,000,000
+      - 39%
+~
+
+ 
+
+ATTACHMENT E [Repealed]
+
+ATTACHMENT F [Repealed]
+
+ATTACHMENT H [Repealed]
+
+ATTACHMENT I [Repealed]
+
+ATTACHMENT J [Repealed]
+
+
+
+
+Chapter 5-A: New York City Lower Manhattan Energy Program
 --------------------------------------------------
 
 
@@ -3450,7 +2020,7 @@ Chapter 5-a: New York City Lower Manhattan Energy Program
 *§ 5-51 Authority; Purpose.* ::
 
 
-(a)  These rules are promulgated pursuant to Chapter 4 of the Laws of 1995 of the State of New York, as amended, to effectuate the purposes of the New York City Lower Manhattan Energy Program (the "Program").
+(a) These rules are promulgated pursuant to Chapter 4 of the Laws of 1995 of the State of New York, as amended, to effectuate the purposes of the New York City Lower Manhattan Energy Program (the "Program").
 
 (b) The purpose of the Program is to encourage commercial development, through construction, expansion or improvement of commercial space in a defined area of Lower Manhattan, by providing a reduction of certain electricity costs related to the transmission and distribution of electricity for a period of twelve (12) years or, in specified cases involving landmark sites, thirteen (13) years, including reductions in the cost of energy services purchased from the New York City Public Utility Service.
 
@@ -3470,7 +2040,7 @@ Act. "Act" means Article 2-I of the General City Law of the State of New York, a
 
 Applicant. "Applicant" means any person applying individually or jointly as an owner or lessee of a building, or a portion thereof, or an agent of such owner or lessee, for a certificate of eligibility as an eligible redistributor of energy or a qualified eligible redistributor of energy, or a holding company, parent corporation, or subsidiary or affiliated corporation so applying on behalf of any of the foregoing.
 
-Application. "Application" means the application for a certificate of eligibility and shall include the preapplication and all supporting exhibits submitted and statements made by an applicant to the commissioner for the purpose of determining such applicant's initial eligibility for benefits as an eligible redistributor of energy or as a qualified eligible redistributor of energy under LMEP, and shall include the information required by § 5-82 of these rules.
+Application. "Application" means the application for a certificate of eligibility and shall include the preapplication and all supporting exhibits submitted and statements made by an applicant to the commissioner for the purpose of determining such applicant's initial eligibility for benefits as an eligible redistributor of energy or as a qualified eligible redistributor of energy under LMEP, and shall include the information required by 66 RCNY § 5-82.
 
 Assessed value. "Assessed value" means the assessed value of the real property and buildings thereon for tax purposes during the tax year in which improvements to such real property and buildings thereon commenced, as required by and referred to in these rules.
 
@@ -3482,7 +2052,7 @@ Building. "Building" means articles, structures, substructures and superstructur
 
 Building permit. "Building permit" means a permit approving proposed construction work issued by the New York City Department of Buildings, DBS or other agency of the City authorized by law to receive and approve plans for construction work. A building permit shall include a permit to construct a new building, an alteration, foundation, plumbing, sign or equipment work permit and may, at the option of the applicant, include a permit for partial demolition or earthwork.
 
-Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility of an applicant to receive a special rebate as an eligible redistributor of energy or a qualified eligible redistributor of energy. The certificate of eligibility shall include such information as is required pursuant to § 5-87 of these rules.
+Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility of an applicant to receive a special rebate as an eligible redistributor of energy or a qualified eligible redistributor of energy. The certificate of eligibility shall include such information as is required pursuant to 66 RCNY § 5-87.
 
 Charter. "Charter" means the New York City Charter of New York, as amended.
 
@@ -3504,17 +2074,17 @@ Directly metered eligible revitalization area energy user. "Directly metered eli
 
 Effective date. "Effective date" means the effective date of a certificate of eligibility, which date is the first day of the first billing cycle after a certificate of eligibility is issued.
 
-Eligible building. "Eligible building" means a building or structure that meets the criteria set forth in § 25-aa(a) of the Act and § 5-61 of these rules.
+Eligible building. "Eligible building" means a building or structure that meets the criteria set forth in § 25-aa(a) of the Act and 66 RCNY § 5-61.
 
-Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 25-aa(b) of the Act and the applicable provisions of § 5-64 of these rules, to which charges the applicable percentages in § 5-65 or § 5-67 of these rules are applied to determine the amount of a special rebate.
+Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 25-aa(b) of the Act and the applicable provisions of 66 RCNY § 5-64, to which charges the applicable percentages in 66 RCNY § 5-65 or 66 RCNY § 5-67 are applied to determine the amount of a special rebate.
 
-Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 25-aa(b) of the Act and the applicable provisions of § 5-64 of these rules.
+Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 25-aa(b) of the Act and the applicable provisions of 66 RCNY § 5-64.
 
-Eligible redistributor of energy. "Eligible redistributor of energy" means a person that meets the criteria set forth in § 25-aa(c) of the Act and § 5-62 of these rules.
+Eligible redistributor of energy. "Eligible redistributor of energy" means a person that meets the criteria set forth in § 25-aa(c) of the Act and 66 RCNY § 5-62.
 
 Eligible revitalization area. "Eligible revitalization area" means the area of the City defined in § 25-aa(d) of the Act, namely the area of the City in the borough of Manhattan bounded by Murray Street on the north starting at the intersection of West Street and Murray Street; running easterly along the center line of Murray Street; connecting through City Hall Park with the center line of Frankfort Street and running easterly along the center lines of Frankfort and Dover Streets to the intersection of Dover Street and South Street; running southerly along the center line of South Street to Peter Minuit Plaza; connecting through Peter Minuit Plaza to the center line of State Street and running northwesterly along the center line of State Street to the intersection of State Street and Battery Place; running westerly along the center line of Battery Place to the intersection of Battery Place and West Street; and running northerly along the center line of West Street to the intersection of West Street and Murray Street. Any tax lot which is partly located inside the eligible revitalization area shall be deemed to be entirely located inside such area.
 
-Eligible revitalization area energy user. "Eligible revitalization area energy user" means any person that meets the criteria set forth in § 25-aa(e) of the Act and § 5-63 of these rules.
+Eligible revitalization area energy user. "Eligible revitalization area energy user" means any person that meets the criteria set forth in § 25-aa(e) of the Act and 66 RCNY § 5-63.
 
 Energy services. "Energy services" mean (i) the transportation of electric commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of electric commodity to a utility system.
 
@@ -3546,7 +2116,7 @@ NYCPUS. "NYCPUS" means the New York City Public Utility Service established by L
 
 Person. "Person" means any individual, partnership, association, corporation, limited liability company, estate or trust, and any combination of the foregoing.
 
-Preapplication. "Preapplication" means the initial filing in the process of applying for a certificate of eligibility and shall contain the information required by § 5-82(a) of these rules.
+Preapplication. "Preapplication" means the initial filing in the process of applying for a certificate of eligibility and shall contain the information required by 66 RCNY § 5-82(a).
 
 Public Service Commission or PSC. "Public Service Commission" or "PSC" means the Public Service Commission of the State of New York, created by and defined in § 2 of the Public Service Law of the State of New York.
 
@@ -3562,7 +2132,7 @@ Service classification. "Service classification" means the classification used b
 
 Site visit. "Site visit" means an on-site inspection performed by or at the direction of DBS to determine the use of energy services, size, or occupancy of certain buildings, real property or any portion of such building or real property.
 
-Special rebate. "Special rebate" shall mean the amount of reduction in an energy services bill rendered by a utility or NYCPUS for energy services to an eligible redistributor of energy or a qualified eligible redistributor of energy or directly metered eligible revitalization energy user, or an agent of any of these, and shall be calculated as a percentage of eligible charges in accordance with the provisions of § 5-65 or § 5-67 of these rules.
+Special rebate. "Special rebate" shall mean the amount of reduction in an energy services bill rendered by a utility or NYCPUS for energy services to an eligible redistributor of energy or a qualified eligible redistributor of energy or directly metered eligible revitalization energy user, or an agent of any of these, and shall be calculated as a percentage of eligible charges in accordance with the provisions of 66 RCNY § 5-65 or 66 RCNY § 5-67.
 
 Submeter. "Submeter" means a meter that individually and accurately meters an occupant's usage of energy services.
 
@@ -3602,7 +2172,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 (c) Provisions of these rules that restate the Act and that do not provide rules or procedures for the exercise of regulatory authority shall not be construed as increasing or diminishing any rights or duties created by the Act, but may be used to assist in the interpretation of the Act.
 
-(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of LMEP set forth in § 5-51 of these rules shall be used to assist in the interpretation and application of such provision.
+(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of LMEP set forth in 66 RCNY § 5-51 shall be used to assist in the interpretation and application of such provision.
 
 (e) Reference to particular provisions of law in these rules shall be deemed to refer to such provisions, as interpreted by the applicable decisions of Federal and New York State Courts.
 
@@ -3614,7 +2184,7 @@ Applications pending as of the effective date of these rules and applications fi
 *§ 5-55 Material Misrepresentations, Misstatements and Omissions.* ::
 
 
-(a)  An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or the staff of DBS in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
+(a) An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or the staff of DBS in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
 
 (b) The commissioner may deny an application for a certificate of eligibility or suspend, terminate or revoke a certificate of eligibility issued pursuant to the program whenever:
 
@@ -3624,7 +2194,7 @@ Applications pending as of the effective date of these rules and applications fi
 
    (4) any payment in lieu of taxes payable with respect to such buildings shall remain unpaid for at least one (1) year following the date upon which such payment became due and payable, unless within thirty (30) days from the mailing of a notice of termination by DBS satisfactory proof is presented to DBS that any and all delinquent payments in lieu of taxes with respect to such building as of the date of such notice have been paid in full or are currently being paid in timely installments pursuant to a written agreement with the appropriate City agency.
 
-(d) DBS shall revoke a certificate of eligibility in the event a recipient fails at any time within the first five (5) years of the benefit period to submeter any portion of a building as required by the Act or in accordance with the requirements set forth in paragraph § 5-63(d)(1) of these rules. The City may maintain a civil action or proceeding to recover an amount equal to any benefits improperly obtained.
+(d) DBS shall revoke a certificate of eligibility in the event a recipient fails at any time within the first five (5) years of the benefit period to submeter any portion of a building as required by the Act or in accordance with the requirements set forth in 66 RCNY § 5-63(d)(1). The City may maintain a civil action or proceeding to recover an amount equal to any benefits improperly obtained.
 
 
 
@@ -3654,7 +2224,7 @@ If any provision of these rules or its application shall be adjudged by any cour
 *§ 5-58 Effective Date of Rules.* ::
 
 
-The effective date of these rules shall be November 1, 2000, and they shall apply to persons certified as eligible to receive special rebates under the laws and rules applicable to LMEP prior to such effective date as well as to applicants certified as eligible for such special rebates after such effective date, provided that where bills for sales of energy services are rendered on a monthly billing cycle, the calculation of special rebates shall, for each eligible revitalization area energy user, eligible redistributor of energy or qualified eligible redistributor of energy, be based on the applicable percentages and eligible charges under the provisions of the Act and these rules beginning with the first billing cycle beginning after November 1, 2000, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before November 1, 2000, and provided, further, that special rebates shall be calculated pursuant to § 5-66 or § 5-67, if applicable, beginning with the first billing cycle beginning after June 1, 2001, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before June 1, 2001.
+The effective date of these rules shall be November 1, 2000, and they shall apply to persons certified as eligible to receive special rebates under the laws and rules applicable to LMEP prior to such effective date as well as to applicants certified as eligible for such special rebates after such effective date, provided that where bills for sales of energy services are rendered on a monthly billing cycle, the calculation of special rebates shall, for each eligible revitalization area energy user, eligible redistributor of energy or qualified eligible redistributor of energy, be based on the applicable percentages and eligible charges under the provisions of the Act and these rules beginning with the first billing cycle beginning after November 1, 2000, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before November 1, 2000, and provided, further, that special rebates shall be calculated pursuant to 66 RCNY § 5-66 or 66 RCNY § 5-67, if applicable, beginning with the first billing cycle beginning after June 1, 2001, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before June 1, 2001.
 
 
 
@@ -3685,7 +2255,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 (c) such building or portion thereof shall have provisions to receive electricity either: (i) directly from a utility; or (ii) from NYCPUS; and
 
-(d) such building or portion thereof is metered or submetered in accordance with the provisions set forth in paragraph § 5-63(d)(1) of these rules.
+(d) such building or portion thereof is metered or submetered in accordance with the provisions set forth in 66 RCNY § 5-63(d)(1).
 
 
 
@@ -3695,7 +2265,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-62 Eligible Redistributor of Energy.* ::
 
 
-(a)  Only eligible redistributors of energy and qualified eligible redistributors of energy, as described in, and to the extent permitted by, the Act and these rules, are eligible for special rebates under LMEP.
+(a) Only eligible redistributors of energy and qualified eligible redistributors of energy, as described in, and to the extent permitted by, the Act and these rules, are eligible for special rebates under LMEP.
 
 (b) To qualify for benefits as an eligible redistributor of energy, an applicant must own or lease an eligible building, or a portion thereof, and purchase energy services on a metered basis from a utility or NYCPUS, and:
 
@@ -3703,7 +2273,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
       (ii) consume or use such energy services itself and qualify as an eligible revitalization area energy user; and
 
-   (2) individually and accurately meter or submeter the energy services it redistributes in accordance with the provisions set forth in paragraph § 5-63(d)(1) of these rules.
+   (2) individually and accurately meter or submeter the energy services it redistributes in accordance with the provisions set forth in 66 RCNY § 5-63(d)(1).
 
 (c) A person that owns or leases any portion of an eligible building containing mixed-use property shall not be an eligible redistributor of energy unless that portion of such mixed-use property used for commercial purposes is metered by a utility or NYCPUS directly and separately from other portions of such mixed-use property.
 
@@ -3715,11 +2285,11 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-63 Eligible Revitalization Area Energy Users.* ::
 
 
-(a)  To qualify for benefits as an eligible revitalization area energy user, a person shall: (1)  purchase or otherwise receive energy services for its own use either directly from a utility or NYCPUS or from an eligible redistributor of energy or a qualified eligible redistributor of energy;
+(a) To qualify for benefits as an eligible revitalization area energy user, a person shall: (1)  purchase or otherwise receive energy services for its own use either directly from a utility or NYCPUS or from an eligible redistributor of energy or a qualified eligible redistributor of energy;
 
    (2) occupy, operate or manage premises in an eligible building or a targeted eligible building; and
 
-   (3) be metered or submetered in accordance with the provisions set forth in subdivision (d) of this § 5-63.
+   (3) be metered or submetered in accordance with the provisions set forth in subdivision (d) of this 66 RCNY § 5-63.
 
 (b) A person shall not qualify as an eligible revitalization area energy user if such person engages in any of the following activities or uses in an eligible building or targeted eligible building:
 
@@ -3753,7 +2323,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-64 Eligible Charges and Eligible Public Utility Service Charges.* ::
 
 
-(a)  Eligible charges.
+(a) Eligible charges.
 
    (1) Eligible charges are charges for energy services purchased from a utility at a rate or rates established pursuant to an order or rule of the PSC or FERC, other than charges for the purchase of the commodity of electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision (a).
 
@@ -3761,13 +2331,13 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
       (i) charges for energy services used by persons that are not eligible revitalization area energy users;
 
-      (ii) any special charges on bills relating to such energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy for energy services, as authorized by subdivision § 5-71(g) of these rules; and
+      (ii) any special charges on bills relating to such energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy for energy services, as authorized by 66 RCNY § 5-71(g); and
 
       (iii) charges for energy services used for common areas, systems and facilities to the extent such services are excluded pursuant to subparagraph (3)(ii) of this section.
 
-   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of subdivision § 5-61(a) of these rules to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
+   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of 66 RCNY § 5-61(a) to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
 
-      (ii) Eligible charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraph § 5-61(a)(4) of these rules, unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
+      (ii) Eligible charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in 66 RCNY § 5-61(a)(4), unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
 
 (b) Eligible public utility service charges.
 
@@ -3777,17 +2347,17 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
       (i) charges for energy services used by persons that are not eligible revitalization area energy users;
 
-      (ii) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy or qualified eligible redistributor of energy for energy services, as authorized by subdivision § 5-71(g) of these rules; and
+      (ii) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy or qualified eligible redistributor of energy for energy services, as authorized by 66 RCNY § 5-71(g); and
 
       (iii) charges for energy services used for common areas, systems and facilities to the extent such energy services are excluded pursuant to paragraph (3)(ii) of this section.
 
-   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible public utility charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of subdivision § 5-61(a) of these rules or a targeted eligible building meeting the criteria set forth in paragraph (1), (2) or (3) of subdivision (q) of § 25-aa of the Act to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
+   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible public utility charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of 66 RCNY § 5-61(a) or a targeted eligible building meeting the criteria set forth in paragraph (1), (2) or (3) of subdivision (q) of § 25-aa of the Act to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
 
-      (ii) Eligible public utility service charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraph § 5-61(a)(4) of these rules or a targeted eligible building meeting the criteria set forth in paragraph (4) of subdivision (q) of § 25-aa of the Act, unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
+      (ii) Eligible public utility service charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in 66 RCNY § 5-61(a)(4) or a targeted eligible building meeting the criteria set forth in paragraph (4) of subdivision (q) of § 25-aa of the Act, unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
 
 (c) 1)  An eligible redistributor of energy or qualified eligible redistributor of energy has the burden of demonstrating to the commissioner that charges for energy services are eligible charges or eligible public utility service charges. If a determination of such charges cannot be ascertained by the commissioner without a survey or such redistributor is not satisfied with the commissioner's determination of such redistributor's eligible charges or eligible public utility service charges, such redistributor may request that the commissioner cause a survey to be conducted by a licensed professional engineer satisfactory to DBS at such redistributor's expense. Upon completion of the survey, the professional who prepares such survey shall submit the report, together with a certification as to the amount of eligible charges or eligible public utility service charges, to the commissioner for his or her review.
 
-   (2) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the amount of charges that constitute the eligible redistributor's or qualified eligible redistributor's eligible charges or eligible public utility service charges to which a special rebate may be applied. If such redistributor disagrees with the commissioner's findings, such redistributor may request an opportunity to be heard in accordance with the procedures set forth in §§ 5-45, 5-46 and 5-47 of these rules.
+   (2) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the amount of charges that constitute the eligible redistributor's or qualified eligible redistributor's eligible charges or eligible public utility service charges to which a special rebate may be applied. If such redistributor disagrees with the commissioner's findings, such redistributor may request an opportunity to be heard in accordance with the procedures set forth in 66 RCNY §§ 5-45, 5-46 and 5-47.
 
 
 
@@ -3797,29 +2367,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-65 Special Rebates for Users and Redistributors that Applied for LMEP Benefits After October 31, 2000.* ::
 
 
-(a)  Except as otherwise provided in subdivision (b) of this section, a utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000, or a directly metered eligible revitalization area energy user that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Months During Benefit Period 
-      -  
-      - Special Rebate for Energy Services 
-~
-
-
+(a) Except as otherwise provided in subdivision (b) of this section, a utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000, or a directly metered eligible revitalization area energy user that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
 
  
 
@@ -3827,35 +2375,25 @@ To qualify as an eligible building, a building shall be located in an eligible r
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
+    * - Months During Benefit Period
+      - Special Rebate for Energy Services
     * - first through ninety-sixth
-      -  
-      - 45% 
+      - 45%
     * - ninety-seventh through one hundred eighth
-      -  
       - 36% 
     * - one hundred ninth through one hundred twentieth
-      -  
-      - 27% 
+      - 27%
     * - one hundred twenty-first through one hundred thirty-second
-      -  
-      - 18% 
+      - 18%
     * - one hundred thirty-third through one hundred forty-fourth
-      -  
-      -   9% 
+      - 9%
 ~
 
 
+
+ 
+
+(b) A utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000 and that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
 
  
 
@@ -3863,80 +2401,18 @@ To qualify as an eligible building, a building shall be located in an eligible r
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
- 
-
-(b) A utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000 and that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Months During Benefit Period 
-      -  
-      - Special Rebate for Energy Services 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
+    * - Months During Benefit Period
+      - Special Rebate for Energy Services
     * - first through one hundred eighth
-      -  
-      - 45% 
+      - 45%
     * - one hundred ninth through one hundred twentieth
-      -  
       - 36% 
     * - one hundred twenty-first through one hundred thirty-second
-      -  
-      - 27% 
+      - 27%
     * - one hundred thirty-third through one hundred forty-fourth
-      -  
-      - 18% 
+      - 18%
     * - one hundred forty-fifth through one hundred fifty-sixth
-      -  
-      -   9% 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
+      - 9%
 ~
 
 
@@ -3953,7 +2429,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-66 Special Rebates for Redistributors and Users that Applied for LMEP Benefits Prior to November 1, 2000 and Were Certified Prior to July 1, 2001. [Repealed]* ::
 
 
-(a)  Paragraph (1) of subdivision (a) of § 25-bb of the general city law states that the "that the department of business services of a city having a population of one million or more may increase the percentages set forth in § 5-65 of these rules at its discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in this section of the rules shall be applicable to the calculations of special rebates for all eligible redistributors of energy or directly metered eligible revitalization energy users that applied for LMEP benefits prior to November 1, 2000 and for qualified eligible energy redistributors of energy that were certified before November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
+(a) Paragraph (1) of subdivision (a) of § 25-bb of the general city law states that the "that the department of business services of a city having a population of one million or more may increase the percentages set forth in 66 RCNY § 5-65 at its discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in this section of the rules shall be applicable to the calculations of special rebates for all eligible redistributors of energy or directly metered eligible revitalization energy users that applied for LMEP benefits prior to November 1, 2000 and for qualified eligible energy redistributors of energy that were certified before November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
 
 (b) Except as set forth in subdivision (d) of this section, for all billing cycles prior to the ninety-seventh month of each eligible redistributor of energy's or directly metered eligible revitalization energy user's benefit period occurring during the period beginning June 1, 2001, each redistributor or user shall receive rebates on eligible charges as specified in this paragraph; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle.
 
@@ -3961,36 +2437,33 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
    (2) The rebate percentage to be applied to eligible public utility service charges for energy services provided by NYCPUS pursuant to its "Service Tariff No. 4 Rate Schedule" shall equal the percentages specified in Attachment B of Appendix A of these rules, which shall vary depending on such redistributor's or user's average monthly load factor, the applicable service classification and the applicable rate, and whether such redistributor or user receives discounts on service pursuant to a service rider or other tariff provisions. If, for any affected redistributor or user, eligible public utility service charges for energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment B of Appendix A of these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider or other tariff discount applies to such redistributor or user.
 
-(c) Except as otherwise provided in subdivision (d) of this section, for all billing cycles after the ninety-sixth month of the benefit period and thereafter, the applicable rebate percentages on eligible charges, determined as specified in § 5-67(b) or (e) of these rules, shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected eligible redistributor of energy or directly metered eligible revitalization energy user, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:  
+(c) Except as otherwise provided in subdivision (d) of this section, for all billing cycles after the ninety-sixth month of the benefit period and thereafter, the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-67(b) or (e), shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected eligible redistributor of energy or directly metered eligible revitalization energy user, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
+
+ 
 
 
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Month of Benefit Period
-      -  
+    * - Month of Benefit Period
       - Adjustment Factor
-      - 
-    * -  
-      -  
-      -  
-      -  
-      - 
+    * - 97 through 108
+      - 0.8
+    * - 109 through 120
+      - 0.6
+    * - 121 through 132
+      - 0.4
+    * - 133 through 144
+      - 0.2
+    * - 145 and thereafter
+      - 0.0
 ~
 
 
+
+ 
+
+(d) Where a utility that sells energy services to an eligible redistributor of energy that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits prior to November 1, 2000, all billing cycles in the one hundred and ninth month of each of the above-noted benefit periods and thereafter shall have the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-67(b) or (e) of these rules, multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
 
  
 
@@ -3998,361 +2471,18 @@ To qualify as an eligible building, a building shall be located in an eligible r
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 97 through 108
-      -  
-      - 0.8 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 109 through 120
-      -  
-      - 0.6 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 121 through 132
-      -  
-      - 0.4 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 133 through 144
-      -  
-      - 0.2 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 145 and thereafter
-      -  
-      - 0.0 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-(d) Where a utility that sells energy services to an eligible redistributor of energy that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits prior to November 1, 2000, all billing cycles in the one hundred and ninth month of each of the above-noted benefit periods and thereafter shall have the applicable rebate percentages on eligible charges, determined as specified in § 5-67(b) or (e) of these rules, multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Month of Benefit Period
-      -  
+    * - Month of Benefit Period
       - Adjustment Factor
-      - 
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 109 through 120
-      -  
-      - 0.8 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 121 through 132
-      -  
-      - 0.6 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 133 through 144
-      -  
-      - 0.4 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 145 through 156
-      -  
-      - 0.2 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 157 and thereafter
-      -  
-      - 0.0 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
+    * - 109 through 120
+      - 0.8
+    * - 121 through 132
+      - 0.6
+    * - 133 through 144
+      - 0.4
+    * - 145 through 156
+      - 0.2
+    * - 157 and thereafter
+      - 0.0
 ~
 
 
@@ -4374,7 +2504,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-71 Implementation by Eligible Redistributor of Energy or Qualified Eligible Redistributor of Energy.* ::
 
 
-(a)  An eligible redistributor of energy or qualified eligible redistributor of energy shall reduce the energy services bills rendered to eligible revitalization area energy users that are not directly metered and that occupy, operate or manage premises in eligible buildings owned or leased by such redistributor by an amount equal, in the aggregate, to one hundred percent (100%) of each special rebate received by such redistributor.
+(a) An eligible redistributor of energy or qualified eligible redistributor of energy shall reduce the energy services bills rendered to eligible revitalization area energy users that are not directly metered and that occupy, operate or manage premises in eligible buildings owned or leased by such redistributor by an amount equal, in the aggregate, to one hundred percent (100%) of each special rebate received by such redistributor.
 
 (b) An eligible redistributor of energy or qualified eligible redistributor of energy shall individually and accurately meter or submeter the energy services sold or otherwise redistributed by such redistributor to each such eligible revitalization area energy user or other occupant of eligible buildings so as to enable a determination of each such user's or occupant's usage of energy services, provided such user or occupant occupies, operates or manages premises that equal or exceed the lesser of ten thousand (10,000) contiguous square feet in area or the entire floor of a building.
 
@@ -4382,11 +2512,11 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 (d) If an eligible redistributor of energy or qualified eligible redistributor of energy charges amounts to eligible revitalization area energy users and other users that vary annually or more frequently with the costs incurred by such redistributor for the operation of common areas, systems and facilities, such redistributor shall reduce such charges by the portion of the special rebates attributable thereto.
 
-(e) An eligible redistributor of energy or qualified eligible redistributor of energy shall allocate the reductions required by subdivision (a) of this § 5-71 in direct proportion to each such eligible revitalization area energy user's use of energy services. Such reductions shall be determined as follows:
+(e) An eligible redistributor of energy or qualified eligible redistributor of energy shall allocate the reductions required by subdivision (a) of this 66 RCNY § 5-71 in direct proportion to each such eligible revitalization area energy user's use of energy services. Such reductions shall be determined as follows:
 
    (1) The total amount of such redistributor's energy services bill shall be divided by the total amount of kilowatt hours used by the eligible building to determine the cost per kilowatt hour charge for the eligible building;
 
-   (2) If the premises of such eligible revitalization area energy user or other user are submetered, such reduction shall be established by multiplying: (A) the amount of energy services use determined by such submeter; by (B) the dollar per kilowatt charge determined in (1) above; by (C) the amount of the special rebate set forth in § 5-65 or § 5-67 of these rules;
+   (2) If the premises of such eligible revitalization area energy user or other user are submetered, such reduction shall be established by multiplying: (A) the amount of energy services use determined by such submeter; by (B) the dollar per kilowatt charge determined in (1) above; by (C) the amount of the special rebate set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67;
 
    (3) If two or more eligible revitalization area energy users or other users share a submeter, the amount of the reduction to be shared by the eligible revitalization area energy users shall be determined in accordance with (2) above. This amount shall then be allocated among such users in direct proportion to the floor area of the premises occupied, operated or managed by each such user;
 
@@ -4416,7 +2546,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-72 Implementation by a Utility and NYCPUS.* ::
 
 
-(a)  Where a utility or NYCPUS is required to make a special rebate pursuant to § 5-65 or § 5-67 of these rules, they shall reduce each energy services bill for each eligible redistributor of energy or qualified eligible redistributor of energy or directly metered eligible revitalization area energy user by the full amount of the special rebate that shall have accrued for the period covered by each such energy services bill. A utility or NYCPUS shall cease to make such reductions in such energy services bills upon receipt of notification from DBS that the certification of eligibility has been suspended or terminated, and a utility or NYCPUS shall change the amount of such reduction in accordance with notification from DBS.
+(a) Where a utility or NYCPUS is required to make a special rebate pursuant to 66 RCNY § 5-65 or 66 RCNY § 5-67, they shall reduce each energy services bill for each eligible redistributor of energy or qualified eligible redistributor of energy or directly metered eligible revitalization area energy user by the full amount of the special rebate that shall have accrued for the period covered by each such energy services bill. A utility or NYCPUS shall cease to make such reductions in such energy services bills upon receipt of notification from DBS that the certification of eligibility has been suspended or terminated, and a utility or NYCPUS shall change the amount of such reduction in accordance with notification from DBS.
 
 (b) A utility shall not be required to make a special rebate to such eligible redistributor of energy or qualified eligible redistributor of energy in excess of the charges for energy services.
 
@@ -4428,7 +2558,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-73 Granting of Utility Credit to a Utility.* ::
 
 
-(a)  Where a utility has granted special rebates to recipients in accordance with the provisions set forth in § 5-65 or § 5-67 of these rules, it shall be entitled to a utility credit equal to the aggregate amount of all such special rebates it has provided to recipients.
+(a) Where a utility has granted special rebates to recipients in accordance with the provisions set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67, it shall be entitled to a utility credit equal to the aggregate amount of all such special rebates it has provided to recipients.
 
 (b) Such utility credit may be taken only as provided for in the code, these rules and rules promulgated by the commissioner of DOF, for the purpose of permitting utilities a deduction against certain taxes.
 
@@ -4445,15 +2575,15 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-81 Forms and Filing of Application and Preapplication.* ::
 
 
-(a)  All preapplication and application forms may be obtained from DBS, 110 William Street, 3rd Floor, New York, New York 10038, and, upon completion, forms shall be submitted to DBS at the above address. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
+(a) All preapplication and application forms may be obtained from DBS, 110 William Street, 3rd Floor, New York, New York 10038, and, upon completion, forms shall be submitted to DBS at the above address. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
 
-(b) An applicant for benefits under LMEP shall file an application after June 30, 1995 and prior to the issuance of the first building permit for the construction or renovation required pursuant to § 5-61 of these rules, but not later than June 30, 2005. For the purposes of these rules, the first building permit shall be the building permit which would, in the ordinary course, allow construction to proceed, even though: (i) such permit was granted before submission of completed plans and specifications for the entire building; (ii) such permit, or the application, plans or specifications upon which it was granted, are later amended; (iii) such permit shall have expired by limitation of time or otherwise become invalid; or (iv) another permit is issued for the same project on the basis of the same or similar plans.
+(b) An applicant for benefits under LMEP shall file an application after June 30, 1995 and prior to the issuance of the first building permit for the construction or renovation required pursuant to 66 RCNY § 5-61, but not later than June 30, 2005. For the purposes of these rules, the first building permit shall be the building permit which would, in the ordinary course, allow construction to proceed, even though: (i) such permit was granted before submission of completed plans and specifications for the entire building; (ii) such permit, or the application, plans or specifications upon which it was granted, are later amended; (iii) such permit shall have expired by limitation of time or otherwise become invalid; or (iv) another permit is issued for the same project on the basis of the same or similar plans.
 
-(c) In the case where a building permit is not required for renovation or construction, an application must be filed prior to beginning any work on the building the expenditures for which would be the basis for the determination of whether an applicant has reached the eligibility requirements set forth in § 5-61 of these rules. All preapplications must be filed not later than June 30, 2005.
+(c) In the case where a building permit is not required for renovation or construction, an application must be filed prior to beginning any work on the building the expenditures for which would be the basis for the determination of whether an applicant has reached the eligibility requirements set forth in 66 RCNY § 5-61. All preapplications must be filed not later than June 30, 2005.
 
 (d) An applicant that purchases or leases an eligible building or a targeted eligible building or a portion thereof, the owner or lessor of which building or portion thereof has been receiving LMEP benefits, must file a preapplication to receive benefits within ninety (90) days of taking occupancy or signing a contract of sale or lease for such building, whichever is earlier.
 
-(e) An applicant applying for benefits under § 5-65(c) or § 5-67(e) of these rules, must receive approval from NYCPUS prior to submitting its preapplication to DBS and provide evidence of such approval as part of such application.
+(e) An applicant applying for benefits under 66 RCNY § 5-65(c) or 66 RCNY § 5-67(e), must receive approval from NYCPUS prior to submitting its preapplication to DBS and provide evidence of such approval as part of such application.
 
 
 
@@ -4463,7 +2593,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-82 Contents of Preapplication and Application.* ::
 
 
-(a)  The applicant shall provide DBS with all information required in the preapplication form, including the following: the applicant's name; name and title of a contact person; telephone number; street address of the building site; block and lot number of the building site; Internal Revenue Service tax identification number; if applicable, the ICIP application number for the building site, and such other information as the commissioner deems necessary or useful for a preliminary determination that an applicant may be eligible to participate in LMEP.
+(a) The applicant shall provide DBS with all information required in the preapplication form, including the following: the applicant's name; name and title of a contact person; telephone number; street address of the building site; block and lot number of the building site; Internal Revenue Service tax identification number; if applicable, the ICIP application number for the building site, and such other information as the commissioner deems necessary or useful for a preliminary determination that an applicant may be eligible to participate in LMEP.
 
 (b) The applicant shall provide DBS with all information required in the application form and deemed necessary or useful for the administration of LMEP, including, but not limited to, the following:
 
@@ -4479,7 +2609,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
    (6) a list of every tenant or other person occupying, operating or managing premises in the building, including both eligible revitalization area energy users and other users, and the following information relating to such person: the business activity engaged in by such person; the square footage of the premises occupied, operated or managed by such person; contact person; telephone number; location in building identified on the building floor plans referred to in paragraph (v) of this subdivision; a list of the meter(s) or submeter(s) utilized by such person including meter identification numbers if submetered by the landlord or an eligible redistributor of energy or qualified eligible redistributor of energy; account number if directly metered by the utility or NYCPUS; a schematic or other description of the linkage between each such person's consumption of electricity or energy services and the appropriate direct utility meter; and number of employees;
 
-   (7) an applicant applying under the provisions set forth in subdivisions (a)(2), (3) or (4) of § 5-61 of these rules, shall submit evidence that the expenditures required by such provisions have been made within the time period specified therein;
+   (7) an applicant applying under the provisions set forth in subdivisions (a)(2), (3) or (4) of 66 RCNY § 5-61, shall submit evidence that the expenditures required by such provisions have been made within the time period specified therein;
 
    (8) copy of the relevant building permit issued by the Department of Buildings, if applicable;
 
@@ -4487,7 +2617,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
    (10) any other information, documentary or otherwise, including but not limited to, sworn statements and other data, that the commissioner deems relevant to evaluate the applicant's application.
 
-(c) In addition to the requirements of subdivisions (a) and (b) of this § 5-82, an applicant that purchases energy services from NYCPUS shall submit as part of its application, a written contract between the applicant and NYCPUS setting forth the agreement by NYCPUS to provide energy services to the applicant, and stating the conditions for the sale of such energy services.
+(c) In addition to the requirements of subdivisions (a) and (b) of this 66 RCNY § 5-82, an applicant that purchases energy services from NYCPUS shall submit as part of its application, a written contract between the applicant and NYCPUS setting forth the agreement by NYCPUS to provide energy services to the applicant, and stating the conditions for the sale of such energy services.
 
 (d) The applicant shall have the affirmative burden of proving its eligibility to the satisfaction of the commissioner as to each and every fact contained in its application.
 
@@ -4499,45 +2629,33 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-83 Application Filing Fee.* ::
 
 
-(a)  The applicant shall submit to the commissioner with its preapplication a check for a non-refundable application fee in the following amount:  
+(a) The applicant shall submit to the commissioner with its preapplication a check for a non-refundable application fee in the following amount:
+
+ 
 
 
 .. list-table::
     :header-rows: 1
 
-    * -  
-      - Square Footage of Building
-      -  
-      - Fee
-    * -  
-      - Less than 10,000 square feet
-      -  
+    * - Square Footage of Building
+      - Fee 
+    * - Less than 10,000 square feet
       - $500
-    * -  
-      - 10,001 to 25,000 square feet
-      -  
+    * - 10,001 to 25,000 square feet
       - $1,000
-    * -  
-      - 25,001 to 50,000 square feet
-      -  
+    * - 25,001 to 50,000 square feet
       - $1,250
-    * -  
-      - 50,001 to 100,000 square feet
-      -  
+    * - 50,001 to 100,000 square feet
       - $1,500
-    * -  
-      - 100,001 to 250,000 square feet
-      -  
+    * - 100,001 to 250,000 square feet
       - $2,500
-    * -  
-      - Over 250,000 square feet
-      -  
+    * - Over 250,000 square feet
       - $5,000
 ~
 
 
 
-
+ 
 
 (b) In addition to the filing fee, an applicant shall pay the costs of any survey conducted by or at the request of the commissioner, to develop or verify any factual matters relating to the application.
 
@@ -4551,7 +2669,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-84 Representations and Warranties.* ::
 
 
-(a)  As part of the preapplication, application, periodic reports and other reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be necessary or appropriate to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
+(a) As part of the preapplication, application, periodic reports and other reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be necessary or appropriate to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
 
    (1) that all statements made by or on behalf of the applicant in connection with such applications and reports are made by any person authorized by the applicant to make such statements and having actual knowledge or documentary information sufficient to make informed and accurate statements, and that such person believes all such statements to be true;
 
@@ -4563,7 +2681,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
    (5) any other representations or warranties as may be required in such applications or reports or requested by the commissioner.
 
-(b) In addition to the requirements of subdivision (a) of this § 5-84, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner) on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any benefits which the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive those benefits for any reason.
+(b) In addition to the requirements of subdivision (a) of this 66 RCNY § 5-84, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner) on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any benefits which the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive those benefits for any reason.
 
 
 
@@ -4573,7 +2691,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-85 Approval of an Application.* ::
 
 
-(a)  Approval by the commissioner of an application shall be based on a review of the following information:
+(a) Approval by the commissioner of an application shall be based on a review of the following information:
 
    (1) representations and/or certifications made by the applicant in its application;
 
@@ -4593,7 +2711,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-86 Notification to Applicant.* ::
 
 
-(a)  If the commissioner grants an applicant's application for a certificate of eligibility, DBS shall forward a certificate of eligibility executed by the commissioner to the applicant.
+(a) If the commissioner grants an applicant's application for a certificate of eligibility, DBS shall forward a certificate of eligibility executed by the commissioner to the applicant.
 
 (b) If the commissioner denies an applicant's application for a certificate of eligibility, the commissioner shall notify the applicant in writing, of the reason for such denial. The applicant may request an opportunity to be heard in accordance with the provisions set forth in Subchapter E of these rules.
 
@@ -4605,7 +2723,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-87 Certificate of Eligibility.* ::
 
 
-(a)  An applicant shall execute the certificate of eligibility and return it to the commissioner within thirty (30) days of the issuance date stated on the certificate of eligibility. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
+(a) An applicant shall execute the certificate of eligibility and return it to the commissioner within thirty (30) days of the issuance date stated on the certificate of eligibility. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
 
 (b) The certificate of eligibility shall evidence:
 
@@ -4629,9 +2747,9 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-88 Notification to a Utility and/or NYCPUS.* ::
 
 
-(a)  DBS shall notify a utility and/or NYCPUS whichever is appropriate, in writing, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with § 5-87 of these rules.
+(a) DBS shall notify a utility and/or NYCPUS whichever is appropriate, in writing, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with 66 RCNY § 5-87.
 
-(b) DBS shall notify a utility and/or NYCPUS, whichever is appropriate, in writing, of any changes in an applicant's certificate of eligibility as set forth in § 5-87 of these rules.
+(b) DBS shall notify a utility and/or NYCPUS, whichever is appropriate, in writing, of any changes in an applicant's certificate of eligibility as set forth in 66 RCNY § 5-87.
 
 
 
@@ -4641,7 +2759,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 *§ 5-89 Periodic and Other Reports to DBS.* ::
 
 
-(a)  During the benefit period, a recipient shall promptly notify the commissioner of any material changes which may affect a recipient's eligibility or the amount of the special rebate under LMEP, including but not limited to, changes in:
+(a) During the benefit period, a recipient shall promptly notify the commissioner of any material changes which may affect a recipient's eligibility or the amount of the special rebate under LMEP, including but not limited to, changes in:
 
    (1) sources of energy services;
 
@@ -4712,7 +2830,7 @@ Within thirty (30) days after the mailing of a written determination by the comm
 *§ 5-92 Opportunity to be Heard.* ::
 
 
-If an opportunity to be heard is requested in accordance with § 5-91 of these rules, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
+If an opportunity to be heard is requested in accordance with 66 RCNY § 5-91, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
 
 
 
@@ -4724,11 +2842,39 @@ If an opportunity to be heard is requested in accordance with § 5-91 of these r
 
 (a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
 
-(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to § 5-92 of these rules.
+(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to 66 RCNY § 5-92.
 
 (c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
 
-  
+ 
+
+
+
+
+
+
+*APPENDIX A: RATE SCHEDULES* ::
+
+
+ ATTACHMENT A: CON EDISON ELECTRIC SERVICE  PSC No. 2 Retail Access Rate Schedule and PSC No. 9  Electric Rate Schedule
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-370-img$3.0$p=
+
+ 
+
+ATTACHMENT B: NEW YORK CITY PUBLIC UTILITY SERVICE ELECTRIC SERVICEService Tariff No. 4
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15908-img$3.0$p=
+
+ATTACHMENT C [Repealed]
+
+ATTACHMENT D [Repealed]
 
 
 
@@ -5206,7 +3352,7 @@ City assistance. "City assistance" means any financial assistance involving a co
 
 Client Services. "Client Services" shall have the meaning set forth in the Procurement Policy Board Rules of the City of New York (9 RCNY § 1-01(e)).
 
-Compliance. "Compliance" means a contractor having acted in accordance with the requirements of E.O. 50 (§ 10-14) and these regulations.
+Compliance. "Compliance" means a contractor having acted in accordance with the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations.
 
 Commissioner. "Commissioner" means the Commissioner of the Department of Business Services.
 
@@ -5276,7 +3422,7 @@ Job group(s). "Job group(s)" means a group of jobs having similar content, wage 
 
 Minorities. "Minorities" means Blacks, Hispanics (non-European), Asians, and Native Americans (American Indians, Eskimos, Aleuts);
 
-Noncompliance. "Noncompliance" means a contractor having failed to act in accordance with E.O. 50 (§ 10-14) and these regulations;
+Noncompliance. "Noncompliance" means a contractor having failed to act in accordance with E.O. 50 (66 RCNY § 10-14) and these regulations;
 
 Person. "Person" means any natural person, corporation, partnership, sole proprietorship, or unincorporated agency;
 
@@ -5300,7 +3446,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
    (1) All contractors doing business with the City without regard to the dollar amount or source of funding of the contract must be equal employment opportunity employers.
 
-   (2) Contractors whose contracts are funded in whole or in part by federal or state funds must also meet the standards and applicable legal requirements of the funding source. To the extent that federal or state requirements are different from the requirements of E.O. 50 (§ 10-14) and these regulations, the requirements of E.O. 50 (§ 10-14) and these regulations shall apply, except in those circumstances where application of the City's requirements would make it impossible for the contractor to meet the program requirements of the funding source.
+   (2) Contractors whose contracts are funded in whole or in part by federal or state funds must also meet the standards and applicable legal requirements of the funding source. To the extent that federal or state requirements are different from the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations, the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations shall apply, except in those circumstances where application of the City's requirements would make it impossible for the contractor to meet the program requirements of the funding source.
 
 (b) Submission requirements. 
 
@@ -5340,7 +3486,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
    (7) The contractor may at its option submit copies of its self-evaluation and transition plans written pursuant to § 504 of the Rehabilitation Act of 1973.
 
-   (8) The Director may, on the written request of the contracting agency head, waive the submission requirements of E.O. 50 (§ 10-14) and these regulations where the agency head certifies that:
+   (8) The Director may, on the written request of the contracting agency head, waive the submission requirements of E.O. 50 (66 RCNY § 10-14) and these regulations where the agency head certifies that:
 
       (i) the contracting agency has been unable to secure the submission of an employment report after making diligent efforts; and
 
@@ -5348,7 +3494,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
       (iii) because of the unique circumstances of the contract it would not be in the public interest to require submission of an Employment Report prior to the award of the contract.
 
-   (9) Failure to file timely, complete and accurate reports as required by E.O. 50 (§ 10-14) and these regulations constitutes noncompliance with E.O. 50 (§ 10-14) and these regulations. The Director may direct the contracting agency head to impose sanctions authorized by E.O. 50 (§ 10-14) and these regulations in connection with such noncompliance. The Division shall notify the contracting agency in writing of any such failure as soon as practicable.
+   (9) Failure to file timely, complete and accurate reports as required by E.O. 50 (66 RCNY § 10-14) and these regulations constitutes noncompliance with E.O. 50 (66 RCNY § 10-14) and these regulations. The Director may direct the contracting agency head to impose sanctions authorized by E.O. 50 (66 RCNY § 10-14) and these regulations in connection with such noncompliance. The Division shall notify the contracting agency in writing of any such failure as soon as practicable.
 
 
 
@@ -5358,7 +3504,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 *§ 10-04 Responsibilities of Contracting Agencies.* ::
 
 
-(a)  Contract language – all contracts. Each contracting agency shall incorporate into every contract in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party the following language: "This contract is subject to the requirements of Executive Order No. 50  (§ 10-14) ("E.O. 50") and the Rules and Regulations promulgated thereunder. No contract will be awarded unless and until these requirements have been complied with in their entirety. By signing this contract, the contractor agrees that it:
+(a)  Contract language – all contracts. Each contracting agency shall incorporate into every contract in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party the following language: "This contract is subject to the requirements of Executive Order No. 50  (66 RCNY § 10-14) ("E.O. 50") and the Rules and Regulations promulgated thereunder. No contract will be awarded unless and until these requirements have been complied with in their entirety. By signing this contract, the contractor agrees that it:
 
    (1) will not discriminate unlawfully against any employee or applicant for employment because of race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status with respect to all employment decisions including, but not limited to recruitment, hiring, upgrading, demotion, downgrading, transfer, training, rates of pay or other forms of compensation, layoff, termination, and all other terms and conditions of employment;
 
@@ -5366,11 +3512,11 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
    (3) will state in all solicitations or advertisements for employees placed by or on behalf of the contractor that all qualified applicants will receive consideration for employment without regard to race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status or is an equal employment opportunity employer;
 
-   (4) will send to each labor organization or representative of workers with which it has a collective bargaining agreement or other contract or memorandum of understanding, written notification of its equal employment opportunity commitments under E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder;
+   (4) will send to each labor organization or representative of workers with which it has a collective bargaining agreement or other contract or memorandum of understanding, written notification of its equal employment opportunity commitments under E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder;
 
-   (5) will furnish before the contract is awarded all information and reports including an Employment Report which are required by E.O. 50 (§ 10-14) the rules and regulations promulgated thereunder, and orders of the Director of the Office of Labor Services ("Division"). Copies of all required reports are available upon request from the contracting agency; and
+   (5) will furnish before the contract is awarded all information and reports including an Employment Report which are required by E.O. 50 (66 RCNY § 10-14) the rules and regulations promulgated thereunder, and orders of the Director of the Office of Labor Services ("Division"). Copies of all required reports are available upon request from the contracting agency; and
 
-   (6) will permit the Division to have access to all relevant books, records and accounts by the Division for the purposes of investigation to ascertain compliance with such rules, regulations, and orders. The contractor understands that in the event of its noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, such noncompliance shall constitute a material breach of the contract and noncompliance with E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder. After a hearing held pursuant to the rules of the Division, the Director may direct the imposition by the contracting agency head of any or all of the following sanctions:
+   (6) will permit the Division to have access to all relevant books, records and accounts by the Division for the purposes of investigation to ascertain compliance with such rules, regulations, and orders. The contractor understands that in the event of its noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, such noncompliance shall constitute a material breach of the contract and noncompliance with E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder. After a hearing held pursuant to the rules of the Division, the Director may direct the imposition by the contracting agency head of any or all of the following sanctions:
 
       (i) disapproval of the contractor;
 
@@ -5378,15 +3524,15 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
       (iii) declaring the contractor in default; or
 
-      (iv) in lieu of any of the foregoing sanctions, the Director may impose an employment program. The Director of the Division may recommend to the contracting agency head that a contractor who has repeatedly failed to comply with E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder be determined to be nonresponsible. The contractor agrees to include the provisions of the foregoing paragraphs in every subcontract or purchase order in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party unless exempted by E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Director of the Division of Labor Services as a means of enforcing such provisions including sanctions for noncompliance. The contractor further agrees that it will refrain from entering into any contract or contract modification subject to E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder with a subcontractor who is not in compliance with the requirements of E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder."
+      (iv) in lieu of any of the foregoing sanctions, the Director may impose an employment program. The Director of the Division may recommend to the contracting agency head that a contractor who has repeatedly failed to comply with E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder be determined to be nonresponsible. The contractor agrees to include the provisions of the foregoing paragraphs in every subcontract or purchase order in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party unless exempted by E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Director of the Division of Labor Services as a means of enforcing such provisions including sanctions for noncompliance. The contractor further agrees that it will refrain from entering into any contract or contract modification subject to E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder with a subcontractor who is not in compliance with the requirements of E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder."
 
-(b) Special provisions for construction contracts. In addition to the contractual provisions required in § l0-04(a), each contracting agency shall incorporate into every contract for a construction project in excess of $125,000 to which it becomes a party the following language: "The contractor further agrees that it shall employ trainees for training level jobs and it shall participate in on-the-job training programs other than apprenticeship programs which are approved by the Division and where required by law, the U.S. Department of Labor, Bureau of Apprenticeship Training or the New York State Department of Labor. The contractor shall make a good faith effort to achieve the ratio of one (1) trainee to four (4) journey-level employees of each trade on each construction project; provided, that the trainee requirement shall not apply to contracts in the amount of $125,000 or less. "Trainee" means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program, other than an apprenticeship program, approved by the Division and, where required by law, the New York State Department of Labor and the United States Department of Labor, Bureau of Apprenticeship and Training. The contractor shall be considered to employ 4 journey-level employees in a particular trade when he or she employs any number of journey-level employees in that craft whose aggregate work hours equal the number of hours 4 full-time journey-level employees would have worked in a work week as defined by the prevailing practice in the industry for the particular craft, i.e., 40 hours, 37 1/2 hours, 35 hours, etc. For example, in a craft where there is a forty-hour work week, the employment of 4 journey-level employees results in 160 hours of employment (4 × 40). Hence, any number of journey-level employees which results in 160 hours of work is considered for purposes of the training program to equal 4 journey-level employees, i.e., 3 journey-level employees who work 53 1/3 hours (3 × 53 1/3 = 160). The training requirement shall not apply to any trade in which the employment of four or more journey-level employees and the trainee shall be for less than 4 consecutive weeks; provided, that 4 weeks shall mean 4 weeks of full-time work as defined by the prevailing practice in the industry for the particular craft, i.e., 160 hours (4 weeks × 40 hours), 150 hours (4 weeks × 37 1/2 hours), 140 hours (4 weeks × 35 hours), etc. The contractor shall attempt to provide continuous employment for trainees after the completion of the contract to enable them to complete their course of training. Union contractors shall refer, recommend and sponsor for union membership any of their trainees who can perform the duties of a qualified journey-level employee or who have satisfactorily completed the training program. Such former trainee shall be paid full journey-level wages and fringe benefits, whether or not union membership is granted after such referral, recommendation or sponsorship, and the contractor shall attempt to continue the employment of such persons. In the event of a failure to provide training to the required number of trainees for the required number of weeks, the contractor's compensation shall be decreased by an amount equal to the difference between the wages and fringe benefits paid by the contractor to the trainees and the wages and fringe benefits which would have been paid to the trainees had the number and duration of the positions been as required unless the contractor can demonstrate that it made a good faith effort to provide training and was unsuccessful. The wages and fringes deducted will be whatever a first term trainee would have received under the prevailing wage schedule in effect at the time the trainees should have been employed. A good faith effort includes at least:
+(b) Special provisions for construction contracts. In addition to the contractual provisions required in 66 RCNY § 10-04(a), each contracting agency shall incorporate into every contract for a construction project in excess of $125,000 to which it becomes a party the following language: "The contractor further agrees that it shall employ trainees for training level jobs and it shall participate in on-the-job training programs other than apprenticeship programs which are approved by the Division and where required by law, the U.S. Department of Labor, Bureau of Apprenticeship Training or the New York State Department of Labor. The contractor shall make a good faith effort to achieve the ratio of one (1) trainee to four (4) journey-level employees of each trade on each construction project; provided, that the trainee requirement shall not apply to contracts in the amount of $125,000 or less. "Trainee" means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program, other than an apprenticeship program, approved by the Division and, where required by law, the New York State Department of Labor and the United States Department of Labor, Bureau of Apprenticeship and Training. The contractor shall be considered to employ 4 journey-level employees in a particular trade when he or she employs any number of journey-level employees in that craft whose aggregate work hours equal the number of hours 4 full-time journey-level employees would have worked in a work week as defined by the prevailing practice in the industry for the particular craft, i.e., 40 hours, 37 1/2 hours, 35 hours, etc. For example, in a craft where there is a forty-hour work week, the employment of 4 journey-level employees results in 160 hours of employment (4 × 40). Hence, any number of journey-level employees which results in 160 hours of work is considered for purposes of the training program to equal 4 journey-level employees, i.e., 3 journey-level employees who work 53 1/3 hours (3 × 53 1/3 = 160). The training requirement shall not apply to any trade in which the employment of four or more journey-level employees and the trainee shall be for less than 4 consecutive weeks; provided, that 4 weeks shall mean 4 weeks of full-time work as defined by the prevailing practice in the industry for the particular craft, i.e., 160 hours (4 weeks × 40 hours), 150 hours (4 weeks × 37 1/2 hours), 140 hours (4 weeks × 35 hours), etc. The contractor shall attempt to provide continuous employment for trainees after the completion of the contract to enable them to complete their course of training. Union contractors shall refer, recommend and sponsor for union membership any of their trainees who can perform the duties of a qualified journey-level employee or who have satisfactorily completed the training program. Such former trainee shall be paid full journey-level wages and fringe benefits, whether or not union membership is granted after such referral, recommendation or sponsorship, and the contractor shall attempt to continue the employment of such persons. In the event of a failure to provide training to the required number of trainees for the required number of weeks, the contractor's compensation shall be decreased by an amount equal to the difference between the wages and fringe benefits paid by the contractor to the trainees and the wages and fringe benefits which would have been paid to the trainees had the number and duration of the positions been as required unless the contractor can demonstrate that it made a good faith effort to provide training and was unsuccessful. The wages and fringes deducted will be whatever a first term trainee would have received under the prevailing wage schedule in effect at the time the trainees should have been employed. A good faith effort includes at least:
 
-      (i) documented efforts to secure trainees from approved training programs; and
+   (i) documented efforts to secure trainees from approved training programs; and
 
-      (ii) documented outreach efforts to New York State Employment Service, Department of Employment, TAP Centers, community and civil rights groups to identify candidates for training positions and sponsorship of those persons by the contractor for entrance into an approved training program; and
+   (ii) documented outreach efforts to New York State Employment Service, Department of Employment, TAP Centers, community and civil rights groups to identify candidates for training positions and sponsorship of those persons by the contractor for entrance into an approved training program; and
 
-      (iii) written notification to the Division that the contractor has been unable to secure trainees pursuant to paragraphs (1) and (2) above and requesting the Division's assistance in securing trainees; provided, that neither the provisions of any collective bargaining agreement nor the refusal by a union with whom the contractor has a collective bargaining agreement to recognize the validity of the training program shall excuse the contractor's obligation to provide training pursuant to E.O. 50 (§ 10-14) and these reg- ulations. To demonstrate its good faith effort, the contractor may at its option supply documentation concerning its employment of trainees on all its construction sites, both City and non-City funded. The Division will review this documentation as part of its analysis to determine whether the contractor made a good faith effort. The contractor will also include the training provisions of this section in every subcontract in excess of $125,000 to which it becomes a party unless exempted by E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any subcontract as the Division may direct as a means of enforcing such provisions, including sanctions for noncompliance. The contractor further agrees that it will assist and cooperate with the Division in obtaining the compliance of subcontractors with the requirements of E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder, and it will furnish the Division with information necessary for supervision of such compliance."
+   (iii) written notification to the Division that the contractor has been unable to secure trainees pursuant to paragraphs (1) and (2) above and requesting the Division's assistance in securing trainees; provided, that neither the provisions of any collective bargaining agreement nor the refusal by a union with whom the contractor has a collective bargaining agreement to recognize the validity of the training program shall excuse the contractor's obligation to provide training pursuant to E.O. 50 (66 RCNY § 10-14) and these reg- ulations. To demonstrate its good faith effort, the contractor may at its option supply documentation concerning its employment of trainees on all its construction sites, both City and non-City funded. The Division will review this documentation as part of its analysis to determine whether the contractor made a good faith effort. The contractor will also include the training provisions of this section in every subcontract in excess of $125,000 to which it becomes a party unless exempted by E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any subcontract as the Division may direct as a means of enforcing such provisions, including sanctions for noncompliance. The contractor further agrees that it will assist and cooperate with the Division in obtaining the compliance of subcontractors with the requirements of E.O. 50 (66 RCNY § 10-14) and the rules and regulations promulgated thereunder, and it will furnish the Division with information necessary for supervision of such compliance."
 
 (c) Special provisions for city-assisted contracts. [Reserved.]
 
@@ -5402,7 +3548,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
       (i) If the Division notifies the contracting agency and the contractor within five business days after the receipt by the Division of the Employment Report that the contractor has failed to submit a complete report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner; and
 
-      (ii) If the Division notifies the contracting agency and the contractor within fifteen business days of the receipt by the Division of the completed Employment Report that the Division's analysis of the contractor's workforce indicates underutilization and therefore the Division has reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of E.O. 50 (§ 10-14) and these regulations, the Division shall promptly take such action as may be necessary to remedy the contractor's noncompliance. These time limits shall apply to the review of all Employment Reports submitted by subcontractors or contractors who are a party to a requirements contract or an open market purchase agreement.
+      (ii) If the Division notifies the contracting agency and the contractor within fifteen business days of the receipt by the Division of the completed Employment Report that the Division's analysis of the contractor's workforce indicates underutilization and therefore the Division has reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of E.O. 50 (66 RCNY § 10-14) and these regulations, the Division shall promptly take such action as may be necessary to remedy the contractor's noncompliance. These time limits shall apply to the review of all Employment Reports submitted by subcontractors or contractors who are a party to a requirements contract or an open market purchase agreement.
 
       (iii) The time limits for this subdivision (d) begin to run on the business day following receipt of the Employment Report.
 
@@ -5432,7 +3578,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
 (a) Division review – generally.
 
-   (1) It shall be the responsibility of the Division to implement, monitor compliance with, and enforce E.O. 50 (§ 10-14), these regulations and programs established pursuant to City, State and Federal law requiring contractors to provide equal employment opportunity.
+   (1) It shall be the responsibility of the Division to implement, monitor compliance with, and enforce E.O. 50 (66 RCNY § 10-14), these regulations and programs established pursuant to City, State and Federal law requiring contractors to provide equal employment opportunity.
 
    (2) The Division shall conduct a preaward compliance review to determine whether the contractor maintains nondiscriminatory hiring and employment practices and is taking steps to insure that applicants are employed and that employees are placed, trained, upgraded, promoted, paid, and otherwise treated during employment without regard to race, creed, color, sex, national origin, age, handicap, marital status, sexual orientation or citizenship status.
 
@@ -5440,19 +3586,19 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
       (i) The Division shall analyze the contractor's Employment Report, with special attention directed to the composition of the work force and the contractor's employment policies, practices and procedures, including the following: recruitment, outreach, interviewing practices, pre-employment physical exams, employee evaluations, supervisor accountability, EEO training, promotional and transfer practices, training programs, employee counseling, job descriptions, architectural and other barriers, salaries and wage plans, fringe benefits, work environment, changing facilities, and collective bargaining agreements;
 
-      (ii) If the Division deems it appropriate as part of its compliance review, or if the Office finds that the material submitted is incomplete or raises questions concerning the contractor's efforts to meet the requirements of E.O. 50 (§ 10-14) and these regulations, the Division may:
+      (ii) If the Division deems it appropriate as part of its compliance review, or if the Office finds that the material submitted is incomplete or raises questions concerning the contractor's efforts to meet the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations, the Division may:
 
 (A) hold a conference with the contractor to gain information necessary to complete the compliance review and, where necessary, to develop an Employment Program; and
 
 (B) perform an on site review of those matters which were not fully or satisfactorily addressed in the Employment Report or at the conference.
 
-      (iii) The Division will take into consideration consent decrees, court and administrative orders and conciliation agreements when analyzing a contractor's compliance with E.O. 50 (§ 10-14) and these regulations. The Division will not impose requirements which are inconsistent with the foregoing.
+      (iii) The Division will take into consideration consent decrees, court and administrative orders and conciliation agreements when analyzing a contractor's compliance with E.O. 50 (66 RCNY § 10-14) and these regulations. The Division will not impose requirements which are inconsistent with the foregoing.
 
 (b) Division review – supply and services contracts.
 
-   (1) After the Division has completed its preaward compliance review and has determined that a proposed covered contractor is in compliance with the requirements of E.O. 50 (§ 10-14) and these regulations, it shall issue a certificate of compliance which shall be valid for 36 months.
+   (1) After the Division has completed its preaward compliance review and has determined that a proposed covered contractor is in compliance with the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations, it shall issue a certificate of compliance which shall be valid for 36 months.
 
-   (2) After the Division has completed its preaward compliance review and has identified underutilization or employment policies and practices which mitigate against equal employment opportunity, it may negotiate an Employment Program or approve the proposed covered contractor with reservations and monitor the compliance of the contractor with E.O. 50 (§ 10-14) and these regulations during the term of the contract. The monitoring shall consist of:
+   (2) After the Division has completed its preaward compliance review and has identified underutilization or employment policies and practices which mitigate against equal employment opportunity, it may negotiate an Employment Program or approve the proposed covered contractor with reservations and monitor the compliance of the contractor with E.O. 50 (66 RCNY § 10-14) and these regulations during the term of the contract. The monitoring shall consist of:
 
       (i) an analysis of Employment Update Reports which the contractor is required to submit on a periodic basis; and
 
@@ -5462,13 +3608,13 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
    (1) During the preaward compliance review, the Division shall hold a preaward conference for contracts in excess of $1,000,000. At the conference, the Division will review the contents of the Employment Report in detail with the contractor to insure compliance with applicable Federal, State, and City equal employment opportunity and training requirements. The Division shall, thereafter, issue a certificate of compliance which shall be valid for thirty-six months.
 
-   (2) During the term of the contract, the Division shall monitor the compliance of the contractor with the requirements of E.O. 50 (§ 10-14) and these regulations. The monitoring shall consist of:
+   (2) During the term of the contract, the Division shall monitor the compliance of the contractor with the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations. The monitoring shall consist of:
 
       (i) an analysis of the payroll records or other workforce data tables on City and non-City funded sites which the contractor is required to submit on a periodic basis; and
 
       (ii) field visits to City and non-City funded construction sites of the contractor within the City.
 
-   (3) Upon completion of the contract and prior to final payment, the Division shall complete the audit of the contractor's payroll records and any other information submitted concerning compliance with the training requirements of E.O. 50 (§ 10-14) and these regulations to determine whether the contractor has made a good faith effort to comply with these requirements and whether the contractor's compensation should be reduced for failure to provide the required training. The contractor and the contracting agency shall be given notice if the Division's audit reveals that the contractor failed to provide training for the required number of trainees for the required number of weeks, or that the contractor has acted to circumvent the training requirements. In such case, unless the contractor can demonstrate that it made a good faith effort to provide the training, the contractor's compensation will be reduced. The Division shall evaluate all information submitted by the contractor concerning its good faith effort and consult with the contracting agency before a decision is made as to whether a training violation has occurred. The Division shall notify the contractor and contracting agency of its determination.
+   (3) Upon completion of the contract and prior to final payment, the Division shall complete the audit of the contractor's payroll records and any other information submitted concerning compliance with the training requirements of E.O. 50 (66 RCNY § 10-14) and these regulations to determine whether the contractor has made a good faith effort to comply with these requirements and whether the contractor's compensation should be reduced for failure to provide the required training. The contractor and the contracting agency shall be given notice if the Division's audit reveals that the contractor failed to provide training for the required number of trainees for the required number of weeks, or that the contractor has acted to circumvent the training requirements. In such case, unless the contractor can demonstrate that it made a good faith effort to provide the training, the contractor's compensation will be reduced. The Division shall evaluate all information submitted by the contractor concerning its good faith effort and consult with the contracting agency before a decision is made as to whether a training violation has occurred. The Division shall notify the contractor and contracting agency of its determination.
 
 (d) [Reserved.]
 
@@ -5480,7 +3626,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 *§ 10-06 Criteria for Compliance – Generally.* ::
 
 
-The Division shall determine the contractor's compliance status after analysis of the composition of its work force and its employment policies and practices using the criteria enumerated in this section. In the event the analysis reveals that the contractor has not met the requirements of E.O. 50 (§ 10-14) and these regulations, the Division may with the contractor develop an Employment Program to correct any underutilization or employment policies and practices which mitigate against equal employment-opportunity. The Employment Program shall consist of mandated actions based upon the criteria set forth in this section.
+The Division shall determine the contractor's compliance status after analysis of the composition of its work force and its employment policies and practices using the criteria enumerated in this section. In the event the analysis reveals that the contractor has not met the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations, the Division may with the contractor develop an Employment Program to correct any underutilization or employment policies and practices which mitigate against equal employment-opportunity. The Employment Program shall consist of mandated actions based upon the criteria set forth in this section.
 
 (a) Equal employment opportunity policy statement.
 
@@ -5502,7 +3648,7 @@ The Division shall determine the contractor's compliance status after analysis o
 
       (i) Inform all recruiting sources verbally and in writing of company policy, stipulating that these sources actively recruit and refer members of all protected groups for all positions;
 
-      (ii) Incorporate the equal employment opportunity policy into all purchase orders, contracts, etc., covered by E.O. 50 (§ 10-14) and these regulations; and
+      (ii) Incorporate the equal employment opportunity policy into all purchase orders, contracts, etc., covered by E.O. 50 (66 RCNY § 10-14) and these regulations; and
 
       (iii) Communicate the policy in all solicitations or advertisements for employees placed by or on behalf of the contractor.
 
@@ -5552,7 +3698,7 @@ The Division shall determine the contractor's compliance status after analysis o
 
       (i) request an explanation of the apparent underutilization; and
 
-      (ii) consider the anticipated expansion, contraction and turnover in the workforce before developing with the contractor an Employment Program or determining if it has reasonable cause to believe that the contractor is not in compliance with E.O. 50 (§ 10-14) and these regulations.
+      (ii) consider the anticipated expansion, contraction and turnover in the workforce before developing with the contractor an Employment Program or determining if it has reasonable cause to believe that the contractor is not in compliance with E.O. 50 (66 RCNY § 10-14) and these regulations.
 
    (4) The statistical criteria for evaluating the composition of the contractor's workforce will be the following:
 
@@ -5584,13 +3730,13 @@ The Division shall determine the contractor's compliance status after analysis o
 
 (d) Special provisions concerning compliance. 
 
-   (1) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations if the contractor hires, employs, trains employees or otherwise discriminates on the basis of employees' creed, sex or national origin in those certain instances where creed, sex or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor's business. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
+   (1) A contractor shall not be in violation of E.O. 50 (66 RCNY § 10-14) and these regulations if the contractor hires, employs, trains employees or otherwise discriminates on the basis of employees' creed, sex or national origin in those certain instances where creed, sex or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor's business. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
 
-   (2) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations with respect to age discrimination where it terminates the employment of any person who is physically unable to perform his or her duties or acts pursuant to a retirement policy or system where such policy or system is not merely a subterfuge to evade the purposes of E.O. 50 (§ 10-14) and these regulations. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
+   (2) A contractor shall not be in violation of E.O. 50 (66 RCNY § 10-14) and these regulations with respect to age discrimination where it terminates the employment of any person who is physically unable to perform his or her duties or acts pursuant to a retirement policy or system where such policy or system is not merely a subterfuge to evade the purposes of E.O. 50 (66 RCNY § 10-14) and these regulations. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
 
-   (3) Neither the provisions of any collective bargaining agreement, nor the failure by a union with whom the contractor has a collective bargaining agreement, to refer employees without regard to their race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status shall excuse the contractor's obligations under E.O. 50 (§ 10-14) and these regulations.
+   (3) Neither the provisions of any collective bargaining agreement, nor the failure by a union with whom the contractor has a collective bargaining agreement, to refer employees without regard to their race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status shall excuse the contractor's obligations under E.O. 50 (66 RCNY § 10-14) and these regulations.
 
-   (4) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations if it applies different standards of compensation or different terms, conditions or privileges of employment pursuant to a bona fide seniority system.
+   (4) A contractor shall not be in violation of E.O. 50 (66 RCNY § 10-14) and these regulations if it applies different standards of compensation or different terms, conditions or privileges of employment pursuant to a bona fide seniority system.
 
 (e) Establishment of an employment program. If any of the following items are found by the Division in its analysis and the contractor fails to demonstrate that the item does not have a discriminatory effect, an Employment Program may be developed by the Division and the contractor containing special corrective action:
 
@@ -5712,7 +3858,7 @@ The Division shall determine the contractor's compliance status after analysis o
 
       (iii) a suggested date for a conciliation conference before sanctions will be imposed.
 
-   (2) The contractor shall have seven business days to show cause why it should not be found in noncompliance with E.O. 50 (§ 10-14), and these regulations.
+   (2) The contractor shall have seven business days to show cause why it should not be found in noncompliance with E.O. 50 (66 RCNY § 10-14), and these regulations.
 
    (3) The Director shall offer the contractor an opportunity to conciliate. The Director shall pursue conciliation efforts for a period of seven business days. At the Director's discretion, the conciliation period may be extended.
 
@@ -5738,7 +3884,7 @@ The Division shall determine the contractor's compliance status after analysis o
 
 (f) Sanctions. 
 
-   (1) The Director shall, based upon the findings of fact and recommendations of the hearing officer and the record as a whole, determine whether the contractor is complying with applicable legal requirements and the provisions of E.O. 50 (§ 10-14) and these regulations.
+   (1) The Director shall, based upon the findings of fact and recommendations of the hearing officer and the record as a whole, determine whether the contractor is complying with applicable legal requirements and the provisions of E.O. 50 (66 RCNY § 10-14) and these regulations.
 
    (2) If the Director makes a determination of noncompliance, the Director may direct the contracting agency head that the following sanctions be imposed:
 
@@ -5758,23 +3904,23 @@ The Division shall determine the contractor's compliance status after analysis o
 
       (iii) In the event such objections are filed, the Director and the agency head shall jointly determine the sanctions to be imposed.
 
-   (4) The Director of the Division may recommend to the contracting agency head that pursuant to the rules and regulations of the Board of Estimate a board of responsibility be convened for purposes of declaring a contractor who has repeatedly failed to comply with E.O. 50 (§ 10-14) and these regulations to be nonresponsible.
+   (4) The Director of the Division may recommend to the contracting agency head that pursuant to the rules and regulations of the Board of Estimate a board of responsibility be convened for purposes of declaring a contractor who has repeatedly failed to comply with E.O. 50 (66 RCNY § 10-14) and these regulations to be nonresponsible.
 
 (g) Complaints. 
 
-   (1) Any person who believes a violation of E.O. 50 (§ 10-14) and these regulations has occurred may file a complaint, in writing, signed and dated, with the Office during the term of a contract.
+   (1) Any person who believes a violation of E.O. 50 (66 RCNY § 10-14) and these regulations has occurred may file a complaint, in writing, signed and dated, with the Office during the term of a contract.
 
-   (2) The complaint shall include the name, address, and telephone number of the complainant, the name and address of the contractor committing the alleged violation of E.O. 50 (§ 10-14) and these regulations, a description of the acts considered to be the violation, and any other pertinent information which will assist in the investigation and resolution of the complaint. The complaint shall be signed by the complainant or his or her authorized representative. Complaints alleging class-type violations which do not identify the alleged discriminatee or discriminatees will be accepted, provided the other requirements of this paragraph are met.
+   (2) The complaint shall include the name, address, and telephone number of the complainant, the name and address of the contractor committing the alleged violation of E.O. 50 (66 RCNY § 10-14) and these regulations, a description of the acts considered to be the violation, and any other pertinent information which will assist in the investigation and resolution of the complaint. The complaint shall be signed by the complainant or his or her authorized representative. Complaints alleging class-type violations which do not identify the alleged discriminatee or discriminatees will be accepted, provided the other requirements of this paragraph are met.
 
-   (3) The Division may refer complaints to the appropriate City, State and Federal agencies for processing rather than processing under E.O. 50 (§ 10-14) and these regulations. Upon referring complaints to another agency, the Division shall promptly notify the complainant and the contractor of such referral.
+   (3) The Division may refer complaints to the appropriate City, State and Federal agencies for processing rather than processing under E.O. 50 (66 RCNY § 10-14) and these regulations. Upon referring complaints to another agency, the Division shall promptly notify the complainant and the contractor of such referral.
 
    (4) A prompt investigation shall be made by the Division.
 
-   (5) The contractor involved shall cooperate fully with any investigation. Failure or refusal to furnish information or to cooperate in the investigation is a violation of E.O. 50 (§ 10-14) and these regulations and may result in the imposition of sanctions.
+   (5) The contractor involved shall cooperate fully with any investigation. Failure or refusal to furnish information or to cooperate in the investigation is a violation of E.O. 50 (66 RCNY § 10-14) and these regulations and may result in the imposition of sanctions.
 
-   (6) Upon completion of the investigation, the complaining party and the contractor involved shall be informed of the results of the investigation in writing. If the Director has reasonable cause to believe that the contractor is in noncompliance with E.O. 50 (§ 10-14) and these regulations, then enforcement proceedings shall be commenced.
+   (6) Upon completion of the investigation, the complaining party and the contractor involved shall be informed of the results of the investigation in writing. If the Director has reasonable cause to believe that the contractor is in noncompliance with E.O. 50 (66 RCNY § 10-14) and these regulations, then enforcement proceedings shall be commenced.
 
-   (7) It is a violation of E.O. 50 (§ 10-14) and these regulations for a contractor, subcontractor, or other person to intimidate, threaten, coerce, or discriminate against any individual or business for the purpose of interfering with any right or privilege secured by E.O. 50 (§ 10-14) and these regulations or because a complaint was filed, or a person testified, assisted or participated in any manner in an investigation, proceeding, or hearing under these regulations.
+   (7) It is a violation of E.O. 50 (66 RCNY § 10-14) and these regulations for a contractor, subcontractor, or other person to intimidate, threaten, coerce, or discriminate against any individual or business for the purpose of interfering with any right or privilege secured by E.O. 50 (66 RCNY § 10-14) and these regulations or because a complaint was filed, or a person testified, assisted or participated in any manner in an investigation, proceeding, or hearing under these regulations.
 
    (8) The identity of the complaining party shall be kept confidential on request only during the conduct of an investigation under these regulations. If such confidentiality hinders the investigation, the complaining party shall be so advised for the purpose of obtaining a waiver of confidentiality. The complaining party shall be further advised that failure to waive confidentiality may result in a determination based upon information already provided.
 
@@ -5796,7 +3942,7 @@ When it has reason to believe that federal, state or local law has been violated
 *§ 10-09 Existing Contracts and Subcontracts.* ::
 
 
-All contracts and subcontracts in effect prior to April 25, 1980 which are not subsequently modified shall be administered in accordance with the equal employment and training provisions of any prior applicable Executive Orders. Any contract or subcontract modified on or after April 25, 1980 shall be subject to E.O. 50 (§ 10-14).
+All contracts and subcontracts in effect prior to April 25, 1980 which are not subsequently modified shall be administered in accordance with the equal employment and training provisions of any prior applicable Executive Orders. Any contract or subcontract modified on or after April 25, 1980 shall be subject to E.O. 50 (66 RCNY § 10-14).
 
 
 
@@ -5806,7 +3952,7 @@ All contracts and subcontracts in effect prior to April 25, 1980 which are not s
 *§ 10-10 Confidentiality.* ::
 
 
-To the extent permitted by law and consistent with the proper discharge of the Division's responsibilities under E.O. 50 (§ 10-14) and these regulations, all information provided by a contractor to the Division shall be confidential.
+To the extent permitted by law and consistent with the proper discharge of the Division's responsibilities under E.O. 50 (66 RCNY § 10-14) and these regulations, all information provided by a contractor to the Division shall be confidential.
 
 
 
@@ -5846,9 +3992,11 @@ The rules contained in this chapter shall become effective 30 days after final p
 *§ 10-14 Executive Order No. 50. [Repealed]* ::
 
 
- DIVISION OF LABOR SERVICES AND EQUAL EMPLOYMENT OPPORTUNITY COMPLIANCE EXECUTIVE ORDER NO. 50 APRIL 25, 1980 BUREAU OF LABOR SERVICES  By the power vested in me as Mayor of the City of New York, it is hereby ordered:
+APRIL 25, 1980BUREAU OF LABOR SERVICES
 
-Section 1. Purpose. It is the purpose of this Order to ensure equal employment opportunity in City Contracting.
+By the power vested in me as Mayor of the City of New York, it is hereby ordered:
+
+§ 1. Purpose. It is the purpose of this Order to ensure equal employment opportunity in City Contracting.
 
 § 2. Bureau Continued. The Bureau of Labor Services shall continue to serve such purposes and to have such responsibilities as restated by this Order.
 
@@ -5862,15 +4010,15 @@ Section 1. Purpose. It is the purpose of this Order to ensure equal employment o
 
 (d) contract means any written agreement, purchase order or instrument whereby the City is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing:
 
-      (i) Unless otherwise required by law, the term "contract" shall include any City grant, loan, guarantee or other City assistance for a construction project.
+   (i) Unless otherwise required by law, the term "contract" shall include any City grant, loan, guarantee or other City assistance for a construction project.
 
-      (ii) The term "contract" shall not include:
+   (ii) The term "contract" shall not include:
 
-(A) contracts for financial or other assistance between the City and a government or government agency;
+      (A) contracts for financial or other assistance between the City and a government or government agency;
 
-(B) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes, or other fiscal obligations of the City, or consisting thereof; or
+      (B) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes, or other fiscal obligations of the City, or consisting thereof; or
 
-(C) employment by the City of its officers and employees which is subject to the equal employment opportunity requirements of applicable law.
+      (C) employment by the City of its officers and employees which is subject to the equal employment opportunity requirements of applicable law.
 
 (e) contracting agency means any administration, board, bureau, commission, department, or other governmental agency of the City of New York, or any official thereof, authorized on behalf of the City to provide for, enter into, award, or administer contracts.
 
@@ -5912,19 +4060,19 @@ Section 1. Purpose. It is the purpose of this Order to ensure equal employment o
 
 (a) Submission Requirements. No contracting agency shall enter into a contract with any contractor unless such contractor's employment report is first submitted to the Bureau for its review. Unless otherwise required by law, an employment report shall not be required for the following:
 
-      (i) A construction contract in the amount of less than $1 million; a construction subcontract in the amount of less than $750,000; or a supply and service contract in the amount of $50,000 or less or of more than $50,000 in which the contractor employs fewer than 50 employees at the facility or facilities involved in the contract
+   (i) A construction contract in the amount of less than $1 million; a construction subcontract in the amount of less than $750,000; or a supply and service contract in the amount of $50,000 or less or of more than $50,000 in which the contractor employs fewer than 50 employees at the facility or facilities involved in the contract
 
-      (ii) An emergency contract or other exempt contract except as the Bureau may direct by regulation; and
+   (ii) An emergency contract or other exempt contract except as the Bureau may direct by regulation; and
 
-      (iii) A contract with a contractor who has received a certificate of compliance with the equal employment opportunity requirements of applicable law from the Bureau within the preceding thirty-six months, or an appropriate agency of the State of New York or of the United States within the preceding thirty-six months, except as the Bureau may direct by regulation;
+   (iii) A contract with a contractor who has received a certificate of compliance with the equal employment opportunity requirements of applicable law from the Bureau within the preceding thirty-six months, or an appropriate agency of the State of New York or of the United States within the preceding thirty-six months, except as the Bureau may direct by regulation;
 
 (b) Bureau Review. The Bureau shall review all employment reports to determine whether contractors are in compliance with the equal employment opportunity requirements of City, State and Federal law and the provisions of this Order. The contracting agency shall transmit the employment report to the Bureau within ten business days after the selection of a proposed contractor. A contracting agency may thereafter award a contract unless the Bureau gives prior written notice to the contracting agency and the contractor as follows:
 
-      (i) If the Bureau notifies the contracting agency and the contractor within five business days after the receipt by the Bureau of the employment report that the contractor has failed to submit a complete employment report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner;
+   (i) If the Bureau notifies the contracting agency and the contractor within five business days after the receipt by the Bureau of the employment report that the contractor has failed to submit a complete employment report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner;
 
-      (ii) If the Bureau notifies the contracting agency and the contractor within fifteen business days of the receipt by the Bureau of the completed employment report that the Bureau has found reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of this Order, the Bureau shall promptly take such action as may be necessary to remedy the contractor's noncompliance as provided by this Order.
+   (ii) If the Bureau notifies the contracting agency and the contractor within fifteen business days of the receipt by the Bureau of the completed employment report that the Bureau has found reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of this Order, the Bureau shall promptly take such action as may be necessary to remedy the contractor's noncompliance as provided by this Order.
 
-      Provided that a contracting agency may award a requirements contract or an open market purchase agreement prior to review by the Bureau of the contractor's employment report, but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's employment report to the Bureau and the Bureau has completed its review in the manner provided by this section.
+   Provided that a contracting agency may award a requirements contract or an open market purchase agreement prior to review by the Bureau of the contractor's employment report, but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's employment report to the Bureau and the Bureau has completed its review in the manner provided by this section.
 
 (c) Employment Program. The Bureau may require a contractor to adopt and adhere to a program designed to ensure equal employment opportunity.
 
@@ -5966,7 +4114,7 @@ Section 1. Purpose. It is the purpose of this Order to ensure equal employment o
 
 § 15. Revocation of Prior Orders. Executive Orders No. 71 (1968), No. 20 (1970), No. 23 (1970), No. 27 (1970), No. 31 (1971), No. 74 (1973), No. 7 (1974), and No. 80 (1977) are hereby revoked and the first paragraph of Section 2 of Executive Order No. 4 (1978) is hereby deleted. Nothing in this Order shall be deemed to relieve any person of any obligation not inconsistent with this Order assumed or imposed pursuant to an Order superseded by this Order.
 
-§ 16. Effective Date. This Order shall take effect immediately. xp
+§ 16. Effective Date. This Order shall take effect immediately.
 
 
 
@@ -6118,23 +4266,23 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
 (b) Eligibility requirements. 
 
-   (1) A contractor or subcontractor shall be certified as an LBE upon a determination by OEFO that it has met the eligibility requirements set forth in the Administrative Code, § 6-108.1 and these regulations. The initial certification shall be effective for three years and shall expire at the end of such period, except as provided in §§ 11-03(b)(2) and (b)(9) of this section. An LBE may apply to have certification renewed after this three year period, as set forth in § 11-03(b)(4) of this section.
+   (1) A contractor or subcontractor shall be certified as an LBE upon a determination by OEFO that it has met the eligibility requirements set forth in the Administrative Code, § 6-108.1 and these regulations. The initial certification shall be effective for three years and shall expire at the end of such period, except as provided in 66 RCNY § 11-03(b)(2) and (b)(9). An LBE may apply to have certification renewed after this three year period, as set forth in 66 RCNY § 11-03(b)(4).
 
-   (2) A business which has been in existence for less than one year prior to the date of application for certification and which would otherwise qualify as an LBE except that it does not meet the criteria set forth in § 11-02 "Locally based enterprise" (2) of these regulations, may nevertheless be certified as an LBE, provided that such certification shall expire one year after it is granted unless the business meets the criteria set forth in such paragraph within one year of the date of its certification.
+   (2) A business which has been in existence for less than one year prior to the date of application for certification and which would otherwise qualify as an LBE except that it does not meet the criteria set forth in 66 RCNY § 11-02 "Locally based enterprise" (2), may nevertheless be certified as an LBE, provided that such certification shall expire one year after it is granted unless the business meets the criteria set forth in such paragraph within one year of the date of its certification.
 
-   (3) An LBE seeking continuance of certification granted according to subdivision (b)(2) of this section must submit certification documents before two months prior to the one year anniversary of such certification. If after this one year period, the business meets all the criteria for LBE eligibility as set forth in § 11-02 "Locally based enterprise," certification shall be granted for two more years. This business may apply to have certification renewed after this two year period as set forth in § 11-03(b)(4).
+   (3) An LBE seeking continuance of certification granted according to subdivision (b)(2) of this section must submit certification documents before two months prior to the one year anniversary of such certification. If after this one year period, the business meets all the criteria for LBE eligibility as set forth in 66 RCNY § 11-02 "Locally based enterprise," certification shall be granted for two more years. This business may apply to have certification renewed after this two year period as set forth in 66 RCNY § 11-03(b)(4).
 
    (4) An LBE may seek to have its certification renewed for successive one year periods by submitting certification documents before two months prior to the expiration date of its certification demonstrating that it continues to meet the eligibility requirements set forth in Administrative Code, § 6-108.1 and these regulations.
 
-   (5) Failure to submit certification documents before two months prior to the applicable certification anniversary date, as set forth in §§ 11-03(b)(3) or (b)(4) of this section, may result in the expiration of the LBE certification on the anniversary date.
+   (5) Failure to submit certification documents before two months prior to the applicable certification anniversary date, as set forth in 66 RCNY § 11-03(b)(3) or (b)(4), may result in the expiration of the LBE certification on the anniversary date.
 
    (6) If the certification of an LBE expires or if the LBE is determined to be ineligible for re-certification, the LBE may submit another set of certification documents six months after the date its original certification expired or six months after the date it was determined to be ineligible for re-certification.
 
-   (7) If an LBE submits certification documents before two months prior to the applicable certification anniversary date, as set forth in § 11-03(b)(3) or (b)(4) of this section, and the Division is unable to make a determination before the anniversary date, the LBE will be notified that certification will continue until the Division makes a determination as to the LBE's status. If an LBE submits certification documents within the second month prior to the anniversary date, the Division may not be able to review the documents to determine their completeness and the LBE's certification will expire. If the Division is able to review the documents, it may notify the LBE that its certification will continue beyond the anniversary date. If an LBE submits certification documents within the month prior to the anniversary date, its certification will expire on the anniversary date unless it is re-certified.
+   (7) If an LBE submits certification documents before two months prior to the applicable certification anniversary date, as set forth in 66 RCNY § 11-03(b)(3) or (b)(4), and the Division is unable to make a determination before the anniversary date, the LBE will be notified that certification will continue until the Division makes a determination as to the LBE's status. If an LBE submits certification documents within the second month prior to the anniversary date, the Division may not be able to review the documents to determine their completeness and the LBE's certification will expire. If the Division is able to review the documents, it may notify the LBE that its certification will continue beyond the anniversary date. If an LBE submits certification documents within the month prior to the anniversary date, its certification will expire on the anniversary date unless it is re-certified.
 
-   (8) A business which was certified as an LBE prior to the effective date of these regulations shall be deemed to have been certified as an LBE on the date of such certification, provided however that any business which was less than one year old at the time of such certification and did not meet all the criteria of eligibility set forth in § 11-03 "Locally based enterprise" of these regulations, shall be deemed to have been certified according to § 11-03(b)(2) and such certification shall expire on the one year anniversary of the certification date. Such business may seek continuance of its certification as provided in § 11-03(b)(3).
+   (8) A business which was certified as an LBE prior to the effective date of these regulations shall be deemed to have been certified as an LBE on the date of such certification, provided however that any business which was less than one year old at the time of such certification and did not meet all the criteria of eligibility set forth in 66 RCNY § 11-03 "Locally based enterprise" of these regulations, shall be deemed to have been certified according to 66 RCNY § 11-03(b)(2) and such certification shall expire on the one year anniversary of the certification date. Such business may seek continuance of its certification as provided in 66 RCNY § 11-03(b)(3).
 
-   (9) Any LBE which has been certified prior to the effective date of these regulations, for a period longer than specified in §§ 11-03(b)(1) and (b)(2), must submit certification documents within two months after the effective date of these regulations, unless re-certification has been granted prior to the effective date of these regulations.
+   (9) Any LBE which has been certified prior to the effective date of these regulations, for a period longer than specified in 66 RCNY § 11-03(b)(1) and (b)(2), must submit certification documents within two months after the effective date of these regulations, unless re-certification has been granted prior to the effective date of these regulations.
 
    (10) It is the intent of these regulations to qualify businesses as LBEs only if the ownership, management and operations of the business are conducted by persons who do not own, manage or operate other similar businesses which would otherwise be ineligible. Any business applying for LBE certification that does not conform to this intent shall be deemed ineligible as an LBE.
 
@@ -6146,7 +4294,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
       (i) ownership of the business by a non-LBE construction business;
 
-      (ii) whole or partial ownership of the business by a person who is an owner in whole or in part of another construction business when the sum of the gross receipts of these businesses exceeds the limits as provided for in § 11-22 "Locally based enterprise" of these regulations;
+      (ii) whole or partial ownership of the business by a person who is an owner in whole or in part of another construction business when the sum of the gross receipts of these businesses exceeds the limits as provided for in 66 RCNY § 11-22 "Locally based enterprise";
 
       (iii) whole or partial ownership of a business, formed within three years of application, by a person who is an owner in whole or in part of another construction business not eligible for the program;
 
@@ -6154,7 +4302,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
       (v) organization of a firm in existence for less than one year whose officers, directors, principal stockholders, or employees serve as the officers, directors, principal stockholders, or employees, of another construction business and one concern is furnishing, or will furnish the other concern with subcontracts, financial or technical assistance, or other facilities, whether for a fee or otherwise.
 
-   (14) If, after submitting certification documents, a business is found to not meet the requirements for LBE certification as set forth in § 11-02 "Locally based enterprise" is otherwise ineligible, it may submit other certification documents for certification six months after the date it was declared ineligible.
+   (14) If, after submitting certification documents, a business is found to not meet the requirements for LBE certification as set forth in 66 RCNY § 11-02 "Locally based enterprise" is otherwise ineligible, it may submit other certification documents for certification six months after the date it was declared ineligible.
 
    (15) A joint venture consisting of an LBE and a non-LBE business may participate in the LBE program as a contractor or subcontractor if both joint venturers' contract work is defined clearly. However, only the LBE's share of the contract work shall be credited towards the LBE goal.
 
@@ -6164,7 +4312,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
    (18) Newly formed businesses and businesses whose ownership or control has changed since the date of issuance of these regulations shall be scrutinized by the Division to determine the reasons for the formation, change in the ownership or control of the business.
 
-   (19) Once a business is certified as an LBE, it must satisfactorily complete any contracts it is awarded. If an LBE does not satisfactorily complete a contract, it will be required to participate in and successfully complete a technical assistance program through the Department. If the LBE fails to successfully complete or does not participate in the technical assistance program it will be de-certified as an LBE. An LBE will be given an opportunity to respond to any allegations that it has not performed satisfactorily on a contract or that it has not successfully completed or participated in the technical assistance program pursuant to the procedure in § 11-03(c)(8). If an LBE is de-certified, such business may re-apply for certification after six months from the date of de-certification. It must demonstrate at that time that it has improved its work performance.
+   (19) Once a business is certified as an LBE, it must satisfactorily complete any contracts it is awarded. If an LBE does not satisfactorily complete a contract, it will be required to participate in and successfully complete a technical assistance program through the Department. If the LBE fails to successfully complete or does not participate in the technical assistance program it will be de-certified as an LBE. An LBE will be given an opportunity to respond to any allegations that it has not performed satisfactorily on a contract or that it has not successfully completed or participated in the technical assistance program pursuant to the procedure in 66 RCNY § 11-03(c)(8). If an LBE is de-certified, such business may re-apply for certification after six months from the date of de-certification. It must demonstrate at that time that it has improved its work performance.
 
 (c) Certification responsibilities of the Division. 
 
@@ -6240,37 +4388,37 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
       (i) The "LBE Participation Schedule" shall include:
 
-(A) the name and address of each LBE that will be given a subcontract,
+         (A) the name and address of each LBE that will be given a subcontract,
 
-(B) the percentage, dollar amount and type of work to be subcontracted to LBE, and
+         (B) the percentage, dollar amount and type of work to be subcontracted to LBE, and
 
-(C) the dates when the LBE subcontract work will commence and end.
+         (C) the dates when the LBE subcontract work will commence and end.
 
       (ii) The following documents shall be attached to the "LBE Participation Schedule":
 
-(A) verification letters from each subcontractor listed in the "LBE Participation Schedule" stating that the LBE will enter into a formal agreement for work,
+         (A) verification letters from each subcontractor listed in the "LBE Participation Schedule" stating that the LBE will enter into a formal agreement for work,
 
-(B) certification documents of any proposed LBE subcontractor which is not on the LBE certified list, and
+         (B) certification documents of any proposed LBE subcontractor which is not on the LBE certified list, and
 
-(C) copies of the certification letter of any proposed subcontractor which is an LBE.
+         (C) copies of the certification letter of any proposed subcontractor which is an LBE.
 
       (iii) Documentation of good faith efforts to achieve the required LBE percentage shall include as appropriate but not be limited to the following:
 
-(A) attendance at pre-bid meetings, when scheduled by the agency, to advise bidders of contract requirements;
+         (A) attendance at pre-bid meetings, when scheduled by the agency, to advise bidders of contract requirements;
 
-(B) advertisement where appropriate in general circulation media, trade association publications, and small business media of the specific subcontracts that would be at least equal to the percentage goal for LBE utilization specified by the contractor;
+         (B) advertisement where appropriate in general circulation media, trade association publications, and small business media of the specific subcontracts that would be at least equal to the percentage goal for LBE utilization specified by the contractor;
 
-(C) written notification to associations of small, minority and women contractors soliciting specific subcontracts;
+         (C) written notification to associations of small, minority and women contractors soliciting specific subcontracts;
 
-(D) written notification by certified mail to LBE firms that their interest in the contract is solicited for specific work items and their estimated values;
+         (D) written notification by certified mail to LBE firms that their interest in the contract is solicited for specific work items and their estimated values;
 
-(E) demonstration of efforts made to select portions of the work for performance by LBE firms in order to increase the likelihood of achieving the stated goals;
+         (E) demonstration of efforts made to select portions of the work for performance by LBE firms in order to increase the likelihood of achieving the stated goals;
 
-(F) documented efforts to negotiate with LBE firms for specific subcontracts including at a minimum: (a) The names, addresses and telephone numbers of LBE firms that were contacted, (b) A description of the information provided to LBE firms regarding the plans and specifications for portions of the work to be performed, (c) Documentation showing that no reasonable price can be obtained from LBE firms, (d) A statement of why agreements with LBE firms were not reached;
+         (F) documented efforts to negotiate with LBE firms for specific subcontracts including at a minimum: (a) The names, addresses and telephone numbers of LBE firms that were contacted, (b) A description of the information provided to LBE firms regarding the plans and specifications for portions of the work to be performed, (c) Documentation showing that no reasonable price can be obtained from LBE firms, (d) A statement of why agreements with LBE firms were not reached;
 
-(G) a statement of the reason for rejecting any LBE firm which the contractor deemed to be unqualified; and
+         (G) a statement of the reason for rejecting any LBE firm which the contractor deemed to be unqualified; and
 
-(H) documentation of efforts made to assist the LBE firms contacted that needed assistance in obtaining required insurance.
+         (H) documentation of efforts made to assist the LBE firms contacted that needed assistance in obtaining required insurance.
 
    (5) Unless otherwise waived by the agency head with the approval of the Division, failure of a proposed contractor to provide the information required by paragraphs (3) and (4) above may render the bid non-responsive and the contract may not be awarded to the bidder. If the contractor states that it will subcontract a specific portion of the work, but can demonstrate that despite good faith efforts it cannot achieve its required LBE percentage for subcontracted work until after award of contract, the contract may be awarded subject to a letter of compliance from the contractor stating that it will comply with Administrative Code § 6-108.1 and subject to approval by the agency head. If the contractor has not met its required LBE percentage prior to award, the contractor shall demonstrate that a good faith effort has been made subsequent to award to obtain LBEs on each subcontract until it meets the required percentage.
 
@@ -6284,7 +4432,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
    (2) Each agency head shall designate one experienced contract manager to be its LBE liaison officer whose duties shall include directing, coordinating and overseeing agency staff with regard to implementing the procedures set forth in these regulations on a day-to-day basis. The officer's responsibilities shall include:
 
-      (i) Examining projects to determine which invitations to bid are to be designated for the LBE prime contractor outreach procedure set forth in § 11-04(e);
+      (i) Examining projects to determine which invitations to bid are to be designated for the LBE prime contractor outreach procedure set forth in 66 RCNY § 11-04(e);
 
       (ii) Preparing and forwarding bid notices of potential LBE prime contracts and subcontracts to LBEs;
 
@@ -6320,37 +4468,37 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
       (ii) A summary report including but not limited to:
 
-(A) the total number of contracts subject to LBE requirements which are registered during the quarter and during the fiscal year to date,
+         (A) the total number of contracts subject to LBE requirements which are registered during the quarter and during the fiscal year to date,
 
-(B) the total value of such contracts,
+         (B) the total value of such contracts,
 
-(C) the total number and dollar value of LBE prime contracts registered,
+         (C) the total number and dollar value of LBE prime contracts registered,
 
-(D) the total number and dollar value of LBE subcontracts,
+         (D) the total number and dollar value of LBE subcontracts,
 
-(E) the total number and dollar value of contracts registered which are subject to MBE/WBE requirements;
+         (E) the total number and dollar value of contracts registered which are subject to MBE/WBE requirements;
 
       (iii) A list of LBEs receiving prime contracts or subcontracts including:
 
-(A) the nature of their work, and
+         (A) the nature of their work, and
 
-(B) the number and dollar value of prime contracts and subcontracts committed;
+         (B) the number and dollar value of prime contracts and subcontracts committed;
 
       (iv) A list of all contracts registered during the quarter including:
 
-(A) a description of each contract, its budget line and registration date,
+         (A) a description of each contract, its budget line and registration date,
 
-(B) the dollar amount of the contract,
+         (B) the dollar amount of the contract,
 
-(C) whether the contract is subject to an MBE/WBE requirement,
+         (C) whether the contract is subject to an MBE/WBE requirement,
 
-(D) the contractor awarded the contract,
+         (D) the contractor awarded the contract,
 
-(E) whether the contract was awarded to an LBE or MBE/WBE,
+         (E) whether the contract was awarded to an LBE or MBE/WBE,
 
-(F) whether any part of the contract was subcontracted, and
+         (F) whether any part of the contract was subcontracted, and
 
-(G) if the answer to (F) above, is yes, then: (a) the subcontractor's name, (b) the subcontractor's LBE or MBE/WBE status, (c) a description of each subcontract (i.e., type of work), (d) the dollar amount of each subcontract, and (e) waivers that have been granted during the quarter, if any;
+         (G) if the answer to (F) above, is yes, then: (a) the subcontractor's name, (b) the subcontractor's LBE or MBE/WBE status, (c) a description of each subcontract (i.e., type of work), (d) the dollar amount of each subcontract, and (e) waivers that have been granted during the quarter, if any;
 
       (v) The status of any default hearings or other actions the agency is taking with regard to failure of a contractor or LBE to comply with Administrative Code § 6-108.1 and these regulations; and
 
@@ -6386,7 +4534,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
    (3) Contract specifications shall identify which items of the contract, if any, are suitable for LBE subcontracting, and the estimated value of each such item.
 
-   (4) Contracting agencies shall include in the Information to Bidders and the contract provisions for LBE subcontracting as set forth in §§ 11-04(b) and (c).
+   (4) Contracting agencies shall include in the Information to Bidders and the contract provisions for LBE subcontracting as set forth in 66 RCNY § 11-04(b) and (c).
 
    (5) When a contracting agency advertises a contract which contains items suitable for subcontracting, it shall apply the following procedures:
 
@@ -6418,39 +4566,39 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
       (i) The "LBE Participation Schedule" shall include:
 
-(A) the name and address of each LBE that will be given a subcontract,
+         (A) the name and address of each LBE that will be given a subcontract,
 
-(B) the percentage, dollar amount and type of work to be subcontracted to the LBE, and
+         (B) the percentage, dollar amount and type of work to be subcontracted to the LBE, and
 
-(C) the dates when the LBE subcontract work will commence and end.
+         (C) the dates when the LBE subcontract work will commence and end.
 
       (ii) The following documents shall be attached to the "LBE Participation Schedule":
 
-(A) verification letters from each subcontractor listed in the "LBE Participation Schedule" stating that the LBE will enter into a formal agreement for work,
+         (A) verification letters from each subcontractor listed in the "LBE Participation Schedule" stating that the LBE will enter into a formal agreement for work,
 
-(B) certification documents of any proposed LBE subcontractor which is not on the LBE certified lists, and
+         (B) certification documents of any proposed LBE subcontractor which is not on the LBE certified lists, and
 
-(C) copies of the certification letter of any proposed subcontractor which is an LBE.
+         (C) copies of the certification letter of any proposed subcontractor which is an LBE.
 
       (iii) Documentation of good faith efforts to achieve the required LBE percentage shall include but not be limited to the following:
 
-(A) attendance at pre-bid meetings, when scheduled by the agency, to advise bidders of contract requirements;
+         (A) attendance at pre-bid meetings, when scheduled by the agency, to advise bidders of contract requirements;
 
-(B) advertisement where appropriate in general circulation media, trade association publications, and small business media for specific subcontracts that would be at least equal to the percentage goal for LBE utilization specified by the contractor;
+         (B) advertisement where appropriate in general circulation media, trade association publications, and small business media for specific subcontracts that would be at least equal to the percentage goal for LBE utilization specified by the contractor;
 
-(C) notification to small, minority and woman contractor associations in writing, for solicitation of specific subcontracts;
+         (C) notification to small, minority and woman contractor associations in writing, for solicitation of specific subcontracts;
 
-(D) written notification by certified mail to LBE firms that their interest in the contract is solicited;
+         (D) written notification by certified mail to LBE firms that their interest in the contract is solicited;
 
-(E) demonstration of efforts made to select portions of the work proposed to be performed by LBE firms in order to increase the likelihood of achieving the stated goals;
+         (E) demonstration of efforts made to select portions of the work proposed to be performed by LBE firms in order to increase the likelihood of achieving the stated goals;
 
-(F) documented efforts to negotiate with LBE firms for specific subcontracts including at a minimum: (a) The names, addresses and telephone numbers of LBE firms that were contacted; (b) A description of the information provided to LBE firms regarding the plans and specifications for portions of the work to be performed; (c) Documentation that no reasonable price can be obtained from LBE firms; (d) A statement of why agreements with LBE firms were not reached;
+         (F) documented efforts to negotiate with LBE firms for specific subcontracts including at a minimum: (a) The names, addresses and telephone numbers of LBE firms that were contacted; (b) A description of the information provided to LBE firms regarding the plans and specifications for portions of the work to be performed; (c) Documentation that no reasonable price can be obtained from LBE firms; (d) A statement of why agreements with LBE firms were not reached;
 
-(G) a statement of the reason for rejecting any LBE firm which the contractor deemed to be unqualified; and
+         (G) a statement of the reason for rejecting any LBE firm which the contractor deemed to be unqualified; and
 
-(H) documentation of efforts made to assist the LBE firms contacted that needed assistance in obtaining required insurance.
+         (H) documentation of efforts made to assist the LBE firms contacted that needed assistance in obtaining required insurance.
 
-   (5) Failure of the apparent low bidder to provide the information required in §§ 11-04(g)(3) and (g)(4) of this section within the allotted time may render the bid non-responsive and the contract may not be awarded to the bidder, except: If the contractor states that it will subcontract a specific portion of the work, but can demonstrate that despite good faith efforts it cannot achieve its required LBE percentage for subcontracted work until after award of contract, the contract may be awarded subject to a letter of compliance from the contractor stating that it will comply with Administrative Code § 6-108.1 and subject to approval by the agency head.
+   (5) Failure of the apparent low bidder to provide the information required in 66 RCNY § 11-04(g)(3) and (g)(4) of this section within the allotted time may render the bid non-responsive and the contract may not be awarded to the bidder, except: If the contractor states that it will subcontract a specific portion of the work, but can demonstrate that despite good faith efforts it cannot achieve its required LBE percentage for subcontracted work until after award of contract, the contract may be awarded subject to a letter of compliance from the contractor stating that it will comply with Administrative Code § 6-108.1 and subject to approval by the agency head.
 
    (6) If the contractor has not met its required LBE percentage prior to award, the contractor shall demonstrate that a good faith effort has been made subsequent to award to obtain LBEs on each subcontract until it meets the required percentage.
 
@@ -6468,9 +4616,9 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
       (i) there is no identifiable LBE subcontractor reasonably available, willing and qualified to perform subcontracted work, provided that
 
-(A) the contractor has been unable to identify an LBE subcontractor after good faith efforts as set forth in § 11-04(g)(4)(iii) and
+         (A) the contractor has been unable to identify an LBE subcontractor after good faith efforts as set forth in 66 RCNY § 11-04(g)(4)(iii) and
 
-(B) the contracting agency has been unable to locate an LBE after a search of the LBE list; or
+         (B) the contracting agency has been unable to locate an LBE after a search of the LBE list; or
 
       (ii) the contract involves an emergency requiring immediate attention because the public health, safety, or welfare is threatened; or
 
@@ -6480,15 +4628,15 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
    (3) Upon the approval of an agency head's waiver decision, the Division shall send written notification of such waiver to the Vice Chairman of the City Council.
 
-      (i) Verification of contractor compliance. The contracting agency shall perform the following procedures with regard to auditing contractor compliance:
+(i) Verification of contractor compliance. The contracting agency shall perform the following procedures with regard to auditing contractor compliance:
 
-   (1) The LBE liaison officer described in § 11-04(d)(2) of these regulations shall distribute to the resident engineer a list of LBE subcontractors that have been identified by the prime contractor for use on the project. The resident engineer shall notify the LBE liaison officer of all subcontractors working on the site.
+   (1) The LBE liaison officer described in 66 RCNY § 11-04(d)(2) shall distribute to the resident engineer a list of LBE subcontractors that have been identified by the prime contractor for use on the project. The resident engineer shall notify the LBE liaison officer of all subcontractors working on the site.
 
    (2) As the work progresses, the LBE liaison officer shall periodically telephone all LBEs identified by the prime contractor to verify that they are on the site and performing specified LBE work.
 
    (3) Each contracting agency shall conduct on-site reviews of the contractor's compliance with the LBE requirements. Such review may include interviews, visits to the actual construction site, and an inspection of any records relevant to the contractor's performance.
 
-   (4) The contractor shall cooperate fully with these reviews. Failure or refusal to furnish information or to cooperate may be deemed a breach of contract and a violation of these regulations which may result in the imposition of sanctions as provided in § 11-04(j).
+   (4) The contractor shall cooperate fully with these reviews. Failure or refusal to furnish information or to cooperate may be deemed a breach of contract and a violation of these regulations which may result in the imposition of sanctions as provided in 66 RCNY § 11-04(j).
 
    (5) The LBE liaison officer shall audit contractor payments to LBE subcontractors by obtaining payment compliance reports every month from both the contractor and the LBE subcontractor. The agency shall investigate all significant report variances.
 
@@ -6534,9 +4682,9 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
 (c) Any complaint alleging fraud, or other criminal behavior, concerning the requirements of Administrative Code § 6-108.1 and these regulations on the part of a contractor or subcontractor shall be referred by the contracting agency or the Division to their respective Inspector Generals.
 
-(d) The contractor or subcontractor involved shall cooperate fully with any investigation. Failure or refusal to furnish information or to cooperate in the investigation is a violation of Administrative Code § 6-108.1 and these regulations and may result in the imposition of sanctions as provided in § 11-04(j).
+(d) The contractor or subcontractor involved shall cooperate fully with any investigation. Failure or refusal to furnish information or to cooperate in the investigation is a violation of Administrative Code § 6-108.1 and these regulations and may result in the imposition of sanctions as provided in 66 RCNY § 11-04(j).
 
-(e) Upon completion of the investigation, the complaining party and the contractor or subcontractor involved shall be informed of the results of the investigation in writing. If the contracting agency or the Division has reasonable cause to believe that the contractor or subcontractor is in noncompliance with Administrative Code § 6-108.1 or these regulations, then the procedures set forth in §§ 11-04(i)(9) and (10) shall be commenced.
+(e) Upon completion of the investigation, the complaining party and the contractor or subcontractor involved shall be informed of the results of the investigation in writing. If the contracting agency or the Division has reasonable cause to believe that the contractor or subcontractor is in noncompliance with Administrative Code § 6-108.1 or these regulations, then the procedures set forth in 66 RCNY § 11-04(i)(9) and (10) shall be commenced.
 
 (f) No contractor, subcontractor, or other person shall intimidate, threaten, coerce, or discriminate against any individual or business for the purpose of interfering with any right or privilege secured by Administrative Code § 6-108.1 and these regulations or because a complaint was filed, or a person testified, assisted or participated in any manner in an investigation, proceeding, or hearing under these regulations.
 
@@ -6579,6 +4727,444 @@ Implementation.
 
 
 
+*APPENDIX A: ECONOMIC DEVELOPMENT AREAS* ::
+
+
+The following are eligible Community Development areas:
+
+ManhattanInwood – Census Tracts 291, 293, excluding 289, 295, 301, 303, 307 North Washington Heights – Census Tracts 269, 271, 277, 279, 285, excluding 267, 273, 275, 281, 283, 287 South Washington Heights – Census Tracts 239, 241, 243.01, 245, 247, 249, 251, 253, 255, 261, 263, 265 Hamilton Heights – Census Tracts 231.01, 233, 235.01, 237 Polo Gardens – Census Tracts 235.02, 243.02 Harlem River Houses – Census Tracts 231.02, 234 excluding 236 Manhattanville – Census Tracts 213.01, 217.01, 219, 221.01, 223, 225, 227.01, 229 St. Nicholas – Census Tracts 213.02, 217.02, 221.02, 224, 226, 227.02, 228, 230, 232 Harlem River Drive – Census Tracts 210, 212, excluding 214 Morningside Heights – Census Tracts 197.01, 209.01, 211, excluding 199, 201.01, 203, 205, 207.01 West Harlem – Census Tracts 197.02, 201.02, 207.02, 209.02 Millbank-Frawley – Census Tracts 186, 190, 200, 216, 218, 220, 222 Upper West Side – Census Tracts 189, 193, 195, excluding 187, 191 West Side – Census Tracts 183, excluding 161, 163, 165, 167, 169, 171, 173, 175, 177, 179, 181, 185 Lincoln Square – Census Tracts 147, 151, excluding 145, 149, 153, 155, 157, 159 Clinton – Census Tracts 115, 117, 121, 127, 129, 133, 135, excluding 139 Chelsea – Census Tracts 83, 89, 99, 103, 111, excluding 81, 87, 91, 93, 97 Midtown – Census Tracts 84, 102, 109, 113, 119, 125, excluding 92, 94, 96, 100, 104, 131 Union-Herald – Census Tracts 56, 58, 76, 95, 101, excluding 52, 54, 74 Gramercy – Census Tracts 68, excluding 44, 48, 50, 60, 64, 66 East Village – Census Tracts 20, 24, 26.01, 26.02, 28, 32, 34, 38, 40, excluding 42 West Village – Census Tracts 53, 69, excluding 51, 55.01, 57, 59, 61, 63, 65, 67, 71, 73, 75, 77, 79 Soho/Noho/Tribeca – Census Tracts 55.02, excluding 33, 47, 49 Battery Park – Census Tracts 21, 39, 317, excluding 13 Lower Manhattan – Census Tracts 7, 9, 31, excluding 15.01, 15.02, 319 Chinatown-Little Italy – Census Tracts 27, 29, 41, 43, 45 Lower East Side – Census Tracts 12, 14.02, 16, 18, 22.01, 22.02, 30.01, 30.02, 36.01, 36.02, excluding 14.01 Two Bridges – Census Tracts 2.01, 2.02, 6, 8, 10.02, 25, excluding 10.01 Yorkville – Census Tracts 154, 156.01, 158.02, excluding 135, 138, 140, 142, 144.01, 144.02, 146.01, 148.01, 148.02, 150.01, 150.02, 152, 158.01, 160.01, 160.02 Lower East Harlem – Census Tracts 156.02, 162, 164, 166, 168, 170, 172.01, 172.02, 174.01, 174.02 Upper East Side – Census Tracts 178, 180, 182, 184, 188, 192, 194, 196, 198, 202, 204, 206, 208
+
+BrooklynFort Hamilton-Dyker Beach – Census Tracts 164, excluding 154 Bush Terminal – Census Tract 018 Greenpoint Industrial Area – Census Tracts 465, 581, 483, 577, 579, excluding 455, 473, 589 Brighton Beach – Census Tracts 360.01, 360.02, 362, 366, 610.01, excluding 364, 610.02 Coney Island – Census Tract 325, 328, 330, 342, 348.01, 352, excluding 340 West Brighton – Census Tract 348.02, excluding 350, 354, 356 Sheepshead Bay – Census Tract 590, excluding 570, 572, 576, 578, 580, 586, 592, 594.01, 594.02, 596, 598, 600, 608, 626 Homecrest – Census Tract 582, excluding 370, 374, 388, 390, 392, 394, 396, 414.01, 414.02, 416, 418, 554, 556, 584, 588, 606 Gravesend – Census Tract 582, excluding 370, 374, 388, 390, 392, 394, 396, 414.01, 414.02, 416, 418, 554, 556, 584, 588, 606 Bath Beach – Census Tract 292, excluding 168, 174, 176, 280, 282, 286 Bensonhurst – Census Tracts 178, 276, excluding 170, 172, 180, 182, 184, 186, 188, 190, 256, 258, 260, 262, 264, 266, 268, 270, 274, 278, 284, 288, 290, 294, 296, 298, 300, 302, 304 Dyker Heights – Census Tract 120, excluding 128.01, 132, 140, 144, 146, 148, 150, 156, 158, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212 Sunset Park – Census Tracts 002, 020, 022, 072, 074, 076, 078, 080, 082, 084, 088, 090, 092, 096, 098, 100, 101, 102, 106, 118, 122, 143, 145, 147, excluding 086, 104, 108 Red Hook – Census Tracts 055, 057, 059, 085 Columbia Street – Census Tracts 047, 051 Cobble Hill – Census Tract 049, excluding 045 Carroll Gardens – Census Tracts 075, 077, excluding 063, 065, 067 Gowanus – Census Tracts 069, 070, 117, 121, 123, 125, 127 Boerum Hill – Census Tracts 039, 041, 043 Park Slope – Census Tracts 129.01, 129.02, 131, 133, 135, 137, 139, 141, 149, 151, 159, 167, 173, excluding 153, 155, 157, 165, 169, 171, 502.01, 502.02 Ocean Parkway – Census Tract 486, excluding 460.01, 462.01, 480, 482, 484, 488, 490, 492, 494 Flatbush – Census Tracts 506, 508, 510, 516, 790, 792, 794, 796, 818, 820, 822, 824, 826, 828, excluding 460.02, 512, 514, 518, 520, 522, 524, 526, 528, 754, 766, 770, 772, 774, 786, 788 Starrett City – Census Tract 1058 North Canarsie – Census Tract 974, excluding 962, 968, 970 Farragut – Census Tract 942, excluding 780, 782, 830, 832, 834, 836, 838, 840, 842, 844, 846 Ramsen Village – Census Tract 888, excluding 928, 930, 934 North East Flatbush – Census Tracts 882, 884, 886, 890, 892 Wingate – Census Tract 874.01, 878, excluding 876, 880 Broadway Junction – Census Tracts 365.02, 367, 1138 Rugby – Census Tracts 814, 816, 860, 862, 866, 868, 870, excluding 848, 850, 852, 854, 856, 858, 864, 872, 938, 940 Lefferts Gardens – Census Tracts 327, 329, 800, 802, 804, 806, excluding 798, 810 Crown Heights – Census Tracts 213, 217, 219, 221, 223, 225, 307, 311, 317.02, 319, 321, 323, 325, 331, 333, 337, 339, 343, 347, 349, 351, 353, 355, 357, 359, excluding 335 Weeksville – Census Tracts 309, 345 Brower Park – Census Tracts 313, 315, 317.01, 341 Prospect Heights – Census Tracts 161, 163, 203, 205, 207, 215 Fulton Ferry – Census Tracts 021, 023 Downtown – Census Tracts 011, 025, 027, 033, 035, 037, excluding 013 Fort Greene – Census Tracts 029.01, 179, 181, 183, 185.01, 187, 191, 199, 201, 231, excluding 029.02, 031 Clinton – Census Tract 197, excluding 193, 195 Tompkins Park – Census Tracts 251, 263, 279 Stuyvesant Heights – Census Tracts 271.02, 273, 297 Southern Williamsburg – Census Tracts 237, 239, 507, 509, 529, 531, 533, 535, 537, 539, 545 South Side – Census Tracts 513, 523, 525, 527, 547, 549, 551 North Side – Census Tracts 515, 517, 519, 555, 557 Bedford Stuyvesant – Census Tracts 227, 229, 233, 235, 241, 243, 245, 247, 249, 253, 255, 257, 259.01, 259.02, 261, 265, 267, 269, 271.01, 275, 277, 281, 283, 285.01, 285.02, 287, 289, 291, 293, 295, 299, 381, 383, 385, 387 Greenpoint – Census Tracts 563, 575, excluding 499, 559, 565, 567, 569, 571, 573, 591, 593 Ridgewood – Census Tracts 429, 431, 441, 443, 445, 447 Bushwick – Census Tracts 389, 391, 393, 395, 397, 399, 401, 405, 409, 411, 413, 415, 417, 419, 421, 423, 425, 427, 433, 435, 437, 439, 453, 487 Ocean Hill – Census Tracts 301, 303, 361, 363, 365.01, 369, 371, 373, 375, 377, 379 North Williamsburg – Census Tracts 495, 497, 503, excluding 477, 501 Brownsville – Census Tracts 894, 896, 898, 900, 902, 904, 906, 908, 910, 912, 914, 918, 920 East New York – Census Tracts 1114, 1118, 1120, 1122, 1124, 1126, 1128, 1130, 1132, 1134, 1136, 1138, 1148, 1150, 1152, 1154, 1156, 1158, 1160, 1162, 1164, 1166, 1168, 1170, 1192, 1194 Highland Park – Census Tracts 1142.01, 1146, 1172.01, 1172.02, 1174, excluding 1142.02 City Line – Census Tracts 1188, 1190, 1196, 1200, 1208, 1210, excluding 1186, 1202 Fresh/Spring Creek – Census Tracts 1040, 1070, 1214, excluding 1220 New Lots – Census Tracts 982, 1100, 1102, 1110, 1172, excluding 1078, 1106 Cypress Hill – Census Tracts 1176.01, 1176.02, 1178, 1184, excluding 1182.01, 1182.02 Boro Park – Census Tracts 110, 112, 192, 218, 220, 222, 226, 228, 230, 232, 238, 240, 472, 478, excluding 114, 116, 214, 216, 224, 234, 236, 242, 470, 474, 476 Central Williamsburg – Census Tracts 489, 491, 493, 505, 511
+
+Queens South Jamaica – Census Tracts 182, 184.01, 184.02, 186, 188, 190, 192, 272, 274, 276, 278, 284, 288, 788, 790, excluding 792 Springfield Gardens North – Census Tracts 330, 768, excluding 292, 334.02 Springfield Gardens South – Census Tracts 766, excluding 304, 320 Hollis – Census Tracts 500, 502.01, 508, excluding 482, 484, 502.02, 510 St. Albans – Census Tracts 334.01, 352, 398, 404, 504, 522, 524, 526, 528, excluding 280, 282, 366, 368, 376, 384, 394, 400, 402, 420, 422, 424, 426, 432, 506, 518, 520, 530, 532 Breezy Point and Roxbury – Census Tracts 916.02, excluding 916.01, 918 Rockaway Park/Seaside – Census Tract 942.01, excluding 938 Hammels – Census Tract 942.02, excluding 942.03 Arverne-Edgemere – Census Tract 952, excluding 962, 964, 972, 992 Far Rockaway – Census Tract 1032, excluding 998, 1010 Broad Channel – Census Tract 1072.01, excluding 1072.02 Forest Hills – Census Tract 725, excluding 645, 707, 709, 711, 713.01, 719, 727, 729, 731, 733, 735, 737, 739, 741, 743, 745, 747, 757, 769.01, 769.02, 771 Ridgewood – Census Tracts 545, 553, 559, 589, excluding 539, 547, 549, 551, 555, 557, 581, 583, 585, 587, 591, 593, 595, 603, 613 Flushing – Census Tracts 867, 871, 875, excluding 797, 845, 851, 853, 855, 865, 889, 907, 1161  Corona – Census Tracts 411, 413, 415, 427, 439, excluding 437, 443, 455 North Corona – Census Tracts 375, 377, 379, 401, 403, 405, 407, 409, excluding 381 East Elmhurst – Census Tracts 353, 361, 365, 369, 373, excluding 355, 363, 367, 371 Jackson Heights – Census Tracts 273, 275, 277, 279, 281, 283, 285, 287, 289, 291, 309.02, 327, 329, 337, 339, 347, 351 Maspeth – Census Tracts 535, excluding 205.01, 205.02, 219, 229, 243, 489, 493.01, 493.02, 495, 497, 511, 513, 515, 517, 521, 525, 527, 529, 599, 601, 667 Sunnyside – Census Tracts 179, 197, 235, excluding 169, 171, 181, 183, 185, 187, 189, 191, 253 Hunter's Point – Census Tract 019, excluding 001, 007 Queens Village – Census Tracts 516, 540, excluding 496, 512, 536, 538, 542, 548, 552, 554, 556, 558, 560, 562, 564, 566, 568, 578, 580, 588 Jamaica Hills – Census Tracts 446.02, excluding 448, 450, 452, 454, 456 Briarwood – Census Tracts 236, 238, excluding 214, 220.01, 220.02, 230, 779.05 Richmond Hill – Census Tracts 142.01, 142.02, 152, excluding 024, 026, 028, 098, 108, 110, 118, 120, 122, 124, 126.01, 126.02, 128, 130, 132, 144, 148, 150, 154, 156 South Ozone Park – Census Tracts 158, 174, 178, 180, 814, 818, excluding 094, 096, 100, 102, 104, 106, 164, 166, 168, 170, 172, 176, 838, 840, 846.01, 846.02, 864 Ozone Park – Census Tract 050, excluding 032, 034, 036, 038, 040.01, 040.02, 042, 044.01, 052, 054, 058, 086, 088, 112, 114, 116, 878 Lindenwood – Census Tract 044.02, excluding 062 Jamaica – Census Tracts 194.01, 194.02, 196, 198, 202, 204, 206, 208, 212, 240, 244, 246, 248, 250, 252, 258, 260, 262, 264, 266, 270, 410, 414, 440, 442, 460, excluding 434, 446.01, 462, 468, 470, 480 Woodside – Census Tracts 163, 297, excluding 245, 247, 249, 251, 255, 257, 259, 261, 263, 293, 295, 299 Astoria – Long Island City – Census Tracts 025, 029, 035, 043, 055, 079, 081, 087, 141, 155, 157, 161, excluding 027, 031, 037, 041, 045, 047, 049, 051, 053, 057, 059, 061, 063, 065, 069, 071, 073, 075, 077, 083, 091, 143, 145, 147, 149, 151, 153, 159 Laurelton – Census Tracts 328, 358, excluding 616.01, 618, 620, 624, 626, 630, 632, 646, 650, 682
+
+Bronx Bathgate – Census Tracts 165, 167, 375.01, 377, 385 Baychester, Historic Village of – Census Tract 302 Bedford Park – Census Tracts 403.01, 403.02, 405, excluding 407.01, 407.02, 411, 413, 415 Belmont – Census Tracts 387, 389, 391, 393, 397 Bronxdale – Census Tracts 336, 338, 340, excluding 324, 328, 330, 332 Bronx River – Census Tracts 062, 064, 066, 214, 054, 056, excluding 058 Castle Hill – Census Tracts 086, 088, excluding 074, 084, 102 Claremont – Census Tracts 145, 147, 169 Concourse Village – Census Tracts 059.02, excluding 061 East Concourse – Census Tracts 173, 175, 177, 179, 181, 183 East Tremont – Census Tracts 359, 361, 363, 365.01, 365.02, 367, 369.01, 369.02, 371, 373, 375.02, 375.03 Fordham – Census Tracts 237.01, 237.02, 239, 383, 399.01, 399.02, 401 Highbridge – Census Tracts 189, 193, 199, 201, 211, 213.02, 219 Hunt's Point – Census Tracts 089, 099, 115.01, 115.02, 119, 121.01, 121.02, 123, 125, 127.01, 127.02, 129.02, 153, 155, 157, 161, excluding 081, 091, 097, 105 Jerome Park – Census Tract 273, excluding 267, 277, 279, 281, 409 Kingsbridge Heights – Census Tracts 263, 265, excluding 261, 269, 271.02 Longwood – Census Tracts 083, 085, 087, 129.01, 131 Melrose – Census Tracts 065, 067, 069, 139, 141, 143 Morris Heights – Census Tracts 205, 213.01, 215.01, 215.02, 217.01, 243, 245 Morrisania – Census Tracts 135, 149, 151 Mott Haven – Census Tracts 023, 025, 027.01, 027.02, 031, 033, 035, 037, 039, 041, 043, 047, 049, 071, 073, 075, 077, 079 Mount Eden – Census Tracts 225, 227.03, 229.02, excluding 171 Mount Hope – Census Tracts 227.01, 229.01, 231, 233.01, 233.02, 235.01, 235.02, 241, 379, 381 Norwood – Census Tract 431, excluding 419, 421, 423, 425, 429.01, 429.02 Olinville – Census Tracts 374, 376, excluding 370, 372 Park Stratton – Census Tract 218, excluding 216.01 Port Morris – Census Tracts 011, 015, 017 Parkchester – Census Tract 206.02, excluding 208, 210, 212, 216.02 Soundview – Census Tracts 016, 020, 036, 038, 046, excluding 024, 028, 040.02 Soundview/Bruckner – Census Tracts 044, 048, 050, 052, 068, 070, excluding 040.01, 072 Throgs Neck – Census Tracts 110, 144, excluding 130, 132, 154, 156, 158, 162, 164, 166 University Heights – Census Tracts 247, 251, 253, 255, 257, excluding 249 Van Nest – Census Tracts 230, 242, excluding 232, 234, 236, 240 Wakefield – Census Tract 446, excluding 410, 414, 418, 428, 430, 432, 436, 438, 440, 442 West Concourse – Census Tracts 057, 059.01, 195, 197, 217.02, 221, 223, 227.02, excluding 187 West Farms – Census Tracts 060, 220 Williamsbridge – Census Tracts 390, 406, excluding 368, 378, 380, 382, 388, 392, 394, 396, 398, 404, 408, 420, 422, 424 Woodstock – Census Tracts 133, 137
+
+Staten Island Arlington – Census Tract 319.02 Clifton/Fox Hills – Census Tract 40 New Brighton – Census Tract 77, excluding 81 Port Richmond – Census Tract 207, excluding 213, 219, 247 St. George – Census Tracts 7, 11, excluding 3, 9 Stapleton – Census Tracts 15, 21, 27, 29 West Brighton/Bodine Creek – Census Tracts 133.01, 133.02, excluding 65, 105, 121, 125, 141 Posebank/Arrochar – Census Tract 74, excluding 8, 20.01, 20.02, 36
+
+
+
+
+
+
+*APPENDIX B: MAPS OF ECONOMIC DEVELOPMENT AREA* ::
+
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-372-img$3.0$p=
+
+Manhattan Economic Development 1 of 5
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-374-img$3.0$p=
+
+
+
+
+Manhattan Economic Development 2 of 5
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-376-img$3.0$p=
+
+
+
+
+Manhattan Economic Development 3 of 5
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-378-img$3.0$p=
+
+
+
+
+Manhattan Economic Development 4 of 5
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-380-img$3.0$p=
+
+
+
+
+Manhattan Economic Development 5 of 5
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-382-img$3.0$p=
+
+Brooklyn Economic Development 1 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-384-img$3.0$p=
+
+Brooklyn Economic Development 2 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-386-img$3.0$p=
+
+Brooklyn Economic Development 3 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-388-img$3.0$p=
+
+Brooklyn Economic Development 4 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-390-img$3.0$p=
+
+Brooklyn Economic Development 5 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-392-img$3.0$p=
+
+Brooklyn Economic Development 6 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-394-img$3.0$p=
+
+Brooklyn Economic Development 7 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-396-img$3.0$p=
+
+Brooklyn Economic Development 8 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-398-img$3.0$p=
+
+Brooklyn Economic Development 9 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-400-img$3.0$p=
+
+Brooklyn Economic Development 10 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-402-img$3.0$p=
+
+Brooklyn Economic Development 11 of 11
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-404-img$3.0$p=
+
+Queens Economic Development 1 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-406-img$3.0$p=
+
+Queens Economic Development 2 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-408-img$3.0$p=
+
+Queens Economic Development 3 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-410-img$3.0$p=
+
+Queens Economic Development 4 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-412-img$3.0$p=
+
+Queens Economic Development 5 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-414-img$3.0$p=
+
+Queens Economic Development 6 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-416-img$3.0$p=
+
+Queens Economic Development 7 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-418-img$3.0$p=
+
+Queens Economic Development 8 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-420-img$3.0$p=
+
+Queens Economic Development 9 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-422-img$3.0$p=
+
+Queens Economic Development 10 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-424-img$3.0$p=
+
+Queens Economic Development 11 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-426-img$3.0$p=
+
+Queens Economic Development 12 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-428-img$3.0$p=
+
+Queens Economic Development 13 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-430-img$3.0$p=
+
+Queens Economic Development 14 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-432-img$3.0$p=
+
+Queens Economic Development 15 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-434-img$3.0$p=
+
+Queens Economic Development 16 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-436-img$3.0$p=
+
+Queens Economic Development 17 of 17
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-438-img$3.0$p=
+
+Bronx Economic Development 1 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-440-img$3.0$p=
+
+Bronx Economic Development 2 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-442-img$3.0$p=
+
+Bronx Economic Development 3 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-444-img$3.0$p=
+
+Bronx Economic Development 4 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-446-img$3.0$p=
+
+Bronx Economic Development 5 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-448-img$3.0$p=
+
+Bronx Economic Development 6 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-450-img$3.0$p=
+
+Bronx Economic Development 7 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-452-img$3.0$p=
+
+Bronx Economic Development 8 of 8
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-454-img$3.0$p=
+
+Staten Island 1 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-456-img$3.0$p=
+
+Staten Island 2 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-458-img$3.0$p=
+
+Staten Island 3 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-460-img$3.0$p=
+
+Staten Island 4 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-462-img$3.0$p=
+
+Staten Island 5 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-464-img$3.0$p=
+
+Staten Island 6 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-466-img$3.0$p=
+
+Staten Island 7 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-468-img$3.0$p=
+
+Staten Island 8 of 9
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-470-img$3.0$p=
+
+Staten Island 9 of 9
+
+
+
+
+
+
+*APPENDIX C: 1989 LOWER LIVING STANDARD INCOME LEVEL TABLE* ::
+
+
+Effective: May 4, 1989
+
+a   Effective July 1, 1989, Tompkins will merge with Broome-Tioga to form the Broome-Tioga-Tompkins SDA. Until June 30, 1989, Tompkins must use the non-metro area income guidelines. As of July 1, 1989, the metro income guidelines are to be used by Tompkins intake staff.
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1989 POVERTY INCOME GUIDELINES
+      - 
+    * - Size of Family Unit
+      - Poverty Guidelines
+    * - 1
+      - $5,980
+    * - 2
+      - $8,020
+    * - 3
+      - $10,060
+    * - 4
+      - $12,100
+    * - 5
+      - $14,140
+    * - 6
+      - $16,180
+    * - 7
+      - $18,220
+    * - 8
+      - $20,260
+~
+
+ 
+
+For family units with more than 8 members, add $2,040 for each additional member.
+
+Effective Date: February 16, 1989
+
+
+
+
+
+
 
 **Subchapter B: Minority- and Women-owned Business Enterprise Certification Program**
 
@@ -6595,7 +5181,7 @@ Audit. "Audit" means an examination of a business enterprise to determine whethe
 
 Business enterprise. "Business enterprise" means any entity, including a sole proprietorship, partnership or corporation which is authorized to and engages in lawful business transactions in accordance with the laws of New York State.
 
-Certified business. "Certified business" means a business enterprise which has been approved for certification as an MBE and/or WBE in accordance with the procedures set forth in § 11-22 of these rules, subsequent to verification that the business enterprise is owned, operated, and controlled by minority group members as defined in § 11-21 of these rules, or women.
+Certified business. "Certified business" means a business enterprise which has been approved for certification as an MBE and/or WBE in accordance with the procedures set forth in 66 RCNY § 11-22, subsequent to verification that the business enterprise is owned, operated, and controlled by minority group members as defined in 66 RCNY § 11-21, or women.
 
 Certification director. "Certification director" means the director of the minority- and women-owned business enterprise program or his or her designee or his or her successor in function.
 
@@ -6691,15 +5277,15 @@ The following standards will be used to determine whether a business enterprise 
 
    (3) Documentation of one (1) year's business activity will be required in order to provide sufficient information upon which certification can be reasonably made. The commissioner, in his or her discretion, may permit documentation for a lesser period;
 
-   (4) Any business enterprise that satisfies the eligibility criteria as set forth in § 11-22 of these rules, is presumptively eligible for certification as an MBE and/or WBE under these rules; provided that the commissioner may decline to certify, or revoke the certification of, any business enterprise on the ground that there is not a firm basis for believing that there is a compelling state interest to justify certification of that business enterprise under these rules.
+   (4) Any business enterprise that satisfies the eligibility criteria as set forth in 66 RCNY § 11-22, is presumptively eligible for certification as an MBE and/or WBE under these rules; provided that the commissioner may decline to certify, or revoke the certification of, any business enterprise on the ground that there is not a firm basis for believing that there is a compelling state interest to justify certification of that business enterprise under these rules.
 
 (e) Graduate MBE and/or WBE determinations. The division will, upon reviewing applications for certification and recertification, determine whether a business enterprise qualifies as a graduate MBE and/or WBE. The division will make such determinations in accordance with the following procedures:
 
-   (1) In the event that the division determines a business enterprise seeking new certification as an MBE and/or WBE qualifies as a graduate MBE and/or WBE pursuant to § 11-21 of these rules, the division will provide a written notice of such determination to the applicant business enterprise stating the reason(s) for such determination and the procedures for challenging the graduate MBE and/or WBE determination.
+   (1) In the event that the division determines a business enterprise seeking new certification as an MBE and/or WBE qualifies as a graduate MBE and/or WBE pursuant to 66 RCNY § 11-21, the division will provide a written notice of such determination to the applicant business enterprise stating the reason(s) for such determination and the procedures for challenging the graduate MBE and/or WBE determination.
 
-   (2) In the event that the division determines a certified MBE and/or WBE qualifies as a graduate MBE and/or WBE pursuant to § 11-21 of these rules, the division will provide a written notice of such determination to the business enterprise seeking recertification setting forth the reason(s) for such determination and the procedures for challenging the graduate MBE and/or WBE determination.
+   (2) In the event that the division determines a certified MBE and/or WBE qualifies as a graduate MBE and/or WBE pursuant to 66 RCNY § 11-21, the division will provide a written notice of such determination to the business enterprise seeking recertification setting forth the reason(s) for such determination and the procedures for challenging the graduate MBE and/or WBE determination.
 
-   (3) In the event that the division determines a business enterprise seeking new certification or a certified MBE and/or WBE to be a graduate MBE and/or WBE pursuant to § 11-21 of these rules, the business enterprise may challenge such a determination pursuant to the procedures set forth in §§ 11-24 and 11-25 of these rules.
+   (3) In the event that the division determines a business enterprise seeking new certification or a certified MBE and/or WBE to be a graduate MBE and/or WBE pursuant to 66 RCNY § 11-21, the business enterprise may challenge such a determination pursuant to the procedures set forth in 66 RCNY §§ 11-24 and 11-25.
 
    (4) In the event that the division has determined a business enterprise to be a graduate MBE and/or WBE, and the business enterprise has not made a timely challenge to that determination, or has made such a challenge and the department has affirmed its determination, the business enterprise may not apply to have the designation lifted for at least two years from the date of the original determination notice. The division will lift the designation if the firm demonstrates that (i) it has not been awarded contracts by one or more agencies within the past three years where the total city funding from the expense and capital budgets for such contracts was equal to or greater than fifty million dollars; and (ii) it has been below the size standards established by the United States small business administration for its industry for a period of two years or more.
 
@@ -6719,9 +5305,9 @@ The following standards will be used to determine whether a business enterprise 
 
 (c) If a certification application is received by DSBS and required documents are missing, questions are unanswered or the certification application is not properly signed, DSBS will send to the applicant, within 45 days of the date the application was received by DSBS, a notice of status and deficiency (the "Notice"), stating any deficiency arising from missing documents, unfinished questions or deficiencies in signature. An applicant may cure the noticed deficiency by providing DSBS with documents or information requested in the Notice, within 30 days of the date of the Notice.
 
-(d) When the applicant cures a noticed deficiency, pursuant to procedures set forth in § 11-23(c) of these rules, DSBS will have an additional forty-five (45) days to advise the applicant of any further deficiency which may be cured in accordance with § 11-23(c) of these rules.
+(d) When the applicant cures a noticed deficiency, pursuant to procedures set forth in 66 RCNY § 11-23(c), DSBS will have an additional forty-five (45) days to advise the applicant of any further deficiency which may be cured in accordance with 66 RCNY § 11-23(c).
 
-(e) If the applicant does not cure a noticed deficiency, pursuant to procedures set forth in § 11-23(c) of these rules, and the certification application remains incomplete for at least forty-two (42) days of the date of the Notice, unless such time is extended by the certification director, the applicant must be sent a notice stating that its certification application has been rejected and will not be processed, together with its rejected certification application.
+(e) If the applicant does not cure a noticed deficiency, pursuant to procedures set forth in 66 RCNY § 11-23(c), and the certification application remains incomplete for at least forty-two (42) days of the date of the Notice, unless such time is extended by the certification director, the applicant must be sent a notice stating that its certification application has been rejected and will not be processed, together with its rejected certification application.
 
 (f) An applicant whose certification as an MBE and/or WBE is rejected may not reapply for certification for at least one hundred twenty (120) days of the date of the notice of rejection of its application.
 
@@ -6785,7 +5371,7 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 (c) If the minority group members or women claiming ownership of the certified business fail to respond timely in writing to the notice of certification status review, or fail to meet with a DSBS representative or agree to an audit, the certification of the MBE and/or WBE may be revoked by the certification director.
 
-(d) The certification director will notify, in writing, a certified business of the revocation of its certification as an MBE and/or WBE within fourteen (14) days of revoking such certification. The minority group members and/or women claiming ownership and control of a business enterprise which has had its certification as an MBE and/or WBE revoked, may request an appeal of this decision within thirty (30) days of the date of the notice of revocation. Such appeal must be conducted in accordance with procedures set forth in § 11-25 of these rules. If a request for an appeal is not made within the thirty (30) day period, the certification director's determination will be final and the business enterprise may not reapply for certification for two (2) years from the date of the notice of revocation provided, however, that if the facts and circumstances forming the basis of the revocation decision have changed significantly, the business enterprise may, at the discretion of the certification director, be granted permission to reapply sooner.
+(d) The certification director will notify, in writing, a certified business of the revocation of its certification as an MBE and/or WBE within fourteen (14) days of revoking such certification. The minority group members and/or women claiming ownership and control of a business enterprise which has had its certification as an MBE and/or WBE revoked, may request an appeal of this decision within thirty (30) days of the date of the notice of revocation. Such appeal must be conducted in accordance with procedures set forth in 66 RCNY § 11-25. If a request for an appeal is not made within the thirty (30) day period, the certification director's determination will be final and the business enterprise may not reapply for certification for two (2) years from the date of the notice of revocation provided, however, that if the facts and circumstances forming the basis of the revocation decision have changed significantly, the business enterprise may, at the discretion of the certification director, be granted permission to reapply sooner.
 
 (e) If at any time DSBS has reason to believe that an applicant or certified business has willfully and knowingly provided incorrect information or made false statements, it will refer the matter to the Department of Investigation for investigation. Falsification of any document by an applicant or a certified business may lead to the imposition of civil and criminal penalties as provided by law and contract, revocation of certification as an MBE and/or WBE and debarment from City contracts.
 
@@ -6801,7 +5387,7 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 (b) Eligibility. Firms certified as minority owned businesses and/or women owned businesses by other governmental entities must satisfy the following eligibility requirements to be recognized by the division as certified MBEs and/or WBEs by the city of New York:
 
-   (1) The business enterprise must be eligible under § 11-22 of these rules; and
+   (1) The business enterprise must be eligible under 66 RCNY § 11-22; and
 
    (2) The business enterprise must be (i) certified as an MBE and/or WBE by the New York State Department of Economic Development, Division of Minority and Women's Business Development pursuant to Article 15-A of the New York State Executive Law and any rules or regulations promulgated thereunder; or
 
@@ -6819,7 +5405,12 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 
 
-**Subchapter D: Participation By Minority-owned and Women-owned Business Enterprises In City Procurement**
+**Subchapter C: Participation by Minority-owned and Women-owned Business Enterprises in Procurements of the City of New York [Repealed]**
+
+
+
+
+**Subchapter D: Participation by Minority-owned and Women-owned Business Enterprises in City Procurement**
 
 
 
@@ -6828,89 +5419,89 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 As used in this subchapter, the following terms have the following meanings:
 
-   (1) "Agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
+(1) "Agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
-   (2) "Agency chief contracting officer" means the individual to whom an agency head has delegated authority to organize and supervise the agency's procurement activity.
+(2) "Agency chief contracting officer" means the individual to whom an agency head has delegated authority to organize and supervise the agency's procurement activity.
 
-   (3) "Availability rate" means the percentage of business enterprises within an industry classification that are owned by minorities, women or individuals who are socially and economically disadvantaged willing and able to perform agency contracts.
+(3) "Availability rate" means the percentage of business enterprises within an industry classification that are owned by minorities, women or individuals who are socially and economically disadvantaged willing and able to perform agency contracts.
 
-   (4) "Bidder" means any person submitting a bid or proposal in response to a solicitation for such bid or proposal from an agency.
+(4) "Bidder" means any person submitting a bid or proposal in response to a solicitation for such bid or proposal from an agency.
 
-   (5) "Bidders list" or "proposers list" means a list maintained by an agency that includes persons from whom bids or proposals can be solicited.
+(5) "Bidders list" or "proposers list" means a list maintained by an agency that includes persons from whom bids or proposals can be solicited.
 
-   (6) "City" means the city of New York.
+(6) "City" means the city of New York.
 
-   (7) "City chief procurement officer" means the individual to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers and any offices that have oversight responsibility for procurement.
+(7) "City chief procurement officer" means the individual to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers and any offices that have oversight responsibility for procurement.
 
-   (8) "Commercially useful function" means a real and actual service that is a distinct and verifiable element of the work called for in a contract. In determining whether an MBE, WBE or EBE is performing a commercially useful function, factors including but not limited to the following will be considered:
+(8) "Commercially useful function" means a real and actual service that is a distinct and verifiable element of the work called for in a contract. In determining whether an MBE, WBE or EBE is performing a commercially useful function, factors including but not limited to the following will be considered:
 
-(a) whether it has the skill and expertise to perform the work for which it is being utilized, and possesses all necessary licenses;
+   (a) whether it has the skill and expertise to perform the work for which it is being utilized, and possesses all necessary licenses;
 
-(b) whether it is in the business of performing, managing or supervising the work for which it has been certified and is being utilized; and
+   (b) whether it is in the business of performing, managing or supervising the work for which it has been certified and is being utilized; and
 
-(c) whether it purchases goods and/or services from another business and whether its participation in the contract would have the principal effect of allowing it to act as a middle person or broker in which case it may not be considered to be performing a commercially useful function for purposes of this section.
+   (c) whether it purchases goods and/or services from another business and whether its participation in the contract would have the principal effect of allowing it to act as a middle person or broker in which case it may not be considered to be performing a commercially useful function for purposes of this section.
 
-   (9) "Commissioner" means the commissioner of small business services or his or her designee or his or her successor in function.
+(9) "Commissioner" means the commissioner of small business services or his or her designee or his or her successor in function.
 
-   (10) "Construction" means construction, reconstruction, demolition, excavation, renovation, alteration, improvement, rehabilitation, or repair of any building, facility, physical structure of any kind.
+(10) "Construction" means construction, reconstruction, demolition, excavation, renovation, alteration, improvement, rehabilitation, or repair of any building, facility, physical structure of any kind.
 
-   (11) "Contract" means any agreement, purchase order or other instrument whereby the city is committed to expend or does expend funds in return for goods, professional services, standard services, or construction.
+(11) "Contract" means any agreement, purchase order or other instrument whereby the city is committed to expend or does expend funds in return for goods, professional services, standard services, or construction.
 
-   (12) "Contractor" means a person who has been awarded a contract by a city agency.
+(12) "Contractor" means a person who has been awarded a contract by a city agency.
 
-   (13) "Direct subcontractor" means a person who has entered into an agreement with a contractor to provide services or perform work required pursuant to a contract with a city agency.
+(13) "Direct subcontractor" means a person who has entered into an agreement with a contractor to provide services or perform work required pursuant to a contract with a city agency.
 
-   (14) "Director" means an individual designated by the mayor to perform the oversight functions of the director described in this title who either reports directly to the mayor or is a commissioner.
+(14) "Director" means an individual designated by the mayor to perform the oversight functions of the director described in this title who either reports directly to the mayor or is a commissioner.
 
-   (15) "Directory" means a list prepared by the division of firms certified pursuant to § 1304 of the charter.
+(15) "Directory" means a list prepared by the division of firms certified pursuant to § 1304 of the charter.
 
-   (16) "Division" means the division of economic and financial opportunity within the department of small business services.
+(16) "Division" means the division of economic and financial opportunity within the department of small business services.
 
-   (17) "EBE" means an emerging business enterprise certified in accordance with § 1304 of the charter.
+(17) "EBE" means an emerging business enterprise certified in accordance with § 1304 of the charter.
 
-   (18) "Geographic market of the city" means the following counties: Bronx, Kings, New York, Queens, Richmond, Nassau, Putnam, Rockland, Suffolk and Westchester within the state of New York; and Bergen, Hudson, and Passaic within the state of New Jersey.
+(18) "Geographic market of the city" means the following counties: Bronx, Kings, New York, Queens, Richmond, Nassau, Putnam, Rockland, Suffolk and Westchester within the state of New York; and Bergen, Hudson, and Passaic within the state of New Jersey.
 
-   (19) "Goal" means a numerical target.
+(19) "Goal" means a numerical target.
 
-   (20) "Graduate MBE," "graduate WBE" or "graduate EBE" means an MBE, WBE or EBE which must have been awarded contracts by one or more agencies within the past three years where the total city funding from the expense and capital budgets for such contracts was equal to or greater than fifty million dollars and whose size has exceeded the size standards established for its industry by the United States small business administration for three years.
+(20) "Graduate MBE," "graduate WBE" or "graduate EBE" means an MBE, WBE or EBE which must have been awarded contracts by one or more agencies within the past three years where the total city funding from the expense and capital budgets for such contracts was equal to or greater than fifty million dollars and whose size has exceeded the size standards established for its industry by the United States small business administration for three years.
 
-   (21) "Human services" means services provided to third parties, including social services such as day care, foster care, home care, homeless assistance, housing and shelter assistance, preventive services, youth services, and senior centers; health or medical services including those provided by health maintenance organizations; legal services; employment assistance services, vocational and education programs; and recreation programs.
+(21) "Human services" means services provided to third parties, including social services such as day care, foster care, home care, homeless assistance, housing and shelter assistance, preventive services, youth services, and senior centers; health or medical services including those provided by health maintenance organizations; legal services; employment assistance services, vocational and education programs; and recreation programs.
 
-   (22) "Indirect subcontractor" means a person who has entered into an agreement with a direct subcontractor to provide services or perform work required pursuant to the direct subcontractor's contract with a contractor.
+(22) "Indirect subcontractor" means a person who has entered into an agreement with a direct subcontractor to provide services or perform work required pursuant to the direct subcontractor's contract with a contractor.
 
-   (23) "Industry classification" means one of the following classifications:
+(23) "Industry classification" means one of the following classifications:
 
-      (a) construction;
+   (a) construction;
 
-      (b) professional services;
+   (b) professional services;
 
-      (c) standard services; and
+   (c) standard services; and
 
-      (d) goods.
+   (d) goods.
 
-   (24) "Joint venture" means an association, of limited scope and duration, between two or more persons who have entered into an agreement to perform and/or provide services required by a contract, in which each such person contributes property, capital, effort, skill and/or knowledge, and in which each such person is entitled to share in the profits and losses of the venture in reasonable proportion to the economic value of its contribution.
+(24) "Joint venture" means an association, of limited scope and duration, between two or more persons who have entered into an agreement to perform and/or provide services required by a contract, in which each such person contributes property, capital, effort, skill and/or knowledge, and in which each such person is entitled to share in the profits and losses of the venture in reasonable proportion to the economic value of its contribution.
 
-   (25) "MBE" means a minority-owned business enterprise certified in accordance with § 1304 of the charter.
+(25) "MBE" means a minority-owned business enterprise certified in accordance with § 1304 of the charter.
 
-   (26) "Minority group" means Black Americans; Asian Americans, and Hispanic Americans, provided that the commissioner is authorized to add additional groups to this definition upon a finding that there is statistically significant disparity between the availability of firms owned by individuals in such a group and the utilization of such firms in city procurement.
+(26) "Minority group" means Black Americans; Asian Americans, and Hispanic Americans, provided that the commissioner is authorized to add additional groups to this definition upon a finding that there is statistically significant disparity between the availability of firms owned by individuals in such a group and the utilization of such firms in city procurement.
 
-   (27) "Non-certified firm" means a business enterprise that has not been certified as an MBE, WBE or EBE in accordance with § 1304 of the charter.
+(27) "Non-certified firm" means a business enterprise that has not been certified as an MBE, WBE or EBE in accordance with § 1304 of the charter.
 
-   (28) "Person" means any business, individual, partnership, corporation, firm, company, or other form of doing business.
+(28) "Person" means any business, individual, partnership, corporation, firm, company, or other form of doing business.
 
-   (29) "Professional services" means services that require specialized skills and the exercise of judgment, including but not limited to accountants, lawyers, doctors, computer programmers and consultants, architectural and engineering services, and construction management services.
+(29) "Professional services" means services that require specialized skills and the exercise of judgment, including but not limited to accountants, lawyers, doctors, computer programmers and consultants, architectural and engineering services, and construction management services.
 
-   (30) "Qualified joint venture agreement" means a joint venture between one or more MBEs, WBEs, and/or EBEs and another person, in which the percentage of profit or loss to which the certified firm or firms is entitled or exposed for participation in the contract, as set forth in the joint venture agreement, is at least 25% of the total profit or loss.
+(30) "Qualified joint venture agreement" means a joint venture between one or more MBEs, WBEs, and/or EBEs and another person, in which the percentage of profit or loss to which the certified firm or firms is entitled or exposed for participation in the contract, as set forth in the joint venture agreement, is at least 25% of the total profit or loss.
 
-   (31) "Scope of work" means specific tasks required in a contract and/or services or goods that must be provided to perform specific tasks required in a contract.
+(31) "Scope of work" means specific tasks required in a contract and/or services or goods that must be provided to perform specific tasks required in a contract.
 
-   (32) "Socially and economically disadvantaged" refers to an individual who has experienced social disadvantage in American society as a result of causes not common to individuals who are not socially disadvantaged, and whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business.
+(32) "Socially and economically disadvantaged" refers to an individual who has experienced social disadvantage in American society as a result of causes not common to individuals who are not socially disadvantaged, and whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business.
 
-   (33) "Standard services" means services other than professional services and human services or services procured under a construction contract.
+(33) "Standard services" means services other than professional services and human services or services procured under a construction contract.
 
-   (34) "Utilization rate" means the percentage of total contract expenditures expended on contracts or subcontracts with firms that are owned by women, minorities, or individuals who are socially and economically disadvantaged, respectively, in one or more industry classifications.
+(34) "Utilization rate" means the percentage of total contract expenditures expended on contracts or subcontracts with firms that are owned by women, minorities, or individuals who are socially and economically disadvantaged, respectively, in one or more industry classifications.
 
-   (35) "WBE" means a women-owned business enterprise certified in accordance with § 1304 of the charter.
+(35) "WBE" means a women-owned business enterprise certified in accordance with § 1304 of the charter.
 
 
 
@@ -6920,44 +5511,7 @@ As used in this subchapter, the following terms have the following meanings:
 *§ 11-61 Citywide Goals.* ::
 
 
-(1)  The citywide contracting participation goals for MBEs, WBEs and EBEs, which may be met through awards of prime contracts or subcontracts as described in § 11-67 of this subchapter, are as follows:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-For construction contracts: 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Category:
-      -  
-      - Participation goal:
-    * - Black Americans
-      -  
-      - 8% of total annual agency expenditures on such contracts
-    * - Asian Americans
-      -  
-      - 8% of total annual agency expenditures on such contracts
-    * - Hispanic Americans
-      -  
-      - 4% of total annual agency expenditures on such contracts
-    * - Women
-      -  
-      - 18% of total annual agency expenditures on such contracts
-    * - Emerging
-      -  
-      - 6% of total annual agency expenditures on such contracts
-~
-
-
+(1)  The citywide contracting participation goals for MBEs, WBEs and EBEs, which may be met through awards of prime contracts or subcontracts as described in 66 RCNY § 11-67, are as follows:
 
  
 
@@ -6965,132 +5519,25 @@ For construction contracts: 
 .. list-table::
     :header-rows: 1
 
-    * - 
-~
-
-
-
-For professional services contracts: 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Category:
-      -  
-      - Participation goal:
-    * - Black Americans
-      -  
-      - 12% of total annual agency expenditures on such contracts
-    * - Hispanic Americans
-      -  
-      - 8% of total annual agency expenditures on such contracts
-    * - Women
-      -  
-      - 17% of total annual agency expenditures on such contracts
-    * - Emerging
-      -  
-      - 6% of total annual agency expenditures on such contracts
+    * - For construction contracts:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
+      - Participation goal:8% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contracts4% of total annual agency expenditures on such contracts18% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
+    * - For professional services contracts:Category:Black AmericansHispanic AmericansWomenEmerging
+      - Participation goal:12% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contracts17% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
+    * - For standard services contracts:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
+      - Participation goal:12% of total annual agency expenditures on such contracts3% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts10% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
+    * - For goods contracts under one hundred thousand dollars:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
+      - Participation goal:7% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contract5% of total annual agency expenditures on such contracts25% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
 ~
 
 
 
  
 
+        (2) (a) The division and the city chief procurement officer will develop a citywide utilization plan for the procurements of goods.
 
-.. list-table::
-    :header-rows: 1
+(b) Agencies will develop agency utilization plans pursuant to 66 RCNY § 11-64. The citywide goals will not be summarily adopted as goals for all annual agency utilization plans; rather, goals for such plans may be set at levels higher, lower, or the same as the citywide goals, subject to the approval of the commissioner as described in paragraph three of 66 RCNY § 11-64. When setting its goals, each agency must consider the citywide goals, the size and nature of its own procurement portfolio, and the availability of MBEs, WBEs and EBEs with the capacity to perform the specific types and scale of work for which the agency anticipates it will solicit procurements during the year. Agencies will seek to ensure substantial progress toward the attainment of these goals in as short a time as practicable.
 
-    * - 
-~
-
-
-
-For standard services contracts: 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Category:
-      -  
-      - Participation goal:
-    * - Black Americans
-      -  
-      - 12% of total annual agency expenditures on such contracts
-    * - Asian Americans
-      -  
-      - 3% of total annual agency expenditures on such contracts
-    * - Hispanic Americans
-      -  
-      - 6% of total annual agency expenditures on such contracts
-    * - Women
-      -  
-      - 10% of total annual agency expenditures on such contracts
-    * - Emerging
-      -  
-      - 6% of total annual agency expenditures on such contracts
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-For goods contracts under one hundred thousand dollars: 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Category:
-      -  
-      - Participation goal:
-    * - Black Americans
-      -  
-      - 7% of total annual agency expenditures on such contracts
-    * - Asian Americans
-      -  
-      - 8% of total annual agency expenditures on such contract
-    * - Hispanic Americans
-      -  
-      - 5% of total annual agency expenditures on such contracts
-    * - Women
-      -  
-      - 25% of total annual agency expenditures on such contracts
-    * - Emerging
-      -  
-      - 6% of total annual agency expenditures on such contracts
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-   (2) (a) The division and the city chief procurement officer will develop a citywide utilization plan for the procurements of goods.
-
-(b) Agencies will develop agency utilization plans pursuant to § 11-64 of this subchapter. The citywide goals will not be summarily adopted as goals for all annual agency utilization plans; rather, goals for such plans may be set at levels higher, lower, or the same as the citywide goals, subject to the approval of the commissioner as described in paragraph three of § 11-64 of this subchapter. When setting its goals, each agency must consider the citywide goals, the size and nature of its own procurement portfolio, and the availability of MBEs, WBEs and EBEs with the capacity to perform the specific types and scale of work for which the agency anticipates it will solicit procurements during the year. Agencies will seek to ensure substantial progress toward the attainment of these goals in as short a time as practicable.
-
-   (3) The citywide goals will not be summarily adopted as goals for individual procurements; rather, as set forth in § 11-66 of this subchapter, goals for such procurements may be set at levels higher, lower, or the same as the citywide goals. In setting such goals, each agency must take into account the citywide goals and the agency's annual utilization plan, the size and nature of the procurement, and the availability of MBEs, WBEs and EBEs with the capacity to perform the specific types and scale of work involved in its procurements.
+   (3) The citywide goals will not be summarily adopted as goals for individual procurements; rather, as set forth in 66 RCNY § 11-66, goals for such procurements may be set at levels higher, lower, or the same as the citywide goals. In setting such goals, each agency must take into account the citywide goals and the agency's annual utilization plan, the size and nature of the procurement, and the availability of MBEs, WBEs and EBEs with the capacity to perform the specific types and scale of work involved in its procurements.
 
    (4) a) No later than 2015, the commissioner, in consultation with the city chief procurement officer, will, for each industry classification and each minority group, review and compare the availability rates of firms owned by minorities and women to the utilization rates of such firms in agency contracts and direct subcontracts, and will on the basis of such review and any other relevant information, where appropriate, revise by rule the citywide participation goals set forth in this section. In making such revision, the commissioner will consider the extent to which discrimination continues to have an impact on the ability of minorities and women to compete for city contracts and subcontracts. The commissioner will submit the results of such review and any proposed revisions to the participation goals to the speaker of the council at least sixty days prior to publishing a proposed rule that would revise participation goals. Such review will thereafter be conducted at least once every two years.
 
@@ -7104,35 +5551,35 @@ For goods contracts under one hundred thousand dollars: 
 *§ 11-62 Responsibilities of the Division.* ::
 
 
-(1)  The division will create and maintain and periodically update directories by industry classification of MBEs, WBEs and EBEs which it will supply to all agencies, post on its website and on other relevant city websites and make available for dissemination and/or public inspection at its offices and other locations within each borough. In addition, the division will prepare, periodically update, and post on the division's website a directory of such city certified business enterprises for use by city agencies and contractors, which will include, but is not limited to, the following information for each such business enterprise, as applicable: (i) identification of the market sector in which the business enterprise operates; (ii) the bonding capacity of the business enterprise; (iii) the union affiliation, if any, of the business enterprise; (iv) the contract price and specific tasks performed by the business enterprise for its last three contracts; and (v) the renewal date for the business enterprise's certification.
+(1) The division will create and maintain and periodically update directories by industry classification of MBEs, WBEs and EBEs which it will supply to all agencies, post on its website and on other relevant city websites and make available for dissemination and/or public inspection at its offices and other locations within each borough. In addition, the division will prepare, periodically update, and post on the division's website a directory of such city certified business enterprises for use by city agencies and contractors, which will include, but is not limited to, the following information for each such business enterprise, as applicable: (i) identification of the market sector in which the business enterprise operates; (ii) the bonding capacity of the business enterprise; (iii) the union affiliation, if any, of the business enterprise; (iv) the contract price and specific tasks performed by the business enterprise for its last three contracts; and (v) the renewal date for the business enterprise's certification.
 
-   (2) The division will make its resources available to assist agencies and contractors in (i) determining the availability of MBEs, WBEs and EBEs to participate in their contracts as prime contractors and/or subcontractors; and (ii) identifying opportunities appropriate for participation by MBEs, WBEs and EBEs in contracts.
+(2) The division will make its resources available to assist agencies and contractors in (i) determining the availability of MBEs, WBEs and EBEs to participate in their contracts as prime contractors and/or subcontractors; and (ii) identifying opportunities appropriate for participation by MBEs, WBEs and EBEs in contracts.
 
-   (3) The division will develop and maintain relationships with organizations representing contractors, including MBEs, WBEs and EBEs, and solicit their support and assistance in efforts to increase participation of MBEs, WBEs and EBEs in city procurement.
+(3) The division will develop and maintain relationships with organizations representing contractors, including MBEs, WBEs and EBEs, and solicit their support and assistance in efforts to increase participation of MBEs, WBEs and EBEs in city procurement.
 
-   (4) The division will coordinate with city and state entities that maintain databases of MBEs, WBEs and EBEs and work to enhance city availability data and directories.
+(4) The division will coordinate with city and state entities that maintain databases of MBEs, WBEs and EBEs and work to enhance city availability data and directories.
 
-   (5) The division will keep agency M/WBE officers informed of conferences, contractor fairs, and other services that are available to assist them in pursuing the objectives of this section.
+(5) The division will keep agency M/WBE officers informed of conferences, contractor fairs, and other services that are available to assist them in pursuing the objectives of this section.
 
-   (6) The division will conduct, coordinate and facilitate technical assistance and educational programs for MBEs, WBEs and EBEs and other contractors designed to enhance participation of MBEs, WBEs and EBEs in city procurement. The division will further develop a clearinghouse of information on programs and services available to MBEs, WBEs and EBEs. The division will conduct meetings with MBEs, WBEs and EBEs to discuss what agencies look for in evaluating bids and proposals. The division will also educate prime contractors on opportunities to partner or subcontract with certified MBEs, WBEs and EBEs.
+(6) The division will conduct, coordinate and facilitate technical assistance and educational programs for MBEs, WBEs and EBEs and other contractors designed to enhance participation of MBEs, WBEs and EBEs in city procurement. The division will further develop a clearinghouse of information on programs and services available to MBEs, WBEs and EBEs. The division will conduct meetings with MBEs, WBEs and EBEs to discuss what agencies look for in evaluating bids and proposals. The division will also educate prime contractors on opportunities to partner or subcontract with certified MBEs, WBEs and EBEs.
 
-   (7) The division will develop standardized forms and reporting documents for agencies and contractors to facilitate the reporting requirements of this section.
+(7) The division will develop standardized forms and reporting documents for agencies and contractors to facilitate the reporting requirements of this section.
 
-   (8) The division will direct and assist agencies in their efforts to increase participation by MBEs, WBEs and EBEs in any city-operated financial, technical, and management assistance program.
+(8) The division will direct and assist agencies in their efforts to increase participation by MBEs, WBEs and EBEs in any city-operated financial, technical, and management assistance program.
 
-   (9) The division will study and recommend to the commissioner methods to streamline the M/WBE and EBE certification process.
+(9) The division will study and recommend to the commissioner methods to streamline the M/WBE and EBE certification process.
 
-   (10) Each fiscal year the division, in consultation with the city chief procurement officer, will audit at least 5% of all open contracts for which contractor utilization plans have been established in accordance with § 11-66 of this subchapter and 5% of all contracts awarded to MBEs, WBEs and EBEs to assess compliance with this subchapter. All solicitations for contracts for which contractor utilization plans are to be established will include notice of potential audit.
+(10) Each fiscal year the division, in consultation with the city chief procurement officer, will audit at least 5% of all open contracts for which contractor utilization plans have been established in accordance with 66 RCNY § 11-66 and 5% of all contracts awarded to MBEs, WBEs and EBEs to assess compliance with this subchapter. All solicitations for contracts for which contractor utilization plans are to be established will include notice of potential audit.
 
-   (11) The division will assist agencies in identifying and seeking ways to reduce or eliminate practices such as bonding requirements or delays in payment by prime contractors that may present barriers to competition by MBEs, WBEs and EBEs.
+(11) The division will assist agencies in identifying and seeking ways to reduce or eliminate practices such as bonding requirements or delays in payment by prime contractors that may present barriers to competition by MBEs, WBEs and EBEs.
 
-   (12) The division will encourage prime contractors to enter joint venture agreements with MBEs, WBEs and EBEs.
+(12) The division will encourage prime contractors to enter joint venture agreements with MBEs, WBEs and EBEs.
 
-   (13) The division will assist appropriate certified business enterprises in becoming prequalified for those categories of procurement for which they may be eligible and for which contracting agencies utilize prequalification in the procurement process;
+(13) The division will assist appropriate certified business enterprises in becoming prequalified for those categories of procurement for which they may be eligible and for which contracting agencies utilize prequalification in the procurement process;
 
-   (14) (a) The division will, upon reviewing applications for certification and recertification, determine whether a firm qualifies as a graduate MBE, WBE, or EBE.
+(14) (a) The division will, upon reviewing applications for certification and recertification, determine whether a firm qualifies as a graduate MBE, WBE, or EBE.
 
-(b) At any time more than two years after the division has determined that a firm qualifies as a graduate MBE, WBE or EBE, the firm may apply to have such designation lifted. The division will lift the designation if the firm demonstrates that it has not been awarded contracts by one or more agencies within the past three years where the total city funding from the expense and capital budgets for such contracts was equal to or greater than fifty million dollars and it has been below the size standards established by the United States small business administration for its industry for a period of two years or more.
+   (b) At any time more than two years after the division has determined that a firm qualifies as a graduate MBE, WBE or EBE, the firm may apply to have such designation lifted. The division will lift the designation if the firm demonstrates that it has not been awarded contracts by one or more agencies within the past three years where the total city funding from the expense and capital budgets for such contracts was equal to or greater than fifty million dollars and it has been below the size standards established by the United States small business administration for its industry for a period of two years or more.
 
 
 
@@ -7144,27 +5591,27 @@ For goods contracts under one hundred thousand dollars: 
 
 Each agency head will designate a deputy commissioner or other executive officer to act as the agency M/WBE officer who will be directly accountable to the agency head concerning the activities of the agency in carrying out its responsibilities pursuant to this section, including the responsibilities relating to EBE participation. The duties of the M/WBE officer will include, but not be limited to:
 
-   (1) creating the agency's utilization plan in accordance with § 11-64 of this subchapter;
+(1) creating the agency's utilization plan in accordance with 66 RCNY § 11-64;
 
-   (2) acting as the agency's liaison with the division;
+(2) acting as the agency's liaison with the division;
 
-   (3) acting as a liaison with organizations and/or associations of MBEs, WBEs and EBEs, informing such organizations and/or associations of the agency's procurement procedures, and advising them of future procurement opportunities;
+(3) acting as a liaison with organizations and/or associations of MBEs, WBEs and EBEs, informing such organizations and/or associations of the agency's procurement procedures, and advising them of future procurement opportunities;
 
-   (4) ensuring that agency bid solicitations and requests for proposals are sent to MBEs, WBEs and EBEs in a timely manner, consistent with this section and rules of the procurement policy board;
+(4) ensuring that agency bid solicitations and requests for proposals are sent to MBEs, WBEs and EBEs in a timely manner, consistent with this section and rules of the procurement policy board;
 
-   (5) referring MBEs, WBEs and EBEs to technical assistance services available from agencies and other organizations;
+(5) referring MBEs, WBEs and EBEs to technical assistance services available from agencies and other organizations;
 
-   (6) reviewing requests for waivers and/or modifications of participation goals and contractor utilization plans in accordance with § 11-66 of this subchapter;
+(6) reviewing requests for waivers and/or modifications of participation goals and contractor utilization plans in accordance with 66 RCNY § 11-66;
 
-   (7) working with the division and city chief procurement officer in creating directories of certified MBEs, WBEs and EBEs pursuant to § 11-68 of this subchapter. In fulfilling this duty, the agency M/WBE officer will track and record each contractor that is an MBE, WBE or EBE and each subcontractor hired pursuant to such officer's agency contracts that is an MBE, WBE or EBE, and will share such information with the director, the commissioner, and the city chief procurement officer;
+(7) working with the division and city chief procurement officer in creating directories of certified MBEs, WBEs and EBEs pursuant to 66 RCNY § 11-68. In fulfilling this duty, the agency M/WBE officer will track and record each contractor that is an MBE, WBE or EBE and each subcontractor hired pursuant to such officer's agency contracts that is an MBE, WBE or EBE, and will share such information with the director, the commissioner, and the city chief procurement officer;
 
-   (8) for contracts for which contractor utilization plans have been established pursuant to § 11-66 of this subchapter, monitoring each contractor's compliance with its utilization plan by appropriate means, which will include, but need not be limited to, job site inspections, contacting MBEs, WBEs and EBEs identified in the plan to confirm their participation, and auditing the contractor's books and records;
+(8) for contracts for which contractor utilization plans have been established pursuant to 66 RCNY § 11-66, monitoring each contractor's compliance with its utilization plan by appropriate means, which will include, but need not be limited to, job site inspections, contacting MBEs, WBEs and EBEs identified in the plan to confirm their participation, and auditing the contractor's books and records;
 
-   (9) monitoring the agency's procurement activities to ensure compliance with its agency utilization plan and progress towards the participation goals as established in such plan;
+(9) monitoring the agency's procurement activities to ensure compliance with its agency utilization plan and progress towards the participation goals as established in such plan;
 
-   (10) providing to the city chief procurement officer information for the reports required in § 11-69 of this subchapter and providing any other plans and/or reports required pursuant to this subchapter or requested by the director and/or the city chief procurement officer; and
+(10) providing to the city chief procurement officer information for the reports required in 66 RCNY § 11-69 and providing any other plans and/or reports required pursuant to this subchapter or requested by the director and/or the city chief procurement officer; and
 
-   (11) participating in meetings required pursuant to § 11-70 of this subchapter.
+(11) participating in meetings required pursuant to 66 RCNY § 11-70.
 
 
 
@@ -7174,27 +5621,27 @@ Each agency head will designate a deputy commissioner or other executive officer
 *§ 11-64 Agency Utilization Plans.* ::
 
 
-(1)  Beginning May 15, 2006, and on April 1 of each year thereafter, each agency which, during the fiscal year which ended on June 30 of the preceding year, has made procurements in excess of five million dollars, without counting procurements exempt pursuant to paragraph two of § 11-74 of this subchapter, must submit an agency utilization plan for the fiscal year commencing in July of the year when such plan is to be submitted to the commissioner. Upon approval by the commissioner such plan will be submitted to the speaker of the council. Each such plan will, at a minimum, include the following:
+(1) Beginning May 15, 2006, and on April 1 of each year thereafter, each agency which, during the fiscal year which ended on June 30 of the preceding year, has made procurements in excess of five million dollars, without counting procurements exempt pursuant to paragraph two of 66 RCNY § 11-74, must submit an agency utilization plan for the fiscal year commencing in July of the year when such plan is to be submitted to the commissioner. Upon approval by the commissioner such plan will be submitted to the speaker of the council. Each such plan will, at a minimum, include the following:
 
-(a) the agency's participation goals for MBEs, WBEs and EBEs for the year, provided however, that when setting its goals, each agency must consider the citywide goals, the size and nature of its own procurement portfolio (excluding contracts described in paragraph two of § 11-74 of this subchapter), and the availability of MBEs, WBEs and EBEs with the capacity to perform the specific types and scale of work for which the agency anticipates it will solicit procurements during the year;
+   (a) the agency's participation goals for MBEs, WBEs and EBEs for the year, provided however, that when setting its goals, each agency must consider the citywide goals, the size and nature of its own procurement portfolio (excluding contracts described in paragraph two of 66 RCNY § 11-74), and the availability of MBEs, WBEs and EBEs with the capacity to perform the specific types and scale of work for which the agency anticipates it will solicit procurements during the year;
 
-(b) an explanation for any agency goal that is different than the participation goal for the relevant group and industry classification as determined pursuant to § 11-61 of this subchapter;
+   (b) an explanation for any agency goal that is different than the participation goal for the relevant group and industry classification as determined pursuant to 66 RCNY § 11-61;
 
-(c) a list of the names and titles of agency personnel responsible for implementation of the agency utilization plan;
+   (c) a list of the names and titles of agency personnel responsible for implementation of the agency utilization plan;
 
-(d) methods and relevant activities proposed for achieving the agency's participation goals; and
+   (d) methods and relevant activities proposed for achieving the agency's participation goals; and
 
-(e) any other information which the agency or the commissioner deems relevant or necessary.
+   (e) any other information which the agency or the commissioner deems relevant or necessary.
 
-   (2) An agency utilization plan must set forth specific participation goals for MBEs, WBEs and/or EBEs for purchases of professional services, standard services, construction and goods valued at or below twenty thousand dollars, and for purchases of professional services, standard services, construction and goods valued at or below one hundred thousand dollars. When setting its goals for such purchases, in addition to the factors set forth in paragraph (1) of this section, each agency must specifically consider the potential for such purchases to provide opportunities for MBEs, WBEs and EBEs to develop greater capacity, thereby increasing competition for city procurements.
+(2) An agency utilization plan must set forth specific participation goals for MBEs, WBEs and/or EBEs for purchases of professional services, standard services, construction and goods valued at or below twenty thousand dollars, and for purchases of professional services, standard services, construction and goods valued at or below one hundred thousand dollars. When setting its goals for such purchases, in addition to the factors set forth in paragraph (1) of this section, each agency must specifically consider the potential for such purchases to provide opportunities for MBEs, WBEs and EBEs to develop greater capacity, thereby increasing competition for city procurements.
 
-   (3) An agency utilization plan may be amended from time to time to reflect changes in the agency's projected expenditures or other relevant circumstances and resulting changes in such agency's participation goals. Such amendments must be submitted to the commissioner, the city chief procurement officer and the speaker of the council at least thirty days prior to implementation.
+(3) An agency utilization plan may be amended from time to time to reflect changes in the agency's projected expenditures or other relevant circumstances and resulting changes in such agency's participation goals. Such amendments must be submitted to the commissioner, the city chief procurement officer and the speaker of the council at least thirty days prior to implementation.
 
-   (4) In planning its procurement activities over the course of the fiscal year, each agency subject to this section must consider how it will achieve the goals set forth in its approved agency utilization plan. This determination should be guided by the agency's knowledge of the market involved in the procurement, and the level of progress it has made during the fiscal year toward meeting its goal for the relevant category of procurement.
+(4) In planning its procurement activities over the course of the fiscal year, each agency subject to this section must consider how it will achieve the goals set forth in its approved agency utilization plan. This determination should be guided by the agency's knowledge of the market involved in the procurement, and the level of progress it has made during the fiscal year toward meeting its goal for the relevant category of procurement.
 
-   (5) Prior to approving individual agency utilization plans, the commissioner, in consultation with the city chief procurement officer, will consider whether such plans viewed in the aggregate establish any goals exceeding the corresponding citywide goals set forth in § 11-61 of this subchapter. If the commissioner, in consultation with the city chief procurement officer, finds any aggregated goals exceed the corresponding citywide goal, the commissioner will require agencies to adjust their goals so that plans, viewed in the aggregate, do not establish goals exceeding the citywide goals. Nothing in this paragraph will be construed to limit the award of contracts and subcontracts that may be made to MBEs, WBEs and EBEs without using goals.
+(5) Prior to approving individual agency utilization plans, the commissioner, in consultation with the city chief procurement officer, will consider whether such plans viewed in the aggregate establish any goals exceeding the corresponding citywide goals set forth in 66 RCNY § 11-61. If the commissioner, in consultation with the city chief procurement officer, finds any aggregated goals exceed the corresponding citywide goal, the commissioner will require agencies to adjust their goals so that plans, viewed in the aggregate, do not establish goals exceeding the citywide goals. Nothing in this paragraph will be construed to limit the award of contracts and subcontracts that may be made to MBEs, WBEs and EBEs without using goals.
 
-   (6) The commissioner, in consultation with the city chief procurement officer, will, no later than July 31 of each year, publish on the division's website a plan and schedule for each agency detailing the anticipated contracting actions for the upcoming fiscal year that form the basis for the agency utilization plan of each such agency. The plan and schedule will include information specific to each prospective invitation for bids, request for proposal, or other solicitation, including, but not limited to, the specific type and scale of the services and/or goods to be procured, the term of the proposed contract, the method of solicitation the agency intends to utilize, and the anticipated fiscal year quarter of the planned solicitation.
+(6) The commissioner, in consultation with the city chief procurement officer, will, no later than July 31 of each year, publish on the division's website a plan and schedule for each agency detailing the anticipated contracting actions for the upcoming fiscal year that form the basis for the agency utilization plan of each such agency. The plan and schedule will include information specific to each prospective invitation for bids, request for proposal, or other solicitation, including, but not limited to, the specific type and scale of the services and/or goods to be procured, the term of the proposed contract, the method of solicitation the agency intends to utilize, and the anticipated fiscal year quarter of the planned solicitation.
 
 
 
@@ -7204,21 +5651,21 @@ Each agency head will designate a deputy commissioner or other executive officer
 *§ 11-65 Achieving Agency Participation Goals.* ::
 
 
-(1)  Each agency head must be directly accountable for the goals set forth in his or her agency's utilization plan.
+(1) Each agency head must be directly accountable for the goals set forth in his or her agency's utilization plan.
 
-   (2) Each agency must make all reasonable efforts to meet the participation goals established in its agency utilization plan. Agencies will, at a minimum, use the following methods to achieve participation goals:
+(2) Each agency must make all reasonable efforts to meet the participation goals established in its agency utilization plan. Agencies will, at a minimum, use the following methods to achieve participation goals:
 
-(a) Agencies must engage in outreach activities to encourage MBEs, WBEs and EBEs to compete for all facets of their procurement activities, including contracts awarded by negotiated acquisition, emergency and sole source contracts, and each agency will seek to utilize MBEs, WBEs and/or EBEs for all types of goods, services and construction they procure.
+   (a) Agencies must engage in outreach activities to encourage MBEs, WBEs and EBEs to compete for all facets of their procurement activities, including contracts awarded by negotiated acquisition, emergency and sole source contracts, and each agency will seek to utilize MBEs, WBEs and/or EBEs for all types of goods, services and construction they procure.
 
-(b) Agencies must encourage eligible businesses to apply for certification as MBEs, WBEs and EBEs and inclusion in the directories of MBEs, WBEs and EBEs. Agencies must also encourage MBEs, WBEs and EBEs to have their names included on their bidders lists, seek pre-qualification where applicable, and compete for city business as contractors and subcontractors. Agencies are encouraged to advertise procurement opportunities in general circulation media, trade and professional association publications and small business media, and publications of minority and women's business organizations, and send written notice of specific procurement opportunities to minority and women's business organizations.
+   (b) Agencies must encourage eligible businesses to apply for certification as MBEs, WBEs and EBEs and inclusion in the directories of MBEs, WBEs and EBEs. Agencies must also encourage MBEs, WBEs and EBEs to have their names included on their bidders lists, seek pre-qualification where applicable, and compete for city business as contractors and subcontractors. Agencies are encouraged to advertise procurement opportunities in general circulation media, trade and professional association publications and small business media, and publications of minority and women's business organizations, and send written notice of specific procurement opportunities to minority and women's business organizations.
 
-(c) All agency solicitations for bids or proposals must include information referring potential bidders or proposers to the directories of MBEs, WBEs and EBEs prepared by the division.
+   (c) All agency solicitations for bids or proposals must include information referring potential bidders or proposers to the directories of MBEs, WBEs and EBEs prepared by the division.
 
-(d) In planning procurements, agencies must consider the effect of the scope, specifications and size of a contract on opportunities for participation by MBEs, WBEs and EBEs.
+   (d) In planning procurements, agencies must consider the effect of the scope, specifications and size of a contract on opportunities for participation by MBEs, WBEs and EBEs.
 
-(e) Prior to soliciting bids or proposals for contracts valued at over ten million dollars, other than contracts for capital projects valued at over twenty-five million dollars and contracts that are exempt pursuant to paragraph two of § 11-74 of this subchapter, an agency must submit the bid or proposal to the city chief procurement officer for a determination whether it is practicable to divide the proposed contract into smaller contracts and whether doing so will enhance competition for such contracts among MBEs, WBEs and EBEs and other potential bidders or proposers. The agency must follow the instructions of the city chief procurement officer in cases where he or she determines that it is both practicable and advantageous in light of cost and other relevant factors to divide such contracts into smaller contracts.
+   (e) Prior to soliciting bids or proposals for contracts valued at over ten million dollars, other than contracts for capital projects valued at over twenty-five million dollars and contracts that are exempt pursuant to paragraph two of 66 RCNY § 11-74, an agency must submit the bid or proposal to the city chief procurement officer for a determination whether it is practicable to divide the proposed contract into smaller contracts and whether doing so will enhance competition for such contracts among MBEs, WBEs and EBEs and other potential bidders or proposers. The agency must follow the instructions of the city chief procurement officer in cases where he or she determines that it is both practicable and advantageous in light of cost and other relevant factors to divide such contracts into smaller contracts.
 
-(f) Agencies must examine their internal procurement policies, procedures and practices and, where practicable, address those elements, if any, that may negatively affect participation of MBEs, WBEs and EBEs in city procurement.
+   (f) Agencies must examine their internal procurement policies, procedures and practices and, where practicable, address those elements, if any, that may negatively affect participation of MBEs, WBEs and EBEs in city procurement.
 
 
 
@@ -7228,59 +5675,57 @@ Each agency head will designate a deputy commissioner or other executive officer
 *§ 11-66 Participation Goals for Contracts for Construction and Professional and Standard Services.* ::
 
 
-   (1) Prior to issuing the solicitation of bids or proposals for individual contracts, agencies must establish participation goals for MBEs, WBEs and/or EBEs. Such goals may be greater than, less than or the same as the relevant citywide goal or goals established pursuant to § 11-61 of this subchapter. Taking into account the factors listed in this subdivision, an agency may establish a goal for a procurement that may be achieved by a combination of prime contract and subcontract dollars, a combination of construction and services performed pursuant to the contract, and/or a combination of MBEs, WBEs and/or EBEs. Alternatively, an agency may establish specific goals for particular types of services, and/or goals for particular types of certified firms. In determining the participation goals for a particular contract, an agency must consider the following factors:
+(1) Prior to issuing the solicitation of bids or proposals for individual contracts, agencies must establish participation goals for MBEs, WBEs and/or EBEs. Such goals may be greater than, less than or the same as the relevant citywide goal or goals established pursuant to 66 RCNY § 11-61. Taking into account the factors listed in this subdivision, an agency may establish a goal for a procurement that may be achieved by a combination of prime contract and subcontract dollars, a combination of construction and services performed pursuant to the contract, and/or a combination of MBEs, WBEs and/or EBEs. Alternatively, an agency may establish specific goals for particular types of services, and/or goals for particular types of certified firms. In determining the participation goals for a particular contract, an agency must consider the following factors:
 
-(a) the scope of work;
+   (a) the scope of work;
 
-(b) the availability of MBEs, WBEs and EBEs able to perform the particular tasks required in the contract;
+   (b) the availability of MBEs, WBEs and EBEs able to perform the particular tasks required in the contract;
 
-(c) the extent to which the type and scale of work involved in the contract present prime contracting and subcontracting opportunities for amounts within the capacity of MBEs, WBEs and EBEs;
+   (c) the extent to which the type and scale of work involved in the contract present prime contracting and subcontracting opportunities for amounts within the capacity of MBEs, WBEs and EBEs;
 
-(d) the agency's progress to date toward meeting its annual participation goals through race-neutral, gender-neutral and other means, and the agency's expectations as to the effect such methods will have on participation of MBEs, WBEs and EBEs in the agency's future contracts; and
+   (d) the agency's progress to date toward meeting its annual participation goals through race-neutral, gender-neutral and other means, and the agency's expectations as to the effect such methods will have on participation of MBEs, WBEs and EBEs in the agency's future contracts; and
 
-(e) any other factors the contracting agency deems relevant.
+   (e) any other factors the contracting agency deems relevant.
 
-   (2) A contracting agency shall not be required to establish participation goals
+(2) A contracting agency shall not be required to establish participation goals (i) for procurements described in 66 RCNY § 11-74; or (ii) when the agency has already attained the relevant goal in its annual utilization plan, or expects that it will attain such goal without the use of such participation goals.
 
-      (i) for procurements described in § 11-74 of this subchapter; or
+(3) For each contract in which a contracting agency has established participation goals, such agency shall state in the solicitation for such contract that bidders and/or proposers shall be required to agree as a material term of the contract that the contractor must meet the participation goals unless such goals are waived or modified by the agency in accordance with this section. An agency must permit a contractor that is an MBE, WBE or EBE to count its own participation toward fulfillment of the relevant participation goal, provided that the agency has determined the value of such a contractor's participation by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors. An agency must permit a contractor that is a qualified joint venture to count a percentage of its own participation toward fulfillment of the relevant participation goal. The agency must determine the value of such a contractor's participation by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors, and then multiplying the remainder by the percentage to be applied to total profit to determine the amount to which an MBE, WBE or EBE is entitled pursuant to the joint venture agreement. Notwithstanding any provision of this paragraph to the contrary, a contractor's achievement of participation goals must be determined as described in paragraph two of 66 RCNY § 11-67.
 
-      (ii) when the agency has already attained the relevant goal in its annual utilization plan, or expects that it will attain such goal without the use of such participation goals.
+(4) For each contract in which participation goals are established, the agency must include in its solicitation and/or bidding materials, a referral to the directories prepared by the division pursuant to 66 RCNY § 11-62.
 
-   (3) For each contract in which a contracting agency has established participation goals, such agency shall state in the solicitation for such contract that bidders and/or proposers shall be required to agree as a material term of the contract that the contractor must meet the participation goals unless such goals are waived or modified by the agency in accordance with this section. An agency must permit a contractor that is an MBE, WBE or EBE to count its own participation toward fulfillment of the relevant participation goal, provided that the agency has determined the value of such a contractor's participation by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors. An agency must permit a contractor that is a qualified joint venture to count a percentage of its own participation toward fulfillment of the relevant participation goal. The agency must determine the value of such a contractor's participation by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors, and then multiplying the remainder by the percentage to be applied to total profit to determine the amount to which an MBE, WBE or EBE is entitled pursuant to the joint venture agreement. Notwithstanding any provision of this paragraph to the contrary, a contractor's achievement of participation goals must be determined as described in paragraph two of § 11-67 of this subchapter.
+(5) For each contract for which participation goals are established the contractor must submit with its bid or proposal a utilization plan indicating:
 
-   (4) For each contract in which participation goals are established, the agency must include in its solicitation and/or bidding materials, a referral to the directories prepared by the division pursuant to § 11-62 of this subchapter.
+   (a) whether the contractor is an MBE, WBE, EBE, or a qualified joint venture;
 
-   (5) For each contract for which participation goals are established the contractor must submit with its bid or proposal a utilization plan indicating:
+   (b) the percentage of work it intends to award to direct subcontractors; and
 
-(a) whether the contractor is an MBE, WBE, EBE, or a qualified joint venture;
+   (c) in cases where the contractor intends to award direct subcontracts, a description of the type and dollar value of work designated for participation by MBEs, WBEs and/or EBEs, and the time frames in which such work is scheduled to begin and end. When the contractor utilization plan indicates that the bidder or proposer does not intend to meet the participation goals, the bid or proposal will not be deemed responsive unless the agency has granted a pre-award request for change pursuant to subdivision 11 of this section.
 
-(b) the percentage of work it intends to award to direct subcontractors; and
+(6) (a) For each contract for which a contractor utilization plan has been submitted, the contracting agency must require that within thirty days of the issuance of notice to proceed, and at least once per year thereafter, the contractor submit a list of persons to which it intends to award subcontracts within the next twelve months, and a written confirmation that the contractor has notified each MBE, WBE or EBE included in such list. For multi-year contracts, the contractor must submit such a list of persons and written confirmation of notification to the agency annually. In the event that a contracting agency disapproves a contractor's selection of a subcontractor or subcontractors, the contracting agency must allow such contractor a reasonable time to propose alternate subcontractors.
 
-(c) in cases where the contractor intends to award direct subcontracts, a description of the type and dollar value of work designated for participation by MBEs, WBEs and/or EBEs, and the time frames in which such work is scheduled to begin and end. When the contractor utilization plan indicates that the bidder or proposer does not intend to meet the participation goals, the bid or proposal will not be deemed responsive unless the agency has granted a pre-award request for change pursuant to subdivision 11 of this section.
+   (b) The contracting agency may also require the contractor to report periodically about the contracts awarded by its direct subcontractors to indirect subcontractors.
 
-   (6) a) For each contract for which a contractor utilization plan has been submitted, the contracting agency must require that within thirty days of the issuance of notice to proceed, and at least once per year thereafter, the contractor submit a list of persons to which it intends to award subcontracts within the next twelve months, and a written confirmation that the contractor has notified each MBE, WBE or EBE included in such list. For multi-year contracts, the contractor must submit such a list of persons and written confirmation of notification to the agency annually. In the event that a contracting agency disapproves a contractor's selection of a subcontractor or subcontractors, the contracting agency must allow such contractor a reasonable time to propose alternate subcontractors.
+(7) For each contract for which a contractor utilization plan has been submitted, the contractor must, with each voucher for payment, and/or periodically as the agency may require, submit statements, certified under penalty of perjury, which must include, but not be limited to, the total amount the contractor paid to its direct subcontractors, and, where applicable pursuant to subparagraph (l) of paragraph (1) of 66 RCNY § 11-67, the total amount direct subcontractors paid to indirect subcontractors, the names, addresses and contact numbers of each MBE, WBE or EBE hired as a subcontractor by the contractor or any of the contractor's direct subcontractors, as well as the dates and amounts paid to each MBE, WBEs or EBEs. The contractor must also submit, along with its voucher for final payment, the total amount it paid to subcontractors, and, where applicable pursuant to subparagraph (l) of paragraph (1) of 66 RCNY § 11-67, the total amount its direct subcontractors paid directly to their indirect subcontractors; and a final list, certified under penalty of perjury, which must include the name, address and contact information of each subcontractor that is an MBE, WBE or EBE, the work performed by, and the dates and amounts paid to each.
 
-(b) The contracting agency may also require the contractor to report periodically about the contracts awarded by its direct subcontractors to indirect subcontractors.
+(8) If payments made to, or work performed by, MBEs, WBEs or EBEs are less than the amount specified in the contractor's utilization plan, the agency must take appropriate action in accordance with 66 RCNY § 11-72, unless the contractor has obtained a modification of its utilization plan pursuant to paragraph 12 of this section.
 
-   (7) For each contract for which a contractor utilization plan has been submitted, the contractor must, with each voucher for payment, and/or periodically as the agency may require, submit statements, certified under penalty of perjury, which must include, but not be limited to, the total amount the contractor paid to its direct subcontractors, and, where applicable pursuant to subparagraph (l) of paragraph (1) of § 11-67 of this subchapter, the total amount direct subcontractors paid to indirect subcontractors, the names, addresses and contact numbers of each MBE, WBE or EBE hired as a subcontractor by the contractor or any of the contractor's direct subcontractors, as well as the dates and amounts paid to each MBE, WBEs or EBEs. The contractor must also submit, along with its voucher for final payment, the total amount it paid to subcontractors, and, where applicable pursuant to subparagraph (l) of paragraph (1) of § 11-67 of this subchapter, the total amount its direct subcontractors paid directly to their indirect subcontractors; and a final list, certified under penalty of perjury, which must include the name, address and contact information of each subcontractor that is an MBE, WBE or EBE, the work performed by, and the dates and amounts paid to each.
+(9) When advertising a solicitation for bids or proposals for a contract for which a participation goal has been established, the agency must include in the advertisement a general statement that the contract will be subject to participation goals for MBEs, WBEs and/or EBEs.
 
-   (8) If payments made to, or work performed by, MBEs, WBEs or EBEs are less than the amount specified in the contractor's utilization plan, the agency must take appropriate action in accordance with § 11-72 of this subchapter, unless the contractor has obtained a modification of its utilization plan pursuant to paragraph 12 of this section.
+(10) In the event that a contractor with a contract that includes a contractor utilization plan submits a request for a change order the value of which exceeds the greater of ten percent of such contract or $500,000, the agency must review the scope of work for the contract, and the scale and types of work involved in the change order, and determine whether the participation goals should be modified.
 
-   (9) When advertising a solicitation for bids or proposals for a contract for which a participation goal has been established, the agency must include in the advertisement a general statement that the contract will be subject to participation goals for MBEs, WBEs and/or EBEs.
+(11) Requests from bidders or proposers for changes in participation goals.
 
-   (10) In the event that a contractor with a contract that includes a contractor utilization plan submits a request for a change order the value of which exceeds the greater of ten percent of such contract or $500,000, the agency must review the scope of work for the contract, and the scale and types of work involved in the change order, and determine whether the participation goals should be modified.
+   (a) A bidder or proposer may request that an agency change the participation goal or goals established for the procurement on the grounds that goals are unreasonable in light of the availability of certified firms to perform the services required, or by demonstrating that it has legitimate business reasons for proposing a lower level of subcontracting in its utilization plan.
 
-   (11) Requests from bidders or proposers for changes in participation goals.
+   (b) If the contracting agency determines that the participation goals established for the procurement are unreasonable in light of the availability of certified firms to perform the services required, it must revise the solicitation and extend the deadline for bids and proposals.
 
-(a) A bidder or proposer may request that an agency change the participation goal or goals established for the procurement on the grounds that goals are unreasonable in light of the availability of certified firms to perform the services required, or by demonstrating that it has legitimate business reasons for proposing a lower level of subcontracting in its utilization plan.
+   (c) Subject to paragraph (d) of this section, the contracting agency may grant a full or partial waiver of the participation goals to a bidder or proposer who demonstrates that it has legitimate business reasons for proposing the level of subcontracting in its utilization plan. The contracting agency will make its determination in light of factors that must include, but not be limited to, whether the bidder or proposer has the capacity and the bona fide intention to perform the contract without any subcontracting, or to perform the contract without awarding the amount of subcontracts represented by the participation goals. In making such determination, the agency may consider whether the utilization plan is consistent with past subcontracting practices of the bidder or proposer, whether the bidder or proposer has made efforts to form a joint venture with a certified firm, and whether the bidder or proposer has made good faith efforts to identify portions of the contract that it intends to subcontract. The city chief contracting officer will notify the council of any such waiver granted with respect to a registered contract in the quarterly report required pursuant to 66 RCNY § 11-69.
 
-(b) If the contracting agency determines that the participation goals established for the procurement are unreasonable in light of the availability of certified firms to perform the services required, it must revise the solicitation and extend the deadline for bids and proposals.
+   (d) The agency M/WBE officer shall provide written notice of requests for a full or partial waiver of the participation goals to the division and the city chief procurement officer and will not approve any such request without the approval of the city chief procurement officer, provided that the city chief procurement officer, upon adequate assurances of an agency's ability to administer its utilization plan in accordance with the provisions of this section, may determine that further approval from the city chief procurement officer is not required with respect to such requests for an agency's contracts or particular categories of an agency's contracts. The city chief procurement officer will notify the speaker of the council and the division in writing in the quarterly report required pursuant to 66 RCNY § 11-69 following the registration of the contract for which the agency granted a request for a full or partial waiver of a participation goal, provided that where an agency has been authorized to grant waivers without approval of the chief procurement officer, such notice will be provided to the speaker of the council and the division by the agency. Such notification will include, but not be limited to, the name of the contractor, the original participation goal, the waiver request, including all documentation, and an explanation for the approval of such request.
 
-(c) Subject to paragraph (d) of this section, the contracting agency may grant a full or partial waiver of the participation goals to a bidder or proposer who demonstrates that it has legitimate business reasons for proposing the level of subcontracting in its utilization plan. The contracting agency will make its determination in light of factors that must include, but not be limited to, whether the bidder or proposer has the capacity and the bona fide intention to perform the contract without any subcontracting, or to perform the contract without awarding the amount of subcontracts represented by the participation goals. In making such determination, the agency may consider whether the utilization plan is consistent with past subcontracting practices of the bidder or proposer, whether the bidder or proposer has made efforts to form a joint venture with a certified firm, and whether the bidder or proposer has made good faith efforts to identify portions of the contract that it intends to subcontract. The city chief contracting officer will notify the council of any such waiver granted with respect to a registered contract in the quarterly report required pursuant to § 11-69 of this subchapter.
+(12) Modification of utilization plans at contractor's request or agency's initiative.
 
-(d) The agency M/WBE officer shall provide written notice of requests for a full or partial waiver of the participation goals to the division and the city chief procurement officer and will not approve any such request without the approval of the city chief procurement officer, provided that the city chief procurement officer, upon adequate assurances of an agency's ability to administer its utilization plan in accordance with the provisions of this section, may determine that further approval from the city chief procurement officer is not required with respect to such requests for an agency's contracts or particular categories of an agency's contracts. The city chief procurement officer will notify the speaker of the council and the division in writing in the quarterly report required pursuant to § 11-69 of this subchapter following the registration of the contract for which the agency granted a request for a full or partial waiver of a participation goal, provided that where an agency has been authorized to grant waivers without approval of the chief procurement officer, such notice will be provided to the speaker of the council and the division by the agency. Such notification will include, but not be limited to, the name of the contractor, the original participation goal, the waiver request, including all documentation, and an explanation for the approval of such request.
-
-   (12) Modification of utilization plans at contractor's request or agency's initiative. A contractor may request modification of its utilization plan after the award of a contract. Subject to paragraph (b) of this section, an agency may grant such request if it determines that such contractor has established, with appropriate documentary and other evidence, that it made all reasonable, good faith efforts to meet the goals set by the agency for the contract. In making such determination, the agency will consider evidence of the following efforts, as applicable, along with any other relevant factors:
+   (a) A contractor may request modification of its utilization plan after the award of a contract. Subject to paragraph (b) of this section, an agency may grant such request if it determines that such contractor has established, with appropriate documentary and other evidence, that it made all reasonable, good faith efforts to meet the goals set by the agency for the contract. In making such determination, the agency will consider evidence of the following efforts, as applicable, along with any other relevant factors:
 
       (i) The contractor advertised opportunities to participate in the contract, where appropriate, in general circulation media, trade and professional association publications and small business media, and publications of minority and women's business organizations;
 
@@ -7306,37 +5751,37 @@ Each agency head will designate a deputy commissioner or other executive officer
 
       (xii) The contractor made efforts to assist interested MBEs, WBEs and/or EBEs in obtaining necessary equipment, supplies, materials, or related assistance or services.
 
-(b) The agency M/WBE officer must provide written notice of requests for such modifications to the division and the city chief procurement officer and will not approve any such request for modification without the approval of the city chief procurement officer, provided that the city chief procurement officer, upon adequate assurances of an agency's ability to administer its utilization plan in accordance with the provisions of this section, may determine that further approval from the city chief procurement officer is not required with respect to such requests for an agency's contracts or particular categories of an agency's contracts. The city chief procurement officer, will notify the speaker of the council and the division in writing within seven days of the approval of a request for modification of a utilization plan, provided that where an agency has been authorized to grant modifications without approval of the chief procurement officer, such notice will be provided to the speaker of the council and the division by the agency. Such notification must include, but not be limited to, the name of the contractor, the original utilization plan, the modification request, including all documentation, and an explanation for the approval of such request.
+   (b) The agency M/WBE officer must provide written notice of requests for such modifications to the division and the city chief procurement officer and will not approve any such request for modification without the approval of the city chief procurement officer, provided that the city chief procurement officer, upon adequate assurances of an agency's ability to administer its utilization plan in accordance with the provisions of this section, may determine that further approval from the city chief procurement officer is not required with respect to such requests for an agency's contracts or particular categories of an agency's contracts. The city chief procurement officer, will notify the speaker of the council and the division in writing within seven days of the approval of a request for modification of a utilization plan, provided that where an agency has been authorized to grant modifications without approval of the chief procurement officer, such notice will be provided to the speaker of the council and the division by the agency. Such notification must include, but not be limited to, the name of the contractor, the original utilization plan, the modification request, including all documentation, and an explanation for the approval of such request.
 
-(c) An agency may modify the participation goals established for a procurement when the agency has changed the scope of the work in a manner that affects the scale and types of work that the contractor indicated in its contractor utilization plan would be awarded to subcontractors.
+   (c) An agency may modify the participation goals established for a procurement when the agency has changed the scope of the work in a manner that affects the scale and types of work that the contractor indicated in its contractor utilization plan would be awarded to subcontractors.
 
-(d) The agency M/WBE officer will provide written notice to the contractor of its determination that must include the reasons for such determination.
+   (d) The agency M/WBE officer will provide written notice to the contractor of its determination that must include the reasons for such determination.
 
-   (13) Substitution of the MBE, WBE and/or EBE subcontractor whose participation was necessary to achieve a participation goal will be permitted only with approval of the contracting agency, and only in the following circumstances:
+(13) Substitution of the MBE, WBE and/or EBE subcontractor whose participation was necessary to achieve a participation goal will be permitted only with approval of the contracting agency, and only in the following circumstances:
 
-      (A) Unavailability after receipt of reasonable notice to proceed;
+   (a) Unavailability after receipt of reasonable notice to proceed;
 
-      (B) Poor performance;
+   (b) Poor performance;
 
-      (C) Financial incapacity;
+   (c) Financial incapacity;
 
-      (D) Refusal by the subcontractor to honor the bid or proposal price or scope;
+   (d) Refusal by the subcontractor to honor the bid or proposal price or scope;
 
-      (E) Mistake of fact or law about the elements of the scope of work of a solicitation where a reasonable price cannot be agreed;
+   (e) Mistake of fact or law about the elements of the scope of work of a solicitation where a reasonable price cannot be agreed;
 
-      (F) Failure of the subcontractor to meet insurance, licensing, or bonding requirements;
+   (f) Failure of the subcontractor to meet insurance, licensing, or bonding requirements;
 
-      (G) The subcontractor's withdrawal of its bid or proposal;
+   (g) The subcontractor's withdrawal of its bid or proposal;
 
-      (H) Revocation of the subcontractor's certification as an MBE, WBE or EBE;
+   (h) Revocation of the subcontractor's certification as an MBE, WBE or EBE;
 
-      (I) The contractor becomes aware of information negatively reflecting on the subcontractor's business integrity;
+   (i) The contractor becomes aware of information negatively reflecting on the subcontractor's business integrity;
 
-      (J) Other circumstances allowed by the agency after consultation with the division.
+   (j) Other circumstances allowed by the agency after consultation with the division.
 
-   Where the contractor has established the basis for substitution to the satisfaction of the contract compliance officer, it must make good faith efforts to substitute with a subcontractor which can be counted toward achievement of the relevant goal. If the contractor plans to hire a subcontractor on any scope of work that was not previously disclosed in the compliance plan, the contractor must obtain approval of the agency M/WBE officer and must make good faith efforts to ensure that MBEs, WBEs and/or EBEs have a reasonable opportunity to bid on the new scope of work.
+Where the contractor has established the basis for substitution to the satisfaction of the contract compliance officer, it must make good faith efforts to substitute with a subcontractor which can be counted toward achievement of the relevant goal. If the contractor plans to hire a subcontractor on any scope of work that was not previously disclosed in the compliance plan, the contractor must obtain approval of the agency M/WBE officer and must make good faith efforts to ensure that MBEs, WBEs and/or EBEs have a reasonable opportunity to bid on the new scope of work.
 
-   (14) For each contract in which a contracting agency has established participation goals, the agency will evaluate and assess the contractor's performance in meeting each such goal. Such evaluation and assessment must be a part of the contractor's overall contract performance evaluation required pursuant to § 333 of the charter.
+(14) For each contract in which a contracting agency has established participation goals, the agency will evaluate and assess the contractor's performance in meeting each such goal. Such evaluation and assessment must be a part of the contractor's overall contract performance evaluation required pursuant to § 333 of the charter.
 
 
 
@@ -7400,11 +5845,11 @@ Whenever an agency solicits bids or proposals for small purchases pursuant to se
 *§ 11-69 Compliance Reporting.* ::
 
 
-(1)  The city chief procurement officer, in consultation with the division, will prepare and submit quarterly reports to the speaker of the council as described in this section. Preliminary reports containing information for the fiscal year in progress will be submitted to the speaker of the council by January first, April first, and July first of each year, and a final report containing information for the preceding fiscal year will be submitted to the speaker of the council by October first of each year. The reports, which will also be posted on the division's website, must contain the following information, disaggregated by agency:
+(1) The city chief procurement officer, in consultation with the division, will prepare and submit quarterly reports to the speaker of the council as described in this section. Preliminary reports containing information for the fiscal year in progress will be submitted to the speaker of the council by January first, April first, and July first of each year, and a final report containing information for the preceding fiscal year will be submitted to the speaker of the council by October first of each year. The reports, which will also be posted on the division's website, must contain the following information, disaggregated by agency:
 
-(a) the number and total dollar value of contracts awarded, disaggregated by industry classification and size of contract, including but not limited to, contracts valued at or below twenty thousand dollars, contracts valued above twenty thousand dollars and at or below one hundred thousand dollars, contracts valued above one hundred thousand dollars and at or below one million dollars, contracts valued above one million dollars and at or below five million dollars, contracts valued above five million dollars and at or below twenty five million dollars, and contracts valued above twenty five million dollars;
+   (a) the number and total dollar value of contracts awarded, disaggregated by industry classification and size of contract, including but not limited to, contracts valued at or below twenty thousand dollars, contracts valued above twenty thousand dollars and at or below one hundred thousand dollars, contracts valued above one hundred thousand dollars and at or below one million dollars, contracts valued above one million dollars and at or below five million dollars, contracts valued above five million dollars and at or below twenty five million dollars, and contracts valued above twenty five million dollars;
 
-(b) for those contracts for which an agency set participation goals in accordance with § 11-66 of this subchapter:
+   (b) for those contracts for which an agency set participation goals in accordance with 66 RCNY § 11-66:
 
       (i) the number and total dollar amount of such contracts disaggregated by industry classification, size of contract and status as MBE, WBE, EBE, or non-certified firm, and further disaggregated by minority and gender group, and the number and dollar value of such contracts that were awarded to firms that are certified both as MBEs and WBEs;
 
@@ -7412,29 +5857,29 @@ Whenever an agency solicits bids or proposals for small purchases pursuant to se
 
       (iii) the number and total dollar value of subcontracts approved during the reporting period that were entered into pursuant to contracts for which the agency has established participation requirements under this section (including both contracts awarded during the current reporting period and those awarded in earlier reporting periods that remain open during the current reporting period), and the number and total dollar amount of such subcontracts awarded to MBEs, WBEs and EBEs, disaggregated by minority and gender group, size of subcontract and industry classification, and the number and dollar value of such subcontracts that were awarded to firms that are certified both as MBEs and WBEs;
 
-      (iv) a list of the requests for full or partial waivers of participation requirements for such contracts made pursuant to paragraph 11 of § 11-66 of this subchapter and the determination made with respect to such requests, and the number and dollar amount of those contracts for which such waivers were granted, disaggregated by industry classifications; and
+      (iv) a list of the requests for full or partial waivers of participation requirements for such contracts made pursuant to paragraph 11 of 66 RCNY § 11-66 and the determination made with respect to such requests, and the number and dollar amount of those contracts for which such waivers were granted, disaggregated by industry classifications; and
 
-      (v) a list of the requests for modification of participation requirements for such contracts made pursuant to subdivision 12 of § 11-66 of this subchapter and the determinations made with respect to such requests, and the number and dollar amount of those contracts for which such modifications were granted, disaggregated by industry classification;
+      (v) a list of the requests for modification of participation requirements for such contracts made pursuant to subdivision 12 of 66 RCNY § 11-66 and the determinations made with respect to such requests, and the number and dollar amount of those contracts for which such modifications were granted, disaggregated by industry classification;
 
-(c) a detailed list of each complaint received pursuant to subdivision 1 of § 11-72 of this subchapter which will, at a minimum, include the nature of each complaint and the action taken in investigating and addressing such complaint including whether and in what manner the enforcement provisions of § 11-72 of this subchapter were invoked and the remedies applied;
+   (c) a detailed list of each complaint received pursuant to subdivision 1 of 66 RCNY § 11-72 which will, at a minimum, include the nature of each complaint and the action taken in investigating and addressing such complaint including whether and in what manner the enforcement provisions of 66 RCNY § 11-72 were invoked and the remedies applied;
 
-(d) a detailed list of all non-compliance findings made pursuant to subdivision 4 of § 11-72 of this subchapter and actions taken in response to such findings;
+   (d) a detailed list of all non-compliance findings made pursuant to subdivision 4 of 66 RCNY § 11-72 and actions taken in response to such findings;
 
-(e) the number of firms certified or recertified in accordance with § 1304 of the charter during the six months immediately preceding such report;
+   (e) the number of firms certified or recertified in accordance with § 1304 of the charter during the six months immediately preceding such report;
 
-(f) the number and percentage of contracts audited pursuant to subdivision 10 of § 11-62 of this subchapter and a summary of the results of each audit;
+   (f) the number and percentage of contracts audited pursuant to subdivision 10 of 66 RCNY § 11-62 and a summary of the results of each audit;
 
-(g) a summary of efforts to reduce or eliminate barriers to competition as required pursuant to paragraph 11 of § 11-62 of this subchapter;
+   (g) a summary of efforts to reduce or eliminate barriers to competition as required pursuant to paragraph 11 of 66 RCNY § 11-62;
 
-(h) a list of all solicitations submitted to the city chief procurement officer pursuant to paragraph e of subdivision 2 of § 11-65 of this subchapter and a summary of the determination made regarding each such submission; and
+   (h) a list of all solicitations submitted to the city chief procurement officer pursuant to paragraph e of subdivision 2 of 66 RCNY § 11-65 and a summary of the determination made regarding each such submission; and
 
-(i) any other information as may be required by the director and/or the commissioner.
+   (i) any other information as may be required by the director and/or the commissioner.
 
-   (2) The annual reports submitted in October will, in addition, contain a determination made by the director and the commissioner, as to whether each agency has made substantial progress toward achieving its utilization goals and whether the city has made substantial progress toward achieving the citywide goals established pursuant to § 11-61 of this subchapter.
+(2) The annual reports submitted in October will, in addition, contain a determination made by the director and the commissioner, as to whether each agency has made substantial progress toward achieving its utilization goals and whether the city has made substantial progress toward achieving the citywide goals established pursuant to 66 RCNY § 11-61.
 
-   (3) If an agency that has submitted an agency utilization plan pursuant to § 11-64 of this subchapter fails to achieve its utilization goal, the agency head must prepare and submit to the director, the commissioner, the city chief procurement officer, and the speaker of the council by October first a performance improvement plan which must describe in detail the efforts such agency intends to undertake to increase M/WBE participation.
+(3) If an agency that has submitted an agency utilization plan pursuant to 66 RCNY § 11-64 fails to achieve its utilization goal, the agency head must prepare and submit to the director, the commissioner, the city chief procurement officer, and the speaker of the council by October first a performance improvement plan which must describe in detail the efforts such agency intends to undertake to increase M/WBE participation.
 
-   (4) The data that provide the basis for the reports required by this section must be made available electronically to the council at the time the reports are submitted.
+(4) The data that provide the basis for the reports required by this section must be made available electronically to the council at the time the reports are submitted.
 
 
 
@@ -7444,19 +5889,19 @@ Whenever an agency solicits bids or proposals for small purchases pursuant to se
 *§ 11-70 Agency Compliance.* ::
 
 
-(1)  Each agency must submit to the commissioner and the city chief procurement officer such information as is necessary for the city chief procurement officer to complete his or her reports as required in § 11-69 of this subchapter. The director, the commissioner, and the city chief procurement officer will review each agency's submissions. The director will convene the agency M/WBE officers for those agencies that have submitted utilization plans pursuant to § 11-64 of this subchapter as often as the director deems necessary, but no less frequently than once per quarter, in order to have agency M/WBE officers (i) discuss the results of the reports required in § 11-69 of this subchapter; (ii) offer detailed information concerning their effectuation of their performance improvement plans and any additional efforts undertaken to meet goals established in agency utilization plans; (iii) share the practices that have yielded successes in increasing M/WBE participation; and (iv) devise strategic plans to improve the performance of those failing to meet goals established in agency utilization plans. No less frequently than twice per year, agency heads for those agencies that have submitted utilization plans pursuant to § 11-64 of this subchapter must join such quarterly meetings. Whenever it has been determined that an agency is not making adequate progress toward the goals established in its agency utilization plan, the director, the commissioner, and the city chief procurement officer will act to improve such agency's performance, and may take any of the following actions:
+(1) Each agency must submit to the commissioner and the city chief procurement officer such information as is necessary for the city chief procurement officer to complete his or her reports as required in 66 RCNY § 11-69. The director, the commissioner, and the city chief procurement officer will review each agency's submissions. The director will convene the agency M/WBE officers for those agencies that have submitted utilization plans pursuant to 66 RCNY § 11-64 as often as the director deems necessary, but no less frequently than once per quarter, in order to have agency M/WBE officers (i) discuss the results of the reports required in 66 RCNY § 11-69; (ii) offer detailed information concerning their effectuation of their performance improvement plans and any additional efforts undertaken to meet goals established in agency utilization plans; (iii) share the practices that have yielded successes in increasing M/WBE participation; and (iv) devise strategic plans to improve the performance of those failing to meet goals established in agency utilization plans. No less frequently than twice per year, agency heads for those agencies that have submitted utilization plans pursuant to 66 RCNY § 11-64 must join such quarterly meetings. Whenever it has been determined that an agency is not making adequate progress toward the goals established in its agency utilization plan, the director, the commissioner, and the city chief procurement officer will act to improve such agency's performance, and may take any of the following actions:
 
-(a) require the agency to submit more frequent reports about its procurement activity;
+   (a) require the agency to submit more frequent reports about its procurement activity;
 
-(b) require the agency to notify the director, the commissioner and the city chief procurement officer, prior to solicitation of bids or proposals for, and/or prior to award of, contracts in any category where the agency has not made adequate progress toward achieving its utilization goals;
+   (b) require the agency to notify the director, the commissioner and the city chief procurement officer, prior to solicitation of bids or proposals for, and/or prior to award of, contracts in any category where the agency has not made adequate progress toward achieving its utilization goals;
 
-(c) reduce or rescind contract processing authority delegated by the mayor pursuant to §§ 317 and 318 of the charter; and
+   (c) reduce or rescind contract processing authority delegated by the mayor pursuant to §§ 317 and 318 of the charter; and
 
-(d) any other action the director, the commissioner, and the city chief procurement officer deem appropriate.
+   (d) any other action the director, the commissioner, and the city chief procurement officer deem appropriate.
 
-   (2) Noncompliance. Whenever the director, the city chief procurement officer, or the commissioner finds that an agency has failed to comply with its duties under this section, he or she will attempt to resolve such noncompliance informally with the agency head. In the event that the agency fails to remedy its noncompliance after such informal efforts, the director and the city chief procurement officer will submit such findings in writing to the mayor and the speaker of the council, and the mayor will take appropriate measures to ensure compliance.
+(2) Noncompliance. Whenever the director, the city chief procurement officer, or the commissioner finds that an agency has failed to comply with its duties under this section, he or she will attempt to resolve such noncompliance informally with the agency head. In the event that the agency fails to remedy its noncompliance after such informal efforts, the director and the city chief procurement officer will submit such findings in writing to the mayor and the speaker of the council, and the mayor will take appropriate measures to ensure compliance.
 
-   (3) Failure by an agency to submit information required by the director, the division, or the city chief procurement officer, in accordance with this section, including but not limited to the utilization plan required pursuant to § 11-64 of this subchapter, will be deemed noncompliance.
+(3) Failure by an agency to submit information required by the director, the division, or the city chief procurement officer, in accordance with this section, including but not limited to the utilization plan required pursuant to 66 RCNY § 11-64 of this subchapter, will be deemed noncompliance.
 
 
 
@@ -7476,19 +5921,23 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 *§ 11-72 Enforcement.* ::
 
 
-(1)  Any person who believes that a violation of the requirements of § 6-129 of the administrative code of the city of New York or these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to, any contractor utilization plan, has occurred may submit a complaint in writing to the division, the city chief procurement officer and the comptroller. The division will promptly investigate such complaint and determine whether there has been a violation.
+(1) Any person who believes that a violation of the requirements of § 6-129 of the administrative code of the city of New York or these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to, any contractor utilization plan, has occurred may submit a complaint in writing to the division, the city chief procurement officer and the comptroller. The division will promptly investigate such complaint and determine whether there has been a violation.
 
-   (2) Any complaint alleging fraud, corruption or other criminal behavior on the part of a bidder, proposer, contractor, subcontractor or supplier will be referred to the commissioner of the department of investigation.
+(2) Any complaint alleging fraud, corruption or other criminal behavior on the part of a bidder, proposer, contractor, subcontractor or supplier will be referred to the commissioner of the department of investigation.
 
-   (3) Contract award. (a) When an agency receives a protest from a bidder or proposer regarding a contracting action that is related to § 6-129 of the administrative code of the city of New York or these rules, the agency must send copies of the protest and any appeal thereof, and any decisions made on the protest or such appeal, to the division and the comptroller.
+(3) Contract award.
 
-(b) Whenever a contracting agency has determined that a bidder or proposer has violated § 6-129 of the administrative code of the city of New York, or these rules, the agency may disqualify such bidder or proposer from competing for such contract and the agency may revoke such bidder's or proposer's prequalification status.
+   (a) When an agency receives a protest from a bidder or proposer regarding a contracting action that is related to § 6-129 of the administrative code of the city of New York or these rules, the agency must send copies of the protest and any appeal thereof, and any decisions made on the protest or such appeal, to the division and the comptroller.
 
-   (4) Contract administration. (a) For each contract for which an agency has established participation requirements under this section, at least once annually during the term of such contract, the agency must review the contractor's progress toward attainment of its utilization plan, including but not limited to, reviewing the percentage of work the contractor has actually awarded to MBE, WBE and/or EBE subcontractors and the payments the contractor has made to such subcontractors.
+   (b) Whenever a contracting agency has determined that a bidder or proposer has violated § 6-129 of the administrative code of the city of New York, or these rules, the agency may disqualify such bidder or proposer from competing for such contract and the agency may revoke such bidder's or proposer's prequalification status.
 
-(b) Whenever an agency believes that a contractor or a subcontractor is not in compliance with § 6-129 of the administrative code of the city of New York, these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to any contractor utilization plan, the agency must send a written notice to the city chief procurement officer, the division and the contractor describing the alleged noncompliance and offering the contractor an opportunity to be heard. The agency must then conduct an investigation to determine whether such contractor or subcontractor is in compliance.
+(4) Contract administration.
 
-(c) In the event that a contractor has been found to have violated § 6-129 of the administrative code of the city of New York, these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to any contractor utilization plan, the contracting agency must, after consulting with the city chief procurement officer and the division, determine whether any of the following actions should be taken:
+   (a) For each contract for which an agency has established participation requirements under this section, at least once annually during the term of such contract, the agency must review the contractor's progress toward attainment of its utilization plan, including but not limited to, reviewing the percentage of work the contractor has actually awarded to MBE, WBE and/or EBE subcontractors and the payments the contractor has made to such subcontractors.
+
+   (b) Whenever an agency believes that a contractor or a subcontractor is not in compliance with § 6-129 of the administrative code of the city of New York, these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to any contractor utilization plan, the agency must send a written notice to the city chief procurement officer, the division and the contractor describing the alleged noncompliance and offering the contractor an opportunity to be heard. The agency must then conduct an investigation to determine whether such contractor or subcontractor is in compliance.
+
+   (c) In the event that a contractor has been found to have violated § 6-129 of the administrative code of the city of New York, these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to any contractor utilization plan, the contracting agency must, after consulting with the city chief procurement officer and the division, determine whether any of the following actions should be taken:
 
       (i) enter an agreement with the contractor allowing the contractor to cure the violation;
 
@@ -7512,15 +5961,15 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 
       (xi) take any other appropriate remedy.
 
-   (5) To the extent available pursuant to rules of the procurement policy board, a contractor may seek resolution of a dispute regarding a contract related to § 6-129 of the administrative code of the city of New York or these rules. The contracting agency must submit a copy of such submission to the division.
+(5) To the extent available pursuant to rules of the procurement policy board, a contractor may seek resolution of a dispute regarding a contract related to § 6-129 of the administrative code of the city of New York or these rules. The contracting agency must submit a copy of such submission to the division.
 
-   (6) Whenever an agency has reason to believe that an MBE, WBE or EBE is not qualified for certification, or is participating in a contract in a manner that does not serve a commercially useful function, or has violated any provision of § 6-129 of the administrative code of the city of New York or these rules, the agency must notify the commissioner who will determine whether the certification of such business enterprise should be revoked.
+(6) Whenever an agency has reason to believe that an MBE, WBE or EBE is not qualified for certification, or is participating in a contract in a manner that does not serve a commercially useful function, or has violated any provision of § 6-129 of the administrative code of the city of New York or these rules, the agency must notify the commissioner who will determine whether the certification of such business enterprise should be revoked.
 
-   (7) Statements made in any instrument submitted to an agency pursuant to these rules will be submitted under penalty of perjury and any false or misleading statement or omission will be grounds for the application of any applicable criminal and/or civil penalties for perjury. The making of a false or fraudulent statement by an MBE, WBE or EBE in any instrument submitted pursuant to these rules will, in addition, be grounds for revocation of its certification.
+(7) Statements made in any instrument submitted to an agency pursuant to these rules will be submitted under penalty of perjury and any false or misleading statement or omission will be grounds for the application of any applicable criminal and/or civil penalties for perjury. The making of a false or fraudulent statement by an MBE, WBE or EBE in any instrument submitted pursuant to these rules will, in addition, be grounds for revocation of its certification.
 
-   (8) A contractor's record in implementing its contractor utilization plan will be a factor in the evaluation of its performance. Whenever a contracting agency determines that a contractor's compliance with a contractor utilization plan has been unsatisfactory, the agency must, after consultation with the city chief procurement officer, file an advice of caution form for inclusion in VENDEX as caution data.
+(8) A contractor's record in implementing its contractor utilization plan will be a factor in the evaluation of its performance. Whenever a contracting agency determines that a contractor's compliance with a contractor utilization plan has been unsatisfactory, the agency must, after consultation with the city chief procurement officer, file an advice of caution form for inclusion in VENDEX as caution data.
 
-   (9) Any complaint alleging fraud, corruption or other criminal behavior on the part of a bidder, proposer, contractor, subcontractor or supplier must in addition be referred to the department of investigation.
+(9) Any complaint alleging fraud, corruption or other criminal behavior on the part of a bidder, proposer, contractor, subcontractor or supplier must in addition be referred to the department of investigation.
 
 
 
@@ -7530,9 +5979,9 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 *§ 11-73 Procurements by Elected Officials and the Council.* ::
 
 
-(1)  In the case of procurements by independently elected city officials other than the mayor, where these rules provide for any action to be taken by the director or the city chief procurement officer, such action will instead be taken by such elected officials.
+(1) In the case of procurements by independently elected city officials other than the mayor, where these rules provide for any action to be taken by the director or the city chief procurement officer, such action will instead be taken by such elected officials.
 
-   (2) In the case of procurements by the council, where these rules provide for any action to be taken by the director or the city chief procurement officer, such action will instead be taken by the speaker of the council.
+(2) In the case of procurements by the council, where these rules provide for any action to be taken by the director or the city chief procurement officer, such action will instead be taken by the speaker of the council.
 
 
 
@@ -7544,21 +5993,21 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 
 Agencies will not be required to apply participation requirements to the following types of contracts:
 
-   (1) those subject to federal or state funding requirements which preclude the city from imposing the requirements of this subchapter;
+(1) those subject to federal or state funding requirements which preclude the city from imposing the requirements of this subchapter;
 
-   (2) those subject to federal or state law participation requirements for MBEs, WBEs, disadvantaged business enterprises, and/or EBEs;
+(2) those subject to federal or state law participation requirements for MBEs, WBEs, disadvantaged business enterprises, and/or EBEs;
 
-   (3) contracts between agencies;
+(3) contracts between agencies;
 
-   (4) procurements made through the United States general services administration or another federal agency, or through the New York state office of general services or another state agency, or any other governmental agency.
+(4) procurements made through the United States general services administration or another federal agency, or through the New York state office of general services or another state agency, or any other governmental agency.
 
-   (5) emergency procurements pursuant to section three hundred fifteen of the charter;
+(5) emergency procurements pursuant to section three hundred fifteen of the charter;
 
-   (6) sole source procurements pursuant to section three hundred twenty-one of the charter;
+(6) sole source procurements pursuant to section three hundred twenty-one of the charter;
 
-   (7) contracts for human services; and
+(7) contracts for human services; and
 
-   (8) contracts awarded to not-for-profit organizations.
+(8) contracts awarded to not-for-profit organizations.
 
 
 
@@ -7591,7 +6040,7 @@ Audit. "Audit" means an examination of a business enterprise to determine whethe
 
 Business enterprise. "Business enterprise" means any entity, including a sole proprietorship, partnership or corporation, which is authorized to and engages in lawful business transactions in accordance with the laws of New York State.
 
-Certified business. "Certified business" means a business enterprise which has been approved for certification as an EBE in accordance with the procedures set forth in § 11-82 of these rules, subsequent to verification that the business enterprise is owned, operated, and controlled by socially and economically disadvantaged persons as defined in § 11-82 of these rules.
+Certified business. "Certified business" means a business enterprise which has been approved for certification as an EBE in accordance with the procedures set forth in 66 RCNY § 11-82, subsequent to verification that the business enterprise is owned, operated, and controlled by socially and economically disadvantaged persons as defined in 66 RCNY § 11-82.
 
 Certification director. "Certification director" means the director of the emerging business enterprise certification program or his or her designee or his or her successor in function.
 
@@ -7691,45 +6140,53 @@ The following standards will be used to determine whether a business enterprise 
 
    (2) Documentation of one (1) year's business activity will be required in order to provide sufficient information upon which certification can be reasonably made. The commissioner, in his or her discretion, may permit documentation for a lesser period;
 
-   (3) DSBS may grant eligible status to any business enterprise eligible under § 11-82 of these rules, and certified as an EBE or disadvantaged business enterprise by another governmental or other certifying entity whose emerging business enterprise or disadvantaged business enterprise certification criteria are determined by the commissioner to be consistent with the certification criteria set forth in these rules. Unless otherwise determined by the commissioner, the maximum period for which any certification granted by DSBS pursuant to this subdivision is valid will be the period during which the business enterprise is certified as an EBE or disadvantaged business enterprise with the original certifying entity;
+   (3) DSBS may grant eligible status to any business enterprise eligible under 66 RCNY § 11-82, and certified as an EBE or disadvantaged business enterprise by another governmental or other certifying entity whose emerging business enterprise or disadvantaged business enterprise certification criteria are determined by the commissioner to be consistent with the certification criteria set forth in these rules. Unless otherwise determined by the commissioner, the maximum period for which any certification granted by DSBS pursuant to this subdivision is valid will be the period during which the business enterprise is certified as an EBE or disadvantaged business enterprise with the original certifying entity;
 
-   (4) Any business enterprise that satisfies the eligibility criteria as set forth in § 11-82 of these rules is presumptively eligible for certification under these rules; provided that the commissioner may decline to certify, or revoke the certification of, any business enterprise on the ground that there is not a firm basis for believing that there is a compelling state interest to justify certification of that business enterprise under these rules.
+   (4) Any business enterprise that satisfies the eligibility criteria as set forth in 66 RCNY § 11-82 is presumptively eligible for certification under these rules; provided that the commissioner may decline to certify, or revoke the certification of, any business enterprise on the ground that there is not a firm basis for believing that there is a compelling state interest to justify certification of that business enterprise under these rules.
 
-(e) Evidence of social and economic disadvantage. (1)(A) Evidence of individual social disadvantage must include the following elements: (i) At least one objective distinguishing feature that has contributed to social disadvantage, such as physical or mental disability, long-term residence in an environment isolated from the mainstream of United States society, or other similar causes not common to individuals who are not socially disadvantaged;
+(e) Evidence of social and economic disadvantage.
 
-      (ii) Personal experiences of substantial and chronic social disadvantage in United States society, not in other countries; and
+   (1) (A) Evidence of individual social disadvantage must include the following elements:
 
-      (iii) Negative impact on entry into or advancement in the business world because of the social disadvantage. DSBS will consider any relevant evidence in assessing this element. In every case, however, DSBS will consider education, employment and business history, where applicable, to see if the totality of circumstances shows disadvantage in entering into or advancing in the business world.
+         (i) At least one objective distinguishing feature that has contributed to social disadvantage, such as physical or mental disability, long-term residence in an environment isolated from the mainstream of United States society, or other similar causes not common to individuals who are not socially disadvantaged;
 
-(B) Education. DSBS will consider such factors as denial of equal access to institutions of higher education, exclusion from social and professional association with students or teachers, denial of educational honors rightfully earned, and social patterns or pressures which discouraged the individual from pursuing a professional or business education.
+         (ii) Personal experiences of substantial and chronic social disadvantage in United States society, not in other countries; and
 
-(C) Employment. DSBS will consider such factors as unequal treatment in hiring, promotions and other aspects of professional advancement, pay and fringe benefits, and other terms and conditions of employment; retaliatory or discriminatory behavior by an employer; and social patterns or pressures which have channeled the individual into nonprofessional or non-business fields.
+         (iii) Negative impact on entry into or advancement in the business world because of the social disadvantage. DSBS will consider any relevant evidence in assessing this element. In every case, however, DSBS will consider education, employment and business history, where applicable, to see if the totality of circumstances shows disadvantage in entering into or advancing in the business world.
 
-(D) Business history. DSBS will consider such factors as unequal access to credit or capital, acquisition of credit or capital under commercially unfavorable circumstances, unequal treatment in opportunities for government contracts or other work, unequal treatment by potential customers and business associates, and exclusion from business or professional organizations.
+      (B) Education. DSBS will consider such factors as denial of equal access to institutions of higher education, exclusion from social and professional association with students or teachers, denial of educational honors rightfully earned, and social patterns or pressures which discouraged the individual from pursuing a professional or business education.
 
-   (2) Evidence of individual economic disadvantage must include the following elements: (A) Submission of narrative and financial information. (i) Each individual claiming economic disadvantage must describe it in a narrative statement, and must submit personal financial information supporting the assertions contained in the narrative statement.
+      (C) Employment. DSBS will consider such factors as unequal treatment in hiring, promotions and other aspects of professional advancement, pay and fringe benefits, and other terms and conditions of employment; retaliatory or discriminatory behavior by an employer; and social patterns or pressures which have channeled the individual into nonprofessional or non-business fields.
 
-      (ii) An individual claiming economic disadvantage who is married or a member of a domestic partnership must submit separate financial information for his or her spouse or domestic partner, provided that such financial information will not be required where the individual and the spouse are legally separated.
+      (D) Business history. DSBS will consider such factors as unequal access to credit or capital, acquisition of credit or capital under commercially unfavorable circumstances, unequal treatment in opportunities for government contracts or other work, unequal treatment by potential customers and business associates, and exclusion from business or professional organizations.
 
-(B) DSBS evaluation of diminished capital and credit opportunities. DSBS will examine factors relating to the personal financial condition of any individual claiming disadvantaged status, including personal income for the past two years (including bonuses and the value of company stock given in lieu of cash), personal net worth, and the fair market value of all assets, whether encumbered or not. DSBS will also consider the financial condition of the applicant compared to the financial profiles of small businesses in the same primary industry classification, or, if not available, in similar lines of business, which are not owned and controlled by socially and economically disadvantaged individuals in evaluating the individual's access to credit and capital. The financial profiles that DSBS compares will include total assets, net sales, pre-tax profit, sales/working capital ratio, and net worth.
+   (2) Evidence of individual economic disadvantage must include the following elements:
 
-(C) Transfers within two years.
+      (A) Submission of narrative and financial information.
 
-   (1) Except as set forth in § 11-82(e)(2)(C)(2), DSBS will attribute to an individual claiming disadvantaged status any assets which that individual has transferred to an immediate family member, or to a trust a beneficiary of which is an immediate family member, for less than fair market value, within two years prior to a business enterprise's application for participation in the EBE program or within two years of a participant's annual renewal, unless the individual claiming disadvantaged status can demonstrate that the transfer is to or on behalf of an immediate family member for that individual's education, medical expenses, or some other form of essential support.
+         (i) Each individual claiming economic disadvantage must describe it in a narrative statement, and must submit personal financial information supporting the assertions contained in the narrative statement.
 
-   (2) DSBS will not attribute to an individual claiming disadvantaged status any assets transferred by that individual to an immediate family member that are consistent with the customary recognition of special occasions, such as birthdays, graduations, anniversaries, and retirements.
+         (ii) An individual claiming economic disadvantage who is married or a member of a domestic partnership must submit separate financial information for his or her spouse or domestic partner, provided that such financial information will not be required where the individual and the spouse are legally separated.
 
-   (3) In determining an individual's access to capital and credit, DSBS may consider any assets that the individual transferred within such two-year period described by § 11-82(e)(2)(C)(1), that DSBS does not consider in evaluating the individual's assets and net worth (e.g., transfers to charities).
+      (B) DSBS evaluation of diminished capital and credit opportunities. DSBS will examine factors relating to the personal financial condition of any individual claiming disadvantaged status, including personal income for the past two years (including bonuses and the value of company stock given in lieu of cash), personal net worth, and the fair market value of all assets, whether encumbered or not. DSBS will also consider the financial condition of the applicant compared to the financial profiles of small businesses in the same primary industry classification, or, if not available, in similar lines of business, which are not owned and controlled by socially and economically disadvantaged individuals in evaluating the individual's access to credit and capital. The financial profiles that DSBS compares will include total assets, net sales, pre-tax profit, sales/working capital ratio, and net worth.
 
-(b) Net worth. For EBE eligibility, the net worth of an individual claiming disadvantage must be less than one million dollars. In determining such net worth, DSBS will exclude the ownership interest in the applicant and the applicant's equity in the primary personal residence (except any portion of such equity which is attributable to excessive withdrawals from the applicant). Exclusions for purposes of determining net worth are not exclusions for asset valuation or access to capital and credit purposes. A contingent liability does not reduce an individual's net worth.
+      (C) Transfers within two years.
 
-(f) * Graduate EBE determinations. The division will, upon reviewing applications for certification and recertification, determine whether a business enterprise qualifies as a graduate EBE. The division will make such determinations in accordance with the following procedures:
+         (1) Except as set forth in 66 RCNY § 11-82(e)(2)(C)(2), DSBS will attribute to an individual claiming disadvantaged status any assets which that individual has transferred to an immediate family member, or to a trust a beneficiary of which is an immediate family member, for less than fair market value, within two years prior to a business enterprise's application for participation in the EBE program or within two years of a participant's annual renewal, unless the individual claiming disadvantaged status can demonstrate that the transfer is to or on behalf of an immediate family member for that individual's education, medical expenses, or some other form of essential support.
 
-   (1) In the event that the division determines a business enterprise seeking new certification as an EBE qualifies as a graduate EBE pursuant to § 11-81 of these rules, the division will provide a written notice of such determination to the applicant business enterprise stating the reason(s) for such determination and the procedures for challenging the graduate EBE determination.
+         (2) DSBS will not attribute to an individual claiming disadvantaged status any assets transferred by that individual to an immediate family member that are consistent with the customary recognition of special occasions, such as birthdays, graduations, anniversaries, and retirements.
 
-   (2) In the event that the division determines a certified EBE qualifies as a graduate EBE pursuant to § 11-81 of these rules, the division will provide a written notice of such determination to the business enterprise seeking recertification setting forth the reason(s) for such determination and the procedures for challenging the graduate EBE determination.
+         (3) In determining an individual's access to capital and credit, DSBS may consider any assets that the individual transferred within such two-year period described by 66 RCNY § 11-82(e)(2)(C)(1), that DSBS does not consider in evaluating the individual's assets and net worth (e.g., transfers to charities).
 
-   (3) In the event that the division determines a business enterprise seeking new certification or a certified EBE to be a graduate EBE pursuant to § 11-81 of these rules, the business enterprise may challenge such a determination pursuant to the procedures set forth in §§ 11-84 and 11-85 of these rules.
+(f) Net worth. For EBE eligibility, the net worth of an individual claiming disadvantage must be less than one million dollars. In determining such net worth, DSBS will exclude the ownership interest in the applicant and the applicant's equity in the primary personal residence (except any portion of such equity which is attributable to excessive withdrawals from the applicant). Exclusions for purposes of determining net worth are not exclusions for asset valuation or access to capital and credit purposes. A contingent liability does not reduce an individual's net worth.
+
+(g) * Graduate EBE determinations. The division will, upon reviewing applications for certification and recertification, determine whether a business enterprise qualifies as a graduate EBE. The division will make such determinations in accordance with the following procedures:
+
+   (1) In the event that the division determines a business enterprise seeking new certification as an EBE qualifies as a graduate EBE pursuant to 66 RCNY § 11-81, the division will provide a written notice of such determination to the applicant business enterprise stating the reason(s) for such determination and the procedures for challenging the graduate EBE determination.
+
+   (2) In the event that the division determines a certified EBE qualifies as a graduate EBE pursuant to 66 RCNY § 11-81, the division will provide a written notice of such determination to the business enterprise seeking recertification setting forth the reason(s) for such determination and the procedures for challenging the graduate EBE determination.
+
+   (3) In the event that the division determines a business enterprise seeking new certification or a certified EBE to be a graduate EBE pursuant to 66 RCNY § 11-81, the business enterprise may challenge such a determination pursuant to the procedures set forth in 66 RCNY §§ 11-84 and 11-85.
 
    (4) In the event that the division has determined a business enterprise to be a graduate EBE, and the business enterprise has not made a timely challenge to that determination, or has made such a challenge and the department has affirmed its determination, the business enterprise may not apply to have the designation lifted for at least two years from the date of the original determination notice. The division will lift the designation if the firm demonstrates that: (i) it has not been awarded contracts by one or more agencies within the past three years where the total city funding from the expense and capital budgets for such contracts was equal to or greater than fifty million dollars; and (ii) it has been below the size standards established by the United States small business administration for its industry for a period of two years or more.
 
@@ -7747,9 +6204,9 @@ The following standards will be used to determine whether a business enterprise 
 
 (c) If a certification application is received by DSBS and required documents are missing, questions are unanswered or the certification application is not properly notarized, DSBS must send to the applicant, within forty-five (45) days of the initial date stamped on the certification application, a notice of status and deficiency (the "Notice"), stating any deficiency arising from missing documents, unfinished questions or deficiencies in notarization. An applicant may cure the noticed deficiency by providing DSBS with documents or information requested in the Notice, within thirty (30) days of the date of the Notice.
 
-(d) When the applicant cures a noticed deficiency, pursuant to procedures set forth in § 11-83(c) of these rules, DSBS has an additional forty-five (45) days to advise the applicant of any further deficiency which may be cured in accordance with § 11-83(c) of these rules.
+(d) When the applicant cures a noticed deficiency, pursuant to procedures set forth in 66 RCNY § 11-83(c), DSBS has an additional forty-five (45) days to advise the applicant of any further deficiency which may be cured in accordance with 66 RCNY § 11-83(c).
 
-(e) If the applicant does not cure a noticed deficiency, pursuant to procedures set forth in § 11-83(c) of these rules, and the certification application remains incomplete for at least forty-five (45) days of the date of the Notice, unless such time is extended by the certification director, the applicant must be sent a notice stating that its certification application has been rejected and will not be processed, together with its rejected certification application.
+(e) If the applicant does not cure a noticed deficiency, pursuant to procedures set forth in 66 RCNY § 11-83(c), and the certification application remains incomplete for at least forty-five (45) days of the date of the Notice, unless such time is extended by the certification director, the applicant must be sent a notice stating that its certification application has been rejected and will not be processed, together with its rejected certification application.
 
 (f) An applicant whose certification as an EBE is rejected may not reapply for certification for at least one hundred twenty (120) days of the date of the notice of rejection of its application.
 
@@ -7813,606 +6270,9 @@ A business entity denied certification or re-certification as an EBE shall be gi
 
 (c) If the socially and economically disadvantaged persons claiming ownership of the certified business fail to respond timely in writing to the notice of certification status review, or fail to meet with a DSBS representative or agree to an audit, the certification of the EBE may be revoked by the director of certification.
 
-(d) The director of certification shall notify, in writing, a certified business of the revocation of its certification as an EBE within fourteen (14) days of revoking such certification. The socially and economically disadvantaged persons claiming ownership and control of a business enterprise which has had its certification as an EBE revoked may request an appeal of this decision within thirty (30) days of the date of the notice of revocation. Such appeal shall be conducted in accordance with procedures set forth in § 11-84 of these rules. If a request for an appeal is not made within the thirty (30) day period, the director of certification's determination shall be final and the business enterprise may not reapply for certification for two (2) years from the date of the notice of revocation provided, however, that if the facts and circumstances forming the basis of the revocation decision have changed significantly, the business enterprise may, at the discretion of the director of certification, be granted permission to reapply sooner.
+(d) The director of certification shall notify, in writing, a certified business of the revocation of its certification as an EBE within fourteen (14) days of revoking such certification. The socially and economically disadvantaged persons claiming ownership and control of a business enterprise which has had its certification as an EBE revoked may request an appeal of this decision within thirty (30) days of the date of the notice of revocation. Such appeal shall be conducted in accordance with procedures set forth in 66 RCNY § 11-84. If a request for an appeal is not made within the thirty (30) day period, the director of certification's determination shall be final and the business enterprise may not reapply for certification for two (2) years from the date of the notice of revocation provided, however, that if the facts and circumstances forming the basis of the revocation decision have changed significantly, the business enterprise may, at the discretion of the director of certification, be granted permission to reapply sooner.
 
 (e) If at any time DSBS has reason to believe that an applicant or certified business has willfully and knowingly provided incorrect information or made false statements, it shall refer the matter to the Department of Investigation for investigation. Falsification of any document by an applicant or a certified business may lead to the imposition of civil and criminal penalties as provided by law and contract, de-certification as an EBE and the inclusion of an advice of caution in the City Vendor Information Exchange System ("VENDEX") database.
-
- 
-
-
-
-
-
-
-*APPENDIX A** ::
-
-
- ECONOMIC DEVELOPMENT AREAS The following are eligible Community Development areas: Manhattan Inwood – Census Tracts 291, 293, excluding 289, 295, 301, 303, 307  North Washington Heights – Census Tracts 269, 271, 277, 279, 285, excluding 267, 273, 275, 281, 283, 287  South Washington Heights – Census Tracts 239, 241, 243.01, 245, 247, 249, 251, 253, 255, 261, 263, 265  Hamilton Heights – Census Tracts 231.01, 233, 235.01, 237  Polo Gardens – Census Tracts 235.02, 243.02  Harlem River Houses – Census Tracts 231.02, 234 excluding 236  Manhattanville – Census Tracts 213.01, 217.01, 219, 221.01, 223, 225, 227.01, 229  St. Nicholas – Census Tracts 213.02, 217.02, 221.02, 224, 226, 227.02, 228, 230, 232  Harlem River Drive – Census Tracts 210, 212, excluding 214  Morningside Heights – Census Tracts 197.01, 209.01, 211, excluding 199, 201.01, 203, 205, 207.01  West Harlem – Census Tracts 197.02, 201.02, 207.02, 209.02  Millbank-Frawley – Census Tracts 186, 190, 200, 216, 218, 220, 222  Upper West Side – Census Tracts 189, 193, 195, excluding 187, 191  West Side – Census Tracts 183, excluding 161, 163, 165, 167, 169, 171, 173, 175, 177, 179, 181, 185  Lincoln Square – Census Tracts 147, 151, excluding 145, 149, 153, 155, 157, 159  Clinton – Census Tracts 115, 117, 121, 127, 129, 133, 135, excluding 139  Chelsea – Census Tracts 83, 89, 99, 103, 111, excluding 81, 87, 91, 93, 97  Midtown – Census Tracts 84, 102, 109, 113, 119, 125, excluding 92, 94, 96, 100, 104, 131  Union-Herald – Census Tracts 56, 58, 76, 95, 101, excluding 52, 54, 74  Gramercy – Census Tracts 68, excluding 44, 48, 50, 60, 64, 66  East Village – Census Tracts 20, 24, 26.01, 26.02, 28, 32, 34, 38, 40, excluding 42  West Village – Census Tracts 53, 69, excluding 51, 55.01, 57, 59, 61, 63, 65, 67, 71, 73, 75, 77, 79  Soho/Noho/Tribeca – Census Tracts 55.02, excluding 33, 47, 49  Battery Park – Census Tracts 21, 39, 317, excluding 13  Lower Manhattan – Census Tracts 7, 9, 31, excluding 15.01, 15.02, 319  Chinatown-Little Italy – Census Tracts 27, 29, 41, 43, 45  Lower East Side – Census Tracts 12, 14.02, 16, 18, 22.01, 22.02, 30.01, 30.02, 36.01, 36.02, excluding 14.01  Two Bridges – Census Tracts 2.01, 2.02, 6, 8, 10.02, 25, excluding 10.01  Yorkville – Census Tracts 154, 156.01, 158.02, excluding 135, 138, 140, 142, 144.01, 144.02, 146.01, 148.01, 148.02, 150.01, 150.02, 152, 158.01, 160.01, 160.02  Lower East Harlem – Census Tracts 156.02, 162, 164, 166, 168, 170, 172.01, 172.02, 174.01, 174.02  Upper East Side – Census Tracts 178, 180, 182, 184, 188, 192, 194, 196, 198, 202, 204, 206, 208 Brooklyn The following are eligible Community Development areas:  Fort Hamilton-Dyker Beach – Census Tracts 164, excluding 154  Bush Terminal – Census Tract 018  Greenpoint Industrial Area – Census Tracts 465, 581, 483, 577, 579, excluding 455, 473, 589  Brighton Beach – Census Tracts 360.01, 360.02, 362, 366, 610.01, excluding 364, 610.02  Coney Island – Census Tract 325, 328, 330, 342, 348.01, 352, excluding 340  West Brighton – Census Tract 348.02, excluding 350, 354, 356  Sheepshead Bay – Census Tract 590, excluding 570, 572, 576, 578, 580, 586, 592, 594.01, 594.02, 596, 598, 600, 608, 626  Homecrest – Census Tract 582, excluding 370, 374, 388, 390, 392, 394, 396, 414.01, 414.02, 416, 418, 554, 556, 584, 588, 606  Gravesend – Census Tract 582, excluding 370, 374, 388, 390, 392, 394, 396, 414.01, 414.02, 416, 418, 554, 556, 584, 588, 606  Bath Beach – Census Tract 292, excluding 168, 174, 176, 280, 282, 286  Bensonhurst – Census Tracts 178, 276, excluding 170, 172, 180, 182, 184, 186, 188, 190, 256, 258, 260, 262, 264, 266, 268, 270, 274, 278, 284, 288, 290, 294, 296, 298, 300, 302, 304  Dyker Heights – Census Tract 120, excluding 128.01, 132, 140, 144, 146, 148, 150, 156, 158, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212  Sunset Park – Census Tracts 002, 020, 022, 072, 074, 076, 078, 080, 082, 084, 088, 090, 092, 096, 098, 100, 101, 102, 106, 118, 122, 143, 145, 147, excluding 086, 104, 108  Red Hook – Census Tracts 055, 057, 059, 085  Columbia Street – Census Tracts 047, 051  Cobble Hill – Census Tract 049, excluding 045  Carroll Gardens – Census Tracts 075, 077, excluding 063, 065, 067  Gowanus – Census Tracts 069, 070, 117, 121, 123, 125, 127  Boerum Hill – Census Tracts 039, 041, 043  Park Slope – Census Tracts 129.01, 129.02, 131, 133, 135, 137, 139, 141, 149, 151, 159, 167, 173, excluding 153, 155, 157, 165, 169, 171, 502.01, 502.02  Ocean Parkway – Census Tract 486, excluding 460.01, 462.01, 480, 482, 484, 488, 490, 492, 494  Flatbush – Census Tracts 506, 508, 510, 516, 790, 792, 794, 796, 818, 820, 822, 824, 826, 828, excluding 460.02, 512, 514, 518, 520, 522, 524, 526, 528, 754, 766, 770, 772, 774, 786, 788  Starrett City – Census Tract 1058  North Canarsie – Census Tract 974, excluding 962, 968, 970  Farragut – Census Tract 942, excluding 780, 782, 830, 832, 834, 836, 838, 840, 842, 844, 846  Ramsen Village – Census Tract 888, excluding 928, 930, 934  North East Flatbush – Census Tracts 882, 884, 886, 890, 892  Wingate – Census Tract 874.01, 878, excluding 876, 880  Broadway Junction – Census Tracts 365.02, 367, 1138  Rugby – Census Tracts 814, 816, 860, 862, 866, 868, 870, excluding 848, 850, 852, 854, 856, 858, 864, 872, 938, 940  Lefferts Gardens – Census Tracts 327, 329, 800, 802, 804, 806, excluding 798, 810  Crown Heights – Census Tracts 213, 217, 219, 221, 223, 225, 307, 311, 317.02, 319, 321, 323, 325, 331, 333, 337, 339, 343, 347, 349, 351, 353, 355, 357, 359, excluding 335  Weeksville – Census Tracts 309, 345  Brower Park – Census Tracts 313, 315, 317.01, 341  Prospect Heights – Census Tracts 161, 163, 203, 205, 207, 215  Fulton Ferry – Census Tracts 021, 023  Downtown – Census Tracts 011, 025, 027, 033, 035, 037, excluding 013  Fort Greene – Census Tracts 029.01, 179, 181, 183, 185.01, 187, 191, 199, 201, 231, excluding 029.02, 031  Clinton – Census Tract 197, excluding 193, 195  Tompkins Park – Census Tracts 251, 263, 279  Stuyvesant Heights – Census Tracts 271.02, 273, 297  Southern Williamsburg – Census Tracts 237, 239, 507, 509, 529, 531, 533, 535, 537, 539, 545  South Side – Census Tracts 513, 523, 525, 527, 547, 549, 551  North Side – Census Tracts 515, 517, 519, 555, 557  Bedford Stuyvesant – Census Tracts 227, 229, 233, 235, 241, 243, 245, 247, 249, 253, 255, 257, 259.01, 259.02, 261, 265, 267, 269, 271.01, 275, 277, 281, 283, 285.01, 285.02, 287, 289, 291, 293, 295, 299, 381, 383, 385, 387  Greenpoint – Census Tracts 563, 575, excluding 499, 559, 565, 567, 569, 571, 573, 591, 593  Ridgewood – Census Tracts 429, 431, 441, 443, 445, 447  Bushwick – Census Tracts 389, 391, 393, 395, 397, 399, 401, 405, 409, 411, 413, 415, 417, 419, 421, 423, 425, 427, 433, 435, 437, 439, 453, 487  Ocean Hill – Census Tracts 301, 303, 361, 363, 365.01, 369, 371, 373, 375, 377, 379  North Williamsburg – Census Tracts 495, 497, 503, excluding 477, 501  Brownsville – Census Tracts 894, 896, 898, 900, 902, 904, 906, 908, 910, 912, 914, 918, 920  East New York – Census Tracts 1114, 1118, 1120, 1122, 1124, 1126, 1128, 1130, 1132, 1134, 1136, 1138, 1148, 1150, 1152, 1154, 1156, 1158, 1160, 1162, 1164, 1166, 1168, 1170, 1192, 1194  Highland Park – Census Tracts 1142.01, 1146, 1172.01, 1172.02, 1174, excluding 1142.02  City Line – Census Tracts 1188, 1190, 1196, 1200, 1208, 1210, excluding 1186, 1202  Fresh/Spring Creek – Census Tracts 1040, 1070, 1214, excluding 1220  New Lots – Census Tracts 982, 1100, 1102, 1110, 1172, excluding 1078, 1106  Cypress Hill – Census Tracts 1176.01, 1176.02, 1178, 1184, excluding 1182.01, 1182.02  Boro Park – Census Tracts 110, 112, 192, 218, 220, 222, 226, 228, 230, 232, 238, 240, 472, 478, excluding 114, 116, 214, 216, 224, 234, 236, 242, 470, 474, 476  Central Williamsburg – Census Tracts 489, 491, 493, 505, 511 Queens South Jamaica – Census Tracts 182, 184.01, 184.02, 186, 188, 190, 192, 272, 274, 276, 278, 284, 288, 788, 790, excluding 792  Springfield Gardens North – Census Tracts 330, 768, excluding 292, 334.02  Springfield Gardens South – Census Tracts 766, excluding 304, 320  Hollis – Census Tracts 500, 502.01, 508, excluding 482, 484, 502.02, 510  St. Albans – Census Tracts 334.01, 352, 398, 404, 504, 522, 524, 526, 528, excluding 280, 282, 366, 368, 376, 384, 394, 400, 402, 420, 422, 424, 426, 432, 506, 518, 520, 530, 532  Breezy Point and Roxbury – Census Tracts 916.02, excluding 916.01, 918  Rockaway Park/Seaside – Census Tract 942.01, excluding 938  Hammels – Census Tract 942.02, excluding 942.03  Arverne-Edgemere – Census Tract 952, excluding 962, 964, 972, 992  Far Rockaway – Census Tract 1032, excluding 998, 1010  Broad Channel – Census Tract 1072.01, excluding 1072.02  Forest Hills – Census Tract 725, excluding 645, 707, 709, 711, 713.01, 719, 727, 729, 731, 733, 735, 737, 739, 741, 743, 745, 747, 757, 769.01, 769.02, 771  Ridgewood – Census Tracts 545, 553, 559, 589, excluding 539, 547, 549, 551, 555, 557, 581, 583, 585, 587, 591, 593, 595, 603, 613  Flushing – Census Tracts 867, 871, 875, excluding 797, 845, 851, 853, 855, 865, 889, 907, 1161  Corona – Census Tracts 411, 413, 415, 427, 439, excluding 437, 443, 455  North Corona – Census Tracts 375, 377, 379, 401, 403, 405, 407, 409, excluding 381  East Elmhurst – Census Tracts 353, 361, 365, 369, 373, excluding 355, 363, 367, 371  Jackson Heights – Census Tracts 273, 275, 277, 279, 281, 283, 285, 287, 289, 291, 309.02, 327, 329, 337, 339, 347, 351  Maspeth – Census Tracts 535, excluding 205.01, 205.02, 219, 229, 243, 489, 493.01, 493.02, 495, 497, 511, 513, 515, 517, 521, 525, 527, 529, 599, 601, 667  Sunnyside – Census Tracts 179, 197, 235, excluding 169, 171, 181, 183, 185, 187, 189, 191, 253  Hunter's Point – Census Tract 019, excluding 001, 007  Queens Village – Census Tracts 516, 540, excluding 496, 512, 536, 538, 542, 548, 552, 554, 556, 558, 560, 562, 564, 566, 568, 578, 580, 588  Jamaica Hills – Census Tracts 446.02, excluding 448, 450, 452, 454, 456  Briarwood – Census Tracts 236, 238, excluding 214, 220.01, 220.02, 230, 779.05  Richmond Hill – Census Tracts 142.01, 142.02, 152, excluding 024, 026, 028, 098, 108, 110, 118, 120, 122, 124, 126.01, 126.02, 128, 130, 132, 144, 148, 150, 154, 156  South Ozone Park – Census Tracts 158, 174, 178, 180, 814, 818, excluding 094, 096, 100, 102, 104, 106, 164, 166, 168, 170, 172, 176, 838, 840, 846.01, 846.02, 864  Ozone Park – Census Tract 050, excluding 032, 034, 036, 038, 040.01, 040.02, 042, 044.01, 052, 054, 058, 086, 088, 112, 114, 116, 878  Lindenwood – Census Tract 044.02, excluding 062  Jamaica – Census Tracts 194.01, 194.02, 196, 198, 202, 204, 206, 208, 212, 240, 244, 246, 248, 250, 252, 258, 260, 262, 264, 266, 270, 410, 414, 440, 442, 460, excluding 434, 446.01, 462, 468, 470, 480  Woodside – Census Tracts 163, 297, excluding 245, 247, 249, 251, 255, 257, 259, 261, 263, 293, 295, 299  Astoria – Long Island City – Census Tracts 025, 029, 035, 043, 055, 079, 081, 087, 141, 155, 157, 161, excluding 027, 031, 037, 041, 045, 047, 049, 051, 053, 057, 059, 061, 063, 065, 069, 071, 073, 075, 077, 083, 091, 143, 145, 147, 149, 151, 153, 159  Laurelton – Census Tracts 328, 358, excluding 616.01, 618, 620, 624, 626, 630, 632, 646, 650, 682 Bronx Bathgate – Census Tracts 165, 167, 375.01, 377, 385  Baychester, Historic Village of – Census Tract 302  Bedford Park – Census Tracts 403.01, 403.02, 405, excluding 407.01, 407.02, 411, 413, 415  Belmont – Census Tracts 387, 389, 391, 393, 397  Bronxdale – Census Tracts 336, 338, 340, excluding 324, 328, 330, 332  Bronx River – Census Tracts 062, 064, 066, 214, 054, 056, excluding 058  Castle Hill – Census Tracts 086, 088, excluding 074, 084, 102  Claremont – Census Tracts 145, 147, 169  Concourse Village – Census Tracts 059.02, excluding 061  East Concourse – Census Tracts 173, 175, 177, 179, 181, 183  East Tremont – Census Tracts 359, 361, 363, 365.01, 365.02, 367, 369.01, 369.02, 371, 373, 375.02, 375.03  Fordham – Census Tracts 237.01, 237.02, 239, 383, 399.01, 399.02, 401  Highbridge – Census Tracts 189, 193, 199, 201, 211, 213.02, 219  Hunt's Point – Census Tracts 089, 099, 115.01, 115.02, 119, 121.01, 121.02, 123, 125, 127.01, 127.02, 129.02, 153, 155, 157, 161, excluding 081, 091, 097, 105  Jerome Park – Census Tract 273, excluding 267, 277, 279, 281, 409  Kingsbridge Heights – Census Tracts 263, 265, excluding 261, 269, 271.02  Longwood – Census Tracts 083, 085, 087, 129.01, 131  Melrose – Census Tracts 065, 067, 069, 139, 141, 143  Morris Heights – Census Tracts 205, 213.01, 215.01, 215.02, 217.01, 243, 245  Morrisania – Census Tracts 135, 149, 151  Mott Haven – Census Tracts 023, 025, 027.01, 027.02, 031, 033, 035, 037, 039, 041, 043, 047, 049, 071, 073, 075, 077, 079  Mount Eden – Census Tracts 225, 227.03, 229.02, excluding 171  Mount Hope – Census Tracts 227.01, 229.01, 231, 233.01, 233.02, 235.01, 235.02, 241, 379, 381  Norwood – Census Tract 431, excluding 419, 421, 423, 425, 429.01, 429.02  Olinville – Census Tracts 374, 376, excluding 370, 372  Park Stratton – Census Tract 218, excluding 216.01  Port Morris – Census Tracts 011, 015, 017  Parkchester – Census Tract 206.02, excluding 208, 210, 212, 216.02  Soundview – Census Tracts 016, 020, 036, 038, 046, excluding 024, 028, 040.02  Soundview/Bruckner – Census Tracts 044, 048, 050, 052, 068, 070, excluding 040.01, 072  Throgs Neck – Census Tracts 110, 144, excluding 130, 132, 154, 156, 158, 162, 164, 166  University Heights – Census Tracts 247, 251, 253, 255, 257, excluding 249  Van Nest – Census Tracts 230, 242, excluding 232, 234, 236, 240  Wakefield – Census Tract 446, excluding 410, 414, 418, 428, 430, 432, 436, 438, 440, 442  West Concourse – Census Tracts 057, 059.01, 195, 197, 217.02, 221, 223, 227.02, excluding 187  West Farms – Census Tracts 060, 220  Williamsbridge – Census Tracts 390, 406, excluding 368, 378, 380, 382, 388, 392, 394, 396, 398, 404, 408, 420, 422, 424  Woodstock – Census Tracts 133, 137 Staten Island Arlington – Census Tract 319.02  Clifton/Fox Hills – Census Tract 40  New Brighton – Census Tract 77, excluding 81  Port Richmond – Census Tract 207, excluding 213, 219, 247  St. George – Census Tracts 7, 11, excluding 3, 9  Stapleton – Census Tracts 15, 21, 27, 29  West Brighton/Bodine Creek – Census Tracts 133.01, 133.02, excluding 65, 105, 121, 125, 141  Posebank/Arrochar – Census Tract 74, excluding 8, 20.01, 20.02, 36
-
-  
-
-
-
-
-
-
-*APPENDIX B** ::
-
-
- MAPS OF ECONOMIC DEVELOPMENT AREA               
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-372-img$3.0$p=
-
-
-Manhattan Economic Development 1 of 5              
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-374-img$3.0$p=
-
-
- Manhattan Economic Development 2 of 5            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-376-img$3.0$p=
-
-
- Manhattan Economic Development 3 of 5              
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-378-img$3.0$p=
-
-
- Manhattan Economic Development 4 of 5            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-380-img$3.0$p=
-
-
- Manhattan Economic Development 5 of 5            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-382-img$3.0$p=
-
-
- Brooklyn Economic Development 1 of 11        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-384-img$3.0$p=
-
-
- Brooklyn Economic Development 2 of 11          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-386-img$3.0$p=
-
-
- Brooklyn Economic Development 3 of 11            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-388-img$3.0$p=
-
-
- Brooklyn Economic Development 4 of 11              
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-390-img$3.0$p=
-
-
- Brooklyn Economic Development 5 of 11        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-392-img$3.0$p=
-
-
- Brooklyn Economic Development 6 of 11      
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-394-img$3.0$p=
-
-
- Brooklyn Economic Development 7 of 11        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-396-img$3.0$p=
-
-
- Brooklyn Economic Development 8 of 11               
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-398-img$3.0$p=
-
-
- Brooklyn Economic Development 9 of 11        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-400-img$3.0$p=
-
-
- Brooklyn Economic Development 10 of 11      
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-402-img$3.0$p=
-
-
- Brooklyn Economic Development 11 of 11        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-404-img$3.0$p=
-
-
- Queens Economic Development 1 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-406-img$3.0$p=
-
-
- Queens Economic Development 2 of 17          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-408-img$3.0$p=
-
-
- Queens Economic Development 3 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-410-img$3.0$p=
-
-
- Queens Economic Development 4 of 17          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-412-img$3.0$p=
-
-
- Queens Economic Development 5 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-414-img$3.0$p=
-
-
- Queens Economic Development 6 of 17          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-416-img$3.0$p=
-
-
- Queens Economic Development 7 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-418-img$3.0$p=
-
-
- Queens Economic Development 8 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-420-img$3.0$p=
-
-
- Queens Economic Development 9 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-422-img$3.0$p=
-
-
- Queens Economic Development 10 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-424-img$3.0$p=
-
-
- Queens Economic Development 11 of 17          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-426-img$3.0$p=
-
-
- Queens Economic Development 12 of 17               
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-428-img$3.0$p=
-
-
- Queens Economic Development 13 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-430-img$3.0$p=
-
-
- Queens Economic Development 14 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-432-img$3.0$p=
-
-
- Queens Economic Development 15 of 17        
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-434-img$3.0$p=
-
-
- Queens Economic Development 16 of 17          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-436-img$3.0$p=
-
-
- Queens Economic Development 17 of 17            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-438-img$3.0$p=
-
-
- Bronx Economic Development 1 of 8            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-440-img$3.0$p=
-
-
- Bronx Economic Development 2 of 8                 
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-442-img$3.0$p=
-
-
- Bronx Economic Development 3 of 8          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-444-img$3.0$p=
-
-
- Bronx Economic Development 4 of 8            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-446-img$3.0$p=
-
-
- Bronx Economic Development 5 of 8            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-448-img$3.0$p=
-
-
- Bronx Economic Development 6 of 8            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-450-img$3.0$p=
-
-
- Bronx Economic Development 7 of 8            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-452-img$3.0$p=
-
-
- Bronx Economic Development 8 of 8            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-454-img$3.0$p=
-
-
- Staten Island 1 of 9          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-456-img$3.0$p=
-
-
- Staten Island 2 of 9          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-458-img$3.0$p=
-
-
- Staten Island 3 of 9          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-460-img$3.0$p=
-
-
- Staten Island 4 of 9          
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-462-img$3.0$p=
-
-
- Staten Island 5 of 9            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-464-img$3.0$p=
-
-
- Staten Island 6 of 9            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-466-img$3.0$p=
-
-
- Staten Island 7 of 9            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-468-img$3.0$p=
-
-
- Staten Island 8 of 9            
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-470-img$3.0$p=
-
-
- Staten Island 9 of 9
-
-  
-
-
-
-
-
-
-*APPENDIX C** ::
-
-
- 1989 LOWER LIVING STANDARD INCOME LEVEL TABLE  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Family Size 
-      -  
-      - Non- Metropolitan Areas1
-      -  
-      - Metropolitan Areas2
-      -  
-      - Buffalo MSA3
-      -  
-      - New York City MSA4
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1 
-      -  
-      -   5,160 
-      -  
-      -   5,250 
-      -  
-      -   4,780 
-      -  
-      -   5,410 
-    * - 2 
-      -  
-      -   8,450 
-      -  
-      -   8,600 
-      -  
-      -   7,870 
-      -  
-      -   8,870 
-    * - 3 
-      -  
-      - 11,610 
-      -  
-      - 11,800 
-      -  
-      - 10,750 
-      -  
-      - 12,180 
-    * - 4 
-      -  
-      - 14,330 
-      -  
-      - 14,570 
-      -  
-      - 13,270 
-      -  
-      - 15,040 
-    * - 5 
-      -  
-      - 16,910 
-      -  
-      - 17,190 
-      -  
-      - 15,660 
-      -  
-      - 17,750 
-    * -  65
-      -  
-      - 19,780 
-      -  
-      - 20,110 
-      -  
-      - 18,310 
-      -  
-      - 20,760 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1 Non-Metro SDAs:
-      -  
-      - Clinton-Essex-Franklin-Hamilton; St. Lawrence, Jefferson-Lewis; Ulster; Sullivan; Chenango-Delaware-Otsego; Cayuga-Cortland-Tomkinsa;Allegheny-Cattaraugus-Chautauqua
-    * - 2 Metro SDAs:
-      -  
-      - Albany-Rensselaer-Schenectady; Columbia-Greene; Saratoga-Warren-Washington; Fulton- Montgomery-Schoharie; Oneida-Herkimer-Madison; Oswego; City of Syracuse; Balance of Onondaga; Broome-Tioga-Tompkinsa; Chemung-Schuyler-Steuben; Ontario-Wayne-Seneca-Yates; Genesee-Livingston-Orleans-Wyoming; Monroe
-    * - 3 Buffalo MSA SDAs:
-      -  
-      - Erie; Niagara
-    * - 4 NYC MSA SDAs:
-      -  
-      - Hempstead-Long Beach; Oyster Bay; Suffolk; New York City; City of Yonkers, Balance of Westchester; Rockland; Dutchess-Putnam; Orange
-    * - 5 
-      -  
-      - For families larger than six persons, an amount equal to the difference between the six and the five person family income levels should be added to the six person family income level for each additional in the family.
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Note:  
-      - UDSOL Has Indicated That These Tables Are Only Valid for the Purpose of Determining Eligibility for Applicable JTPA and TJTC Programs.
-~
-
-
-
-Effective: May 4, 1989  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - a  
-      - Effective July 1, 1989, Tompkins will merge with Broome-Tioga to form the Broome-Tioga-Tompkins SDA. Until June 30, 1989, Tompkins must use the non-metro area income guidelines. As of July 1, 1989, the metro income guidelines are to be used by Tompkins intake staff.
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 1989 POVERTY INCOME GUIDELINES  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Size of Family Unit 
-      -  
-      - Poverty Guidelines 
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 1 
-      -  
-      - $  5,980 
-      -  
-    * -  
-      - 2 
-      -  
-      - $  8,020 
-      -  
-    * -  
-      - 3 
-      -  
-      - $10,060 
-      -  
-    * -  
-      - 4 
-      -  
-      - $12,100 
-      -  
-    * -  
-      - 5 
-      -  
-      - $14,140 
-      -  
-    * -  
-      - 6 
-      -  
-      - $16,180 
-      -  
-    * -  
-      - 7 
-      -  
-      - $18,220 
-      -  
-    * -  
-      - 8 
-      -  
-      - $20,260 
-      - 
-~
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- For family units with more than 8 members, add $2,040 for each additional member. Effective Date: February 16, 1989
 
 
 
@@ -8627,7 +6487,7 @@ The total amount of the grants authorized by this subchapter shall be limited to
 
 
 
-*Editor's note: The original rule numbered this as Section 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
+*Editor's note: The original rule numbered this as § 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
 
 
 
@@ -8665,7 +6525,7 @@ City means the City of New York.
 
 Commissioner means the Commissioner of the New York City Department of Small Business Services or his or her designee or his or her successor in function.
 
-Comparable alternative product means a product to be used by the business or not-for-profit corporation in place of an expanded polystyrene single service item prohibited by section 16-329 of the Administrative Code or any successor provision.
+Comparable alternative product means a product to be used by the business or not-for-profit corporation in place of an expanded polystyrene single service item prohibited by § 16-329 of the Administrative Code or any successor provision.
 
 Day means a calendar day unless otherwise specified.
 
@@ -8751,7 +6611,7 @@ Undue financial hardship means that an applicant has demonstrated any of the fol
 
 (d) Applicants receiving a denial of a waiver request may reapply after twelve months from the date of the denial of the initial application. Applicants receiving a denial of a waiver request or a renewal request shall have two months from the date of the denial to come into compliance with section 16-329 of the Administrative Code.
 
-(e) DSBS will send applicants an acknowledgment letter notifying the applicant of receipt of its pending application for a financial hardship waiver within twenty calendar days from the date of receipt of a waiver request application. A pending application for a financial hardship waiver or application for renewal of a waiver shall be a defense to any notice of violation issued pursuant to section 16-329 Administrative Code to which such pending application relates and such notice of violation shall be dismissed.
+(e) DSBS will send applicants an acknowledgment letter notifying the applicant of receipt of its pending application for a financial hardship waiver within twenty calendar days from the date of receipt of a waiver request application. A pending application for a financial hardship waiver or application for renewal of a waiver shall be a defense to any notice of violation issued pursuant to § 16-329 Administrative Code to which such pending application relates and such notice of violation shall be dismissed.
 
 
 
@@ -8806,8 +6666,6 @@ Commercial Business. "Commercial Business" means a storefront business predomina
 
 Commercial District Needs Assessment. "Commercial District Needs Assessment" means a customized analysis conducted by a not-for-profit corporation in coordination with DSBS of a
 
-neighborhood's demographics, small business and retail conditions, Commercial Business activity, built environment, community involvement, and strengths, challenges, and opportunities.
-
 Commercial Revitalization Area(s). "Commercial Revitalization Area(s)", mean(s) the designated geographic location in New York City described as the target area(s) in any Commercial Revitalization Contract(s) with DSBS and amendment(s) thereto, including Commercial Revitalization Contract(s) no longer in effect.
 
 Commercial Revitalization Contract(s). "Commercial Revitalization Contract(s)" mean(s) any grant(s) or contract(s) with DSBS for the provision of Commercial Revitalization Activities. Commercial Revitalization Activities. "Commercial Revitalization Activities" are services, programs, and technical assistance that include, but need not be limited to, neighborhood beautification projects, supplemental sanitation and public safety services, public space activation/maintenance/management, branding/marketing campaigns, production and coordination of local events, business improvement district planning, merchant organizing, retail recruitment strategy development, minor physical improvements to the public realm, neighborhood planning, organizational development, and general program administration.
@@ -8824,11 +6682,9 @@ Fiscal year. "Fiscal Year" means the time starting July 1st and ending June 30th
 
 Neighborhood 360 Program. "Neighborhood 360 Program" means a program administered by DSBS in which not-for-profit corporations enter into Commercial Revitalization Contracts with DSBS to develop and implement Commercial Revitalization Activities that improve and enhance Designated Service Areas and the Commercial Businesses that are located in these Designated Service Areas. The objective of the Neighborhood 360 Program is to support the economic vitality of commercial districts across New York City by directly addressing locally identified, community development needs through the planning, development, and implementation of a
 
-variety of Commercial Revitalization Activities including, but not limited to neighborhood beautification projects, supplemental sanitation and public safety services, public space activation/maintenance/management, branding/marketing campaigns, production and coordination of local events, business improvement district planning, merchant organizing, retail recruitment strategy development, minor physical improvements to the public realm, neighborhood planning studies, organizational development, and general program administration.
-
 Grant. "Grant" means a grant from the Neighborhood 360 Program to a not-for-profit corporation for the costs of developing and implementing Commercial Revitalization Activities in a Designated Service Area.
 
-Rezoning. "Rezoning" means changing the zoning designation(s) for an area on the zoning map or zoning text. A zoning map amendment is subject to the uniform land use review process, set forth in section 197-c of the New York City Charter.
+Rezoning. "Rezoning" means changing the zoning designation(s) for an area on the zoning map or zoning text. A zoning map amendment is subject to the uniform land use review process, set forth in § 197-c of the New York City Charter.
 
 Special Assessment District. "Special Assessment District" means the Jamaica Center Mall special assessment district in the borough of Queens established pursuant to Chapter 665 of the Laws of New York of 1978, as amended by Chapter 466 of the Laws of New York of 1984; or the Fulton Mall special assessment district in the borough of Brooklyn established pursuant to Chapter 911 of the Laws of New York of 1976, as amended by Chapter 17 of the Laws of New York of 1981; or the 165th Street Mall special assessment district in the borough of Queens established pursuant to Chapter 910 of the Laws of New York of 1976.
 
@@ -8900,7 +6756,7 @@ Applicants must meet the following eligibility criteria:
 
 All Applicants will be evaluated and funds will be awarded each Fiscal Year by an Application Review Committee. The Application Review Committee will use the following criteria to evaluate Neighborhood 360 Grant applications:
 
-a. Eligibility. Eligibility shall be determined by § 14-03 of this chapter (General Eligibility Requirements).
+a. Eligibility. Eligibility shall be determined by 66 RCNY § 14-03 (General Eligibility Requirements).
 
 b. Need. The degree to which the Applicant's proposed Commercial Revitalization Activities will address the needs of a Designated Service Area, to be determined by analyzing criteria demonstrated by the Applicant including, but not limited to:
 
@@ -9067,31 +6923,31 @@ b. Preliminary Ranking. DSBS will rank all eligible Applicants using the followi
 
    1. Business Criteria.
 
-      (a) Number of years in operation (1-5 points, with 1 point for 3-5 years and 5 points for 12 years or longer);
+      (a) Number of years in operation (1 - 5 points, with 1 point for 3 - 5 years and 5 points for 12 years or longer);
 
-      (b) Time remaining on current lease (0-5 points, with zero points for less than 1 year and 5 points for more than 10 years);
+      (b) Time remaining on current lease (0 - 5 points, with zero points for less than 1 year and 5 points for more than 10 years);
 
-      (c)  Amount of real estate cost increase (1-5 points, with 1 point for 5-10% and 5 points for 40% or more);
+      (c)  Amount of real estate cost increase (1 - 5 points, with 1 point for 5 - 10% and 5 points for 40% or more);
 
-      (d) Number of employees (0-5 points, with zero points for 0-1 employees and five points for twenty or more employees);
+      (d) Number of employees (0 - 5 points, with zero points for 0 - 1 employees and five points for twenty or more employees);
 
       (e) Nomination for DSBS’ Community Cornerstone Program (1 point for nominated businesses);
 
-      (f) National retailers/chain store(s) within a five block radius of Applicant’s business location offering the same goods or services (0-5 points with zero points for no nearby chain competitor and 5 points for 5 or more chain competitors); and
+      (f) National retailers/chain store(s) within a five block radius of Applicant’s business location offering the same goods or services (0 - 5 points with zero points for no nearby chain competitor and 5 points for 5 or more chain competitors); and
 
       (g) Neighborhood/community engagement (0 or 1 point for engagement that may include, but not be limited to, sponsoring local community projects, hosting community events, featuring local artists, musicians or performers, and/or sourcing/featuring local products or services).
 
    2. Neighborhood Criteria. DSBS will consult independent and current data sources to assign a score to Applicant for each of the following neighborhood criteria:
 
-      (a) The percentage of small businesses in the neighborhood of the Applicant’s Business (1-3 points, with 1 point for neighborhoods where the percentage of small businesses is greater than 30% of all local businesses and 3 points for neighborhoods where the percentage of small businesses is less than 20% of all local businesses). “Small business” and “neighborhood” will have the same meanings as those terms have when used in the Association for Neighborhood Housing and Development’s Equitable Economic Development Indicators;
+      (a) The percentage of small businesses in the neighborhood of the Applicant’s Business (1 - 3 points, with 1 point for neighborhoods where the percentage of small businesses is greater than 30% of all local businesses and 3 points for neighborhoods where the percentage of small businesses is less than 20% of all local businesses). “Small business” and “neighborhood” will have the same meanings as those terms have when used in the Association for Neighborhood Housing and Development’s Equitable Economic Development Indicators;
 
-      (b) The number of small business loans in the neighborhood of the Applicant’s Business (1-3 points, with 1 point for neighborhoods determined to have a high number of small business loans (approximately 3,000 or more) and 3 points for neighborhoods determined to have a low number of small business loans (approximately 1,200 or fewer)). “Small business” and “neighborhood” will have the same meanings as those terms have when used in the Association for Neighborhood Housing and Development’s Equitable Economic Development Indicators;
+      (b) The number of small business loans in the neighborhood of the Applicant’s Business (1 - 3 points, with 1 point for neighborhoods determined to have a high number of small business loans (approximately 3,000 or more) and 3 points for neighborhoods determined to have a low number of small business loans (approximately 1,200 or fewer)). “Small business” and “neighborhood” will have the same meanings as those terms have when used in the Association for Neighborhood Housing and Development’s Equitable Economic Development Indicators;
 
-      (c) The household median income in the neighborhood of the Applicant’s Business (1-3 points, with 1 point for neighborhoods determined to have a neighborhood household median income of approximately $60,000 per year or higher and 3 points for neighborhoods determined to have a neighborhood household median income of approximately $42,000 per year or lower). “Neighborhood” has the definition set forth in the American Community Survey;
+      (c) The household median income in the neighborhood of the Applicant’s Business (1 - 3 points, with 1 point for neighborhoods determined to have a neighborhood household median income of approximately $60,000 per year or higher and 3 points for neighborhoods determined to have a neighborhood household median income of approximately $42,000 per year or lower). “Neighborhood” has the definition set forth in the American Community Survey;
 
       (d) The percentage of change in the presence of national retailers/chains in the neighborhood of the Applicant’s Business . “Neighborhood” will have the same meaning as the term has when used in the Center for an Urban Future’s annual reports on the prevalence of chain restaurants;
 
-      (e) Neighborhood affordability (1-3 points, with 1 point for businesses in neighborhoods classified as high income and 3 points for neighborhoods classified as both low income and gentrifying, as defined in the Furman Center State of New York City’s Housing and Neighborhoods. “Neighborhood” will have the same meaning as the term has when used in the Gentrification Analysis of the Furman Center’s periodic reports on New York City’s housing and neighborhoods.
+      (e) Neighborhood affordability (1 - 3 points, with 1 point for businesses in neighborhoods classified as high income and 3 points for neighborhoods classified as both low income and gentrifying, as defined in the Furman Center State of New York City’s Housing and Neighborhoods. “Neighborhood” will have the same meaning as the term has when used in the Gentrification Analysis of the Furman Center’s periodic reports on New York City’s housing and neighborhoods.
 
    3. Based on the numerical scores assigned to each Applicant, DSBS will identify the fifty Applicants with the highest scores. A tie between Applicants with the same scores will be broken by analyzing points granted for individual business criteria first, followed by neighborhood criteria. These fifty Applicants will be given an opportunity to receive an initial Business Needs Assessment. In the event that one or more of these fifty Applicants do not complete the initial Business Needs Assessment, DSBS may select replacements from the remaining ranked businesses, in order in which such businesses are ranked.
 
@@ -9160,8 +7016,8 @@ c. Initial Business Needs Assessment.
       - N/A
     * - Months of inventory reports available
       - Less than 1
-      - 1-6
-      - 7-12
+      - 1 - 6
+      - 7 - 12
       - More than 12
     * - 
       - 
@@ -9180,8 +7036,8 @@ c. Initial Business Needs Assessment.
       - N/A
     * - Months of sales reports available
       - Less than 1
-      - 1-6
-      - 7-12
+      - 1 - 6
+      - 7 - 12
       - More than 12
     * - 
       - 
@@ -9200,8 +7056,8 @@ c. Initial Business Needs Assessment.
       - N/A
     * - Months of payroll records available
       - Less than 1
-      - 1-6
-      - 7-12
+      - 1 - 6
+      - 7 - 12
       - More than 12
 ~
 
@@ -9237,7 +7093,7 @@ c. Initial Business Needs Assessment.
       - Insufficient records to calculate one year average
       - At financial risk = higher than 35%
       - At competitive risk = lower than 18%
-      - Healthy = 18-35%
+      - Healthy = 18 - 35%
     * - 
       - 
       - 
@@ -9267,7 +7123,7 @@ c. Initial Business Needs Assessment.
       - Insufficient records to calculate 1 year average
       - At financial risk = higher than 35%
       - At competitive risk = lower than 18%
-      - Healthy = 18-35%
+      - Healthy = 18 - 35%
     * - 
       - 
       - 

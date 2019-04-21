@@ -111,7 +111,7 @@ An owner of a designated property may apply for approval of a master plan when t
 *§ 2-04 Summonses – New Applications.* ::
 
 
-The Landmarks Preservation Commission will not process an application for work on a designated property when a Landmarks Preservation Commission Summons is in effect against that property. A Summons in effect against that property indicates non-compliance with the Landmarks Law. With respect to Chapter 63* of the Rules of the City of New York and sections 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
+The Landmarks Preservation Commission will not process an application for work on a designated property when a Landmarks Preservation Commission Summons is in effect against that property. A Summons in effect against that property indicates non-compliance with the Landmarks Law. With respect to Chapter 63* of the Rules of the City of New York and §§ 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
 
 *Editor's note: So in original; should likely be "Title 63".
 
@@ -742,7 +742,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
    (9) Painted and vinyl signage may be applied directly onto the storefront glazing, including glazing at the doors, transom and display window, provided that the signage does not exceed more than twenty (20) percent of the glazed area. For purposes of this paragraph, the percent of the glazed area covered by signage will be calculated by the total area of the sign as a visual object and the collective groupings of text and images, without subtracting for voids between letters, numbers or graphics.
 
-   (10) Signage installed on the exterior may be illuminated externally with a shielded source of light, including "halo" lit with a light source behind opaque letters, or with a small projecting fixture twelve (12) inches or less in length or width placed above the sign, with a maximum number of fixtures as follows: one fixture for the first one to six (1-6) feet of storefront opening; two fixtures if the storefront opening is between six to twelve (6-12) feet; three fixtures if the storefront opening is between twelve to eighteen (12-18) feet; and four fixtures if the storefront opening is between eighteen to twenty-four (18-24) feet. In no event will the light fixture arm project more than eighteen (18) inches from the sign. Cove fixtures must have the same finish as the sign, and if the sign projects from the facade, the cove fixture must be an integral part of the sign.
+   (10) Signage installed on the exterior may be illuminated externally with a shielded source of light, including "halo" lit with a light source behind opaque letters, or with a small projecting fixture twelve (12) inches or less in length or width placed above the sign, with a maximum number of fixtures as follows: one fixture for the first one to six (1 - 6) feet of storefront opening; two fixtures if the storefront opening is between six to twelve (6 - 12) feet; three fixtures if the storefront opening is between twelve to eighteen (12 - 18) feet; and four fixtures if the storefront opening is between eighteen to twenty-four (18 - 24) feet. In no event will the light fixture arm project more than eighteen (18) inches from the sign. Cove fixtures must have the same finish as the sign, and if the sign projects from the facade, the cove fixture must be an integral part of the sign.
 
    (11) Light fixtures will be installed in areas of plain masonry, metal, or wood, provided that the installation does not damage, destroy, or obscure significant architectural features of the building or storefront.
 
@@ -1218,7 +1218,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
    (1) This section addresses LPC Staff approvals for additions to existing buildings, including rooftop, rear and side yard additions. It does not apply to additions to buildings in scenic landmarks.
 
-   (2) This section does not apply to any building already subject to a District Master Plan that includes criteria for additions. (See Chapters 4, 6 and 12, and the Sunnyside Gardens Historic District guidelines.)
+   (2) This section does not apply to any building already subject to a District Master Plan that includes criteria for additions. (See 63 RCNY Chapters 4, 6 and 12, and the Sunnyside Gardens Historic District guidelines.)
 
    (3) The design and installation of additions consisting of heating, ventilation and air-conditioning equipment must meet the requirements set forth in 63 RCNY § 2-21. Flues and chimneys that are part of an addition or that must be raised as a result of an addition are included in this section.
 
@@ -1836,7 +1836,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
    (2) Areas no longer covered by granite pavers will be replaced with new granite pavers or concrete pavers tinted and scored to recall the size of the historic granite pavers and saw cut;
 
-   (3) Existing granite pavers will be sliced horizontally to create new or lighter pavers, provided that (i) the footprint of each paver is maintained and the paver is reinstalled in approximately the same location, and (ii) the resulting paver(s) will maintain a minimum of three to four (3-4) inch thickness and otherwise meet DOT requirements and comply with Department of Buildings structural requirements; and
+   (3) Existing granite pavers will be sliced horizontally to create new or lighter pavers, provided that (i) the footprint of each paver is maintained and the paver is reinstalled in approximately the same location, and (ii) the resulting paver(s) will maintain a minimum of three to four (3 - 4) inch thickness and otherwise meet DOT requirements and comply with Department of Buildings structural requirements; and
 
    (4) New granite pavers will match the color, texture, dimensions and edge treatment of the existing granite pavers and will have a slip-resistant finish in accordance with DOT requirements.
 
@@ -2280,7 +2280,7 @@ Terms not otherwise defined in these rules have the meanings ascribed to them in
 
    (5) Public communications structure or PCS. The term "public communications structure" or "PCS" means a structure installed on public property pursuant to a valid PCS Franchise Agreement.
 
-   (6) Public pay telephone or PPT. The term "public pay telephone" or "PPT" is defined by Section 23-401(f) of the Administrative Code of the City of New York.
+   (6) Public pay telephone or PPT. The term "public pay telephone" or "PPT" is defined by § 23-401(f) of the Administrative Code of the City of New York.
 
 (c) Approval of Installation and Design of PPT Enclosure and of PCS Installation.
 
@@ -2361,7 +2361,7 @@ Landmarks Preservation Commission. "Landmarks Preservation Commission" means the
 
 LPC staff. "LPC Staff" means the staff of the Landmarks Preservation Commission acting in the Commission's agency capacity.
 
-Summons. "Summons" means a notice from the Landmarks Preservation Commission that work on a landmark site or within an historic district was performed without a permit or was not performed in accordance with a permit issued by the Landmarks Preservation Commission. With respect to Chapter 63* of the Rules of the City of New York and sections 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
+Summons. "Summons" means a notice from the Landmarks Preservation Commission that work on a landmark site or within an historic district was performed without a permit or was not performed in accordance with a permit issued by the Landmarks Preservation Commission. With respect to Chapter 63* of the Rules of the City of New York and §§ 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
 
 *Editor's note: So in original; should likely be "Title 63".
 
@@ -2411,7 +2411,7 @@ Terms not otherwise defined in these rules have the meaning given them in the La
 
             (d) does not involve excavation, except for minimal excavation related to elevator or mechanical work, or any change to, replacement of, or penetration of, a window, skylight, exterior wall or roof or any portion thereof, and
 
-            (e) for floors one through six (1-6) does not involve a dropped ceiling greater than one foot (1'0") below the head of a window, a perpendicular partition abutting a window, or a parallel partition blocking more than one foot (1'0") of a window, any of which is less than a minimum of one foot (1'-0") back from interior window sill or frame, whichever is further from the glass.
+            (e) for floors one through six (1 - 6) does not involve a dropped ceiling greater than one foot (1'0") below the head of a window, a perpendicular partition abutting a window, or a parallel partition blocking more than one foot (1'0") of a window, any of which is less than a minimum of one foot (1'-0") back from interior window sill or frame, whichever is further from the glass.
 
          (C) that where there are associate architects or engineers, that they likewise join in the request for an expedited review of the application;
 
@@ -2512,8 +2512,6 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 
 
 
-
- 
 
 
 
@@ -3838,7 +3836,7 @@ In addition to the service requirements of the court or tribunal at which a Summ
 *§ 11-04 Warning Letter.* ::
 
 
-Subject to the exceptions set forth in § 25-317.1b(1) of the Administrative Code, the LPC shall mail a warning letter to a respondent prior to the issuance of a Summons. The warning letter shall inform the respondent that the LPC believes a violation of the Landmarks Law has occurred at the subject premises and shall also: (1) describe the violation in general detail; (2) warn the respondent that the law authorizes civil and criminal penalties for violations; (3) notify the respondent that a Summons may be served unless, within 20 working days of the date of the warning letter, the violation is corrected or an application to legalize or cure the violation is received by the Commission.
+Subject to the exceptions set forth in § 25-317.1(b)(1) of the Administrative Code, the LPC shall mail a warning letter to a respondent prior to the issuance of a Summons. The warning letter shall inform the respondent that the LPC believes a violation of the Landmarks Law has occurred at the subject premises and shall also: (1) describe the violation in general detail; (2) warn the respondent that the law authorizes civil and criminal penalties for violations; (3) notify the respondent that a Summons may be served unless, within 20 working days of the date of the warning letter, the violation is corrected or an application to legalize or cure the violation is received by the Commission.
 
 
 
@@ -3850,7 +3848,7 @@ Subject to the exceptions set forth in § 25-317.1b(1) of the Administrative Cod
 *§ 11-05 Summons; Grace Period.* ::
 
 
-(a) A respondent will qualify for the grace period set forth in § 25-317.1 (b)(6) of the Administrative Code, and not be subject to a fine, by delivering, at least fourteen (14) days prior to the hearing date set forth in the Summons or previously issued Notice of Violation, the following to the Commission:
+(a) A respondent will qualify for the grace period set forth in § 25-317.1(b)(6) of the Administrative Code, and not be subject to a fine, by delivering, at least fourteen (14) days prior to the hearing date set forth in the Summons or previously issued Notice of Violation, the following to the Commission:
 
    (1) Admission of liability, and
 
@@ -4248,7 +4246,7 @@ Fees shall be computed as hereinafter provided:
 
    (2) a fee of fifteen cents per square foot, or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings that are one, two or three family dwellings.
 
-(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § [§ 26-212(2)(a), 212(2)(b), 212(5)(a)(1) and 212(5)(a)(2)] 28-112.2 of the Administrative Code.
+(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § 28-112.2 of the Administrative Code.
 
 (c) Demolition and removal. A fee computed by multiplying the street frontage in feet by the number of stories of the building times one dollar, but not less than one hundred dollars, shall be paid for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code. For corner lots, use the longer street frontage.
 

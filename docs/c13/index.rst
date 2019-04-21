@@ -3450,7 +3450,7 @@ The method of testing for nominal and minimum basis weight shall be the Tappi St
 
 (f) Capacity: The usable capacity of bags shall not exceed four cubic feet. Measurement of capacity will be determined by the application of the following formula, applying the prescribed measurements of the unfilled bag.
 
-   Cubic Foot Capacity = [T-0.4 (F+G)] [F+G)]                  5425
+   Cubic Foot Capacity = [T-0.4 (F+G)] [F+G)]               5425
 
 Where:   T = Inside Tube Length of Bag (in inches)    F = Inside Face Width of Bag (in inches)    G = Inside Gusset Width of Bag (in inches)
 

@@ -62,7 +62,7 @@ Chapter 2: Determinations of the New York City Civil Service Commission
 
 (g) All appeals to the Commission which result from a psychological disqualification by the City Personnel Director and/or his or her designee pursuant to § 813(6) of the City Charter shall be supported by medical documentation which shall be received by the Commission within sixty (60) days of the filing of the appeal.
 
-(h) Extension of the time periods set forth in 60 RCNY §§ 2-02(f) and 2-02(g) may be granted for good cause shown.
+(h) Extension of the time periods set forth in 60 RCNY § 2-02(f) and (g) may be granted for good cause shown.
 
 (i) When the Commission deems that oral argument is required as set forth in 60 RCNY § 2-02(d), such proceeding shall be scheduled within ninety (90) days of receipt of the complete record or as soon thereafter as practicable.
 
