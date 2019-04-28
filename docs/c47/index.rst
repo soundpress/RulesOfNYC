@@ -110,225 +110,6 @@ Any violation of these regulations or of any ordinance or law may result in the 
 
 
 
-Chapter 2: Burial Claims
---------------------------------------------------
-
-
-
-*§ 2-01 General Statement.* ::
-
-
-(a) The laws of the state of New York require that New York City be responsible for the burial of poor people who reside here. New York City meets these requirements in two ways. For those deceased persons who do not have a friend or relative who is willing to arrange for burial, the deceased is interred in New York City's burial ground (known as "Potter's Field"). For those deceased persons who have a friend or relative who wishes to arrange for burial through a funeral director, New York City will help pay burial expenses if there is no legally responsible relative living with the deceased at the time of death or prior to the institutionalization of the deceased who is financially able to pay for the burial. These regulations explain when and how much New York City will pay for the burial expenses when the funeral was arranged by a friend or relative.
-
-(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in 68 RCNY § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
-
-
-
-
-
-
-*§ 2-02 Definitions.* ::
-
-
-Applicant. An applicant is a relative or friend of the indigent decedent who has authorized or provided for the burial of an indigent person, has signed the prescribed form seeking assistance for burial expenses, and has hand-delivered the signed application to personnel of the Burial Claims Unit. A legally responsible relative who resided with the deceased prior to the deceased's institutionalization or at the time of death must be the applicant, for that deceased individual. Except for Organizational Friends, as defined in 68 RCNY § 2-02 "Friend" (2), applicants or their authorized representatives must appear in person at the Burial Claims Unit of the Human Resources Administration to apply for benefits.
-
-Application. An application is an action by which a person indicates his or her desire to receive a grant for burial expenses through signing and hand-delivering the prescribed form to personnel of the Burial Claims Unit.
-
-Authorized representative. An authorized representative means the person designated by the friend or relative to make funeral arrangements and/or to apply on the applicant's behalf. Proof of representation shall consist of a statement signed by the applicant designating the person as the authorized representative.
-
-Burial expenses. Burial expenses mean any cost related to the funeral or burial of the deceased which are enumerated in the written itemization statement or crematory/cemetery charge bill. The value of items or services donated by a funeral director, funeral home, or cemetery shall not be considered burial expense.
-
-Friend. A friend may be either an (1) individual; or (2) a charitable and/or religious organization.
-
-(1) Individual friend. A friend is any person who, prior to the decedent's death, maintained such regular contact with the deceased as to be familiar with the decedent's activities, health and religious beliefs. Such "friend" shall present a sworn, notarized statement stating the facts and circumstances upon which the claim that he is a "friend" is based. The following persons are not "friends" of the deceased for purposes of these regulations: Funeral directors and employees of the funeral home through whom funeral arrangements have or will be made; Public Administrators, acting in their official capacity; hospital administrators and hospital employees acting in their official capacity; administrators and employees of all facilities set forth in Article 28 of the Public Health Law acting in their official capacity.
-
-(2) Organizational friend. A charitable and/or religious organization may qualify as an "organizational friend" if the New York City Department of Social Services gives advance approval of such status based on the organization's satisfactorily meeting the following criteria:
-
-   (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
-
-   (ii) Part of the organization's function is to bury indigent persons;
-
-   (iii) The organization's principal place of business is in New York City;
-
-   (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) of the United States Internal Revenue Code;
-
-   (v) No board member or officer of the organization is a funeral home director with which the organization does business;
-
-   (vi) A substantial amount of the organization's funding for burial purposes comes from private sources; and
-
-   (vii) Annually, the organization makes its books and records available to the New York City Department of Social Services for inspection, review and audit, if necessary.
-
-Funeral directing. Funeral directing means the care and disposal of the body of a deceased person and/or the preserving, "disinfecting and preparing by embalming or otherwise, the body of a deceased person for funeral services, transportation, burial or cremation; and/or funeral directing or embalming as present known, pursuant to § 3400(d) of the Public Health Law or in accordance with the statutes of the funeral director's home state.
-
-Funeral director. A funeral director is a person to whom a valid license as such has been duly issued, pursuant to § 3400(a) of the Public Health Law or licensed in accordance with the statutes of the funeral director's home state.
-
-Funeral establishment. A funeral establishment means a single physical location, address or premises devoted to or used for the care and preparation of a body of a deceased person for disposition and for mourning or funeral ceremonial purposes, pursuant to § 3400(g) of the Public Health Law or licensed in accordance with the statutes of the funeral establishment's home state.
-
-Funeral firm. A funeral firm means an individual, partnership, corporation or estate representative engaged in the business and practice of funeral directing, pursuant to § 3400(j) of the Public Health Law or licensed in accordance with the statutes of the funeral firm's state.
-
-Indigent. An indigent is an individual who was in receipt of public assistance or Supplemental Security Income ("SSI"); or if less than age 65 was eligible for public assistance; or if age 65 and over, was eligible for SSI.
-
-Legally responsible relative. A legally responsible relative is legally obligated to furnish support for the following persons: a spouse; a son or daughter under the age of twenty-one years and a step-child under the age of twenty-one years. A person is not chargeable with the support of an adopted child of his or her spouse, if the child was adopted after the adopting spouse is living separate and apart from the non-adopting spouse pursuant to a legally recognizable separation agreement or decree under the domestic relations law, and the spouses remain separate and apart after the adoption.
-
-New York City. New York City means the Human Resources Administration of the City of New York, which is the local social services district for the City of New York. The Burial Claims Unit. The Burial Claims Unit is the unit of the Human Resources Administration which accepts applications, processes applications, and authorizes grants for burial expenses based on applications for burial grants, including applications by relatives or friends for grants for a decedent who is a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces. The decedent shall be a legal resident of New York City at the time of death. The Burial Claims Unit of the Office of Constituent and Community Affairs of the New York City Human Resources Administration is located at 151 Lawrence Street, 5th Floor, Brooklyn, New York 11201.
-
-Public assistance. Public assistance means the receipt of Home Relief or Aid to Dependent Children. Payments of emergency assistance to families or emergency home relief shall not be considered public assistance.
-
-Relative. Relative includes all relatives of the deceased through first cousin or the spouse of any such relative. Specifically included are the spouse, child, grandchild, parent, grandparent, brother, sister of the deceased and their spouses.
-
-Supplemental Security Income. Supplemental Security Income, or SSI, means the receipt of SSI or additional state payments.
-
-
-
-
-
-
-*§ 2-03 Application for Financial Assistance for Burial Expenses.* ::
-
-
-(a)  An application shall be submitted to the Agency within sixty days of the date of death by the relative or friend of the deceased or an authorized representative.
-
-(b) An application shall be made by personal appearance at the Burial Claims Unit.
-
-(c) The applicant shall receive a prescribed application form. An applicant shall complete the application form before any assistance shall be authorized. All documents required to verify eligibility for and the amount of benefits must be submitted within sixty days of the application for benefits. Failure to provide such documents within the time set forth in this section shall result in a finding of ineligibility and a denial of the application except as stated in this subdivision (c). An applicant who cannot submit the documentation within sixty days of the date of application shall inform the Burial Claims Unit in writing of the delay and the reason therefor within the sixty-day period. Extensions of this period shall be granted at the discretion of the Burial Claims Unit.
-
-(d) Applications on behalf of indigents who were in receipt of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance at the date of death may be made prior to burial and eligibility for a grant for burial expenses will be determined within two working days of application. If the applicant is a legally responsible relative, (s)he must also be a recipient of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance. If eligibility is found, the applicant shall be issued a pre-approval letter addressed to the funeral director acknowledging eligibility subject to the monetary and documentation requirements set forth in these regulations. Authorization for payment of burial expenses shall be deferred until receipt of all documentation. Such documentation must be supplied within 60 days of application except as described in 68 RCNY § 2-03(c). The Burial Claims Unit will make every effort to authorize payment within two weeks of receipt of all necessary documentation in cases under this subdivision (d).
-
-(e) Application on behalf of indigents who were not in receipt of public assistance from the Human Resources Administration of New York or Supplemental Security Assistance at the date of death are subject to further eligibility verification. The Burial Claims Unit will make every effort to make a final determination of eligibility for payment within thirty days of receipt of all necessary documentation required in this regulation. Applicants who authorized the burial of public assistance or SSI recipients and who did not apply before burial as allowed in subdivision (d), are subject to this subdivision (e).
-
-(f) Relatives and friends of a decedent who was a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces shall apply to the Burial Claims Unit for a grant for burial expenses. The decedent shall be a legal resident of New York City at the time of death. The discharge status of the decedent shall be confirmed by the United State Department of Veterans Affairs.
-
-
-
-
-
-
-*§ 2-04 Eligibility of Applicants for a Grant for Burial Expenses.* ::
-
-
-(a)  The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs. No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or of the burial plot and the grave opening, exceed $1,700.
-
-(b) The value of any resources or income which were available to the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
-
-(c) The value of any resources or income available to the legally responsible relative who resided with the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
-
-(d) A legally responsible relative who resided with the deceased shall be eligible for a burial allowance only if (s)he was financially eligible for public assistance if under age 65, or eligible for SSI if age 65 or over.
-
-
-
-
-
-
-*§ 2-05 Verification.* ::
-
-
-Verification of data supplied on the application form which are pertinent to the determination of eligibility or the amount of the grant toward burial expenses, is an essential element of this investigation.
-
-(a) Documents, personal and collateral interviews, correspondence and conferences are means of verification. The Burial Claims Unit may require verification of all assets and resources that were available to the deceased at the time of death.
-
-(b) All applicants shall be required to provide the Burial Claims Unit with the following documentation:
-
-   (1) A Certificate of Death, which shall contain the name, date of death and place of death of the person to whom it relates and shall be properly certified by the local registrar, or a Certificate of Spontaneous Termination of Pregnancy. The Certificate of Spontaneous Termination of Pregnancy must be prepared in accordance with 24 RCNY Health Code Article 203.
-
-   (2) Two itemized funeral bills, indicating funeral charges, services and merchandise provided. The funeral bills shall be signed by the funeral director before a notary public.
-
-   (3) A true copy of the written Itemization Statement required to be furnished in accordance with § 78.1 of the regulations of the New York State Department of Health. Such statements shall include, but not be limited to, the price of the funeral together with the price of each item of service and merchandise actually furnished. True copies of the statement, pursuant to said regulations, shall be consecutively numbered and maintained in numerical order at the funeral establishment. The itemization statement shall bear the dated signature of both the applicant and the funeral director.
-
-   (4) A cemetery charge bill, if any.
-
-   (5) Such other documentation as may be required by New York City, whether in the possession of the applicant, the funeral director, or the cemetery.
-
-(c) The funeral director shall be required to complete a prescribed form affidavit, provided by the Burial Claims Unit, where payment was made directly to the funeral home. The form shall include, but not be limited to, the following provisions:
-
-   (1) An attestation that the funeral bill is ordinary and customary.
-
-   (2) A statement that the funeral director understands that (s)he shall be subject to the penalties set forth in §§ 3450 et seq. of the Public Health Law, if he knowingly makes a false statement or misrepresentation, or practices fraud or deceit in his business or in the business of the funeral firm.
-
-   (3) A statement that the funeral bill has either been paid or is due and owing.
-
-   (4) A statement that the funeral director agrees that (s)he will furnish any additional documentation kept in the normal course of business which the Burial Claims Unit may require to evaluate eligibility for and amount of benefits.
-
-(d) A personal interview may be required with the fiduciary of the estate of the decedent. New York City shall assess the availability of assets in the deceased's estate to pay the burial expenses. In the event that the executor fails or refuses to cooperate in providing information about the assets and resources available to the deceased at the time of death, eligibility for a grant for burial expenses shall be indeterminable and the application shall be denied. In the event that a lawsuit has been initiated by the fiduciary of the estate, documents shall be obtained to identify all available funds.
-
-
-
-
-
-
-*§ 2-06 Residence.* ::
-
-
-The decedent shall be a resident of New York City or a recipient of public assistance or medicaid from the Department of Social Services of New York City or the application shall be denied. In the event an indigent person dies in New York City but resided in another county in New York State, an application for a grant for burial expenses shall be rejected. The applicant shall be advised to apply to the Department of Social Services in the county of decedent's residence for assistance.
-
-
-
-
-
-
-*§ 2-07 Continuing Liability of the Legally Responsible Relative.* ::
-
-
-In accordance with State law, the relatives who survive the deceased who would have been responsible for his/her support are responsible for the expenses of his/her burial to the extent they are able to pay. New York City may take appropriate action to enforce this obligation in order to reimburse any expenses incurred by New York City in accordance with these regulations.
-
-
-
-
-
-
-*§ 2-08 Fair Hearing.* ::
-
-
-(a)  Fair hearing is the procedure by which an applicant for a grant for burial expenses may appeal to the Commissioner from certain decisions or actions of the Burial Claims Unit and have a hearing thereon, in accordance with Section 22 of the Social Services Law and Title 18, §§ 358.1 et seq. of the Official Compilation of the Codes, Rules and Regulations of the State of New York (NYCRR).
-
-(b) An applicant for a grant for burial expenses shall be entitled to a fair hearing on the following grounds:
-
-   (1) denial of an application for a grant for burial expenses;
-
-   (2) failure to determine the applicant's eligibility;
-
-   (3) inadequacy in amount or manner of payment of burial expenses;
-
-   (4) any other grounds affecting the applicant's entitlement to a grant for burial expenses or the amount thereof.
-
-(c) As set forth in Title 18, Section 358 of the NYCRR, request for a hearing must be made within 60 days of the adverse action which is being appealed. Failure to appeal within this 60 day period will result in a denial of the Fair Hearing.
-
-
-
-
-
-
-*§ 2-09 Application for Financial Assistance for Burial Expenses for Certain Veterans.* ::
-
-
-Notwithstanding any other provision of law or regulation to the contrary, where a discharged member of the armed forces of the United States, other than a member of the armed forces who was dishonorably discharged, and the discharge status of the decedent has been confirmed with the United States Department of Veterans Affairs, dies in the city of New York without leaving sufficient means to defray his or her funeral expenses and dies without a friend or relative to act as an applicant for the purpose of seeking assistance for burial expenses from the Human Resources Administration.
-
-(a) A veteran's organization may act as an organizational friend for purposes of applying for burial expenses if such veteran's organization has been qualified as an organizational friend by the Human Resources Administration. Approval of such organization as an organizational friend is based on the organization's satisfactorily meeting the following criteria:
-
-      (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
-
-      (ii) Part of the organization's function is to bury indigent veterans;
-
-      (iii) The organization's principal place of business is in New York City;
-
-      (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) or 501(c)(19) of the United States Revenue Code;
-
-      (v) No board member or officer of the organization is a funeral home director with which the organization does business;
-
-      (vi) A substantial amount of the organization's funding for burial purposes comes from private sources;
-
-      (vii) Annually, the organization makes its books and records available to the Human Resources Administration for inspection, review and audit, if necessary.
-
-(b) The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs, including the cost of transporting the remains of the veteran to the Calverton National Cemetery.
-
-      (i) No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or the burial plot and the grave opening, exceed $1,700.
-
-      (ii) No payments shall be authorized if the veteran is to be buried in a private cemetery other than in the Calverton National Cemetery.
-
-      (iii) The value of any resources or income which were available to the deceased shall be deducted from the $900 burial allowance in determining the amount the applicant shall receive.
-
-
-
-
 Chapter 3: Employment Training Programs For Public Assistance Recipients
 --------------------------------------------------
 
@@ -572,6 +353,225 @@ OES shall not approve the application for training related expenses and/or an ex
 (a)  In the event that an employment training program becomes disapproved for failure to pass the employment placement rate review, or for the reasons set forth in subdivisions b or c of 68 RCNY § 3-05, a public assistance recipient who is already enrolled in the program at the time it is disapproved shall continue to receive training related expenses and/or be excused from other OES work-related activities until the earlier of the recipient's training completion date, or the date when the recipient withdraws from the program or OES withdraws approval pursuant to paragraph 5 of subdivision b of 68 RCNY § 3-07.
 
 (b) In the event that an employment training program becomes disapproved pursuant to subdivision a of 68 RCNY § 3-05, a public assistance recipient enrolled in such program shall not receive further training related expenses or continue to be excused from other OES work-related activities. Such a recipient may immediately submit a School Enrollment Form for another employment training program.
+
+
+
+
+Chapter 2: Burial Claims
+--------------------------------------------------
+
+
+
+*§ 2-01 General Statement.* ::
+
+
+(a) The laws of the state of New York require that New York City be responsible for the burial of poor people who reside here. New York City meets these requirements in two ways. For those deceased persons who do not have a friend or relative who is willing to arrange for burial, the deceased is interred in New York City's burial ground (known as "Potter's Field"). For those deceased persons who have a friend or relative who wishes to arrange for burial through a funeral director, New York City will help pay burial expenses if there is no legally responsible relative living with the deceased at the time of death or prior to the institutionalization of the deceased who is financially able to pay for the burial. These regulations explain when and how much New York City will pay for the burial expenses when the funeral was arranged by a friend or relative.
+
+(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in 68 RCNY § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
+
+
+
+
+
+
+*§ 2-02 Definitions.* ::
+
+
+Applicant. An applicant is a relative or friend of the indigent decedent who has authorized or provided for the burial of an indigent person, has signed the prescribed form seeking assistance for burial expenses, and has hand-delivered the signed application to personnel of the Burial Claims Unit. A legally responsible relative who resided with the deceased prior to the deceased's institutionalization or at the time of death must be the applicant, for that deceased individual. Except for Organizational Friends, as defined in 68 RCNY § 2-02 "Friend" (2), applicants or their authorized representatives must appear in person at the Burial Claims Unit of the Human Resources Administration to apply for benefits.
+
+Application. An application is an action by which a person indicates his or her desire to receive a grant for burial expenses through signing and hand-delivering the prescribed form to personnel of the Burial Claims Unit.
+
+Authorized representative. An authorized representative means the person designated by the friend or relative to make funeral arrangements and/or to apply on the applicant's behalf. Proof of representation shall consist of a statement signed by the applicant designating the person as the authorized representative.
+
+Burial expenses. Burial expenses mean any cost related to the funeral or burial of the deceased which are enumerated in the written itemization statement or crematory/cemetery charge bill. The value of items or services donated by a funeral director, funeral home, or cemetery shall not be considered burial expense.
+
+Friend. A friend may be either an (1) individual; or (2) a charitable and/or religious organization.
+
+(1) Individual friend. A friend is any person who, prior to the decedent's death, maintained such regular contact with the deceased as to be familiar with the decedent's activities, health and religious beliefs. Such "friend" shall present a sworn, notarized statement stating the facts and circumstances upon which the claim that he is a "friend" is based. The following persons are not "friends" of the deceased for purposes of these regulations: Funeral directors and employees of the funeral home through whom funeral arrangements have or will be made; Public Administrators, acting in their official capacity; hospital administrators and hospital employees acting in their official capacity; administrators and employees of all facilities set forth in Article 28 of the Public Health Law acting in their official capacity.
+
+(2) Organizational friend. A charitable and/or religious organization may qualify as an "organizational friend" if the New York City Department of Social Services gives advance approval of such status based on the organization's satisfactorily meeting the following criteria:
+
+   (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
+
+   (ii) Part of the organization's function is to bury indigent persons;
+
+   (iii) The organization's principal place of business is in New York City;
+
+   (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) of the United States Internal Revenue Code;
+
+   (v) No board member or officer of the organization is a funeral home director with which the organization does business;
+
+   (vi) A substantial amount of the organization's funding for burial purposes comes from private sources; and
+
+   (vii) Annually, the organization makes its books and records available to the New York City Department of Social Services for inspection, review and audit, if necessary.
+
+Funeral directing. Funeral directing means the care and disposal of the body of a deceased person and/or the preserving, "disinfecting and preparing by embalming or otherwise, the body of a deceased person for funeral services, transportation, burial or cremation; and/or funeral directing or embalming as present known, pursuant to § 3400(d) of the Public Health Law or in accordance with the statutes of the funeral director's home state.
+
+Funeral director. A funeral director is a person to whom a valid license as such has been duly issued, pursuant to § 3400(a) of the Public Health Law or licensed in accordance with the statutes of the funeral director's home state.
+
+Funeral establishment. A funeral establishment means a single physical location, address or premises devoted to or used for the care and preparation of a body of a deceased person for disposition and for mourning or funeral ceremonial purposes, pursuant to § 3400(g) of the Public Health Law or licensed in accordance with the statutes of the funeral establishment's home state.
+
+Funeral firm. A funeral firm means an individual, partnership, corporation or estate representative engaged in the business and practice of funeral directing, pursuant to § 3400(j) of the Public Health Law or licensed in accordance with the statutes of the funeral firm's state.
+
+Indigent. An indigent is an individual who was in receipt of public assistance or Supplemental Security Income ("SSI"); or if less than age 65 was eligible for public assistance; or if age 65 and over, was eligible for SSI.
+
+Legally responsible relative. A legally responsible relative is legally obligated to furnish support for the following persons: a spouse; a son or daughter under the age of twenty-one years and a step-child under the age of twenty-one years. A person is not chargeable with the support of an adopted child of his or her spouse, if the child was adopted after the adopting spouse is living separate and apart from the non-adopting spouse pursuant to a legally recognizable separation agreement or decree under the domestic relations law, and the spouses remain separate and apart after the adoption.
+
+New York City. New York City means the Human Resources Administration of the City of New York, which is the local social services district for the City of New York. The Burial Claims Unit. The Burial Claims Unit is the unit of the Human Resources Administration which accepts applications, processes applications, and authorizes grants for burial expenses based on applications for burial grants, including applications by relatives or friends for grants for a decedent who is a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces. The decedent shall be a legal resident of New York City at the time of death. The Burial Claims Unit of the Office of Constituent and Community Affairs of the New York City Human Resources Administration is located at 151 Lawrence Street, 5th Floor, Brooklyn, New York 11201.
+
+Public assistance. Public assistance means the receipt of Home Relief or Aid to Dependent Children. Payments of emergency assistance to families or emergency home relief shall not be considered public assistance.
+
+Relative. Relative includes all relatives of the deceased through first cousin or the spouse of any such relative. Specifically included are the spouse, child, grandchild, parent, grandparent, brother, sister of the deceased and their spouses.
+
+Supplemental Security Income. Supplemental Security Income, or SSI, means the receipt of SSI or additional state payments.
+
+
+
+
+
+
+*§ 2-03 Application for Financial Assistance for Burial Expenses.* ::
+
+
+(a)  An application shall be submitted to the Agency within sixty days of the date of death by the relative or friend of the deceased or an authorized representative.
+
+(b) An application shall be made by personal appearance at the Burial Claims Unit.
+
+(c) The applicant shall receive a prescribed application form. An applicant shall complete the application form before any assistance shall be authorized. All documents required to verify eligibility for and the amount of benefits must be submitted within sixty days of the application for benefits. Failure to provide such documents within the time set forth in this section shall result in a finding of ineligibility and a denial of the application except as stated in this subdivision (c). An applicant who cannot submit the documentation within sixty days of the date of application shall inform the Burial Claims Unit in writing of the delay and the reason therefor within the sixty-day period. Extensions of this period shall be granted at the discretion of the Burial Claims Unit.
+
+(d) Applications on behalf of indigents who were in receipt of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance at the date of death may be made prior to burial and eligibility for a grant for burial expenses will be determined within two working days of application. If the applicant is a legally responsible relative, (s)he must also be a recipient of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance. If eligibility is found, the applicant shall be issued a pre-approval letter addressed to the funeral director acknowledging eligibility subject to the monetary and documentation requirements set forth in these regulations. Authorization for payment of burial expenses shall be deferred until receipt of all documentation. Such documentation must be supplied within 60 days of application except as described in 68 RCNY § 2-03(c). The Burial Claims Unit will make every effort to authorize payment within two weeks of receipt of all necessary documentation in cases under this subdivision (d).
+
+(e) Application on behalf of indigents who were not in receipt of public assistance from the Human Resources Administration of New York or Supplemental Security Assistance at the date of death are subject to further eligibility verification. The Burial Claims Unit will make every effort to make a final determination of eligibility for payment within thirty days of receipt of all necessary documentation required in this regulation. Applicants who authorized the burial of public assistance or SSI recipients and who did not apply before burial as allowed in subdivision (d), are subject to this subdivision (e).
+
+(f) Relatives and friends of a decedent who was a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces shall apply to the Burial Claims Unit for a grant for burial expenses. The decedent shall be a legal resident of New York City at the time of death. The discharge status of the decedent shall be confirmed by the United State Department of Veterans Affairs.
+
+
+
+
+
+
+*§ 2-04 Eligibility of Applicants for a Grant for Burial Expenses.* ::
+
+
+(a)  The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs. No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or of the burial plot and the grave opening, exceed $1,700.
+
+(b) The value of any resources or income which were available to the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
+
+(c) The value of any resources or income available to the legally responsible relative who resided with the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
+
+(d) A legally responsible relative who resided with the deceased shall be eligible for a burial allowance only if (s)he was financially eligible for public assistance if under age 65, or eligible for SSI if age 65 or over.
+
+
+
+
+
+
+*§ 2-05 Verification.* ::
+
+
+Verification of data supplied on the application form which are pertinent to the determination of eligibility or the amount of the grant toward burial expenses, is an essential element of this investigation.
+
+(a) Documents, personal and collateral interviews, correspondence and conferences are means of verification. The Burial Claims Unit may require verification of all assets and resources that were available to the deceased at the time of death.
+
+(b) All applicants shall be required to provide the Burial Claims Unit with the following documentation:
+
+   (1) A Certificate of Death, which shall contain the name, date of death and place of death of the person to whom it relates and shall be properly certified by the local registrar, or a Certificate of Spontaneous Termination of Pregnancy. The Certificate of Spontaneous Termination of Pregnancy must be prepared in accordance with 24 RCNY Health Code Article 203.
+
+   (2) Two itemized funeral bills, indicating funeral charges, services and merchandise provided. The funeral bills shall be signed by the funeral director before a notary public.
+
+   (3) A true copy of the written Itemization Statement required to be furnished in accordance with § 78.1 of the regulations of the New York State Department of Health. Such statements shall include, but not be limited to, the price of the funeral together with the price of each item of service and merchandise actually furnished. True copies of the statement, pursuant to said regulations, shall be consecutively numbered and maintained in numerical order at the funeral establishment. The itemization statement shall bear the dated signature of both the applicant and the funeral director.
+
+   (4) A cemetery charge bill, if any.
+
+   (5) Such other documentation as may be required by New York City, whether in the possession of the applicant, the funeral director, or the cemetery.
+
+(c) The funeral director shall be required to complete a prescribed form affidavit, provided by the Burial Claims Unit, where payment was made directly to the funeral home. The form shall include, but not be limited to, the following provisions:
+
+   (1) An attestation that the funeral bill is ordinary and customary.
+
+   (2) A statement that the funeral director understands that (s)he shall be subject to the penalties set forth in §§ 3450 et seq. of the Public Health Law, if he knowingly makes a false statement or misrepresentation, or practices fraud or deceit in his business or in the business of the funeral firm.
+
+   (3) A statement that the funeral bill has either been paid or is due and owing.
+
+   (4) A statement that the funeral director agrees that (s)he will furnish any additional documentation kept in the normal course of business which the Burial Claims Unit may require to evaluate eligibility for and amount of benefits.
+
+(d) A personal interview may be required with the fiduciary of the estate of the decedent. New York City shall assess the availability of assets in the deceased's estate to pay the burial expenses. In the event that the executor fails or refuses to cooperate in providing information about the assets and resources available to the deceased at the time of death, eligibility for a grant for burial expenses shall be indeterminable and the application shall be denied. In the event that a lawsuit has been initiated by the fiduciary of the estate, documents shall be obtained to identify all available funds.
+
+
+
+
+
+
+*§ 2-06 Residence.* ::
+
+
+The decedent shall be a resident of New York City or a recipient of public assistance or medicaid from the Department of Social Services of New York City or the application shall be denied. In the event an indigent person dies in New York City but resided in another county in New York State, an application for a grant for burial expenses shall be rejected. The applicant shall be advised to apply to the Department of Social Services in the county of decedent's residence for assistance.
+
+
+
+
+
+
+*§ 2-07 Continuing Liability of the Legally Responsible Relative.* ::
+
+
+In accordance with State law, the relatives who survive the deceased who would have been responsible for his/her support are responsible for the expenses of his/her burial to the extent they are able to pay. New York City may take appropriate action to enforce this obligation in order to reimburse any expenses incurred by New York City in accordance with these regulations.
+
+
+
+
+
+
+*§ 2-08 Fair Hearing.* ::
+
+
+(a)  Fair hearing is the procedure by which an applicant for a grant for burial expenses may appeal to the Commissioner from certain decisions or actions of the Burial Claims Unit and have a hearing thereon, in accordance with Section 22 of the Social Services Law and Title 18, §§ 358.1 et seq. of the Official Compilation of the Codes, Rules and Regulations of the State of New York (NYCRR).
+
+(b) An applicant for a grant for burial expenses shall be entitled to a fair hearing on the following grounds:
+
+   (1) denial of an application for a grant for burial expenses;
+
+   (2) failure to determine the applicant's eligibility;
+
+   (3) inadequacy in amount or manner of payment of burial expenses;
+
+   (4) any other grounds affecting the applicant's entitlement to a grant for burial expenses or the amount thereof.
+
+(c) As set forth in Title 18, Section 358 of the NYCRR, request for a hearing must be made within 60 days of the adverse action which is being appealed. Failure to appeal within this 60 day period will result in a denial of the Fair Hearing.
+
+
+
+
+
+
+*§ 2-09 Application for Financial Assistance for Burial Expenses for Certain Veterans.* ::
+
+
+Notwithstanding any other provision of law or regulation to the contrary, where a discharged member of the armed forces of the United States, other than a member of the armed forces who was dishonorably discharged, and the discharge status of the decedent has been confirmed with the United States Department of Veterans Affairs, dies in the city of New York without leaving sufficient means to defray his or her funeral expenses and dies without a friend or relative to act as an applicant for the purpose of seeking assistance for burial expenses from the Human Resources Administration.
+
+(a) A veteran's organization may act as an organizational friend for purposes of applying for burial expenses if such veteran's organization has been qualified as an organizational friend by the Human Resources Administration. Approval of such organization as an organizational friend is based on the organization's satisfactorily meeting the following criteria:
+
+      (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
+
+      (ii) Part of the organization's function is to bury indigent veterans;
+
+      (iii) The organization's principal place of business is in New York City;
+
+      (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) or 501(c)(19) of the United States Revenue Code;
+
+      (v) No board member or officer of the organization is a funeral home director with which the organization does business;
+
+      (vi) A substantial amount of the organization's funding for burial purposes comes from private sources;
+
+      (vii) Annually, the organization makes its books and records available to the Human Resources Administration for inspection, review and audit, if necessary.
+
+(b) The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs, including the cost of transporting the remains of the veteran to the Calverton National Cemetery.
+
+      (i) No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or the burial plot and the grave opening, exceed $1,700.
+
+      (ii) No payments shall be authorized if the veteran is to be buried in a private cemetery other than in the Calverton National Cemetery.
+
+      (iii) The value of any resources or income which were available to the deceased shall be deducted from the $900 burial allowance in determining the amount the applicant shall receive.
 
 
 
@@ -4414,299 +4414,6 @@ An applicant or program participant may request an agency review conference and/
 
 
 
-Chapter 11: Pathway Home
---------------------------------------------------
-
-
-
-*§ 11-01 Definitions.* ::
-
-
-(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
-
-(b) "DHS" means the New York City Department of Homeless Services.
-
-(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
-
-(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
-
-(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
-
-(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
-
-(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
-
-(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
-
-(i) "HRA" means the New York City Human Resources Administration.
-
-(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
-
-(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
-
-(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
-
-(m) The "Pathway Home Program" means the program established pursuant to this chapter.
-
-(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
-
-(o) A "program participant" means an adult household member.
-
-(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
-
-(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
-
-
-
-
-
-
-
-
-*§ 11-02 Administration of the Pathway Home Program.* ::
-
-
-HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
-
-
-
-
-
-
-
-
-*§ 11-03 Eligibility.* ::
-
-
-(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
-
-   (1) The household must meet one of the following conditions:
-
-      (A) The household resides in DHS shelter and
-
-         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
-
-         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
-
-      (B) The household is street homeless; or
-
-      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
-
-   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
-
-   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
-
-   (4) All members of the household who are eligible for PA must be in receipt of PA.
-
-   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
-
-   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
-
-   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
-
-   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
-
-(b) Qualifying Shelter Stay and Limitations.
-
-   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
-
-   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
-
-(c) Applications must be submitted on a form and in a format established by HRA.
-
-(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
-
-
-
-
-
-
-
-
-*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
-
-
-(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Pathway Home Payments
-      - 
-      - 
-      - 
-    * - Household Size
-      - 1 or 2
-      - 3 or 4
-      - 5+
-    * - Monthly Payment to Host
-      - $1,200
-      -  $1,500
-      - $1,800
-~
-
-
-
- 
-
-(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
-
-(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
-
-
-
-
-
-
-
-
-*§ 11-05 Moves.* ::
-
-
-(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
-
-(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
-
-
-
-
-
-
-
-
-*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
-
-
-(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
-
-(b) Agency Review Conference.
-
-   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
-
-   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
-
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
-
-   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
-
-(c) Request for a DSS Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
-
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
-
-(d) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
-
-   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
-
-(e) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
-
-   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
-
-   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
-
-      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
-
-(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
-
-(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
-
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
-
-(i) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
-
-   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
-
-(j) Abandonment of Request for Administrative Hearing.
-
-   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
-
-      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
-
-   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
-
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
-
-(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
-
-   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
-
-   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
-
-(m) Additional appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
-
-   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
-
-   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
-
-   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
-
-
-
-
-
-
-
-
-*§ 11-07 Additional Provisions.* ::
-
-
-(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
-
-(b) Waitlists will not be maintained for the Pathway Home Program.
-
-(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
-
-(d) Shelter residents are responsible for identifying potential host families.
-
-(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
-
-(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
-
-(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
-
-(h) Any host family residence must pass a safety and habitability inspection. Additionally:
-
-   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
-
-   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
-
-(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
-
-(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
-
-
-
-
-
-
 Chapter 10: City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS)
 --------------------------------------------------
 
@@ -5317,6 +5024,299 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 (g) If HRA offers incentives to landlords to participate in the CityFHEPS program, such incentives shall not be available for the rental of a unit where the previous tenant was receiving CityFHEPS, FHEPS or rental assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8, unless the landlord can show good cause for not renewing such tenant, such as serious or repeated violations of the lease. Good cause will generally not be found unless the landlord has provided the tenant with 30 days written notice of the intent to not renew, including the reasons for non-renewal.
 
 (Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+Chapter 11: Pathway Home
+--------------------------------------------------
+
+
+
+*§ 11-01 Definitions.* ::
+
+
+(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+
+(b) "DHS" means the New York City Department of Homeless Services.
+
+(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
+
+(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
+
+(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+
+(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+
+(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
+
+(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
+
+(i) "HRA" means the New York City Human Resources Administration.
+
+(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+
+(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(m) The "Pathway Home Program" means the program established pursuant to this chapter.
+
+(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
+
+(o) A "program participant" means an adult household member.
+
+(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+
+(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+
+
+
+
+
+
+
+
+*§ 11-02 Administration of the Pathway Home Program.* ::
+
+
+HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
+
+
+
+
+
+
+
+
+*§ 11-03 Eligibility.* ::
+
+
+(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
+
+   (1) The household must meet one of the following conditions:
+
+      (A) The household resides in DHS shelter and
+
+         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
+
+         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
+
+      (B) The household is street homeless; or
+
+      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
+
+   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+
+   (4) All members of the household who are eligible for PA must be in receipt of PA.
+
+   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
+
+   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
+
+   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
+
+(b) Qualifying Shelter Stay and Limitations.
+
+   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
+
+   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
+
+(c) Applications must be submitted on a form and in a format established by HRA.
+
+(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
+
+
+
+
+
+
+
+
+*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
+
+
+(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Pathway Home Payments
+      - 
+      - 
+      - 
+    * - Household Size
+      - 1 or 2
+      - 3 or 4
+      - 5+
+    * - Monthly Payment to Host
+      - $1,200
+      -  $1,500
+      - $1,800
+~
+
+
+
+ 
+
+(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
+
+(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
+
+
+
+
+
+
+
+
+*§ 11-05 Moves.* ::
+
+
+(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
+
+(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
+
+
+
+
+
+
+
+
+*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+
+
+(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference.
+
+   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for a DSS Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+
+   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
+
+   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
+
+(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
+
+(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
+
+      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+
+   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+
+(m) Additional appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+
+
+
+
+
+
+
+*§ 11-07 Additional Provisions.* ::
+
+
+(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
+
+(b) Waitlists will not be maintained for the Pathway Home Program.
+
+(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
+
+(d) Shelter residents are responsible for identifying potential host families.
+
+(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
+
+(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
+
+(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
+
+(h) Any host family residence must pass a safety and habitability inspection. Additionally:
+
+   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
+
+   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
+
+(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
+
+(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
+
+
 
 
 
