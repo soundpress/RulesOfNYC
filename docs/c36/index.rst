@@ -514,6 +514,127 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
 
 
+Chapter 2: Procedural Rules For Hearings
+--------------------------------------------------
+
+
+
+*§ 2-01 Initial Determination.* ::
+
+
+(a)  Notice. If the Board makes an initial determination, based on a complaint, investigation, or other information available to the Board, that there is probable cause to believe that a public servant (which for purposes of Charter § 2603(h) includes a former public servant) has violated a provision of Chapter 68 of the City Charter, the Board shall notify the public servant of its determination in writing. The notice shall contain a statement of the facts upon which the Board relied for its determination of probable cause and a statement of the provisions of law allegedly violated. The notice shall afford the public servant an opportunity, either orally or in writing, to respond to, explain, rebut, or provide information concerning the allegations in such notice within fifteen days of service of the notice. The notice shall also inform the public servant of his or her right to be represented by counsel or any other person, and shall include a copy of the Board's procedural rules. A notice of initial determination shall not be required in a proceeding brought pursuant to § 12-110 of the Administrative Code.
+
+(b) Request for a Stay. In response to the Board's notice, the public servant may apply to the Board for a stay of the proceedings, for good cause shown. The Board may grant or deny such request in its sole discretion.
+
+(c) Admission of Facts. If, in response to the Board's notice, the public servant admits to the facts contained therein or to a violation of the provisions of Chapter 68 of the City Charter and elects to forgo a hearing, the Board may, after consulting with the head of the agency served or formerly served by the public servant, or, in the case of an agency head, after consulting with the Mayor, issue an order finding a violation and imposing the penalties it deems appropriate under Chapter 68 of the City Charter, provided, however, that pursuant to Charter § 2603(h)(3), the Board shall not impose penalties against members of the City Council, or public servants employed by the City Council or by members of the City Council, but may recommend to the City Council such penalties as the Board deems appropriate. When a penalty is recommended, the City Council shall report to the Board what action was taken.
+
+(d) No Probable Cause Finding. If, after receipt of the public servant's response, the Board determines that there is no probable cause to believe that a violation has occurred, the Board shall dismiss the matter and inform the public servant in writing of its decision.
+
+
+
+
+
+
+*§ 2-02 Commencement of Formal Proceedings and Pleadings.* ::
+
+
+(a)  Determination of Probable Cause. If, after consideration of the public servant's response, the Board determines that there remains probable cause to believe that a violation of the provisions of Chapter 68 of the City Charter has occurred, and the public servant has not elected to forgo the hearing, the Board shall hold or direct a hearing to be held on the record to determine whether such violation has occurred. If the public servant is subject to the jurisdiction of a state law provision or collective bargaining agreement which provides for the conduct of a disciplinary hearing by another body, the Board shall refer the matter to the appropriate entity. The hearing shall be conducted in accordance with the rules of that entity. The Board may also refer a matter to the public servant's agency if the Board deems the violation to be minor or if other disciplinary charges are pending there against the public servant.
+
+(b) Petition. The Board shall institute formal proceedings by serving a petition on the public servant. The petition shall set forth the facts which, if proved, would constitute a violation of Chapter 68 of the City Charter or § 12-110 of the Administrative Code, as well as the applicable provisions thereof which are alleged to have been violated. The petition shall also advise the public servant of the public servant's rights to file an answer, to a hearing, to be represented at such hearing by counsel or any other person, and to cross-examine witnesses and present evidence.
+
+(c) Answer.
+
+   (1) General Rule. The public servant shall answer the petition by serving an answer on the Board within eight days after service of the petition, unless a different time is fixed by the Board. The public servant shall serve the answer personally or by certified or registered mail, return receipt requested.
+
+   (2) Form and Contents of Answer. The answer shall be in writing and shall contain specific responses, by admission, denial, or otherwise, to each allegation of the petition and shall assert all affirmative defenses, if any. The public servant may include in the answer matters in mitigation. The answer shall be signed and shall contain the full name, address, and telephone number of the public servant. If the public servant is represented, the representative's name, address, and telephone number shall also appear on the answer, which shall be signed by either the public servant or by his or her representative.
+
+   (3) Effect of Failure to Answer. If the public servant fails to serve an answer, all allegations of the petition shall be deemed admitted and the Board shall proceed to hold a hearing in which prosecuting counsel shall submit for the record an offer of proof establishing the factual basis on which the Board may issue an order. If the public servant fails to respond specifically to any allegation or charge in the petition, such allegation or charge shall be deemed admitted.
+
+(d) Amendment of Pleadings. Pleadings shall be amended as promptly as possible upon conditions just to all parties. If a pleading is to be amended less than twenty-five days before the commencement of the hearing, the amendment may be made only on consent of the parties or by leave of the Board, if the Board is conducting the hearing, or by leave of a Board member or Administrative Law Judge, if the Board member or Administrative Law Judge is conducting the hearing.
+
+
+
+
+
+
+*§ 2-03 Hearing.* ::
+
+
+(a)  Conduct of Hearings Generally. Hearings shall be conducted by the Board or, upon designation by the Board, by a member of the Board or the Chief Administrative Law Judge of the Office of Administrative Trials and Hearings (OATH), or such administrative law judge (ALJ) as the Chief Administrative Law Judge shall assign.
+
+(b) Subpoenas. Subpoenas requiring the attendance of a witness and subpoenas duces tecum requiring the production of books, papers, and other things may be issued only by (i) the Administrative Law Judge, where the hearing has been referred to OATH, or (ii) a member of the Board, where the hearing is conducted by the Board or by a member of the Board, upon application of a party or upon the Administrative Law Judge's or the Board member's own motion. In addition to or in lieu of these subpoenas, the Administrative Law Judge or the Board member may also issue an order directing the party or person under the control of a party to attend or produce.
+
+(c) Conduct of Hearings by OATH. If the Board refers a hearing to OATH, a copy of the petition shall also be sent to OATH at the time the public servant is served with the petition. OATH shall conduct the hearing in accordance with its rules, as set forth in Title 48 of the Rules of the City of New York, except as otherwise provided by these rules.
+
+(d) Conduct of Hearings by the Board or by a Board Member.
+
+   (1) Generally. The Board may hear a case or may designate a member of the Board to hear a case, make findings of fact and conclusions of law, preside over pre-hearing matters and adjournments, and make recommendations to the Board for the proposed disposition of the proceeding. When a hearing is conducted by the Board, the hearing shall be presided over by the Board's Chair or by his or her designee. The Board or Board member shall conduct the hearing, including such pre-hearing matters as conferences, discovery, and motion practice, in conformance with the rules and procedures of OATH, as set forth in Title 48 of the Rules of the City of New York, except as otherwise provided by these rules.
+
+   (2) Disposition Conferences and Agreements. If disposition of the proceeding is to be discussed at a conference, the Board shall designate an individual, other than a Board member participating in the hearing, to conduct the conference. During disposition discussions, upon notice to the parties, the person conducting the conference may confer with each party and/or representative separately. Board members shall not be called to testify in any proceeding concerning statements made at a disposition conference.
+
+   (3) Order of Proceedings. Prosecuting counsel shall have the burden of proof by the preponderance of the evidence, shall initiate the presentation of evidence, and may present rebuttal evidence. The public servant may introduce evidence after prosecuting counsel has completed his or her case. Opening statements, if any, shall be made first by prosecuting counsel. Closing statements, if any, shall be made first by the public servant. This order of proceedings may be modified at the discretion of the Board or Board member.
+
+
+
+
+
+
+*§ 2-04 Decisions and Orders.* ::
+
+
+(a)  Report to the Board. When a hearing has been conducted by either OATH or a member of the Board designated to hear the case, a report of recommended findings of fact and conclusions of law and recommendations for the disposition of the proceeding shall be issued and forwarded, along with the original transcript of the proceeding and all documents introduced into the record, to the Board for review and final action. The report shall not be made public. A copy of the report and recommendation shall be sent to all parties and their counsel or other representative in order to afford them the opportunity to comment before final action is taken by the Board. If prosecuting counsel or the public servant wishes to comment, he or she shall do so within ten days of service of the report and recommendation.
+
+(b) Finding of Violation. If after the hearing and upon a consideration of all the evidence in the record of hearing, including comments, the Board finds that a public servant has engaged in conduct prohibited by Chapter 68 of the City Charter, the Board shall consult with the head of the agency served or formerly served by the public servant, or in the case of an agency head, consult with the Mayor. Where the Board finds a violation of Chapter 68 or § 12-110 of the Administrative Code, the Board shall state its final findings of fact and conclusions of law and issue an order imposing any penalties it deems appropriate under either statute. The order shall include notice of the public servant's right to appeal to the New York State Supreme Court. Alternatively, in the case of a violation of Chapter 68, the Board may state its findings and conclusions and recommend a penalty, if any, to the head of the agency served by the public servant or former public servant or, in the case of an agency head or former agency head, to the Mayor. Pursuant to Charter § 2604(h)(3), the Board shall not impose penalties against members of the City Council, or public servants employed by the City Council or by members of the City Council, but may state its findings and conclusions and recommend to the City Council such penalties as the Board deems appropriate. When a penalty is recommended, the head of the agency, Mayor, or City Council shall report to the Board what action was taken.
+
+(c) Consultation by Agency. In instances where the Board does not hold a hearing and instead refers a matter to the public servant's agency, that agency shall consult with the Board prior to issuing its final decision.
+
+(d) Dismissals. If, after the hearing and upon consideration of the record, the Board finds that a public servant has not engaged in acts prohibited by Chapter 68 of the City Charter or § 12-110 of the Administrative Code, the Board shall state its findings of facts and conclusions of law and shall issue an order dismissing the petition. The order shall not be made public.
+
+
+
+
+
+
+*§ 2-05 General Matters.* ::
+
+
+(a)  Appearances before the Board.
+
+   (1) A party may appear before the Board in person, by an attorney, or by a duly authorized representative. The person appearing for the party shall file a notice of appearance with the Board. The filing of any papers by an attorney or other representative who has not previously appeared shall constitute the filing of a notice of appearance by that person and shall conform to the requirements of paragraphs (2) and (4) of this subdivision.
+
+   (2) The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States shall be indicated by the suffix "Esq." and the designation "Attorney for (person represented)." The appearance of any other person shall be indicated by the designation "Representative for (person repre- sented)."
+
+   (3) Absent extraordinary circumstances, no application shall be made or argued by any attorney or other representative who has not filed a notice of appearance.
+
+   (4) A person may not file a notice of appearance on behalf of a party unless the person has been retained by that party to represent the party before the Board. Filing a notice of appearance constitutes a representation that the person appearing has been so retained.
+
+(b) Withdrawal and Substitution of Counsel.
+
+   (1) An attorney who has filed a notice of appearance shall not withdraw from representation without the permission of the Board, upon application. Withdrawals shall not be granted unless upon consent of the client or when other cause exists, as delineated in the applicable provisions of the Code of Professional Responsibility.
+
+   (2) Notices of substitution of counsel served and filed more than twenty days prior to a hearing before the Board or before a member of the Board may be filed without leave of the Board or Board member. Notices of substitution of counsel served and filed less than twenty-one days prior to a hearing before the Board or before a member of the Board may be filed only with the permission of the Board or Board member, which permission shall be freely given, absent prejudice or substantial delay of the proceedings.
+
+(c) Service of Petition by Board. A petition shall be served on the public servant (i) in the manner provided in § 312-a, or subdivisions 1, 2, or 4 of § 308, of the New York Civil Practice Law and Rules for service of a summons or (ii) by both certified mail, return receipt requested, and first class mail to the public servant's last known residence or actual place of business or (iii) in such manner as the Board directs, if service is impracticable under paragraphs (i) and (ii) of this subdivision, or (iv) in any manner agreed upon by counsel to the Board and the public servant or his or her representative.
+
+(d) Service of Other Documents by Board. Notices, orders, and all other documents, except petitions and subpoenas, originating with the Board shall be served on the public servant (i) by personal delivery to the public servant or (ii) by first class mail to the public servant's last known residence or actual place of business or (iii) by overnight delivery service to the public servant's last known residence or actual place of business or (iv) by telephonic facsimile (FAX) or similar transmission or (v) by leaving the paper at the public servant's last known residence with a person of suitable age and discretion or (vi) in such manner as the Board directs, if service is impracticable under paragraphs (i), (ii), (iii), (iv), or (v) of this subdivision, or (vii) in any manner agreed upon by counsel to the Board and the public servant or his or her representative. Where the public servant has appeared by a representative, all papers served by the Board subsequent to that appearance shall be served upon the representative by one of the methods provided in paragraphs (i)-(vii) of this subdivision.
+
+(e) Computation of Time. The computation of any time period referred to in these rules shall be calculated in calendar days, except that when the last day of the time period is a Saturday, Sunday, or public holiday, the period shall run until the end of the next following business day. Where a period of time prescribed by the rules set forth in this chapter is measured from the service of a paper and service of that paper is made in the manner provided by paragraph (ii) of subdivision (a) or paragraph (ii) of subdivision (b) of this section, five days shall be added to the prescribed period.
+
+(f) Confidentiality. All matters relating to complaints submitted to or inquired into by the Board, or any action taken by the Board in connection therewith or hearings conducted by the Board or OATH, shall be kept confidential unless the public servant waives confidentiality and the Board determines that confidentiality is not otherwise required. Hearings conducted by the Board or by OATH shall be public if requested by the public servant. Final findings, conclusions, and orders issued upon a violation of Chapter 68 shall be made public.
+
+(g) Ex Parte Communications with Board.
+
+   (1) After service of the petition in a case, counsel conducting the prosecution of the case on behalf of the Board shall not communicate ex parte with any member of the Board concerning the merits of the case, except as provided in paragraph (2) of this subdivision.
+
+   (2) Counsel conducting the prosecution of a case on behalf of the Board may communicate ex parte with the Board, or any member thereof, with respect to ministerial matters involving the case or on consent of the respondent or respondent's counsel or in an emergency.
+
+(h) Disposition by Agreement. At any time after the service of a notice of probable cause in a proceeding brought pursuant to Chapter 68 or at any time after service of a petition in a proceeding brought pursuant to § 12-110 of the Administrative Code, the public servant and the Board may agree to dispose of the case by agreement. For this purpose, the Board or any Board member designated by the Board may conduct a disposition conference, provided that, when the Board or a member of the Board conducts or is to conduct the hearing, the Board shall comply with the requirements of 53 RCNY § 2-03(d)(2). All offers of disposition, whether made at a conference, hearing, or otherwise, shall be confidential and shall be inadmissible at trial of any case. If a disposition by agreement is reached, it shall be reduced to writing and signed by the public servant or his or her representative and the Board or, in the discretion of the Board, placed on the record. When a disposition by agreement contains an acknowledgment that a public servant's conduct has violated a provision of Chapter 68 of the City Charter or § 12-110 of the Administrative Code, that disposition by agreement shall be made public by the Board.
+
+(i) OATH Rules. In the event of any inconsistency between these rules and the rules of the Office of Administrative Trials and Hearings, these rules shall govern.
+
+
+
+
 Chapter 3: Organizations Affiliated with Elected Officials
 --------------------------------------------------
 
@@ -701,127 +822,6 @@ Editor's note: Pursuant to Section 2 of the rule adding this section, subsection
 (c) Custodian of Records. An organization affiliated with an elected official must designate a custodian of the organization’s records or documents that substantiate the reporting required pursuant to Administrative Code § 3-902 and must submit, at the time of each reporting pursuant to Administrative Code § 3-902, the name, address, email address, and telephone number of the custodian of the organization’s records. If an organization is no longer subject to the annual reporting requirement pursuant to Administrative Code § 3-902, the organization must, for 6 years after the date of its last filing required by Administrative Code § 3-902, notify the Board, in writing, of any change of custodian, or of the custodian’s address, email address, or telephone number, no later than 30 days after such change.
 
 
-
-
-
-
-Chapter 2: Procedural Rules For Hearings
---------------------------------------------------
-
-
-
-*§ 2-01 Initial Determination.* ::
-
-
-(a)  Notice. If the Board makes an initial determination, based on a complaint, investigation, or other information available to the Board, that there is probable cause to believe that a public servant (which for purposes of Charter § 2603(h) includes a former public servant) has violated a provision of Chapter 68 of the City Charter, the Board shall notify the public servant of its determination in writing. The notice shall contain a statement of the facts upon which the Board relied for its determination of probable cause and a statement of the provisions of law allegedly violated. The notice shall afford the public servant an opportunity, either orally or in writing, to respond to, explain, rebut, or provide information concerning the allegations in such notice within fifteen days of service of the notice. The notice shall also inform the public servant of his or her right to be represented by counsel or any other person, and shall include a copy of the Board's procedural rules. A notice of initial determination shall not be required in a proceeding brought pursuant to § 12-110 of the Administrative Code.
-
-(b) Request for a Stay. In response to the Board's notice, the public servant may apply to the Board for a stay of the proceedings, for good cause shown. The Board may grant or deny such request in its sole discretion.
-
-(c) Admission of Facts. If, in response to the Board's notice, the public servant admits to the facts contained therein or to a violation of the provisions of Chapter 68 of the City Charter and elects to forgo a hearing, the Board may, after consulting with the head of the agency served or formerly served by the public servant, or, in the case of an agency head, after consulting with the Mayor, issue an order finding a violation and imposing the penalties it deems appropriate under Chapter 68 of the City Charter, provided, however, that pursuant to Charter § 2603(h)(3), the Board shall not impose penalties against members of the City Council, or public servants employed by the City Council or by members of the City Council, but may recommend to the City Council such penalties as the Board deems appropriate. When a penalty is recommended, the City Council shall report to the Board what action was taken.
-
-(d) No Probable Cause Finding. If, after receipt of the public servant's response, the Board determines that there is no probable cause to believe that a violation has occurred, the Board shall dismiss the matter and inform the public servant in writing of its decision.
-
-
-
-
-
-
-*§ 2-02 Commencement of Formal Proceedings and Pleadings.* ::
-
-
-(a)  Determination of Probable Cause. If, after consideration of the public servant's response, the Board determines that there remains probable cause to believe that a violation of the provisions of Chapter 68 of the City Charter has occurred, and the public servant has not elected to forgo the hearing, the Board shall hold or direct a hearing to be held on the record to determine whether such violation has occurred. If the public servant is subject to the jurisdiction of a state law provision or collective bargaining agreement which provides for the conduct of a disciplinary hearing by another body, the Board shall refer the matter to the appropriate entity. The hearing shall be conducted in accordance with the rules of that entity. The Board may also refer a matter to the public servant's agency if the Board deems the violation to be minor or if other disciplinary charges are pending there against the public servant.
-
-(b) Petition. The Board shall institute formal proceedings by serving a petition on the public servant. The petition shall set forth the facts which, if proved, would constitute a violation of Chapter 68 of the City Charter or § 12-110 of the Administrative Code, as well as the applicable provisions thereof which are alleged to have been violated. The petition shall also advise the public servant of the public servant's rights to file an answer, to a hearing, to be represented at such hearing by counsel or any other person, and to cross-examine witnesses and present evidence.
-
-(c) Answer.
-
-   (1) General Rule. The public servant shall answer the petition by serving an answer on the Board within eight days after service of the petition, unless a different time is fixed by the Board. The public servant shall serve the answer personally or by certified or registered mail, return receipt requested.
-
-   (2) Form and Contents of Answer. The answer shall be in writing and shall contain specific responses, by admission, denial, or otherwise, to each allegation of the petition and shall assert all affirmative defenses, if any. The public servant may include in the answer matters in mitigation. The answer shall be signed and shall contain the full name, address, and telephone number of the public servant. If the public servant is represented, the representative's name, address, and telephone number shall also appear on the answer, which shall be signed by either the public servant or by his or her representative.
-
-   (3) Effect of Failure to Answer. If the public servant fails to serve an answer, all allegations of the petition shall be deemed admitted and the Board shall proceed to hold a hearing in which prosecuting counsel shall submit for the record an offer of proof establishing the factual basis on which the Board may issue an order. If the public servant fails to respond specifically to any allegation or charge in the petition, such allegation or charge shall be deemed admitted.
-
-(d) Amendment of Pleadings. Pleadings shall be amended as promptly as possible upon conditions just to all parties. If a pleading is to be amended less than twenty-five days before the commencement of the hearing, the amendment may be made only on consent of the parties or by leave of the Board, if the Board is conducting the hearing, or by leave of a Board member or Administrative Law Judge, if the Board member or Administrative Law Judge is conducting the hearing.
-
-
-
-
-
-
-*§ 2-03 Hearing.* ::
-
-
-(a)  Conduct of Hearings Generally. Hearings shall be conducted by the Board or, upon designation by the Board, by a member of the Board or the Chief Administrative Law Judge of the Office of Administrative Trials and Hearings (OATH), or such administrative law judge (ALJ) as the Chief Administrative Law Judge shall assign.
-
-(b) Subpoenas. Subpoenas requiring the attendance of a witness and subpoenas duces tecum requiring the production of books, papers, and other things may be issued only by (i) the Administrative Law Judge, where the hearing has been referred to OATH, or (ii) a member of the Board, where the hearing is conducted by the Board or by a member of the Board, upon application of a party or upon the Administrative Law Judge's or the Board member's own motion. In addition to or in lieu of these subpoenas, the Administrative Law Judge or the Board member may also issue an order directing the party or person under the control of a party to attend or produce.
-
-(c) Conduct of Hearings by OATH. If the Board refers a hearing to OATH, a copy of the petition shall also be sent to OATH at the time the public servant is served with the petition. OATH shall conduct the hearing in accordance with its rules, as set forth in Title 48 of the Rules of the City of New York, except as otherwise provided by these rules.
-
-(d) Conduct of Hearings by the Board or by a Board Member.
-
-   (1) Generally. The Board may hear a case or may designate a member of the Board to hear a case, make findings of fact and conclusions of law, preside over pre-hearing matters and adjournments, and make recommendations to the Board for the proposed disposition of the proceeding. When a hearing is conducted by the Board, the hearing shall be presided over by the Board's Chair or by his or her designee. The Board or Board member shall conduct the hearing, including such pre-hearing matters as conferences, discovery, and motion practice, in conformance with the rules and procedures of OATH, as set forth in Title 48 of the Rules of the City of New York, except as otherwise provided by these rules.
-
-   (2) Disposition Conferences and Agreements. If disposition of the proceeding is to be discussed at a conference, the Board shall designate an individual, other than a Board member participating in the hearing, to conduct the conference. During disposition discussions, upon notice to the parties, the person conducting the conference may confer with each party and/or representative separately. Board members shall not be called to testify in any proceeding concerning statements made at a disposition conference.
-
-   (3) Order of Proceedings. Prosecuting counsel shall have the burden of proof by the preponderance of the evidence, shall initiate the presentation of evidence, and may present rebuttal evidence. The public servant may introduce evidence after prosecuting counsel has completed his or her case. Opening statements, if any, shall be made first by prosecuting counsel. Closing statements, if any, shall be made first by the public servant. This order of proceedings may be modified at the discretion of the Board or Board member.
-
-
-
-
-
-
-*§ 2-04 Decisions and Orders.* ::
-
-
-(a)  Report to the Board. When a hearing has been conducted by either OATH or a member of the Board designated to hear the case, a report of recommended findings of fact and conclusions of law and recommendations for the disposition of the proceeding shall be issued and forwarded, along with the original transcript of the proceeding and all documents introduced into the record, to the Board for review and final action. The report shall not be made public. A copy of the report and recommendation shall be sent to all parties and their counsel or other representative in order to afford them the opportunity to comment before final action is taken by the Board. If prosecuting counsel or the public servant wishes to comment, he or she shall do so within ten days of service of the report and recommendation.
-
-(b) Finding of Violation. If after the hearing and upon a consideration of all the evidence in the record of hearing, including comments, the Board finds that a public servant has engaged in conduct prohibited by Chapter 68 of the City Charter, the Board shall consult with the head of the agency served or formerly served by the public servant, or in the case of an agency head, consult with the Mayor. Where the Board finds a violation of Chapter 68 or § 12-110 of the Administrative Code, the Board shall state its final findings of fact and conclusions of law and issue an order imposing any penalties it deems appropriate under either statute. The order shall include notice of the public servant's right to appeal to the New York State Supreme Court. Alternatively, in the case of a violation of Chapter 68, the Board may state its findings and conclusions and recommend a penalty, if any, to the head of the agency served by the public servant or former public servant or, in the case of an agency head or former agency head, to the Mayor. Pursuant to Charter § 2604(h)(3), the Board shall not impose penalties against members of the City Council, or public servants employed by the City Council or by members of the City Council, but may state its findings and conclusions and recommend to the City Council such penalties as the Board deems appropriate. When a penalty is recommended, the head of the agency, Mayor, or City Council shall report to the Board what action was taken.
-
-(c) Consultation by Agency. In instances where the Board does not hold a hearing and instead refers a matter to the public servant's agency, that agency shall consult with the Board prior to issuing its final decision.
-
-(d) Dismissals. If, after the hearing and upon consideration of the record, the Board finds that a public servant has not engaged in acts prohibited by Chapter 68 of the City Charter or § 12-110 of the Administrative Code, the Board shall state its findings of facts and conclusions of law and shall issue an order dismissing the petition. The order shall not be made public.
-
-
-
-
-
-
-*§ 2-05 General Matters.* ::
-
-
-(a)  Appearances before the Board.
-
-   (1) A party may appear before the Board in person, by an attorney, or by a duly authorized representative. The person appearing for the party shall file a notice of appearance with the Board. The filing of any papers by an attorney or other representative who has not previously appeared shall constitute the filing of a notice of appearance by that person and shall conform to the requirements of paragraphs (2) and (4) of this subdivision.
-
-   (2) The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States shall be indicated by the suffix "Esq." and the designation "Attorney for (person represented)." The appearance of any other person shall be indicated by the designation "Representative for (person repre- sented)."
-
-   (3) Absent extraordinary circumstances, no application shall be made or argued by any attorney or other representative who has not filed a notice of appearance.
-
-   (4) A person may not file a notice of appearance on behalf of a party unless the person has been retained by that party to represent the party before the Board. Filing a notice of appearance constitutes a representation that the person appearing has been so retained.
-
-(b) Withdrawal and Substitution of Counsel.
-
-   (1) An attorney who has filed a notice of appearance shall not withdraw from representation without the permission of the Board, upon application. Withdrawals shall not be granted unless upon consent of the client or when other cause exists, as delineated in the applicable provisions of the Code of Professional Responsibility.
-
-   (2) Notices of substitution of counsel served and filed more than twenty days prior to a hearing before the Board or before a member of the Board may be filed without leave of the Board or Board member. Notices of substitution of counsel served and filed less than twenty-one days prior to a hearing before the Board or before a member of the Board may be filed only with the permission of the Board or Board member, which permission shall be freely given, absent prejudice or substantial delay of the proceedings.
-
-(c) Service of Petition by Board. A petition shall be served on the public servant (i) in the manner provided in § 312-a, or subdivisions 1, 2, or 4 of § 308, of the New York Civil Practice Law and Rules for service of a summons or (ii) by both certified mail, return receipt requested, and first class mail to the public servant's last known residence or actual place of business or (iii) in such manner as the Board directs, if service is impracticable under paragraphs (i) and (ii) of this subdivision, or (iv) in any manner agreed upon by counsel to the Board and the public servant or his or her representative.
-
-(d) Service of Other Documents by Board. Notices, orders, and all other documents, except petitions and subpoenas, originating with the Board shall be served on the public servant (i) by personal delivery to the public servant or (ii) by first class mail to the public servant's last known residence or actual place of business or (iii) by overnight delivery service to the public servant's last known residence or actual place of business or (iv) by telephonic facsimile (FAX) or similar transmission or (v) by leaving the paper at the public servant's last known residence with a person of suitable age and discretion or (vi) in such manner as the Board directs, if service is impracticable under paragraphs (i), (ii), (iii), (iv), or (v) of this subdivision, or (vii) in any manner agreed upon by counsel to the Board and the public servant or his or her representative. Where the public servant has appeared by a representative, all papers served by the Board subsequent to that appearance shall be served upon the representative by one of the methods provided in paragraphs (i)-(vii) of this subdivision.
-
-(e) Computation of Time. The computation of any time period referred to in these rules shall be calculated in calendar days, except that when the last day of the time period is a Saturday, Sunday, or public holiday, the period shall run until the end of the next following business day. Where a period of time prescribed by the rules set forth in this chapter is measured from the service of a paper and service of that paper is made in the manner provided by paragraph (ii) of subdivision (a) or paragraph (ii) of subdivision (b) of this section, five days shall be added to the prescribed period.
-
-(f) Confidentiality. All matters relating to complaints submitted to or inquired into by the Board, or any action taken by the Board in connection therewith or hearings conducted by the Board or OATH, shall be kept confidential unless the public servant waives confidentiality and the Board determines that confidentiality is not otherwise required. Hearings conducted by the Board or by OATH shall be public if requested by the public servant. Final findings, conclusions, and orders issued upon a violation of Chapter 68 shall be made public.
-
-(g) Ex Parte Communications with Board.
-
-   (1) After service of the petition in a case, counsel conducting the prosecution of the case on behalf of the Board shall not communicate ex parte with any member of the Board concerning the merits of the case, except as provided in paragraph (2) of this subdivision.
-
-   (2) Counsel conducting the prosecution of a case on behalf of the Board may communicate ex parte with the Board, or any member thereof, with respect to ministerial matters involving the case or on consent of the respondent or respondent's counsel or in an emergency.
-
-(h) Disposition by Agreement. At any time after the service of a notice of probable cause in a proceeding brought pursuant to Chapter 68 or at any time after service of a petition in a proceeding brought pursuant to § 12-110 of the Administrative Code, the public servant and the Board may agree to dispose of the case by agreement. For this purpose, the Board or any Board member designated by the Board may conduct a disposition conference, provided that, when the Board or a member of the Board conducts or is to conduct the hearing, the Board shall comply with the requirements of 53 RCNY § 2-03(d)(2). All offers of disposition, whether made at a conference, hearing, or otherwise, shall be confidential and shall be inadmissible at trial of any case. If a disposition by agreement is reached, it shall be reduced to writing and signed by the public servant or his or her representative and the Board or, in the discretion of the Board, placed on the record. When a disposition by agreement contains an acknowledgment that a public servant's conduct has violated a provision of Chapter 68 of the City Charter or § 12-110 of the Administrative Code, that disposition by agreement shall be made public by the Board.
-
-(i) OATH Rules. In the event of any inconsistency between these rules and the rules of the Office of Administrative Trials and Hearings, these rules shall govern.
 
 
 

@@ -110,6 +110,225 @@ Any violation of these regulations or of any ordinance or law may result in the 
 
 
 
+Chapter 2: Burial Claims
+--------------------------------------------------
+
+
+
+*§ 2-01 General Statement.* ::
+
+
+(a) The laws of the state of New York require that New York City be responsible for the burial of poor people who reside here. New York City meets these requirements in two ways. For those deceased persons who do not have a friend or relative who is willing to arrange for burial, the deceased is interred in New York City's burial ground (known as "Potter's Field"). For those deceased persons who have a friend or relative who wishes to arrange for burial through a funeral director, New York City will help pay burial expenses if there is no legally responsible relative living with the deceased at the time of death or prior to the institutionalization of the deceased who is financially able to pay for the burial. These regulations explain when and how much New York City will pay for the burial expenses when the funeral was arranged by a friend or relative.
+
+(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in 68 RCNY § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
+
+
+
+
+
+
+*§ 2-02 Definitions.* ::
+
+
+Applicant. An applicant is a relative or friend of the indigent decedent who has authorized or provided for the burial of an indigent person, has signed the prescribed form seeking assistance for burial expenses, and has hand-delivered the signed application to personnel of the Burial Claims Unit. A legally responsible relative who resided with the deceased prior to the deceased's institutionalization or at the time of death must be the applicant, for that deceased individual. Except for Organizational Friends, as defined in 68 RCNY § 2-02 "Friend" (2), applicants or their authorized representatives must appear in person at the Burial Claims Unit of the Human Resources Administration to apply for benefits.
+
+Application. An application is an action by which a person indicates his or her desire to receive a grant for burial expenses through signing and hand-delivering the prescribed form to personnel of the Burial Claims Unit.
+
+Authorized representative. An authorized representative means the person designated by the friend or relative to make funeral arrangements and/or to apply on the applicant's behalf. Proof of representation shall consist of a statement signed by the applicant designating the person as the authorized representative.
+
+Burial expenses. Burial expenses mean any cost related to the funeral or burial of the deceased which are enumerated in the written itemization statement or crematory/cemetery charge bill. The value of items or services donated by a funeral director, funeral home, or cemetery shall not be considered burial expense.
+
+Friend. A friend may be either an (1) individual; or (2) a charitable and/or religious organization.
+
+(1) Individual friend. A friend is any person who, prior to the decedent's death, maintained such regular contact with the deceased as to be familiar with the decedent's activities, health and religious beliefs. Such "friend" shall present a sworn, notarized statement stating the facts and circumstances upon which the claim that he is a "friend" is based. The following persons are not "friends" of the deceased for purposes of these regulations: Funeral directors and employees of the funeral home through whom funeral arrangements have or will be made; Public Administrators, acting in their official capacity; hospital administrators and hospital employees acting in their official capacity; administrators and employees of all facilities set forth in Article 28 of the Public Health Law acting in their official capacity.
+
+(2) Organizational friend. A charitable and/or religious organization may qualify as an "organizational friend" if the New York City Department of Social Services gives advance approval of such status based on the organization's satisfactorily meeting the following criteria:
+
+   (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
+
+   (ii) Part of the organization's function is to bury indigent persons;
+
+   (iii) The organization's principal place of business is in New York City;
+
+   (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) of the United States Internal Revenue Code;
+
+   (v) No board member or officer of the organization is a funeral home director with which the organization does business;
+
+   (vi) A substantial amount of the organization's funding for burial purposes comes from private sources; and
+
+   (vii) Annually, the organization makes its books and records available to the New York City Department of Social Services for inspection, review and audit, if necessary.
+
+Funeral directing. Funeral directing means the care and disposal of the body of a deceased person and/or the preserving, "disinfecting and preparing by embalming or otherwise, the body of a deceased person for funeral services, transportation, burial or cremation; and/or funeral directing or embalming as present known, pursuant to § 3400(d) of the Public Health Law or in accordance with the statutes of the funeral director's home state.
+
+Funeral director. A funeral director is a person to whom a valid license as such has been duly issued, pursuant to § 3400(a) of the Public Health Law or licensed in accordance with the statutes of the funeral director's home state.
+
+Funeral establishment. A funeral establishment means a single physical location, address or premises devoted to or used for the care and preparation of a body of a deceased person for disposition and for mourning or funeral ceremonial purposes, pursuant to § 3400(g) of the Public Health Law or licensed in accordance with the statutes of the funeral establishment's home state.
+
+Funeral firm. A funeral firm means an individual, partnership, corporation or estate representative engaged in the business and practice of funeral directing, pursuant to § 3400(j) of the Public Health Law or licensed in accordance with the statutes of the funeral firm's state.
+
+Indigent. An indigent is an individual who was in receipt of public assistance or Supplemental Security Income ("SSI"); or if less than age 65 was eligible for public assistance; or if age 65 and over, was eligible for SSI.
+
+Legally responsible relative. A legally responsible relative is legally obligated to furnish support for the following persons: a spouse; a son or daughter under the age of twenty-one years and a step-child under the age of twenty-one years. A person is not chargeable with the support of an adopted child of his or her spouse, if the child was adopted after the adopting spouse is living separate and apart from the non-adopting spouse pursuant to a legally recognizable separation agreement or decree under the domestic relations law, and the spouses remain separate and apart after the adoption.
+
+New York City. New York City means the Human Resources Administration of the City of New York, which is the local social services district for the City of New York. The Burial Claims Unit. The Burial Claims Unit is the unit of the Human Resources Administration which accepts applications, processes applications, and authorizes grants for burial expenses based on applications for burial grants, including applications by relatives or friends for grants for a decedent who is a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces. The decedent shall be a legal resident of New York City at the time of death. The Burial Claims Unit of the Office of Constituent and Community Affairs of the New York City Human Resources Administration is located at 151 Lawrence Street, 5th Floor, Brooklyn, New York 11201.
+
+Public assistance. Public assistance means the receipt of Home Relief or Aid to Dependent Children. Payments of emergency assistance to families or emergency home relief shall not be considered public assistance.
+
+Relative. Relative includes all relatives of the deceased through first cousin or the spouse of any such relative. Specifically included are the spouse, child, grandchild, parent, grandparent, brother, sister of the deceased and their spouses.
+
+Supplemental Security Income. Supplemental Security Income, or SSI, means the receipt of SSI or additional state payments.
+
+
+
+
+
+
+*§ 2-03 Application for Financial Assistance for Burial Expenses.* ::
+
+
+(a)  An application shall be submitted to the Agency within sixty days of the date of death by the relative or friend of the deceased or an authorized representative.
+
+(b) An application shall be made by personal appearance at the Burial Claims Unit.
+
+(c) The applicant shall receive a prescribed application form. An applicant shall complete the application form before any assistance shall be authorized. All documents required to verify eligibility for and the amount of benefits must be submitted within sixty days of the application for benefits. Failure to provide such documents within the time set forth in this section shall result in a finding of ineligibility and a denial of the application except as stated in this subdivision (c). An applicant who cannot submit the documentation within sixty days of the date of application shall inform the Burial Claims Unit in writing of the delay and the reason therefor within the sixty-day period. Extensions of this period shall be granted at the discretion of the Burial Claims Unit.
+
+(d) Applications on behalf of indigents who were in receipt of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance at the date of death may be made prior to burial and eligibility for a grant for burial expenses will be determined within two working days of application. If the applicant is a legally responsible relative, (s)he must also be a recipient of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance. If eligibility is found, the applicant shall be issued a pre-approval letter addressed to the funeral director acknowledging eligibility subject to the monetary and documentation requirements set forth in these regulations. Authorization for payment of burial expenses shall be deferred until receipt of all documentation. Such documentation must be supplied within 60 days of application except as described in 68 RCNY § 2-03(c). The Burial Claims Unit will make every effort to authorize payment within two weeks of receipt of all necessary documentation in cases under this subdivision (d).
+
+(e) Application on behalf of indigents who were not in receipt of public assistance from the Human Resources Administration of New York or Supplemental Security Assistance at the date of death are subject to further eligibility verification. The Burial Claims Unit will make every effort to make a final determination of eligibility for payment within thirty days of receipt of all necessary documentation required in this regulation. Applicants who authorized the burial of public assistance or SSI recipients and who did not apply before burial as allowed in subdivision (d), are subject to this subdivision (e).
+
+(f) Relatives and friends of a decedent who was a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces shall apply to the Burial Claims Unit for a grant for burial expenses. The decedent shall be a legal resident of New York City at the time of death. The discharge status of the decedent shall be confirmed by the United State Department of Veterans Affairs.
+
+
+
+
+
+
+*§ 2-04 Eligibility of Applicants for a Grant for Burial Expenses.* ::
+
+
+(a)  The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs. No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or of the burial plot and the grave opening, exceed $1,700.
+
+(b) The value of any resources or income which were available to the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
+
+(c) The value of any resources or income available to the legally responsible relative who resided with the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
+
+(d) A legally responsible relative who resided with the deceased shall be eligible for a burial allowance only if (s)he was financially eligible for public assistance if under age 65, or eligible for SSI if age 65 or over.
+
+
+
+
+
+
+*§ 2-05 Verification.* ::
+
+
+Verification of data supplied on the application form which are pertinent to the determination of eligibility or the amount of the grant toward burial expenses, is an essential element of this investigation.
+
+(a) Documents, personal and collateral interviews, correspondence and conferences are means of verification. The Burial Claims Unit may require verification of all assets and resources that were available to the deceased at the time of death.
+
+(b) All applicants shall be required to provide the Burial Claims Unit with the following documentation:
+
+   (1) A Certificate of Death, which shall contain the name, date of death and place of death of the person to whom it relates and shall be properly certified by the local registrar, or a Certificate of Spontaneous Termination of Pregnancy. The Certificate of Spontaneous Termination of Pregnancy must be prepared in accordance with 24 RCNY Health Code Article 203.
+
+   (2) Two itemized funeral bills, indicating funeral charges, services and merchandise provided. The funeral bills shall be signed by the funeral director before a notary public.
+
+   (3) A true copy of the written Itemization Statement required to be furnished in accordance with § 78.1 of the regulations of the New York State Department of Health. Such statements shall include, but not be limited to, the price of the funeral together with the price of each item of service and merchandise actually furnished. True copies of the statement, pursuant to said regulations, shall be consecutively numbered and maintained in numerical order at the funeral establishment. The itemization statement shall bear the dated signature of both the applicant and the funeral director.
+
+   (4) A cemetery charge bill, if any.
+
+   (5) Such other documentation as may be required by New York City, whether in the possession of the applicant, the funeral director, or the cemetery.
+
+(c) The funeral director shall be required to complete a prescribed form affidavit, provided by the Burial Claims Unit, where payment was made directly to the funeral home. The form shall include, but not be limited to, the following provisions:
+
+   (1) An attestation that the funeral bill is ordinary and customary.
+
+   (2) A statement that the funeral director understands that (s)he shall be subject to the penalties set forth in §§ 3450 et seq. of the Public Health Law, if he knowingly makes a false statement or misrepresentation, or practices fraud or deceit in his business or in the business of the funeral firm.
+
+   (3) A statement that the funeral bill has either been paid or is due and owing.
+
+   (4) A statement that the funeral director agrees that (s)he will furnish any additional documentation kept in the normal course of business which the Burial Claims Unit may require to evaluate eligibility for and amount of benefits.
+
+(d) A personal interview may be required with the fiduciary of the estate of the decedent. New York City shall assess the availability of assets in the deceased's estate to pay the burial expenses. In the event that the executor fails or refuses to cooperate in providing information about the assets and resources available to the deceased at the time of death, eligibility for a grant for burial expenses shall be indeterminable and the application shall be denied. In the event that a lawsuit has been initiated by the fiduciary of the estate, documents shall be obtained to identify all available funds.
+
+
+
+
+
+
+*§ 2-06 Residence.* ::
+
+
+The decedent shall be a resident of New York City or a recipient of public assistance or medicaid from the Department of Social Services of New York City or the application shall be denied. In the event an indigent person dies in New York City but resided in another county in New York State, an application for a grant for burial expenses shall be rejected. The applicant shall be advised to apply to the Department of Social Services in the county of decedent's residence for assistance.
+
+
+
+
+
+
+*§ 2-07 Continuing Liability of the Legally Responsible Relative.* ::
+
+
+In accordance with State law, the relatives who survive the deceased who would have been responsible for his/her support are responsible for the expenses of his/her burial to the extent they are able to pay. New York City may take appropriate action to enforce this obligation in order to reimburse any expenses incurred by New York City in accordance with these regulations.
+
+
+
+
+
+
+*§ 2-08 Fair Hearing.* ::
+
+
+(a)  Fair hearing is the procedure by which an applicant for a grant for burial expenses may appeal to the Commissioner from certain decisions or actions of the Burial Claims Unit and have a hearing thereon, in accordance with Section 22 of the Social Services Law and Title 18, §§ 358.1 et seq. of the Official Compilation of the Codes, Rules and Regulations of the State of New York (NYCRR).
+
+(b) An applicant for a grant for burial expenses shall be entitled to a fair hearing on the following grounds:
+
+   (1) denial of an application for a grant for burial expenses;
+
+   (2) failure to determine the applicant's eligibility;
+
+   (3) inadequacy in amount or manner of payment of burial expenses;
+
+   (4) any other grounds affecting the applicant's entitlement to a grant for burial expenses or the amount thereof.
+
+(c) As set forth in Title 18, Section 358 of the NYCRR, request for a hearing must be made within 60 days of the adverse action which is being appealed. Failure to appeal within this 60 day period will result in a denial of the Fair Hearing.
+
+
+
+
+
+
+*§ 2-09 Application for Financial Assistance for Burial Expenses for Certain Veterans.* ::
+
+
+Notwithstanding any other provision of law or regulation to the contrary, where a discharged member of the armed forces of the United States, other than a member of the armed forces who was dishonorably discharged, and the discharge status of the decedent has been confirmed with the United States Department of Veterans Affairs, dies in the city of New York without leaving sufficient means to defray his or her funeral expenses and dies without a friend or relative to act as an applicant for the purpose of seeking assistance for burial expenses from the Human Resources Administration.
+
+(a) A veteran's organization may act as an organizational friend for purposes of applying for burial expenses if such veteran's organization has been qualified as an organizational friend by the Human Resources Administration. Approval of such organization as an organizational friend is based on the organization's satisfactorily meeting the following criteria:
+
+      (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
+
+      (ii) Part of the organization's function is to bury indigent veterans;
+
+      (iii) The organization's principal place of business is in New York City;
+
+      (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) or 501(c)(19) of the United States Revenue Code;
+
+      (v) No board member or officer of the organization is a funeral home director with which the organization does business;
+
+      (vi) A substantial amount of the organization's funding for burial purposes comes from private sources;
+
+      (vii) Annually, the organization makes its books and records available to the Human Resources Administration for inspection, review and audit, if necessary.
+
+(b) The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs, including the cost of transporting the remains of the veteran to the Calverton National Cemetery.
+
+      (i) No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or the burial plot and the grave opening, exceed $1,700.
+
+      (ii) No payments shall be authorized if the veteran is to be buried in a private cemetery other than in the Calverton National Cemetery.
+
+      (iii) The value of any resources or income which were available to the deceased shall be deducted from the $900 burial allowance in determining the amount the applicant shall receive.
+
+
+
+
 Chapter 3: Employment Training Programs For Public Assistance Recipients
 --------------------------------------------------
 
@@ -353,324 +572,6 @@ OES shall not approve the application for training related expenses and/or an ex
 (a)  In the event that an employment training program becomes disapproved for failure to pass the employment placement rate review, or for the reasons set forth in subdivisions b or c of 68 RCNY § 3-05, a public assistance recipient who is already enrolled in the program at the time it is disapproved shall continue to receive training related expenses and/or be excused from other OES work-related activities until the earlier of the recipient's training completion date, or the date when the recipient withdraws from the program or OES withdraws approval pursuant to paragraph 5 of subdivision b of 68 RCNY § 3-07.
 
 (b) In the event that an employment training program becomes disapproved pursuant to subdivision a of 68 RCNY § 3-05, a public assistance recipient enrolled in such program shall not receive further training related expenses or continue to be excused from other OES work-related activities. Such a recipient may immediately submit a School Enrollment Form for another employment training program.
-
-
-
-
-Chapter 2: Burial Claims
---------------------------------------------------
-
-
-
-*§ 2-01 General Statement.* ::
-
-
-(a) The laws of the state of New York require that New York City be responsible for the burial of poor people who reside here. New York City meets these requirements in two ways. For those deceased persons who do not have a friend or relative who is willing to arrange for burial, the deceased is interred in New York City's burial ground (known as "Potter's Field"). For those deceased persons who have a friend or relative who wishes to arrange for burial through a funeral director, New York City will help pay burial expenses if there is no legally responsible relative living with the deceased at the time of death or prior to the institutionalization of the deceased who is financially able to pay for the burial. These regulations explain when and how much New York City will pay for the burial expenses when the funeral was arranged by a friend or relative.
-
-(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in 68 RCNY § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
-
-
-
-
-
-
-*§ 2-02 Definitions.* ::
-
-
-Applicant. An applicant is a relative or friend of the indigent decedent who has authorized or provided for the burial of an indigent person, has signed the prescribed form seeking assistance for burial expenses, and has hand-delivered the signed application to personnel of the Burial Claims Unit. A legally responsible relative who resided with the deceased prior to the deceased's institutionalization or at the time of death must be the applicant, for that deceased individual. Except for Organizational Friends, as defined in 68 RCNY § 2-02 "Friend" (2), applicants or their authorized representatives must appear in person at the Burial Claims Unit of the Human Resources Administration to apply for benefits.
-
-Application. An application is an action by which a person indicates his or her desire to receive a grant for burial expenses through signing and hand-delivering the prescribed form to personnel of the Burial Claims Unit.
-
-Authorized representative. An authorized representative means the person designated by the friend or relative to make funeral arrangements and/or to apply on the applicant's behalf. Proof of representation shall consist of a statement signed by the applicant designating the person as the authorized representative.
-
-Burial expenses. Burial expenses mean any cost related to the funeral or burial of the deceased which are enumerated in the written itemization statement or crematory/cemetery charge bill. The value of items or services donated by a funeral director, funeral home, or cemetery shall not be considered burial expense.
-
-Friend. A friend may be either an (1) individual; or (2) a charitable and/or religious organization.
-
-(1) Individual friend. A friend is any person who, prior to the decedent's death, maintained such regular contact with the deceased as to be familiar with the decedent's activities, health and religious beliefs. Such "friend" shall present a sworn, notarized statement stating the facts and circumstances upon which the claim that he is a "friend" is based. The following persons are not "friends" of the deceased for purposes of these regulations: Funeral directors and employees of the funeral home through whom funeral arrangements have or will be made; Public Administrators, acting in their official capacity; hospital administrators and hospital employees acting in their official capacity; administrators and employees of all facilities set forth in Article 28 of the Public Health Law acting in their official capacity.
-
-(2) Organizational friend. A charitable and/or religious organization may qualify as an "organizational friend" if the New York City Department of Social Services gives advance approval of such status based on the organization's satisfactorily meeting the following criteria:
-
-   (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
-
-   (ii) Part of the organization's function is to bury indigent persons;
-
-   (iii) The organization's principal place of business is in New York City;
-
-   (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) of the United States Internal Revenue Code;
-
-   (v) No board member or officer of the organization is a funeral home director with which the organization does business;
-
-   (vi) A substantial amount of the organization's funding for burial purposes comes from private sources; and
-
-   (vii) Annually, the organization makes its books and records available to the New York City Department of Social Services for inspection, review and audit, if necessary.
-
-Funeral directing. Funeral directing means the care and disposal of the body of a deceased person and/or the preserving, "disinfecting and preparing by embalming or otherwise, the body of a deceased person for funeral services, transportation, burial or cremation; and/or funeral directing or embalming as present known, pursuant to § 3400(d) of the Public Health Law or in accordance with the statutes of the funeral director's home state.
-
-Funeral director. A funeral director is a person to whom a valid license as such has been duly issued, pursuant to § 3400(a) of the Public Health Law or licensed in accordance with the statutes of the funeral director's home state.
-
-Funeral establishment. A funeral establishment means a single physical location, address or premises devoted to or used for the care and preparation of a body of a deceased person for disposition and for mourning or funeral ceremonial purposes, pursuant to § 3400(g) of the Public Health Law or licensed in accordance with the statutes of the funeral establishment's home state.
-
-Funeral firm. A funeral firm means an individual, partnership, corporation or estate representative engaged in the business and practice of funeral directing, pursuant to § 3400(j) of the Public Health Law or licensed in accordance with the statutes of the funeral firm's state.
-
-Indigent. An indigent is an individual who was in receipt of public assistance or Supplemental Security Income ("SSI"); or if less than age 65 was eligible for public assistance; or if age 65 and over, was eligible for SSI.
-
-Legally responsible relative. A legally responsible relative is legally obligated to furnish support for the following persons: a spouse; a son or daughter under the age of twenty-one years and a step-child under the age of twenty-one years. A person is not chargeable with the support of an adopted child of his or her spouse, if the child was adopted after the adopting spouse is living separate and apart from the non-adopting spouse pursuant to a legally recognizable separation agreement or decree under the domestic relations law, and the spouses remain separate and apart after the adoption.
-
-New York City. New York City means the Human Resources Administration of the City of New York, which is the local social services district for the City of New York. The Burial Claims Unit. The Burial Claims Unit is the unit of the Human Resources Administration which accepts applications, processes applications, and authorizes grants for burial expenses based on applications for burial grants, including applications by relatives or friends for grants for a decedent who is a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces. The decedent shall be a legal resident of New York City at the time of death. The Burial Claims Unit of the Office of Constituent and Community Affairs of the New York City Human Resources Administration is located at 151 Lawrence Street, 5th Floor, Brooklyn, New York 11201.
-
-Public assistance. Public assistance means the receipt of Home Relief or Aid to Dependent Children. Payments of emergency assistance to families or emergency home relief shall not be considered public assistance.
-
-Relative. Relative includes all relatives of the deceased through first cousin or the spouse of any such relative. Specifically included are the spouse, child, grandchild, parent, grandparent, brother, sister of the deceased and their spouses.
-
-Supplemental Security Income. Supplemental Security Income, or SSI, means the receipt of SSI or additional state payments.
-
-
-
-
-
-
-*§ 2-03 Application for Financial Assistance for Burial Expenses.* ::
-
-
-(a)  An application shall be submitted to the Agency within sixty days of the date of death by the relative or friend of the deceased or an authorized representative.
-
-(b) An application shall be made by personal appearance at the Burial Claims Unit.
-
-(c) The applicant shall receive a prescribed application form. An applicant shall complete the application form before any assistance shall be authorized. All documents required to verify eligibility for and the amount of benefits must be submitted within sixty days of the application for benefits. Failure to provide such documents within the time set forth in this section shall result in a finding of ineligibility and a denial of the application except as stated in this subdivision (c). An applicant who cannot submit the documentation within sixty days of the date of application shall inform the Burial Claims Unit in writing of the delay and the reason therefor within the sixty-day period. Extensions of this period shall be granted at the discretion of the Burial Claims Unit.
-
-(d) Applications on behalf of indigents who were in receipt of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance at the date of death may be made prior to burial and eligibility for a grant for burial expenses will be determined within two working days of application. If the applicant is a legally responsible relative, (s)he must also be a recipient of public assistance from the Human Resources Administration of New York City or Supplemental Security Assistance. If eligibility is found, the applicant shall be issued a pre-approval letter addressed to the funeral director acknowledging eligibility subject to the monetary and documentation requirements set forth in these regulations. Authorization for payment of burial expenses shall be deferred until receipt of all documentation. Such documentation must be supplied within 60 days of application except as described in 68 RCNY § 2-03(c). The Burial Claims Unit will make every effort to authorize payment within two weeks of receipt of all necessary documentation in cases under this subdivision (d).
-
-(e) Application on behalf of indigents who were not in receipt of public assistance from the Human Resources Administration of New York or Supplemental Security Assistance at the date of death are subject to further eligibility verification. The Burial Claims Unit will make every effort to make a final determination of eligibility for payment within thirty days of receipt of all necessary documentation required in this regulation. Applicants who authorized the burial of public assistance or SSI recipients and who did not apply before burial as allowed in subdivision (d), are subject to this subdivision (e).
-
-(f) Relatives and friends of a decedent who was a discharged member of the armed forces of the United States, a minor child or parent of any such member of the armed forces, or the spouse or unremarried surviving spouse of any such member of the armed forces shall apply to the Burial Claims Unit for a grant for burial expenses. The decedent shall be a legal resident of New York City at the time of death. The discharge status of the decedent shall be confirmed by the United State Department of Veterans Affairs.
-
-
-
-
-
-
-*§ 2-04 Eligibility of Applicants for a Grant for Burial Expenses.* ::
-
-
-(a)  The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs. No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or of the burial plot and the grave opening, exceed $1,700.
-
-(b) The value of any resources or income which were available to the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
-
-(c) The value of any resources or income available to the legally responsible relative who resided with the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
-
-(d) A legally responsible relative who resided with the deceased shall be eligible for a burial allowance only if (s)he was financially eligible for public assistance if under age 65, or eligible for SSI if age 65 or over.
-
-
-
-
-
-
-*§ 2-05 Verification.* ::
-
-
-Verification of data supplied on the application form which are pertinent to the determination of eligibility or the amount of the grant toward burial expenses, is an essential element of this investigation.
-
-(a) Documents, personal and collateral interviews, correspondence and conferences are means of verification. The Burial Claims Unit may require verification of all assets and resources that were available to the deceased at the time of death.
-
-(b) All applicants shall be required to provide the Burial Claims Unit with the following documentation:
-
-   (1) A Certificate of Death, which shall contain the name, date of death and place of death of the person to whom it relates and shall be properly certified by the local registrar, or a Certificate of Spontaneous Termination of Pregnancy. The Certificate of Spontaneous Termination of Pregnancy must be prepared in accordance with 24 RCNY Health Code Article 203.
-
-   (2) Two itemized funeral bills, indicating funeral charges, services and merchandise provided. The funeral bills shall be signed by the funeral director before a notary public.
-
-   (3) A true copy of the written Itemization Statement required to be furnished in accordance with § 78.1 of the regulations of the New York State Department of Health. Such statements shall include, but not be limited to, the price of the funeral together with the price of each item of service and merchandise actually furnished. True copies of the statement, pursuant to said regulations, shall be consecutively numbered and maintained in numerical order at the funeral establishment. The itemization statement shall bear the dated signature of both the applicant and the funeral director.
-
-   (4) A cemetery charge bill, if any.
-
-   (5) Such other documentation as may be required by New York City, whether in the possession of the applicant, the funeral director, or the cemetery.
-
-(c) The funeral director shall be required to complete a prescribed form affidavit, provided by the Burial Claims Unit, where payment was made directly to the funeral home. The form shall include, but not be limited to, the following provisions:
-
-   (1) An attestation that the funeral bill is ordinary and customary.
-
-   (2) A statement that the funeral director understands that (s)he shall be subject to the penalties set forth in §§ 3450 et seq. of the Public Health Law, if he knowingly makes a false statement or misrepresentation, or practices fraud or deceit in his business or in the business of the funeral firm.
-
-   (3) A statement that the funeral bill has either been paid or is due and owing.
-
-   (4) A statement that the funeral director agrees that (s)he will furnish any additional documentation kept in the normal course of business which the Burial Claims Unit may require to evaluate eligibility for and amount of benefits.
-
-(d) A personal interview may be required with the fiduciary of the estate of the decedent. New York City shall assess the availability of assets in the deceased's estate to pay the burial expenses. In the event that the executor fails or refuses to cooperate in providing information about the assets and resources available to the deceased at the time of death, eligibility for a grant for burial expenses shall be indeterminable and the application shall be denied. In the event that a lawsuit has been initiated by the fiduciary of the estate, documents shall be obtained to identify all available funds.
-
-
-
-
-
-
-*§ 2-06 Residence.* ::
-
-
-The decedent shall be a resident of New York City or a recipient of public assistance or medicaid from the Department of Social Services of New York City or the application shall be denied. In the event an indigent person dies in New York City but resided in another county in New York State, an application for a grant for burial expenses shall be rejected. The applicant shall be advised to apply to the Department of Social Services in the county of decedent's residence for assistance.
-
-
-
-
-
-
-*§ 2-07 Continuing Liability of the Legally Responsible Relative.* ::
-
-
-In accordance with State law, the relatives who survive the deceased who would have been responsible for his/her support are responsible for the expenses of his/her burial to the extent they are able to pay. New York City may take appropriate action to enforce this obligation in order to reimburse any expenses incurred by New York City in accordance with these regulations.
-
-
-
-
-
-
-*§ 2-08 Fair Hearing.* ::
-
-
-(a)  Fair hearing is the procedure by which an applicant for a grant for burial expenses may appeal to the Commissioner from certain decisions or actions of the Burial Claims Unit and have a hearing thereon, in accordance with Section 22 of the Social Services Law and Title 18, §§ 358.1 et seq. of the Official Compilation of the Codes, Rules and Regulations of the State of New York (NYCRR).
-
-(b) An applicant for a grant for burial expenses shall be entitled to a fair hearing on the following grounds:
-
-   (1) denial of an application for a grant for burial expenses;
-
-   (2) failure to determine the applicant's eligibility;
-
-   (3) inadequacy in amount or manner of payment of burial expenses;
-
-   (4) any other grounds affecting the applicant's entitlement to a grant for burial expenses or the amount thereof.
-
-(c) As set forth in Title 18, Section 358 of the NYCRR, request for a hearing must be made within 60 days of the adverse action which is being appealed. Failure to appeal within this 60 day period will result in a denial of the Fair Hearing.
-
-
-
-
-
-
-*§ 2-09 Application for Financial Assistance for Burial Expenses for Certain Veterans.* ::
-
-
-Notwithstanding any other provision of law or regulation to the contrary, where a discharged member of the armed forces of the United States, other than a member of the armed forces who was dishonorably discharged, and the discharge status of the decedent has been confirmed with the United States Department of Veterans Affairs, dies in the city of New York without leaving sufficient means to defray his or her funeral expenses and dies without a friend or relative to act as an applicant for the purpose of seeking assistance for burial expenses from the Human Resources Administration.
-
-(a) A veteran's organization may act as an organizational friend for purposes of applying for burial expenses if such veteran's organization has been qualified as an organizational friend by the Human Resources Administration. Approval of such organization as an organizational friend is based on the organization's satisfactorily meeting the following criteria:
-
-      (i) The organization's history and purpose, as demonstrated by its articles of organization, are charitable and/or religious in nature;
-
-      (ii) Part of the organization's function is to bury indigent veterans;
-
-      (iii) The organization's principal place of business is in New York City;
-
-      (iv) The organization is non-profit and tax-exempt pursuant to § 501(c)(3) or 501(c)(19) of the United States Revenue Code;
-
-      (v) No board member or officer of the organization is a funeral home director with which the organization does business;
-
-      (vi) A substantial amount of the organization's funding for burial purposes comes from private sources;
-
-      (vii) Annually, the organization makes its books and records available to the Human Resources Administration for inspection, review and audit, if necessary.
-
-(b) The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs, including the cost of transporting the remains of the veteran to the Calverton National Cemetery.
-
-      (i) No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or the burial plot and the grave opening, exceed $1,700.
-
-      (ii) No payments shall be authorized if the veteran is to be buried in a private cemetery other than in the Calverton National Cemetery.
-
-      (iii) The value of any resources or income which were available to the deceased shall be deducted from the $900 burial allowance in determining the amount the applicant shall receive.
-
-
-
-
-Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
---------------------------------------------------
-
-
-
-*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
-
-
-(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
-
-   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
-
-   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
-
-   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
-
-   (4) You have the right to refuse any service.
-
-   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
-
-   (6) You have the right to contact a HASA staff member whenever you need services.
-
-   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
-
-   (8) You have the right to initiate complaints against HASA staff.
-
-   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
-
-   (10) You have the right to be treated fairly and with respect and courtesy.
-
-(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
-
-(c) HASA client rights.
-
-   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
-
-      (i) Federal law or regulations;
-
-      (ii) New York State Social Services Law or regulations; or
-
-      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
-
-   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
-
-   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
-
-   (4) You have the right to participate with HASA staff in the development of a service plan.
-
-   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
-
-   (6) You have the right to review your HASA case record and to dispute any information contained therein.
-
-   (7) You have the right to be treated fairly and with respect and courtesy.
-
-(d) HASA client responsibilities.
-
-   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
-
-   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
-
-   (3) ACM Employability Assessment and Employment Plan.
-
-      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
-
-      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
-
-      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
-
-      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
-
-   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
-
-   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
-
-   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
-
-   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
-
-   (8) You have the responsibility to treat HASA staff with respect and courtesy.
-
-
-
-
-
-
-*§ 5-02 Rent Limitation.* ::
-
-
-(a) In accordance with § 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
-
-(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
-
-(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
-
-(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
 
 
 
@@ -1007,6 +908,105 @@ The amount of food and administrative funds allocated to each provider may be ch
 (d) a request from the provider that its allocation be reduced.
 
 (e) other factors dictating the need to reallocate funds, including, but not limited to changing demographics or changed demographic projections, or geographic im- balances.
+
+
+
+
+Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
+--------------------------------------------------
+
+
+
+*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
+
+
+(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
+
+   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
+
+   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
+
+   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
+
+   (4) You have the right to refuse any service.
+
+   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
+
+   (6) You have the right to contact a HASA staff member whenever you need services.
+
+   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
+
+   (8) You have the right to initiate complaints against HASA staff.
+
+   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
+
+   (10) You have the right to be treated fairly and with respect and courtesy.
+
+(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
+
+(c) HASA client rights.
+
+   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
+
+      (i) Federal law or regulations;
+
+      (ii) New York State Social Services Law or regulations; or
+
+      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
+
+   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
+
+   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
+
+   (4) You have the right to participate with HASA staff in the development of a service plan.
+
+   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
+
+   (6) You have the right to review your HASA case record and to dispute any information contained therein.
+
+   (7) You have the right to be treated fairly and with respect and courtesy.
+
+(d) HASA client responsibilities.
+
+   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
+
+   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
+
+   (3) ACM Employability Assessment and Employment Plan.
+
+      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
+
+      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
+
+      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
+
+      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
+
+   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
+
+   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
+
+   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
+
+   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
+
+   (8) You have the responsibility to treat HASA staff with respect and courtesy.
+
+
+
+
+
+
+*§ 5-02 Rent Limitation.* ::
+
+
+(a) In accordance with § 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
+
+(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
+
+(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
+
+(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
 
 
 
