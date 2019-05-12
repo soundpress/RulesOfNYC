@@ -5606,6 +5606,253 @@ Upon a client or prospective client request for an abortion, emergency contracep
 
 
 
+
+
+
+**Subchapter Q: Bail Bond Agents**
+
+
+
+*§ 5-272. Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Bail bond agent. The term “bail bond agent” has the same definition as that term is defined in Section 20-830 of the Administrative Code.
+
+Designated citywide language. The term “designated citywide language” has the same definition as that term is defined in Section 20-830 of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 5-273. Disclosures.* ::
+
+
+(a) To comply with Section 20-831(b) of the Administrative Code, a bail bond agent must post in a conspicuous manner at its business and where transactions are executed a sign, produced and made available by the Department, no less than 8.5 inches by 11 inches in dimension that contains the following information:
+
+   (1) The name of the bail bond agent as registered with the New York State Department of Financial Services;
+
+   (2) The New York State Department of Financial Services license number of the bail bond agent;
+
+   (3) All addresses and phone numbers registered under the license; and
+
+   (4) The name of any sublicensee registered under the license.
+
+(b) To comply with Section 20-831(c) of the Administrative Code, before entering into a contract with a consumer, a bail bond agent must produce and distribute to every consumer a flier no less than 8.5 inches by 11 inches in dimension, containing the information described in Subdivision (a) of this section.
+
+(c) To comply with Section 20-831(c) of the Administrative Code, before entering into a contract with a consumer, a bail bond agent must produce and distribute to every consumer, the consumer bill of rights shown below on paper no less than 8.5 by 11 inches in dimension. The consumer must sign and date a copy of the consumer bill of rights produced and distributed by the bail bond agent. The bail bond agent must produce the consumer bill of rights in English and in a designated citywide language if the consumer is a limited English proficient individual who speaks a designated citywide language and the bail bond agent knows or reasonably should know that the consumer is such an individual.
+
+_______________________________________________________________________________________
+
+Bail Bond Consumer Bill of Rights
+
+By law, bail bond agents must give you a copy of this document before you sign a contract. It outlines your rights, how the process works, and maximum fees that a bail bond agent can charge. Take the time to read and understand it before you sign it. The bail bond agent must give you a copy of any signed document, including a contract, to keep.
+
+Know Your Rights
+
+It’s illegal for a bail bond agent to:
+
+•   Charge a fee (also called a premium) for the bail bond that is more than the maximum fee allowed by law. See the Maximum Fees Chart. The fees charged by the bail bond agent are not refundable, which means you will not get back your money.
+
+•   Charge extra for services if the charges, combined with other fees, exceed the maximum fees allowed. Services might have names like “courier fee” or “check-in fee.”
+
+•   Require someone to pay more fees for a bail bond if the maximum fees have been paid already.
+
+You have the right to:
+
+•   Know the name and license number of the bail bond agent and receive this information in writing.
+
+•   Negotiate the contract with the bail bond agent.
+
+•   Take documents off the premises to review them before signing them.
+
+•   Get a contract that tells you when the bail bond agent will return your collateral and under what conditions. Collateral can be cash, property, such as the deed to a home, or something with value that the bail bond agent keeps until a case is over. Collateral is refundable, so you get it back when the case is over. However, the bail bond agent may be able to keep the collateral if the defendant violates the court’s orders; for example, if the defendant does not show up for a scheduled court appearance.
+
+•   Get back the collateral you provided if the judge decides that the defendant followed all of the court’s directions. It does not matter if the defendant is convicted or acquitted.
+
+How the Process Works
+
+Someone close to you is arrested and charged with a crime.
+
+The court sets bail. If you cannot pay cash bail directly to the court, you can go to a bail bond agent to arrange a bail bond. Know your rights when using a bail bond agent! See Know Your Rights.
+
+You pay the bail bond agent, possibly provide collateral, and sign a contract. The bail bond agent secures the bail bond.
+
+The defendant is released from jail.
+
+While the case is open, the defendant must obey all court orders and attend all scheduled court appearances. If not, the court may revoke bail, which means the bond is forfeited and you lose your collateral.
+
+If the judge “exonerates” the bond (either at the end of the case or while the case is still open), then the bail bond agent must return the collateral. The court has exoneration paperwork, often called the “disposition,” which says whether the bail was exonerated, and you can take this to the bail bond agent as proof.
+
+The bail bond agent either gives you the collateral immediately or mails it to you.
+
+Maximum Fees Chart
+
+The formula to determine the maximum fees that a bail bond agent can charge for a bail bond is:
+
+•   If the bond is $200 or less, the maximum fee is $10.
+
+•   If the bond is more than $200, the maximum fee is:
+
+   o   10% of the amount up to $3,000
+
+   o   An additional 8% for any amount between $3,000 and $10,000
+
+   o   An additional 6% for any amount above $10,000
+
+The maximum fees are set based on the size of the bond, not the number of people signing for it. If the maximum fee for a bond is $100 and two or more people sign for the bond, the bail bond agent may still only charge $100 total.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Bail Bond Amount
+      - Calculation of Fees
+      - Maximum Fees
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - $1 to $200
+      - $10
+      - $10
+    * - $1,000
+      - 10% of $1,000
+      - $100
+    * - $5,000
+      - 10% of $3,000 + 8% of $2,000
+      - $460
+    * - $7,500
+      - 10% of $3,000 + 8% of $4,500
+      - $660
+    * - $10,000
+      - 10% of $3,000 + 8% of $7,000
+      - $860
+    * - $20,000
+      - 10% of $3,000 + 8% of $7,000 + 6% of $10,000
+      - $1,460
+    * - $50,000
+      - 10% of $3,000 + 8% of $7,000 + 6% of $40,000
+      - $3,260
+~
+
+ 
+
+An online tool to calculate maximum fees is available at: https://nybondcalculator.org/
+
+What to Do if a Bail Bond Agent Breaks the Law
+
+To report an unlicensed bail bond agent, or a bail bond agent charging illegal fees or failing to return or refund collateral, contact the New York State Department of Financial Services (DFS) at (800) 342-3736 or dfs.ny.gov.
+
+To report other illegal business practices, contact the New York City Department of Consumer Affairs (DCA) by calling 311 or visiting nyc.gov/dca. Illegal business practices may include refusing to provide copies of documents; failing to provide a complete receipt or providing an illegal receipt; or false advertising.
+
+For Consumer to Complete:
+
+The bail bond agent must give you this document in your preferred language if it is one of the six designated citywide languages (Spanish, Bengali, Chinese, Haitian Creole, Korean, Russian).
+
+___________________         ___________________Signature            Date
+
+___________________Print Name_______________________________________________________________________________________
+
+ 
+
+(d) To comply with Section 20-832 of the Administrative Code, a bail bond agent must post a copy of the sign shown below on a paper no less than 17 inches by 28 inches in a conspicuous manner at the location where transactions are executed.
+
+_______________________________________________________________________________________
+
+Bail Bond Fees
+
+The formula to determine the maximum fees that a bail bond agent can charge for a bail bond is:
+
+•   If the bond is $200 or less, the maximum fee is $10.
+
+•   If the bond is more than $200, the maximum fee is:
+
+   o   10% of the amount up to $3,000
+
+   o   An additional 8% for any amount between $3,000 and $10,000
+
+   o   An additional 6% for any amount above $10,000
+
+The maximum fees are set based on the size of the bond, not the number of people signing for it. If the maximum fee for a bond is $100 and two or more people sign for the bond, the bail bond agent may still only charge $100 total.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Bail Bond Amount
+      - Calculation of Fees
+      - Maximum Fees
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - $1 to $200
+      - $10
+      - $10
+    * - $1,000
+      - 10% of $1,000
+      - $100
+    * - $5,000
+      - 10% of $3,000 + 8% of $2,000
+      - $460
+    * - $7,500
+      - 10% of $3,000 + 8% of $4,500
+      - $660
+    * - $10,000
+      - 10% of $3,000 + 8% of $7,000
+      - $860
+    * - $20,000
+      - 10% of $3,000 + 8% of $7,000 + 6% of $10,000
+      - $1,460
+    * - $50,000
+      - 10% of $3,000 + 8% of $7,000 + 6% of $40,000
+      - $3,260
+~
+
+ 
+
+An online tool to calculate maximum fees is available at: https://nybondcalculator.org/
+
+Consumer Bill of Rights
+
+You are entitled to receive a Consumer Bill of Rights and you must sign it before entering into a contract with the bail bond agent.
+
+File a Complaint
+
+If you think the bail bond agent broke the law by charging excessive fees, you should file a complaint.
+
+To report an unlicensed bail bond agent, or a bail bond agent charging illegal fees or failing to return or refund collateral, contact the New York State Department of Financial Services (DFS) at (800) 342-3736 or dfs.ny.gov.
+
+To report other illegal business practices, contact the New York City Department of Consumer Affairs (DCA) by calling 311 or visiting nyc.gov/dca. Illegal business practices may include refusing to provide copies of documents; failing to provide a complete receipt or providing an illegal receipt; or false advertising.
+
+_______________________________________________________________________________________
+
+
+
+
+
+
 Chapter 7: Office of Labor Policy and Standards
 --------------------------------------------------
 
