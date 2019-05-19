@@ -1036,521 +1036,6 @@ Chapter 2: Annual Vault Charge [Repealed]
 
 
 
-Chapter 4: Cigarette Tax
---------------------------------------------------
-
-
-
-*§ 4-01 Definitions.* ::
-
-
-(a) When using these regulations the following words shall have the meanings here indicated:
-
-   Agent. An "agent" shall mean any person authorized to purchase and affix adhesive or meter stamps under the law who is designated as an agent by the Commissioner of Finance.
-
-   Cigarette. A "cigarette" shall mean any roll for smoking made wholly or in part of tobacco or any other substance irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material except tobacco.
-
-   City. "City" shall mean the city of New York.
-
-   Commissioner of Finance. The "Commissioner of Finance" shall mean the Commissioner of Finance of the City.
-
-   Controlling person. A "controlling person" shall mean any person who is:
-
-      (1) an officer, director or partner or, in the case of a limited liability company, a member or a person having with respect to such limited liability company authority analogous to that of an officer or director with respect to a corporation, of an applicant for a license, or
-
-      (2) a shareholder, directly or indirectly owning more than ten percent of the number of shares of stock of such applicant (where such applicant is a corporation) entitling the holder thereof to vote for the election of directors or trustees. For purposes of this paragraph, where reference is made to ownership, directly or indirectly, of more than ten percent of the shares of stock of the applicant entitling the holder thereof to vote for election of directors or trustees, in the case of an applicant that at the relevant time has four or fewer shareholders holding shares entitling the holders thereof to vote for the election of directors or trustees, twenty-five percent or more shall be substituted as the applicable percentage in such reference to ownership, directly or indirectly, of voting stock.
-
-   Dealer. A "dealer" shall mean any wholesale dealer or retail dealer as hereinafter defined.
-
-   Package. "Package" shall mean the individual package, box or other container in or from which retail sales of cigarettes are normally made or intended to be made.
-
-   Person. A "person" shall mean any individual, partnership, society, association, joint stock company, corporation, estate, receiver, trustee, assignee, referee or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals.
-
-   Retail dealer. A "retail dealer" shall mean any person other than a wholesale dealer engaged in selling cigarettes. For the purposes of the law, the possession or transportation at any one time of 5,000 or more cigarettes by any person other than a manufacturer, an agent, a licensed wholesale dealer or a person delivering cigarettes in the regular course of business for a manufacturer, an agent or a licensed wholesale or retail dealer, is presumptive evidence that such person is a retail dealer.
-
-   Sale or purchase. A "sale" or "purchase" shall mean any transfer of title or possession or both, exchange or barter, conditional or otherwise, in any manner or by any means whatsoever or any agreement therefor. In addition to cash and credit sales, the giving of cigarettes as samples, prizes or gifts, and the exchanging of cigarettes are, for the purpose of the tax, considered sales.
-
-   Use. "Use" shall mean any exercise of a right or power, actual or constructive, and shall include but is not limited to the receipt, storage, or any keeping or retention for any length of time, but shall not include possession for sale by a dealer.
-
-   Wholesale dealer. "Wholesale dealer" shall mean any person who sells cigarettes to retail dealers or other persons for purposes of resale only, and any person who owns, operates or maintains one or more cigarette vending machines in, at or upon premises owned or occupied by any other person.
-
-
-
-
-
-
-*§ 4-02 Imposition of Tax.* ::
-
-
-(a)  On or after January 1, 1976, and before July 2, 2002, a tax at the rate of four cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however, on or after August 6, 1985 and before July 2, 2002, if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be two cents for each five cigarettes or fraction thereof. On or after July 2, 2002 a tax at the rate of 75 cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be 38 cents for each five cigarettes or fraction thereof. Every package of cigarettes must have affixed thereto stamps of the proper amount. For example: on or after July 2, 2002 a package containing from 11 to 20 cigarettes must have affixed $1.50 in stamps; a package containing ten cigarettes or less must have affixed 75 cents in stamps; a package containing 20 to 25 cigarettes must have affixed $1.88 in stamps; a package containing 26 to 30 cigarettes must have affixed $2.26 in stamps.
-
-(b) Payment of cigarette tax on inventory.
-
-   (1) Local Law 10 of 2002 required every dealer of cigarettes, including agents licensed to purchase and affix stamps, to take a physical inventory of all cigarettes possessed in the City as of the close of business on July 1, 2002. In addition, such local law required every dealer who is a licensed agent to take a physical inventory of all unaffixed cigarette tax stamps possessed as of the close of business on such date. In the event that it was not possible to take a physical inventory of cigarettes in all vending machines that are located within the City, a dealer was permitted to take as many physical inventories of the contents of such machines as was possible with available personnel. For those machines that could not be physically inventoried on July 1, 2002, cigarettes could be accounted for at one-half the normal fill capacities of such machines, as reflected in the individual inventory records maintained for such machines.
-
-   (2) i) (A) On or before September 20, 2002, every such dealer shall file a return on a form prescribed by the Department of Finance for such purpose, showing the quantity of all cigarettes and unaffixed stamps possessed as of the July 1, 2002 inventory. Such return must reflect the entire wholesale and/or retail inventories of the dealer within the City, as required by the Department of Finance, regardless of the number of business locations of the dealer. Except as provided in subparagraph (B) of this subparagraph (i), every dealer shall pay, with the filing of such return, an additional tax for all cigarettes in such inventory that are contained in packages bearing stamps evidencing tax payment at the rates in effect prior to July 2, 2002, and for all unaffixed cigarette tax stamps in such inventory evidencing tax payment at such rates. The additional tax shall be paid at the rate of 71 cents for each ten cigarettes or fraction thereof ($1.42 per package of 20 cigarettes) unless cigarettes are contained in packages of more than 20, in which case the additional tax for those cigarettes in excess of 20 shall be at the rate of 36 cents for each five cigarettes or fraction thereof ($1.78 per package of 25 cigarettes). Such tax shall be paid regardless of whether the affixed or unaffixed stamps show payment of the New York State tax or both the New York State and City taxes.
-
-         (B) Notwithstanding any other provision of law to the contrary, the tax due on cigarettes possessed in the City, as of the close of business on July 1, 2002, by any person for sale solely attributable to the increase imposed by this local law, may be paid in two installments, due on the twentieth days of September 2002 and January 2003, subject to such terms and conditions as the Department of Finance may prescribe; provided, however, no less than 25 percent of each such tax due shall be paid by September 20, 2002. Provided, however, in no event shall such installment be less than $200 or the entire additional cigarette tax due, if less than $200. Thus a dealer having an additional cigarette tax liability on inventory of $100 would be liable for the full payment on September 20, 2002; a dealer having such a liability of $440 would be liable for a first installment of at least $200; and a dealer having such a liability of $10,000 would be liable for a first installment of at least $2,500 ($10,000 × 25%). The second and final installment must be paid to the Department of Finance on or before January 20, 2003, and must be accompanied by a final payment document prescribed by the Department of Finance for this purpose. Where the Department of Finance has cause to believe that the final installment of the additional cigarette tax on inventory may be jeopardized by delay, the Department of Finance may require such payment at any time prior to January 20, 2003. (See paragraph (3) of this subdivision for sanctions concerning untimely installments.)
-
-      (ii) The additional cigarette tax on inventory and any applicable installment should be paid by check or money order, payable to the New York City Department of Finance.
-
-   (3) i) Failure to file a return on cigarette and cigarette tax stamp inventory or to pay the additional tax due thereon, or failure to comply with any provision of this section may result in civil or criminal sanctions, or both.
-
-      (ii) In the case of any dealer who elects to pay the additional cigarette tax liability in installments, as described in subparagraph (B) of subparagraph (i) of paragraph (2) of this subdivision, if the required first installment is not properly paid on or before September 20, 2002, the entire amount of additional tax shall be due and owing, and any civil penalty and interest imposed pursuant to § 11-1317 of the Administrative Code and 19 RCNY § 4-23 will accrue from such date on the entire tax liability that remains unpaid. Where the required first installment is timely paid but any portion of the second and final installment is paid after January 20, 2003, any civil penalty and interest so imposed will accrue from such date on the unpaid balance.
-
-
-
-
-
-
-*§ 4-03 Exemptions.* ::
-
-
-This law provides that the tax shall not apply to:
-
-(a) The use, otherwise than for sale, of four hundred cigarettes or less brought into the city, on or in possession of, any person;
-
-(b) Cigarettes sold to the United States;
-
-(c) Cigarettes sold to or by a voluntary unincorporated organization of the Armed Forces of the United States operating a place for the sale of goods pursuant to regulations promulgated by the appropriate executive agency of the United States;
-
-(d) Cigarettes possessed in the city by an agent or wholesale dealer for sale to a dealer outside the city or for sale and shipment to any person in another state for use there, provided such agent or wholesale dealer complies with the regulations relating thereto;
-
-(e) Cigarettes sold to the State of New York or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State where it is the purchaser, user or consumer and does not purchase said cigarettes for resale.
-
-
-
-
-
-
-*§ 4-04 Liability for the Tax.* ::
-
-
-(a) Article 4. Except as otherwise provided herein, the tax shall be advanced by the agent or distributor. The agent shall be liable for the collection and payment of the tax to the Commissioner of Finance by purchasing from the Commissioner of Finance adhesive stamps of such design and denomination as may be prescribed by the Commissioner of Finance, subject to the approval of the State Tax Commission. The tax may also be paid by the use of such metering machines as are prescribed by the Commissioner of Finance subject to the approval of the State Tax Commission. In addition, every person liable for the tax on the use of cigarettes must file a return, in such form as the Commissioner of Finance may prescribe, with the Commissioner of Finance within twenty-four hours after liability therefor accrues together with a remittance of the tax shown to be due thereon.
-
-(b) The amount of taxes advanced and paid by the agent or distributor as above provided shall be added to and collected as part of the sales price of the cigarettes.
-
-(c) It is intended that the ultimate incidence of and liability for the tax shall be upon the consumer, and that any agent, distributor, or dealer who shall pay the tax to the Commissioner of Finance shall collect the tax from the purchaser or consumer.
-
-
-
-
-
-
-*§ 4-05 Licenses.* ::
-
-
-(a)  (1) A wholesale or retail dealer must apply to the Commissioner of Finance for a license for each place of business that he desires to have for the sale of cigarettes in the City. Every application for a cigarette license shall be made upon a form prescribed and prepared by the Commissioner of Finance. At the time of applying for a license as a wholesale dealer, each applicant also seeking appointment as an agent must submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. At the discretion of the Commissioner of Finance, all other applicants for a license as a wholesale dealer may be required to submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. The Commissioner of Finance may, for cause, refuse to issue a license. Upon approval of the application, the Commissioner of Finance will grant and issue to the applicant a cigarette license for each place of business within the City set forth in the application. Cigarette licenses shall not be assignable and shall be valid only for the persons in whose names issued and for the transaction of business in the places designated therein and shall at all times be conspicuously displayed at the places for which issued. Whenever any license that has been issued is defaced, destroyed or lost, the Commissioner of Finance will issue a duplicate license to the holder of the defaced, destroyed or lost license upon the payment of a fee of $1.
-
-   (2) Cause for refusal of the Commissioner of Finance to issue a license or to relicense an applicant will generally exist where the applicant files an application for a license and, in considering such application, the Commissioner of Finance ascertains that:
-
-      (i) Within the preceding five years, the applicant or a controlling person has failed to comply with any of the provisions of Chapter 13 of Title 11 of the Administrative Code or any rules or regulations promulgated thereunder;
-
-      (ii) A warrant has been issued or a lien otherwise arises for any tax administered by the Department of Finance due from such applicant or a controlling person and such tax has not been paid in full, provided that liability for such tax arose out of the activities of the applicant or controlling person as a wholesale or retail dealer;
-
-      (iii) Such applicant or any controlling person was convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years;
-
-      (iv) Such applicant or any controlling person was the controlling person in another wholesale or retail dealer at the time that:
-
-         (A) A warrant was issued or a lien otherwise arose for any tax administered by the Department of Finance due from such other dealer and such tax has not been paid in full, provided that liability for such tax arose out of the activities of such other dealer as a wholesale or retail dealer, or
-
-         (B) Such other dealer had been convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years, or
-
-         (C) The license of such other dealer had been canceled or suspended pursuant to this section within the preceding five years.
-
-      (v) The license of such applicant has been canceled or suspended pursuant to this section within the preceding five years; or
-
-      (vi) Such applicant or any controlling person has been finally determined to have violated any of the provisions of Article 20 or Article 20-A of the New York State Tax Law.
-
-(b) The Commissioner of Finance may suspend or, after hearing, revoke a cigarette license whenever he finds that the holder thereof has failed to comply with any of the provisions of the law or any rules or regulations of the Commissioner of Finance prescribed, adopted and promulgated thereunder. Upon suspending or revoking any cigarette license, the Commissioner of Finance will direct the holder thereof to surrender to the Commissioner of Finance immediately all licenses or duplicates thereof issued to him and the holder shall surrender promptly all such licenses to the Commissioner of Finance as directed. Before the Commissioner of Finance suspends or revokes a cigarette license, he will notify the holder and afford him a hearing, if desired. After such hearing, the Commissioner of Finance good cause appearing therefore, may suspend or revoke the license. A person who has been refused a license by the Commissioner of Finance may likewise apply to the Commissioner of Finance for a hearing. After such hearing the Commissioner of Finance may rescind or affirm the refusal to issue a license, or issue a license.
-
-(c) No agent or dealer shall sell cigarettes to an unlicensed wholesale or retail dealer, or to a wholesale or retail dealer whose license has been suspended or revoked. No dealer shall purchase cigarettes from any person other than a manufacturer or a licensed wholesale dealer.
-
-(d) It is unlawful for a person to engage in business as a wholesale dealer or retail dealer without a license as herein prescribed. It is unlawful for a person to permit any premises under his control to be used by any other person in violation of this paragraph.
-
-
-
-
-
-
-*§ 4-06 Licensee Fees; Term.* ::
-
-
-(a) The annual fee for a wholesale cigarette dealer's license is $500. See Administrative Code § 11-1303(a) as add LL 34/87 § 2. The annual fee for a retail cigarette dealer's license is $10.
-
-(b) Cigarette licenses will be regularly numbered and duly registered.
-
-(c) Cigarette licenses expire on January 31st next succeeding the date of issuance unless sooner suspended or revoked. However, licenses issued prior to December 18, 1967 expire on March 16, 1968 unless sooner suspended or revoked.
-
-
-
-
-
-
-*§ 4-07 Adhesive Stamps.* ::
-
-
-(a) The Commissioner of Finance has prescribed adhesive stamps in two-cent and four-cent denominations. These stamps are on sale at banks throughout the city designated by the Commissioner of Finance as fiscal agents or sub-agents. Agents shall purchase stamps at the bank to which they have been assigned, either for each or upon thirty days' credit. An agent may purchase stamps from the banks over the counter or by mail. In the latter case, no shipping charge will be made by the bank. Payment for stamps shall be made by cash or by certified check.
-
-(b) The Commissioner of Finance will prescribe and furnish stamps of such denominations and quantities and in such form as may be necessary for the payment of the tax imposed by the law. He may, from time to time, provide for the issuance and exclusive use of a new design and forbid the use of stamps of any other design. Such stamps shall be in the form of a single stamp for the payment of the tax imposed by the law, or in lieu thereof, a joint stamp prepared and issued by the State of New York and the city for the payment of both the tax imposed by the City Cigarette Tax Law and the tax imposed by Article 20 of the Tax Law (New York State Cigarette Tax), may be used.
-
-(c) Whenever such a joint stamp is prescribed, it shall be used exclusively in lieu of any other form of stamp for the payment of the tax imposed by both the city and state laws. The Commissioner of Finance will appoint fiscal agents for the purpose of selling the stamps or may provide for the sale thereof at such other places as he may deem necessary. The Commissioner of Finance shall require each fiscal agent, appointed by him for the purpose of selling the stamps herein prescribed, to file with him a surety bond, in such form and in such amount as he deems appropriate, issued by a surety company licensed to do business in the State of New York, conditioned upon the faithful performance of any agreement made between the Commissioner of Finance of the City of New York and said fiscal agent, and to secure the Commissioner of Finance, or the City of New York against any loss or damage in any manner resulting from the acts of said fiscal agent or its employees. In lieu of the bond described in this paragraph, a fiscal agent may deposit with the Commissioner of Finance its personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from a fiscal agent pursuant to this article; but no such sale shall be had until a fiscal agent shall have had an opportunity to be heard regarding the amount due hereunder. Upon any such sale the surplus, if any, above the sums due shall be returned to such fiscal agent.
-
-
-
-
-
-
-*§ 4-08 Meter Stamps.* ::
-
-
-(a) The Commissioner of Finance, in addition to the sale of stamps herein provided for, in his discretion, and subject to the approval of the State Tax Commission, may permit the use of a cigarette tax stamp affixing machine (whether by meter impression or otherwise) approved by him, or, where a joint stamp for the payment of the tax imposed by Article 20 of the State Tax Law and the City Cigarette Tax Law is used, the use of a joint tax stamp affixed by machine to show payment of both state and city taxes. The Commissioner of Finance, however, may reserve the right to rescind such permission upon thirty days' notice should such action be deemed to be in the best interest of the city. Payment of the tax must be made either in cash at the time the tax stamps are purchased or on thirty days' credit upon the same terms and conditions as apply to any other stamps sold by the Commissioner of Finance. Payment for stamps shall be made by cash or certified check.
-
-(b) Each agent, when his application for permission to use such tax stamp affixing machine is approved, shall be assigned a distinctive number which shall be the same as the number assigned to him by the State Tax Commission for the purposes of the state tax, and which must be clearly incorporated in the design of the tax stamps.
-
-(c) Any person, including an agent, having in his possession an authorized tax stamp affixing machine may not transfer, sell or otherwise dispose of such machine without first securing the authorization and approval of the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-09 Sale or Use of Cigarettes without Stamps.* ::
-
-
-(a) Notwithstanding any other provision hereof, the Commissioner of Finance may, subject to the approval of the State Tax Commission, provide at any time that the tax imposed by the law shall be collected without the use of stamps.
-
-
-
-
-
-
-*§ 4-10 Affixation and Cancellation of Stamps.* ::
-
-
-(a) Each agent shall affix to each package of cigarettes subject to the tax the prescribed stamps evidencing the payment of the tax imposed by the law, and shall cancel such stamps before such cigarettes are sold or offered for sale and prior to delivery of such cigarettes to any such dealer in the city, unless stamps have been affixed to such packages of cigarettes and cancelled before such agent received them.
-
-(b) Stamps shall be affixed to each package of cigarettes of an aggregate denomination not less than the amount of the tax upon the contents therein.
-
-(c) The stamps must be so affixed that they are clearly visible to the purchaser. When affixed to "rounds" or "flats" of fifty cigarettes or more, they must be so placed that they will be destroyed when the container is opened. The stamps must be placed on the small, individual packages ordinarily sold to customers as distinguished from the carton or larger containers of cigarettes.
-
-(d) Every agent must keep unstamped cigarettes separate and apart from stamped cigarettes.
-
-
-
-
-
-
-*§ 4-11 Cancellation of Stamps.* ::
-
-
-(a) All adhesive stamps must be cancelled in waterproof ink with the number assigned to each authorized agent before the cigarettes to which said stamps are affixed are offered for sale. The stamps may be cancelled before or after they are affixed.
-
-(b) It is evident that, because of their nature and the fact that they carry the identifying number of the agent, meter stamps required no cancellation.
-
-(c) Whenever any cigarettes are found in the place of business of a dealer other than an agent without the stamps affixed and cancelled the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
-
-(d) Each dealer, other than an agent, in the city shall immediately upon the receipt of any cigarettes at his place of business mark in ink on each unopened box, carton or other container of such cigarettes the word "received", and the year, month, day and hour of such receipt, and shall affix his signature thereto. In addition, each retail dealer shall within twenty-four hours after receipt of any cigarettes, open such box, carton or other container and, unless such stamps have been previously affixed, immediately notify the dealer from whom he purchased such cigarettes and arrange for the replacement by the dealer of such cigarettes by cigarettes with such stamps affixed within twenty-four hours. Such dealer shall make and keep, until the cigarettes are replaced, a record of the time at which such arrangements were made and the name of the individual representing the dealer with whom such arrangements were made.
-
-(e) Whenever any cigarettes are found in the place of business of a dealer other than an agent without being marked as having been received within the preceding twenty-four hours, the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
-
-
-
-
-
-
-*§ 4-12 Destruction of Cancelled or Mutilated Stamps.* ::
-
-
-(a) Except as hereinafter provided, the Commissioner of Finance may destroy by incineration stamps which have been mutilated, broken, cancelled or otherwise become unfit for use or consumption. Such stamps shall be destroyed in the presence of the Commissioner of Finance, or his representative duly authorized in writing, who shall thereupon certify, in duplicate, to the fact of said destruction, the subject matter of the destruction in detail, and the persons before whom said destruction took place. Said certification, duly sworn to, shall be kept on file in the office of the Commission of Finance.
-
-(b) The destruction of joint stamps used for the payment of the state cigarette tax and the city tax shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-13 Possession and Transportation of Unstamped Cigarettes.* ::
-
-
-(a) Every person who possesses or transports upon the public highways, roads or streets of the city more than four hundred cigarettes in unstamped packages, is required to have in his actual possession invoices or delivery tickets for such cigarettes. All such invoices or delivery tickets must show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of cigarettes transported. The absence of such invoices or delivery tickets shall be prima facie evidence that such person is a dealer in cigarettes in the city and subject to the provisions of the law.
-
-
-
-
-
-
-*§ 4-14 Vending Machines; Visibility of Stamps.* ::
-
-
-(a) Owners and operators of cigarette vending machines are required to have the name, address, cigarette dealer's license number and telephone number of the owner displayed on each machine in operation within the City. The Commissioner of Finance may also require a report from such owners, which report shall contain information showing the location of each machine, the record of any change of location, placing of additional machines or withdrawal of previously listed machines, and such other information as the Commissioner of Finance may require.
-
-(b) Every package of cigarettes placed in any cigarette vending machine having an area through which such packages are visible, must be so placed therein that the New York City cigarette tax stamps thereon are visible. Whenever any cigarettes are found in any vending machine in violation of the provisions of this section or whenever a vending machine is not properly labeled, the duly authorized agents or employees of the Department of Finance shall seal the machine to prevent sale or removal of any cigarettes from the vending machine until such time as the violation is corrected in the presence of a duly authorized agent or employee of the Department of Finance.
-
-
-
-
-
-
-*§ 4-15 Agents; Credit and Performance Bonds.* ::
-
-
-(a) The Commissioner of Finance may appoint as an agent to affix stamps to be used in paying the tax imposed by the law any person who has been appointed by the State Tax Commission to affix stamps used in payment of the tax imposed by Article 20 of the State Tax Law. Each agent so appointed will be assigned a distinctive number to be used by him in the cancellation of stamps and for other purposes when necessary and said number will be the same as that assigned to such agent by the State Tax Commission. An agent shall at all times have the right to appoint the person in his employ who is to affix the stamps to any cigarettes under his control. Such agent shall purchase stamps from banks to which he has been assigned.
-
-(b) (1) At the discretion of the Commissioner of Finance agents may be permitted to pay for the purchase of such stamps within thirty days after the date of purchase, provided a surety bond satisfactory to the Commissioner of Finance is filed with him.
-
-   (2) A bond to secure the payment of sums due from an agent shall be on a form prescribed by the Commissioner of Finance and shall be issued by a surety company which is approved by the Superintendent of Insurance as to solvency and responsibility and which is authorized to transact business in the State of New York. Such bond, which must be filed in triplicate, shall secure the amount of credit for which application is made, and shall continue in full force and effect until a certificate has been issued by the Commissioner of Finance to the effect that all monies due the City for the purchase of stamps have been paid in full.
-
-   (3) In addition to the credit bond described in paragraph (2) of this subdivision, an agent may be required to file with the Commissioner of Finance a surety bond issued by a surety company described in paragraph (2), in such amount as he deems appropriate, guaranteeing the proper discharge and performance of his duties as agent.
-
-(c) A nonresident agent, that is, one located outside the City of New York, may likewise be appointed by the Commissioner of Finance for the purpose of purchasing and affixing stamps for cigarettes. Nonresident agents desiring to purchase stamps on credit may be permitted to do so, in the discretion of the Commissioner of Finance, in the same manner, and subject to the same conditions, as described in subdivision (b) of this section, in such amount as the Commissioner of Finance may deem appropriate, guaranteeing the proper discharge and performance of his duties as a nonresident agent. Such nonresident agent must agree to submit his books of account and records for examination during reasonable business hours.
-
-(d) In lieu of the bonds described in the preceding subdivisions, an agent may deposit with the Commissioner of Finance his personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from an agent pursuant to this section but no such sale shall be had until an agent shall have had an opportunity to be heard regarding the validity of any tax or the amount due, or to have a court determination, as provided by the law or these regulations. Upon any such sale the surplus, if any, above the sums due shall be returned to such agent.
-
-(e) No credit for the purchase of stamps shall be granted in excess of the amount secured by a credit bond or collateralized personal bond.
-
-(f) If, on June 30, 1982, an agent has outstanding a sum due for stamps purchased on credit, which sum is not fully secured by a credit bond or collateralized personal bond, such agent shall, on the first day of each of the next forty succeeding months, reduce the sum which is not so secured by an amount equal to two and one-half percent of such unsecured sum by paying such amount in cash or by tendering a credit bond or collateralized personal bond, as described in the preceding subdivisions, in such amount. Provided, however, that the Commissioner of Finance in implementing the foregoing reduction in unsecured credit shall have the authority to make minor adjustments to the foregoing percentage to adjust for the purchase of stamps in full rolls and provided further, however, that all of such unsecured credit shall be eliminated within the foregoing period of forty months.
-
-(g) In the event that the agent fails to remit any amount owed for stamps purchased on credit (with or without a credit bond or other security) when due, then, in such event, all or any part of the amounts then owing for credit purchases of stamps shall, at the option of the Commissioner of Finance, become immediately due and payable, the extension of credit to the agent shall immediately terminate, and no further sales to the agent will be made until such time as remittance in full is received for all such amounts so declared to be due and the Commissioner of Finance approves the restoration of credit and the making of sales to the agent.
-
-(h) No person shall sell or offer for sale any stamps issued under the law, except by written permission of the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-16 Compensation of Agents for Services.* ::
-
-
-(a) The law provides that whenever the Commissioner of Finance shall sell, consign or deliver to any agent authorized to affix stamps to be used in payment of the tax imposed thereby, such agent shall be entitled to receive as compensation for his services and expenses in affixing such stamps and to retain out of the monies to be paid by him for such stamps, a commission on the par value thereof. The Commissioner of Finance is authorized to prescribe a schedule of commissions not exceeding five percentum of the par value of such stamps for affixing such stamps. The Commissioner of Finance hereby prescribes the following commissions to be allowed to each such agent as compensation for his services and expenses in affixing stamps.
-
-(b) Where a joint stamp is issued by the State of New York and the City for the payment of the taxes imposed by the City's Cigarette Tax Law and by Article 20 of the Tax Law of the State, in lieu of a single stamp evidencing payment of the cigarette tax, and such joint stamp is issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes) and the City tax (at the rate of $1.50 per package of 20 cigarettes), the following schedule of commissions have been fixed by the Commissioner of Finance pursuant to the City's Cigarette Tax Law with the approval of the New York State Department of Taxation and Finance, and for the purposes of this schedule the par value of a joint stamp issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes), and the City tax (at the rate of $1.50 per package of 20 cigarettes) shall be deemed to be $1.50 each for State purposes and $1.50 each for City purposes. On the City par value of such joint stamps, not exceeding $5,611,200 purchased during each calendar year, a commission of 0.2171 percent thereof except as otherwise provided herein; and on the City par value of such joint stamps in excess of $5,611,200 purchased during each calendar year a commission of 0.0992 percent thereof. Said rate of 0.0992 percent shall also apply, even though the total City par value of joint stamps purchased during any calendar year does not exceed $5,611,200, whenever the value of New York State cigarette tax stamps (including the amount of the New York State cigarette tax represented by such joint stamps) purchased by any agent during each calendar year exceeds the sum of $5,611,200, computed at the State par value of $1.50 each. However, for the purpose of determining the point when said amount of $5,611,200 is reached, whenever the quantity of New York State cigarette tax stamps and/or the portion of the New York State cigarette tax included in joint stamps purchased by an agent at any one time brings the agent's total purchases of stamps evidencing payment of the New York State cigarette tax to at least $5,611,200, the amount purchased at such time shall be first applied to the previous total of purchases of stamps evidencing payment of the New York State cigarette tax until $5,611,200 is reached.
-
-(c) Where a single stamp is issued by the City of New York evidencing payment of the City's cigarette tax, and such stamp is for payment of the City's tax at the rate of four cents for each ten cigarettes or fraction thereof, the commission hereby fixed is 1.10 percent on the par value of such single stamp purchased.
-
-(d) Any commissions allowable hereunder shall be deducted by the agent from the purchase price of the stamps at the time payment is made therefor. No commissions shall be allowed on purchases of less than one hundred dollars. No commission shall be allowed to any purchaser of stamps other than an agent.
-
-
-
-
-
-
-*§ 4-17 Records To Be Kept.* ::
-
-
-(a) The law requires that certain records be kept by all dealers of cigarettes.
-
-   (1) All wholesale dealers, including agents, must keep records showing every purchase, sale or other disposition of all cigarettes and stamps handled.
-
-   (2) All invoices or other records indicating the purchase, sale or other disposition of cigarettes by a wholesale dealer must be either separate and distinct from all other records which a wholesale dealer shall possess or the cigarette transactions on such invoices or other records must be distinct from non-cigarette transactions recorded on the same invoice or other record.
-
-   (3) Agents authorized to keep cigarette tax stump affixing machines must keep a daily record of the meter readings, or the serial numbers of the rolls of stumps used, or other information required by the Commissioner of Finance on forms approved by him.
-
-   (4) Each agent or wholesale dealer in the City (other than a manufacturer) must, at the time of delivering cigarettes to any person, make a true duplicate serially numbered invoice showing his name, his address, the number of the then current license issued to him pursuant to 19 RCNY § 4-05, the date of delivery, the number of cartons in each shipment of cigarettes delivered, the name and address of the purchaser to whom delivery is made.
-
-   (5) Every wholesale dealer shall keep a record of the sales tax certificate number and city cigarette license number of each person to whom he delivers cigarettes. For this purpose, at the time of delivering cigarettes to any person, each wholesale dealer shall, unless previously obtained, request, and every retail dealer or other person to whom cigarettes are delivered shall furnish, his sales tax certificate number and the number of the then current license issued to him pursuant to 19 RCNY § 4-05. The failure or refusal to furnish these numbers shall be reported by the wholesale dealer to the Commissioner of Finance within five days of delivery.
-
-   (6) Each dealer in the City shall procure and retain invoices showing the number of cartons in each shipment of cigarettes received by him, the date of delivery, the name and address of the shipper, and the number of the then current license issued to the shipper pursuant to 19 RCNY § 4-05.
-
-(b) The Commissioner of Finance may require any railroad company, express company, trucking company or carrier transporting any shipment of cigarettes into the city to file with the Commissioner of Finance a copy of the freight bill within ten days after delivery in the city of each shipment.
-
-(c) In addition to the foregoing, every agent or dealer (other than a manufacturer) shall keep and maintain records of cigarettes on which a tax must be paid and of those on which a tax is not required to be paid. These records must also show the quantity of cigarettes returned because the cigarettes have become unsalable and any transfers of stamped or unstamped cigarettes to or from other agents. Records must also be maintained of cigarettes which are sold and delivered in the city and those which are sold and delivered to points outside the city, including quantities so sold and the names and addresses of the purchasers. Agents (other than manufacturers) are also required to keep records showing monthly inventories, at the beginning and close of each month, of stamped and unstamped cigarettes, and of the number of stamps.
-
-(d) Each agent, wholesale dealer or other dealer is required to maintain, retain and keep for a period of three years the records mentioned above, as well as such other records as may be required by the Commissioner of Finance from time to time, for the use and inspection of the Commissioner of Finance.
-
-(e) To verify the accuracy of the payment of the tax imposed by the law each dealer is required to give to the Commissioner of Finance or his duly authorized representative, the means, facilities and opportunity to examine the records herein required or for any other reasonable examination.
-
-
-
-
-
-
-*§ 4-18 Reports.* ::
-
-
-(a) Agents (other than manufacturers) appointed by the Commissioner of Finance are required to file with him, on forms prescribed and prepared by the Commissioner of Finance, monthly reports showing such information as he may require, including, among other things:
-
-   (1) The number of unstamped cigarettes:
-
-      (i) on hand at the beginning of the month,
-
-      (ii) purchased or received during the month,
-
-      (iii) on hand at the end of the month,
-
-      (iv) sold or disposed of during the month;
-
-   (2) The number of stamps:
-
-      (i) on hand at the beginning of the month,
-
-      (ii) purchased during the month,
-
-      (iii) on hand at the end of the month,
-
-      (iv) affixed or otherwise disposed of during the month; and
-
-   (3) The number of stamped cigarettes, with New York City stamps and joint New York State-New York City stamps affixed, on hand at the end of the month.
-
-(b) Every agent (other than a manufacturer) is required to take a physical inventory of stamped cigarettes on hand at least twice a year. The results of such an inventory shall be reported on the agent's monthly report in the form and manner prescribed by the Commissioner of Finance. One of the semiannual physical inventories must be as of the end of the fiscal or calendar year of the agent and the other six months later.
-
-(c) Five days prior to the return of cigarettes to a manufacturer, because the cigarettes have become unsalable, damaged, or for any other reason, each agent shall notify the Commissioner of Finance in writing of the number of cartons to be returned and the name of the manufacturer to whom delivery is to be made.
-
-(d) Each manufacturer having an agency permit shall file with the Commissioner of Finance monthly reports showing the total sales of unstamped cigarettes made to agents or wholesale dealers licensed by the City, specifying the name and address of the purchaser, the date of delivery, and the number of cartons in each shipment of cigarettes delivered. These reports shall also specify the quantity of cigarettes returned because the cigarettes have become unsalable, and the name and address of the agent, wholesale dealer or other person making the return.
-
-(e) Fifteen days prior to the distribution of sample cigarettes in the city, each manufacturer shall notify the Commissioner of Finance, in writing, of the amount to be distributed.
-
-(f) Each manufacturer shall file a monthly report of the total number of packages and the number of cigarettes contained therein of sample cigarettes distributed in the city. Payment of the tax due shall be made with the monthly report required herein. If no sample cigarettes are distributed in the city during a month, no report is required for that month.
-
-(g) Wholesale dealers other than agents may also be required to file such reports as the Commissioner of Finance may prescribe, showing the receipts and disposition of all stamped and unstamped cigarettes and any other information which the Commissioner of Finance may require.
-
-(h) Monthly reports shall be filed on or before the 15th day of each month covering the transactions for the preceding calendar month.
-
-
-
-
-
-
-*§ 4-19 Refunds.* ::
-
-
-(a) The law authorizes the Department of Finance to refund, without interest, any tax, interest or penalty erroneously, illegally or unconstitutionally collected or paid. In addition, a dealer is entitled to a refund of the amount of tax paid less applicable commissions, with respect to any cigarettes upon which stamps have been affixed which:
-
-   (1) have been sold and shipped to a dealer outside the city for sale there or to any person in another state for use there, or
-
-   (2) have become unfit for use and consumption or unsalable, or
-
-   (3) which have been destroyed. An agent is entitled to a refund of the amount of tax paid, less applicable commissions, with respect to any stamps which have become unfit for use, or mutilated or destroyed.
-
-(b) No refund will be granted unless written application to the Commissioner or Finance therefor is made within ninety days from the payment thereof.
-
-(c) No refund, however, will be made unless a verified statement is submitted setting forth the applicant's reasons for such requested refund on a form prescribed by the Department of Finance. If the Department of Finance approves the application for refund, he will issue to such dealer or agent stamps of sufficient value to cover the refund or to make such refund, subject to audit by the Commissioner of Finance.
-
-(d) In the event any agent terminates his business during the effective period of the law for any reason whatsoever and has unused stamps on hand, he must return the same to the Department of Finance who will redeem such stamps at the par value thereof, less any commissions theretofore allowed thereon and less any outstanding liability for such tax by the person presenting said stamps for redemption, provided, however, that in the case of joint stamps used for payment of the state cigarette tax and the city's tax, such surrender and redemption shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
-
-(e) No person shall sell or offer for sale any stamp issued under the law and these regulations except by written permission of the Commissioner of Finance, or as provided in Article 13 hereof.
-
-
-
-
-
-
-*§ 4-20 Out-of-City Sales.* ::
-
-
-(a) The law provides that the tax is not applicable to cigarettes possessed in the City by any agent or wholesale dealer for sale to a dealer outside the City, or for sale and shipment to any person in another state for use there.
-
-(b) Under this provision, the only sales by an agent or wholesale dealer of cigarettes which are shipped to a point outside the city which are not subject to the tax, are sales to a dealer outside the city, or shipments to any person outside the state for use there. The sale of cigarettes shipped to a person outside the city, but within the state, for use there is subject to the tax. For example: A sale by an agent or wholesale dealer to another dealer in Westchester County is not subject to the tax. The sale of cigarettes by a dealer who ships them to an ultimate consumer in Westchester County for use there is subject to tax. The sale of cigarettes by a dealer shipped to an ultimate consumer in New Jersey for use there is not subject to the tax.
-
-(c) Where an agent or wholesale dealer sells cigarettes to a dealer for sale outside the City or State, or to another dealer for sale to a dealer outside the City or State, he shall demand and receive from the purchaser, at the time of delivery of the cigarettes, or at the time of sale, a certificate in writing signed by the purchaser, which certificate shall be substantially in the following form: (Date) ________________
-
-   "To ____________________________ (name of agent or wholesale dealer). "I hereby certify that the cigarettes purchased by me and described in the attached invoice will be resold outside the city of New York.
-
-   ___________________________________________   Signature of Purchaser Address of Purchaser"
-
-One copy of such invoice and the above certificate must be retained by the agent or wholesale dealer for inspection by the Commissioner of Finance representative.
-
-
-
-
-
-
-*§ 4-21 Drop-Shipments.* ::
-
-
-In the case of so-called "drop-shipments," where an out-of-state manufacturer solicits an order directly from a retail dealer in this City, and the billing and payment on account of such sale is made through a wholesale dealer, the sale to the retail dealer is deemed to have been made by the wholesale dealer, and proper stamps must be affixed to the packages of cigarettes prior to delivery to the retail dealer, unless such retail dealer is any agent duly appointed by the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-22 Seizure and Sale of Cigarettes.* ::
-
-
-(a) Whenever a police officer designated in § 1.20 of the criminal procedure law or a peace officer designated in subdivision five of § 2.10 of such law, acting pursuant to his special duties, shall discover any cigarettes subject to the tax, and upon which the tax has not been paid or the stamps not affixed as required, they are hereby authorized and empowered forthwith to seize and take possession of such cigarettes, together with any vending machine or receptacle in which they are held for sale. Such cigarettes, vending machine or receptacle seized by a police officer or such peace officer shall be turned over to the Commissioner of Finance.
-
-(b) The seized cigarettes and any vending machine or receptacle seized therewith, but not the money contained in such vending machine or receptacle shall thereupon be forfeited to the City, unless the person from whom the seizure is made, or the owner of such seized cigarettes, vending machine or receptacle, or any other person having an interest in such property, shall within ten days of such seizure, apply to the Commissioner of Finance for a hearing to determine the propriety of the seizure, or unless the Commissioner of Finance shall on his own motion release the seized cigarettes, vending machine or receptacle. After such hearing the Commissioner of Finance shall give notice of his decision to the petitioner. The decision of the Commissioner shall be reviewable for error, illegality, unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the supreme court within thirty days after the giving of the notice of such decision. Such proceeding shall not be instituted unless there shall first be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York State as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed, or the seizure confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding.
-
-(c) The Commissioner of Finance may, within a reasonable time after the forfeiture to the city of such cigarettes, vending machines or receptacles, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the City, sell such forfeited cigarettes and vending machines or receptacles at public sale and pay the proceeds into the treasury of the City. Cigarettes so seized and sold shall be sold only to an agent and the notice of sale shall contain a provision to this effect. Such seized cigarettes, vending machines or receptacles may be sold prior to forfeiture if the owner of the seized property consents to the sale. Notwithstanding any other provision of this section, the Commissioner of Finance may enter into an agreement with the State Tax Commission to provide for the disposition between the City and State of the proceeds from any such sale.
-
-(d) In the alternative, the Commissioner of Finance, on reasonable notice by mail or otherwise may permit the person from whom said cigarettes were seized to redeem the said cigarettes, and any vending machine or receptacle seized therewith, or may permit the owner of any such cigarettes, vending machine or receptacle to redeem the same, by the payment of the tax due, plus a penalty of fifty percent thereof plus interest on the amount of tax due for each month or a fraction thereof, after such tax became due (determined without regard to any extension of time for filing or paying) at the rate prescribed by the law and the regulations of the Commissioner of Finance and the costs incurred in such proceeding, which total payment shall not be less than five dollars; provided, however, that such seizure and sale or redemption shall not be deemed to relieve any person from fine or imprisonment provided for in the law.
-
-(e) In the alternative, if the Commissioner of Finance concludes that any cigarettes seized pursuant to this section, when offered at public sale, will bring a price less than the reasonably estimated price which the Department of Correction would have to pay for the purchase of such cigarettes for sale to or use by inmates in institutions under the jurisdiction of such Department, the Commissioner of Finance may dispose of such cigarettes by transferring them to the Department of Correction for sale to or use by inmates in such institutions.
-
-
-
-
-
-
-*§ 4-23 Penalties and Interest.* ::
-
-
-(a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of the interest to be paid with respect to the taxes which remain or become due on or after July 1, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
-
-(b) Civil penalties. Penalties are provided for violations of the law and of the rules and regulations of the Commissioner of Finance. These penalties are in addition to the possible suspension or revocation of the license of a wholesale or retail dealer or the authority of an agent. The following civil penalties are provided for by law (§ 11-1317 of the Administrative Code of the City of New York):
-
-   (1) For failure to pay the tax under the law when due – a penalty of 50 percent of the amount of tax due. The Commissioner of Finance may, however, if satisfied that the delay was excusable, remit all or any part of such penalty.
-
-   (2) In addition to any other penalty imposed by § 11-1317 of the Administrative Code of the City of New York, as amended, the Commissioner of Finance may impose a penalty of not more than $100 for each two hundred cigarettes or fraction thereof in excess of two thousand cigarettes in unstamped or unlawfully stamped packages in the possession or under the control of any person. The Commissioner of Finance, in his discretion, may remit all or part of such penalty.
-
-   (3) The possession within the City of more than four hundred cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are subject to tax as provided by the law. Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents or persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
-
-   (4) The penalties provided by this subdivision shall be paid and enforced in the same manner as taxes.
-
-   (5) Application for the remission of penalty may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed and must set forth the grounds upon which the remission is requested.
-
-(c) Criminal penalties.
-
-   (1) Failure to obey subpoena; false testimony.
-
-      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
-
-         (A) fails or refuses to attend without lawful excuse, or
-
-         (B) refuses to be sworn,
-
-         (C) refuses to answer any material and proper question, or
-
-         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
-
-      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
-
-   (2) Willful failure to file a return or report or pay tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
-
-   (3) Fraudulent returns, reports, statements or other documents. 
-
-      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
-
-      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
-
-      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
-
-   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required by the law shall be guilty of a misdemeanor.
-
-   (5) Attempt to evade or defeat tax.
-
-      (i) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or the payment thereof shall, in addition to other penalties provided by law, be guilty of a misdemeanor.
-
-      (ii) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or payment thereof on twenty thousand cigarettes or more or has previously been convicted two or more times of a violation of subparagraph (i) of this paragraph shall be guilty of a Class E felony.
-
-   (6) Any person, other than an agent so authorized by the Commissioner of Finance, who possesses or transports for the purpose of sale any unstamped or unlawfully stamped packages of cigarettes subject to tax under the law, or who sells or offers for sale unstamped or unlawfully stamped packages of cigarettes in violation of the provisions of the law shall be guilty of a misdemeanor.
-
-   (7) Any person, other than an agent so authorized by the Commissioner of Finance, who willfully possesses or transports for the purpose of sale twenty thousand or more cigarettes subject to the tax imposed by law in any unstamped or unlawfully stamped packages or who willfully sells or offers for sale twenty thousand or more cigarettes in any unstamped or unlawfully stamped packages in violation of the law shall be guilty of a Class E felony.
-
-   (8) For the purposes of this subdivision, the possession or transportation within this City by any person, other than an agent, at any one time of five thousand or more cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are possessed or transported for the purpose of sale and are subject to the tax imposed by law. With respect to such possession or transportation, any provisions of law providing for a time period during which a use tax imposed by the law may be paid on unstamped cigarettes or unlawfully or improperly stamped cigarettes or during which such cigarettes may be returned to an agent shall not apply. The possession within this City of more than four hundred cigarettes in unstamped or unlawfully stamped packages by any person other than an agent at any one time shall be presumptive evidence that such cigarettes are subject to tax as provided by law.
-
-   (9) Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents of persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
-
-   (10) Any person who falsely or fraudulently makes, alters or counterfeits any stamp prescribed by the Commissioner of Finance under the law, or causes or procures to be falsely or fraudulently made, altered or counterfeited any such stamp, or knowingly and willfully utters, purchases, passes or tenders as true any such false, altered or counterfeited stamp, or knowingly and willfully possesses any cigarettes in packages bearing any such false, altered or counterfeited stamp, and any person who knowingly and willfully makes, causes to be made, purchases or receives any device for forging or counterfeiting any stamp, prescribed by the Commissioner of Finance under the provisions of the law, or who knowingly and willfully possesses any such device, shall be guilty of a Class E felony. For the purposes of this paragraph, the words "stamp prescribed by the Commissioner of Finance" shall include a stamp, impression or imprint made by a metering machine, the design of which has been approved by the Commissioner of Finance and the State Tax Commission.
-
-   (11) Any willful act or omission, other than those described in paragraphs (5) through (10) of this subdivision, by any person which constitutes a violation of any provision of law shall constitute a misdemeanor.
-
-
-
-
 Chapter 3: Banking Corporations
 --------------------------------------------------
 
@@ -3876,6 +3361,521 @@ Example: In the case of a short taxable year of 11 months, from January 1, 1981 
    (10) Payments of installments in advance. (Administrative Code, § 11-645(j)) At the election of the taxpayer, any installment of the estimated tax may be paid prior to the date prescribed for its payment. No interest will be allowed or paid on such prepayment.
 
 (d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of any request for extension and payment of any tax required to be paid by this section.
+
+
+
+
+Chapter 4: Cigarette Tax
+--------------------------------------------------
+
+
+
+*§ 4-01 Definitions.* ::
+
+
+(a) When using these regulations the following words shall have the meanings here indicated:
+
+   Agent. An "agent" shall mean any person authorized to purchase and affix adhesive or meter stamps under the law who is designated as an agent by the Commissioner of Finance.
+
+   Cigarette. A "cigarette" shall mean any roll for smoking made wholly or in part of tobacco or any other substance irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material except tobacco.
+
+   City. "City" shall mean the city of New York.
+
+   Commissioner of Finance. The "Commissioner of Finance" shall mean the Commissioner of Finance of the City.
+
+   Controlling person. A "controlling person" shall mean any person who is:
+
+      (1) an officer, director or partner or, in the case of a limited liability company, a member or a person having with respect to such limited liability company authority analogous to that of an officer or director with respect to a corporation, of an applicant for a license, or
+
+      (2) a shareholder, directly or indirectly owning more than ten percent of the number of shares of stock of such applicant (where such applicant is a corporation) entitling the holder thereof to vote for the election of directors or trustees. For purposes of this paragraph, where reference is made to ownership, directly or indirectly, of more than ten percent of the shares of stock of the applicant entitling the holder thereof to vote for election of directors or trustees, in the case of an applicant that at the relevant time has four or fewer shareholders holding shares entitling the holders thereof to vote for the election of directors or trustees, twenty-five percent or more shall be substituted as the applicable percentage in such reference to ownership, directly or indirectly, of voting stock.
+
+   Dealer. A "dealer" shall mean any wholesale dealer or retail dealer as hereinafter defined.
+
+   Package. "Package" shall mean the individual package, box or other container in or from which retail sales of cigarettes are normally made or intended to be made.
+
+   Person. A "person" shall mean any individual, partnership, society, association, joint stock company, corporation, estate, receiver, trustee, assignee, referee or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals.
+
+   Retail dealer. A "retail dealer" shall mean any person other than a wholesale dealer engaged in selling cigarettes. For the purposes of the law, the possession or transportation at any one time of 5,000 or more cigarettes by any person other than a manufacturer, an agent, a licensed wholesale dealer or a person delivering cigarettes in the regular course of business for a manufacturer, an agent or a licensed wholesale or retail dealer, is presumptive evidence that such person is a retail dealer.
+
+   Sale or purchase. A "sale" or "purchase" shall mean any transfer of title or possession or both, exchange or barter, conditional or otherwise, in any manner or by any means whatsoever or any agreement therefor. In addition to cash and credit sales, the giving of cigarettes as samples, prizes or gifts, and the exchanging of cigarettes are, for the purpose of the tax, considered sales.
+
+   Use. "Use" shall mean any exercise of a right or power, actual or constructive, and shall include but is not limited to the receipt, storage, or any keeping or retention for any length of time, but shall not include possession for sale by a dealer.
+
+   Wholesale dealer. "Wholesale dealer" shall mean any person who sells cigarettes to retail dealers or other persons for purposes of resale only, and any person who owns, operates or maintains one or more cigarette vending machines in, at or upon premises owned or occupied by any other person.
+
+
+
+
+
+
+*§ 4-02 Imposition of Tax.* ::
+
+
+(a)  On or after January 1, 1976, and before July 2, 2002, a tax at the rate of four cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however, on or after August 6, 1985 and before July 2, 2002, if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be two cents for each five cigarettes or fraction thereof. On or after July 2, 2002 a tax at the rate of 75 cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be 38 cents for each five cigarettes or fraction thereof. Every package of cigarettes must have affixed thereto stamps of the proper amount. For example: on or after July 2, 2002 a package containing from 11 to 20 cigarettes must have affixed $1.50 in stamps; a package containing ten cigarettes or less must have affixed 75 cents in stamps; a package containing 20 to 25 cigarettes must have affixed $1.88 in stamps; a package containing 26 to 30 cigarettes must have affixed $2.26 in stamps.
+
+(b) Payment of cigarette tax on inventory.
+
+   (1) Local Law 10 of 2002 required every dealer of cigarettes, including agents licensed to purchase and affix stamps, to take a physical inventory of all cigarettes possessed in the City as of the close of business on July 1, 2002. In addition, such local law required every dealer who is a licensed agent to take a physical inventory of all unaffixed cigarette tax stamps possessed as of the close of business on such date. In the event that it was not possible to take a physical inventory of cigarettes in all vending machines that are located within the City, a dealer was permitted to take as many physical inventories of the contents of such machines as was possible with available personnel. For those machines that could not be physically inventoried on July 1, 2002, cigarettes could be accounted for at one-half the normal fill capacities of such machines, as reflected in the individual inventory records maintained for such machines.
+
+   (2) i) (A) On or before September 20, 2002, every such dealer shall file a return on a form prescribed by the Department of Finance for such purpose, showing the quantity of all cigarettes and unaffixed stamps possessed as of the July 1, 2002 inventory. Such return must reflect the entire wholesale and/or retail inventories of the dealer within the City, as required by the Department of Finance, regardless of the number of business locations of the dealer. Except as provided in subparagraph (B) of this subparagraph (i), every dealer shall pay, with the filing of such return, an additional tax for all cigarettes in such inventory that are contained in packages bearing stamps evidencing tax payment at the rates in effect prior to July 2, 2002, and for all unaffixed cigarette tax stamps in such inventory evidencing tax payment at such rates. The additional tax shall be paid at the rate of 71 cents for each ten cigarettes or fraction thereof ($1.42 per package of 20 cigarettes) unless cigarettes are contained in packages of more than 20, in which case the additional tax for those cigarettes in excess of 20 shall be at the rate of 36 cents for each five cigarettes or fraction thereof ($1.78 per package of 25 cigarettes). Such tax shall be paid regardless of whether the affixed or unaffixed stamps show payment of the New York State tax or both the New York State and City taxes.
+
+         (B) Notwithstanding any other provision of law to the contrary, the tax due on cigarettes possessed in the City, as of the close of business on July 1, 2002, by any person for sale solely attributable to the increase imposed by this local law, may be paid in two installments, due on the twentieth days of September 2002 and January 2003, subject to such terms and conditions as the Department of Finance may prescribe; provided, however, no less than 25 percent of each such tax due shall be paid by September 20, 2002. Provided, however, in no event shall such installment be less than $200 or the entire additional cigarette tax due, if less than $200. Thus a dealer having an additional cigarette tax liability on inventory of $100 would be liable for the full payment on September 20, 2002; a dealer having such a liability of $440 would be liable for a first installment of at least $200; and a dealer having such a liability of $10,000 would be liable for a first installment of at least $2,500 ($10,000 × 25%). The second and final installment must be paid to the Department of Finance on or before January 20, 2003, and must be accompanied by a final payment document prescribed by the Department of Finance for this purpose. Where the Department of Finance has cause to believe that the final installment of the additional cigarette tax on inventory may be jeopardized by delay, the Department of Finance may require such payment at any time prior to January 20, 2003. (See paragraph (3) of this subdivision for sanctions concerning untimely installments.)
+
+      (ii) The additional cigarette tax on inventory and any applicable installment should be paid by check or money order, payable to the New York City Department of Finance.
+
+   (3) i) Failure to file a return on cigarette and cigarette tax stamp inventory or to pay the additional tax due thereon, or failure to comply with any provision of this section may result in civil or criminal sanctions, or both.
+
+      (ii) In the case of any dealer who elects to pay the additional cigarette tax liability in installments, as described in subparagraph (B) of subparagraph (i) of paragraph (2) of this subdivision, if the required first installment is not properly paid on or before September 20, 2002, the entire amount of additional tax shall be due and owing, and any civil penalty and interest imposed pursuant to § 11-1317 of the Administrative Code and 19 RCNY § 4-23 will accrue from such date on the entire tax liability that remains unpaid. Where the required first installment is timely paid but any portion of the second and final installment is paid after January 20, 2003, any civil penalty and interest so imposed will accrue from such date on the unpaid balance.
+
+
+
+
+
+
+*§ 4-03 Exemptions.* ::
+
+
+This law provides that the tax shall not apply to:
+
+(a) The use, otherwise than for sale, of four hundred cigarettes or less brought into the city, on or in possession of, any person;
+
+(b) Cigarettes sold to the United States;
+
+(c) Cigarettes sold to or by a voluntary unincorporated organization of the Armed Forces of the United States operating a place for the sale of goods pursuant to regulations promulgated by the appropriate executive agency of the United States;
+
+(d) Cigarettes possessed in the city by an agent or wholesale dealer for sale to a dealer outside the city or for sale and shipment to any person in another state for use there, provided such agent or wholesale dealer complies with the regulations relating thereto;
+
+(e) Cigarettes sold to the State of New York or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State where it is the purchaser, user or consumer and does not purchase said cigarettes for resale.
+
+
+
+
+
+
+*§ 4-04 Liability for the Tax.* ::
+
+
+(a) Article 4. Except as otherwise provided herein, the tax shall be advanced by the agent or distributor. The agent shall be liable for the collection and payment of the tax to the Commissioner of Finance by purchasing from the Commissioner of Finance adhesive stamps of such design and denomination as may be prescribed by the Commissioner of Finance, subject to the approval of the State Tax Commission. The tax may also be paid by the use of such metering machines as are prescribed by the Commissioner of Finance subject to the approval of the State Tax Commission. In addition, every person liable for the tax on the use of cigarettes must file a return, in such form as the Commissioner of Finance may prescribe, with the Commissioner of Finance within twenty-four hours after liability therefor accrues together with a remittance of the tax shown to be due thereon.
+
+(b) The amount of taxes advanced and paid by the agent or distributor as above provided shall be added to and collected as part of the sales price of the cigarettes.
+
+(c) It is intended that the ultimate incidence of and liability for the tax shall be upon the consumer, and that any agent, distributor, or dealer who shall pay the tax to the Commissioner of Finance shall collect the tax from the purchaser or consumer.
+
+
+
+
+
+
+*§ 4-05 Licenses.* ::
+
+
+(a)  (1) A wholesale or retail dealer must apply to the Commissioner of Finance for a license for each place of business that he desires to have for the sale of cigarettes in the City. Every application for a cigarette license shall be made upon a form prescribed and prepared by the Commissioner of Finance. At the time of applying for a license as a wholesale dealer, each applicant also seeking appointment as an agent must submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. At the discretion of the Commissioner of Finance, all other applicants for a license as a wholesale dealer may be required to submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. The Commissioner of Finance may, for cause, refuse to issue a license. Upon approval of the application, the Commissioner of Finance will grant and issue to the applicant a cigarette license for each place of business within the City set forth in the application. Cigarette licenses shall not be assignable and shall be valid only for the persons in whose names issued and for the transaction of business in the places designated therein and shall at all times be conspicuously displayed at the places for which issued. Whenever any license that has been issued is defaced, destroyed or lost, the Commissioner of Finance will issue a duplicate license to the holder of the defaced, destroyed or lost license upon the payment of a fee of $1.
+
+   (2) Cause for refusal of the Commissioner of Finance to issue a license or to relicense an applicant will generally exist where the applicant files an application for a license and, in considering such application, the Commissioner of Finance ascertains that:
+
+      (i) Within the preceding five years, the applicant or a controlling person has failed to comply with any of the provisions of Chapter 13 of Title 11 of the Administrative Code or any rules or regulations promulgated thereunder;
+
+      (ii) A warrant has been issued or a lien otherwise arises for any tax administered by the Department of Finance due from such applicant or a controlling person and such tax has not been paid in full, provided that liability for such tax arose out of the activities of the applicant or controlling person as a wholesale or retail dealer;
+
+      (iii) Such applicant or any controlling person was convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years;
+
+      (iv) Such applicant or any controlling person was the controlling person in another wholesale or retail dealer at the time that:
+
+         (A) A warrant was issued or a lien otherwise arose for any tax administered by the Department of Finance due from such other dealer and such tax has not been paid in full, provided that liability for such tax arose out of the activities of such other dealer as a wholesale or retail dealer, or
+
+         (B) Such other dealer had been convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years, or
+
+         (C) The license of such other dealer had been canceled or suspended pursuant to this section within the preceding five years.
+
+      (v) The license of such applicant has been canceled or suspended pursuant to this section within the preceding five years; or
+
+      (vi) Such applicant or any controlling person has been finally determined to have violated any of the provisions of Article 20 or Article 20-A of the New York State Tax Law.
+
+(b) The Commissioner of Finance may suspend or, after hearing, revoke a cigarette license whenever he finds that the holder thereof has failed to comply with any of the provisions of the law or any rules or regulations of the Commissioner of Finance prescribed, adopted and promulgated thereunder. Upon suspending or revoking any cigarette license, the Commissioner of Finance will direct the holder thereof to surrender to the Commissioner of Finance immediately all licenses or duplicates thereof issued to him and the holder shall surrender promptly all such licenses to the Commissioner of Finance as directed. Before the Commissioner of Finance suspends or revokes a cigarette license, he will notify the holder and afford him a hearing, if desired. After such hearing, the Commissioner of Finance good cause appearing therefore, may suspend or revoke the license. A person who has been refused a license by the Commissioner of Finance may likewise apply to the Commissioner of Finance for a hearing. After such hearing the Commissioner of Finance may rescind or affirm the refusal to issue a license, or issue a license.
+
+(c) No agent or dealer shall sell cigarettes to an unlicensed wholesale or retail dealer, or to a wholesale or retail dealer whose license has been suspended or revoked. No dealer shall purchase cigarettes from any person other than a manufacturer or a licensed wholesale dealer.
+
+(d) It is unlawful for a person to engage in business as a wholesale dealer or retail dealer without a license as herein prescribed. It is unlawful for a person to permit any premises under his control to be used by any other person in violation of this paragraph.
+
+
+
+
+
+
+*§ 4-06 Licensee Fees; Term.* ::
+
+
+(a) The annual fee for a wholesale cigarette dealer's license is $500. See Administrative Code § 11-1303(a) as add LL 34/87 § 2. The annual fee for a retail cigarette dealer's license is $10.
+
+(b) Cigarette licenses will be regularly numbered and duly registered.
+
+(c) Cigarette licenses expire on January 31st next succeeding the date of issuance unless sooner suspended or revoked. However, licenses issued prior to December 18, 1967 expire on March 16, 1968 unless sooner suspended or revoked.
+
+
+
+
+
+
+*§ 4-07 Adhesive Stamps.* ::
+
+
+(a) The Commissioner of Finance has prescribed adhesive stamps in two-cent and four-cent denominations. These stamps are on sale at banks throughout the city designated by the Commissioner of Finance as fiscal agents or sub-agents. Agents shall purchase stamps at the bank to which they have been assigned, either for each or upon thirty days' credit. An agent may purchase stamps from the banks over the counter or by mail. In the latter case, no shipping charge will be made by the bank. Payment for stamps shall be made by cash or by certified check.
+
+(b) The Commissioner of Finance will prescribe and furnish stamps of such denominations and quantities and in such form as may be necessary for the payment of the tax imposed by the law. He may, from time to time, provide for the issuance and exclusive use of a new design and forbid the use of stamps of any other design. Such stamps shall be in the form of a single stamp for the payment of the tax imposed by the law, or in lieu thereof, a joint stamp prepared and issued by the State of New York and the city for the payment of both the tax imposed by the City Cigarette Tax Law and the tax imposed by Article 20 of the Tax Law (New York State Cigarette Tax), may be used.
+
+(c) Whenever such a joint stamp is prescribed, it shall be used exclusively in lieu of any other form of stamp for the payment of the tax imposed by both the city and state laws. The Commissioner of Finance will appoint fiscal agents for the purpose of selling the stamps or may provide for the sale thereof at such other places as he may deem necessary. The Commissioner of Finance shall require each fiscal agent, appointed by him for the purpose of selling the stamps herein prescribed, to file with him a surety bond, in such form and in such amount as he deems appropriate, issued by a surety company licensed to do business in the State of New York, conditioned upon the faithful performance of any agreement made between the Commissioner of Finance of the City of New York and said fiscal agent, and to secure the Commissioner of Finance, or the City of New York against any loss or damage in any manner resulting from the acts of said fiscal agent or its employees. In lieu of the bond described in this paragraph, a fiscal agent may deposit with the Commissioner of Finance its personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from a fiscal agent pursuant to this article; but no such sale shall be had until a fiscal agent shall have had an opportunity to be heard regarding the amount due hereunder. Upon any such sale the surplus, if any, above the sums due shall be returned to such fiscal agent.
+
+
+
+
+
+
+*§ 4-08 Meter Stamps.* ::
+
+
+(a) The Commissioner of Finance, in addition to the sale of stamps herein provided for, in his discretion, and subject to the approval of the State Tax Commission, may permit the use of a cigarette tax stamp affixing machine (whether by meter impression or otherwise) approved by him, or, where a joint stamp for the payment of the tax imposed by Article 20 of the State Tax Law and the City Cigarette Tax Law is used, the use of a joint tax stamp affixed by machine to show payment of both state and city taxes. The Commissioner of Finance, however, may reserve the right to rescind such permission upon thirty days' notice should such action be deemed to be in the best interest of the city. Payment of the tax must be made either in cash at the time the tax stamps are purchased or on thirty days' credit upon the same terms and conditions as apply to any other stamps sold by the Commissioner of Finance. Payment for stamps shall be made by cash or certified check.
+
+(b) Each agent, when his application for permission to use such tax stamp affixing machine is approved, shall be assigned a distinctive number which shall be the same as the number assigned to him by the State Tax Commission for the purposes of the state tax, and which must be clearly incorporated in the design of the tax stamps.
+
+(c) Any person, including an agent, having in his possession an authorized tax stamp affixing machine may not transfer, sell or otherwise dispose of such machine without first securing the authorization and approval of the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-09 Sale or Use of Cigarettes without Stamps.* ::
+
+
+(a) Notwithstanding any other provision hereof, the Commissioner of Finance may, subject to the approval of the State Tax Commission, provide at any time that the tax imposed by the law shall be collected without the use of stamps.
+
+
+
+
+
+
+*§ 4-10 Affixation and Cancellation of Stamps.* ::
+
+
+(a) Each agent shall affix to each package of cigarettes subject to the tax the prescribed stamps evidencing the payment of the tax imposed by the law, and shall cancel such stamps before such cigarettes are sold or offered for sale and prior to delivery of such cigarettes to any such dealer in the city, unless stamps have been affixed to such packages of cigarettes and cancelled before such agent received them.
+
+(b) Stamps shall be affixed to each package of cigarettes of an aggregate denomination not less than the amount of the tax upon the contents therein.
+
+(c) The stamps must be so affixed that they are clearly visible to the purchaser. When affixed to "rounds" or "flats" of fifty cigarettes or more, they must be so placed that they will be destroyed when the container is opened. The stamps must be placed on the small, individual packages ordinarily sold to customers as distinguished from the carton or larger containers of cigarettes.
+
+(d) Every agent must keep unstamped cigarettes separate and apart from stamped cigarettes.
+
+
+
+
+
+
+*§ 4-11 Cancellation of Stamps.* ::
+
+
+(a) All adhesive stamps must be cancelled in waterproof ink with the number assigned to each authorized agent before the cigarettes to which said stamps are affixed are offered for sale. The stamps may be cancelled before or after they are affixed.
+
+(b) It is evident that, because of their nature and the fact that they carry the identifying number of the agent, meter stamps required no cancellation.
+
+(c) Whenever any cigarettes are found in the place of business of a dealer other than an agent without the stamps affixed and cancelled the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
+
+(d) Each dealer, other than an agent, in the city shall immediately upon the receipt of any cigarettes at his place of business mark in ink on each unopened box, carton or other container of such cigarettes the word "received", and the year, month, day and hour of such receipt, and shall affix his signature thereto. In addition, each retail dealer shall within twenty-four hours after receipt of any cigarettes, open such box, carton or other container and, unless such stamps have been previously affixed, immediately notify the dealer from whom he purchased such cigarettes and arrange for the replacement by the dealer of such cigarettes by cigarettes with such stamps affixed within twenty-four hours. Such dealer shall make and keep, until the cigarettes are replaced, a record of the time at which such arrangements were made and the name of the individual representing the dealer with whom such arrangements were made.
+
+(e) Whenever any cigarettes are found in the place of business of a dealer other than an agent without being marked as having been received within the preceding twenty-four hours, the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
+
+
+
+
+
+
+*§ 4-12 Destruction of Cancelled or Mutilated Stamps.* ::
+
+
+(a) Except as hereinafter provided, the Commissioner of Finance may destroy by incineration stamps which have been mutilated, broken, cancelled or otherwise become unfit for use or consumption. Such stamps shall be destroyed in the presence of the Commissioner of Finance, or his representative duly authorized in writing, who shall thereupon certify, in duplicate, to the fact of said destruction, the subject matter of the destruction in detail, and the persons before whom said destruction took place. Said certification, duly sworn to, shall be kept on file in the office of the Commission of Finance.
+
+(b) The destruction of joint stamps used for the payment of the state cigarette tax and the city tax shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-13 Possession and Transportation of Unstamped Cigarettes.* ::
+
+
+(a) Every person who possesses or transports upon the public highways, roads or streets of the city more than four hundred cigarettes in unstamped packages, is required to have in his actual possession invoices or delivery tickets for such cigarettes. All such invoices or delivery tickets must show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of cigarettes transported. The absence of such invoices or delivery tickets shall be prima facie evidence that such person is a dealer in cigarettes in the city and subject to the provisions of the law.
+
+
+
+
+
+
+*§ 4-14 Vending Machines; Visibility of Stamps.* ::
+
+
+(a) Owners and operators of cigarette vending machines are required to have the name, address, cigarette dealer's license number and telephone number of the owner displayed on each machine in operation within the City. The Commissioner of Finance may also require a report from such owners, which report shall contain information showing the location of each machine, the record of any change of location, placing of additional machines or withdrawal of previously listed machines, and such other information as the Commissioner of Finance may require.
+
+(b) Every package of cigarettes placed in any cigarette vending machine having an area through which such packages are visible, must be so placed therein that the New York City cigarette tax stamps thereon are visible. Whenever any cigarettes are found in any vending machine in violation of the provisions of this section or whenever a vending machine is not properly labeled, the duly authorized agents or employees of the Department of Finance shall seal the machine to prevent sale or removal of any cigarettes from the vending machine until such time as the violation is corrected in the presence of a duly authorized agent or employee of the Department of Finance.
+
+
+
+
+
+
+*§ 4-15 Agents; Credit and Performance Bonds.* ::
+
+
+(a) The Commissioner of Finance may appoint as an agent to affix stamps to be used in paying the tax imposed by the law any person who has been appointed by the State Tax Commission to affix stamps used in payment of the tax imposed by Article 20 of the State Tax Law. Each agent so appointed will be assigned a distinctive number to be used by him in the cancellation of stamps and for other purposes when necessary and said number will be the same as that assigned to such agent by the State Tax Commission. An agent shall at all times have the right to appoint the person in his employ who is to affix the stamps to any cigarettes under his control. Such agent shall purchase stamps from banks to which he has been assigned.
+
+(b) (1) At the discretion of the Commissioner of Finance agents may be permitted to pay for the purchase of such stamps within thirty days after the date of purchase, provided a surety bond satisfactory to the Commissioner of Finance is filed with him.
+
+   (2) A bond to secure the payment of sums due from an agent shall be on a form prescribed by the Commissioner of Finance and shall be issued by a surety company which is approved by the Superintendent of Insurance as to solvency and responsibility and which is authorized to transact business in the State of New York. Such bond, which must be filed in triplicate, shall secure the amount of credit for which application is made, and shall continue in full force and effect until a certificate has been issued by the Commissioner of Finance to the effect that all monies due the City for the purchase of stamps have been paid in full.
+
+   (3) In addition to the credit bond described in paragraph (2) of this subdivision, an agent may be required to file with the Commissioner of Finance a surety bond issued by a surety company described in paragraph (2), in such amount as he deems appropriate, guaranteeing the proper discharge and performance of his duties as agent.
+
+(c) A nonresident agent, that is, one located outside the City of New York, may likewise be appointed by the Commissioner of Finance for the purpose of purchasing and affixing stamps for cigarettes. Nonresident agents desiring to purchase stamps on credit may be permitted to do so, in the discretion of the Commissioner of Finance, in the same manner, and subject to the same conditions, as described in subdivision (b) of this section, in such amount as the Commissioner of Finance may deem appropriate, guaranteeing the proper discharge and performance of his duties as a nonresident agent. Such nonresident agent must agree to submit his books of account and records for examination during reasonable business hours.
+
+(d) In lieu of the bonds described in the preceding subdivisions, an agent may deposit with the Commissioner of Finance his personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from an agent pursuant to this section but no such sale shall be had until an agent shall have had an opportunity to be heard regarding the validity of any tax or the amount due, or to have a court determination, as provided by the law or these regulations. Upon any such sale the surplus, if any, above the sums due shall be returned to such agent.
+
+(e) No credit for the purchase of stamps shall be granted in excess of the amount secured by a credit bond or collateralized personal bond.
+
+(f) If, on June 30, 1982, an agent has outstanding a sum due for stamps purchased on credit, which sum is not fully secured by a credit bond or collateralized personal bond, such agent shall, on the first day of each of the next forty succeeding months, reduce the sum which is not so secured by an amount equal to two and one-half percent of such unsecured sum by paying such amount in cash or by tendering a credit bond or collateralized personal bond, as described in the preceding subdivisions, in such amount. Provided, however, that the Commissioner of Finance in implementing the foregoing reduction in unsecured credit shall have the authority to make minor adjustments to the foregoing percentage to adjust for the purchase of stamps in full rolls and provided further, however, that all of such unsecured credit shall be eliminated within the foregoing period of forty months.
+
+(g) In the event that the agent fails to remit any amount owed for stamps purchased on credit (with or without a credit bond or other security) when due, then, in such event, all or any part of the amounts then owing for credit purchases of stamps shall, at the option of the Commissioner of Finance, become immediately due and payable, the extension of credit to the agent shall immediately terminate, and no further sales to the agent will be made until such time as remittance in full is received for all such amounts so declared to be due and the Commissioner of Finance approves the restoration of credit and the making of sales to the agent.
+
+(h) No person shall sell or offer for sale any stamps issued under the law, except by written permission of the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-16 Compensation of Agents for Services.* ::
+
+
+(a) The law provides that whenever the Commissioner of Finance shall sell, consign or deliver to any agent authorized to affix stamps to be used in payment of the tax imposed thereby, such agent shall be entitled to receive as compensation for his services and expenses in affixing such stamps and to retain out of the monies to be paid by him for such stamps, a commission on the par value thereof. The Commissioner of Finance is authorized to prescribe a schedule of commissions not exceeding five percentum of the par value of such stamps for affixing such stamps. The Commissioner of Finance hereby prescribes the following commissions to be allowed to each such agent as compensation for his services and expenses in affixing stamps.
+
+(b) Where a joint stamp is issued by the State of New York and the City for the payment of the taxes imposed by the City's Cigarette Tax Law and by Article 20 of the Tax Law of the State, in lieu of a single stamp evidencing payment of the cigarette tax, and such joint stamp is issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes) and the City tax (at the rate of $1.50 per package of 20 cigarettes), the following schedule of commissions have been fixed by the Commissioner of Finance pursuant to the City's Cigarette Tax Law with the approval of the New York State Department of Taxation and Finance, and for the purposes of this schedule the par value of a joint stamp issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes), and the City tax (at the rate of $1.50 per package of 20 cigarettes) shall be deemed to be $1.50 each for State purposes and $1.50 each for City purposes. On the City par value of such joint stamps, not exceeding $5,611,200 purchased during each calendar year, a commission of 0.2171 percent thereof except as otherwise provided herein; and on the City par value of such joint stamps in excess of $5,611,200 purchased during each calendar year a commission of 0.0992 percent thereof. Said rate of 0.0992 percent shall also apply, even though the total City par value of joint stamps purchased during any calendar year does not exceed $5,611,200, whenever the value of New York State cigarette tax stamps (including the amount of the New York State cigarette tax represented by such joint stamps) purchased by any agent during each calendar year exceeds the sum of $5,611,200, computed at the State par value of $1.50 each. However, for the purpose of determining the point when said amount of $5,611,200 is reached, whenever the quantity of New York State cigarette tax stamps and/or the portion of the New York State cigarette tax included in joint stamps purchased by an agent at any one time brings the agent's total purchases of stamps evidencing payment of the New York State cigarette tax to at least $5,611,200, the amount purchased at such time shall be first applied to the previous total of purchases of stamps evidencing payment of the New York State cigarette tax until $5,611,200 is reached.
+
+(c) Where a single stamp is issued by the City of New York evidencing payment of the City's cigarette tax, and such stamp is for payment of the City's tax at the rate of four cents for each ten cigarettes or fraction thereof, the commission hereby fixed is 1.10 percent on the par value of such single stamp purchased.
+
+(d) Any commissions allowable hereunder shall be deducted by the agent from the purchase price of the stamps at the time payment is made therefor. No commissions shall be allowed on purchases of less than one hundred dollars. No commission shall be allowed to any purchaser of stamps other than an agent.
+
+
+
+
+
+
+*§ 4-17 Records To Be Kept.* ::
+
+
+(a) The law requires that certain records be kept by all dealers of cigarettes.
+
+   (1) All wholesale dealers, including agents, must keep records showing every purchase, sale or other disposition of all cigarettes and stamps handled.
+
+   (2) All invoices or other records indicating the purchase, sale or other disposition of cigarettes by a wholesale dealer must be either separate and distinct from all other records which a wholesale dealer shall possess or the cigarette transactions on such invoices or other records must be distinct from non-cigarette transactions recorded on the same invoice or other record.
+
+   (3) Agents authorized to keep cigarette tax stump affixing machines must keep a daily record of the meter readings, or the serial numbers of the rolls of stumps used, or other information required by the Commissioner of Finance on forms approved by him.
+
+   (4) Each agent or wholesale dealer in the City (other than a manufacturer) must, at the time of delivering cigarettes to any person, make a true duplicate serially numbered invoice showing his name, his address, the number of the then current license issued to him pursuant to 19 RCNY § 4-05, the date of delivery, the number of cartons in each shipment of cigarettes delivered, the name and address of the purchaser to whom delivery is made.
+
+   (5) Every wholesale dealer shall keep a record of the sales tax certificate number and city cigarette license number of each person to whom he delivers cigarettes. For this purpose, at the time of delivering cigarettes to any person, each wholesale dealer shall, unless previously obtained, request, and every retail dealer or other person to whom cigarettes are delivered shall furnish, his sales tax certificate number and the number of the then current license issued to him pursuant to 19 RCNY § 4-05. The failure or refusal to furnish these numbers shall be reported by the wholesale dealer to the Commissioner of Finance within five days of delivery.
+
+   (6) Each dealer in the City shall procure and retain invoices showing the number of cartons in each shipment of cigarettes received by him, the date of delivery, the name and address of the shipper, and the number of the then current license issued to the shipper pursuant to 19 RCNY § 4-05.
+
+(b) The Commissioner of Finance may require any railroad company, express company, trucking company or carrier transporting any shipment of cigarettes into the city to file with the Commissioner of Finance a copy of the freight bill within ten days after delivery in the city of each shipment.
+
+(c) In addition to the foregoing, every agent or dealer (other than a manufacturer) shall keep and maintain records of cigarettes on which a tax must be paid and of those on which a tax is not required to be paid. These records must also show the quantity of cigarettes returned because the cigarettes have become unsalable and any transfers of stamped or unstamped cigarettes to or from other agents. Records must also be maintained of cigarettes which are sold and delivered in the city and those which are sold and delivered to points outside the city, including quantities so sold and the names and addresses of the purchasers. Agents (other than manufacturers) are also required to keep records showing monthly inventories, at the beginning and close of each month, of stamped and unstamped cigarettes, and of the number of stamps.
+
+(d) Each agent, wholesale dealer or other dealer is required to maintain, retain and keep for a period of three years the records mentioned above, as well as such other records as may be required by the Commissioner of Finance from time to time, for the use and inspection of the Commissioner of Finance.
+
+(e) To verify the accuracy of the payment of the tax imposed by the law each dealer is required to give to the Commissioner of Finance or his duly authorized representative, the means, facilities and opportunity to examine the records herein required or for any other reasonable examination.
+
+
+
+
+
+
+*§ 4-18 Reports.* ::
+
+
+(a) Agents (other than manufacturers) appointed by the Commissioner of Finance are required to file with him, on forms prescribed and prepared by the Commissioner of Finance, monthly reports showing such information as he may require, including, among other things:
+
+   (1) The number of unstamped cigarettes:
+
+      (i) on hand at the beginning of the month,
+
+      (ii) purchased or received during the month,
+
+      (iii) on hand at the end of the month,
+
+      (iv) sold or disposed of during the month;
+
+   (2) The number of stamps:
+
+      (i) on hand at the beginning of the month,
+
+      (ii) purchased during the month,
+
+      (iii) on hand at the end of the month,
+
+      (iv) affixed or otherwise disposed of during the month; and
+
+   (3) The number of stamped cigarettes, with New York City stamps and joint New York State-New York City stamps affixed, on hand at the end of the month.
+
+(b) Every agent (other than a manufacturer) is required to take a physical inventory of stamped cigarettes on hand at least twice a year. The results of such an inventory shall be reported on the agent's monthly report in the form and manner prescribed by the Commissioner of Finance. One of the semiannual physical inventories must be as of the end of the fiscal or calendar year of the agent and the other six months later.
+
+(c) Five days prior to the return of cigarettes to a manufacturer, because the cigarettes have become unsalable, damaged, or for any other reason, each agent shall notify the Commissioner of Finance in writing of the number of cartons to be returned and the name of the manufacturer to whom delivery is to be made.
+
+(d) Each manufacturer having an agency permit shall file with the Commissioner of Finance monthly reports showing the total sales of unstamped cigarettes made to agents or wholesale dealers licensed by the City, specifying the name and address of the purchaser, the date of delivery, and the number of cartons in each shipment of cigarettes delivered. These reports shall also specify the quantity of cigarettes returned because the cigarettes have become unsalable, and the name and address of the agent, wholesale dealer or other person making the return.
+
+(e) Fifteen days prior to the distribution of sample cigarettes in the city, each manufacturer shall notify the Commissioner of Finance, in writing, of the amount to be distributed.
+
+(f) Each manufacturer shall file a monthly report of the total number of packages and the number of cigarettes contained therein of sample cigarettes distributed in the city. Payment of the tax due shall be made with the monthly report required herein. If no sample cigarettes are distributed in the city during a month, no report is required for that month.
+
+(g) Wholesale dealers other than agents may also be required to file such reports as the Commissioner of Finance may prescribe, showing the receipts and disposition of all stamped and unstamped cigarettes and any other information which the Commissioner of Finance may require.
+
+(h) Monthly reports shall be filed on or before the 15th day of each month covering the transactions for the preceding calendar month.
+
+
+
+
+
+
+*§ 4-19 Refunds.* ::
+
+
+(a) The law authorizes the Department of Finance to refund, without interest, any tax, interest or penalty erroneously, illegally or unconstitutionally collected or paid. In addition, a dealer is entitled to a refund of the amount of tax paid less applicable commissions, with respect to any cigarettes upon which stamps have been affixed which:
+
+   (1) have been sold and shipped to a dealer outside the city for sale there or to any person in another state for use there, or
+
+   (2) have become unfit for use and consumption or unsalable, or
+
+   (3) which have been destroyed. An agent is entitled to a refund of the amount of tax paid, less applicable commissions, with respect to any stamps which have become unfit for use, or mutilated or destroyed.
+
+(b) No refund will be granted unless written application to the Commissioner or Finance therefor is made within ninety days from the payment thereof.
+
+(c) No refund, however, will be made unless a verified statement is submitted setting forth the applicant's reasons for such requested refund on a form prescribed by the Department of Finance. If the Department of Finance approves the application for refund, he will issue to such dealer or agent stamps of sufficient value to cover the refund or to make such refund, subject to audit by the Commissioner of Finance.
+
+(d) In the event any agent terminates his business during the effective period of the law for any reason whatsoever and has unused stamps on hand, he must return the same to the Department of Finance who will redeem such stamps at the par value thereof, less any commissions theretofore allowed thereon and less any outstanding liability for such tax by the person presenting said stamps for redemption, provided, however, that in the case of joint stamps used for payment of the state cigarette tax and the city's tax, such surrender and redemption shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
+
+(e) No person shall sell or offer for sale any stamp issued under the law and these regulations except by written permission of the Commissioner of Finance, or as provided in Article 13 hereof.
+
+
+
+
+
+
+*§ 4-20 Out-of-City Sales.* ::
+
+
+(a) The law provides that the tax is not applicable to cigarettes possessed in the City by any agent or wholesale dealer for sale to a dealer outside the City, or for sale and shipment to any person in another state for use there.
+
+(b) Under this provision, the only sales by an agent or wholesale dealer of cigarettes which are shipped to a point outside the city which are not subject to the tax, are sales to a dealer outside the city, or shipments to any person outside the state for use there. The sale of cigarettes shipped to a person outside the city, but within the state, for use there is subject to the tax. For example: A sale by an agent or wholesale dealer to another dealer in Westchester County is not subject to the tax. The sale of cigarettes by a dealer who ships them to an ultimate consumer in Westchester County for use there is subject to tax. The sale of cigarettes by a dealer shipped to an ultimate consumer in New Jersey for use there is not subject to the tax.
+
+(c) Where an agent or wholesale dealer sells cigarettes to a dealer for sale outside the City or State, or to another dealer for sale to a dealer outside the City or State, he shall demand and receive from the purchaser, at the time of delivery of the cigarettes, or at the time of sale, a certificate in writing signed by the purchaser, which certificate shall be substantially in the following form: (Date) ________________
+
+   "To ____________________________ (name of agent or wholesale dealer). "I hereby certify that the cigarettes purchased by me and described in the attached invoice will be resold outside the city of New York.
+
+   ___________________________________________   Signature of Purchaser Address of Purchaser"
+
+One copy of such invoice and the above certificate must be retained by the agent or wholesale dealer for inspection by the Commissioner of Finance representative.
+
+
+
+
+
+
+*§ 4-21 Drop-Shipments.* ::
+
+
+In the case of so-called "drop-shipments," where an out-of-state manufacturer solicits an order directly from a retail dealer in this City, and the billing and payment on account of such sale is made through a wholesale dealer, the sale to the retail dealer is deemed to have been made by the wholesale dealer, and proper stamps must be affixed to the packages of cigarettes prior to delivery to the retail dealer, unless such retail dealer is any agent duly appointed by the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-22 Seizure and Sale of Cigarettes.* ::
+
+
+(a) Whenever a police officer designated in § 1.20 of the criminal procedure law or a peace officer designated in subdivision five of § 2.10 of such law, acting pursuant to his special duties, shall discover any cigarettes subject to the tax, and upon which the tax has not been paid or the stamps not affixed as required, they are hereby authorized and empowered forthwith to seize and take possession of such cigarettes, together with any vending machine or receptacle in which they are held for sale. Such cigarettes, vending machine or receptacle seized by a police officer or such peace officer shall be turned over to the Commissioner of Finance.
+
+(b) The seized cigarettes and any vending machine or receptacle seized therewith, but not the money contained in such vending machine or receptacle shall thereupon be forfeited to the City, unless the person from whom the seizure is made, or the owner of such seized cigarettes, vending machine or receptacle, or any other person having an interest in such property, shall within ten days of such seizure, apply to the Commissioner of Finance for a hearing to determine the propriety of the seizure, or unless the Commissioner of Finance shall on his own motion release the seized cigarettes, vending machine or receptacle. After such hearing the Commissioner of Finance shall give notice of his decision to the petitioner. The decision of the Commissioner shall be reviewable for error, illegality, unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the supreme court within thirty days after the giving of the notice of such decision. Such proceeding shall not be instituted unless there shall first be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York State as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed, or the seizure confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding.
+
+(c) The Commissioner of Finance may, within a reasonable time after the forfeiture to the city of such cigarettes, vending machines or receptacles, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the City, sell such forfeited cigarettes and vending machines or receptacles at public sale and pay the proceeds into the treasury of the City. Cigarettes so seized and sold shall be sold only to an agent and the notice of sale shall contain a provision to this effect. Such seized cigarettes, vending machines or receptacles may be sold prior to forfeiture if the owner of the seized property consents to the sale. Notwithstanding any other provision of this section, the Commissioner of Finance may enter into an agreement with the State Tax Commission to provide for the disposition between the City and State of the proceeds from any such sale.
+
+(d) In the alternative, the Commissioner of Finance, on reasonable notice by mail or otherwise may permit the person from whom said cigarettes were seized to redeem the said cigarettes, and any vending machine or receptacle seized therewith, or may permit the owner of any such cigarettes, vending machine or receptacle to redeem the same, by the payment of the tax due, plus a penalty of fifty percent thereof plus interest on the amount of tax due for each month or a fraction thereof, after such tax became due (determined without regard to any extension of time for filing or paying) at the rate prescribed by the law and the regulations of the Commissioner of Finance and the costs incurred in such proceeding, which total payment shall not be less than five dollars; provided, however, that such seizure and sale or redemption shall not be deemed to relieve any person from fine or imprisonment provided for in the law.
+
+(e) In the alternative, if the Commissioner of Finance concludes that any cigarettes seized pursuant to this section, when offered at public sale, will bring a price less than the reasonably estimated price which the Department of Correction would have to pay for the purchase of such cigarettes for sale to or use by inmates in institutions under the jurisdiction of such Department, the Commissioner of Finance may dispose of such cigarettes by transferring them to the Department of Correction for sale to or use by inmates in such institutions.
+
+
+
+
+
+
+*§ 4-23 Penalties and Interest.* ::
+
+
+(a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of the interest to be paid with respect to the taxes which remain or become due on or after July 1, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
+
+(b) Civil penalties. Penalties are provided for violations of the law and of the rules and regulations of the Commissioner of Finance. These penalties are in addition to the possible suspension or revocation of the license of a wholesale or retail dealer or the authority of an agent. The following civil penalties are provided for by law (§ 11-1317 of the Administrative Code of the City of New York):
+
+   (1) For failure to pay the tax under the law when due – a penalty of 50 percent of the amount of tax due. The Commissioner of Finance may, however, if satisfied that the delay was excusable, remit all or any part of such penalty.
+
+   (2) In addition to any other penalty imposed by § 11-1317 of the Administrative Code of the City of New York, as amended, the Commissioner of Finance may impose a penalty of not more than $100 for each two hundred cigarettes or fraction thereof in excess of two thousand cigarettes in unstamped or unlawfully stamped packages in the possession or under the control of any person. The Commissioner of Finance, in his discretion, may remit all or part of such penalty.
+
+   (3) The possession within the City of more than four hundred cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are subject to tax as provided by the law. Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents or persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
+
+   (4) The penalties provided by this subdivision shall be paid and enforced in the same manner as taxes.
+
+   (5) Application for the remission of penalty may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed and must set forth the grounds upon which the remission is requested.
+
+(c) Criminal penalties.
+
+   (1) Failure to obey subpoena; false testimony.
+
+      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
+
+         (A) fails or refuses to attend without lawful excuse, or
+
+         (B) refuses to be sworn,
+
+         (C) refuses to answer any material and proper question, or
+
+         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
+
+      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
+
+   (2) Willful failure to file a return or report or pay tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
+
+   (3) Fraudulent returns, reports, statements or other documents. 
+
+      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
+
+      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
+
+      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
+
+   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required by the law shall be guilty of a misdemeanor.
+
+   (5) Attempt to evade or defeat tax.
+
+      (i) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or the payment thereof shall, in addition to other penalties provided by law, be guilty of a misdemeanor.
+
+      (ii) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or payment thereof on twenty thousand cigarettes or more or has previously been convicted two or more times of a violation of subparagraph (i) of this paragraph shall be guilty of a Class E felony.
+
+   (6) Any person, other than an agent so authorized by the Commissioner of Finance, who possesses or transports for the purpose of sale any unstamped or unlawfully stamped packages of cigarettes subject to tax under the law, or who sells or offers for sale unstamped or unlawfully stamped packages of cigarettes in violation of the provisions of the law shall be guilty of a misdemeanor.
+
+   (7) Any person, other than an agent so authorized by the Commissioner of Finance, who willfully possesses or transports for the purpose of sale twenty thousand or more cigarettes subject to the tax imposed by law in any unstamped or unlawfully stamped packages or who willfully sells or offers for sale twenty thousand or more cigarettes in any unstamped or unlawfully stamped packages in violation of the law shall be guilty of a Class E felony.
+
+   (8) For the purposes of this subdivision, the possession or transportation within this City by any person, other than an agent, at any one time of five thousand or more cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are possessed or transported for the purpose of sale and are subject to the tax imposed by law. With respect to such possession or transportation, any provisions of law providing for a time period during which a use tax imposed by the law may be paid on unstamped cigarettes or unlawfully or improperly stamped cigarettes or during which such cigarettes may be returned to an agent shall not apply. The possession within this City of more than four hundred cigarettes in unstamped or unlawfully stamped packages by any person other than an agent at any one time shall be presumptive evidence that such cigarettes are subject to tax as provided by law.
+
+   (9) Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents of persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
+
+   (10) Any person who falsely or fraudulently makes, alters or counterfeits any stamp prescribed by the Commissioner of Finance under the law, or causes or procures to be falsely or fraudulently made, altered or counterfeited any such stamp, or knowingly and willfully utters, purchases, passes or tenders as true any such false, altered or counterfeited stamp, or knowingly and willfully possesses any cigarettes in packages bearing any such false, altered or counterfeited stamp, and any person who knowingly and willfully makes, causes to be made, purchases or receives any device for forging or counterfeiting any stamp, prescribed by the Commissioner of Finance under the provisions of the law, or who knowingly and willfully possesses any such device, shall be guilty of a Class E felony. For the purposes of this paragraph, the words "stamp prescribed by the Commissioner of Finance" shall include a stamp, impression or imprint made by a metering machine, the design of which has been approved by the Commissioner of Finance and the State Tax Commission.
+
+   (11) Any willful act or omission, other than those described in paragraphs (5) through (10) of this subdivision, by any person which constitutes a violation of any provision of law shall constitute a misdemeanor.
 
 
 
@@ -10816,93 +10816,6 @@ Any person who shall make any certification which is willfully false shall be su
 
 
 
-Chapter 24: Refunds of Real Property Taxes
---------------------------------------------------
-
-
-
-*§ 24-01 Definitions.* ::
-
-
-Unless the context requires otherwise, as used in these rules:
-
-Assessment. "Assessment" means charges other than real property taxes, water charges and sewer rents, that are imposed on real property in the City of New York and which remain a lien on such real property until paid.
-
-Beneficial owner. "Beneficial owner" means an individual or entity that has an ownership interest in excess of fifty percent of either (i) the real property or (ii) the entity that is the record owner of the property.
-
-Department. "Department" means the New York City Department of Finance.
-
-Ordinary overpayment. "Ordinary overpayment" means an overpayment, as defined herein, that resulted from means other than real property assessment review proceedings.
-
-Overpayment. "Overpayment" means a payment that exceeds the amount of the real property taxes, water and sewer charges or assessments for which the payment was intended.
-
-Record owner. "Record owner" means the owner of a property as it appears on the records of the New York City Department of Finance.
-
-Taxpayer. "Taxpayer" means the payor of a tax, water and sewer charge or assessment, whether or not such party is the owner of the property to which the payment was applied.
-
-Tax year. "Tax year" means the fiscal year of the City of New York, which commences July 1 and ends June 30.
-
-Transfer of overpayment. "Transfer of overpayment" means the application of a credit to an unpaid tax, charge or assessment.
-
-
-
-
-
-
-*§ 24-02 Ordinary Overpayments and Double Payments.* ::
-
-
-Any application required by the Commissioner of Finance for refunds (or transfers) of over and double payments of real property taxes, assessments, water charges and sewers rents may be made by filing an application on a form or in a format established by the Commissioner of Finance, plus any documentation requested by the Department in order to evidence that the applicant is entitled to the refund or transfer of the overpayment, within six years after the date of the over or double payment. Any such documentation required may include, but is not limited to, copies of both sides of cancelled checks, receipted bills, a printout of the confirmation of payment of taxes by electronic means, statements or other documentation from the taxpayer's bank or an affidavit setting forth facts alleged by the applicant.
-
-
-
-
-
-
-*§ 24-03 Real Property Assessment Review Proceedings.* ::
-
-
-(a)  Application for refund. Refunds (or transfers) of overpayments of real property taxes resulting from a Tax Commission remission order or a Supreme Court order or judgment entered after trial or pursuant to settlement in a real property assessment review proceeding may be obtained in accordance with § 726 of the Real Property Tax Law only by filing an application on a form or in a format established by the Commissioner of Finance, plus any other documentation requested by the Department in order to evidence that the applicant is entitled to the refund or transfer of the overpayment, within three (3) years of the entry of the Supreme Court order or judgment, or within six (6) years of the date of the Tax Commission order, as the case may be. Other documentation required may include, but is not limited to, a copy of the Supreme Court order or judgment, if any, copies of both sides of cancelled checks, a printout of the confirmation of payment of taxes by electronaic means, statements or other documentation from the taxpayer's bank or an affidavit setting forth facts alleged by the applicant.
-
-(b) Interest on refunds. Interest shall be paid on the amount of any refund made pursuant to this section that resulted from a Supreme Court order or judgment, to be computed from the date of payment of the tax or portion thereof to be refunded until the date of such order or judgment. Interest shall also be paid on the amount of such refund for the period after the entry of a final order or judgment but shall accrue only from the date on which an application for Audit and Payment of such refund was duly made to the Department of Finance in accordance with the requirements of this section.
-
-
-
-
-
-
-*§ 24-04 Department of Finance Application of Overpayments to Arrears in Real Property Taxes and Property-Related Charges.* ::
-
-
-With respect to an overpayment of real property taxes or property-related charges on a property for which there are unpaid taxes or charges, the Department of Finance may apply the overpayment to satisfy such unpaid taxes and charges and refund only the balance of the overpayment, if any, that remains after the Department has so applied the overpayment.
-
-
-
-
-
-
-*§ 24-05 Transfer of Overpayment.* ::
-
-
-A taxpayer may transfer an overpayment from one property to another under the following conditions:
-
-(a) An overpayment may be transferred only between properties owned by the same beneficial owner.
-
-(b) A transfer of an overpayment from one property to another shall have no effect on the accrual of interest as required by law on arrears on the property to which the overpayment is transferred. Nothing in this provision, however, shall prevent the taxpayer from requesting that an overpayment, or a portion thereof, be applied to interest on the property to which the overpayment is transferred.
-
-(c) In the event that an application for a transfer of an overpayment concerns properties that are not owned by the same record owner, the applicant must furnish proof required to establish that the properties are owned by the same beneficial owner.
-
-Example 1: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest from July, 2008, in the amount of $1,000. There are no other outstanding charges on either of the two properties. X is the record owner of both property A and property B and desires to transfer the overpayment from property A to property B. X must submit to the Department a request for transfer of the overpayment pursuant to 19 RCNY § 24-02. The $1,000 overpayment will be transferred from property A to property B to be applied to the outstanding balance on property B.
-
-Example 2: The facts are the same as in Example 1 except that Y made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to 19 RCNY § 24-02 certifying that X is entitled to the refund.
-
-Example 3: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest in the amount of $2,000 from July, 2008. There are no other outstanding charges on either of the two properties. X owns 75% of the stock of X Corp. which is the record owner of property A. X also owns 75% of Y Corp. which is the record owner of property B. X desires to transfer the overpayment from property A to property B. X must submit to the Department an application pursuant to 19 RCNY § 24-02 together with any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B. The $1,000 overpayment will be transferred from property A to property B to reduce the outstanding balance on property B by $1,000.
-
-Example 4: The facts are the same as in Example 3 except that X Corp. made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to 19 RCNY § 24-02 certifying that X is entitled to the refund and any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B.
-
-
-
-
 Chapter 23: Real Property Transfer Tax
 --------------------------------------------------
 
@@ -12200,6 +12113,93 @@ The provisions of the Civil Practice Law and Rules or any other law relative to 
 
 
 Any notice authorized or required by the law may be given by mailing it to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return or affidavit filed by him pursuant to the law, or in any application made by him, or in any deed or instrument which is the subject of the notice, or if no return or affidavit has been filed or application made or address stated in the deed or instrument, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of the law by the giving of notice shall commence to run from the date of mailing of such notice.
+
+
+
+
+Chapter 24: Refunds of Real Property Taxes
+--------------------------------------------------
+
+
+
+*§ 24-01 Definitions.* ::
+
+
+Unless the context requires otherwise, as used in these rules:
+
+Assessment. "Assessment" means charges other than real property taxes, water charges and sewer rents, that are imposed on real property in the City of New York and which remain a lien on such real property until paid.
+
+Beneficial owner. "Beneficial owner" means an individual or entity that has an ownership interest in excess of fifty percent of either (i) the real property or (ii) the entity that is the record owner of the property.
+
+Department. "Department" means the New York City Department of Finance.
+
+Ordinary overpayment. "Ordinary overpayment" means an overpayment, as defined herein, that resulted from means other than real property assessment review proceedings.
+
+Overpayment. "Overpayment" means a payment that exceeds the amount of the real property taxes, water and sewer charges or assessments for which the payment was intended.
+
+Record owner. "Record owner" means the owner of a property as it appears on the records of the New York City Department of Finance.
+
+Taxpayer. "Taxpayer" means the payor of a tax, water and sewer charge or assessment, whether or not such party is the owner of the property to which the payment was applied.
+
+Tax year. "Tax year" means the fiscal year of the City of New York, which commences July 1 and ends June 30.
+
+Transfer of overpayment. "Transfer of overpayment" means the application of a credit to an unpaid tax, charge or assessment.
+
+
+
+
+
+
+*§ 24-02 Ordinary Overpayments and Double Payments.* ::
+
+
+Any application required by the Commissioner of Finance for refunds (or transfers) of over and double payments of real property taxes, assessments, water charges and sewers rents may be made by filing an application on a form or in a format established by the Commissioner of Finance, plus any documentation requested by the Department in order to evidence that the applicant is entitled to the refund or transfer of the overpayment, within six years after the date of the over or double payment. Any such documentation required may include, but is not limited to, copies of both sides of cancelled checks, receipted bills, a printout of the confirmation of payment of taxes by electronic means, statements or other documentation from the taxpayer's bank or an affidavit setting forth facts alleged by the applicant.
+
+
+
+
+
+
+*§ 24-03 Real Property Assessment Review Proceedings.* ::
+
+
+(a)  Application for refund. Refunds (or transfers) of overpayments of real property taxes resulting from a Tax Commission remission order or a Supreme Court order or judgment entered after trial or pursuant to settlement in a real property assessment review proceeding may be obtained in accordance with § 726 of the Real Property Tax Law only by filing an application on a form or in a format established by the Commissioner of Finance, plus any other documentation requested by the Department in order to evidence that the applicant is entitled to the refund or transfer of the overpayment, within three (3) years of the entry of the Supreme Court order or judgment, or within six (6) years of the date of the Tax Commission order, as the case may be. Other documentation required may include, but is not limited to, a copy of the Supreme Court order or judgment, if any, copies of both sides of cancelled checks, a printout of the confirmation of payment of taxes by electronaic means, statements or other documentation from the taxpayer's bank or an affidavit setting forth facts alleged by the applicant.
+
+(b) Interest on refunds. Interest shall be paid on the amount of any refund made pursuant to this section that resulted from a Supreme Court order or judgment, to be computed from the date of payment of the tax or portion thereof to be refunded until the date of such order or judgment. Interest shall also be paid on the amount of such refund for the period after the entry of a final order or judgment but shall accrue only from the date on which an application for Audit and Payment of such refund was duly made to the Department of Finance in accordance with the requirements of this section.
+
+
+
+
+
+
+*§ 24-04 Department of Finance Application of Overpayments to Arrears in Real Property Taxes and Property-Related Charges.* ::
+
+
+With respect to an overpayment of real property taxes or property-related charges on a property for which there are unpaid taxes or charges, the Department of Finance may apply the overpayment to satisfy such unpaid taxes and charges and refund only the balance of the overpayment, if any, that remains after the Department has so applied the overpayment.
+
+
+
+
+
+
+*§ 24-05 Transfer of Overpayment.* ::
+
+
+A taxpayer may transfer an overpayment from one property to another under the following conditions:
+
+(a) An overpayment may be transferred only between properties owned by the same beneficial owner.
+
+(b) A transfer of an overpayment from one property to another shall have no effect on the accrual of interest as required by law on arrears on the property to which the overpayment is transferred. Nothing in this provision, however, shall prevent the taxpayer from requesting that an overpayment, or a portion thereof, be applied to interest on the property to which the overpayment is transferred.
+
+(c) In the event that an application for a transfer of an overpayment concerns properties that are not owned by the same record owner, the applicant must furnish proof required to establish that the properties are owned by the same beneficial owner.
+
+Example 1: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest from July, 2008, in the amount of $1,000. There are no other outstanding charges on either of the two properties. X is the record owner of both property A and property B and desires to transfer the overpayment from property A to property B. X must submit to the Department a request for transfer of the overpayment pursuant to 19 RCNY § 24-02. The $1,000 overpayment will be transferred from property A to property B to be applied to the outstanding balance on property B.
+
+Example 2: The facts are the same as in Example 1 except that Y made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to 19 RCNY § 24-02 certifying that X is entitled to the refund.
+
+Example 3: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest in the amount of $2,000 from July, 2008. There are no other outstanding charges on either of the two properties. X owns 75% of the stock of X Corp. which is the record owner of property A. X also owns 75% of Y Corp. which is the record owner of property B. X desires to transfer the overpayment from property A to property B. X must submit to the Department an application pursuant to 19 RCNY § 24-02 together with any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B. The $1,000 overpayment will be transferred from property A to property B to reduce the outstanding balance on property B by $1,000.
+
+Example 4: The facts are the same as in Example 3 except that X Corp. made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to 19 RCNY § 24-02 certifying that X is entitled to the refund and any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B.
 
 
 
