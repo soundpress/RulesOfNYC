@@ -653,9 +653,9 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 (
-									Repealed
-									
-									City Record 7/9/2015, eff. 8/8/2015)
+										Repealed
+										
+										City Record 7/9/2015, eff. 8/8/2015)
 
 
 
@@ -716,9 +716,9 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 (
-									Repealed
-									
-									City Record 7/9/2015, eff. 8/8/2015)
+										Repealed
+										
+										City Record 7/9/2015, eff. 8/8/2015)
 
 
 
@@ -729,9 +729,9 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 (
-									Repealed
-									
-									City Record 7/9/2015, eff. 8/8/2015)
+										Repealed
+										
+										City Record 7/9/2015, eff. 8/8/2015)
 
 
 
@@ -868,7 +868,7 @@ A public pay telephone shall comply with the requirements set forth in this subc
    (4) Nothing in this subdivision shall be construed to require the removal of a public pay telephone that has been issued a permit by the Department prior to the effective date of these rules or was operational pursuant to a license issued pursuant to the provisions of former § 19-128 or 19-131 of the Administrative Code of the City of New York.
 
 (k) 
-									[Reserved.]
+										[Reserved.]
 
 (l) Sidewalks of a distinctive design. A public pay telephone shall not be installed on, or result in the destruction, damage or removal of any part of, a sidewalk of a distinctive design. For purposes of this subdivision, "sidewalk of a distinctive design" shall include a pavement of granite, slate, bluestone or brick and a sidewalk constructed and approved pursuant to 34 RCNY § 2-09(f)(xvi).
 
@@ -933,7 +933,7 @@ Each public pay telephone location, single or multiple, shall have a sign in a f
 (d) Telephone service. A public pay telephone shall be maintained such that upon proper payment, a call can be completed. For example, a public pay telephone that could not complete a call to a location or instrument using "anonymous call rejection" on a caller ID or caller number identification device would be in violation of this subdivision (d) of 67 RCNY § 6-43 and of subdivision (b) of 67 RCNY § 6-05.
 
 (e) 
-									[Reserved.]
+										[Reserved.]
 
 (f) Wiring.
 

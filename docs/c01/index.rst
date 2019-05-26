@@ -410,7 +410,7 @@ Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of th
 (b) Enclosure of factory stairways.
 
    (1) Except as herein provided, in all factory buildings five stories or less in height, erected prior to October 1, 1913, in which there are more than twenty-five persons employed above the second story, all interior stairways, serving as required means of exit, and the landings, platforms and passageways connected therewith, shall be enclosed on all sides by partitions of fire-resisting material extending continuously from the lowest point of the stairway in accordance with the following schedule: 
-									
+										
 
  
 
@@ -505,7 +505,7 @@ The term "contents" as used above means articles, goods, wares and merchandise, 
 (b) In all buildings as defined in Article 1, § 10 of the Labor Law in which fire drills are required pursuant to § 279 and in any other building in which the Fire Commissioner may be directed pursuant to the power conferred in § 488 of the New York City Charter, it shall be the duty of the owners, lessees or tenants to conduct fire drills monthly and at such other times as the Fire Commissioner may direct. For the purpose of conducting such fire drills the owner or tenant shall appoint from among their employees such responsible and dependable persons, male or female, who shall efficiently perform the duties of the various positions of the fire drill organization, as specified on the accompanying chart. It shall be the duty of the owner or tenant to enter in the blank spaces provided for that purpose in said chart the names of persons so selected and post said chart and copies of the rules in a conspicuous place.
 
 FIRE DRILL ORGANIZATION 
-									
+										
 
  
 
@@ -2541,7 +2541,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
    (4) Outside of buildings, above ground.
 
       (i) Storage tanks of a capacity greater than 275 gallons located outside of buildings above ground shall be not less than one and one-quarter (1 1/4) tank diameters and in no case less than ten feet (10') from the line of adjoining property, the nearest building or adjacent tank. Such tanks shall be electrically grounded. The maximum capacity of individual tanks located outside of buildings above ground shall be fixed by the following schedule: 
-									
+										
 
  
 

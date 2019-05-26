@@ -2363,7 +2363,7 @@ As used in this chapter:
 
 
 (a) Except as provided in subdivision (c), a Respondent who admits the charge or is found responsible at a hearing for any Specified Violation can perform Community Service instead of paying a monetary civil penalty. The Specified Violations, monetary civil penalties, and corresponding Community Service hour requirements are found below: 
-									
+										
 
  
 

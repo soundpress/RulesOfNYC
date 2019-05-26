@@ -3232,7 +3232,7 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
       (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
 
       (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and must have a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
-									 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
+										 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
 
       (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
 
@@ -3251,8 +3251,8 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
    (2) The number of eligible households that can be approved to receive rent supplements under the City Family Exit Plan Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA. 
 
    (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05
-									, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the CITYFEPS program as set forth in 68 RCNY § 8-05
-									. 
+										, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the CITYFEPS program as set forth in 68 RCNY § 8-05
+										. 
 
 (b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Exit Plan Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS rent supplement is being applied, except as provided in 68 RCNY §8-06. 
 
@@ -3340,13 +3340,13 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 (a) A household receiving a CITYFEPS rent supplement may not move to a new residence and maintain eligibility for a CITYFEPS rent supplement except with the prior approval of HRA. HRA shall grant such approval if: 
 
    (1) The new monthly rent obligation does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
-									 and is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; and 
+										 and is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; and 
 
    (2) The need for the move is a direct result of: (A) the household's inability to pay required contributions pursuant to subdivision (g) of 68 RCNY § 8-05
-									 due to changes in the household's income, composition or rent obligations; (B) a vacate order issued by a City agency or court; or (C) a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis. 
+										 due to changes in the household's income, composition or rent obligations; (B) a vacate order issued by a City agency or court; or (C) a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis. 
 
 (b) If HRA has approved a move to a new residence, HRA shall recalculate the monthly CITYFEPS rent supplement amount and program participant contribution pursuant to 68 RCNY § 8-05
-									. 
+										. 
 
 (Added City Record 7/16/2015, eff. 8/15/2015) 
 
@@ -3937,13 +3937,13 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 (e) Selection or Removal of Households from Waitlist.
 
    (1) Subject to available funding and HRA HOME TBRA coupons, households will be selected for participation in HRA HOME TBRA from the waitlist in order of assigned number, provided such households continue to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
-									.
+										.
 
    (2) Households that are unable to establish that they continue to satisfy the requirements set forth in subdivision (a) of 68 RCNY § 9-03
-									 will be removed from the waitlist and informed that their applications have been denied.
+										 will be removed from the waitlist and informed that their applications have been denied.
 
    (3) HRA may request an applicant household on the waitlist to provide additional documentation regarding the household's income and composition and to establish that the household continues to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
-									. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.
+										. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.
 
    (4) In the event that HRA does not have sufficient funding to select the household at the top of the waitlist for HRA HOME TBRA participation due to such household's unit size, HRA shall not select a household with a smaller unit size, but shall select the household at the top of the waitlist when sufficient funding is available.
 

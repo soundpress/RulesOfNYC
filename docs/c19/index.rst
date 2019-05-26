@@ -1252,7 +1252,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 (a) Comply with this Chapter. All Accessible Taxicab Owners, Accessible Street Hail Livery Owners and all Approved Drivers must comply with all provisions of this chapter. Agents for Accessible Taxicab Owners and bases dispatching or acting on behalf of Accessible Street Hail Liveries under 35 RCNY § 59B-04.2 must also comply with these Rules where applicable.
 
 (b) Driver Responsibility. An Accessible Vehicle can only be driven by an Approved Driver; that is, one who has successfully completed Wheelchair Passenger Assistance Training. 
-									
+										
 
  
 
@@ -1270,7 +1270,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
  
 
 (c) Owner Responsibility. A Taxicab Owner and a Street Hail Livery Owner may not allow Drivers who are not Approved Drivers and have not successfully completed Wheelchair Passenger Assistance Training, to operate the Owner’s Accessible Taxicab or Street Hail Livery. 
-									
+										
 
  
 
@@ -1288,7 +1288,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
  
 
 (d) Agent Responsibility. An Agent or a base may not allow Drivers who are not Approved Drivers and have not successfully completed Wheelchair Passenger Assistance Training, to operate an Accessible Vehicle. 
-									
+										
 
  
 
@@ -1610,7 +1610,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
       (ii) Upon exiting, from the vehicle to the curbside.
 
    (2) Must secure a Wheelchair-using Passenger and the Wheelchair within the Vehicle. 
-									
+										
 
  
 
@@ -1628,7 +1628,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
  
 
 (b) Packages. An Approved Driver must place the a mobility-impaired Passenger's packages and parcels in the Vehicle and secure them and must retrieve them for the Passenger at the end of the trip. 
-									
+										
 
  
 
@@ -1646,7 +1646,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
  
 
 (c) Service Animal(s) and Companions. An Approved Driver must accept and provide transportation in the Accessible Taxicab for a a mobility-impaired Passenger's Service Animal(s) and for as many companions as can be legally seated in the vehicle. 
-									
+										
 
  
 
@@ -1664,7 +1664,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
  
 
 (d) Waiting for the Passenger with a mobility impairment. An Approved Driver who has accepted a dispatch must wait for the Passenger with a mobility impairment to appear curbside at the pick up point for at least ten minutes after the time of arrival reported by the Driver for on-demand trips, and at least ten minutes after the scheduled pickup time indicated by the Dispatcher for advance reservation trips. 
-									
+										
 
  
 
@@ -1705,7 +1705,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 (f) Assist with payment. Upon a Passenger’s request, the Driver must assist Passenger with completing payment, such as helping the Passenger to access the credit card reader and counting cash aloud. 
-									
+										
 
  
 
@@ -7668,7 +7668,7 @@ Chapter 58: Medallion Taxicab Service
    (2) An Owner must not authorize or allow a lessee of a Taxicab under 35 RCNY §§ 58-21(c)(1) or 58-21(c)(2) of these Rules to sublease the Taxicab to another party.
 
    (3) Written records required under this section must be provided to Driver and must be maintained in either a hard copy or electronic format. 
-									
+										
 
  
 
@@ -8893,7 +8893,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 EZ-Pass
-									® Required. 
+										® Required. 
 
 (a) EZ-Pass® Account. All Owners must participate in the EZ-Pass® New York Program by maintaining a current account with the Metropolitan Transportation Authority, Triborough Bridge and Tunnel Authority ("MTA Bridges and Tunnels" or "MTA B&amp;T").
 
@@ -9513,7 +9513,7 @@ EZ-Pass
    (1) Industry signage/logos of all credit/debit cards accepted by the Technology System, all of equal size; and
 
    (2) Advertising on the Technology System as set forth below in the Taxicab Marking Specifications table (35 RCNY § 58-32(i)) and in 35 RCNY § 67-15(d). 
-									
+										
 
  
 
@@ -9878,7 +9878,7 @@ EZ-Pass
       (ii) A device with a licensed E-Hail Application installed, which may only be used to process payment through the licensed E-Hail Application.
 
    (3) The installation or mounting of any device with an E-Hail Application installed is subject to Commission approval. The installation or mounting of such device must not obstruct the Driver's view of the road, or the Driver or Passenger's view of the Taximeter. 
-									
+										
 
  
 
@@ -10048,7 +10048,7 @@ EZ-Pass
  
 
    (2) The Taximeter’s fare indicating mechanism must be affixed to the vehicle's dashboard so that it is clearly readable and visible to all passengers in the vehicle. 
-									
+										
 
  
 
@@ -10066,7 +10066,7 @@ EZ-Pass
  
 
    (3) The Taximeter's serial number or software version number must be the same as that shown on the Rate Card assigned to the Taxicab; or entered on the Rate Card by a Licensed Taximeter shop. 
-									
+										
 
  
 
@@ -10118,7 +10118,7 @@ EZ-Pass
  
 
    (6) The wiring harness leading from the Taximeter to the speed sensor must have no unapproved intervening connectors, splices, "Y" connections, or direct or indirect interruptions or connections of any kind whatsoever. 
-									
+										
 
  
 
@@ -10307,7 +10307,7 @@ EZ-Pass
  
 
       (ii) Whenever a Taximeter is installed in a vehicle or a Taximeter’s metrological system is updated. 
-									
+										
 
  
 
@@ -10403,7 +10403,7 @@ EZ-Pass
  
 
 (b) E-Hail Application. Any licensed E-Hail Application that provides for E-Payment used in a Taxicab must integrate with the Technology System or Taximeter. Owner must not allow any E-Hail Application to be used to process payment that is not a licensed E-Hail Application. 
-									
+										
 
  
 
@@ -10431,7 +10431,7 @@ EZ-Pass
 
 
 (a) Good Working Order. Owners must ensure that the Technology System equipment is constantly maintained and is in good working order. 
-									
+										
 
  
 
@@ -10457,7 +10457,7 @@ EZ-Pass
    (3) The Owner or Owner’s Agent must meet the appointment for repair scheduled by the Technology System Provider following the incident report.
 
 (c) 48-Hour Repair Deadline. A Taxicab in which any material feature of the Technology System is not functioning must not operate more than 48 hours following the timely filing of an incident report. 
-									
+										
 
  
 
@@ -10475,7 +10475,7 @@ EZ-Pass
  
 
 (d) Inspection upon Multiple Technology System Malfunctions. The Owner of any Taxicab requiring six or more repairs of the Technology System in any 30 day period must promptly take the vehicle for inspection to, or schedule an inspection with, the Commission’s Safety and Emissions Facility. This requirement will not apply to the Owner if compliance is made by the Driver or Agent of the vehicle. 
-									
+										
 
  
 
@@ -19882,7 +19882,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 (d) Dispatch Equipment.
 
    (1) An Agent must not dispatch an Accessible Taxicab unless it is equipped with Dispatch Equipment. 
-									
+										
 
  
 
@@ -19900,7 +19900,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
  
 
    (2) An Agent must replace or repair Dispatch Equipment promptly upon being notified to do so and in no event later than 48 hours after receiving notification. 
-									
+										
 
  
 
@@ -19918,7 +19918,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
  
 
    (3) An Agent must not allow an Accessible Taxicab to operate with inoperable Dispatch Equipment, that is, without the ability to accept dispatches, for more than 48 hours without repair or replacement of the Dispatch Equipment. 
-									
+										
 
  
 
@@ -19944,7 +19944,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
       (iii) Disable the Dispatch Equipment; or
 
       (iv) Render the Dispatch Equipment inoperable in any way. 
-									
+										
 
  
 
@@ -20011,7 +20011,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
  
 
 (b) Good Working Order. For any Taxicab that is required to be equipped with the Technology System, the equipment must be in good working order at all times. 
-									
+										
 
  
 
@@ -20052,7 +20052,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
  
 
 (d) 48-Hour Repair Deadline. An Agent must not allow a Taxicab in which the Technology System (or any material feature of the Technology System) is not functioning to be operated more than 48 hours following the timely filing of an incident report. 
-									
+										
 
  
 
@@ -21389,7 +21389,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 (d) Reporting on Offers of Gift or Gratuity. A Taximeter Licensee must notify the Commission immediately by telephone and in writing within 24 hours after receiving any offer of a gift or gratuity prohibited by 35 RCNY § 64-32(a).
 
 (e) Fraud, Misrepresentation &amp; Larceny. A Taximeter Licensee, while performing his or her duties and responsibilities as a Taximeter Licensee, must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation, or larceny. Examples of fraud, larceny, or misrepresentation include, but are not limited to, calibration of a fare other than that set by the Commission; adjustment of the tire size, driving axle, transducer, wiring, or other equipment for the purpose of generating an inaccurate signal of time or distance into the Taximeter or the Technology System; the manufacture, sale or installation of any device that is either designed to or does generate a false or inaccurate signal into the Taximeter or the Technology System; or falsification of Technology System records. 
-									
+										
 
  
 
@@ -22113,7 +22113,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
       (iv) If the Technology System is not functioning properly, the Technology System Provider must cease its operations with respect to such Technology System.
 
       (v) A Technology System Provider whose License has been revoked must provide de-installation at no charge to each Taxicab or Street Hail Livery Licensee who used the Technology System approved under the revoked License. 
-									
+										
 
  
 
@@ -22486,7 +22486,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 (a) A Technology System Provider Licensee must not use or permit any other person to use its business premises or office of record for any unlawful purpose. 
-									
+										
 
  
 
@@ -22504,7 +22504,7 @@ Technology System Provider License Required. An individual or Business Entity mu
  
 
 (b) A Technology System Provider Licensee must not conceal any evidence of a crime connected with its business premises or office of record. 
-									
+										
 
  
 
@@ -22522,7 +22522,7 @@ Technology System Provider License Required. An individual or Business Entity mu
  
 
 (c) A Technology System Provider Licensee must immediately report to the Commission and the police any attempt to use its business premises to commit a crime. 
-									
+										
 
  
 
@@ -22540,7 +22540,7 @@ Technology System Provider License Required. An individual or Business Entity mu
  
 
 (d) A Technology System Provider Licensee must not file with the Commission any statement that it knows or reasonably should know to be false, misleading, deceptive, or materially incomplete. 
-									
+										
 
  
 
@@ -22633,7 +22633,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 (b) A Technology System Provider must have and provide to the Commission a working Email Address and telephone number at all times.
 
 (c) A Technology System Provider must report any change of Mailing Address, Email Address and telephone number to the Commission in person or by mail within ten days. 
-									
+										
 
  
 
@@ -22721,7 +22721,7 @@ Technology System Provider License Required. An individual or Business Entity mu
    (5) De-installation of a Technology System, not to exceed $100 per hour; and
 
    (6) Moving a Technology System from one vehicle to another. 
-									
+										
 
  
 
@@ -22789,7 +22789,7 @@ All of the following conditions apply with regard to a Technology System Provide
 (b) Prior to the sale, lease, making available for use, or installation of a Technology System, a Technology System Provider must present to the Taxicab or Street Hail Livery Licensee a contract for execution by the Technology System Provider and the Taxicab or Street Hail Livery Licensee that meets the requirements set forth in 35 RCNY § 66-17;
 
 (c) Prior to installation of a Technology System, or prior to making a Technology System operational, the Technology System Provider must offer to the Taxicab or Street Hail Livery Licensee or an Authorized Representative, at no additional charge, at least one training session on the proper use and operation of the Technology System. The content of the training shall be sufficient to enable the Taxicab or Street Hail Livery Licensee and Driver(s) to properly operate the technology system. 
-									
+										
 
  
 
@@ -22901,7 +22901,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
    (2) Providing and installing replacement parts, and Hardware and Software Updates; and
 
    (3) Maintaining a maintenance log for each Technology System installed by the Technology System Provider that states in detail all preventive maintenance, remedial maintenance and other actions performed on such Technology System. The Technology System Provider must provide a copy of the maintenance log when a Taxicab or Street Hail Livery Licensee or the Commission request one. 
-									
+										
 
  
 
@@ -22933,7 +22933,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
    (1) A Technology System Provider must ensure that a System that has been installed in a Taxicab or Street Hail Livery provides Credit, Debit, and Prepaid Card Services in compliance with the requirements of subdivision (a) of 35 RCNY § 66-24.
 
    (2) A Technology System Provider must ensure that, when Passengers pay by credit, debit, or prepaid card, the Merchant or the Merchant’s authorized payee receives deposit of funds within forty-eight (48) business hours, excluding banking holidays, of transmission of a batch close transaction from the System, except when there is a fraud investigation. 
-									
+										
 
  
 
@@ -22955,7 +22955,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
    (1) A Technology System Provider must ensure that a System that has been installed in a Taxicab or Street Hail Livery provides Trip Data collection and transmission in compliance with the requirements of subdivision (f) of 35 RCNY § 66-24.
 
    (2) A Technology System Provider must transmit Trip Data to the Commission using the frequency, method, and naming convention defined by the Commission. 
-									
+										
 
  
 
@@ -23086,7 +23086,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 (f) In the event of a failure or interruption in transmission of Trip Data, the Technology System must be capable of saving and restoring transmission of the data without any degradation of data integrity or loss of data;
 
 (g) All data required to be collected and transmitted pursuant to this section must be transmitted according to a schedule prescribed by the Commission. 
-									
+										
 
  
 
@@ -23167,7 +23167,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 The Technology System Provider must collect, use, and process Personal Information in accordance with the information security and use of personal information policy it has on file with the TLC pursuant to subdivision (g) of 35 RCNY § 66-05. 
-									
+										
 
  
 
@@ -23197,7 +23197,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 (a) The Technology System Provider must make commercially reasonable efforts, as described in this section, to cooperate with the Commission, its designees and any contractor(s) of the Commission, including the Accessible Taxi Dispatcher as defined in section 35 RCNY § 51-03:
 
    (1) in the development and support of any application(s) developed by the Commission or the Commission’s designees, where such applications are developed specifically for the purpose of interoperating with the Technology System (including but not limited to smartphone applications); and 
-									
+										
 
  
 
@@ -23223,7 +23223,7 @@ The Technology System Provider must collect, use, and process Personal Informati
    (3) Notify the Driver of a Dispatch using the Technology System’s driver interface in a manner that identifies such dispatch as coming from the Accessible Taxi Dispatcher; and
 
    (4) Transmit all Trip Data to the Accessible Taxi Dispatcher’s system as it is collected. 
-									
+										
 
  
 
@@ -23241,7 +23241,7 @@ The Technology System Provider must collect, use, and process Personal Informati
  
 
 (c) The Technology System Provider may only charge the Accessible Taxi Dispatcher for the costs of labor, equipment, data, data connections, or any other expense resulting from the data connection to the Accessible Dispatch Program. All expenses charged to the Accessible Taxi Dispatcher must be clearly documented. 
-									
+										
 
  
 
@@ -23300,7 +23300,7 @@ The Technology System Provider must collect, use, and process Personal Informati
    •   the manufacture, sale or installation of any device that is either designed to or does generate a false or inaccurate signal into the Taximeter or the Technology System; or
 
    •   falsification of Trip Data. 
-									
+										
 
  
 
@@ -23343,7 +23343,7 @@ The Technology System Provider must collect, use, and process Personal Informati
    (1) A Technology System Provider Licensee must notify the Commission in writing within two (2) days after any criminal conviction of the Licensee or any of the Licensee’s Business Entity Persons.
 
    (2) Notification must be in writing and must be accompanied by a certified copy of the certificate of disposition of the conviction issued by the clerk of the court. 
-									
+										
 
  
 
@@ -25663,16 +25663,16 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 (a) To establish a formal procedure for the licensing and supervision of businesses that provide Dispatch Services.
-									
+										
 
 (b) To establish requirements for providing Dispatch Services which must be met in order for Dispatch Service Providers to apply for and obtain a license.
-									
+										
 
 (c) To establish services to be provided by Dispatch Service Providers for the benefit of individuals and businesses licensed by TLC and for the public.
-									
+										
 
 (d) To establish appropriate penalties for the violation of these rules.
-									
+										
 
 
 
@@ -26799,7 +26799,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
       (ii) Any entity that does not hold a Valid License from the Commission for an E-Hail Application.
 
    (2) Unlicensed Activity specifically includes the activities listed in 
-									35 RCNY §78-09 and can result in License suspension, revocation, and other penalties.
+										35 RCNY §78-09 and can result in License suspension, revocation, and other penalties.
 
 (b) Specific Penalties. If there are specific penalties for violating a Rule, they will be shown at the end of the Rule. The penalty section will also state whether the violator must attend a Hearing.
 
@@ -26808,7 +26808,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
    (1) Fines are due within 30 days of the day the Respondent is found guilty of the violation, unless:
 
       (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48
-									 RCNY Chapter 5, in which case the payment of the fines will be deferred 30 days after the date of the appeal decision.
+										 RCNY Chapter 5, in which case the payment of the fines will be deferred 30 days after the date of the appeal decision.
 
    (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
 
@@ -27444,7 +27444,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 (b) Fares. An E-Hail Application and an E-Hail Application Provider must NOT charge any Passenger a fare for a trip that exceeds the fare as calculated by the Taximeter, permitted in 35 RCNY § 58-26 and 35 RCNY § 82-26. The E-Hail App and the E-Hail App Provider may however charge additional fees to a Passenger above the fare for the trip in accordance with subdivision (c) below so long as such fees are clearly delineated and not called a fare or tip or gratuity.
 
 NOTE: If an E-Hail App Provider charges a per-trip fee for use of the E-Hail App and if the fee is assessed on a per-trip basis and bundled into the same credit card transaction as the payment of the fare, the Provider is required to have an agreement with either the merchant of record, or if processed through the Technology System, the Technology System Provider, as to how the fee will be remitted to the E-Hail App Provider. The agreement must be outlined in the E-Hail App Provider's application documentation and must ensure that the per-trip fee is remitted in its entirety to the E-Hail App Provider and is not retained by the Driver. 
-									
+										
 
  
 
@@ -27538,7 +27538,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
    (4) An E-Hail Application may permit Passengers to split a fare if this feature is provided by the party processing the fare payment.
 
 (b) Trip Data Collection and Transmission. An E-Hail Application Provider must ensure that an E-Hail Application collects and stores relevant trip information to obtain a complete trip record, and transmits such data to the Technology System or the Commission in compliance with the requirements in 35 RCNY § 78-21(c). 
-									
+										
 
  
 
@@ -27556,7 +27556,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
  
 
 (c) Use Restrictions. An E-Hail Application Provider must ensure that an E-Hail Application restricts usage of the Application in compliance with the use restrictions in 35 RCNY § 78-21(d). 
-									
+										
 
  
 
@@ -27574,7 +27574,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
  
 
 (d) Security. An E-Hail Application Provider must ensure that with respect to an E-Hail Application, the E-Hail Application Provider is in compliance with the security requirements in 35 RCNY § 78-21(f). 
-									
+										
 
  
 
@@ -27592,7 +27592,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
  
 
 (e) Data Retention. An E-Hail Application Provider must ensure that, with respect to an E-Hail Application, all data required to be maintained pursuant to 35 RCNY § 78-21 is maintained for the period required in 35 RCNY § 78-21(g). 
-									
+										
 
  
 
@@ -27610,7 +27610,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
  
 
 (f) Inspection by TLC. An E-Hail Application Provider must ensure that an E-Hail Application can be inspected and accessed by Commission personnel at any time. This requirement includes providing access to the E-Hail Application with requisite Driver and Passenger test IDs and access to the Driver and Passenger versions of the E-Hail App to facilitate testing. 
-									
+										
 
  
 
@@ -27922,7 +27922,7 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 (d) Use Restrictions. An E-Hail Application must conform to the following use restrictions or other specifications:
 
    (1) The E-Hail Application must not transmit requests for transportation or Hails to any Driver who is not validly licensed to drive a Taxicab or Street Hail Livery or who is operating a Vehicle that does not have a Valid Taxicab License, per the listings on TLC's Current Licensees webpage. 
-									
+										
 
  
 
@@ -31123,9 +31123,9 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
    (14) The Vehicle is a For-Hire Vehicle and the Driver has accepted a dispatch call for a Pre- Arranged Trip.
 
    (15) The Vehicle is a Taxicab or Street Hail Livery and the Driver has accepted a trip from the accessible dispatch program pursuant to 35 RCNY 
-									
-									
-									§53-08 or an approved E-Hail App and has entered the appropriate on-duty unavailable code into the Technology System.
+										
+										
+										§53-08 or an approved E-Hail App and has entered the appropriate on-duty unavailable code into the Technology System.
 
 
 
@@ -35121,7 +35121,7 @@ Chapter 82: Street Hail Livery Service
    (1) Industry signage/logos of all credit/debit cards accepted by theTechnology System, all of equal size, shown on the Technology System; and
 
    (2) Advertising on the Technology System or as set forth in the Street Hail Livery Marking Specifications table (35 RCNY § 82-33(l)). 
-									
+										
 
  
 
@@ -35635,7 +35635,7 @@ Chapter 82: Street Hail Livery Service
  
 
    (2) The Taximeter’s fare indicating mechanism must be affixed to the vehicle's dashboard so that it is clearly readable and visible to all passengers in the vehicle. 
-									
+										
 
  
 
@@ -35653,7 +35653,7 @@ Chapter 82: Street Hail Livery Service
  
 
    (3) The Taximeter's serial number or software version number must be the same as that shown on the Rate Card assigned to the Street Hail Livery; or entered on the Rate Card by a Licensed Taximeter shop. 
-									
+										
 
  
 
@@ -35705,7 +35705,7 @@ Chapter 82: Street Hail Livery Service
  
 
    (6) The wiring harness leading from the Taximeter to the speed sensor must have no unapproved intervening connectors, splices, "Y" connections, or direct or indirect interruptions or connections of any kind whatsoever. 
-									
+										
 
  
 
@@ -35894,7 +35894,7 @@ Chapter 82: Street Hail Livery Service
  
 
       (ii) Whenever a Taximeter is installed in a vehicle or when a Taximeter’s metrological system is updated. 
-									
+										
 
  
 
@@ -35973,7 +35973,7 @@ Chapter 82: Street Hail Livery Service
 
 
 (a) Required Installation. A Licensee must ensure that the Street Hail Livery operating under a Street Hail Livery License is equipped with a Technology System approved by the Commission pursuant to 35 RCNY Chapter 66. 
-									
+										
 
  
 
@@ -36003,7 +36003,7 @@ Chapter 82: Street Hail Livery Service
 
 
 (a) Good Working Order. Licensees must ensure that the Technology System equipment is constantly maintained and is in good working order. 
-									
+										
 
  
 
@@ -36029,7 +36029,7 @@ Chapter 82: Street Hail Livery Service
    (3) The Licensee must meet the appointment for repair scheduled by the Technology System Provider following the incident report.
 
 (c) 48-Hour Repair Deadline. A Street Hail Livery in which any material feature of the Technology System is not functioning must not operate more than 48 hours for Hail Trips following the timely filing of an incident report (Pre-Arranged Trips are not subject to this requirement). 
-									
+										
 
  
 
@@ -36047,7 +36047,7 @@ Chapter 82: Street Hail Livery Service
  
 
 (d) Inspection upon Multiple Technology System Malfunctions. The Licensee of any Street Hail Livery requiring six (6) or more repairs of the Technology System in any thirty (30) day period must promptly take the vehicle for inspection to, or schedule an inspection with, the Commission's Safety and Emissions Facility. This requirement will not apply to the Licensee if compliance is made by the Driver of the vehicle. 
-									
+										
 
  
 

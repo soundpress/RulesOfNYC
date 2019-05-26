@@ -9080,10 +9080,10 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
             3. Concrete construction.
 
       (ii) Concrete placement less than 50 cubic yards. Concrete special inspections are required even if the total concrete placement on the given project is less than 50 cubic yards (38 m
-									
-									3
-									
-									).
+										
+										3
+										
+										).
 
       (iii) Permanent elements. Special inspection of items listed in subparagraph (i) above and that will remain as permanent construction with the base building or structure, including but not limited to tower crane foundations and rebar embedded in floors, must be performed by the special inspector for the base building or structure.
 
@@ -10366,7 +10366,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 (j) Transporting personnel. In addition to the provisions of Section 19-3.2.2 of ASME B30.19, the hoisting and transporting of personnel with a cableway must also comply with the requirements of 1 RCNY § 3319-01(q)(6).
 
 (k) Referenced standards. The standards referenced in this section are considered part of the requirements of this section to the prescribed extent of each such reference. Where differences occur between provisions of this section and referenced standards, the provisions of this section will apply. 
-									
+										
 
  
 
@@ -12965,7 +12965,7 @@ Table 7Special Inspection
  
 
 (o) Referenced standards. These standards are adopted in full, except to the extent there is a conflict with this section, in which case the provisions of this section will apply. 
-									
+										
 
  
 

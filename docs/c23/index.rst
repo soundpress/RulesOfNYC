@@ -3241,66 +3241,66 @@ CHA means the Correctional Health Authority designated by the City of New York a
 CHA employee or staff means an employee who works directly for CHA.
 
 Contractor
-									means a person who provides services on a recurring basis pursuant to a contractual agreement with the Department or CHA.
+										means a person who provides services on a recurring basis pursuant to a contractual agreement with the Department or CHA.
 
 DA
-									means a District Attorney’s Office.
+										means a District Attorney’s Office.
 
 Department
-									means the New York City Department of Correction.
+										means the New York City Department of Correction.
 
 Department employee or staff means an employee who works directly for the Department.
 
 Direct staff supervision
-									means that Department security staff are in the same room with, and within reasonable hearing distance of, the inmate.
+										means that Department security staff are in the same room with, and within reasonable hearing distance of, the inmate.
 
 DOI means the New York City Department of Investigation.
 
 Exigent circumstances
-									mean any set of temporary and unforeseen circumstances that require immediate action in order to combat a threat to the security or institutional order of a facility.
+										mean any set of temporary and unforeseen circumstances that require immediate action in order to combat a threat to the security or institutional order of a facility.
 
 Facility
-									means a place, institution, building (or part thereof), set of buildings, structure, or area (whether or not enclosing a building or set of buildings) used by the Department for the confinement of individuals.
+										means a place, institution, building (or part thereof), set of buildings, structure, or area (whether or not enclosing a building or set of buildings) used by the Department for the confinement of individuals.
 
 Gender nonconforming
-									means a person whose appearance or manner does not conform to traditional societal gender expectations.
+										means a person whose appearance or manner does not conform to traditional societal gender expectations.
 
 ID staff means any employee or staff who works directly for the Department in the Department’s Investigation Division.
 
 Inmate
-									means any person incarcerated or detained in a facility.
+										means any person incarcerated or detained in a facility.
 
 Intersex means a person whose sexual or reproductive anatomy or chromosomal pattern does not seem to fit typical definitions of male or female. Intersex medical conditions are sometimes referred to as disorders of sex development.
 
 Medical practitioner
-									means a health professional who, by virtue of education, credentials, and experience, is permitted by law to evaluate and care for patients within the scope of his or her professional practice. A “qualified medical practitioner” means such a professional who has also successfully completed specialized training for treating sexual abuse victims.
+										means a health professional who, by virtue of education, credentials, and experience, is permitted by law to evaluate and care for patients within the scope of his or her professional practice. A “qualified medical practitioner” means such a professional who has also successfully completed specialized training for treating sexual abuse victims.
 
 Mental health practitioner
-									means a mental health professional who, by virtue of education, credentials, and experience, is permitted by law to evaluate and care for patients within the scope of his or her professional practice. A “qualified mental health practitioner” means such a professional who has also successfully completed specialized training for treating sexual abuse victims.
+										means a mental health professional who, by virtue of education, credentials, and experience, is permitted by law to evaluate and care for patients within the scope of his or her professional practice. A “qualified mental health practitioner” means such a professional who has also successfully completed specialized training for treating sexual abuse victims.
 
 Nunez Agreement means the Consent Judgment in Nunez v. City of New York, 11 Civ. 05845 (SDNY).
 
 Pat-down search means a running of the hands over the clothed body of an inmate by an employee to determine whether the individual possesses contraband.
 
 Security staff
-									means Department employees primarily responsible for the supervision and control of inmates, detainees, or residents in housing units, recreational areas, dining areas, and other program areas of the facility.
+										means Department employees primarily responsible for the supervision and control of inmates, detainees, or residents in housing units, recreational areas, dining areas, and other program areas of the facility.
 
 Strip search means a search that requires a person to remove or arrange some or all clothing so as to permit a visual inspection of the person’s breasts, buttocks, or genitalia.
 
 Transgender
-									means a person whose gender identity (i.e., internal sense of feeling male or female) is different from the person’s assigned sex at birth.
+										means a person whose gender identity (i.e., internal sense of feeling male or female) is different from the person’s assigned sex at birth.
 
 Substantiated allegation
-									means an allegation that was investigated and determined to have occurred.
+										means an allegation that was investigated and determined to have occurred.
 
 Unfounded allegation
-									means an allegation that was investigated and determined not to have occurred.
+										means an allegation that was investigated and determined not to have occurred.
 
 Unsubstantiated allegation
-									means an allegation that was investigated and the investigation produced insufficient evidence to make a final determination as to whether or not the event occurred.
+										means an allegation that was investigated and the investigation produced insufficient evidence to make a final determination as to whether or not the event occurred.
 
 Volunteer
-									means an individual who donates time and effort on a recurring basis to enhance the activities or programs of the Department or CHA.
+										means an individual who donates time and effort on a recurring basis to enhance the activities or programs of the Department or CHA.
 
 
 

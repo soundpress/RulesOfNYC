@@ -3470,7 +3470,7 @@ Chapter 6: Building Services and Systems
    (2) Alteration of ammonia refrigerating systems shall be performed in accordance with applicable provisions of the Construction Codes. 
 
    (3) Operators of ammonia refrigerating systems containing 500 or more pounds of ammonia shall develop and maintain a risk management plan in compliance with Administrative Code § 24-718 and Department of Environmental Protection rules, as set forth in 15 RCNY Chapter 41. In accordance with those provisions, the risk management plan shall address whether the written procedure required by 6 RCNY § 606-01
-									(d)(2) for manual removal of lubricating oil mitigates the risk of accidental refrigerant release. 
+										(d)(2) for manual removal of lubricating oil mitigates the risk of accidental refrigerant release. 
 
 (c) Supervision Requirements.
 
@@ -3479,15 +3479,15 @@ Chapter 6: Building Services and Systems
    (2) Lubricating oil removal operations. 
 
       (A) Automatic removal system. An ammonia refrigerating system equipped to remove lubricating oil from system piping and equipment by means of a rigid-piped automatic oil return or transfer system does not require manual removal of lubricating oil. If for any reason lubricating oil is manually removed from such a system, the removal process shall be conducted in accordance with 6 RCNY § 606-01
-									(c)(2)(B) and (d)(2). 
+										(c)(2)(B) and (d)(2). 
 
       (B) Manual removal from system. The manual removal of lubricating oil from an ammonia refrigerating system that allows such oil to collect in system piping and equipment outside of the compressor shall be conducted in accordance with the following procedures: 
 
          (1) If the ammonia refrigerating system is equipped with dual shut-off valves in series, the second valve in the direction of flow from the system is a self-closing valve that closes upon release of manual pressure or other approved automatic shut-off device, and the oil is removed from the system through such valves, the oil removal process shall be personally conducted by at least one certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01
-									(d)(2). Absent an imminent threat to life or safety, such certificate of qualification holder shall not leave the removal process unattended while it is ongoing. 
+										(d)(2). Absent an imminent threat to life or safety, such certificate of qualification holder shall not leave the removal process unattended while it is ongoing. 
 
          (2) If the ammonia refrigerating system is not equipped with such dual shut-off valves, the oil removal process shall be personally conducted by a certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01
-									(d)(2). A second certificate of qualification holder trained in such procedure shall monitor the oil removal process from a location in direct line of sight of the removal process, with ready access to a means of egress to the outdoors. Absent an imminent threat to life or safety, neither certificate of qualification holder may leave the oil removal process unattended while it is ongoing. 
+										(d)(2). A second certificate of qualification holder trained in such procedure shall monitor the oil removal process from a location in direct line of sight of the removal process, with ready access to a means of egress to the outdoors. Absent an imminent threat to life or safety, neither certificate of qualification holder may leave the oil removal process unattended while it is ongoing. 
 
 (d) Operational Requirements.
 
@@ -3500,10 +3500,10 @@ Chapter 6: Building Services and Systems
       (B) Each certificate of qualification holder participating in the oil removal process shall be provided with and use all safety and personal protective equipment required to safely conduct such process, including equipment required by United States Occupational Safety and Health Administration regulations; and 
 
       (C) If a single certificate of qualification holder is required by 6 RCNY § 606-01
-									(c)(2), a telephone not requiring a coin to operate shall be immediately available to ensure immediate notification to the Department in the event of an emergency; or 
+										(c)(2), a telephone not requiring a coin to operate shall be immediately available to ensure immediate notification to the Department in the event of an emergency; or 
 
       (D) If two (2) certificate of qualification holders are required by 6 RCNY § 606-01
-									(c)(2): 
+										(c)(2): 
 
          (1) each certificate of qualification holder shall be equipped with a portable two-way radio or other approved means of communication between the two, and a telephone not requiring a coin to operate shall be immediately available to the certificate of qualification holder monitoring the oil removal process to ensure immediate notification to the Department in the event of an emergency. In the event of an emergency, the certificate of qualification holder monitoring the oil removal process shall make the required notification to the Department prior to rendering assistance; 
 
@@ -3514,7 +3514,7 @@ Chapter 6: Building Services and Systems
 (e) Recordkeeping Requirements. 
 
    (1) A certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the periodic servicing of such refrigerating system and all removals of lubricating oil from such refrigerating system, by making appropriate entries in the refrigerating system operator logbook required by FC606.1.3. Such entries shall include the names and company affiliations of the persons who serviced the system; the names and certificate of qualification numbers of the certificate of qualification holders who conducted and/or monitored the oil removal process; and any notifications to the Department pursuant to 6 RCNY § 606-01
-									(d)(2)(D)(3). 
+										(d)(2)(D)(3). 
 
    (2) The certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the training of all persons involved in the manual removal of lubricating oil from such system. 
 
@@ -5676,8 +5676,8 @@ Chapter 30: Compressed Gases
       (B) Carbon dioxide warning sign. A warning sign shall be conspicuously posted at the entrance to the room or area containing the storage containers indicating the presence of carbon dioxide and the danger of asphyxiation. In lieu of the language set forth in Section 13.6.3.1 of NFPA Standard 55, the warning sign shall read as set forth below. Alternative warning signs containing substantially similar information may be posted if approved by the Department:
 
 "WARNING – CARBON DIOXIDE GAS INSTALLATION – ASPHYXIATION DANGERA high carbon dioxide (CO
-										2
-										) gas concentration in this area can cause suffocation.DO NOT ENTER ROOM/EVACUATE THE AREA:∙ if the CO2 alarm indicates an immediate threat to life or safety. or∙ if there is reason to believe there is a CO2 leak and there is no functioning CO2 alarm.CALL NEW YORK CITY 911 IMMEDIATELY."
+											2
+											) gas concentration in this area can cause suffocation.DO NOT ENTER ROOM/EVACUATE THE AREA:∙ if the CO2 alarm indicates an immediate threat to life or safety. or∙ if there is reason to believe there is a CO2 leak and there is no functioning CO2 alarm.CALL NEW YORK CITY 911 IMMEDIATELY."
 
    (2) Periodic quick check of system. A quick check of the carbon dioxide beverage dispensing system shall be conducted by the certificate of fitness holder each time the carbon dioxide container is filled, if feasible, but in any event not less than once every three months. The quick check shall consist of a visual inspection of:
 
@@ -7663,7 +7663,7 @@ OATH. New York City Office of Administrative Trials and Hearings.
 (a) Scope. This section sets forth the charges for Fire Department ambulance transport service.
 
 (b) Effective March 12, 2017, the charges for Fire Department ambulance transport service are as follows: 
-									
+										
 
  
 

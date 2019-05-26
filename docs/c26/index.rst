@@ -709,8 +709,8 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 (a) [Inapplicable, City Planning Rules 43 RCNY § 5-02(a). Superseded by City Planning Rules 43 RCNY § 5-05(a). See also City Planning Rules 43 RCNY § 5-02(b)(2) and 43 RCNY § 5-02(d).]Each agency shall ascertain whether an application need be filed pursuant to this section, employing lists of actions, classified as either exempt, Type I or Type II pursuant to 43 RCNY §§ 6-04
-									 and 6-15
-									, respectively, which lists shall be certified by the lead agencies.
+										 and 6-15
+										, respectively, which lists shall be certified by the lead agencies.
 
 (b) [Introductory paragraph inapplicable, City Planning Rules 43 RCNY § 5-02(a). Paragraph (b) superseded by City Planning Rules § 5-08.] The applicant initiating the proposed action, other than an exempt or Type II action pursuant to 43 RCNY § 6-04, shall file an application with the lead agencies, which application shall include a Project Data Statement and such other documents and additional information as the lead agencies may require to conduct an environmental analysis to determine whether the action may or will not have a significant effect on the environment. Where possible existing City applications shall be modified to incorporate this procedure and a one-stop review process developed;
 
@@ -4784,49 +4784,49 @@ b. Disbursement of grants.
 VCP: The City Voluntary Cleanup Program administered by the Office of Environmental Remediation.BOA: The brownfield opportunity area. This is a program for area-wide brownfield and community planning managed by the New York State Department of State.N/A: not applicable.
 
 
-										1   Properties for which a grant is pursued can fall into only one type. The property type may change as conditions change.
+											1   Properties for which a grant is pursued can fall into only one type. The property type may change as conditions change.
 
 
-										2   Includes e-designation hazardous material sites and restrictive declaration hazardous material sites that are enrolled in the VCP.
+											2   Includes e-designation hazardous material sites and restrictive declaration hazardous material sites that are enrolled in the VCP.
 
 
-										3   This property type includes e-designation hazardous material sites and restrictive declaration hazardous materials sites that are also preferred community development projects and enrolled in the VCP.
+											3   This property type includes e-designation hazardous material sites and restrictive declaration hazardous materials sites that are also preferred community development projects and enrolled in the VCP.
 
 
-										4   A BOA grant recipient with an executed state assistance contract by definition also has an approved work program. A BOA grant recipient is eligible for local match grants both for step 1 and step 2 of the BOA program. A place-based community planning area with an agreement with the Office is eligible for a $25,000 BOA local match grant.
+											4   A BOA grant recipient with an executed state assistance contract by definition also has an approved work program. A BOA grant recipient is eligible for local match grants both for step 1 and step 2 of the BOA program. A place-based community planning area with an agreement with the Office is eligible for a $25,000 BOA local match grant.
 
 
-										5   Limit includes all proceeds from pre-development grant.
+											5   Limit includes all proceeds from pre-development grant.
 
 
-										6   Limit includes all proceeds from the pre-development grant and the environmental investigation grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary program by April 2013 receive larger BIG grant awards.
+											6   Limit includes all proceeds from the pre-development grant and the environmental investigation grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary program by April 2013 receive larger BIG grant awards.
 
 
-										7   A not for profit developer of a preferred community development project, or a developer of a residential building where 100% of the units are affordable, is eligible for a $50,000 cleanup grant, which includes all proceeds of the predevelopment and environmental investigation grants.
+											7   A not for profit developer of a preferred community development project, or a developer of a residential building where 100% of the units are affordable, is eligible for a $50,000 cleanup grant, which includes all proceeds of the predevelopment and environmental investigation grants.
 
 
-										8   A not for profit developer of a preferred community development project which is a BOA strategic site is eligible for a $50,000 cleanup grant, which includes all proceeds from the pre-development and environmental investigation grants.
+											8   A not for profit developer of a preferred community development project which is a BOA strategic site is eligible for a $50,000 cleanup grant, which includes all proceeds from the pre-development and environmental investigation grants.
 
 
-										9   For e-designation hazardous material sites and restrictive declaration hazardous material sites that are remediated pursuant to an Office-approved remedial work plan. The grant amount reflects the reduced funding of the BIG program. Projects that received a notice of satisfaction by April 2013 receive a larger BIG grant award.
+											9   For e-designation hazardous material sites and restrictive declaration hazardous material sites that are remediated pursuant to an Office-approved remedial work plan. The grant amount reflects the reduced funding of the BIG program. Projects that received a notice of satisfaction by April 2013 receive a larger BIG grant award.
 
 
-										10   Limit includes all proceeds from the pre-development grant, environmental investigation grant and cleanup grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary cleanup program by April 2013 receive larger BIG grant awards.
+											10   Limit includes all proceeds from the pre-development grant, environmental investigation grant and cleanup grant. The grant amount reflects reduced funding of the BIG program. Projects that were enrolled in the city voluntary cleanup program by April 2013 receive larger BIG grant awards.
 
 
-										11   Limit includes all proceeds from the City pre-enrollment grant. If a City-supported affordable housing or industrial project is enrolled in the City voluntary cleanup program, the project would be eligible for a $50,000 cleanup grant.
+											11   Limit includes all proceeds from the City pre-enrollment grant. If a City-supported affordable housing or industrial project is enrolled in the City voluntary cleanup program, the project would be eligible for a $50,000 cleanup grant.
 
 
-										12   Technical assistance grants for preferred community development projects are limited to not-for-profit developers.
+											12   Technical assistance grants for preferred community development projects are limited to not-for-profit developers.
 
 
-										13   The grant pays for technical assistance with development of a BOA program application or, for a place-based community planning area, services and consultation in planning for the re-use of a development site.
+											13   The grant pays for technical assistance with development of a BOA program application or, for a place-based community planning area, services and consultation in planning for the re-use of a development site.
 
 
-										14   The maximum grant for a not-for-profit developer of a preferred community development project is $82,000.
+											14   The maximum grant for a not-for-profit developer of a preferred community development project is $82,000.
 
 
-										15   The maximum grant for a not-for-profit developer of a BOA strategic site or a strategic site of a place-based brownfield community planning organization recognized by the Office is $92,000.
+											15   The maximum grant for a not-for-profit developer of a BOA strategic site or a strategic site of a place-based brownfield community planning organization recognized by the Office is $92,000.
 
 
 
@@ -4839,31 +4839,31 @@ VCP: The City Voluntary Cleanup Program administered by the Office of Environmen
 
 
 
-										a   All listed prices are inclusive of all subcontractor, professional oversight, materials and equipment costs.
+											a   All listed prices are inclusive of all subcontractor, professional oversight, materials and equipment costs.
 
 
-										b   The Grant Allowance amounts presented in Schedule B represent the maximum amounts up to which specified activities may be funded. An eligible service and activity will not necessarily be funded up to that maximum amount.
+											b   The Grant Allowance amounts presented in Schedule B represent the maximum amounts up to which specified activities may be funded. An eligible service and activity will not necessarily be funded up to that maximum amount.
 
 
-										c   Pursuant to 43 RCNY § 43-1423(b)(4), predevelopment and environmental investigation grants, other than for preferred community development projects where the developer is a not-for-profit corporation, are reimbursed subject to the grant payment percentage limit of 75% for eligible costs for approved services and activities.
+											c   Pursuant to 43 RCNY § 43-1423(b)(4), predevelopment and environmental investigation grants, other than for preferred community development projects where the developer is a not-for-profit corporation, are reimbursed subject to the grant payment percentage limit of 75% for eligible costs for approved services and activities.
 
 
-										d   This column applies to preferred community development projects where the developer or community based organization is a not-for-profit corporation. Pursuant to 43 RCNY § 43-1423(b)(4), such projects are not subject to the grant payment percentage limit.
+											d   This column applies to preferred community development projects where the developer or community based organization is a not-for-profit corporation. Pursuant to 43 RCNY § 43-1423(b)(4), such projects are not subject to the grant payment percentage limit.
 
 
-										e   Reimbursement up to $85,000 subject to the project award cap. This payment is intended to cover all remedial action activities. This activity can only be selected for projects that have enrolled in the City’s Voluntary Cleanup Program.
+											e   Reimbursement up to $85,000 subject to the project award cap. This payment is intended to cover all remedial action activities. This activity can only be selected for projects that have enrolled in the City’s Voluntary Cleanup Program.
 
 
-										f   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial investigation activities and all document preparation activities including: a remedial investigation work plan, a Phase I environmental site assessment, a remedial investigation report, sampling, field oversight, mobilization, monitoring, chemical analysis and a remedial action work plan. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial investigation or remedial work plan preparation may be claimed.
+											f   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial investigation activities and all document preparation activities including: a remedial investigation work plan, a Phase I environmental site assessment, a remedial investigation report, sampling, field oversight, mobilization, monitoring, chemical analysis and a remedial action work plan. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial investigation or remedial work plan preparation may be claimed.
 
 
-										g   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial action oversight activities and all document preparation activities including: field oversight by staff, daily reports, CAMP monitoring and equipment, HASP monitoring, sample collection, and preparation of a remedial action report. It does not cover construction of remedial systems including engineering controls. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial action oversight or remedial action report preparation may be claimed.
+											g   Reimbursement up to $30,000 subject to the project award cap. This payment is intended to cover all remedial action oversight activities and all document preparation activities including: field oversight by staff, daily reports, CAMP monitoring and equipment, HASP monitoring, sample collection, and preparation of a remedial action report. It does not cover construction of remedial systems including engineering controls. This activity can only be selected for projects that have enrolled in the City voluntary cleanup program and no other costs for remedial action oversight or remedial action report preparation may be claimed.
 
 
-										h   Reimbursement for field oversight consists of oversight of active remedial work by a qualified environmental professional, CAMP monitoring equipment, HASP monitoring, and the collection of samples. The deliverable is a daily report that identifies the qualified environmental professional.
+											h   Reimbursement for field oversight consists of oversight of active remedial work by a qualified environmental professional, CAMP monitoring equipment, HASP monitoring, and the collection of samples. The deliverable is a daily report that identifies the qualified environmental professional.
 
 
-										i   Eligible activities consist of the purchase of Pollution Legal Liability, Contractors Pollution Liability and Cleanup Cost Cap Insurance. The total amount of reimbursable expenses may not surpass the grant limits established in Schedule A. Purchase of environmental insurance for a project that subsequently enrolls in the City voluntary
+											i   Eligible activities consist of the purchase of Pollution Legal Liability, Contractors Pollution Liability and Cleanup Cost Cap Insurance. The total amount of reimbursable expenses may not surpass the grant limits established in Schedule A. Purchase of environmental insurance for a project that subsequently enrolls in the City voluntary
 
 
 

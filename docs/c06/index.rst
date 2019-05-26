@@ -1621,7 +1621,7 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
    (7) A copy of any asbestos survey performed in the affected building in accordance with these rules.
 
 (g) The contractor must post signs during all abatement activities. Signs must be posted at all approaches to the work place including internal doorways which provide access to the work place. These signs must include the following information: 
-										
+											
 
  
 
@@ -1637,7 +1637,7 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
  
 
 (h) Warning labels must be affixed to all waste containers containing asbestos material and must include the following information: 
-										
+											
 
  
 
@@ -2802,8 +2802,8 @@ In order for a registration or work permit to be issued an application must be f
 (43) Non-openable window. "Non-openable window" refers to lot line windows which are not legally required for light and ventilation by the Building Code, Multiple Dwelling Code or other regulatory rule, code or statute.
 
 (44) NOx. "NOx" means the pollutant oxides of nitrogen which is the term used to describe the sum of nitric oxide (NO), nitrogen dioxide (NO
-									2
-									) and other oxides of nitrogen.
+										2
+										) and other oxides of nitrogen.
 
 (45) On-off combustion control. "On-off combustion control" is a control capable of starting up or shutting down the burner in response to variations in demand.
 
@@ -2816,8 +2816,8 @@ In order for a registration or work permit to be issued an application must be f
 (49) Particulate. Particulate means any air or gas-borne material, except water, that exists as a liquid or solid. The determination of the quantity of particulates present in a stack shall be determined in accordance with U.S. EPA Method 5.
 
 (50) Percent oxygen (%O2). "Percent oxygen (%O
-									2
-									)" is the percentage of the dry flue gases that the oxygen occupies.
+										2
+										)" is the percentage of the dry flue gases that the oxygen occupies.
 
 (51) Post-purge. "Post-purge" refers to the function of operating the burner fan after flame-out.
 
@@ -2844,28 +2844,28 @@ In order for a registration or work permit to be issued an application must be f
 (63) Transition section. "Transition section" means a section of duct, breeching or stack used to connect these elements with structures of different cross-sectional dimensions. The required length for such transition section must conform with:
 
    L = 4(D
-									
-									1
-									
-									-D
-									
-									2
-									
-									)
+										
+										1
+										
+										-D
+										
+										2
+										
+										)
 
    Where,
 
       D
-									
-									1
-									
-									 = the diameter (or equivalent diameter) of the larger cross-sectional structures.
+										
+										1
+										
+										 = the diameter (or equivalent diameter) of the larger cross-sectional structures.
 
       D
-									
-									2
-									
-									 = the diameter (or equivalent diameter) of the smaller cross-sectional structures.
+										
+										2
+										
+										 = the diameter (or equivalent diameter) of the smaller cross-sectional structures.
 
 (64) Venting Calculations: "Venting calculations" means calculations that determine the acceptance of the combustion air supply and boiler flue gas venting. These calculations include:
 
@@ -3132,8 +3132,8 @@ Equipment Acceptance Requirements
    (1) Continuous, uninterrupted operation of the boiler at 80 to 110 percent of the burner's maximum operational oil/gas delivery rate as specified in the application, provided that this is less than the burner's maximum design oil/gas delivery rate, for a minimum period of twenty minutes is insured. Under no circumstances must the boiler pressure relief valve(s) be tampered with to accomplish this.
 
    (2) Two 3/8 inch diameter holes are provided in the breeching, approximately 4 inches apart and placed so that the one closest to the boiler is approximately one breeching diameter downstream from the boiler outlet. Since these holes must be used for the measurement of boiler outlet gas temperature, percentage of O
-									2
-									 and smoke reading, it is important that they be placed in the system such that air infiltration from a barometric damper, smoke alarm port, etc., does not affect the composition of the combustion gases.
+										2
+										 and smoke reading, it is important that they be placed in the system such that air infiltration from a barometric damper, smoke alarm port, etc., does not affect the composition of the combustion gases.
 
    (3) Two 3/8 inch diameter holes are provided in the breeching placed one on each side of any power operated draft regulator damper, approximately one breeching diameter from the centerline of the damper. Note that the location of one or both of these holes may, of necessity, be in the boiler outlet.
 
@@ -3158,8 +3158,8 @@ Equipment Acceptance Requirements
       (i) The boiler outlet gas temperature must be determined. In addition, the ambient air boiler room temperature in the vicinity of the burner must be determined.
 
       (ii) The percent oxygen (O
-									2
-									) in the flue gas must be determined.
+										2
+										) in the flue gas must be determined.
 
       (iii) The pressure differential across the damper of a power operated draft regulator must be determined. This is not applicable to condensing boilers.
 
@@ -3172,12 +3172,12 @@ Equipment Acceptance Requirements
             where,
 
                ΔP (inches H
-									2
-									O) is the pressure differential measured across the power operated draft regulator damper.
+										2
+										O) is the pressure differential measured across the power operated draft regulator damper.
 
                ΔDr/H (inches H
-									2
-									O/ft) is the differential draft per foot obtained from Table I using the outside ambient temperature measured when the performance test was conducted.
+										2
+										O/ft) is the differential draft per foot obtained from Table I using the outside ambient temperature measured when the performance test was conducted.
 
                H (feet) is the height of the stack.
 
@@ -3196,14 +3196,14 @@ The static pressure is measured at the boiler outlet. The barometric damper or m
    (7) Dual-fuel burners will be tested separately for oil and gas on high fire and on low-fire if the maximum heat input rating is greater than 4.2 million Btu per hour.
 
    (8) For multiple boiler installations, all boilers must be started up and operated simultaneously at 80 to 110 percent of their respective maximum operational oil/gas delivery rates as specified in the application, provided that this is less than the burner's maximum design oil/gas delivery rate, and the boiler outlet gas temperature, boiler room ambient air temperature, percentage of O
-									2
-									, smoke reading, and pressure differential must be determined for each boiler. The burner firing rates for all boilers must then be changed to their respective low-fire firing rates, and the boiler outlet gas temperature, boiler room ambient air temperature, percentage of O
-									2
-									 in the flue gas, and smoke reading, must be determined for each boiler at this firing rate.
+										2
+										, smoke reading, and pressure differential must be determined for each boiler. The burner firing rates for all boilers must then be changed to their respective low-fire firing rates, and the boiler outlet gas temperature, boiler room ambient air temperature, percentage of O
+										2
+										 in the flue gas, and smoke reading, must be determined for each boiler at this firing rate.
 
 (e) Evaluation. The boiler outlet gas temperature, boiler room air temperature, percentage of O
-									2
-									 in the flue gas, draft measurement, and smoke reading data must be used to determine whether the installation meets the minimum performance requirements for combustion efficiency, adequate reserve draft and smoke reading.
+										2
+										 in the flue gas, draft measurement, and smoke reading data must be used to determine whether the installation meets the minimum performance requirements for combustion efficiency, adequate reserve draft and smoke reading.
 
 
 

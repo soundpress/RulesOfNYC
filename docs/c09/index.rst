@@ -11824,7 +11824,7 @@ The law presumes that all deeds and transfers of controlling economic interests 
 (c) The Register shall accept a return offered for filing provided the paper return is signed under oath by the grantor or his agent or by the grantee or his agent, unless it appears that the return is insufficient on its face, as where the return shows that the amount of the consideration paid or required to be paid without deductions is less than the amount of mortgages or other liens or encumbrances. If either the grantor or grantee has failed to sign the paper return, it shall be accepted as a return, but the party who has failed to sign the paper return or to file and sign a separate paper return shall be subject to the penalties applicable to a person who has failed to file a return and the period of limitations for assessment of tax or of additional tax shall not apply to such party. The Register is also authorized to reject a return that states that there was no consideration for the deed unless there is attached to such return a statement setting forth the grounds upon which it is claimed that there was no consideration. The acceptance by the Register of a return for filing shall in no way indicate the propriety or correctness of the return. The issuance of a confirmation by the Commissioner of Finance upon receipt of an electronic return shall in no way indicate the propriety or correctness of the electronic return and is not evidence of a completed return nor evidence that the paper return has been completed, filed or received by the Department of Finance. If a return or affidavit required by the law is not filed or if a return or affidavit when filed is incorrect or insufficient on its face the Commissioner of Finance shall take the necessary steps to enforce the filing of such a return or affidavit or of a corrected return or affidavit. The Commissioner of Finance may require amended returns to be filed within twenty days after notice and to contain the information specified in the notice.
 
 The electronic return is required to be filed electronically, and the paper return is required to be filed at the office of the Register in the county where the deed is or would be recorded, except that with respect to a transfer relating to a property in Staten Island, (i) the paper return must be filed in the office of the Richmond County Clerk, or (ii) where a return is not filed at the time of the recording of a deed, or the deed is not recorded, the paper return may instead be filed in any office of the City Register. In the case of transfers of controlling economic interests in real property or transfers of shares or interests in a corporation or other entity formed for the purpose of cooperative ownership of real property, returns or affidavits, whichever are applicable, must be filed electronically, and the paper return must be filed at the office of the City Register in the county in which the affected property is located, except that for such a transfer relating to property in Staten Island, the paper return must be filed in any office of the City Register. The locations of the Register's offices are as follows: 
-									
+										
 
  
 
@@ -15845,20 +15845,20 @@ Example 6: Corporation A is a member of three joint ventures: AB, AC and AD. Cor
 The maximum additional exemption allowable to venture AB for Corporation A is its pro rata share of Corporation A's net income allocable to New York City or $50,000
 
 
-										
-										[$400,000 ×   $100,000 = $50,000].    $800,000
+											
+											[$400,000 ×   $100,000 = $50,000].    $800,000
 
 The maximum additional exemption allowable to venture AC for its distribution to Corporation A is $150,000
 
 
-										
-										[$400,000 ×   $300,000 = $150,000].    $800,000
+											
+											[$400,000 ×   $300,000 = $150,000].    $800,000
 
 The maximum additional exemption allowable to venture AD for its distribution to Corporation A is $200,000
 
 
-										
-										[$400,000 ×   $400,000 = $200,000].    $800,000
+											
+											[$400,000 ×   $400,000 = $200,000].    $800,000
 
       (iv) The additional exemption allowed an unincorporated business with respect to a corporate partner is limited to the corporate partner's net income allocable to the City even though the corporate partner does not pay a New York City general corporation tax measured by allocated net income because one of the alternative measures of the general corporation tax produces a higher tax.
 
@@ -21946,13 +21946,17 @@ Unless the context requires otherwise, as used in this chapter:
 
 (j) "Fiscal year 2014/15" means the fiscal year that begins on July 1, 2014 and ends on June 30, 2015.
 
-(k) "Owner" means the owner, in whole or in part, of a dwelling unit in real property held in the condominium form of ownership, or a tenant-stockholder of a cooperative apartment corporation who owns, in whole or in part, a dwelling unit, as represented by his or her shares of stock in such cooperative apartment corporation. For purposes of these rules, with respect to any dwelling unit, or the shares representing a dwelling unit, held in trust solely for the benefit of a person or persons who would otherwise be eligible for an abatement pursuant to these rules were such person or persons the owner or owners of such dwelling unit, such person or persons are each deemed to be an "owner" of the dwelling unit. With respect to any dwelling unit, or the shares representing a dwelling unit, held in trust, the trustee or trustees of the trust are each deemed to be an "owner" of the dwelling unit. The holder or holders of a life estate in a dwelling unit are deemed to be "owner(s)" of the dwelling unit. An "owner" can only be an individual, and cannot be a corporation, partnership or any other entity.
+(j-1) “Law enforcement officer” means anyone who is, or was, employed as a Federal, State or local judge, prosecutor, State or Local police or peace officer or Federal law enforcement officer as defined by the United States Code.
+
+(k) "Owner" means the owner, in whole or in part, of a dwelling unit in real property held in the condominium form of ownership, or a tenant-stockholder of a cooperative apartment corporation who owns, in whole or in part, a dwelling unit, as represented by his or her shares of stock in such cooperative apartment corporation. For purposes of these rules, with respect to any dwelling unit, or the shares representing a dwelling unit, held in trust solely for the benefit of a person or persons who would otherwise be eligible for an abatement pursuant to these rules were such person or persons the owner or owners of such dwelling unit, such person or persons are each deemed to be an "owner" of the dwelling unit. With respect to any dwelling unit, or the shares representing a dwelling unit, held in trust, the trustee or trustees of the trust are each deemed to be an "owner" of the dwelling unit. The holder or holders of a life estate in a dwelling unit are deemed to be "owner(s)" of the dwelling unit. An "owner" can only be an individual, and cannot be a corporation, partnership or any other entity, unless a waiver is granted pursuant to Subdivision (d) of 19 RCNY § 50-05 for a limited liability company or limited partnership.
 
 (l) "Primary residence" means the dwelling unit in which the owner of the dwelling unit actually resides and maintains a permanent and continuous physical presence.
 
 (m) "Sponsors" means persons or business entities who make or take part in a public offering or sale of securities consisting primarily of shares or investments in real estate, including condominium units and other cooperative interests in realty. Sponsors will be deemed to include successors who succeed to the rights and assume the obligations of sponsors.
 
 (n) "Taxable status date" for a fiscal year means the January 5 that immediately precedes the commencement of such fiscal year. The taxable status date is the date as of which the condition and ownership of real property is considered for the purposes of determining the eligibility of a dwelling unit for the abatement for such fiscal year.
+
+
 
 
 
@@ -22130,7 +22134,27 @@ Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013
 
 (c) Supplemental application from owner. The Commissioner may require an owner to submit a supplemental application with additional information necessary to determine whether the applicant is eligible for an abatement, including but not limited to proof of primary residence in a form and format and by a deadline determined by the Commissioner.
 
-(d) Owner designated as applicant. For purposes of paragraph (a) of subdivision 1 of section 467-a of the Real Property Tax Law, an owner is designated as an applicant.
+(d) Waiver of requirement that dwelling unit be owned by an individual.
+
+   (1) A limited liability company or limited partnership may submit an application for a waiver of the requirement that an owner of a dwelling unit must be an individual to be eligible for the abatement. The application will be in a form and format and by a deadline determined by the Commissioner. An applicant will be eligible for a waiver if the application demonstrates that:
+
+      A. One or more of the partners or members is a law enforcement officer and there is an imminent or ongoing security concerns threat which necessitates ownership by a limited liability company or a limited partnership because disclosure of an individual’s residence could reasonably put the individual in danger; and
+
+      B. the dwelling unit is not used for commercial purposes; and
+
+      C. the dwelling unit serves as the primary residence of one or more of the partners or members; and
+
+      D. the partners or members that reside in the dwelling unit personally pay all of the cooperative maintenance fees, property taxes and other costs associated with the property’s ownership.
+
+   (2) An application must be filed on or before December 1 of the current tax year in order to be eligible for the abatement in the succeeding tax year. In order to be eligible to receive the abatement in a given tax year a waiver must be granted and in effect as of the taxable status date applicable to the tax year. The approved waiver must be submitted by the applicant to their condominium or cooperative board so that it can be submitted with the abatement application.
+
+   (3) An approved waiver is in effect for a term of one year. The applicant must submit an annual waiver renewal application to the Commissioner for approval. The applicant will be eligible for a renewal of the waiver if the applicant demonstrates either that the security threat that existed at the time of the initial application is still in existence or that there is a different security threat which necessitates ownership by a limited liability company or limited partnership.
+
+   (4) The Commissioner may request additional information if the Commissioner deems such information relevant to an application or renewal application. Such additional information will be provided within sixty days of the request. The Commissioner may deny an application for a waiver. The Commissioner will inform the applicant of the reasons for the denial in a written notice and advise the applicant that it has the right to appeal the denial. The appeal must be submitted to the Commissioner or his or her designee within 15 business days of the mailing of the notice.
+
+(e) Owner designated as applicant. For purposes of paragraph (a) of subdivision 1 of section 467-a of the Real Property Tax Law, an owner is designated as an applicant.
+
+
 
 
 
@@ -22154,9 +22178,11 @@ Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013
 
    (3) If the Commissioner determines that a dwelling unit will not be presumed to serve as the primary residence of one or more of the owners of the dwelling unit because the dwelling unit does not meet either of the criteria contained in paragraph (1) of this subdivision, the owner may file a supplemental application as described in subdivision (c) of 19 RCNY § 50-05 to prove eligibility for the primary residence abatement.
 
-(c) Ownership of dwelling unit by entity other than an individual. Notwithstanding any other provision of these rules, for purposes of this chapter and § 467-a of the Real Property Tax Law, a dwelling unit can be the primary residence only of individuals, and cannot be the primary residence of a corporation, partnership or any other entity.
+(c) Ownership of dwelling unit by entity other than an individual. Notwithstanding any other provision of these rules, for purposes of this chapter and § 467-a of the Real Property Tax Law, a dwelling unit can be the primary residence only of individuals, and cannot be the primary residence of a corporation, partnership or any other entity unless a waiver is granted pursuant to Subdivision (d) of 19 RCNY § 50-05.
 
 (d) Space used for parking or storage. A cooperative apartment corporation or condominium unit used solely for parking vehicles or for storage cannot be the primary residence of an owner.
+
+
 
 
 

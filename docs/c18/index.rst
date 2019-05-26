@@ -5004,8 +5004,8 @@ With the exception of the city of New York and/or its agents, no person or entit
       (ii) Annual rate. The first year's annual rate shall be the greater of $750 or (C × L × 0.16 × A), as defined in 34 RCNY § 7-10(a), where A is the area of the enclosed area, and subsequent years' rates shall be determined in accordance with 34 RCNY § 7-10(c).
 
    (27) Stoop, step, ramp, vestibule or other entrance detail extending beyond limits set in Articles 8 and 9 of Subchapter 4 of Chapter 1 of Title 27 of the Administrative Code, other than a ramp described in 34 RCNY § 7-04
-									(a)(23) or a stoop or other improvement described in 34 RCNY § 7-04
-									(a)(29).
+										(a)(23) or a stoop or other improvement described in 34 RCNY § 7-04
+										(a)(29).
 
       (i) Standard. Such structures shall be constructed pursuant to the requirements of the New York City Department of Buildings and shall have a maximum width of eight feet and shall extend as far as such structures on adjacent buildings.
 
@@ -5036,7 +5036,7 @@ With the exception of the city of New York and/or its agents, no person or entit
       (ii) Annual rate. See 34 RCNY § 7-10.
 
    (32) Any improvement listed in 34 RCNY § 7-04
-									 for which a consent is proposed to be granted where the grantee has filed an application concerning the subject property pursuant to § 4-105 of the Administrative Code, or any improvement listed in 34 RCNY § 7-04 where the construction of such improvement was funded 50 percent or more by a City agency.
+										 for which a consent is proposed to be granted where the grantee has filed an application concerning the subject property pursuant to § 4-105 of the Administrative Code, or any improvement listed in 34 RCNY § 7-04 where the construction of such improvement was funded 50 percent or more by a City agency.
 
       (i) Standard. Refer to standards listed above for individual structures.
 

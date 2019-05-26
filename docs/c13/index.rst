@@ -1494,11 +1494,11 @@ When used in this Chapter, the following terms mean:
 "Immediate" or "immediately" means within 24 hours when used in regards to (i) actions required to be taken under this Chapter, or (ii) incidents or results required to be reported under this Chapter, or (iii) records required to be made available to the Department under this Chapter.
 
 "
-									Legionella
-									" means the genus of bacteria which is ubiquitous in aqueous environments, including the recirculated water of cooling tower systems that are not properly or regularly maintained. There are more than 50 different species of Legionella, all of which are potentially pathogenic.
+										Legionella
+										" means the genus of bacteria which is ubiquitous in aqueous environments, including the recirculated water of cooling tower systems that are not properly or regularly maintained. There are more than 50 different species of Legionella, all of which are potentially pathogenic.
 
 "
-									Legionella sample" means water or other sample to be examined for the presence of viable Legionella bacteria using semiselective culture media and procedures specific to the cultivation and detection of Legionella species, such as those outlined in International Organization for Standardization (ISO) Standards 11731-1:1998 and 11731-2:2004.
+										Legionella sample" means water or other sample to be examined for the presence of viable Legionella bacteria using semiselective culture media and procedures specific to the cultivation and detection of Legionella species, such as those outlined in International Organization for Standardization (ISO) Standards 11731-1:1998 and 11731-2:2004.
 
 "Maintenance program and plan" or "plan" means a written set of measures describing monitoring, cleaning, disinfection and all other activities for the prevention and control of Legionella growth in a cooling tower system, that is in accordance with section 5, 6 and 7.2 of ANSI/ASHRAE 188-2015 and with the manufacturer's instructions, and is developed by a qualified person.
 
