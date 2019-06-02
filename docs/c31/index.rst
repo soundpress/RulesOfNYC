@@ -976,6 +976,3358 @@ Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedi
 
 
 
+Chapter 3: Rules of Practice Applicable to Proceedings Brought Before the Environmental Control Board Pursuant to 
+--------------------------------------------------
+
+
+
+
+**Subchapter A: General Rules**
+
+
+
+*§ 3-11 Definitions.* ::
+
+
+Definitions in 48 RCNY § 6-01 apply to terms used in this chapter. In addition, as used in this chapter:
+
+"Board" means the Environmental Control Board of the City of New York.
+
+"Executive Director" means the executive director of the Board.
+
+
+
+
+
+
+
+
+*§ 3-12 Scope of Rules.* ::
+
+
+This chapter applies to the adjudications of summonses conducted by the Tribunal as authorized by the Board and to other Board proceedings pursuant to § 1049-a of the New York City Charter and provisions of the New York City Administrative Code, any rules and regulations made thereunder, or provisions of New York State law, and special hearings conducted by the Board pursuant to Title 24 of the New York City Administrative Code.
+
+All such adjudications, special hearings and enforcement proceedings will be conducted pursuant to the rules set forth in Chapter 6 of this Title. Where there is a conflict between this chapter and Chapter 6, this chapter takes precedence.
+
+
+
+
+
+
+
+
+*§ 3-13 Computation of Time for Emergency Action.* ::
+
+
+Any emergency action taken by the Board that requires action within a 24-hour period will be taken regardless of whether the 24-hour period includes a Saturday, Sunday or legal holiday.
+
+
+
+
+
+
+
+
+*§ 3-14 Claims of Prior Adjudication.* ::
+
+
+Whenever a party claims that a summons was previously adjudicated, the hearing officer must allow both parties to present all relevant evidence on all the issues in the case, including the claim of prior adjudication. If a party has raised a claim of prior adjudication, the hearing officer must not decide such claim, but must preserve the claim for the purposes of subsequent appeal to the Appeals Unit, a panel of Board members, or the Board pursuant to 48 RCNY § 3-15. If, on appeal, a party properly raises and preserves a claim of prior adjudication, the Appeals Unit will review the records of the first and any subsequent hearings in order to assist the panel or Board in determining the claim of prior adjudication. In deciding the claim, the panel or the Board will consider the interests of justice and public safety.
+
+
+
+
+
+
+
+
+*§ 3-15 Panel or Board Review of Appeals.* ::
+
+
+(a) The Board will establish panels from among its members to review recommended decisions prepared by the Appeals Unit, pursuant to 48 RCNY § 6-19(e), and to issue appeals decisions. A panel may refer a case to the Board for review if the panel is unable to reach a decision. Such case will be considered by the Board and the Board will issue an appeals decision. Unless a party files a request pursuant to Subdivision (b) of this section, the appeals decision of the panel or the Board will be deemed to have been issued by, and become the final determination of the Board, which is also a final determination of the Tribunal. Judicial review of such determination may be sought pursuant to Article 78 of the New York Civil Practice Law and Rules (CPLR).
+
+(b) Superseding appeals decisions. Within 10 days of the mailing of the Board's appeals decision, a party may apply to the Board for a superseding appeals decision to correct ministerial errors or errors due to mistake of fact or law. The request for a superseding appeals decision must be served upon the non-requesting party. A decision denying a request for a superseding appeal incorporates by reference the initial appeals decision. A decision granting a request for a superseding appeal vacates the initial appeals decision. This superseding appeals decision will become the final determination of the Board, which is also the final determination of the Tribunal. Judicial review of such determination may be sought pursuant to Article 78 of the CPLR.
+
+
+
+
+
+
+
+
+*§ 3-16 Judicial Review When Board Decision is Delayed.* ::
+
+
+(a) If the Board has not issued an appeals decision within 180 days from the filing of the appeal, or if the Board has not issued a superseding appeals decision within 180 days from the request for superseding appeal, the Respondent may at any time file a petition seeking judicial review of the Hearing Officer's recommended decision pursuant to Article 78 of the New York Civil Practice Law and Rules (CPLR). Such Respondent may rely on the recommended decision of the Hearing Officer as the final determination of the Board, provided that the following three conditions are met:
+
+   (1) at least forty-five days before the filing of such petition, the Respondent files with the Board written notice of the Respondent's intention to file the Article 78 petition;
+
+   (2) the Respondent serves and files the Article 78 petition on the Board pursuant to the CPLR; and
+
+   (3) the Board has not issued an appeals decision or, if applicable, a superseding appeals decision at the time of filing the petition.
+
+(b) The Board may issue a final determination after a Respondent files with the Board written notice of intention to file a petition for judicial review under Subdivision (a) and before the Respondent has filed the petition.
+
+
+
+
+
+
+
+
+*§ 3-17 Admission After Default.* ::
+
+
+Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, permitting Respondent to admit the charge and pay by mail, Respondent may enter a late admission and payment by mail within thirty days of the mailing date of the default decision. OATH may impose a fee of $30 for the processing of such late admission.
+
+
+
+
+
+
+
+
+*§ 3-18 Stipulation in Lieu of Hearing.* ::
+
+
+(a) At any time before the Hearing Officer issues a recommended decision, the Petitioner may offer the Respondent a settlement of the summons by stipulation in lieu of further hearing. The stipulation must contain an admission of the violation, the further facts stipulated to, if any, the amount of the penalty to be imposed, and the compliance ordered, if any.
+
+(b) If entered into by Respondent and filed with the Tribunal prior to the first scheduled hearing date, the stipulation will be reviewed by the Executive Director or his or her designee. The Tribunal as authorized by the Board will, after receiving such stipulation, issue a final decision incorporating the terms of the stipulation. If the stipulation is not acceptable to the Tribunal, the matter will be rescheduled for further hearing.
+
+(c) If entered into during the course of a hearing and approved by the Hearing Officer, the stipulation will be incorporated into the Hearing Officer's recommended decision.
+
+(d) Decisions based upon stipulations may not be appealed.
+
+
+
+
+
+
+
+
+*§ 3-19 Post Judgment Amendment of Records.* ::
+
+
+(a) Upon the written motion of any party, the Board may amend any judgment to designate a judgment debtor by the correct legal name.
+
+(b) The movant must file the written motion with the Executive Director. The movant must also file an affidavit setting forth the facts and evidence relied on and an affidavit of service, by certified or registered mail and regular mail, of the motion on the judgment debtor at the last known address and at the address or addresses at which the summons was or summonses were served. Such motion must be served on the judgment debtor and any other party. The motion must set forth the date and time of the hearing in accordance with the direction of the Executive Director, provided that such date and time will not be sooner than ten (10) days after the service of such motion on the judgment debtor. At such hearing, any party may appear, in person or otherwise, with or without an attorney, cross-examine witnesses, present evidence and testify. If the judgment debtor does not appear at the hearing, the Hearing Officer may proceed to determine the evidence presented by the movant in support of the motion.
+
+(c) If the Hearing Officer finds that the movant has established, by a preponderance of evidence, (i) the correct legal name of the judgment debtor, (ii) that such name is the same party designated on the summons or summonses as responsible for the alleged violation or violations and (iii) that service of the summons or summonses and of all other papers in the proceeding or proceedings was or were properly made upon such judgment debtor, the Hearing Officer will grant such motion and issue a recommended decision directing the amendment of the judgment to reflect the correct legal name of the judgment debtor and of all records relating to the proceedings commenced by the service of the summons or summonses, including the records of judgments filed with the civil court and in the office of the county clerk.
+
+(d) The Hearing Officer will file the recommended decision with the Board and OATH will serve the recommended decision on all parties. Any party who appeared at the hearing, in person or otherwise, may file an appeal of such recommended decision in the manner provided in 48 RCNY § 6-19 and the Board will render a final decision on the appeal. Such final decision is the final decision of the Board for purposes of review pursuant to Article 78 of the CPLR.
+
+(e) If an appeal is not filed within the time provided for in 48 RCNY § 6-19, the Hearing Officer's recommended decision will become the final decision of the Board and is not subject to review pursuant to Article 78 of the CPLR.
+
+(f) An order correcting a judgment does not affect the duration of a judgment. The judgment will remain in full force and effect for eight (8) years from the date that the judgment was originally entered.
+
+
+
+
+
+
+
+
+
+**Subchapter B: Special Hearings**
+
+
+
+*§ 3-21 Cease and Desist Actions.* ::
+
+
+(a) Scope. This section governs cease and desist actions brought by the Board pursuant to Administrative Code §§ 24-178, 24-257, or 24-524, after Respondent has had notice and an opportunity for a hearing on the violations alleged pursuant to the provisions of §§ 24-184, 24-263, or 24-524 as appropriate, and has failed to comply with orders issued by the Board in such proceedings.
+
+(b) Issuance of Order and Notice. Cease and desist actions are commenced by the Board issuing an order to cease and desist and a notice of special hearing. The order and notice will identify the particular compliance order, previously issued after an adjudicatory hearing or finding of default, which Respondent is alleged to have disregarded, and the activity, equipment, device and/or process involved. The order will direct Respondent to show cause at a special hearing why the equipment, device or process should not be sealed and additional penalties should not be imposed, and will notify Respondent that, if Respondent does not appear as directed, the Board's order will be implemented.
+
+(c) Service. The order to cease and desist and notice of special hearing will be served personally and by regular mail.
+
+
+
+
+
+
+
+
+*§ 3-22 Special Hearing.* ::
+
+
+(a) Pre-Sealing Hearing. The special hearing will be presided over by a Hearing Officer who has all of the powers and duties in subchapter C of Chapter 6 of these rules, except as specifically provided in this section. The Hearing Officer may receive evidence presented by the Petitioner who requested the Board to issue the cease and desist order, any intervenor, and the Respondent.
+
+(b) Motions to Intervene.
+
+   (1) A person may intervene as of right in a special hearing if such person may be directly and adversely affected by a cease and desist order of the Board. An order imposing a monetary penalty is not an order directly or adversely affecting any person other than a Respondent.
+
+   (2) Such person intervening as of right must file a written application with the Tribunal and serve it upon each party to the proceeding not less than five (5) days before the special hearing. Such written application must set forth in detail the reasons why the person seeks to intervene. When such written application is made by any person, the matter will be assigned to a Hearing Officer for disposition. Within three (3) days of being served with such written application, any party may file a response and any supporting documents with the Tribunal. Such response and documents, if any, must be served upon the applicant and all other parties.
+
+   (3) An intervenor as of right will have all the rights of an original party, except that the Hearing Officer may provide that the intervenor will be bound by orders previously entered or evidence previously received and that the intervenor will not raise issues or seek to add parties which might have been raised or added more properly at an earlier stage of the proceeding.
+
+(c) Report. In lieu of a recommended hearing decision, the Hearing Officer will prepare a report summarizing the evidence and arguments and including the Hearing Officer's findings of fact and recommendation as to whether the sealing should proceed and additional penalties should be imposed. The Hearing Officer will promptly file the report with the Board.
+
+(d) Board Order. Upon receipt of the Hearing Officer's report, the Board may adopt, reject or modify the findings and recommendation, and direct such further hearings or issue such further orders to Respondent as are appropriate under the circumstances to assure correction of the violations. In any case in which the Board issues an order requiring the Respondent to take affirmative action, such order may also require the Respondent to file with the Board a report or reports attesting under oath that the Respondent has complied with the order. Failure to file a required report within the time limit set forth in the order may, in the Board's discretion, constitute a violation of the order regardless of whether the Respondent has otherwise complied with the provisions of the order.
+
+(e) Post-Sealing Hearing. At any time after a sealing has taken place, a Respondent may request a special hearing to present evidence as to why the seal should be removed or sealing order modified. The Respondent must make the request by letter addressed to the Board or the Executive Director or his or her designee. A special post-sealing hearing will then be scheduled and presided over by a Hearing Officer and conducted in accordance with the provisions of subparagraphs (a), (b) and (c) of this section.
+
+
+
+
+
+
+
+
+*§ 3-23 Application for a Temporary or Limited Unsealing or Stay.* ::
+
+
+If it appears that remediation undertaken by a Respondent cannot proceed or its effectiveness cannot be tested while a seal remains in place, the Respondent may, by written application addressed to the Executive Director or his or her designee, request that a seal be temporarily removed or stayed for a limited period. The Executive Director or his or her designee may authorize a temporary unsealing or stay of sealing for the above specified reasons for such limited period and subject to such conditions as the Executive Director or his or her designee deems appropriate.
+
+
+
+
+
+
+
+
+*§ 3-24 Hearings after Emergency Cease and Desist Orders.* ::
+
+
+When the Board has issued an emergency cease and desist order, without hearing, due to an imminent peril to public health or safety, pursuant to Administrative Code §§ 24-178(f), 24-346(a) and (e) or 24-523(a) and (b), any person affected by such emergency order may, by written notice to the Board, request a hearing or an accelerated hearing in accordance with those provisions. The hearing held pursuant to the request will be held by the Board and not referred to a Hearing Officer. The hearing will otherwise be conducted in accordance with the relevant provisions of law and the applicable Board rules for adjudicatory hearings.
+
+
+
+
+
+
+
+
+
+**Subchapter C: Adjudications – Hearing Procedures [Repealed]**
+
+
+
+
+**Subchapter D: Adjudications – Appeal Procedures [Repealed]**
+
+
+
+
+**Subchapter E: Miscellaneous [Repealed]**
+
+
+
+
+**Subchapter F: Special Hearings and Enforcement Proceedings [Repealed]**
+
+
+
+
+**Subchapter G: Penalties**
+
+
+
+*§ 3-100 General.* ::
+
+
+Whenever a respondent is found in violation of any provision of the New York City Administrative Code, Rules of the City of New York, New York City Health Code, New York State Public Health Law, New York Codes, Rules and Regulations, New York City Zoning Resolution, New York State Vehicle and Traffic Law, or New York State Environmental Conservation Law, and the summons (as defined in 48 RCNY § 6-01) for such violation is returnable to the Environmental Control Board, any civil penalty recommended by a Hearing Officer pursuant to 48 RCNY § 3-57(a), any default penalty imposed pursuant to 48 RCNY § 3-81(a) and in accordance with § 1049-a(d)(1)(d) of the Charter, and any civil penalty imposed for admissions of violation(s) pursuant to 48 RCNY § 3-32 or late admissions pursuant to 48 RCNY § 3-81(b) will be imposed pursuant to the Penalty Schedules set forth below. If no Penalty Schedule is contained in these rules, any such civil penalty and default penalty will be imposed pursuant to the Penalty Schedule contained in the rules of the agency with primary jurisdiction to enforce the provisions of law related to the violation alleged in the summons.
+
+
+
+
+
+
+
+
+*§ 3-101 Air Asbestos Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-102 Air Code Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-103 Buildings Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-104 Community Right-To-Know Law Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-105 Environmental Conservation Law Penalty Schedule.* ::
+
+
+
+
+
+
+
+
+
+*§ 3-107 Food Vendor Administrative Code Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-108 Fulton Fish Market/Other Seafood Markets/Public Wholesale Markets Violations. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-109 General Vendor Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-110 Health Code and Miscellaneous Food Vendor Violations Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-111 Hazardous Materials Penalty Schedule.* ::
+
+
+HAZARDOUS SUBSTANCES EMERGENCY RESPONSE LAW PENALTY SCHEDULE 
+
+All citations, unless otherwise indicated are to the NYC Administrative Code. A second violation is a violation by the same respondent of the same section of law with a date of occurrence within three (3) years of the date of occurrence of the previous violation.
+
+* The following shall be considered environmentally sensitive areas: wetlands and wetland buffer areas; National and State parks; critical habitats for endangered and threatened plant and animal species; wilderness and natural areas; marine sanctuaries; conservation areas; preserves; wildlife areas; scenic, wild or recreational rivers; seashore and lakeshore recreational areas; critical biological resource areas; National and State protected and critical environmental areas (CEAS) as defined in 6 NYCRR Section 617.2(i). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Offense/Penalty
+      - Mitigating Factors (Cumulative)
+      - Aggravating Factor(Cumulative, up to a Total Penalty of $10,000)
+      - Default
+    * - Admin. Code § 24-609(b) 1st offenseFailed to comply with notification requirements upon release of hazardous substance $4,000
+      - 1.  Subtract $500, if telephone within 24 hours. Telephone notification shall be found where respondent provided DEP with all of the telephone notification requirements as provided in 15 RCNY § 11-03(b) within 24 hours of when respondent knows or has reason to know of a release.2.  Subtract $500, if respondent did provide written notification. Written notification shall be found where respondent provided DEP with all of the written notification requirements as provided in 15 RCNY § 11-03(c).3.  Subtract $1,000, if began abating release within 3 hours of when respondent knew or had reason to know of a release.
+      - 1.  Add $2,500, if release occurred within 1,000 feet of any of the following: residence district as defined by the New York City Zoning Resolution; school, highway, parkway or any other three lane roadway; environmentally sensitive area*; hazardous/toxic substance(s) industry/facility required to file under the New York City Community Right-to-know Law, Title 24 Chapter 7 of the New York Administrative Code.2.  Add $2,500, if amount of release was equal to or greater than twice the Reportable Quantity.3.  Add $2,500, if release caused actual injury to wildlife and/or human health.4.  Add $2,500 if willful or intentional release of the listed hazardous substance.
+      - $10,000
+    * - Admin. Code § 24-609(b)2nd Offense$9,000
+      - SAME AS ABOVE
+      - SAME AS ABOVE
+      - $10,000
+    * - Admin Code § 24-610(c) 1st Offense willfully violated or failed or refused to comply with Commissioner's Order $3,000
+      - 1.  Subtract $1,000, if complied with that portion of Scope of Work Order relating to securing of premises/building.2.  Subtract $500, if complied with that portion of Scope of Work Order relating to identification of all hazardous substances.
+      - 1.  Add $1,500, if failed to comply with that portion of Scope of Work Order relating to Bills of Lading and Hazardous Waste Manifests.2.  Add $1,500, if total non-compliance, i.e. failed to comply with any part of Commissioner's Order. (In such cases, there could be no mitigating factors.)
+      - $10,000
+    * - Admin. Code § 24-610(c) 2nd Offense $4,500
+      - SAME AS ABOVE
+      - SAME AS ABOVE
+      - $10,000
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 3-112 Health Code Lead Abatement Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-113 Hudson River Park Rules Penalty Schedule.* ::
+
+
+HUDSON RIVER PARK RULES PENALTY SCHEDULE
+
+Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all the below listed penalties for a failure to submit a payment by mail, as per 48 RCNY § 3-32, within 30 days of the mailing date of the default order issued against respondent. All citations are to 21 NYCRR Part 751.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - Penalty
+      - Default
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 751.4(a)
+      - Unauthorized presence in park when closed to public
+      - $50
+      - $200
+    * - 751.4(b)(1)
+      - Failure to comply with directives of Police officer/Park employee
+      - $250
+      - $500
+    * - 751.4(b)(2)
+      - Failure to comply with directions/prohibitions on signs
+      - $50
+      - $200
+    * - 751.4(c)
+      - Failure to comply with orders of HRPT
+      - $250
+      - $500
+    * - 751.5(h)
+      - Failure to have/ display/ comply with required permit
+      - $50
+      - $200
+    * - 751.6(a)
+      - Injury/ defacement/ abuse of property or equipment
+      - $500
+      - $500
+    * - 751.6(b)(1)
+      - Intentional destruction/ removal/ permanent damage to tree(s)
+      - $500
+      - $500
+    * - 751.6(b)(1)
+      - Destruction/defacement/abuse of park vegetation
+      - $250
+      - $500
+    * - 751.6(b)(2)
+      - Walking/permitting animal /child to walk on newly seeded grass
+      - $50
+      - $200
+    * - 751.6(b)(3)
+      - Unauthorized entry/allowing entry into fenced/restricted area
+      - $50
+      - $200
+    * - 751.6(b)(4)
+      - Unauthorized possession of gardening tool/plant
+      - $50
+      - $200
+    * - 751.6(b)(5)
+      - Unauthorized use of metal detector
+      - $50
+      - $200
+    * - 751.6(c)
+      - Littering or unlawful use of park waste receptacle
+      - $100
+      - $300
+    * - 751.6(c)(2)
+      - Illegal discharge into park waters
+      - $250
+      - $500
+    * - 751.6(c)(3)
+      - Unlawful dumping
+      - $500
+      - $500
+    * - 751.6(c)(4)
+      - Storing/leaving unattended personal belongings
+      - $50
+      - $200
+    * - 751.6(d)
+      - Possession of glass container in restricted area
+      - $50
+      - $200
+    * - 751.6(e)
+      - Failure to comply with restrictions re: aviation
+      - $100
+      - $400
+    * - 751.6(g)(1)
+      - Molest/kill/remove/ possess animal/ nest egg. etc.
+      - $500
+      - $500
+    * - 751.6(g)(2)
+      - Unlawful feeding of animals
+      - $50
+      - $200
+    * - 751.6(i)
+      - Unleashed or uncontrolled animals in park
+      - $100
+      - $200
+    * - 751.6(i)
+      - Unleashed or uncontrolled animals in park – 2nd Offense
+      - $200
+      - $400
+    * - 751.6(i)
+      - Unleashed or uncontrolled animals in park – 3rd Offense
+      - $400
+      - $500
+    * - 751.6(i)
+      - Unleashed or uncontrolled animals in park – 4th and Subsequent Offenses
+      - $500
+      - $500
+    * - 751.6(j)
+      - Failure to comply with horseback riding restrictions
+      - $50
+      - $200
+    * - 751.6(k)
+      - Failure to remove animal waste
+      - $250
+      - $250
+    * - 751.6(l)
+      -  Unlawful urination/ defecation in park
+      - $50
+      - $300
+    * - 751.6(m)(1)
+      -  Disorderly behavior involving entrance/exit onto park property
+      - $50
+      - $200
+    * - 751.6(m)(2)
+      - Unlawful climbing on park property
+      - $50
+      - $200
+    * - 751.6(m)(3)
+      - Failure to pay a fee/charge
+      - $50
+      - $200
+    * - 751.6(p)
+      - Obstruction of benches, sitting areas
+      - $50
+      - $200
+    * - 751.6(q)
+      - Unauthorized camping/ erection of tent or shelter
+      - $250
+      - $500
+    * - 751.6(r)
+      - Spitting on park building/ monument/ structure or in the water
+      - $100
+      - $200
+    * - 751.6(s)
+      - Unlawful use of fountain/pool/water/ for personal/ animal hygiene
+      - $50
+      - $200
+    * - 751.6(u)
+      - Use of prohibited vessels,i.e. jet skis, cigarette boats, etc.
+      - $100
+      - $400
+    * - 751.6(v)
+      - Failure to comply with smoking restrictions
+      - $$50
+      - $50
+    * - 751.7(a)(1)
+      - Unauthorized special event/ demonstration without permit
+      - $250
+      - $500
+    * - 751.7(a)(2)
+      - Unlawful erection of structure/stand/booth/platform/exhibit/artwork
+      - $250
+      - $500
+    * - 751.7(b)
+      - Unauthorized vending
+      - $250
+      - $500
+    * - 751.7(c)
+      - Unauthorized posting/ display of notices/ signs/ banners, etc.
+      - $50
+      - $200
+    * - 751.7(d)(1)
+      - Unreasonable noise
+      - $350
+      - $500
+    * - 751.7(d)(2)
+      - Unauthorized/un-permitted use of sound reproduction device
+      - $140
+      - $350
+    * - 751.7(d)(3)
+      - Playing instrument/radio, etc. during unauthorized hours
+      - $140
+      - $350
+    * - 751.7(d)(4)
+      - Unauthorized noise for advertising/ commercial purposes
+      - $500
+      - $500
+    * - 751.7(e)
+      - Commercial/ Photo production without permit/ restricting access
+      - $250
+      - $500
+    * - 751.7(f)(1)
+      - Unauthorized consumption/possession of alcoholic beverage
+      - $25
+      - $100
+    * - 751.7(g)
+      - Failure to comply with bathing restrictions
+      - $50
+      - $200
+    * - 751.7(h)
+      - Failure to comply with fishing restrictions
+      - $50
+      - $200
+    * - 751.7(i)
+      - Failure to comply with bicycle riding restrictions
+      - $50
+      - $200
+    * - 751.7(j)
+      - Planting/pruning/interfering with tree/vegetation without permit
+      - $100
+      - $400
+    * - 751.7(k)(1)
+      - Failure to comply with restriction re:fires
+      - $50
+      - $200
+    * - 751.7(k)(2)
+      - Unlawful disposal of flammable materials
+      - $50
+      - $200
+    * - 751.7(m)
+      - Unauthorized construction/storage of materials
+      - $500
+      - $500
+    * - 751.7(n)
+      - Unauthorized excavation
+      - $500
+      - $500
+    * - 751.7(o)
+      - Failure to comply with area use restrictions
+      - $50
+      - $200
+    * - 751.7(q)
+      - Unauthorized distribution or demonstration of products
+      - $100
+      - $400
+    * - 751.7(r)
+      - Failure to comply with rollerblading/skating etc. Restrictions
+      - $50
+      - $100
+    * - 751.7(s)
+      - Geocaching/treasure-hunting without a permit
+      - $25
+      - $50
+    * - 751.8(a)(1)
+      - Operating/anchoring/mooring etc. boat in unauthorized area
+      - $500
+      - $500
+    * - 751.8(b)
+      - Failure to operate a vessel in a safe/non-reckless manner
+      - $100
+      - $400
+    * - 751.8(c)
+      - Operating a vessel without muffler that muffles noise in a reasonable manner
+      - $350
+      - $500
+    * - 751.8(d)
+      - Prohibited use of vessels in an authorized swimming or wading area
+      - $100
+      - $400
+    * - 751.8(e)
+      - Unlawful use of vessel
+      - $500
+      - $500
+    * - 751.8(f)
+      - Use of excessive speed by vessel
+      - $500
+      - $500
+    * - 751.8(g)
+      - Failure to remove sunken/disabled vessel
+      - $500
+      - $500
+    * - 751.8(h)
+      - Unauthorized overnight occupancy of vessels
+      - $50
+      - $200
+    * - 751.8(i)
+      - Interference with emergency vessel boarding
+      - $100
+      - $400
+    * - 751.8(j)(1)
+      - Use of unauthorized toilets on vessel
+      - $250
+      - $500
+    * - 751.8(j)(2)
+      - Unauthorized and non-emergency repair of vessels
+      - $50
+      - $200
+    * - 751.8(j)(3)
+      - Failure to deposit garbage in designated receptacles
+      - $50
+      - $200
+    * - 751.8(j)(4)
+      - Prohibited use /storage of welding machinery
+      - $50
+      - $250
+    * - 751.8(l)(1)
+      - Failure to meet docking requirements/ altering docks
+      - $50
+      - $200
+    * - 751.8(l)(2)(i)
+      - Mooring of a vessel in an unauthorized area
+      - $50
+      - $200
+    * - 751.8(l)(2)(ii)
+      - Mooring of a vessel with improper/inadequate ties
+      - $50
+      - $200
+    * - 751.8(m)(1)
+      - Improper maintenance of vessel or equipment
+      - $50
+      - $200
+    * - 751.8(m)(2)
+      - Unauthorized structural modification on vessel
+      - $500
+      - $500
+    * - 751.8(n)
+      - Failure to possess proper safety equipment on vessel
+      - $50
+      - $200
+    * - 751.8(o)
+      - Unauthorized storage of dinghies, kayaks &amp; canoes
+      - $50
+      - $250
+    * - 751.8(p)
+      - Unauthorized boat launching
+      - $50
+      - $250
+    * - 751.8(q)
+      - Use of non-motorized vessels in restricted areas
+      - $50
+      - $200
+~
+
+ 
+
+
+
+
+
+
+*§ 3-114 Landmarks Preservation Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-115 Noise Code Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-116 Parks Rules Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-117 Public Health Law Penalty Schedule.* ::
+
+
+
+
+
+
+
+
+
+*§ 3-118 Public Pay Telephones Penalty Schedule.* ::
+
+
+PUBLIC PAY TELEPHONES PENALTY SCHEDULE
+
+Unless otherwise indicated all citations are to the New York City Administrative Code.
+
+* Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to the penalties for these charges for a failure to submit a payment by mail, as per 48 RCNY § 3-32, within 30 days of the mailing date of the default order issued against respondent.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - Penalty
+      - Default
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Admin. Code § 23-402
+      - Install/Operate/Maintain Public Pay Telephone without permit
+      - $900
+      - $1,000
+    * - Admin. Code § 23-402
+      - Install/Operate/Maintain Public Pay Telephone in violation of permit terms
+      - $500
+      - $1,000
+    * - Admin. Code § 23-405
+      - Impermissible advertising on Public Pay Telephone
+      - $900
+      - $1,000
+    * - Admin. Code § 23-408(b)
+      - Repeated failure to provide services for a sustained period
+      - $2,000
+      - $2,500
+    * - Admin. Code § 23-408(b)
+      - Failure to provide coinless 911 service
+      - $2,000
+      - $2,500
+    * - 67 RCNY § 6-24(c)
+      - False statement/info in a certification/registry
+      - $900
+      - $1,000
+    * - 67 RCNY § 6-26(a)
+      - Failure to remove Public Pay Telephone after failure to submit registry
+      - $900
+      - $1,000
+    * - 67 RCNY § 6-26(b)
+      - Failure to remove Public Pay Telephone per requirements of subsection
+      - $500
+      - $1,000
+    * - 67 RCNY § 6-41
+      - Failure to adhere to siting/clearance/pedestrian passage requirements as per subsection
+      - $500
+      - $1,000
+    * - 67 RCNY § 6-05(a)*
+      - Failure to provide coinless access to 911 on a twenty-four hour daily basis
+      - $2,000
+      - $2,500
+    * - 67 RCNY § 6-05(b)*
+      - Failure to provide working Public Pay Telephone and operator services
+      - $2,000
+      - $2,500
+    * - 67 RCNY § 6-05(c)*
+      - Failure to clean/maintain Public Pay Telephone as per requirements of subsection
+      - $250
+      - $1,000
+    * - 67 RCNY § 6-05(d)
+      - Failure to correct, repair or restore broken, fractured, detached or displaced PPT within 72 hours period
+      - $900
+      - $1,000
+    * - 67 RCNY § 6-06*
+      - Impermissible display of advertising on Public Pay Telephone installation
+      - $900
+      - $1,000
+    * - 67 RCNY § 6-36(b)(1),(d)*
+      - Failure to remove Public Pay Telephone as per Commissioner's Order
+      - $500
+      - $1,000
+    * - 67 RCNY § 6-42*
+      - Required sign missing/impermissible as per requirements of subsection
+      - $250
+      - $1,000
+    * - 67 RCNY § 6-43*
+      - Failure to comply with installation/maintenance standards as per requirements of subsection
+      - $500
+      - $1,000
+    * - 67 RCNY Chapter 6*
+      - Miscellaneous violation of rules pertaining to Public Pay Telephones
+      - $250
+      - $1,000
+    * - Admin. Code Title 23, Ch.4*
+      - Miscellaneous violation of code pertaining to Public Pay Telephones
+      - $250
+      - $1,000
+~
+
+ 
+
+
+
+
+
+
+*§ 3-119 Public Safety Graffiti Penalty Schedule.* ::
+
+
+PUBLIC SAFETY GRAFFITI PENALTY SCHEDULE
+
+The following citations are to the NYC Administrative Code. Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all the below listed penalties for a failure to submit a payment by mail, as per 48 RCNY § 3-32, within 30 days of the mailing date of the default order issued against respondent.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - Penalty
+      - Default
+    * - Admin. Code § 10-117(a)
+      - Unlawful defacement of property by graffiti (except with stickers or decals)
+      - $100
+      - $500
+    * - Admin. Code § 10-117(b)
+      - Unlawful possession of aerosol spray paint can/indelible marker
+      - $100
+      - $500
+    * - Admin. Code § 10-117(c)
+      - Offer/sale of aerosol spray paint can/indelible marker to minor
+      - $100
+      - $500
+    * - Admin. Code § 10-117(d)
+      - Unlawful display of aerosol spray paint can/indelible marker
+      - $100
+      - $500
+    * - Admin. Code § 10-117.3(b)
+      - Failure to remove graffiti
+      - $150
+      - $300
+    * - Admin. Code § 29-109.2.4
+      - Use or discharge of fireworks without permit
+      - $750
+      - $750
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 3-120 Recycling – Sanitation Collection Rules Penalty Schedule.* ::
+
+
+RECYCLING – SANITATION COLLECTION RULES PENALTY SCHEDULE
+
+A repeat violation is a violation by the same respondent, at the same place of occurrence, of any of the recycling rules or provisions, having a date of occurrence within 12 months of the date of occurrence of the previous violation. Persistent violator: As is set forth in § 16-324 of the Administrative Code, a person committing a fourth and any subsequent violation within a period of six months shall be classified as a persistent violator. Such person shall be liable for a civil penalty of four hundred dollars for each violation. A persistent violation may only be found where such violation occurs at a building of nine or more dwelling units. Each container or bag containing solid waste that has not been source separated or placed out for collection in a manner consistent with the regulations promulgated by the commissioner pursuant to this chapter shall be deemed a separate violation. However, no more than twenty separate violations may be issued on a per bag or per container basis during any twenty-four hour period.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - Penalty
+      - 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - Residential Premises
+      - 
+      - 
+    * - 16 RCNY § 1-08(e)(1),(2)
+      - Improper/misused curbside recycling container (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(e)(3)
+      - Improper/misused mechanized recycling container (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(f)(1)
+      - Failure to post notices/inform about recycling (Four to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(f)(2)(i)
+      - No accessible recycling storage area (Four to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(f)(2)(iii)
+      - Inadequate recycling containers in storage area (Four to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(g)(1)
+      - Improper disposal of recyclables/misuse of container (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(g)(3)
+      - Failure to clean recyclables (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(g)(3)
+      - Failure to bundle newspapers/magazines/cardboard (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(h)(1),(2)
+      - Failure to properly put recyclables out for collection (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(h)(4)
+      - Non-recyclables left in recycling container for Collection (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(h)(5)
+      - Recyclables placed for collection with non-recyclables (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(i)
+      - Failure to comply with Comm.Order mandating use of clear plastic bags for disposal of refuse &amp; recycling (Four to eight dwelling units)
+      - 1st violation2nd violation3rd violation
+      - $25$50$100
+    * - 16 RCNY § 1-08(e)(1),(2)
+      - Improper/misused curbside recycling container (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - PersistentViolator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(e)(3)
+      - Improper/misused mechanized recycling container (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(f)(1)
+      - Failure to post notices/inform about recycling (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(f)(2)(i)
+      - No accessible recycling storage area (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(f)(2)(iii)
+      - Inadequate recycling containers in storage area (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(g)(1)
+      - Improper disposal of recyclables/misuse of container (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(g)(2)
+      - Failure to clean recyclables (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(g)(3)
+      - Failure to bundle newspapers/magazines/cardboard (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(h)(1),(2)
+      - Failure to properly put recyclables out for collection (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(h)(4)
+      - Non-recyclables left in recycling container for Collection (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(h)(5)
+      - Recyclables placed for collection with non-recyclables (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-08(i)
+      - Failure to comply with Comm. Order mandating use of clear plastic bags for disposal of refuse &amp; recycling (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * -  
+      - Institutions/Agencies
+      - 
+      - 
+    * - 16 RCNY § 1-09(d)
+      - Failure to establish recycling program
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-09(g)(1)(i)
+      - Failure to notify employees about recycling program
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-09(g)(1)(iii)
+      - Recycling containers not provided/not labeled
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-09(h),(i),(j)
+      - Failure to source separate designated recyclables
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * -  
+      - Private Carter Collected Waste
+      - 
+      - 
+    * - 16 RCNY § 1-10(c)(1)
+      - Failure to source separate non-food/beverage recyclables
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(c)(2)
+      - Failure to source separate food/beverage recyclables
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(c)(3)
+      - Failure to source separate residential recyclables (One to eight dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $25$50$100
+    * - 16 RCNY § 1-10(c)(3)
+      - Failure to source separate residential recyclables (Nine or more dwelling units)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(d)(2)
+      - No agreement with carter for mixed materials
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(d)(3)
+      - Failure to post commingling notice
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(e)
+      - Failure to maintain source separation
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(f)(1)(i)
+      - No written recycling agreement
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(f)(1)(ii)
+      - No written recycling notice to tenants/employees
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(f)(1)(iii)
+      - Recycling notices not posted in maintenance area
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(f)(1)(iv)
+      - Recycling containers missing
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(f)(2)(i)
+      - Failure to source separate recyclables
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(f)(2)(ii),(iv)
+      - Failure to notify employees/post notices/label Containers
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(g)(1)
+      - Failure by Transfer Station to recycle
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(g)(2)
+      - Failure to maintain separation of paper(transfer stations)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(g)(3)
+      - Failure to separate commingled metal, glass plastic(transfer stations)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(g)(5)
+      - Failure to separate components of construction waste(transfer station)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - 16 RCNY § 1-10(g)(6),(7)
+      - Improper disposal of recyclables or commingled materials(transfer station)
+      - 1st Violation2nd Violation3rd Violation
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth or subsequent violation within six months)
+      - $400
+    * - Admin. Code § 16-324(a)
+      - Persistent Violator, recycling
+      - 
+      - $400
+~
+
+ 
+
+
+
+
+
+
+*§ 3-121 Sanitation Asbestos Rules Penalty Schedule.* ::
+
+
+SANITATION ASBESTOS RULES PENALTY SCHEDULE
+
+Worker Penalty: Where the Hearing Officer finds that the respondent is a worker (defined as an individual employee working under the direction of another whose job duties permit no exercise of judgment or discretion), the penalty will be $500.00. Second offense is defined as a violation by the same respondent of any provision of the rules found in 16 RCNY Chapter 8, or of § 16-117.1 of the NYC Administrative Code, where the date of occurrence of the current violation is within two years of the date of the prior violation. All citations are to 16 RCNY Chapter 8.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Rules
+      - Description
+      - Penalty
+      - BasicPenalty
+      - Aggravating Circumstances 
+      - 
+      - Mitigation
+      - 
+    * - Visible Emission or Adult Exposure
+      - Child Exposure
+      - No Knowledge
+      - Small Quantity
+      - 
+      - 
+      - 
+      - 
+    * - PRESENT FOR STORAGE OF ASBESTOS WASTE: 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 16 RCNY § 8-03(a)(1)
+      - Not Wet
+      - 1st
+      - $4,000
+      - $8,000
+      - $9,000
+      - -$1,000
+      - -$500
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - $10,000
+      - $11,000
+      - N/A
+      - -$1,000
+    * - 16 RCNY § 8-03(a)(2)
+      - Uncontained, unsealed
+      - 1st
+      - $7,000
+      - $14,000
+      - $15,000
+      - -$2,000
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $8,000
+      - $16,000
+      - $18,000
+      - N/A
+      - N/A
+    * - 16 RCNY § 8-03(a)(2)
+      - Not 6 mil
+      - 1st
+      - $5,000
+      - $10,000
+      - $11,000
+      - -$2,000
+      - -$1,000
+    * -  
+      -  
+      - 2nd
+      - $6,000
+      - $12,000
+      - $14,000
+      - N/A
+      - -$1,000
+    * - 16 RCNY § 8-03(a)(2)
+      - No Warning Label
+      - 1st
+      - $1,000
+      - N/A
+      - N/A
+      - -$500
+      - -$200
+    * -  
+      -  
+      - 2nd
+      - $1,500
+      - N/A
+      - N/A
+      - N/A
+      - -$500
+    * - 16 RCNY § 8-03(a)(3)
+      - Mixed w/ other waste
+      - 1st
+      - $5,000
+      - $10,000
+      - $11,000
+      - -$2,000
+      - -$1,000
+    * -  
+      -  
+      - 2nd
+      - $6,000
+      - $12,000
+      - $14,000
+      - N/A
+      - -$1,000
+    * - STORAGE OF ASBESTOS WASTE: 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 16 RCNY § 8-04(a)(1)
+      - Uncontained, unsealed
+      - 1st
+      - $12,000
+      - $24,000
+      - $25,000
+      - -$4,000
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $14,000
+      - $25,000
+      - $25,000
+      - N/A
+      - N/A
+    * - 16 RCNY § 8-04(a)(1)
+      - Not wet, not 6 mil
+      - 1st
+      - $10,000
+      - $20,000
+      - $22,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $11,000
+      - $22,000
+      - $24,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-04(a)(1)
+      - No warning label
+      - 1st
+      - $2,000
+      - N/A
+      - N/A
+      - -$1,000
+      - -$500
+    * -  
+      -  
+      - 2nd
+      - $3,000
+      - N/A
+      - N/A
+      - N/A
+      - -$500
+    * - 16 RCNY § 8-04(a)(2)
+      - No 24 hour inspection
+      - 1st
+      - $2,000
+      - $4,000
+      - N/A
+      - -$1,000
+      - -$500
+    * -  
+      -  
+      - 2nd
+      - $3,000
+      - $6,000
+      - N/A
+      - N/A
+      - -$500
+    * - 16 RCNY § 8-04(a)(3)
+      - Inadequate spare leak-tight containers
+      - 1st2nd
+      - $3,000$4,000
+      - N/AN/A
+      - N/AN/A
+      - -$1,000N/A
+      - -$500-$500
+    * - 16 RCNY § 8-04(a)(4)
+      - Inadequate water supply
+      - 1st2nd
+      - $3,000$4,000
+      - N/AN/A
+      - N/AN/A
+      - -$1,000N/A
+      - -$500-$500
+    * - 16 RCNY § 8-04(a)(5)
+      - Mixed with other waste
+      - 1st
+      - $7,000
+      - $14,000
+      - $15,000
+      - -$2,000
+      - -$1,000
+    * -  
+      -  
+      - 2nd
+      - $8,000
+      - $16,000
+      - $18,000
+      - N/A
+      - -$1,000
+    * - 16 RCNY § 8-04(a)(6)
+      - Unsecured area
+      - 1st
+      - $6,000
+      - N/A
+      - N/A
+      - -$2,000
+      - -$1,000
+    * -  
+      -  
+      - 2nd
+      - $7,000
+      - N/A
+      - N/A
+      - N/A
+      - -$1,000
+    * - 16 RCNY § 8-04(b)
+      - 50 cu. yds/no authorization
+      - 1st2nd
+      - $3,000$4,000
+      - N/AN/A
+      - N/AN/A
+      - -$1,000N/A
+      - N/AN/A
+    * - 16 RCNY § 8-04(b)(1)(i)
+      - 50 cu. yds/ noinspection records
+      - 1st2nd
+      - $2,000$3,000
+      - $5,000$6,000
+      - N/AN/A
+      - -$1,000N/A
+      - N/AN/A
+    * - PRESENT FOR TRANSPORT ASBESTOS WASTE: 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 16 RCNY § 8-05(a)
+      - Uncontained, unsealed
+      - 1st
+      - $14,000
+      - $25,000
+      - $25,000
+      - -$4,000
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $16,000
+      - $25,000
+      - $25,000
+      - N/A
+      - N/A
+    * - 16 RCNY § 8-05(a)
+      - Not wet, not 6 mil
+      - 1st
+      - $12,000
+      - $24,000
+      - $25,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $14,000
+      - $25,000
+      - $20,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-05(a)
+      - No warning label
+      - 1st
+      - $3,000
+      - N/A
+      - N/A
+      - -$1,000
+      - -$500
+    * -  
+      -  
+      - 2nd
+      - $4,000
+      - N/A
+      - N/A
+      - N/A
+      - -$500
+    * - 16 RCNY § 8-05(b)
+      - Without inspection
+      - 1st
+      - $3,000
+      - $6,000
+      - $7,000
+      - -$1,000
+      - -$500
+    * -  
+      -  
+      - 2nd
+      - $4,000
+      - $8,000
+      - $9,000
+      - N/A
+      - -$500
+    * - 16 RCNY § 8-05(c)
+      - Mixed with other waste
+      - 1st
+      - $8,000
+      - $16,000
+      - $18,000
+      - -$2,000
+      - -$1,000
+    * -  
+      -  
+      - 2nd
+      - $9,000
+      - $18,000
+      - $20,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-05(d)(1)
+      - Transporter w/o DEC permit
+      - 1st2nd
+      - $3,000$4,000
+      - N/AN/A
+      - N/AN/A
+      - N/AN/A
+      - N/AN/A
+    * - 16 RCNY § 8-05(d)(2)
+      - Transporter w/o DCA permit
+      - 1st2nd
+      - $3,000$4,000
+      - N/AN/A
+      - N/AN/A
+      - N/AN/A
+      - N/AN/A
+    * - TRANSPORT ASBESTOS WASTE: 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 16 RCNY § 8-06(a)
+      - Uncontained, unsealed
+      - 1st
+      - $16,000
+      - $25,000
+      - $25,000
+      - -$5,000
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $18,000
+      - $25,000
+      - $25,000
+      - N/A
+      - N/A
+    * - 16 RCNY § 8-06(a)
+      - Not wet, not 6 mil
+      - 1st
+      - $12,000
+      - $24,000
+      - $25,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $14,000
+      - $25,000
+      - $25,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-06(a)
+      - No warning label
+      - 1st
+      - $4,000
+      - N/A
+      - N/A
+      - -$1,000
+      - -$500
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - N/A
+      - N/A
+      - N/A
+      - -$1,000
+    * - 16 RCNY § 8-06(b)
+      - No examination, unsafe packaging
+      - 1st2nd
+      - $4,000$5,000
+      - $8,000$10,000
+      - $9,000$11,000
+      - -$1,000N/A
+      - -$500-$1,000
+    * - 16 RCNY § 8-06(c)
+      - Inadequate spare leak-tight containers
+      - 1st2nd
+      - $4,000$5,000
+      - N/AN/A
+      - N/AN/A
+      - -$1,000N/A
+      - -$500-$1,000
+    * - 16 RCNY § 8-06(d)
+      - Inadequate water supply
+      - 1st2nd
+      - $4,000$5,000
+      - N/AN/A
+      - N/AN/A
+      - -$1,000N/A
+      - -$500-$1,000
+    * - 16 RCNY § 8-06(e)
+      - Mixed with other waste
+      - 1st
+      - $9,000
+      - $18,000
+      - $20,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $10,000
+      - $20,000
+      - $22,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-06(f)
+      - Unprotected container
+      - 1st
+      - $9,000
+      - $18,000
+      - $20,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $10,000
+      - $20,000
+      - $22,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-06(g)
+      - Lacking DEC permit
+      - 1st
+      - $4,000
+      - N/A
+      - N/A
+      - N/A
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - N/A
+      - N/A
+      - N/A
+      - N/A
+    * - 16 RCNY § 8-06(h)
+      - Lacking DCA permit
+      - 1st
+      - $4,000
+      - N/A
+      - N/A
+      - N/A
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - N/A
+      - N/A
+      - N/A
+      - N/A
+    * - PRESENT FOR DISPOSAL ASBESTOS WASTE 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 16 RCNY § 8-07(a)
+      - Unapproved site
+      - 1st
+      - $10,000
+      - $20,000
+      - $22,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $12,000
+      - $24,000
+      - $25,000
+      - N/A
+      - -$2,000
+    * - 16 RCNY § 8-07(b)
+      - Non-compliance w/ order
+      - 1st2nd
+      - $9,000$10,000
+      - $18,000$20,000
+      - $20,000$22,000
+      - N/AN/A
+      - N/AN/A
+    * - 16 RCNY § 8-07(c)
+      - Uncontained, unsealed
+      - 1st
+      - $18,000
+      - $25,000
+      - $25,000
+      - -$6,000
+      - N/A
+    * -  
+      -  
+      - 2nd
+      - $20,000
+      - $25,000
+      - $25,000
+      - N/A
+      - N/A
+    * - 16 RCNY § 8-07(c)
+      - Not wet, not 6 mil
+      - 1st
+      - $16,000
+      - $25,000
+      - $25,000
+      - -$5,000
+      - -$3,000
+    * -  
+      -  
+      - 2nd
+      - $18,000
+      - $25,000
+      - $25,000
+      - N/A
+      - -$3,000
+    * - 16 RCNY § 8-07(c)
+      - No warning label
+      - 1st
+      - $5,000
+      - N/A
+      - N/A
+      - -$2,000
+      - -$1,000
+    * -  
+      -  
+      - 2nd
+      - $6,000
+      - N/A
+      - N/A
+      - N/A
+      - -$1,000
+    * - 16 RCNY § 8-07(d)
+      - No examination, unsafe repackaging
+      - 1st2nd
+      - $5,000$6,000
+      - $10,000$12,000
+      - $11,000$14,000
+      - -$2,000N/A
+      - -$1,000-$1,000
+    * - 16 RCNY § 8-07(e)
+      - Mixed with other waste
+      - 1st
+      - $10,000
+      - $20,000
+      - $22,000
+      - -$4,000
+      - -$2,000
+    * -  
+      -  
+      - 2nd
+      - $12,000
+      - $24,000
+      - $25,000
+      - N/A
+      - -$2,000
+    * - ABANDONMENT: 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 16 RCNY § 8-08
+      - Abandonment of Asbestos waste
+      - 1st2nd
+      - $20,000$22,000
+      - $25,000$25,000
+      - $25,000$25,000
+      - -$6,000N/A
+      - -$4,000-$4,000
+~
+
+ 
+
+
+
+
+
+
+*§ 3-122 Sanitation Penalty Schedule.* ::
+
+
+SANITATION PENALTY SCHEDULE
+
+Unless otherwise indicated, all citations are to the New York City Administrative Code.
+
+Repeat Violations
+
+**For sections:
+
+•   16-120(a), (b), (c), (d), (e)•   16-123
+
+a second or third violation is:
+
+•   a violation by the same respondent•   of the same section of law as the previous violation(s)•   with a date of occurrence within 12 months of the date of occurrence of the previous violations
+
+***For sections:
+
+•   10-119 and 10-120•   16-308(e) and 16-308(f)•   16-404•   16-405(a) and 16-405(b)
+
+a repeat violation is:
+
+•   a violation by the same respondent•   of the same section of law as the previous violation•   with a date of occurrence within 12 months of the date of occurrence of the previous violations
+
+****For section 16-119 and 10-169, a repeat violation is:
+
+•   a violation by the same respondent•   of the same section of law as the previous violation•   with a date of occurrence within 18 months of the date of occurrence of the previous violation
+
+*****For these transfer-station related sections, a repeat violation is:
+
+•   a violation by the same respondent•   of the same subdivision of a section of law or rule as the previous violation•   with a date of occurrence within 3 years of the date of occurrence of the previous violation
+
+******For these medical-waste related sections, a repeat violation is:
+
+•   a violation by the same respondent•   with a date of occurrence within 18 months of the date of occurrence of the previous violation
+
+*******Daily penalties start on the date of the occurrence stated on the Notice of Violation. Daily penalties continue to be added until:
+
+•   the respondent proves that the violation was corrected on a certain date before the first scheduled hearing date or•   the first scheduled hearing date.
+
+The first scheduled hearing date will be sixty days from the date of occurrence. For each Notice of Violation, no more than sixty days of daily penalties will be charged.
+
+For all charges except §§ 10-119 and 16-119:
+
+********For § 16-130(b) and 16 RCNY § 4-44, a repeat violation is:
+
+•   a violation by an owner or any person•   using or operating a premises, equipment, vehicle(s) or other personal property•   with a date of occurrence within 3 years of the date of occurrence of the previous violation•   in the business of such owner or otherwise•   with the express or implied permission of such owner
+
+*********Except as otherwise provided in this head note, for violations of §§ 16-461(a)(1), 16-461(b), and 16-461(c), a second or subsequent offense is:
+
+•   a violation by the same respondent•   of the same paragraph or subdivision, as applicable, of a section of law•   with a different date of occurrence within 18 months of the date of occurrence of the previous violation
+
+For violations issued to owners of motor vehicles used to violate subdivision a or b of § 16-461, a second or subsequent offense is:
+
+•   a violation by same respondent•   of either subdivision a or b of § 16-461•   with a date of occurrence within 18 months of the date of occurrence of a previous violation of either subdivision a or b of § 16-461•   regardless of whether the same vehicle was used in the subsequent offense
+
+For violations issued to owners of motor vehicles used to violate § 16-461(c), a subsequent offense is:
+
+•   a violation by same respondent•   of § 16-461(c)•   with a date of occurrence within 18 months of the date of occurrence of a previous violation of § 16-461(c)•   regardless of whether the same vehicle was used in the subsequent offense
+
+For violations of §§ 16-463(b), 16-463(c), and 16-463(d), a subsequent offense is:
+
+•   a violation by the same respondent•   of the same subdivision of a section of law•   within 18 months of the date of occurrence of the previous violation
+
+"Owner" defined
+
+For § 16-130(b) and 16 RCNY § 4-44 repeat violations, "owner" means:
+
+•   a person who is entitled to use or keep   •   a premises   •   equipment   •   vehicle(s) or   •   other personal property or•   a person who leases property (called a lessee) or•   a person who is holding the property, equipment, vehicles or other personal property of another and is the only person allowed to use it (called a bailee)
+
+A person is an "owner" even if another person has a security interest in the premises, equipment, vehicles or other personal property. A security interest is an interest in property. It allows the person with the security interest to take property if the owner does not meet an obligation such as payment on a debt. The term "owner" in this section does not include a person who holds a security interest.
+
+Default
+
+A respondent who does not appear or pay the Notice of Violation by mail before the scheduled hearing date is in default. For all charges in this penalty schedule, except for the charges listed under "Exceptions" below, the person or business charged on the Notice of Violation will have thirty days from the mailing date of the default order to pay the mail-in penalty indicated on the notice of violation penalty plus a late admit fee. The late admit fee is $30.00. At the end of thirty days, the full default penalty will be charged. For the charges listed under "Exceptions," the full amount of the default penalty will be imposed immediately upon default.
+
+Exceptions:
+
+•   Any charge that has a mail-in penalty equal to the maximum penalty allowed by law•   16-119•   All charges of § 16-120.1 except   •   16-120.1 (d), "Improper disposal of regulated household waste"   •   16-120.1(e) or (f), "Late filing of medical waste plans or reports within 30 days as per § 16-120.1(i)(6)"•   16-117.1•   16-130(b)•   16 RCNY §§ 4-04 et seq.•   16 RCNY §§ 4-11 et seq.•   16 RCNY §§ 3-02 et seq.•   16 RCNY §§ 4-32, 4-33, 4-34•   16 RCNY § 4-44•   All charges of section 16 RCNY § 11-02 except   •   16 RCNY § 11-02(a)(b), "Late filing of medical waste plans or reports within 30 days as per 16 RCNY § 11-02(c)"
+
+(Mitigation: 01) For a first-time violator, such penalty to be mitigated to $0 if proof is submitted that such condition has been cured prior to initial return date of the notice of violation.
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - 
+      - Penalty 
+      - Default 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Admin. Code § 16-116(a)
+      - Removal of commercial waste
+      - 
+      - $100
+      - $100 
+    * - Admin. Code § 16-116(b)
+      - Posting of sign/permit
+      - 1st
+      - (Mitigation: 01)
+      - $100
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Operator of vehicle)
+      - 1st
+      - $1,500
+      - $10,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Operator of vehicle)
+      - 2nd
+      - $5,000
+      - $10,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Operator of vehicle)
+      - 3rd
+      - $10,000
+      - $20,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Operator of vehicle)
+      - 4th
+      - $15,000
+      - $20,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Operator of vehicle)
+      - 5th
+      - $20,000
+      - $20,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Owner of vehicle)
+      - 1st
+      - $1,500
+      - $10,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Owner of vehicle)
+      - 2nd
+      - $5,000
+      - $10,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Owner of vehicle)
+      - 3rd
+      - $10,000
+      - $20,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Owner of vehicle)
+      - 4th
+      - $15,000
+      - $20,000
+    * - Admin. Code § 16-119****
+      - Illegal dumping (Owner of vehicle)
+      - 5th
+      - $20,000
+      - $20,000
+    * - Admin. Code § 16-120(a)**
+      - Improper Disposal
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(a)**
+      - Broken Receptacles
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(a)**
+      - Uncovered Receptacles
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(a)**
+      - Insufficient Receptacles
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(a)**
+      - Improper Disposal – Bedding
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(a)**
+      - Improper Receptacles
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(b)**
+      - Separation and weight
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(c)**
+      - Storage of receptacles
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(d)**
+      - Loose rubbish
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $100
+      - $300
+    * -  
+      -  
+      - 3rd
+      - $200
+      - $300
+    * - Admin. Code § 16-120(e)**
+      - Improper use of DSNY litter basket
+      - 1st
+      - $100
+      - $300
+    * -  
+      -  
+      - 2nd
+      - $250
+      - $350
+    * -  
+      -  
+      - 3rd
+      - $350
+      - $400
+    * - Admin. Code § 16-123**
+      - Snow, ice &amp; dirt removal
+      - 1st
+      - $100
+      - $350
+    * -  
+      -  
+      - 2nd
+      - $150
+      - $350
+    * -  
+      -  
+      - 3rd
+      - $250
+      - $350
+    * - Admin. Code § 16-127(a)
+      - Earth, rocks and rubbish
+      - 
+      - $100
+      - $150
+    * - Admin. Code § 16-122(b)*
+      - Street obstruction
+      - 
+      - $100
+      - $150
+    * - Admin. Code § 16-122(c)
+      - Disabled vehicle
+      - 
+      - $100
+      - $150
+    * - Admin. Code § 16-118(2)*
+      - Failure to sweep 18"from curb
+      - 
+      - $100
+      - $300
+    * - Admin. Code § 16-120.1******
+      - Improper disposal of infectious/medical waste
+      - 1st
+      - $2,500
+      - $10,000
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - $10,000
+    * -  
+      -  
+      - 3rd
+      - $10,000
+      - $10,000
+    * - Admin. Code § 16-117.1
+      - Improper transport/storage/ disposal of asbestos waste
+      - 
+      - $1,000
+      - $10,000
+    * - Admin. Code § 16-117.1
+      - Hazardous transportation/storage disposal of asbestos waste
+      - 
+      - $10,000
+      - $10,000
+    * - Admin. Code § 10-119***
+      - Illegal posting of handbill/notice
+      - 1st
+      - $75
+      - $200
+    * -  
+      -  
+      - 2nd
+      - $150
+      - $200
+    * - Admin. Code § 10-120***
+      - Defacement of City handbill/notice
+      - 1st
+      - $75
+      - $200
+    * -  
+      -  
+      - 2nd
+      - $150
+      - $200
+    * - Admin. Code § 10-169(b)(1)****
+      - Failure to display owner information on publicly accessible collection bin
+      - 1st2nd
+      - $50$100
+      - $50$100
+    * - Admin. Code § 10-169(b)(2)****
+      - Placement of publicly accessible collection bin on city property, property maintained by the city or public sidewalk or roadway
+      - 1st2nd
+      - $250$500
+      - $250$500
+    * - Admin. Code § 10-169(b)(2)****
+      - Attaching or enclosing publicly accessible collection bin to city property, property maintained by the city or on public sidewalk or roadway
+      - 1st2nd
+      - $500$1,000
+      - $500$1,000
+    * - Admin. Code § 10-169(b)(4)****
+      - Failure to maintain publicly accessible collection bin in a clean and neat condition (Property owner)
+      - 1st2nd
+      - $50$100
+      - $50$100
+    * - Admin. Code § 10-169(b)(4)****
+      - Failure to maintain publicly accessible collection bin in a clean and neat condition (Bin Owner)
+      - 1st2nd
+      - $50$100
+      - $50$100
+    * - Admin. Code § 10-169(b)(5)****
+      - Failure to register publicly accessible collection bin with DSNY
+      - 1st2nd
+      - $50$100
+      - $50$100
+    * - Admin. Code § 10-169(b)(5)****
+      - Submitting an annual report with false or misleading information or failure to submit an annual report to DSNY
+      - 1st2nd
+      - $50$100
+      - $50$100
+    * - Admin. Code § 10-119/120***
+      - Illegal posting/defacement of handbill (2nd offense)
+      - 
+      - $150
+      - $300
+    * - Admin. Code § 10-117(a)
+      - Illegal placement of stickers or decals on public or private property
+      - 
+      - $150
+      - $500
+    * - Admin. Code § 10-119***
+      - Posting on tree
+      - 1st
+      - $150
+      - $200
+    * -  
+      -  
+      - 2nd
+      - $300
+      - $550
+    * - Admin. Code § 16-130(b)*****
+      - Operating a nonputrescible solid waste transfer station without a permit
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY §§ 4-04 et seq.*****
+      - Comm.'s transfer station Rule Re: nonputrescible waste
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - Admin. Code § 16-130(b)*****
+      - Operating a putrescible waste transfer station without a permit.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY §§ 4-11 et seq.*****
+      - Comm.'s transfer station Rule Re: putrescible waste
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - Admin. Code § 16-130(b)*****
+      - Operating dump/fill without a permit
+      - 1st
+      - $2,500
+      - $10,000
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - $10,000
+    * -  
+      -  
+      - 3rd
+      - $10,000
+      - $10,000
+    * - 16 RCNY §§ 3-02 et seq.*****
+      - Comm's Rule Re: Dump/fill operation
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY §§ 4-32, 4-33, 4-34*****
+      - Violation of transfer station Rules re: siting/hours/reports/plans
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000410,000
+    * - Admin. Code § 16-130(b)********
+      - Operating an intermodal solid waste containerfacility without a registration
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 4-44(c)********
+      - Failure to handle intermodal containers in a safe and sanitary manner.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 4-44(g)********
+      - Failure to maintain solid waste received at the facility for transports in intermodal containers.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 4-44(h)********
+      - Failure of intermodal containers to meet the specification requirements set forth in 16 RCNY § 4-43.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 4-44(i)********
+      - Failure to maintain and/or provide records.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 4-44(j)********
+      - Failure to remove intermodal containers containing putrescible waste within 72 hours of receipt.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 4-44(l)********
+      - Failure to store equipment within the property lines.
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 1-04
+      - Improper disposal of regulated household waste
+      - 
+      - $100
+      - $250
+    * - 16 RCNY § 1-04.2
+      - Improper disposal of electronic waste
+      - 
+      - $100
+      - $100
+    * - 16 RCNY § 5-06(a)(3)
+      - Vehicle Body – Improper color
+      - 
+      - $250
+      - $500
+    * - 16 RCNY § 5-06
+      - Misc. Violation of vehicle body specifications
+      - 
+      - $250
+      - $500
+    * - Admin. Code § 16-120.1(d)
+      - Improper disposal of regulated household waste
+      - 
+      - $50
+      - $250
+    * - Admin. Code § 16-120.1(e)******
+      - Failure to file DEC medical waste plans
+      - 1st
+      - $2,500
+      - $10,000
+    * -  
+      -  
+      - 2nd
+      - $5,000
+      - $10,000
+    * -  
+      -  
+      - 3rd
+      - $10,000
+      - $10,000
+    * - Admin. Code § 16-120.1(f))******
+      - Failure to file DEC medical waste plans/amended plans
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - Admin. Code § 16-120.1(e) or(f)
+      - Late filing of medical waste plans or reports within 30 days as per Admin. Code § 16-120.1(i)(6)
+      - 
+      - $100
+      - $250
+    * - 16 RCNY § 11-02(a)******
+      - Failure to file DEC Medical Waste Plans
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - 16 RCNY § 11-02(b)******
+      - Failure to File Medical Waste Plans/Amended Plans
+      - 1st2nd3rd
+      - $2,500$5,000$10,000
+      - $10,000$10,000$10,000
+    * - Admin. Code § 16-122(b)*
+      - Repeat violation
+      - 
+      - $100
+      - $150
+    * - Admin. Code § 16-118(2)*
+      - Repeat violation
+      - 
+      - $250
+      - $300
+    * - 16 RCNY § 11-02(a),(b)
+      - Late Filing of Medical Waste Plans or Reports Within 30 days as per 16 RCNY § 11-02(c)
+      - 
+      - $100
+      - $250
+    * - 16 RCNY § 17-06(a)
+      - Failure to submit a registration or annual report
+      - 
+      - $250
+      - $250
+    * - 16 RCNY § 17-06(b)
+      - Responsible party failed to comply with Federal regulations when recovering refrigerants
+      - 
+      - $500
+      - $500
+    * - 16 RCNY § 17-06(c)
+      - Improper disposal of an appliance by a responsible party without arranging for the lawful recovery of refrigerants
+      - 
+      - $500
+      - $500
+    * - NYS General Business Law § 397-a
+      - Placement of unsolicited advertisements on private property in a manner contrary to sign authorized by General Business Law § 397-a.
+      - 
+      - $250
+      - $250
+    * - Admin. Code § 16-308(f)
+      - Improper receptacle for yard waste (Resident – One to eight dwelling units)
+      - 1st2nd3rd
+      - $25$50$100
+      - $25$50$100
+    * - Admin. Code § 16-308(f)
+      - Improper receptacle for yard waste (Resident – Nine or more dwelling units)
+      - 1st2nd3rd
+      - $100$200$400
+      - $100$200$400
+    * -  
+      -  
+      - Persistent Violator (fourth and any subsequent violation within a period of six months from the issuance of the first violation)
+      - $400
+      - $400
+    * - Admin. Code § 16-308(g)
+      - Improper dispersal of yard waste (Business Generating Yard Waste)
+      - 1st2nd3rd
+      - $250$1,000$2,500
+      - $250$1,000$2,500
+    * - Admin. Code § 16-308(g)
+      - Improper disposal of yard waste (Business Generating Yard Waste)
+      - 1st2nd3rd
+      - $250$1,000$2,500
+      - $250$1,000$2,500
+    * - Admin. Code § 16-327(a)
+      - Failure to dispose of solid waste and recyclable materials properly
+      - 
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+    * - Admin. Code § 16-327(b)(1)
+      - Failure to provide sufficient number of refuse and recycling receptacles for street event
+      - 
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+    * - Admin. Code § 16-327(b)(2)
+      - Spillage condition from overflowing receptacle
+      - 
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+    * - Admin. Code § 16-327(b)(3)
+      - Failure to properly bag and/or bundle refuse and recyclables
+      - 
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+    * - Admin. Code § 16-327(b)(4)
+      - Failure to place bagged and/or bundled refuse and recyclables at predetermined location
+      - 
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+      - $100 per violationMaximum: Up to $500 per day or $2,000 per street event.
+    * - Admin. Code § 16-404***
+      - Improper Disposal of Rechargeable Battery
+      - 1st2nd3rd
+      - $50$100$200
+      - $50$100$200
+    * - Admin. Code § 16-405(a)***
+      - Failure to Comply with Rechargeable Battery Recycling Program Requirements (Retailer)
+      - 1st2nd3rd
+      - $200$400$500
+      - $200$400$500
+    * - Admin. Code § 16-405(b)***
+      - Failure to Comply with Rechargeable Battery Recycling Program Requirements (Battery Manufacturer)
+      - 1st2nd3rd
+      - $2,000$4,000$5,000
+      - $2,000$4,000$5,000
+    * - Admin. Code § 16-461(a)(1)*********
+      - Unlawful removal and transport of recyclable material from residential building, city-occupied building, vacant lot (vehicle owner)
+      - 1st
+      - $$500
+      - $500
+    * -  
+      -  
+      - 2nd
+      - $750
+      - $750
+    * -  
+      -  
+      - 3rd
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-461(a)(1)*********
+      - Unlawful removal and transport of recyclable material from residential building, city-occupied building, vacant lot (vehicle owner) – Affidavit
+      - 1st
+      - $500
+      - $500
+    * -  
+      -  
+      - 2nd
+      - $750
+      - $750
+    * -  
+      -  
+      - 3rd
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-461(a)(1)*********
+      - Unlawful removal and transport of recyclable material from residential building, city-occupied building, vacant lot (vehicle operator)
+      - 1st
+      - $500
+      - $500
+    * -  
+      -  
+      - 2nd
+      - $750
+      - $750
+    * -  
+      -  
+      - 3rd
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-461(a)(2)(i)
+      - Entering into agreement for supplemental collection of recyclable material without requesting supplemental collection from DSNY or otherwise meeting requirements of Admin. Code § 16-461(2)(i)
+      - 
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-461(a)(2)(iii)
+      - Failure to contain all necessary elements within collection agreement
+      - 
+      - $100
+      - $100
+    * - Admin. Code § 16-461(a)(2)(iv)
+      - Agreement in place exceeds two year limit
+      - 
+      - $100
+      - $100
+    * - Admin. Code § 16-461(a)(2)(v)
+      - Failure to have valid proof of agreement
+      - 
+      - $100
+      - $100
+    * - Admin. Code § 16-461(a)(3)
+      - Failure to submit report
+      - 
+      - $500
+      - $500
+    * - Admin. Code § 16-461(b)*********
+      - Unlawful removal and transport of Department-marked item from residential building, city-occupied building, vacant lot (vehicle operator)
+      - 1st
+      - $750
+      - $750
+    * -  
+      -  
+      - 2nd
+      - $1,000
+      - $1,000
+    * -  
+      -  
+      - 3rd
+      - $1,500
+      - $1,500
+    * - Admin. Code § 16-461(b)*********
+      - Unlawful removal and transport of Department-marked item from residential building, city-occupied building, vacant lot (vehicle owner)
+      - 1st
+      - $500
+      - $500
+    * -  
+      -  
+      - 2nd
+      - $750
+      - $750
+    * -  
+      -  
+      - 3rd
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-461(b)*********
+      - Unlawful removal and transport of refrigerant-containing item from residential building, city-occupied building, vacant lot (vehicle operator)
+      - 1st
+      - $750
+      - $750
+    * -  
+      -  
+      - 2nd
+      - $1,000
+      - $1,000
+    * -  
+      -  
+      - 3rd
+      - $1,500
+      - $1,500
+    * - Admin. Code § 16-461(b)*********
+      - Unlawful removal and transport of refrigerant-containing item from residential building, city-occupied building, vacant lot (vehicle owner)
+      - 1st
+      - $500
+      - $500
+    * -  
+      -  
+      - 2nd
+      - $750
+      - $750
+    * -  
+      -  
+      - 3rd
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-461(c)*********
+      - Unlawful removal and transport of recyclable material from commercial building (vehicle operator)
+      - 1st
+      - $1,000
+      - $1,000
+    * -  
+      -  
+      - 2nd
+      - $2,000
+      - $2,000
+    * - Admin. Code § 16-461(c)*********
+      - Unlawful removal and transport of recyclable material from commercial building (vehicle owner)
+      - 1st
+      - $1,000
+      - $1,000
+    * -  
+      -  
+      - 2nd
+      - $2,000
+      - $2,000
+    * - Admin. Code § 16-461(c)*********
+      - Unlawful removal and transport of recyclable material from commercial building (vehicle owner) – Affidavit
+      - 1st
+      - $1,000
+      - $1,000
+    * -  
+      -  
+      - 2nd
+      - $2,000
+      - $2,000
+    * - Admin. Code § 16-463(b)*********
+      - Unlawful receipt of recyclable material
+      - 1st
+      - $1,000
+      - $1,000
+    * -  
+      -  
+      - 2nd
+      - $2,000
+      - $2,000
+    * - Admin. Code § 16-463(c)*********
+      - Unlawful receipt of Department-marked item
+      - 1st
+      - $1,500
+      - $1,500
+    * -  
+      -  
+      - 2nd
+      - $3,000
+      - $3,000
+    * - Admin. Code § 16-463(d)*********
+      - Unlawful receipt of refrigerant-containing item
+      - 1st
+      - $1,500
+      - $1,500
+    * -  
+      -  
+      - 2nd
+      - $3,000
+      - $3,000
+    * - Admin. Code § 16-471(a)
+      - Use of motor vehicle to unlawfully accept, receive, or collect recyclable containers in bulk from more than one person on or in any street (Vehicle Operator)
+      - 
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-471
+      - Use of motor vehicle to unlawfully accept, receive, or collect recyclable containers in bulk from more than one person on or in any street (Vehicle Owner)
+      - 
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-471
+      - Unlawful transfer of recyclable containers in bulk from one vehicle to another on or in any street where one or more of the vehicles has a commercial license plate (Vehicle Owner)
+      - 
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-471(b)
+      - Unlawful transfer of recyclable containers in bulk from one vehicle to another on or in any street where one or more of the vehicles has a commercial license plate (Vehicle Operator)
+      - 
+      - $1,000
+      - $1,000
+    * - Admin. Code § 16-472
+      - Failure to register with the Department of Sanitation
+      - 
+      - $500
+      - $500
+    * - Admin. Code § 16-473
+      - Failure to file an annual report to the Department of Sanitation
+      - 
+      - $250
+      - $250
+    * - Admin. Code § 16-474
+      - Operating at a location other than that specified in registration
+      - 
+      - $250
+      - $250
+    * - Admin. Code § 16-474
+      - Failure to keep location specified in registration in a safe and sanitary manner
+      - 
+      - $250
+      - $250
+~
+
+ 
+
+
+
+
+
+
+
+
+*§ 3-123 Sewer Control Rules Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-124 Department of Transportation Penalty Schedule. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-125 Vehicle and Traffic Law Penalty Schedule.* ::
+
+
+ VEHICLE AND TRAFFIC LAW PENALTY SCHEDULE
+
+All Citations are to the NY State Vehicle and Traffic Law.
+
+* Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to the penalty for this charge for a failure to submit a payment by mail, as per 48 RCNY § 3-32, within 30 days of the mailing of the default order issued against respondent. A repeat violation is a violation by the same respondent occurring within 18 months of the date of occurrence of the previous violation. The previous violation may have been for the placement of a handbill on any motor vehicle.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - Penalty
+      - Default
+    * - 1224(7)*
+      - Abandoning a vehicle
+      - $250
+      - $1,000
+    * - 375(1)(b)
+      - Illegal placement of handbills on windshields or under windshield wipers of motor vehicles.
+      - $75
+      - $100
+    * -  
+      - 2nd Offense
+      - $150
+      - $200
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 3-126 Water Penalty Schedule.* ::
+
+
+WATER PENALTY SCHEDULE
+
+All citations preceded by "A.C." are to the New York City Administrative Code. All other citations are to Title 15 of the Rules of the City of New York.
+
+* If a respondent charged with a violation of 15 RCNY § 20-04(e) submits the annual test report by the first hearing date, the penalty shall be mitigated from $500 to $50. For 15 RCNY § 20-04(e), the possibility of such mitigation exists only in connection with the first NOV issued to a given respondent.
+
+Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all the below listed penalties for a failure to submit a payment by mail, as per 48 RCNY § 3-32, within 30 days of the mailing date of the default order issued against respondent.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section
+      - Description
+      - Penalty
+      - Default
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - Stage I Drought Emergency
+      - 
+      - 
+    * - Admin. Code § 24-337
+      - Waste of city water (commercial or industrial)
+      - $400
+      - $1,000
+    * - Admin. Code § 24-337
+      - Waste of city water (residential)
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-06
+      - Failure to post"Save Water"signs
+      - $100
+      - $1,000
+    * - 15 RCNY § 21-07
+      - Failure to post Water-Conserving Irrigation System sign
+      - $100
+      - $1,000
+    * - 15 RCNY § 21-08
+      - Improper use of well water
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(a)
+      - Allowing leak or waste of water from faucets, valves, pipes etc.
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(b)
+      - Using public water to wash vehicles.
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(c)
+      - Using water to spray or wash sidewalk, street
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(d)
+      - Using any water for ornamental purposes
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(e)
+      - Using water for lawns, golf course, plants, trees
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(f)
+      - Illegal use of fire hydrants
+      - $750
+      - $1,000
+    * - 15 RCNY § 21-09(g)
+      - Serving water without request
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(h)
+      - Use of public water for pools
+      - $250
+      - $1,000
+    * - 15 RCNY § 21-09(i)
+      - Use of noncompliant showerhead
+      - $250
+      - $1,000
+    * -  
+      - Stage II Drought Emergency
+      - 
+      - 
+    * - Admin. Code § 24-337
+      - Waste of city water (commercial or industrial)
+      - $500
+      - $1,000
+    * - Admin. Code § 24-337
+      - Waste of city water (residential)
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-06
+      - Failure to post"Save Water"signs
+      - $200
+      - $1,000
+    * - 15 RCNY § 21-07
+      - Failure to post Water-Conserving Irrigation System sign
+      - $200
+      - $1,000
+    * - 15 RCNY § 21-08
+      - Improper use of well water
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(a)
+      - Allowing leak or waste of water from faucets, valves, pipes etc.
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(b)
+      - Using public water to wash vehicles
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(c)
+      - Using water to spray or wash sidewalk, street
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(d)
+      - Using any water for ornamental purposes
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(e)
+      - Using water for lawns, golf course, plants, trees
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(f)
+      - Illegal use of fire hydrants
+      - $750
+      - $1,000
+    * - 15 RCNY § 21-10(g)
+      - Serving water without request
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(h)
+      - Use of public water for pools
+      - $350
+      - $1,000
+    * - 15 RCNY § 21-10(i)
+      - Use of noncompliant showerhead
+      - $350
+      - $1,000
+    * -  
+      - Stage III Drought Emergency
+      - 
+      - 
+    * - Admin. Code § 24-337
+      - Waste of city water (commercial or industrial)
+      - $600
+      - $1,000
+    * - Admin. Code § 24-337
+      - Waste of city water (residential)
+      - $450
+      - $1,000
+    * - 15 RCNY § 21-06
+      - Failure to post"Save Water"signs
+      - $300
+      - $1,000
+    * - 15 RCNY § 21-07
+      - Failure to post Water-Conserving Irrigation System sign
+      - $400
+      - $1,000
+    * - 15 RCNY § 21-08
+      - Improper use of well water
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(a)
+      - Allowing leak or waste of water from faucets, valves, pipes etc.
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(b)
+      - Using public water to wash vehicles
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(c)
+      - Using water to spray or wash sidewalk, street
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(d)
+      - Using any water for ornamental purposes
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(e)
+      - Using water for lawns, golf course, plants, trees
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(f)
+      - Illegal use of fire hydrants
+      - $750
+      - $1,000
+    * - 15 RCNY § 21-11(g)
+      - Serving water without request
+      - $550
+      - $1,000
+    * - 15 RCNY § 21-11(h)
+      - Use of public water for pools
+      - $950
+      - $1,000
+    * - 15 RCNY § 21-11(i)
+      - Use of noncompliant showerhead
+      - $450
+      - $1,000
+    * - 15 RCNY § 21-11(j)
+      - Use of non-air cooled air conditioning system using public water with temperature below 79 F.
+      - $550
+      - $1,000
+    * -  
+      - Other Water Regulations
+      - 
+      - 
+    * - Admin. Code § 24-308
+      - Illegal Use of Hydrant(s)
+      - $750
+      - $1,000
+    * - Admin. Code § 24-337
+      - Illegal waste of water (Residential)
+      - $250
+      - $1,000
+    * - Admin. Code § 24-339
+      - Distribution/Sale/Import/Installation of water wasting plumbing fixtures
+      - $475
+      - $1,000
+    * - Admin. Code § 24-346(b)
+      - Failed to comply with Commissioner's Order
+      - $750
+      - $1,000
+    * - 15 RCNY § 20-01(b)(1)
+      - Plumbing work w/o permit
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-01(e)
+      - Failed to produce permit on demand
+      - $150
+      - $1,000
+    * - 15 RCNY § 20-01(f)
+      - Failed to obtain/return emergency permit
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-02(b)
+      - Unlawful connection to City main
+      - $700
+      - $1,000
+    * - 15 RCNY § 20-03(k)(4)
+      - Failed to protect curb valve/box from damage
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-03(w)
+      - Failed to replace old service pipes upon establishment of new water service
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-03(x)
+      - Failed to install meter on unmetered property when service pipe is replaced/repaired/relaid/installed
+      - $350
+      - $1,000
+    * - 15 RCNY § 20-04(d)
+      - Failed to install a backflow preventer
+      - $700
+      - $1,000
+    * - 15 RCNY § 20-04(e)
+      - Failed to submit an annual test report for a backflow preventer
+      - $500 or mitigation penalty of $50*
+      - $1,000
+    * - 15 RCNY § 20-05(a)
+      - No meter in place
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-05(b)(1)
+      - Meter repair/removal w/o permit
+      - $350
+      - $1,000
+    * - 15 RCNY § 20-05(b)(2)
+      - Failed to return meter permit
+      - $350
+      - $1,000
+    * - 15 RCNY § 20-05(d)(5)
+      - No reading receptacle for remote pad
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-05(g)
+      - Improper size/type of meter
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-05(i)(1)
+      - Meter not readily accessible
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-05(i)(2) - (12)
+      - Improper setting of meter
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-05(i)(12)
+      - Failed to design meter setting to ensure electrical continuity
+      - $150
+      - $1,000
+    * - 15 RCNY § 20-05(j)
+      - Prohibited meter bypass
+      - $500
+      - $1,000
+    * - 15 RCNY § 20-05(k)
+      - Improper meter pit/box/vault construction
+      - $350
+      - $1,000
+    * - 15 RCNY § 20-05(m)(1)
+      - Failed to install new meter after unpermitted disconnection of old meter
+      - $750
+      - $1,000
+    * - 15 RCNY § 20-05(n)
+      - Breaking seal on equipment w/o permit
+      - $500
+      - $1,000
+    * - 15 RCNY § 20-05(p)
+      - Inadequate protection of meter/remote receptacle/AMR Transmitter/wiring
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-05(p)(2)
+      - Relocated remote receptacle or AMR transmitter without permit
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-06
+      - A.C./refrigeration violation
+      - $350
+      - $1,000
+    * - 15 RCNY § 20-07(c)
+      - Failed to submit self-certification of domestic water service pipe installation
+      - $250
+      - $1,000
+    * - 15 RCNY § 20-08(a)(6)
+      - Lawn/garden watering prohibited time/manner
+      - $150
+      - $1,000
+    * - 15 RCNY § 20-08(a)(7)
+      - Sidewalk flushing prohibited time/manner
+      - $150
+      - $1,000
+    * - 15 RCNY § 20-08(a)(9)
+      - Prohibited use of water for car washing
+      - $150
+      - $1,000
+    * - 15 RCNY Chapter 20
+      - Violation of miscellaneous rules regarding use and supply of water
+      - $150
+      - $1,000
+~
+
+ 
+
+
+
+
+
+
+*§ 3-127 Small Business Services Penalty Schedule.* ::
+
+
+SMALL BUSINESS SERVICES PENALTY SCHEDULE
+
+*For these sections, a repeat violation is a violation by the same respondent of the same section of law as the previous violation with a date of occurrence within 18 months of the date of occurrence of the previous violation.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Rule
+      - Description
+      - Penalty
+      - Default
+    * - Admin. Code § 22-112(a)(1)*
+      - Placement, discharge or deposit of refuse, sludge, acid or any other refuse into the Port of New York
+      - 1st offense: $1,5002nd offense: $5,0003rd offense: $10,0004th offense: $15,0005th and any subsequent offense:$20,000
+      - 1st offense: $10,0002nd offense: $20,0003rd offense: $20,0004th offense: $20,0005th and any subsequent offense:$20,000 
+    * - Admin. Code § 22-112(a)(2)*
+      - Discharging, causing or permitting oil, oil refuse or other inflammable matter from any ship or vessel into the Port of New York
+      - 1st offense: $1,5002nd offense: $5,0003rd offense: $10,0004th offense: $15,0005th and any subsequent offense:$20,000
+      - 1st offense: $10,0002nd offense: $20,0003rd offense: $20,0004th offense: $20,0005th and any subsequent offense:$20,000
+~
+
+
+
+ 
+
+
+
+
 Chapter 4: Fitness and Discipline Hearings For OATH Employees
 --------------------------------------------------
 

@@ -318,6 +318,8 @@ Chapter 4: Traffic Rules and Regulations
 
 (b) Definitions. The following words and phrases, when used in these rules, shall, for the purpose of these rules, have the following meanings:
 
+   Access-A-Ride vehicle. An “Access-A-Ride vehicle” means a vehicle authorized by the Metropolitan Transportation Authority New York City Transit to provide only the Access-A-Ride service. Such vehicle must bear a license plate with the New York Department of Motor Vehicles designation of “New York City Transit Authority”, and must also have an authorized and clearly visible Access-A-Ride logo on its back side, not smaller than six inches by six inches in size.
+
    Bicycle. "Bicycle" means every two- or three-wheeled device upon which a person or persons may ride, propelled by human power through a belt, a chain or gears, with such wheels in a tandem or tricycle, except that it will not include such a device having solid tires and intended for use only on a sidewalk by pre-teenage children. For the purposes of these rules the term bicycle includes a pedal-assist bicycle as defined in this section.
 
    Bicycle sharing system. The term "bicycle sharing system" means a network of self-service and publicly available bicycles in which a bicycle trip begins and/or ends on any public highway in the City of New York.
@@ -876,59 +878,21 @@ Chapter 4: Traffic Rules and Regulations
 
    (4) Duration. Permits are issued for the minimum hours and days essential for the activity. Bus permits are valid only while transporting passengers. Yearly permits are issued on an annual basis on dates determined by the Department of Transportation. These permits are renewable by reapplication in writing to the Department of Transportation. The Commissioner or his/her designee may, at his/her discretion, issue, extend or revoke any permit.
 
-(k) Express lanes on limited access highways.
+(k) Express lanes.
 
-   (1) Restrictions. Wherever signs are erected on highways or bridges giving notice of express lanes, no person shall operate a vehicle other than a vehicle as specified in paragraph (2) of this subdivision, a medallion taxi or a for-hire vehicle with at least one passenger as specified in paragraph (3) of this subdivision, an emergency vehicle as specified in paragraph (4) of this subdivision, or a vehicle classified as an HOV, with or without EZPASS as specified on such sign, within a designated express lane on a highway or bridge during the hours specified on such signs.
+   (1) Restrictions. Wherever signs are erected on highways or bridges giving notice of express lanes, except as otherwise posted, no person shall operate a vehicle other than a vehicle as specified in paragraph (2) of this subdivision, an emergency vehicle as specified in paragraph (4) of this subdivision, or a vehicle classified as an HOV, with or without EZPASS as specified on such sign, within a designated express lane on a highway or bridge during the hours specified on such signs.
 
-   (2) Buses, out-of-state bus equivalents, Access-A-Ride vehicles, ambulettes and wheelchair accessible vans. Vehicles registered as buses in New York State, vehicles registered out-of-state that are equivalent to New York State registered buses, all vehicles authorized by the Metropolitan Transportation Authority New York City Transit ("MTA/NYCT") to provide Access-A-Ride service, ambulettes, wheelchair accessible vans, and motorcycles shall be eligible to use express lanes on highways or bridges pursuant to this subdivision as follows:
+   (2) Buses and Access-A-Ride vehicles. Vehicles registered as buses in New York State, vehicles registered out-of-state that are equivalent to New York State registered buses, Access-A-Ride vehicles and motorcycles shall be eligible to use express lanes on highways or bridges pursuant to this subdivision.
 
-      (i) The owner or operator of any vehicle registered as a bus in New York State shall be able to provide proof of:
-
-         (A) operating authority issued by one or more of the following as required: the appropriate New York City agency, department or authority; the New York State Department of Transportation; or the Interstate Commerce Commission; and
-
-         (B) current valid vehicle registration indicating New York State bus or official license plates; and
-
-         (C) minimum vehicle seating capacity of 16 passengers not including the operator; and
-
-         (D) seating capacity consistent with the seating capacity set forth in the appropriate grant of operating authority; and
-
-         (E) valid insurance consistent with state requirements.
-
-      (ii) The owner or operator of any vehicle registered out-of-state that is equivalent to a New York State registered bus shall be able to provide proof of:
-
-         (A) operating authority issued by one or more of the following as required: the appropriate New York City agency, department or authority; the appropriate out-of-state authorizing agency, department or authority; or the Interstate Commerce Commission; and
-
-         (B) current valid vehicle registration indicating license plates equivalent to New York State bus or official license plates; and
-
-         (C) minimum vehicle seating capacity of 16 passengers not including the operator; and
-
-         (D) seating capacity consistent with the seating capacity set forth in the appropriate grant of operating authority; and
-
-         (E) valid insurance consistent with State requirements.
-
-      (iii) The owner or operator of any vehicle authorized by the Metropolitan Transportation Authority New York City Transit ("MTA/NYCT") to provide Access-A-Ride service, ambulette or wheelchair accessible van shall be able to provide proof of:
-
-         (A) operating authority issued by one or more of the following as required: the New York City Taxi and Limousine Commission; the New York State Department of Transportation; or the Interstate Commerce Commission; and
-
-         (B) current valid vehicle registration; and
-
-         (C) seating capacity consistent with the seating capacity set forth in the applicable grant of operating authority, where such grant specifies a seating capacity; and
-
-         (D) valid insurance consistent with state requirements.
-
-      (iv) The owner or operator of any vehicle registered as a motorcycle in New York State shall be able to provide proof of:
-
-         (A) current valid vehicle registration; and
-
-         (B) valid insurance consistent with State requirements.
-
-   (3) Taxis and for-hire vehicles. Medallion taxis and for-hire vehicles duly licensed by the New York City Taxi and Limousine Commission carrying at least one passenger shall be allowed to use express lanes on highways or bridges. Medallion taxis and for-hire vehicles without passengers shall not be allowed to use express lanes on highways or bridges. Medallion taxis and for-hire vehicles without passengers shall not be allowed to use express lanes on highways or bridges.
+   (3) Taxis and for-hire vehicles. Medallion taxis and for-hire vehicles duly licensed by the New York City Taxi and Limousine Commission carrying at least one passenger shall be allowed to use express lanes on highways or bridges. Medallion taxis and for-hire vehicles without passengers shall not be allowed to use express lanes on highways or bridges.
 
    (4) Emergency vehicles. Emergency vehicles responding to emergencies shall be allowed to use express lanes on highways or bridges. Emergency vehicles not responding to emergencies shall not be allowed to use express lanes on highways or bridges.
 
 (l) Use of the Grand Central Parkway by certain vehicles. Notwithstanding any other provision of these rules to the contrary, single-unit vehicles with no more than three axles and ten tires may operate in both directions on the roadway of the Grand Central Parkway, between the Triborough Bridge and the western leg of the Brooklyn-Queens Expressway. Buses will continue to be prohibited from operating on the Grand Central Parkway without consent.
 
 (m) Use of the Korean War Veterans Parkway by certain vehicles. Notwithstanding any other provision of these rules to the contrary, not more than forty-ton motor vehicles commonly classified as construction trucks owned and/or operated by the Department of Environmental Protection of the City of New York, its agents or contractors shall be permitted the use of the Korean War Veterans Parkway during remediation of the Brookfield landfill in Staten Island for the purpose of the remediation of such landfill, provided that such trucks comply with all other provisions of applicable state and local law, including but not limited to 34 RCNY § 4-15.
+
+
 
 
 
@@ -2008,7 +1972,7 @@ Chapter 4: Traffic Rules and Regulations
 
 (m) Bus lane restrictions on city streets.
 
-   (1) When signs are erected giving notice of bus lane restrictions, no person shall drive a vehicle other than a bus within a designated bus lane during the restricted hours, except:
+   (1) When signs are erected giving notice of bus lane restrictions, except as otherwise posted, no person shall drive a vehicle other than a bus or a wheelchair accessible Access-A-Ride vehicle having a seating capacity of four or more passengers, within a designated bus lane during the restricted hours, except:
 
       (i) to use such bus lane in a safe manner in order to make a right hand turn where permitted into a public or private street or driveway provided that the vehicle does not drive through an intersection; or
 
@@ -4615,37 +4579,15 @@ Local Truck Route Network
 
 
 
-Chapter 5: Paratransit Program (Access-a-Ride)
+Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 --------------------------------------------------
 
 
 
-*§ 5-01 Definitions.* ::
+*§ 5-01 Definitions. [Repealed]* ::
 
 
-Access-a-Ride. "Access-a-Ride" is the service name of the City-sponsored program to provide transportation to eligible persons.
 
-Advance-reservation trip. "Advance-reservation trip," means a one-way trip for which a reservation shall have been made in accordance with 34 RCNY § 5-03(b).
-
-Carrier. "Carrier" means a company that has contracted with the City to provide Access-a-Ride transportation to eligible persons in a borough of the City.
-
-Director. "Director" means the official of the City Department of Transportation whose duties consist of or include the management and oversight of Access-a-Ride, or his or her designee.
-
-Eligible person. An "eligible person" means a transportation-disabled person who has been certified as eligible to participate in Access-a-Ride, in accordance with the requirements established by the Transportation Disabled Committee and set forth in the Access-a-Ride registration form.
-
-Late cancellation. "Late cancellation" means any cancellation received by a carrier after 3:00 p.m. on the day preceding a scheduled subscription trip or advance-reservation trip.
-
-No show. A "no show" means an occasion on which a participant has not cancelled a prescheduled subscription trip or advance-reservation trip and has subsequently failed to be present at the scheduled pick-up site as provided in 34 RCNY § 5-05(a).
-
-Office of Paratransit Operations. "Office of Paratransit Operations" means the City Department of Transportation's Office of Paratransit Operations, and any successor governmental office, bureau, or agency thereof.
-
-Participant. "Participant" means an eligible person.
-
-Subscriber. "Subscriber" means an eligible person who has been granted an Access-a-Ride subscription by the Office of Paratransit Operations.
-
-Subscription trip. "Subscription trip" means a regularly scheduled one-way trip taken pursuant to an Access-a-Ride subscription.
-
-Transportation Disabled Committee. "Transportation Disabled Committee" means the committee established pursuant to § 15-b of the Transportation Law, and any successor committee, agency, bureau or entity thereof.
 
 
 
@@ -4655,79 +4597,57 @@ Transportation Disabled Committee. "Transportation Disabled Committee" means the
 *§ 5-02 [Reserved]* ::
 
 
-(a) Subscriptions.
-
-   (1) Subscriptions shall be for not less than one one-way trip per week and not more than five round trips per week. The Office of Paratransit Operations may set an expiration date for each subscription, which in no case shall be later than three years after the date the subscription was granted.
-
-   (2) The Office of Paratransit Operations may hold one or more lotteries to select subscribers, in which case the lottery pool shall consist of all eligible persons who have applied for an Access-a-Ride subscription.
-
-(b) Advance-reservation trips. An advance-reservation trip shall be reserved in advance by a participant not more than three days and not less than one day preceding the trip. Such trip may be provided on a space available basis. A participant may request a same-day trip, which trip the carrier shall also provide on a space-available basis.
 
 
 
 
 
 
-*§ 5-04 Cancellations.* ::
 
-
-(a) Required notification of a cancellation. A participant who for any reason is unable to take a scheduled trip shall notify the carrier no later than 3:00 p.m. on the day preceding the scheduled trip.
-
-(b) Repeated late cancellations. Six or more late cancellations within a six-month period may result in the suspension of a participant from Access-a-Ride for up to one month, at the discretion of the Director.
+*§ 5-03 Subscription and Advance-Reservation Trips. [Repealed]* ::
 
 
 
 
 
 
-*§ 5-05 Participant Obligations For Pick-Up.* ::
 
 
-(a) Pick-up time. A participant shall wait at the prearranged pick-up site for at least five minutes before and at least thirty (30) minutes after the scheduled pick-up time.
 
-(b) Effect of a "no-show." If there has been a "no-show" in the first part of a round trip, the carrier may automatically cancel the participant's return trip. The participant may request the carrier to reinstate the return trip, which trip the carrier shall provide on a space-available basis.
-
-(c) Repeated "no-shows." Three or more "no-shows" within a six month period may result in the suspension of a participant from Access-a-Ride for up to one month, at the discretion of the Director.
+*§ 5-04 Cancellations. [Repealed]* ::
 
 
 
 
 
 
-*§ 5-06 Eligibility Review Board.* ::
 
 
-(a) There shall be in the Access-a-Ride program of the Department an eligibility review board (the "Board") consisting of the assistant director of Access-a-Ride, who shall be chairperson, and two persons who shall be appointed by the Director, who shall serve on the Board at the pleasure of the Director, without compensation, and who are not otherwise employed by the Department. One of such two members shall be one of the following: a licensed physician, a license occupational therapist, a licensed physical therapist, a licensed rehabilitation counselor, chiropractor, certified social worker (C.S.W.) or a registered nurse. The other member shall be an eligible passenger. The chairperson shall have the power to exercise or delegate any of his or her functions, powers or duties as chairperson and member of the Board to any employee of the Department, subject to the written approval of the Deputy Commissioner of Transit Operations.
 
-(b) The Director may appoint an alternate member, who shall meet the qualification requirements of paragraph (a) of this section, for any member who is unable to attend a particular meeting. The Director may appoint a replacement member to fill any vacancy on the Board.
-
-(c) A quorum shall consist of a majority of the members of the Board, and any decision of the Board shall be approved by vote of a majority of the board.
-
-(d) Any person who is the subject of a decision of the Department for any of the reasons set forth below may request the Board to review such decision:
-
-   (1) a denial of participation in Access-a-Ride because of a decision that he or she does not meet the criteria for eligibility; or
-
-   (2) a termination of participation in Access-a-Ride because of a decision that his or her application was not certified in accordance with the eligibility requirements established by the Transportation Disabled Committee; or
-
-   (3) a suspension or termination of participation in Access-a-Ride in accordance with the rules of the Access-a-Ride program.
-
-(e) When a person requests Board review of a Department decision, the Board shall review written materials provided to the Board by the Department and the person who is making the request for review. The Board, in its sole discretion, may request additional information from the Department and/or the person making the request or may provide the person making the request an opportunity to appear before the Board.
-
-(f) After reviewing all information provided, the Board shall make a recommendation to the director of Access-a-Ride, who shall make the final decision. The Director shall inform the person who made the request of the Department's final decision.
+*§ 5-05 Participant Obligations For Pick-Up. [Repealed]* ::
 
 
 
 
 
 
-*§ 5-07 Participant Behavior.* ::
 
 
-(a) No participant shall perform any act which causes or may tend to cause harm, injury or damage to any other participant in Access-a-Ride, to an employee of an Access-a-Ride carrier or the Access-a-Ride program, or to any vehicle or other property of an Access-a-Ride carrier.
 
-(b) No participant shall cause harm to or interfere with the safe and efficient operation of Access-a-Ride service.
+*§ 5-06 Eligibility Review Board. [Repealed]* ::
 
-(c) A violation of any of the provisions of this section by a participant may result in the suspension or termination of such participant from Access-a-Ride, at the discretion of the Director.
+
+
+
+
+
+
+
+
+*§ 5-07 Participant Behavior. [Repealed]* ::
+
+
+
 
 
 

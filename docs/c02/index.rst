@@ -7225,7 +7225,68 @@ Chapter 46: Fees
 
  
 
-(f) Administrative Services Fees (FC A04). [Reserved.]
+* * *
+
+   51. Plan examinations
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Review of design and installation documents, except as otherwise provided in FC A03.1(51)
+      - $420.00
+    * - Review of design and installation documents for commercial cooking systems
+      - $210.00
+    * - Review of fire protection plan
+      - $420.00
+    * - Review of fire safety and evacuation plan
+      - $210.00
+    * - Review of emergency action plan
+      - 
+    * - Original application
+      - $525.00
+    * - Amended application (per hour) (total not to exceed $525.00)
+      - $210.00
+    * - Review of combined fire safety and evacuation plan and emergency action plan
+      - 
+    * - Original application
+      - $630.00
+    * - Amended application (per hour) (total not to exceed $630.00)
+      - $210.00
+    * - Review of professionally certified application
+      - $210.00
+    * - Supplemental review of new technology applications (including plans filed pursuant to FC 102.8 and 104.9) and other applications requiring complex technical analyses
+      - $525.00
+    * - Late plan filings
+      - 
+    * - Filing of design and installation documents for new or altered facility or installation from the date of commencement of work without approved design and installation documents to one year from such date
+      - 50% surcharge
+    * - Filing of design and installation documents for new or altered facility or installation more than one year after the date of commencement of work without approved design and installation documents
+      - 100% surcharge
+~
+
+ 
+
+(f) Administrative Services Fees (FC A04). FC A04 is amended to read as follows: 
+										
+
+* * *
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 9. Document management for fire alarm system, emergency alarm system, auxiliary radio communication system or fire extinguishing system application and for any other application not requiring a work permit from the Department of Buildings (per application)
+      - $165.00
+~
+
+
+
+ 
 
 (g) Late Renewals (FC A05). [Reserved.]
 

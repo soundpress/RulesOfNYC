@@ -10709,6 +10709,69 @@ Note: Aggregate volume is the maximum volume (e.g. length times width times heig
 
 
 
+Chapter 19.1: [Industrial, Commercial, Construction, and Post-Construction Stormwater Sources]
+--------------------------------------------------
+
+
+
+*§ 19.1-01 General Administration and Enforcement.* ::
+
+
+Applicability. These rules apply to the discharge of stormwater from property within those portions of the city of New York served by the municipal separate storm sewer system (MS4) including, but not limited to, discharges from industrial stormwater sources and covered development projects.
+
+
+
+
+
+
+
+
+*§ 19.1-02 Industrial and Commercial Stormwater Sources.* ::
+
+
+(a) Applicability. This section applies to industrial stormwater sources within the MS4 area and industrial or commercial premises or facilities in the MS4 area that the department determines may generate significant contributions of pollutants of concern into impaired waters.
+
+(b) Compliance Requirements. All industrial stormwater sources must comply with all applicable conditions of the MSGP, including, but not limited to, all applicable effluent limitations, reporting requirements, and the requirement to develop and implement a SWPPP.
+
+(c) Providing False or Misleading Information. It shall be unlawful to make any material false statement, representation, or certification in any application, record, report, plan, or other document filed with the department or required to be maintained under the MSGP or by the Commissioner.
+
+
+
+
+
+
+
+
+*§ 19.1-03 Construction and Post-Construction Stormwater Sources.* ::
+
+
+(a) This rule applies to covered development projects that discharge to a separate storm sewer system owned or operated by the City, and covered development projects that are located on municipally owned or operated sites that drain by overland flow to waters of the state.
+
+(b) The MS4 map set forth in these rules is not the sole basis for determining whether a development activity is a covered development project. The map is an approximation of the boundaries of the MS4 area at a point in time. Such boundaries may change with changes to the separate storm sewer system and refinement of the map. The map is intended as a convenience and is not dispositive of whether a development project is within the MS4 area. When in doubt, developers should submit a record request form found on the department’s website for information on sewer drainage.
+
+(c) Grandfathering.
+
+   (1) This rule does not apply to any development activity with a letter of acknowledgment of notice of intent for coverage under the NYSDEC construction general permit issued by NYSDEC before the effective date of this rule.
+
+   (2) This rule does not apply to any development activity with a valid individual State Pollutant Discharge Elimination System (SPDES) permit issued by NYSDEC for construction activity before the effective date of this rule.
+
+
+
+
+
+
+
+
+*§ 19.1-04 Effective Date.* ::
+
+
+In accordance with subdivision 2 of section 22 of local law number 97 for the year 2017 the effective date of sections 4 and 8 through 21 of such local law shall be the same as the effective date of these rules, which shall be June 1, 2019.
+
+
+
+
+
+
 Chapter 20: Governing and Restricting the Use and Supply of Water
 --------------------------------------------------
 
@@ -17793,6 +17856,644 @@ Chapter 54: Community Right-To-Know Law Penalty Schedule
 ~
 
 
+
+
+
+
+
+
+Chapter 55: Stormwater Penalty Schedule
+--------------------------------------------------
+
+
+
+*§ 55-01 General.* ::
+
+
+(a) Whenever a respondent is found in violation of any of the following provisions of the Rules of the City of New York, any civil penalties imposed by a hearing officer pursuant to 48 RCNY § 6-17(a) in accordance with § 1049-a(d)(1)(d) of the Charter or any civil penalties imposed for admissions of violations pursuant to 48 RCNY§ 6-09(a) or late admissions pursuant to 48 RCNY § 3-17 will be imposed pursuant to the penalty schedule set forth below.
+
+(b) A second offense occurs when a respondent is found to be in violation of the same section of the rules twice within two years. A third offense occurs when a respondent is found to be in violation of the same section of the rules for the third time within two years.
+
+(c) Mitigation is available for first offenses where respondent has satisfied the conditions set forth in the “Mitigation” column of the penalty schedule set forth below.
+
+(d) “Default” refers to a failure by respondent to appear or to make a request to reschedule.
+
+
+
+
+
+
+
+
+*§ 55-02 Stormwater Penalty Schedule.* ::
+
+
+(a) Penalty Table.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Rule
+      - Description
+      -  Violation
+      - 
+      - 
+    * - Penalty
+      - Mitigation
+      - Default 
+      - 
+      - 
+    * - 15 RCNY § 19.1-03.3(b)(1)
+      - Commencing a covered development activity without a Stormwater Construction Permit from the department.
+      - 
+      - Fine may be reduced if a DEP inspector has inspected the site and confirmed that construction has been stopped prior to the first hearing date, and the permit application is received on or before the first hearing date.
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,000
+      - $6,000
+    * - 2nd offense
+      - 
+      - $6,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $8,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(5)
+      - Failure to have a qualified inspector conduct at least two site inspections (in accordance with the NYSDEC Construction General permit) every seven calendar days as long as greater than five acres of soil are disturbed.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $2,000
+      - 
+      - $3,000
+    * - 2nd offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $4,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to comply with the approved SWPPP or the terms and conditions of the stormwater construction permit. 
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $1,500
+      - 
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to comply with the approved SWPPP or the terms and conditions of the stormwater construction permit by not providing weekly inspection reports by a Qualified Inspector.
+      - 
+      - Fine may be reduced if the required weekly inspection reports for the required days, dated and signed by a Qualified Inspector, are submitted to DEP on or before the first hearing date.
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - $500
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to comply with the approved SWPPP or the terms and conditions of the stormwater construction permit by not complying with the recommendations of the Qualified Inspector.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $2,000
+      - 
+      - $4,000
+    * - 2nd offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $4,000
+      - 
+      - $8,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to comply with the approved SWPPP or the terms and conditions of the stormwater construction permit by not having a Qualified Inspector inspect the site immediately after a runoff producing precipitation event.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $2,000
+      - 
+      - $4,000
+    * - 2nd offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $4,000
+      - 
+      - $8,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to comply with the approved SWPPP or the terms and conditions of the stormwater construction permit resulting or likely to result in a discharge of (i)washout of concrete, (ii)washout and cleanout of stucco, paint, form release oils, curing compounds and other construction materials, (iii) fuels, oils or other pollutants used in vehicle and equipment operation and maintenance, (iv) soap or solvents used in vehicle and equipment operation and maintenance; (v) toxic or hazardous substances from a spill or other release.
+      - 
+      - Fine may be reduced if DEP receives on or prior to the first hearing date photos that show the appropriate erosion and sediment control/pollution prevention practice implemented, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the approved SWPPP is in place and the applicable terms and conditions of the permit have been met.
+      - 
+    * - 1st offense
+      - 
+      - $2,500
+      - $1,500
+      - $5,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,500
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to comply with the approved SWPPP or the terms and conditions of the stormwater construction permit resulting or likely to result in a discharge that causes a substantial visible contrast to natural conditions of the waters of the state. 
+      - 
+      - Fine may be reduced if DEP receives on or prior to the first hearing date photos that show the appropriate erosion and sediment control practice implemented, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the approved SWPPP is in place and terms and conditions of the permit have been met
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,500
+      - $6,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,500
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to install and maintain erosion and sediment control practices in compliance with approved SWPPP.
+      - 
+      - Fine may be reduced if DEP receives on or prior to the first hearing date photos that show the appropriate erosion and sediment control practice implemented, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the approved SWPPP is in place and terms and conditions of the permit have been met.
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,500
+      - $6,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,500
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to follow the construction phasing plan included in the approved SWPPP. 
+      - 
+      - Fine may be reduced if DEP receives, on or prior to the first hearing date, photos that show the appropriate erosion and sediment control practice implemented, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the approved SWPPP is in place and terms and conditions of the permit have been met.
+      - 
+    * - 1st offense
+      - 
+      - $2,500
+      - $1,500
+      - $5,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,500
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to implement pollution prevention measures included in the approved SWPPP. 
+      - 
+      - Fine may be reduced if DEP receives, on or prior to the first hearing date, photos that show the appropriate pollution prevention practice(s) implemented, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the approved SWPPP is in place and terms and conditions of the permit have been met.
+      - 
+    * - 1st offense
+      - 
+      - $2,500
+      - $1,500
+      - $5,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,600
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(i)
+      - Failure to implement the temporary and permanent stabilization plans in accordance with the approved SWPPP.
+      - 
+      - Fine may be reduced if DEP receives, on or prior to the first hearing date, photos that show the appropriate erosion and sediment control practice implemented, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the approved SWPPP is in place and terms and conditions of the permit have been met.
+      - 
+    * - 1st offense
+      - 
+      - $2,500
+      - $1,500
+      - $5,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,500
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(ii) or (iii)
+      - Failure to renew or extend a stormwater construction permit.
+      - 
+      - Fine may be reduced if the applicant renews the permit on or before the first hearing date.
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,000
+      - $6,000
+    * - 2nd offense
+      - 
+      - $6,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $8,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(iv)
+      - Failure to notify the department prior to starting construction.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - 
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(v)
+      - Failure to post the stormwater construction permit at the site.
+      - 
+      - Fine may be reduced if DEP receives,on or prior to the first hearing date, photos that show the permit has been posted at the work site.
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - 
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(vi)
+      - Failure to retain a copy of the SWPPP at the development site.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - 
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(vii)
+      - Failure to notify the department of a temporary shutdown or inspect the site during a temporary shutdown.
+      - 
+      - Fine may be reduced if DEP receives, on or prior to the first hearing date, photos that show the site is stabilized, and a signed statement from a Qualified Inspector that contains a stamp or a seal confirming that the site will be inspected every 30 days and immediately after rainfall events of more than 1.5”.
+      - 
+    * - 1st offense
+      - 
+      - $2,500
+      - $1,500
+      - $5,000
+    * - 2nd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 3rd offense
+      - 
+      - $7,500
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(viii)
+      - Failure to submit a closure plan prior to terminating construction.
+      - 
+      - Fine may be reduced if DEP receives, on or prior to the first hearing date, photos that show the site is stabilized and a closure plan is submitted to the Department for review
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,000
+      - $6,000
+    * - 2nd offense
+      - 
+      - $6,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $8,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(ix)
+      - Failure to submit amendments. 
+      - 
+      - Fine may be reduced if a minor amendment(s) submission is received by DEP on or before the first hearing date.
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - 0
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(b)(8)(x)
+      - Failure to submit major amendments to the SWPP for review and approval.
+      - 
+      - Fine may be reduced if an application for major amendment(s) is received by DEP on or before the first hearing date.
+      - 
+    * - 1st offense
+      - 
+      - $1,500
+      - $1,000
+      - $3,000
+    * - 2nd offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $4,000
+      - 
+      - $8,000
+    * - 15 RCNY § 19.1-03.3(b)(11)
+      - Failure to maintain records of all inspections and tests required throughout the period of construction and for 5-years after the completion of construction. 
+      - 
+      - Fine may be reduced if records of all inspections and tests required through the period of construction and for 5-years after the completion of construction are submitted to DEP on or before the first hearing date.
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - $500
+      - $3,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(c)(1)(i)
+      - Failure to obtain a stormwater maintenance permit.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 2nd offense
+      - 
+      - $4,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(c)(3)(i)
+      - Failure to submit annual certification to the department.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $1,500
+      - 
+      - $3,000
+    * - 2nd offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 3rd offense
+      - 
+      - $4,500
+      - 
+      - $9,000
+    * - 15 RCNY § 19.1-03.3(c)(3)(ii)
+      - Failure to renew a stormwater maintenance permit.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 2nd offense
+      - 
+      - $4,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(c)(3)(iv)
+      - Failure to notify the department of a change of ownership.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 2nd offense
+      - 
+      - $4,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $5,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(c)(4)(i)
+      - Failure to get approval to modify a practice covered by a stormwater maintenance permit.
+      - 
+      - Fine may be reduced if a DEP inspector has inspected and confirmed that construction is suspended before the first hearing date, and an application for modification is received by DEP before the first hearing date
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,000
+      - $6,000
+    * - 2nd offense
+      - 
+      - $6,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $8,000
+      - 
+      - $10,000
+    * - 15 RCNY § 19.1-03.3(c)(5)
+      - Failure to maintain a stormwater management practice in good working condition to meet the applicable design standards.
+      - 
+      - Fine may be reduced if on or before the first hearing date DEP receives photos of the repaired or replaced stormwater management practice, and a signed written certification by a qualified professional that the stormwater management practice is repaired and in good working condition.
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - $1,000
+      - $6,000
+    * - 2nd offense
+      - 
+      - $6,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $8,000
+      - 
+      - $10,000
+    * - 
+      - 
+      - 
+      - 
+      - 
+    * - 15 RCNY § 19.1-03.3(c)(6)
+      - Failure to keep and maintain records.
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $1,000
+      - 
+      - $6,000
+    * - 2nd offense
+      - 
+      - $2,000
+      - 
+      - $9,000
+    * - 3rd offense
+      - 
+      - $3,000
+      - 
+      - $10,000
+    * - Administrative Code § 24-585
+      - Failed to comply with commissioner’s order or stop work order
+      - 
+      - 
+      - 
+    * - 1st offense
+      - 
+      - $3,000
+      - 
+      - $6,000
+    * - 2nd offense
+      - 
+      - $6,000
+      - 
+      - $8,000
+    * - 3rd offense
+      - 
+      - $8,000
+      - 
+      - $10,000
+~
+
+ 
 
 
 
