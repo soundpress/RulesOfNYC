@@ -20552,7 +20552,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
       - $80.00
     * - (e) Stopping, standing or parking in violation of 34 RCNY § 4-08(e)(11)
       - $50.00
-    * - (f) Standing or parking in violation of 34 RCNY § 4-08(b)(4), (c)(8), (f)(2), (3), (5), or (k)(2)
+    * - (f) Standing or parking in violation of 34 RCNY § 4-08(c)(4), (c)(8), (f)(2), (3), (5), or (k)(2)
       - $80.00 
     * - (g) Standing or parking in violation of 34 RCNY § 4-08(j)
       - $50.00 
@@ -20561,7 +20561,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
     * - (i) Standing or parking of vehicle with commerical plates without the name and address of the owner properly marked on the vehicle in violation of 34 RCNY § 4-08(k)(1)
       - $100.00 
     * - (j) Parking in violation of 34 RCNY § 4-08(n)(8)
-      - $50.00 
+      - $30.00 
     * - (k) All parking meter violations
       - $20.00 
     * - (l) All parking violations concerning parking permits for people with disabilities
