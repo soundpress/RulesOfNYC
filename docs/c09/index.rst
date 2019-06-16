@@ -20591,7 +20591,9 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
     * - (v) Stopping or standing by an intercity bus in its assigned on-street bus stop location except when actively engaged in the pick-up or discharge of passengers in violation of 34 RCNY § 4-10(d)(7)(v)
       - $500.00 
     * - (w) Altering an intercity bus permit in violation of 34 RCNY § 4-10(d)(7)(vi)
-      - $500.00 
+      - $500.00
+    * - (x) Misuse and fraudulent use of a parking permit in violation of 34 RCNY § 4-08(o)(3)(iv)
+      - $50.00 
 ~
 
  
@@ -22260,43 +22262,6 @@ b. that the owner who is entitled to the rebate remains the owner of the real pr
 
 
 
-Chapter 52: Rules Relating to Senior Citizen Rent Increase Exemption and Disability Rent Increase Exemption Program
---------------------------------------------------
-
-
-
-*§ 52-01. Rent Increase Exemption Orders.* ::
-
-
-(a) Effective Date and Duration.
-
-   (1) A rent increase exemption order will be issued to each tenant who applies to the Department and is found to be eligible for Senior Citizen Rent Increase Exemption (SCRIE) or Disability Rent Increase Exemption (DRIE) benefits, except that SCRIE benefits for an apartment owned by a limited dividend housing company, a redevelopment company or a housing development fund company incorporated under the private housing finance law, a Cooperative Housing Company established under section 213 of the National Housing Act or a Mitchell Lama apartment or co-op are administered by the Department of Housing Preservation and Development (HPD) and are not governed by this rule. The effective date of a new rent increase exemption order for rent controlled and rent stabilized apartments is the first day of the first month after receipt of an initial application for SCRIE or DRIE benefits.
-
-   (2) A new rent increase exemption order for a rent controlled apartment will be for a term of two years. A new rent increase exemption order for a rent stabilized apartment will be for the duration of the lease in effect on the first day of the first month after receipt of the initial application. The effective date of a new DRIE rent increase exemption order for an apartment owned by a limited dividend housing company, a redevelopment company or a housing development fund company incorporated under the private housing finance law, a Cooperative Housing Company established under section 213 of the National Housing Act or a Mitchell Lama apartment or co-op, will be the date of the first increase in maximum rent that takes effect after the tenant is first determined to be eligible for DRIE benefits, and will be for a term of one year.
-
-(b) Renewals. An application to renew a SCRIE or DRIE order must be submitted by or on behalf of the tenant and approved by the Department. If such tenant is found eligible, the renewal order will be deemed to have taken effect upon expiration of the prior rent increase exemption order. The tenant may designate a representative to receive notices sent to the tenant and assist in the completion of a renewal application on his or her behalf so that the renewal application is filed in a timely manner as provided in subdivisions (c) and (d) of this section. If a tenant desires to designate a representative, he or she may do so in a renewal application. A designation of a tenant representative submitted to the Department by a tenant will continue until the designation is withdrawn or the representative requests that the designation be removed. Any designation of a representative must include the mailing address of such representative.
-
-(c) Time to File Renewal Applications. Except as provided in subdivision (d) and (e) of this section, renewal applications must be filed no later than six months after the expiration of a rent increase exemption order.
-
-(d) Extension of Time to File Renewal and Other Tenant Applications. The time to file a renewal application provided in subdivision (c) of this section, as well as for any other tenant application relating to SCRIE or DRIE benefits that contains a deadline for filing, will be extended under the following circumstances:
-
-   (1) Upon a showing of good cause, the time to file a renewal or other application will be extended for an additional period of six months. The tenant or his or her representative must submit sufficient documentary evidence acceptable to the Department demonstrating good cause. Upon approval of the extension of the time to file and of the renewal application, such rent increase exemption order will be renewed retroactive to the date of expiration of the prior rent increase exemption. For purposes of this paragraph, good cause exists when:
-
-      (i) the tenant requires hospitalization for a documented illness or medical condition during the six-month period following expiration of the rent increase exemption order, which prevents the tenant from filing a timely renewal application; or
-
-      (ii) the tenant's dwelling unit is damaged by fire or flood or a natural catastrophe during the six-month period following expiration of the rent increase exemption order, which prevents the tenant from filing a timely renewal application.
-
-      (iii) The tenant demonstrates other exceptional circumstances.
-
-   (2) Upon a showing of need for more time as a reasonable accommodation for a tenant's disability consistent with the requirements of the Americans with Disability Act (42 U.S.C §§ 12101 et seq.) (ADA) or the New York City Human Rights Law (§§ 8-101 et seq. of the Administrative Code of the City of New York) (NYCHRL), the time to file a renewal or other application will be extended for an additional period of time to be determined by the agency, which may exceed six months if the agency determines more time would be a reasonable modification of its procedure necessary to avoid discrimination on the basis of disability. To obtain an extension of time as a reasonable accommodation, the tenant or a representative of the tenant must provide or assist with the provision of medical documentation from an appropriate health care professional showing that the tenant had a disability as defined by the ADA or the NYCHRL, and that because of this disability the tenant needed more time to file an application or appeal. For purposes of this paragraph, appropriate health care professionals include, but are not limited to, doctors (including psychiatrists), psychologists and licensed health professionals. If the tenant cannot secure medical documentation from an appropriate health care professional with reasonable efforts, an extension of time may be granted if other reliable documentation is provided as may be determined by the Department.
-
-(e) Extension of rent increase exemption order when there is a showing of good cause or need for disability related reasonable accommodation. If a tenant is granted an extension of time to file, pursuant to subdivision (d) of this section, the tenant or the tenant's representative must file a renewal application and all supporting documents for the period commencing on the expiration of the prior rent increase exemption order as well as for any succeeding renewal period which commenced prior to the date such extension of time to file was granted within the time period of the extension. Upon approval of the extension of time to file and of the renewal application where seeking additional time to file a renewal application, such rent increase exemption order will be renewed retroactive to the date of expiration of the prior rent increase exemption.
-
-
-
-
-
-
 Chapter 53: Power of the Commissioner of Finance to Correct Errors Concerning Assessment or Tax on Real Property
 --------------------------------------------------
 
@@ -22412,6 +22377,43 @@ Chapter 53: Power of the Commissioner of Finance to Correct Errors Concerning As
       Example: a J-51 exemption was incorrectly calculated to include equalization increase for four years instead of three years as per the statute.
 
 (d) Nothing in this section shall limit the authority of the department to make changes pursuant to the change by notice procedures described in section 1512 of the New York City Charter or the request for review procedures described in 19 RCNY § 37-06.
+
+
+
+
+
+
+Chapter 52: Rules Relating to Senior Citizen Rent Increase Exemption and Disability Rent Increase Exemption Program
+--------------------------------------------------
+
+
+
+*§ 52-01. Rent Increase Exemption Orders.* ::
+
+
+(a) Effective Date and Duration.
+
+   (1) A rent increase exemption order will be issued to each tenant who applies to the Department and is found to be eligible for Senior Citizen Rent Increase Exemption (SCRIE) or Disability Rent Increase Exemption (DRIE) benefits, except that SCRIE benefits for an apartment owned by a limited dividend housing company, a redevelopment company or a housing development fund company incorporated under the private housing finance law, a Cooperative Housing Company established under section 213 of the National Housing Act or a Mitchell Lama apartment or co-op are administered by the Department of Housing Preservation and Development (HPD) and are not governed by this rule. The effective date of a new rent increase exemption order for rent controlled and rent stabilized apartments is the first day of the first month after receipt of an initial application for SCRIE or DRIE benefits.
+
+   (2) A new rent increase exemption order for a rent controlled apartment will be for a term of two years. A new rent increase exemption order for a rent stabilized apartment will be for the duration of the lease in effect on the first day of the first month after receipt of the initial application. The effective date of a new DRIE rent increase exemption order for an apartment owned by a limited dividend housing company, a redevelopment company or a housing development fund company incorporated under the private housing finance law, a Cooperative Housing Company established under section 213 of the National Housing Act or a Mitchell Lama apartment or co-op, will be the date of the first increase in maximum rent that takes effect after the tenant is first determined to be eligible for DRIE benefits, and will be for a term of one year.
+
+(b) Renewals. An application to renew a SCRIE or DRIE order must be submitted by or on behalf of the tenant and approved by the Department. If such tenant is found eligible, the renewal order will be deemed to have taken effect upon expiration of the prior rent increase exemption order. The tenant may designate a representative to receive notices sent to the tenant and assist in the completion of a renewal application on his or her behalf so that the renewal application is filed in a timely manner as provided in subdivisions (c) and (d) of this section. If a tenant desires to designate a representative, he or she may do so in a renewal application. A designation of a tenant representative submitted to the Department by a tenant will continue until the designation is withdrawn or the representative requests that the designation be removed. Any designation of a representative must include the mailing address of such representative.
+
+(c) Time to File Renewal Applications. Except as provided in subdivision (d) and (e) of this section, renewal applications must be filed no later than six months after the expiration of a rent increase exemption order.
+
+(d) Extension of Time to File Renewal and Other Tenant Applications. The time to file a renewal application provided in subdivision (c) of this section, as well as for any other tenant application relating to SCRIE or DRIE benefits that contains a deadline for filing, will be extended under the following circumstances:
+
+   (1) Upon a showing of good cause, the time to file a renewal or other application will be extended for an additional period of six months. The tenant or his or her representative must submit sufficient documentary evidence acceptable to the Department demonstrating good cause. Upon approval of the extension of the time to file and of the renewal application, such rent increase exemption order will be renewed retroactive to the date of expiration of the prior rent increase exemption. For purposes of this paragraph, good cause exists when:
+
+      (i) the tenant requires hospitalization for a documented illness or medical condition during the six-month period following expiration of the rent increase exemption order, which prevents the tenant from filing a timely renewal application; or
+
+      (ii) the tenant's dwelling unit is damaged by fire or flood or a natural catastrophe during the six-month period following expiration of the rent increase exemption order, which prevents the tenant from filing a timely renewal application.
+
+      (iii) The tenant demonstrates other exceptional circumstances.
+
+   (2) Upon a showing of need for more time as a reasonable accommodation for a tenant's disability consistent with the requirements of the Americans with Disability Act (42 U.S.C §§ 12101 et seq.) (ADA) or the New York City Human Rights Law (§§ 8-101 et seq. of the Administrative Code of the City of New York) (NYCHRL), the time to file a renewal or other application will be extended for an additional period of time to be determined by the agency, which may exceed six months if the agency determines more time would be a reasonable modification of its procedure necessary to avoid discrimination on the basis of disability. To obtain an extension of time as a reasonable accommodation, the tenant or a representative of the tenant must provide or assist with the provision of medical documentation from an appropriate health care professional showing that the tenant had a disability as defined by the ADA or the NYCHRL, and that because of this disability the tenant needed more time to file an application or appeal. For purposes of this paragraph, appropriate health care professionals include, but are not limited to, doctors (including psychiatrists), psychologists and licensed health professionals. If the tenant cannot secure medical documentation from an appropriate health care professional with reasonable efforts, an extension of time may be granted if other reliable documentation is provided as may be determined by the Department.
+
+(e) Extension of rent increase exemption order when there is a showing of good cause or need for disability related reasonable accommodation. If a tenant is granted an extension of time to file, pursuant to subdivision (d) of this section, the tenant or the tenant's representative must file a renewal application and all supporting documents for the period commencing on the expiration of the prior rent increase exemption order as well as for any succeeding renewal period which commenced prior to the date such extension of time to file was granted within the time period of the extension. Upon approval of the extension of time to file and of the renewal application where seeking additional time to file a renewal application, such rent increase exemption order will be renewed retroactive to the date of expiration of the prior rent increase exemption.
 
 
 

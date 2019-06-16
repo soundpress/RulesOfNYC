@@ -1335,19 +1335,19 @@ Chapter 4: Traffic Rules and Regulations
 
       (iv) Failure to comply with the above regulations will result in a summons.
 
-   (3) Yearly permits for parking in contradiction to rules on City streets. Yearly permits are issued on dates determined by the Department of Transportation or any other agency authorized by the Department to non-profit organizations needing to park in contradiction to parking rules when the vehicle is essential to the performance of their organizational functions. These organizations generally are medical, blood, government and human service programs. Such permits shall be displayed so that they are visible through the windshield.
+   (3) Agency-Authorized permits for parking in contradiction to rules on City streets. Agency-Authorized permits are issued by the Department of Transportation or any other agency authorized by the Department. Permits may be issued to non-profit organizations for certain essential purposes such as medical services, blood delivery and human services programs and to governmental agencies and officials for governmental purposes. Permits may be issued when the vehicle is essential to the performance of organizational functions. Such permits shall be displayed in a place where it is visible through the vehicle's windshield only when a vehicle is parked in areas specified on the permit or electronically linked to the permit unless the permit is affixed to the vehicle by the department or an agency authorized by the department.
 
-      (i) Parking permitted. Parking with yearly permits is permitted in areas specified on or programmed into the permit and may include some or all of the following:
+      (i) Parking permitted. Parking with agency-authorized permits and the display of a permit in the windshield of a vehicle or, where applicable, a permit affixed to the vehicle by the department is permitted in areas specified on or electronically linked to the permit and may include some or all of the following:
 
          (A) Parking meters.
 
          (B) Truck loading and unloading zones.
 
-         (C) No Standing/Parking Except Authorized Vehicles or Authorized Vehicle Only, when the permit matches the signs, and
+         (C) No Standing/Parking Except Authorized Vehicles or Authorized Vehicle Only, when the organization or agency named on the permit is indicated on the signs, and
 
          (D) "No Parking" areas.
 
-      (ii) Parking not permitted. Parking with yearly permits is not permitted at:
+      (ii) Parking not permitted. Parking with and display of agency-authorized permits in the windshield of a vehicle or, where applicable, a permit affixed to the vehicle by the department or any agency authorized by the department is not permitted at:
 
          (A) "No Standing" areas.
 
@@ -1357,15 +1357,45 @@ Chapter 4: Traffic Rules and Regulations
 
          (D) Bus stops.
 
-         (E) Double parking.
+         (E) Areas on the roadway side of a vehicle stopped, standing, or parked at the curb (i.e., Double parking).
 
          (F) Driveways.
 
-         (G) Bridges and highways, and
+         (G) Bridges and highways.
 
          (H) Areas where a traffic hazard would be created.
 
-      (iii) Duration. Yearly permits are issued for the minimum hours and days essential for the activity. Such permits are issued on an annual basis on dates determined by the Department of Transportation. The Commissioner or his/her designee may, at his/her discretion, issue, extend or revoke these permits.
+         (I) Carshare parking space(s).
+
+      (iii) Duration. Agency-authorized permits are issued for the minimum hours and days essential for the activity. Such permits are issued on an annual basis on dates determined by the Department of Transportation.
+
+      (iv) Misuse and fraudulent use of parking permits. A violation of this sub-paragraph (iv) will be issued in addition to any other violation issued for parking in contravention of posted signs or written regulations. It shall be unlawful:
+
+         (A) to display an agency-authorized permit in the windshield of a vehicle or, where applicable, a permit affixed to the vehicle by the department or any agency authorized by the department and park with the intent to avoid compliance with posted signs or written regulations. In any proceeding relating to the violation of this provision such intent shall be implied where:
+
+            1. the permit displayed in the windshield of the vehicle or, where applicable, the permit affixed to the vehicle by the department or any agency authorized by the department does not authorize parking in such space in contravention of posted signs or written regulation.
+
+            2. the permit is displayed on a vehicle other than the one described in the permit.
+
+            3. the permit displayed in the windshield of the vehicle is copied, altered, or displayed in a manner that obscures the locations to which it applies.
+
+            4. the permit displayed in the windshield of the vehicle or where applicable the permit affixed to the vehicle by the department or any agency authorized by the department is expired, suspended or revoked.
+
+         (B) to display a fraudulent parking permit in the windshield of a vehicle and park in contravention of posted signs or written regulations. For the purposes of this section, a fraudulent parking permit may be a counterfeit of a Department-issued permit, resemble an official Department permit or contain language falsely purporting to authorize parking in areas restricted by posted signs or written regulations.
+
+      (v) Revocation of an agency-authorized permit. The Commissioner or their designee may, at their discretion, revoke or suspend agency-authorized permits.
+
+         (A) Notice. Except as otherwise provided herein prior to revocation or suspension the permit holder will be notified of the proposed suspension or revocation and the grounds and may appeal such determination in accordance with item (B) within 15 days after the date set forth in such notice. If no appeal is filed within such 15 day period such revocation or suspension shall be effective upon the conclusion of the time for appeal. If an appeal is filed within such 15 day period such revocation or suspension shall be effective upon notice of the determination of the appeal unless such determination is in favor of the permittee. Notwithstanding the foregoing where the Commissioner finds that the continued use of an agency-authorized permit is a danger to public safety, such revocation or suspension shall be effective immediately upon the date of notice of the suspension or revocation of such permit. Grounds for revocation or suspension will include:
+
+            1. Three or more violations of this Subdivision (o);
+
+            2. Any violation of Administrative Code § 19-166; or
+
+            3. Unpaid parking or traffic violations associated with the license plate or individual permit holder in excess of $350.
+
+         (B) Appeal. A permit holder may appeal the determination to revoke or suspend an agency-authorized permit in writing within fifteen (15) days after the date of a notice provided in accordance with item (A) in the manner described in such notice. The Department will respond to the appeal within sixty (60) days except that where the revocation or suspension was effective immediately upon the date of such notice the Department shall respond to such appeal within fifteen (15) days.
+
+      (vi) Refusal to issue or renew an agency-authorized permit. The commissioner or their designee may refuse to issue or renew an agency-authorized permit for any of the grounds set forth in Subparagraph (v) that apply to the revocation or suspension of such permit.
 
    (4) Single issue permits for parking in contradiction to rules on city streets. Single issue permits are issued by the Department of Transportation or any other agency authorized by the Department to for-profit and not-for-profit medical, blood and human service programs; press events; bus operators parking pursuant to paragraph (6) of subdivision (l) of this section; and concerts, film production companies, special events and emergencies. Such permits shall be displayed so that they are visible through the windshield.
 
