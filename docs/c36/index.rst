@@ -366,7 +366,51 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
 
 
-*§ 1-14 Reserved.* ::
+*§ 1-14 Official Fundraising.* ::
+
+
+(a) For purposes of Charter § 2604(b)(2) and Charter § 2604(b)(3), a public servant may use his or her position as a public servant to solicit a donation provided that all of the following conditions are met:
+
+   (1) The solicitation seeks a donation for one of the following:
+
+      (i) the City agency or office served by the public servant;
+
+      (ii) another City agency or office designated by the public servant's agency head, with the written approval of the head of the other agency or office;
+
+      (iii) a not-for-profit organization subject to Chapter 9 of Title 3 of the Administrative Code over which the public servant's agency head exercises control as part of his or her City position; or
+
+      (iv) a not-for-profit organization designated by the public servant's agency head pursuant to Subdivision (b) of this section, provided that the public servant is not associated, within the meaning of Charter § 2601(5), with the organization or an employee of the organization.
+
+   (2) The solicitation is directed either to the general public or to an individual or firm that does not have a particular matter pending before the public servant.
+
+   (3) The solicitation is accompanied by a disclaimer that a contribution will not affect any business dealings with the City or provide special access to City officials.
+
+(b) An agency head may designate in writing one or more not-for-profit organizations for solicitations made by agency or office employees pursuant to Subdivision (a) of this section, provided that both of the following conditions are met:
+
+   (1) the not-for-profit organization has a clear and direct nexus to the City and its residents and with the mission or duties of the City agency or office; and
+
+   (2) the agency head is not associated, within the meaning of Charter § 2601(5), with the organization or an employee of the organization.
+
+(c) Pursuant to Charter § 2604(b)(2), each agency head must report to the Board annually by February 28:
+
+   (1) the name of any individual or firm that made one or more donations totaling $5,000 or more to the agency during the previous calendar year, the total amount of these donations, and whether the donation was cash or an in-kind donation; and
+
+   (2) the name of any not-for-profit organization designated by the agency head pursuant to Subdivision (b) of this section for which agency employees solicited donations during the previous calendar year.
+
+(d) An agency head may submit to the Board a written request that disclosure, pursuant to Subdivision (c)(1) of this section, of one or more of its donors and/or the amount of donation not be made public. The written request must be submitted no later than January 31 for the previous calendar year and must explain why the release of such information to the public may cause harm, threats, harassment, or reprisals to the donor or to individuals or property affiliated with the donor. Whether or not an agency head has submitted a request pursuant to this subdivision, the Board may on its own initiative grant privacy as to any information submitted by an agency head, upon a finding by the Board that the release of such information would pose a risk to the safety or security of any person.
+
+(e) For purposes of this section, an elected official, including a District Attorney, is the agency head of the staff members in his or her office. The Speaker of the New York City Council is the agency head of the central staff of Council, and a Council Member is the agency head of the staff of his or her office.
+
+
+
+Editor's note: Former section renumbered as 53 RCNY § 4-03.
+
+
+
+
+
+
+*§ 1-15 Reserved.* ::
 
 
 (a)  Pursuant to Administrative Code § 3-225, no person required to be listed on a statement of registration pursuant to § 3-213(c)(1) of the Administrative Code shall offer or give a gift to any public servant.
@@ -709,9 +753,9 @@ For purposes of Administrative Code § 3-904(c), a non-profit entity may apply t
 *§ 3-03. Factors by which the Board Will Determine Whether an Entity is Affiliated with an Elected Official.* ::
 
 
-For purposes of Administrative Code § 3-901, in determining whether a person holding office as Mayor, Comptroller, Public Advocate, Borough President or member of the Council, or an agent or appointee of such a person, exercises control over a non-profit entity, the Board will consider the totality of the circumstances, including:
+For purposes of Administrative Code § 3-901, in determining whether a person holding office as Mayor, Comptroller, Public Advocate, Borough President or member of the Council, or an agent or appointee of such a person, exercises control over a non-profit entity, the Board will consider the totality of the circumstances by weighing each of the following individual factors:
 
-(a) whether the organization was created by such an elected official or the official’s agent, or by an individual who was previously employed by, or was a paid political consultant of, the elected official, and, if so, how recently such organization was created;
+(a) whether the organization was created by a person currently holding office as Mayor, Comptroller, Public Advocate, Borough President, or member of the Council, or an agent of such official, or by an individual who was previously employed by, or was a paid political consultant of, the elected official, and, if so, how recently such organization was created;
 
 (b) whether the board of the organization is chaired by such an elected official or the official’s agent;
 
@@ -721,9 +765,11 @@ For purposes of Administrative Code § 3-901, in determining whether a person ho
 
 (e) the degree of involvement or direction by such an elected official or the official’s agent in such organization’s policies, operations, and activities;
 
-(f) the degree to which public servants, acting under the authority or direction of the elected official or an agent of the elected official, perform duties on behalf of the organization as part of their official City employment; and
+(f) the degree to which public servants, acting under the authority or direction of the elected official or an agent of the elected official, perform duties on behalf of the organization as part of their official City employment;
 
-(g) the purpose of the organization.
+(g) whether the purpose of the organization advances either the mission of a City agency under the control of the elected official or the political or policy interests of the elected official; and
+
+(h) whether more than one elected official serves on the board of the organization.
 
 
 
@@ -773,7 +819,7 @@ Pursuant to Administrative Code § 3-902, all organizations affiliated with an e
 
       (iii) consult each of the following people: (a) the organization’s affiliated elected official or the agent of the organization’s affiliated elected official who exercises control over the organization; (b) each board member of the organization; and (c) each principal officer of the organization. The organization must request that each person consulted pursuant to this subparagraph review a list of the organization’s most recent donors and inform the organization if such person believes that a donor is the household member of a person listed in the Doing Business Database. The organization must obtain the names of the spouse or domestic partner of any such donor (or, if the donor is an unemancipated child, his or her parent) and check those names against the Doing Business Database; and
 
-      (iv) if an organization concludes that a donor, a donor’s spouse or domestic partner (or, if a donor is an unemancipated child, his or her parent), is not a person with business dealings with the City, despite such person’s name matching the name of an individual in the Doing Business Database, the organization must submit information supporting that conclusion to the Board. The Board will review the submission and determine whether the donation may be accepted pursuant to Administrative Code §§ 3-903(a) or 3-903(b) and if it must be reported pursuant to Administrative Code § 3-902(a)(6).
+      (iv) if an organization believes that a donor, a donor’s spouse or domestic partner (or, if a donor is an unemancipated child, his or her parent), is not a person with business dealings with the City, despite such person’s name matching the name of an individual in the Doing Business Database, the organization must submit information supporting that conclusion to the Board. The Board will review the submission and determine whether the donation may be accepted pursuant to Administrative Code §§ 3-903(a) or 3-903(b) and if it must be reported pursuant to Administrative Code § 3-902(a)(6).
 
    (6) To comply with the reporting requirement of Administrative Code § 3-902(a)(8), a restricted organization must submit to the Board a list of each elected official communication created or distributed, which list must include a description, the date, and the total cost of each such communication. In calculating the total cost of an elected official communication, a restricted organization must include the value of all goods and services paid by the organization to create and distribute the elected official communication, including without limitation the value of the time of its employees and the value of all goods and services donated by a non-governmental source for the communication’s creation or distribution.
 
@@ -785,11 +831,9 @@ Pursuant to Administrative Code § 3-902, all organizations affiliated with an e
 
       (i) check the name of the donor against the City’s Doing Business Database both at the time of the donation and as of 180 days after the date of the donation;
 
-      (ii) consult the organization’s records, including but not limited to donors’ written submissions collected pursuant to Administrative Code § 3-903(d), to determine whether the donor was a household member of a person listed in the City’s Doing Business Database;
+      (ii) consult the organization’s records, including but not limited to donors’ written submissions collected pursuant to Administrative Code § 3-903(d), to determine whether the donor was a household member of a person listed in the City’s Doing Business Database; and
 
-      (iii) consult each of the following people: (a) the organization’s affiliated elected official or the agent of the organization’s affiliated elected official who exercises control over the organization; (b) each board member of the organization; and (c) each principal officer of the organization. The organization must request that each person consulted pursuant to this subparagraph review a list of the organization’s most recent donors and inform the organization if such person believes that a donor is listed in the Doing Business Database, or is the domestic partner, spouse, or unemancipated child of a person listed in the Doing Business Database. The organization must obtain the names of the spouse or domestic partner of any such donor (or, if the donor is an unemancipated child, his or her parent) and check those names against the Doing Business Database; and
-
-      (iv) if an organization concludes a donor, a donor’s spouse or domestic partner (or, if a donor is an unemancipated child, his or her parent), is not a person with business dealings with the City, despite such person’s name matching the name of an individual in the Doing Business Database, the organization must submit information supporting that conclusion to the Board. The Board will review the submission and determine whether the donation must be reported pursuant to Administrative Code § 3-902(a)(6).
+      (iii) if an organization believes that a donor, a donor’s spouse or domestic partner (or, if a donor is an unemancipated child, his or her parent), is not a person with business dealings with the City, despite such person’s name matching the name of an individual in the Doing Business Database, the organization must submit information supporting that conclusion to the Board. The Board will review the submission and determine whether the donation must be reported pursuant to Administrative Code § 3-902(a)(6).
 
    (3) To comply with the reporting requirement of Administrative Code § 3-902(a)(7), an unrestricted organization must submit to the Board the names of any individuals who or entities that made a donation with a reasonable value of $1,000 or more, whether in a single donation or in multiple donations. If an unrestricted organization receives multiple donations from the same individual or entity, the aggregate value of which has a reasonable value of $1,000 or more, the organization must report the date and value of every donation from that individual or entity.
 

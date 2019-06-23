@@ -372,6 +372,12 @@ Chapter 4: Traffic Rules and Regulations
 
    D/S Decals. "D/S Decals" means valid nontransferable service vehicle decals or delivery vehicle decals issued by the City of New York that are affixed to the inside of the operator's side of the windshields of vehicles bearing "A", "C" or "D" series license plates issued by the U.S. Department of State.
 
+   Electric vehicle. “Electric vehicle” means a commercially available, mass-produced vehicle originally equipped by the manufacturer with an electric propulsion system or a vehicle retrofitted with an electric propulsion system, provided the vehicle owner can provide supporting documentation of such retrofit. Electric vehicles include both (1) battery electric vehicles which have batteries that are recharged by connecting the vehicle to an external power source; and (2) plug-in hybrid electric vehicles, which have batteries that be can be recharged by connecting the vehicle to an external power source or by an onboard internal-combustion engine and generator.
+
+   Electric vehicle charging. The term “electric vehicle charging” means when an electric vehicle’s charging port is connected to the electric vehicle charger via a cable.
+
+   Electric vehicle charging station. The term “electric vehicle charging station” means a location with (1) one or more electric vehicle chargers that supply electric energy for the recharging of electric vehicles, and (2) one or more parking spaces dedicated to each electric vehicle charger to accommodate charging vehicles.
+
    Electronic communication device. The term "electronic communication device" means any electronic equipment approved by the Department capable of transmitting information via telephone, cable, fiber, satellite or antenna to the Department for payment at parking spaces where payment for such space is requested. This includes but is not limited to mobile or vehicle mounted computers with an on-line connection, mobile or cellular phones, personal digital assistants, or any other electronic communication device approved by the Department.
 
    Emergency vehicle (authorized). The term "emergency vehicle (authorized)" means every police vehicle, fire vehicle, emergency ambulance service vehicle, and every other emergency vehicle as defined in § 101 of the Vehicle and Traffic Law.
@@ -914,7 +920,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (3) Standing prohibited. When standing is prohibited by signs or rules, no person shall stop a vehicle, attended or unattended, except temporarily for the purpose of and while actually engaged in expeditiously receiving or discharging passengers.
 
-      (i) Dedicated use signs. Standing is prohibited when a dedicated use is specified by a sign, including but not limited to the following curb regulations: Commercial Vehicles Only, Truck Loading Only, Taxi Stand, Taxi Relief Stand, Authorized Vehicles Only, NYP License Plates Only, Doctor License Plates Only, For-Hire Vehicles Only, Ambulance Only, Ambulette Only, Medical Facility Only, Bus Layover Only, NYS Road Test Only, Flea Market Loading Only, Farmers Market Only, Waiting Line, Carshare Parking Only, or Parking Permitted.
+      (i) Dedicated use signs. Standing is prohibited when a dedicated use is specified by a sign, including but not limited to the following curb regulations: Commercial Vehicles Only, Truck Loading Only, Taxi Stand, Taxi Relief Stand, Authorized Vehicles Only, NYP License Plates Only, Doctor License Plates Only, For-Hire Vehicles Only, Ambulance Only, Ambulette Only, Medical Facility Only, Bus Layover Only, NYS Road Test Only, Flea Market Loading Only, Farmers Market Only, Waiting Line, Carshare Parking Only, Electric Vehicle Charging Only, or Parking Permitted.
 
    (4) Parking prohibited. When parking is prohibited by signs or rules, no person shall stop a vehicle, attended or unattended, except temporarily for the purpose of and while expeditiously receiving or discharging passengers or loading of unloading property to or from the curb.
 
@@ -984,7 +990,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (3) Bus stop. No person shall stand or park a vehicle other than an authorized bus in its assigned bus stop when any such stop has been officially designated and appropriately posted except that the operator of a vehicle may temporarily stand therein for the purpose of expeditiously receiving and discharging passengers provided such standing does not interfere with any bus about to enter or leave such stop. Notwithstanding the aforementioned, an authorized bus shall not park in an assigned bus stop when such stop has been officially designated and appropriately posted.
 
-   (4) Authorized vehicles. Except as provided in paragraph (8) of this subdivision, where a posted sign reads "No Standing Except Authorized Vehicles" or "Authorized Vehicles Only", no vehicles, except those designated by such sign, may stand or park in that area.
+   (4) Authorized vehicles. Except as provided in paragraph (8) of this subdivision, no person shall stand or park a vehicle that is not specifically authorized by a dedicated use sign defined in 34 RCNY § 4-01 and as provided in Subparagraph (i) of Paragraph (3) of Subdivision (a) of this section.
 
    (5) Hotel loading zone. No person shall stand or park a vehicle in such zone except temporarily for the purpose of and while actually engaged in receiving or discharging passengers and their personal baggage at hotels.
 
@@ -1265,7 +1271,7 @@ Chapter 4: Traffic Rules and Regulations
 
          (A) in any "No Parking" zone,
 
-         (B) in any "No Standing Except Authorized Vehicles" or "Authorized Vehicles Only" zone,
+         (B) in any authorized vehicle zone, except in carshare parking space(s) and electric vehicle charging station(s),
 
          (C) at parking meters without using an authorized payment method, and
 
@@ -1295,9 +1301,11 @@ Chapter 4: Traffic Rules and Regulations
 
          (J) in carshare parking space(s),
 
-         (K) in any “Ambulette”, “Ambulance”, “Access-A-Ride”, “Medical Facility” zone or combination thereof, or
+         (K) in any “Ambulette”, “Ambulance”, “Access-A-Ride”, “Medical Facility” zone or combination thereof,
 
-         (L) in a For-Hire-Vehicle stand.
+         (L) in a For-Hire-Vehicle stand, or
+
+         (M) in electric vehicle charging station(s).
 
       (iii) Issuance of permits. The Special Parking Identification permit shall be issued by the Commissioner or his/her designee to a New York City resident certified by the Department of Health or a provider designated by the Department or the Department of Health, who shall make such certification in accordance with standards and guidelines prescribed by the Department of Health, as having a permanent disability seriously impairing mobility, who requires the use of a private automobile for transportation and to a non-resident similarly certified who requires the use of a private automobile for transportation to a school in which such applicant is enrolled or to a place of employment. A permit shall also be issued to such person upon application made on such person's behalf by a parent, spouse, domestic partner as defined in New York City Administrative Code § 1-112(21), guardian, or other individual having legal responsibility for the administration of such person's day to day affairs. The permit may include no more than ten (10) license plate numbers for the vehicle(s) which will be used to transport the permittee. Upon application for a permit, applicant shall submit to the department a copy of the vehicle registration for each license plate which will be registered on the permit. Any vehicle displaying such a permit shall be used exclusively in connection with parking a vehicle in which the person to whom it has been issued is being transported or will be transported within a reasonable period of time.
 
@@ -1339,11 +1347,11 @@ Chapter 4: Traffic Rules and Regulations
 
       (i) Parking permitted. Parking with agency-authorized permits and the display of a permit in the windshield of a vehicle or, where applicable, a permit affixed to the vehicle by the department is permitted in areas specified on or electronically linked to the permit and may include some or all of the following:
 
-         (A) Parking meters.
+         (A) Parking meters,
 
-         (B) Truck loading and unloading zones.
+         (B) Truck loading and unloading zones,
 
-         (C) No Standing/Parking Except Authorized Vehicles or Authorized Vehicle Only, when the organization or agency named on the permit is indicated on the signs, and
+         (C) Authorized vehicle zones, when the organization or agency named on the permit is indicated on the signs, and
 
          (D) "No Parking" areas.
 
@@ -1417,7 +1425,7 @@ Chapter 4: Traffic Rules and Regulations
 
          (B) Truck loading and unloading zones,
 
-         (C) No Standing/Parking Except Authorized Vehicles or Authorized Vehicle Only,
+         (C) Authorized vehicle zones, except in carshare parking space(s),
 
          (D) “No Parking” areas, and
 
@@ -1425,21 +1433,23 @@ Chapter 4: Traffic Rules and Regulations
 
       (iii) Parking not permitted. Parking with single issue permits is not permitted at:
 
-         (A) "No Standing" areas.
+         (A) "No Standing" areas,
 
-         (B) "No Stopping" areas.
+         (B) "No Stopping" areas,
 
-         (C) Fire hydrants.
+         (C) Fire hydrants,
 
-         (D) Bus stops.
+         (D) Bus stops,
 
-         (E) Double parking.
+         (E) Double parking,
 
-         (F) Driveways.
+         (F) Driveways,
 
-         (G) On bridges and highways, and
+         (G) On bridges and highways,
 
-         (H) Areas where a traffic hazard would be created.
+         (H) In carshare parking space(s), and
+
+         (I) Areas where a traffic hazard would be created.
 
       (iv) Duration. Single issue permits are issued for the minimum hours and days essential for the event. The Commissioner or his/her designee may, at his/her discretion, issue, extend or revoke these permits.
 
