@@ -1710,7 +1710,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 *§ 2-07 Confidentiality.* ::
 
 
-(a) Policy. The principle of confidentiality of information obtained in the Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement a written policy governing the dissemination of information.
+(a) Policy. The principle of confidentiality of information obtained in the course of treatment is to be upheld. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement a written policy governing the dissemination of information.
 
 (b) Sharing of information.
 

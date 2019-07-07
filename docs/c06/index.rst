@@ -6135,7 +6135,7 @@ All motor vehicles owned or operated by a City agency must be powered by ultra l
 
 
 
-Chapter 16: Nycdep Rules For the Recreational Use of Water Supply Lands and Waters
+Chapter 16: NYCDEP Rules for the Recreational Use of City Property*
 --------------------------------------------------
 
 
@@ -6143,7 +6143,9 @@ Chapter 16: Nycdep Rules For the Recreational Use of Water Supply Lands and Wate
 *§ 16-01 Scope and Purpose.* ::
 
 
-The following rules shall apply to all recreational use of the New York City lands, lakes and reservoirs owned for Water Supply purposes in the counties of Delaware, Dutchess, Greene, Orange, Putnam, Schoharie, Sullivan, Ulster, and Westchester. These rules are in furtherance of the City's goal of safeguarding an adequate supply of high quality drinking water while allowing compatible recreational use and enjoyment. Additional information about recreational use opportunities is available from NYCDEP offices and on the NYCDEP website at www.nyc.gov/dep.
+The following rules (the “Rules”) apply to all recreational uses of City Property, as defined herein, in the counties of Delaware, Dutchess, Greene, Putnam, Schoharie, Sullivan, Ulster, and Westchester. These Rules promote New York City’s goal of allowing recreational use and enjoyment of its City Property. Additional information about recreational use opportunities is available from the New York City Department of Environmental Protection (as defined below, the “NYCDEP”) offices and on the NYCDEP website at www.nyc.gov/dep.
+
+
 
 
 
@@ -6153,527 +6155,334 @@ The following rules shall apply to all recreational use of the New York City lan
 *§ 16-02 Definitions.* ::
 
 
-All terms shall have the same meaning as in the New York State Environmental Conservation Law ("ECL") unless defined differently as follows:
+All capitalized terms have the same meaning as in the New York State Environmental Conservation Law (“ECL”) unless defined differently herein as follows:
 
-(a) Access Permit. "Access Permit" means an instrument of registration and permission to access certain City Property for recreational use as further described in 15 RCNY § 16-03.
+(a) Access Permit. “Access Permit” means a valid NYCDEP instrument of registration and permission to access certain City Property for Recreational Use as further described in 15 RCNY § 16-04.1.
 
-(b) Boat Storage Area. "Boat Storage Area" means a location on land designated by NYCDEP for boats to be stored when not on the water.
+(b) Access Permit Areas. “Access Permit Areas” means a City Property location designated by NYCDEP as available for recreation uses as determined by NYCDEP, and for which a NYCDEP Access Permit and Vehicle Tag are required. Access Permit Areas are generally located near Water Supply facilities, such as Reservoirs and Controlled Lakes, and may have special access requirements or restrictions.
 
-(c) Boat Tag. "Boat Tag" means an instrument of permission issued for the purpose of allowing Access Permit holders to store a boat for use when Fishing on City Property, as further described in 15 RCNY § 16-05.
+(c) Angling. “Angling” means taking fish by hook and line. This includes bait and fly fishing, casting, trolling and the use of landing nets to complete the catch.
 
-(d) City. "City" means the City of New York.
+(d) Big Game. “Big Game” means deer and bear.
 
-(e) City Property. "City Property" means all real property owned by the City and within the jurisdiction of NYCDEP in the counties of Delaware, Dutchess, Greene, Orange, Putnam, Schoharie, Sullivan, Ulster, and Westchester.
+(e) Boat Storage Area. “Boat Storage Area” means a location on land designated by NYCDEP for Fishing and/or Recreational Boats to be stored when not on the water.
 
-(f) Designated Use Area."Designated Use Area" means a location designated by NYCDEP as available for designated recreational uses, in accordance with these rules, but not requiring NYCDEP Access Permits or Vehicle Tags.
+(f) City. “City” means the City of New York.
 
-(g) Fishing. "Fishing" means taking fish by angling as defined in ECL § 11-0103 and shall also include the use of tip-ups for ice fishing and the taking of carp by bow and arrow.
+(g) City Property. “City Property” means all real property, Reservoirs and Controlled Lakes owned by the City and within the jurisdiction of NYCDEP in the counties of Delaware, Dutchess, Greene, Putnam, Schoharie, Sullivan, Ulster, and Westchester.
 
-(h) Fishing Area. "Fishing Area" means a location designated by NYCDEP as available for Fishing to holders of valid Access Permits.
+(h) Controlled Lake. “Controlled Lake” means a lake from which the City may withdraw water pursuant to rights acquired by the City or as a right of ownership. The Controlled Lakes, for purposes of these Rules, are Lake Gilead and Lake Gleneida.
 
-(i) Group Access Permit. "Group Access Permit" means an instrument of registration and permission for groups to temporarily access certain City Property for recreational use without each member having to obtain an individual Access Permit, as further described in 15 RCNY § 16-12.
+(i) Day Use Area. “Day Use Area” means a City Property location designated by NYCDEP as available for designated Recreational Uses, as determined by NYCDEP in accordance with these Rules. It is not necessary to have an Access Permit or a Vehicle Tag for activities in a Day Use Area. Day Use Areas are generally areas that may be designated for activities including, but not limited to, running, walking, in-line skating, biking, and dog walking.
 
-(j) Group. "Group" means any congregation of individuals in excess of six (6) people and shall not consist of more than thirty (30) individuals.
+(j) Fishing. “Fishing” means taking fish by Angling and also includes the use of tip-ups for ice fishing and the taking of carp by bow and arrow.
 
-(k) Group Leader. "Group Leader" means the person who applies for the Group Access Permit and who agrees to accept responsibility for the conduct, activities, and safety of all Group Members.
+(k) Fishing Boats. “Fishing Boats” means metal rowboats with a location-designated NYCDEP Fishing Boat Tag that may be used on City Reservoirs and Controlled Lakes and stored on a Boat Storage Area for Fishing.
 
-(l) Group Member. "Group Member" means an individual listed on the Group Access Permit application for whom completed liability waivers have been received and accepted by NYCDEP, and who will accompany the Group Leader on the permitted Group activity.
+(l) Fishing Boat Tag. “Fishing Boat Tag” means a valid instrument of permission, which may include a sticker, bar code, or other instrument as determined by NYCDEP, issued to allow Access Permit holders to store a Fishing Boat in a Boat Storage Area, as further described in 15 RCNY § 16-10.1.
 
-(m) Guest. "Guest" means a person accompanying a valid Access Permit holder aged 18 or older onto City Property.
+(m)Group Access Permit. “Group Access Permit” means an valid instrument of registration and permission for groups to temporarily access certain City Property that requires an Access Permit for Recreational Use without each member having to obtain an individual Access Permit, as further described in 15 RCNY § 16-06.
 
-(n) Guest Pass. "Guest Pass" means an instrument of registration and permission for Guests of valid Access Permit holders to temporarily access certain City Property for recreational use as further described in 15 RCNY § 16-10.
+(n) Group. “Group” means any congregation of individuals in excess of six (6) people and shall not consist of more than thirty (30) individuals. Groups larger than 30 people are not permitted.
 
-(o) Hiking. "Hiking" means foot travel including hiking, walking, running, cross-country skiing, snowshoeing, bird watching, nature observation and photography.
+(o) Group Leader. “Group Leader” means the person who applies for the Group Access Permit and who agrees to accept responsibility for the conduct, activities, and safety of all Group Members.
 
-(p) Hiking Area. "Hiking Area" means a location designated by NYCDEP as available for Hiking to holders of valid Access Permits.
+(p) Group Member. “Group Member” means an individual listed on the Group Access Permit application for whom completed liability waivers have been received and accepted by NYCDEP, and who will accompany the Group Leader on the permitted Group activity.
 
-(q) Hunting Area. "Hunting Area" means a location designated by NYCDEP as available for hunting to holders of valid Access Permits.
+(q) Guest. “Guest” means a person accompanying a valid Access Permit holder who has completed and signed a Guest Pass application.
 
-(r) NYCDEP. "NYCDEP" means the New York City Department of Environmental Protection, an executive agency of the City.
+(r) Guest Pass. “Guest Pass” means a valid instrument of registration and permission for Guests of valid Access Permit holders to temporarily access certain City Property for Recreational Use as further described in 15 RCNY § 16-05.
 
-(s) NYSDEC. "NYSDEC" means the New York State Department of Environmental Conservation, an executive agency of the State of New York.
+(s) Hiking. “Hiking” means foot travel including hiking, walking, running, cross-country skiing, snowshoeing, bird watching, nature observation and photography.
 
-(t) Public Access Area. "Public Access Area" means a location designated by NYCDEP as available for recreational uses as allowed by New York State law and these Rules, and on which NYCDEP Access Permits and Vehicle Tags are not required.
+(t) High Water Mark. “High Water Mark” means the visible mark along the shoreline where the Reservoir water intersects with the shoreline during its high peak level. Boaters are encouraged to contact the appropriate NYCDEP Boat Office if they have questions identifying this boundary.
 
-(u) Public Map. "Public Map" means a map produced by NYCDEP to convey information to Access Permit holders and the public.
+(u) Hunting. “Hunting” means pursuing, shooting, killing or capturing (other than Trapping as defined below) wildlife, except wildlife which has been lawfully trapped or otherwise reduced to possession, and includes all lesser acts such as disturbing, harrying or worrying, whether they result in taking or not, and every attempt to take and every act of assistance to any other person in taking or attempting to take wildlife.
 
-(v) Recreational Boat Tag. "Recreational Boat Tag" means an instrument of permission issued for the purpose of allowing Access Permit holders to use and store boats for use when boating on Recreational Boating Areas, as further described in 15 RCNY § 16-07.
+(v) Ice Free Period. “Ice Free Period” means that the main bodies and shorelines of the Reservoirs and Controlled Lakes are free from ice. There is the possibility that a Reservoir whose main body is free of ice (and therefore “open” to Fishing) may still have some ice present in some of the isolated coves and protected areas.
 
-(w) Recreational Boating Area. "Recreational Boating Area" means a location designated by NYCDEP that is available for boating that does not require boat occupants to be plausibly engaged in the activity of Fishing.
+(w) Manned and Unmanned Aircraft. “Manned and Unmanned Aircraft” means, without limitation, drones, model airplanes, airplanes, flying machines, balloons, parachutes or other apparatus for aviation.
 
-(x) Vehicle Tag. "Vehicle Tag" means an instrument of permission issued in support of an Access Permit for the purpose of allowing visitors to park a vehicle on City Property while accessing City Property for recreational use, as further described in 15 RCNY § 16-11.
+(x) NYCDEP. “NYCDEP” means the New York City Department of Environmental Protection, an executive agency of the City.
 
-(y) Water Supply. "Water Supply" means the New York City public water supply system, and includes all watercourses, wetlands, reservoirs, reservoir stems and controlled lakes tributary thereto.
+(y) NYSDEC. “NYSDEC” means the New York State Department of Environmental Conservation, an executive agency of the State of New York.
 
-(z) Watercourse. "Watercourse" means a visible path through which surface water travels on a regular basis, including an intermittent stream, which is tributary to the Water Supply.
+(z) Public Access Area. “Public Access Area” means those areas of City Property designated by NYCDEP and by these Rules as available for Recreational Uses without a NYCDEP Access Permit and Vehicle Tag, as designated by NYCDEP and described herein. Public Access Areas are generally not adjacent to Reservoirs.
 
-(aa) Watershed. "Watershed" or "New York City Watershed" means the land area contributing surface water to the New York City water supply.
+(aa) Recreational Areas. “Recreational Areas” means Public Access Areas, Day Use Areas, Access Permit Areas, Fishing Boat Areas, and Recreational Boating Areas
 
-(bb) Watershed Rules. "Watershed Rules" means the Rules and Regulations for the Protection from Contamination, Degradation and Pollution of the New York City Water Supply and Its Sources, 15 Rules of the City of New York Chapter 18; 10 NYCRR Part 128.
+(bb) Recreational Boats. “Recreational Boats” means vessels that may be used in Recreational Boating Areas and stored on adjacent City Property for Recreational Uses, as further described in 15 RCNY § 16-10.2(b)(1).
+
+(cc) Recreational Boat Tag. “Recreational Boat Tag” means a valid instrument of permission, which could include a sticker or bar code or other instrument as determined by NYCDEP, issued for the purpose of allowing Access Permit holders to use and store boats for use when boating on Recreational Boating Areas as further described in 15 RCNY § 16-10.2.
+
+(dd) Recreational Boating Area. “Recreational Boating Area” means a location designated by NYCDEP within the Cannonsville, Neversink, Pepacton and Schoharie Reservoirs that is available for use of Recreational Boats.
+
+(ee) Recreational Uses. “Recreational Uses” means activities on City Property that, in the sole discretion of NYCDEP, do not pose a potential adverse impact to natural resources, water quality or security, and includes, without limitation, the following activities: Hunting, Hiking, Fishing, Trapping, paddling, exercising, bird watching, nature observation, sightseeing, cross country skiing, snowshoeing, and nature photography.
+
+(ff) Reservoir. “Reservoir” means any natural or artificial impoundment of water owned or controlled by the City which is tributary to the City Water Supply system.
+
+(gg) Restricted Area. “Restricted Area” means any area in which public access is not allowed.
+
+(hh) Small Game. “Small Game” means upland and migratory game birds, small game mammals (e.g., squirrel, rabbit), furbearers (e.g., fox, coyote), and reptiles and amphibians.
+
+(ii) Special Event Area. “Special Event Area” means a location on City Property designated by NYCDEP as available for designated Recreational Uses, which shall be designated by NYCDEP in accordance with these Rules, but not requiring NYCDEP Access Permits or Vehicle Tags. These areas are for short duration, low-impact activities including but not limited to “Family Fishing Day” and Reservoir clean-ups in which NYCDEP staff are present as facilitators of the event.
+
+(jj) Tag. “Tag” includes Vehicle Tags, Recreational Boat Tags and Fishing Boat Tags.
+
+(kk) Trapping. “Trapping” means taking, killing and capturing wildlife with traps, deadfalls and other devices commonly used to take wildlife, and the shooting or killing of wildlife lawfully trapped, and includes all lesser acts such as placing, setting or staking such traps, deadfalls and other devices whether they result in taking or not, and every attempt to take and every act of assistance to any other person in taking or attempting to take wildlife with traps, deadfalls or other devices.
+
+(ll) Vehicle Tag. “Vehicle Tag” means a valid instrument of permission issued in support of an Access Permit for the purpose of allowing visitors to park a vehicle on City Property while accessing City Property for Recreational Use, as further described in 15 RCNY § 16-04.2.
+
+(mm) Voluntarily. “Voluntarily” means anything other than a forced or emergency landing of any manned or unmanned aircraft.
+
+(nn) Water Supply. “Water Supply” means the New York City public water supply system, and includes all Watercourses, wetlands, Reservoirs, Reservoir stems and Controlled Lakes tributary thereto.
+
+(oo) Watercourse. For the purposes of these Rules, a “Watercourse” means a visible path through which surface water travels on a regular basis, including an intermittent stream, which is tributary to the Water Supply.
+
+(pp) Watershed. “Watershed” or “New York City Watershed” means the land area contributing surface water to the New York City Water Supply.
 
 
 
 
 
 
-*§ 16-03 Access Permit.* ::
 
 
-All persons 16 years of age and older must complete an application for and receive, maintain and carry a valid Access Permit in order to access Hiking Areas, Fishing Areas, Hunting Areas and Recreational Boating Areas for recreational purposes as defined in these rules. Entry onto City Property, other than Public Access Areas and Designated Use Areas, without a valid Access Permit, Guest Pass, or without appropriate accompaniment as described herein, is prohibited and shall be considered a trespass.
 
-(a) Application. The Access Permit application shall be available for download or completion on the NYCDEP website and for pick-up at NYCDEP facilities in New York City NYCDEP offices throughout the Watershed and such other locations as indicated on the NYCDEP website. No application fee is required.
+**Subchapter A: Open Access Areas**
 
-(b) Required Information. An Access Permit application shall require the following information:
 
-   (1) Applicant name, mailing address, phone number, electronic mail address if submitted via the NYCDEP website, and date of birth;
 
-   (2) Applicant gender, height, eye color and hair color;
+*§ 16-03.1 Public Access Areas* ::
 
-   (3) Applicant driver's license number and state of issuance, or non-driver's identification number and state of issuance;
+
+Public Access Areas (PAA) are those locations designated for public use without the need for a Access Permit. NYCDEP may, in its discretion, designate portions of City Property as PAAs. PAAs are located on City Property that is not adjacent to Water Supply facilities such as Reservoirs or Controlled Lakes.
+
+(a) Designations. PAAs are posted with signs and otherwise designated as such by NYCDEP on NYCDEP maps, the NYCDEP website, and/or in other NYCDEP publications.
+
+(b) Season. Access to PAAs is year-round except as otherwise restricted on NYCDEP sign postings and on NYCDEP maps on the NYCDEP website.
+
+(c) Uses. Permitted uses will be posted on signs in the PAA, and may, at NYCDEP’s discretion, include one or more of the following permitted uses: Fishing, Hunting, Hiking and/or Trapping. No boating is allowed on ponds within PAAs; however, a person may float through a PAA on a Watercourse that traverses the property. Boats do not need to be steam cleaned.
+
+
+
+
+
+
+
+
+*§ 16-03.2 Day Use Areas.* ::
+
+
+Day Use Areas (DUAs) are those locations on City Property designated for public use without the need for a NYCDEP Access Permit. These areas may be near Water Supply facilities and usually have some improvements. DUAs may or may not have management agreements with local municipalities.
+
+(a) Designations. DUAs and their allowed uses will be designated by NYCDEP on NYCDEP maps on the NYCDEP website and by NYCDEP sign postings.
+
+(b) Uses. Permitted uses will be posted on signs in the DUA, and may, at NYCDEP’s discretion, include one or more of the following activities: walking, picnicking, in-line skating, dog walking, bicycling and Fishing. Permitted uses will also be posted on signs and on the NYCDEP website.
+
+(c) Hours. Hours of use will be posted on NYCDEP signage and will typically be dawn to dusk.
+
+
+
+
+
+
+
+
+*§ 16-03.3 Special Event Areas.* ::
+
+
+Special Event Areas (SEA) are those locations on City Property designated for public use during a NYCDEP-sponsored event without the need for a NYCDEP Access Permit.
+
+(a) Designations. SEAs will be designated by NYCDEP for specific limited duration events, typically one day.
+
+(b) Uses. Uses allowed in SEAs shall be determined by NYCDEP and shall be posted on event flyers and other outreach material.
+
+(c) Hours. Hours of use shall be determined by NYCDEP on an event-by-event basis.
+
+
+
+
+
+
+
+
+*§ 16-04 Access Permit Areas.* ::
+
+
+Access Permit Areas (APAs) are those areas that require a valid NYCDEP Access Permit and Vehicle Tag for entry. NYCDEP may, in its discretion, designate portions of City Property as APAs that may be entered and used by the public for Recreational Uses with the requirement of having a valid NYCDEP Access Permit and Vehicle Tag.
+
+(a) Designations. APAs and their allowed uses will be designated by NYCDEP on NYCDEP maps on the NYCDEP website and by NYCDEP sign postings.
+
+(b) Uses. Permitted uses will be posted on signs in the APA, and may, at NYCDEP’s discretion, include Fishing, Hunting, Hiking, Trapping, and use of Fishing Boats, and Recreational Boats. Scouting for the purpose of deer Hunting is allowed, provided that valid NYCDEP Access Permits are carried.
+
+(c) All individuals entering APAs must have (1) a valid NYCDEP Access Permit as required in 15 RCNY § 16-04.1, and (2) a Vehicle Tag as required in 15 RCNY § 16-04.2.
+
+
+
+
+
+
+
+
+*§ 16-04.1 Access Permit.* ::
+
+
+(a) Application. The Access Permit application will be available for download or completion on the NYCDEP website and for pick-up at certain NYCDEP facilities in New York City, NYCDEP offices throughout the Watershed and such other locations as indicated on the NYCDEP website. No application fee is required.
+
+(b) Required Information. An Access Permit application will require the following information:
+
+   (1) Applicant’s name, mailing address, phone number, electronic mail address, and date of birth;
+
+   (2) Applicant’s gender, height, eye color and hair color;
+
+   (3) Applicant’s driver’s license number and state of issuance, or non-driver’s identification number and state of issuance, or IDNYC identification card, or any valid passport, or any school-issued identification;
 
    (4) Acknowledgement of risks and waiver of liability;
 
-   (5) Applicant signature and date of signature;
+   (5) Applicant’s signature and date of signature;
 
-   (6) Parent or legal guardian signature and date of signature if applicant is under 18. Information provided shall be maintained by NYCDEP for agency purposes only.
+   (6) Parent or legal guardian’s signature and date of signature if applicant is between 16 and 17.
 
-(c) Eligibility. Individuals aged 12 years or older who do not have an outstanding Access Permit suspension or revocation, do not have a valid current Access Permit, and are not otherwise restricted for security or public safety reasons from applying are eligible to receive an Access Permit. Individuals under the age of 18 must have the written consent of their parent or legal guardian indicated on their Access Permit application.
+Information provided will be maintained by NYCDEP for agency purposes only.
 
-(d) Minors. Persons between the ages of 12 and 18 are eligible to receive Access Permits with parental or legal guardian consent and may participate in recreational opportunities in accordance with these rules. Persons under 16 years of age may access City Property for recreational purposes without an Access Permit, but must be accompanied by a valid Access Permit holder aged 18 or older. A valid Access Permit holder aged 18 or older may accompany up to five (5) persons under the age of 16 who do not have Access Permits, but he or she is responsible for their conduct and safety and shall be liable for any of their violations of these rules.
+(c) Access Permit Eligibility. All persons 18 years of age and older must complete an application for and receive, maintain and carry a valid Access Permit in order to enter Access Permit Areas (and must have the applicable NYSDEC hunting, fishing and/or trapping licenses as required by the NYSDEC Environmental Conservation Law as described in 15 RCNY § 16-12(f)) and Recreational Boating Areas for recreational purposes as defined in these Rules. Entry onto Access Permit Areas, without a valid Access Permit, Guest Pass, or appropriate accompaniment as described herein, is prohibited and shall be considered a trespass.
+
+Persons aged 16 and 17 are eligible to apply for an Access Permit and must have the written consent of their parent or legal guardian indicated on their Access Permit application to obtain an Access Permit. Persons aged 16 and 17 years old who obtain a valid Access Permit may enter City Property for Recreational Activities without an adult.
+
+(d) Other Access. All persons under 16 years of age may access City Property without an Access Permit or a Guest Pass for Recreational Uses but must be accompanied by a valid Access Permit holder aged 18 or older. A valid Access Permit holder aged 18 or older may accompany up to six (6) persons under the age of 16 and he or she is responsible for their conduct and safety and shall be liable for any of their violations of these Rules. Groups in excess of six (6) persons under the age of 16 require a Group Access Pass, signed by a parent or guardian as provided in 15 RCNY § 16-06.
 
 (e) Internet Submission and Processing. The NYCDEP Access Permit application may be completed and submitted on the NYCDEP website. Access Permit issuance letters, Access Permits and corresponding Vehicle Tags may be printed directly from the NYCDEP website. NYCDEP is not responsible for electronic delivery errors or limitations of equipment and services not maintained by NYCDEP that may cause delays or prevent printing.
 
-(f) Mail Submission and Processing. Completed Access Permit applications may be submitted by United States Postal Service ("USPS") mail to the address on the form. Accepted applications submitted by USPS mail shall proceed as follows: An Access Permit issuance letter and Access Permit shall be generated and mailed with the corresponding Vehicle Tag within two weeks of receipt, except in unusual circumstances, directly to the address submitted on the application. Mailings may be accompanied by other official NYCDEP communications, e.g. the Watershed Recreation newsletter, notices, and other recreational use materials. Addresses on any mailings returned to NYCDEP as undeliverable by the USPS shall be verified for accuracy and re-mailed if necessary. Applicants are responsible for maintaining current, accurate contact information with NYCDEP. NYCDEP shall not be responsible for USPS delivery errors or lost mail.
+(f) Mail Submission and Processing. Completed Access Permit applications may be submitted by United States Postal Service (“USPS”) mail to the address on the form. Accepted applications submitted by USPS mail shall be processed as follows:
 
-(g) Refusal. Rejected applications shall be returned to the applicant, accompanied by a letter identifying the reason(s) for refusal, generally within two weeks of application receipt or by electronic means through the Internet. Within ten days of receipt of the communication, the applicant may provide NYCDEP with an appeal of NYCDEP's refusal to issue an Access Permit that shall include any relevant information pertaining to the basis for the refusal. Upon examination of the circumstances and generally within two weeks of receipt, NYCDEP will either uphold the refusal or revise its prior decision and issue an Access Permit upon such terms and conditions as may be appropriate. The applicant will be notified of NYCDEP's determination in writing. Grounds for refusal of an Access Permit include the following:
+An Access Permit issuance letter and Access Permit shall be generated and mailed with the corresponding Vehicle Tag generally within two weeks of receipt, except in unusual circumstances, directly to the address submitted on the application.
+
+Addresses on any mailings returned to NYCDEP as undeliverable by the USPS will be verified for accuracy and re-mailed if necessary. Applicants are responsible for maintaining current, accurate contact information with NYCDEP. NYCDEP is responsible for USPS delivery errors or lost mail.
+
+(g) Refusal. Rejected applications will be returned to the applicant, accompanied by a letter or e-mail identifying the reason(s) for refusal, generally within two weeks of application receipt, except in unusual circumstances, directly to the address submitted on the application. Within ten days of receipt of the communication, the applicant may send an appeal of NYCDEP’s refusal to issue an Access Permit to the NYCDEP Deputy Chief of City Land Stewardship. Such appeal must include any relevant information pertaining to the basis for the refusal. Upon examination of the circumstances and generally within two weeks of receipt, the NYCDEP Deputy Chief City Land Stewardship will either uphold the refusal or revise its prior decision and issue an Access Permit upon such terms and conditions as may be appropriate. The applicant will be notified of NYCDEP’s determination in writing. Grounds for refusal of an Access Permit include but are not limited to the following:
 
    (1) Incomplete or illegible application;
 
    (2) Failure to meet application eligibility requirements;
 
-   (3) Submission of false information;
+   (3) Submission of false information.
 
-   (4) Current, valid Access Permit status.
+(h) Term. An Access Permit is valid for five (5) years, or the period indicated thereon, if different, expiring on the permit holder’s day and month of birth, unless revoked, suspended or altered by NYCDEP.
 
-(h) Term. An Access Permit is valid for the period of five (5) years, or the period indicated thereon, expiring on the permit holder's day and month of birth, unless revoked, suspended or altered by NYCDEP.
+(i) Renewal. NYCDEP will send an Access Permit renewal application by electronic or USPS mail to the address on file for each valid Access Permit holder generally two months before the Access Permit expiration date. The Access Permit renewal application will require confirmation of the permit holder’s information on file, as well as user survey questions, if any. Access Permit renewal processing will be as provided for in the initial application. Applicants may renew their Access Permits by returning the application by USPS mail or through the NYCDEP website.
 
-(i) Renewal. An Access Permit renewal application shall be sent via electronic or USPS mail to the address on file for each valid Access Permit holder generally two months prior to the Access Permit expiration date. Content of an Access Permit renewal application shall include confirmation of the permit holder's information on file, as well as user survey questions, if any. Access Permit renewal processing shall be as provided for initial application, except that Vehicle Tags do not expire, and therefore will not be renewed. Applicants may renew their Access Permits by returning the application by USPS mail or through the NYCDEP website.
+(j) Replacement. To replace lost or destroyed Access Permits the permit holder must send a written request to NYCDEP by USPS, electronic mail or through the NYCDEP website. Electronically requested replacements may be printed immediately upon NYCDEP’s approval, whereas replacements requested by USPS mail will generally be issued within two weeks of receipt of the request.
 
-(j) Replacement. Lost or destroyed Access Permits may be replaced upon the permit holder's written request to NYCDEP by USPS or electronic mail. Electronically requested replacements may be printed immediately. Replacements requested by USPS mail will generally be issued within two weeks.
+(k) Notifications. Notices to Access Permit holders will be sent to the address on record with NYCDEP. It is the Access Permit holder’s responsibility to inform NYCDEP of any changes to the address and information submitted on a permit application or renewal form.
 
-(k) Notifications. Notices to Access Permit holders shall be sent to the address on record with NYCDEP. It is the Access Permit holder's responsibility to inform NYCDEP of any changes to the address and information submitted on a permit application or renewal form.
-
-(l) Updating Contact Information. It is the Access Permit holder's responsibility to inform NYCDEP of any changes to the contact information submitted on his or her application. Access Permit holders shall notify NYCDEP in writing, either by electronic or USPS mail, of any such changes [;to their contact information on file with NYCDEP];. Failure to do so may result in the Access Permit holder not receiving important notifications, such as boat removals, area closure notices or Access Permit renewal notices. Access Permit holders may use the Access Permit Update Form to submit contact changes or update their information on the NYCDEP website. This form is available for download from or completion on the NYCDEP website and for pick-up at NYCDEP facilities in New York City, NYCDEP offices throughout the Watershed and such other locations as indicated on the NYCDEP website.
+(l) Updating Contact Information. It is the Access Permit holder’s responsibility to inform NYCDEP of any changes to the contact information submitted on his or her application or renewal form. Access Permit holders must notify NYCDEP in writing, either by electronic or USPS mail, of any such changes. Failure to do so may result in the Access Permit holder not receiving important notifications, such as Fishing or Recreational Boat Tag renewal notices, area closure notices or Access Permit renewal notices. Access Permit holders may use the Access Permit Update Form to submit contact changes or update their information on the NYCDEP website. This form is available for download from or completion on the NYCDEP website and for pick-up at certain NYCDEP facilities in New York City, NYCDEP offices throughout the Watershed and such other locations as indicated on the NYCDEP website.
 
 (m) Transferability. An Access Permit is not transferable and may be used only by the person to whom it has been issued.
 
+(n) Fishing and Recreational Boat Tags. NYCDEP may revoke an individual’s Fishing or Recreational Boat Tag(s) upon Access Permit revocation or expiration.
 
+(o) Limitation. All Access Permits and other permits and tags provided for in these rules are limited to the purposes and time periods for which they are issued, and convey no interest in or right over property of NYCDEP or the City.
 
 
 
 
-*§ 16-04 Fishing and Fishing Areas.* ::
 
 
-(a)  Access. Access to Fishing Areas on City Property for purposes of Fishing shall be by Access Permit. No additional NYCDEP permits or tags are required. Individuals engaged in Fishing shall also possess a valid New York State fishing license, when required by State law.
 
-(b) Designation. Fishing Areas shall be designated by NYCDEP in publications and notices, on the NYCDEP website, on Public Maps available to Access Permit holders, and by sign postings.
 
-(c) Shoreline Fishing. Shoreline Fishing is allowed at Fishing Areas, Hiking Areas, Public Access Areas, and certain Designated Use Areas as indicated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices.
+*§ 16-04.2 Vehicle Tag.* ::
 
-(d) Ice Fishing. Ice Fishing is allowed only on the Amawalk, Bog Brook, Boyds Corner, Cross River, Diverting, East Branch, Muscoot, Titicus, West Branch, Croton Falls and Middle Branch Reservoirs, on Lake Gilead and Lake Gleneida and on ponds located in Hiking Areas, Public Access Areas, and certain Designated Use Areas as indicated by NYCDEP on sign postings, and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices. All other reservoirs are off-limits to ice fishing due to safety considerations.
 
-(e) Season. Access to Fishing Areas is year-round during New York State fishing seasons, except as otherwise restricted by these rules or by NYCDEP postings or notices.
+All vehicles parked on City Property for Recreational Uses other than at DUAs and PAAs must have the driver’s valid Vehicle Tag prominently displayed in their vehicle so that it is visible from the front of the vehicle.
 
-(f) Means. Angling is the only permissible means of Fishing on City Property. Tip-ups may be used for ice fishing, and bow and arrow may be used for carp fishing. Anglers shall be in immediate attendance of their lines.
+(a) Issuance. Any person who has been issued an Access Permit will be issued a Vehicle Tag.
 
-(g) Bait and Bait Disposal. The use of terrestrial bait such as worms and crickets is allowed. Live aquatic bait, which may include, but is not limited to, alewives, shiners, leeches, and crawfish, may be used for Fishing unless it has been taken from waters infested with zebra mussels or other invasive species of mussels, including, but not limited to: Lake Champlain, Lake Erie, Lake Ontario, the Finger Lakes, the Erie Canal, the Niagara River, the Mohawk River, the St. Lawrence River, the Susquehanna River and the Hudson River. Neither bait nor the water from aquatic bait containers shall be disposed of on City Property. NYCDEP, at its sole discretion, may prohibit the use of specified bait. Any such prohibitions shall be indicated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publi- cations and notices.
+(b) Term. A Vehicle Tag is valid only if and for so long as the person’s Access Permit is valid. If an expired Access Permit is renewed, the Vehicle Tag becomes valid again upon renewal of the Access Permit.
 
-(h) Fishing Equipment. The following equipment rules apply to Fishing:
+(c) Use of a Vehicle Tag. The driver’s Vehicle Tag must be prominently displayed so that it is visible from the front of the vehicle, typically hanging from the rear view mirror whenever a person is accessing City Property for Recreational Use, except in DUAs and PAAs. Only one Vehicle Tag is required to be displayed if multiple Access Permit holders are visiting Access Permit Areas in the same vehicle. Motorcycle drivers may display a photocopy of their Vehicle Tag on the motorcycle.
 
-   (1) Waterproof waders shall be used when entering water for purposes of Fishing. Due to the potential threat of invasive species being transferred from waders into the NYC water supply, NYCDEP reserves the right to prohibit certain waders from use in the watershed. A list of waders prohibited from use is posted on the NYCDEP website.
+(d) Transferability. Vehicle Tags are not transferable to another person but may be used by the permittee on any vehicle.
 
-   (2) Temporary, portable, fabric fishing shelters and windbreaks may be used for ice fishing on City Property. Shelters shall contain the occupant's name and Access Permit number. Wood or metal shelters are not permitted.
+(e) Replacement. Lost or destroyed Vehicle Tags will be replaced upon the holder’s written request to NYCDEP by USPS, electronic mail or the NYCDEP website. Electronically requested replacements may be printed immediately upon NYCDEP’s approval, whereas replacements requested by USPS mail will generally be issued within two weeks of receipt of the request.
 
-   (3) Ice fishing equipment, including shelters and windbreaks, shall remain within view of the occupant and shall be removed from City Property by the occupant when not in use or at the end of each day, whichever is sooner.
 
-   (4) Use of float tubes or inflatable waders is prohibited.
 
-   (5) Motorized fishing equipment is prohibited on City Property, including but not limited to powered ice augers and trolling motors. Automotive type batteries shall not be used to power lights or fishing equipment.
 
-   (6) Anglers may carry pocket or hunting knives for purposes of Fishing.
 
-      (i) Fishing Litter. Upon leaving City Property, anglers shall remove any and all equipment, supplies, or other items brought onto the City Property for use while Fishing. These include but are not limited to: equipment packaging, fishing line, monofilament, bait, bait containers, lures, hooks, sinkers, bobbers, food and drink containers, bags, chairs, cigarette remains, and clothing. Anglers are encouraged to carry trash bags with them and remove trash and litter left by others to help protect the Water Supply, wildlife and the scenic appearance of Fishing Areas.
 
-(j) Fish Entrails. Fish entrails shall not be deposited in or within 100 feet of a reservoir, lake, pond, Watercourse, public access point, public road, or private property.
 
-(k) Fishing from Bridges. Fishing from vehicular bridges located on City Property is not permitted except where designated by NYCDEP.
 
+*§ 16-05 Guest Pass.* ::
 
 
+Guest Passes are for temporary access for the Recreational Use of certain City Property. Guests may participate in all Watershed recreational opportunities while accompanied by a person who has a valid Access Permit. A Guest Pass cannot be used to obtain a Fishing or Recreational Boat Tag. Access Permit holders are responsible for their Guests and must ensure their Guests follow all Recreational Rules.
 
+(a) Application. The Guest Pass is a fully completed Guest Pass application signed by the Guest, or signed by the Guest’s parent or legal guardian if the Guest is under 18, and carried by the Guest. No Guest Pass is necessary for individuals under 16 years of age, or for groups of up to 6 under 16 years of age, provided they are accompanied by an Access Permit holder aged 18 or older. No application fee is required.
 
+(b) Required Information. A valid Guest Pass application must be filled out by the Guest and includes:
 
-*§ 16-05 Boat Tag.* ::
+   (1) Guest’s name, mailing address, phone number, electronic mailing address, and date of birth;
 
+   (2) Guest’s gender, height, eye color and hair color;
 
-Due to the threat of Water Supply contamination by organisms such as zebra mussel larvae that may be introduced to City waters by boats previously used in contaminated waters, all boats used on City Property shall be registered and steam cleaned by NYCDEP or its designees, when available, as listed on the NYCDEP website, and stored on-site in Boat Storage Areas designated by NYCDEP. All boats on City Property must have a valid Boat Tag affixed thereto.
-
-(a) Application. Boat Tag applications shall be available at the same locations as Access Permit applications as indicated in 15 RCNY § 16-03(a).
-
-(b) Required Information. A Boat Tag application shall require the following information:
-
-   (1) Applicant's valid Access Permit number;
-
-   (2) Applicant's name, mailing address, phone number, electronic mail address, if available, and date of birth;
-
-   (3) Boat make, model, serial number, color, width, length, material, and hull shape;
-
-   (4) Designated Fishing Area and Boat Storage Area requested;
-
-   (5) Acknowledgement of risk and waiver of liability;
-
-   (6) Applicant signature and date of signature; and
-
-   (7) Parent or legal guardian signature and date of signature if applicant is under 18.
-
-(c) Eligibility. Valid Access Permit holders aged 16 years or older who do not have an outstanding Access Permit suspension or revocation, are not otherwise restricted for security or public safety reasons from applying by NYCDEP, and who own the rowboat that they are registering are eligible to receive a Boat Tag for the boat documented on the application. Applicants under 18 need parental or legal guardian consent. Each Boat Tag will be issued to one boat owner only. Access Permit holders may apply for Boat Tags for more than one boat.
-
-(d) Application Submission and Appointment. Boat Tag applications shall be submitted to NYCDEP or its designee, when available, as listed on the NYCDEP website, at the boat registration appointment on the day the boat is to be placed on a reservoir or lake. The appointment must be made in advance by contacting the NYCDEP office nearest the reservoir where the boat will be located, or the NYCDEP designee, when available, as listed on the NYCDEP website. Boat owners shall speak directly with a NYCDEP representative or the designee's representative and provide their name, telephone number, valid Access Permit number, and desired Boat Storage Area in order to make a processing appointment. Completed applications shall be submitted in person at the processing appointment. Boat Tag applications may be completed in advance of the appointment. A boat owner who is unable to attend his or her appointment shall notify NYCDEP or its designee in advance. Appointments may be rescheduled to a later available date.
-
-(e) Boat Processing and Tag Issuance. A boat owner shall attend the processing appointment for his or her boat in person and shall bring his or her boat, valid Access Permit, and government-issued photo identification. A boat processing appointment shall consist of the following steps:
-
-   (1) The boat owner shall submit the completed Boat Tag application.
-
-   (2) Access Permit data on file shall be confirmed with the applicant. This information shall include contact information and Access Permit status.
-
-   (3) Boat type, shape, size, color, make, model, serial number, absence of possible contaminants, and apparent seaworthiness shall be confirmed and entered into the file.
-
-   (4) Boats shall be steam cleaned by NYCDEP on all surfaces to remove any possible Water Supply contaminants such as zebra mussel larvae.
-
-   (5) A unique boat number shall be assigned to the boat.
-
-   (6) The boat number shall be painted by NYCDEP on both sides of the bow hull above the anticipated immersion line using permanent white or black paint, whichever color is most visible given the color of the boat.
-
-   (7) An appropriately dated Boat Tag shall be completed in permanent ink and affixed to the exterior port-side bow. Boat Tag completion shall include: writing the boat owner's Access Permit number in the appropriate field; writing the reservoir prefix, if any, and boat number in the appropriate field; and punching out the appropriate Water Supply location abbreviation.
-
-   (8) At the processing appointment the boat owner shall receive the following information: a copy of the current rules, if the boat owner does not already have one, a current Watershed Recreation newsletter, if desired, a map and/or directions to the designated Boat Storage Area for their boat, a verbal summary of important rules and conditions, including the Boat Tag expiration and renewal process, boat storage requirements, and the procedures for boat removal and disposal.
-
-   (9) Upon completion of the boat cleaning and processing appointment, the boat owner shall immediately place the registered boat on the appropriate water body or at the assigned Boat Storage Area without storing or placing the boat in any other location or water body.
-
-(f) Eligible Boats. Boats eligible for Boat Tags shall be aluminum or metal-alloy row boats, except boats on record as having had valid Boat Tags that were issued initially prior to March 31, 2006 may be wooden or fiberglass row boats. Only rowboats that are a minimum of 11'6" in length and 42" in width and are a maximum of 16' in length are permitted on City Property. Other vessels, including but not limited to sailboats, motorized boats, canoes, kayaks, sculls, inflatable boats and collapsible boats are prohibited, except as provided in 15 RCNY § 16-07.
-
-(g) Rejection. Grounds for rejection of a Boat Tag application include the following:
-
-   (1) Incomplete application;
-
-   (2) Failure to meet application eligibility requirements;
-
-   (3) Submission of false information;
-
-   (4) Illegible application;
-
-   (5) Failure of boat to meet inspection and cleaning standards. Rejected applications shall be returned immediately to the applicant, accompanied by an explanation of the reason(s) for rejection, and an opportunity provided for the immediate resubmission of the corrected application, if applicable.
-
-(h) Term. Boat Tags shall be valid for two (2) years or until the expiration date indicated thereon, unless revoked, suspended, or altered by NYCDEP. Boat Tags shall only remain valid so long as the boat owner remains a valid Access Permit holder. If an Access Permit holder's Access Permit is suspended or revoked, they may remove their boat if accompanied by a NYCDEP representative.
-
-(i) Display. Boat Tags shall be affixed to the upper port-side exterior bow (top left outside front) of the corresponding registered boat. It shall be the Boat Tag holder's responsibility to keep a Boat Tag affixed and clearly legible at all times. It shall also be the responsibility of the boat owner to ensure the boat numbers are clearly legible and visible. Boats with missing or illegible Boat Tags and/or boat numbers are subject to removal by NYCDEP.
-
-(j) Replacement. Lost or destroyed Boat Tags may be replaced upon the boat owner's written request to NYCDEP by USPS or electronic mail. Replacements will generally be issued within two weeks.
-
-(k) Renewal. A renewal Boat Tag application shall be sent via electronic or USPS mail to the address on file for each valid boat owner generally in the spring of the Boat Tag expiration year. Content of the renewal Boat Tag application shall include confirmation of boat owner and boat information on file, as well as any angler survey questions. Renewed Boat Tags shall be sent to the address on file for the boat owner generally within two weeks of application receipt.
-
-(l) Transferability. Boat Tags are not transferable to either another person or another boat.
-
-(m) Transfer of Boat Ownership. Owners of boats with valid Boat Tags who would like to transfer ownership of their boat to another valid Access Permit holder may do so according to the following process:
-
-   (1) The current boat owner shall put the following information in writing to NYCDEP: the current boat owner's Access Permit number and name; the reservoir or lake and specific Boat Storage Area where the boat is currently stored; the boat number issued by NYCDEP; the name of the person to whom ownership is being transferred; the valid Access Permit number of the person to whom ownership is being transferred; the signature of the current boat owner and the date of signature.
-
-   (2) The new owner shall complete a Boat Tag application for the boat, in accordance with 15 RCNY § 16-05.
-
-   (3) The current owner shall mail the transfer information together with the Boat Tag application completed by the new owner to NYCDEP at the address indicated on the application.
-
-   (4) NYCDEP shall issue and mail a new Boat Tag and other materials to the accepted new boat owner at the address on file generally within two weeks of transfer of ownership request receipt.
-
-   (5) The new boat owner shall remove the prior owner's invalid Boat Tag from the boat and replace it with the new valid Boat Tag. New boat owners who would like to change the Boat Storage Area for the boat shall comply with the rules for a change of Boat Storage Area location.
-
-(n) Boat Storage Area. Each registered boat shall be assigned to a Boat Storage Area. The boat must be stored in the assigned Boat Storage Area when not in use on the water. NYCDEP may limit the number and location of boats assigned to any particular Boat Storage Area. Information about Boat Storage Areas closed to additional boats shall be available from NYCDEP and, when applicable, on the NYCDEP website. Requests to place a boat at high-demand Boat Storage Areas shall be handled in the order they are received. Boats not stored within their assigned Boat Storage Areas, or in Boat Storage Areas that have been closed by NYCDEP, or to which they were not assigned, shall be subject to removal by NYCDEP. Boat owners may request a change of assigned Boat Storage Area for their boat on the same water body once per calendar year by contacting NYCDEP. NYCDEP shall grant a change of assigned Boat Storage Area provided that the requested area is open to additional boats.
-
-(o) Boat Storage. When not in use on the water for Fishing, boats shall be stored in assigned Boat Storage Areas at all times. Boats shall be stored above the high water mark within their assigned Boat Storage Areas from December 1 to April 1. Boat owners are encouraged to store their boats back from the shoreline so as not to obstruct other anglers' access to the water. Boats shall not be stored in shoreline buffer zones, which are generally within ten (10) feet of the shoreline, but may be more or less than ten (10) feet as designated. Boats shall not be stored on or against other stored boats as this may make some boats inaccessible to their owners. Boats shall not be secured to dead trees or trees marked with blue paint by NYCDEP for removal.
-
-(p) Boat Placement and Securing. To prevent the creation of insect breeding grounds in water-filled boats, boats shall be stored hull-up (upside down) at all times. Boat owners may store on site such fishing equipment as may be secured under their overturned, stored boat. Equipment or items left on City Property and not secured under boats shall be subject to confiscation and disposal. Boat owners are encouraged to secure their stored boats to reduce the possibility of theft and scattering. Boats shall be secured to manufactured hitches provided by NYCDEP, where available. Boats shall not be secured to trees unless there is no space available on the hitches or no securing resources are provided by NYCDEP. Boats secured to trees shall be loosely secured so as not to damage the trees. NYCDEP reserves the right to remove and store boats that are too tightly secured to any tree.
-
-(q) Owner Removal of a Boat. Boat owners may remove their boats from City Property at any time. Boat owners shall notify the local NYCDEP Office prior to removing their boat from City Property. NYCDEP shall document the owner removal activity. Upon removal of a boat from City Property, its Boat Tag shall be immediately rendered invalid. Boat owners wishing to return a once-registered, removed boat to a City reservoir or lake shall make a registration and processing appointment with the local NYCDEP Office, or designee, where available, as listed on the NYCDEP website.
-
-(r) Change of Reservoir or Lake. Boat owners may change the location of their boat from one reservoir or lake in the Water Supply system to another, but such change shall be treated the way a new boat would be treated. This shall require an application, boat processing appointment, and a new Boat Tag. It is prohibited for a boat owner to move their boat away from the assigned reservoir or lake without first notifying NYCDEP. It is prohibited for a boat owner to place any boat on a reservoir or lake without a valid Boat Tag for that location.
-
-(s) NYCDEP Removal of Boats. Any boat left in the water unattended, found on land outside of the boat's assigned Boat Storage Area, found in a closed Boat Storage Area to which it was not assigned, found without a valid Boat Tag or with a Boat Tag with illegible boat numbers, found on City Property after expiration, suspension or revocation of the owner's Boat Tag or Access Permit, or found in a restricted area is subject to removal and storage by NYCDEP at the owner's expense of $120.00 for removal and $1.00 per day for storage, not to exceed $210.00. While boats without valid Boat Tags may be removed from City Property, confiscated, and stored by NYCDEP at any time, such boat removal shall generally commence on October 1 of each year and be completed before March 15 of the following year. NYCDEP shall attempt to contact the owner of an invalid or removed boat at least once during the removal process or the three-month storage period in order to notify them of their boat's status. This contact shall be documented by NYCDEP and may be by USPS mail, telephone, or electronic mail using the contact information on file for the boat.
-
-(t) Storage of NYCDEP-Removed Boats. NYCDEP shall store removed boats in designated storage yards on NYCDEP properties until the removed boats are claimed by their owners or until three months have passed since the date of NYCDEP's removal. If a boat remains unclaimed three months from the date of NYCDEP's removal, it will be deemed the property of NYCDEP and will be disposed of at NYCDEP's discretion. By accepting a NYCDEP Boat Tag, the owner of the subject boat acknowledges and accepts NYCDEP's right to remove, store and/or dispose of the boat in accordance with this section in lieu of any other procedure for the storage and disposition of abandoned property required or permitted by law, and waives any right to assert a claim against NYCDEP pursuant to the provisions of the New York State Personal Property Law, Abandoned Property Law or by any such other procedure. NYCDEP is not liable to the owner under any circumstances for damage to or loss of a boat during its removal, storage or disposition.
-
-(u) Owner Claim of Stored Boats. Boats removed and stored by NYCDEP shall be available for claim and pick up within the three month storage period by the boat owner of record by appointment with NYCDEP. NYCDEP staff shall confirm that the person claiming the boat is the boat owner of record. Any accumulated removal and storage fees shall be paid to NYCDEP by certified check, bank check, or money order made out to "NYCDEP" in order for the boat to be released. Owners shall pay any accumulated fees and remove their claimed boat at the same appointment. NYCDEP shall not hold claimed boats nor allow deferred payment. NYCDEP may, in extreme circumstances such as death of a boat owner resulting in the lapse of a Boat Tag's validity and ultimate NYCDEP removal of the boat, waive any accumulated fees.
-
-(v) Disposal of NYCDEP-owned Boats. When necessary, NYCDEP shall dispose of boats owned by the City through the following means:
-
-   (1) Disposal or sale of unseaworthy boats as refuse or scrap metal;
-
-   (2) Donation of seaworthy boats to public or community non-profit organizations through a City-approved donation process;
-
-   (3) Sale of boats in as-is condition at public, sealed bid auction.
-
-(w) Boat Relinquishment. Boat owners or their representatives may relinquish ownership of their boat stored on City Property to NYCDEP according to the following process:
-
-   (1) The boat owner or his or her representative shall write a letter stating that he or she relinquishes ownership of his or her boat to NYCDEP. The letter shall contain the following information: boat owner name, address, telephone number, and Access Permit number; boat number and Boat Storage Area; and, if written by the boat owner, the signature of the boat owner; and date of signature. If the letter is written by the representative of a boat owner, the representative shall affirm in writing his or her ability to act on behalf of the boat owner.
-
-   (2) The relinquishment letter shall be mailed to NYCDEP.
-
-      (x) Lost and Stolen Boats. Boat owners shall report boats believed to be lost or stolen to NYCDEP immediately upon discovery. NYCDEP staff shall document the report, attempt to locate the boat, and, if unsuccessful, submit the report to the NYCDEP Police for further investigation.
-
-
-
-
-
-
-*§ 16-06 Fishing by Boat.* ::
-
-
-People with valid Access Permits and valid New York State fishing licenses, where applicable, may Fish on City Property from boats with valid Boat Tags in accordance with the following rules.
-
-(a) Relationship to Fishing and Fishing Area Rules. All Fishing and Fishing Area rules set forth in 15 RCNY § 16-04 shall apply to all Fishing by boat.
-
-(b) Use. Boats with valid Boat Tags shall be used at Fishing Areas only for purposes of Fishing. All boat occupants shall be in possession of valid New York State fishing licenses when required by State law; at least minimum Fishing equipment including a pole, line, and a hook and bait or a lure; and shall be plausibly engaged in the activity of Fishing while using a boat on Fishing Areas.
-
-(c) Mooring. Mooring of boats, including to buoys, is prohibited.
-
-(d) Season. On the Amawalk, Bog Brook, Boyds Corner, Cross River, Croton Falls, Diverting, East Branch, Kensico, Middle Branch, Muscoot, New Croton, Titicus, and West Branch Reservoirs, and on Lake Gilead and Lake Gleneida, boats with valid Boat Tags may be placed on the water during any ice free period. On all other New York City Reservoirs, boats with valid Boat Tags may be placed on the water between April 1st and November 30th of each year during any ice free period.
-
-(e) Condition and Maintenance. Boat owners are responsible for the sanitary condition and seaworthiness of their vessels and for all activities that occur thereon. Any supplies used for boat maintenance may not enter a water body and must be removed from City Property immediately following maintenance activities.
-
-(f) Safety. Every boat used on City Property shall have at least one U.S. Coast Guard approved wearable personal flotation device in good condition for each person on board. Each person on board who is under the age of 12 must wear a securely fastened U.S. Coast Guard approved wearable flotation device of an appropriate size. All boaters shall comply with U.S. Coast Guard, New York State, and any other applicable laws and regulations regarding personal flotation device use.
-
-(g) Capacity. Each boat may carry no more than three occupants; unless the boat has a U.S. Coast Guard approved "Maximum Capacities" plate or label affixed by the manufacturer that identifies a greater occupancy capacity.
-
-(h) Winter Storage. Boats must be stored at a point above the high water mark within the assigned Boat Storage Area between December 1st and March 31st.
-
-
-
-
-
-
-*§ 16-07 Recreational Boating Areas.* ::
-
-
-NYCDEP may, in its discretion, designate portions of, or entire City reservoirs and controlled lakes as Recreational Boating Areas that may be entered and used for boating by persons with valid Access Permits. Such Recreational Boating Areas allow, but do not require, boat occupants to be plausibly engaged in the activity of Fishing. For purposes of this section, individuals shall comply with all provisions of this Chapter with the exception of 15 RCNY § 16-05 and 15 RCNY § 16-06. Recreational Boating Areas and launch sites shall be designated by NYCDEP on sign postings, on the NYCDEP website, on Public Maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters. In compliance with both the State Environmental Quality Review Act and the City Environmental Quality Review requirements, NYCDEP will undertake environmental reviews for each reservoir it proposes to designate a Recreational Boating Area on prior to making such designation, including a review of any cumulative impact of such designation in the watershed.
-
-(a) Season. Access to Recreational Boating Areas begins at sunrise on the Friday immediately preceding Memorial Day weekend, is available seven (7) days a week from sunrise to sunset and ends on Columbus Day at sunset except as otherwise restricted on NYCDEP sign postings, the NYCDEP website, Public Maps, and/or in other publi- cations or notices.
-
-(b) Recreational Boat Tags. Due to the threat of Water Supply contamination by organisms such as zebra mussel larvae that may be introduced to City waters by boats previously used in contaminated waters, all boats used in Recreational Boating Areas shall be registered and steam cleaned by NYDCEP's designees, as listed on NYCDEP's website, and must have a valid Recreational Boat Tag affixed to the upper port side exterior bow. If no NYCDEP designees are available, the NYCDEP website will advise Recreational Boat Tag applicants whom to contact to have their boats processed.
-
-   (1) Eligibility. Boats eligible for Recreational Boat Tags include canoes, sculls, small sailboats with removable center/dagger boards and jonboats that measure no less than eleven feet five inches (11 5) in length and kayaks that measure no less than nine feet (9) in length. Inflatable boats, collapsible boats and motorized boats are prohibited. NYCDEP may, at its discretion, add to or delete from the list of boats eligible for Recreational Boat Tags. Changes to the list shall be designated by NYCDEP on sign postings, on the NYCDEP website, on Public Maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters.
-
-   (2) Term. At the option of the applicant, Recreational Boat Tags shall be valid for one of the following terms: (i) one through seven days ("temporary"); or (ii) from sunrise on the Friday immediately preceding Memorial Day weekend through sunset on Columbus Day ("season") unless revoked or suspended pursuant to 15 RCNY § 16-19(e). Recreational Boat Tags shall only remain valid so long as the boat owner's Access Permit is valid. If an Access Permit holder's Access Permit and/or Recreational Boat Tag is suspended or revoked, he or she must remove the boat within 24 hours of the suspension date in the company of a NYCDEP representative.
-
-   (3) Application. Recreational Boat Tag applications shall be available at the same locations as Access Permit applications, including instantly on the NYCDEP website, and may also be available at local hotels, motels, B&amp;Bs, sporting outfitters and other merchants designated by NYCDEP for processing boats for use in Recreational Boating Areas.
-
-   (4) Required Information. A Recreational Boat Tag application shall require the following information:
-
-      (i) Applicant's valid Access Permit number;
-
-      (ii) Applicant's name, mailing address, phone number, electronic mail address, if available, and date of birth;
-
-      (iii) Boat make, model, color, width, length, material, and hull shape and, if known, serial number;
-
-      (iv) Term of Recreational Boat Tag;
-
-      (v) Acknowledgement of risk and waiver of liability;
-
-      (vi) Applicant signature and date of signature; and
-
-      (vii) Parent or legal guardian signature and date of signature if applicant is under 18.
-
-   (5) Boat Processing, Registration, Steam Cleaning and Recreational Boat Tag Issuance. Recreational Boat Tag applications may be completed in advance of submission, except for the portions which need to be completed when the boat is registered, steam cleaned and placed on the reservoir. Prior to entering Recreational Boating Areas, all boats shall be steam cleaned by one of NYCDEP's designees at the appropriate office as listed on the NYCDEP website.
-
-(c) Boat Launch Sites. Boats shall only be placed in or taken out of Recreational Boating Areas at boat launch sites as designated by NYCDEP. Boat launch sites shall be designated by NYCDEP on sign postings, the NYCDEP website, Public Maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters.
-
-(d) Boat Storage Areas and Boat Storage. NYCDEP's designee will assign a Boat Storage Area to boats with season Recreational Boat Tags. Boats with temporary or season Recreational Boat Tags may not be stored in shoreline buffer zones, which are generally within ten (10) feet of the shoreline, but may be more or less than ten (10) feet as designated. Boats shall not be stored on or against other stored boats. Boats stored in Boat Storage Areas within Recreational Boating Areas shall not be secured to dead trees or trees marked with blue paint by NYCDEP for removal. Boats with temporary Recreational Boat Tags may be stored, at the owner's risk, in the vicinity of the Recreational Boating Area's launch sites above the high water mark back from the shoreline so as not to obstruct access to the water and in a hull up position so as not to collect water.
-
-(e) Owner Removal of Boat With Recreational Boat Tag. Boats with Recreational Boat Tags may be removed from Recreational Boat Areas by their owners at any time before the Recreational Boat Tag's expiration date. Boat owners with season Recreational Boat Tag shall notify the NYCDEP Downsville Office prior to such removal. Upon removal of a boat from a Recreational Boating Area, its Recreational Boat Tag shall be immediately rendered invalid. Boat owners wishing to return a once-registered, removed boat to a Recreational Boating Area must secure a new Recreational Boat Tag.
-
-(f) NYCDEP Removal of Boats. Any boat left in the water unattended, found on land outside of the boat's assigned Boat Storage Area, found in a closed Boat Storage Area to which it was not assigned, found without a valid Recreational Boat Tag or found on City Property after expiration, suspension or revocation of the owner's Recreational Boat Tag or Access Permit, or found in a restricted area is subject to removal and storage by NYCDEP at the owner's expense of $120.00 for removal and $1.00 per day for storage, not to exceed $210.00. While boats without valid Recreational Boat Tags may be removed from City Property, confiscated, and stored by NYCDEP at any time, such boat removal shall generally commence on the day after Columbus Day of each year and be completed before the day before Memorial Day the following year. NYCDEP shall attempt to contact the owner of an invalid or removed boat at least once during the removal process or the three-month storage period in order to notify them of their boat's status. This contact may be by USPS mail, telephone, or electronic mail using the contact information on file for the boat, and shall be documented.
-
-(g) Storage of NYCDEP-Removed Boats. NYCDEP shall store removed boats in designated storage yards on NYCDEP properties until the removed boats are claimed by their owners or until three months have passed since the date of NYCDEP's removal. If a boat remains unclaimed three months from the date of NYCDEP's removal of the boat, it will be deemed the property of NYCDEP and will be disposed at NYCDEP's discretion. By accepting a NYCDEP Recreational Boat Tag, the owner of the subject boat acknowledges and accepts NYCDEP's right to remove, store and/or dispose of the boat in accordance with this section in lieu of any other procedure for the storage and disposition of abandoned property required or permitted by law, and waives any right to assert a claim against NYCDEP pursuant to the provisions of the New York State Personal Property Law, Abandoned Property Law or by any such other procedure. NYCDEP is not liable to the owner under any circumstances for damage to or loss of a boat during its removal, storage or disposition.
-
-(h) Owner Claim of Stored Boats. Boats removed and stored by NYCDEP shall be available for claim and pick up within the three month storage period by the owner of record by appointment with NYCDEP. NYCDEP staff shall confirm that the person claiming the boat is the owner of record. Any accumulated removal and storage fees shall be paid to NYCDEP by certified check, bank check, or money order made out to "NYCDEP" in order for the boat to be released. Owners shall pay any accumulated fees and remove their claimed boat at the same appointment. NYCDEP shall not hold claimed boats nor allow deferred payment. NYCDEP may, in extreme circumstances such as the death of a boat owner resulting in the lapse of a Recreational Boat Tag's validity and ultimate removal of the boat, waive any accumulated fees.
-
-(i) Disposal of NYCDEP-owned Boats. When necessary, NYCDEP shall dispose of boats owned by the City through the following means:
-
-   (1) Disposal or sale of unseaworthy boats as refuse or scrap metal;
-
-   (2) Donation of seaworthy boats to public or community non-profit organizations through a City-approved donation process;
-
-   (3) Sale of in as-is condition at public, sealed bid auction.
-
-(j) Lost and Stolen Boats. Boat owners shall report boats believed to be lost or stolen to NYCDEP immediately upon discovery. NYCDEP staff shall document the report, attempt to locate the boat, and, if unsuccessful, submit the report to the NYCDEP Police for further investigation.
-
-(k) Safety. Every boat used on City Property shall have at least one U.S. Coast Guard approved wearable personal flotation device in good condition for each person on board. Each person on board who is under the age of 12 must wear a securely fastened U.S. Coast Guard approved wearable flotation device of an appropriate size. All boaters shall comply with U.S. Coast Guard, New York State, and any other applicable laws and regulations regarding personal flotation device use.
-
-(l) Capacity. Each boat may carry no more than three occupants, unless the boat has a U.S. Coast Guard approved "Maximum Capacities" plate or label affixed by the manufacturer that identifies a greater occupancy capacity.
-
-(m) Condition and Maintenance. Boat owners are responsible for the sanitary condition and seaworthiness of their vessels and for all activities that occur thereon.
-
-(n) Mooring. Mooring of boats, including to buoys, is prohibited.
-
-
-
-
-
-
-*§ 16-08 Hunting and Hunting Areas.* ::
-
-
-(a)  Designation. Hunting Areas shall be designated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices. Hunting Areas may be further designated as follows:
-
-   (1) Bow Hunting Area – hunting by bow only;
-
-   (2) General Hunting Area – hunting by bow and gun.
-
-(b) Access. Access to Hunting Areas on City Property for purposes of hunting shall be by Access Permit. Hunting is not allowed on any other City Property except on Public Access Areas. Hunters must also be properly licensed by the State of New York.
-
-(c) Allowable Species. Hunters may hunt on Hunting Areas for any species allowed under New York State law, during and in accordance with all available NYSDEC hunting seasons and NYCDEP property designations.
-
-(d) Entry. Access to Hunting Areas may be regulated at entry points or locations as indicated by NYCDEP on a site specific basis. Closed access points shall be indicated by NYCDEP on the NYCDEP website or by signs, postings and notices or on Public Maps. Motor vehicle access into Hunting Areas is prohibited unless otherwise posted or indicated by NYCDEP on the NYCDEP website or by signs, postings, and notices or on Public Maps.
-
-(e) Game Pursuit. Hunters shall respect the rights of owners of neighboring properties and shall not trespass on private lands. If an animal wounded by a hunter travels onto neighboring property, the hunter shall obtain the property owner's permission to enter the property for retrieval. If an animal wounded by a hunter travels onto City Property that is not a Hunting Area, the hunter shall obtain permission to enter the area from NYCDEP Police before entering by calling (888) 426-7433.
-
-(f) Hunter Behavior. Hunters shall abide by the principles of the NYSDEC hunter education training program and conduct themselves in a safe and courteous manner in relation to other hunters and recreational users, NYCDEP employees and representatives, neighboring land owners and community members. Failure to do so may advance a detrimental image of hunting and hunters, and result in the loss of individual hunting opportunities, Hunting Area closures, and individual permissions.
-
-(g) Game Cleaning Practices. Hunters are encouraged to remove all game entrails from City Property and to use gloves while cleaning harvested game in order to hinder the spread of disease and possible water contamination. Entrails shall not be deposited in or within one hundred (100) feet of any reservoir, lake, pond, Watercourse, public access point, public road, or private property.
-
-(h) Tree Stands and Hunting Blinds. Temporary tree stands and hunting blinds may be used on Hunting Areas during big game hunting seasons provided that they do not cause damage to trees. The following apply:
-
-   (1) The use of screws, nails or foot pegs in trees on City Property is prohibited.
-
-   (2) Tree stands and hunting blinds may be placed at Hunting Areas as of two weeks prior to the opening of the archery deer hunting season.
-
-   (3) Hunters may leave temporary tree stands or temporary hunting blinds at Hunting Areas at their own risk on a first-come, first-served basis during big game hunting seasons.
-
-   (4) Any tree stand or hunting blind at Hunting Areas shall be clearly and legibly labeled with the user's name, Access Permit number and telephone number.
-
-   (5) Tree stands and hunting blinds unlabeled or left at the Hunting Area after big game hunting season are subject to removal and disposal by NYCDEP.
-
-      (i) Shooting Lanes. Hunters may cut limbs not greater than two inches in diameter and not further than twenty-five yards from a tree stand with a hand tool for purposes of clearing shooting lanes. The use of chainsaws is prohibited. Any vegetation removed for shooting lanes shall be cut flush with the vegetation's main stem. All vegetation cut shall be scattered and not stacked to a height greater than two (2) feet off of the ground.
-
-(j) Use of Dogs. Dogs shall not be used for tracking injured deer without express permission from NYCDEP Police. Any tracking of injured deer permitted by NYCDEP shall comply with NYSDEC conditions for tracking injured deer with dogs. Dogs may be used for hunting small game species in compliance with NYSDEC conditions. Such dogs shall be under the control of their handler at all times.
-
-(k) Blaze Orange. All persons at Hunting Areas during big game gun hunting seasons shall wear blaze or safety orange as an outermost layer in the form of an entire vest, an entire jacket, or an entire hat.
-
-(l) Hunting Area Closures. NYCDEP may close Hunting Areas or parts thereof to public access, to hunting, or to certain hunting activities, and may limit the number of hunters permitted on a Hunting Area as it deems necessary. Possible considerations for Hunting Area closure include but are not limited to Water Supply protection, management and security concerns. Closures will be indicated on the NYCDEP website.
-
-(m) Firearms. Firearms may not be discharged over or into the waters of any reservoir or controlled lake.
-
-
-
-
-
-
-*§ 16-09 Hiking and Hiking Areas.* ::
-
-
-(a)  Access. Access to Hiking Areas on City Property for purposes of Hiking shall be by Access Permit. No additional NYCDEP permits or tags are required.
-
-(b) Designation. Hiking Areas shall be designated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publi- cations and notices.
-
-(c) Hiking Activities. Activities permitted in Hiking Areas are foot travel including hiking, walking, running, cross-country skiing, snowshoeing, bird watching, nature observation and photography. These activities may be further restricted at certain locations in accordance with NYCDEP sign postings or notices. Additional activities may be allowed at certain locations in accordance with NYCDEP sign postings or notices.
-
-(d) Season. Access to Hiking Areas is year-round, except as otherwise restricted by NYCDEP sign postings or notices.
-
-
-
-
-
-
-*§ 16-10 Guest Pass.* ::
-
-
-Guest Passes are for temporary access for the recreational use of certain City Property. A valid Access Permit holder aged 18 or older may host up to two (2) Guests on City Property who would otherwise require a valid Access Permit, provided that the Guests are each in possession of a valid Guest Pass. Guests may participate in Watershed recreational opportunities, other than hunting, while accompanied by a person who has a valid Access Permit. Sponsoring Access Permit holders are responsible for the conduct and safety of their Guests and are liable for any violations of these rules by a Guest.
-
-(a) Application. The Guest Pass is a fully completed Access Permit application signed by the Guest, or signed by the Guest's parent or legal guardian if the Guest is under 18, and carried by the Guest, which shall be available as indicated in 15 RCNY § 16-03(a). No application fee is required.
-
-(b) Required Information. A valid Guest Pass shall consist of an Access Permit application completed and signed by the Guest in permanent ink and containing the following required information:
-
-   (1) Guest name, mailing address, phone number, and date of birth;
-
-   (2) Guest gender, height, eye color and hair color;
-
-   (3) Guest's driver's license number and state of issuance, or non-driver's identification number and state of issuance;
+   (3) Guest’s driver’s license number and state of issuance, or non-driver’s identification number and state of issuance, or IDNYC identification card, any valid passport or any school-issued identification;
 
    (4) Acknowledgement of risks and waiver of liability;
 
-   (5) Guest signature and date of signature or parent or legal guardian signature and date of signature if Guest is under 18.
+   (5) Guest’s signature and date of signature;
 
-(c) Eligibility. An individual aged 16 years or older who does not have a current valid Access Permit, does not have an outstanding Access Permit suspension or revocation, and is not otherwise restricted for security or other public safety reasons is eligible to use a Guest Pass. The sponsoring Access Permit holder must be aged 18 years or older.
+   (6) Parent or legal guardian’s signature and date of signature if Guest is under 18.
 
-(d) Term. A Guest Pass shall be valid for seven (7) consecutive days starting on and including the signature date thereon. A Guest Pass without a signature date is invalid.
+(c) Eligibility. The sponsoring Access Permit holder must be aged 18 years or older. An individual aged 16 years and older, without an Access Permit, must use a Guest Pass. Individuals under 18 years of age must have the signature of a parent or guardian on the Guest Pass. Individuals under 16 years of age, and groups of up to 6 individuals under 16 years of age, do not need a Guest Pass provided an Access Permit holder 18 or older accompanies them while they are on City Property where an Access Permit is required.
+
+(d) Term. A Guest Pass is valid for 7 consecutive days starting on and including the date the Guest Pass was signed. A Guest Pass without a signature date is invalid.
 
 (e) Using a Guest Pass. The following is required for proper use of a Guest Pass:
 
    (1) Guests must fully complete the Guest Pass and carry it with them at all times while on City Property.
 
-   (2) Guests must carry their government-issued photo identification while on City Property.
+   (2) Guests must produce their Guest Pass and identification upon request of any law enforcement officer or NYCDEP representative.
 
-   (3) Guests must produce their Guest Pass and identification upon request of any law enforcement officer or NYCDEP representative.
+   (3) All Guests must be accompanied at all times while on City Property by the valid Access Permit holder sponsoring the Guest. Access to City property by a Guest unaccompanied by the sponsor Access Permit holder constitutes trespass. The sponsoring Access Permit holder may sponsor and accompany up to 6 Guests at any one time on City Property.
 
-   (4) All Guests shall be accompanied by the valid Access Permit holder sponsoring the Guest at all times while on City Property. Access to City property by a Guest unaccompanied by the sponsor Access Permit holder constitutes a trespass. The accompanying sponsor Access Permit holder shall be responsible for the conduct and safety of their Guests, and is liable for any violations committed by their Guests. A valid Access Permit holder may sponsor and accompany up to two (2) Guests at any one time on City Property.
+   (4) Guests must comply with these Rules.
 
-   (5) Guests shall comply with the Rules for the Recreational Use of New York City Water Supply Lands and Waters. Guest Pass holders may not hunt on City Property.
+   (5) Guest Passes cannot be used to obtain a Fishing or Recreational Boat Tag.
 
 (f) Transferability. A Guest Pass is non-transferable and may only be used by the person identified thereon.
 
-(g) Renewal. A Guest Pass is not renewable but may be submitted in application for an Access Permit. Guest Pass holders may submit their completed and signed Guest Pass in application for a permanent Access Permit by mailing them to NYCDEP at the address indicated on the application. An Access Permit will be mailed directly to each accepted applicant.
+(g) Renewal. A Guest Pass is not renewable.
 
 
 
 
 
 
-*§ 16-11 Vehicle Tag.* ::
 
 
-All vehicles used for access to or parked on City Property for recreational uses other than at Designated Use Areas and Public Access Areas must have the driver's valid Vehicle Tag prominently displayed so that it is visible from the front of the vehicle.
-
-(a) Issuance. Any person over the age of 16 who has been issued an Access Permit and who has a valid driver's license issued by any state as indicated on his or her Access Permit application shall be issued a Vehicle Tag. An Access Permit holder who subsequently obtains a driver's license may request and receive a Vehicle Tag at no cost.
-
-(b) Term. A Vehicle Tag is valid only if and for so long as the person's Access Permit is valid.
-
-(c) Use of a Vehicle Tag. The driver's Vehicle Tag shall be prominently displayed so that it is visible from the front of the vehicle, typically hanging from the rear view mirror whenever a person is accessing City Property for recreational use, except in Designated Use Areas and Public Access Areas. Only one Vehicle Tag is required to be displayed if multiple Access Permit holders are visiting City Property in the same vehicle, but for emergency reasons, it is recommended that all Vehicle Tags be displayed on the dashboard. Motorcycle drivers may display a photocopy of their Vehicle Tag on the motorcycle.
-
-(d) Transferability. Vehicle Tags are not transferable to another person but may be used by that person on any vehicle.
-
-(e) Replacement. Lost or destroyed Vehicle Tags will be replaced upon the holder's written request to NYCDEP by USPS or electronic mail. Electronically requested replacements may be printed immediately. Replacements requested by USPS mail will generally be issued within two weeks.
+*§ 16-06 Group Access Permit.* ::
 
 
+Group Access Permits of limited duration are available for Groups of between 7 and 30 individuals to conduct such activities as would normally be available to individual Access Permit holders and will be issued in writing if approved by NYCDEP. Groups larger than 30 people are not permitted. Any individual members of a Group accessing NYCDEP land pursuant to a Group Access Permit must possess all applicable NYSDEC hunting, fishing and trapping licenses as required by the NYSDEC Environmental Conservation Law.
 
+(a) Uses. Group Access Permits may be used for all activities allowed by these Rules in addition to other recreational opportunities approved by NYCDEP, including but not limited to Reservoir clean-ups, nature and outdoor educational walks and talks and school field trips.
 
+(b) Eligibility. A Group Leader must be 18 years of age or older. Group Members may be any age but individuals under 18 years of age must have the signature of a parent or guardian on the Group Access Permit.
 
+(c) Term. Group Access Permits may be issued for a term of 1 day to 3 consecutive months.
 
-*§ 16-12 Group Access Permit.* ::
+(d) Application. An application for a Group Access Permit must be fully completed by the assigned Group Leader and submitted to the mail or email address on the application. Group Access Permit applications shall be available by calling 1-800-575-LAND (5263). No application fee is required.
 
-
-Group Access Permits of limited duration are available for Groups of between seven (7) and thirty (30) individuals to conduct such activities as would normally be available to individual Access Permit holders and shall be issued in accordance with NYCDEP policies and procedures.
-
-(a) Term. Group Access Permits may be issued for a term of one day to three consecutive months.
-
-(b) Application. Applicants for a Group Access Permit must fully complete a Group Access Permit application and submit it to the address on the application. Group Access Permit applications and waivers shall be available at the same locations as indicated in 15 RCNY § 16-03(a). No application fee is required.
-
-(c) Required Information. The following information shall be required on or with the Group Access Permit application:
+(e) Required Information. The following information must be provided on or with the Group Access Permit application:
 
    (1) Application date;
 
    (2) Group name and address;
 
-   (3) Group Leader name, date of birth, address, primary telephone, electronic mail address, driver's license or non-driver's identification number and state of issuance;
+   (3) Group Leader’s name, date of birth, address, primary telephone, electronic mail address, driver’s license or non-driver’s identification number and state of issuance, any valid passport or IDNYC identification card;
 
-   (4) Signed and dated responsibility statement of Group Leader accepting all responsibility for Group and Group Member activity and safety while on City Property and indemnifying the City of New York;
+   (4) Signed and dated statement by Group Leader accepting all responsibility for Group and Group Member activity and safety while on City Property and indemnifying the City of New York, as well as waiver of liability and acknowledgement of risk for Group Leader and Group Members, with parent or guardian signature for those under 18 years of age;
 
    (5) Description of the purpose for which the Group is applying for access;
 
@@ -6681,11 +6490,9 @@ Group Access Permits of limited duration are available for Groups of between sev
 
    (7) Location of City Property for which Group access is being requested, including township, adjacent roadways, and description of intended entrance and exit points;
 
-   (8) Names, ages, addresses and telephone numbers of up to twenty-nine Group Members;
+   (8) Names, ages, addresses and telephone numbers of up to twenty-nine Group Members in addition to the Group Leader;
 
-   (9) Waiver of liability and acknowledgement of risk for Group Leader and Group Members, with parent or guardian signature for those under 18 years of age.
-
-(d) Issuance Criteria. NYCDEP shall deny Group Access Permit applications that fail to meet the issuance criteria. Although NYCDEP shall strive to accommodate Group Access Permit requests whenever possible, the use of Water Supply lands for non-Water Supply purposes is subordinate to the primary interests of the Water Supply. Group Leaders must be aged 18 years or older. NYCDEP shall consider the following criteria when evaluating a Group Access Permit application:
+(f) Issuance Criteria. NYCDEP will deny Group Access Permit applications that fail to meet the issuance criteria listed below. NYCDEP will consider the following criteria when evaluating a Group Access Permit application:
 
    (1) Completeness of the application;
 
@@ -6695,205 +6502,592 @@ Group Access Permits of limited duration are available for Groups of between sev
 
    (4) Availability and public access status of City Property proposed for use;
 
-   (5) Consistency with water quality protection, Water Supply security, good neighborhood relations, and available City resources;
+   (5) Consistency with water quality protection, Water Supply security, strong neighborhood relations, and available City resources;
 
-   (6) Compatibility with the City's land management goals;
+   (6) Compatibility with the City’s land management goals;
 
-   (7) Compatibility with existing uses, rights, easements, or facilities requirements on those Water Supply lands where Group access is requested.
+   (7) Compatibility with existing uses, rights, easements, or facilities requirements on the portion of City Property for which Group access is requested.
 
-(e) General Conditions. Group Access Permit holders and Group Members shall comply with the Rules for the Recreational Use of New York City Water Supply Lands and Waters. Group Access Permit holders and Group Members shall also comply with the following conditions:
+(g) General Conditions. Group Access Permit Leaders and Group Members must comply with these Rules. Group Access Permit Leaders and Group Members must also comply with the following conditions:
 
-   (1) Access to City property by the Group is only allowed for the dates, locations and Group Members stated on the approved Group Access Permit;
+   (1) Access to City Property by the Group is only allowed for the dates, locations and Group Members stated on the approved Group Access Permit;
 
-   (2) Use of City property by the Group is only permitted for those uses stated on the approved Group Access Permit;
+   (2) Use of City Property by the Group is only permitted for those uses stated on the approved Group Access Permit;
 
-   (3) The Group Leader shall carry the approved Group Access Permit or legible photocopy thereof at all times while on City Property;
+   (3) The Group Leader must carry the approved Group Access Permit or a legible photocopy of the permit at all times while on City Property;
 
-   (4) Group Members must be accompanied by a Group Leader at all times while on water supply lands;
+   (4) Group Members must be accompanied by a Group Leader at all times while on City Property;
 
-   (5) The Group Leader and all Group Members age 14 years or older shall carry a government-issued photo identification while on City Property;
+   (5) All vehicles used by the Group to access City Property must be identified by a photocopy of the approved Group Access Permit in or on the vehicle such that it is clearly visible from the exterior front of the vehicle.
 
-   (6) All vehicles used by the Group to access City property shall be identified by a photocopy of the approved Group Access Permit in or on the vehicle such that it is clearly visible from the exterior front of the vehicle.
+(h) Responsibility. Use of and activities on City Property under the Group Access Permit by Group Members is the sole responsibility of the Group Leader who must accept responsibility for the conduct, activities, and safety of all Group Members. The Group Leader must accompany the Group at all times while on City Property.
 
-(f) Responsibility. Use of and activities on Water Supply lands under the Group Access Permit by Group Members is the sole responsibility of the Group Leader who shall accept responsibility for the conduct, activities, and safety of all Group Members. The Group Leader must accompany the Group at all times while on water supply lands. The Group Leader is the permit holder.
 
 
 
 
 
 
-*§ 16-13 Public Access Areas.* ::
 
 
-NYCDEP may, in its discretion, designate portions of City Property as Public Access Areas that may be entered and used by the public for recreational uses as allowed by New York State law without the requirement of having a valid NYCDEP Access Permit or Vehicle Tag. Public Access Areas are not subject to these rules except for those set forth in this section and in 15 RCNY §§ 16-01 (Scope and Purpose), 16-02 (Definitions), 16-15 (Restricted Areas), 16-16 (General Rules), 16-17 (Prohibitions), 16-18 (Regulated Activities), 16-19 (Permit Suspension and Revocation), 16-20 (Conformance with State and Local Laws), and 16-21 (Unenforceability). Public Access Areas shall be designated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices.
+**Subchapter B: Recreational Activities**
 
-(a) Fishing. Fishing is allowed in Public Access Areas, subject to the following:
 
-   (1) Fishing by boat is prohibited, unless specifically permitted by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices;
 
-   (2) Motorized fishing equipment is prohibited on City property, including but not limited to power ice augers and trolling motors.
+*§ 16-07 Fishing.* ::
 
-(b) Hunting. Hunting is allowed on Public Access Areas, subject to the following:
 
-   (1) Hunters shall respect the rights of owners of neighboring properties and shall not trespass on private lands. If an animal wounded by a hunter travels onto neighboring property, the hunter shall obtain the property owner's permission to enter the property for retrieval. If an animal wounded by a hunter travels onto City Property that is not a Public Access Area, the hunter shall obtain permission to enter the area from NYCDEP Police before entering by calling (888) 426-7433;
+(a) Fishing Activities. Fishing is allowed consistent with NYSDEC regulations. A valid NYSDEC fishing license is required.
 
-   (2) Firearms may not be discharged over or into the waters of any reservoir or controlled lake.
+(b) Designation. Areas that allow Fishing will be designated by NYCDEP on sign postings, the NYCDEP website, and on NYCDEP maps.
 
-(c) Trapping. Trapping is allowed in Public Access Areas.
+(c) Season. Access for Fishing is allowed during applicable New York State fishing seasons as established in NYSDEC fishing regulations, as amended, except as otherwise restricted by these Rules or by NYCDEP postings or notices.
 
-(d) Hiking. Hiking is allowed in Public Access Areas.
+(d) Allowable Species. Fishing is allowed for any species allowed under New York State law, during and in accordance with all available NYSDEC fishing seasons and City Property designations unless otherwise posted by NYCDEP.
 
-(e) Season. Access to Public Access Areas is year-round except as otherwise restricted on NYCDEP sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications or notices.
+(e) Means. Angling is the only permissible means of Fishing on City Property, except that pursuant to and in conformance with NYSDEC regulations, (i) tip-ups may be used for ice fishing, and (ii) bow and arrow may be used for carp fishing. Anglers must be in immediate attendance when their lines are in the water.
 
+(f) Bait and Bait Disposal. The use of terrestrial bait such as worms and crickets is allowed. Live aquatic bait, which may include but is not limited to, alewives, shiners, leeches, and crawfish, may be used for Fishing unless such bait has been taken from waters infested with zebra and/or Quagga mussels or other invasive species, including, but not limited to: Lake Champlain, Lake Erie, Lake Ontario, the Finger Lakes, the Erie Canal, the Niagara River, the Mohawk River, the St. Lawrence River, the Susquehanna River and the Hudson River. A complete list of Zebra and Quagga mussel-infested waters may be found at: http://nas.er.usgs.gov/mollusks/zebramussel/. Neither bait nor the water from aquatic bait containers shall be disposed of on City Property. NYCDEP, at its sole discretion, may prohibit the use of specified bait. Any such prohibitions shall be indicated by NYCDEP on sign postings, on the NYCDEP website, and on NYCDEP maps. Use of bait must also be consistent with all applicable provisions of New York State law and NYSDEC regulations, as amended, including those regarding the use and transport of certified baitfish.
 
+(g) Fishing Equipment. Fishing equipment must comply with the following:
 
+   (1) Waterproof waders must be used when entering Reservoirs or Controlled Lakes for the purposes of Fishing. Due to the potential threat of invasive species being transferred from waders into the NYC Water Supply, NYCDEP reserves the right to restrict the use of certain types of waders and/or prohibit use on City Property. A list of waders and/or boots prohibited for use, if and when determined, shall be posted on the NYCDEP website. As an alternative to prohibition of certain waders, NYCDEP may require waders be cleaned as per NYCDEP guidelines, if and when such guidelines are developed.
 
+   (2) Temporary, portable, fabric fishing shelters and windbreaks may be used for ice fishing on City Property. Shelters must contain the occupant’s name, telephone number and Access Permit number. Wood or metal shelters are not permitted.
 
+   (3) Ice fishing equipment, including fabric fishing and shelters and windbreaks, must remain within view of the equipment owner and must be removed from City Property by the occupant when not in use or at the end of each day, whichever is sooner.
 
-*§ 16-14 Designated Use Areas.* ::
+   (4) Use of float tubes or inflatable waders is prohibited in Reservoirs or Controlled Lakes.
 
+   (5) Motorized fishing equipment is prohibited on City Property, including but not limited to gasoline or propane-powered motors or ice augers except as allowed in 15 RCNY § 16-07(g)(6).
 
-NYCDEP may, in its discretion, designate portions of City Property as Designated Use Areas that may be entered and used by the public for specified recreational uses without the requirement of having a valid NYCDEP Access Permit or Vehicle Tag. Where Fishing is allowed in Designated Use Areas, it is subject to the rules for Fishing specified above in 15 RCNY § 16-04, except for the requirement for an Access Permit set forth in 15 RCNY § 16-04(a). Where Hiking is allowed in Designated Use Areas, it is subject to the rules for Hiking specified above in 15 RCNY § 16-09, except for the requirement for an Access Permit set forth in 15 RCNY § 16-09(a). Designated Use Areas are not otherwise subject to these rules except for those set forth in this section and in 15 RCNY §§ 16-01 (Scope and Purpose), 16-02 (Definitions), 16-15 (Restricted Areas), 16-16 (General Rules), 16-17 (Prohibitions), 16-18 (Regulated Activities), 16-19 (Permit Suspension and Revocation), 16-20 (Conformance with State and Local Laws), and 16-21 (Unenforceability).
+   (6) Electric ice augers with rechargeable batteries contained within the auger housing or hand-held power drills to power ice augers may be used. Small 12-volt sealed batteries may be used for portable fish finders. No automotive-type batteries are allowed on City Property.
 
-(a) Locations. Designated Use Areas are posted with signs and, when applicable, otherwise designated as such by NYCDEP on Public Maps, the NYCDEP website, and/or in other NYCDEP publications.
+   (7) Propane bottles to heat portable heating units or ice augers are not allowed for use on Reservoirs or Controlled Lakes.
 
-(b) Use. Recreational uses in Designated Use Areas will be allowed or restricted in some or all such areas by NYCDEP sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices.
+(h) Fish Entrails. Fish entrails may not be deposited on City Property that is in or within 100 feet of a Reservoir, Controlled Lake, pond, Watercourse, public access point, or public road.
 
-(c) Season. Access to Designated Use Areas is year-round except as otherwise restricted by NYCDEP sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications or notices.
+(i) Shoreline Fishing. Shoreline Fishing is allowed at Access Permit Areas, Public Access Areas, and certain Day Use Areas as indicated by NYCDEP on sign postings, on the NYCDEP website, and on NYCDEP maps.
 
+(j) Fishing from Bridges. Fishing from vehicular bridges located on City Property is not permitted except where designated by NYCDEP and as indicated by NYCDEP on sign postings, on the NYCDEP website, and on NYCDEP maps.
 
+(k) Ice Fishing. Ice Fishing is allowed, in conformance with NYSDEC regulations, only on the Amawalk, Bog Brook, Boyds Corner, Cross River, Diverting, East Branch, Muscoot, Titicus, West Branch, Croton Falls and Middle Branch Reservoirs, on Lake Gilead and Lake Gleneida and on ponds located in Access Permit Areas and Public Access Areas as indicated by NYCDEP on sign postings, on the NYCDEP website, and on NYCDEP maps. Ice fishing is prohibited in all other Reservoirs for safety and operational reasons.
 
 
 
 
-*§ 16-15 Restricted Areas.* ::
 
 
-(a)  General. NYCDEP may, in its discretion, temporarily limit or forbid access to any or all City Properties at any time and from time to time as may be necessary for Water Supply security, for public safety or resource protection by posting signs and, when applicable, on the NYCDEP website and/or by publishing announcements.
 
-(b) Location. Unless otherwise posted, all persons other than NYCDEP employees and contractors on City business, on-duty law enforcement personnel and others with express written permission from NYCDEP are prohibited from entering City Property that is:
 
-   (1) on or within five hundred (500) feet of any dikes, dams, tunnel outlets, spillways, buildings and other significant Water Supply structures;
+*§ 16-08 Hunting.* ::
 
-   (2) any area not officially designated as a Hiking, Fishing, Hunting, Public Access, or Designated Use Area; and
 
-   (3) any other area posted with signs or otherwise designated as a restricted area.
+(a) Hunting Activities. Hunting is allowed consistent with applicable NYSDEC regulations.
 
+(b) Designation. Areas that allow Hunting will be designated by NYCDEP on sign postings, the NYCDEP website, and on NYCDEP maps. NYCDEP may designate specific Hunting activities or restrictions (e.g. no rifle use, bow Hunting-only), or implement special Hunting programs (deer culls) on Recreational Areas that allow Hunting.
 
+(c) Season. Access for Hunting is allowed during applicable New York State Hunting seasons, except as otherwise restricted by these Rules or by NYCDEP postings or notices.
 
+(d) Allowable Species. Hunters may hunt for any species allowed under New York State law, during and in accordance with all available NYSDEC Hunting seasons and City Property designations unless otherwise posted by NYCDEP on its website. Waterfowl Hunting is not allowed in, over, or within 500 feet of Reservoirs or Controlled Lakes.
 
+(e) Game Pursuit. Hunters should respect the rights of owners of neighboring properties and not trespass on private lands. If an animal wounded by a hunter travels onto neighboring property, the hunter should obtain the property owner’s permission in accordance with applicable law to enter the property for retrieval. If an animal wounded by a hunter travels onto City Property that is not open for Hunting, the hunter must obtain permission to enter the area from NYCDEP Police before entering by calling (888) 426-7433.
 
+(f) Hunter Behavior. Hunters must abide by the principles of the NYSDEC hunter education training program and conduct themselves in a safe and courteous manner in relation to other hunters and recreational users, NYCDEP employees and representatives, neighboring land owners and community members. Failure to do so may result in the loss of individual Hunting opportunities, Recreational Area closures, and loss of Access Permit.
 
-*§ 16-16 General Rules.* ::
+(g) Game Cleaning Practices. Hunters are encouraged to remove all game entrails from City Property and to use gloves while cleaning harvested game in order to hinder the spread of disease and possible water contamination. Entrails must not be deposited in or within one hundred (100) feet of any Reservoir, lake, pond, Watercourse, public access point, public road, or private property.
 
+(h) Tree Stands, Hunting Blinds and Trail Cameras. Temporary tree stands, Hunting blinds and trail cameras may be used during Big Game Hunting seasons in Public Access Areas and Access Permit Areas provided that they do not cause damage to trees. The following conditions apply:
 
-The following general requirements apply to all recreational use on City Property:
+   (1) The use of screws, nails or foot pegs in trees on City Property is prohibited.
 
-(a) Personal Identification. All Access Permit holders, their guests, and visitors to Designated Use Areas and Public Access Areas, except for minors under the age of 12, shall carry government-issued, photo identification while on City Property and must produce such identification upon request of any law enforcement officer or NYCDEP representative.
+   (2) Tree stands, Hunting blinds and trail cameras may be placed on City Property up to two weeks prior to the opening of the archery deer Hunting season.
 
-(b) Signs and Instruction. All persons on City Property shall observe all instructions and warnings on posted signs and notices and from NYCDEP representatives.
+   (3) Hunters may leave tree stands, Hunting blinds and trail cameras on City Property at their own risk on a first-come, first-served basis during Big Game Hunting seasons.
 
-(c) Trespass. All persons entering on City Property shall respect the rights of owners of adjacent property and shall not trespass onto private lands.
+   (4) Any tree stand, Hunting blind or trail camera on City Property must be clearly and legibly labeled with the user’s name, Access Permit number (if applicable) and telephone number.
 
-(d) Property Use and Designation. NYCDEP shall designate and list areas for recreational use by posting signs and, when applicable, by publishing announcements on the NYCDEP website, on Public Maps, and/or in other publications and notices.
+   (5) Tree stands, Hunting blinds and trail cameras must be removed from City Property by midnight of the last day of the Big Game Hunting season.
 
-(e) Abandoned Property. Abandoned or prohibited equipment found on City lands and waters shall be confiscated by NYCDEP.
+   (6) Tree stands, Hunting blinds and trail cameras unlabeled or left on City Property after Big Game Hunting season are subject to confiscation and disposal by NYCDEP pursuant to 15 RCNY § 16-12(e).
 
+(i) Shooting Lanes. Hunters may cut limbs not greater than two inches in diameter and not further than twenty-five yards from a tree stand with a hand tool for purposes of clearing shooting lanes. The use of chainsaws is prohibited. Any vegetation removed for shooting lanes must be cut flush with the vegetation’s main stem. All vegetation cut must be scattered and not stacked to a height greater than 2 feet off of the ground.
 
+(j) Use of Dogs. Dogs may be used for Hunting Small Game species in compliance with NYSDEC regulations. Dogs must be under the control of their handler at all times. Dog training activities are allowed on Public Access Areas consistent with NYSDEC regulations. Dogs must not be used for tracking injured deer or bear without express permission from NYCDEP Police as provided for in 15 RCNY § 16-12(j). Any tracking of injured deer or bear permitted by NYCDEP must comply with NYSDEC conditions for tracking injured deer or bear with dogs.
 
+(k) Discharge of Firearms. Firearms may not be discharged over or into the waters of any Reservoir or Controlled Lake.
 
+(l) Back Tags. Back Tags must be displayed while Hunting on City Property as required by NYSDEC.
 
 
-*§ 16-17 Prohibitions.* ::
 
 
-The activities and uses enumerated in this section shall be prohibited on all City Property.
 
-(a) Littering, Polluting, Dumping. No person shall in any manner cause any rubbish, garbage, trash, refuse, organic or inorganic waste, cremated remains, diseased or dead animal or other offensive matter or any abandoned property or material to be placed or left on City Property.
+
+
+
+*§ 16-09 Hiking.* ::
+
+
+(a) Hiking Activities. Hiking activities permitted are: foot travel including Hiking, walking, running, cross-country skiing, snowshoeing, bird watching, nature observation, and photography.
+
+(b) Designation. Areas that allow Hiking will be designated by NYCDEP on sign postings, the NYCDEP website, and on NYCDEP maps.
+
+(c) Season. Access for Hiking is year-round except as otherwise restricted by these Rules or by NYCDEP postings or notices.
+
+
+
+
+
+
+
+
+
+**Subchapter C: Boats**
+
+
+
+*§ 16-10.1 Fishing Boats.* ::
+
+
+People with valid Access Permits may fish on City Property from Fishing Boats with valid Fishing Boat Tags in accordance with the following Rules.
+
+(a) Use. Fishing Boats with valid Fishing Boat Tags must be used at Access Permit Areas only for purposes of Fishing. All Fishing Boat occupants must be in possession of minimum Fishing equipment including a pole, line, and a hook and bait or a lure; and must be plausibly engaged in the activity of Fishing while using a Fishing Boat in Access Permit Areas.
+
+(b) Eligible Boats. Boats eligible for Fishing Boat Tags shall be metal row boats, except boats on record as having had valid Fishing Boat Tags that were issued before March 31, 2006 may be wooden or fiberglass row boats. Only rowboats that are (1) a minimum of 11’6” in length and 42” in width and (2) a maximum of 16’ in length are permitted on City Property. Other vessels, including but not limited to sailboats, motorized boats, inflatable boats, guide/river boats, and collapsible boats are prohibited as Fishing Boats.
+
+(c) Mooring. Mooring of Fishing Boats, including to buoys, is prohibited. A temporary anchor is allowed.
+
+(d) Fishing Boat Season. On the Amawalk, Bog Brook, Boyds Corner, Cross River, Croton Falls, Diverting, East Branch, Kensico, Middle Branch, Muscoot, New Croton, Titicus, and West Branch Reservoirs, and on Lake Gilead and Lake Gleneida, Fishing Boats with valid Fishing Boat Tags may be placed on the water during any Ice Free Period. On all other New York City Reservoirs, Fishing Boats with valid Fishing Boat Tags may be placed on the water between April 1st and November 30th of each year during any Ice Free Period.
+
+(e) Condition and Maintenance. Fishing Boat owners are responsible for the sanitary condition and seaworthiness of their vessels and for all activities that occur thereon. Any supplies used for Fishing Boat maintenance may not enter a water body and must be removed from City Property immediately following maintenance activities.
+
+(f) Safety. Every Fishing Boat used on City Property must have at least one U.S. Coast Guard approved wearable personal flotation device in good condition for each person on board. Each person on board who is under the age of 12 must wear a securely fastened U.S. Coast Guard approved wearable flotation device of an appropriate size at all times. All boaters must comply with U.S. Coast Guard, New York State, and any other applicable laws and regulations.
+
+   (1) Fishing Boats used after sunset must have a device (e.g. headlamp, flashlight, or lantern) at the ready capable of producing a white light, which must be temporarily exhibited in sufficient time to prevent collision. Fishing Boats users must wear U.S. Coast Guard approved wearable personal flotation devices after sunset.
+
+(g) Capacity. Each Fishing Boat may carry no more than three occupants, unless the Fishing Boat has a U.S. Coast Guard approved “Maximum Capacities” plate or label affixed by the manufacturer that identifies a greater occupancy capacity.
+
+(h) Winter Storage. Between December 1st and March 31st, Fishing Boats must be stored at a point above the High Water Mark within the assigned Boat Storage Area.
+
+(i) Steam Cleaning and Storage. Due to the threat of Water Supply contamination by invasive species organisms that may be introduced to City Reservoirs and Controlled Lakes by boats previously used in contaminated waters, all Fishing Boats and equipment (i.e. anchors, anchor lines, paddles, etc.) used on City Reservoirs and Controlled Lakes must be registered and steam cleaned by NYCDEP or its designees, when available, as listed on the NYCDEP website, and stored on-site in Boat Storage Areas designated by NYCDEP. All Fishing Boats stored and used on City Reservoirs, Controlled Lakes and adjacent City Property must have a valid Fishing Boat Tag affixed thereto.
+
+(j) Application. Fishing Boat Tag applications will be available for download on the NYCDEP website or for pick-up at NYCDEP facilities in New York City, NYCDEP offices throughout the Watershed and such other locations as indicated on the NYCDEP website.
+
+(k) Fishing Boat Tag Application Required Information. A Fishing Boat Tag application will require the following information:
+
+   (1) Applicant’s valid Access Permit number;
+
+   (2) Applicant’s name, mailing address, phone number, electronic mail address, if available, and date of birth;
+
+   (3) Boat make, model, serial number, color, width, length, material, and hull shape;
+
+   (4) Designated Open Boat Storage Area requested;
+
+   (5) Applicant’s acknowledgement of risk and waiver of liability;
+
+   (6) Applicant’s acknowledgement and acceptance that NYCDEP or its designee has the right to allocate storage space for the Fishing Boat in accordance with 15 RCNY § 16-10.1(v); confiscate and store a Fishing Boat that NYCDEP determines is in violation of these regulations; to dispose of the Fishing Boat in accordance with 15 RCNY § 16-10.3; waives any right to assert a claim against NYCDEP and/or its designee or hold either liable under any circumstances including, but not limited to, damage to, or loss of, a boat or accessories such as, but not limited to, chains, locks and oars during its confiscation, storage or disposition.
+
+   (7) Applicant’s signature and date of signature; and
+
+   (8) Parent or legal guardian’s signature and date of signature if applicant is under 18.
+
+(l) Eligibility. Valid Access Permit holders 16 years of age and older and who own the rowboat that they are registering are eligible to receive a Fishing Boat Tag for the boat documented on the application. Applicants ages 16-17 need parental or legal guardian consent. Each Fishing Boat Tag will be issued to a single Fishing Boat owner only. Access Permit holders may apply for Fishing Boat Tags for more than one Fishing Boat subject to the limitations included in these Rules under 15 RCNY § 16-10.3(7).
+
+   (1) With express written permission from NYCDEP as provided for in 15 RCNY § 16-12(j), an organization that implements boat-sharing among its members, with a valid NYCDEP Access Permit, may be eligible to receive a Fishing Boat Tag for each of its Fishing Boats.
+
+      (i) Organizations must submit a request for DEP to review and approve a boat-sharing program. The organization shall appoint a responsible party who shall be NYCDEP’s main point of contact and responsible for each Fishing Boat Tag issued in the organization’s name.
+
+(m) Application Submission and Appointment. A Fishing Boat Tag application must be submitted to NYCDEP or its designee, when available, as listed on the NYCDEP website, at the boat registration appointment on the day the Fishing Boat is to be placed on an Open Boat Storage Area. The appointment must be made in advance by contacting the NYCDEP office nearest the Reservoir where the Fishing Boat will be located, or the NYCDEP designee, when available, as listed on the NYCDEP website. A completed application must be submitted in person at the processing appointment. A Fishing Boat Tag application may be completed in advance of the appointment. A cancelled appointment may be rescheduled to a later date as available.
+
+(n) Boat Processing and Tag Issuance. A Fishing Boat owner must attend the processing appointment for his or her boat in person and must bring his or her boat, valid Access Permit, and government-issued photo identification. A boat processing appointment consists of the following steps:
+
+   (1) The Fishing Boat owner must submit the completed Fishing Boat Tag application in person or via the NYCDEP website, when available.
+
+   (2) Access Permit data on file shall be confirmed with the applicant. This information shall include contact information and Access Permit status.
+
+   (3) Boat type, shape, size, color, make, model, serial number, absence of possible contaminants, boat condition (i.e. peeling paint) and apparent seaworthiness shall be confirmed and entered into the file.
+
+   (4) Boats and equipment will be steam cleaned by NYCDEP or its designee on all surfaces to remove any possible Water Supply contaminants such as zebra mussel larvae.
+
+   (5) A unique Fishing Boat number will be assigned and affixed to the boat by NYCDEP.
+
+   (6) Upon completion of the boat cleaning and processing appointment, the Fishing Boat owner shall be given a Reservoir map and/or directions to the designated Open Boat Storage Area and must immediately place the registered Fishing Boat at the assigned Open Boat Storage Area.
+
+   (7) Fishing Boat owners may be restricted from placing their Fishing Boat in certain Boat Storage Areas, as determined by NYCDEP. A Fishing Boat owner may submit a Waiting List application to NYCDEP which shall maintain and utilize such list as described in 15 RCNY § 16.10.1(v)(1)(ii) below.
+
+(o) Rejection. Grounds for rejection of a Fishing Boat Tag application include the following:
+
+   (1) Incomplete application;
+
+   (2) Failure to meet application eligibility requirements;
+
+   (3) Submission of false information;
+
+   (4) Illegible application; and/or
+
+   (5) Failure of Fishing Boat to meet inspection and cleaning standards;
+
+Rejected applications will be returned immediately to the applicant, accompanied by an explanation of the reason(s) for rejection, and an opportunity provided for the immediate resubmission of the corrected application, if applicable. Within 10 days of applicant’s receipt of NYCDEP’s rejection notification, the applicant may send an appeal of NYCDEP’s refusal to issue a Fishing Boat Tag to the NYCDEP Deputy Chief of City Land Stewardship. Such appeal must include any relevant information pertaining to the basis for the refusal. Upon examination of the circumstances and generally within two weeks of receipt, the NYCDEP Deputy Chief City Land Stewardship will either uphold the refusal or revise NYCDEP’s prior decision and issue a Fishing Boat Tag upon such terms and conditions as may be appropriate. The applicant will be notified of NYCDEP’s determination in writing.
+
+(p) Term. Fishing Boat Tags are valid for 4 years, or until the expiration date indicated thereon, if different, unless revoked, or altered by NYCDEP. If a Fishing Boat Tag is expired or revoked, the Fishing Boat owner must remove the boat from City Property promptly. NYCDEP may remove the Fishing Boats per 15 RCNY § 16-10.3. Fishing Boat Tag holders with an expired or suspended Access Permit may not use their Fishing Boat.
+
+(q) Display. Fishing Boat Tags must be affixed to the upper port-side exterior bow of the corresponding registered Fishing Boat. The Fishing Boat Tag holder must keep a Fishing Boat Tag affixed and clearly legible at all times. The Fishing Boat owner must ensure that the NYCDEP-issued Fishing Boat numbers are clearly legible and visible. Fishing Boats with missing or illegible NYCDEP-issued Fishing Boat Tags and/or boat numbers are subject to confiscation by NYCDEP. Other non-NYCDEP issued numbers may need to be removed at NYCDEP’s discretion.
+
+(r) Replacement. Lost or destroyed Fishing Boat Tags may be replaced upon the boat owner’s written request to NYCDEP by USPS or electronic mail. Replacements will generally be issued within two weeks.
+
+(s) Renewal. A renewal Fishing Boat Tag notice or application will be sent via USPS or electronic mail to the address on file for each valid Fishing Boat owner, generally in the spring of the Fishing Boat Tag expiration year. Content of the renewal Fishing Boat Tag application will include confirmation of boat owner and boat information on file. Upon return of the application to NYCDEP by the applicant, a renewed Fishing Boat Tag will be updated and/or sent to the address on file for the Fishing Boat owner.
+
+(t) Non-Transferability. Fishing Boat Tags are not transferable to either another person or another boat.
+
+(u) Transfer of Fishing Boat Ownership. When an owner of a Fishing Boat with a valid Fishing Boat Tag (“Boat Seller”) transfers ownership of his or her Fishing Boat to another valid Access Permit holder (“Boat Purchaser”), the Boat Seller must submit a Boat Tag Surrender Form to NYCDEP listing the number of his or her Fishing Boat Tag either by mail or in person, noting the Boat Purchaser’s name and address. The Boat Purchaser must complete a Fishing Boat Tag application for the Fishing Boat, in accordance with 15 RCNY § 16-10.1(k), indicating the name of the Boat Seller from whom the Boat Purchaser purchased the boat.
+
+   (1) NYCDEP will issue and mail a new Fishing Boat Tag and other materials to the accepted Boat Purchaser at the address on file, generally within 2 weeks of the Boat Purchaser’s Fishing Boat Tag application if the new Fishing Boat will be placed in an Open Boat Storage Area. New Fishing Boat Tags will not be issued in Closed Boat Storage Areas.
+
+   (2) The new Fishing Boat Tag issued to the Boat Purchaser will supersede any prior Fishing Boat Tag issued for the Fishing Boat, including the Boat Seller’s Fishing Boat Tag which is null and void upon the Fishing Boat’s transfer to the Boat Purchaser. The Boat Purchaser must remove any prior Fishing Boat Tag(s). The Fishing Boat Tag issued to the Boat Purchaser must be affixed in accordance with 15 RCNY § 16-10.1(q) above.
+
+(v) Fishing Boat Storage Areas. Each registered Fishing Boat will be assigned by NYCDEP and/or its designee to a Fishing Boat Storage Area that has a space available as determined by NYCDEP. Assignment of a Fishing Boat to a Fishing Boat Storage Area is valid for the duration of the Fishing Boat Tag. The Fishing Boat must be stored in the assigned Boat Storage Area when not in use on the water. A Fishing Boat not stored within its assigned Fishing Boat Storage Area will be subject to confiscation by NYCDEP.
+
+NYCDEP may grant a Fishing Boat Tag holder a storage space in either a:
+
+   (1) Closed Boat Storage Area: a Boat Storage Area designated by NYCDEP that requires protection to prevent damage to City Property such as erosion, soil compaction or loss of vegetation. The number of Fishing Boats stored in a Closed Boat Storage Area may not exceed the number of Fishing Boats NYCDEP reasonably determines as the limit for that area, in view of conditions in and around such area. Fishing Boat owners may request to be on a Waiting List, described below, to store his or her Fishing Boat in a Closed Boat Storage Area. Provided the Fishing Boat owner remains in good standing and has resolved any violation of these regulations to NYCDEP’s satisfaction, upon submission of a renewal for a Fishing Boat Tag that was previously assigned to a Closed Boat Area, NYCDEP will assign the same Fishing Boat to the Closed Storage Area it is located in provided the Fishing Boat has not been transferred to a new owner since the prior Fishing Boat Tag was issued by NYCDEP.
+
+      (i) If a Fishing Boat Owner transfers ownership of a Fishing Boat that is stored in a Closed Boat Storage Area, the Boat Purchaser must remove the Fishing Boat from the Closed Boat Storage Area. The Boat Purchaser may submit a Fishing Boat Tag application to store the boat in an Open Boat Storage Area on the same Reservoir. If there is no Open Boat Storage Area on that Reservoir, the Boat Purchaser must remove the Fishing Boat from City Property. The Boat Purchaser may submit a Fishing Boat Tag application to place the Fishing Boat in an Open Boat Storage Area on another Reservoir and, in addition, may submit a Waiting List Application for a Reservoir with a Closed Boat Storage Area.
+
+      (ii) Waiting List: NYCDEP will maintain and utilize a Waiting List for each Reservoir with a Closed Boat Storage Area in order to allocate Fishing Boat storage spaces in such areas. A person may request to be placed on a Reservoir’s Closed Boat Storage Area Waiting List by requesting a Waiting List application from NYCDEP or its designee, completing the Waiting List application, and returning it to NYCDEP either by mail or in person. NYCDEP will place the name on the Waiting List based upon the order in which the completed Waiting List application was received except that a Fishing Boat owner who has exceeded the boat limits established by NYCDEP pursuant to 15 RCNY § 16-10.3(7) will not be placed on a Waiting List.
+
+   (2) Open Boat Storage Area: a Fishing Boat storage area designated by NYCDEP that has suitable storage space as determined by NYCDEP for a Fishing Boat with a Fishing Boat Tag without overcrowding or damaging City Property. NYCDEP will assign each applicant who receives a Fishing Boat Tag a storage space in an Open Boat Storage Area on the requested Reservoir, if available. If there is no Open Boat Storage Area on the requested Reservoir, the applicant may submit a Waiting List application as described in 15 RCNY § 16-10.1(v)(1)(i) and (ii) above.
+
+A Fishing Boat owner may request a change of an assigned Boat Storage Area for their Fishing Boat on the same water body once per calendar year by contacting NYCDEP. NYCDEP will grant a change of an assigned Boat Storage Area provided that the requested Boat Storage Area is open to additional Fishing Boats.
+
+(w) Fishing Boat Storage. When not in use on the water for Fishing, a Fishing Boat must be stored in its assigned Boat Storage Area at all times. From December 1st to April 1st, a Fishing Boat must be stored above the High Water Mark within its assigned Boat Storage Area. It is recommended that a Fishing Boat owner store their Fishing Boat back from the shoreline so as not to obstruct other anglers’ access to the water. DEP, at its sole discretion, may delineate by signage or on maps, shoreline buffer zones, which are within 10 feet of the High Water Mark of the shoreline. A shoreline buffer zone may be delineated on a new and/or an expanded Boat Storage Area or in an existing Boat Storage Area that is considered to have soil compaction, vegetation loss, or erosion. Fishing Boats found within a NYCDEP-delineated shoreline buffer zone are subject to removal by NYCDEP.
+
+Where manufactured hitching posts, stanchions or boat racks are supplied and have available space, a Fishing Boat must be secured to them. A Fishing Boat must not be stored on or against other stored Fishing Boats, as this may make some Fishing Boats inaccessible to their owners.
+
+A Fishing Boat must not be stored leaning against a tree unless there is no space available on a hitching post or other securing mechanism as provided by NYCDEP. Storage against a tree must be in a manner that does not damage the tree or may result in the boat being blown over into a hull-down position. A Fishing Boat must not be secured to a dead tree or a tree marked with blue paint by NYCDEP.
+
+Improper stored boats may be subject to removal by NYCDEP or Access Permits holders may be subject to the penalties in 15 RCNY § 16-15.
+
+(x) Fishing Boat Placement and Securing. To prevent the creation of insect breeding grounds in water-filled Fishing Boats, each Fishing Boat must, except as provided in this subdivision, be stored hull-up (upside down) and flat against the ground at all times.
+
+A Fishing Boat owner may store on site such fishing equipment as may be secured under their overturned, stored Fishing Boat. Equipment or items left on City Property and not secured under a Fishing Boat is subject to NYCDEP confiscation and disposal. A Fishing Boat owner is encouraged to secure their stored Fishing Boat to reduce the possibility of theft and scattering. Improper stored boats may be subject to removal by NYCDEP or Access Permits holders may be subject to the penalties in 15 RCNY § 16-15.
+
+(y) Owner Removal of a Fishing Boat. Fishing Boat owners may remove their Fishing Boats from City Property at any time. Fishing Boat owners must notify the appropriate NYCDEP Boat Office before removing their Fishing Boat from City Property. Upon removal of a Fishing Boat from City Property, its Fishing Boat Tag is immediately rendered invalid and the boat can no longer be stored or used on City Property. Fishing Boat owners wishing to return a once-registered, removed Fishing Boat to a City Reservoir or Controlled Lake must make a registration and processing appointment with the appropriate NYCDEP Boat Office, or designee, as listed on the NYCDEP website.
+
+(z) Change of Reservoir or Controlled Lake. Fishing Boat owners with a valid Access Permit may change the location of their Fishing Boat from one Reservoir or Controlled Lake to another Reservoir or Controlled Lake provided there is an Open Boat Storage Area. Such change will be treated the way a new boat would be treated. This will require an application, boat processing appointment, and a new Fishing Boat Tag. It is prohibited for a boat owner to move their boat away from the assigned Reservoir or Controlled Lake without first notifying and securing approval from the appropriate NYCDEP Boat Office. It is prohibited for a Fishing Boat owner to place any boat on a Reservoir or Controlled Lake without a valid Fishing Boat Tag for that location. The Fishing Boat must be steam cleaned and receive a new Fishing Boat Tag for the new Boat Storage Area.
+
+(aa) Loaning a Fishing Boat. Fishing Boats with a valid Fishing Boat Tag may be loaned to other valid Access Permit holder(s) with written permission from the Fishing Boat owner, which includes the term of the loan. The person being loaned the Fishing Boat must carry such written permission while using the Fishing Boat.
+
+
+
+
+
+
+
+
+*§ 16-10.2 Recreational Boats.* ::
+
+
+Recreational Boating is allowed on the Cannonsville, Neversink, Pepacton and Schoharie Reservoirs in NYCDEP designated Recreational Boating Areas and in NYCDEP’s discretion. The Recreational Boating Areas may be entered and used for Recreational Boating by persons with valid Access Permits and Recreational Boating Tags as provided in these Rules. Recreational Boating Areas and launch sites will be designated by NYCDEP on sign postings, on the NYCDEP website, on NYCDEP maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters.
+
+(a) Season. Access to Recreational Boating Areas begins at sunrise on May 1st and ends at sunset on October 31st or as otherwise determined by NYCDEP, and is 7 days a week from sunrise to sunset, except as otherwise restricted on NYCDEP sign postings, on the NYCDEP website, on NYCDEP maps, and/or in other publications or notices.
+
+(b) Recreational Boat Tags. All boats used in Recreational Boating Areas must be registered and steam cleaned by NYCDEP’s designees, as listed on NYCDEP’s website, and must have a valid Recreational Boat Tag affixed to the upper port side exterior bow.
+
+   (1) Eligibility. Boats eligible for Recreational Boat Tags include but are not limited to canoes, sculls, metal jonboats, rowboats and kayaks that measure no less than 9 feet in length. Inflatable boats, collapsible boats, swim and paddle boards, stand up kayaks, kayaks with pedal drive systems and or sails, sailboats and motorized boats are prohibited. NYCDEP may, at its discretion, add to or delete from the list of boats eligible for Recreational Boat Tags. Changes to the list will be designated by NYCDEP on sign postings, on the NYCDEP website, on NYCDEP maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters.
+
+   (2) Term. Seasonal Recreational Boat Tags will be valid for the full season as defined in subparagraph (a) of this section. NYCDEP, at its discretion, may issue a temporary tag valid for 1 to 7 days. Recreational Boat Tags only remain valid so long as the boat owner’s Access Permit is valid. Recreational Boat Tag holders with an expired, suspended or revoked Access Permit may not use their Recreational Boat.
+
+   (3) Application. Recreational Boat Tag applications will be available at the same locations as Access Permit applications, including the NYCDEP website, and will also be available at vendors/designees as approved by NYCDEP for processing Recreational Boats for use in Recreational Boating Areas.
+
+   (4) Required Information. A Recreational Boat Tag application requires the following information:
+
+      (i) Applicant’s valid Access Permit number;
+
+      (ii) Applicant’s name, mailing address, phone number, electronic mail address, if available, and date of birth;
+
+      (iii) Boat make, model, color, width, length, material, and hull shape and if known, serial number;
+
+      (iv) Selection of Recreational Boat Tag term;
+
+      (v) Applicant’s acknowledgement of risk and waiver of liability;
+
+      (vi) Applicant’s acknowledgement and acceptance that NYCDEP or its designee has the right to confiscate and store a boat that NYCDEP determines is in violation of these regulations and to dispose of the boat in accordance with 15 RCNY § 16-10.3; waives any right to assert a claim against NYCDEP and/or its designee or hold either liable under any circumstances for damage to, or loss of, a boat or accessories such as, but not limited to, chains, locks and oars during its confiscation, storage or disposition.
+
+      (vii) Applicant’s signature and date of signature; and
+
+      (viii) Parent or legal guardian’s signature and date of signature if the applicant is aged 16 or 17.
+
+   (5) Boat Processing, Registration, Steam Cleaning and Recreational Boat Tag Issuance. Recreational Boat Tag applications may be completed in advance of submission, except for the portions which must be completed when the boat is registered, steam cleaned and placed on the Reservoir. Prior to entering Recreational Boating Areas, all Recreational Boats and equipment (i.e. anchors, anchor lines, paddles, etc.) must be steam cleaned by one of NYCDEP’s designees at the appropriate office as listed on the NYCDEP website. Recreational Boat Tags cannot be transferred from one person to another.
+
+(c) Recreational Boat Launch Sites. Recreational Boats may only be placed in or taken out of Recreational Boating Areas at Recreational Boat launch sites designated by NYCDEP.
+
+(d) Recreational Boat Storage Areas and Recreational Boat Storage. NYCDEP’s designee will assign an available Boat Storage Area as determined by NYCDEP for all Recreational Boats. No Recreational Boat may be stored in a shoreline buffer zone, which is within 10 feet of the shoreline. A Recreational Boat not stored within its assigned Boat Storage Area, or is in a Boat Storage Area closed by NYCDEP, or to which it was not assigned, will be subject to confiscation by NYCDEP.
+
+Where manufactured hitching posts, racks and/or stanchions are supplied by NYCDEP and have available space, a Recreational Boat must be secured to one of them. NYCDEP may also designate certain locations within the Boat Storage Areas for Recreational Boat Storage, which will be delineated at the storage area by NYCDEP.
+
+A Recreational Boat may not be stored on or against another stored boat. A Recreational Boat must not be stored leaning against a tree unless there is no space available on a hitching post or other securing mechanism as provided by NYCDEP. Storage against a tree must be in a manner that does not damage the tree or may result in the boat being blown over into a hull-down position. A Recreational Boat must not be secured to a dead tree or a tree marked with blue paint by NYCDEP.
+
+A Recreational Boat must be stored, at the owner’s risk, in the vicinity of the Recreational Boating Area’s launch sites above the High Water Mark back from the shoreline so as not to obstruct access to the water, and in a hull up (upside down) position so as not to collect water.
+
+To prevent the creation of insect breeding grounds in water-filled Recreational Boats, each Recreational Boat must, except as provided in this subdivision, be stored hull up (upside down) and flat against the ground at all times.
+
+A Recreational Boat owner may store on site such boating equipment as may be secured under their overturned, stored Recreational Boat. Equipment or items left on City Property and not secured under a Recreational Boat is subject to NYCDEP confiscation and disposal. A Recreational Boat owner is encouraged to secure their stored Recreational Boat to reduce the possibility of theft and scattering.
+
+Improper stored boats may be subject to removal by NYCDEP or Access Permits holders may be subject to the penalties in 15 RCNY § 16-15.
+
+(e) Owner Removal of Recreational Boat. Recreational Boats with Recreational Boat Tags may be removed from Recreational Boat Areas by their owners at any time before the Recreational Boat Tag’s expiration date. Recreational Boat owners with a Seasonal Recreational Boat Tag must notify the appropriate NYCDEP Boat Office before such removal. Upon removal of a Recreational Boat from a Recreational Boating Area, its Recreational Boat Tag is immediately rendered invalid. Recreational Boat owners wishing to return a once-registered, removed Recreational Boat to a Recreational Boating Area must secure a new Recreational Boat Tag.
+
+(f) Safety. Every Recreational Boat used on City Property must have at least one U.S. Coast Guard approved wearable personal flotation device in good condition for each person on board. Each person on board who is under the age of 12 must wear a securely fastened U.S. Coast Guard approved wearable flotation device of an appropriate size. All boaters must comply with U.S. Coast Guard, New York State, and any other applicable laws and regulations regarding personal flotation device use.
+
+(g) Capacity. Each Recreational Boat may only carry the occupants as recommended by the manufacturer unless the Recreational Boat has a U.S. Coast Guard approved “Maximum Capacities” plate or label affixed by the manufacturer that identifies a greater occupancy capacity.
+
+(h) Condition and Maintenance. Recreational Boat owners are responsible for the sanitary condition and seaworthiness of their vessels and for all activities that occur thereon.
+
+(i) Use. Fishing is a permissible, but not required, use of Recreational Boats.
+
+
+
+
+
+
+
+
+*§ 16-10.3 Confiscation, Storage, Disposal, and Limitations of all Boats.* ::
+
+
+(1) NYCDEP Confiscation of any Boat. Any boat left in the water unattended; found on land outside of the boat’s assigned Boat Storage Area; found in a closed Boat Storage Area to which it was not assigned; found without a valid Fishing or Recreational Boat Tag or with illegible boat numbers; found on City Property after expiration or revocation of the owner’s Fishing or Recreational Boat Tag or Access Permit; found in a Restricted Area, or abandoned or otherwise not in compliance with these Rules is subject to confiscation and storage by NYCDEP or its designee at the owner’s expense.
+
+By accepting a Fishing or Recreational Boat Tag, the owner of the tagged boat acknowledges and accepts NYCDEP’s and its designee’s right to confiscate and store a boat that NYCDEP determines is in violation of these regulations; NYCDEP’s right to dispose of the boat in accordance with this section; and waives any right to assert a claim against NYCDEP and/or its designee for such confiscation and/or disposal or hold either liable under any circumstances for damage to, or loss of, a boat or accessories such as, but not limited to, chains, locks and oars during its confiscation, storage or disposition.
+
+When a boat is confiscated by NYCDEP or its designee, a record of the boat’s condition will be prepared and maintained including the following information: a boat description, date of confiscation, storage location, condition, equipment with the boat, if any, estimated value, and whether it appears seaworthy or not. Such record will be maintained until NYCDEP or its designee disposes of said boat in accordance with these Rules.
+
+When a boat is confiscated, a one-time confiscation penalty of $120.00 will be assessed per boat. A storage fee of $1.00 per day will also be assessed per boat until the boat is claimed by its owner, or until the storage fee adds up to $90. Together the confiscation penalty and storage fees will not exceed $210.00 in total per boat.
+
+NYCDEP or its designee will send a written notice to attempt to contact the owner of a NYCDEP confiscated boat within 30 days from the date NYCDEP deems the boat confiscated in order to notify such owner of the boat’s status. This written notice will be documented by NYCDEP or its designee and may be by USPS mail, or electronic mail using the contact information on file for the Access Permit/Boat Tag holder. If a confiscated boat has no record of ownership with NYCDEP, the boat will be held for 3 months and if unclaimed, disposed of in accordance with 15 RCNY § 16-10.3(4).
+
+(2) Storage of NYCDEP-Confiscated Boats. NYCDEP or its designee will secure a confiscated boat on NYCDEP or its designee’s property until the confiscated boat is claimed by its owner or until 3 months have passed from the date of notice of confiscation by NYCDEP or its designee. Storage may include a boat being left in place and secured on City Property until it can be disposed of by NYCDEP or its designee.
+
+(3) Owner Claim of Confiscated Boats. All boats confiscated and stored by NYCDEP or its designee will be available for claim and pick up within the 3 month storage period by the boat owner of record, by appointment with NYCDEP or its designee. NYCDEP or its designee’s staff will confirm that the person claiming the boat is the boat owner of record. Any accumulated confiscation penalty and storage fees must be paid to the order of NYCDEP by certified check, bank check, or money order and must be tendered to NYCDEP or its designee in order for the boat to be released. An owner must pay any accumulated penalties and fees and remove their claimed boat at the same appointment; NYCDEP or its designees will not hold claimed boats or allow deferred payment. NYCDEP, or its designee after consulting with NYCDEP, may in extreme circumstances (such as death or a debilitating illness of a boat owner), waive any accumulated penalties and/or fees.
+
+(4) Disposal of confiscated property. When necessary, NYCDEP will dispose of boats and other property confiscated by NYCDEP through any of the following means:
+
+   (i) Sale by the New York City Department of Citywide Administrative Services; or
+
+   (ii) Public auction by NYCDEP or its designee.
+
+(5) Boat Relinquishment. Boat owners or their representatives may relinquish ownership of their boat stored on City Property to NYCDEP directly or through NYCDEP’s designee according to the following process:
+
+   (i) The boat owner or his or her representative must write a letter stating that he or she relinquishes ownership of his or her boat to NYCDEP. The letter must contain the following information:
+
+      (a) boat owner name, address, telephone number, and Access Permit number;
+
+      (b) boat number and Boat Storage Area;
+
+      (c) if written by the boat owner, the signature of the boat owner; and
+
+      (d) date of signature.
+
+   (ii) If the letter is written by the representative of a boat owner, the representative must affirm in writing his or her ability to act on behalf of the boat owner for the purposes of relinquishing ownership to NYCDEP.
+
+   (iii) The relinquishment letter must be mailed to NYCDEP at 71 Smith Avenue Kingston, NY 12401 or its designee, if applicable.
+
+(6) Lost and Stolen Property. Property owners must report all property believed to be lost or stolen to the appropriate NYCDEP Boat Office and the NYCDEP Police upon discovery. A boat owner whose boat has been stolen and has filed a report with NYCDEP Police may replace the boat at the same Boat Storage Area within 90 days of the Police report filing date. This will be allowed even if the Boat Storage Area is closed.
+
+(7) Limitations. To limit potential adverse water quality or natural resource impacts, overcrowding, and for other such other reasons as NYCDEP may deem necessary or appropriate, NYCDEP may:
+
+   (i) Limit the number of valid Fishing or Recreational Boat Tags any individual can hold at one time;
+
+   (ii) Limit the number of Reservoir-specific valid Fishing or Recreational Boat Tags any individual can hold at one time;
+
+   (iii) Limit the total number of Fishing or Recreational Boat Tags issued for a particular Reservoir or Controlled Lake; and/or,
+
+   (iv) Limit the number of boats stored at a particular Reservoir or Controlled Lake, Boat Storage Area or boat launch site.
+
+   (v) If and when limits are determined to be necessary by NYCDEP, they shall be posted on the NYCDEP website and be available at NYCDEP offices, and its designees’ boat steam cleaning sites, if applicable.
+
+   (vi) Any limitations proposed per above shall apply to new Fishing Boat or Recreational Boat Tag holders.
+
+
+
+
+
+
+
+
+*§ 16-11 Restricted Areas.* ::
+
+
+(a) General. NYCDEP may, in its discretion, temporarily limit or forbid access to any or all City Property at any time and from time to time as may be necessary for Water Supply security, for public safety or resource protection. Such limitation on or prohibition of access will be indicated by posting signs and, when applicable, on the NYCDEP website and/or by publishing announcements.
+
+(b) Location. Unless otherwise posted, all persons other than NYCDEP employees and contractors on City business, on-duty law enforcement personnel and others with express written permission from NYCDEP as provided for in 15 RCNY § 16-12(j) are prohibited from entering City Property that is:
+
+   (1) On or within 500 feet of any dikes, dams, tunnel outlets, spillways, buildings and other “significant” Water Supply structures as may be designated by NYCDEP in its sole discretion. Other distances within which access is prohibited may be applied at NYCDEPs discretion. These larger Restricted Areas will be delineated by signs and on public maps on the NYCDEP website.
+
+   (2) Any area not officially designated as a Access Permit Area, Public Access Area, Day Use Area, or an area not specifically designated for access; and
+
+   (3) Any other area posted with signs such as “No Trespassing” or otherwise designated as a Restricted Area.
+
+
+
+
+
+
+
+
+
+**Subchapter D: General Provisions and Prohibitions**
+
+
+
+*§ 16-12 General Rules.* ::
+
+
+The following general requirements apply to all Recreational Use on City Property:
+
+(a) Personal Identification. All visitors to City Property 16 years and older must carry government (or school-issued, for individuals 18 and younger) photo identification while on City Property and must produce such identification upon request of any law enforcement officer or NYCDEP representative.
+
+(b) Signs and Instruction. All persons on City Property must observe all instructions and warnings on posted signs and notices and from NYCDEP representatives.
+
+(c) Trespass. All persons entering City Property should respect the rights of owners of adjacent property and must not trespass onto private lands.
+
+(d) Property Use and Designation. NYCDEP will designate and list Recreational Areas by posting signs and, when applicable, by publishing announcements on the NYCDEP website, on NYCDEP maps, and/or in other publications and notices.
+
+(e) Abandoned and Confiscated Property Other than Boats. Abandoned or prohibited equipment found on City Property will be confiscated by NYCDEP. The property will be stored by NYCDEP for 3 months. If the abandoned property remains unclaimed after 3 months, it will be disposed of in accordance with 15 RCNY § 16-10.3(4).
+
+(f) Other licenses. While on City Recreational Areas, individuals must possess all applicable NYSDEC Hunting, Fishing and Trapping licenses as required by the NYSDEC Environmental Conservation Law.
+
+(g) Recreational Area Closures. NYCDEP may close Recreational Areas or any parts thereof, to public access and may limit the number of recreational users permitted in a Recreational Area as it deems necessary. Possible considerations for Recreational Area closure include but are not limited to Water Supply protection, management and security concerns and user conflicts. Closures will be indicated on the NYCDEP website and/or sign postings.
+
+(h) Season. Recreational Area seasons are year-round except as otherwise restricted by these Rules and/or NYCDEP sign postings, on the NYCDEP website, on NYCDEP maps, and/or in other publications or notices.
+
+(i) Hours. NYCDEP may limit or restrict the hours for any Recreational Area or any parts thereof that may be accessed and used by the public. Hour restrictions will be indicated on the NYCDEP website and/or sign postings.
+
+(j) Express Written Permission. Where provided for by these Rules, NYCDEP may grant permission on a case-by-case basis for certain activities on City Property, when considering, among other factors, compatibility with water quality protection, site constraints, administrative burdens, public safety and security, site management considerations such as universal access and whether the use will serve a significant public purpose.
+
+
+
+
+
+
+
+
+*§ 16-13 Regulated Activities.* ::
+
+
+The provisions of this section apply to the specified activities and uses on all City Property.
+
+(a) Injury, Destruction or Abuse of Natural Resources or Property. No person shall disturb, deface, remove or injure any vegetation, trees, wildlife, soil, stone or other cultural or natural resources located on City Property, including, but not limited to equipment, sampling stations, fences, gates, stone walls, boundary markers, monuments, blaze marks, NYCDEP signs, roads, trails or other improvements, without prior written permission from NYCDEP as provided for in 15 RCNY § 16-12(j) or as otherwise allowed by these Rules.
+
+(b) Firearms, Weapons, Explosives. Rifles, shotguns, handguns/pistols, air rifles, crossbows, bows and arrows and muzzleloaders may only be carried while actively Hunting as allowed by these Rules and in accordance with NYSDEC regulations. As provided above, handguns/pistols may only be carried by those who hold a valid handgun license or pistol permit. Hunting or pocket knives may be carried and used by those engaged in Hiking, Fishing, Hunting or Trapping. All other weapons, fireworks, and explosives are prohibited.
+
+(c) Animals. Animals are prohibited from City Property except for:
+
+   (1) Dogs under the control of the owner on PAAs.
+
+   (2) Dogs actively used for Hunting on APAs.
+
+   (3) Leashed dogs on designated trails and DUAs as posted on signs.
+
+   (4) Service dogs may be used in all PAAs, APAs and DUAs.
+
+Dog owners must remove their dog’s feces from City Property. Dogs are not permitted to enter any water body except in Public Access Areas.
+
+(d) Posting of Notices or Signs. The posting of signs or notices is prohibited except for:
+
+   (1) Flagging Tape. Temporary marking with flagging tape is allowed for Hiking, bushwhacking, game tracking or to mark a Hunting location. Flagging must be removed by the end of the activity or the end of Big Game season, as applicable.
+
+(e) Tents and Other Structures. Tents and other temporary or permanent structures, except for temporary tree stands, temporary Hunting blinds, temporary trail cameras for Hunting and temporary ice fishing windbreaks, are not allowed on City Property and are subject to confiscation by NYCDEP at the owner’s expense and risk.
+
+(f) Motor Vehicle Access. Trucks, automobiles, all-terrain vehicles, motorcycles, snowmobiles and all other motorized vehicles, including aircraft, are prohibited on all City Property unless allowed by NYCDEP on postings, NYCDEP maps and/or notices or by express written permission from NYCDEP as provided for by 15 RCNY § 16-12(j). Vehicles that are: (1) blocking gates or entryways, (2) found in areas posted with “No Parking” signs, (3) found in any unauthorized area on City Property, or (4) found without a valid NYCDEP Vehicle Tag on any City Property other than a Public Access Area or a Day Use Area, may be subject to confiscation and storage by NYCDEP at the owner’s expense and risk.
+
+
+
+
+
+
+
+
+*§ 16-14 Prohibitions.* ::
+
+
+The activities and uses listed in this section are prohibited on all City Property in the Watershed.
+
+(a) Littering, Polluting, Dumping. No person shall in any manner cause any rubbish, garbage, solid waste, hazardous waste, trash, refuse, organic or inorganic waste, cremated remains, diseased or dead animal or other offensive matter or any abandoned property or material to be placed or left on City Property. Upon leaving City Property, recreation users must remove any and all equipment, supplies, or other items brought onto the City Property. This includes but is not limited to: equipment packaging, fishing line, bait, bait containers, lures, hooks, sinkers, bobbers, shell casings, scent bottles, food and drink containers, bags, chairs, and clothing. Recreation users are encouraged to carry trash bags with them and remove trash and litter left by others to help protect the Water Supply, wildlife and the scenic appearance of City Property.
 
 (b) Bathing, Swimming, Washing of Objects. No bathing, swimming or washing of any objects is permitted on City Property.
 
-(c) Unauthorized Presence on City Property. No person shall enter upon and remain on City Property without participating in a recreational use activity allowed by these rules.
+(c) Unauthorized Presence on City Property. No person shall enter upon and remain on City Property unless participating in a Recreational Use activity as allowed by these Rules.
 
-(d) Camping. Camping is not permitted on City Property.
+(d) Target Shooting. Target or clay bird shooting is not permitted on City Property.
 
-(e) Fires. The causing, building or maintaining of fires on City Property is prohibited.
+(e) Camping. Camping is not permitted on City Property.
 
-(f) Smoking. Smoking is prohibited on City Property during fire danger prediction periods classified as "very high" or "extreme" by New York State. Smoking is also prohibited during any period in which New York State or a local municipality has suspended the issuance of burning permits due to drought or high fire danger or by the direction or order of NYCDEP.
+(f) Fires. The causing, building or maintaining of fires on City Property is prohibited except as otherwise allowed per NYCDEP or NYSDEC signage.
 
-(g) Motorized Equipment. The use or possession of motorized equipment on City Property is prohibited unless designated by NYCDEP on sign postings, Public Maps, or on notices, or unless NYCDEP grants express written permission for such use or possession on a case-by-case basis, when considering, among other factors, compatibility with water quality protection, site constraints, site management considerations and whether the use or possession will serve a significant public purpose.
+(g) Smoking. Smoking, including electronic cigarettes (e-cigarettes), is prohibited on all City Property at all times.
 
-(h) Commercial Activities. The use of City Property for any commercial activity or as part of any commercial enterprise is prohibited unless NYCDEP grants express written permission for a specified commercial activity on a case-by-case basis, when considering, among other factors, compatibility with water quality protection, site constraints, site management considerations and whether the commercial activity will serve a significant public purpose.
+(h) Motorized Equipment. The use or possession of motorized equipment on City Property is prohibited except as allowed in 15 RCNY § 16-07(g)(6) and unless specifically designated by NYCDEP on sign postings, NYCDEP maps, or on notices, or unless NYCDEP grants express written permission for such use or possession as provided for by 15 RCNY § 16-12(j).
 
-(i) Other Activities. Any recreational or other activity not expressly allowed by these rules, including but not limited to bicycle riding, horseback riding, ice-skating, recreational boating, sleigh riding, and downhill skiing, is prohibited on City Property unless specified by NYCDEP on sign postings and, where applicable, on other notices, or unless NYCDEP grants express written permission for such activity on a case-by-case basis, when considering, among other factors, compatibility with water quality protection, site constraints, site management considerations and whether the activity will serve a significant public purpose.
+(i) Commercial Activities. The use of City Property for any commercial activity or as part of any commercial enterprise is prohibited unless NYCDEP or its designee grants express written permission for such use as provided for by 15 RCNY § 16-12(j).
 
+(j) Other Activities. Any recreational or other activity not expressly allowed by these Rules, including but not limited to bicycle riding, horseback riding, ice-skating, sleigh riding, and downhill skiing, is prohibited on City Property unless specified by NYCDEP on sign postings and, where applicable, on other notices, or unless NYCDEP grants express written permission for such use as provided for by 15 RCNY § 16-12(j).
 
+(k) Manned and Unmanned aircraft. No person shall Voluntarily take off or land any contrivance now or hereafter invented for flight in the air, including drones, aircraft and model aircraft, within any lands or waters administered by NYCDEP except with prior written permission from NYCDEP as provided for by 15 RCNY § 16-12(j).
 
+(l) Horses. Horses are not permitted on City Property.
 
-
-
-*§ 16-18 Regulated Activities.* ::
-
-
-The activities and uses enumerated in this section shall be regulated on all City Property.
-
-(a) Injury, Destruction or Abuse of Natural Resources or Property. No person shall disturb, deface, remove or injure any vegetation, trees, wildlife, soil, stone or other cultural or natural resources located on City Property, including, but not limited to equipment, sampling stations, fences, gates, stone walls, boundary markers, monuments, blaze marks, NYCDEP signs, roads, trails or other improvements, without prior written permission from NYCDEP, with the following exceptions:
-
-   (1) The cutting of vegetation for tree stands and shooting lanes is prohibited except that limbs not greater than two inches in diameter and not further than twenty-five yards from a tree stand may be cut with a hand tool. The use of power cutting equipment such as chainsaws is prohibited.
-
-   (2) The hunting of game species is allowed in accordance with these rules.
-
-(b) Firearms, Weapons, Explosives. Rifles, shotguns, handguns, bows and arrows, muzzleloaders and pocket or hunting knives may only be carried and used as permitted in Hunting Areas by persons with valid Access Permits, or in Public Access Areas, in accordance with NYSDEC regulations (i.e., rifles may be prohibited by the State in certain locations). Bows and arrows may be used when Fishing for carp. The use or carrying of handguns is prohibited on all City Property except for purposes of hunting, either at Hunting Areas by persons with valid Access Permits or in Public Access Areas. Access Permit holders engaged in Hiking, Fishing, or hunting may carry pocket or hunting knives for purposes of Hiking, Fishing, or hunting. All other weapons, fireworks and explosives are prohibited.
-
-(c) Animals. Securely leashed dogs and hunting dogs are allowed on City Property, unless otherwise posted by NYCDEP. Pet owners or handlers shall keep their dog(s) under personal control at all times and shall remove their animal's feces from City Property. Dogs are not permitted to enter any water body except in Public Access Areas. No other animals shall be brought onto City Property.
-
-(d) Posting of Notices, Signs and Marking of Trails. The posting of signs, notices or the marking of trails without express written permission from NYCDEP is prohibited. Temporary markings for purposes of tracking game may be used, but must be removed within forty-eight (48) hours of placement.
-
-(e) Tents and Other Structures. Tents and other temporary or permanent structures, except for temporary tree stands, temporary hunting blinds, and temporary ice fishing windbreaks, are not allowed on City Property and are subject to removal at the owner's expense and risk. Temporary tree stands may be used on Hunting Areas in accordance with 15 RCNY § 16-08(h) and in Public Access Areas.
-
-(f) Motor Vehicle Access. Trucks, automobiles, all-terrain vehicles, motorcycles, snowmobiles and all other motorized vehicles, including aircraft, are prohibited on all City Property unless allowed by NYCDEP on postings, Public Maps and/or notices or by express written permission. Vehicles that are: (1) blocking gates or entryways, (2) found in areas posted with "No Parking" signs, (3) found in any unauthorized area on City Property, or (4) found without a valid NYCDEP Vehicle Tag on any City Property other than a Public Access Area or a Designated Use Area, are subject to removal and storage at the owner's expense and risk.
-
-(g) Trapping. Trapping is only permitted on City Property in certain Hunting Areas specifically designated for trapping by NYCDEP and in Public Access Areas. Trapping is not permitted elsewhere.
+(m) Biking. The use of bicycles and similar non-motorized vehicles on City Property is prohibited except in DUAs as posted by NYCDEP.
 
 
 
 
 
 
-*§ 16-19 Permit Suspension and Revocation.* ::
 
 
-Any violation of these rules by an Access Permit holder or by any person accompanying an Access Permit holder is cause for confiscation, suspension or revocation of such Access Permit and any related Tags. Such violation may also affect issuance of future Access Permits and/or Tags as determined by NYCDEP and may also subject the violator to prosecution to the fullest extent of the law. Any violation of these rules by a person without an Access Permit and/or Tag may affect future eligibility for an Access Permit and/or Tag and may also subject the violator to prosecution to the fullest extent of law.
+*§ 16-15 Rule Infractions.* ::
 
-(a) Confiscation. Upon request of a NYCDEP representative or law enforcement officer, an Access Permit holder or Guest Pass holder shall surrender his or her Access Permit and/or Guest Pass and/or any related Tag to the requestor and must immediately leave the City Property. Such NYCDEP representative or law enforcement officer shall submit the confiscated items within ten (10) days to the NYCDEP office in Kingston along with the following information:
 
-   (1) Date and location of alleged violation;
+Any violation of these Rules by an Access Permit holder or by any person accompanying an Access Permit holder is cause for confiscation, suspension or revocation of such Access Permit and any related Tags. Such violation may also affect issuance of future Access Permits and/or Tags as determined by NYCDEP and may also subject the violator to prosecution to the fullest extent of the law.
 
-   (2) Confiscating personnel name, title and contact information;
+(a) Confiscation. Upon request of a NYCDEP representative or law enforcement officer, an Access Permit holder or Guest Pass holder must surrender his or her Access Permit and/or Guest Pass and/or any related Tag to the requestor and must immediately leave the City Property.
 
-   (3) Name, Access Permit number, address, telephone number, and driver's license or non-driver's identification number and state of alleged violator, as applicable;
-
-   (4) Nature and description of the alleged violation;
-
-   (5) Nature and description of any NYCDEP enforcement action taken, including identification number(s) and description(s) of any summonses issued or arrests made.
-
-(b) Notification Procedure. Upon examination of the circumstances, NYCDEP will suspend, revoke or return the Access Permit, Guest Pass, and/or Tag, and will notify the person in writing of its determination generally within forty-five (45) days of the alleged violation or receipt of the written explanation, whichever is later. NYCDEP shall send a letter of suspension, revocation, or reinstatement via USPS or electronic mail to the individual's address on file. This letter shall specify the following:
+(b) Notification Procedure. Upon examination of the circumstances, NYCDEP will make a determination to suspend, revoke or return the Access Permit, Guest Pass, and/or Tag. DEP will send its written determination within 45 days of the alleged violation. NYCDEP will send a letter of suspension, revocation, or reinstatement via USPS or electronic mail to the individual’s address on file. This letter will specify:
 
    (1) Date, location, and nature of the alleged infraction;
 
-   (2) The alleged violator's name, address, and Access Permit or Tag number(s), as applicable;
+   (2) The alleged violator’s name, address, and Access Permit or Tag number(s), as applicable;
 
-   (3) Citation of the alleged violation as per these rules;
+   (3) Citation of the alleged violation as per these Rules;
 
    (4) Notification of penalty imposed and Access Permit or Tag status;
 
    (5) Notification of the opportunity and timeline for appeal.
 
-(c) Suspension. If NYCDEP determines that the Access Permit and/or Tag should be suspended, a letter including the basis for the suspension, the period of suspension and the expiration date of the suspension period shall be sent to the Access Permit holder at the address on file. The person may not enter upon City Property until the period of suspension has ended and NYCDEP returns the Access Permit and related Tags, as applicable. Depending on the severity of the violation and record of previous violations, Access Permit/Tag suspension may be from two months to five years from the date of the violation.
+(c) Suspension. If NYCDEP determines that the Access Permit and Tag should be suspended, a letter including the basis for the suspension, the period of suspension and the expiration date of the suspension period will be sent to the Access Permit holder at the address on file.
 
-(d) Revocation. If NYCDEP determines that the Access Permit and/or Tag should be revoked due to significant, repeated, or egregious violations, a letter including the basis for revocation shall be sent to the former Access Permit holder. Revocation is effective immediately upon issuance of such letter. The former Access Permit holder may not apply for a new Access Permit and/or Tag until the date specified in the letter, if any.
+   (1) Access Permits and Tags may be renewed while suspended; however, the suspended Access Permit holder will not receive a new Access Permit or Tag(s) during the suspension period. Suspended Access Permits may only be renewed by using the NYCDEP Access Permit Update Form. The Access Permit Update Form will be available for download on the NYCDEP website. NYCDEP online renewals will not be allowed for suspended Access Permits. The completed NYCDEP Access Permit Update Form must be mailed to the address on the NYCDEP website. The renewed Access Permit will remain in NYCDEP custody during the suspension period.
 
-(e) Penalty Schedule. First offenses of the rules shall result in a suspension that has a duration of one-third the maximum suspension duration for the specific violation. Second offenses shall result in a suspension that has a duration of one-half the maximum suspension period for the specific violation, and third offenses shall result in a suspension that has the maximum suspension period for the specific violation. Violations of multiple sections of the rules during a single incident will result in the maximum penalty for the single most egregious violation. In addition, certain violations of the rules can result in the issuance of a summons for trespass and/or arrest. The maximum penalty for violation of the rules is a three (3) year suspension for holders of Access Permits or a three (3) year suspension from applying for an Access Permit, except for those infractions listed in the following table:
+   (2) The suspended Access Permit holder may not enter upon City Property for Recreational Uses until the period of suspension has ended and NYCDEP returns the Access Permit and related Tags, as applicable.
+
+   (3) Depending on the severity of the violation and record of previous violations, Access Permit/Tag suspension may be from 2 months to 5 years from the date of the violation.
+
+   (4) Persons with a suspended Access Permit may be permitted, at NYCDEP’s discretion, to leave valid Fishing Boats on a Reservoir; however, they may not access or use the Fishing Boat without a Valid Access Permit.
+
+   (5) When Access Permits expire under suspension and are not renewed, all Tags automatically expire and all boats operated under these Tags must be removed from City Property.
+
+(d) Penalty Schedule. First offenses of the Rules will result in suspension that is one-third the maximum suspension term as specified in the penalty table for the specific violation. Second offenses will result in a suspension that is one-half the maximum suspension period for the specific violation, and third offenses will result in the maximum suspension period for the specific violation. Two or more violations in one incident shall result in the minimum penalty for the most egregious violation. Violations of 3 or more sections of the Rules during a single incident or individual offenses which have seriously threatened public safety, Water Supply safety or security, or the personal safety of individuals will result in the maximum penalty for the single most egregious violation. In addition, certain violations of the Rules may result in the issuance of a summons for trespass and/or other applicable violations of law and/or arrest.
+
+   (1) Fishing and Recreational Boat Tag holders whose boats are confiscated 3 times within a 5 year period by NYCDEP may be subject to Access Permit suspension and loss of future Tag privileges.
+
+   (2) The maximum penalty for violation of the Rules is a 3 year suspension for holders of Access Permits or a 3 year suspension from applying for an Access Permit, except for those infractions listed in the table below.
+
+Individuals who have committed 4 or more offenses within a 5 year period, or who have seriously threatened public safety, Water Supply safety or security, or the personal safety of individuals through means not specifically enumerated in this penalty schedule may be subject to the revocation of all public access privileges.
+
+(e) Revocation. If NYCDEP determines that the Access Permit and/or Tag should be revoked due to significant or repeated violations, a letter including the basis for revocation will be sent to the former Access Permit holder. Upon such determination, all Tags held by the former Access Permit holder will also be revoked. All boats must be removed by the owner promptly, and in any event, within the time limits specified in the NYCDEP revocation letter. The length of time allowed for boat removal in such revocation letter will be based on (i) weather and (ii) administrative considerations. The boats under the name of the former Access Permit holder must be removed from City Property in the presence of a NYCDEP representative. If the boats are not removed by the owner, NYCDEP may remove the boats per 15 RCNY § 16-10.3. The former Access Permit holder may not apply for a new Access Permit and/or Tag until the date specified in the letter, if any.
+
+ 
 
  
 
@@ -6902,77 +7096,83 @@ Any violation of these rules by an Access Permit holder or by any person accompa
     :header-rows: 1
 
     * - Applicable Rules Section
-      - Violations Subsection 
+      - Violation Description
       - Access Permit Suspension Term
-    * - 15 RCNY §§ 16-08, 16-11, 16-18
-      - Tree stands (15 RCNY §§ 16-08, 16-18(a)(1)); Hunting Blinds (15 RCNY § 16-08(h)); Shooting lanes (15 RCNY § 16-18(a)(1)); Vehicle Tags (15 RCNY § 16-11(c))
+    * - 15 RCNY §§ 16-04.2, 16-08, 16-14
+      - Tree stands, Hunting Blinds and Trail Cameras (15 RCNY § 16-08(h)); Shooting lanes (15 RCNY § 16-08(i)); Vehicle Tags (15 RCNY § 16-04.2); Smoking (15 RCNY § 16-14(g))
       - 2 - 6 months
-    * - 15 RCNY §§ 16-04, 16-05, 16-07, 16-08, 16-09, 16-10, 16-17, 16-18
-      - Season (15 RCNY §§ 16-04(e), 16-06(d), 16-07(a), 16-08(c), (h), 16-09(d), 16-13(e), 16-14(c)); Means (15 RCNY § 16-04(f)); Equipment (15 RCNY §§ 16-04(h), (i), 16-05(p), 16-06(f), 16-07(k), 16-08(k), 16-13(a), 16-17(g), 16-18(a)(1),(b),(e)); Litter (15 RCNY §§ 16-04(i), 16-17(a)); Entrails (15 RCNY §§ 16-04(j), 16-08(g)); Ice Fishing (15 RCNY § 16-04(d),(h)(2),(3), (5)); Boat Tag (15 RCNY §§ 16-05(i),(q),(r),(s), 16-07(d),(f)); Boat Storage (15 RCNY §§ 16-05(n),(o),(p),(s), 16-07(d),(f)); Boat Condition (15 RCNY §§ 16-06(e), 16-07(m)); Unsafe Operation (15 RCNY §§ 16-06(e),(f),(g), 16-07(k),(l),(m)); Restricted Areas (15 RCNY §§ 16-05(s), 16-07(f), 16-15)
+    * - 15 RCNY §§ 16-07, 16-08, 16-10.1, 16-10.2, 16-12
+      - Season (15 RCNY § 16-07(c)), (15 RCNY § 16-08(c)), (15 RCNY § 16-10.1(d), (15 RCNY § 16-10.2(a)); (15 RCNY § 16-12(h); Means (15 RCNY § 16-07(e)); Equipment (15 RCNY § 16-07(g), 15 RCNY § 16-14(h)); Entrails (15 RCNY § 16-07(h); Game Cleaning Practices (15 RCNY § 16-08(g)); Boat Safety/Capacity (15 RCNY § 16-10.1(f), (g); 15 RCNY § 16-10.2(f), (g)); Ice Fishing (15 RCNY § 16-07(k)); Hunter Behavior/Safety (15 RCNY § 16-08(f)); Fishing Boat Tag (15 RCNY § 16-10.1(a), (b), (i), (p), (q), (t), (u)); Fishing Boat Storage, Placement, and Securing (15 RCNY § 16-10.1 (v), (w), (x)); Recreational Boat Tag (15 RCNY § 16-10.2(b)); Recreational Boat Launch Sites, Storage Areas, and Storage (15 RCNY § 16-10.2(c), (d)); General Rules (15 RCNY § 16-12)
       - 4 months - 1 year
-    * - 15 RCNY §§ 16-13, 16-14
-      - Public Access Areas (15 RCNY § 16-13(a), (b), (e)); Designated Use Areas (15 RCNY § 16-14(b), (c))
+    * - 15 RCNY §§ 16-03.1, 16-03.2, 16.03.3, 16-04
+      - Public Access Areas (15 RCNY § 16-03.1); Day Use Areas (15 RCNY § 16-03.2); Special Event Areas (15 RCNY § 16-03.3); Access Permit Areas (15 RCNY § 16-04)
       - 1 - 3 years or revocation
-    * - 15 RCNY §§ 16-15, 16-17, 16-18
-      - Restricted Areas (15 RCNY § 16-15); Camping (15 RCNY § 16-17(d)); Fires (15 RCNY § 16-17(e)); Motorized Equipment (15 RCNY §§ 16-04(h)(5), 16-13(a)(2), 16-17(g)); Natural Resources (15 RCNY § 16-18(a)); Trapping (15 RCNY § 16-18(g))
-      - 20 months - 5 years
+    * - 15 RCNY §§ 16-11, 16-13, 16-14, 16-16
+      - Restricted Areas (15 RCNY § 16-11); Injury, Destruction or Abuse of Natural Resources or Property (15 RCNY § 16-13(a)); Firearms, Weapons, Explosives (15 RCNY § 16-13(b)); Animals (15 RCNY § 16-13(c)), Tents and Other Structures (15 RCNY § 16-13(e)); Motor Vehicle Access (15 RCNY § 16-13(f)); Littering, Polluting, Dumping (15 RCNY § 16-14(a)); Bathing, Swimming, Washing of Objects (15 RCNY § 16-14(b)); Target Shooting (15 RCNY § 16-14(d)); Camping (15 RCNY § 16-14(e)); Fires (15 RCNY § 16-14(f)); Motorized Equipment (15 RCNY § 16-14(h)); Commercial Activities (15 RCNY § 16-14(i)); Manned and Unmanned aircraft (15 RCNY § 16-14(k); Horses (15 RCNY § 16-14(l)), Biking (§ 16-14(m)); Conformance with State and Local Laws (15 RCNY § 16-16).
+      - 18 months - 5 years or revocation
 ~
 
 
 
  
 
-Individuals who have committed four or more offenses within a five-year period, or who have seriously threatened public safety, water supply safety or security, or the personal safety of individuals through means not specifically enumerated in this penalty schedule will be subject to the revocation of all public access privileges as recommended by the Chief of Watershed Lands and Community Planning.
-
-(f) Appeals. Individuals may appeal the suspension or revocation of their public access privileges and/or ability to apply for public access privileges by submitting a request in writing explaining why the penalty should be changed to NYCDEP within thirty (30) days of the date of the letter of suspension or revocation. In support of an appeal, an individual should submit:
+(f) Appeals. Individuals may appeal the suspension or revocation of their Access Permit privileges and/or ability to apply for public access privileges by submitting to the Deputy Chief of City Land Stewardship, within 30 days of the date of the NYCDEP letter of suspension or revocation, a written request explaining why the penalty should be changed. In support of an appeal, an individual must submit:
 
    (1) an explanation as to why the penalty imposed is not justified by the circumstances presented;
 
-   (2) a statement indicating his or her commitment to abide by all rules, policies, and conditions in the future. NYCDEP shall respond to all appeal requests in writing within thirty (30) days of receipt. In response to a written appeal, NYCDEP may reduce the duration of suspension or revocation period. Factors NYCDEP shall consider in determining whether to grant or deny an appeal request include whether the individual has committed any rule infractions within the previous five years and whether the infraction at issue threatened or compromised water supply quality or security, public safety or led to property damage or injury to any individual. Individuals dissatisfied with the first appeal response may elect to submit a final written appeal to the NYCDEP Chief of Watershed Lands and Community Planning for a final determination.
+   (2) a statement indicating his or her commitment to abide by all Rules, policies, and conditions in the future.
 
-(g) Reinstatement. Upon conclusion of the suspension period, NYCDEP shall send notification of reinstatement via USPS [;mail]; or electronic mail to the individual at the address on file. This notification shall include the return of any confiscated Access Permit or Tag that is still valid or an application for a replacement.
+The Deputy Chief of City Land Stewardship will respond to all appeals in writing within 45 days of receipt. In response to a written appeal, NYCDEP may reduce the duration of suspension or revocation period. Factors NYCDEP will consider in determining whether to grant or deny an appeal request include whether the individual has committed any other Rule infractions within the previous 5 years and whether the infraction at issue threatened or compromised Water Supply quality or security, public safety or led to property damage or injury to any individual. Court dispositions of any summons issued or arrests made for reasons other than a violation of these rules will not negate any such violations, but may be considered during an appeal review by NYCDEP. Individuals dissatisfied with the first appeal response may elect to submit a final written appeal to the Deputy Commissioner for the NYCDEP Bureau of Water Supply for a final determination.
 
-(h) Group Infractions. Any violation of these rules and/or the Group Access Permit conditions by a Group Member may result in:
+(g) Reinstatement. Upon conclusion of the suspension period for a suspended Access Permit and/or Tags, NYCDEP will send notification of reinstatement via USPS or electronic mail to the Access Permit holder at the address on file. This notification will include the return of any confiscated Access Permit or Tag that is still valid or an application for a replacement.
 
-   (1) Removal of the Group and/or Group Member from the property;
+(h) Group Infractions. Any violation of these Rules and/or the Group Access Permit conditions by a Group Member may result in:
+
+   (1) Expulsion of the Group and/or Group Member from the property;
 
    (2) Revocation of the Group Access Permit;
 
-   (3) Loss of general privileges to access Water Supply lands including loss of eligibility to apply for an Access Permit, suspension or revocation of Access Permits; and
+   (3) Loss of general privileges to access City Property including loss of eligibility to apply for an Access Permit, suspension or revocation of Access Permits; and
 
-   (4) Arrest and prosecution to the full extent of the law of the Group Members, Group Leader, and/or organization sponsoring the Group and/or which the Group represents.
+   (4) Arrest and prosecution of the Group Members, Group Leader, and/or organization sponsoring the Group and/or which the Group represents.
 
-(i) Public Access Area and Designated Use Area Infractions. Failure to comply with these rules, postings or notices in a Public Access Area or a Designated Use Area may result in, but may not be limited to, one or more of the following measures:
+(i) Public Access Area and Day Use Area Infractions. Failure to comply with these Rules, postings or notices in a Public Access Area or a Day Use Area may result in, but not be limited to, one or more of the following:
 
-   (1) Removal from the property;
+   (1) Expulsion from City Property;
 
-   (2) Suspension or revocation of Access Permit privileges, if violator is an Access Permit holder;
+   (2) Suspension or revocation of Access Permit and/or Tag privileges, if applicable
 
-   (3) Suspension from applying for an Access Permit;
+   (3) Prohibition from obtaining an Access Permit or Tag;
 
-   (4) Suspension from access to some, any or all City property;
+   (4) Suspension from access to some, any or all City Property;
 
-   (5) Arrest and prosecution to the fullest extent of the law.
-
-
-
-
-
-
-*§ 16-20 Conformance with State and Local Laws.* ::
-
-
-All persons using City Property for recreational purposes are subject to the ECL and all other statutes, ordinances, rules applicable, including (without limitation) the Watershed Rules and the rules set forth herein. Access Permits are not substitutes for any NYSDEC Fishing or Hunting Licenses required by law.
+   (5) Arrest and prosecution.
 
 
 
 
 
 
-*§ 16-21 Unenforceability.* ::
 
 
-If any clause, sentence, paragraph, subdivision, section, rule or part of this chapter shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, rule or part thereof directly involved in the controversy in which such judgment shall have been rendered.
+*§ 16-16 Conformance with State and Local Laws.* ::
+
+
+All persons using City Property for Recreational Uses are subject to the New York State Environmental Conservation Law and all other statutes, ordinances and Rules applicable and the Rules set forth herein. Access Permits are not substitutes for any NYSDEC Fishing, Hunting or Trapping Licenses required by law.
+
+
+
+
+
+
+
+
+*§ 16-17 Enforceability.* ::
+
+
+If any clause, sentence, paragraph, subdivision, section, Rule or other part of this chapter shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, Rule or other part thereof directly involved in the controversy in which such judgment shall have been rendered.
+
+
 
 
 
