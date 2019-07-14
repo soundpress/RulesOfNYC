@@ -3485,30 +3485,30 @@ Chapter 34: Electrical Code Rules
 
 
 
-*§ 34-01 Phase-in of New Standards for Electrical Work.* ::
-
-
-In accordance with subdivision a of section 27-3024 of the administrative code, the commissioner hereby extends the date of application of the electrical code technical standards as hereinafter provided. During the period from January 1, 2003 through June 30, 2003 (the phase-in period) electrical work, including low voltage electrical work, may be performed either in accordance with the electrical code technical standards adopted pursuant to section 27-3024 of the administrative code or in accordance with the standards set forth in subchapter 2 of chapter 3 of title 27 of the administrative code as in effect prior to January 1, 2003, and the Bulletins, Code Committee Interpretations and rules issued pursuant to such subchapter (the old electrical code) at the option of the licensed master or special electrician or other authorized person performing the work. On and after July 1, 2003 all electrical work shall be performed in accordance with the electrical code technical standards.
+*§ 34-01 Phase-in of New Standards for Electrical Work. [Repealed]* ::
 
 
 
 
 
 
-*§ 34-02 Review of Applications for Electrical Permits and Certificates of Electrical Inspection During the Phase-in Period.* ::
-
-
-An application for an electrical permit or certificate of electrical inspection, including an application for the legalization of unfiled work, filed during the phase-in period shall indicate whether the application is to be reviewed in accordance with the electrical code technical standards or the old electrical code. On and after July 1, 2003 all applications, including applications for the legalization of unfiled work, shall be reviewed in accordance with the electrical code technical standards.
 
 
 
+*§ 34-02 Review of Applications for Electrical Permits and Certificates of Electrical Inspection During the Phase-in Period. [Repealed]* ::
 
 
 
-*§ 34-03 Temporary Certification to Perform Low Voltage Electrical Work.* ::
 
 
-During the phase-in period business entities engaged in the business of installing, maintaining or repairing communication, signaling, alarm or data transmission systems may continue to perform low voltage electrical work in accordance with paragraph two of subdivision a of section 27-3017 of the administrative code pending the adoption of rules setting forth the requirements and procedure for the certification of low voltage in- stallers.
+
+
+
+
+*§ 34-03 Temporary Certification to Perform Low Voltage Electrical Work. [Repealed]* ::
+
+
+
 
 
 
@@ -3529,138 +3529,12 @@ Electrical Code Technical Standards. The term "Electrical Code Technical Standar
 
 
 
-*§ 34-05 Electrical Advisory Board.* ::
+*§ 34-05 Electrical Advisory Board. [Renumbered]* ::
 
 
-a. In accordance with section 27-3005(a)(7) of the Administrative Code, the Commissioner shall appoint a special board, to be known as the "electrical advisory board." The electrical advisory board shall provide advice regarding (i) the approval of the use of electrical appliances, devices, and materials not otherwise approved for use by the Electrical Code, (ii) the granting of approval to use wiring or appliances not otherwise allowed by the Electrical Code Technical Standards and (iii) the granting of approval for specified types of electrical installations. The members of the board shall be appointed annually and shall serve at the pleasure of the Commissioner. The number of members and their organizational affiliations shall be at the discretion of the Commissioner. The board shall have a Chair and Vice-Chair appointed annually by the Commissioner.
 
-b. Electrical advisory board review shall be required in the following circumstances:
 
-   (1) Electrical installations.
-
-      (a) Electrical advisory board review shall be required where service equipment totals 1,000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1,000 KVA or greater, as further detailed below:
-
-         (A) A new installation of equipment totaling 1,000 KVA or higher;
-
-         (B) Any change in an installation with a rating of 1,000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
-
-         (C) Any addition to an existing installation which would bring the total to 1,000 KVA or higher.
-
-         (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
-
-         (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1,000 KVA installation.
-
-      (b) Electrical advisory board review shall be required where proposed electrical installations involve appliances and materials not covered by the Electrical Code Technical Standards.
-
-   (2) Electrical equipment or materials. Electrical advisory board review shall be required for manufactured wiring systems, low voltage lighting systems, painting equipment/spray booths, and electrical equipment not specifically addressed in the Electrical Code Technical Standards and any other electrical equipment not bearing the label of approval of an electrical testing laboratory acceptable to the Commissioner.
-
-c. Filing requirements for electrical advisory board review.
-
-   (1) Filing requirements for Electrical Installations 1,000 KVA or Greater, or New or Revised Installations above 600 Volts:
-
-      (a) A cover letter, payment as specified in (d) below, and 2 sets of complete drawings shall be filed at:
-
-            DEPARTMENT OF BUILDINGS            Bureau of Electrical Control             (address provided in the City's website, http://www.nyc.gov)
-
-      (b) Submission shall be made by a New York City Licensed Master or Special Electrician, a New York State Licensed Professional Engineer, or an individual with comparable qualifications from an outside jurisdiction.
-
-      (c) A filing fee of $650.00 shall be paid for each submission, no part of which shall be refundable.
-
-      (d) Payment shall be made by a money order or corporate/business check, a bank check or a certified check, and shall be made payable to "Department of Buildings."
-
-      (e) Requirements for plans and drawings. All submissions for electrical advisory board review for service equipment totaling 1,000 KVA or more or above 600 Volts shall include the following plans/drawings:
-
-            -  One line diagram
-
-            -  Plan view/service equipment room layout
-
-            -  Physical details of switchboard &amp; distribution panel equipment as per the following requirements:
-
-         (A) All drawings shall be clear, legible, and use standard notations. All drawings shall be folded to 8 1/2" × 11", except for equivalent electronic versions authorized by the Department.
-
-         (B) Installations that are not all new shall clearly mark what is new and what is existing. In addition, all new work shall be encircled by a `bubble' or `cloud' on the drawings.
-
-         (C) For residential installations, the calculations justifying a de-rating of the neutral shall be submitted.
-
-         (D) The plan view shall be drawn to scale, showing the point of service entrance into the building. If the building sets back from the property line, the underground service feeder shall be shown, including wire and raceway sizes.
-
-         (E) The arrangement of service equipment and its proximity to the point of service entrance shall be shown, complete with details of the equipment, and the manner in which service will be extended to the service equipment. If the switchboard is free standing, the clearance around the switchboard shall be shown.
-
-         (F) The location of the main switchboard and/or distribution panels in relation to the service equipment and how they are interconnected shall be shown.
-
-         (G) The location of the electric service room with respect to the surrounding areas shall be shown.
-
-         (H) The means of egress from the switchboard room and where it leads to shall be shown. The legal exit(s) to which egress door(s) lead shall also be shown.
-
-         (I) When there is more than one service location within a building, drawings shall contain a notation indicating that signs are posted at the entrance door of each switchboard room showing the location of all the other switchboard rooms. The location and wording of the signs shall be specified.
-
-         (J) If the existing service equipment and/or point of service entrance is to be discontinued, the drawings shall so state.
-
-         (K) If existing service equipment is to remain in conjunction with new service equipment and is to be supplied by the same service entrance, the drawing shall indicate the make and size of the existing service equipment, the size and location of the ground strap, and the type and size of the fuses in the existing equipment.
-
-         (L) The drawing shall show grouping of service equipment at the point of service entrance.
-
-         (M) The drawing shall show ventilation of the room when the service equipment totals 2,000 KVA or larger (this may be in the form of a note on the drawing).
-
-         (N) The drawing shall show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings shall be indicated.
-
-         (O) A statement confirming that all fuses and/or circuit breakers have been coordinated for selective short circuit overcurrent protection shall be on the drawing.
-
-         (P) A one line diagram shall be submitted indicating the service equipment and the distribution equipment up to the 2nd level overcurrent protection, showing all overcurrent devices with their ampere rating, make and type, interrupting current ratings and bus and wire sizes. Frame and trip sizes for circuit breakers shall be indicated.
-
-         (Q) Drawings shall indicate that transformers are properly grounded. Service and distribution equipment proposed for future installation shall be marked on the drawings as "future."
-
-         (R) All voltages shall be clearly shown on the drawings, which shall include voltages pertaining to all of the equipment overcurrent protection up to and including the second level protection.
-
-         (S) Drawings shall note that cables used in a trough shall be grouped A, B, C, &amp; N respectively. Where troughs are used for taps, the copper detail or a description of the tap shall be noted, confirming that multiset conductors are tapped correctly.
-
-         (T) The physical size of the vertical bus in the distribution panels (second level equipment) shall be shown. The overcurrent devices, bus, barriers, and gutter space layout shall be shown. Layouts of previously approved panels (to be so noted on plans) need not be submitted.
-
-         (U) When a generator (or other non-utility source) is part of a 1,000 KVA submission and the generator itself is rated below 1,000 KVA, a one line diagram shall be submitted showing how the generator is connected to the normal service. The drawings shall include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1,000 KVA or larger, a room layout shall be submitted along with a one line diagram, and physical drawings shall show a section view of the emergency switchboard. Also, the Advisory Board calendar number for the normal service shall be specified.
-
-         (V) Physical detail drawings for switchboard equipment shall show front and section views and shall be drawn by the switchboard manufacturer. Elevation detail shall show access to the bus connections, the size and location of the main bonding jumper (ground strap), the disconnect link in the neutral, all the barriers and how load cables leave the cabinet. Side section views shall clarify bus details.
-
-         (W) Details of gutter space, lug covers and dimensions of lugs and enclosures up to the 2nd level distribution equipment shall be shown.
-
-   (2) Filing requirements for electrical advisory board review of appliances, devices, and materials not covered by the electrical code technical standards.
-
-      (a) A cover letter together with appropriate drawings, sketches, charts, and/or cut sheets shall be filed at:
-
-            DEPARTMENT OF BUILDINGS             Bureau of Electrical Control             (address provided in the City's website, http://www.nyc.gov)
-
-      (b) A filing fee of $350.00 shall be paid for each submission made where an electrical violation was issued due to failure to obtain prior Electrical Advisory Board review and approval, no part of which shall be refundable.
-
-      (c) Payment shall be made by a money order or a corporate/business check, a bank check or a certified check, and shall be made payable to "Department of Buildings."
-
-   (3) Filing requirements for electrical advisory board review of electrical equipment and materials.
-
-      (a) The submission, including a cover letter and check, shall be filed at the following location only:
-
-            DEPARTMENT OF BUILDINGS             Bureau of Electrical Control Advisory Board             (address provided in the City's website, http://www.nyc.gov)
-
-      (b) A filing fee of $200.00 shall be paid for each submission, no part of which shall be returned.
-
-      (c) Payment shall be made by either money order, bank check, certified check or corporate/business check. The payment instrument shall be made payable to "Department of Buildings."
-
-      (d) The submission shall contain the following:
-
-         (A) A cover letter indicating the following:
-
-            (i) Type/model numbers of material/equipment being submitted for approval.
-
-            (ii) Items included in support of the submittal.
-
-            (iii) Explanatory information/comments, if applicable.
-
-         (B) A completed &amp; notarized application review.
-
-         (C) Two (2) brochures, or catalog data sheets, and a set of unmounted photographs or photographs transmitted electronically as authorized by the Department.
-
-         (D) A complete test report that includes a conclusion sheet from a laboratory acceptable to the Commissioner.
-
-         (E) Equipment samples only when requested by the Electrical Advisory Board.
-
-d. Compliance with the Energy Conservation Construction Code of New York State ("Energy Code"). All submissions made to the Electrical Advisory Board shall comply with the requirements of the Energy Code where applicable.
+* Editor's note: See 1 RCNY § 4000-01 for current provisions.
 
 
 
@@ -11655,8 +11529,130 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 
-Chapter 4000: Electrical Code [Repealed]
+Chapter 4000: Electrical Code
 --------------------------------------------------
+
+
+
+*§ 4000-01 Electrical work review.* ::
+
+
+(a) Electrical review. Electrical review is required in the following circumstances:
+
+   (1) Electrical installations. Electrical review is required where service equipment totals 1000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1000 KVA or greater, as further detailed below:
+
+      (A) A new installation of equipment totaling 1000 KVA or higher;
+
+      (B) Any change in an installation with a rating of 1000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
+
+      (C) Any addition to an existing installation which would bring the total to 1000 KVA or higher.
+
+      (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
+
+      (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 KVA installation.
+
+   (2) Electrical equipment. Electrical review is required for electrical equipment not specifically addressed in the Electrical Code Technical Standards and any other electrical equipment not bearing the label of approval of an electrical testing laboratory acceptable to the Commissioner.
+
+(b) Filing requirements.
+
+   (1) Electrical installations 1000 KVA or greater, or new or revised installations above 600 volts. Filings for electrical installations 1000 KVA or greater, or new or revised installations above 600 volts must comply with the following:
+
+      (i) Submission must be made in a manner prescribed by the Department, including electronically, by a New York State Licensed and Registered Professional Engineer, New York State Licensed and Registered Architect, or an individual with comparable qualifications from an outside jurisdiction.
+
+      (ii) A filing fee of $650.00 must be paid for each submission.
+
+      (iii) All submissions for service equipment totaling 1000 KVA or more or above 600 Volts must include the following plans/drawings:
+
+         - One line diagram
+
+         - Plan view / service equipment room layout
+
+         - Submissions must be in accordance with, and include, the following requirements:
+
+            (A) All drawings must be clear, legible, and use standard notations.
+
+            (B) Installations that are not all new must clearly mark what is new and what is existing. In addition, all new work must be encircled by a ‘bubble' or ‘cloud' on the drawings.
+
+            (C) For residential installations, the calculations justifying a de-rating of the neutral must be submitted.
+
+            (D) The plan view must be drawn to scale, showing the point of service entrance into the building. If the building sets back from the property line, the underground service feeder must be shown, including wire and raceway sizes.
+
+            (E) The arrangement of service equipment and its proximity to the point of service entrance must be shown, including the manner in which service will be extended to the service equipment. If the switchboard is free standing, the clearance around the switchboard must be shown.
+
+            (F) The location of the main switchboard and/or distribution panels in relation to the service equipment must be shown.
+
+            (G) The location of the electric service room with respect to the surrounding areas must be shown.
+
+            (H) The means of egress from the switchboard room and where it leads to must be shown. The legal exit(s) to which egress door(s) lead must also be shown.
+
+            (I) When there is more than one service location within a building, drawings must contain a notation indicating that signs are posted at the entrance door of each switchboard room showing the location of all the other switchboard rooms. The location and wording of the signs must be specified.
+
+            (J) If the existing service equipment and/or point of service entrance is to be discontinued, the drawings must so state.
+
+            (K) If existing service equipment is to remain in conjunction with new service equipment and is to be supplied by the same service entrance, the drawing must indicate the make and size of the existing service equipment, and the type and size of the fuses in the existing equipment.
+
+            (L) The drawing must show grouping of service equipment at the point of service entrance.
+
+            (M) The drawing must show ventilation of the room when the service equipment totals 2000 KVA or larger (this may be in the form of a note on the drawing).
+
+            (N) The drawing must show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings must be indicated.
+
+            (O) A statement confirming that all fuses and/or circuit breakers have been coordinated for selective short circuit overcurrent protection must be on the drawing.
+
+            (P) A one line diagram must be submitted indicating the service equipment and the distribution equipment up to the 2nd level overcurrent protection, showing all overcurrent devices with their ampere rating, make and type, interrupting current ratings and bus and wire sizes. Frame and trip sizes for circuit breakers must be indicated.
+
+            (Q) Drawings must indicate that transformers are properly grounded. Service and distribution equipment proposed for future installation must be marked on the drawings as "future."
+
+            (R) All voltages must be clearly shown on the drawings, which must include voltages pertaining to all of the equipment overcurrent protection up to and including the second level protection.
+
+            (S) When a generator (or other non-utility source) is part of a 1000 KVA submission and the generator itself is rated below 1000 KVA, a one line diagram must be submitted showing how the generator is connected to the normal service. The drawings must include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1000 KVA or larger, a room layout must be submitted along with a one line diagram.
+
+      (iv) A selective coordination report prepared by a professional engineer must be filed with the Department prior to electrical inspection. Such engineer may be different from the applicant.
+
+      (v) Where installation of equipment differs from the original approved drawings, amended drawings showing the as-built condition must be filed with the Department prior to electrical inspection.
+
+   (2) Special permission. Request for special permission must be made electronically and comply with the following:
+
+      (i) Demonstrate practical difficulty and provide supporting documentation.
+
+      (ii) Proposed equally safe alternative methods must be included.
+
+      (iii) A filing fee of $350.00 must be paid for each submission made where an objection was issued due to failure to obtain prior special permission.
+
+   (3) Office of Technical Certification and Research ("OTCR") review. Filings for OTCR review of electrical equipment not otherwise approved for use by the New York City electrical code must comply with the following:
+
+      (i) The submission, including a cover letter, notarized application and check, must be filed with OTCR or electronically, as the Commissioner may require.
+
+      (ii) A filing fee of $600.00 must be paid for each submission.
+
+      (iii) Payment must be made" in a form and manner as provided by the Commissioner.
+
+      (iv) The submission must contain the following:
+
+         (A) A cover letter indicating the following:
+
+            1. Type/model numbers of material/equipment being submitted for approval.
+
+            2. Items included in support of the submittal.
+
+            3. Explanatory information/comments, if applicable.
+
+         (B) A completed and notarized application for review.
+
+         (C) Two (2) brochures, or catalog data sheets, and a set of unmounted photographs or photographs.
+
+         (D) A complete test report that includes a conclusion sheet from a laboratory acceptable to the Commissioner.
+
+         (E) Equipment samples only when requested by OTCR.
+
+(c) Compliance with the New York City Energy Conservation Code. All electrical submissions must comply with the requirements of the Energy Conservation Code where applicable.
+
+
+
+* Editor's note: Formerly 1 RCNY § 34-05.
+
+
+
 
 
 

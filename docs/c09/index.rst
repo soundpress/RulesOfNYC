@@ -17783,7 +17783,8 @@ Chapter 33: Filing of Income and Expense Statements
 
 (a) Monetary penalties.
 
-   (1) Owners of income-producing property who fail to file an income and expense statement by the first day of June, or in the event of an extension, by the extended due date, shall be subject to a penalty in accordance with the monetary penalty schedule set forth below. The final actual assessed valuation for the property promulgated in the calendar year in which the income and expense statement is required to be filed will be used to determine monetary penalties.
+   (1) Owners of income-producing property who fail to file an income and expense statement by the first day of June, or in the event of an extension, by the extended due date, shall be subject to a penalty in accordance with the monetary penalty schedule set forth below, except as set forth in paragraph (2) of this subdivision. The final actual assessed valuation for the property promulgated in the calendar year in which the income and expense statement is required to be filed will be used to determine monetary penalties. 
+										
 
  
 
@@ -17815,7 +17816,7 @@ Chapter 33: Filing of Income and Expense Statements
 
  
 
-   (2) [Reserved.]
+   (2) Owners of income-producing property who fail to file an income and expense statement for three consecutive years shall be subject to a penalty of five percent of the final actual assessed value for the property promulgated in the calendar year in which such a statement was to be filed.
 
    (3) [Reserved.]
 
@@ -17838,6 +17839,8 @@ Chapter 33: Filing of Income and Expense Statements
 (b) Denial of tax commission hearing. The Department of Finance shall provide to the Tax Commission a list of the income-producing properties whose owners failed to file an income and expense statement for use by the Tax Commission in determining if a hearing on any objection to the assessment of property shall be denied by the Tax Commission, pursuant to § 11-208.1, subdivision d, paragraph (2) of the Administrative Code.
 
 (c) Subpoena of income and expense data. In the event that an income and expense statement has not been timely filed pursuant to 19 RCNY § 33-02, the Commissioner of Finance may compel by subpoena the production of the books and records of the owner relevant to the income and expenses of the property, and may make an application to any court of competent jurisdiction for an order compelling the owner to furnish the required income and expense statement.
+
+
 
 
 
