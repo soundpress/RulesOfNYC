@@ -1352,7 +1352,7 @@ Chapter 5: Handgun Licenses
 
 As used in this chapter, the term "handgun" shall mean a pistol or revolver. This section contains a description of the various types of handgun licenses issued by the Police Department. 38 RCNY § 5-09 contains a description of the procedure for obtaining an exemption from New York State Penal Law Article 265, allowing pre-license possession of a handgun for the purpose of possessing and using a handgun for instructional purposes with a certified instructor in small arms at an authorized small arms range/shooting club.
 
-(a) Premises License – Residence or Business. This is a restricted handgun license, issued for a specific business or residence location. The handgun shall be safeguarded at the specific address indicated on the license. This license permits the transporting of an unloaded handgun directly to and from an authorized small arms range/shooting club, secured unloaded in a locked container. Ammunition shall be carried separately.
+(a) Premises License – Residence or Business. This is a restricted handgun license, issued for a specific business or residence location. The handgun shall be safeguarded at the specific address indicated on the license, except when the licensee transports or possesses such handgun consistent with these Rules.
 
 (b) Carry Business License. This is an unrestricted class of license which permits the carrying of a handgun concealed on the person. In the event that an applicant is not found by the License Division to be qualified for a Carry Business License, the License Division, based on its investigation of the applicant, may offer a Limited Carry Business License or a Business Premises License to an applicant.
 
@@ -1365,6 +1365,8 @@ As used in this chapter, the term "handgun" shall mean a pistol or revolver. Thi
    (1) Special Carry Business License. This is a special license, permitting the carrying of a concealed handgun on the person while the licensee is in New York City.
 
    (2) Special Carry Guard License/Gun Custodian License. These are restricted types of special licenses that permit the carrying of a concealed handgun on the person only when the licensee is actually engaged in the performance of her/his duties as a security guard or gun custodian.
+
+
 
 
 
@@ -1661,7 +1663,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
    (15) Any misuse of the purpose for which the license was issued, or any action or misconduct on the part of the licensee which may constitute just cause, shall result in the suspension or revocation of the license.
 
-   (16) Except for licensees with unrestricted Carry Business licenses or Special Carry Business Licenses, a licensee wishing to transport her/his handgun to a gunsmith shall request permission in writing from the Division Head, License Division. Authorization shall be provided in writing. The licensee shall carry this authorization with her/him when transporting the handgun to the gunsmith, and shall transport the handgun directly to and from the gunsmith. The handgun shall be secured unloaded in a locked container during transport.
+   (16) Except for licensees with unrestricted Carry Business licenses or Special Carry Business Licenses, a licensee wishing to transport her/his handgun to a gunsmith or a dealer in firearms shall request permission in writing from the Division Head, License Division. Authorization shall be provided in writing. The licensee shall carry this authorization with her/him when transporting the handgun to the gunsmith or the dealer in firearms, and shall transport the handgun directly to and from the gunsmith or the dealer in firearms. The handgun shall be secured unloaded in a locked container during transport.
 
    (17) Licensees shall cooperate with all reasonable requests by the Police Department for information and assistance in matters relating to the license.
 
@@ -1700,6 +1702,8 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
+
+
 *§ 5-23 Types of Handgun Licenses.* ::
 
 
@@ -1707,11 +1711,21 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
    (1) The handguns listed on this license may not be removed from the address specified on the license except as otherwise provided in this chapter.
 
-   (2) The possession of the handgun for protection is restricted to the inside of the premises which address is specified on the license.
+   (2) The possession of the handgun is restricted to the inside of the premises which address is specified on the license or to any other location to which the licensee is authorized to transport such handgun in accordance with these Rules.
 
-   (3) To maintain proficiency in the use of the handgun, the licensee may transport her/his handgun(s) directly to and from an authorized small arms range/shooting club, unloaded, in a locked container, the ammunition to be carried separately.
+   (3) The licensee may transport the handgun(s) listed on her/his license, unloaded, in a locked container, the ammunition to be carried separately, directly to and from the following locations:
+
+      (i) Another residence, or place of business, of the licensee where the licensee is authorized to possess such handgun. Such residence or place of business may be within or outside New York City.
+
+      (ii) A lawful small arms range/shooting club or lawful shooting competition. Such range, club, or competition may be within or outside New York City.
 
    (4) A licensee may transport her/his handgun(s) directly to and from an authorized area designated by the New York State Fish and Wildlife Law and in compliance with all pertinent hunting regulations, unloaded, in a locked container, the ammunition to be carried separately, after the licensee has requested and received a "Police Department – City of New York Hunting Authorization" Amendment attached to her/his license.
+
+   (5) A licensee may transport her/his handgun(s), unloaded, in a locked container, without ammunition, to or from the offices of the License Division, or the licensee’s local police precinct, as authorized by these Rules.
+
+   (6) When purchasing a handgun in accordance with 38 RCNY § 5-25, a licensee may transport the handgun, unloaded, in a locked container, the ammunition to be carried separately, directly from the place of purchase to the address specified on the license.
+
+   (7) Transport within New York City pursuant to Paragraph (3), (4), (5), or (6) of this subdivision shall be continuous and uninterrupted.
 
 (b) Carry Business License. This is an unrestricted class of license which permits the carrying of a handgun concealed on the person.
 
@@ -1724,6 +1738,8 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
    (1) Special Carry Business. This is a class of special license permitting the carrying of a concealed handgun on the person while the licensee is in New York City.
 
    (2) Special Carry Guard License/Gun Custodian License. These are restricted types of Special Carry Licenses. The handgun listed on the license may only be carried concealed on the licensee's person while the licensee is actively on duty and engaged in the work assignment which formed the basis for the issuance of the license. The licensee may only transport the handgun concealed on her/his person when travelling directly to and from home to a work assignment.
+
+
 
 
 
@@ -4192,6 +4208,10 @@ This chapter shall apply to all persons who transport or deliver one or more wea
    (5) how the shipment shall be secured during its stay in the City. In the case of such delay, the officer receiving such notice may direct the vehicle operator to take reasonably necessary measures to secure the weapons shipment, or the officer may seize and secure the weapons until such time that the shipper makes alternative arrangements which are acceptable to the officer.
 
 (b) the shipment or delivery of five (5) or fewer weapons from one licensed weapons dealer located in New York City directly to another licensed weapons dealer located in New York City. However, the manner of storage of such weapons during their transportation shall be in compliance with 38 RCNY § 16-05.
+
+(c) transport pursuant to 38 RCNY § 5-23(a)(3), (4), (5), or (6)
+
+
 
 
 

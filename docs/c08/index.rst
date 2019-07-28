@@ -32,9 +32,13 @@ Exempt business. The term "exempt business" means a business granted an exemptio
 
 Former principal. The term "former principal" means a person or entity which was formerly a principal of the applicant business at any time during the ten year period preceding the filing of an application or registration pursuant to this chapter.
 
+Labor union or labor organization. “Labor union” or “labor organization” shall mean a union or organization that represents or seeks to represent for purposes of collective bargaining employees directly involved in the collection, removal, transportation or disposal of trade waste.
+
 Licensee. The term "licensee" means a business issued a license by the Commission.
 
 Material change. The term "material change" means a change in any information provided in response to an item identified by an asterisk on an application or disclosure form submitted to the Commission.
+
+Officer. “Officer” shall mean any person holding an elected position or any other position involving participation in the management or control of a labor union or labor organization required to register pursuant to § 16-505 of the Code.
 
 Organic Waste. The term "Organic Waste" has the same meaning as set forth in section 16-303 of the Administrative Code of the City of New York, except that organic waste does not include food that is donated to a third party, food that is sold to farmers for feedstock, or meat byproducts that are sold to a rendering company.
 
@@ -44,7 +48,7 @@ Principal. The term "principal" means, of a sole proprietorship, the proprietor;
 
 Recyclables. The term "recyclables" means those materials defined in subdivision i of section 16-303 of the Code.
 
-Registrant. The term "registrant" means a business required to be registered with the Commission or issued a registration from the Commission. "Class 1 Registrant" means a business required to register pursuant to subdivision b of section 16-505 of the Code in order to remove, collect or dispose of trade waste that is generated in the course of operation of such business. "Class 2 Registrant" means a trade waste broker required to register with the Commission and an exempt business issued a registration by the Commission pursuant to such subdivision.
+Registrant. The term "registrant" means a business, labor union, or labor organization required to be registered with the Commission or issued a registration from the Commission. "Class 1 Registrant" means a business required to register pursuant to subdivision b of section 16-505 of the Code in order to remove, collect or dispose of trade waste that is generated in the course of operation of such business. "Class 2 Registrant" means a trade waste broker required to register with the Commission and an exempt business issued a registration by the Commission pursuant to such subdivision. “Class 3 Registrant” means a labor union or labor organization required to register pursuant to subdivision c of section 16-505 of the Code.
 
 Special trade waste district. The term "special trade waste district" means a district established by the Commission pursuant to section 16-523 of the Code.
 
@@ -491,6 +495,50 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
    (3) If an application for renewal of a Class 1 registration or a Class 2 trade waste broker registration is not submitted to the Commission within the time required by the Commission, the Commission may reject the renewal application and require the applicant to file a new application for a Class 1 Registration or a Class 2 Trade Waste Broker Registration. If a new application is required by the Commission, the provisions pertaining to the application process as set forth in Chapter 1 of Title 16-A of the Code and of this subchapter shall apply.
 
+(d) Class 3 Labor Union and Labor Organization Registration Application.
+
+   (1) An application for a labor union or labor organization registration pursuant to section 16-505 of the Code, or for a renewal of such registration, shall be made on a form prescribed by the Commission. The application shall be certified under penalty of perjury and signed by all officers of the applicant. The application shall include, but not be limited to, the following information:
+
+      (i) the names of all officers and agents and the names of all individuals who were officers and agents within the previous five years;
+
+      (ii) a business telephone number and a business address within the City of New York where notices may be delivered and legal process may be served;
+
+      (iii) a listing of any collective bargaining agreement to which the applicant and a trade waste licensee or registrant are signatories;
+
+      (iv) a Federal or State tax identification number;
+
+      (v) a listing of any civil or criminal actions pending against such union or labor organization in any jurisdiction, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law;
+
+      (vi) all criminal convictions, in any jurisdiction, of such labor union or labor organization, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law;
+
+      (vii) any criminal or civil investigation of such labor union or labor organization by a federal, state or local prosecutorial, investigative or regulatory agency;
+
+      (viii) all civil or administrative proceedings to which such labor union or labor organization has been a party involving allegations of racketeering, including but not limited to offenses listed in subdivision nineteen hundred sixty-one of the Racketeer Influenced and Corrupt Organization statute (18 U.S.C. §§ 1961 et seq.) or of an offense listed in subdivision one of section 460.10 of the penal law, as such statutes may be amended from time to time;
+
+      (ix) any judicial or administrative consent decrees entered into by such labor union or labor organization in the five-year period preceding the date of the application; and
+
+      (x) the appointment of any independent auditor, monitor, receiver, administrator or trustee to oversee any activities of such labor union or labor organization in the five-year period preceding the date of the application. Notwithstanding the foregoing, no labor union or labor organization shall be required to furnish information pursuant to this subdivision which is already included in a report filed by the labor union or labor organization with the Secretary of Labor pursuant to 29 U.S.C. §§ 431 et seq. or 29 U.S.C. §§ 1001 et seq. if a copy of such report, or of the portion thereof containing such information, is furnished to the Commission.
+
+   (2) In addition to and concurrent with the application required by 17 RCNY § 2-05(d)(1), each officer of the applicant must pay the fee of six hundred ($600) dollars for a background investigation and must inform the Commission, on a form prescribed by the Commission and certified under penalty of perjury by the officer, of:
+
+      (i) all criminal convictions, in any jurisdiction, of the officer;
+
+      (ii) any pending civil or criminal actions to which the officer is a party; and
+
+      (iii) any criminal or civil investigation by a federal, state, or local prosecutorial agency, investigative agency or regulatory agency, in the five-year period preceding the date of the application pursuant to subdivision (1) of this section and at any time subsequent to such registration, wherein any officer has (A) been the subject of such investigation, or (B) received a subpoena requiring the production of documents or information in connection with such investigation.
+
+   (3) Any labor union or organization that represents employees directly involved in the collection, removal, transportation or disposal of trade waste as of July 16, 2019 must register with the Commission by October 14, 2019. Any labor union or organization that does not represent employees directly involved in the collection removal, transportation or disposal of trade waste as of July 16, 2019 and that seeks to represent such employees subsequent to such date must first register with the Commission.
+
+   (4) Notwithstanding any provision of this subchapter, where there is reasonable cause for the Commission to believe that an officer of a labor union or labor organization does not possess good character, honesty and integrity, the Commission may require that such officer be fingerprinted by a person designated for such purpose by the Commission, pay the fee prescribed by the Division of Criminal Justice Services and/or the Federal Bureau of Investigation for the purpose of obtaining criminal history records, and provide to the Commission any additional information the Commission may require.
+
+   (5) After providing notice and opportunity to be heard, the Commission may disqualify an officer of a labor union or labor organization from holding office based on the grounds set forth in section 16-509(g) of the Code.
+
+   (6) Nothing in this subdivision shall be construed to require registration with the Commission of a:
+
+      (i) labor union or labor organization representing or seeking to represent clerical or other office workers; or
+
+      (ii) an affiliated national or international labor union of local labor unions required to register pursuant to section 16-505 of the Code.
+
 
 
 
@@ -521,7 +569,9 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
    (2) For any crash required to be reported pursuant to Subparagraph (iv) of Paragraph (1) of this Subdivision, an applicant for registration or registrant must provide the Commission with a copy of the Report of Motor Vehicle Accident (MV-104) and any other forms filed with the New York State Department of Motor Vehicles within ten (10) business days from the date by which such applicant or registrant is required to file the forms with such department.
 
-(c) Notification pursuant to Paragraphs (1), (6), (7) and (8) of Subdivision (a) and Subparagraphs (i), (ii) and (vii) of Paragraph (1) of Subdivision (b) of this section must be sworn and notarized and must be signed by all persons participating directly or indirectly in the control of the applicant business and by: the proprietor of an applicant if the applicant is a sole proprietorship; every officer and director and stockholder holding ten (10) percent or more of the outstanding shares of a corporation, if the applicant is a corporation; all the partners, if the applicant is a partnership; the chief operating officer or chief executive officer, irrespective of organizational title and all persons or entities having an ownership interest of ten (10) percent or more if the applicant is any other type of business entity. Notification pursuant to Paragraph (1) of Subdivision (a) of this section must be sworn and notarized and must be signed by the chief operating officer or chief executive officer, irrespective of organizational title, of the applicant or licensee, as the case may be.
+(c) Any material change in the information submitted pursuant to 17 RCNY § 2-04(d)(1) or 17 RCNY § 2-04(d)(2) shall be reported to the Commission by such labor union or labor organization or officer, in a signed and notarized writing, within ten (10) business days thereof.
+
+(d) Notification pursuant to Paragraphs (1), (6), (7) and (8) of Subdivision (a) and Subparagraphs (i), (ii) and (vii) of Paragraph (1) of Subdivision (b) of this section must be sworn and notarized and must be signed by all persons participating directly or indirectly in the control of the applicant business and by: the proprietor of an applicant if the applicant is a sole proprietorship; every officer and director and stockholder holding ten (10) percent or more of the outstanding shares of a corporation, if the applicant is a corporation; all the partners, if the applicant is a partnership; the chief operating officer or chief executive officer, irrespective of organizational title and all persons or entities having an ownership interest of ten (10) percent or more if the applicant is any other type of business entity. Notification pursuant to Paragraph (1) of Subdivision (a) of this section must be sworn and notarized and must be signed by the chief operating officer or chief executive officer, irrespective of organizational title, of the applicant or licensee, as the case may be.
 
 
 
@@ -543,7 +593,7 @@ A license or registration issued by the Commission pursuant to this subchapter s
 *§ 2-07 Terms and Fees.* ::
 
 
-The term of a license or registration shall be two (2) years. The fee for investigation of a license applicant shall be five thousand dollars ($5,000), and the fee for each vehicle in excess of one (1) operated, pursuant to a license shall be five hundred dollars ($500). The fee for investigation of a Class 2 registration applicant, pursuant to 17 RCNY § 2-03 shall be three thousand and five hundred dollars ($3,500), and the fee for each vehicle operated, pursuant to a Class 2 registration shall be five hundred dollars ($500). The fee for investigation of a Class 1 registration applicant shall be one thousand dollars ($1,000), and the fee for each vehicle operated, pursuant to a Class 1 registration shall be four hundred dollars ($400). There shall be no fee for a Class 1 registrant that is a Not-For-Profit Corporation. The fee for investigation of a trade waste broker registration application shall be five thousand dollars ($5,000).
+The term of a license or Class 1 or Class 2 registration shall be two (2) years. The fee for investigation of a license applicant shall be five thousand dollars ($5,000), and the fee for each vehicle in excess of one (1) operated, pursuant to a license shall be five hundred dollars ($500). The fee for investigation of a Class 2 registration applicant, pursuant to 17 RCNY § 2-03 shall be three thousand and five hundred dollars ($3,500), and the fee for each vehicle operated, pursuant to a Class 2 registration shall be five hundred dollars ($500). The fee for investigation of a Class 1 registration applicant shall be one thousand dollars ($1,000), and the fee for each vehicle operated, pursuant to a Class 1 registration shall be four hundred dollars ($400). There shall be no fee for a Class 1 registrant that is a Not-For-Profit Corporation. The fee for investigation of a trade waste broker registration application shall be five thousand dollars ($5,000). The term of a Class 3 registration shall be five (5) years. The fee for investigation of a Class 3 registration applicant shall be four thousand dollars ($4,000).
 
 
 
@@ -1813,6 +1863,27 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 (b) A registrant must maintain all Report of Motor Vehicle Accident (MV-104) forms and any other forms that the registrant is required to file with the New York State Department of Motor Vehicles related to a crash.
 
 (c) A registrant must maintain all determinations by any Federal, State, or Local governmental agency or authority against such registrant, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority.
+
+
+
+
+
+
+
+
+
+**Subchapter H: Workers’ Rights Information**
+
+
+
+*§ 8-01 Display and Distribution of Workers’ Rights Information.* ::
+
+
+(a) Each licensee or registrant shall post and keep posted a notice, to be provided by the Commission, informing employees engaged in operating vehicles or handling trade waste information regarding the maximum number of hours such employees are permitted to work in a twenty-four hour period; the minimum wage such employees must be paid; any required worker safety trainings for such employees; information regarding what safety equipment must be provided by licensees or registrants; a description of how to contact the Commission to log a complaint; and a list of additional government agencies that accept complaints about violations of workers’ rights, including, but not limited to the New York state attorney general, the New York state department of labor, and the United States department of labor, and contact information for such agencies.
+
+(b) Licensees and registrants shall post such notice to employees in each office, garage or lot in a conspicuous place, or in a conspicuous place where notices to employees are customarily posted. Each licensee or registrant shall take steps to ensure that such notices are not altered, defaced, or covered by other material.
+
+(c) Licensees and registrants shall distribute such notice to their employees by mail and email and shall provide such notice to all new employees within 30 days of hire.
 
 
 

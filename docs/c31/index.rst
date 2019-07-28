@@ -4358,6 +4358,22 @@ This chapter applies to all charges of violations of any laws, rules and regulat
 
 
 
+*§ 5-01a Appearances* ::
+
+
+(a) Appearances by Respondent. A Respondent’s appearance at a hearing is timely if the Respondent appears and is ready to proceed no more than ninety (90) minutes after the scheduled hearing time.
+
+(b) Appearances by Petitioner. If the Petitioner fails to appear within thirty (30) minutes of the timely appearance of the Respondent and does not make a timely request to reschedule the hearing pursuant to 48 RCNY § 6-05, the Tribunal will dismiss the summons.
+
+(c) If the hearing does not begin within three (3) hours of the timely appearance of both the Respondent and the Petitioner, the Tribunal will dismiss the summons without prejudice.
+
+
+
+
+
+
+
+
 *§ 5-02 Respondent's Right to Confront Complaining Witness* ::
 
 
@@ -4389,15 +4405,17 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 *§ 5-04 Appeals* ::
 
 
-(a) Pursuant to Administrative Code § 19-506.1(c), a Respondent will not be required to pay the fines, penalties, or restitution imposed in the decision in order to file an appeal.
+(a) If a Hearing Officer issues a decision imposing a reduced penalty pursuant to 48 RCNY § 5-06(c), the party seeking to appeal the Hearing Officer’s underlying decision must file an appeal with the Tribunal within fifty (50) days of the date of the decision.
 
-(b) Expedited appeals. Either party may appeal a decision pursuant to 48 RCNY § 6-19. Where the appeal involves the suspension or revocation of a TLC-issued license, the Appeals Unit will issue an expedited decision.
+(b) Pursuant to Administrative Code § 19-506.1(c), a Respondent will not be required to pay the fines, penalties, or restitution imposed in the decision in order to file a timely appeal.
 
-(c) A party responding to a request for appeal where the appeal involves the suspension or revocation of a TLC-issued license must file the response with the Tribunal within seven (7) days after being served with the appeal. The responding party must also serve a copy of the response on the appealing party, and file proof of such service with the Tribunal.
+(c) Expedited appeals. Either party may appeal a decision pursuant to 48 RCNY § 6-19. Where the appeal involves the suspension or revocation of a TLC-issued license, the Appeals Unit will issue an expedited decision.
 
-(d) Requests for hearing recording. Pursuant to Administrative Code § 19-506.1(d), if a Respondent appealing a decision requests in writing a copy of the hearing recording, the recording will be produced to the Respondent within thirty (30) days after receipt of the request. If the recording cannot be produced within the thirty (30) day period, the determination being appealed will be dismissed without prejudice.
+(d) A party responding to a request for appeal where the appeal involves the suspension or revocation of a TLC-issued license must file the response with the Tribunal within seven (7) days after being served with the appeal. The responding party must also serve a copy of the response on the appealing party, and file proof of such service with the Tribunal.
 
-(e) Finality. A decision of the Appeals Unit becomes the final determination of the Tribunal, unless either party petitions the TLC Chairperson in accordance with § 35 RCNY 68-12(c).
+(e) Requests for hearing recording. Pursuant to Administrative Code § 19-506.1(d), if a Respondent appealing a decision requests in writing a copy of the hearing recording, the recording will be produced to the Respondent within thirty (30) days after receipt of the request. If the recording cannot be produced within the thirty (30) day period, the determination being appealed will be dismissed without prejudice.
+
+(g) Finality. A decision of the Appeals Unit becomes the final determination in the case, unless either party petitions the TLC Chairperson in accordance with § 35 RCNY 68-12(c).
 
 
 
@@ -4409,7 +4427,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 *§ 5-05 Chairperson Review* ::
 
 
-(a) Scope of review. The TLC Chairperson or, if designated by the TLC Chairperson, the General Counsel for the TLC, may review any determination of the Appeals Unit that interprets any of the following:
+(a) Scope of review of appeals unit decisions. The TLC Chairperson or, if designated by the TLC Chairperson, the General Counsel for the TLC, may review any determination of the Appeals Unit that interprets any of the following:
 
    (1) A rule in Title 35 of the RCNY;
 
@@ -4432,6 +4450,32 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 (a) Summary suspension based on a failure to be timely tested for drug use. When the TLC submits to the Tribunal written documentation pursuant to 35 RCNY § 68-16(d) submitted by a Licensee, as defined in 35 RCNY § 51-03, refuting summary suspension based on a failure to be timely tested for drug use, the Tribunal will issue a decision based on the written documentation. The decision will include findings of fact and conclusions of law. The decision may be appealed in accordance with the process established in 48 RCNY § 6-19.
 
 (b) Unlicensed activity. Pursuant to § 19-529.2 of the Administrative Code, a decision on unlicensed activity with a commuter van will be issued within one (1) business day of the conclusion of the hearing or the default.
+
+(c) Discretion of Hearing Officers to reduce penalties.
+
+   (1) A Hearing Officer may, in the interest of justice, impose a reduced penalty for a violation, except for a violation of § 19-507 of the Administrative Code, after determining that such reduction in penalty is appropriate on the ground that one or more compelling considerations or circumstances clearly demonstrates that imposing such penalty would constitute or result in injustice. In determining whether such compelling consideration or circumstance exists, the Hearing Officer must, to the extent applicable, consider, individually and collectively, the following factors:
+
+      (i) The seriousness and circumstances of the violation;
+
+      (ii) The extent of harm caused by the violation;
+
+      (iii) The evidence supporting or refuting the violation charged, whether admissible or inadmissible at a hearing;
+
+      (iv) The history, character, and condition of the Respondent;
+
+      (v) The effect of imposing upon the Respondent the penalty set by the TLC;
+
+      (vi) The impact of a penalty reduction on the safety or welfare of the community;
+
+      (vii) The impact of a penalty reduction on public confidence in the TLC, the Tribunal, and the implementation of laws by the City;
+
+      (viii) The position of the Petitioner regarding the proposed fine reduction with reference to the specific circumstances of the Respondent and the violation charged; and
+
+      (ix) Any other relevant fact indicating whether a decision to impose the penalty set by the TLC on the Respondent would serve a useful purpose.
+
+   (2) Upon determining that a penalty should be reduced, the Hearing Officer will set forth in the decision the monetary penalty, if any, to be imposed on the Respondent, the amount of the reduction, and the reasons for such reduction.
+
+   (3) Within twenty (20) business days of receipt of the Hearing Officer's decision, the TLC Chairperson or the Chairperson's designee may, upon determining that such decision is not in the interest of justice, pursuant to the factors set forth in Paragraph (1) of this subdivision, re-impose the full penalty demanded by the TLC or increase the penalty imposed by the Hearing Officer.
 
 
 
@@ -5692,9 +5736,7 @@ Chapter 7: [Community Service Program]
 
 As used in this chapter:
 
-“Community Service” means the performance of a service for a public entity or not-for-profit corporation in place of payment of a monetary civil penalty. Performance of a service may include attendance at a program, either in person or web-based, authorized by OATH that is designed to benefit, improve, or educate either the community or the Respondent.
-
-“Community Service Provider” is an entity contracted by OATH to manage Community Service.
+“Community Service” means the performance of a service for a public entity or not-for-profit corporation, association, institution, or agency, in place of payment of a monetary civil penalty. Performance of a service may include attendance at a program, either in person or web-based, authorized by OATH that is designed to benefit, improve, or educate either the community or the Respondent. Community Service includes OATH’s online community service course, which may be completed to satisfy a one- or two-hour Community Service requirement.
 
 “Decision” is a decision of a Hearing Officer sustaining or dismissing a charge and containing findings of fact and conclusions of law.
 
@@ -5714,7 +5756,7 @@ As used in this chapter:
 *§ 7-02 Eligibility for Community Service.* ::
 
 
-(a) Except as provided in subdivision (c), a Respondent who admits the charge or is found responsible at a hearing for any Specified Violation can perform Community Service instead of paying a monetary civil penalty. The Specified Violations, monetary civil penalties, and corresponding Community Service hour requirements are found below: 
+(a) Except as provided in subdivision (c), a Respondent who admits the charge on or before a hearing date or is found responsible after a hearing for any Specified Violation can perform Community Service instead of paying a monetary civil penalty. The Specified Violations, monetary civil penalties, and corresponding Community Service hour requirements are found below: 
 										
 
  
@@ -6065,7 +6107,7 @@ As used in this chapter:
 
  
 
-(b) A Respondent is eligible for Community Service if the Respondent appears in person before a Hearing Officer and admits to a Specified Violation alleged in a summons, or if the Specified Violation is sustained at a hearing. Respondent need not opt for community service at the time of the hearing.
+(b) A Respondent is eligible for Community Service if the Respondent admits to a Specified Violation alleged in a summons before a hearing date, or if the Specified Violation is sustained after a hearing. A Respondent may admit to a Specified Violation at a hearing, in which case the Specified Violation will be sustained against the Respondent.
 
 (c) A Respondent is not eligible for Community Service if the Specified Violation arose during the conduct of commercial activity or activity carried out for a commercial purpose, except when the commercial activity alleged is a violation of Administrative Code § 18-146(c)(15).
 
@@ -6079,9 +6121,17 @@ As used in this chapter:
 *§ 7-03 Choosing Community Service.* ::
 
 
-(a) A Respondent eligible for Community Service as set forth in 48 RCNY § 7-02 will receive a Decision that gives Respondent the option either to complete Community Service by a specified date or to pay the applicable monetary civil penalty. If the Respondent wants to perform Community Service, the Respondent must contact the Community Service Provider to schedule Community Service.
+(a) Community Service After a Hearing.
 
-(b) If the Respondent fails to complete the Community Service as set forth in 48 RCNY §§ 7-04 and 7-05, the applicable monetary civil penalty will be reinstated. The monetary civil penalty will be due and owing thirty (30) days from the date of the Decision, or thirty-five (35) days if the Decision is mailed.
+   (1) If a Respondent is eligible for Community Service because the Specified Violation is sustained after a hearing as described in 48 RCNY § 7-02, the Respondent will receive a Decision that gives the Respondent the option either to complete Community Service or to pay the applicable monetary civil penalty by a specified date. If the Respondent wants to complete Community Service, the Respondent may contact OATH's Help Center to schedule Community Service. If the Decision gives the option to complete one or two-hours of Community Service, the Respondent may complete OATH's online Community Service course.
+
+   (2) If a Respondent fails to complete the Community Service as set forth in 48 RCNY §§ 7-04 and 7-05, the applicable monetary civil penalty will be reinstated. The monetary civil penalty will be due and owing thirty (30) days from the date of the Decision, or thirty-five (35) days if the Decision is mailed.
+
+(b) Admitting by Completing OATH's Online Community Service Course on or Before a Hearing Date.
+
+   (1) A Respondent who wants to admit to a Specified Violation that has a one- or two-hour community service requirement in accordance with 48 RCNY § 7-02 will have the option of admitting to the Specified Violation by completing OATH's online Community Service course on or before the hearing date. The completion of the online Community Service course constitutes an admission to the violation.
+
+   (2) If a Respondent fails on or before the hearing date to complete OATH's online Community Service course or pay the applicable monetary penalty, and does not appear at the hearing, the Respondent will be in default pursuant to 48 RCNY § 6-20.
 
 
 
@@ -6105,13 +6155,41 @@ The number of hours of Community Service imposed will correspond to the amount o
 *§ 7-05 Completion of Community Service.* ::
 
 
-(a) A Respondent must complete the Community Service assigned by the Community Service Provider.
+(a) A Respondent must complete either the Community Service assigned by OATH's Help Center or, if applicable, OATH's online Community Service course.
 
-(b) A Respondent must complete the Community Service by the date specified in the Decision, unless otherwise specified in a notice granting an extension, or an order issued, pursuant to 48 RCNY § 7-07.
+(b) Deadline to Complete Community Service.
 
-(c) A Respondent may request an extension of time to complete the Community Service through the Community Service Provider prior to the deadline to complete the Community Service specified in the Decision.
+   (1) If a Respondent is completing Community Service after a hearing was held, the Community Service must be completed by the date specified in the Decision, unless otherwise specified in a notice granting an extension, or an order issued, pursuant to 48 RCNY § 7-07.
 
-   (1) The Community Service Provider may grant a request for an extension for good cause shown. In determining whether there is good cause for an extension, the Community Service Provider will consider factors such as the following:
+   (2) If a Respondent is admitting by completing OATH's online Community Service course, the online Community Service course must be completed on or before the hearing date.
+
+(c) Certificate of Completion.
+
+   (1) Within two (2) days after the specified date of completion in a Decision, a notice granting an extension, or an order issued, pursuant to 48 RCNY § 7-07, the Help Center must provide to Respondent either:
+
+      (A) a Certificate of Completion indicating that the Community Service was completed by the specified date; or
+
+      (B) a Certificate of Non-Completion indicating that the Community Service was not completed by the specified date.
+
+   (2) If a Respondent completes OATH's online Community Service course, the Respondent will receive immediate confirmation that the online Community Service course was completed.
+
+(d) If a Respondent who either receives a Certificate of Non-Completion, or does not receive immediate confirmation that the online Community Service course was completed, believes that they have timely completed Community Service, they may contact OATH's Clerk's Office. The Clerk's Office will review any information or documentation submitted in support of Respondent's claim that Community Service was completed on time. The burden of proof is on the Respondent to show timely completion of the Community Service. If the Clerk's Office finds that Community Service was completed on time, Respondent will not have to pay the monetary civil penalty.
+
+
+
+
+
+
+
+
+*§ 7-06 Extension to Complete Community Service.* ::
+
+
+(a) A Respondent may request an extension of time to complete the Community Service through the Help Center prior to the deadline to complete the Community Service specified in the Decision.
+
+(b) Extensions of time to complete Community Service are not available for Respondents who wish to admit to the Specified Violation by completing OATH’s online Community Service course on or before the hearing date.
+
+(c) (1) OATH’s Help Center may grant a request for an extension to complete Community Service for good cause shown. In determining whether there is good cause for an extension, the Help Center will consider factors such as the following:
 
       (A) The length of extension requested;
 
@@ -6123,17 +6201,9 @@ The number of hours of Community Service imposed will correspond to the amount o
 
       (E) Whether a portion of the Community Service has been completed.
 
-   (2) A denial of a request for an extension is not subject to appeal.
+   (2) A denial of a request for an extension is not subject to appeal at OATH.
 
-   (3)  A request for extension of time to complete Community Service will not extend the date by which a Respondent must pay the monetary civil penalty. If a request for an extension is denied, the Respondent must either complete the Community Service by the date specified in the Decision, or pay the applicable monetary civil penalty thirty (30) days from the date of the Decision or thirty-five (35) days if the Decision is mailed.
-
-(d) Within two (2) days after the specified date of completion in a Decision, a notice granting an extension, or an order issued, pursuant to 48 RCNY § 7-07, the Community Service Provider must provide to Respondent either:
-
-   (1) a Certificate of Completion indicating that the Community Service was completed by the specified date; or
-
-   (2) a Certificate of Non-Completion indicating that the Community Service was not completed by the specified date.
-
-(e) If a Respondent who receives a Certificate of Non-Completion believes that he or she has timely completed Community Service, he or she may contact OATH’s Clerk’s Office. The Clerk’s Office will review any information or documentation submitted in support of Respondent’s claim that Community Service was completed on time. If the Clerk’s Office finds that Community Service was completed on time, Respondent will not have to pay the monetary civil penalty.
+   (3) A request for extension of time to complete Community Service will not extend the date by which a Respondent must pay the monetary civil penalty. If a request for an extension is denied, the Respondent must either complete the Community Service by the date specified in the Decision, or pay the applicable monetary civil penalty thirty (30) days from the date of the Decision or thirty-five (35) days if the Decision is mailed.
 
 
 
@@ -6142,7 +6212,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 
 
-*§ 7-06 Respondent Appeal of a Decision After Requesting Community Service.* ::
+*§ 7-07 Respondent Appeal of a Decision After Requesting Community Service.* ::
 
 
 (a) If a Respondent who has chosen to perform Community Service instead of paying a monetary civil penalty timely appeals the Decision sustaining the Specified Violation, pursuant to 48 RCNY § 6-19, the part of the Decision ordering completion of Community Service will be stayed until a decision on the appeal is issued. A Respondent will not be required to complete the Community Service or pay the applicable monetary civil penalty in order to file an appeal.
@@ -6156,7 +6226,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 
 
-*§ 7-07 Choosing Community Service After a Specified Violation is Sustained on Agency’s Appeal.* ::
+*§ 7-08 Choosing Community Service After a Specified Violation is Sustained on Agency’s Appeal.* ::
 
 
 (a) If a decision on an appeal sustains a Specified Violation, reversing a Hearing Officer’s Decision to dismiss that violation, a Respondent may choose to perform Community Service instead of paying the monetary civil penalty. Within ten (10) days of the date of the appeal decision, the Respondent must inform OATH of his or her decision to perform Community Service by filing a request, on a form provided by OATH, with the Clerk’s Office. If the Respondent fails to do so within ten (10) days of the date of the decision on the appeal, the monetary civil penalty will be due and owing immediately.

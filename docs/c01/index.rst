@@ -9,7 +9,11 @@ Chapter 1: Rules of Practice and Procedures New York City Board of Standards and
 *§ 1-01 Purpose and Authority.* ::
 
 
-The Board of Standards and Appeals (the "Board") derives its authority from the following primary sources: New York City Charter (the "Charter"), New York City Zoning Resolution ("ZR" or the "Zoning Resolution"), New York City Administrative Code, New York State General City Law ("GCL"), and New York State Multiple Dwelling Law ("MDL"). The following rules are intended to fulfill the Board's legal mandate by providing clear and concise notice to applicants and the public at large of the rules and procedures governing the practices of the Board and requirements for filing applications at and appearing before the Board. This Section provides a summary of the Board's authority.
+The Board of Standards and Appeals (the "Board") derives its authority from the following primary sources: New York City Charter (the "Charter"), New York City Zoning Resolution ("ZR" or the "Zoning Resolution"), New York City Administrative Code, New York State General City Law ("GCL"), and New York State Multiple Dwelling Law ("MDL").
+
+The following rules are intended to fulfill the Board's legal mandate by providing clear and concise notice to applicants and the public at large of (1) the rules and procedures governing the practices of the Board; (2) requirements for filing applications at and appearing before the Board; and (3) the Board's commitment to ensuring the independence of the Board, which is crucial to the fair exercise of its authority and discretion regarding zoning and land use in the City of New York. This Section provides a summary of the Board's authority.
+
+
 
 
 
