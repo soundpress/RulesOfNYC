@@ -14948,6 +14948,303 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 
 
+Chapter 34: Tenant Interim Lease Program
+--------------------------------------------------
+
+
+
+*§ 34-01 Definitions.* ::
+
+
+Building. "Building" shall mean any City-owned multiple dwelling, other than a single room occupancy dwelling, which is occupied by Tenants.
+
+City. "City" shall mean the City of New York.
+
+Disposition. "Disposition" shall mean the sale of a Building to an HDFC.
+
+Disposition Rent Increase. "Disposition Rent Increase" shall mean the last rent set by HPD prior to Disposition.
+
+HDFC. "HDFC" shall mean a housing development fund company formed pursuant to Article XI of the Private Housing Finance Law in order to purchase a Building pursuant to these Rules.
+
+HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City.
+
+Intake Rent Increase. "Intake Rent Increase" shall mean the initial rent set by HPD upon Selection of a Building.
+
+Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, the Tenant Association and/or HDFC, and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
+
+Interim Rent Increase. "Interim Rent Increase" shall mean any rent, other than an Intake Rent Increase or a Disposition Rent Increase, set by HPD from time to time after Selection and before Disposition of a Building.
+
+Laws. "Laws" shall mean any and all applicable laws, orders, rules and regulations.
+
+Occupied Units. "Occupied Units" shall mean any lawfully occupied dwelling units leased and occupied by a Tenant in a Building.
+
+Program. "Program" shall mean the Tenant Interim Lease Program.
+
+Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
+
+Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
+
+Rules. "Rules" shall mean the Rules set forth in this chapter.
+
+Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit in a Building pursuant to a lease with the City or with a Tenant Association that has entered into a Tenant Interim Lease. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
+
+Tenant Association. "Tenant Association" shall mean an unincorporated association with elected officers that has been formed by and continues to include as members the Tenants of at least sixty percent (60%) of the Occupied Units in a Building. If there is more than one such unincorporated association, "Tenant Association" shall mean the one from which HPD accepts an application for the Program and, if applicable, the one with which HPD executes a Tenant Interim Lease.
+
+Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-month net lease of an entire Building executed by the City, as lessor, and by the Tenant Association, as lessee, following Selection of a Building.
+
+
+
+
+
+
+*§ 34-02 General.* ::
+
+
+(a)  Coverage. These Rules will govern the procedures for: selecting Buildings for the Program, leasing Buildings to the Tenant Associations, determining and establishing rent, providing notice to Tenants and terminating buildings from the Program. Buildings in the Program will be subject to these Rules, 28 RCNY Chapter 21, and 28 RCNY Chapter 24. Notwithstanding any provision of 28 RCNY Chapter 14 to the contrary, Buildings in the Program will not be subject to 28 RCNY Chapter 14.
+
+(b) Program Description. Under the Program, Buildings are net leased to Tenant Associations and subsequently sold to HDFCs that will thereafter be solely responsible for the operation of such Buildings.
+
+
+
+
+
+
+*§ 34-03 Entering the Program.* ::
+
+
+(a)  Eligible buildings. A Building may be eligible for selection for the Program if HPD makes all of the following discretionary determinations:
+
+   (1) the Building requires Rehabilitation such that it is not marketable to the private sector in its "as is" condition, and HPD funding is necessary to return the Building to the private sector; and
+
+   (2) the performance of Rehabilitation is technically feasible; and
+
+   (3) the cost of Rehabilitation is economically reasonable; and
+
+   (4) the cost of Rehabilitation is within available HPD resources; and
+
+   (5) the Building is a Class A multiple dwelling containing at least three dwelling units; and
+
+   (6) at least two of the dwelling units in the Building are Occupied Units; and
+
+   (7) the Building has not been designated by HPD for disposition through another program, except to the extent that rules promulgated by HPD for such other program explicitly authorize a withdrawal to participate in the Program; and
+
+   (8) the Building has not previously participated in the Program, unless such participation was terminated more than five years prior to the current application.
+
+(b) Application procedure; selection requirements. If HPD has determined that a Building is eligible for the Program and its assignment to the Program is in the best interests of the City, a Tenant Association may apply for selection for the Program by complying with the following standards:
+
+   (1) the Tenant Association must submit an application on a form supplied by HPD signed by
+
+      (i) the Tenants of all of the Occupied Units in a Building containing up to five dwelling units, or
+
+      (ii) the Tenants of at least sixty percent (60%) of the Occupied Units in a Building containing six or more dwelling units; and
+
+   (2) the Tenants of at least fifty percent (50%) of the Occupied Units must pay one hundred percent (100%) of the billable rent for their respective dwelling units for the three months immediately prior to the filing of the application and continuously until HPD makes a determination of Selection; and
+
+   (3) officers and members of the Tenant Association must attend training classes as directed by HPD; and
+
+   (4) the Tenant Association must notify the Tenants of a meeting at which HPD will discuss the Program. Tenants of at least fifty percent (50%) of the Occupied Units must attend the meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the meeting, the Tenant Association must notify the Tenants of a second meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the second meeting, the Building will not be considered for the Program; and
+
+   (5) HPD must determine that the Building can be managed by the Tenant Asso- ciation.
+
+(c) Notice of approval. If the application has been approved, HPD will notify the Tenant Association of such approval in a written notice by regular mail to the president of the Tenant Association. The notice of approval shall include any notice of an Intake Rent Increase, which shall be implemented thirty (30) days thereafter in accordance with subdivision (f) of this section, and HPD shall send a copy to the Tenants by regular mail. If the application has been rejected, HPD will notify the president of the Tenant Association of such rejection and the reason therefor by regular mail.
+
+(d) Post-acceptance activities. Upon acceptance of the application and prior to execution of the Tenant Interim Lease, the Tenant Association must:
+
+   (1) adopt by-laws and articles of association in a form specified by HPD; and
+
+   (2) elect officers; and
+
+   (3) set up a restricted bank account as required by HPD.
+
+(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
+
+(f) Intake Rent Increases.
+
+   (1) HPD will from time to time establish intake rent levels, expressed as a minimum dollar amount per zoning room, for all dwelling units in Buildings entering the Program. Such intake rent levels will be based upon maintenance and operating expenses in similar buildings. Such intake rent levels and the rationale therefore will be kept on file by HPD and will be available for public inspection.
+
+   (2) HPD will issue an intake rent roll to the Tenant Association and will notify the Tenants of the Intake Rent Increase at least thirty (30) days prior to the effective date of the Intake Rent Increase.
+
+
+
+
+
+
+*§ 34-04 Program Activities.* ::
+
+
+(a)  Lease. Upon acceptance of a Building into the Program, HPD will temporarily lease the Building to the Tenant Association pursuant to the terms of a Tenant Interim Lease. The Tenant Interim Lease shall require the Tenant Association to follow these Rules and all HPD directives. Furthermore, officers and members of the Tenant Association must attend training classes as directed by HPD during the term of the Tenant Interim Lease.
+
+(b) Residential vacancies. If any dwelling unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant dwelling unit, or allow such vacant dwelling unit to become occupied, without the prior written approval of HPD.
+
+(c) Tenant Association. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant dwelling units. Such HPD directives may include, without limitation,
+
+      (i) procedures and criteria for the selection of new Tenants,
+
+      (ii) rents to be charged,
+
+      (iii) priority for persons that HPD has determined are in need of housing, and
+
+      (iv) the use of specified lists of eligible persons.
+
+(d) Non-residential vacancies. If any non-residential unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant non-residential unit, or allow such vacant non-residential unit to become occupied, without the prior written approval of HPD. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant non-residential units. Such HPD directives may include, without limitation,
+
+      (i) procedures and criteria for the selection of new non-residential tenants, and
+
+      (ii) rents to be charged.
+
+(e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
+
+(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
+
+(g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
+
+(h) Interim rent increases. During the term of the Tenant Interim Lease, one or more rent increases may be necessary to reflect the actual costs of operating a Building. HPD will from time to time establish an interim rent roll for a Building in the Program reflecting expenses of maintaining and operating the Building.
+
+   (1) HPD will prepare a statement of the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, which statement will reflect actual expenditures, adjusted for inflation on an individual or on a compounded yearly basis, for the maintenance and operation of the Building (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services) and any other costs anticipated to be associated with the maintenance and operation of the Building.
+
+   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, as reflected in such statement, and shall implement an Interim Rent Increase based upon such calculation.
+
+   (3) HPD will issue an interim rent roll to the Tenant Association and will notify the Tenants of such Interim Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+
+   (4) From the date that Tenants receive notice of the Interim Rent Increase until the effective date of the Interim Rent Increase,
+
+      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
+
+      (ii) any Tenant may comment in writing to HPD regarding the Interim Rent Increase, and
+
+      (iii) HPD will consider any timely comments received from Tenants.
+
+      (i) Successor Tenants. An application for a family member to be approved as a successor tenant will be subject to the rules governing successor tenants set forth in Chapter 24 of Title 28 of the rules of the city of New York. The Tenant Association will be required to provide a statement either supporting or opposing the successor tenant application. This statement must include the Tenant Association's reasons for support or opposition.
+
+
+
+
+
+
+*§ 34-05 Disposition.* ::
+
+
+(a)  Disposition rent increase.
+
+   (1) Prior to disposition, HPD will prepare a statement of the projected cost of maintaining and operating the Building in the first year following Disposition, which statement will reflect,
+
+      (i) actual expenditures, adjusted for inflation on an individual or compounded yearly basis, for the maintenance and operation of the Building prior to Disposition (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services),
+
+      (ii) real estate taxes,
+
+      (iii) water and sewer charges,
+
+      (iv) contingency reserves,
+
+      (v) reserves for vacancies and uncollectible debts, and
+
+      (vi) any other costs anticipated to be associated with the maintenance and operation of the Building.
+
+   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the first year following disposition, as reflected in such statement, and shall implement a Disposition Rent Increase based upon such calculation.
+
+   (3) HPD will issue a disposition rent roll to the Tenant Association and will notify the Tenants of such Disposition Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+
+   (4) From the date that Tenants receive notice of the Disposition Rent Increase until the effective date of the Disposition Rent Increase,
+
+      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
+
+      (ii) any Tenant may comment in writing to HPD regarding the Disposition Rent Increase, and
+
+      (iii) HPD will consider any timely comments received from Tenants.
+
+(b) Disposition. HPD will not convey a Building to an HDFC unless:
+
+   (1) the Tenant Association has, in the judgment of HPD, satisfactorily managed the Building during the term of the Tenant Interim Lease; and
+
+   (2) Tenants of at least eighty percent (80%) of the Occupied Units have signed subscription agreements to purchase the shares in the HDFC attributable to their dwelling units; and
+
+   (3) HPD has notified the Tenants of the Disposition Rent Increase; and
+
+   (4) if required by HPD, the HDFC has executed a regulatory agreement which may contain, without limitation, restrictions on renting, subletting, and sales of units, and requirements for transfer fees, primary residency, and establishment of reserve accounts to be serviced by HPD for a fee equal to 0.25% of the average monthly balance in the reserve account over the previous 12 month period.
+
+
+
+
+
+
+*§ 34-06 Rental Assistance.* ::
+
+
+(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, assist Tenants in completing rental assistance applications, and forward all necessary documentation to the appropriate authority for final review and processing.
+
+(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews with the authority responsible for determining a Tenant's eligibility for rental assistance, providing the necessary income certification and complying with all procedures to process an application.
+
+(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Tenant Association and/or HDFC of all applicants for rental assistance and shall forward to the Tenant Association and/or HDFC copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, the Tenant Association and/or HDFC, and HPD, before it becomes effective. This Interim Payment Agreement shall include:
+
+   (1) the amount of the increased rent for the apartment;
+
+   (2) the amount of rent that the Tenant must pay pending the final determination of the rental assistance application;
+
+   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
+
+   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
+
+(d) A Tenant who receives an Interim Payment Agreement will be required to pay the amount which s(he) would pay on a monthly basis if the rental assistance application is approved, or the rent charged prior to implementation of the rent increase, whichever is greater.
+
+(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
+
+   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
+
+   (2) any change in the rent charged by the City; or
+
+   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
+
+   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Tenant Association and/or HDFC; or
+
+   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
+
+(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
+
+
+
+
+
+
+*§ 34-07 Removal from the Program.* ::
+
+
+HPD may remove a Building from the program and terminate the Tenant Interim Lease with respect to such Building if HPD determines that:
+
+(a) there is a default under the Tenant Interim Lease; or
+
+(b) the management of the Building has failed to comply with generally accepted standards of management; or
+
+(c) the Tenant Association has an inadequate record in regard to rent collections; or
+
+(d) the Tenant Association has an inadequate record in regard to timely payment of bills; or
+
+(e) the Tenant Association has failed to comply with HPD reporting requirements as set forth in the Tenant Interim Lease; or
+
+(f) the Tenant Association has failed to comply with HPD directives; or
+
+(g) HPD determines that the Building no longer meets the eligibility requirements of the program.
+
+(h) for any other reason, it is no longer in the best interests of the City to keep the Building in the program.
+
+
+
+
+
+
+*§ 34-08 Miscellaneous Provisions.* ::
+
+
+(a)  HPD discretion. All determinations to be made by HPD in accordance with these Rules will be in the sole discretion of HPD.
+
+(b) Statutory authority not limited. Nothing in these Rules will be deemed to limit HPD's authority to act pursuant to applicable laws.
+
+(c) Method of notification. Unless otherwise provided herein, notices to Tenants will be in English and Spanish, and will either be posted in a common area of the Building and affixed to or placed under each dwelling unit door of the Building, or mailed to every occupied dwelling unit in the Building, as determined by HPD.
+
+(d) Technical violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules will not invalidate any action taken pursuant to these Rules, nor will such technical violations give rise to any rights, claims, or causes of action. HPD, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
+
+
+
+
 Chapter 33: Housing and Urban Renewal Projects and Programs
 --------------------------------------------------
 
@@ -15525,299 +15822,155 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
 
 
-Chapter 34: Tenant Interim Lease Program
+Chapter 36: Alternative Enforcement Program
 --------------------------------------------------
 
 
 
-*§ 34-01 Definitions.* ::
+*§ 36-01 Definitions.* ::
 
 
-Building. "Building" shall mean any City-owned multiple dwelling, other than a single room occupancy dwelling, which is occupied by Tenants.
+For purposes of this chapter:
 
-City. "City" shall mean the City of New York.
+(a) Alternative Enforcement Program. "Alternative Enforcement Program" shall mean the program established by Local Law 29 of 2007.
 
-Disposition. "Disposition" shall mean the sale of a Building to an HDFC.
+(b) Department. "Department" shall mean the New York City Department of Housing Preservation and Development or its successor.
 
-Disposition Rent Increase. "Disposition Rent Increase" shall mean the last rent set by HPD prior to Disposition.
+(c) Emergency Repair Charge. "Emergency Repair Charge" shall mean a charge or lien incurred as the result of repair work ordered by the Department pursuant to §§ 27-2125 or 27-2127 of the Housing Maintenance Code.
 
-HDFC. "HDFC" shall mean a housing development fund company formed pursuant to Article XI of the Private Housing Finance Law in order to purchase a Building pursuant to these Rules.
+(d) Housing Maintenance Code. "Housing Maintenance Code" shall mean chapter two of title 27 of the administrative code of the city of New York.
 
-HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City.
+(e) Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the New York State Multiple Dwelling Law.
 
-Intake Rent Increase. "Intake Rent Increase" shall mean the initial rent set by HPD upon Selection of a Building.
 
-Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, the Tenant Association and/or HDFC, and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
 
-Interim Rent Increase. "Interim Rent Increase" shall mean any rent, other than an Intake Rent Increase or a Disposition Rent Increase, set by HPD from time to time after Selection and before Disposition of a Building.
 
-Laws. "Laws" shall mean any and all applicable laws, orders, rules and regulations.
 
-Occupied Units. "Occupied Units" shall mean any lawfully occupied dwelling units leased and occupied by a Tenant in a Building.
 
-Program. "Program" shall mean the Tenant Interim Lease Program.
+*§ 36-02 Request for Reinspection and Dismissal of Violations.* ::
 
-Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
 
-Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
+(a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
 
-Rules. "Rules" shall mean the Rules set forth in this chapter.
+   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
 
-Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit in a Building pursuant to a lease with the City or with a Tenant Association that has entered into a Tenant Interim Lease. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
+   (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
 
-Tenant Association. "Tenant Association" shall mean an unincorporated association with elected officers that has been formed by and continues to include as members the Tenants of at least sixty percent (60%) of the Occupied Units in a Building. If there is more than one such unincorporated association, "Tenant Association" shall mean the one from which HPD accepts an application for the Program and, if applicable, the one with which HPD executes a Tenant Interim Lease.
+   (4) Such application will not be processed by the Department unless such building is registered with the Department in accordance with the provisions of §§ 27-2097 through 27-2099 of the Housing Maintenance Code.
 
-Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-month net lease of an entire Building executed by the City, as lessor, and by the Tenant Association, as lessee, following Selection of a Building.
 
 
 
 
 
+*§ 36-03 Alternative Enforcement Program Fees.* ::
 
-*§ 34-02 General.* ::
 
+(a)  An owner of a building who has been notified of participation in the Alternative Enforcement Program shall be subject to fees for any inspection, reinspection or any other action undertaken by the Department during the time period that such building is in such Program. The schedule of fees is as follows:
 
-(a)  Coverage. These Rules will govern the procedures for: selecting Buildings for the Program, leasing Buildings to the Tenant Associations, determining and establishing rent, providing notice to Tenants and terminating buildings from the Program. Buildings in the Program will be subject to these Rules, 28 RCNY Chapter 21, and 28 RCNY Chapter 24. Notwithstanding any provision of 28 RCNY Chapter 14 to the contrary, Buildings in the Program will not be subject to 28 RCNY Chapter 14.
+   (1) For each reinspection performed upon application by an owner for dismissal of violations within the first four months after notification of participation in the Alternative Enforcement Program: $1,000 per building.
 
-(b) Program Description. Under the Program, Buildings are net leased to Tenant Associations and subsequently sold to HDFCs that will thereafter be solely responsible for the operation of such Buildings.
+   (2) For a building-wide inspection, monitoring of repair work and reassessment of a building pursuant to subdivisions k and m of § 27-2153 of the Housing Maintenance Code: $500 per dwelling unit every six months, beginning on the date of the building-wide inspection, with a maximum total fee of $1,000 per dwelling unit during participation in the Alternative Enforcement Program.
 
+   (3) For each inspection based upon a complaint that results in issuance of a class B or class C violation: $200 per inspection.
 
+   (4) For each reinspection pursuant to a certification of correction of violation(s) submitted to the Department, where the Department finds that one or more violations have not been corrected: $100 per reinspection per building.
 
+(b) All fees imposed pursuant to this section that remain unpaid by the owner shall constitute a debt recoverable from the owner and a lien upon the building and lot, and upon the rents and other income thereof. The provisions of article eight of subchapter five of the Housing Maintenance Code shall govern the effect and enforcement of such debt and lien.
 
 
 
-*§ 34-03 Entering the Program.* ::
 
 
-(a)  Eligible buildings. A Building may be eligible for selection for the Program if HPD makes all of the following discretionary determinations:
 
-   (1) the Building requires Rehabilitation such that it is not marketable to the private sector in its "as is" condition, and HPD funding is necessary to return the Building to the private sector; and
+*§ 36-04 Education Course.* ::
 
-   (2) the performance of Rehabilitation is technically feasible; and
 
-   (3) the cost of Rehabilitation is economically reasonable; and
+An owner or managing agent or other designated representative of a building which is the subject of an order by the Department pursuant to subdivision k of § 27-2153 of the Housing Maintenance Code, may be required to complete a course of training relating to building operation and maintenance, approved by the Department, prior to discharge of the building from the Alternative Enforcement Program. The charge for participation in such course shall be $300 for each participant. Such charge shall be paid prior to commencement of participation in such course.
 
-   (4) the cost of Rehabilitation is within available HPD resources; and
 
-   (5) the Building is a Class A multiple dwelling containing at least three dwelling units; and
 
-   (6) at least two of the dwelling units in the Building are Occupied Units; and
 
-   (7) the Building has not been designated by HPD for disposition through another program, except to the extent that rules promulgated by HPD for such other program explicitly authorize a withdrawal to participate in the Program; and
 
-   (8) the Building has not previously participated in the Program, unless such participation was terminated more than five years prior to the current application.
 
-(b) Application procedure; selection requirements. If HPD has determined that a Building is eligible for the Program and its assignment to the Program is in the best interests of the City, a Tenant Association may apply for selection for the Program by complying with the following standards:
+*§ 36-05 Criteria for Identification of Buildings for Participation in the Alternative Enforcement Program.* ::
 
-   (1) the Tenant Association must submit an application on a form supplied by HPD signed by
 
-      (i) the Tenants of all of the Occupied Units in a Building containing up to five dwelling units, or
+(a) Beginning in the sixth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
 
-      (ii) the Tenants of at least sixty percent (60%) of the Occupied Units in a Building containing six or more dwelling units; and
+   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
 
-   (2) the Tenants of at least fifty percent (50%) of the Occupied Units must pay one hundred percent (100%) of the billable rent for their respective dwelling units for the three months immediately prior to the filing of the application and continuously until HPD makes a determination of Selection; and
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-   (3) officers and members of the Tenant Association must attend training classes as directed by HPD; and
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the three-year period prior to such identification.
 
-   (4) the Tenant Association must notify the Tenants of a meeting at which HPD will discuss the Program. Tenants of at least fifty percent (50%) of the Occupied Units must attend the meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the meeting, the Tenant Association must notify the Tenants of a second meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the second meeting, the Building will not be considered for the Program; and
+   (2) A multiple dwelling that contains twenty or more dwelling units must have:
 
-   (5) HPD must determine that the Building can be managed by the Tenant Asso- ciation.
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
 
-(c) Notice of approval. If the application has been approved, HPD will notify the Tenant Association of such approval in a written notice by regular mail to the president of the Tenant Association. The notice of approval shall include any notice of an Intake Rent Increase, which shall be implemented thirty (30) days thereafter in accordance with subdivision (f) of this section, and HPD shall send a copy to the Tenants by regular mail. If the application has been rejected, HPD will notify the president of the Tenant Association of such rejection and the reason therefor by regular mail.
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the three-year period prior to such identification.
 
-(d) Post-acceptance activities. Upon acceptance of the application and prior to execution of the Tenant Interim Lease, the Tenant Association must:
+(b) Beginning in the eighth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
 
-   (1) adopt by-laws and articles of association in a form specified by HPD; and
+   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
 
-   (2) elect officers; and
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-   (3) set up a restricted bank account as required by HPD.
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
 
-(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
+   (2) A multiple dwelling that contains twenty or more dwelling units must have:
 
-(f) Intake Rent Increases.
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
 
-   (1) HPD will from time to time establish intake rent levels, expressed as a minimum dollar amount per zoning room, for all dwelling units in Buildings entering the Program. Such intake rent levels will be based upon maintenance and operating expenses in similar buildings. Such intake rent levels and the rationale therefore will be kept on file by HPD and will be available for public inspection.
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
 
-   (2) HPD will issue an intake rent roll to the Tenant Association and will notify the Tenants of the Intake Rent Increase at least thirty (30) days prior to the effective date of the Intake Rent Increase.
+(c) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, the Department will use the following criteria to identify distressed buildings for participation in the program:
 
+   (1) The Department will identify no more than twenty-five multiple dwellings that contain less than six units for participation in the program. Such multiple dwellings must have:
 
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification;
 
+   (2) A multiple dwelling that contains at least six but not more than fourteen dwelling units must have:
 
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-*§ 34-04 Program Activities.* ::
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
 
+   (3) A multiple dwelling that contains fifteen or more dwelling units must have:
 
-(a)  Lease. Upon acceptance of a Building into the Program, HPD will temporarily lease the Building to the Tenant Association pursuant to the terms of a Tenant Interim Lease. The Tenant Interim Lease shall require the Tenant Association to follow these Rules and all HPD directives. Furthermore, officers and members of the Tenant Association must attend training classes as directed by HPD during the term of the Tenant Interim Lease.
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
 
-(b) Residential vacancies. If any dwelling unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant dwelling unit, or allow such vacant dwelling unit to become occupied, without the prior written approval of HPD.
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
 
-(c) Tenant Association. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant dwelling units. Such HPD directives may include, without limitation,
+(d) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, for purposes of identifying buildings for participation in the Alternative Enforcement Program, those buildings having the highest amount of paid and unpaid Emergency Repair Charges incurred within the five-year period prior to such identification shall be selected first.
 
-      (i) procedures and criteria for the selection of new Tenants,
+(e) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, under the circumstances where the criteria set forth in subdivision (c) do not yield 250 buildings for participation in the program, the Department may apply the following criteria to select additional buildings for participation:
 
-      (ii) rents to be charged,
+   (1) A multiple dwelling that contains six or more dwelling units must have:
 
-      (iii) priority for persons that HPD has determined are in need of housing, and
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate four or more such violations for every dwelling unit in the multiple dwelling; and
 
-      (iv) the use of specified lists of eligible persons.
+      (ii) For purposes of identifying additional buildings for participation in the Alternative Enforcement Program pursuant to this paragraph, those buildings having the highest number of open hazardous and immediately hazardous violations within the five-year period prior to such identification shall be selected first.
 
-(d) Non-residential vacancies. If any non-residential unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant non-residential unit, or allow such vacant non-residential unit to become occupied, without the prior written approval of HPD. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant non-residential units. Such HPD directives may include, without limitation,
 
-      (i) procedures and criteria for the selection of new non-residential tenants, and
 
-      (ii) rents to be charged.
 
-(e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
 
-(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
 
-(g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
 
-(h) Interim rent increases. During the term of the Tenant Interim Lease, one or more rent increases may be necessary to reflect the actual costs of operating a Building. HPD will from time to time establish an interim rent roll for a Building in the Program reflecting expenses of maintaining and operating the Building.
 
-   (1) HPD will prepare a statement of the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, which statement will reflect actual expenditures, adjusted for inflation on an individual or on a compounded yearly basis, for the maintenance and operation of the Building (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services) and any other costs anticipated to be associated with the maintenance and operation of the Building.
+*§ 36-06. [Exclusions: "Rehabilitation"; Previous Participation.]* ::
 
-   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, as reflected in such statement, and shall implement an Interim Rent Increase based upon such calculation.
 
-   (3) HPD will issue an interim rent roll to the Tenant Association and will notify the Tenants of such Interim Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+(a) For the purpose of excluding a building from the Alternative Enforcement Program pursuant to administrative code § 27-2153(e)(2) on the basis that the building is the subject of a loan provided by or through the department or the New York City Housing Development Corporation for the purpose of rehabilitation, the term "rehabilitation" shall mean that the scope of work for the building under the loan includes a building-wide replacement of a major component of the building.
 
-   (4) From the date that Tenants receive notice of the Interim Rent Increase until the effective date of the Interim Rent Increase,
+(b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
 
-      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
 
-      (ii) any Tenant may comment in writing to HPD regarding the Interim Rent Increase, and
 
-      (iii) HPD will consider any timely comments received from Tenants.
-
-      (i) Successor Tenants. An application for a family member to be approved as a successor tenant will be subject to the rules governing successor tenants set forth in Chapter 24 of Title 28 of the rules of the city of New York. The Tenant Association will be required to provide a statement either supporting or opposing the successor tenant application. This statement must include the Tenant Association's reasons for support or opposition.
-
-
-
-
-
-
-*§ 34-05 Disposition.* ::
-
-
-(a)  Disposition rent increase.
-
-   (1) Prior to disposition, HPD will prepare a statement of the projected cost of maintaining and operating the Building in the first year following Disposition, which statement will reflect,
-
-      (i) actual expenditures, adjusted for inflation on an individual or compounded yearly basis, for the maintenance and operation of the Building prior to Disposition (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services),
-
-      (ii) real estate taxes,
-
-      (iii) water and sewer charges,
-
-      (iv) contingency reserves,
-
-      (v) reserves for vacancies and uncollectible debts, and
-
-      (vi) any other costs anticipated to be associated with the maintenance and operation of the Building.
-
-   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the first year following disposition, as reflected in such statement, and shall implement a Disposition Rent Increase based upon such calculation.
-
-   (3) HPD will issue a disposition rent roll to the Tenant Association and will notify the Tenants of such Disposition Rent Increase at least thirty (30) days prior to the effective date of the new rent.
-
-   (4) From the date that Tenants receive notice of the Disposition Rent Increase until the effective date of the Disposition Rent Increase,
-
-      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
-
-      (ii) any Tenant may comment in writing to HPD regarding the Disposition Rent Increase, and
-
-      (iii) HPD will consider any timely comments received from Tenants.
-
-(b) Disposition. HPD will not convey a Building to an HDFC unless:
-
-   (1) the Tenant Association has, in the judgment of HPD, satisfactorily managed the Building during the term of the Tenant Interim Lease; and
-
-   (2) Tenants of at least eighty percent (80%) of the Occupied Units have signed subscription agreements to purchase the shares in the HDFC attributable to their dwelling units; and
-
-   (3) HPD has notified the Tenants of the Disposition Rent Increase; and
-
-   (4) if required by HPD, the HDFC has executed a regulatory agreement which may contain, without limitation, restrictions on renting, subletting, and sales of units, and requirements for transfer fees, primary residency, and establishment of reserve accounts to be serviced by HPD for a fee equal to 0.25% of the average monthly balance in the reserve account over the previous 12 month period.
-
-
-
-
-
-
-*§ 34-06 Rental Assistance.* ::
-
-
-(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, assist Tenants in completing rental assistance applications, and forward all necessary documentation to the appropriate authority for final review and processing.
-
-(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews with the authority responsible for determining a Tenant's eligibility for rental assistance, providing the necessary income certification and complying with all procedures to process an application.
-
-(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Tenant Association and/or HDFC of all applicants for rental assistance and shall forward to the Tenant Association and/or HDFC copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, the Tenant Association and/or HDFC, and HPD, before it becomes effective. This Interim Payment Agreement shall include:
-
-   (1) the amount of the increased rent for the apartment;
-
-   (2) the amount of rent that the Tenant must pay pending the final determination of the rental assistance application;
-
-   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
-
-   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
-
-(d) A Tenant who receives an Interim Payment Agreement will be required to pay the amount which s(he) would pay on a monthly basis if the rental assistance application is approved, or the rent charged prior to implementation of the rent increase, whichever is greater.
-
-(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
-
-   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
-
-   (2) any change in the rent charged by the City; or
-
-   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
-
-   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Tenant Association and/or HDFC; or
-
-   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
-
-(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
-
-
-
-
-
-
-*§ 34-07 Removal from the Program.* ::
-
-
-HPD may remove a Building from the program and terminate the Tenant Interim Lease with respect to such Building if HPD determines that:
-
-(a) there is a default under the Tenant Interim Lease; or
-
-(b) the management of the Building has failed to comply with generally accepted standards of management; or
-
-(c) the Tenant Association has an inadequate record in regard to rent collections; or
-
-(d) the Tenant Association has an inadequate record in regard to timely payment of bills; or
-
-(e) the Tenant Association has failed to comply with HPD reporting requirements as set forth in the Tenant Interim Lease; or
-
-(f) the Tenant Association has failed to comply with HPD directives; or
-
-(g) HPD determines that the Building no longer meets the eligibility requirements of the program.
-
-(h) for any other reason, it is no longer in the best interests of the City to keep the Building in the program.
-
-
-
-
-
-
-*§ 34-08 Miscellaneous Provisions.* ::
-
-
-(a)  HPD discretion. All determinations to be made by HPD in accordance with these Rules will be in the sole discretion of HPD.
-
-(b) Statutory authority not limited. Nothing in these Rules will be deemed to limit HPD's authority to act pursuant to applicable laws.
-
-(c) Method of notification. Unless otherwise provided herein, notices to Tenants will be in English and Spanish, and will either be posted in a common area of the Building and affixed to or placed under each dwelling unit door of the Building, or mailed to every occupied dwelling unit in the Building, as determined by HPD.
-
-(d) Technical violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules will not invalidate any action taken pursuant to these Rules, nor will such technical violations give rise to any rights, claims, or causes of action. HPD, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
+Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 
@@ -16105,159 +16258,6 @@ Under satisfactory completion of the Rehabilitation, title for the Building shal
 (d) Technical Violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules shall not invalidate any action taken pursuant to these Rules, nor shall such technical violations give rise to any rights, claims, or causes of action. The Commissioner, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
 
 (e) Funding Source Requirements. Notwithstanding any provision of these Rules to the contrary, if the requirements of any funding source for a Project conflict with the requirements of these Rules, the requirements of the funding source shall govern.
-
-
-
-
-Chapter 36: Alternative Enforcement Program
---------------------------------------------------
-
-
-
-*§ 36-01 Definitions.* ::
-
-
-For purposes of this chapter:
-
-(a) Alternative Enforcement Program. "Alternative Enforcement Program" shall mean the program established by Local Law 29 of 2007.
-
-(b) Department. "Department" shall mean the New York City Department of Housing Preservation and Development or its successor.
-
-(c) Emergency Repair Charge. "Emergency Repair Charge" shall mean a charge or lien incurred as the result of repair work ordered by the Department pursuant to §§ 27-2125 or 27-2127 of the Housing Maintenance Code.
-
-(d) Housing Maintenance Code. "Housing Maintenance Code" shall mean chapter two of title 27 of the administrative code of the city of New York.
-
-(e) Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the New York State Multiple Dwelling Law.
-
-
-
-
-
-
-*§ 36-02 Request for Reinspection and Dismissal of Violations.* ::
-
-
-(a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
-
-   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
-
-   (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
-
-   (4) Such application will not be processed by the Department unless such building is registered with the Department in accordance with the provisions of §§ 27-2097 through 27-2099 of the Housing Maintenance Code.
-
-
-
-
-
-
-*§ 36-03 Alternative Enforcement Program Fees.* ::
-
-
-(a)  An owner of a building who has been notified of participation in the Alternative Enforcement Program shall be subject to fees for any inspection, reinspection or any other action undertaken by the Department during the time period that such building is in such Program. The schedule of fees is as follows:
-
-   (1) For each reinspection performed upon application by an owner for dismissal of violations within the first four months after notification of participation in the Alternative Enforcement Program: $1,000 per building.
-
-   (2) For a building-wide inspection, monitoring of repair work and reassessment of a building pursuant to subdivisions k and m of § 27-2153 of the Housing Maintenance Code: $500 per dwelling unit every six months, beginning on the date of the building-wide inspection, with a maximum total fee of $1,000 per dwelling unit during participation in the Alternative Enforcement Program.
-
-   (3) For each inspection based upon a complaint that results in issuance of a class B or class C violation: $200 per inspection.
-
-   (4) For each reinspection pursuant to a certification of correction of violation(s) submitted to the Department, where the Department finds that one or more violations have not been corrected: $100 per reinspection per building.
-
-(b) All fees imposed pursuant to this section that remain unpaid by the owner shall constitute a debt recoverable from the owner and a lien upon the building and lot, and upon the rents and other income thereof. The provisions of article eight of subchapter five of the Housing Maintenance Code shall govern the effect and enforcement of such debt and lien.
-
-
-
-
-
-
-*§ 36-04 Education Course.* ::
-
-
-An owner or managing agent or other designated representative of a building which is the subject of an order by the Department pursuant to subdivision k of § 27-2153 of the Housing Maintenance Code, may be required to complete a course of training relating to building operation and maintenance, approved by the Department, prior to discharge of the building from the Alternative Enforcement Program. The charge for participation in such course shall be $300 for each participant. Such charge shall be paid prior to commencement of participation in such course.
-
-
-
-
-
-
-*§ 36-05 Criteria for Identification of Buildings for Participation in the Alternative Enforcement Program.* ::
-
-
-(a) Beginning in the sixth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
-
-   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the three-year period prior to such identification.
-
-   (2) A multiple dwelling that contains twenty or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the three-year period prior to such identification.
-
-(b) Beginning in the eighth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
-
-   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
-
-   (2) A multiple dwelling that contains twenty or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
-
-(c) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, the Department will use the following criteria to identify distressed buildings for participation in the program:
-
-   (1) The Department will identify no more than twenty-five multiple dwellings that contain less than six units for participation in the program. Such multiple dwellings must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification;
-
-   (2) A multiple dwelling that contains at least six but not more than fourteen dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
-
-   (3) A multiple dwelling that contains fifteen or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
-
-(d) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, for purposes of identifying buildings for participation in the Alternative Enforcement Program, those buildings having the highest amount of paid and unpaid Emergency Repair Charges incurred within the five-year period prior to such identification shall be selected first.
-
-(e) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, under the circumstances where the criteria set forth in subdivision (c) do not yield 250 buildings for participation in the program, the Department may apply the following criteria to select additional buildings for participation:
-
-   (1) A multiple dwelling that contains six or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate four or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) For purposes of identifying additional buildings for participation in the Alternative Enforcement Program pursuant to this paragraph, those buildings having the highest number of open hazardous and immediately hazardous violations within the five-year period prior to such identification shall be selected first.
-
-
-
-
-
-
-
-
-*§ 36-06. [Exclusions: "Rehabilitation"; Previous Participation.]* ::
-
-
-(a) For the purpose of excluding a building from the Alternative Enforcement Program pursuant to administrative code § 27-2153(e)(2) on the basis that the building is the subject of a loan provided by or through the department or the New York City Housing Development Corporation for the purpose of rehabilitation, the term "rehabilitation" shall mean that the scope of work for the building under the loan includes a building-wide replacement of a major component of the building.
-
-(b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
-
-
-
-Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 

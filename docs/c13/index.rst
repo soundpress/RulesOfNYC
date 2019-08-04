@@ -5215,6 +5215,62 @@ After July 1, 2013, carpet sellers may only sell carpet or carpet cushion that c
 
 
 
+Chapter 31: Drinking Water Tank Inspections
+--------------------------------------------------
+
+
+
+*§ 31-01  Authority.* ::
+
+
+As required by § 17-194 of the Administrative Code and 24 RCNY Health Code § 141.07, this Chapter establishes rules for the manner and timeframe that building owners or their agents must report the results of their annual drinking water tank inspections to the Department. All definitions and terms used in this Chapter must have the same meaning as specified in § 17-194 of the Administrative Code, or if not defined therein, as specified in 24 RCNY Health Code Article 141.
+
+
+
+
+
+
+*§ 31-02  Reporting.* ::
+
+
+(a) A building owner with one or more drinking water tanks used to store potable water must, by January 15 of each year, report to the Department the results of the annual inspections conducted for each such drinking water tank during the previous calendar year. Inspection outcomes must be filed either through an online, interactive electronic submission system on the DOHMH website, or by submitting either a Drinking Water Storage Tank Inspection Reporting form, or a Multiple Drinking Water Storage Tanks Inspection Reporting form, as provided in subdivision (b) of this section.
+
+(b) (1) The Department will make an online, interactive electronic submission system, as well as a Drinking Water Storage Tank Inspection Reporting form and a Multiple Drinking Water Storage Tanks Inspection Reporting form, available on its website. Both forms will also be available on request by calling 311.
+
+   (2) Inspection results submitted on a Drinking Water Storage Tank Inspection Reporting form and a Multiple Drinking Water Storage Tanks Inspection Reporting form must conform to the following:
+
+      (A) Inspection results for a building containing only one drinking water tank must be submitted using the Drinking Water Storage Tank Inspection Reporting form. Inspection results for a building containing two (2) or more drinking water tanks must be submitted using the Multiple Drinking Water Storage Tanks Inspection Reporting form.
+
+      (B) Such reporting forms must be completed using either a digitally or mechanically typed font.
+
+      (C) Building premises information submitted on such reporting forms must be in conformance with the New York City Department of Buildings (DOB) Building Information System (BIS). The required Building Identification Number (BIN) and standardized building address can be obtained by using the DOB BIS website (www.nyc.gov/bis). Paper reporting forms that do not contain such required standardized building information will not be accepted as valid documentation of an annual inspection.
+
+      (D) The appropriate form must be delivered or mailed to the Department's Office of Public Health Engineering at:
+
+         NYC Department of Health and Mental Hygiene          Office of Public Health Engineering          Drinking Water Storage Tank Inspection Reporting Program          42-09 28th Street, 14th Floor          Long Island City, NY 11101-4132
+
+      (E) Any paper reporting form deemed incomplete, erroneous or otherwise unacceptable will be returned to the sender and will not be considered as documentation of the required annual inspections.
+
+(c) All inspection results filed with the Department pursuant to this section will be publicly available.
+
+
+
+
+
+
+*§ 31-03 Penalties.* ::
+
+
+Owners or operators of buildings with drinking water tanks or other persons found to be in violation of any of the following provisions of law by a hearing officer at the Office of Administrative Trials and Hearings or successor tribunal must pay the penalties set forth in Appendix 31-A of this Chapter for each such violation sustained with respect to each building drinking water tank for each year to which such violation pertains.
+
+
+
+
+
+
+
+**APPENDIX 31-A BUILDING DRINKING WATER TANK PENALTIES [ALP S-002]**
+
 Chapter 32: Dogs in Outdoor Dining Areas
 --------------------------------------------------
 
@@ -5317,62 +5373,6 @@ Violations of this Chapter shall be cited and shall have the same penalties impo
 
 
 
-
-Chapter 31: Drinking Water Tank Inspections
---------------------------------------------------
-
-
-
-*§ 31-01  Authority.* ::
-
-
-As required by § 17-194 of the Administrative Code and 24 RCNY Health Code § 141.07, this Chapter establishes rules for the manner and timeframe that building owners or their agents must report the results of their annual drinking water tank inspections to the Department. All definitions and terms used in this Chapter must have the same meaning as specified in § 17-194 of the Administrative Code, or if not defined therein, as specified in 24 RCNY Health Code Article 141.
-
-
-
-
-
-
-*§ 31-02  Reporting.* ::
-
-
-(a) A building owner with one or more drinking water tanks used to store potable water must, by January 15 of each year, report to the Department the results of the annual inspections conducted for each such drinking water tank during the previous calendar year. Inspection outcomes must be filed either through an online, interactive electronic submission system on the DOHMH website, or by submitting either a Drinking Water Storage Tank Inspection Reporting form, or a Multiple Drinking Water Storage Tanks Inspection Reporting form, as provided in subdivision (b) of this section.
-
-(b) (1) The Department will make an online, interactive electronic submission system, as well as a Drinking Water Storage Tank Inspection Reporting form and a Multiple Drinking Water Storage Tanks Inspection Reporting form, available on its website. Both forms will also be available on request by calling 311.
-
-   (2) Inspection results submitted on a Drinking Water Storage Tank Inspection Reporting form and a Multiple Drinking Water Storage Tanks Inspection Reporting form must conform to the following:
-
-      (A) Inspection results for a building containing only one drinking water tank must be submitted using the Drinking Water Storage Tank Inspection Reporting form. Inspection results for a building containing two (2) or more drinking water tanks must be submitted using the Multiple Drinking Water Storage Tanks Inspection Reporting form.
-
-      (B) Such reporting forms must be completed using either a digitally or mechanically typed font.
-
-      (C) Building premises information submitted on such reporting forms must be in conformance with the New York City Department of Buildings (DOB) Building Information System (BIS). The required Building Identification Number (BIN) and standardized building address can be obtained by using the DOB BIS website (www.nyc.gov/bis). Paper reporting forms that do not contain such required standardized building information will not be accepted as valid documentation of an annual inspection.
-
-      (D) The appropriate form must be delivered or mailed to the Department's Office of Public Health Engineering at:
-
-         NYC Department of Health and Mental Hygiene          Office of Public Health Engineering          Drinking Water Storage Tank Inspection Reporting Program          42-09 28th Street, 14th Floor          Long Island City, NY 11101-4132
-
-      (E) Any paper reporting form deemed incomplete, erroneous or otherwise unacceptable will be returned to the sender and will not be considered as documentation of the required annual inspections.
-
-(c) All inspection results filed with the Department pursuant to this section will be publicly available.
-
-
-
-
-
-
-*§ 31-03 Penalties.* ::
-
-
-Owners or operators of buildings with drinking water tanks or other persons found to be in violation of any of the following provisions of law by a hearing officer at the Office of Administrative Trials and Hearings or successor tribunal must pay the penalties set forth in Appendix 31-A of this Chapter for each such violation sustained with respect to each building drinking water tank for each year to which such violation pertains.
-
-
-
-
-
-
-
-**APPENDIX 31-A BUILDING DRINKING WATER TANK PENALTIES [ALP S-002]**
 
 Chapter 33: Operation of Body Scanners in Correctional Facilities
 --------------------------------------------------
