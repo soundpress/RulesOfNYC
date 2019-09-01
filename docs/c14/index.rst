@@ -14948,303 +14948,6 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 
 
-Chapter 34: Tenant Interim Lease Program
---------------------------------------------------
-
-
-
-*§ 34-01 Definitions.* ::
-
-
-Building. "Building" shall mean any City-owned multiple dwelling, other than a single room occupancy dwelling, which is occupied by Tenants.
-
-City. "City" shall mean the City of New York.
-
-Disposition. "Disposition" shall mean the sale of a Building to an HDFC.
-
-Disposition Rent Increase. "Disposition Rent Increase" shall mean the last rent set by HPD prior to Disposition.
-
-HDFC. "HDFC" shall mean a housing development fund company formed pursuant to Article XI of the Private Housing Finance Law in order to purchase a Building pursuant to these Rules.
-
-HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City.
-
-Intake Rent Increase. "Intake Rent Increase" shall mean the initial rent set by HPD upon Selection of a Building.
-
-Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, the Tenant Association and/or HDFC, and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
-
-Interim Rent Increase. "Interim Rent Increase" shall mean any rent, other than an Intake Rent Increase or a Disposition Rent Increase, set by HPD from time to time after Selection and before Disposition of a Building.
-
-Laws. "Laws" shall mean any and all applicable laws, orders, rules and regulations.
-
-Occupied Units. "Occupied Units" shall mean any lawfully occupied dwelling units leased and occupied by a Tenant in a Building.
-
-Program. "Program" shall mean the Tenant Interim Lease Program.
-
-Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
-
-Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
-
-Rules. "Rules" shall mean the Rules set forth in this chapter.
-
-Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit in a Building pursuant to a lease with the City or with a Tenant Association that has entered into a Tenant Interim Lease. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
-
-Tenant Association. "Tenant Association" shall mean an unincorporated association with elected officers that has been formed by and continues to include as members the Tenants of at least sixty percent (60%) of the Occupied Units in a Building. If there is more than one such unincorporated association, "Tenant Association" shall mean the one from which HPD accepts an application for the Program and, if applicable, the one with which HPD executes a Tenant Interim Lease.
-
-Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-month net lease of an entire Building executed by the City, as lessor, and by the Tenant Association, as lessee, following Selection of a Building.
-
-
-
-
-
-
-*§ 34-02 General.* ::
-
-
-(a)  Coverage. These Rules will govern the procedures for: selecting Buildings for the Program, leasing Buildings to the Tenant Associations, determining and establishing rent, providing notice to Tenants and terminating buildings from the Program. Buildings in the Program will be subject to these Rules, 28 RCNY Chapter 21, and 28 RCNY Chapter 24. Notwithstanding any provision of 28 RCNY Chapter 14 to the contrary, Buildings in the Program will not be subject to 28 RCNY Chapter 14.
-
-(b) Program Description. Under the Program, Buildings are net leased to Tenant Associations and subsequently sold to HDFCs that will thereafter be solely responsible for the operation of such Buildings.
-
-
-
-
-
-
-*§ 34-03 Entering the Program.* ::
-
-
-(a)  Eligible buildings. A Building may be eligible for selection for the Program if HPD makes all of the following discretionary determinations:
-
-   (1) the Building requires Rehabilitation such that it is not marketable to the private sector in its "as is" condition, and HPD funding is necessary to return the Building to the private sector; and
-
-   (2) the performance of Rehabilitation is technically feasible; and
-
-   (3) the cost of Rehabilitation is economically reasonable; and
-
-   (4) the cost of Rehabilitation is within available HPD resources; and
-
-   (5) the Building is a Class A multiple dwelling containing at least three dwelling units; and
-
-   (6) at least two of the dwelling units in the Building are Occupied Units; and
-
-   (7) the Building has not been designated by HPD for disposition through another program, except to the extent that rules promulgated by HPD for such other program explicitly authorize a withdrawal to participate in the Program; and
-
-   (8) the Building has not previously participated in the Program, unless such participation was terminated more than five years prior to the current application.
-
-(b) Application procedure; selection requirements. If HPD has determined that a Building is eligible for the Program and its assignment to the Program is in the best interests of the City, a Tenant Association may apply for selection for the Program by complying with the following standards:
-
-   (1) the Tenant Association must submit an application on a form supplied by HPD signed by
-
-      (i) the Tenants of all of the Occupied Units in a Building containing up to five dwelling units, or
-
-      (ii) the Tenants of at least sixty percent (60%) of the Occupied Units in a Building containing six or more dwelling units; and
-
-   (2) the Tenants of at least fifty percent (50%) of the Occupied Units must pay one hundred percent (100%) of the billable rent for their respective dwelling units for the three months immediately prior to the filing of the application and continuously until HPD makes a determination of Selection; and
-
-   (3) officers and members of the Tenant Association must attend training classes as directed by HPD; and
-
-   (4) the Tenant Association must notify the Tenants of a meeting at which HPD will discuss the Program. Tenants of at least fifty percent (50%) of the Occupied Units must attend the meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the meeting, the Tenant Association must notify the Tenants of a second meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the second meeting, the Building will not be considered for the Program; and
-
-   (5) HPD must determine that the Building can be managed by the Tenant Asso- ciation.
-
-(c) Notice of approval. If the application has been approved, HPD will notify the Tenant Association of such approval in a written notice by regular mail to the president of the Tenant Association. The notice of approval shall include any notice of an Intake Rent Increase, which shall be implemented thirty (30) days thereafter in accordance with subdivision (f) of this section, and HPD shall send a copy to the Tenants by regular mail. If the application has been rejected, HPD will notify the president of the Tenant Association of such rejection and the reason therefor by regular mail.
-
-(d) Post-acceptance activities. Upon acceptance of the application and prior to execution of the Tenant Interim Lease, the Tenant Association must:
-
-   (1) adopt by-laws and articles of association in a form specified by HPD; and
-
-   (2) elect officers; and
-
-   (3) set up a restricted bank account as required by HPD.
-
-(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
-
-(f) Intake Rent Increases.
-
-   (1) HPD will from time to time establish intake rent levels, expressed as a minimum dollar amount per zoning room, for all dwelling units in Buildings entering the Program. Such intake rent levels will be based upon maintenance and operating expenses in similar buildings. Such intake rent levels and the rationale therefore will be kept on file by HPD and will be available for public inspection.
-
-   (2) HPD will issue an intake rent roll to the Tenant Association and will notify the Tenants of the Intake Rent Increase at least thirty (30) days prior to the effective date of the Intake Rent Increase.
-
-
-
-
-
-
-*§ 34-04 Program Activities.* ::
-
-
-(a)  Lease. Upon acceptance of a Building into the Program, HPD will temporarily lease the Building to the Tenant Association pursuant to the terms of a Tenant Interim Lease. The Tenant Interim Lease shall require the Tenant Association to follow these Rules and all HPD directives. Furthermore, officers and members of the Tenant Association must attend training classes as directed by HPD during the term of the Tenant Interim Lease.
-
-(b) Residential vacancies. If any dwelling unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant dwelling unit, or allow such vacant dwelling unit to become occupied, without the prior written approval of HPD.
-
-(c) Tenant Association. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant dwelling units. Such HPD directives may include, without limitation,
-
-      (i) procedures and criteria for the selection of new Tenants,
-
-      (ii) rents to be charged,
-
-      (iii) priority for persons that HPD has determined are in need of housing, and
-
-      (iv) the use of specified lists of eligible persons.
-
-(d) Non-residential vacancies. If any non-residential unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant non-residential unit, or allow such vacant non-residential unit to become occupied, without the prior written approval of HPD. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant non-residential units. Such HPD directives may include, without limitation,
-
-      (i) procedures and criteria for the selection of new non-residential tenants, and
-
-      (ii) rents to be charged.
-
-(e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
-
-(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
-
-(g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
-
-(h) Interim rent increases. During the term of the Tenant Interim Lease, one or more rent increases may be necessary to reflect the actual costs of operating a Building. HPD will from time to time establish an interim rent roll for a Building in the Program reflecting expenses of maintaining and operating the Building.
-
-   (1) HPD will prepare a statement of the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, which statement will reflect actual expenditures, adjusted for inflation on an individual or on a compounded yearly basis, for the maintenance and operation of the Building (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services) and any other costs anticipated to be associated with the maintenance and operation of the Building.
-
-   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, as reflected in such statement, and shall implement an Interim Rent Increase based upon such calculation.
-
-   (3) HPD will issue an interim rent roll to the Tenant Association and will notify the Tenants of such Interim Rent Increase at least thirty (30) days prior to the effective date of the new rent.
-
-   (4) From the date that Tenants receive notice of the Interim Rent Increase until the effective date of the Interim Rent Increase,
-
-      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
-
-      (ii) any Tenant may comment in writing to HPD regarding the Interim Rent Increase, and
-
-      (iii) HPD will consider any timely comments received from Tenants.
-
-      (i) Successor Tenants. An application for a family member to be approved as a successor tenant will be subject to the rules governing successor tenants set forth in Chapter 24 of Title 28 of the rules of the city of New York. The Tenant Association will be required to provide a statement either supporting or opposing the successor tenant application. This statement must include the Tenant Association's reasons for support or opposition.
-
-
-
-
-
-
-*§ 34-05 Disposition.* ::
-
-
-(a)  Disposition rent increase.
-
-   (1) Prior to disposition, HPD will prepare a statement of the projected cost of maintaining and operating the Building in the first year following Disposition, which statement will reflect,
-
-      (i) actual expenditures, adjusted for inflation on an individual or compounded yearly basis, for the maintenance and operation of the Building prior to Disposition (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services),
-
-      (ii) real estate taxes,
-
-      (iii) water and sewer charges,
-
-      (iv) contingency reserves,
-
-      (v) reserves for vacancies and uncollectible debts, and
-
-      (vi) any other costs anticipated to be associated with the maintenance and operation of the Building.
-
-   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the first year following disposition, as reflected in such statement, and shall implement a Disposition Rent Increase based upon such calculation.
-
-   (3) HPD will issue a disposition rent roll to the Tenant Association and will notify the Tenants of such Disposition Rent Increase at least thirty (30) days prior to the effective date of the new rent.
-
-   (4) From the date that Tenants receive notice of the Disposition Rent Increase until the effective date of the Disposition Rent Increase,
-
-      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
-
-      (ii) any Tenant may comment in writing to HPD regarding the Disposition Rent Increase, and
-
-      (iii) HPD will consider any timely comments received from Tenants.
-
-(b) Disposition. HPD will not convey a Building to an HDFC unless:
-
-   (1) the Tenant Association has, in the judgment of HPD, satisfactorily managed the Building during the term of the Tenant Interim Lease; and
-
-   (2) Tenants of at least eighty percent (80%) of the Occupied Units have signed subscription agreements to purchase the shares in the HDFC attributable to their dwelling units; and
-
-   (3) HPD has notified the Tenants of the Disposition Rent Increase; and
-
-   (4) if required by HPD, the HDFC has executed a regulatory agreement which may contain, without limitation, restrictions on renting, subletting, and sales of units, and requirements for transfer fees, primary residency, and establishment of reserve accounts to be serviced by HPD for a fee equal to 0.25% of the average monthly balance in the reserve account over the previous 12 month period.
-
-
-
-
-
-
-*§ 34-06 Rental Assistance.* ::
-
-
-(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, assist Tenants in completing rental assistance applications, and forward all necessary documentation to the appropriate authority for final review and processing.
-
-(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews with the authority responsible for determining a Tenant's eligibility for rental assistance, providing the necessary income certification and complying with all procedures to process an application.
-
-(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Tenant Association and/or HDFC of all applicants for rental assistance and shall forward to the Tenant Association and/or HDFC copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, the Tenant Association and/or HDFC, and HPD, before it becomes effective. This Interim Payment Agreement shall include:
-
-   (1) the amount of the increased rent for the apartment;
-
-   (2) the amount of rent that the Tenant must pay pending the final determination of the rental assistance application;
-
-   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
-
-   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
-
-(d) A Tenant who receives an Interim Payment Agreement will be required to pay the amount which s(he) would pay on a monthly basis if the rental assistance application is approved, or the rent charged prior to implementation of the rent increase, whichever is greater.
-
-(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
-
-   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
-
-   (2) any change in the rent charged by the City; or
-
-   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
-
-   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Tenant Association and/or HDFC; or
-
-   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
-
-(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
-
-
-
-
-
-
-*§ 34-07 Removal from the Program.* ::
-
-
-HPD may remove a Building from the program and terminate the Tenant Interim Lease with respect to such Building if HPD determines that:
-
-(a) there is a default under the Tenant Interim Lease; or
-
-(b) the management of the Building has failed to comply with generally accepted standards of management; or
-
-(c) the Tenant Association has an inadequate record in regard to rent collections; or
-
-(d) the Tenant Association has an inadequate record in regard to timely payment of bills; or
-
-(e) the Tenant Association has failed to comply with HPD reporting requirements as set forth in the Tenant Interim Lease; or
-
-(f) the Tenant Association has failed to comply with HPD directives; or
-
-(g) HPD determines that the Building no longer meets the eligibility requirements of the program.
-
-(h) for any other reason, it is no longer in the best interests of the City to keep the Building in the program.
-
-
-
-
-
-
-*§ 34-08 Miscellaneous Provisions.* ::
-
-
-(a)  HPD discretion. All determinations to be made by HPD in accordance with these Rules will be in the sole discretion of HPD.
-
-(b) Statutory authority not limited. Nothing in these Rules will be deemed to limit HPD's authority to act pursuant to applicable laws.
-
-(c) Method of notification. Unless otherwise provided herein, notices to Tenants will be in English and Spanish, and will either be posted in a common area of the Building and affixed to or placed under each dwelling unit door of the Building, or mailed to every occupied dwelling unit in the Building, as determined by HPD.
-
-(d) Technical violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules will not invalidate any action taken pursuant to these Rules, nor will such technical violations give rise to any rights, claims, or causes of action. HPD, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
-
-
-
-
 Chapter 33: Housing and Urban Renewal Projects and Programs
 --------------------------------------------------
 
@@ -15822,155 +15525,299 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
 
 
-Chapter 36: Alternative Enforcement Program
+Chapter 34: Tenant Interim Lease Program
 --------------------------------------------------
 
 
 
-*§ 36-01 Definitions.* ::
+*§ 34-01 Definitions.* ::
 
 
-For purposes of this chapter:
+Building. "Building" shall mean any City-owned multiple dwelling, other than a single room occupancy dwelling, which is occupied by Tenants.
 
-(a) Alternative Enforcement Program. "Alternative Enforcement Program" shall mean the program established by Local Law 29 of 2007.
+City. "City" shall mean the City of New York.
 
-(b) Department. "Department" shall mean the New York City Department of Housing Preservation and Development or its successor.
+Disposition. "Disposition" shall mean the sale of a Building to an HDFC.
 
-(c) Emergency Repair Charge. "Emergency Repair Charge" shall mean a charge or lien incurred as the result of repair work ordered by the Department pursuant to §§ 27-2125 or 27-2127 of the Housing Maintenance Code.
+Disposition Rent Increase. "Disposition Rent Increase" shall mean the last rent set by HPD prior to Disposition.
 
-(d) Housing Maintenance Code. "Housing Maintenance Code" shall mean chapter two of title 27 of the administrative code of the city of New York.
+HDFC. "HDFC" shall mean a housing development fund company formed pursuant to Article XI of the Private Housing Finance Law in order to purchase a Building pursuant to these Rules.
 
-(e) Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the New York State Multiple Dwelling Law.
+HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City.
 
+Intake Rent Increase. "Intake Rent Increase" shall mean the initial rent set by HPD upon Selection of a Building.
 
+Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, the Tenant Association and/or HDFC, and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
 
+Interim Rent Increase. "Interim Rent Increase" shall mean any rent, other than an Intake Rent Increase or a Disposition Rent Increase, set by HPD from time to time after Selection and before Disposition of a Building.
 
+Laws. "Laws" shall mean any and all applicable laws, orders, rules and regulations.
 
+Occupied Units. "Occupied Units" shall mean any lawfully occupied dwelling units leased and occupied by a Tenant in a Building.
 
-*§ 36-02 Request for Reinspection and Dismissal of Violations.* ::
+Program. "Program" shall mean the Tenant Interim Lease Program.
 
+Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
 
-(a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
+Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
 
-   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
+Rules. "Rules" shall mean the Rules set forth in this chapter.
 
-   (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
+Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit in a Building pursuant to a lease with the City or with a Tenant Association that has entered into a Tenant Interim Lease. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
 
-   (4) Such application will not be processed by the Department unless such building is registered with the Department in accordance with the provisions of §§ 27-2097 through 27-2099 of the Housing Maintenance Code.
+Tenant Association. "Tenant Association" shall mean an unincorporated association with elected officers that has been formed by and continues to include as members the Tenants of at least sixty percent (60%) of the Occupied Units in a Building. If there is more than one such unincorporated association, "Tenant Association" shall mean the one from which HPD accepts an application for the Program and, if applicable, the one with which HPD executes a Tenant Interim Lease.
 
+Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-month net lease of an entire Building executed by the City, as lessor, and by the Tenant Association, as lessee, following Selection of a Building.
 
 
 
 
 
-*§ 36-03 Alternative Enforcement Program Fees.* ::
 
+*§ 34-02 General.* ::
 
-(a)  An owner of a building who has been notified of participation in the Alternative Enforcement Program shall be subject to fees for any inspection, reinspection or any other action undertaken by the Department during the time period that such building is in such Program. The schedule of fees is as follows:
 
-   (1) For each reinspection performed upon application by an owner for dismissal of violations within the first four months after notification of participation in the Alternative Enforcement Program: $1,000 per building.
+(a)  Coverage. These Rules will govern the procedures for: selecting Buildings for the Program, leasing Buildings to the Tenant Associations, determining and establishing rent, providing notice to Tenants and terminating buildings from the Program. Buildings in the Program will be subject to these Rules, 28 RCNY Chapter 21, and 28 RCNY Chapter 24. Notwithstanding any provision of 28 RCNY Chapter 14 to the contrary, Buildings in the Program will not be subject to 28 RCNY Chapter 14.
 
-   (2) For a building-wide inspection, monitoring of repair work and reassessment of a building pursuant to subdivisions k and m of § 27-2153 of the Housing Maintenance Code: $500 per dwelling unit every six months, beginning on the date of the building-wide inspection, with a maximum total fee of $1,000 per dwelling unit during participation in the Alternative Enforcement Program.
+(b) Program Description. Under the Program, Buildings are net leased to Tenant Associations and subsequently sold to HDFCs that will thereafter be solely responsible for the operation of such Buildings.
 
-   (3) For each inspection based upon a complaint that results in issuance of a class B or class C violation: $200 per inspection.
 
-   (4) For each reinspection pursuant to a certification of correction of violation(s) submitted to the Department, where the Department finds that one or more violations have not been corrected: $100 per reinspection per building.
 
-(b) All fees imposed pursuant to this section that remain unpaid by the owner shall constitute a debt recoverable from the owner and a lien upon the building and lot, and upon the rents and other income thereof. The provisions of article eight of subchapter five of the Housing Maintenance Code shall govern the effect and enforcement of such debt and lien.
 
 
 
+*§ 34-03 Entering the Program.* ::
 
 
+(a)  Eligible buildings. A Building may be eligible for selection for the Program if HPD makes all of the following discretionary determinations:
 
-*§ 36-04 Education Course.* ::
+   (1) the Building requires Rehabilitation such that it is not marketable to the private sector in its "as is" condition, and HPD funding is necessary to return the Building to the private sector; and
 
+   (2) the performance of Rehabilitation is technically feasible; and
 
-An owner or managing agent or other designated representative of a building which is the subject of an order by the Department pursuant to subdivision k of § 27-2153 of the Housing Maintenance Code, may be required to complete a course of training relating to building operation and maintenance, approved by the Department, prior to discharge of the building from the Alternative Enforcement Program. The charge for participation in such course shall be $300 for each participant. Such charge shall be paid prior to commencement of participation in such course.
+   (3) the cost of Rehabilitation is economically reasonable; and
 
+   (4) the cost of Rehabilitation is within available HPD resources; and
 
+   (5) the Building is a Class A multiple dwelling containing at least three dwelling units; and
 
+   (6) at least two of the dwelling units in the Building are Occupied Units; and
 
+   (7) the Building has not been designated by HPD for disposition through another program, except to the extent that rules promulgated by HPD for such other program explicitly authorize a withdrawal to participate in the Program; and
 
+   (8) the Building has not previously participated in the Program, unless such participation was terminated more than five years prior to the current application.
 
-*§ 36-05 Criteria for Identification of Buildings for Participation in the Alternative Enforcement Program.* ::
+(b) Application procedure; selection requirements. If HPD has determined that a Building is eligible for the Program and its assignment to the Program is in the best interests of the City, a Tenant Association may apply for selection for the Program by complying with the following standards:
 
+   (1) the Tenant Association must submit an application on a form supplied by HPD signed by
 
-(a) Beginning in the sixth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
+      (i) the Tenants of all of the Occupied Units in a Building containing up to five dwelling units, or
 
-   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
+      (ii) the Tenants of at least sixty percent (60%) of the Occupied Units in a Building containing six or more dwelling units; and
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
+   (2) the Tenants of at least fifty percent (50%) of the Occupied Units must pay one hundred percent (100%) of the billable rent for their respective dwelling units for the three months immediately prior to the filing of the application and continuously until HPD makes a determination of Selection; and
 
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the three-year period prior to such identification.
+   (3) officers and members of the Tenant Association must attend training classes as directed by HPD; and
 
-   (2) A multiple dwelling that contains twenty or more dwelling units must have:
+   (4) the Tenant Association must notify the Tenants of a meeting at which HPD will discuss the Program. Tenants of at least fifty percent (50%) of the Occupied Units must attend the meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the meeting, the Tenant Association must notify the Tenants of a second meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the second meeting, the Building will not be considered for the Program; and
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
+   (5) HPD must determine that the Building can be managed by the Tenant Asso- ciation.
 
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the three-year period prior to such identification.
+(c) Notice of approval. If the application has been approved, HPD will notify the Tenant Association of such approval in a written notice by regular mail to the president of the Tenant Association. The notice of approval shall include any notice of an Intake Rent Increase, which shall be implemented thirty (30) days thereafter in accordance with subdivision (f) of this section, and HPD shall send a copy to the Tenants by regular mail. If the application has been rejected, HPD will notify the president of the Tenant Association of such rejection and the reason therefor by regular mail.
 
-(b) Beginning in the eighth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
+(d) Post-acceptance activities. Upon acceptance of the application and prior to execution of the Tenant Interim Lease, the Tenant Association must:
 
-   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
+   (1) adopt by-laws and articles of association in a form specified by HPD; and
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
+   (2) elect officers; and
 
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
+   (3) set up a restricted bank account as required by HPD.
 
-   (2) A multiple dwelling that contains twenty or more dwelling units must have:
+(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
+(f) Intake Rent Increases.
 
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
+   (1) HPD will from time to time establish intake rent levels, expressed as a minimum dollar amount per zoning room, for all dwelling units in Buildings entering the Program. Such intake rent levels will be based upon maintenance and operating expenses in similar buildings. Such intake rent levels and the rationale therefore will be kept on file by HPD and will be available for public inspection.
 
-(c) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, the Department will use the following criteria to identify distressed buildings for participation in the program:
+   (2) HPD will issue an intake rent roll to the Tenant Association and will notify the Tenants of the Intake Rent Increase at least thirty (30) days prior to the effective date of the Intake Rent Increase.
 
-   (1) The Department will identify no more than twenty-five multiple dwellings that contain less than six units for participation in the program. Such multiple dwellings must have:
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification;
 
-   (2) A multiple dwelling that contains at least six but not more than fourteen dwelling units must have:
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
+*§ 34-04 Program Activities.* ::
 
-   (3) A multiple dwelling that contains fifteen or more dwelling units must have:
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
+(a)  Lease. Upon acceptance of a Building into the Program, HPD will temporarily lease the Building to the Tenant Association pursuant to the terms of a Tenant Interim Lease. The Tenant Interim Lease shall require the Tenant Association to follow these Rules and all HPD directives. Furthermore, officers and members of the Tenant Association must attend training classes as directed by HPD during the term of the Tenant Interim Lease.
 
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
+(b) Residential vacancies. If any dwelling unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant dwelling unit, or allow such vacant dwelling unit to become occupied, without the prior written approval of HPD.
 
-(d) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, for purposes of identifying buildings for participation in the Alternative Enforcement Program, those buildings having the highest amount of paid and unpaid Emergency Repair Charges incurred within the five-year period prior to such identification shall be selected first.
+(c) Tenant Association. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant dwelling units. Such HPD directives may include, without limitation,
 
-(e) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, under the circumstances where the criteria set forth in subdivision (c) do not yield 250 buildings for participation in the program, the Department may apply the following criteria to select additional buildings for participation:
+      (i) procedures and criteria for the selection of new Tenants,
 
-   (1) A multiple dwelling that contains six or more dwelling units must have:
+      (ii) rents to be charged,
 
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate four or more such violations for every dwelling unit in the multiple dwelling; and
+      (iii) priority for persons that HPD has determined are in need of housing, and
 
-      (ii) For purposes of identifying additional buildings for participation in the Alternative Enforcement Program pursuant to this paragraph, those buildings having the highest number of open hazardous and immediately hazardous violations within the five-year period prior to such identification shall be selected first.
+      (iv) the use of specified lists of eligible persons.
 
+(d) Non-residential vacancies. If any non-residential unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant non-residential unit, or allow such vacant non-residential unit to become occupied, without the prior written approval of HPD. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant non-residential units. Such HPD directives may include, without limitation,
 
+      (i) procedures and criteria for the selection of new non-residential tenants, and
 
+      (ii) rents to be charged.
 
+(e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
 
+(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
 
+(g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
 
+(h) Interim rent increases. During the term of the Tenant Interim Lease, one or more rent increases may be necessary to reflect the actual costs of operating a Building. HPD will from time to time establish an interim rent roll for a Building in the Program reflecting expenses of maintaining and operating the Building.
 
-*§ 36-06. [Exclusions: "Rehabilitation"; Previous Participation.]* ::
+   (1) HPD will prepare a statement of the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, which statement will reflect actual expenditures, adjusted for inflation on an individual or on a compounded yearly basis, for the maintenance and operation of the Building (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services) and any other costs anticipated to be associated with the maintenance and operation of the Building.
 
+   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, as reflected in such statement, and shall implement an Interim Rent Increase based upon such calculation.
 
-(a) For the purpose of excluding a building from the Alternative Enforcement Program pursuant to administrative code § 27-2153(e)(2) on the basis that the building is the subject of a loan provided by or through the department or the New York City Housing Development Corporation for the purpose of rehabilitation, the term "rehabilitation" shall mean that the scope of work for the building under the loan includes a building-wide replacement of a major component of the building.
+   (3) HPD will issue an interim rent roll to the Tenant Association and will notify the Tenants of such Interim Rent Increase at least thirty (30) days prior to the effective date of the new rent.
 
-(b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
+   (4) From the date that Tenants receive notice of the Interim Rent Increase until the effective date of the Interim Rent Increase,
 
+      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
 
+      (ii) any Tenant may comment in writing to HPD regarding the Interim Rent Increase, and
 
-Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
+      (iii) HPD will consider any timely comments received from Tenants.
+
+      (i) Successor Tenants. An application for a family member to be approved as a successor tenant will be subject to the rules governing successor tenants set forth in Chapter 24 of Title 28 of the rules of the city of New York. The Tenant Association will be required to provide a statement either supporting or opposing the successor tenant application. This statement must include the Tenant Association's reasons for support or opposition.
+
+
+
+
+
+
+*§ 34-05 Disposition.* ::
+
+
+(a)  Disposition rent increase.
+
+   (1) Prior to disposition, HPD will prepare a statement of the projected cost of maintaining and operating the Building in the first year following Disposition, which statement will reflect,
+
+      (i) actual expenditures, adjusted for inflation on an individual or compounded yearly basis, for the maintenance and operation of the Building prior to Disposition (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services),
+
+      (ii) real estate taxes,
+
+      (iii) water and sewer charges,
+
+      (iv) contingency reserves,
+
+      (v) reserves for vacancies and uncollectible debts, and
+
+      (vi) any other costs anticipated to be associated with the maintenance and operation of the Building.
+
+   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the first year following disposition, as reflected in such statement, and shall implement a Disposition Rent Increase based upon such calculation.
+
+   (3) HPD will issue a disposition rent roll to the Tenant Association and will notify the Tenants of such Disposition Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+
+   (4) From the date that Tenants receive notice of the Disposition Rent Increase until the effective date of the Disposition Rent Increase,
+
+      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
+
+      (ii) any Tenant may comment in writing to HPD regarding the Disposition Rent Increase, and
+
+      (iii) HPD will consider any timely comments received from Tenants.
+
+(b) Disposition. HPD will not convey a Building to an HDFC unless:
+
+   (1) the Tenant Association has, in the judgment of HPD, satisfactorily managed the Building during the term of the Tenant Interim Lease; and
+
+   (2) Tenants of at least eighty percent (80%) of the Occupied Units have signed subscription agreements to purchase the shares in the HDFC attributable to their dwelling units; and
+
+   (3) HPD has notified the Tenants of the Disposition Rent Increase; and
+
+   (4) if required by HPD, the HDFC has executed a regulatory agreement which may contain, without limitation, restrictions on renting, subletting, and sales of units, and requirements for transfer fees, primary residency, and establishment of reserve accounts to be serviced by HPD for a fee equal to 0.25% of the average monthly balance in the reserve account over the previous 12 month period.
+
+
+
+
+
+
+*§ 34-06 Rental Assistance.* ::
+
+
+(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, assist Tenants in completing rental assistance applications, and forward all necessary documentation to the appropriate authority for final review and processing.
+
+(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews with the authority responsible for determining a Tenant's eligibility for rental assistance, providing the necessary income certification and complying with all procedures to process an application.
+
+(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Tenant Association and/or HDFC of all applicants for rental assistance and shall forward to the Tenant Association and/or HDFC copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, the Tenant Association and/or HDFC, and HPD, before it becomes effective. This Interim Payment Agreement shall include:
+
+   (1) the amount of the increased rent for the apartment;
+
+   (2) the amount of rent that the Tenant must pay pending the final determination of the rental assistance application;
+
+   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
+
+   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
+
+(d) A Tenant who receives an Interim Payment Agreement will be required to pay the amount which s(he) would pay on a monthly basis if the rental assistance application is approved, or the rent charged prior to implementation of the rent increase, whichever is greater.
+
+(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
+
+   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
+
+   (2) any change in the rent charged by the City; or
+
+   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
+
+   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Tenant Association and/or HDFC; or
+
+   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
+
+(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
+
+
+
+
+
+
+*§ 34-07 Removal from the Program.* ::
+
+
+HPD may remove a Building from the program and terminate the Tenant Interim Lease with respect to such Building if HPD determines that:
+
+(a) there is a default under the Tenant Interim Lease; or
+
+(b) the management of the Building has failed to comply with generally accepted standards of management; or
+
+(c) the Tenant Association has an inadequate record in regard to rent collections; or
+
+(d) the Tenant Association has an inadequate record in regard to timely payment of bills; or
+
+(e) the Tenant Association has failed to comply with HPD reporting requirements as set forth in the Tenant Interim Lease; or
+
+(f) the Tenant Association has failed to comply with HPD directives; or
+
+(g) HPD determines that the Building no longer meets the eligibility requirements of the program.
+
+(h) for any other reason, it is no longer in the best interests of the City to keep the Building in the program.
+
+
+
+
+
+
+*§ 34-08 Miscellaneous Provisions.* ::
+
+
+(a)  HPD discretion. All determinations to be made by HPD in accordance with these Rules will be in the sole discretion of HPD.
+
+(b) Statutory authority not limited. Nothing in these Rules will be deemed to limit HPD's authority to act pursuant to applicable laws.
+
+(c) Method of notification. Unless otherwise provided herein, notices to Tenants will be in English and Spanish, and will either be posted in a common area of the Building and affixed to or placed under each dwelling unit door of the Building, or mailed to every occupied dwelling unit in the Building, as determined by HPD.
+
+(d) Technical violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules will not invalidate any action taken pursuant to these Rules, nor will such technical violations give rise to any rights, claims, or causes of action. HPD, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
 
 
 
@@ -16258,6 +16105,159 @@ Under satisfactory completion of the Rehabilitation, title for the Building shal
 (d) Technical Violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules shall not invalidate any action taken pursuant to these Rules, nor shall such technical violations give rise to any rights, claims, or causes of action. The Commissioner, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
 
 (e) Funding Source Requirements. Notwithstanding any provision of these Rules to the contrary, if the requirements of any funding source for a Project conflict with the requirements of these Rules, the requirements of the funding source shall govern.
+
+
+
+
+Chapter 36: Alternative Enforcement Program
+--------------------------------------------------
+
+
+
+*§ 36-01 Definitions.* ::
+
+
+For purposes of this chapter:
+
+(a) Alternative Enforcement Program. "Alternative Enforcement Program" shall mean the program established by Local Law 29 of 2007.
+
+(b) Department. "Department" shall mean the New York City Department of Housing Preservation and Development or its successor.
+
+(c) Emergency Repair Charge. "Emergency Repair Charge" shall mean a charge or lien incurred as the result of repair work ordered by the Department pursuant to §§ 27-2125 or 27-2127 of the Housing Maintenance Code.
+
+(d) Housing Maintenance Code. "Housing Maintenance Code" shall mean chapter two of title 27 of the administrative code of the city of New York.
+
+(e) Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the New York State Multiple Dwelling Law.
+
+
+
+
+
+
+*§ 36-02 Request for Reinspection and Dismissal of Violations.* ::
+
+
+(a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
+
+   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
+
+   (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
+
+   (4) Such application will not be processed by the Department unless such building is registered with the Department in accordance with the provisions of §§ 27-2097 through 27-2099 of the Housing Maintenance Code.
+
+
+
+
+
+
+*§ 36-03 Alternative Enforcement Program Fees.* ::
+
+
+(a)  An owner of a building who has been notified of participation in the Alternative Enforcement Program shall be subject to fees for any inspection, reinspection or any other action undertaken by the Department during the time period that such building is in such Program. The schedule of fees is as follows:
+
+   (1) For each reinspection performed upon application by an owner for dismissal of violations within the first four months after notification of participation in the Alternative Enforcement Program: $1,000 per building.
+
+   (2) For a building-wide inspection, monitoring of repair work and reassessment of a building pursuant to subdivisions k and m of § 27-2153 of the Housing Maintenance Code: $500 per dwelling unit every six months, beginning on the date of the building-wide inspection, with a maximum total fee of $1,000 per dwelling unit during participation in the Alternative Enforcement Program.
+
+   (3) For each inspection based upon a complaint that results in issuance of a class B or class C violation: $200 per inspection.
+
+   (4) For each reinspection pursuant to a certification of correction of violation(s) submitted to the Department, where the Department finds that one or more violations have not been corrected: $100 per reinspection per building.
+
+(b) All fees imposed pursuant to this section that remain unpaid by the owner shall constitute a debt recoverable from the owner and a lien upon the building and lot, and upon the rents and other income thereof. The provisions of article eight of subchapter five of the Housing Maintenance Code shall govern the effect and enforcement of such debt and lien.
+
+
+
+
+
+
+*§ 36-04 Education Course.* ::
+
+
+An owner or managing agent or other designated representative of a building which is the subject of an order by the Department pursuant to subdivision k of § 27-2153 of the Housing Maintenance Code, may be required to complete a course of training relating to building operation and maintenance, approved by the Department, prior to discharge of the building from the Alternative Enforcement Program. The charge for participation in such course shall be $300 for each participant. Such charge shall be paid prior to commencement of participation in such course.
+
+
+
+
+
+
+*§ 36-05 Criteria for Identification of Buildings for Participation in the Alternative Enforcement Program.* ::
+
+
+(a) Beginning in the sixth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
+
+   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the three-year period prior to such identification.
+
+   (2) A multiple dwelling that contains twenty or more dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the three-year period prior to such identification.
+
+(b) Beginning in the eighth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
+
+   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
+
+   (2) A multiple dwelling that contains twenty or more dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
+
+(c) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, the Department will use the following criteria to identify distressed buildings for participation in the program:
+
+   (1) The Department will identify no more than twenty-five multiple dwellings that contain less than six units for participation in the program. Such multiple dwellings must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification;
+
+   (2) A multiple dwelling that contains at least six but not more than fourteen dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
+
+   (3) A multiple dwelling that contains fifteen or more dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
+
+(d) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, for purposes of identifying buildings for participation in the Alternative Enforcement Program, those buildings having the highest amount of paid and unpaid Emergency Repair Charges incurred within the five-year period prior to such identification shall be selected first.
+
+(e) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, under the circumstances where the criteria set forth in subdivision (c) do not yield 250 buildings for participation in the program, the Department may apply the following criteria to select additional buildings for participation:
+
+   (1) A multiple dwelling that contains six or more dwelling units must have:
+
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate four or more such violations for every dwelling unit in the multiple dwelling; and
+
+      (ii) For purposes of identifying additional buildings for participation in the Alternative Enforcement Program pursuant to this paragraph, those buildings having the highest number of open hazardous and immediately hazardous violations within the five-year period prior to such identification shall be selected first.
+
+
+
+
+
+
+
+
+*§ 36-06. [Exclusions: "Rehabilitation"; Previous Participation.]* ::
+
+
+(a) For the purpose of excluding a building from the Alternative Enforcement Program pursuant to administrative code § 27-2153(e)(2) on the basis that the building is the subject of a loan provided by or through the department or the New York City Housing Development Corporation for the purpose of rehabilitation, the term "rehabilitation" shall mean that the scope of work for the building under the loan includes a building-wide replacement of a major component of the building.
+
+(b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
+
+
+
+Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 
@@ -17486,107 +17486,6 @@ Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots a
 
 
 
-Chapter 44: Orders By the Department For Repair of Underlying Conditions
---------------------------------------------------
-
-
-
-*§ 44-01 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meaning:
-
-(a) "Class B violation" means a hazardous violation of the Housing Maintenance Code.
-
-(b) "Class C violation" means an immediately hazardous violation of the Housing Maintenance Code.
-
-(c) "HDC" means the Housing Development Corporation or its successor.
-
-(d) "Department" or "HPD" means the New York City Department of Housing Preservation and Development or its successor.
-
-(e) "Housing Maintenance Code" means chapter two of title 27 of the Administrative Code of the City of New York.
-
-(f) "Underlying Condition" means a physical defect or failure of a building system that is causing or has caused a violation of the Administrative Code, Multiple Dwelling Law, or any other state or local law that imposes requirements on dwellings, including, but not limited to, a structural defect or failure of a heating, plumbing, or other system.
-
-
-
-
-
-
-*§ 44-02 Criteria.* ::
-
-
-(a) The Department may identify buildings for issuance of orders to correct Underlying Conditions based upon the following criteria:
-
-   (1) A building with a Class B or Class C violation on record related to the existence of mold or water leaks that was issued by the Department within the prior year preceding issuance of the order that has not been properly certified as corrected by the owner, or that was corrected by the Department, and such building:
-
-      (i) Contains three to five dwelling units and at least 50% of such units have one such violation;
-
-      (ii) Contains six to nine dwelling units and at least 25% of such units have one such violation; or
-
-      (iii) Contains ten dwelling units or more and at least 15% of such units have one such violation.
-
-   (2) The Department will prioritize selection of buildings meeting the criteria in paragraph (1) of this subdivision first by those buildings with the highest total number of Class C violations relating to the existence of mold or water leaks, followed by those buildings with the highest total number of both Class C and Class B violations relating to the existence of mold or water leaks.
-
-(b) The Department may exclude a building from the issuance of an order to correct Underlying Conditions where such building otherwise meets the criteria in paragraph (1) of subdivision (a) of this section, but such building is:
-
-   (1) A one- or two-family building;
-
-   (2) Subject to an order issued in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153;
-
-   (3) Subject to the appointment of an administrator under the 7A Program pursuant to Article 7A of the New York State Real Property Actions and Proceedings Law;
-
-   (4) Subject to a comprehensive enforcement action by the Department;
-
-   (5) Conveyed to a new owner after an in rem judgment of foreclosure in favor of New York City in the Third Party Transfer Program pursuant to New York City Administrative Code § 11-412.1 within the last five years; or
-
-   (6) The subject of a preservation loan made by HPD or HDC within the last two years.
-
-
-
-
-
-
-*§ 44-03 Compliance and Documentation.* ::
-
-
-(a) An owner must comply with an order issued by the Department within four months of the issuance of an order, or within an additional two months upon approval of such extension by the Department, and submit the documentation required by this section.
-
-(b) To request an extension of two months to comply with an order, an owner must submit the following documentation to the Department within two months of issuance of such order:
-
-   (1) An affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that is the source of the mold or water leak; and
-
-   (2) An affidavit from the owner of the building in a form approved by the Department stating that the Underlying Condition and related violations will be corrected, describing the work that will be performed to correct such Underlying Condition and violations, and stating that the work will be completed within the extended time period.
-
-(c) To request a rescission of the order issued by the Department, an owner must submit the documentation required by paragraph 1 or paragraph 2 of this subdivision within four months of issuance of the order, or within six months of such issuance if an extension was granted by the Department. In addition, the Department will not grant a rescission unless it finds, after inspection, that at least 80% of the mold and water leak violations have been repaired.
-
-   (1) If there are no Underlying Conditions:
-
-      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department stating that there are no Underlying Conditions that are causing the mold and water leak violations; and
-
-      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
-
-   (2) If Underlying Conditions and related violations have been repaired:
-
-      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that was the source of the mold or water leak violations, stating that the Underlying Condition and related violations were properly repaired, and identifying who repaired the Underlying Condition and related violations; and
-
-      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
-
-(d) The Department may also rescind an order for the following reasons:
-
-   (1) An administrator had been appointed for the building pursuant to Article 7A of the Real Property Actions and Proceedings Law and this fact became known to the Department after issuance of the Underlying Conditions order;
-
-   (2) A preservation loan was closed by HPD or HDC during the four- or six-month period for compliance with the Underlying Conditions order;
-
-   (3) HPD completed the repair work required under the Underlying Conditions order;
-
-   (4) HPD selected a building for participation in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153 during the four- or six-month period for compliance with the Underlying Conditions order; or
-
-   (5) The order was issued to a building that is otherwise excluded from such issuance pursuant to 28 RCNY § 44-02(b).
-
-
-
-
 Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residential Real Property]
 --------------------------------------------------
 
@@ -17690,6 +17589,107 @@ Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residenti
 
 
 The term "mortgagee" as used in these rules has the meaning set forth in section 27-2109.1(a)(1) of the administrative code of the city of New York.
+
+
+
+
+Chapter 44: Orders By the Department For Repair of Underlying Conditions
+--------------------------------------------------
+
+
+
+*§ 44-01 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meaning:
+
+(a) "Class B violation" means a hazardous violation of the Housing Maintenance Code.
+
+(b) "Class C violation" means an immediately hazardous violation of the Housing Maintenance Code.
+
+(c) "HDC" means the Housing Development Corporation or its successor.
+
+(d) "Department" or "HPD" means the New York City Department of Housing Preservation and Development or its successor.
+
+(e) "Housing Maintenance Code" means chapter two of title 27 of the Administrative Code of the City of New York.
+
+(f) "Underlying Condition" means a physical defect or failure of a building system that is causing or has caused a violation of the Administrative Code, Multiple Dwelling Law, or any other state or local law that imposes requirements on dwellings, including, but not limited to, a structural defect or failure of a heating, plumbing, or other system.
+
+
+
+
+
+
+*§ 44-02 Criteria.* ::
+
+
+(a) The Department may identify buildings for issuance of orders to correct Underlying Conditions based upon the following criteria:
+
+   (1) A building with a Class B or Class C violation on record related to the existence of mold or water leaks that was issued by the Department within the prior year preceding issuance of the order that has not been properly certified as corrected by the owner, or that was corrected by the Department, and such building:
+
+      (i) Contains three to five dwelling units and at least 50% of such units have one such violation;
+
+      (ii) Contains six to nine dwelling units and at least 25% of such units have one such violation; or
+
+      (iii) Contains ten dwelling units or more and at least 15% of such units have one such violation.
+
+   (2) The Department will prioritize selection of buildings meeting the criteria in paragraph (1) of this subdivision first by those buildings with the highest total number of Class C violations relating to the existence of mold or water leaks, followed by those buildings with the highest total number of both Class C and Class B violations relating to the existence of mold or water leaks.
+
+(b) The Department may exclude a building from the issuance of an order to correct Underlying Conditions where such building otherwise meets the criteria in paragraph (1) of subdivision (a) of this section, but such building is:
+
+   (1) A one- or two-family building;
+
+   (2) Subject to an order issued in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153;
+
+   (3) Subject to the appointment of an administrator under the 7A Program pursuant to Article 7A of the New York State Real Property Actions and Proceedings Law;
+
+   (4) Subject to a comprehensive enforcement action by the Department;
+
+   (5) Conveyed to a new owner after an in rem judgment of foreclosure in favor of New York City in the Third Party Transfer Program pursuant to New York City Administrative Code § 11-412.1 within the last five years; or
+
+   (6) The subject of a preservation loan made by HPD or HDC within the last two years.
+
+
+
+
+
+
+*§ 44-03 Compliance and Documentation.* ::
+
+
+(a) An owner must comply with an order issued by the Department within four months of the issuance of an order, or within an additional two months upon approval of such extension by the Department, and submit the documentation required by this section.
+
+(b) To request an extension of two months to comply with an order, an owner must submit the following documentation to the Department within two months of issuance of such order:
+
+   (1) An affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that is the source of the mold or water leak; and
+
+   (2) An affidavit from the owner of the building in a form approved by the Department stating that the Underlying Condition and related violations will be corrected, describing the work that will be performed to correct such Underlying Condition and violations, and stating that the work will be completed within the extended time period.
+
+(c) To request a rescission of the order issued by the Department, an owner must submit the documentation required by paragraph 1 or paragraph 2 of this subdivision within four months of issuance of the order, or within six months of such issuance if an extension was granted by the Department. In addition, the Department will not grant a rescission unless it finds, after inspection, that at least 80% of the mold and water leak violations have been repaired.
+
+   (1) If there are no Underlying Conditions:
+
+      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department stating that there are no Underlying Conditions that are causing the mold and water leak violations; and
+
+      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
+
+   (2) If Underlying Conditions and related violations have been repaired:
+
+      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that was the source of the mold or water leak violations, stating that the Underlying Condition and related violations were properly repaired, and identifying who repaired the Underlying Condition and related violations; and
+
+      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
+
+(d) The Department may also rescind an order for the following reasons:
+
+   (1) An administrator had been appointed for the building pursuant to Article 7A of the Real Property Actions and Proceedings Law and this fact became known to the Department after issuance of the Underlying Conditions order;
+
+   (2) A preservation loan was closed by HPD or HDC during the four- or six-month period for compliance with the Underlying Conditions order;
+
+   (3) HPD completed the repair work required under the Underlying Conditions order;
+
+   (4) HPD selected a building for participation in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153 during the four- or six-month period for compliance with the Underlying Conditions order; or
+
+   (5) The order was issued to a building that is otherwise excluded from such issuance pursuant to 28 RCNY § 44-02(b).
 
 
 
@@ -18170,113 +18170,6 @@ e. A contractor or subcontractor who submits an inaccurate Contractor Certified 
 
 
 
-Chapter 52: Speculation Watch List
---------------------------------------------------
-
-
-
-*§ 52-01 Definitions.* ::
-
-
-As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
-
-Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
-
-Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
-
-Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD.
-
-DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
-
-Dwelling Unit. “Dwelling Unit” means a dwelling unit as defined in § 27-2004 of the Housing Maintenance Code.
-
-Fiscal Quarter. “Fiscal Quarter” means any one of the following periods: (i) the period beginning on the first day of July and ending on the last day of September; or (ii) the period beginning on the first day of October and ending on the last day of December; or (iii) the period beginning on the first day of January and ending on the last day of March; or (iv) the period beginning on the first day of April and ending on the last day of June.
-
-Fiscal Year. “Fiscal Year” means the fiscal year of the City of New York, which commences July 1 and ends June 30.
-
-HDC. “HDC” means the New York City Housing Development Corporation.
-
-HDFC. “HDFC” means a housing development fund company organized pursuant to Article 11 of the Private Housing Finance Law.
-
-HPD. “HPD” means the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
-
-Internal Revenue Code. “Internal Revenue Code” means the United States Internal Revenue Code of 1986, as amended.
-
-List. “List” means the speculation watch list that is published during each Fiscal Quarter and includes all Multiple Dwellings that (i) were the subject of Qualified Transactions and (ii) HPD has determined to be at risk of tenant harassment in accordance with the criteria established in 28 RCNY § 52-02.
-
-Listed Building. “Listed Building” means a Multiple Dwelling included on a List.
-
-Local Supervision. “Supervision” means monitoring of the performance and regulatory compliance of Affordable Housing by HPD’s Division of Asset Management, HPD’s Division of Housing Supervision, or HDC Asset Management, or their successors.
-
-Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined in section 4 of the Multiple Dwelling Law:
-
-   (i) in which a majority of Dwelling Units are Rent Regulated;
-
-   (ii) that appears on the most recent DOF final assessment roll;
-
-   (iii) for which, during the Fiscal Year of the most recent DOF final assessment roll, DOF has recorded a notice of property value that lists numerical values greater than zero for both estimated gross income and estimated expenses;
-
-   (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
-
-   (v) that either (a) is exclusively residential with eleven or more Dwelling Units or (b) contains seven or more Dwelling Units and one or more commercial units;
-
-   (vi) that is not providing Affordable Housing subject to Local Supervision;
-
-   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; and
-
-   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality.
-
-Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
-
-   (i) occurred during the most recently concluded Fiscal Quarter;
-
-   (ii) has a sale price greater than $10,000;
-
-   (iii) is entirely contained within a single tax lot;
-
-   (iv) did not involve any federal, state, or local agency or instrumentality as either the purchaser or the seller; and
-
-   (v) did not involve an HDFC as the purchaser.
-
-Rent Regulated. “Rent Regulated” means subject to rent regulation under the Rent Stabilization Law of 1969, the Rent Stabilization Code, the Private Housing Finance Law, or the Emergency Tenant Protection Act of 1974, all as amended, together with any successor statutes or regulations addressing substantially the same subject matter.
-
-Zoning Resolution. “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended.
-
-
-
-
-
-
-
-
-*§ 52-02 Criteria for inclusion.* ::
-
-
-A Multiple Dwelling that is the subject of a Qualified Transaction and that has a Capitalization Rate less than the applicable Borough Capitalization Rate shall be added to the List. HPD will post a public e-mail address on its website through which HPD may be alerted as to any Multiple Dwelling that was either included on the List that allegedly did not meet the criteria for inclusion at the time of its inclusion or omitted from the List that allegedly did meet the criteria for inclusion.
-
-
-
-
-
-
-
-
-*§ 52-03 Criteria for removal.* ::
-
-
-A Listed Building shall be removed from the List if, subsequent to the Qualified Transaction:
-
-(a) it begins providing Affordable Housing subject to Local Supervision;
-
-(b) it receives a full or partial exemption from real property taxation pursuant to Article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; or
-
-(c) it receives benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any Federal, State, or local governmental agency or instrumentality.
-
-
-
-
-
-
 Chapter 51: Affordable New York Housing Program Rules and Eligibility Requirements Pursuant to Real Property Tax Law § 421-a(16)
 --------------------------------------------------
 
@@ -18476,171 +18369,107 @@ c. The Agency may waive the rule regarding the deadline by which to file a Notic
 
 
 
-Chapter 54: [Indoor Allergen Hazards]
+Chapter 52: Speculation Watch List
 --------------------------------------------------
 
 
 
-*§ 54-01 Definitions.* ::
+*§ 52-01 Definitions.* ::
 
 
-For purposes of this chapter:
+As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
 
-Common area. The term “common area” means a portion of a multiple dwelling that is not within a dwelling unit and that is regularly used by occupants for access to and egress from any dwelling unit within such multiple dwelling, as well as commonly used areas such as a laundry room.
+Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
 
-Department. The term “department” means the City of New York Department of Housing Preservation and Development.
+Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
 
-Harborage. The term “harborage” means any condition which provides shelter or protection for pests.
+Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD.
 
-Indoor allergen hazard. The term “indoor allergen hazard” means any indoor infestation of cockroaches, mice, or rats or conditions conducive to such infestation, or an indoor mold hazard.
+DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
 
-Indoor mold hazard. The term “indoor mold hazard” means any condition of mold growth on an indoor surface, building structure or ventilation system, including mold that is within wall cavities, that is likely to cause harm to a person or that has been cited as a violation by the Department.
+Dwelling Unit. “Dwelling Unit” means a dwelling unit as defined in § 27-2004 of the Housing Maintenance Code.
 
-Integrated pest management. The term “integrated pest management” means ongoing prevention, monitoring and pest control activities to eliminate pests from any building, lot, or dwelling. This includes, but is not limited to, the elimination of harborages and conditions conducive to pests, the use of traps, and, when necessary, the use of pesticides.
+Fiscal Quarter. “Fiscal Quarter” means any one of the following periods: (i) the period beginning on the first day of July and ending on the last day of September; or (ii) the period beginning on the first day of October and ending on the last day of December; or (iii) the period beginning on the first day of January and ending on the last day of March; or (iv) the period beginning on the first day of April and ending on the last day of June.
 
-Pest. The term “pest” means any unwanted member of the Class Insecta, including, but not limited to houseflies, lice, bees, cockroaches, moths, silverfish, beetles, bedbugs, ants, termites, hornets, mosquitoes and wasps, and members of the Phylum Arthropoda such as spiders, mites, ticks, centipedes and wood lice, or of the Order Rodentia, including but not limited to mice, Norway rats, and any other unwanted plant, animal or fungal life that is a pest because it is destructive, annoying or a nuisance.
+Fiscal Year. “Fiscal Year” means the fiscal year of the City of New York, which commences July 1 and ends June 30.
 
-Remediation or remediate. The term “remediation” or “remediate” means measures to eradicate pests in accordance with Administrative Code Section 27-2017.8 and these rules, and measures to eradicate indoor mold hazards in accordance with Administrative Code Section 27-2017.9 and these rules.
+HDC. “HDC” means the New York City Housing Development Corporation.
 
-Underlying defect. The term “underlying defect” means a condition that causes an indoor mold hazard, such as a water leak or water infiltration from plumbing or defective masonry pointing or other moisture condition, or causes an infestation of pests, including holes or entryway paths for pests.
+HDFC. “HDFC” means a housing development fund company organized pursuant to Article 11 of the Private Housing Finance Law.
 
-Visible mold. The term “visible mold” means mold that is readily identifiable by visual inspection, including mold that is behind furniture or other interior obstructions. Visible mold that is present on tile or grout does not constitute an indoor mold hazard violation under Administrative Code Section 27-2017.3.
+HPD. “HPD” means the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
 
+Internal Revenue Code. “Internal Revenue Code” means the United States Internal Revenue Code of 1986, as amended.
 
+List. “List” means the speculation watch list that is published during each Fiscal Quarter and includes all Multiple Dwellings that (i) were the subject of Qualified Transactions and (ii) HPD has determined to be at risk of tenant harassment in accordance with the criteria established in 28 RCNY § 52-02.
 
+Listed Building. “Listed Building” means a Multiple Dwelling included on a List.
 
+Local Supervision. “Supervision” means monitoring of the performance and regulatory compliance of Affordable Housing by HPD’s Division of Asset Management, HPD’s Division of Housing Supervision, or HDC Asset Management, or their successors.
 
+Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined in section 4 of the Multiple Dwelling Law:
 
+   (i) in which a majority of Dwelling Units are Rent Regulated;
 
+   (ii) that appears on the most recent DOF final assessment roll;
 
-*§ 54-02 Owner Notification to Tenants.* ::
+   (iii) for which, during the Fiscal Year of the most recent DOF final assessment roll, DOF has recorded a notice of property value that lists numerical values greater than zero for both estimated gross income and estimated expenses;
 
+   (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
 
-All leases offered to tenants or prospective tenants in a multiple dwelling must contain a notice, prominently displayed within, which advises tenants of the obligations of the owner and tenant as set forth in Administrative Code Section 27-2017 et seq. and these rules regarding control of indoor allergen hazards. Such notice must not materially deviate from the form of the notice in Appendix A of these rules, and must be provided in English and in the covered languages set forth in Administrative Code Section 8-1002. In addition to such notice, the owner of such multiple dwelling must provide the tenant or prospective tenant of such dwelling unit with the pamphlet developed by the Department of Health and Mental Hygiene in accordance with Administrative Code Section 17-199.7.
+   (v) that either (a) is exclusively residential with eleven or more Dwelling Units or (b) contains seven or more Dwelling Units and one or more commercial units;
 
+   (vi) that is not providing Affordable Housing subject to Local Supervision;
 
+   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; and
 
+   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality.
 
+Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
 
+   (i) occurred during the most recently concluded Fiscal Quarter;
 
+   (ii) has a sale price greater than $10,000;
 
+   (iii) is entirely contained within a single tax lot;
 
-*§ 54-03 Postponements.* ::
+   (iv) did not involve any federal, state, or local agency or instrumentality as either the purchaser or the seller; and
 
+   (v) did not involve an HDFC as the purchaser.
 
-(a) An owner may apply to the Department in writing for postponement of the time to correct an immediately hazardous violation issued in accordance with Administrative Code Sections 27-2017.3a(4) or 27-2017.4b within the five days preceding the date set for correction of such violation. No postponement may be requested for a hazardous violation that has become an immediately hazardous violation under Administrative Code Section 27-2017.3a(4) or (5).
+Rent Regulated. “Rent Regulated” means subject to rent regulation under the Rent Stabilization Law of 1969, the Rent Stabilization Code, the Private Housing Finance Law, or the Emergency Tenant Protection Act of 1974, all as amended, together with any successor statutes or regulations addressing substantially the same subject matter.
 
-(b) Grant of a postponement request shall be in the sole discretion of the Department, and will be limited to circumstances where a showing has been made by the owner, to the satisfaction of the Department, that such owner has taken prompt action to correct the violation but that full correction can not be completed within the time provided because of serious technical difficulty, inability to obtain necessary materials, funds or labor, or inability to gain access to the dwelling unit where the violation exists, or such other portion of the building necessary to make the required repair.
+Zoning Resolution. “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended.
 
-(c) An application for postponement must contain: a detailed statement by the registered owner or agent, or registered managing agent, explaining the prompt actions taken to correct the violation, the specific circumstances causing the inability to fully correct the violation within the time set, and an explanation of how correction will be completed within fourteen additional days. Where an owner claims inability to gain access, such application must include: a description of the steps taken to gain access, including but not limited to providing a written notice to the tenant informing the tenant of the hazard and need for access to the dwelling unit to correct the violation; proof of delivery of the notice by certified or registered mail; and why access could not be gained.
 
-(d) The Department must make a determination in writing, including the reasons therefor, on whether the postponement shall be granted or denied. The Department may include such conditions as are deemed necessary, including, but not limited to, prompt repair or removal of harborages and actions to address any source of moisture that may be contributing to a mold condition, to ensure correction of the violation within the time set by the postponement.
 
-(e) If the postponement is granted, a new date for correction must be set, which shall not exceed fourteen days from the initial date set for correction in the notice of violation.
 
 
 
 
 
+*§ 52-02 Criteria for inclusion.* ::
 
 
+A Multiple Dwelling that is the subject of a Qualified Transaction and that has a Capitalization Rate less than the applicable Borough Capitalization Rate shall be added to the List. HPD will post a public e-mail address on its website through which HPD may be alerted as to any Multiple Dwelling that was either included on the List that allegedly did not meet the criteria for inclusion at the time of its inclusion or omitted from the List that allegedly did meet the criteria for inclusion.
 
-*§ 54-04 Work Practices.* ::
 
 
-(a) An owner must use integrated pest management procedures as provided in Administrative Code Section 27-2017.8, to repair any violation issued in accordance with Section 27-2017.4b, and must also use such procedures, when appropriate, when addressing an infestation of pests upon inspection by such owner, or where otherwise directed by the Department. Such owner must:
 
-   1. inspect for, and physically remove pest nests, waste, and other debris by High-Efficiency Particulate Air (HEPA) vacuuming, washing surfaces, or otherwise collecting and discarding such debris;
 
-   2. eliminate points of entry and passage for pests by repairing and sealing any holes, gaps or cracks in walls, ceilings, floors, molding, base boards, around pipes and conduits, or around and within cabinets by using sealants, plaster, cement, wood, escutcheon plates, or other durable material. Attach door sweeps to any door leading to a hallway, basement, or outside the building to reduce gaps to no more than one-quarter inch; and
 
-   3. eliminate sources of water for pests by repairing drains, faucets, and other plumbing materials that accumulate water or leak. Remove and replace saturated materials such as interior walls and cabinets.
 
-   4. The use of pesticides must not substitute for pest management measures described in this section. Any pesticide applied must be applied by a pest professional licensed by New York State Department of Environmental Conservation (DEC).
 
-(b) An owner must use the following work practices as provided in Administrative Code Section 27-2017.9 when assessing and correcting indoor mold hazards and underlying defects as a result of an inspection by such owner, or when correcting an indoor mold hazard violation issued in accordance with Administrative Code Section 27-2017.3:
+*§ 52-03 Criteria for removal.* ::
 
-   1. investigate and correct any underlying defect, including moisture or leak conditions, that are causing or may cause mold violations;
 
-   2. remove or securely cover with plastic sheeting any furniture or other items in the work area that cannot be removed;
+A Listed Building shall be removed from the List if, subsequent to the Qualified Transaction:
 
-   3. minimize the dispersion of dust and debris from the work area to other parts of the dwelling unit through methods such as: sealing ventilation ducts/grills and other openings in the work area with plastic sheeting; isolating the work area with plastic sheeting and covering egress pathways; cleaning or gently misting surfaces with a dilute soap or detergent solution prior to removal; the use of HEPA vacuum-shrouded tools or a vacuum equipped with a HEPA filter at the point of dust generation;
+(a) it begins providing Affordable Housing subject to Local Supervision;
 
-   4. clean mold with soap or detergent and water;
+(b) it receives a full or partial exemption from real property taxation pursuant to Article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; or
 
-   5. remove and discard materials that cannot be cleaned properly;
-
-   6. properly remove and discard plastic sheeting, cleaning implements, and contaminated materials in sealed, heavy weight plastic bags;
-
-   7. clean any remaining visible dust from the work area using wet cleaning methods or HEPA vacuuming;
-
-   8. leave the work area dry and visibly free from mold, dust, and debris; and
-
-   9. perform assessments, remediation work, and provide notices and reports as required in compliance with Article 32 of the New York State Labor Law and Administrative Code Section 24-154, and any rules promulgated thereunder, where applicable.
-
-
-
-
-
-
-
-
-*§ 54-05 Certifications of Violations.* ::
-
-
-(a) 1. An owner’s certification of correction of a pest violation that was issued, pursuant to Administrative Code Section 27-2017.4a must, where directed by the Department, include an affidavit affirming that the work practices required in accordance with 28 RCNY § 54-05(a) were properly performed.
-
-   2. An owner’s certification of correction of a pest violation that was issued, pursuant to Administrative Code Section 27-2017.4b must include an affidavit affirming that the work practices required in accordance with 28 RCNY § 54-04(a) were properly performed.
-
-   The Department may also require additional documentation for certification of correction of a violation of Section 27-2017.4 deemed necessary to ensure that the violation has been properly corrected.
-
-   3. An owner’s certification of correction of an indoor mold hazard violation issued, pursuant to Administrative Code Section 27-2017.3 must include an affidavit affirming that the work practices required in accordance with 28 RCNY § 54-04(b) were properly performed. Where licensed workers are required to be used to correct an indoor mold hazard, pursuant to New York State Labor Law Article 32, or, pursuant to Administrative Code Section 24-154, such certification must include an affidavit by the remediator and by the assessor indicating that the work practices and notices required under those laws and rules, as set forth in 28 RCNY § 54-04(b) were complied with, and shall include proof that the remediator’s remediation plan and the assessor’s final report were submitted to the Department of Environmental Protection in accordance with Administrative Code Section 24-154. The Department may also require additional documentation for certification of correction of a violation of Section 27-2017.3 deemed necessary to ensure that the violation has been properly corrected.
-
-
-
-
-
-
-
-
-*APPENDIX A LEASE/COMMENCEMENT OF OCCUPANCY NOTICE FOR INDOOR ALLERGEN HAZARDS* ::
-
-
-1. The owner of this building is required, under New York City Administrative Code Section 27-2017.1 et seq., to make an annual inspection for indoor allergen hazards (such as mold, mice, rats, and cockroaches) in your apartment and the common areas of the building. The owner must also inspect if you inform him or her that there is a condition in your apartment that is likely to cause an indoor allergen hazard, or you request an inspection, or the Department has issued a violation requiring correction of an indoor allergen hazard for your apartment. If there is an indoor allergen hazard in your apartment, the owner is required to fix it, using the safe work practices that are provided in the law. The owner must also provide new tenants with a pamphlet containing information about indoor allergen hazards.
-
-2. The owner of this building is also required, prior to your occupancy as a new tenant, to fix all visible mold and pest infestations in the apartment, as well as any underlying defects, like leaks, using the safe work practices provided in the law. If the owner provides carpeting or furniture, he or she must thoroughly clean and vacuum it prior to occupancy. This notice must be signed by the owner or his or her representative, and state that he or she has complied with these requirements.
-
-   I, _______________________________(owner or representative name in print), certify that I have complied with the requirements of the New York City Administrative Code Section 27-2017.5 by removing all visible mold and pest infestations and any underlying defects, and where applicable, cleaning and vacuuming any carpeting and furniture that I have provided to the tenant. I have performed the required work using the safe work practices provided in the law.
-
-Signed:Print Name:Date:
-
-
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15682-img$3.0$p=
-
-
-
-
-
-
-
-
-*APÉNDICE A AVISO DE ALQUILER/COMIENZO DE LA OCUPACIÓN SOBRE RIESGO DE ALÉRGENOS EN INTERIORES* ::
-
-
-1. Según el Código administrativo de la Ciudad de Nueva York, Sección 27-2017.1 y sig., el propietario de este edificio tiene obligación de hacer una inspección anual de riesgos de alérgenos en interiores (como moho, ratones, ratas y cucarachas) en el apartamento que usted ocupa y en las áreas comunes del edificio. El propietario debe inspeccionar también si usted lo informa de que hay una condición en el apartamento que podría causar un riesgo de alérgenos en interiores, o si usted solicita una inspección o el Departamento ha impuesto una violación que requiere la corrección de un riesgo de alérgenos en interiores en su apartamento. Si hubiera un riesgo de alérgeno en su apartamento, el propietario debe solucionarlo, utilizando las prácticas de trabajo seguro establecidas por la ley. El propietario también debe proveer a los inquilinos un folleto que contenga la información sobre los riesgos de alérgenos en interiores.
-
-2. Antes de su ocupación como nuevo inquilino, el propietario de este edificio también debe solucionar todos los problemas visibles de moho e infestaciones en el apartamento, así como cualquier defecto subyacente como goteos, usando las prácticas de trabajo seguro establecidas por la ley. Si el propietario ofrece moqueta o mobiliario, debe limpiar y aspirar a conciencia antes de la ocupación. Este aviso debe firmarlo el propietario o su representante y establecer que ha cumplido con estos requisitos.
-
-   Yo, _______________________________(nombre del propietario o del representante en letra de molde), certifico que he cumplido con los requisitos del Código administrativo de la Ciudad de Nueva York Sección 27-2017.5 eliminando todo el moho e infestaciones visibles y cualquier defecto subyacente si fuera aplicable, limpiando y aspirando cualquier moqueta y mobiliario que haya provisto al inquilino. He realizado los trabajos necesarios siguiendo las prácticas de trabajo seguro establecidas por la ley.
-
-Firmado:Nombre en letra de molde:
-
-
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15678-img$3.0$p=
+(c) it receives benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any Federal, State, or local governmental agency or instrumentality.
 
 
 
@@ -19066,6 +18895,177 @@ The criteria used to evaluate prospective Pilot Program Buildings for distress s
    (f) The initial rents charged by the Owner for the Low Income units shall not exceed an average of 50 percent of the area median income, adjusted for family size, at the time that such household initially occupies the dwelling unit, provided that with respect to Low Income Housing Units provided pursuant to a cure agreement in accordance with section 27-2093.1 of the Administrative Code, one-third of such Low Income Housing units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 40 percent of the area median income, one-third of such units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 50 percent of the area median income, and one-third of such units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 60 percent of the area median income.
 
    (g) If the Owner violates any term, covenant, or provision of the cure agreement, or if any representation made by the Owner is determined by the Department to be false or misleading, then the Department may declare a default under the cure agreement, and take such enforcement action as specified in such agreement or under law.
+
+
+
+
+
+
+Chapter 54: [Indoor Allergen Hazards]
+--------------------------------------------------
+
+
+
+*§ 54-01 Definitions.* ::
+
+
+For purposes of this chapter:
+
+Common area. The term “common area” means a portion of a multiple dwelling that is not within a dwelling unit and that is regularly used by occupants for access to and egress from any dwelling unit within such multiple dwelling, as well as commonly used areas such as a laundry room.
+
+Department. The term “department” means the City of New York Department of Housing Preservation and Development.
+
+Harborage. The term “harborage” means any condition which provides shelter or protection for pests.
+
+Indoor allergen hazard. The term “indoor allergen hazard” means any indoor infestation of cockroaches, mice, or rats or conditions conducive to such infestation, or an indoor mold hazard.
+
+Indoor mold hazard. The term “indoor mold hazard” means any condition of mold growth on an indoor surface, building structure or ventilation system, including mold that is within wall cavities, that is likely to cause harm to a person or that has been cited as a violation by the Department.
+
+Integrated pest management. The term “integrated pest management” means ongoing prevention, monitoring and pest control activities to eliminate pests from any building, lot, or dwelling. This includes, but is not limited to, the elimination of harborages and conditions conducive to pests, the use of traps, and, when necessary, the use of pesticides.
+
+Pest. The term “pest” means any unwanted member of the Class Insecta, including, but not limited to houseflies, lice, bees, cockroaches, moths, silverfish, beetles, bedbugs, ants, termites, hornets, mosquitoes and wasps, and members of the Phylum Arthropoda such as spiders, mites, ticks, centipedes and wood lice, or of the Order Rodentia, including but not limited to mice, Norway rats, and any other unwanted plant, animal or fungal life that is a pest because it is destructive, annoying or a nuisance.
+
+Remediation or remediate. The term “remediation” or “remediate” means measures to eradicate pests in accordance with Administrative Code Section 27-2017.8 and these rules, and measures to eradicate indoor mold hazards in accordance with Administrative Code Section 27-2017.9 and these rules.
+
+Underlying defect. The term “underlying defect” means a condition that causes an indoor mold hazard, such as a water leak or water infiltration from plumbing or defective masonry pointing or other moisture condition, or causes an infestation of pests, including holes or entryway paths for pests.
+
+Visible mold. The term “visible mold” means mold that is readily identifiable by visual inspection, including mold that is behind furniture or other interior obstructions. Visible mold that is present on tile or grout does not constitute an indoor mold hazard violation under Administrative Code Section 27-2017.3.
+
+
+
+
+
+
+
+
+*§ 54-02 Owner Notification to Tenants.* ::
+
+
+All leases offered to tenants or prospective tenants in a multiple dwelling must contain a notice, prominently displayed within, which advises tenants of the obligations of the owner and tenant as set forth in Administrative Code Section 27-2017 et seq. and these rules regarding control of indoor allergen hazards. Such notice must not materially deviate from the form of the notice in Appendix A of these rules, and must be provided in English and in the covered languages set forth in Administrative Code Section 8-1002. In addition to such notice, the owner of such multiple dwelling must provide the tenant or prospective tenant of such dwelling unit with the pamphlet developed by the Department of Health and Mental Hygiene in accordance with Administrative Code Section 17-199.7.
+
+
+
+
+
+
+
+
+*§ 54-03 Postponements.* ::
+
+
+(a) An owner may apply to the Department in writing for postponement of the time to correct an immediately hazardous violation issued in accordance with Administrative Code Sections 27-2017.3a(4) or 27-2017.4b within the five days preceding the date set for correction of such violation. No postponement may be requested for a hazardous violation that has become an immediately hazardous violation under Administrative Code Section 27-2017.3a(4) or (5).
+
+(b) Grant of a postponement request shall be in the sole discretion of the Department, and will be limited to circumstances where a showing has been made by the owner, to the satisfaction of the Department, that such owner has taken prompt action to correct the violation but that full correction can not be completed within the time provided because of serious technical difficulty, inability to obtain necessary materials, funds or labor, or inability to gain access to the dwelling unit where the violation exists, or such other portion of the building necessary to make the required repair.
+
+(c) An application for postponement must contain: a detailed statement by the registered owner or agent, or registered managing agent, explaining the prompt actions taken to correct the violation, the specific circumstances causing the inability to fully correct the violation within the time set, and an explanation of how correction will be completed within fourteen additional days. Where an owner claims inability to gain access, such application must include: a description of the steps taken to gain access, including but not limited to providing a written notice to the tenant informing the tenant of the hazard and need for access to the dwelling unit to correct the violation; proof of delivery of the notice by certified or registered mail; and why access could not be gained.
+
+(d) The Department must make a determination in writing, including the reasons therefor, on whether the postponement shall be granted or denied. The Department may include such conditions as are deemed necessary, including, but not limited to, prompt repair or removal of harborages and actions to address any source of moisture that may be contributing to a mold condition, to ensure correction of the violation within the time set by the postponement.
+
+(e) If the postponement is granted, a new date for correction must be set, which shall not exceed fourteen days from the initial date set for correction in the notice of violation.
+
+
+
+
+
+
+
+
+*§ 54-04 Work Practices.* ::
+
+
+(a) An owner must use integrated pest management procedures as provided in Administrative Code Section 27-2017.8, to repair any violation issued in accordance with Section 27-2017.4b, and must also use such procedures, when appropriate, when addressing an infestation of pests upon inspection by such owner, or where otherwise directed by the Department. Such owner must:
+
+   1. inspect for, and physically remove pest nests, waste, and other debris by High-Efficiency Particulate Air (HEPA) vacuuming, washing surfaces, or otherwise collecting and discarding such debris;
+
+   2. eliminate points of entry and passage for pests by repairing and sealing any holes, gaps or cracks in walls, ceilings, floors, molding, base boards, around pipes and conduits, or around and within cabinets by using sealants, plaster, cement, wood, escutcheon plates, or other durable material. Attach door sweeps to any door leading to a hallway, basement, or outside the building to reduce gaps to no more than one-quarter inch; and
+
+   3. eliminate sources of water for pests by repairing drains, faucets, and other plumbing materials that accumulate water or leak. Remove and replace saturated materials such as interior walls and cabinets.
+
+   4. The use of pesticides must not substitute for pest management measures described in this section. Any pesticide applied must be applied by a pest professional licensed by New York State Department of Environmental Conservation (DEC).
+
+(b) An owner must use the following work practices as provided in Administrative Code Section 27-2017.9 when assessing and correcting indoor mold hazards and underlying defects as a result of an inspection by such owner, or when correcting an indoor mold hazard violation issued in accordance with Administrative Code Section 27-2017.3:
+
+   1. investigate and correct any underlying defect, including moisture or leak conditions, that are causing or may cause mold violations;
+
+   2. remove or securely cover with plastic sheeting any furniture or other items in the work area that cannot be removed;
+
+   3. minimize the dispersion of dust and debris from the work area to other parts of the dwelling unit through methods such as: sealing ventilation ducts/grills and other openings in the work area with plastic sheeting; isolating the work area with plastic sheeting and covering egress pathways; cleaning or gently misting surfaces with a dilute soap or detergent solution prior to removal; the use of HEPA vacuum-shrouded tools or a vacuum equipped with a HEPA filter at the point of dust generation;
+
+   4. clean mold with soap or detergent and water;
+
+   5. remove and discard materials that cannot be cleaned properly;
+
+   6. properly remove and discard plastic sheeting, cleaning implements, and contaminated materials in sealed, heavy weight plastic bags;
+
+   7. clean any remaining visible dust from the work area using wet cleaning methods or HEPA vacuuming;
+
+   8. leave the work area dry and visibly free from mold, dust, and debris; and
+
+   9. perform assessments, remediation work, and provide notices and reports as required in compliance with Article 32 of the New York State Labor Law and Administrative Code Section 24-154, and any rules promulgated thereunder, where applicable.
+
+
+
+
+
+
+
+
+*§ 54-05 Certifications of Violations.* ::
+
+
+(a) 1. An owner’s certification of correction of a pest violation that was issued, pursuant to Administrative Code Section 27-2017.4a must, where directed by the Department, include an affidavit affirming that the work practices required in accordance with 28 RCNY § 54-05(a) were properly performed.
+
+   2. An owner’s certification of correction of a pest violation that was issued, pursuant to Administrative Code Section 27-2017.4b must include an affidavit affirming that the work practices required in accordance with 28 RCNY § 54-04(a) were properly performed.
+
+   The Department may also require additional documentation for certification of correction of a violation of Section 27-2017.4 deemed necessary to ensure that the violation has been properly corrected.
+
+   3. An owner’s certification of correction of an indoor mold hazard violation issued, pursuant to Administrative Code Section 27-2017.3 must include an affidavit affirming that the work practices required in accordance with 28 RCNY § 54-04(b) were properly performed. Where licensed workers are required to be used to correct an indoor mold hazard, pursuant to New York State Labor Law Article 32, or, pursuant to Administrative Code Section 24-154, such certification must include an affidavit by the remediator and by the assessor indicating that the work practices and notices required under those laws and rules, as set forth in 28 RCNY § 54-04(b) were complied with, and shall include proof that the remediator’s remediation plan and the assessor’s final report were submitted to the Department of Environmental Protection in accordance with Administrative Code Section 24-154. The Department may also require additional documentation for certification of correction of a violation of Section 27-2017.3 deemed necessary to ensure that the violation has been properly corrected.
+
+
+
+
+
+
+
+
+*APPENDIX A LEASE/COMMENCEMENT OF OCCUPANCY NOTICE FOR INDOOR ALLERGEN HAZARDS* ::
+
+
+1. The owner of this building is required, under New York City Administrative Code Section 27-2017.1 et seq., to make an annual inspection for indoor allergen hazards (such as mold, mice, rats, and cockroaches) in your apartment and the common areas of the building. The owner must also inspect if you inform him or her that there is a condition in your apartment that is likely to cause an indoor allergen hazard, or you request an inspection, or the Department has issued a violation requiring correction of an indoor allergen hazard for your apartment. If there is an indoor allergen hazard in your apartment, the owner is required to fix it, using the safe work practices that are provided in the law. The owner must also provide new tenants with a pamphlet containing information about indoor allergen hazards.
+
+2. The owner of this building is also required, prior to your occupancy as a new tenant, to fix all visible mold and pest infestations in the apartment, as well as any underlying defects, like leaks, using the safe work practices provided in the law. If the owner provides carpeting or furniture, he or she must thoroughly clean and vacuum it prior to occupancy. This notice must be signed by the owner or his or her representative, and state that he or she has complied with these requirements.
+
+   I, _______________________________(owner or representative name in print), certify that I have complied with the requirements of the New York City Administrative Code Section 27-2017.5 by removing all visible mold and pest infestations and any underlying defects, and where applicable, cleaning and vacuuming any carpeting and furniture that I have provided to the tenant. I have performed the required work using the safe work practices provided in the law.
+
+Signed:Print Name:Date:
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15682-img$3.0$p=
+
+
+
+
+
+
+
+
+*APÉNDICE A AVISO DE ALQUILER/COMIENZO DE LA OCUPACIÓN SOBRE RIESGO DE ALÉRGENOS EN INTERIORES* ::
+
+
+1. Según el Código administrativo de la Ciudad de Nueva York, Sección 27-2017.1 y sig., el propietario de este edificio tiene obligación de hacer una inspección anual de riesgos de alérgenos en interiores (como moho, ratones, ratas y cucarachas) en el apartamento que usted ocupa y en las áreas comunes del edificio. El propietario debe inspeccionar también si usted lo informa de que hay una condición en el apartamento que podría causar un riesgo de alérgenos en interiores, o si usted solicita una inspección o el Departamento ha impuesto una violación que requiere la corrección de un riesgo de alérgenos en interiores en su apartamento. Si hubiera un riesgo de alérgeno en su apartamento, el propietario debe solucionarlo, utilizando las prácticas de trabajo seguro establecidas por la ley. El propietario también debe proveer a los inquilinos un folleto que contenga la información sobre los riesgos de alérgenos en interiores.
+
+2. Antes de su ocupación como nuevo inquilino, el propietario de este edificio también debe solucionar todos los problemas visibles de moho e infestaciones en el apartamento, así como cualquier defecto subyacente como goteos, usando las prácticas de trabajo seguro establecidas por la ley. Si el propietario ofrece moqueta o mobiliario, debe limpiar y aspirar a conciencia antes de la ocupación. Este aviso debe firmarlo el propietario o su representante y establecer que ha cumplido con estos requisitos.
+
+   Yo, _______________________________(nombre del propietario o del representante en letra de molde), certifico que he cumplido con los requisitos del Código administrativo de la Ciudad de Nueva York Sección 27-2017.5 eliminando todo el moho e infestaciones visibles y cualquier defecto subyacente si fuera aplicable, limpiando y aspirando cualquier moqueta y mobiliario que haya provisto al inquilino. He realizado los trabajos necesarios siguiendo las prácticas de trabajo seguro establecidas por la ley.
+
+Firmado:Nombre en letra de molde:
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15678-img$3.0$p=
 
 
 

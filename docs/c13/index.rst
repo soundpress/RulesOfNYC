@@ -4872,6 +4872,105 @@ Within thirty (30) days of mailing notification of eligibility to apply for a fr
 
 
 
+Chapter 27: Food Allergy Information
+--------------------------------------------------
+
+
+
+*§ 27-01 Scope and applicability.* ::
+
+
+This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
+
+
+
+
+
+
+*§ 27-02 Definitions.* ::
+
+
+When used in this Chapter, the following terms shall have the following meanings.
+
+(a) Food means any raw, cooked or processed edible substance, beverage, ingredient, ice or water used or intended for use or for sale, in whole or in part, for human consumption.
+
+(b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
+
+(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
+
+(d) [Reserved.]
+
+(e) Patron or customer means a person who orders from or is served food at a food service establishment.
+
+(f) Poster or posting. Poster or posting means a placard, paper or other poster, or a magnetized or other display, that contains information about food allergens and that is provided or approved by the Department pursuant to this Chapter.
+
+
+
+
+
+
+*§ 27-03 Posting and placement of food allergy information.* ::
+
+
+(a) Posting of information. Food allergy information provided or approved by the Department shall be posted in a food service establishment.
+
+(b) Languages and texts. Information shall be posted in languages that are understood by all food workers in an establishment. The Department shall provide posters with texts in English, Spanish, Chinese, Korean and Russian, shall maintain the texts of posters on its web site, may approve texts of posters in other languages upon request, and, as it deems necessary, may change and provide approved texts if new or different information about food allergens becomes known.
+
+(c) Placement. Information shall be posted in conspicuous locations where it will be visible to all food workers including, but not limited to, food preparation areas and kitchens where food orders and raw ingredients are processed or prepared and places where food orders are placed and retrieved.
+
+
+
+
+
+
+*§ 27-04 Disclosure.* ::
+
+
+Food service establishment operators shall disclose to a patron, on request, whether an ingredient containing a specific food allergen is used in the preparation of any menu item.
+
+
+
+
+
+
+*§ 27-05 No limitations on voluntary actions.* ::
+
+
+Nothing in this Chapter shall prohibit a food service establishment operator from taking any other measures to provide information to patrons or employees of the establishment to assist in avoiding patron contact with food allergens, including but not limited to providing additional information to patrons about food allergens in any format or soliciting patron allergen information.
+
+
+
+
+
+
+*§ 27-06 No third party beneficiary.* ::
+
+
+Nothing in this Chapter is intended to create any benefit or support a cause of action for any third persons, including individuals with food allergens.
+
+
+
+
+
+
+*§ 27-07 Violations.* ::
+
+
+(a) It shall be a violation of this Chapter for an operator of a food service establishment:
+
+   (1) To fail to post the information required by this Chapter in a conspicuous place or places in the establishment;
+
+   (2) To fail to post the information in areas where it is visible to food workers;
+
+   (3) To fail to post the information in languages understood by food workers; or
+
+   (4) To post texts that are not provided or approved by the Department.
+
+(b) Violations shall not be scored as sanitary inspection violations pursuant to Chapter 23 of Title 24 of these Rules.
+
+
+
+
 Chapter 28: Restriction On the Sale of Certain Flavored Tobacco Products
 --------------------------------------------------
 
@@ -5008,101 +5107,47 @@ If any provision of this Chapter is adjudged invalid by any court of competent j
 
 **Appendix A: Restricted Flavored Tobacco Products List [Reserved]**
 
-Chapter 27: Food Allergy Information
+Chapter 29: Animal Population Control Program
 --------------------------------------------------
 
 
 
-*§ 27-01 Scope and applicability.* ::
+*§ 29-01 Authority to establish a program and expend funds.* ::
 
 
-This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
-
-
-
+In accordance with this Chapter, the Department is authorized to expend funds maintained in the Animal Population Control Fund established pursuant to §§ 17-811 and 17-812 of the Administrative Code of the City of New York, to the extent such funds are available, by subsidizing provision of free or low cost spay and neuter services directly to owners of cats and dogs who would otherwise be unable to pay for such services, and by establishing and supporting programs for the education of owners of dogs and cats regarding the benefits of having their dogs and cats spayed or neutered.
 
 
 
-*§ 27-02 Definitions.* ::
+
+
+
+*§ 29-02 Definitions.* ::
 
 
 When used in this Chapter, the following terms shall have the following meanings.
 
-(a) Food means any raw, cooked or processed edible substance, beverage, ingredient, ice or water used or intended for use or for sale, in whole or in part, for human consumption.
+Animal shelter or shelter for homeless animals. Animal shelter or shelter for homeless animals means a not-for-profit facility holding a permit in accordance with 24 RCNY Health Code § 161.09, or successor provision, where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
 
-(b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
+Cat. Cat means a domesticated animal of the species Felis catus kept as a pet, but does not mean any animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to 24 RCNY Health Code § 161.01, or successor provision.
 
-(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
+Dog. Dog means a domesticated animal of the species Canis familiaris kept as a pet, but does not mean any other animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to 24 RCNY Health Code § 161.01 or successor provision.
 
-(d) [Reserved.]
+Owner. Owner shall mean any individual who resides in the City of New York who possesses, harbors or cares for one or more dogs or cats.
 
-(e) Patron or customer means a person who orders from or is served food at a food service establishment.
-
-(f) Poster or posting. Poster or posting means a placard, paper or other poster, or a magnetized or other display, that contains information about food allergens and that is provided or approved by the Department pursuant to this Chapter.
+Spay/neuter services. Spay/neuter services shall mean services provided by a veterinarian licensed to practice veterinary medicine in the State of New York to alter dogs and cats by surgical methods, or by other methods approved by the U.S. Food and Drug Administration or U.S. Department of Agriculture and acceptable to the Department, to prevent such animals from reproducing, and shall include all accessory or supportive veterinary services deemed necessary by the veterinarian, including, but not limited to, rabies and other vaccinations, and an assessment of the general health of the animal receiving such service.
 
 
 
 
 
 
-*§ 27-03 Posting and placement of food allergy information.* ::
+*§ 29-03 Eligibility requirements.* ::
 
 
-(a) Posting of information. Food allergy information provided or approved by the Department shall be posted in a food service establishment.
+(a) Service providers. The Department may enter into contracts with or award grants or otherwise reimburse for spay and neuter services New York City animal shelters or animal protective associations, and to the extent that funds are or become available, to private veterinarians practicing in New York City, for the purpose of providing free or low cost spay/neuter services. Service providers receiving such contracts or grants shall provide free or low cost spay/neuter services to eligible persons, including, but not limited to, persons receiving Medicaid or other government subsidized health insurance, Medicare, Social Security, Social Security Disability, other disability benefits, food stamps, public assistance; seniors and disabled persons holding reduced fare MetroCards; and residents of public housing or recipients of Section 8 or successor federal housing program subsidies or vouchers.
 
-(b) Languages and texts. Information shall be posted in languages that are understood by all food workers in an establishment. The Department shall provide posters with texts in English, Spanish, Chinese, Korean and Russian, shall maintain the texts of posters on its web site, may approve texts of posters in other languages upon request, and, as it deems necessary, may change and provide approved texts if new or different information about food allergens becomes known.
-
-(c) Placement. Information shall be posted in conspicuous locations where it will be visible to all food workers including, but not limited to, food preparation areas and kitchens where food orders and raw ingredients are processed or prepared and places where food orders are placed and retrieved.
-
-
-
-
-
-
-*§ 27-04 Disclosure.* ::
-
-
-Food service establishment operators shall disclose to a patron, on request, whether an ingredient containing a specific food allergen is used in the preparation of any menu item.
-
-
-
-
-
-
-*§ 27-05 No limitations on voluntary actions.* ::
-
-
-Nothing in this Chapter shall prohibit a food service establishment operator from taking any other measures to provide information to patrons or employees of the establishment to assist in avoiding patron contact with food allergens, including but not limited to providing additional information to patrons about food allergens in any format or soliciting patron allergen information.
-
-
-
-
-
-
-*§ 27-06 No third party beneficiary.* ::
-
-
-Nothing in this Chapter is intended to create any benefit or support a cause of action for any third persons, including individuals with food allergens.
-
-
-
-
-
-
-*§ 27-07 Violations.* ::
-
-
-(a) It shall be a violation of this Chapter for an operator of a food service establishment:
-
-   (1) To fail to post the information required by this Chapter in a conspicuous place or places in the establishment;
-
-   (2) To fail to post the information in areas where it is visible to food workers;
-
-   (3) To fail to post the information in languages understood by food workers; or
-
-   (4) To post texts that are not provided or approved by the Department.
-
-(b) Violations shall not be scored as sanitary inspection violations pursuant to Chapter 23 of Title 24 of these Rules.
+(b) Owners. To receive spay/neuter services for their dogs or cats, owners of animals shall be residents of New York City, and shall submit proof to the provider of spay/neuter services to demonstrate the owners' eligibility for free or low cost spay/neuter services. Such proof may include, but shall not be limited to originals or copies of documents showing that the owner is a recipient or beneficiary of a program providing a subsidy or benefit listed in subdivision (a) of this section. An owner with a complaint about services provided or denied pursuant to a contract authorized by this Chapter may contact the Department via 311.
 
 
 
@@ -5166,51 +5211,6 @@ Labels and documentation must be maintained by carpet businesses.
 NOTICE NEW YORK CITY CARPET EMISSION LIMITS 
 
 After July 1, 2013, carpet sellers may only sell carpet or carpet cushion that complies with New York City laws for volatile organic compound ("VOC") emission limits. Carpet installers and building owners and occupants may only install VOC-compliant carpet or carpet cushion in any building. A carpet business must provide documentation showing VOC compliance upon customer request. Call 311 if the carpet seller or installer does not give you this information. Keep your receipt to help track product information.
-
-
-
-
-Chapter 29: Animal Population Control Program
---------------------------------------------------
-
-
-
-*§ 29-01 Authority to establish a program and expend funds.* ::
-
-
-In accordance with this Chapter, the Department is authorized to expend funds maintained in the Animal Population Control Fund established pursuant to §§ 17-811 and 17-812 of the Administrative Code of the City of New York, to the extent such funds are available, by subsidizing provision of free or low cost spay and neuter services directly to owners of cats and dogs who would otherwise be unable to pay for such services, and by establishing and supporting programs for the education of owners of dogs and cats regarding the benefits of having their dogs and cats spayed or neutered.
-
-
-
-
-
-
-*§ 29-02 Definitions.* ::
-
-
-When used in this Chapter, the following terms shall have the following meanings.
-
-Animal shelter or shelter for homeless animals. Animal shelter or shelter for homeless animals means a not-for-profit facility holding a permit in accordance with 24 RCNY Health Code § 161.09, or successor provision, where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
-
-Cat. Cat means a domesticated animal of the species Felis catus kept as a pet, but does not mean any animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to 24 RCNY Health Code § 161.01, or successor provision.
-
-Dog. Dog means a domesticated animal of the species Canis familiaris kept as a pet, but does not mean any other animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to 24 RCNY Health Code § 161.01 or successor provision.
-
-Owner. Owner shall mean any individual who resides in the City of New York who possesses, harbors or cares for one or more dogs or cats.
-
-Spay/neuter services. Spay/neuter services shall mean services provided by a veterinarian licensed to practice veterinary medicine in the State of New York to alter dogs and cats by surgical methods, or by other methods approved by the U.S. Food and Drug Administration or U.S. Department of Agriculture and acceptable to the Department, to prevent such animals from reproducing, and shall include all accessory or supportive veterinary services deemed necessary by the veterinarian, including, but not limited to, rabies and other vaccinations, and an assessment of the general health of the animal receiving such service.
-
-
-
-
-
-
-*§ 29-03 Eligibility requirements.* ::
-
-
-(a) Service providers. The Department may enter into contracts with or award grants or otherwise reimburse for spay and neuter services New York City animal shelters or animal protective associations, and to the extent that funds are or become available, to private veterinarians practicing in New York City, for the purpose of providing free or low cost spay/neuter services. Service providers receiving such contracts or grants shall provide free or low cost spay/neuter services to eligible persons, including, but not limited to, persons receiving Medicaid or other government subsidized health insurance, Medicare, Social Security, Social Security Disability, other disability benefits, food stamps, public assistance; seniors and disabled persons holding reduced fare MetroCards; and residents of public housing or recipients of Section 8 or successor federal housing program subsidies or vouchers.
-
-(b) Owners. To receive spay/neuter services for their dogs or cats, owners of animals shall be residents of New York City, and shall submit proof to the provider of spay/neuter services to demonstrate the owners' eligibility for free or low cost spay/neuter services. Such proof may include, but shall not be limited to originals or copies of documents showing that the owner is a recipient or beneficiary of a program providing a subsidy or benefit listed in subdivision (a) of this section. An owner with a complaint about services provided or denied pursuant to a contract authorized by this Chapter may contact the Department via 311.
 
 
 

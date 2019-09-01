@@ -41,23 +41,31 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 (b) Definitions.
 
-   (1) "Accessory" shall mean assisting in any way in the violation of a Department rule, before, during or after such violation.
+   "Accessory" shall mean assisting in any way in the violation of a Department rule, before, during or after such violation.
 
-   (2) "Any person" shall include, but not be limited to, uniformed and civilian Department staff, medical staff, contractors and their employees, volunteers, visitors and inmates.
+   "Any person" shall include, but not be limited to, uniformed and civilian Department staff, medical staff, contractors and their employees, volunteers, visitors and inmates.
 
-   (3) "Attempt" shall mean any act that is intended to and tends to lead to a violation of a Department rule.
+   "Attempt" shall mean any act that is intended to and tends to lead to a violation of a Department rule.
 
-   (4) "Contraband" shall mean any item that is not sold in the commissary, that is not on the approved list of permissible items, that is possessed in more than the approved amount, or that the inmate does not have permission to possess. Contraband includes items that may disrupt the safety, security, good order and discipline of the facility. Any item that is illegal for an individual not on Department property to possess is also illegal to use or possess on Department property. Possession of contraband may subject an inmate to criminal prosecution as well as disciplinary action. Any person who tries to introduce contraband into a facility may also be subject to criminal prosecution.
+   "Contraband" shall mean any item that is not sold in the commissary, that is not on the approved list of permissible items, that is possessed in more than the approved amount, or that the inmate does not have permission to possess. Contraband includes items that may disrupt the safety, security, good order and discipline of the facility. Any item that is illegal for an individual not on Department property to possess is also illegal to use or possess on Department property. Possession of contraband may subject an inmate to criminal prosecution as well as disciplinary action. Any person who tries to introduce contraband into a facility may also be subject to criminal prosecution.
 
-   (5) "Conspiracy" shall mean an agreement between one or more persons to violate a Department rule.
+   "Conspiracy" shall mean an agreement between one or more persons to violate a Department rule.
 
-   (6) "Good Time" shall mean a discretionary reduction of up to one third of the term of commitment for a definite sentence or certain civil commitments, as allowed by the New York State Correction Law.
+   “Department ID” shall mean any form of Department-issued tag, card, wristband, or other object that serves to identify an inmate.
 
-   (7) "Security Risk Group" shall mean persons such as gang members, intended or actual contraband recipients, and weapons carriers or users, whose actions violate laws or established rules of conduct, or persons who belong to groups whose purpose is antithetical to established law enforcement authority.
+   "Good Time" shall mean a discretionary reduction of up to one third of the term of commitment for a definite sentence or certain civil commitments, as allowed by the New York State Correction Law.
 
-   (8) "Unauthorized group" shall mean five or more inmates remaining in close physical proximity to each other when not authorized to do so by Department personnel.
+   "Security Risk Group" shall mean persons such as gang members, intended or actual contraband recipients, and weapons carriers or users, whose actions violate laws or established rules of conduct, or persons who belong to groups whose purpose is antithetical to established law enforcement authority.
 
-(c) Prohibited conduct.
+   “Sexual abuse” means sexual abuse as defined in the Prison Rape Elimination Act.
+
+   “Sexually explicit material” is any printed or displayed material that shows the frontal and or rear nudity of any person, including but not limited to: the fully exposed female breast(s) and/or the genitalia of any gender; sexual excitement; sexual conduct, sexual intercourse; or sadomasochistic abuse.
+
+   “Staff” shall include, but not be limited to, uniformed and civilian Department staff, medical staff, contractors and their employees or volunteers.
+
+   "Unauthorized group" shall mean five or more inmates remaining in close physical proximity to each other when not authorized to do so by Department personnel.
+
+(c) Prohibited conduct. An inmate who violates a rule listed in any subsection of 39 RCNY § 1-03(c) as a “Grade I” offense shall be guilty of the stated Grade I offense; an inmate who violates a rule listed in any subsection of 39 RCNY § 1-03(c) as a “Grade II” offense shall be guilty of the stated Grade II offense; and an inmate who violates a rule listed in any subsection of 39 RCNY § 1-03(c) as a “Grade III” offense shall be guilty of the stated Grade III offense.
 
    (1) Arson (setting fires)
 
@@ -78,6 +86,10 @@ This chapter sets forth rules relating to inmates of New York City Department of
       101.13: An inmate is guilty of assault with a weapon when he or she uses any item to assault or attempt to assault any person.
 
       101.14: An inmate is guilty of Grade I fighting when he or she engages in a physical struggle with another inmate that results in injury to any person.
+
+      101.15: An inmate is guilty of the Grade I offense of Gang Assault on an inmate when the inmate, while acting in concert with two or more inmates, injures, spits on or throws any object or substance at any other inmate.
+
+      101.15.1: An inmate is guilty of the Grade I offense of Security Risk Group Assault when the inmate injures, spits on or throws any object or substance at any other inmate based on either inmate’s Security Risk Group status or motivated by a Security Risk Group related purpose.
 
       Grade II:
 
@@ -109,15 +121,19 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
       103.10.5: Inmates shall not possess or transport a Department-issued razor outside the housing area.
 
-      103.10.6: Inmates shall return all Department-issued razors after shaving is completed, in accordance with Department or facility procedures. Razors shall be returned in the same condition as received; for example, blade and handle shall be intact. 103.11: Inmates shall not make, possess, sell, give or exchange any amount of narcotic, narcotic paraphernalia, or any other controlled substance.
+      103.10.6: Inmates shall return all Department-issued razors after shaving is completed, in accordance with Department or facility procedures. Razors shall be returned in the same condition as received; for example, blade and handle shall be intact.
+
+      103.10.7: Inmates shall not possess more than one Department-issued razor.
+
+      103.11: Inmates shall not make, possess, sell, give or exchange any amount of narcotic, narcotic paraphernalia, or any other controlled substance, or a manufactured chemical compound that is not facility issued.
 
       103.12: Inmates shall not make, possess, sell, give or exchange any type of escape paraphernalia. Where there is the likelihood that an item can be used to aid an escape, it may be classified as escape paraphernalia. Keys, possession of identification belonging to another person, or fictitious person, transferring an inmate's identification to another, possession of employee clothing, or any other articles which would aid in an escape, or which suggest that an escape is being planned, are contraband.
 
-      103.12.5: Inmates shall not possess any type of electronic telecommunication and/or recording device or any part of such instrument, which is designed to transmit and/or receive telephonic, electronic, digital, cellular or radio communications The term "telecommunication device" shall include, but not be limited to, any type of instrument, device, machine or equipment which is designed to transmit and/or receive telephonic, electronic, digital, cellular or radio signals or communications or any part of such instrument, device, machine or equipment as well as any type of instrument designed to have sound, or image recording abilities and shall include, but not be limited to, a cellular or digital phone, a pager, a two-way radio text messaging or modem device (including a modem equipment device), a camera, a video recorder and a tape or digital recording device, or any other device that has such capabilities. (Radios sold in commissary are excluded from this prohibition.) Inmates shall not possess any type of device or any part of such instrument designed to have sound and/or image recording or capturing capabilities. Such devices shall include, but not be limited to, cameras (digital or film), video recorders, and tape or digital recording devices. Inmates are also prohibited from possessing any type of phone or battery charger, or A/C adapter for any electronic device prohibited by this rule.
+      103.12.5: Inmates shall not possess any type of electronic telecommunications and/or recording device or instrument or any part of such device or instrument, which is designed to transmit and/or receive telephonic, electronic, digital, cellular or radio communications; record or capture sound and/or images;; or charge the power of any such device or instrument. Such devices shall include, but shall not be limited to, cameras (digital or film), video recorders, tape or digital recording devices, electronic storage devices, phone chargers, battery chargers, A/C adapters, A/C cables, cellular or digital phones, pagers, two-way radios, text messaging devices, or modem equipment or devices. (Radios sold in commissary are excluded from this prohibition.)
 
       103.12.6: Inmates shall not possess any contraband with intent to sell or distribute such contraband.
 
-      103.12.7: An inmate is guilty of the offense of Possession of Contraband Grade I when such inmate possesses money whose value exceeds twenty (20) dollars in cash or checks. Money confiscated as contraband will be deposited in the City's treasury and will not be returned to the inmate.
+      103.12.7: Inmates shall not possess money whose value exceeds twenty (20) dollars in cash, checks, credit cards regardless of the credit available on the card, or debit or gift cards regardless of the value stored on the card. Money confiscated as contraband will be deposited in the City's treasury and will not be returned to the inmate.
 
       Grade II:
 
@@ -127,11 +143,9 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
       103.13.6: Inmates are not authorized to possess any drug that by prescription, or by medical order, must be ingested in view of Department and/or medical staff.
 
-      103.13.7: Inmates shall not possess more than one Department-issued razor.
+      103.14: Inmates shall not make, possess, sell, exchange, use or display any item that identifies the inmate as a member or associate of a Security Risk Group. Articles of religious significance that are Security Risk Group identifiers shall only be considered contraband if they are displayed. Incidental or inadvertent exposure of the item (for example, while showering, saying the rosary or other religious observance, dressing or undressing or sleeping) shall not be considered "display" under this rule.
 
-      103.14: Inmates shall not make, possess, sell, exchange, use or display any item that identifies the inmate as a member or associate of a Security Risk Group or of a gang. Articles of religious significance that are Security Risk Group identifiers shall only be considered contraband if they are displayed. Incidental or inadvertent exposure of the item (for example, while showering, saying the rosary or other religious observance, dressing or undressing or sleeping) shall not be considered "display" under this rule.
-
-      103.15: An inmate is guilty of the offense of Possession of Contraband Grade II when such inmate possesses money not in excess of twenty (20) dollars, or checks or credit cards. Money confiscated as contraband will be deposited in the City's treasury and will not be returned to the inmate.
+      103.15: An inmate is guilty of the offense of Possession of Contraband Grade II when such inmate possesses money having a value of up to and including twenty (20) dollars, in the form of cash or checks. Money confiscated as contraband will be deposited in the City's treasury and will not be returned to the inmate.
 
       Grade III:
 
@@ -181,6 +195,8 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
       105.24: Inmates shall not block the view into or out of any cell by putting anything on the bars of the cell or on any cell door, cell door window or cell window, in a manner that would obstruct the view into or out of the cell.
 
+      105.25: Inmates shall not use a food warmer as a personal cooking device.
+
    (7) Demonstrations
 
       Grade I:
@@ -211,17 +227,29 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
       108.11: Inmates shall not behave in a loud and noisy manner.
 
-   (10) Disrespect for Staff
+   (10) Disrespect for Staff; Sexual Harassment towards Staff
 
       Grade I:
 
-      109.10: Inmates shall not physically resist staff members.
+      109.10: An inmate is guilty of the Grade I offense of Disrespect for Staff if the inmate physically resists a staff member, including by pulling or twisting away.
 
-      109.11: Inmates shall not harass or annoy staff members by touching or rubbing against them.
+      109.11: An inmate is guilty of the Grade I offense of Disrespect for Staff/Sexual Harassment towards Staff if the inmate harasses or annoys a staff member by touching the staff member.
+
+      109.11.5: An inmate is guilty of the Grade I offense of Sexual Harassment towards Staff if the inmate engages in unwelcome physical conduct of a sexual nature, including but not limited to: patting, rubbing, kissing, grabbing, pinching or touching of staff.
 
       Grade II:
 
-      109.12: Inmates shall not verbally abuse or harass staff members, or make obscene gestures towards any staff members.
+      109.12 An inmate is guilty of the Grade II offense of Disrespect for Staff/Sexual Harassment towards Staff if the inmate verbally abuses or harasses a staff member, or makes obscene gestures towards any staff member.
+
+      109.13: An inmate is guilty of the Grade II offense of Disrespect for Staff/Sexual Harassment Towards Staff when the inmate, in the plain view of staff, intentionally touches the inmate's own body with or without exposing the genitals, buttocks or breasts, in a manner that demonstrates it is for the purpose of sexual arousal, gratification, annoyance, or offense, and that any reasonable person would consider this conduct offensive.
+
+      109.14: An inmate is guilty of the Grade II offense of Disrespect for Staff/Sexual Harassment Toward Staff when the inmate requests, solicits or otherwise encourages a staff member or any other to engage in sexual activity, or makes repeated and unwelcome sexual advances or verbal comments of a derogatory or offensive nature, including but not limited to: sexually suggestive remarks, jokes, innuendos, leering, comments, and gestures.
+
+      109.15: An inmate is guilty of the Grade II offense of sexual harassment towards staff when the inmate refuses to remove sexually explicit material the inmate has affixed, posted or displayed on Department property after being asked to do so by staff.
+
+      Grade III:
+
+      109.16: An inmate is guilty of the Grade III offense of sexual harassment towards staff when the inmate affixes, posts or displays any sexually explicit material on Department property, including walls, windows, or lighting fixtures.
 
    (11) Disrupting Institutional Programs
 
@@ -267,17 +295,23 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
       Grade III:
 
-      115.10: Inmates shall carry and display their Department ID cards clipped onto the outermost garment at all times when outside their cell or sleeping quarters.
+      115.10: Inmates shall carry and display their Department ID at all times when outside their cell or sleeping quarters.
 
-      115.11: Inmates shall promptly produce their Department ID cards at the direction of any staff member.
+      115.11: Inmates shall promptly produce their Department ID at the direction of any staff member.
 
-      115.12: Inmates shall report the loss of their ID cards promptly to appropriate staff members. Inmates shall be charged a fee of $6.00 for a new identification card with or without a clip. There will be no charge for the clip alone.
+      115.12: Inmates shall report the loss of their Department ID promptly to appropriate staff members. Inmates shall be charged restitution for a new Department ID.
+
+      115.13: Inmates shall not intentionally tamper with or destroy their Department ID.
 
    (18) Impersonation
 
-      Grade I: 116.10: Inmates shall not impersonate any staff member in any way.
+      Grade I:
 
-      Grade II: 116.11: Inmates shall not impersonate another inmate or any other person in any way.
+      116.10: Inmates shall not impersonate any staff member in any way.
+
+      Grade II:
+
+      116.11: Inmates shall not impersonate another inmate or any other person in any way.
 
    (19) Inmate Movement
 
@@ -317,19 +351,25 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
       Grade I:
 
-      122.10: Inmates shall not force or in any way coerce any person to engage in sexual activities.
+      122.10: An inmate is guilty of a Grade I Sex Offense when the inmate forces, coerces or attempts sexual abuse against another person, or engages in sexual abuse of a person who is unable to consent or refuse.
 
       Grade II:
 
-      122.11: Inmates shall not voluntarily engage in sexual activity with any other person.
+      122.11: An inmate is guilty of a Grade II Sex Offense when the inmate engages in sexual activity with another inmate. All contact between inmates is prohibited, including kissing, embracing, and hand-holding.
 
-      122.12: Inmates shall not expose the private parts of their bodies in a lewd manner. Grade III: 122.13: Inmates shall not request, solicit or otherwise encourage any person to engage in sexual activity.
+      122.12: An inmate is guilty of a Grade II Sex Offense when the inmate exposes the private parts of the inmate's body in a lewd manner.
+
+      Grade III:
+
+      122.13: An inmate is guilty of a Grade III Sex Offense when the inmate requests, solicits or otherwise encourages any other inmate to engage in sexual activity, or makes repeated and unwelcome sexual advances or verbal comments of a derogatory or offensive nature, including but not limited to, sexually suggestive remarks, jokes, innuendos, comments, and gestures.
+
+      122.14: An inmate is guilty of a Grade III Sex Offense when the inmate, in the plain view of any person other than staff, intentionally touches oneself with or without exposing their genitals, buttocks or breasts in a manner that demonstrates it is for the purpose of sexual arousal, gratification, annoyance or offense, and that any reasonable person would consider this conduct offensive.
 
    (24) Smuggling
 
       Grade I:
 
-      123.10: Inmates shall be guilty of Grade I smuggling if, by their own actions or acting in concert with others, they smuggle weapons, drugs or drug-related products, alcohol, tobacco or tobacco related products, or escape paraphernalia into or out of the facility.
+      123.10: Inmates shall be guilty of Grade I smuggling if, by their own actions or acting in concert with others, they smuggle weapons, drugs or drug-related products, manufactured chemical compounds that are not facility issued, alcohol, tobacco or tobacco-related products, or escape paraphernalia into or out of the facility.
 
       Grade III:
 
@@ -410,14 +450,14 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 
 
+
+
 *§ 1-04 Hearing Procedures.* ::
 
 
-This section sets forth hearing procedures.
-
 (a) General procedures.
 
-   (1) When you are placed against your will in any of the most restrictive security categories, including punitive segregation, you will be given written notice of:
+   (1) When you are placed in any of the most restrictive security categories (other than Pre-Hearing Detention, which is addressed in subsection (b) below), you will be given written notice of:
 
       (i) The reasons for the designation.
 
@@ -429,61 +469,73 @@ This section sets forth hearing procedures.
 
 (b) Disciplinary hearing procedures.
 
-   (1) Pre-Hearing Detention (PHD). Where you are placed in Pre-Hearing Detention (PHD) prior to your disciplinary hearing, the infraction hearing will be completed within three (3) business days of your transfer to PHD. If the infraction hearing cannot be completed within three (3) business days, the Adjudication Captain will assess whether it is likely that a hearing will be completed within another three (3) business days. PHD placement may be extended once for a maximum of another three (3) business days. If the hearing is not completed within that time the Chief of Facility Operations or his/her designee shall determine whether you should be placed in Close Custody.
+   (1) Pre-Hearing Detention (PHD). When you are placed in Pre-Hearing Detention (PHD) prior to your disciplinary hearing,
 
-   (2) Disciplinary Infraction Hearings. If you are not placed in PHD, the infraction hearing will take place within three (3) business days after you receive written notice, unless any further delay is justified in accordance with Directive 6500R-B III.C.2. Hearings may be held in absentia (that is, without you present) only under the following circumstances:
+      (i) You will be issued a Notice of Pre-Hearing Detention within twenty-four (24) hours of the placement, which will state the reason for the placement in PHD.
 
-      (i) You are notified of the hearing and refuse to appear; or
+      (ii) You will have the opportunity to respond to the Notice of Pre-Hearing Detection, verbally, or in writing in a designated space on the Notice form.
 
-      (ii) You appear and are extremely disruptive, causing a situation, which is unduly hazardous to institutional safety, and necessitating your removal from the hearing room thus constituting a constructive refusal to appear. When either of these situations arises, the justification for holding the hearing in absentia shall be clearly documented in the Adjudication Captain's decision.
+      (iii) The infraction hearing will be completed within three (3) business days of your transfer to PHD whenever possible, but you shall not be held in PHD for more than seven (7) business days. If the hearing is not held in such time, you must be released from PHD.
 
-   (3) If you request a hearing you have the following rights:
+   (2) Disciplinary Infraction Hearings. If you are not placed in PHD, the infraction hearing will take place within three (3) business days after you receive written notice, unless any further delay is justified in accordance with disciplinary due process Your hearing may be held in absentia (that is, without you present) only if the following occurs: (i) you are notified of the hearing and refuse to appear; or (ii) you appear and are extremely disruptive, causing a situation that is unduly hazardous to institutional safety that necessitates your removal from the hearing room If your hearing is held in absentia, the justification for holding the hearing in absentia shall be clearly documented in the Adjudication Captain's decision.
 
-      (i) To personally appear.
+   (3) At your hearing, you have the following rights:
 
-      (ii) To make statements.
+      (i) To personally appear;
 
-      (iii) To present material, relevant, and non-duplicative evidence.
+      (ii) To make statements;
 
-      (iv) To have witnesses testify at the hearing, provided they are reasonably available and attending the infraction hearing will not be unduly hazardous to the institutional safety or correctional goals.
+      (iii) To present material, relevant, and non-duplicative evidence;
 
-      (v) If you are illiterate or if your case is very complicated, you have a right to be helped by a "hearing facilitator" (not a lawyer).
+      (iv) To have witnesses testify at the hearing, provided they are reasonably available and their attendance at the infraction hearing will not be unduly hazardous to the institutional safety of correctional goals.
 
-      (vi) If you do not understand or are not able to communicate in English well enough to conduct the hearing in English, you have a right to an interpreter.
+      (v) If you are non-English speaking, illiterate, blind, deaf, have poor vision, are hard of hearing, or if your case is very complicated, you have a right to be helped by a "hearing facilitator" (not a lawyer). The hearing facilitator shall be designated by the chief administrative officer, or the chief administrative officer's designee, at least twenty-four (24) hours prior to the hearing. The hearing facilitator may assist you with:
 
-      (vii) You have a right to appeal an adverse decision.
+         (aa) Interviewing witnesses;
 
-(c) Close Custody and Close Custody/Protective Custody.
+         (bb) Obtaining evidence and/or written statements;
 
-   (1) If you are transferred to close custody (CC), including protective custody (CC/PC), the Department will determine within two (2) business days whether you should continue in such housing. If you do not consent to a decision to continue CC or CC/PC placement, you will be provided with written notice as set forth in 39 RCNY § 1-04(a)(1).
+         (cc) Providing assistance at the disciplinary hearing;
 
-   (2) The hearing will be held no sooner than 24 hours and no later than three (3) business days after you receive the written notice of your Close Custody security designation, unless an adjournment is required or for one of the reasons set forth in Directive 6006R-C III. E. 8.
+         (dd) Providing assistance understanding administrative segregation decisions;
 
-   (3) The Adjudication Captain will recommend whether you should remain in CC or CC/PC to the Chief of Facility Operations in writing within one (1) business day after the hearing. You will receive a copy of the decision of the Chief of Facility Operations or designee.
+         (ee) Providing assistance understanding the evidence relied on by the hearing officer and the reasons for action taken;
 
-   (4) If you are placed in CC or CC/PC, the Department will review your case every twenty-eight (28) days to see if you should remain in CC or CC/PC. You will be notified in writing of the results of that review.
+         (ff) Providing assistance understanding the waiver of any rights; and
+
+         (gg) Providing assistance in filing an appeal.
+
+      (vi) If you do not understand or are not able to communicate in English well enough to conduct the hearing in English, you have a right to an interpreter in addition to a hearing facilitator.
+
+      (vii) You have a right to appeal a decision against you.
+
+      (viii) You have a right to have the hearing recorded.
+
+(c) Protective custody.
+
+   (1) If you are transferred to protective custody (PC), the Department will determine within two (2) business days whether you should continue in such housing. If you do not consent to a decision to continue PC placement, you will be provided with written notice as set forth in 39 RCNY § 1-04(a)(1).
+
+   (2) The hearing will be held no sooner than 24 hours and no later than three (3) business days after you receive the written notice of your PC housing placement, unless an adjournment is required or for one of the reasons set forth in Directive 6007R-A.
+
+   (3) The Adjudication Captain will recommend whether you should remain in PC to the Operations Security Intelligence Unit (OSIU) in writing within one (1) business day after the hearing. You will receive a copy of the decision from OSIU.
+
+   (4) If you are placed in PC the Department will review your placement thirty (30) days after OSIU initially determined the assignment and then every sixty (60) days thereafter to see if you should remain in PC. You will be notified in writing of the results of that review.
 
    (5) If you request a hearing you will have the following rights:
 
-      (i) To personally appear.
+      (i) To personally appear;
 
-      (ii) To be informed of the evidence against you that resulted in the designation.
+      (ii) To be informed of the evidence against you that resulted in the designation, subject to limitations regarding confidential information to protect another person's safety or facility security;
 
-      (iii) The opportunity to make a statement.
+      (iii) The opportunity to make a statement;
 
-      (iv) To call witnesses, subject to the Adjudication Captain's discretion.
+      (iv) To call witnesses subject to the Adjudication Captain's discretion;
 
-      (v) To present evidence.
+      (v) To present evidence;
 
       (vi) The right to a written determination with reasons.
 
-(d) Miscellaneous.
 
-   (1) If you are illiterate, if your case is very complicated, or a pre-hearing transfer has restricted access to potential witnesses, you have a right to be helped by a "hearing facilitator" (not a lawyer). In hearings other than disciplinary infraction hearings, the Department may in its discretion allow you to have a lawyer present who is willing to represent you.
-
-   (2) If you do not understand English an interpreter will be provided.
-
-   (3) The proceedings of the hearing are recorded.
 
 
 

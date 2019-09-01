@@ -20601,7 +20601,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
 
  
 
-As used in this section, the term "Restricted Area" means all of Manhattan south of the building line on the north side of 96th Street, and between the Hudson River and the East River. Within the Restricted Area, the fine for violations enumerated in paragraphs (c), (i), (l) and (m) is $50.00 and for paragraph (h) the fine is $45.00.
+As used in this section, the term "Restricted Area" means all of Manhattan south of the building line on the north side of 96th Street, and between the Hudson River and the East River. Within the Restricted Area, the fine for violations enumerated in paragraphs (c), (k), (o) and (p) is $50.00 and for paragraph (j) the fine is $45.00.
 
 Fines following a hearing.
 

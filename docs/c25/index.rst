@@ -1,19 +1,6 @@
 Title 42: Department of Probation
 ===================================================
 
-Chapter 2: Adjudications
---------------------------------------------------
-
-
-
-*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.* ::
-
-
-New York City Department of Probation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner of the Department of Probation.
-
-
-
-
 Chapter 1: Procedure For Obtaining Pre-Sentence Reports
 --------------------------------------------------
 
@@ -57,6 +44,19 @@ Defendant's date of birth.
 (b) Time of requests for production. Requests for probation records should be made as far in advance of the date for perfection of the appeal as is possible. Cases which are two or more years old are archived and take a minimum of three to four weeks to locate and forward to the appellate court. Some take longer.
 
 (c) Failure to produce records. It is the responsibility of the requesting party to ascertain whether the probation records have reached the appellate court. No notice will be sent by the Department of Probation. However, if the appellate court indicates that the records have not been received in a reasonable time, further inquiries should be directed either in writing or by telephone to the New York City Department of Probation, Office of the General Counsel, (212) 374-3718, 115 Leonard Street, New York, N.Y. 10013.
+
+
+
+
+Chapter 2: Adjudications
+--------------------------------------------------
+
+
+
+*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.* ::
+
+
+New York City Department of Probation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner of the Department of Probation.
 
 
 
