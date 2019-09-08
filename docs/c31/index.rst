@@ -1043,9 +1043,9 @@ Whenever a party claims that a summons was previously adjudicated, the hearing o
 *§ 3-15 Panel or Board Review of Appeals.* ::
 
 
-(a) The Board will establish panels from among its members to review recommended decisions prepared by the Appeals Unit, pursuant to 48 RCNY § 6-19(e), and to issue appeals decisions. A panel may refer a case to the Board for review if the panel is unable to reach a decision. Such case will be considered by the Board and the Board will issue an appeals decision. Unless a party files a request pursuant to Subdivision (b) of this section, the appeals decision of the panel or the Board will be deemed to have been issued by, and become the final determination of the Board, which is also a final determination of the Tribunal. Judicial review of such determination may be sought pursuant to Article 78 of the New York Civil Practice Law and Rules (CPLR).
+(a) The Board will establish panels from among its members to review recommended decisions prepared by the Appeals Unit, pursuant to 48 RCNY § 6-19(e), and to issue appeals decisions. A panel may refer a case to the Board for review if the panel is unable to reach a decision. Such case will be considered by the Board and the Board will issue an appeals decision. Unless a party files a request pursuant to Subdivision (b) of this section, the appeals decision of the panel or the Board will be deemed to have been issued by, and become the final determination of the Board, which is also a final determination of the Tribunal. Judicial review of such determination may be sought pursuant to article 78 of the New York Civil Practice Law and Rules (CPLR).
 
-(b) Superseding appeals decisions. Within 10 days of the mailing of the Board's appeals decision, a party may apply to the Board for a superseding appeals decision to correct ministerial errors or errors due to mistake of fact or law. The request for a superseding appeals decision must be served upon the non-requesting party. A decision denying a request for a superseding appeal incorporates by reference the initial appeals decision. A decision granting a request for a superseding appeal vacates the initial appeals decision. This superseding appeals decision will become the final determination of the Board, which is also the final determination of the Tribunal. Judicial review of such determination may be sought pursuant to Article 78 of the CPLR.
+(b) Superseding appeals decisions. Within 10 days of the mailing of the Board's appeals decision, a party may apply to the Board for a superseding appeals decision to correct ministerial errors or errors due to mistake of fact or law. The request for a superseding appeals decision must be served upon the non-requesting party. A decision denying a request for a superseding appeal incorporates by reference the initial appeals decision. A decision granting a request for a superseding appeal vacates the initial appeals decision. This superseding appeals decision will become the final determination of the Board, which is also the final determination of the Tribunal. Judicial review of such determination may be sought pursuant to article 78 of the CPLR.
 
 
 
@@ -1057,11 +1057,11 @@ Whenever a party claims that a summons was previously adjudicated, the hearing o
 *§ 3-16 Judicial Review When Board Decision is Delayed.* ::
 
 
-(a) If the Board has not issued an appeals decision within 180 days from the filing of the appeal, or if the Board has not issued a superseding appeals decision within 180 days from the request for superseding appeal, the Respondent may at any time file a petition seeking judicial review of the Hearing Officer's recommended decision pursuant to Article 78 of the New York Civil Practice Law and Rules (CPLR). Such Respondent may rely on the recommended decision of the Hearing Officer as the final determination of the Board, provided that the following three conditions are met:
+(a) If the Board has not issued an appeals decision within 180 days from the filing of the appeal, or if the Board has not issued a superseding appeals decision within 180 days from the request for superseding appeal, the Respondent may at any time file a petition seeking judicial review of the Hearing Officer's recommended decision pursuant to article 78 of the New York Civil Practice Law and Rules (CPLR). Such Respondent may rely on the recommended decision of the Hearing Officer as the final determination of the Board, provided that the following three conditions are met:
 
    (1) at least forty-five days before the filing of such petition, the Respondent files with the Board written notice of the Respondent's intention to file the Article 78 petition;
 
-   (2) the Respondent serves and files the Article 78 petition on the Board pursuant to the CPLR; and
+   (2) the Respondent serves and files the article 78 petition on the Board pursuant to the CPLR; and
 
    (3) the Board has not issued an appeals decision or, if applicable, a superseding appeals decision at the time of filing the petition.
 
@@ -1113,9 +1113,9 @@ Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, p
 
 (c) If the Hearing Officer finds that the movant has established, by a preponderance of evidence, (i) the correct legal name of the judgment debtor, (ii) that such name is the same party designated on the summons or summonses as responsible for the alleged violation or violations and (iii) that service of the summons or summonses and of all other papers in the proceeding or proceedings was or were properly made upon such judgment debtor, the Hearing Officer will grant such motion and issue a recommended decision directing the amendment of the judgment to reflect the correct legal name of the judgment debtor and of all records relating to the proceedings commenced by the service of the summons or summonses, including the records of judgments filed with the civil court and in the office of the county clerk.
 
-(d) The Hearing Officer will file the recommended decision with the Board and OATH will serve the recommended decision on all parties. Any party who appeared at the hearing, in person or otherwise, may file an appeal of such recommended decision in the manner provided in 48 RCNY § 6-19 and the Board will render a final decision on the appeal. Such final decision is the final decision of the Board for purposes of review pursuant to Article 78 of the CPLR.
+(d) The Hearing Officer will file the recommended decision with the Board and OATH will serve the recommended decision on all parties. Any party who appeared at the hearing, in person or otherwise, may file an appeal of such recommended decision in the manner provided in 48 RCNY § 6-19 and the Board will render a final decision on the appeal. Such final decision is the final decision of the Board for purposes of review pursuant to article 78 of the CPLR.
 
-(e) If an appeal is not filed within the time provided for in 48 RCNY § 6-19, the Hearing Officer's recommended decision will become the final decision of the Board and is not subject to review pursuant to Article 78 of the CPLR.
+(e) If an appeal is not filed within the time provided for in 48 RCNY § 6-19, the Hearing Officer's recommended decision will become the final decision of the Board and is not subject to review pursuant to article 78 of the CPLR.
 
 (f) An order correcting a judgment does not affect the duration of a judgment. The judgment will remain in full force and effect for eight (8) years from the date that the judgment was originally entered.
 

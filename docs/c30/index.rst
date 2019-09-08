@@ -1,20 +1,22 @@
 Title 47: Commission On Human Rights
 ===================================================
 
-Chapter 1: Practice and Procedure
+Chapter 1: Practice and Procedure*
 --------------------------------------------------
 
 
 
 
-**Subchapter A: General***
+**Subchapter A: General**
 
 
 
 *§ 1-01 Scope of Rules.* ::
 
 
-These rules are intended to carry out the provisions of Title 8, Chapter 1 of the Administrative Code of the City of New York, Human Rights Law ("HRL"), and the policies and procedures of the Commission on Human Rights in connection therewith, as authorized by HRL § 8-105(11) and § 8-117.
+These rules are intended to carry out the provisions of the Human Rights Law ("NYCHRL"), title 8 of the Administrative Code of the City of New York ("the Code"), and the policies and procedures of the Commission on Human Rights in connection therewith, as authorized by chapter 40 of the New York City Charter and § 8-117 of the Code.
+
+
 
 
 
@@ -24,13 +26,17 @@ These rules are intended to carry out the provisions of Title 8, Chapter 1 of th
 *§ 1-02 Organization of Commission.* ::
 
 
-In order to carry out its various statutory responsibilities in a fair and impartial fashion, the Commission has separated its functions into discreet bureaus and offices, each of which reports to the Chair of the agency. In addition to the Chair and the Commissioners, the following components of the Commission are directly involved in the enforcement of the HRL:
+In order to carry out its various statutory responsibilities in a fair and impartial fashion, the Commission has separated its functions into discrete bureaus and offices, which, among other things, separate the Chair from the investigatory and prosecutorial functions of the agency. In addition to the Chair and the Commissioners, the following components of the Commission are directly involved in the enforcement of the NYCHRL:
 
-(a) Law Enforcement Bureau. The Law Enforcement Bureau is charged with the Commission's investigatory and prosecutorial functions. Where an action is authorized or required to be taken by the Law Enforcement Bureau, such action shall be taken by the Deputy Commissioner for Law Enforcement, such Law Enforcement Bureau staff as the Deputy Commissioner shall designate, or such person as may be appointed by the Chair of the Commission.
+(a) Law Enforcement Bureau. The Law Enforcement Bureau is charged with the Commission's investigatory and prosecutorial functions. Where an action is authorized or required to be taken by the Law Enforcement Bureau, such action must be taken by the Deputy Commissioner for Law Enforcement, such Law Enforcement Bureau staff as the Deputy Commissioner may designate, or such person as may be appointed by the Chair of the Commission.
 
-(b) Office of General Counsel. The Office of General Counsel serves as counsel to the Chair and to the Commissioners. Where an action is authorized or required to be taken by the Office of General Counsel, such action shall be taken by the General Counsel, such staff of the Office of General Counsel as the General Counsel shall designate, or such person as may be appointed by the Chair of the Commission.
+(b) Office of General Counsel. The Office of General Counsel serves as counsel to the Chair and to the Commissioners. Where an action is authorized or required to be taken by the Office of General Counsel, such action must be taken by the General Counsel, such staff of the Office of General Counsel as the General Counsel may designate, or such person as may be appointed by the Chair of the Commission.
 
-(c) Office of Mediation and Conflict Resolution. The Office of Mediation and Conflict Resolution provides mediation and conciliation services in connection with complaints that have been filed. Where an action is authorized or required to be taken by the Office of Mediation and Conflict Resolution, such action shall be taken by the Deputy Commissioner for Mediation and Conflict Resolution, such staff of the Office of Mediation and Conflict Resolution as the Deputy Commissioner shall designate, or such person as may be appointed by the Chair of the Commission.
+(c) Office of Mediation and Conflict Resolution. The Office of Mediation and Conflict Resolution provides mediation services in connection with complaints that have been filed at the Commission. The Office of Mediation and Conflict Resolution operates independently from any other office within the Commission. Where an action is authorized or required to be taken by the Office of Mediation and Conflict Resolution, such action must be taken by the Director of the Office of Mediation and Conflict Resolution, such staff of the Office of Mediation and Conflict Resolution as the Director may designate, or such person as may be appointed by the Chair of the Commission.
+
+(d) Office of the Chair. The Office of the Chair is charged with the Commission's adjudicatory functions. Where an action is authorized or required to be taken by the Office of the Chair, such action must be taken by the Chair or such person as may be appointed by the Chair of the Commission, except such person may not include the Deputy Commissioner or staff of the Law Enforcement Bureau.
+
+
 
 
 
@@ -40,43 +46,31 @@ In order to carry out its various statutory responsibilities in a fair and impar
 *§ 1-03 Definitions and Construction.* ::
 
 
-For purposes of this chapter,
+Amended pleadings. For purposes of this chapter, amended complaints must be treated the same as complaints, and amended answers must be treated the same as answers, except as otherwise specifically provided.
 
-Calculation of dates. A number of days specified in these Rules means calendar days exclusive of the calendar day from which the calculation is made.
+Administrative cause. For purposes of this chapter, the term "administrative cause" has the same meaning as "administrative convenience" as set forth in § 8-113 of the Code.
 
-Complainant. Complainant shall mean a person who has filed a complaint pursuant to these Rules.
+Calculation of dates and deadlines. For purposes of this chapter, where a deadline is specified in the Code, these rules, a Commission subpoena, or a Commission order by the expiration of a specified number of days, the deadline is calculated in calendar days, exclusive of the starting calendar day from which the calculation is made. If the expiration of a time requirement falls on a weekend or a legal holiday of the State of New York, the expiration date is the next business day following the expiration date.
 
-Discriminatory harassment or violence. The procedures set forth in these Rules which apply to unlawful discriminatory practices shall apply with like effect to acts of discriminatory harassment or violence as set forth in Chapter 6 of Title 8 of the Administrative Code except that no complaint shall be filed with respect to an act of discriminatory harassment or violence unless the act complained of occurred on or after January 22, 1993.
+Complaint. For purposes of this chapter, the term "complaint" means a formal, written complaint filed pursuant to subchapter B of these rules.
 
-Filing and proof of service. Wherever these Rules require that a paper be filed, such requirement shall be construed to require the filing of proof of prior service of the paper on the persons required to be served by the section together with the paper. Each Bureau and Office of the Commission shall retain proof of service of each paper served under these Rules.
+Complainant. For purposes of this chapter, the term "complainant" means a person who has filed a formal, written complaint pursuant to subchapter B of these rules.
 
-Investigatory file. For the purposes of these Rules, the Law Enforcement Bureau's "Investigatory File" shall be construed to include only the factual information, as opposed to opinions or legal analysis contained in those writings made or gathered by the Bureau during the course of an investigation. Any information derived from an investigation pursuant to Subchapter D of this chapter including the names and other identifying information of witnesses who request anonymity is confidential; provided, however, that the Law Enforcement Bureau may be required to disclose the names of such witnesses in the course of an administrative hearing or a civil action.
+Conciliation. For purposes of this chapter, the term "conciliation" refers to an agreement among persons including the Law Enforcement Bureau to resolve all or part of a case before the Commission.
 
-Means of service of papers. Except where otherwise specified, service of a paper means any method of service described by § 2103 of the New York Civil Practice Law and Rules.
+Necessary party. For purposes of this chapter, the term "necessary party" means any person determined by the Law Enforcement Bureau or by an Administrative Law Judge to be a person who might be inequitably affected by a decision of the Commission, or any person whose absence would preclude complete relief between the complainant and the respondent.
 
-Necessary party. Necessary party shall mean any person deemed by the Law Enforcement Bureau or any person determined by an Administrative Law Judge to be a person without whom complete relief could not be ordered by the Commission or a person whose interests would be materially affected by the Commission's determination of the case. Any person deemed or determined to be a necessary party shall be treated as a party for all purposes under these rules and the HRL.
+Party. For purposes of this chapter, the term "party" means the Law Enforcement Bureau when acting as petitioner; respondents; complainants who intervene pursuant to § 2-25 of the Rules of Practice of the Office of Administrative Trials and Hearings (hereinafter "OATH") (48 RCNY § 2-25); or any necessary parties.
 
-Papers to be served upon counsel. Whenever a person required to be served with a paper pursuant to these Rules has duly informed the Law Enforcement Bureau as required by these rules that such person is represented by counsel, service shall be effected upon the person's counsel in lieu of service on the person himself or herself.
+Person. For purposes of this chapter, the term "person" includes one or more natural persons, proprietorships, partnerships, associations, group associations, organizations, governmental bodies or agencies, corporations, legal representatives, trustees, trustees in bankruptcy, receivers, and associations, organizations, or groups that assert the civil rights of protected classes.
 
-Party. Unless the context requires otherwise, the term "party" shall refer to the Law Enforcement Bureau, to respondents, to those complainants that shall have intervened pursuant to 47 RCNY § 1-75 of this chapter and to necessary parties.
+Respondent. For purposes of this chapter, the term "respondent" means a person who has been charged in a complaint filed pursuant to these rules with having committed an unlawful discriminatory practice, an act of discriminatory harassment or violence, or an act of bias-based profiling.
 
-Person. The term "person" shall have the meaning ascribed thereto in subdivision one of HRL 8-102. The term "person" shall be construed to include associations, organizations or groups that assert the civil rights of protected classes.
+Rules. For purposes of this chapter, unless otherwise apparent from the context, the term "rules" means the provisions of chapter 1 of title 47 of the Rules of the City of New York.
 
-Probable Cause. The Law Enforcement Bureau shall find probable cause exists to credit the allegations of a complaint that an unlawful discriminatory practice has been or is being committed by a respondent where a reasonable person, looking at the evidence as a whole, could reach the conclusion that it is more likely than not that the unlawful discriminatory practice was committed.
+Settlement. For purposes of this chapter, the term "settlement" refers to an agreement among persons not including the Law Enforcement Bureau to resolve all or part of a case before the Commission.
 
-Respondent. Respondent shall mean a person who has been charged in a complaint filed pursuant to these Rules with having committed an unlawful discriminatory practice.
-
-Rules. Rules shall mean the provisions of Chapter 1 of Title 47 of the Rules of the City of New York.
-
-
-
-
-
-
-*§ 1-04 Power Delegated to the Chair of the Commission to Propose Rules* ::
-
-
-The Commission delegates to the Chair of the Commission authority to propose rules prior to their final adoption by the Commission pursuant to § 8-105(11) of the Administrative Code of the City of New York and § 905(e)(9) of the New York City Charter.
+Singular and plural usage. For purposes of this chapter, words in the singular include the plural and words in the plural include the singular, as the context may require.
 
 
 
@@ -85,77 +79,181 @@ The Commission delegates to the Chair of the Commission authority to propose rul
 
 
 
+*§ 1-04 Service of Papers.* ::
 
-**Subchapter B: Complaints, Answers and Notification of Obligations**
+
+(a) Who can serve papers. Except where otherwise prescribed by law or an order of the Commission or of a court, papers may be served by any person of the age of eighteen years or over.
+
+(b) Parties to be Served. Each paper served on any party must be served on every other party who has appeared.
+
+(c) Service on persons represented by counsel. Whenever a person required to be served with a paper pursuant to these rules has duly informed the Commission pursuant to 47 RCNY § 1-15 that such person is represented by counsel, service must be made on the person's counsel in lieu of service on the person unless, consistent with the New York Rules of Professional Conduct, the person seeking to make service has reason to conclude that the person to be served is not in fact represented by counsel. Notwithstanding the foregoing, in addition to serving administrative notices on a represented person's counsel, the Commission may also serve such notices the on the person.
+
+(d) Methods of service.
+
+   (1) Papers other than subpoenas. A paper other than a subpoena is served under this rule by:
+
+      (i) handing it to the person;
+
+      (ii) mailing it to the person's last known address, unless the serving party has reason to know that the person to be served no longer resides there. Service by mail is effective:
+
+         i. five days from the date of mailing, if sent by first class mail.
+
+         ii. one day from the date of mailing, if sent by overnight delivery.
+
+         iii. for purposes of calculating deadlines for filing in state court, on the date of mailing. For example, the deadline for filing an appeal in state court should be calculated from the date of mailing of the decision that is the subject of the appeal.
+
+      (iii) leaving it:
+
+         i. at the person's office with a clerk or other person in charge or, if no one is in charge, in a conspicuous place in the office; or
+
+         ii. if the person has no office or the office is closed, at the person's dwelling or usual place of abode with someone of suitable age and discretion who resides there;
+
+      (iv) sending it by email or facsimile, provided that either the person is represented by counsel and the papers are served on the attorney, or the person has provided written consent to such service pursuant to 47 RCNY § 1-04(f). Service by email or facsimile is complete at the time of transmission, but is not effective if the serving party learns that it did not reach the person to be served;
+
+      (v) for service on corporations or other business entities, mailing it to the person registered with the New York State Department of State to receive service on behalf of the corporation or business entity or by serving the New York Department of State in accordance with applicable law; or
+
+      (vi) if no other method of service is effective, as specified in an order by the Chair.
+
+   (2) Subpoenas. A subpoena must be served in the manner provided for in the New York Civil Practice Law and Rules ("CPLR").
+
+(e) Proof of Service. For purposes of this chapter, proof of service may include a written declaration, affidavit, affirmation, certification, or other statement made under penalty of perjury, specifying the papers served, the person who was served and the date, address, or, in the event there is no address, place and manner of service, and setting forth facts showing that the service was made by an authorized person and in an authorized manner.
+
+(f) Consent to email or facsimile service. An unrepresented party who consents to service by email or facsimile must provide written notice to all other parties, including the case name, case number, and the email address or facsimile number through which the party consents to accept service. Written consent to service by email or facsimile will remain in effect unless the consenting party provides unambiguous notice that consent is being withdrawn. Counsel appearing on behalf of a party are presumed to have consented to service by email, absent an express statement to the contrary.
+
+(g) Service by email.
+
+   (1) File format. Papers served by email, other than materials produced in response to investigatory demands and subpoenas, should be sent in PDF format. Text-searchable PDF format is strongly encouraged.
+
+   (2) Email subject lines. When service of papers is made by email, the subject line of the email must contain the case name and complaint number(s).
+
+(h) Parties' obligation to provide notice of changes in contact information and changes in counsel. All parties have a continuing obligation to promptly advise the Commission of any changes in contact information or in representation by counsel. Notice of changes in contact information or in representation must also be promptly provided to all other parties.
+
+(i) Time for service of complaints. A complaint must be served on each respondent within 120 days after it is filed. Claims against a respondent who is not timely served must be dismissed without prejudice, unless the Law Enforcement Bureau determines that good cause exists for an extension of the service deadline.
+
+
+
+
+
+
+
+
+*§ 1-05 Power Delegated to the Chair of the Commission to Propose Rules.* ::
+
+
+The Commission delegates to the Chair of the Commission authority to propose rules prior to their final adoption by the Commission, pursuant to chapter 1 of title 8 of the Code and § 905 of the New York City Charter.
+
+
+
+
+
+
+
+
+*§ 1-06 General Procedure for Requesting Orders by the Chair, Except as Otherwise Specified.* ::
+
+
+Except as otherwise specifically provided in this chapter, when an application for an order from the Chair is authorized pursuant to the Code or this chapter, such application may be made by promptly filing a letter motion with the Office of the Chair, copies of which must also be served on all parties. The letter motion should set forth the nature of the request and the procedural stance of the case and should include any relevant supporting documentation. After the motion is served, the Office of the Chair will set deadlines for opposition and reply to the letter motion.
+
+
+
+
+
+
+
+
+*§ 1-07 Courtesy Paper Copies.* ::
+
+
+Courtesy paper copies of submissions exceeding 10 pages in length must be provided to the agency, even if service is made by electronic means.
+
+
+
+
+
+
+
+
+*§ 1-08 Recusal of the Chair of the Commission.* ::
+
+
+The Chair may recuse themself from a case if the Chair determines that recusal is appropriate based on considerations of fairness and applicable law. If the Chair recuses themself, General Counsel must appoint a panel of at least three other Commissioners to serve in place of the Chair for that matter.
+
+
+
+
+
+
+
+
+
+**Subchapter B: Complaints, Answers, and Notification of Obligations**
 
 
 
 *§ 1-11 Complaints Generally.* ::
 
 
-(a)  Who may file.
+(a) Who may file a complaint.
 
-   (1) Any person claiming to be aggrieved by an unlawful discriminatory practice may in person, by his or her attorney, or by a representative acting with appropriate legal authority make, sign and file a written verified complaint with the Law Enforcement Bureau in accordance with these rules.
+   (1) The Law Enforcement Bureau. The Law Enforcement Bureau may make, sign, and file a verified complaint alleging that a person has committed an unlawful discriminatory practice, an act of discriminatory harassment or violence, or an act of bias-based profiling.
 
-   (2) The Law Enforcement Bureau may make, sign, and file a verified complaint alleging that a person has committed an unlawful discriminatory practice.
+   (2) Complainants. Any person aggrieved by an unlawful discriminatory practice, an act of discriminatory harassment or violence, or an act of bias-based profiling may individually or by such person's attorney or representative acting with appropriate legal authority make, sign, and file a written verified complaint with the Law Enforcement Bureau in accordance with these rules. However, the Law Enforcement Bureau must decline to accept a complaint for filing in the following circumstances:
 
-(b) Form of complaints. All complaints shall be typewritten, and must be signed and verified by the person making the complaint or in the case of a Commission-initiated complaint, by the Commission. A complaint initiated by a person other than the Commission shall be signed before a notary public or other person authorized by law to administer oaths. Each complaint shall recite the name of each complainant and respondent in a caption in the following form:
+      (i) Statute of limitations. The Law Enforcement Bureau must decline to file a complaint if the date of filing of the complaint would fall outside the statute of limitations set forth in § 8-109(e) of the Code. The Law Enforcement Bureau should determine whether tolling doctrines such as the continuing violation doctrine may apply and must honor valid tolling agreements.
 
-CITY OF NEW YORK COMMISSION ON HUMAN RIGHTS
+      (ii) Election of remedies. The Law Enforcement Bureau must decline to file a complaint if the alleged unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling arises from the same grievance as in:
 
----------------------------------------------------x
+         (A) a civil action previously initiated by complainant in a court of competent jurisdiction, unless such civil action has been dismissed without prejudice or withdrawn without prejudice.
 
- 
+         (B) an action or proceeding previously filed by the complainant before any administrative agency under any other law of the state.
 
- 
+         (C) a complaint previously filed by the complainant with the State Division of Human Rights, on which a final determination has been made.
 
+(b) Form of complaints.
 
-.. list-table::
-    :header-rows: 1
+   (1) Format. All complaints must be typewritten or written legibly in ink and must be signed and verified by the person making the complaint or, in the case of a Commission-initiated complaint, by the Law Enforcement Bureau.
 
-    * - In the Matter of the Complaint of:
-      - Verified Complaint 
-    * -   
-      -  
-    * - Complainant, 
-      - Case No. 
-    * - -against- 
-      -  
-    * - Respondent. 
-      - 
-~
+   (2) Caption. Each complaint must recite the name of each complainant and respondent in a caption in the following form:
 
+      CITY OF NEW YORK      COMMISSION ON HUMAN RIGHTS
 
+      ------------------------------------------------x
 
- 
+      In the Matter of the Complaint of:      Verified Complaint
 
----------------------------------------------------x
+            Complainant,         Case No.         -against-            Respondent.
 
-(c) Contents of complaint. A complaint shall contain the following:
+      -------------------------------------------------x
 
-   (1) the full name and address of the person or persons making the complaint or such other designation as appropriate. Each such person shall be denominated a complainant. If a complaint is prepared by a complainant's attorney, the attorney's name, address, telephone number and facsimile number, if any, shall also appear on the complaint;
+(c) Contents of complaint. A complaint must contain the following:
 
-   (2) the full name and address, where known, of the person or persons alleged to have committed an unlawful discriminatory practice. Each such person shall be denominated a respondent;
+   (1) the full name and address of the person or persons making the complaint or such other designation as appropriate. Each such person is denominated a complainant. If a complaint is prepared by a complainant's attorney, the attorney's name, address, telephone number, email address, and facsimile number, if any, should also appear on the complaint;
 
-   (3) a statement of the specific facts constituting the alleged unlawful discriminatory practice. The statement shall contain, to the extent known to the complainant, the exact or approximate date or dates of the alleged discriminatory practices and, if the alleged discriminatory practices are of a continuing nature, the dates between which those continuing acts of discrimination are alleged to have occurred; and the addresses or approximate locations of any places where the acts complained of are alleged to have occurred; and
+   (2) the full name and address, where known, of the person or persons alleged to have committed an unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling. Each such person is denominated a respondent;
 
-   (4) whether complainant has previously filed any other civil or administrative action alleging an unlawful discriminatory practice with respect to the allegations of discrimination which are the subject of the complaint. In the event of a prior filing, a statement of the title, docket or similar identifying number, and forum before which such other claim was filed, and a statement of the status or disposition of such other action or proceeding should be made.
+   (3) a plain and concise statement of the specific facts constituting the alleged violation of the Code, set forth in consecutively numbered paragraphs. The statement of facts must contain, to the extent known to the complainant, the exact or approximate date or dates of the alleged discriminatory practices and, if the alleged violation of the Code is of a continuing nature, the dates between which that violation is alleged to have occurred; and the addresses or approximate locations of any places where the acts complained of are alleged to have occurred; and
 
-(d) What constitutes filing of a complaint or answer. A complaint or answer is filed when it is accepted for filing by the Office of the Docketing Clerk of the Law Enforcement Bureau.
+   (4) whether complainant has previously filed any other civil or administrative action alleging an unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling with respect to the allegations that are the subject of the complaint. In the event of a prior filing, a statement of the title, docket number, or similar identifying number, and forum before which such other claim was filed, and a statement of the status or disposition of such other action or proceeding should be included.
 
-(e) Procedure upon receipt of complaint. The Law Enforcement Bureau shall accept complaints for filing, note the date of filing on the complaint, and assign a complaint number to the complaint. The Law Enforcement Bureau shall thereafter serve by mail a copy of the filed complaint upon each respondent and necessary party and shall advise the respondent of his or her procedural rights and obligations.
+(d) What constitutes filing of a complaint or answer. A signed, verified complaint or answer is filed when it is mailed to or personally served on the Law Enforcement Bureau.
+
+(e) Procedure following receipt of complaint. Consistent with 47 RCNY § 1-11(a)(1), when a complaint is filed, the Law Enforcement Bureau must record the date of filing and assign a complaint number to the complaint. The Law Enforcement Bureau must thereafter serve a copy of the filed complaint to each respondent and necessary party and must advise the respondents of their procedural rights and obligations.
 
 
 
 
 
 
-*§ 1-12 Commission-Initiated Complaints.* ::
 
 
-(a)  Procedure upon filing of a Commission-initiated complaint. Upon filing of a Commission-initiated complaint, the Law Enforcement Bureau shall immediately note the date of filing on the complaint, and assign a complaint number to the complaint. The Law Enforcement Bureau shall thereafter serve a copy of the filed complaint upon each respondent and shall advise the respondent of his/her procedural rights and obligations.
+*§ 1-12 Commission-initiated Complaints.* ::
 
-(b) Probable cause. The filing of Commission-initiated complaint shall be deemed to be a determination of probable cause.
+
+(a) Procedure following the filing of a Commission-initiated complaint. At the time that a Commission-initiated complaint is filed, the Law Enforcement Bureau must record the date of filing and assign a complaint number to the complaint. The Law Enforcement Bureau must thereafter serve a copy of the filed complaint on each respondent and advise the respondents of their procedural rights and obligations.
+
+(b) Probable cause. Commission-initiated complaints do not require a determination of probable cause.
+
+
 
 
 
@@ -165,7 +263,13 @@ CITY OF NEW YORK COMMISSION ON HUMAN RIGHTS
 *§ 1-13 Amendments to Complaints.* ::
 
 
-A complaint may be amended as of right at any time before the referral of the complaint to the Office of Administrative Trials and Hearings (hereinafter OATH) pursuant to 47 RCNY § 1-71. Subsequent to the referral of a complaint to OATH a complaint may be amended by application to the presiding Administrative Law Judge.
+(a) General. A complaint may be amended as of right at any time before the referral of the complaint to OATH. While a case is pending before OATH, amendments must be made in accordance with OATH rules. An amended complaint supersedes all prior complaints. Amending a complaint does not necessitate a reevaluation of the initial probable cause determination.
+
+(b) Statute of limitations. With respect to respondents named in the original complaint, the date of filing an amended complaint relates back to the date the original complaint was filed. With respect to respondents named for the first time in an amended complaint, the statute of limitations must be assessed in accordance with the relation-back doctrine under New York law.
+
+(c) Additions or substitutions of the Commission. The Law Enforcement Bureau may amend a complaint to add the Commission to a complaint or substitute the Commission for a complainant at any time after a complaint has been filed but before a final determination on the complaint has been made.
+
+
 
 
 
@@ -175,45 +279,51 @@ A complaint may be amended as of right at any time before the referral of the co
 *§ 1-14 Answer.* ::
 
 
-(a)  Time for filing. The respondent shall file a verified answer with the Law Enforcement Bureau within 30 days of having been served with a complaint or an amendment thereof.
+(a) Time for filing. A respondent must file an answer with the Law Enforcement Bureau within 30 days of having been served with a complaint.
 
-(b) Form and content of answer. The answer shall be verified as to the truth of the statements therein, and the respondent shall specifically admit, deny, or explain each of the facts alleged in the complaint, unless the respondent is without knowledge or information sufficient to form a belief, in which case the respondent shall so state, and such statement shall operate as a denial. Any allegation in the complaint not specifically denied or explained shall be deemed admitted unless good cause to the contrary is shown. All affirmative defenses and mitigating factors set forth in HRL 8-107(13)(d), 8-107(13)(e), and 8-126(b) shall be stated separately in the answer.
+(b) Extension of time to answer. A respondent may, for good cause, apply to the Law Enforcement Bureau for additional time to file an answer.
 
-(c) Counterclaims and cross-claims. The respondent shall not be permitted to interpose either a counterclaim or cross-claim in the answer.
+(c) Form and content of answer. The answer must be verified as to the truth of the statements therein and must, in consecutively numbered paragraphs that correspond to those in the complaint, specifically admit, deny, or explain each allegation, unless the respondent is without knowledge or information sufficient to form a belief about the allegation, in which case the respondent must so state, and such statement will operate as a denial. Any allegation in the complaint not specifically denied or explained will be deemed admitted unless good cause to the contrary is shown. To the extent that the respondent denies only part of an allegation, the respondent must state the extent of its denial and also state its response to the remaining portions of the allegation. All affirmative defenses and all mitigating factors recognized under the NYCHRL must be stated separately in the answer, or will be deemed waived, unless good cause to the contrary is shown.
 
-(d) Extension of time to answer. A respondent may apply to the Law Enforcement Bureau for additional time to file an answer. Such a request shall be granted for good cause shown.
+(d) Prohibition on counterclaims and cross-claims. The respondent may not interpose counterclaims or cross-claims in the answer, but is not precluded from filing a complaint under 47 RCNY § 1-11.
 
-(e) Amendment of answer. A respondent may amend its answer to the original complaint at any time prior to the referral of the complaint to OATH pursuant to 47 RCNY § 1-71. An amendment to an answer subsequent to the referral of a complaint to OATH may be made by application to the presiding Administrative Law Judge.
+(e) Position statements. A respondent should include a position statement to be filed with its answer, which may facilitate efficient and early resolution of a matter. A position statement will be shared with complainants and should detail the respondent's account of events relevant to the allegations in the complaint, and may include, if applicable:
 
-(f) Notwithstanding the foregoing provisions, the following shall apply with respect to complaints originally filed with the Commission prior to September 16, 1991 and amendments thereof whether filed before or after September 16, 1991:
+   (1) A description of, and supporting evidence related to, the respondent's policies, trainings, workshops, or other practices that are aimed at preventing or combating discrimination, harassment, and retaliation; and
 
-   (1) A respondent may but is not required to file a verified answer to the complaint. If a respondent elects not to file an answer to the complaint, all allegations of the complaint shall be deemed denied.
+   (2) An explanation of the rationale behind the respondents' alleged conduct, and examples of the respondents' similar conduct toward persons other than the complainant(s) that may be relevant to the legal analysis of discrimination.
 
-   (2) A respondent must file a verified answer if the respondent has or intends to assert affirmative defenses to the charges set forth in the complaint.
+(f) Amendment of answer. A respondent may amend its answer at any time prior to the referral of a complaint to OATH. An amendment to an answer subsequent to the referral of a complaint to OATH may be made in accordance with OATH rules. An amended answer supersedes all prior answers.
 
-   (3) Where a respondent files an answer, any allegation of the complaint which is not answered or upon which respondent alleges insufficient information shall be deemed denied.
+(g) Procedure following receipt of an answer and position statement. The Law Enforcement Bureau must serve a copy of each answer and position statement on the complainant.
 
-   (4) An answer may be filed at any time after service of the complaint and no later than 15 days after service of a determination of probable cause.
-
-
-
-
-
-
-*§ 1-15 Representation.* ::
-
-
-Complainants and respondents may be represented by counsel. Counsel shall file with the Law Enforcement Bureau a Notice of Appearance which shall recite the person or persons for whom the attorney appears, and the attorney's name, address, and telephone and fax number.
+(h) Failure to answer. Failure to file a timely answer may result in a finding of default, in which case the allegations in the complaint will be deemed admitted.
 
 
 
 
 
 
-*§ 1-16 Change of Address.* ::
 
 
-Complainants, respondents, and their legal representatives are under a continuing obligation to notify the Law Enforcement Bureau of any change in their addresses.
+*§ 1-15 Notice of Representation by Counsel.* ::
+
+
+Complainants and respondents may be represented by counsel. Prior to issuance of a report and recommendation by OATH, counsel appearing for the first time must notify the Law Enforcement Bureau of the following: the person or persons for whom the attorney appears and the attorney's name, address, telephone number, email address, and fax number. After a report and recommendation has been issued by OATH, counsel appearing for the first time must file a similar notice of appearance with the Office of the Chair. If applicable, counsel appearing for the first time should also provide notice of consent to service by email pursuant to 47 RCNY § 1-04(f).
+
+
+
+
+
+
+
+
+*§ 1-16 Rebuttal Statements.* ::
+
+
+Upon request from the Law Enforcement Bureau, a complainant may submit a rebuttal to a respondent's answer and position statement.
+
+
 
 
 
@@ -228,39 +338,93 @@ Complainants, respondents, and their legal representatives are under a continuin
 *§ 1-21 Withdrawal of Complaints.* ::
 
 
-At any time prior to the service of a notice that a complaint has been referred to the OATH, a complainant may withdraw a complaint that has been filed.
+(a) Legal effect of withdrawal.
+
+   (1) Effect on the Law Enforcement Bureau. Unless a complaint is withdrawn pursuant to a conciliation agreement, the withdrawal of a complaint will be without prejudice to (i) the continued prosecution of the complaint by the Law Enforcement Bureau in accordance with these rules; (ii) the initiation of a complaint by the Law Enforcement Bureau based on the same facts; or (iii) the commencement of a civil action by the Corporation Counsel based on the same facts, pursuant to title 1, chapter 4 of the Code.
+
+   (2) Effect on complainant.
+
+      (i) Prior to withdrawal, complainants are cautioned to seek independent legal advice concerning whether the right to sue in another forum is preserved following the withdrawal of a complaint pursuant to § 8-112 of the Code.
+
+      (ii) Refiling at the Commission. Following a withdrawal, a complainant may refile with the Commission at the discretion of the Law Enforcement Bureau.
+
+      (iii) Refiling in other venues. A complainant's ability to refile in a venue other than the Commission is determined by the venue itself.
+
+(b) Procedure for withdrawals.
+
+   (1) Prior to referral to OATH. A complainant may withdraw a complaint as of right at any time prior to being served by the Law Enforcement Bureau with a notice of referral to OATH. The complainant must provide signed, written notice to the Law Enforcement Bureau of the complainant's desire to withdraw a complaint. The Law Enforcement Bureau must promptly provide written notice to all parties of a withdrawal and the status of the case.
+
+   (2) While pending before OATH. While a case is pending before OATH, a complaint may be withdrawn in accordance with OATH rules of practice (48 RCNY § 2-26).
+
+   (3) After proceedings at OATH. After a case is returned to the Commission from OATH, a complainant seeking to withdraw a complaint must file a letter motion with the Office of the Chair. The Chair may, in its discretion, grant a motion to withdraw.
 
 
 
 
 
 
-*§ 1-22 Dismissal of Complaint.* ::
 
 
-(a)  Dismissal for administrative convenience. The Law Enforcement Bureau may, in its discretion, dismiss a complaint for administrative convenience at any time prior to the taking of testimony at a hearing. Administrative convenience shall include, but not be limited to, the following circumstances:
+*§ 1-22 Dismissal of Complaints.* ::
 
-   (1) Law Enforcement Bureau personnel have been unable to locate the complainant after diligent efforts to do so;
 
-   (2) the complainant has repeatedly failed to appear at mutually agreed-upon appointments with the Law Enforcement Bureau or the Office of Mediation and Conflict Resolution personnel, or is unwilling to meet with the Law Enforcement Bureau or the Office of Mediation and Conflict Resolution personnel, provide requested documentation, or to attend a hearing;
+(a) Dismissals for administrative cause. The Law Enforcement Bureau may, in its discretion, dismiss a complaint for administrative cause in accordance with § 8-113(a) of the Code at any time prior to the taking of testimony at a hearing. Administrative cause includes, but is not limited to, the following circumstances:
 
-   (3) the complainant has repeatedly engaged in conduct which is disruptive to the orderly functioning of the Law Enforcement Bureau;
+   (1) The Law Enforcement Bureau has been unable to locate the complainant after diligent efforts to do so;
 
-   (4) where the complainant is unwilling to accept a reasonable proposed conciliation agreement;
+   (2) Absent good cause, the complainant has repeatedly failed to appear at mutually agreed-upon appointments with the Law Enforcement Bureau or is unwilling to meet with the Law Enforcement Bureau, to provide requested documentation that is available to the complainant and that may be necessary for the case, or to attend a hearing;
 
-   (5) prosecution of the complaint will not serve the public interest. Without limitation, this shall include those circumstances where it is not likely that further investigation will result in a finding of probable cause or where the passage of time or other factors have materially impaired the ability of a respondent to defend against the allegations of the complaint; and
+   (3) The complainant has repeatedly engaged in conduct which is disruptive to the orderly functioning of the Law Enforcement Bureau;
 
-   (6) the complainant requests such dismissal, one hundred eighty days have elapsed since the filing of the complaint with the Law Enforcement Bureau, and the Law Enforcement Bureau finds (a) that the complaint has not been actively investigated and (b) that the respondent will not be unduly prejudiced thereby.
+   (4) The complainant is unwilling to accept any reasonable conciliation agreement, where the Law Enforcement Bureau's determination of reasonableness includes consideration of the nature of the alleged violation, the value of similar cases, the impact of the proposed agreement on the parties and the public, and potential litigation risks;
 
-(b) Mandatory dismissal for administrative convenience. The Law Enforcement Bureau shall dismiss a complaint for administrative convenience at any time prior to the filing of an answer by the respondent if the complainant requests such dismissal, unless the Law Enforcement Bureau has conducted an investigation of the complaint or has engaged the parties in conciliation after the time the complaint was filed.
+   (5) Prosecution of the complaint will not serve the public interest. Without limitation, this includes those circumstances:
 
-(c) Dismissal because the complaint is not within the jurisdiction of the Commission. The Law Enforcement Bureau shall dismiss a complaint in whole or in part where it concludes that the complaint or a portion thereof is not within the jurisdiction of the Commission.
+      1. Where the evidence collected by the Law Enforcement Bureau indicates that further investigation is unlikely to result in a finding of probable cause;
 
-(d) Dismissal for lack of probable cause. If, after investigation the Law Enforcement Bureau determines that probable cause does not exist to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice, the Bureau shall dismiss the complaint in whole or in part as to such respondent.
+      2. Where, upon further investigation or discovery after a determination of probable cause, the evidence considered as a whole is no longer sufficient to warrant further prosecution;
 
-(e) Notification of dismissal. When the Law Enforcement Bureau makes a determination pursuant to this section, it shall promptly serve each complainant, respondent, and necessary party with an order dismissing the complaint in whole or in part.
+      3. Where the Law Enforcement Bureau determines that further investigation or prosecution of a case is likely to require a disproportionate investment of public resources relative to: the claims in the case, the potential remedies that may be available, or enforcement priorities identified by the Commission in a publicly-available strategic enforcement plan;
 
-(f) Review of order of dismissal. A complainant or respondent aggrieved by an order of dismissal made pursuant to this section may apply to the Chair for review of such order within 30 days of the service of such order by serving a notice of application for review on all other complainants and respondents, the Law Enforcement Bureau and any necessary parties, and by filing such notice with the Office of General Counsel.
+      4. Where the complainant has previously filed a complaint or charge with any administrative agency under any federal law alleging an unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling with respect to the same grievance that is the subject of the complaint;
+
+      5. Where the passage of time or other factors have materially impaired the ability of one or more parties to prove claims or defenses; or
+
+      6. Where further prosecution of the complaint at the Commission poses an unavoidable risk of actual, potential, or perceived prejudice.
+
+   (6) The complainant requests dismissal, 180 days have elapsed since the filing of the complaint with the Law Enforcement Bureau, and the Law Enforcement Bureau finds that (i) the complaint has not been actively investigated and (ii) the respondent will not be unduly prejudiced thereby.
+
+(b) Mandatory dismissal for administrative cause. The Law Enforcement Bureau must dismiss a complaint for administrative cause at any time prior to the filing of an answer by the respondent if the complainant requests such dismissal, unless the Law Enforcement Bureau has conducted an investigation of the complaint or has engaged the parties in conciliation after the time the complaint was filed.
+
+(c) Legal effect of dismissal for administrative cause. A dismissal for administrative cause is without prejudice to filing a claim under § 8-502 of the Code.
+
+(d) Dismissal because the complaint is not within the jurisdiction of the Commission. The Law Enforcement Bureau must dismiss a complaint in whole or in part where it concludes that the complaint or a portion thereof is not within the Commission's jurisdiction.
+
+(e) Dismissal for lack of probable cause. If, after investigation, the Law Enforcement Bureau determines that probable cause does not exist to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling, the Bureau must dismiss the complaint in whole or in part as to such respondent.
+
+(f) Notification of dismissal. When the Law Enforcement Bureau makes a determination pursuant to this section to dismiss a complaint, in whole or in part, it must promptly serve all parties, and OATH if the case is pending before OATH, with a formal notice of its determination, including a brief statement of the rationale for the dismissal. In addition, the Law Enforcement Bureau must simultaneously serve all parties with a notice of any preservation of claims, if applicable, and of the deadline and process for appeal.
+
+
+
+
+
+
+
+
+*§ 1-23 Administrative Appeal of Dismissal.* ::
+
+
+A complainant or respondent may appeal to the Office of the Chair for a review of a determination of the Law Enforcement Bureau to dismiss any portion of a complaint pursuant to 47 RCNY § 1-22.
+
+(a) Timing. Within 30 days of service of the notice of dismissal, a notice of appeal must be mailed or hand delivered to the Office of the Chair and must be served on all other parties. A request for extension of the time to file a notice of appeal must be submitted in writing to the Office of the Chair, with copies to all other parties, and will only be granted for good cause. Untimely appeals will be dismissed, unless good cause for delay is shown.
+
+(b) Content of a notice of appeal. A notice of appeal should clearly state that an appeal is being requested, the date of the Law Enforcement Bureau's notice of dismissal that is being appealed, and the case number. At the same time that a party files a notice of appeal, it may also state, in writing, its reasons for challenging the dismissal, or it may wait to do so in comments filed pursuant to 47 RCNY § 1-23(c).
+
+(c) Optional comments. After a notice of appeal has been timely filed, the Office of the Chair must send a notice to all claimants, respondents, and necessary parties, setting a schedule for the optional submission of comments on the appeal.
+
+(d) Review by the Office of the Chair. After the final deadline for the submission of comments pursuant to 47 RCNY § 1-23(c) has passed, the Office of the Chair must conduct a review of the Law Enforcement Bureau's investigation file, the Law Enforcement Bureau's notice of dismissal, and any comments submitted in a timely manner by complainants, respondents, and any other necessary parties pursuant to 47 RCNY § 1-23(c). The standard of review for an appeal is reasonableness as to findings of fact and de novo as to findings of law. After concluding the review, the Chair must issue an order affirming, reversing, or modifying the Law Enforcement Bureau's determination to dismiss, or remanding the matter for further investigation and action, and must, if applicable, provide notice of any right to further appeal. The Office of the Chair must serve a copy of such order on the Law Enforcement Bureau, complainant, respondent, and any other necessary parties.
+
+
 
 
 
@@ -275,49 +439,141 @@ At any time prior to the service of a notice that a complaint has been referred 
 *§ 1-31 Policy.* ::
 
 
-The procedures to be followed in investigative proceedings shall be such as in the discretion of the Law Enforcement Bureau will best facilitate accurate, orderly, and thorough fact-finding.
+The Law Enforcement Bureau has discretion to use investigatory procedures that it determines will best facilitate accurate, orderly, and thorough fact-finding.
 
 
 
 
 
 
-*§ 1-32 Subpoenas.* ::
 
 
-The Law Enforcement Bureau may issue and serve subpoenas ad testificandum and subpoenas duces tecum upon any person. Proceedings to enforce, quash, fix conditions, or modify subpoenas shall be governed by Article 23 of the New York Civil Practice Law and Rules.
+*§ 1-32 Pre-complaint Investigations.* ::
 
 
-
-
-
-
-*§ 1-33 Investigative Record-Keeping.* ::
-
-
-(a) The Law Enforcement Bureau shall have the authority to make demands for the preservation of records and for the continuation of the practice of making and keeping records permitted by HRL 8-114(b). The demand shall require that such records be made available for inspection by the Law Enforcement Bureau and/or be filed with the Law Enforcement Bureau.
-
-(b) Any person upon whom a demand has been made may assert an objection to the demand within seven days after service of the demand by serving such objection upon the Law Enforcement Bureau and filing such objection with the Office of General Counsel. The Law Enforcement Bureau shall have seven days from service of the objection to serve such person with a written response to the objection and to file such response with the Office of General Counsel. The Chair shall issue an order on said demand and objection.
+In addition to conducting investigations of allegations contained in complaints filed pursuant to 47 RCNY § 1-11 and 47 RCNY § 1-12, the Law Enforcement Bureau may investigate on its own initiative possible violations of the NYCHRL.
 
 
 
 
 
 
-*§ 1-34 Availability of Investigatory Materials.* ::
 
 
-Upon an order of the Law Enforcement Bureau dismissing the complaint, complainant and respondent may examine the factual documentation in the investigatory file.
+*§ 1-33 Investigatory Demands.* ::
+
+
+(a) General. Except as otherwise limited by law, the Law Enforcement Bureau may (i) demand from any person or party the production of materials relevant to a Commission investigation, including but not limited to documents, electronically stored information, or other materials; (ii) conduct interviews or depositions of any person; and (iii) undertake testing and such other investigatory tasks as the Law Enforcement Bureau deems appropriate.
+
+(b) Demands for preservation of records. The Law Enforcement Bureau is authorized to make demands for the preservation of records and for the continuation of the practice of making and keeping records as permitted by § 8-114(b) of the Code. Such demand for preservation of records is effective immediately at the time of service of the demand and will remain in effect until the termination of all proceedings relating to any complaint or civil action commenced, including after the time for appeal has expired, or if no complaint or civil action is filed, will expire two years after the date of service of the preservation demand. A demand for preservation must require that records preserved pursuant to the demand be made available for inspection by the Law Enforcement Bureau and/or be filed with the Law Enforcement Bureau.
+
+For purposes of this provision, the term "records" means any form of recorded information, regardless of form or characteristics, including but not limited to books, papers, electronically-stored information, photographs, spreadsheets, graphs, maps, charts, drawings, audio recordings, video recordings, and machine-readable materials.
 
 
 
 
 
 
-*§ 1-35 Pre-Complaint Investigations.* ::
 
 
-In addition to conducting investigations of allegations contained in complaints filed pursuant to 47 RCNY § 1-11 and 47 RCNY § 1-12, the Law Enforcement Bureau may investigate on its own initiative possible violations of the HRL.
+*§ 1-34 Subpoenas.* ::
+
+
+(a) General. The Law Enforcement Bureau may issue and serve subpoenas ad testificandum and subpoenas duces tecum on any person. Subpoenas must be served in a manner prescribed by the CPLR.
+
+(b) Contents of a subpoena. A subpoena must state with specificity (i) the form of evidence to be produced, including but not limited to testimony, documents, electronically stored information, or other materials; (ii) where applicable, the date ranges for which such evidence is sought; (iii) the deadline for production, which should be no less than 20 days from the date of service; (iv) where applicable, the format and manner in which evidence should be produced; and (v) information concerning whom to contact in the Law Enforcement Bureau with requests for extensions, inquiries, objections to a subpoena, and related matters. Where a subpoena demands the production of testimony, it must state the name of the subpoenaed person and the date, time, and location at which the person must appear.
+
+
+
+
+
+
+
+
+*§ 1-35 Objections to Investigatory Demands and Subpoenas.* ::
+
+
+(a) Effect of Failing to Object. Objections to an investigatory demand or subpoena that are not raised in accordance with this section, including by first raising objections with the Law Enforcement Bureau, may be deemed waived, absent a showing of good cause.
+
+(b) Initial Application to the Law Enforcement Bureau. A person objecting to an investigatory demand or subpoena must confer in good faith with the Law Enforcement Bureau as soon as practicable and no later than 30 days after service of the investigatory demand or subpoena. The Law Enforcement Bureau may, in its discretion, extend the deadline for such objections.
+
+(c) Motion to the Office of the Chair. If a conference with the Law Enforcement Bureau pursuant to 47 RCNY § 1-35(b) does not resolve a person's objections to an investigatory demand or subpoena, the person may file a letter motion with the Office of the Chair for a protective order within 14 days after the Law Enforcement Bureau provides notice of its decision on the movant's objections. Applications for an extension of the deadline for a motion for a protective order must be submitted to the Office of the Chair in writing and may be granted for good cause.
+
+A motion for protective order must be served simultaneously on the Office of the Chair and the Law Enforcement Bureau and must include (i) a copy of the full investigatory demand or subpoena, (ii) confirmation that the movant conferred in good faith with the Law Enforcement Bureau pursuant to 47 RCNY § 1-35(b); and (iii) a statement of the specific portion or portions of the investigatory demand or subpoena to which the movant objects and the grounds for objection.
+
+The filing of a motion with the Office of the Chair will stay the deadline for production of only those materials that are the subject of the motion for a protective order, until the motion is decided. The Law Enforcement Bureau has 14 days from service of the motion to file and serve its opposition on the movant and the Office of the Chair. The movant may file a reply within 7 days after the Law Enforcement Bureau's opposition is filed. The Chair must promptly issue an order on the motion. A protective order may deny, limit, or condition the use of any disclosure device and should be designed to prevent unreasonable annoyance, expense, embarrassment, disadvantage, or other prejudice to any person.
+
+(d) Judicial review of subpoenas. Consistent with CPLR § 2304, after the Chair issues an order deciding a motion challenging a subpoena, the movant may seek review in state Supreme Court.
+
+
+
+
+
+
+
+
+*§ 1-36 Extensions of the Time to Comply With an Investigatory Demand or Subpoena.* ::
+
+
+A person seeking an extension of the time to comply with an investigatory demand or subpoena may, as soon as reasonably practicable prior to the expiration of the deadline to comply, submit a written request to the Law Enforcement Bureau stating the reasons that an extension is sought and the length of extension that is being requested. The Law Enforcement Bureau must promptly advise the person seeking an extension of its determination.
+
+
+
+
+
+
+
+
+*§ 1-37 Enforcement of Investigatory Demands and Subpoenas.* ::
+
+
+(a) Investigatory Demands. The Law Enforcement Bureau may file a letter motion to compel compliance with an investigatory demand with the Office of the Chair. Such motion must include a copy of the full investigatory demand and an affirmation stating efforts taken by the Law Enforcement Bureau to procure compliance with the demand, including efforts to confer with the subject of the demand. Opposition to a motion to compel compliance with an investigatory demand must be filed and served on the Law Enforcement Bureau and the Office of the Chair within 14 days of service of the motion. The Law Enforcement Bureau may file and serve a reply within 7 days of service after the opposition is filed. The Chair must promptly issue an order on the motion to compel.
+
+In the event that a person fails to comply with an order compelling testimony or the production of evidence pursuant to an investigatory demand, the Chair may, on its own motion or at the request of the Law Enforcement Bureau, issue such order as may be just with regard to the non-compliance, including but not limited to: (i) holding that the issues to which the testimony or evidence are relevant will be resolved against the non-compliant person; (ii) prohibiting the non-compliant person from supporting or opposing designated claims or defenses or from introducing designated evidence or testimony into the record; or (iii) striking out claims, affirmative defenses, or pleadings or parts thereof.
+
+(b) Subpoena enforcement. Proceedings to enforce subpoenas are governed by article 23 of the CPLR. The Law Enforcement Bureau may, in its discretion, file a letter motion to compel compliance with a subpoena with the Office of the Chair, or in state Supreme Court pursuant to CPLR § 2308(b). A motion to the Office of the Chair to compel compliance with a subpoena are governed by 47 RCNY § 1-37(a).
+
+
+
+
+
+
+
+
+*§ 1-38 Injunctions and Temporary Restraining Orders.* ::
+
+
+Consistent with § 8-122 of the Code, if the Law Enforcement Bureau finds that a respondent or a person acting in concert with a respondent is acting in a manner tending to render ineffectual relief that the Commission could order after a hearing, the Commission may commence a special proceeding in state Supreme Court for an order to show cause to enjoin such conduct pursuant to CPLR article 63.
+
+
+
+
+
+
+
+
+*§ 1-39 Redactions.* ::
+
+
+In response to an investigatory demand or subpoena, unless otherwise ordered by the Law Enforcement Bureau, all documents produced in connection with an investigation or case at the Commission that contain an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, a financial-account number, immigration status, or employer ID number, must be redacted to include only (i) the last four digits of the social-security number, taxpayer-identification number, financial-account number, or employer ID number; (ii) the year of the individual's birth; and (iii) the minor's initials.
+
+
+
+
+
+
+
+
+*§ 1-40 Availability of Investigatory Materials Following Dismissal of the Complaint.* ::
+
+
+Within 30 days of the issuance of an order of the Law Enforcement Bureau dismissing the complaint, the complainant and respondent may examine certain materials and documentation from the Law Enforcement Bureau's investigation of the complaint. Such materials and documentation are limited to the factual information uncovered during the investigation that led to the determination and may include, among other things: (i) intake forms and documents submitted by a complainant during intake of a case; (ii) complaints, answers, position statements, and rebuttals filed by the parties; (iii) motions and other administrative case filings; (iv) requests for information, investigatory demands, document requests, and subpoenas, unless prohibited by law or an order of the Commission or a court; (v) responses to requests for information, investigatory demands, document requests, and subpoenas, unless prohibited by law or an order of the Chair or a court; (vi) notes and recordings of interviews with witnesses; (vii) notes pertaining to investigative work such as site visits; (viii) correspondence pre-dating a finding of probable cause (see 48 RCNY § 2-29(b)(1)); (ix) call logs; (x) the results of electronic and internet searches; (xi) photographs, audio recordings, and video recordings; and (xii) documents pertaining to proceedings in other administrative or court proceedings involving any party to the case.
+
+Notwithstanding the foregoing, the following materials are not subject to disclosure absent an order from a court or tribunal of competent jurisdiction: (i) materials that are protected by privilege under the CPLR, including attorney work product and attorney-client communications; (ii) any information about witnesses who request anonymity, unless the Law Enforcement Bureau relies on such witnesses in issuing a finding of probable cause or in prosecuting a case before OATH; (iii) materials that are not material or necessary, within the meaning of CPLR article 31; (iv) correspondence post-dating a finding of probable cause (see 48 RCNY § 2-29(b)(1)); and (v) notes and correspondence related to settlement negotiations.
+
+The Law Enforcement Bureau assesses whether production of sensitive information is appropriate, including production of financial information, medical information, and correspondence with treatment providers. Redactions are made where required by law and to prevent harassment.
+
+
 
 
 
@@ -329,30 +585,10 @@ In addition to conducting investigations of allegations contained in complaints 
 
 
 
-*§ 1-51 Basis of Determination.* ::
+*§ 1-41 Basis of Determination.* ::
 
 
-The Law Enforcement Bureau shall find probable cause exists to credit the allegations of a complaint that an unlawful discriminatory practice has been or is being committed by a respondent where a reasonable person, looking at the evidence as a whole, could reach the conclusion that it is more likely than not that the unlawful discriminatory practice was committed.
-
-
-
-
-
-
-*§ 1-52 Notice of Determination.* ::
-
-
-The Law Enforcement Bureau shall serve a written notice of determination upon complainant and respondent. Determinations which state that probable cause has been found not to exist and that dismiss the complaint shall state the reasons for the Law Enforcement Bureau's conclusion.
-
-
-
-
-
-
-*§ 1-53 Review of Determination.* ::
-
-
-A determination that probable cause exists to credit some or all of the allegations of a complaint that an unlawful discriminatory practice has been or is being committed is not reviewable. A determination that probable cause does not exist to credit some or all of the allegations of a complaint that an unlawful discriminatory practice has been or is being committed, and that the complaint is accordingly dismissed in whole or in part, is reviewable in accordance with subdivision (f) of 47 RCNY § 1-22 of this Chapter.
+The Law Enforcement Bureau must find probable cause exists to credit the allegations of a complaint that an unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling has been or is being committed by a respondent where a reasonable person, looking at the evidence as a whole, could reach the conclusion that it is more likely than not that the unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling was committed.
 
 
 
@@ -360,30 +596,74 @@ A determination that probable cause exists to credit some or all of the allegati
 
 
 
-**Subchapter F: Mediation and Conciliation**
+
+*§ 1-42 Notice of Determination.* ::
 
 
-
-*§ 1-61 Conciliation Agreements.* ::
-
-
-The Law Enforcement Bureau, complainant, respondent, and other necessary parties may at any time after the filing of a complaint agree to a conciliated resolution of a complaint.
-
-(a) Form and Content. Every conciliation agreement shall contain an acknowledgment of each complainant's and respondent's execution of the agreement. The provisions of the conciliation agreement may be such as are agreed to by the Law Enforcement Bureau, complainant, and respondent.
-
-(b) Effective Date. A conciliation agreement shall be deemed binding at the time that such agreement is executed by the Law Enforcement Bureau and by all complainants and respondents and other necessary parties entering into the agreement.
-
-(c) Entry of Order by Commission. When a conciliation agreement has been fully executed, the Law Enforcement Bureau shall promptly forward such agreement to the Chair. The signature of the Chair on a conciliation agreement with the notation "SO ORDERED" shall be construed to be an order of the Commission pursuant to HRL § 8-115(d) directing the parties to such conciliation agreement to perform each and all of their obligations under such conciliation agreement in the time and manner set forth in such conciliation agreement. The Chair shall deliver the order of the Commission to the Law Enforcement Bureau for service upon the parties to the agreement.
+The Law Enforcement Bureau must serve the complainant and respondent with written notice of its determination as to whether probable cause exists. A determination to dismiss the complaint upon a finding of no probable cause must state the reasons for the Law Enforcement Bureau's conclusion.
 
 
 
 
 
 
-*§ 1-62 Requests for Assistance of Office of Mediation and Conflict Resolution.* ::
 
 
-Upon the request of the Law Enforcement Bureau, complainant, or respondent, the Office of Mediation and Conflict Resolution shall endeavor to assist the Law Enforcement Bureau, complainant, and respondent to achieve a conciliated resolution of a complaint.
+*§ 1-43 Review of Determination.* ::
+
+
+(a) No review of probable cause determination. A determination that probable cause exists to credit some or all of the allegations of a complaint is not subject to interlocutory review or appeal.
+
+(b) Review of determination of no probable cause. A determination that dismisses a complaint, in whole or in part, on a finding of no probable cause is reviewable in accordance with 47 RCNY § 1-23.
+
+(c) Withdrawal of a determination of probable cause. Prior to a hearing before OATH, the Law Enforcement Bureau may withdraw a probable cause determination if it determines a reasonable person looking at the evidence as a whole could no longer reach the conclusion that it is more likely than not that the unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling was committed.
+
+
+
+
+
+
+
+
+
+**Subchapter F: Settlement and Conciliation**
+
+
+
+*§ 1-51 Settlement.* ::
+
+
+(a) General. A complainant, respondent, or any other necessary party may, at any time, enter into an agreement to settle a case.
+
+(b) Mediation. The Law Enforcement Bureau may, in its discretion, refer a case to the Office of Mediation and Conflict Resolution for mediation of a settlement agreement as provided in subchapter H of this chapter.
+
+(c) Legal effect of settlement agreement. Where a complainant agrees pursuant to a settlement agreement to withdraw a complaint, the legal effect of such withdrawal is governed by 47 RCNY § 1-21(a).
+
+
+
+
+
+
+
+
+*§ 1-52 Conciliation.* ::
+
+
+(a) General. The Law Enforcement Bureau, complainant, respondent and any other necessary parties may, at any time after the filing of a complaint, agree to a conciliated resolution of a case.
+
+(b) Mediation. The Law Enforcement Bureau may, in its discretion, refer a case to the Office of Mediation and Conflict Resolution for mediation of a conciliation agreement as provided in subchapter H of this chapter.
+
+(c) Conciliation agreements.
+
+   1. Form and content. Every conciliation agreement must contain an acknowledgement of the execution of the agreement by the Law Enforcement Bureau and each complainant, respondent, and other necessary party who is party to the agreement. The provisions of the conciliation agreement may be such as are agreed to by the parties to the agreement.
+
+   2. Entry of order by Commission. When a conciliation agreement has been fully executed, the Law Enforcement Bureau must promptly forward such agreement to the Chair. The signature of the Chair on a conciliation agreement with the notation "SO ORDERED" will be construed to be an order of the Commission pursuant to § 8-115(d) of the Code, directing the parties to such agreement to perform each and every obligation under such conciliation agreement in the time and manner set forth in the agreement. The Chair must deliver the order of the Commission to the Law Enforcement Bureau for service on the parties to the agreement.
+
+   3. Effective date. A conciliation agreement is binding at the time that it is so-ordered by the Chair, after it has been executed by the parties to the agreement.
+
+(d) Legal effect of conciliation. Where a complaint is withdrawn pursuant to a conciliation agreement, the legal effect of such withdrawal is governed by 47 RCNY § 1-21(a).
+
+
 
 
 
@@ -395,64 +675,217 @@ Upon the request of the Law Enforcement Bureau, complainant, or respondent, the 
 
 
 
-*§ 1-71 Referral of Complaints to OATH.* ::
+*§ 1-61 Referral of Complaints to OATH.* ::
 
 
-(a)  When the Law Enforcement Bureau determines that a case is ready for adjudication, the Bureau shall refer the case to the Office of Administrative Trials and Hearings (OATH) pursuant to this section. Except as otherwise provided herein, OATH's rules of practice relating to hearing and pre-hearing procedures (Title 48, Rules of the City of New York, chapter 1, and chapter 2, subchapter C) are hereby adopted by the Commission as the rules of practice and the procedure of the Commission and shall apply to adjudications referred to OATH by the Commission.
+(a) Filing a notice of referral to OATH. When the Law Enforcement Bureau determines that a case is ready for adjudication, the Bureau must refer the case to OATH by serving a notice of referral on the complainant, the respondent, and any necessary party, and filing it, along with copies of the pleadings, with OATH.
 
-(b) The Law Enforcement Bureau shall serve the Notice of Referral upon the complainant, the respondent and any necessary party and file it with the OATH. The notice shall include the last known address and telephone number of each complainant, respondent, and necessary party. The notice shall state whether the respondent has complied with the requirement of 47 RCNY § 1-14 and, if not, whether the Law Enforcement Bureau seeks to have respondent held in default. The notices shall inform the complainant of his or her right to intervene pursuant to OATH's rules (48 RCNY § 2-25). No material relating to the investigation, the finding of probable cause, or the substance of conciliation efforts shall be filed with OATH.
-
-
-
-
-
-
-*§ 1-72 Motions Relating to Requests by Law Enforcement Bureau Pursuant to Subchapter D.* ::
-
-
-In the event any party has failed to comply with any request by the Law Enforcement Bureau for documents or other information pursuant to Subchapter D of this Chapter, the Law Enforcement Bureau may make a motion to have the Chair order compliance with such request. Any party to whom such a request is made shall have an opportunity to submit to the Chair any objections to such request. The Chair may order compliance with such request or may order such other relief as the Chair deems just and proper. In the event any party has failed to comply with such an order compelling compliance with a request by the Law Enforcement Bureau for documents or other information, the Law Enforcement Bureau may make a motion to have the Chair make such orders or take such actions as are permitted by HRL § 8-118.
+(b) Contents of a notice of referral. The notice of referral must include the last known address and telephone number of each complainant, respondent, and necessary party and must state whether the respondent has complied with the requirement of 47 RCNY § 1-14 concerning the filing of an answer and, if not, whether the Law Enforcement Bureau seeks to have respondent held in default. The notice of referral must also inform the complainant of its right to intervene pursuant to OATH rules (see 48 RCNY § 2-25). No material relating to the investigation, the reasoning supporting a finding of probable cause, or the substance of conciliation efforts may be filed with OATH.
 
 
 
 
 
 
-*§ 1-73 Motions Relating to Sanctions for Failure to Comply With Order for Investigative Record-Keeping.* ::
 
 
-The Law Enforcement Bureau may make a motion to have the Chair make such orders or take such actions as are permitted by HRL § 8-118 in the event a respondent has failed to comply with an order for investigative record-keeping issued by the Chair pursuant to 47 RCNY § 1-33.
+*§ 1-62 Incorporation of OATH Rules of Practice for Cases Pending Before OATH.* ::
 
 
-
-
-
-
-*§ 1-74 Interlocutory Review of Administrative Law Judge Decisions and Orders.* ::
-
-
-The Chair shall entertain an interlocutory challenge to a decision or order of an Administrative Law Judge where the presiding Administrative Law Judge certifies the question for review. Any question not certified by the presiding Administrative Law Judge may be raised by a party to the Commission in connection with the Commission's review of a recommended decision and order in a case. Any challenge that is certified by the Administrative Law Judge and entertained by the Chair shall preclude further review by the Commission. The failure of a party to challenge a decision or order of an Administrative Law Judge other than a recommended decision and order, shall not preclude that party from making such challenge to the Commission in connection with the Commission's review of a recommended decision and order in a case, provided that the party timely made its objection known to the Administrative Law Judge and that the grounds for such challenge shall be limited to those set forth to the Administrative Law Judge.
+Except as otherwise provided pursuant to these rules, the Commission adopts OATH's rules of practice relating to hearing and pre-hearing procedures (48 RCNY Chapter 1 and 48 RCNY Chapter 2, Subchapter C), which apply to all cases during the period that they are pending before OATH.
 
 
 
 
 
 
-*§ 1-75 Time for Commission Consideration of Recommended Decision and Order.* ::
 
 
-(a)  Generally. The Commission shall commence consideration of a case that is the subject of a recommended decision and order upon filing of the recommended decision and order with the Office of General Counsel.
-
-(b) Recommended decisions and orders not completely disposing of a complaint. The Commission shall not commence consideration of a case that is the subject of a recommended decision and order which, if adopted, would not resolve the complaint in its entirety unless the Administrative Law Judge certifies the portion of the case proposed to be decided by the recommended decision and order to the Commission for immediate consideration. Dismissal of all or part of a case shall have the effect of a Recommended Decision and Order for the purpose of this section.
+*§ 1-63 Interlocutory Review of Administrative Law Judge Decisions and Orders.* ::
 
 
+(a) General. A party may seek interlocutory review by the Office of the Chair of a decision or order of an Administrative Law Judge, when the presiding Administrative Law Judge has certified a question for review. Any question not certified by the presiding Administrative Law Judge may be raised by a party in comments responding to a report and recommendation pursuant to 47 RCNY § 1-66. Any challenge that is certified by the Administrative Law Judge and entertained by the Office of the Chair will preclude further review of that issue by the Commission. The failure of a party to challenge a decision or order of an Administrative Law Judge, other than a report and recommendation, will not preclude that party from making such challenge in comments responding to the report and recommendation pursuant to 47 RCNY § 1-66, provided that the party timely made its objection known to the Administrative Law Judge and that the grounds for such challenge are limited to those set forth to the Administrative Law Judge.
+
+(b) Review of motions for protective orders filed at OATH. Within seven days of being served with a decision by an Administrative Law Judge to grant or deny any portion of a motion for a protective order pursuant to 47 RCNY § 1-65, the person seeking the protective order may, as of right, seek review of such decision by the Office of the Chair. A motion for interlocutory review of an OATH decision on a motion for a protective order must include (i) copies of all original motion papers filed with OATH, (ii) a copy of the decision issued by the Administrative Law Judge on the original motion, and (iii) a statement of the prejudice that would result if the requested relief is denied. After the motion is served, the Office of the Chair will set deadlines for opposition and reply papers.
 
 
 
 
-*§ 1-76 Post-Hearing Comments.* ::
 
 
-Each party shall have twenty days after the commencement of Commission consideration of the recommended decision and order as provided in 47 RCNY § 1-75 to submit written comments to the Commission. The comments should raise any objections to the recommended decision and order. Comments shall be limited to the record below. Objections not raised in the comments will be deemed waived in any further proceedings. Comments shall be served upon all other parties and shall be filed with the Office of General Counsel. Parties shall apply to the General Counsel's office for permission to submit reply comments. Upon application filed with the Office of General Counsel, the Chair may shorten or extend the time for comments or replies for good cause shown. Comments and replies shall be served upon the Commissioners by the Office of General Counsel.
+
+
+*§ 1-64 Redacted Filings at OATH.* ::
+
+
+Unless otherwise ordered by an Administrative Law Judge or the Chair, all documents filed in connection with the adjudication of a case and that contain an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, a financial-account number, or employer ID number, must be redacted to include only (i) the last four digits of the social-security number, taxpayer-identification number, financial-account number, or employer ID number; (ii) the year of the individual's birth; and (iii) the minor's initials.
+
+
+
+
+
+
+
+
+*§ 1-65 Protective Orders.* ::
+
+
+(a) General. An Administrative Law Judge may at any time on his or her own initiative, or on the motion of any party or any person from whom or about whom a disclosure is sought, make a protective order denying, limiting, or conditioning the use of any disclosure device. Such order should be designed to prevent unreasonable annoyance, expense, embarrassment, disadvantage, or other prejudice to any person.
+
+(b) Interlocutory review. Interlocutory review of a decision to grant or deny a motion for a protective order, in whole or in part, is governed by 47 RCNY § 1-63(b).
+
+(c) Suspension of disclosure obligations while a motion for protective order is pending. Service of a motion for a protective order will stay the obligation to disclose the particular materials in dispute until the date specified in an order on the motion issued by an Administrative Law Judge pursuant to 47 RCNY § 1-65(a), or where interlocutory review of such order is sought pursuant to 47 RCNY § 1-63(b), by the Chair on the motion for interlocutory review.
+
+(d) Materials related to immigration status. Materials related to immigration status are not subject to disclosure or discovery absent an order to compel issued by the Chair. A party seeking production of such materials may move the Administrative Law Judge for a recommendation to the Chair for an order to compel. When deciding a motion for an order to compel the production of such materials, the Chair must consider the following factors: whether the materials are relevant and necessary to a claim or defense, and whether production of the materials will subject a party to annoyance, embarrassment, oppression, undue burden, or prejudice (including in terrorem effect). Notwithstanding the foregoing, an individual may voluntarily produce or authorize the production of information about the individual's own immigration status.
+
+
+
+
+
+
+
+
+*§ 1-66 Post-hearing Comments.* ::
+
+
+(a) Notice of right to file comments. After receiving a report and recommendation from OATH, the Office of the Chair must promptly issue a notice to all parties advising of the deadline to file written comments with the Office of the Chair.
+
+(b) Timing, content, and service of written comments. All written comments concerning a report and recommendation must be submitted within 30 days of service of the notice of the right to file such comments, unless an extension of time is granted pursuant to 47 RCNY § 1-66(c). A party's written comments concerning a report and recommendation should raise any objections and should not exceed the scope of issues reflected in the OATH hearing record. Objections not raised in the comments may be deemed waived in any further proceedings. Comments must be served on all other parties and the Office of the Chair. Reply comments are not permitted, unless ordered by the Office of the Chair.
+
+(c) Extensions of the time to file comments. A party seeking an extension of the time to file comments to a report and recommendation should promptly file with the Office of the Chair a written application for an extension, stating the date to which an extension is sought and the basis for the extension request. The Office of the Chair may grant a request for extension for good cause.
+
+(d) Notice of application for attorney's fees. A complainant must clearly provide notice of its intent to seek attorney's fees in comments to a report and recommendation. Fee applications are governed by subchapter I of this chapter.
+
+(e) Amicus comments. Within 30 days after a report and recommendation is issued by OATH, a non-party may submit a written request to the Office of the Chair for leave to file comments as amicus curiae. A request to file amicus comments may not exceed 3 pages and should include a concise statement of the identity of the amicus curiae, its interest in the case, and the reasons why amicus comments would serve the public interest and aid the Commission's resolution of a case. The Office of the Chair has discretion to grant or deny a request to file amicus comments. Where a request to file amicus comments is granted, the comments must be submitted within 30 days and may not exceed 8 pages.
+
+
+
+
+
+
+
+
+*§ 1-67 Review of a Report and Recommendation by the Office of the Chair.* ::
+
+
+(a) General. The Office of the Chair will commence consideration of a report and recommendation after it receives the report and recommendation and hearing record from OATH.
+
+(b) Recommended decisions and orders not completely disposing of a complaint. The Chair may not issue a decision and order that is the subject of a report and recommendation which, if adopted, would not resolve the complaint in its entirety, unless the Administrative Law Judge certifies the portion of the case proposed to be decided by the report and recommendation to the Chair for immediate consideration. Dismissal of all or part of a case by an Administrative Law Judge has the effect of a report and recommendation for the purpose of this section.
+
+(c) Decisions and orders.
+
+   1. Decisions involving no attorney's fees. Where there is no finding of liability or where notice of an application for attorney's fees has not been properly filed, the Chair will issue a decision and order based on a review of the report and recommendation; the hearing record from OATH; comments on the report and recommendation; any motion papers filed at OATH and OATH decisions bearing on the merits of the case; and any supplemental evidence gathered by the Office of the Chair pursuant to 47 RCNY § 1-69.
+
+   2. Decisions involving attorney's fees. Where a complainant has properly filed notice of an application for attorney's fees and where there is a finding of liability, the Chair will issue a memorandum decision based on a review of the report and recommendation; the hearing record from OATH; comments on the report and recommendation; any motion papers filed at OATH and OATH decisions bearing on the merits of the case; and any supplemental evidence gathered by the Office of the Chair pursuant to 47 RCNY § 1-69. In addition, after briefing on attorney's fees has closed, the Chair must issue a decision and order resolving all issues of liability, damages, civil penalties, and attorney's fees.
+
+   3. Orders for relief. Upon a finding of liability, the Chair must order the respondent to cease and desist violating the NYCHRL. The Chair may also impose such additional relief as the Chair deems appropriate, in accordance with § 8-120 of the Code. The decision and order must be served on the Law Enforcement Bureau, complainant, respondent, and any necessary parties.
+
+
+
+
+
+
+
+
+*§ 1-68 Relief from Default After Issuance of a Report and Recommendation.* ::
+
+
+A respondent against whom a default has been entered pursuant to § 2-27(a) of OATH's rules (48 RCNY § 2-27) and who has not already moved for relief from default pursuant to § 2-27(b) of OATH's rules (48 RCNY § 2-27(b)), may file a letter motion with the Office of the Chair to open the default at any time after the issuance of a report and recommendation and prior to the issuance by the Commission of a final decision and order. A motion to reopen must show either (a) lack of service or (b) both a showing of good cause for the default and a potentially meritorious defense to the complaint. The Office of the Chair will set deadlines for opposition and reply to a motion to open a default. In granting a motion to open a default, the Chair may impose such terms and conditions as the Chair deems to be just and equitable.
+
+
+
+
+
+
+
+
+*§ 1-69 Reopening of Proceeding.* ::
+
+
+Prior to the commencement of a judicial proceeding under § 8-123 of Code, the Chair may, on its own or on the motion of any party, order any proceeding reopened or vacate or modify any order or determination, whenever justice so requires.
+
+In addition, the Office of the Chair may order supplemental briefing or hold a supplemental hearing after the issuance of a report and recommendation and a hearing at OATH. A request from a party seeking leave to file supplemental briefing or for a supplemental hearing must be included in any written comments filed under 47 RCNY § 1-66.
+
+
+
+
+
+
+
+
+
+**Subchapter H: Mediation**
+
+
+
+*§ 1-71 Referrals for Mediation.* ::
+
+
+The Law Enforcement Bureau may suggest or a respondent, complainant, or necessary party may request that a case be referred to the Office of Mediation and Conflict Resolution for mediation of a settlement or conciliation agreement. If complainant, respondent, and all other necessary parties agree to enter into mediation, the Law Enforcement Bureau may, in its discretion, refer a case to the Office of Mediation and Conflict Resolution.
+
+
+
+
+
+
+
+
+
+**Subchapter I: Attorney's Fees**
+
+
+
+*§ 1-81 Applications for Attorney's Fees.* ::
+
+
+A complainant may apply to the Office of the Chair for an award of attorney's fees within 14 days of service of a memorandum decision holding a respondent liable for an unlawful discriminatory practice, act of discriminatory harassment, or act of bias-based profiling. An application for attorney's fees must include a memorandum and copies of time records, accompanied by an affidavit or affirmation. A respondent may file an opposition to an application for an award of attorney's fees within 14 days of service of the complainant's application for attorney's fees. The fee applicant's reply, if any, must be filed within 7 days of service of the respondent's opposition. In addition to filing with the Office of the Chair, copies of all papers relating to an application for an award of attorney's fees must also be served on the opposing party and the Law Enforcement Bureau. The Chair or the Chair's designee will decide an application for attorney's fees in a supplemental decision and order.
+
+
+
+
+
+
+
+
+*§ 1-82 Assessment of an Award of Attorney's Fees.* ::
+
+
+Attorney's fees will generally be calculated under the lodestar method, multiplying the number of hours reasonably expended on the case by a reasonable hourly rate. In assessing the amount of time reasonably spent on a matter, the Commission may consider, among other things, the novelty and difficulty of the issues presented in the case and the degree of success ultimately achieved, including whether the litigation acted as a catalyst to effect policy change on the part of the respondent, regardless of whether that change has been implemented voluntarily. In assessing a reasonable hourly rate, the Commission may consider, among other things, the skill and experience of the attorney, and the hourly rate typically charged by attorneys of similar skill and experience litigating similar cases in New York county.
+
+(a) Billing judgment. An applicant seeking attorney's fees should make a good faith effort to exclude from its fee request time for work that is excessive, redundant, or otherwise unnecessary. Regardless of who performs the work, tasks which are clerical or secretarial in nature should be billed at an administrative rate and tasks which could be performed by a paralegal should be billed as such.
+
+(b) Time records. Time records should be set forth with sufficient particularity to enable an assessment of the accuracy of the records and whether the amount of time expended was reasonable. The Commission may reduce a fee award where time records do not adequately describe the nature of the work performed.
+
+
+
+
+
+
+
+
+*§ 1-83 Input from the Law Enforcement Bureau.* ::
+
+
+On its own accord or at the request of the Office of the Chair, the Law Enforcement Bureau may respond to a complainant's application for attorney's fees. The deadline for the Law Enforcement Bureau to file such a response is 20 days after the deadline for the complainant's reply papers, unless otherwise specified by the Office of the Chair.
+
+
+
+
+
+
+
+
+
+**Subchapter J: Judicial Review**
+
+
+
+*§ 1-91 Judicial Review of Final Orders of the Commission.* ::
+
+
+Any complainant, respondent or other person aggrieved by a final order issued pursuant to § 8-120 or § 8-126 of the Code or an order issued pursuant to § 8-113(f) may obtain judicial review in accordance with § 8-123.
+
+
 
 
 
