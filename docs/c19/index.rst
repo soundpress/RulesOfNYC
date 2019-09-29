@@ -185,6 +185,8 @@ Discretionary Revocation is the imposition of the penalty of revocation when a R
 
 Dispatch is a request made from a Base Station to a Driver, directing the Driver to provide transportation to a passenger who has previously arranged for such transportation.
 
+Dispatch and Pay. A type of E-Payment for a licensed E-Hail Application that allows passengers to pay for E-Hailed Taxicab or Street Hail Livery fares through the E-Hail Application.
+
 Dispatch Equipment. The “Dispatch Equipment” is the communications equipment provided by the Accessible Taxi Dispatcher or an acceptable interface with the Taxicab Technology System and the Street Hail Livery Technology System, that allows Approved Drivers operating Accessible Vehicles to receive dispatches from the Accessible Taxi Dispatcher.
 
 Dispatch Fee is the fee payable to the Driver of an Accessible Taxicab, according to the Dispatch Fee schedule, for completing or attempting to complete a trip dispatched by the Accessible Taxi Dispatcher. The Dispatch Fee schedule, including cancellation fees and passenger no-show fees, will be determined by the Commission, and posted on the Commission's website, every six months based on a review of available funds and the Accessible Taxi Dispatcher's service rates.
@@ -217,15 +219,7 @@ E-Hail Application or E-Hail App. A Software program licensed by the TLC under 3
 
 4) E-Payment.
 
-E-Payment. A feature of a licensed E-Hail App that
-
-1) Allows passengers to pay for Taxicab or Street Hail Livery fares through the E-Hail App;
-
-2) Is limited to fare, tip, tolls, and any fee charged to the passenger by the E-Hail App; and
-
-3) Integrates with the Technology System and meets all security standards as established in 35 RCNY § 66-24 and 35 RCNY § 78-21.
-
-E-Payment does not include payments through Digital Wallet Applications which pass payment data to the Technology System, do not receive fare information from the Technology System, and do not modify or edit the amount to be paid.
+E-Payment. A feature of a licensed E-Hail Application that is either Dispatch and Pay or Hail and Pay.
 
 Electronic Communication Device means any portable or hands-free electronic device able to do any of the following:
 
@@ -325,11 +319,11 @@ GPS means a device using a global positioning navigation system to which all of 
 
 Government means the United States, any state or territory, or any political subdivision of a state or territory.
 
-Group Ride Program is a program established by the Commission for the transportation of more than one Passenger from a common location to destinations within a specified common geographic area.
-
 Hack-up means to outfit a vehicle as a Medallion Taxicab and obtain approval from the Commission for that vehicle to serve as a Taxicab for the first time.
 
 Hail. A request, either through a verbal (audio) action such as calling out, yelling, or whistling, and/or a visible physical action such as raising one's hand or arm, or through an electronic method such as an E-Hail App, for on-demand Taxicab or Street Hail Livery service at the metered rate of fare as set forth in 23 RCNY § 58-26 and 35 RCNY § 82-26 by a person who is currently ready to travel.
+
+Hail and Pay. A type of E-Payment for a licensed E-Hail Application that allows passengers to pay for Street-Hailed Taxicab or Street Hail Livery fares through the E-Hail Application.
 
 Hail Exclusionary Zone. The Hail Exclusionary Zone is the area in which Street Hail Liveries are NOT permitted to accept a passenger by hail. The Hail Exclusionary Zone is:
 
@@ -5837,39 +5831,37 @@ Chapter 58: Medallion Taxicab Service
 
    (3) operates with a dispatcher on the premises at least 18 hours every day, who assigns Drivers to Fleet Taxicabs.
 
-(o) Group Ride Program is a program established by the Commission for the transportation of more than one passenger from a common location to destinations within a specified common geographic area.
+(o) Legatee means someone to whom the proceeds of an estate are to be distributed.
 
-(p) Legatee means someone to whom the proceeds of an estate are to be distributed.
+(p) License in this Chapter means a Taxicab License.
 
-(q) License in this Chapter means a Taxicab License.
+(q) Licensee in this Chapter means the holder of a Taxicab License.
 
-(r) Licensee in this Chapter means the holder of a Taxicab License.
+(r) Long Term Driver Affidavit is the document an Owner files with the Commission indicating that a Taxicab will be operated by a Long Term Driver or by Unspecified Drivers.
 
-(s) Long Term Driver Affidavit is the document an Owner files with the Commission indicating that a Taxicab will be operated by a Long Term Driver or by Unspecified Drivers.
+(s) Market Value in reference to the transfer of a Taxicab Medallion will be the greater of: (i) the actual consideration being paid for the transfer; and (ii) the Fair Market Value.
 
-(t) Market Value in reference to the transfer of a Taxicab Medallion will be the greater of: (i) the actual consideration being paid for the transfer; and (ii) the Fair Market Value.
-
-(u) Maximum Escrow Amount means:
+(t) Maximum Escrow Amount means:
 
    (1) The Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by the Medallion and the Transfer costs PLUS
 
    (2) The value of any proceeds of any refinancing received by the Owner that was not used to reduce any previously existing debt or liens secured by the Medallion following the date of an occurrence of an alleged tort involving the Taxicab which gives rise to a potential Excess Claim
 
-(v) Medallion is the numbered plate originally issued by the Commission and affixed to the outside of a Taxicab as physical evidence that the Taxicab has been licensed to operate as a Medallion Taxicab.
+(u) Medallion is the numbered plate originally issued by the Commission and affixed to the outside of a Taxicab as physical evidence that the Taxicab has been licensed to operate as a Medallion Taxicab.
 
-(w) MTA Tax is the 50 cent tax on taxicab trips imposed by Article 29-A of the NYS Tax Law.
+(v) MTA Tax is the 50 cent tax on taxicab trips imposed by Article 29-A of the NYS Tax Law.
 
-(x) Owner in this Chapter means an individual or Business Entity licensed by the Commission to own and operate one or more Medallion Taxicabs.
+(w) Owner in this Chapter means an individual or Business Entity licensed by the Commission to own and operate one or more Medallion Taxicabs.
 
-(y) Prior Claim Letter is a Claim Letter received by the Commission prior to February 1, 2009.
+(x) Prior Claim Letter is a Claim Letter received by the Commission prior to February 1, 2009.
 
-(z) Secured Lender Escrow Amount means the Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by Medallion and the Transfer Costs.
+(y) Secured Lender Escrow Amount means the Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by Medallion and the Transfer Costs.
 
-(aa) Secured Lender Recipient means a secured creditor seeking to repossess or foreclose upon a Taxicab Medallion in order to realize the value of its secured interest, but that is not applying to operate the Taxicab Medallion and will not be considered a Transferee provided the Secured Lender Recipient places the Medallion in storage as required in 35 RCNY § 58-46(c).
+(z) Secured Lender Recipient means a secured creditor seeking to repossess or foreclose upon a Taxicab Medallion in order to realize the value of its secured interest, but that is not applying to operate the Taxicab Medallion and will not be considered a Transferee provided the Secured Lender Recipient places the Medallion in storage as required in 35 RCNY § 58-46(c).
 
-(bb) Stop-Use Directive is a notice sent to an Owner by the Commission directing the Owner to stop using a designated Agent because that Agent's License has been revoked or suspended.
+(aa) Stop-Use Directive is a notice sent to an Owner by the Commission directing the Owner to stop using a designated Agent because that Agent's License has been revoked or suspended.
 
-(cc) Substantial Interest in Taxicab Medallions means direct or indirect ownership of four or more Medallions, that can result from one or more of the following:
+(bb) Substantial Interest in Taxicab Medallions means direct or indirect ownership of four or more Medallions, that can result from one or more of the following:
 
    (1) Ownership of 25 percent or more of the stock in one or more corporations that own Medallions
 
@@ -5879,23 +5871,23 @@ Chapter 58: Medallion Taxicab Service
 
    (4) Being an officer in one or more corporations that, in the aggregate, have a direct or indirect equity interest in four or more Medallions.
 
-(dd) Taxicab License is the authority granted by the Commission for an Applicant to own and operate a designated vehicle as a Taxicab within the Commission's jurisdiction, and is evidenced by the Medallion affixed to the hood of the vehicle.
+(cc) Taxicab License is the authority granted by the Commission for an Applicant to own and operate a designated vehicle as a Taxicab within the Commission's jurisdiction, and is evidenced by the Medallion affixed to the hood of the vehicle.
 
-(ee) Taxpayer is a person or Business Entity required to pay the MTA Tax.
+(dd) Taxpayer is a person or Business Entity required to pay the MTA Tax.
 
-(ff) 10% Business Entity Person is a Business Entity Person who owns at least 10% of a Business Entity.
+(ee) 10% Business Entity Person is a Business Entity Person who owns at least 10% of a Business Entity.
 
-(gg) Tort Letter is a statement from the insurer of a Taxicab stating whether or not the insurer is aware of any Excess Claims against the Taxicab Medallion or its Owner.
+(ff) Tort Letter is a statement from the insurer of a Taxicab stating whether or not the insurer is aware of any Excess Claims against the Taxicab Medallion or its Owner.
 
-(hh) Transfer means the transfer of all or any portion of a Medallion ownership interest, including the transfer of interests in a Business Entity owning Medallions.
+(gg) Transfer means the transfer of all or any portion of a Medallion ownership interest, including the transfer of interests in a Business Entity owning Medallions.
 
-(ii) A Transferee is an Applicant seeking approval from or approved by the Chairperson to own and operate a Medallion Taxicab in which Applicant is acquiring an interest, either directly or indirectly, through a transfer described under 35 RCNY § 58-43.
+(hh) A Transferee is an Applicant seeking approval from or approved by the Chairperson to own and operate a Medallion Taxicab in which Applicant is acquiring an interest, either directly or indirectly, through a transfer described under 35 RCNY § 58-43.
 
-(jj) Transfer Costs means the administrative costs involved in processing a transfer of ownership of a Taxicab Medallion and includes the costs of any foreclosure or similar action and any outstanding fines or fees owed to the Commission or the Parking Violations Bureau.
+(ii) Transfer Costs means the administrative costs involved in processing a transfer of ownership of a Taxicab Medallion and includes the costs of any foreclosure or similar action and any outstanding fines or fees owed to the Commission or the Parking Violations Bureau.
 
-(kk) Transferor is the Owner of an interest in a Taxicab Medallion being transferred.
+(jj) Transferor is the Owner of an interest in a Taxicab Medallion being transferred.
 
-(ll) Valid Claim Letter is a Claim Letter which is not a Prior Claim Letter, and which:
+(kk) Valid Claim Letter is a Claim Letter which is not a Prior Claim Letter, and which:
 
    (1) Is dated no more than one year prior to the date documentation is submitted to the Chairperson for a proposed transfer of a Taxicab Medallion,
 
@@ -5905,9 +5897,9 @@ Chapter 58: Medallion Taxicab Service
 
    (4) Includes a representation by the sender that the party against which the Excess Claim has been asserted has been provided with a copy of the Claim Letter.
 
-(mm) Unspecified Driver is a term that is entered on a Rate Card indicating that the Taxicab can be driven by any Licensed Taxicab Driver whose name (or category) has been filed with the Commission by the Owner of that Taxicab.
+(ll) Unspecified Driver is a term that is entered on a Rate Card indicating that the Taxicab can be driven by any Licensed Taxicab Driver whose name (or category) has been filed with the Commission by the Owner of that Taxicab.
 
-(nn) Wheelchair Passenger. A Wheelchair Passenger is a Passenger using a wheel- chair.
+(mm) Wheelchair Passenger. A Wheelchair Passenger is a Passenger using a wheel- chair.
 
 
 
@@ -6791,7 +6783,8 @@ Chapter 58: Medallion Taxicab Service
 
  
 
-   (3) Failure to Report Bribery. An Owner must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant or dispatcher employed at a public transportation facility or authorized group-ride taxi line. 
+   (3) Failure to Report Bribery. An Owner must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant or dispatcher employed at a public transportation facility. 
+										
 
  
 
@@ -7000,6 +6993,8 @@ Chapter 58: Medallion Taxicab Service
 
 
  
+
+
 
 
 
@@ -8759,31 +8754,7 @@ Chapter 58: Medallion Taxicab Service
 
    (4) Chairperson's Right to Suspend this Provision. The Chairperson is authorized to suspend the enforcement of this provision at any time, if in the judgment of the Chairperson such a suspension is necessary to preserve adequate levels of service to and from Kennedy Airport.
 
-(c) Group Ride Fares.
-
-   (1) Group Ride Fare from LaGuardia Airport. [Reserved.]
-
-   (2) Group Ride Fare from York Avenue. The fare for trips made under a Group Riding plan from York Avenue to the Financial District will be $6.00 per passenger. In addition, there can be a fee for dispatch services as the Commission determines.
-
-   (3) Group Ride Fare from the Port Authority Bus Terminal. The fare for trips made under a Group Riding plan from the Port Authority bus terminal at Eighth Avenue between 40th and 42nd Streets to the 59th Street and Sixth Avenue area will be $3.00 per passenger.
-
-   (4) Experimental Group Ride Programs.
-
-      (i) Additional Pickup Locations. The Chairperson can recommend for Commission approval additional Group Riding plan pickup locations on a temporary basis, to determine the effectiveness of each Group Riding plan.
-
-      (ii) Demand-Driven Temporary Group Riding Plans. The Chairperson can also recommend for Commission approval additional Group Riding plans on a temporary basis to respond to demand created by special events or unique circumstances.
-
-      (iii) Duration. Any Group Ride plan established by the Commission under this subdivision will terminate one year after the date the plan was established, unless:
-
-         A. Final rulemaking has been enacted establishing the Group Riding plan location and rate of fare; or
-
-         B. The Commission has determined that it is in the best interest of the Commission to extend the Group Riding plan pilot program for an additional definite period of time not to exceed one year.
-
-      (iv) Termination. The Commission can discontinue any Group Riding plan that has not been the subject of final rulemaking upon a determination that continuation of the plan is not in the best interest of the public.
-
-   (5) MTA Tax. In a group ride, one passenger will pay the MTA Tax. The fare for that passenger will be reduced by the amount of the MTA Tax. All passengers will pay the same total amount. (Example: If three passengers are taking a group ride for which the fare is $6.00 per person, the fare will be adjusted so that the total fare for all three passengers equals $17.50 plus the $.50 MTA Tax.)
-
-(d) Trips Beyond the City.
+(c) Trips Beyond the City.
 
    (1) For a trip beyond the limits of the City of New York, except for Westchester or Nassau County, or Newark Airport, the fare will be a Flat Rate. The MTA Tax must be added to the Flat Rate for any trip that starts in New York City and ends in any of the following:
 
@@ -8816,6 +8787,8 @@ Chapter 58: Medallion Taxicab Service
       (iii) All necessary tolls to and from the destination.
 
    (4) Any continuous trip where the point of origin and the destination are both within the limits of the City of New York will not be considered a trip beyond the City limits, even though the shortest and most direct route requires traveling outside the City limits but within continuous counties. The Taximeter must be kept in the recording position throughout the trip.
+
+`   (d) [Reserved.]
 
 (e) No Charge for Luggage or Mobility Aids. There will be no charge for:
 
@@ -20099,6 +20072,20 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 
+
+
+*§ 63-15 Technology System Provider (TSP) Equipment De-Installation.* ::
+
+
+(a) An Agent may not de-install the Technology System for medallion taxicab vehicles for which the Agent is not the contractee, or the listed Agent.
+
+(b) The Agent must inform the Technology System Provider that is providing service to a medallion taxicab of the de-installation of that taxicab's Technology System within twenty-four (24) hours of de-installation.
+
+
+
+
+
+
 Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
 --------------------------------------------------
 
@@ -22078,7 +22065,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
          (A) the dates during which the License is suspended,
 
-         (B) that the Taxicab or Street Hail Livery Licensee has the option to terminate its contract with the Technology System Provider Licensee, or if its contract will expire during the period of suspension that the Taxicab or Street Hail Livery Licensee has the option not to renew its contract, and,
+         (B) that the Taxicab or Street Hail Livery Licensee has the option to terminate its contract with the Technology System Provider Licensee by providing written notice to the Technology System Provider, or if its contract will expire during the period of suspension that the Taxicab or Street Hail Livery Licensee has the option not to renew its contract, and,
 
          (C) that the Taxicab or Street Hail Livery Licensee, if it wishes to terminate or not to renew its contract with the Technology System Provider whose License has been suspended, has ninety (90) days from the end date of the suspension period to obtain a Technology System and related services from another Technology System Provider.
 
@@ -22714,9 +22701,9 @@ Technology System Provider License Required. An individual or Business Entity mu
 *§ 66-15 Business Requirements – Fees Charged by Licensees.* ::
 
 
-(a) Filing of Fee Schedule with TLC. A Technology System Provider Licensee must file with the Commission a current schedule of fees for:
+(a) Filing of Fee Schedule with TLC. A Technology System Provider Licensee must file with the Commission a current schedule of maximum fees for:
 
-   (1) Services related to the sale, lease, use, installation, maintenance, service or repair of the Technology System approved under this Chapter;
+   (1) Services related to the sale, lease, use, installation, maintenance, service and repair of the Technology System approved under this Chapter;
 
    (2) Credit, debit, and prepaid card processing charges imposed by the Technology System Provider and by the credit/debit/prepaid card services provider;
 
@@ -22724,9 +22711,17 @@ Technology System Provider License Required. An individual or Business Entity mu
 
    (4) Late payment charges, if any, for invoiced amounts that are not paid by the Taxicab or Street Hail Livery Licensee on or before thirty (30) days from the due date;
 
-   (5) De-installation of a Technology System, not to exceed $100 per hour; and
+   (5) De-installation of a Technology System, not to exceed $125 when de-installation is performed by the TSP;
 
-   (6) Moving a Technology System from one vehicle to another. 
+      (i) TSP may not charge a de-installation fee when the Technology System is de-installed by another party.
+
+   (6)    Unreturned or damaged equipment fees;
+
+   (7) Moving a Technology System from one vehicle to another;
+
+   (8) Termination/Cancellation of Technology System contract; and
+
+   (9) Any and all other fees. 
 										
 
  
@@ -22736,7 +22731,7 @@ Technology System Provider License Required. An individual or Business Entity mu
     :header-rows: 1
 
     * - 35 RCNY § 66-15(a)
-      - Penalty: $50 fine
+      - Penalty: First Violation: $1,000 fineSecond Violation: $1,000 and/or suspension
       - Appearance NOT REQUIRED
 ~
 
@@ -22753,7 +22748,7 @@ Technology System Provider License Required. An individual or Business Entity mu
     :header-rows: 1
 
     * - 35 RCNY § 66-15(b)
-      - Penalty: $50 fine
+      - Penalty: First Violation: $1,000 fineSecond Violation: $1,000 and/or suspension
       - Appearance NOT REQUIRED
 ~
 
@@ -22761,7 +22756,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
  
 
-(c) Credit Card Processing Fees. Any fees withheld by the Technology System Provider for processing the credit/debit/prepaid card, E-Hail App that provides for E-Payment, or Digital Wallet Application must not exceed five percent (5%) of the total fare.
+(c) Credit Card Processing Fees. Any fees withheld by the Technology System Provider for processing the credit/debit/prepaid card transaction however processed, including by any E-Hail Application that provides for E-Payment, or Digital Wallet Application must not exceed three point seven five percent (3.75%) of the total amount processed in connection with such transaction. Note: This rule is applicable only for any and all contracts entered into after October 1, 2019.
 
  
 
@@ -22770,7 +22765,7 @@ Technology System Provider License Required. An individual or Business Entity mu
     :header-rows: 1
 
     * - 35 RCNY § 66-15(c)
-      - Penalty: $50 fine
+      - Penalty: First Violation: $1,000 fineSecond Violation: $1,000 and/or suspension
       - Appearance NOT REQUIRED
 ~
 
@@ -22794,7 +22789,9 @@ All of the following conditions apply with regard to a Technology System Provide
 
 (b) Prior to the sale, lease, making available for use, or installation of a Technology System, a Technology System Provider must present to the Taxicab or Street Hail Livery Licensee a contract for execution by the Technology System Provider and the Taxicab or Street Hail Livery Licensee that meets the requirements set forth in 35 RCNY § 66-17;
 
-(c) Prior to installation of a Technology System, or prior to making a Technology System operational, the Technology System Provider must offer to the Taxicab or Street Hail Livery Licensee or an Authorized Representative, at no additional charge, at least one training session on the proper use and operation of the Technology System. The content of the training shall be sufficient to enable the Taxicab or Street Hail Livery Licensee and Driver(s) to properly operate the technology system. 
+(c) Prior to installation of a Technology System, or prior to making a Technology System operational, the Technology System Provider must offer to the Taxicab or Street Hail Livery Licensee or an Authorized Representative, at no additional charge, at least one training session on the proper use and operation of the Technology System. The content of the training shall be sufficient to enable the Taxicab or Street Hail Livery Licensee and Driver(s) to properly operate the technology system.
+
+(d) Upon written request by an Agent in contract with the Technology System Provider, and within fourteen (14) days of such written request and at no additional charge to the Agent, a Technology System Provider must provide in-person training and written instructions on how to properly de-install the Provider's Technology System. A Technology System Provider may not prohibit a trained Agent from de-installing the Technology System. 
 										
 
  
@@ -22803,7 +22800,7 @@ All of the following conditions apply with regard to a Technology System Provide
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 66-16(a)-(c)
+    * - 35 RCNY § 66-16(a)-(d)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
       - Appearance REQUIRED
 ~
@@ -22830,9 +22827,13 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 (c) The term of the contract may be for periods of time up to five (5) years including renewals, but such contract renewals shall be subject to the renewal of the Technology System Provider’s License.
 
+   (1) The fees provided for in the contract may not be raised during the term of the contract unless both parties agree.
+
+   (2) The Technology System Provider must provide the Medallion or Street Hail Livery Owner with a renewal contract with new terms or notification of non-renewal at least ninety (90) days but no more than one hundred and twenty (120) days before the existing contract term end date. Failing to provide adequate notice to the Owner, the contract may be extended, at the discretion of the Owner, for ninety (90) days from date of receipt of renewal contract or notification of non-renewal.
+
 (d) Termination of the contract is permitted as follows:
 
-   (1) If either party defaults in the performance of any of its material obligations under the contract, and does not cure the default within thirty (30) days of receipt of a reasonably detailed notice of default from the other party, then the non-defaulting party may terminate the contract for cause by giving a written notice of termination;
+   (1) If either party defaults in the performance of any of its material obligations under the contract, and does not cure the default within fifteen (15) days of receipt of a reasonably detailed notice of default from the other party, then the non-defaulting party may terminate the contract for cause by giving a written notice of termination;
 
    (2) The Taxicab or Street Hail Livery Licensee may terminate the contract by giving written notice of termination if:
 
@@ -22842,7 +22843,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
    (3) (i) If the Technology System Provider’s License is not renewed, the Technology System Provider must immediately notify the Taxicab or Street Hail Livery Licensee of the expiration date of the License, and the contract will be deemed terminated by the Taxicab or Street Hail Livery Licensee on the ninetieth (90th) day after the expiration date or may be terminated earlier by the Taxicab or Street Hail Livery Licensee by giving written notice of termination.
 
-      (ii) When the Technology System Provider’s License expires, the Technology System Provider must continue to provide to the Taxicab or Street Hail Livery Licensee all services required by 35 RCNY Chapter 66, including but not limited to Maintenance Service in accordance with 35 RCNY § 66-18, to the extent provided in this subparagraph. The contract provisions shall survive termination for one hundred fifty (150) days after the date of expiration of the Technology System Provider’s License or until the Taxicab or Street Hail Livery Licensee has obtained a Technology System and related services from another Technology System Provider, whichever is earlier.
+      (ii) When the Technology System Provider’s License expires, the Technology System Provider must continue to provide to the Taxicab or Street Hail Livery Licensee all services required by 35 RCNY Chapter 66 for the same terms in effect prior to the expiration of the Technology System Provider's License, including but not limited to Maintenance Service in accordance with 35 RCNY § 66-18, to the extent provided in this subparagraph. The contract provisions shall survive termination for one hundred fifty (150) days after the date of expiration of the Technology System Provider’s License or until the Taxicab or Street Hail Livery Licensee has obtained a Technology System and related services from another Technology System Provider, whichever is earlier.
 
    (4) (i) If the Technology System Provider’s License has been suspended by the Taxi and Limousine Commission for a period of thirty (30) days or more, the Technology System Provider must immediately notify the Taxicab or Street Hail Livery Licensee of the dates during which the License is suspended. Upon notification, but prior to the end of the suspension, the Taxicab or Street Hail Livery Licensee may opt to terminate the contract by giving written notice to the Technology System Provider.
 
@@ -22864,9 +22865,9 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
       •   if the Taxicab or Street Hail Livery Licensee pays a termination charge specified in the contract.
 
-   (8) The termination charge must not be more than twenty-five percent (25%) of all remaining monthly charges applicable to the Technology System, not including any fees waived by the Technology Service Provider in the three (3) months prior to termination, multiplied by the number of months remaining in the term of the contract, not to exceed twelve (12) months, plus the de-installation charge listed in the Technology System Provider’s fee schedule on file with the Commission. The termination charge will not apply to any termination of the contract where the Taxicab or Street Hail Livery Licensee is:
+   (8) The termination charge must not be more than twenty-five percent (25%) of all remaining fixed monthly charges applicable to the Technology System, not including any fees waived by the Technology System Provider in the three (3) months prior to termination, multiplied by the number of months remaining in the term of the contract, not to exceed twelve (12) months. The termination charge will not apply to any termination of the contract:
 
-      (i) permitted to terminate the contract without incurring liability or
+      (i) where the Taxicab or Street Hail Livery Licensee is permitted to terminate the contract without incurring liability or
 
       (ii) where at the Taxicab or Street Hail Livery Licensee’s request the Technology System is removed from one vehicle and installed in another vehicle to be operated under the same Taxicab or Street Hail Livery License.
 
@@ -22876,7 +22877,11 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
       (ii) in the case of the insolvency of, or commencement of any proceeding by or against, the other party, either voluntary or involuntary, under the Bankruptcy Code, or relating to the insolvency, receivership, liquidation, or composition of the other party for the benefit of creditors.
 
-(e) Upon the expiration or earlier termination of the contract, the Technology System Provider must remove the Technology System on the date reasonably agreed upon by the parties. Except where the Taxicab or Street Hail Livery Licensee terminates the contract pursuant to paragraphs one through five or subparagraph (ii) of paragraph eight of subdivision (d) of this section, or where the contract expires, the Technology System Provider may charge the Taxicab or Street Hail Livery Licensee a de-installation charge for each Technology System removed.
+(e) Upon Owner/Agent's written notice, the Technology System Provider must remove the Technology System(s) in the requested vehicles on a schedule of at least (4) four vehicles per business day.
+
+   (i) Technology System Provider is not obligated to remove a Technology System with less than twenty-four (24) hour notice from the Owner/Agent.
+
+   (ii) Except where the Taxicab or Street Hail Livery Licensee terminates the contract pursuant to paragraphs one through five or subparagraph (ii) of paragraph eight of subdivision (d) of this section, or where the contract expires, the Technology System Provider may charge the Taxicab or Street Hail Livery Licensee a de-installation charge for each Technology System removed.
 
 (f) The Technology System Provider must reimburse the Taxicab or Street Hail Livery Licensee for any and all Fines caused by a failure of the Technology System or any of its components to perform in accordance with the Technology System requirements as required by 35 RCNY § 66-19 where such failure is not attributable to the acts or omissions of the Taxicab or Street Hail Livery Licensee or Taxicab or Street Hail Livery Driver, the abuse or misuse of the Technology System or other circumstances beyond the control of the Technology System Provider. For purposes of this provision, the term “Fine” means any and all fees, fines, or financial penalties imposed on a Taxicab or Street Hail Livery Licensee or Taxicab or Street Hail Livery Driver by the Commission or other any City agency.
 
@@ -22938,7 +22943,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
    (1) A Technology System Provider must ensure that a System that has been installed in a Taxicab or Street Hail Livery provides Credit, Debit, and Prepaid Card Services in compliance with the requirements of subdivision (a) of 35 RCNY § 66-24.
 
-   (2) A Technology System Provider must ensure that, when Passengers pay by credit, debit, or prepaid card, the Merchant or the Merchant’s authorized payee receives deposit of funds within forty-eight (48) business hours, excluding banking holidays, of transmission of a batch close transaction from the System, except when there is a fraud investigation. 
+   (2) If the Technology System Provider maintains a credit card merchant account on behalf of the Medallion Owner or Street-Hail Livery Licensee, the Technology System Provider must ensure that, when Passengers pay by credit, debit, or prepaid card, the Medallion Owner or the Medallion Owner's authorized payee receives deposit of funds within forty-eight (48) business hours, excluding banking holidays, of transaction settlement. 
 										
 
  
@@ -23029,7 +23034,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
  
 
-(f) Cooperation with E-Hail Providers. A Technology System Provider must cooperate with TLC licensed E-Hail Providers by making available an API as described in subdivision (e) of 35 RCNY § 66-24.
+(f) Cooperation with E-Hail Application Providers. A Technology System Provider must make available to an E-Hail Application Provider, at the E-Hail Application Provider's request, an API, test environment and simulator as described in subdivision (e) of 35 RCNY § 66-24. A newly licensed Technology System Provider must be able to satisfy the requirement of this subdivision within two (2) months of licensure.
 
  
 
@@ -23224,11 +23229,13 @@ The Technology System Provider must collect, use, and process Personal Informati
 
    (1) Automatically indicate the on/off-duty status of the Vehicle to the contractor’s systems;
 
-   (2) Automatically switch to the appropriate on/off-duty status in response to the Driver’s use of the contractor’s system:
+   (2) Automatically switch to the appropriate on/off-duty status in response to the Driver’s use of the contractor’s system;
 
-   (3) Notify the Driver of a Dispatch using the Technology System’s driver interface in a manner that identifies such dispatch as coming from the Accessible Taxi Dispatcher; and
+   (3) Driver must be within 0.35 of a mile in order to indicate that the vehicle is at the pickup location;
 
-   (4) Transmit all Trip Data to the Accessible Taxi Dispatcher’s system as it is collected. 
+   (4) Notify the Driver of a Dispatch using the Technology System’s driver interface in a manner that identifies such dispatch as coming from the Accessible Taxi Dispatcher; and
+
+   (5) Transmit all Trip Data to the Accessible Taxi Dispatcher’s system as it is collected. 
 										
 
  
@@ -23327,7 +23334,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
    (1) Omission. While performing the duties and responsibilities of a Technology System Provider Licensee, a Licensee must not deliberately fail to perform, alone or with another, any act whose failure to perform is against the best interests of the public, although not specifically mentioned in these Rules.
 
-   (2) Commission. While performing the duties and responsibilities of a Technology System Provider Licensee, a Licensee must not deliberately perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these Rules.
+   (2) Commission. While performing the duties and responsibilities of a Technology System Provider Licensee, a Licensee must not deliberately perform, alone or with another, any act that is dishonest, fraudulent or against the best interests of the public, although not specifically mentioned in these Rules.
 
  
 
@@ -23474,7 +23481,7 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
       (i) JFK – Manhattan Rate – Taxicab Drivers must be allowed to select Rate 2 inside of Manhattan or JFK Airport but be prevented from selecting Rate 2 otherwise. Street Hail Livery Drivers must be prevented from selecting Rate 2.
 
-      (ii) Nassau and Westchester Counties - rivers must not be allowed to select Rate 4 outside of Nassau and Westchester Counties.
+      (ii) Nassau and Westchester Counties - Drivers must not be allowed to select Rate 4 outside of Nassau and Westchester Counties.
 
    (4) The Technology System must allow the Driver to enter a toll in all of the following ways:
 
@@ -23482,7 +23489,7 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
       (ii) Select a toll from a predetermined list that includes all tolls within the five boroughs of New York City.
 
-      (iii) Enter a custom toll amount that is added to the total fare when outside the five boroughs of New York City.
+      (iii) Enter a custom toll amount that is added to the total fare, to be accessible to the driver only, when outside the five boroughs of New York City.
 
    (5) When adding tolls to the Taximeter, the Technology System must automatically add the correct toll amount to the fare based on the EZ-Pass rate for that toll and time of day.
 
@@ -23524,7 +23531,7 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
       (ii) the Technology System must instruct the Passenger how to engage visual accessibility features without requiring the assistance of a Taxicab Driver;
 
-      (iii) the Technology System must notify the Passenger of any changes to the Taximeter rate or any additions of tolls, surcharges, extras, or other charges in a reasonable manner and length of time for a Passenger to be alerted to the addition; and
+      (iii) the Technology System must notify the Passenger of any changes to the Taximeter rate or any additions of tolls, surcharges, extras, or other charges, including the name and amount of the charge, in a reasonable manner and length of time for a Passenger to be alerted to the addition; and
 
       (iv) all payment devices must turn on when the Taximeter disengages, to allow payment processing.
 
@@ -23554,7 +23561,7 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
          (B) automatic audio notifications of all tolls and rates,
 
-         (C) audio instructions enabling a Passenger to successfully complete fare payment, including discretionary tipping, without requiring the assistance of a Taxicab Driver,
+         (C) audio instructions enabling a Passenger to successfully complete fare payment, including discretionary tipping, E-Payment, and any other form of payment available in the Taxicab, without requiring the assistance of a Taxicab Driver,
 
       (iii) the ability for a Passenger to engage visual accessibility features without requiring the assistance of a Taxicab Driver and
 
@@ -23566,13 +23573,11 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
    (6) The Technology System must allow the Passenger to pay fares with cash, credit, debit, and prepaid cards, and must allow for E-Hail Apps that provide for E-Payment, and Digital Wallet Application.
 
-   (7) The Technology System must allow the Passenger to pay fares with cash, credit, debit, and prepaid cards, and must allow for E-Hail Apps that provide for E-Payment, and Digital Wallet Application.
+   (7) The Technology System must make available all information reasonably required for the Passenger to understand and complete electronic payment of the total fare in English, Spanish, and any other language the Commission requires.
 
-   (8) The Technology System must make available all information reasonably required for the Passenger to understand and complete electronic payment of the total fare in English, Spanish, and any other language the Commission requires.
+   (8) For payments made inside the vehicle other than cash or E-Payment, the Technology System must allow, but not require, the Passenger to add a custom tip. If the Passenger elects not to add a tip, the Technology System must require active confirmation of the Passenger's intent before processing payment.
 
-   (9) For non-cash payments the Technology System must allow but not require the Passenger to add a custom tip.
-
-   (10) The Technology System must be able to generate an accurate receipt for payment of fare and such receipt must be able to be generated for each Passenger making a payment. Upon the Passenger’s request, a receipt must be transmitted to the Passenger. The receipt must contain the following information:
+   (9) The Technology System must be able to generate an accurate receipt for payment of fare and such receipt must be able to be generated for each Passenger making a payment. Upon the Passenger’s request, a receipt must be transmitted to the Passenger. The receipt must contain the following information:
 
       (i) Medallion or SHL Permit number;
 
@@ -23616,33 +23621,37 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
    (1) The API must include but is not limited to the following functionalities:
 
-      (A) Allow the E-Hail Provider or Accessible Taxi Dispatcher to query and obtain a list of a specified number (at least 5) and type (e.g., WAV, SUV, etc.) of Vehicles that are available for hire and closest to a designated pickup location, and, for each Vehicle listed in the response to such query, access real-time meter status, GPS coordinates and direction for no less than 1 minute following such query. The Vehicle or list of Vehicles provided in response to any such query must include the medallion or SHL permit number, vehicle make and model, car type (e.g., SUV, minivan, etc.), wheelchair accessibility, and Driver name and TLC license number;
+      (A) Allow the E-Hail Application Provider or Accessible Taxi Dispatcher to query and obtain a list of a specified number (at least 5) and type (e.g., WAV, SUV, etc.) of Vehicles that are available for hire and closest to a designated pickup location, and, for each Vehicle listed in the response to such query, access real-time meter status, GPS coordinates and direction for no less than 1 minute following such query. The Vehicle or list of Vehicles provided in response to any such query must include the medallion or SHL permit number, vehicle make and model, car type (e.g., SUV, minivan, etc.), wheelchair accessibility, and Driver name and TLC license number;
 
-      (B) Allow the E-Hail Provider or Accessible Taxi Dispatcher to send an E-Hail or dispatch via the Technology System to the Driver of any or all of the Vehicles included in the list of Vehicles provided in response to a query, including the pickup time and location, and, if applicable, the pre-arranged fare and drop-off location;
+      (B) Allow the E-Hail Application Provider or Accessible Taxi Dispatcher to send an E-Hail or dispatch via the Technology System to the Driver of any or all of the Vehicles included in the list of Vehicles provided in response to a query, including the pickup time and location, and, if applicable, the pre-arranged fare and drop-off location;
 
       (C) Return the Driver’s acceptance or rejection of the E-Hail or dispatch, or, if the driver takes no action within 30 seconds, return a timeout;
 
-      (D) Allow the E-Hail Provider or Accessible Taxi Dispatcher to cancel any E-Hail or dispatch regardless of whether a Driver has responded;
+      (D) Allow the E-Hail Application Provider Licensee or Accessible Taxi Dispatcher to cancel any E-Hail or dispatch regardless of whether a Driver has responded;
 
-      (E) For any Driver that has accepted an E-Hail or dispatch from an E-Hail Provider or the Accessible Taxi Dispatcher, for the duration of the trip from acceptance through meter off or cancellation, provide the E-Hail Provider or Accessible Taxi Dispatcher with a data feed of real-time GPS location and ride/meter events, and allow the E-Hail Provider or Accessible Taxi Dispatcher to communicate with such Driver via the Technology System, including:
+      (E) For any Driver that has accepted an E-Hail or dispatch from an E-Hail Application Provider or the Accessible Taxi Dispatcher, for the duration of the trip from acceptance through meter off or cancellation, provide the E-Hail Application Provider or Accessible Taxi Dispatcher with a data feed of real-time GPS location and ride/meter events, and allow the E-Hail Application Provider or Accessible Taxi Dispatcher to communicate with such Driver via the Technology System, including:
 
-         i. allowing the E-Hail Provider or the Accessible Taxi Dispatcher to provide the Driver with the passenger’s name and phone number and drop-off location, as well as other relevant trip information (e.g., “passenger waiting at south entrance,” “passenger is wheelchair bound,” etc.), and
+         i. allowing the E-Hail Application Provider or the Accessible Taxi Dispatcher to provide the Driver with the passenger’s name and phone number and drop-off location, as well as other relevant trip information (e.g., “passenger waiting at south entrance,” “passenger is wheelchair bound,” etc.),
 
-         ii. allowing the Driver to report trip events to the E-Hail Provider or the Accessible Taxi Dispatcher (e.g., “passenger in vehicle,” “passenger no-show,” etc.).
+         ii. allowing the Driver to report trip events to the E-Hail Application Provider or the Accessible Taxi Dispatcher (e.g., “passenger in vehicle,” “passenger no-show,” etc.), and
 
-      (F) Provide onsite event when Driver reports being onsite, provide a no-show event if the Driver indicates a passenger no-show, and provide a cancel event if the Driver cancels or retracts his or her acceptance of an E-Hail or dispatch;
+         iii. providing onsite event when Driver reports being onsite, provide a no-show event if the Driver indicates a passenger no-show, and provide a cancel event if the Driver cancels or retracts his or her acceptance of an E-Hail or dispatch.
 
-      (G) Provide access to itemized fare data including time-and-distance fare, tolls, surcharges, extras, and taxes from the Technology System and Taximeter, in real time, when the trip has been completed and the Driver has disengaged the Taximeter;
+      (F) For licensed E-Hail Applications that provide E-Payment, the API must include the following payment functionality:
 
-      (H) Receive from the E-Hail Provider or Accessible Taxi Dispatcher a confirmation that electronic credit card payment for the total fare amount has been successfully processed; and
+         (i) Provide access to itemized fare data including time-and-distance fare, tolls, surcharges, extras, and taxes from the Technology System and Taximeter, in real time, when the trip has been completed and the Driver has disengaged the Taximeter;
 
-      (I) Receive relevant payment information from the E-Hail Provider or Accessible Taxi Dispatcher to the extent necessary to display the total charges, including E-Hail service fee and tip (if applicable) on the receipt and collect and transmit Trip Data.
+         (ii) Receive from the E-Hail Application Provider or Accessible Taxi Dispatcher a confirmation that electronic credit card payment for the total fare amount has been successfully processed; and
 
-   (2) The Technology System Provider may charge the E-Hail App Provider or Accessible Taxi Dispatcher a fee not to exceed twenty-five cents ($0.25) per query for use of the API. The Technology System Provider may not charge the E-Hail App Provider or Accessible Taxi Dispatcher credit card processing fees greater than the wholesale fees collected by the credit card issuer and credit card network for that transaction.
+         (iii) Receive relevant payment information from the E-Hail Application Provider or Accessible Taxi Dispatcher to the extent necessary to display the total charges, including E-Hail service fee and tip (if applicable) on the receipt and collect and transmit Trip Data.
 
-   (3) The Technology System Provider may require E-Hail App Providers sending E-Hails to Drivers via the Technology System to charge a uniform Passenger cancellation and/or no-show fee.
+         (iv) Provide the name of the credit card merchant.
 
-   (4) Separate Violations. Each failure on the part of a Technology System Provider to cooperate with a licensed E-Hail Application or Accessible Dispatcher for the purpose of maintaining an API as provided in paragraph (1) of this subdivision will constitute a separate violation of this rule.
+   (2) The Technology System Provider may charge the E-Hail Application Provider or Accessible Taxi Dispatcher a fee not to exceed one dollar ($1.00) per E-Hail request accepted by a Driver for use of the API. The Technology System Provider may not charge the E-Hail Application Provider or Accessible Taxi Dispatcher credit card processing fees greater than the wholesale fees collected by the credit card issuer and credit card network for that transaction.
+
+   (3) The Technology System Provider may require E-Hail Application Providers sending E-Hails to Drivers via the Technology System to charge a uniform Passenger cancellation and/or no-show fee.
+
+   (4) Separate Violations. Each failure on the part of a Technology System Provider to cooperate with an E-Hail Application Provider or Accessible Dispatcher for the purpose of maintaining an API as provided in paragraph (1) of this subdivision will constitute a separate violation of this rule.
 
 (f) Trip Data Collection and Transmission. A Technology System must be capable of collecting and transmitting to the Commission Trip Data as described below. The Technology System must conform to the following specifications:
 
@@ -26875,29 +26884,33 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal E-Hail Application Provider License.
 
-(b) Credit, Debit, and Prepaid Card Services. The portion of the E-Hail Application used to process Passenger payment of fare in a Vehicle by credit, debit, or prepaid card as described in 35 RCNY § 78-21(a).
+(b) Credit, Debit, and Prepaid Card Services. The portion of the E-Hail Application used to process Passenger payment of fare in a Vehicle by credit, debit, or prepaid card as described in 35 RCNY § 78-21(b) and (c).
 
 (c) Database Management System. A software package with computer programs that control the creation, maintenance and use of a database.
 
-(d) E-Hail has the same meaning as the same term in 35 RCNY § 51-03.
+(d) Dispatch and Pay has the same meaning as the same term in 35 RCNY § 51-03.
 
-(e) E-Hail App Data. All data required to be collected, transmitted and maintained pursuant to this Agreement. E-Hail App Data includes, but is not limited to, Trip Data as described in 35 RCNY § 78-21, data related to credit, debit, and prepaid card transactions, and data relating to E-Hail App usage. Any data that is transferred to the E-Hail App by Technology Systems become E-Hail App Data once received by the E-Hail App.
+(e) E-Hail has the same meaning as the same term in 35 RCNY § 51-03.
 
-(f) E-Hail Application has the same meaning as the same term in 35 RCNY § 51-03.
+(f) E-Hail App Data. All data required to be collected, transmitted and maintained pursuant to this Agreement. E-Hail App Data includes, but is not limited to, Trip Data as described in 35 RCNY § 78-21, data related to credit, debit, and prepaid card transactions, and data relating to E-Hail App usage. Any data that is transferred to the E-Hail App by Technology Systems become E-Hail App Data once received by the E-Hail App.
 
-(g) E-Hail Application Provider is a person or entity licensed by these Rules to offer an E-Hail Application.
+(g) E-Hail Application has the same meaning as the same term in 35 RCNY § 51-03.
 
-(h) E-Hail Application Provider License is a license issued to a E-Hail Application Provider pursuant to this Chapter.
+(h) E-Hail Application Provider is a person or entity licensed by these Rules to offer an E-Hail Application.
 
-(i) E-Payment has the same meaning as the same term in 35 RCNY § 51-03.
+(i) E-Hail Application Provider License is a license issued to a E-Hail Application Provider pursuant to this Chapter.
 
-(j) Hail has the same meaning as the same term in 35 RCNY § 51-03.
+(j) E-Payment has the same meaning as the same term in 35 RCNY § 51-03.
 
-(k) Information System. An interconnected set of information resources under the same direct management control that shares common functionality.
+(k) Hail has the same meaning as the same term in 35 RCNY § 51-03.
 
-(l) License. When the term "License" is used by itself in this Chapter – and in this Chapter ONLY – it refers to an E-Hail Application Provider License.
+(l) Hail and Pay has the same meaning as the same term in 35 RCNY § 51-03.
 
-(m) Modification of E-Hail Application. Any modification to the E-Hail Application or related services after the Commission has issued a License for such E-Hail Application that would materially alter any of the following:
+(m) Information System. An interconnected set of information resources under the same direct management control that shares common functionality.
+
+(n) License. When the term "License" is used by itself in this Chapter – and in this Chapter ONLY – it refers to an E-Hail Application Provider License.
+
+(o) Modification of E-Hail Application. Any modification to the E-Hail Application or related services after the Commission has issued a License for such E-Hail Application that would materially alter any of the following:
 
    (1) functionality, performance characteristics, security measures, or technical environment of the E-Hail Application or related services;
 
@@ -26909,17 +26922,19 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
    (5) security patches to the extent such fixes or patches are necessary in the E-Hail Application Provider's good faith judgment to maintain the continuity of the E-Hail Application or related services or to correct an event or occurrence that would, if uncorrected, substantially prevent, hinder or delay proper operation of the E-Hail Application or related services.
 
-(n) Non-consumer User. Any individual, excluding a cardholder, who accesses Database Management System components, including, but not limited to employees, administrators and third parties.
+(p) Non-consumer User. Any individual, excluding a cardholder, who accesses Database Management System components, including, but not limited to employees, administrators and third parties.
 
-(o) PCI Standards. The Payment Card Industry Data Security Standards issued by the Payment Card Industry Security Standards Council as they may change from time to time. See www.pcisecuritystandards.org
+(q) Pair. The act of an E-Hail Application connecting to a Technology System for the purposes of Hail and Pay.
 
-(p) Personal Information has the same meaning as the term as it is defined in New York General Business Law § 899-aa(1)(a) and includes such information pertaining to passengers and drivers.
+(r) PCI Standards. The Payment Card Industry Data Security Standards issued by the Payment Card Industry Security Standards Council as they may change from time to time. See www.pcisecuritystandards.org
 
-(q) Service Levels. The standards of performance of the E-Hail Application and its components that are described in 35 RCNY §§ 78-17 and 78-21.
+(s) Personal Information has the same meaning as the term as it is defined in New York General Business Law § 899-aa(1)(a) and includes such information pertaining to passengers and drivers.
 
-(r) Security Incident or Incident means the attempted or successful unauthorized access, use, disclosure, modification, or destruction of information or interference with system operations in an Information System.
+(t) Service Levels. The standards of performance of the E-Hail Application and its components that are described in 35 RCNY §§ 78-17 and 78-21.
 
-(s) Technology System Data. All data required to be collected, transmitted and maintained pursuant to 35 RCNY § 66-24 and other information assets related to the Technology System Data. Technology System Data includes, but is not limited to, Trip Data, data related to credit, debit and prepaid card transactions, and text messages and the date and time such messages were sent and received. Any data that is transferred to the Technology System by E-Hail Apps that provide E-Payment become Technology System Data once received by the Technology System.
+(u) Security Incident or Incident means the attempted or successful unauthorized access, use, disclosure, modification, or destruction of information or interference with system operations in an Information System.
+
+(v) Technology System Data. All data required to be collected, transmitted and maintained pursuant to 35 RCNY § 66-24 and other information assets related to the Technology System Data. Technology System Data includes, but is not limited to, Trip Data, data related to credit, debit and prepaid card transactions, and text messages and the date and time such messages were sent and received. Any data that is transferred to the Technology System by E-Hail Apps that provide E-Payment become Technology System Data once received by the Technology System.
 
 
 
@@ -26995,13 +27010,13 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 (a) E-Hail Application Approval for New License. The Commission will not issue an E-Hail Application Provider License to any Applicant unless the Commission approves the E-Hail Application proposed for sale, lease or use by the Applicant. In determining whether to approve the E-Hail Application, the Commission will consider, in its sole discretion, whether the documentation required to be submitted by the Applicant pursuant to subdivision (b) of this section adequately demonstrates that the E-Hail Application complies with all of the requirements set forth in 35 RCNY § 78-21, or as such requirements may be waived or modified by the Commission pursuant to subdivision (f) of this section.
 
-(b) Documentation for E-Hail Application Approval. The Applicant must submit with its License application a detailed description of its E-Hail Application's functionality and its compliance with the requirements set forth in 35 RCNY § 78-21, as well a list of all third-party designees the E-Hail Provider will use in offering E-Hail or E-Payment services. If the Application includes E-Payment, the Applicant must submit with its License application the documentation described in paragraphs (1) through (3) of this subdivision. All documentation pertaining to an independent third party must be accompanied by a signed authorization from the Applicant authorizing the Commission to contact the independent third party directly and authorizing the independent third party to respond to inquiries from the Commission.
+(b) Documentation for E-Hail Application Approval. The Applicant must submit with its License application a detailed description of its E-Hail Application's functionality and its compliance with the requirements set forth in 35 RCNY § 78-21, as well a list of all third-party designees the E-Hail Application Provider will use in offering E-Hail or E-Payment services. If the Application includes E-Payment, the Applicant must submit with its License application the documentation described in paragraphs (2) and (3) of this subdivision. All documentation pertaining to an independent third party must be accompanied by a signed authorization from the Applicant authorizing the Commission to contact the independent third party directly and authorizing the independent third party to respond to inquiries from the Commission.
 
-   (1) An acceptance test plan that uses information technology industry testing tools, techniques and methodologies designed to comprehensively test whether the E-Hail Application and related services comply with all of the requirements set forth in 35 RCNY § 78-21, or as such requirements may be waived or modified by the Commission pursuant to subdivision (f) of this section;
+   (1) Documentation demonstrating that an independent third party that is accredited by the American National Standards Institute-American Society of Quality National Accreditation Board ("ANAB") to perform International Organization for Standardization ("ISO") 9001 certifications has performed acceptance testing consistent with the acceptance test plan, and the successful results of the acceptance testing; and
 
-   (2) Documentation demonstrating that an independent third party that is accredited by the American National Standards Institute-American Society of Quality National Accreditation Board ("ANAB") to perform International Organization for Standardization ("ISO") 9001 certifications has performed acceptance testing consistent with the acceptance test plan, and the successful results of the acceptance testing; and
+   (2) Documentation demonstrating that an independent third party that is a Qualified Security Assessor ("QSA") company has performed security testing of the E-Hail Application and related services to determine compliance with the security standards set forth in 35 RCNY § 78-21(f), or as such standards may be waived or modified by the Commission pursuant to subdivision (f) of this section, and the successful results of the security testing; and
 
-   (3) Documentation, to be renewed and resubmitted to the TLC every twelve (12) months, demonstrating that an independent third party that is a Qualified Security Assessor ("QSA") company has performed security testing of the E-Hail Application and related services to determine compliance with the security standards set forth in 35 RCNY § 78-21(f), or as such standards may be waived or modified by the Commission pursuant to subdivision (f) of this section, and the successful results of the security testing.
+   (3) Documentation, demonstrating that a qualified, independent third party has performed acceptance testing of the E-Hail company's Application Programming Interface and related services to determine compliance with the standards set forth in 35 RCNY § 78-24(d)(2), or as such standards may be waived or modified by the Commission pursuant to subdivision (e) of this section, and the successful results of such acceptance testing.
 
 (c) Information Security and Use of Personal Information Policy. The Applicant must submit with its License application an information security and use of personal information policy that includes, at a minimum, the following information:
 
@@ -27178,7 +27193,15 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
    (3) The Commission will not accept a renewal application after the expiration date of the License. If the application is not filed before the expiration date, the License cannot be renewed.
 
-(h) Suspended Licenses.
+(h) Extensions. 
+
+   (1) If a timely application for renewal of a License has been made as required in subdivision (g) of this section, the Chairperson may extend the term of the License until review of the renewal application is completed.
+
+   (2) The License will be deemed valid during this extended term even if the application is ultimately denied.
+
+   (3) If a License renewal application is approved, the renewal License expiration date will be based on the original expiration date of the License.
+
+(i) Suspended Licenses.
 
    (1) If a License is suspended and it is also due to be renewed during the suspension, the E-Hail Application Provider Licensee must apply for renewal as required in subdivision (g) of this section to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
 
@@ -27447,9 +27470,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
  
 
-(b) Fares. An E-Hail Application and an E-Hail Application Provider must NOT charge any Passenger a fare for a trip that exceeds the fare as calculated by the Taximeter, permitted in 35 RCNY § 58-26 and 35 RCNY § 82-26. The E-Hail App and the E-Hail App Provider may however charge additional fees to a Passenger above the fare for the trip in accordance with subdivision (c) below so long as such fees are clearly delineated and not called a fare or tip or gratuity.
-
-NOTE: If an E-Hail App Provider charges a per-trip fee for use of the E-Hail App and if the fee is assessed on a per-trip basis and bundled into the same credit card transaction as the payment of the fare, the Provider is required to have an agreement with either the merchant of record, or if processed through the Technology System, the Technology System Provider, as to how the fee will be remitted to the E-Hail App Provider. The agreement must be outlined in the E-Hail App Provider's application documentation and must ensure that the per-trip fee is remitted in its entirety to the E-Hail App Provider and is not retained by the Driver. 
+(b) Fares. An E-Hail Application and an E-Hail Application Provider must NOT charge any Passenger a fare for a trip that exceeds the fare as calculated by the Taximeter, permitted in 35 RCNY § 58-26 and 35 RCNY § 82-26. The E-Hail Application and the E-Hail Application Provider may however charge additional fees to a Passenger above the fare for the trip in accordance with subdivision (c) below so long as such fees are clearly delineated and not called a fare or tip or gratuity. 
 										
 
  
@@ -27520,11 +27541,13 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 (a) Credit, Debit, and Prepaid Card Payment.
 
-   (1) An E-Hail Application Provider must ensure that an E-Hail Application that includes E-Payment provides Credit, Debit, and Prepaid Card Services complies with the requirements of 35 RCNY § 78-21(a).
+   (1) An E-Hail Application Provider must ensure that an E-Hail Application that includes E-Payment provides Credit, Debit, and Prepaid Card Services in compliance with the requirements of 35 RCNY § 78-21(b) and/or (c).
 
-   (2) An E-Hail Application Provider must ensure, for an E-Hail Application that includes E-Payment, that when Passengers pay by credit, debit, or prepaid card, the Driver receives deposit of funds within forty-eight (48) business hours, excluding banking holidays, of transmission of a batch close transaction from the E-Hail Application, except for incidents when there is a fraud investigation.
+   (2) An E-Hail Application Provider must ensure, for an E-Hail Application that includes E-Payment, that when Passengers pay by credit, debit, or prepaid card, the Driver receives deposit of funds within forty-eight (48) business hours, excluding banking holidays, of transmission of a batch close transaction from the E-Hail Application, except for incidents when there is a fraud investigation, which must be completed within sixty (60) days of the transaction.
 
-   (3) An E-Hail Application must not provide a Driver compensation for a trip that exceeds the fare for the trip plus tolls and tip if any. 
+   (3) An E-Hail Application Provider must ensure that an E-Hail Application that includes E-Payment complies with the requirements of 35 RCNY § 78-21(b) and/or (c).
+
+   (4) An E-Hail Application may permit Passengers to split a fare if this feature is provided by the party processing the fare payment.
 
  
 
@@ -27541,9 +27564,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
  
 
-   (4) An E-Hail Application may permit Passengers to split a fare if this feature is provided by the party processing the fare payment.
-
-(b) Trip Data Collection and Transmission. An E-Hail Application Provider must ensure that an E-Hail Application collects and stores relevant trip information to obtain a complete trip record, and transmits such data to the Technology System or the Commission in compliance with the requirements in 35 RCNY § 78-21(c). 
+(b) Trip Data Collection and Transmission. An E-Hail Application Provider must ensure that an E-Hail Application collects and stores relevant trip information to obtain a complete trip record, and transmits such data to the Technology System or the Commission in compliance with the requirements in 35 RCNY § 78-21(e). 
 										
 
  
@@ -27561,7 +27582,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
  
 
-(c) Use Restrictions. An E-Hail Application Provider must ensure that an E-Hail Application restricts usage of the Application in compliance with the use restrictions in 35 RCNY § 78-21(d). 
+(c) Use Restrictions. An E-Hail Application Provider must ensure that an E-Hail Application restricts usage of the Application in compliance with the use restrictions in 35 RCNY § 78-21(a). 
 										
 
  
@@ -27867,68 +27888,9 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 No E-Hail Application will be approved by the Commission pursuant to this Chapter unless it complies with the all of the requirements set forth in this section or as such requirements may be waived or modified by the Commission pursuant to 35 RCNY § 78-05(f).
 
-(a) Payment.
+(a) Dispatching. The E-Hail Application must allow passengers to request transportation in a Taxicab or Street Hail Livery and have the ability to dispatch a Taxicab or Street Hail Livery to the requested location.
 
-   (1) Credit, Debit, and Prepaid Card Payment. An E-Hail Application can be capable of accepting credit, debit, and prepaid cards for payment of fares through E-Payment. An E-Hail Application that is capable of accepting credit, debit, and prepaid cards for payment of fares cannot require a Passenger to pay a tip to the Driver.
-
-   (2) The E-Hail Application must be able to generate an accurate receipt for payment of fare for fares paid using E-Payment, and the receipt must be offered to the Passenger. Upon the Passenger's request, a receipt either in hard copy form or in electronic form must be transmitted to the Passenger. The receipt must contain all the following information:
-
-      (i) All items required by 35 RCNY § 66-24(c)(9); and
-
-      (ii) Any fee paid by the Passenger to the E-Hail Application Provider if paid directly to such Provider, clearly identified. NOTE: 35 RCNY § 78-15(a) governs the payment of tips or gratuities
-
-   (3) Any E-Payment technology used with any E-Hail Application must be integrated into the Technology System used by any Driver using the E-Hail Application.
-
-   (4) An E-Hail Application which includes E-Payment must comply with all applicable PCI Standards. Credit, debit, and prepaid card information for electronic payments made through an E-Hail Application must not be stored locally on the electronic device on which the E-Hail Application being used resides, or locally on the Technology System (if applicable) after the E-Payment utilizing such credit, debit, or pre-paid card has been authorized or declined.
-
-   (5) An E-Hail Application which includes E-Payment must be capable of generating the following data, regardless of the means of payment:
-
-      (i) reasonably detailed data of individual and cumulative payment transactions (including sufficient detail to support daily and monthly reconciliations and to perform problem resolution);
-
-      (ii) if the payment is by credit, debit, or prepaid card, in addition to the information in subparagraph (i) above, the name of the credit, debit, or prepaid card, and the name of the credit card merchant engaged by the E-Hail Application Provider; and
-
-      (iii) data summarizing the number of fares, the total fare amount, and as applicable, the number of credit, debit and prepaid card transactions and the total fares of such transactions; (6) The data described in paragraph (5) of this subdivision and its component elements must be stored, maintained and accessible to the Commission and any designee as follows:
-
-      (i) in a standardized format and layout prescribed by the Commission that is open and non-proprietary; and
-
-      (ii) by secure file transfer protocol, transfer according to a format, layout, procedure, and frequency prescribed by the Commission.
-
-(b) Technology System Integration. An E-Hail Application which includes E-Payment must be integrated with the Technology System.
-
-   (1) The E-Hail Application, or its third party designee, must receive the fare and Trip Data automatically from the Technology System or Taximeter and must not permit a Driver or anybody else to enter any fare information manually. The E-Hail App also must provide the Technology System Provider with the following:
-
-      (i) The credit card information necessary to process the transaction through the Technology System Provider’s payment gateway and the amount to be charged for the transaction, including any tip and E-Hail service fee, if included in the amount to be charged; and
-
-      (ii) Credit, debit, or prepaid card and payment information necessary to allow Technology System Providers to display total charges, including time-and-distance fares, tips, extras, surcharges, taxes, and any fees charged by the E-Hail Provider for use of the E-Hail Application on printed receipts, and allow submission to the Chair of a complete electronic trip record for the fare as further described in subdivision (c) of this section.
-
-      (iii) Any other functionality, but only if agreed to by the Commission, the E-Hail App Provider, and the Technology System Provider.
-
-   (2) All fares must be calculated by the Taximeter and in accordance with the Rules of the Commission.
-
-(c) Trip Data Collection and Transmission. An E-Hail Application and its third party designee, if any, must be capable of automatically collecting and transmitting E-Hail request data and Trip Data as described below.
-
-   (1) The E-Hail Application and its third part designee, if any, must be capable of automatically collecting and transmitting to the Commission data on all E-Hail requests and the outcome of those requests (including pickup and drop-off locations specified by latitude and longitude), in a format and layout prescribed by the Commission.
-
-   (2) The E-Hail Application and its third party designee, if any, must be capable of automatically collecting and transmitting to the Technology System the Trip Data required below for all trips using E-Payment made during a shift.
-
-      (i) E-Hail Application License number;
-
-      (ii) Credit, debit, or pre-paid card type;
-
-      (iii) first two and last four digits of the credit, debit, or prepaid card used for paying fares; (iv) E-Hail service fee collected by the E-Hail Application Provider, if applicable
-
-      (v) itemized fare;
-
-      (vi) tip amount;
-
-      (vii) E-Hail account holder identifier (uniquely identifying the Driver in the E-Hail Application's system); and
-
-      (viii) the number of Passengers that payment of the fare was split among if the E-Hail Application permits the fare to be split.
-
-(d) Use Restrictions. An E-Hail Application must conform to the following use restrictions or other specifications:
-
-   (1) The E-Hail Application must not transmit requests for transportation or Hails to any Driver who is not validly licensed to drive a Taxicab or Street Hail Livery or who is operating a Vehicle that does not have a Valid Taxicab License, per the listings on TLC's Current Licensees webpage. 
-										
+   (1) The E-Hail Application must not transmit E-Hails to any Driver who is not validly licensed to drive a Taxicab or Street Hail Livery or who is operating a Vehicle that does not have a Valid Taxicab License or Street Hail Livery Permit, per the TLC's Current Licensees list published by the TLC.  
 
  
 
@@ -27936,7 +27898,7 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 78-21(d)(1)
+    * - 35 RCNY § 78-21(a)(1)
       - Penalty: $400 fine and/or suspension up to 30 days
       - Appearance Required
 ~
@@ -27945,19 +27907,111 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
  
 
-   (2) The E-Hail Application must be available to a Driver ONLY when the Vehicle is standing or stopped, except that an E-Hail App can permit a Driver to accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other use of the E-Hail Application must be velocity gated by the E-Hail App Provider to prevent its use while the vehicle is in motion.
+   (2) The E-Hail Application must be available to a Driver ONLY when the Vehicle is standing or stopped, except that an E-Hail Application can permit a Driver to accept an E-Hail request, cancel an E-Hail request, or indicate arrival at the pickup location with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other use of the E-Hail Application must be velocity gated by the E-Hail Application Provider to prevent its use while the vehicle is in motion.
 
-   (3) The E-Hail Application must NOT disclose to a Driver any information about a potential Passenger except the Passenger's pickup location, except that a Passenger's trip identification number or E-Hail App user name may be transmitted to the Driver after the Driver has accepted the Passenger's E-Hail request.
+   (3) The E-Hail Application may only disclose to a Driver a potential Passenger's pickup location, drop-off location, and fare estimate, except that a Passenger's trip identification number or E-Hail Application user name may be transmitted to the Driver after the Driver has accepted the Passenger's E-Hail request.
 
-   (4) A Driver must have to affirmatively opt in to use the E-Hail Application and must be able to opt out of receiving E-Hail requests from Passengers while on duty.
+   (4) The E-Hail Application must require a Driver to affirmatively opt in to use the E-Hail Application and must allow the Driver to opt out of receiving E-Hail requests from Passengers while on duty.
 
-(e) Wheelchair Accessibility. The E-Hail Application must make a wheelchair accessible option available to allow requesting Passengers to indicate that they would like a wheelchair accessible vehicle.
+   (5) The E-Hail Application must make a wheelchair accessible option available to allow Passengers to indicate that they would like a wheelchair accessible vehicle. The E-Hail Application must not dispatch a non-accessible vehicle to a Passenger that requested an accessible vehicle.
 
-   (1) E-Hail App Providers must not charge more for a wheelchair accessible E-Hail than for a non-wheelchair accessible E-Hail.
+(b) Dispatch and Pay (Optional). E-Hail Applications that allow Passengers to pay for an E-Hailed trip using their credit/debit card on file with the E-Hail Application are subject to the following:
 
-   (2) The E-Hail Application must check the Driver's training status before allowing a Driver to log into the E-Hail App using an Accessible Taxicab medallion number or Accessible Street Hail Livery permit number (per the listings on TLC's Current Licensees webpage). Drivers that have not completed the appropriate training specified by the Commission must not be able to log into the E-Hail App using an Accessible Taxicab medallion number or Accessible Street Hail Livery permit number.
+   (1) The E-Hail Application must not require a Passenger to pay a tip to the Driver.
 
-   (3) The E-Hail Application must be able to provide reporting to the TLC as to whether a particular request was for a wheelchair accessible vehicle.
+   (2) The E-Hail Application must transmit an accurate receipt in electronic form, including by being viewable in the Application, to the Passenger. The receipt must contain all the following information:
+
+      (i) All items required by 35 RCNY § 66-24(c)(9); and
+
+      (ii) Any fee paid by the Passenger to the E-Hail Application Provider if paid directly to such Provider, clearly identified. NOTE: 35 RCNY § 78-15(a) governs the payment of tips or gratuities.
+
+   (3) The E-Hail Application must receive the fare and Trip Data automatically from the Technology System or Taximeter and must not permit a Driver or any other person to enter any fare information manually. The E-Hail Application also must provide the Technology System Provider with the following:
+
+      (i) The credit card information necessary to process the transaction through the Technology System Provider's payment gateway and the amount to be charged for the transaction, including any tip and E-Hail service fee, if included in the amount to be charged;
+
+      (ii) Credit, debit, or prepaid card and payment information necessary to allow Technology System Providers to display total charges, including time-and-distance fares, tips, extras, surcharges, taxes, and any fees charged by the E-Hail Application Provider for use of the E-Hail Application on printed receipts, and allow submission to the Chairperson of a complete electronic trip record for the fare as further described in subdivision (e) of this section; and
+
+      (iii) The request identification number necessary to allow Technology System Providers to submit to the Chairperson the same unique identification submitted by the E-Hail Application Provider as further described in subdivision(d) of this section.
+
+   (4) The E-Hail Application must comply with all applicable PCI Standards. Credit, debit, and prepaid card information for electronic payments made through an E-Hail Application must not be stored locally on the electronic device on which the E-Hail Application being used resides, or locally on the Technology System (if applicable) after the credit, debit, or pre-paid card has been authorized or declined.
+
+   (5) The E-Hail Application must be capable of generating the following data:
+
+      (i) reasonably detailed data of individual and cumulative payment transactions (including sufficient detail to support daily and monthly reconciliations and to perform problem resolution);
+
+      (ii) if the payment is by credit, debit, or prepaid card, in addition to the information in subparagraph (i) above, the name of the credit, debit, or prepaid card, and the name of the credit card merchant engaged by the E-Hail Application Provider; and
+
+      (iii) data summarizing the number of fares, the total fare amount, and as applicable, the number of credit, debit, and prepaid card transactions and the total fares of such transactions;
+
+   (6) The data described in paragraph (5) of this subdivision and its component elements must be stored, maintained and accessible to the Commission and any designee as follows:
+
+      (i) In a standardized format and layout prescribed by the Commission that is open and non-proprietary; and
+
+      (ii) By secure file transfer protocol, transfer according to a format, layout, procedure, and frequency prescribed by the Commission.
+
+(c) Hail and Pay (Optional). E-Hail Applications that allow Passengers to pay for a Street-Hailed trip using their credit/debit card on file with the E-Hail Application are subject to the following:
+
+   (1) The E-Hail Application must comply with requirements as set forth in subdivision (b)(1) through (6) of this section.
+
+   (2) The E-Hail Application must integrate with all licensed Technology Systems to allow Passengers to Pair to any and all Taxicabs and Street Hail Liveries.
+
+      (i) Within 5 days of licensure the E-Hail Application Provider must notify all licensed Technology System Providers that it intends to provide Hail and Pay.
+
+      (ii) Pursuant to 35 RCNY § 66-24(e)(1), the Technology System Provider will respond within 5 days and either direct the E-Hail Application Provider to begin necessary development work, or request the documentation listed below to do the work itself.
+
+         (A) Integration by the Technology System Provider.
+
+            •   If requested by the Technology System Provider, the E-Hail Application Provider must submit, within 5 days, all information on the design and inner operation of the E-Hail Application that is necessary for the Technology System Provider to establish an interface and communication of data between the Technology System and the E-Hail Application. The submitted information must include, but is not limited to a live application programming interface (API) providing all functions described in 35 RCNY § 66-24(d)(2), a test environment for said API, and a simulator.
+
+         (B) Integration by E-Hail Application Provider.
+
+            •   When supplied by the Technology System Provider with all information stated in item (A) of this subparagraph on the design and inner operation of the Technology System that is necessary for the E-hail Application Provider to establish an interface and communication of data between the TSP and the E-hail Application, then the E-Hail Application Provider must complete integration within 90 days.
+
+   (3) Separate Violations. Each failure on the part of an E-Hail Application Provider to cooperate with a licensed Technology System Provider for the purpose of maintaining an API as provided in paragraph (1) of this subdivision will constitute a separate violation of this rule.
+
+(d) Public API. The E-Hail Application Provider must maintain an application programming interface (API) that includes but is not limited to the following functionalities:
+
+   (1) Dispatching.
+
+      (i) For any Driver that has accepted an E-Hail or dispatch from an E-Hail Application Provider or the Accessible Taxi Dispatcher, provide:
+
+         (A) a cancel event if the Passenger cancels or retracts his or her E-Hail or dispatch; and
+
+         (B) a unique E-Hail request identification number;
+
+   (2) E-Payment.
+
+      (i) Receive from the E-Hail Application Provider or Accessible Taxi Dispatcher access to itemized fare data including time-and-distance fare, tolls, surcharges, extras, and taxes from the Technology System and Taximeter, in real time, when the trip has been completed and the Driver has disengaged the Taximeter;
+
+      (ii) Provide to the E-Hail Application Provider or Accessible Taxi Dispatcher a confirmation that electronic credit card payment for the total fare amount has been successfully processed; and
+
+      (iii) Provide relevant payment information to the E-Hail Application Provider or Accessible Taxi Dispatcher to the extent necessary to display the total charges, including E-Hail service fee and tip (if applicable) on the receipt and collect and transmit Trip Data.
+
+(e) Trip Data Collection and Transmission. An E-Hail Application and its third party designee, if any, must be capable of automatically collecting and transmitting E-Hail request data and Trip Data as described below.
+
+   (1) The E-Hail Application and its third part designee, if any, must be capable of automatically collecting and transmitting to the Commission data on all E-Hail requests and the outcome of those requests (including pickup and drop-off locations specified by latitude and longitude), in a format and layout prescribed by the Commission.
+
+   (2) The E-Hail Application must be able to provide reporting to the TLC as to whether a passenger request was for a wheelchair accessible vehicle.
+
+   (3) The E-Hail Application and its third party designee, if any, must be capable of automatically collecting and transmitting to the Technology System the Trip Data required below for all trips using E-Payment.
+
+      (i) E-Hail Application License number;
+
+      (ii) Credit, debit, or pre-paid card type;
+
+      (iii) first two and last four digits of the credit, debit, or prepaid card used for paying fares;
+
+      (iv) E-Hail service fee collected by the E-Hail Application Provider, if applicable;
+
+      (v) itemized fare;
+
+      (vi) tip amount;
+
+      (vii) E-Hail account holder identifier (uniquely identifying the Driver in the E-Hail Application's system);
+
+      (viii) the number of Passengers that payment of the fare was split among if the E-Hail Application permits the fare to be split; and
+
+      (ix) a unique identification number assigned to each E-Hail request made by a Passenger in the E-Hail Application.
 
 (f) Security.
 
@@ -28916,7 +28970,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-(5) A Driver must cooperate with all dispatchers at public transportation terminals and at authorized group-ride Taxicab lines
+(5) A Driver must cooperate with all dispatchers at public transportation terminals.
 
  
 
@@ -30029,7 +30083,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-   (4) A Driver of a Taxicab or Street Hail Livery must not collect or attempt to collect separate fares from individual Passengers who have shared a Taxicab or Street Hail Livery for part or all of a trip unless such fares are specifically authorized as part of a Group Riding program established by the Commission.
+   (4) A Driver must give the correct change to a Passenger who has paid the fare.
 
  
 
@@ -30046,7 +30100,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-   (5) A Driver must give the correct change to a Passenger who has paid the fare.
+   (5) A Driver must not ask a Passenger for a tip or indicate that a tip is expected or required.
 
  
 
@@ -30055,23 +30109,6 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
     :header-rows: 1
 
     * - 35 RCNY § 80-17(a)(5)
-      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.Points: 2
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-   (6) A Driver must not ask a Passenger for a tip or indicate that a tip is expected or required.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 80-17(a)(6)
       - Fine: $50
       - Appearance NOT REQUIRED
 ~
@@ -30501,7 +30538,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 (a) Limits on Driver Solicitation of Passengers in Taxicabs.
 
-   (1) A Driver of a Taxicab must not use a person, other than a dispatcher at an authorized Group Ride taxi line, licensed E-Hail Application, or an Accessible Vehicle dispatcher, to solicit Passengers. Use of any licensed E-Hail Application by the Driver is optional.
+   (1) A Driver of a Taxicab must not use a person, other than a dispatcher at a public transportation terminal, licensed E-Hail Application, or an Accessible Vehicle dispatcher, to solicit Passengers. Use of any licensed E-Hail Application by the Driver is optional.
 
  
 
@@ -30644,7 +30681,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-      (iii) A Driver of a Street Hail Livery must not use a person, other than a dispatcher at an authorized Group Ride taxi line, licensed E-Hail Application, an Accessible Vehicle dispatcher, or a Street Hail Livery Base, to solicit Passengers. Use of any licensed E-Hail Application by the Driver is optional.
+      (iii) A Driver of a Street Hail Livery must not use a person, other than a dispatcher at a public transportation terminal, licensed E-Hail Application, an Accessible Vehicle dispatcher, or a Street Hail Livery Base, to solicit Passengers. Use of any licensed E-Hail Application by the Driver is optional.
 
  
 
@@ -33391,7 +33428,8 @@ Chapter 82: Street Hail Livery Service
 
  
 
-   (3) Failure to Report Bribery. A Licensee must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant or dispatcher employed at a public transportation facility or authorized group-ride taxi line. 
+   (3) Failure to Report Bribery. A Licensee must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant or dispatcher employed at a public transportation facility. 
+										
 
  
 
@@ -34316,23 +34354,7 @@ Chapter 82: Street Hail Livery Service
 
    (3) Chairperson's Right to Suspend this Provision. The Chairperson is authorized to suspend the enforcement of this provision at any time, if in the judgment of the Chairperson such a suspension is necessary to preserve adequate levels of service to and from Kennedy Airport.
 
-(c) Group Ride Fares and Multiple Passenger Service1-71 Group Rides.
-
-   (1) Experimental Group Ride Programs.
-
-      (i) Additional Pickup Locations. The Chairperson can recommend for Commission approval Group Riding plan pickup locations on a temporary basis, to determine the effectiveness of each Group Riding plan. Provided, however, that no such plan shall allow pickups by Street Hail Liveries in the Hail Exclusionary Zone or the Prearranged Exclusionary Zone.
-
-      (ii) Demand-Driven Temporary Group Riding Plans. The Chairperson can also recommend for Commission approval Group Riding plans on a temporary basis to respond to demand created by special events or unique circumstances. Provided, however, that no such plan shall allow pickups by Street Hail Liveries in the Hail Exclusionary Zone or the Prearranged Exclusionary Zone.
-
-      (iii) Duration. Any Group Ride plan established by the Commission under this subdivision will terminate one year after the date the plan was established, unless:
-
-         A. Final rulemaking has been enacted establishing the Group Riding plan location and rate of fare; or
-
-         B. The Commission has determined that it is in the best interest of the Commission to extend the Group Riding plan pilot program for an additional definite period of time not to exceed one year.
-
-      (iv) Termination. The Commission can discontinue any Group Riding plan that has not been the subject of final rulemaking upon a determination that continuation of the plan is not in the best interest of the public.
-
-(d) Trips Beyond the City that are Hail Trips.
+(c) Trips Beyond the City that are Hail Trips.
 
    (1) For a trip beyond the limits of the City of New York, except for Westchester or Nassau County, or Newark Airport, the fare will be a Flat Rate. The MTA Tax must be added to the Flat Rate for any trip that starts in New York City and ends in any of the following:
 
@@ -34366,11 +34388,11 @@ Chapter 82: Street Hail Livery Service
 
    (4) Any continuous trip where the point of origin and the destination are both within the limits of the City of New York will not be considered a trip beyond the City limits, even though the shortest and most direct route requires traveling outside the City limits but within contiguous counties. The Taximeter must be kept in the recording position throughout the trip.
 
-(e) Rates of Fare for Pre-Arranged Trips.
+(d) Rates of Fare for Pre-Arranged Trips.
 
    (1) Rates Must Not Exceed Scheduled Rates. A Street Hail Livery Licensee or Driver must not quote or charge a fare on a pre-arranged trip that is more than the fare listed in the Rate Schedule filed with the Commission.
 
-(f) No Charge for Luggage or Mobility Aids. There will be no charge for:
+(e) No Charge for Luggage or Mobility Aids. There will be no charge for:
 
    (1) Steamer trunks or other luggage or belongings;
 
@@ -34378,7 +34400,7 @@ Chapter 82: Street Hail Livery Service
 
    (3) Use of the Vehicle's trunk.
 
-(g) Tolls – How Tolls are Paid.
+(f) Tolls – How Tolls are Paid.
 
    (1) All Street Hail Liveries must be equipped with a New York MTA Bridges &amp; Tunnels EZ-Pass®. (See 35 RCNY § 82-27)
 
@@ -34388,7 +34410,7 @@ Chapter 82: Street Hail Livery Service
 
    (4) Drivers must collect the proper toll amount from the passenger and forward it to the holder of the EZ-Pass® tag.
 
-(h) Tolls – What Tolls are Paid by Passenger.
+(g) Tolls – What Tolls are Paid by Passenger.
 
    (1) On all trips within the City of New York, the passenger must pay:
 
@@ -34406,7 +34428,7 @@ Chapter 82: Street Hail Livery Service
 
       (i) Beginning on January 1, 2015, the Street Hail Livery Improvement Surcharge must be collected in addition to any fare charged under subdivisions (b) through (d) of this Section.
 
-(j) E-Payments.
+(h) E-Payments.
 
    (1) The payment for the fare for any trip paid for using an E-Payment must not exceed Commission-approved rates.
 
@@ -34422,7 +34444,7 @@ Chapter 82: Street Hail Livery Service
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 82-26(j)
+    * - 35 RCNY § 82-26(h)
       - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
       - Appearance NOT Required
 ~

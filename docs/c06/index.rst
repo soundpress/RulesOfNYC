@@ -1018,7 +1018,7 @@ Worker decontamination enclosure system. "Worker decontamination enclosure syste
 
 (d) In addition to the project record required in subdivision (a), the air monitoring company must maintain, for at least thirty (30) years after the end of the project, a project summary for each asbestos project in which the company engages. These records may be maintained in an electronic recordkeeping system instead of in paper form. The project summary must consist of the following:
 
-   (1) The DEP certificate number of all individuals who worked on the project;
+   (1) The DEP certificate number of all air monitoring technicians who worked on the project;
 
    (2) The location and general description of the project;
 
@@ -1067,7 +1067,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 
    (4) Only persons certified by the Department as asbestos investigators or by New York State Department of Labor as Asbestos Inspectors may select and collect bulk samples for analysis.
 
-(b) One air sampling technician must be present per three work areas in one work site to observe and maintain air sampling equipment for the duration of the air sample collection.
+(b) One air sampling technician must be present per three work areas in one work site to observe and maintain air sampling equipment for the duration of the air sample collection, except that if there are multiple work areas on the same floor, only one air sampling technician is required for that floor.
 
 (c) Bulk sample analysis (PLM or gravimetric reduction and TEM analysis) shall be performed by laboratories with the appropriate accreditation in the ELAP.
 
@@ -1430,7 +1430,7 @@ Note: TEM is acceptable wherever PCM is required.
 
 Monitoring requirements and procedures for other than post-abatement clearance air monitoring are as follows:
 
-(a) The sampling zone for indoor air samples shall be representative of the building occupants' breathing zone. However, at no time shall the sampling cassette be placed less than 4 feet from the ground. Air samplers shall be placed so that they are not influenced by unusual air circulation patterns or by the configuration of the space or by each other. Air sampling cassettes shall be mounted upon commercially-available aluminum tripods and shall not be placed within two feet of walls or obstructions such as the corners of rooms or furniture.
+(a) The sampling zone for air samples shall be representative of the building occupants' breathing zone. However, at no time shall the sampling cassette be placed less than 4 feet from the ground. Air samplers shall be placed so that they are not influenced by unusual air circulation patterns or by the configuration of the space or by each other. Air sampling cassettes shall be mounted upon commercially-available aluminum tripods and shall not be placed within two feet of walls or obstructions such as the corners of rooms or furniture.
 
 (b) If possible, ambient samplers should be placed about 6 feet above the ground surface in reasonable proximity to the building and away from obstructions and drafts that may unduly affect airflow. For outdoor samples, if access to electricity and concerns about security dictate a rooftop site, locations near vents and other structures on the roof which would unduly affect airflow shall be avoided.
 
@@ -1463,6 +1463,8 @@ Monitoring requirements and procedures for other than post-abatement clearance a
  
 
 (e) For small projects including tent procedures, sampling shall start with the installation of the containment and shall run concurrently with the procedure.
+
+
 
 
 
@@ -1715,7 +1717,7 @@ In addition to 15 RCNY §§ 1-01 through 1-61, the following 15 RCNY §§ 1-81 t
 
 The following procedures shall be followed during the conduct of abatement activities on asbestos projects. The procedures set forth in this subdivision shall be performed in the order set forth below:
 
-(a) The building owner or designated representative must provide notification to all occupants of the work place and immediate adjacent areas of the asbestos project. Information provided in the notification must include contractor, project location and size, amount and type of ACM, abatement procedure, dates of expected occurrence and the Call Center "311" for government information and services. Postings of this notification must be in English and Spanish, at eye level, in a conspicuous, well-lit place, at the entrances to the work place and immediate adjacent areas. The notice must have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of two inch sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of one inch size. The notices must be posted 7 calendar days prior to the start of the project and must remain posted until clearance air monitoring is satisfactorily concluded. A lessee initiating an asbestos project must give 10 calendar days notice to the owner of the subject building.
+(a) The building owner or designated representative must provide notification to all occupants of the work place and immediate adjacent areas of the asbestos project. Information provided in the notification must include contractor, project location and size, amount and type of ACM, abatement procedure, dates of expected occurrence and the Call Center "311" for government information and services. Postings of this notification must be in English and Spanish, at eye level, in a conspicuous, well-lit place, at the entrances to the work place and immediate adjacent areas. The notice must have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of one inch sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of one quarter inch size. The notices must be posted 7 calendar days prior to the start of the project and must remain posted until clearance air monitoring is satisfactorily concluded. A lessee initiating an asbestos project must give 10 calendar days notice to the owner of the subject building.
 
 (b) A floor plan showing the areas of the building under abatement and the location of all fire exits in said areas shall be prominently posted in the building lobby or comparable location, along with a notice stating the location within the building of the negative air cutoff switch required under 15 RCNY § 1-91(f), if applicable.
 
@@ -2556,7 +2558,7 @@ The following regulations shall apply to pre-demolition abatement activities:
 
 The following work area preparation shall be followed during the conduct of pre-demolition abatement activities:
 
-(a) Prior to the start of abatement activities on asbestos projects the building owner or designated representative must post a general notification at all main entrances to the structure. Postings of this notification must be in English and Spanish, at eye level in a conspicuous well-lit place that can be viewed by the public without obstruction. Information provided in the notification must include contractor, project location, that the project is regulated by NYC DEP, and the Call Center "311" for government information and services. The notice must have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of 2 inches sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of 1 inch size. The notification must be posted throughout all abatement activities.
+(a) Prior to the start of abatement activities on asbestos projects the building owner or designated representative must post a general notification at all main entrances to the structure. Postings of this notification must be in English and Spanish, at eye level in a conspicuous well-lit place that can be viewed by the public without obstruction. Information provided in the notification must include contractor, project location, that the project is regulated by NYC DEP, and the Call Center "311" for government information and services. The notice must have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of one inch sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of one quarter inch size. The notification must be posted throughout all abatement activities.
 
 (b) The building shall be vacated prior to the start of abatement activities.
 

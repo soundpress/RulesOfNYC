@@ -1352,7 +1352,7 @@ Chapter 5: Handgun Licenses
 
 As used in this chapter, the term "handgun" shall mean a pistol or revolver. This section contains a description of the various types of handgun licenses issued by the Police Department. 38 RCNY § 5-09 contains a description of the procedure for obtaining an exemption from New York State Penal Law Article 265, allowing pre-license possession of a handgun for the purpose of possessing and using a handgun for instructional purposes with a certified instructor in small arms at an authorized small arms range/shooting club.
 
-(a) Premises License – Residence or Business. This is a restricted handgun license, issued for a specific business or residence location. The handgun shall be safeguarded at the specific address indicated on the license, except when the licensee transports or possesses such handgun consistent with these Rules.
+(a) Premises License – Residence or Business. This is a restricted handgun license, issued for a specific business or residence location. The handgun shall be safeguarded at the specific address indicated on the license, except when the licensee transports or possesses such handgun consistent with these Rules.*
 
 (b) Carry Business License. This is an unrestricted class of license which permits the carrying of a handgun concealed on the person. In the event that an applicant is not found by the License Division to be qualified for a Carry Business License, the License Division, based on its investigation of the applicant, may offer a Limited Carry Business License or a Business Premises License to an applicant.
 
@@ -1367,6 +1367,8 @@ As used in this chapter, the term "handgun" shall mean a pistol or revolver. Thi
    (2) Special Carry Guard License/Gun Custodian License. These are restricted types of special licenses that permit the carrying of a concealed handgun on the person only when the licensee is actually engaged in the performance of her/his duties as a security guard or gun custodian.
 
 
+
+* Editor's note: See note to 38 RCNY § 5-23.
 
 
 
@@ -1704,7 +1706,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-23 Types of Handgun Licenses.* ::
+*§ 5-23 Types of Handgun Licenses.** ::
 
 
 (a) Premises License – Residence or Business. This is a restricted handgun license, issued for the protection of a business or residence premises.
@@ -1740,6 +1742,8 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
    (2) Special Carry Guard License/Gun Custodian License. These are restricted types of Special Carry Licenses. The handgun listed on the license may only be carried concealed on the licensee's person while the licensee is actively on duty and engaged in the work assignment which formed the basis for the issuance of the license. The licensee may only transport the handgun concealed on her/his person when travelling directly to and from home to a work assignment.
 
 
+
+* Editor's note: In addition to the transport provisions in these Rules, Chapter 104 of the Laws of 2019 enacted an amendment to subdivision 6 of section 400.00 of the New York State Penal Law, authorizing transport of a handgun by a business or residence premises licensee directly to or from specified locations, subject to limitations set forth in that subdivision.
 
 
 
@@ -4209,9 +4213,11 @@ This chapter shall apply to all persons who transport or deliver one or more wea
 
 (b) the shipment or delivery of five (5) or fewer weapons from one licensed weapons dealer located in New York City directly to another licensed weapons dealer located in New York City. However, the manner of storage of such weapons during their transportation shall be in compliance with 38 RCNY § 16-05.
 
-(c) transport pursuant to 38 RCNY § 5-23(a)(3), (4), (5), or (6)
+(c) transport pursuant to 38 RCNY § 5-23(a)(3), (4), (5), or (6).*
 
 
+
+* Editor's note: See note to 38 RCNY § 5-23.
 
 
 

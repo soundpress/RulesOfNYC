@@ -1507,7 +1507,7 @@ After a domestic partnership has been registered by the City Clerk, such record 
 
 
 
-*§ 4-09 Domestic partnership ceremony.* ::
+*§ 4-09 Domestic Partnership Ceremony.* ::
 
 
 (a)  Upon receipt of the applicable fee and subsequent to the registration of the domestic partnership, the City Clerk or an emloyee of the City Clerk designated for such purpose shall, upon request, conduct a ceremony in the City Clerk chapel to recognize the formation of a domestic partnership.
