@@ -773,7 +773,7 @@ In the case of area transfer of development rights or floor area bonus, the fee 
 
    (3) The fee for a follow up action under the Zoning Resolution, or a restrictive declaration or other legal instrument shall be one-quarter of the amount prescribed in this Schedule of Charges for an initial application.
 
-   (4) The fee for the renewal of a previously approved enclosed sidewalk cafe shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
+   (4) The fee for the renewal of a previously approved enclosed sidewalk café shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
 
    (5) The fee for the renewal pursuant to § 11-43 of the Zoning Resolution of a previously approved special permit or authorization which has not lapsed shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
 

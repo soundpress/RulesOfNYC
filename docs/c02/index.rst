@@ -39,7 +39,7 @@ Chapter 1: Administration
 
    (3) Conditions or facilities lawfully existing prior to July 1, 2008 that were not pre-existing facilities but become pre-existing facilities as a result of subsequent Fire Code amendments. Any condition or facility which was lawfully existing on June 30, 2008, and which was allowed or approved under the Fire Code may become a pre-existing facility by a Fire Code amendment or rule that no longer allows or authorizes approval of the condition or facility. For example:
 
-      (A) An existing underground liquid motor fuel storage tank designed and installed after April 2000 pursuant to provisions of Subchapters 8, 9 and 11 of the New York City Fire Prevention Code and former 3 RCNY § 21-20 that are substantively identical to the provisions of the Fire Code and the rules, was not a pre-existing facility within the meaning of former FC 102.3 and this section and was required to comply with the applicable provisions of the Fire Code and the rules. However, effective March 30, 2014, the Fire Code's design and installation requirements for underground liquid motor fuel storage and dispensing systems were amended. As a result, an underground liquid motor fuel storage tank designed and installed in accordance with these former Fire Prevention Code and rule provisions would not be allowed or approved under the Fire Code. Accordingly, such an underground liquid motor fuel storage tank, which was not previously a pre-existing facility, became a pre-existing facility pursuant to FC 102.3 and 102.4 on March 30, 2014, provided that, on March 29, 2014, its design and installation remained in compliance with the design and installation requirements under which it was originally approved or allowed.
+      (A) An existing underground liquid motor fuel storage tank designed and installed after April 2000 pursuant to provisions of Subchapters 8, 9 and 11 of the New York City Fire Prevention Code and former rule § 21-20 that are substantively identical to the provisions of the Fire Code and the rules, was not a pre-existing facility within the meaning of former FC 102.3 and this section and was required to comply with the applicable provisions of the Fire Code and the rules. However, effective March 30, 2014, the Fire Code's design and installation requirements for underground liquid motor fuel storage and dispensing systems were amended. As a result, an underground liquid motor fuel storage tank designed and installed in accordance with these former Fire Prevention Code and rule provisions would not be allowed or approved under the Fire Code. Accordingly, such an underground liquid motor fuel storage tank, which was not previously a pre-existing facility, became a pre-existing facility pursuant to FC 102.3 and 102.4 on March 30, 2014, provided that, on March 29, 2014, its design and installation remained in compliance with the design and installation requirements under which it was originally approved or allowed.
 
    (4) Conditions or facilities designed or installed under the Fire Code  that are pre-existing facilities. Any condition or facility designed and installed on or after July 1, 2008, pursuant to provisions of the Fire Code, or which was not regulated by the Fire Code between July 1, 2008 and the date of a Fire Code amendment, may be a pre-existing facility if the condition or facility was lawfully existing on the day prior to the effective date of an amendment of the Fire Code. For example:
 
@@ -1808,7 +1808,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (B) Fire Code construction site provisions (FC Chapter 14 and 3 RCNY Chapter 14).
 
-      (C) All construction site fire safety requirements, as set forth in 3 RCNY § 1401-01(c).
+      (C) All construction site fire safety requirements, as set forth in R1401-01(c).
 
 (d) Course Administration and Completion.
 
@@ -3410,7 +3410,7 @@ Chapter 5: Fire Operations Features
 .. list-table::
     :header-rows: 1
 
-    * - 3 RCNY § 511-01Table 1Commissioning Test and Periodic Maintenance Requirements for In-Building Auxiliary Radio Communication Systems
+    * - R511-01Table 1Commissioning Test and Periodic Maintenance Requirements for In-Building Auxiliary Radio Communication Systems
     * - ARC System Component/System Malfunction
     * - Dedicated Radio Console
     * - Control unit
@@ -3469,7 +3469,8 @@ Chapter 6: Building Services and Systems
 
    (2) Alteration of ammonia refrigerating systems shall be performed in accordance with applicable provisions of the Construction Codes. 
 
-   (3) Operators of ammonia refrigerating systems containing 500 or more pounds of ammonia shall develop and maintain a risk management plan in compliance with Administrative Code § 24-718 and Department of Environmental Protection rules, as set forth in 15 RCNY Chapter 41. In accordance with those provisions, the risk management plan shall address whether the written procedure required by 6 RCNY § 606-01
+   (3) Operators of ammonia refrigerating systems containing 500 or more pounds of ammonia shall develop and maintain a risk management plan in compliance with Administrative Code § 24-718 and Department of Environmental Protection rules, as set forth in 15 RCNY Chapter 41
+										. In accordance with those provisions, the risk management plan shall address whether the written procedure required by R606-01
 										(d)(2) for manual removal of lubricating oil mitigates the risk of accidental refrigerant release. 
 
 (c) Supervision Requirements.
@@ -3478,15 +3479,15 @@ Chapter 6: Building Services and Systems
 
    (2) Lubricating oil removal operations. 
 
-      (A) Automatic removal system. An ammonia refrigerating system equipped to remove lubricating oil from system piping and equipment by means of a rigid-piped automatic oil return or transfer system does not require manual removal of lubricating oil. If for any reason lubricating oil is manually removed from such a system, the removal process shall be conducted in accordance with 6 RCNY § 606-01
+      (A) Automatic removal system. An ammonia refrigerating system equipped to remove lubricating oil from system piping and equipment by means of a rigid-piped automatic oil return or transfer system does not require manual removal of lubricating oil. If for any reason lubricating oil is manually removed from such a system, the removal process shall be conducted in accordance with R606-01
 										(c)(2)(B) and (d)(2). 
 
       (B) Manual removal from system. The manual removal of lubricating oil from an ammonia refrigerating system that allows such oil to collect in system piping and equipment outside of the compressor shall be conducted in accordance with the following procedures: 
 
-         (1) If the ammonia refrigerating system is equipped with dual shut-off valves in series, the second valve in the direction of flow from the system is a self-closing valve that closes upon release of manual pressure or other approved automatic shut-off device, and the oil is removed from the system through such valves, the oil removal process shall be personally conducted by at least one certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01
+         (1) If the ammonia refrigerating system is equipped with dual shut-off valves in series, the second valve in the direction of flow from the system is a self-closing valve that closes upon release of manual pressure or other approved automatic shut-off device, and the oil is removed from the system through such valves, the oil removal process shall be personally conducted by at least one certificate of qualification holder who has been trained in the written oil removal procedure required by R606-01
 										(d)(2). Absent an imminent threat to life or safety, such certificate of qualification holder shall not leave the removal process unattended while it is ongoing. 
 
-         (2) If the ammonia refrigerating system is not equipped with such dual shut-off valves, the oil removal process shall be personally conducted by a certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01
+         (2) If the ammonia refrigerating system is not equipped with such dual shut-off valves, the oil removal process shall be personally conducted by a certificate of qualification holder who has been trained in the written oil removal procedure required by R606-01
 										(d)(2). A second certificate of qualification holder trained in such procedure shall monitor the oil removal process from a location in direct line of sight of the removal process, with ready access to a means of egress to the outdoors. Absent an imminent threat to life or safety, neither certificate of qualification holder may leave the oil removal process unattended while it is ongoing. 
 
 (d) Operational Requirements.
@@ -3499,10 +3500,10 @@ Chapter 6: Building Services and Systems
 
       (B) Each certificate of qualification holder participating in the oil removal process shall be provided with and use all safety and personal protective equipment required to safely conduct such process, including equipment required by United States Occupational Safety and Health Administration regulations; and 
 
-      (C) If a single certificate of qualification holder is required by 6 RCNY § 606-01
+      (C) If a single certificate of qualification holder is required by R606-01
 										(c)(2), a telephone not requiring a coin to operate shall be immediately available to ensure immediate notification to the Department in the event of an emergency; or 
 
-      (D) If two (2) certificate of qualification holders are required by 6 RCNY § 606-01
+      (D) If two (2) certificate of qualification holders are required by R606-01
 										(c)(2): 
 
          (1) each certificate of qualification holder shall be equipped with a portable two-way radio or other approved means of communication between the two, and a telephone not requiring a coin to operate shall be immediately available to the certificate of qualification holder monitoring the oil removal process to ensure immediate notification to the Department in the event of an emergency. In the event of an emergency, the certificate of qualification holder monitoring the oil removal process shall make the required notification to the Department prior to rendering assistance; 
@@ -3511,16 +3512,686 @@ Chapter 6: Building Services and Systems
 
          (3) notification shall be made to the Department not less than one (1) hour but not more than two (2) hours prior to commencement of the oil removal process.
 
-(e) Recordkeeping Requirements. 
+(e) Recordkeeping Requirements.
 
-   (1) A certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the periodic servicing of such refrigerating system and all removals of lubricating oil from such refrigerating system, by making appropriate entries in the refrigerating system operator logbook required by FC606.1.3. Such entries shall include the names and company affiliations of the persons who serviced the system; the names and certificate of qualification numbers of the certificate of qualification holders who conducted and/or monitored the oil removal process; and any notifications to the Department pursuant to 6 RCNY § 606-01
+   (1) A certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the periodic servicing of such refrigerating system and all removals of lubricating oil from such refrigerating system, by making appropriate entries in the refrigerating system operator logbook required by FC606.1.3. Such entries shall include the names and company affiliations of the persons who serviced the system; the names and certificate of qualification numbers of the certificate of qualification holders who conducted and/or monitored the oil removal process; and any notifications to the Department pursuant to R606-01
 										(d)(2)(D)(3). 
 
    (2) The certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the training of all persons involved in the manual removal of lubricating oil from such system. 
 
    (3) Such records shall be maintained in accordance with FC107.7. 
 
+ 
 
+
+
+
+
+
+*§ 608-01 Outdoor Stationary Storage Battery Systems.* ::
+
+
+(a) Scope. This section governs the design, installation, operation and maintenance of outdoor stationary storage battery systems for all energy storage uses, including stationary storage battery systems installed on a mobile trailer (or other form of mobile installation). This section does not govern the design, installation, operation and maintenance of:
+
+   (1) indoor stationary storage battery systems;
+
+   (2) stationary storage battery systems specifically designed and used for an emergency, standby or uninterruptible power supply; and
+
+   (3) outdoor stationary storage battery systems with an aggregate rated energy capacity of not more than 250 kWh that are a component of individual motor vehicle charging stations and used for the purpose of motor vehicle charging.
+
+(b) Definitions. The following terms shall, for purposes of this section and as used elsewhere in the rules, have the meanings shown herein:
+
+   Flow battery. A storage battery that stores and generates an electrical current by ion exchange through a membrane separating liquid electrolytes.
+
+   Lead acid battery. A storage battery that is comprised of lead electrodes immersed in sulfuric acid electrolyte, including vented (flooded) or valve regulated lead acid (VRLA) batteries, as those terms are defined in FC602.1.
+
+   Lithium-ion (Li-ion) battery. A lithium-ion battery, as that term is defined in FC602.1.
+
+   Nickel cadmium (Ni-Cd) battery. A nickel cadmium battery, as that term is defined in FC602.1.
+
+   Nickel metal hydride (NiMH) battery. An alkaline storage battery in which the positive active material is nickel oxide, the negative active material is a hydrogen-absorbing alloy, and the electrolyte is potassium hydroxide.
+
+   Stationary storage battery system. A rechargeable electrochemical energy storage system, consisting of one or more interconnected storage batteries, inverters and other electrical equipment, designed as a stationary installation (or mounted to a trailer for mobile use) to provide electrical power. Stationary storage battery systems typically include associated fire protection, explosion mitigation, ventilation and/or exhaust systems.
+
+   Storage battery unit. A storage battery system in the configuration in which it was tested and listed to Underwriters Laboratories Standard 9540 , including any cabinet or other enclosure.
+
+(c) General Provisions.
+
+   (1) Applicability. This section supplements FC608 by addressing stationary storage battery systems that are installed outdoors for energy storage uses. Rooftop installations are deemed outdoor installations solely for purposes of this section. The design and installation of stationary storage battery systems shall also comply with the requirements of the Department of Buildings.
+
+   (2) Battery system size thresholds. Stationary storage battery systems are classified by size as small, medium or large for each type of battery technology, as set forth in Table 1 of this section. The size of the stationary storage battery system is based on the energy storage/generating capacity of such system, as rated by the manufacturer, and includes any and all storage battery units operating as a single system. Table 1 is not applicable to multiple battery systems operating independently at a single premises, which are subject to R608-01(c)(9).
+
+Table 1Stationary Storage Battery System Size Thresholds
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Battery Technology
+      - Aggregate Rated Energy Capacity
+      - 
+      - 
+    * - Small
+      - Medium
+      - Large
+      - 
+    * - Lead Acid Battery
+      - &gt;2 kWh and =70 kWh
+      - &gt;70 kWh and = 500 kWh
+      - &gt; 500 kWh
+    * - Ni-Cd Battery
+      - &gt;2 kWh and =70 kWh
+      - &gt;70 kWh and = 500 kWh
+      - &gt; 500 kWh
+    * - NiMH Battery
+      - &gt;2 kWh and =70 kWh
+      - &gt;70 kWh and = 500 kWh
+      - &gt; 500 kWh
+    * - Li-ion Battery
+      - &gt;2 kWh and =20 kWh
+      - &gt;20 kWh and = 250 kWh
+      - &gt; 250 kWh
+    * - Flow Battery
+      - &gt;2 kWh and =20 kWh
+      - &gt;20 kWh and = 500 kWh
+      - &gt; 500 kWh
+~
+
+
+
+ 
+
+   (3) Battery system compliance requirements. Stationary storage battery systems shall comply with all requirements of this section applicable to the type of installation, as specified in Table 2.
+
+Table 2Stationary Storage Battery System Compliance Requirements
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section
+      - Compliance Requirement
+      - Small
+      - Medium
+      - Large
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - (c)
+      - General Provisions
+      - 
+      - 
+      - 
+    * - (c)(4)
+      - Permit
+      - No
+      - Yes
+      - Yes
+    * - (c)(5)
+      - Supervision (Certificate of Fitness)
+      - Yes
+      - Yes
+      - Yes
+    * - (c)(6)
+      - Obligations of Owner and Operator
+      - Yes
+      - Yes
+      - Yes
+    * - (c)(7)
+      - Listing and Full-Scale Testing Standards
+      - 
+      - 
+      - 
+    * - (c)(7)(A)
+      -  ∙Listing
+      - 
+      - 
+      - 
+    * - 
+      - o   Lead Acid Battery
+      - Yes
+      - Yes
+      - Yes
+    * - 
+      - o   Ni-Cd or NiMH Battery
+      - Yes
+      - Yes
+      - Yes
+    * - 
+      - o   Li-Ion Battery
+      - Yes
+      - Yes
+      - Yes
+    * - 
+      - o   Flow Battery
+      - Yes
+      - Yes
+      - Yes
+    * - (c)(7)(B)
+      -  ∙Full-Scale Testing
+      - 
+      - 
+      - 
+    * - 
+      - o   Lead Acid Battery
+      - No
+      - No
+      - No g
+    * - 
+      - o   Ni-Cd Battery
+      - No
+      - No
+      - No g
+    * - 
+      - o   NiMH Battery
+      - No
+      - No
+      - No g
+    * - 
+      - o   Li-Ion Battery
+      - Yes
+      - Yes
+      - Yes
+    * - 
+      - o   Flow Battery
+      - No
+      - No
+      - No g
+    * - (c)(8)
+      -  ∙Manufacturer’s Requirements
+      - Yes
+      - Yes
+      - Yes
+    * - (c)(9)
+      -  ∙ Multiple Battery System Approval
+      - No a
+      - Yes
+      - Yes
+    * - (c)(10)
+      -  ∙ Mobile Battery Systems/Equipment Approval
+      - Yes b
+      - Yes b
+      - Yes b
+    * - (d)
+      -  ∙ Equipment Approval
+      - Yes b
+      - Yes b
+      - Yes b,h
+    * - (e)
+      -  ∙Installation Approval
+      - No
+      - No f
+      - Yes
+    * - (f)
+      -  ∙Commissioning and Decommissioning
+      - No c
+      - 
+      - Yes
+    * - (g)
+      - General Design and Installation Requirements
+      - 
+      - 
+      - 
+    * - (g)(1)
+      -  ∙Location and Construction
+      - Yes
+      - Yes
+      - Yes
+    * - (g)(2)
+      -  ∙Remote Monitoring
+      - Yes
+      - Yes
+      - Yes
+    * - (g)(3)
+      -  ∙Electrical Components
+      - Yes
+      - Yes
+      - Yes
+    * - (g)(3)(C)
+      - o   Secondary Power
+      - No
+      - Yes
+      - Yes
+    * - (h)
+      - Enclosure Design and Installation Requirements
+      - 
+      - 
+      - 
+    * - (h)(1)
+      -  ∙Human Occupancy Prohibited
+      - N/A
+      - Yes
+      - Yes
+    * - (h)(2)
+      -  ∙Racks
+      - N/A
+      - Yes
+      - Yes
+    * - (h)(3)
+      -  ∙Fire Extinguishing System
+      - No d
+      - No d
+      - Yes
+    * - (h)(4)
+      -  ∙Explosion Mitigation
+      - No d
+      - No d
+      - Yes
+    * - (h)(5)
+      -  ∙Fire Detection
+      - No d
+      - Yes
+      - Yes
+    * - (h)(6)
+      -  ∙Gas Detection
+      - 
+      - 
+      - 
+    * - 
+      - o   Lead Acid Battery
+      - Yes e
+      - Yes
+      - Yes
+    * - 
+      - o   Ni-Cd and NiMH Battery
+      - Yes e
+      - Yes
+      - Yes
+    * - 
+      - o   Li-Ion Battery
+      - No
+      - No d
+      - No d
+    * - 
+      - o   Flow Battery
+      - Yes e
+      - Yes
+      - Yes
+    * - (h)(7)
+      -  ∙Detector Alarm Notification
+      - No d
+      - Yes
+      - Yes
+    * - (h)(8)
+      -  ∙Ventilation System
+      - No d
+      - No d
+      - Yes
+    * - (h)(9)
+      -  ∙Smoke/Gas Purge System
+      - No d
+      - No d
+      - Yes
+    * - (i)
+      - Operational and Maintenance Requirements
+      - 
+      - 
+      - 
+    * - (i)(1)
+      -  ∙Remote Monitoring of Battery Management System and Reporting
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(2)
+      -  ∙Central Station Monitoring of Fire Protection System
+      - N/A d
+      - Yes
+      - Yes
+    * - (i)(3)
+      -  ∙Remote Monitoring at Constantly Attended On-Site Location
+      - No
+      - No
+      - No
+    * - (i)(4)
+      -  ∙Technical Assistance
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(5)
+      -  ∙Emergency Management
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(6)
+      -  ∙Signage
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(7)
+      -  ∙Maintenance
+      - 
+      - 
+      - 
+    * - (i)(7)(A)
+      - o   Periodic Inspection
+      - No
+      - Yes
+      - Yes
+    * - 
+      - o   Restoration to Service After Serious Failure
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(7)(B)
+      - o   Replacement Components
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(7)(C)
+      - o   Combustible Waste
+      - Yes
+      - Yes
+      - Yes
+    * - (i)(7)(D)
+      - o   Storage of Combustible Materials
+      - Yes
+      - Yes
+      - Yes
+    * - (j)
+      - Recordkeeping
+      - Yes
+      - Yes
+      - Yes
+~
+
+ 
+
+a. Except for multiple small battery systems installed in a single enclosure or as part of a single installation.
+
+b. Except for battery systems tested and listed by a nationally recognized testing laboratory with installation conditions, as set forth in R608-01(c)(7)(C), or other approved listing based on approved test data.
+
+c. Except for: (1) notifying the Department of the certificate of fitness responsible for supervision of the installation; and (2) coordination of removal and transportation of small battery systems experiencing abnormal temperature or gas emission readings, as set forth in R608-01(f)(3)(C).
+
+d. Unless required as a condition of equipment approval based on full-scale testing. The Department will assess the results of the full-scale testing to determine whether there are any hazards that are not resolved or mitigated by the equipment or installation design and, if the installation is approved, prescribe appropriate safeguards.
+
+e. Required for equipment approval, as an element of the storage battery unit design, not as part of a battery system enclosure.
+
+f. Limited post-installation review by inspection unit for Department permit issuance only.
+
+g. Approved test data is required for explosion mitigation measures. If no other approved test data is available, test data from UL Test Method 9540A testing will be required.
+
+h. Except project-specific installation designs. Large installations that utilize full-scale tested and Department-approved storage battery units in non-standard configurations or other project-specific designs may be field-tested in accordance with UL Standard 9540 or other approved standard.
+
+   (4) Permit. When required by Table 2 of this section, a permit is required to maintain and operate a stationary storage battery system.
+
+   (5) Supervision. A stationary storage battery system shall be operated and maintained under the general supervision of a person holding a certificate of fitness, who shall:
+
+      (A) be trained and knowledgeable in the installation and operation of the battery system, such as a person engaged in the design or installation of such systems;
+
+      (B) possess the manufacturer’s installation and operating specifications for each battery system and any associated fire protection systems;
+
+      (C) immediately report any emergency condition affecting a battery system to the Department; and
+
+      (D) provide technical assistance about the stationary storage battery system installation to the Department in accordance with R608-01(i), and, in coordination with the battery management system monitoring facility, identify a subject matter expert (such as a representative of the manufacturer) who can provide technical assistance about the battery’s design and performance in the event of an emergency condition affecting the battery system.
+
+   (6) Obligations of owner and operator. Both the owner of the premises at which the stationary storage battery system has been installed, and the business responsible for the battery system’s operation, if any, are responsible for compliance with all battery system installation, operational and maintenance requirements, including the lawful and proper removal and disposal of the battery system.
+
+   (7) Listing and full-scale testing standards. The following standards are applicable to the listing and full-scale testing of stationary storage battery systems. The Department may accept battery systems listed and tested to later editions of these standards when necessary to address evolving standards applicable to a rapidly developing technology.
+
+      (A) Listing. All stationary storage battery systems shall be tested and listed by a nationally recognized testing laboratory to the following standards:
+
+         (1) Underwriters Laboratories (UL) Standard 1741 (2010 edition), entitled “Inverters, Converters, Controllers and Interconnection System Equipment for Use With Distributed Energy Resources";
+
+         (2) Underwriters Laboratories (UL) Standard 1973 (2018 edition), entitled “Batteries for Use in Light Electric Rail (LER) Applications and Stationary Applications"; and
+
+         (3) Underwriters Laboratories (UL) Standard 9540 (2016 edition), entitled “Energy Storage Systems and Equipment”.
+
+      (B) Full-scale testing. When full-scale testing is required by this section, stationary storage battery systems shall be tested to Underwriters Laboratories (UL) Test Method 9540A (2018 edition), entitled “Safety Test Method for Evaluating Thermal Runaway Fire Propagation in Battery Energy Storage Systems", or other approved standard or test data.
+
+      (C) Listing with installation conditions. Upon approval by the Department and the Department of Buildings of a listing standard that is used to establish listings with installation conditions based upon test data, such approved listing standard shall replace the existing listing and testing standards set forth in R608-01. The approved listing standard and listings shall supersede the equipment approval process set forth in R608-01 and, to the extent addressed in such approved listing, the required separation distances.
+
+   (8) Manufacturer’s requirements. Stationary storage battery systems shall be designed, installed, operated and maintained in compliance with the manufacturer’s specifications.
+
+   (9) Multiple battery systems. Installation of more than one stationary storage battery system on a single premises requires Department review and approval and is subject to such additional or alternative requirements as the Department may impose in the interests of public safety. Multiple small stationary storage battery systems are not subject to this requirement if they:
+
+      (A) are not part of a single installation or installed in a single enclosure; and
+
+      (B) operate independently of each other and are not interconnected with other small, medium or large battery systems.
+
+   (10) Mobile battery systems. Stationary storage battery systems installed on a trailer or otherwise designed to be moveable for use at multiple locations shall be designed, installed, operated and maintained in compliance with the provisions of this section, including equipment approval, except as follows:
+
+      (A) Installation approval (R608-01(e)) is not required. The equipment approval application submitted to the Department pursuant to R608-01(d) shall include information and documentation relating to the design of the trailer and the installation of the battery system. Any limitations on the use of mobile battery systems will be addressed through conditions on the equipment approval.
+
+      (B) Compliance with commissioning and decommissioning requirements (R608-01(f)) is not required, except that decommissioning of a malfunctioning battery system shall be coordinated with the Department in accordance with R608-01(f)(3)(C).
+
+(d) Equipment Approval. When required by Table 2 of this section, the design of each storage battery unit shall be approved by the Department. The manufacturer of the storage battery unit shall obtain a certificate of approval for such unit in accordance with FC112, R112-01 and this section. The application for such equipment approval shall include the following information and documentation and such other information and documentation as the Department may require:
+
+   (1) Any application filed with the Department of Buildings; and
+
+   (2) The manufacturer's specifications and ratings, listing documents (including failure mode/effects analysis and, when required, complete UL Test Method 9540A test data or other approved data) for, and photographs of:
+
+      (A) each type of storage battery unit;
+
+      (B) the cabinet, container or other enclosure, and, if the installation consists of more than one storage battery unit, the arrangement of the storage batteries, including any rack storage (with seismic support criteria) and aisle dimensions;
+
+      (C) battery management system (BMS) operation;
+
+      (D) any fire extinguishing system intrinsic to the unit or enclosure;
+
+      (E) any fire detection and gas detection systems intrinsic to the unit or enclosure; and
+
+      (F) any ventilation and/or exhaust system intrinsic to the unit or enclosure.
+
+(e) Installation Approval. When required by Table 2 of this section, the design of each stationary storage battery system installation shall be approved by the Department. The owner shall obtain Department approval of the design and installation documents in accordance with this section. The application for installation approval shall include the following information and documentation and such other information and documentation as the Department may require:
+
+   (1) Any application filed with the Department of Buildings;
+
+   (2) The Department equipment approval for each battery system unit (or a separate application for such equipment approval);
+
+   (3) A site plan containing the following information:
+
+      (A) Exact location of the stationary storage battery system installation; including location of access panel or enclosure entrance(s);
+
+      (B) Surrounding public streets, fire apparatus access roads and pedestrian walkways;
+
+      (C) All buildings and structures on the premises (or within 100 feet, whichever is less), identified by occupancy group and construction type, and any measures to mitigate the impact of storage battery or battery system on adjoining buildings or structures or other site-specific hazard mitigation, including those required by a UL Standard 9540 hazard mitigation analysis.
+
+      (D) Any walls or fencing enclosing the installation or the premises on which it is located.
+
+      (E) All transportation and utility infrastructure, including electrical power lines, within 250 feet of the installation.
+
+      (F) Location and content of signage.
+
+      (G) Location and type of other stationary storage battery systems located on the premises or within 50 feet of the proposed installation (if 50 feet extends to other premises, as determined by visual inspection of the outdoor space or reasonable inquiry of the owner).
+
+      (H) Emergency shutdown procedures, including the location of the stationary storage battery system emergency shut down control; and
+
+   (4) A commissioning and decommissioning plan, including disposal procedures, in accordance with R608-01(f).
+
+(f) Commissioning and decommissioning. Stationary storage battery systems shall be commissioned (installed and activated for use) and decommissioned (deactivated from use and removed from the premises) in accordance with the following procedures:
+
+   (1) Commissioning. Stationary storage battery systems shall be installed by trained and knowledgeable persons in accordance with manufacturer’s specifications. Upon completion of the installation, the certificate of fitness holder assuming responsibility for supervision of the battery system shall authorize it to be activated, after confirming that the battery system is in good working order and operating in accordance with manufacturer’s specifications.
+
+   (2) Decommissioning. The certificate of fitness holder supervising a stationary storage battery system shall be responsible for its decommissioning. The deactivation, de-energizing, dismantling and removal of the stationary storage battery system shall be conducted by trained and knowledgeable persons in accordance with manufacturer’s specifications. The owner, manufacturer, installer, hazardous materials carrier or other party responsible for removal, transportation and/or disposal of the stationary storage battery system shall ensure that the battery system is lawfully decommissioned, transported and disposed of in accordance with USDOT hazardous materials regulations and other applicable laws, rules and regulations. The owner, manufacturer or installer of stationary storage battery systems shall have an emergency management plan or protocol that includes procedures for notifications and technical assistance in accordance with R608-01(i)(4) and (5) and all other actions necessary for mitigation and decommissioning (or restoration to normal operation).
+
+   (3) Notice to Department. Notice of the commissioning and decommissioning of stationary storage battery systems shall be given to the Department¸ and the removal of a malfunctioning system coordinated with the Department, as follows:
+
+      (A) Small battery systems. The owner or certificate of fitness holder shall notify the Department of the commissioning or decommissioning of a small stationary storage battery system, by emailing to 
+										tech.mgt@fdny.nyc.gov
+										 no later than two (2) business days after installation, the battery type, manufacturer and rated energy capacity, and the name and certificate of fitness number of the certificate of fitness holder who will be, or is no longer, responsible for supervision of the system.
+
+      (B) Medium and large battery systems. The owner shall notify the Department of the commissioning or decommissioning of a medium or large stationary storage battery system and give Department representatives the opportunity to attend the commissioning or decommissioning to monitor the process; familiarize themselves with a commissioned battery system’s installation and operation; and/or confirm the proper decommissioning of a battery system in accordance with the approved decommissioning plan. The owner shall notify the Department by emailing the date, location, type and size of the battery system installation to tech.mgt@fdny.nyc.gov not later than two (2) business days prior to the scheduled action. No confirmation is required and the scheduled action can proceed in the Department’s absence. If the action is rescheduled, amended notice shall be given to the Department in as timely a manner as circumstances allow.
+
+      (C) Decommissioning of malfunctioning battery system. The removal and transportation of any battery system that has given abnormal temperature or gas emission readings as a result of physical damage, exposure to fire or other actual or potential cause of damage, shall be coordinated with the Hazardous Materials Unit of the Department’s Bureau of Operations, who may send representatives to monitor the decommissioning process. The Hazardous Materials Unit shall be notified two (2) business days prior to the scheduled action, or in as timely a manner as circumstances allow, by calling the Department Communications Office in the borough in which the battery system is located.
+
+(g) General Design and Installation Requirements. When required by Table 2 of this section, stationary storage battery systems shall be designed and installed in accordance with the following requirements:
+
+   (1) Location and construction. Stationary storage battery systems shall be located and constructed in accordance with the following requirements:
+
+      (A) Outdoor location. Stationary storage battery systems shall be located outdoors. This includes rooftops when authorized by this section. Medium and large battery systems shall not be installed in enclosed areas without direct access from a public street, or fire apparatus access road, unless full-scale testing demonstrates intrinsic safety, or hazard mitigation measures that the Department determines to be appropriate for the particular location are provided.
+
+      (B) Fire Department access and water supply. Where feasible, a direct, unobstructed pathway shall be provided from the battery system installation to the public street or fire apparatus access road on which the premises fronts. Stationary storage battery systems located more than 250 feet from a hydrant shall be provided with a private hydrant or other approved water supply for firefighting operations in accordance with FC508.
+
+      (C) Separation distances. Stationary storage battery systems shall be located a minimum of 10 feet from the following exposures, except where lesser or greater distances are required by the equipment approval or installation approval based on full-scale testing data that indicate that a battery system fire will or will not adversely impact one or more of the following exposures:
+
+         (1) Lot lines;
+
+         (2) Public streets, fire apparatus access road, public walkways and other public ways;
+
+         (3) Any vehicle parking;
+
+         (4) Any building entrance, openable window, or ventilation intake;
+
+         (5) Any exit discharge or other means of egress from a building or outdoor area;
+
+         (6) Any outdoor hazardous materials or combustible materials storage facility or area;
+
+         (7) Any outdoor storage facility or area for high-piled combustible materials or other combustible items;
+
+         (8) Overhead power lines or other aboveground electrical installation, measured from the boundary of the utility easement or, if there is no easement, from the vertical plane of the installation at its widest point; and
+
+         (9) Any public utility or transportation infrastructure.
+
+      (D) Rooftop locations. Stationary storage battery systems may be located on a building rooftop, subject to the following requirements:
+
+         (1) The building roof covering or roofing system, or other approved material placed underneath the rooftop battery system installation, shall be noncombustible for a distance of five (5) feet from such installation.
+
+         (2) Rooftop battery system installations, including structural, electrical or other associated equipment, shall not obstruct the rooftop access and clear path required by FC504.4 for buildings 100 feet or less in height. Rooftop battery systems may be installed underneath solar panels, subject to the access and clearance requirements set forth in R608-01(g)(1)(D).
+
+         (3) There shall be access to the rooftop from a building stairway, or other means of rooftop access authorized by the Building Code. A safe, unobstructed path must be provided from the bulkhead door or other point of entry to the entrance(s) to the battery system enclosure or to the service/access panel (if any).
+
+         (4) Any dunnage or other structural support for the battery system installation shall have a minimum one (1) hour fire rating for small and medium battery systems and two (2) hours for large battery systems.
+
+         (5) On rooftops of buildings provided with a standpipe, a minimum of two (2) standpipe hose outlets shall be provided within the building bulkhead, in accordance with FC912, at an approved distance from the stationary storage battery system installation sufficient to ensure safety of firefighting operations. On rooftops of buildings that do not have a standpipe, an approved water supply source shall be provided for firefighting operations. If a standpipe is provided for the battery system installation, the fire department connections shall be identified by durable signage or markings conspicuously posted at street level in accordance with FC912.
+
+         (6) Rooftop installations shall comply with the separation distances set forth in R608-01(g)(1)(C) for means of egress; hazardous materials or combustible materials storage facility or area; overhead power lines or other aboveground electrical installation; public utility or transportation infrastructure; and other stationary storage battery system installations.
+
+         (7) Rooftop installations shall be located a reasonable distance (but not less than 10 feet) from the bulkhead entrance door or other rooftop access location pursuant to R608-01(g)(1)(D)(3).
+
+         (8) Valve-regulated lead-acid (VRLA) and flow batteries may not be installed on rooftops unless the applicant demonstrates to the satisfaction of the Department that the hazardous materials used in such systems can be safely stored and used on a rooftop, and the application adequately addresses leak detection, spill containment and the movement of such hazardous materials through the building.
+
+      (E) Physical Protection. Stationary storage battery system installations shall be protected from damage in accordance with the following requirements:
+
+         (1) Temperature. The storage battery or battery system shall be designed for operation throughout the entire expected range of ambient temperature, in accordance with manufacturers’ specifications, or provided with appropriate protection from damage from extreme ambient temperatures.
+
+         (2) Vehicle impact protection. Where the battery system is subject to impact by a motor vehicle or other motorized equipment, such as a fork lift or other powered industrial trucks, vehicle impact protection shall be provided in accordance with FC312.
+
+         (3) Security. The battery system installation shall be secured against unauthorized entry. All battery system enclosures shall be securely locked and, where appropriate, safeguarded by a chain link fence or other approved barrier.
+
+   (2) Remote monitoring. All stationary storage battery systems shall be designed to transmit data regarding battery system status and temperature to a remote monitoring facility.
+
+   (3) Electrical components. The electrical components of stationary storage battery systems shall be designed and installed in accordance with the following requirements:
+
+      (A) Compliance with testing standard. The electrical components of the battery system shall comply with UL Standard 9540.
+
+      (B) Operating conditions. The electrical components of the battery system shall be designed to operate safely during normal battery system operating conditions.
+
+      (C) Secondary power. A separate source of electrical power shall be provided for battery system controls and safety functions, unless the battery system is designed to power such systems for at least 30 minutes after battery system shut-down. A separate source of electrical power shall be provided for all external battery safety systems, including detection, ventilation and smoke/gas purge systems. Such secondary power can be supplied from any independent power source. If the secondary power supply is an emergency power system designed in accordance with the Building Code, it shall be capable of supplying secondary power for a duration of two hours.
+
+      (D) Emergency shut down. An emergency shut down control (e-stop), in the form of a red button or other approved design, designed to shut down all stationary storage battery system operations (without affecting the fire protection systems and other safety measures required by this section) shall be provided at the fire department connection, if any, utility connection or other approved, conspicuous outdoor location on the premises that is accessible to emergency response personnel and is a reasonable distance (but not less than 10 feet) from the stationary storage battery system installation. The shut down control shall be secured in a lock box operable by a citywide standard key (2642 key) in accordance with FC506. Signage shall be provided as set forth in R608-01(i)(6).
+
+(h) Enclosure Design and Installation Requirements. When required by Table 2 of this section, stationary storage battery systems housed in a shipping container or other type of outdoor enclosure (but not a storage battery system housing, except as otherwise provided in R608-01(h)(3)) shall be designed and installed in accordance with the following requirements:
+
+   (1) Human occupancy prohibited. No stationary storage battery system shall be housed in an enclosure used for human occupancy. Access to such an enclosure (whether walk-in or reach-in) shall be provided solely for maintenance purposes, including inspection, testing, servicing and repair of the battery system.
+
+   (2) Racks. Stationary storage battery systems may be installed on open racks within enclosures provided that water-based fire extinguishing, explosion mitigation, ventilation and smoke/gas purge systems are provided within the enclosure in accordance with R608-01(h).
+
+   (3) Fire extinguishing system. An approved dry pipe water fire extinguishing system designed and installed in accordance with NFPA Standard 15 (2007 edition), shall be provided in stationary storage battery system enclosures. The fire department connections shall be located at an approved distance from the stationary storage battery system enclosure as to ensure the safety of firefighting operations. An external fire extinguishing system of such design and installation shall be provided for any large stationary storage battery system in an outdoor cabinet or other battery system housing.
+
+   (4) Explosion mitigation. Explosion mitigation shall be provided for battery system enclosures in accordance with the following requirements:
+
+      (A) Deflagration venting. Deflagration venting shall be provided in accordance with NFPA Standard 68 (2007 edition), based on UL Test Method 9540A or other approved test data. Such venting shall be provided and designed to vent upwards or other safe location. Vents shall not face toward any exit discharge path from a nearby building or other pedestrian walkway, or any location from which emergency response personnel may access the enclosure.
+
+      (B) Explosion prevention. The concentration of combustible vapors during abnormal operation may be controlled in accordance with NFPA Standard 69 (2008 edition) if a hazard mitigation analysis, based on full-scale testing or other approved test data, indicates that such mitigation measures will be effective in keeping the target lower flammability limit (LFL) within the enclosure at or below 25 percent of the LFL.
+
+   (5) Fire detection system. An approved automatic fire detection system shall be installed in battery system enclosures in accordance with FC907. System activation shall initiate alarm, shut down and hazard mitigation measures in accordance with R608-01(h)(7).
+
+   (6) Gas detection system. An approved gas detection system shall be installed in battery system enclosures in accordance with FC908. The placement of detectors shall be in accordance with manufacturer’s specifications. When the level of flammable gas inside the battery system enclosure exceeds 25 percent of the LFL, the gas detection system shall initiate alarm, shut down and hazard mitigation measures in accordance with R608-01(h)(7).
+
+   (7) Detector alarm notification. Activation of a fire or gas detector in a battery system enclosure shall initiate the following notifications and other actions:
+
+      (A) Activate a distinct audible and visible alarm signal at the battery system installation or an approved constantly attended on-site location.
+
+      (B) Transmit an alarm signal to the fire alarm system and thereby to an approved central station.
+
+      (C) Shut down the battery system, if warranted.
+
+      (D) Activate all necessary shut down and hazard mitigation measures of the ventilation system.
+
+   (8) Ventilation system. An automatic mechanical ventilation system shall be provided for the space within the battery system enclosure in accordance with the Mechanical Code and the following design requirements. The ventilation system shall be designed to maintain optimal operating conditions for the stationary storage battery system in accordance with manufacturer’s specifications or Institute of Electrical and Electronics Engineers (IEEE) Standard 1635/ASHRAE Standard 21 (2012 edition), whichever requires a higher level of protection. The ventilation system shall be intrinsically safe for, and/or explosion protected from, any toxic and flammable gases generated by the battery system during normal operating conditions, and shall be designed to limit the maximum concentration of toxic gases inside the battery enclosure to 25 percent of the permissible exposure limit (PEL) for such gases, unless full-scale testing demonstrates that the storage battery unit does not generate toxic gas concentrations in excess of 25 percent of PEL.
+
+   (9) Smoke/gas purge system. A manually-operated purge system designed to exhaust heat, smoke and toxic gases generated by the stationary storage battery system during abnormal operating conditions, for use by firefighting personnel, shall be provided for a battery system enclosure. The smoke/gas purge system shall be intrinsically safe and/or explosion protected for any such toxic gases and be designed in accordance with the following requirements:
+
+      (A) Manual operation. The smoke/gas purge system shall be designed to be manually activated. A manual activation switch shall be installed at the fire department connection, if any; otherwise, near the utility connection or other approved location on the premises. The activation switch shall be identified by a conspicuously posted and durable sign that reads: “Battery System Emergency Smoke/Gas Purge.” The activation switch shall be secured in a lock box operable by a citywide standard key (2642 key) in accordance with FC506.
+
+      (B) Exhaust venting. The smoke/gas purge system shall vent in a manner that will minimize the risk to surrounding buildings and building occupants, pedestrians, and emergency response personnel. Exhaust vents shall not face toward any exit discharge path from a nearby building or other pedestrian walkway, or any location from which emergency response personnel may access the enclosure.
+
+(i) Operational and Maintenance Requirements. Stationary storage battery systems shall be operated and maintained in accordance with this section.
+
+   (1) Remote monitoring of battery management system and reporting. The owner of a stationary storage battery system shall arrange for data transmissions from the battery system’s battery management system to be continuously monitored (on a 24/7 basis) by a remote monitoring facility staffed by trained and knowledgeable persons retained by the manufacturer or installer of the battery system. The remote monitoring facility shall, without delay, make the following notifications in the event a battery system installed in New York City exceeds or appears likely to exceed thresholds at which fire, explosion or other serious adverse consequences may result:
+
+      (A) Notify the Department by calling the Communications Office in the borough in which the battery system is located, to alert the Department to the unsafe condition;
+
+      (B) Notify the certificate of fitness holder responsible for the battery system, in a pre-arranged manner, to alert such individual to be ready to provide technical assistance to the Department and/or respond to the incident location in accordance with R608-01(i)(4) and (5); and
+
+      (C) Notify the manufacturer of the battery system to make a qualified representative available to provide technical assistance to the Department pursuant to R608-01(i)(4).
+
+   (2) Central station monitoring of fire protection systems. All fire protection systems protecting the battery system installation, including any fire extinguishing system, and fire and gas detection or other emergency alarm system required by this section, shall be monitored by an approved central station.
+
+   (3) Constantly attended on-site locations. Battery systems and fire protection systems may be monitored at a constantly attended on-site location, but such monitoring may not substitute for the remote monitoring facility and/or central station required by R608-01(i)(1) and (2), unless such substitution is approved in writing by the Technology Management Unit of the Bureau of Fire Prevention.
+
+   (4) Technical assistance. Upon request of the Department, both the certificate of fitness holder responsible for the battery system and the battery system manufacturer shall make available to the Department a representative with technical knowledge of the battery system and its operation. Such representative shall be made available as soon as possible, but in any event within 15 minutes of receipt of the Department’s request.
+
+   (5) Emergency management. Upon request of the Department, the certificate of fitness holder responsible for the battery system and an authorized representative of the owner of the premises upon which the battery system is installed shall respond to the location of the battery installation, as soon as possible but in any event within two (2) hours of notification, to assist the Department in addressing a fire or other emergency involving or affecting the battery system, and to take all other actions necessary for mitigation and decommissioning of the battery system, or restoration to normal operation in accordance with R608-01(i)(7).
+
+   (6) Signage. When required by Table 2 of this section, the following signs (or equivalent markings) shall be durably posted for each stationary storage battery system, at the locations indicated:
+
+      (A) Warning signs. The following warning signs shall be posted on the exterior of medium and large battery systems or battery system enclosure:
+
+         (1) “Danger: High Voltage,” or equivalent signage complying with the requirements of the Electrical Code; and
+
+         (2) Hazard identification sign complying with NFPA Standard 704 (2007 edition).
+
+      (B) Identification, emergency contact and emergency shut-down signs. The following signs shall be posted at the fire department connection, if any, utility connection or other approved, conspicuous outdoor location on the premises that is accessible to emergency response personnel and that is a reasonable distance (but not less than 10 feet) from the stationary storage battery system installation. The signage may be posted within a marked, locked box secured by a citywide standard key (2642 key). If the location of the signage would not be readily apparent to emergency response personnel, a sign with large lettering (not less than 3 inches high) shall be posted on or adjacent to the battery installation indicating the location of the following signage:
+
+         (1) Permit. The permit for the installation, laminated or otherwise suitably weatherproofed.
+
+         (2) Equipment specifications. The manufacturer and model number of the battery system and electrical rating (voltage and current).
+
+         (3) Installation identification. The number or other unique identifier used by the battery management system remote monitoring facility to identify the installation, which firefighters or other Department representatives can reference in communications with the monitoring facility.
+
+         (4) Monitoring facility contact information. The telephone number of the battery management system remote monitoring facility.
+
+         (5) Certificate of fitness contact information. The name and telephone number of the certificate of fitness holder responsible for the battery system.
+
+         (6) Emergency shutdown procedures. Emergency shutdown procedures for the battery energy storage system shall be posted at the battery system emergency shut down (e-stop) control and at any attended on-site location. The emergency shutdown instructions shall clearly indicate “GRID SUPPORT SYSTEM” in large letters (not less than 2 inches high) if immediate shut down of the battery system could disrupt public utility operations.
+
+   (7) Maintenance. The owner shall ensure that stationary storage battery systems are periodically inspected, tested, serviced and otherwise maintained in accordance with manufacturer’s specifications and the requirements of this section by a person trained and knowledgeable in the specific battery system.
+
+      (A) Periodic inspection. When required by Table 2 of this section, the battery system shall be inspected by the certificate of fitness holder on not less than an annual basis to confirm continued compliance with applicable code, rule and permit requirements, including checking for the presence of required signage and whether any posted information needs to be updated, and confirming that all required systems are in good working order.
+
+      (B) Restoration to service after serious failure. Any battery system that undergoes a serious failure, including one that results in a fire, release of flammable or toxic gas, and/or physical damage to system components, shall be removed from service forthwith. The battery system shall not be restored to service until it has been evaluated by a trained and qualified person, repaired and tested, re-commissioned in accordance with R608-01(f) by a person holding a certificate of fitness.
+
+      (C) Replacement components. Any replacement storage battery units or other battery system components shall be designed for the same storage battery technology and/or chemistry and be compatible with the existing battery system installation. In-kind replacement of existing components (consistent with the listing for the storage battery unit or storage battery system) constitutes maintenance and does not require Department review and approval. Replacement of existing components with different battery technologies or chemistries (including the electrolyte chemistry in a flow battery system) or that change the storage/generating capacity or other functionality of a battery system, or other change to listed components, constitutes an alteration of the battery system and shall be submitted for Department review and approval, and, as applicable, Department of Buildings review and approval, in the same manner as an application for a new stationary storage battery system installation.
+
+      (D) Combustible waste. Stationary storage battery system installations shall be kept free from the accumulation of combustible waste and combustible vegetation in accordance with FC304.1.
+
+      (E) Storage of combustible materials. Combustible materials not required for battery system operation shall not be stored in battery system enclosures.
+
+(j) Recordkeeping Requirements. A written record of the following information shall be maintained at the premises or other approved location by the certificate of fitness holder, and, for medium and large battery systems, by the owner or operator of the battery system:
+
+   (1) Battery system installation and commissioning;
+
+   (2) Battery system maintenance, including all inspections, servicing and repair;
+
+   (3) Battery system decommissioning and removal;
+
+   (4) Installation and maintenance of battery system fire protection systems, including all inspection, testing, servicing and repair; and
+
+   (5) Fires or other incidents involving or affecting the battery system.
+
+ 
 
 
 

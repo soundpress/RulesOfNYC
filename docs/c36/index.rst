@@ -558,123 +558,155 @@ Editor's note: Former section renumbered as 53 RCNY § 4-03.
 
 
 
-Chapter 2: Procedural Rules For Hearings
+Chapter 2: Procedural Rules for Enforcement Actions
 --------------------------------------------------
 
 
 
-*§ 2-01 Initial Determination.* ::
+*§ 2-01 Applicability and Definitions.* ::
 
 
-(a)  Notice. If the Board makes an initial determination, based on a complaint, investigation, or other information available to the Board, that there is probable cause to believe that a public servant (which for purposes of Charter § 2603(h) includes a former public servant) has violated a provision of Chapter 68 of the City Charter, the Board shall notify the public servant of its determination in writing. The notice shall contain a statement of the facts upon which the Board relied for its determination of probable cause and a statement of the provisions of law allegedly violated. The notice shall afford the public servant an opportunity, either orally or in writing, to respond to, explain, rebut, or provide information concerning the allegations in such notice within fifteen days of service of the notice. The notice shall also inform the public servant of his or her right to be represented by counsel or any other person, and shall include a copy of the Board's procedural rules. A notice of initial determination shall not be required in a proceeding brought pursuant to § 12-110 of the Administrative Code.
+(a) Applicability. This chapter establishes the procedural rules for enforcement actions brought pursuant to Charter § 2603(h) to address alleged violations of:
 
-(b) Request for a Stay. In response to the Board's notice, the public servant may apply to the Board for a stay of the proceedings, for good cause shown. The Board may grant or deny such request in its sole discretion.
+   (1) Chapter 68 of the City Charter (the Conflicts of Interest Law);
 
-(c) Admission of Facts. If, in response to the Board's notice, the public servant admits to the facts contained therein or to a violation of the provisions of Chapter 68 of the City Charter and elects to forgo a hearing, the Board may, after consulting with the head of the agency served or formerly served by the public servant, or, in the case of an agency head, after consulting with the Mayor, issue an order finding a violation and imposing the penalties it deems appropriate under Chapter 68 of the City Charter, provided, however, that pursuant to Charter § 2603(h)(3), the Board shall not impose penalties against members of the City Council, or public servants employed by the City Council or by members of the City Council, but may recommend to the City Council such penalties as the Board deems appropriate. When a penalty is recommended, the City Council shall report to the Board what action was taken.
+   (2) § 3-224 through § 3-228 of the Administrative Code (the Lobbyist Gift Law);
 
-(d) No Probable Cause Finding. If, after receipt of the public servant's response, the Board determines that there is no probable cause to believe that a violation has occurred, the Board shall dismiss the matter and inform the public servant in writing of its decision.
+   (3) § 3-901 through § 3-907 of the Administrative Code (the Affiliated Not-for-Profits Law); and
 
+   (4) § 3-1101 through § 3-1107 of the Administrative Code (the Legal Defense Trusts Law).
 
+(b) Definitions.
 
+   "Board" means the Conflicts of Interest Board.
 
+   "Board Rules" means the rules of the Conflicts of Interest Board, as set forth in Title 53 of the Rules of the City of New York.
 
+   "Day" means a calendar day. When the last day of a time period is a Saturday, Sunday, or public holiday, the time period will run through the end of the next business day.
 
-*§ 2-02 Commencement of Formal Proceedings and Pleadings.* ::
+   "Enforcement attorney" means an attorney prosecuting an enforcement action on behalf of the Board.
 
+   "OATH" means the New York City Office of Administrative Trials and Hearings.
 
-(a)  Determination of Probable Cause. If, after consideration of the public servant's response, the Board determines that there remains probable cause to believe that a violation of the provisions of Chapter 68 of the City Charter has occurred, and the public servant has not elected to forgo the hearing, the Board shall hold or direct a hearing to be held on the record to determine whether such violation has occurred. If the public servant is subject to the jurisdiction of a state law provision or collective bargaining agreement which provides for the conduct of a disciplinary hearing by another body, the Board shall refer the matter to the appropriate entity. The hearing shall be conducted in accordance with the rules of that entity. The Board may also refer a matter to the public servant's agency if the Board deems the violation to be minor or if other disciplinary charges are pending there against the public servant.
+   "OATH Rules" means OATH's Rules of Practice, as set forth in Title 48 of the Rules of the City of New York.
 
-(b) Petition. The Board shall institute formal proceedings by serving a petition on the public servant. The petition shall set forth the facts which, if proved, would constitute a violation of Chapter 68 of the City Charter or § 12-110 of the Administrative Code, as well as the applicable provisions thereof which are alleged to have been violated. The petition shall also advise the public servant of the public servant's rights to file an answer, to a hearing, to be represented at such hearing by counsel or any other person, and to cross-examine witnesses and present evidence.
+   "Respondent" means a public servant or former public servant; a lobbyist or any other person required to be listed on a statement of registration pursuant to Administrative Code § 3-213(c)(1); an organization affiliated with an elected official or an agent of an elected official, as defined by Administrative Code § 3-901; or a legal defense trust, trustee, or beneficiary, as defined by Administrative Code § 3-1101, who has been served a Notice of Initial Determination of Probable Cause.
 
-(c) Answer.
 
-   (1) General Rule. The public servant shall answer the petition by serving an answer on the Board within eight days after service of the petition, unless a different time is fixed by the Board. The public servant shall serve the answer personally or by certified or registered mail, return receipt requested.
 
-   (2) Form and Contents of Answer. The answer shall be in writing and shall contain specific responses, by admission, denial, or otherwise, to each allegation of the petition and shall assert all affirmative defenses, if any. The public servant may include in the answer matters in mitigation. The answer shall be signed and shall contain the full name, address, and telephone number of the public servant. If the public servant is represented, the representative's name, address, and telephone number shall also appear on the answer, which shall be signed by either the public servant or by his or her representative.
 
-   (3) Effect of Failure to Answer. If the public servant fails to serve an answer, all allegations of the petition shall be deemed admitted and the Board shall proceed to hold a hearing in which prosecuting counsel shall submit for the record an offer of proof establishing the factual basis on which the Board may issue an order. If the public servant fails to respond specifically to any allegation or charge in the petition, such allegation or charge shall be deemed admitted.
 
-(d) Amendment of Pleadings. Pleadings shall be amended as promptly as possible upon conditions just to all parties. If a pleading is to be amended less than twenty-five days before the commencement of the hearing, the amendment may be made only on consent of the parties or by leave of the Board, if the Board is conducting the hearing, or by leave of a Board member or Administrative Law Judge, if the Board member or Administrative Law Judge is conducting the hearing.
 
 
 
+*§ 2-02 Informal Proceedings.* ::
 
 
+(a) Notice of Initial Determination of Probable Cause. For the purposes of Charter § 2603(h)(1), the Board will commence an enforcement action by serving a Notice of Initial Determination of Probable Cause by first class mail to the respondent's last known residential address or actual place of business.
 
-*§ 2-03 Hearing.* ::
+(b) Response to the Notice of Initial Determination of Probable Cause.
 
+   (1) For the purposes of Charter § 2603(h)(1), the respondent has twenty (20) days from the date of service to submit a written response to the Notice of Initial Determination of Probable Cause ("Notice") or request an extension. The response is an opportunity to explain, rebut, or provide information concerning the factual or legal allegations in the Notice. The Board will not consider requests for discovery of evidence during informal proceedings.
 
-(a)  Conduct of Hearings Generally. Hearings shall be conducted by the Board or, upon designation by the Board, by a member of the Board or the Chief Administrative Law Judge of the Office of Administrative Trials and Hearings (OATH), or such administrative law judge (ALJ) as the Chief Administrative Law Judge shall assign.
+   (2) Upon oral or written request within twenty (20) days from the date of service of the Notice, the respondent will be granted a thirty- (30-) day extension within which to submit a written response. Upon oral or written request made prior to the expiration of the first extension, the respondent may be granted a second thirty- (30-) day extension for good cause shown, including, but not limited to, ongoing settlement negotiations. Any further extensions must be requested in writing to the Board and will be granted only in exigent circumstances.
 
-(b) Subpoenas. Subpoenas requiring the attendance of a witness and subpoenas duces tecum requiring the production of books, papers, and other things may be issued only by (i) the Administrative Law Judge, where the hearing has been referred to OATH, or (ii) a member of the Board, where the hearing is conducted by the Board or by a member of the Board, upon application of a party or upon the Administrative Law Judge's or the Board member's own motion. In addition to or in lieu of these subpoenas, the Administrative Law Judge or the Board member may also issue an order directing the party or person under the control of a party to attend or produce.
+   (3) For the purposes of Charter § 2603(h)(2):
 
-(c) Conduct of Hearings by OATH. If the Board refers a hearing to OATH, a copy of the petition shall also be sent to OATH at the time the public servant is served with the petition. OATH shall conduct the hearing in accordance with its rules, as set forth in Title 48 of the Rules of the City of New York, except as otherwise provided by these rules.
+      (i) If the respondent submits a substantive written response to the Notice, the Board will review the response to determine whether there remains probable cause to believe that any alleged violation occurred and will either dismiss the enforcement action or sustain its initial determination of probable cause in whole or in part.
 
-(d) Conduct of Hearings by the Board or by a Board Member.
+      (ii) If the respondent does not submit a written response to the Notice or submits only a general denial of the allegations in the Notice, the Board's initial determination of probable cause will be deemed sustained.
 
-   (1) Generally. The Board may hear a case or may designate a member of the Board to hear a case, make findings of fact and conclusions of law, preside over pre-hearing matters and adjournments, and make recommendations to the Board for the proposed disposition of the proceeding. When a hearing is conducted by the Board, the hearing shall be presided over by the Board's Chair or by his or her designee. The Board or Board member shall conduct the hearing, including such pre-hearing matters as conferences, discovery, and motion practice, in conformance with the rules and procedures of OATH, as set forth in Title 48 of the Rules of the City of New York, except as otherwise provided by these rules.
+(c) Referral to agency. If the Board sustains its initial determination of probable cause against a respondent who is entitled to disciplinary rights as described in Charter § 2603(h)(2), the Board will notify the respondent's employing City agency in writing of the alleged facts and violations. After such a referral, the Board retains separate and continuing jurisdiction over the enforcement action.
 
-   (2) Disposition Conferences and Agreements. If disposition of the proceeding is to be discussed at a conference, the Board shall designate an individual, other than a Board member participating in the hearing, to conduct the conference. During disposition discussions, upon notice to the parties, the person conducting the conference may confer with each party and/or representative separately. Board members shall not be called to testify in any proceeding concerning statements made at a disposition conference.
+   (1) If the agency does not pursue disciplinary action against the respondent, the Board will commence formal proceedings against the respondent.
 
-   (3) Order of Proceedings. Prosecuting counsel shall have the burden of proof by the preponderance of the evidence, shall initiate the presentation of evidence, and may present rebuttal evidence. The public servant may introduce evidence after prosecuting counsel has completed his or her case. Opening statements, if any, shall be made first by prosecuting counsel. Closing statements, if any, shall be made first by the public servant. This order of proceedings may be modified at the discretion of the Board or Board member.
+   (2) If the agency pursues disciplinary action against the respondent, the Board may resolve the enforcement action by a joint settlement agreement with the respondent and agency or commence formal proceedings against the respondent.
 
+(d) Representation by an attorney or other person.
 
+   (1) If the respondent chooses to be represented by an attorney or any other person, the representative appearing for the respondent must submit a written and signed Notice of Appearance to the Board. The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States will be indicated by the designation "Attorney for (person represented)." The appearance of any other person will be indicated by the designation "Representative for (person represented)." The Board will not accept a response from or discuss the details of an enforcement action with any attorney or other person who has not submitted a Notice of Appearance.
 
+   (2) To withdraw from representation, the representative must submit a written notice of withdrawal to the Board, signed by the respondent or otherwise explaining the reason for withdrawal. An attorney who has submitted a Notice of Appearance may withdraw from representation only with consent of the respondent or when other cause exists, as delineated in the applicable provisions of the New York Rules of Professional Conduct.
 
+   (3) A Notice of Appearance, withdrawal or substitution may be submitted to the Board at any time prior to commencement of formal proceedings. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a Notice of Appearance, withdrawal or substitution.
 
+(e) Stay of an enforcement action. To obtain a stay of an enforcement action prior to commencement of formal proceedings, the respondent must submit a written request to the Board for its review and approval. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a stay.
 
-*§ 2-04 Decisions and Orders.* ::
+(f) Settlement.
 
+   (1) At any time after the service of the Notice of Initial Determination of Probable Cause, an enforcement action may be resolved by settlement agreement in the form of a Public Disposition or Public Warning Letter.
 
-(a)  Report to the Board. When a hearing has been conducted by either OATH or a member of the Board designated to hear the case, a report of recommended findings of fact and conclusions of law and recommendations for the disposition of the proceeding shall be issued and forwarded, along with the original transcript of the proceeding and all documents introduced into the record, to the Board for review and final action. The report shall not be made public. A copy of the report and recommendation shall be sent to all parties and their counsel or other representative in order to afford them the opportunity to comment before final action is taken by the Board. If prosecuting counsel or the public servant wishes to comment, he or she shall do so within ten days of service of the report and recommendation.
+      (i) A Public Disposition must include an admission of the relevant facts; an acknowledgment that the admitted conduct violated a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law; and a penalty that addresses the admitted conduct.
 
-(b) Finding of Violation. If after the hearing and upon a consideration of all the evidence in the record of hearing, including comments, the Board finds that a public servant has engaged in conduct prohibited by Chapter 68 of the City Charter, the Board shall consult with the head of the agency served or formerly served by the public servant, or in the case of an agency head, consult with the Mayor. Where the Board finds a violation of Chapter 68 or § 12-110 of the Administrative Code, the Board shall state its final findings of fact and conclusions of law and issue an order imposing any penalties it deems appropriate under either statute. The order shall include notice of the public servant's right to appeal to the New York State Supreme Court. Alternatively, in the case of a violation of Chapter 68, the Board may state its findings and conclusions and recommend a penalty, if any, to the head of the agency served by the public servant or former public servant or, in the case of an agency head or former agency head, to the Mayor. Pursuant to Charter § 2604(h)(3), the Board shall not impose penalties against members of the City Council, or public servants employed by the City Council or by members of the City Council, but may state its findings and conclusions and recommend to the City Council such penalties as the Board deems appropriate. When a penalty is recommended, the head of the agency, Mayor, or City Council shall report to the Board what action was taken.
+      (ii) A Public Warning Letter must include a statement of relevant facts, and a description of each violation of a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law.
 
-(c) Consultation by Agency. In instances where the Board does not hold a hearing and instead refers a matter to the public servant's agency, that agency shall consult with the Board prior to issuing its final decision.
+   (2) The language and penalty of the proposed settlement agreement will be negotiated between the enforcement attorney and the respondent or the respondent's representative, if applicable. If the respondent requests that the respondent's employing City agency be a party to the settlement, the respondent must submit a signed waiver of confidentiality to the Board to allow the enforcement attorney to discuss the proposed settlement agreement with such agency.
 
-(d) Dismissals. If, after the hearing and upon consideration of the record, the Board finds that a public servant has not engaged in acts prohibited by Chapter 68 of the City Charter or § 12-110 of the Administrative Code, the Board shall state its findings of facts and conclusions of law and shall issue an order dismissing the petition. The order shall not be made public.
+   (3) If the enforcement attorney and the respondent reach a proposed settlement agreement, it will be reduced to writing and signed by the respondent, the respondent's representative, if applicable, and a representative of the respondent's employing City agency, if applicable. Any monetary penalty to be paid to the Board is due upon signing unless otherwise specified in the proposed settlement agreement. Monetary penalty payments will be held by the Board in escrow until the proposed settlement agreement is fully executed by the Board.
 
+   (4) After receiving the full payment of any monetary penalty to be paid to the Board, the enforcement attorney will present the proposed settlement agreement to the Board for its review and approval.
 
+      (i) If the Board approves the proposed settlement agreement, the settlement agreement will be signed by the Board Chair. The fully-executed settlement agreement will be made public, but all underlying records, reports, memoranda, and files of the enforcement action will remain confidential in accordance with Charter § 2603(k).
 
+      (ii) If the Board does not approve the proposed settlement agreement, the Board may direct the enforcement attorney to seek modification of the penalty or the language in the settlement agreement. The modified proposed settlement agreement must be reviewed and approved by the Board.
 
 
 
-*§ 2-05 General Matters.* ::
 
 
-(a)  Appearances before the Board.
 
-   (1) A party may appear before the Board in person, by an attorney, or by a duly authorized representative. The person appearing for the party shall file a notice of appearance with the Board. The filing of any papers by an attorney or other representative who has not previously appeared shall constitute the filing of a notice of appearance by that person and shall conform to the requirements of paragraphs (2) and (4) of this subdivision.
 
-   (2) The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States shall be indicated by the suffix "Esq." and the designation "Attorney for (person represented)." The appearance of any other person shall be indicated by the designation "Representative for (person repre- sented)."
 
-   (3) Absent extraordinary circumstances, no application shall be made or argued by any attorney or other representative who has not filed a notice of appearance.
+*§ 2-03 Formal Proceedings.* ::
 
-   (4) A person may not file a notice of appearance on behalf of a party unless the person has been retained by that party to represent the party before the Board. Filing a notice of appearance constitutes a representation that the person appearing has been so retained.
 
-(b) Withdrawal and Substitution of Counsel.
+(a) Designation of OATH. For the purposes of Charter § 2603(h)(2), and in accordance with Charter § 1048, the Board designates OATH to conduct hearings in accordance with the OATH Rules, except as otherwise provided by these rules.
 
-   (1) An attorney who has filed a notice of appearance shall not withdraw from representation without the permission of the Board, upon application. Withdrawals shall not be granted unless upon consent of the client or when other cause exists, as delineated in the applicable provisions of the Code of Professional Responsibility.
+(b) Commencement of formal proceedings.
 
-   (2) Notices of substitution of counsel served and filed more than twenty days prior to a hearing before the Board or before a member of the Board may be filed without leave of the Board or Board member. Notices of substitution of counsel served and filed less than twenty-one days prior to a hearing before the Board or before a member of the Board may be filed only with the permission of the Board or Board member, which permission shall be freely given, absent prejudice or substantial delay of the proceedings.
+   (1) The Board will commence formal proceedings at OATH by serving a Notice of Petition and Petition by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable. After service, the enforcement attorney will file the Notice of Petition and Petition with OATH and will provide OATH with potential dates for a settlement conference and potential dates for a hearing.
 
-(c) Service of Petition by Board. A petition shall be served on the public servant (i) in the manner provided in § 312-a, or subdivisions 1, 2, or 4 of § 308, of the New York Civil Practice Law and Rules for service of a summons or (ii) by both certified mail, return receipt requested, and first class mail to the public servant's last known residence or actual place of business or (iii) in such manner as the Board directs, if service is impracticable under paragraphs (i) and (ii) of this subdivision, or (iv) in any manner agreed upon by counsel to the Board and the public servant or his or her representative.
+   (2) After the conference and hearing dates have been scheduled at OATH, the enforcement attorney will serve a Notice of Hearing by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
 
-(d) Service of Other Documents by Board. Notices, orders, and all other documents, except petitions and subpoenas, originating with the Board shall be served on the public servant (i) by personal delivery to the public servant or (ii) by first class mail to the public servant's last known residence or actual place of business or (iii) by overnight delivery service to the public servant's last known residence or actual place of business or (iv) by telephonic facsimile (FAX) or similar transmission or (v) by leaving the paper at the public servant's last known residence with a person of suitable age and discretion or (vi) in such manner as the Board directs, if service is impracticable under paragraphs (i), (ii), (iii), (iv), or (v) of this subdivision, or (vii) in any manner agreed upon by counsel to the Board and the public servant or his or her representative. Where the public servant has appeared by a representative, all papers served by the Board subsequent to that appearance shall be served upon the representative by one of the methods provided in paragraphs (i)-(vii) of this subdivision.
+(c) Ex Parte communications with the Board.
 
-(e) Computation of Time. The computation of any time period referred to in these rules shall be calculated in calendar days, except that when the last day of the time period is a Saturday, Sunday, or public holiday, the period shall run until the end of the next following business day. Where a period of time prescribed by the rules set forth in this chapter is measured from the service of a paper and service of that paper is made in the manner provided by paragraph (ii) of subdivision (a) or paragraph (ii) of subdivision (b) of this section, five days shall be added to the prescribed period.
+   (1) After service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), any Board attorney involved in the prosecution of the enforcement action may not communicate ex parte with any member of the Board or any attorney serving as counsel to the Board concerning the merits of the enforcement action, except as provided in paragraph (2) of this subdivision.
 
-(f) Confidentiality. All matters relating to complaints submitted to or inquired into by the Board, or any action taken by the Board in connection therewith or hearings conducted by the Board or OATH, shall be kept confidential unless the public servant waives confidentiality and the Board determines that confidentiality is not otherwise required. Hearings conducted by the Board or by OATH shall be public if requested by the public servant. Final findings, conclusions, and orders issued upon a violation of Chapter 68 shall be made public.
+   (2) An enforcement attorney may communicate ex parte with members of the Board or an attorney serving as counsel to the Board with respect to ministerial matters involving the enforcement action; on consent of the respondent or respondent's representative; or if deemed necessary by the Board or by an attorney serving as counsel to the Board.
 
-(g) Ex Parte Communications with Board.
+(d) Answer. The respondent may serve and file a written answer to the Petition in accordance with the OATH Rules. The answer may contain specific responses, by admission, denial, or otherwise, to each allegation of the Petition and assert all affirmative defenses, if any. The respondent may include in the answer matters in mitigation. The answer must contain the full name, address, telephone number, and email address of the respondent. If the respondent is represented, the representative's name, address, telephone number and email address must also appear on the answer. The answer must be signed by the respondent or respondent's representative.
 
-   (1) After service of the petition in a case, counsel conducting the prosecution of the case on behalf of the Board shall not communicate ex parte with any member of the Board concerning the merits of the case, except as provided in paragraph (2) of this subdivision.
+(e) Settlement. At the OATH settlement conference, an enforcement action may be resolved by settlement agreement pursuant to 53 RCNY § 2-02(f).
 
-   (2) Counsel conducting the prosecution of a case on behalf of the Board may communicate ex parte with the Board, or any member thereof, with respect to ministerial matters involving the case or on consent of the respondent or respondent's counsel or in an emergency.
+(f) Hearing.
 
-(h) Disposition by Agreement. At any time after the service of a notice of probable cause in a proceeding brought pursuant to Chapter 68 or at any time after service of a petition in a proceeding brought pursuant to § 12-110 of the Administrative Code, the public servant and the Board may agree to dispose of the case by agreement. For this purpose, the Board or any Board member designated by the Board may conduct a disposition conference, provided that, when the Board or a member of the Board conducts or is to conduct the hearing, the Board shall comply with the requirements of 53 RCNY § 2-03(d)(2). All offers of disposition, whether made at a conference, hearing, or otherwise, shall be confidential and shall be inadmissible at trial of any case. If a disposition by agreement is reached, it shall be reduced to writing and signed by the public servant or his or her representative and the Board or, in the discretion of the Board, placed on the record. When a disposition by agreement contains an acknowledgment that a public servant's conduct has violated a provision of Chapter 68 of the City Charter or § 12-110 of the Administrative Code, that disposition by agreement shall be made public by the Board.
+   (1) The enforcement attorney will have the burden of proof by a preponderance of the evidence.
 
-(i) OATH Rules. In the event of any inconsistency between these rules and the rules of the Office of Administrative Trials and Hearings, these rules shall govern.
+   (2) The enforcement attorney will make an opening statement first, after which the respondent may make an opening statement.
+
+   (3) The enforcement attorney will initiate the presentation of evidence. After the enforcement attorney has completed the presentation of the Board's evidence, the respondent may present evidence. The enforcement attorney may present rebuttal evidence.
+
+   (4) The enforcement attorney will make a closing statement first, after which the respondent may make a closing statement.
+
+(g) OATH report. After a hearing has been conducted, OATH will issue a confidential report of its recommended findings of fact and conclusions of law and its recommended disposition of the enforcement action. OATH will send the report, along with the original transcript of the hearing and all documents introduced into the record, to the Board for review. OATH will send a copy of the report to the enforcement attorney and the respondent or respondent's representative, if applicable.
+
+(h) Comment on OATH report. Within twenty (20) days from the date of the OATH report, each party may submit a comment to the Board to explain, rebut, or provide information concerning OATH's recommended findings of fact, conclusions of law, and disposition. If either party submits a comment, the opposing party may submit to the Board a response to such comment within thirty (30) days from the date of the OATH report. Copies of all such submissions must be shared with the opposing party. The Board will not consider new evidence submitted in a comment or in a response to a comment.
+
+(i) Final review by the Board. For the purposes of Charter § 2603(h)(3), the Board will review the OATH report, along with the original transcript of the hearing and all documents introduced into the record, and any comments and responses to comments submitted to the Board pursuant to 53 RCNY § 2-03(h), to determine whether it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law. In accordance with 53 RCNY § 2-03(c), any Board attorney involved in the prosecution of the enforcement action will not participate in the Board's final review.
+
+(j) Board order finding a violation.
+
+   (1) If the Board determines that it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue an order stating its final findings of fact and conclusions of law and imposing a penalty, except, if the respondent is a current Member or employee of the New York City Council, the Board will issue an order stating its final findings of fact and conclusions of law and recommending a penalty to the New York City Council. The order will include notice of the respondent's right to appeal to the New York State Supreme Court.
+
+   (2) All orders of the Board will be made public. The Board may also make the OATH report public as part of its order, but all other underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
+
+   (3) The order will be sent by first class mail to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
+
+   (4) If the order imposes a monetary penalty, payment is due to the Board within thirty (30) days of the date of service. If the respondent does not pay the full monetary penalty amount, the Board will refer the matter to the New York City Law Department for collection.
+
+(k) Board dismissal. If the Board determines that it has not been proven by a preponderance of the evidence that the respondent violated any provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue a written decision that dismisses the enforcement action and states its final findings of fact and conclusions of law. The decision will be sent to the respondent and respondent's representative, if applicable, and will not be made public. All underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
+
+
 
 
 

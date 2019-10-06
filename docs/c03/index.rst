@@ -137,17 +137,17 @@ Chapter 1: License Enforcement
 
 (c) Newsstand licenses are valid for a two year term and shall expire on either March 31 or September 30 and in either odd or even numbered years, depending on the date designated in the license document.
 
-(d) After the effective date of this subdivision, the expiration dates for revocable consents and licenses to operate an unenclosed sidewalk cafe shall be as follows:
+(d) After the effective date of this subdivision, the expiration dates for revocable consents and licenses to operate an unenclosed sidewalk café shall be as follows:
 
-   1. The grant of a revocable consent to operate an unenclosed sidewalk cafe shall be for one license period and will be concurrent with such license period that expires in the second calendar year following the calendar year in which such consent and license are granted, and such term shall expire on the day and month in such second calendar year as specified below:
+   1. The grant of a revocable consent to operate an unenclosed sidewalk café shall be for one license period and will be concurrent with such license period that expires in the second calendar year following the calendar year in which such consent and license are granted, and such term shall expire on the day and month in such second calendar year as specified below:
 
-      A. September 15 if the last digit of the license number of the sidewalk cafe ends in a number evenly divisible by three;
+      A. September 15 if the last digit of the license number of the sidewalk café ends in a number evenly divisible by three;
 
-      B. December 15 if the last digit of the license number of the sidewalk cafe ends in zero or in an even number that is not evenly divisible by three;
+      B. December 15 if the last digit of the license number of the sidewalk café ends in zero or in an even number that is not evenly divisible by three;
 
-      C. April 15 if the last digit of the license number of the sidewalk cafe ends in an odd number that is not evenly divisible by three;
+      C. April 15 if the last digit of the license number of the sidewalk café ends in an odd number that is not evenly divisible by three;
 
-   2. The grant during the same calendar year of a license to operate an unenclosed sidewalk cafe license as the year in which the revocable consent to operate such unenclosed sidewalk cafe is granted shall be for a term that expires on the same date on which such revocable consent expires in accordance with paragraph 1 of this subdivision.
+   2. The grant during the same calendar year of a license to operate an unenclosed sidewalk café license as the year in which the revocable consent to operate such unenclosed sidewalk café is granted shall be for a term that expires on the same date on which such revocable consent expires in accordance with paragraph 1 of this subdivision.
 
    3. The licenses that are renewed thereafter shall be for two year terms that expire on the day and month in the second calendar year of such term as specified in paragraph 1 of this subdivision.
 
@@ -155,13 +155,13 @@ Chapter 1: License Enforcement
 
 (e) After the effective date of this subdivision, the expiration dates for revocable consents and licenses to operate an enclosed sidewalk café shall be as follows:
 
-   1.  The grant of a revocable consent to operate an enclosed sidewalk cafe shall be for one license period and will be concurrent with such license period that expires in the second calendar year following the calendar year in which such consent and license are granted, and such term shall expire on the day and month in such second calendar year as specified below:
+   1.  The grant of a revocable consent to operate an enclosed sidewalk café shall be for one license period and will be concurrent with such license period that expires in the second calendar year following the calendar year in which such consent and license are granted, and such term shall expire on the day and month in such second calendar year as specified below:
 
-      A. May 15 of the first even numbered year that is at least two years after the date such revocable consent is issued or renewed if the last digit of the license number of such sidewalk cafe is an even number; or
+      A. May 15 of the first even numbered year that is at least two years after the date such revocable consent is issued or renewed if the last digit of the license number of such sidewalk café is an even number; or
 
-      B. May 15 of the first odd numbered year that is at least two years after the date such revocable consent is issued or renewed if the last digit of the license number of such sidewalk cafe is an odd number.
+      B. May 15 of the first odd numbered year that is at least two years after the date such revocable consent is issued or renewed if the last digit of the license number of such sidewalk café is an odd number.
 
-   2. The grant during the same calendar year of a license to operate an enclosed sidewalk cafe license as the year in which the revocable consent to operate such enclosed sidewalk cafe is granted shall be for a term that expires in the same year in which such revocable consent expires in accordance with paragraph 1 of this subdivision.
+   2. The grant during the same calendar year of a license to operate an enclosed sidewalk café license as the year in which the revocable consent to operate such enclosed sidewalk café is granted shall be for a term that expires in the same year in which such revocable consent expires in accordance with paragraph 1 of this subdivision.
 
    3. The licenses that are renewed thereafter shall be for two year terms that expire on the day in the month in the second calendar year of such term as specified in paragraph 1 of this subdivision.
 
@@ -183,9 +183,9 @@ Chapter 1: License Enforcement
 *§ 1-03 Display of Sign and License Information.* ::
 
 
-(a)  Every licensee, except for those licensed to operate a sidewalk cafe as described in subdivision (b) of this section, must post conspicuously at his or her place of business a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, and other pertinent information for consumers as the Department deems appropriate. A licensee may post a copy of such sign at the licensee's place of business only if the original is available at such place of business for inspection by any person. A licensee having no fixed place of business must exhibit his or her license upon the request of any person.
+(a)  Every licensee, except for those licensed to operate a sidewalk café as described in subdivision (b) of this section, must post conspicuously at his or her place of business a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, and other pertinent information for consumers as the Department deems appropriate. A licensee may post a copy of such sign at the licensee's place of business only if the original is available at such place of business for inspection by any person. A licensee having no fixed place of business must exhibit his or her license upon the request of any person.
 
-(b) Every licensee licensed to operate a sidewalk cafe pursuant to § 20-224 of subchapter 6 of Chapter 2 of Title 20 of the Administrative Code of the City of New York is required to post a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, the maximum number of tables and chairs permitted for the sidewalk cafe, and any other pertinent information for consumers as the Department deems appropriate, at a location from which it must be visible to persons on that portion of the sidewalk adjacent to such licensee's sidewalk cafe. A licensee may post a copy of such sign at a location as described in this subdivision only if the original is available at the licensee's place of business for inspection by any person.
+(b) Every licensee licensed to operate a sidewalk café pursuant to § 20-224 of subchapter 6 of Chapter 2 of Title 20 of the Administrative Code of the City of New York is required to post a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, the maximum number of tables and chairs permitted for the sidewalk café, and any other pertinent information for consumers as the Department deems appropriate, at a location from which it must be visible to persons on that portion of the sidewalk adjacent to such licensee's sidewalk café. A licensee may post a copy of such sign at a location as described in this subdivision only if the original is available at the licensee's place of business for inspection by any person.
 
 
 

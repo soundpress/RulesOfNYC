@@ -576,6 +576,105 @@ OES shall not approve the application for training related expenses and/or an ex
 
 
 
+Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
+--------------------------------------------------
+
+
+
+*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
+
+
+(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
+
+   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
+
+   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
+
+   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
+
+   (4) You have the right to refuse any service.
+
+   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
+
+   (6) You have the right to contact a HASA staff member whenever you need services.
+
+   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
+
+   (8) You have the right to initiate complaints against HASA staff.
+
+   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
+
+   (10) You have the right to be treated fairly and with respect and courtesy.
+
+(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
+
+(c) HASA client rights.
+
+   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
+
+      (i) Federal law or regulations;
+
+      (ii) New York State Social Services Law or regulations; or
+
+      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
+
+   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
+
+   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
+
+   (4) You have the right to participate with HASA staff in the development of a service plan.
+
+   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
+
+   (6) You have the right to review your HASA case record and to dispute any information contained therein.
+
+   (7) You have the right to be treated fairly and with respect and courtesy.
+
+(d) HASA client responsibilities.
+
+   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
+
+   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
+
+   (3) ACM Employability Assessment and Employment Plan.
+
+      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
+
+      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
+
+      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
+
+      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
+
+   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
+
+   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
+
+   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
+
+   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
+
+   (8) You have the responsibility to treat HASA staff with respect and courtesy.
+
+
+
+
+
+
+*§ 5-02 Rent Limitation.* ::
+
+
+(a) In accordance with § 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
+
+(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
+
+(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
+
+(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
+
+
+
+
 Chapter 4: Distribution of Food and Administrative Funds To Emergency Food Providers
 --------------------------------------------------
 
@@ -908,105 +1007,6 @@ The amount of food and administrative funds allocated to each provider may be ch
 (d) a request from the provider that its allocation be reduced.
 
 (e) other factors dictating the need to reallocate funds, including, but not limited to changing demographics or changed demographic projections, or geographic im- balances.
-
-
-
-
-Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
---------------------------------------------------
-
-
-
-*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
-
-
-(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
-
-   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
-
-   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
-
-   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
-
-   (4) You have the right to refuse any service.
-
-   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
-
-   (6) You have the right to contact a HASA staff member whenever you need services.
-
-   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
-
-   (8) You have the right to initiate complaints against HASA staff.
-
-   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
-
-   (10) You have the right to be treated fairly and with respect and courtesy.
-
-(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
-
-(c) HASA client rights.
-
-   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
-
-      (i) Federal law or regulations;
-
-      (ii) New York State Social Services Law or regulations; or
-
-      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
-
-   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
-
-   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
-
-   (4) You have the right to participate with HASA staff in the development of a service plan.
-
-   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
-
-   (6) You have the right to review your HASA case record and to dispute any information contained therein.
-
-   (7) You have the right to be treated fairly and with respect and courtesy.
-
-(d) HASA client responsibilities.
-
-   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
-
-   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
-
-   (3) ACM Employability Assessment and Employment Plan.
-
-      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
-
-      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
-
-      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
-
-      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
-
-   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
-
-   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
-
-   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
-
-   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
-
-   (8) You have the responsibility to treat HASA staff with respect and courtesy.
-
-
-
-
-
-
-*§ 5-02 Rent Limitation.* ::
-
-
-(a) In accordance with § 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
-
-(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
-
-(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
-
-(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
 
 
 

@@ -2044,7 +2044,7 @@ Chapter 10: Smoking Under the New York City Smoke-Free Air Act
 
 (m) Overhang. "Overhang" shall mean any roof, ceiling or other complete or partial covering of, or over, an outdoor dining area of a restaurant.
 
-(n) Outdoor dining area. "Outdoor dining area" shall mean any patio, courtyard, sidewalk cafe, backyard, rooftop or terrace, or other outdoor area of a restaurant, with or without seating, that is designated for the consumption or service of food or drink.
+(n) Outdoor dining area. "Outdoor dining area" shall mean any patio, courtyard, sidewalk café, backyard, rooftop or terrace, or other outdoor area of a restaurant, with or without seating, that is designated for the consumption or service of food or drink.
 
 (o) [Repealed.]
 
