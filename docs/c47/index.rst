@@ -1049,7 +1049,7 @@ For the purposes of this chapter:
 *§ 6-02 The IDNYC Card.* ::
 
 
-(a) The IDNYC Card will display the cardholder's photograph, name, date of birth, an expiration date, signature, eye color, height, identification number, and, except as provided in this section, a street address located within New York City. The card will also, at the cardholder's option, display the cardholder's self-designated gender, preferred language, veteran status and such additional information as HRA may in the future display. Additionally, for a cardholder under 14 years of age, the cardholder’s designated emergency contact information will appear on the card. For a cardholder 14 years of age or older, the cardholder’s designated emergency contact information may appear on the card at the cardholder’s option.
+(a) The IDNYC Card will display the cardholder's photograph, name, date of birth, an expiration date, signature, eye color, height, identification number, and, except as provided in this section, a street address located within New York City. The card will also, at the cardholder's option, display the cardholder's self-designated gender, preferred language, veteran status and such additional information as HRA may in the future display. Additionally, for a cardholder under 14 years of age, the cardholder’s designated emergency contact information will appear on the card. For a cardholder 14 years of age or older, the cardholder’s designated emergency contact information may appear on the card at the cardholder’s option. Cards issued pursuant to 68 RCNY § 6-04(e) will also display the name of the cardholder’s school.
 
 (b) The IDNYC Card will not display a home address in the following circumstances:
 
@@ -1062,6 +1062,8 @@ For the purposes of this chapter:
    (4) Where an applicant provides evidence that they participate in the New York State Address Confidentiality Program (ACP) established by New York Executive Law § 108 for victims of domestic violence, the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant's preference. An applicant who participates in the ACP must still establish residency under this chapter.
 
    (5) Where an applicant is a college or university student who resides in housing affiliated with the school and receives mail at a central school-based location different from where the applicant resides, the IDNYC card will display the address where the applicant receives mail and the name of their school provided the applicant submits a Letter from a College or University Administrator as described in the table set forth in 68 RCNY § 6-06(c)(1).
+
+   (6) IDNYC Cards issued pursuant to 68 RCNY § 6-04(e) will not display a home address.
 
 
 
@@ -1097,7 +1099,7 @@ For the purposes of this chapter:
 
 (f) Wherever a photo identification is required, the photo must bear a reasonable likeness to the person whose identity is being established. The person's gender identity or gender expression will not be the basis for rejection of a photo.
 
-(g) Applicants ages ten to thirteen years of age must be accompanied at enrollment by a caretaker who must sign the application on behalf of the applicant.
+(g) Except for students who are applying for an IDNYC Card at a participating middle school pursuant to 68 RCNY § 6-04(e), applicants ages ten to thirteen years of age must be accompanied at enrollment by a caretaker who must sign the application on behalf of the applicant. Students applying for a card pursuant to 68 RCNY § 6-04(e) need not be accompanied by a caretaker, but will be required to submit an application signed by their parent as defined in Chancellor’s Regulation Number A-820.
 
 
 
@@ -1175,9 +1177,11 @@ The following documents are worth four points and establish identity and residen
 
 (d) For applicants who are students at New York City Department of Education (DOE) schools and are applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the DOE's verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOE ("DOE verification"), as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card.
 
-(e) For applicants who participate in the Summer Youth Employment Program (SYEP) of the New York City Department of Youth and Community Development (DYCD), IDNYC will accept DYCD's verification of the applicant's identity and residency, provided to IDNYC, in a format and in a manner to be agreed upon by HRA and DYCD, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card if presented along with a photo identification pursuant to 68 RCNY § 6-05.
+(e) For applicants applying at participating DOE middle schools to be jointly agreed upon by HRA and DOE, IDNYC will accept the school’s verification of the applicant’s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school as sufficient proof of the applicant’s identity and residency to establish eligibility for the IDNYC card. Cards issued pursuant to this subdivision will include the school’s name and will expire on the student’s expected graduation date from the school.
 
-(f) For applicants who are clients of the New York City Department of Social Services (DSS), IDNYC may, at the applicant's request, verify the applicant's identity and/or residency using information from systems maintained by DSS, provided such data can be accessed for purposes of such verification and, once accessed, is deemed sufficiently reliable. Such information will be worth three points toward establishing the identity of the applicant if an original photo and related demographic data, including full name and date of birth, are available in DSS's systems; or one point toward establishing identity if only the name and date of birth, but no photo, are available in DSS's system; and one point towards establishing residency if the applicant's address is also in DSS's system.
+(f) For applicants who participate in the Summer Youth Employment Program (SYEP) of the New York City Department of Youth and Community Development (DYCD), IDNYC will accept DYCD's verification of the applicant's identity and residency, provided to IDNYC, in a format and in a manner to be agreed upon by HRA and DYCD, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card if presented along with a photo identification pursuant to 68 RCNY § 6-05.
+
+(g) For applicants who are clients of the New York City Department of Social Services (DSS), IDNYC may, at the applicant's request, verify the applicant's identity and/or residency using information from systems maintained by DSS, provided such data can be accessed for purposes of such verification and, once accessed, is deemed sufficiently reliable. Such information will be worth three points toward establishing the identity of the applicant if an original photo and related demographic data, including full name and date of birth, are available in DSS's systems; or one point toward establishing identity if only the name and date of birth, but no photo, are available in DSS's system; and one point towards establishing residency if the applicant's address is also in DSS's system.
 
 
 
