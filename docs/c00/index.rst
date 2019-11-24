@@ -5032,11 +5032,15 @@ Chapter 900: Fire Protection Systems
 *§ 907-01 One-Way Emergency Voice Communication Systems. [Repealed]* ::
 
 
-(a) Scope. Listed carbon monoxide (CO) detectors required to be installed in E, I-2 and I-4 occupancies and in buildings equipped with a fire alarm system that contain Group A-1, A-2, A-3 and certain B occupancies pursuant to sections 908.7.2 and 908.7.3 of the Building Code must be installed in accordance with the requirements of this section.
+(a) Scope. Pursuant to sections 908.7.2 and 908.7.3 of the Building Code (BC), listed carbon monoxide (CO) detectors required to be installed in E, I-2 and I-4 occupancies and in buildings equipped with a fire alarm system that contain Group A-1, A-2, A-3, B or M occupancies, as defined in BC Chapter 3, must be installed in accordance with the requirements of this section.
 
-(b) Reference. See Sections 908.7.2, 908.7.3 and 908.7.4 of the Building Code.
+   (1) These requirements do not apply to those R-2 occupancies that are adjacent to or above those occupancies classified in this section.
 
-(c) Group E, I-2 and I-4 occupancies. CO detectors with built-in sounder bases installed in E, I-2 and I-4 occupancies in accordance with BC 908.7.2 shall be installed in the following locations:
+   (2) Pursuant to BC section 908.7.3.1, existing buildings must comply with the requirements of this subdivision by January 1, 2021.
+
+(b) Reference. See section 28-315.11 of the New York City Administrative Code (AC), and BC sections 908.7.2, 908.7.3, 908.7.3.1 and 908.7.4.
+
+(c) Group E, I-2 and I-4 occupancies. CO detectors with built-in sounder bases installed in E, I-2 and I-4 occupancies in accordance with BC 908.7.2 must be installed in the following locations:
 
    (1) Any room containing carbon monoxide-producing equipment, except kitchens and laboratories.
 
@@ -5044,9 +5048,9 @@ Chapter 900: Fire Protection Systems
 
    (3) Any corridor on the story where enclosed parking or a loading dock is located, as well as one story above and one story below.
 
-(d) Group A-1, A-2, A-3 and certain B occupancies. CO detectors with built-in sounder bases installed in buildings that are equipped with a fire alarm system and that contain A-1, A-2 or A-3 occupancies or assembly spaces classified as Group B occupancies in accordance with BC 303.1, Exception 1, must be installed in the following locations:
+(d) Group A-1, A-2 and A-3. CO detectors with built-in sounder bases installed in buildings that are equipped with a fire alarm system and that contain A-1, A-2 or A-3 occupancies must be installed in the following locations:
 
-   (1) Any room containing CO-producing equipment, except kitchens and laboratories.
+   (1) Any room containing CO-producing equipment, except kitchens.
 
    (2) Any occupiable room or space on the same floor as, one story above, or one story below the CO-producing equipment that is at least 75 square feet and is not provided with mechanical ventilation.
 
@@ -5056,21 +5060,67 @@ Chapter 900: Fire Protection Systems
 
    (5) As an alternative to installation as provided in paragraphs (1) through (4) of this subdivision and subject to the Department's approval, in locations determined by a performance-based design that is in accordance with Section 5.8.5.3.2 of reference standard National Fire Protection Association (NFPA) 720 and approved by the Department.
 
+(e) Group B and M occupancies. CO detectors with built-in sounder bases installed in buildings that are equipped with a fire alarm system and that contain Group B or M occupancies must be installed in the following locations:
+
+   (1) Any room containing CO-producing equipment, except kitchens.
+
+   (2) Any corridor on the story where carbon monoxide-producing equipment unit is located, as well as one story above and one story below.
+
+   (3) Any corridor on the story where enclosed parking or a loading dock is located, as well as one story above and one story below.
+
+   (4) Any parking attendant's office or booth located within an enclosed garage or loading dock.
+
+   (5) As an alternative to installation as provided in paragraphs (1) through (4) of this subdivision and subject to the Department's approval, in locations determined by a performance-based design that is in accordance with Section 5.8.5.3.2 of reference standard National Fire Protection Association (NFPA) 720 and approved by the Department.
+
+   (6) Detection zones:
+
+      (i) Detection zones less than 10,000 square feet. Where carbon monoxide detection is required to be provided in a detection zone having an area less than 10,000 square feet, the carbon monoxide detection shall be placed in a central location within such detection zone.
+
+      (ii) Detection zones 10,000 square feet or greater. Where carbon monoxide detection is required to be provided in a detection zone having an area 10,000 square feet or greater, carbon monoxide detection shall be placed in a central location within such detection zone and at such additional locations with such detection zone as may be necessary to assure that no point in the detection zone is more than 100 feet from carbon monoxide detection.
+
+   (7) Definition of detection zone. The term "detection zone" as used in this section means a story of a building.
+
+      Exceptions.
+
+      (i) If a story is arranged so that two or more separate carbon monoxide producing HVAC systems are used to serve separate portions of the story, each such portion of the story shall be deemed to be a separate detection zone.
+
+      (ii) If a portion of a story is used as a garage, the portion used as a garage shall not be deemed to be a detection zone and the portion not used as a garage shall be deemed to be a detection zone; and
+
+      (iii) If an entire story is used as a garage, such story shall not be deemed to be a detection zone.
+
 (f) Equipment shutdown. Activation of a CO detector located at the source of CO-producing equipment must shut down that source. This provision does not apply where the source is a generator.
 
-(g) Installation Requirements. CO detectors must be installed in accordance with NFPA 720 – 2012 edition, as modified for New York City by this section.
+(g) Installation requirements. CO detectors must be installed in accordance with NFPA 720 – 2015 edition, as modified for New York City by this section.
 
-(h) NFPA 720 amendments. Pursuant to Section 28-103.19 of the New York City Administrative Code, the New York City modifications to reference standard NFPA 720 – 2012 are as follows:
+(h) Fire alarm control units. The provisions of section 23.8.2.2 of NFPA 72 – 2010 regarding having a separate panel apply to CO detectors.
 
-   (1) Section 2.1 is revised to add the following at the end: "Where a referenced publication has been modified for the City of New York by the New York City Building Code, every reference to such publication shall be deemed to include all such modifications."
+(i) NFPA 720 amendments. Pursuant to Section 28-103.19 of the New York City Administrative Code, the New York City modifications to reference standard NFPA 720 – 2015 are as follows:
+
+   (1) Section 2.1 is revised by adding the following at the end: "Where a referenced publication has been modified for the City of New York by the New York City Building Code, every reference to such publication shall be deemed to include all such modifications."
 
    (2) Section 2.2 is deleted and a new section 2.2 is added to read as follows:
 
-      2.2 NFPA Publications. National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471. NFPA 70â, National Electrical Codeâ, as modified and incorporated into the New York City Electrical Code. NFPA 72â, National Fire Alarm and Signaling Code, as modified and incorporated into Appendix Q of the New York City Building Code. NFPA 101â, Life Safety Codeâ, as listed in Chapter 35 of the New York City Building Code. NFPA 110, Standard for Emergency and Standby Power Systems, as modified and incorporated into the New York City Electrical Code. NFPA 111, Standard on Stored Electrical Energy Emergency and Standby Power Systems, as listed in Chapter 35 of the New York City Building Code. NFPA 780, Standard for the Installation of Lightning Protection Systems, 2011 edition. NFPA 1221, Standard for the Installation, Maintenance, and Use of Emergency Services Communications Systems, 2010 edition. NFPA 5000â, Building Construction and Safety Codeâ, 2012 edition.
+      2.2 NFPA Publications. National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169-7471.
+
+         NFPA 70â, National Electrical Codeâ, as modified and incorporated into the New York City Electrical Code.
+
+         NFPA 72â, National Fire Alarm and Signaling Code, as modified and incorporated into Appendix Q of the New York City Building Code.
+
+         NFPA 101â, Life Safety Codeâ, as listed in Chapter 35 of the New York City Building Code.
+
+         NFPA 110, Standard for Emergency and Standby Power Systems, as listed in Chapter 35 of the New York City Building Code.
+
+         NFPA 111, Standard on Stored Electrical Energy Emergency and Standby Power Systems, as listed in Chapter 35 of the New York City Building Code.
 
    (3) Section 2.3.4 is deleted and a new section 2.3.4 is added to read as follows:
 
-      Section 2.3.4 UL Publications. Underwriters Laboratories Inc., 333 Pfingsten Road, Northbrook, IL 60062-2096. ANSI/UL 1971, Standard for Safety Signaling Devices for Hearing Impaired, 2002, revised 2008. ANSI/UL 2034, Standard for Single and Multiple Station Carbon Monoxide Alarms, as listed in Chapter 35 of the New York City Building Code. ANSI/UL 2075, Standard for Gas and Vapor Detectors and Sensors, as listed in Chapter 35 of the New York City Building Code.
+      Section 2.3.4 UL Publications. Underwriters Laboratories Inc., 333 Pfingsten Road, Northbrook, IL 60062-2096.
+
+         ANSI/UL 1971, Standard for Safety Signaling Devices for Hearing Impaired, 2002, revised 2013.
+
+         ANSI/UL 2034, Standard for Single and Multiple Station Carbon Monoxide Alarms, as listed in Chapter 35 of the New York City Building Code.
+
+         ANSI/UL 2075, Standard for Gas and Vapor Detectors and Sensors, as listed in Chapter 35 of the New York City Building Code.
 
    (4) Section 4.4.1.1 is deleted and a new section 4.4.1.1 is added to read as follows:
 
@@ -5082,9 +5132,13 @@ Chapter 900: Fire Protection Systems
 
    (7) Section 4.4.3.1 is revised to add the following at the beginning: "Carbon monoxide inspection, testing, maintenance and repair may be performed by a New York City Licensed electrical contractor holding a New York State registration for Business of Installing, Servicing or Maintaining Security or Fire Alarm Systems or by those fire alarm companies holding a New York State registration for Business of Installing, Servicing or Maintaining Security or Fire Alarm Systems. The rules and regulations of the Fire Department shall apply as appropriate."
 
-   (8) Section 5.8.5.3.1 is deleted in its entirety.
+   (8) Section 5.8.5.3.1 is amended by substituting 5.8.5.3.1(2) with the following:
+
+      (2) On every level requiring detection and in every HVAC zone of the space requiring detection.
 
    (9) Section 9.4.1.1 is deleted in its entirety.
+
+
 
 
 

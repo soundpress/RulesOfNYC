@@ -5678,6 +5678,8 @@ Notwithstanding the foregoing, the commissioner of finance may determine that th
 
    (8) where payment by credit card is the only means of payment accepted.
 
+   (9) for payment of bail, unless the chief administrator of the courts requires a party making a payment of bail to pay a reasonable administrative fee.
+
 (e) Refund of fee. Notwithstanding the provisions of subdivision (b) of this section, a credit card fee will be refunded when the credit card payment was:
 
    (1) the result of certain technical errors, not caused by the customer, such as a duplication of a charge or an erroneous entry by a covered agency; or
