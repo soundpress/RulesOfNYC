@@ -7940,7 +7940,9 @@ Chapter 18: Protection from Contamination, Degradation and Pollution of the New 
 
 (e) It is the purpose of these rules and regulations to insure compliance with the Federal and State standards by providing a comprehensive watershed protection program. Furthermore, these rules and regulations articulate an antidegradation policy for the New York City water supply system. These rules and regulations are promulgated to govern those activities in the watershed that threaten the quality of the water supply of the numerous upstate communities and the City of New York. While bound by its responsibility to protect the public health, the City has also taken the needs of the communities and businesses in the New York City watershed into consideration in drafting and promulgating these rules and regulations.
 
-(f) The City reserves the right to re-examine these rules and regulations periodically to insure that they continue to further the goal and intent referred to in paragraph (d) of this subdivision and the purposes referred to in paragraph (e) of this subdivision. Without limiting the foregoing, and without limiting the City's rights to continue, modify, amend, suspend, waive or revoke any or all of these rules and regulations at any time in accordance with applicable law, the City intends to re-examine these rules and regulations ten (10) years after the effective date hereof to ascertain whether, and to what extent, these rules and regulations should be modified or amended so that they continue to serve their intended purposes.
+(f) The City reserves the right to re-examine these rules and regulations periodically to insure that they continue to further the goal and intent referred to in paragraph (d) of this subdivision and the purposes referred to in paragraph (e) of this subdivision.
+
+
 
 
 
@@ -8010,15 +8012,17 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 *§ 18-15 Local Representatives.* ::
 
 
-(a)  Information about these rules and regulations and application and other forms required by these rules and regulations may be obtained from the following offices of the Department or on the Department's website at www.nyc.gov/dep. Applications for Department approval of a regulatory activity must be submitted to one of these offices. Petitions appealing from a determination issued by the Department or requesting a hearing on a cease and desist order issued by the Department must be submitted to the offices listed in subdivision (b).
+(a)  Information about these rules and regulations and application and other forms required by these rules and regulations may be obtained from the following offices of the Department or on the Department's website at www.nyc.gov/dep. Applications for Department approval of a regulatory activity must be submitted to one of these offices or online in accordance with instructions that may be provided on the Department's website. Petitions appealing from a determination issued by the Department or requesting a hearing on a cease and desist order issued by the Department must be submitted to the offices listed in subdivision (b) or online in accordance with instructions that may be provided on the Department's website.
 
    (1) New York City Department of Environmental Protection Regulatory and Engineering Programs      465 Columbus Avenue      Valhalla, New York 10595      Telephone: (914) 742-2028
 
    (2) New York City Department of Environmental Protection Regulatory and Engineering Programs      71 Smith Avenue      Kingston, New York 12401      Telephone: (845) 340-7215
 
-(b) Petitions for appeal of a determination issued by the Department in accordance with 15 RCNY § 18-28 and petitions for a hearing on a cease and desist order issued by the Department in accordance with 15 RCNY § 18-29 must be submitted to the address listed in paragraph (1), with a copy to the address listed in paragraph (2).
+(b) Petitions for a hearing on a determination by the Department to revoke, suspend, or modify a determination or variance in accordance with 15 RCNY § 18-26, petitions for appeal of a determination issued by the Department in accordance with 15 RCNY § 18-28, and petitions for a hearing on a cease and desist order issued by the Department in accordance with 15 RCNY § 18-29 must be submitted to the address listed in paragraph (1), with a copy to the address listed in paragraph (2).
 
-   (1) New York City Office of Administrative Trials and Hearings      40 Rector Street      New York, New York 10006-1705      Telephone: (212) 442-4900
+   (1) New York City Office of Administrative Trials and Hearings      100 Church Street, 12th floor 
+										      New York, New York 10007 
+										      Telephone: (844) 628-4692
 
    (2) New York City Department of Environmental Protection      General Counsel      59-17 Junction Boulevard      19th Floor      Flushing, New York 11373-5107      Telephone: (718) 595-6555
 
@@ -8026,7 +8030,9 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (1) New York City Water Supply Watershed Police Telephone:      1-888-H20-SHED 
 
-(d) Addresses and phone numbers contained herein are informational and persons subject to these rules and regulations shall utilize successor addresses and phone numbers where appropriate.
+(d) Addresses and phone numbers contained in this section are informational and persons subject to these rules and regulations must utilize addresses and phone numbers specified herein, or successor addresses and phone numbers where appropriate.
+
+
 
 
 
@@ -8040,9 +8046,9 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (1) Absorption area means the area to which wastewater is distributed for infiltration to the soil.
 
-   (2) Absorption field means the area to which sewage is distributed for infiltration to the soil by means of a network of pipes.
+   (2) Absorption field means the area to which sewage is distributed for infiltration to the soil by means of a network of pipes. A gravelless absorption system is a type of absorption field.
 
-   (3) Access road means an impervious private or public road, other than a driveway, which connects a parcel to an existing public or private road and which is necessary in order to enable the parcel to be developed. Access road does not include an internal road within a subdivision or within an area of common development involving two (2) or more parcels.
+   (3) Access road means an impervious private or public road, other than a driveway, which connects a parcel to an existing public or private road and which is necessary in order to enable the parcel to be developed.
 
    (4) Affiliate means any agency or person controlled by, controlling, or under common control with an applicant.
 
@@ -8074,7 +8080,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (18) Commissioner means the Commissioner of the New York City Department of Environmental Protection or its successors or a deputy commissioner authorized to act for such Department pursuant to law.
 
-   (19) Construction or construction activity means any building, demolition, renovation, replacement, restoration, rehabilitation or alteration of any new or existing structure or road.
+   (19) Construction or construction activity means any building, demolition, renovation, replacement, restoration, rehabilitation or alteration of any structure or road, or land clearing, land grading, excavation, filling or stockpiling activities that result in soil disturbance.
 
    (20) Construction and demolition debris means uncontaminated solid waste resulting from the construction, remodeling, repair and demolition of structures and roads; and uncontaminated solid waste consisting of vegetation resulting from land clearing and grubbing, utility line maintenance and seasonal and storm related cleanup.
 
@@ -8094,101 +8100,113 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (28) Design professional means a professional engineer or a registered architect who is licensed to practice in the State of New York, or a land surveyor with an exemption under § 7208(n) of the Education Law.
 
-   (29) Designated Main Street Area means a defined area of limited size located within the East of Hudson Watershed which is an existing center of commercial, industrial, residential, or mixed use and which has been defined and designated by a local government in the East of Hudson Watershed and approved by the Department pursuant to these rules and regulations.
+   (29) Designated Main Street Area means a defined area of limited size located within the East of Hudson Watershed which is an existing center of commercial, industrial, residential, or mixed use. Designated Main Street Areas were proposed by local governments in the East of Hudson Watershed in 1997 and approved by the Department pursuant to these rules and regulations.
 
    (30) Designated Village Center means an area in the Croton System described by the metes and bounds of a village center, whether or not located in an incorporated village, designated by a local government(s) in a Comprehensive Croton Water Quality Protection Plan prepared and agreed to in accordance with 15 RCNY § 18-82 by submitting to the Department a description of the metes and bounds of such proposed Designated Village Center, a map of the described area, and a statement of the features which qualify the area as a Designated Village Center. A Designated Village Center must be an existing center of commercial, residential or mixed uses.
 
    (31) Discharge means the intentional or unintentional disposal, deposit, injection, emission, application, dumping, spilling, leaking, washing off, release, running off, draining or placing of any solid, semi-solid, liquid, or any other non-gaseous waste or other substance into or onto any land or water or into any sewer system so that such waste or other substance may directly or indirectly enter into any watercourse, wetland, reservoir, reservoir stem, controlled lake or groundwater.
 
-   (32) Disturbed area means the portion of a site for which the imperviousness of the ground has changed from pre-construction conditions as a result of any land clearing, land grading or construction activity. Disturbed areas may include lawns and landscaped areas.
+   (32) Discontinuation means an interruption in the use of a regulated activity including a noncomplying regulated activity. The period of discontinuation shall commence on the date when regular or seasonal use ceases. Incidental or illegal use of an unoccupied structure shall not be sufficient to interrupt a period of discontinuation.
 
-   (33) Drainage Area means all land and water area from which runoff may run to a common design point.
+   (33) Disturbed area means the portion of a site for which the imperviousness of the ground has changed from pre-construction conditions as a result of any land clearing, land grading or construction activity. Disturbed areas may include lawns and landscaped areas.
 
-   (34) Drainage basin means the land area which contributes surface water to a reservoir or controlled lake.
+   (34) Drainage Area means all land and water area from which runoff may run to a common design point.
 
-   (35) Driveway means a route accessible by a motor vehicle between a residential building and a public or private road to provide ingress and egress from the residential building.
+   (35) Drainage basin means the land area which contributes surface water to a reservoir or controlled lake.
 
-   (36) East of Hudson Watershed means West Branch, Boyd's Corner, Bog Brook, East Branch, Croton Falls, Diverting, Titicus, Amawalk, Muscoot, New Croton, Cross River, Middle Branch and Kensico Reservoirs, Kirk Lake, Lake Gleneida and Lake Gilead, and their respective drainage basins.
+   (36) Driveway means a route accessible by a motor vehicle between an individual residence and a public or private road to provide ingress and egress from the individual residence.
 
-   (37) Effective Date means May 1, 1997.
+   (37) East of Hudson Watershed means West Branch, Boyd's Corner, Bog Brook, East Branch, Croton Falls, Diverting, Titicus, Amawalk, Muscoot, New Croton, Cross River, Middle Branch and Kensico Reservoirs, Kirk Lake, Lake Gleneida and Lake Gilead, and their respective drainage basins.
 
-   (38) Effluent means water or wastewater that flows out from a wastewater treatment plant or other treatment process.
+   (38) Effective Date means May 1, 1997.
 
-   (39) Epilimnion means the uppermost, warmest, well-mixed layer of a lake during thermal stratification.
+   (39) Effluent means water or wastewater that flows out from a wastewater treatment plant or other treatment process.
 
-   (40) Erosion means the wearing away or the movement of soil by such physical agents as wind or water, that is exacerbated by such practices as the disturbance of ground cover by stripping or removing vegetation, construction activity, or tilling.
+   (40) Enhanced subsurface sewage treatment system means a subsurface sewage treatment system that provides enhanced treatment of wastewater to reduce the amount of biochemical oxygen demand (BOD) and total suspended solids (TSS) of wastewater effluent prior to distribution to an absorption field. Enhanced subsurface sewage treatment systems include, but are not limited to, aerobic treatment units, peat filters, and textile filters.
 
-   (41) Exfiltration means wastewater that leaks out of a sewer system into the surrounding environment, through faulty joints, defective pipes, cracks in pipes, connections, or at manholes.
+   (41) Epilimnion means the uppermost, warmest, well-mixed layer of a lake during thermal stratification.
 
-   (42) Existing means physically constructed, functioning and operational prior to the effective date of these rules and regulations.
+   (42) Erosion means the wearing away or the movement of soil by such physical agents as wind or water, that is exacerbated by such practices as the disturbance of ground cover by stripping or removing vegetation, construction activity, or tilling.
 
-   (43) Expansion means an increase in the permitted flow limit for a wastewater treatment plant as specified in the SPDES permit and/or an increase in the design capacity of a wastewater treatment plant.
+   (43) Exfiltration means wastewater that leaks out of a sewer system into the surrounding environment, through faulty joints, defective pipes, cracks in pipes, connections, or at manholes.
 
-   (44) Facility means a structure, room or other physical feature designed to perform a particular function and that makes possible some activity.
+   (44) Existing, where used to describe storage of hazardous substances, storage of petroleum products, or the siting of junkyards and solid waste management facilities, means physically constructed, functioning and operational prior to May 1, 1997.
 
-   (45) Fertilizer means any commercially produced mixture, generally containing phosphorus, nitrogen and/or potassium, except compost, that is applied to the ground to increase the supply of nutrients to plants.
+   (45) Expansion means an increase in the permitted flow limit for a wastewater treatment plant as specified in the SPDES permit and/or an increase in the design capacity of a wastewater treatment plant.
 
-   (46) Galley System means any subsurface system for treating sewage that employs structural chambers in a horizontal or vertical arrangement for the storage of effluent until it can be absorbed into the soil, that is utilized following a septic tank as an alternative to a standard absorption field, and that did not have all discretionary approvals necessary for construction and operation before June 30, 2002.
+   (46) Facility means a structure, room or other physical feature designed to perform a particular function and that makes possible some activity.
 
-   (47) Gasoline station means an establishment at which gasoline is sold or offered for sale to the public for use in motor vehicles.
+   (47) Fertilizer means any commercially produced mixture, generally containing phosphorus, nitrogen and/or potassium, except compost, that is applied to the ground to increase the supply of nutrients to plants.
 
-   (48) Groundwater means any water beneath the land surface in the zone of saturation. The zone of saturation is where water fills all available pore spaces.
+   (48) Galley System means any subsurface system for treating sewage that employs structural chambers in a horizontal or vertical arrangement for the storage of effluent until it can be absorbed into the soil, that is utilized following a septic tank as an alternative to a standard absorption field, and that did not have all discretionary approvals necessary for construction and operation before June 30, 2002.
 
-   (49) Hamlet means a population center designated as a hamlet by a Town Board in the West of Hudson watershed and described as a hamlet in a Water Supply Permit duly issued by the New York State Department of Environmental Conservation or in any written agreement among the affected parties to the 1997 New York City Watershed Memorandum of Agreement, including the New York State Department of Environmental Conservation.
+   (49) Gasoline station means an establishment at which gasoline is sold or offered for sale to the public for use in motor vehicles.
 
-   (50) Hazardous substance means any substance defined or listed in 6 NYCRR Part 597 except that hazardous substance does not mean any petroleum product, including those listed in 6 NYCRR § 597.2, Table 1, and also does not mean any hazardous waste.
+   (50) Gravelless absorption system means an absorption field using a wastewater distribution system designed to be installed without gravel or stone aggregate. Gravelless absorption systems may involve the use of geotextile, sand, or other media.
 
-   (51) Hazardous waste means any solid waste, defined or listed as a hazardous waste in 6 NYCRR Part 371.
+   (51) Groundwater means any water beneath the land surface in the zone of saturation. The zone of saturation is where water fills all available pore spaces.
 
-   (52) Holding tank means a tank or vault, with no outlet, used for holding sewage before it is pumped out and transported elsewhere for treatment or disposal.
+   (52) Hamlet means a population center designated as a hamlet by a Town Board in the West of Hudson watershed and described as a hamlet in a Water Supply Permit duly issued by the New York State Department of Environmental Conservation or in any written agreement among the affected parties to the 1997 New York City Watershed Memorandum of Agreement, including the New York State Department of Environmental Conservation.
 
-   (53) Hypolimnion means the lower, cooler layer of a lake during thermal stratification.
+   (53) Hazardous substance means any substance defined or listed in 6 NYCRR Part 597 except that hazardous substance does not mean any petroleum product, including those listed in 6 NYCRR § 597.2, Table 1, and also does not mean any hazardous waste.
 
-   (54) Impervious surface means an area which is either impervious to water or which substantially prevents the infiltration of water into the soil at that location. Impervious surfaces include, but are not limited to, paving, concrete, asphalt, rooftops, and other hard surfacing materials, and do not include dirt, crushed stone or gravel surfaces.
+   (54) Hazardous waste means any solid waste, defined or listed as a hazardous waste in 6 NYCRR Part 371.
 
-   (55) Individual residence means a building consisting of one residential unit.
+   (55) Holding tank means a tank or vault, with no outlet, used for holding sewage before it is pumped out and transported elsewhere for treatment or disposal.
 
-   (56) Individual sewage treatment system means an on-site subsurface sewage treatment system serving one or two family residential properties and receiving sewage without the admixture of industrial wastes or other wastes, as defined in the Environmental Conservation Law § 17-0701.
+   (56) Hot spot runoff means runoff from an area where land use or activities generate highly contaminated runoff, with concentrations of pollutants in excess of those typically found in stormwater, such as vehicle service and maintenance facilities, fleet storage areas, industrial sites, marinas, and facilities that generate or store hazardous materials. Runoff from residential, institutional, and office development, non-industrial rooftops, roads, and pervious surfaces is not generally hot spot runoff.
 
-   (57) Industrial waste means any liquid, gaseous, solid or waste substance or a combination thereof resulting from any process of industry, manufacturing, trade or business, or from the development or recovery of any natural resources, which may cause or might reasonably be expected to cause contamination to or degradation of the water supply.
+   (57) Hydrologic soil group means the designation of soils based on the National Engineering Handbook, Part 630, Chapter 7, Hydrologic Soil Groups, U.S. Department of Agriculture, National Resources Conservation Service, 2009 in which soils are categorized into four runoff potential groups, ranging from A soils, with high permeability and little runoff production, to D soils, which have low permeability rates and produce much more runoff.
 
-   (58) Infiltration means water, other than wastewater, that enters a sewer system, including sewer service connections, from the ground through such means as defective pipes, pipe joints, connections, or manholes. Infiltration does not include, and is distinguished from, inflow and from treatment of runoff by stormwater infiltration practices.
+   (58) Hypolimnion means the lower, cooler layer of a lake during thermal stratification.
 
-   (59) Inflow means water other than wastewater that enters a sewer system, including sewer service connections, from sources such as, but not limited to, roof leaders, cellar drains, yard drains, area drains, foundation drains, drains from springs and swampy areas, manhole covers, cross connections between storm sewers and sanitary sewers, catch basins, cooling towers, storm waters, surface runoff, street wash waters, or drainage. Inflow does not include, and is distinguished from, infiltration.
+   (59) Impervious surface means an area which is either impervious to water or which substantially prevents the infiltration of water into the soil at that location. Impervious surfaces include, but are not limited to, paving, concrete, asphalt, rooftops, and other hard surfacing materials, and do not include dirt, crushed stone, gravel surfaces, or other surfacing materials determined by the Department to be pervious for their intended purpose.
 
-   (60) In situ soil means naturally occurring glacial soil; it does not include fill or stabilized fill.
+   (60) Individual residence means a building consisting of one or two residential units.
 
-   (61) Intake means the points in the New York City water supply located prior to the point of disinfection where the water is no longer subject to surface runoff.
+   (61) Individual sewage treatment system means an on-site subsurface sewage treatment system serving one or two family residential properties and receiving sewage without the admixture of industrial wastes or other wastes, as defined in the Environmental Conservation Law § 17-0701.
 
-   (62) Intermediate sized sewage treatment system means an on-site subsurface sewage treatment system serving an industrial, institutional, municipal, commercial, or multi-family residential facility, and receiving sewage without the admixture of industrial wastes or other wastes, as defined in the Environmental Conservation Law § 17-0701.
+   (62) Industrial waste means any liquid, gaseous, solid or waste substance or a combination thereof resulting from any process of industry, manufacturing, trade or business, or from the development or recovery of any natural resources, which may cause or might reasonably be expected to cause contamination to or degradation of the water supply.
 
-   (63) Intermittent stream means a watercourse that during certain times of the year goes dry or whose lowest annual mean discharge during seven consecutive days with a recurrence interval of ten years (MA7CD/10) is less than 0.1 cubic foot per second and which periodically receives groundwater inflow. A drainage ditch, swale or surface feature that contains water only during and immediately after a rainstorm or a snow melt shall not be considered to be an intermittent stream.
+   (63) Infiltration means water, other than wastewater, that enters a sewer system, including sewer service connections, from the ground through such means as defective pipes, pipe joints, connections, or manholes. Infiltration does not include, and is distinguished from, inflow and from treatment of runoff by stormwater infiltration practices.
 
-   (64) Junkyard means any place of storage or deposit, whether in connection with another business or not, where four or more unregistered, old, or second hand motor vehicles, no longer intended or in condition for legal use on the public highways, are held, whether for the purpose of resale of used parts, for the purpose of reclaiming for use some or all of the materials such as metal, glass, or fabric for the purpose of disposing of the same, or for any other purpose.
+   (64) Inflow means water other than wastewater that enters a sewer system, including sewer service connections, from sources such as, but not limited to, roof leaders, cellar drains, yard drains, area drains, foundation drains, drains from springs and swampy areas, manhole covers, cross connections between storm sewers and sanitary sewers, catch basins, cooling towers, storm waters, surface runoff, street wash waters, or drainage. Inflow does not include, and is distinguished from, infiltration.
 
-   (65) Land clearing means the exposure of soil by devegetation or the exposure of soil to the forces of erosion.
+   (65) In situ soil means naturally occurring glacial soil; it does not include fill or stabilized fill.
 
-   (66) Land grading means the removal, addition or alteration of surface or subsurface conditions of land by excavation or filling.
+   (66) Intake means the points in the New York City water supply located prior to the point of disinfection where the water is no longer subject to surface runoff.
 
-   (67) Limiting distance means the shortest horizontal distance from the nearest point of a structure or object to the edge, margin or steep bank forming the ordinary high water mark of a watercourse, wetland, reservoir, reservoir stem or controlled lake or to the contour line coinciding with the reservoir spillway elevation.
+   (67) Intermediate sized sewage treatment system means an on-site subsurface sewage treatment system serving an industrial, institutional, municipal, commercial, or multi-family residential facility, and receiving sewage without the admixture of industrial wastes or other wastes, as defined in the Environmental Conservation Law § 17-0701.
 
-   (68) Metalimnion means an intermediate zone between the epilimnion and hypolimnion where the water temperature drops rapidly with increasing depth.
+   (68) Intermittent stream means a watercourse that during certain times of the year goes dry or whose lowest annual mean discharge during seven consecutive days with a recurrence interval of ten years (MA7CD/10) is less than 0.1 cubic foot per second and which periodically receives groundwater inflow. A drainage ditch, swale or surface feature that contains water only during and immediately after a rainstorm or a snow melt shall not be considered to be an intermittent stream.
 
-   (69) Microfiltration means a process in which treated effluent passes through a membrane filter having a nominal pore diameter of 0.2 microns or less.
+   (69) Junkyard means any place of storage or deposit, whether in connection with another business or not, where four or more unregistered, old, or second hand motor vehicles, no longer intended or in condition for legal use on the public highways, are held, whether for the purpose of resale of used parts, for the purpose of reclaiming for use some or all of the materials such as metal, glass, or fabric for the purpose of disposing of the same, or for any other purpose.
 
-   (70) Multi-family residence means a building containing three (3) or more residential units.
+   (70) Land clearing means the exposure of soil by devegetation or the exposure of soil to the forces of erosion.
 
-   (71) Municipal solid waste landfill means a landfill, as defined in 6 NYCRR § 360-1.2, which is owned or operated by a municipality.
+   (71) Land grading means the removal, addition or alteration of surface or subsurface conditions of land by excavation or filling.
 
-   (72) New means any regulated activity undertaken, constructed, installed, or implemented after May 1, 1997.
+   (72) Limiting distance means the shortest horizontal distance from the nearest point of a structure or object to the edge, margin or steep bank forming the ordinary high water mark of a watercourse, wetland, reservoir, reservoir stem or controlled lake or to the contour line coinciding with the reservoir spillway elevation.
 
-   (73) Noncomplying regulated activity means any regulated activity or existing activity which does not conform to the standards set forth in these rules and regulations, but has obtained all discretionary approvals necessary for construction and operation, prior to the effective date of these rules and regulations and/or prior to the effective date of an amendment to these rules and regulations that made the activity noncomplying.
+   (73) Mapped stream means a protected stream as defined in 6 NYCRR § 608.1.
 
-   (74) Nonpoint source pollution means pollution sources which are diffuse and do not have a single point of origin or are not introduced into a receiving stream from a point source.
+   (74) Metalimnion means an intermediate zone between the epilimnion and hypolimnion where the water temperature drops rapidly with increasing depth.
 
-   (75) NYCRR means the Official Compilation of Codes, Rules and Regulations of the State of New York.
+   (75) Microfiltration means a process in which treated effluent passes through a membrane filter having a nominal pore diameter of 0.2 microns or less.
 
-   (76) Offset means a reduction in the discharge of phosphorus into a drainage basin which is surplus, quantifiable, permanent, and enforceable, as defined herein:
+   (76) Multi-family residence means a building containing three (3) or more residential units.
+
+   (77) Municipal solid waste landfill means a landfill, as defined in 6 NYCRR § 360.2, which is owned or operated by a municipality.
+
+   (78) New, where used to describe storage of hazardous substances, storage of petroleum products, and the siting of junkyards and solid waste management facilities, means undertaken, constructed, installed, or implemented after May 1, 1997.
+
+   (79) Noncomplying regulated activity means any regulated activity or existing activity which does not conform to the standards set forth in these rules and regulations, but has obtained all discretionary approvals necessary for construction and operation, prior to the effective date of these rules and regulations and/or prior to the effective date of an amendment to these rules and regulations that made the activity noncomplying.
+
+   (80) Nonpoint source pollution means pollution sources which are diffuse and do not have a single point of origin or are not introduced into a receiving stream from a point source.
+
+   (81) NYCRR means the Official Compilation of Codes, Rules and Regulations of the State of New York.
+
+   (82) Offset means a reduction in the discharge of phosphorus into a drainage basin which is surplus, quantifiable, permanent, and enforceable, as defined herein:
 
       (i) Surplus means that the reduction in phosphorus is not otherwise required by federal, state or local law, including these rules and regulations, or pursuant to the terms of any judgment, decree or order of any court, administrative tribunal or governmental agency, or pursuant to any watershed protection program funded by the Department, except as provided in 15 RCNY §§ 18-83(a)(3) and 18-84(a)(3).
 
@@ -8198,133 +8216,145 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
       (iv) Enforceable means that the actions and performance standards proposed by the applicant leading to the reduction in phosphorus are incorporated into a legally valid and binding agreement which may be enforced by the City in a court of competent jurisdiction.
 
-   (77) One-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a 100 percent chance of occurring in any given year, as specified in the most recent Watershed Water Quality Annual Report.
+   (83) One hundred-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a one percent chance of occurring in any given year, as set forth in the "New York State Stormwater Design Manual," New York State Department of Environmental Conservation (2015).
 
-   (78) Operator means any person who leases, operates, controls or supervises a facility.
+   (84) One-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a 100 percent chance of occurring in any given year, as set forth in the "New York State Stormwater Design Manual," New York State Department of Environmental Conservation (2015).
 
-   (79) Owner means any person who has legal or equitable title to a facility.
+   (85) Operator means any person who leases, operates, controls or supervises a facility.
 
-   (80) Pathogenic means capable of causing disease from organisms, including but not limited to: bacteria, fungi, viruses, and protozoa (such as Giardia and Crypto- sporidium).
+   (86) Owner means any person who has legal or equitable title to a facility.
 
-   (81) Person means any individual, public or private corporation, political entity, agency, municipality, industry, co-partnership, association, firm, trust, estate or any other legal entity whatsoever, except that person shall not mean the State of New York or any State department, agency, board, public benefit corporation, public authority or commission.
+   (87) Pathogenic means capable of causing disease from organisms, including but not limited to: bacteria, fungi, viruses, and protozoa (such as Giardia and Cryptosporidium).
 
-   (82) Perennial stream means a watercourse that flows throughout the year from source to mouth.
+   (88) Person means any individual, public or private corporation, political entity, agency, municipality, industry, co-partnership, association, firm, trust, estate or any other legal entity whatsoever, except that person shall not mean the State of New York or any State department, agency, board, public benefit corporation, public authority or commission.
 
-   (83) Pesticide means (i) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any insects, rodents, fungi, weeds, or other forms of plant or animal life or viruses, except viruses on or in living humans, or other animals, which the Commissioner of the New York State Department of Environmental Conservation shall declare to be a pest or (ii) any substance or mixture of substances intended as a plant regulator, defoliant or desiccant.
+   (89) Perennial stream means a watercourse that flows throughout the year from source to mouth.
 
-   (84) Petroleum product means oil or petroleum of any kind and in any form including, but not limited to, oil, petroleum, fuel oil, oil sludge, oil refuse, oil mixed with other wastes and crude oils, gasoline and kerosene.
+   (90) Pesticide means (i) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any insects, rodents, fungi, weeds, or other forms of plant or animal life or viruses, except viruses on or in living humans, or other animals, which the Commissioner of the New York State Department of Environmental Conservation shall declare to be a pest or (ii) any substance or mixture of substances intended as a plant regulator, defoliant or desiccant.
 
-   (85) Phosphorus restricted basin means (i) the drainage basin of a source water reservoir in which the phosphorus load to the reservoir results in the phosphorus concentration in the reservoir exceeding 15 micrograms per liter, or (ii) the drainage basin of a reservoir other than a source water reservoir or of a controlled lake in which the phosphorus load to the reservoir or controlled lake results in the phosphorus concentration in the reservoir or controlled lake exceeding 20 micrograms per liter in both instances as determined by the Department pursuant to its annual review conducted under 15 RCNY § 18-48(e).
+   (91) Petroleum product means oil or petroleum of any kind and in any form including, but not limited to, oil, petroleum, fuel oil, oil sludge, oil refuse, oil mixed with other wastes and crude oils, gasoline and kerosene.
 
-   (86) Photic zone means the region of a lake that receives light, where photosynthesis takes place. The photic zone extends down to a depth where photosynthetic activity and respiration are balanced due to the available light, or to one percent surface illumination.
+   (92) Phosphorus restricted basin means (i) the drainage basin of a source water reservoir in which the phosphorus load to the reservoir results in the phosphorus concentration in the reservoir exceeding 15 micrograms per liter, or (ii) the drainage basin of a reservoir other than a source water reservoir or of a controlled lake in which the phosphorus load to the reservoir or controlled lake results in the phosphorus concentration in the reservoir or controlled lake exceeding 20 micrograms per liter in both instances as determined by the Department pursuant to its annual review conducted under 15 RCNY § 18-48(e).
 
-   (87) Point source means any discernible, confined and discrete conveyance, including but not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, or vessel or other floating craft, or landfill leachate collection system, from which pollutants are or may be discharged.
+   (93) Photic zone means the region of a lake that receives light, where photosynthesis takes place. The photic zone extends down to a depth where photosynthetic activity and respiration are balanced due to the available light, or to one percent surface illumination.
 
-   (88) Pollutant means unpermitted dredged spoil, solid waste, incinerator residue, sewage, effluent, garbage, sewage sludge, munitions, chemical waste, biological material, radioactive material, heat, wrecked or discarded equipment, rock, sand, and industrial and municipal waste discharged into water.
+   (94) Point source means any discernible, confined and discrete conveyance, including but not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, or vessel or other floating craft, or landfill leachate collection system, from which pollutants are or may be discharged.
 
-   (89) Principal means an agency or person that owns 10 percent or more of the voting stock or has the ability to control a corporation, partnership or other entity.
+   (95) Pollutant means unpermitted dredged spoil, solid waste, incinerator residue, sewage, effluent, garbage, sewage sludge, munitions, chemical waste, biological material, radioactive material, heat, wrecked or discarded equipment, rock, sand, and industrial and municipal waste discharged into water.
 
-   (90) Radioactive material means any material in any form that emits radiation spontaneously.
+   (96) Portable toilet means a non-waterborne sewage system with offsite residual disposal, as identified in 10 NYCRR Appendix 75-A.
 
-   (91) Redevelopment project means the reconstruction or modification of any previously developed land such as residential, commercial, industrial, or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land which has not been substantially developed. The term "redevelopment project" specifically applies to areas previously developed with impervious surfaces.
+   (97) Principal means an agency or person that owns 10 percent or more of the voting stock or has the ability to control a corporation, partnership or other entity.
 
-   (92) Regulated activity means any activity to which these rules and regulations apply, as described in subdivisions (a)-(d) of 15 RCNY § 18-14.
+   (98) Qualifying municipal sewer use law means a local law or ordinance that includes provisions substantially similar to Articles 1 - 3, 5 - 7, 11 - 14 and the Appendix of the New York State Department of Environmental Conservation Model Sewer Use Law, dated 1994, or which the New York State Department of Environmental Conservation has otherwise accepted pursuant to the SPDES permit for the wastewater treatment plant served by a municipal sewer system.
 
-   (93) Remediation means the repair or replacement, other than routine repair or maintenance as described in 15 RCNY § 18-38(a)(9)(iii), of a subsurface sewage treatment system that is failing.
+   (99) Radioactive material means any material in any form that emits radiation spontaneously.
 
-   (94) Reservoir means any natural or artificial impoundment of water owned or controlled by the City which is tributary to the City Water supply system.
+   (100) Redevelopment means the reconstruction or modification of any previously developed land such as residential, commercial, industrial, or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to soil disturbance on land which has not been developed. The term "redevelopment" specifically applies to areas previously developed with impervious surfaces.
 
-   (95) Reservoir stem means any watercourse segment which is tributary to a reservoir and lies within 500 feet or less of the reservoir.
+   (101) Regulated activity means any activity to which these rules and regulations apply, as described in subdivisions (a)-(d) of 15 RCNY § 18-14.
 
-   (96) Residential lot(s) means any parcel of land of five acres or less, any point on the boundary line of which is less than one-half mile from any point on the boundary line of another such lot in the same tract, unless any such lot may not legally be used for residential purposes. Without limiting the generality of the foregoing, the term "residential" shall include temporary, seasonal and permanent residential use.
+   (102) Remediation means the repair or replacement, other than routine repair or maintenance as described in 15 RCNY § 18-38(b)(5)(iii) of Subchapter C, of a subsurface sewage treatment system. Remediation does not include alteration or modification as defined in these rules and regulations.
 
-   (97) Sediment means organic or mineral solids or colloids that are transported by the process of hydrologic, hydraulic, or atmospheric transport, including but not limited to erosion.
+   (103) Reserve absorption field means an area identified in the design for a subsurface sewage treatment system as suitable for infiltration of sewage to the soil by means of a network of pipes.
 
-   (98) Sewage means the water-carried human or animal wastes from residences, buildings, industrial establishments or other places, together with such groundwater infiltration and surface water as may be present. The admixture of sewage with industrial waste or any other waste as herein defined, shall also be considered "sewage" within the meaning of these rules and regulations.
+   (104) Reservoir means any natural or artificial impoundment of water owned or controlled by the City which is tributary to the City Water supply system.
 
-   (99) Sewer connection or lateral means the connection between a building, residence, or other structure and a sewer system except that any connection designed and intended to convey 2,500 gallons per day or more of residential sewage shall be considered a sewer extension.
+   (105) Reservoir stem means any watercourse segment which is tributary to a reservoir and lies within 500 feet or less of the reservoir.
 
-   (100) Sewer extension means newly constructed sewer pipe lines or conduits, and pumping stations and other constructions appurtenant thereto, designed to serve one or more sewer connections and to convey sewage, industrial waste or other wastes to a sewer system.
+   (106) Residential lot(s) means any parcel of land of five acres or less, any point on the boundary line of which is less than one-half mile from any point on the boundary line of another such lot in the same tract, unless any such lot may not legally be used for residential purposes. Without limiting the generality of the foregoing, the term "residential" shall include temporary, seasonal and permanent residential use.
 
-   (101) Sewer system means pipe lines or conduits, pumping stations, and force mains, and all other constructions, devices, and appliances appurtenant thereto, including sewer extensions, used for conducting sewage, industrial waste or other wastes to a treatment facility.
+   (107) Sediment means organic or mineral solids or colloids that are transported by the process of hydrologic, hydraulic, or atmospheric transport, including but not limited to erosion.
 
-   (102) Silvicultural activity means the removal of selected trees within a specified boundary designated by the owner of the property so that adequate numbers of trees are left to provide seed and partial shade for the development of new tree seedlings, and when such activity is in accordance with Federal, State and local laws.
+   (108) Sewage means the water-carried human or animal wastes from residences, buildings, industrial establishments or other places, together with such groundwater infiltration and surface water as may be present. The admixture of sewage with industrial waste or any other waste as herein defined, shall also be considered "sewage" within the meaning of these rules and regulations.
 
-   (103) Small quantity generator has the meaning set forth in 6 NYCRR § 370.2(b)(154).
+   (109) Sewer connection means the connection between a building, residence, or other structure and a sewer system except that any connection designed and intended to convey 2,500 gallons per day or more of sewage, industrial waste or other wastes shall be considered a sewer extension. Sewer connections designed to facilitate additional sewer connections, which are proposed on or after November 29, 2019, shall be considered sewer extensions.
 
-   (104) Solid waste means all putrescible and non-putrescible materials or substances that are discarded, abandoned, or rejected as being spent, useless, worthless or in excess to the owners at the time of such discard or rejection, including but not limited to garbage, refuse, industrial and commercial waste, sludges from air or water treatment facilities, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal, except where exempt from compliance with 6 NYCRR Part 360 as described in 6 NYCRR § 360-1.2(a)(4).
+   (110) Sewer extension means newly constructed sewer pipe lines or conduits, and pumping stations and other constructions appurtenant thereto, designed to serve one or more sewer connections and to convey sewage, industrial waste or other wastes to a sewer system.
 
-   (105) Solid waste management facility means any facility employed beyond the initial solid waste collection process and managing solid waste including but not limited to: storage areas or facilities; transfer stations; rail-haul or barge-haul facilities; landfills; construction and demolition processing facilities; disposal facilities; solid waste incinerators; landspreading facilities; composting facilities; surface impoundments; waste oil storage, reprocessing and rerefining facilities; recyclables handling and recovery facilities; and waste tire storage facilities, as defined in 6 NYCRR § 360-1.2.
+   (111) Sewer system means pipe lines or conduits, pumping stations, and force mains, and all other constructions, devices, and appliances appurtenant thereto, including sewer extensions, used for conducting sewage, industrial waste or other wastes to a treatment facility.
 
-   (106) Source water reservoir means Ashokan, Cross River, Croton Falls, Kensico, New Croton, Rondout, and West Branch Reservoirs.
+   (112) Silvicultural activity means the removal of selected trees within a specified boundary designated by the owner of the property so that adequate numbers of trees are left to provide seed and partial shade for the development of new tree seedlings, and when such activity is in accordance with Federal, State and local laws.
 
-   (107) SPDES flow parameter violation means two or more violations of a permitted State Pollutant Discharge Elimination System (SPDES) flow parameter limit during a consecutive six month period. A facility that operates less than 6 months per year will be deemed to have a SPDES flow parameter violation if the permitted SPDES flow parameter limit is violated one or more times during any consecutive four month period.
+   (113) Small quantity generator has the meaning set forth in 6 NYCRR § 370.2(b)(154).
 
-   (108) State Pollutant Discharge Elimination System (SPDES) permit means a permit issued pursuant to Titles 7 and 8 of Article 17 of the Environmental Conservation Law.
+   (114) Solid waste means all putrescible and non-putrescible materials or substances that are discarded, abandoned, or rejected as being spent, useless, worthless or in excess to the owners at the time of such discard or rejection, including but not limited to garbage, refuse, industrial and commercial waste, sludges from air or water treatment facilities, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal, except where exempt from compliance with 6 NYCRR Part 360 as described in 6 NYCRR § 360.2(a)(3).
 
-   (109) Stormwater means that portion of precipitation that is in excess of the evaporative or infiltrative capacity of soils, or the retentive capacity of surface features, that flows off the land by surface runoff or by subsurface interflow to watercourses, wetlands, reservoirs, reservoir stems and controlled lakes, i.e., that portion of the water supplied to surface drainage that is not groundwater or base flow.
+   (115) Solid waste management facility means any facility employed beyond the initial solid waste collection process and managing solid waste, as defined in 6 NYCRR § 360.2.
 
-   (110) Stormwater conveyance measure means a swale, drainage ditch, pipe, spillway, or other structure located outside a stormwater management practice that is used solely to transport water between stormwater management practices or to a watercourse or wetland. A stormwater conveyance measure constructed to convey stormwater, on a temporary basis, during active construction, which will not be used as a stormwater conveyance measure after construction is complete, is not considered a watercourse under this Chapter. A stormwater conveyance measure that contains water only during and immediately after a rainstorm or a snowmelt is not considered a watercourse.
+   (116) Source water reservoir means Ashokan, Cross River, Croton Falls, Kensico, New Croton, Rondout, and West Branch Reservoirs.
 
-   (111) Stormwater infiltration practice means a stormwater management practice designed to collect and temporarily store runoff and to distribute that runoff to the underlying soil for treatment.
+   (117) SPDES flow parameter violation means two or more violations of a permitted State Pollutant Discharge Elimination System (SPDES) flow parameter limit during a consecutive six month period. A facility that operates less than 6 months per year will be deemed to have a SPDES flow parameter violation if the permitted SPDES flow parameter limit is violated one or more times during any consecutive four month period.
 
-   (112) Stormwater management practice means a stormwater pond, stormwater wetland (also known as a constructed wetland), infiltration system, filter practice, or open channel used primarily for managing and/or treating stormwater, including a Department approved alternative stormwater management practice.
+   (118) State Pollutant Discharge Elimination System (SPDES) permit means a permit issued pursuant to Titles 7 and 8 of Article 17 of the Environmental Conservation Law.
 
-   (113) Stormwater Project Review Committee ("Committee") means a Committee formed in each Town or Village in the watershed to assist the Department in implementing 15 RCNY § 18-39(b) and (c), and consisting of the following four Committee members: a representative of the Department, who shall act as chairperson; a representative of the New York State Department of Environmental Conservation from the region in which the activity requiring a stormwater pollution prevention plan is proposed to be located; a representative of the Town or Village in which the activity requiring a stormwater pollution prevention plan is proposed to be located or if no one is designated by the Town, or if the activity is proposed for a village, the Village, a representative of the appropriate County Planning Department, provided, however, that a Town, or if the activity is proposed for a village, the Village, may at any time designate a representative to replace the one designated by the County Planning Department; and a representative of the County Department of Health from the County in which the activity requiring a stormwater pollution prevention plan is proposed to be located, or in a County without a County Department of Health, a representative of the County Soil and Water Conservation Service.
+   (119) Stormwater means that portion of precipitation that is in excess of the evaporative or infiltrative capacity of soils, or the retentive capacity of surface features, that flows off the land by surface runoff or by subsurface interflow to watercourses, wetlands, reservoirs, reservoir stems and controlled lakes, i.e., that portion of the water supplied to surface drainage that is not groundwater or base flow.
 
-   (114) Stormwater retrofit means any construction of a structural stormwater management practice in a previously developed area, the modification of a structural stormwater management practice, or the implementation of a nonstructural practice to improve stormwater management and/or stormwater treatment over current conditions.
+   (120) Stormwater bioretention practice means a stormwater management practice that uses landscaping and soils to treat stormwater runoff by collecting it in shallow depressions, before filtering through a fabricated planting soil media.
 
-   (115) Stratification means the physical condition caused primarily by temperature-created differences in water density, which results in the formation of a warm, surface layer (epilimnion), a zone of transition (metalimnion), and a cooler, deep layer of water (hypolimnion).
+   (121) Stormwater conveyance measure means a swale, drainage ditch, pipe, spillway, or other structure located outside a stormwater management practice that is used solely to transport water between stormwater management practices or to a watercourse or wetland. A stormwater conveyance measure constructed to convey stormwater, on a temporary basis, during active construction, which will not be used as a stormwater conveyance measure after construction is complete, is not considered a watercourse under this Chapter. A stormwater conveyance measure that contains water only during and immediately after a rainstorm or a snowmelt is not considered a watercourse.
 
-   (116) Subdivision means any tract of land which is divided into five or more parcels of five acres or less, along an existing or proposed street, highway, easement or right-of-way, for sale or for rent as residential lots. A tract of land shall constitute a subdivision upon the sale, rental or offer for sale or lease of the fifth residential lot therefrom within any consecutive three year period.
+   (122) Stormwater infiltration practice means a stormwater management practice designed to collect and temporarily store runoff and to distribute that runoff to the underlying soil for treatment.
 
-   (117) Subsurface discharge means discharge to an absorption area, i.e., a process designed to allow filtered, treated sewage effluent to be discharged into the ground as a means of ultimate disposal.
+   (123) Stormwater management practice means a stormwater pond, stormwater wetland (also known as a constructed wetland), infiltration system, filter practice, or open channel used primarily for managing and/or treating stormwater, including a Department approved alternative stormwater management practice.
 
-   (118) Subsurface sewage treatment system means any underground system used for collecting, treating, and disposing of sewage into the ground including, but not limited to, individual and intermediate sized sewage treatment systems, as defined in these rules and regulations.
+   (124) Stormwater Project Review Committee ("Committee") means a Committee formed in each Town or Village in the watershed to assist the Department in implementing 15 RCNY § 18-39(b) and (c), and consisting of the following four Committee members: a representative of the Department, who shall act as chairperson; a representative of the New York State Department of Environmental Conservation from the region in which the activity requiring a stormwater pollution prevention plan is proposed to be located; a representative of the Town or Village in which the activity requiring a stormwater pollution prevention plan is proposed to be located or if no one is designated by the Town, or if the activity is proposed for a village, the Village, a representative of the appropriate County Planning Department, provided, however, that a Town, or if the activity is proposed for a village, the Village, may at any time designate a representative to replace the one designated by the County Planning Department; and a representative of the County Department of Health from the County in which the activity requiring a stormwater pollution prevention plan is proposed to be located, or in a County without a County Department of Health, a representative of the County Soil and Water Conservation Service.
 
-   (119) Ten-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a ten percent chance of occurring in any given year, as specified in the most recent Watershed Water Quality Annual Report.
+   (125) Stormwater retrofit means any construction of a structural stormwater management practice in a previously developed area, the modification of a structural stormwater management practice, or the implementation of a nonstructural practice to improve stormwater management and/or stormwater treatment over current conditions.
 
-   (120) Terminal reservoir means Kensico, West Branch, New Croton, Ashokan and Rondout Reservoirs.
+   (126) Stratification means the physical condition caused primarily by temperature-created differences in water density, which results in the formation of a warm, surface layer (epilimnion), a zone of transition (metalimnion), and a cooler, deep layer of water (hypolimnion).
 
-   (121) Two-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a fifty percent chance of occurring in any given year.
+   (127) Subdivision means any tract of land which is divided into five or more parcels of five acres or less, along an existing or proposed street, highway, easement or right-of-way, for sale or for rent as residential lots. A tract of land shall constitute a subdivision upon the sale, rental or offer for sale or lease of the fifth residential lot therefrom within any consecutive three year period.
 
-   (122) Ulster County Fill System means a subsurface sewage treatment system used in Ulster County which has been approved by the New York State Department of Health for use in Ulster County and which is built upon two (2) feet of in situ soil that has a percolation rate between 3 to 60 minutes/inch, and which uses at least four (4) feet of fill material, including at least three (3) feet between the bottom of the trench and the in situ soil, that has a percolation rate between 3 and 10 minutes/inch. Ulster County Fill Systems may be used on individual lots or in subdivisions in Ulster County and may also be used in a county other than Ulster if the New York State Department of Health has approved the system for use in such other county.
+   (128) Subsurface discharge means discharge to an absorption area, i.e., a process designed to allow filtered, treated sewage effluent to be discharged into the ground as a means of ultimate disposal.
 
-   (123) Village means a territory which has been incorporated as a village pursuant to Article 2 of the New York State Village Law.
+   (129) Subsurface sewage treatment system means any underground system used for collecting, treating, and disposing of sewage into the ground including, but not limited to, individual and intermediate sized sewage treatment systems, as defined in these rules and regulations.
 
-   (124) Village extension means an area immediately adjoining a main road extending outside an existing village which has been designated as a village extension by a Town Board in the West of Hudson watershed and described in a Water Supply Permit duly issued by the New York State Department of Environmental Conservation or in any written agreement among the affected parties to the 1997 New York City Watershed Memorandum of Agreement, including the New York State Department of Environmental Conservation.
+   (130) Superintendent, where used in connection with a municipality with a qualifying municipal sewer use law, means "superintendent" as defined in that law.
 
-   (125) Wastewater treatment plant means any facility which treats sewage or discharges treated effluent not intended to receive further treatment in the watershed, and which requires a permit under Titles 7 or 8 of Article 17 of the Environmental Conservation Law. A wastewater treatment plant is installed for the purpose of treating, neutralizing, stabilizing or disposing of sewage by removal of contaminants accomplished by unit operations or processes or by a combination of such operations and processes as may be applicable to a given design for a wastewater treatment plant. Wastewater treatment plants shall not include intermediate sized sewage treatment systems as defined in these rules and regulations.
+   (131) Ten-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a ten percent chance of occurring in any given year, as set forth in the "New York State Stormwater Design Manual," New York State Department of Environmental Conservation (2015).
 
-   (126) Water Quality Volume (WQv) means the storage needed to capture and treat 90% of the average annual stormwater runoff volume. WQv is calculated as follows:      WQv = (P)(Rv)(A)         12
+   (132) Terminal reservoir means Kensico, West Branch, New Croton, Ashokan and Rondout Reservoirs.
+
+   (133) Two-year, twenty-four hour storm means the storm, with a twenty-four hour duration, that statistically has a fifty percent chance of occurring in any given year, as set forth in the "New York State Stormwater Design Manual," New York State Department of Environmental Conservation (2015).
+
+   (134) Ulster County Fill System means a subsurface sewage treatment system used in Ulster County which has been approved by the New York State Department of Health for use in Ulster County and which is built upon two (2) feet of in situ soil that has a percolation rate between 3 to 60 minutes/inch, and which uses at least four (4) feet of fill material, including at least three (3) feet between the bottom of the trench and the in situ soil, that has a percolation rate between 3 and 10 minutes/inch. Ulster County Fill Systems may be used on individual lots or in subdivisions in Ulster County and may also be used in a county other than Ulster if the New York State Department of Health has approved the system for use in such other county.
+
+   (135) Village means a territory which has been incorporated as a village pursuant to Article 2 of the New York State Village Law.
+
+   (136) Village extension means an area immediately adjoining a main road extending outside an existing village which has been designated as a village extension by a Town Board in the West of Hudson watershed and described in a Water Supply Permit duly issued by the New York State Department of Environmental Conservation or in any written agreement among the affected parties to the 1997 New York City Watershed Memorandum of Agreement, including the New York State Department of Environmental Conservation.
+
+   (137) Wastewater treatment plant means any facility which treats sewage or discharges treated effluent not intended to receive further treatment in the watershed, and which requires a permit under Titles 7 or 8 of Article 17 of the Environmental Conservation Law. A wastewater treatment plant is installed for the purpose of treating, neutralizing, stabilizing or disposing of sewage by removal of contaminants accomplished by unit operations or processes or by a combination of such operations and processes as may be applicable to a given design for a wastewater treatment plant. Wastewater treatment plants shall not include intermediate sized sewage treatment systems as defined in these rules and regulations.
+
+   (138) Water Quality Volume (WQv) means the storage needed to capture and treat 90% of the average annual stormwater runoff volume. WQv is calculated as follows:
+
+      WQv = (P)(Rv)(A)         12
 
       where:
 
          WQv = water quality volume (in acre-feet)
 
-         P = 90% Rain Event Number (A map of the 90% Rainfall in New York State appears in the most recent Watershed Water Quality Annual Report.)
+         P = 90% Rain Event Number as set forth in the "New York State Stormwater Design Manual," New York State Department of Environmental Conservation (2015).
 
          Rv = 0.05 + 0.009(I), where I is percent impervious cover
 
          A = site area in acres
 
-      A minimum WQv of 0.2 inches per acre shall be met at residential sites that have less than 17% impervious cover.
+   (139) Water supply means the New York City public water supply system, and includes all watercourses, wetlands, reservoirs, reservoir stems and controlled lakes tributary thereto.
 
-   (127) Water supply means the New York City public water supply system, and includes all watercourses, wetlands, reservoirs, reservoir stems and controlled lakes tributary thereto.
+   (140) Watercourse means a visible path through which surface water travels on a regular basis, including an intermittent stream, which is tributary to the water supply. A drainage ditch, swale or surface feature that contains water only during and immediately after a rainstorm or a snowmelt shall not be considered to be a watercourse.
 
-   (128) Watercourse means a visible path through which surface water travels on a regular basis, including an intermittent stream, which is tributary to the water supply. A drainage ditch, swale or surface feature that contains water only during and immediately after a rainstorm or a snowmelt shall not be considered to be a watercourse.
+   (141) Watershed means the land area contributing surface water to the New York City water supply.
 
-   (129) Watershed means the land area contributing surface water to the New York City water supply.
+   (142) Watershed Agricultural Council means the Watershed Agricultural Council for the New York City Watershed, Inc., a not-for-profit organization with its principal place of business at 33195 State Highway 10, Walton, New York 13856.
 
-   (130) Watershed Agricultural Council means the Watershed Agricultural Council for the New York City Watershed, Inc., a not-for-profit organization with its principal place of business at 33195 State Highway 10, Walton, New York 13856.
+   (143) West of Hudson watershed means the Ashokan, Cannonsville, Pepacton, Neversink, Rondout, and Schoharie Reservoirs and their drainage basins.
 
-   (131) Watershed Water Quality Annual Report means the report prepared annually by the Department in accordance with 15 RCNY § 18-48. The Watershed Water Quality Annual Report includes the results of its annual review of its reservoirs and controlled lakes as described in 15 RCNY § 18-48 as well as the current New York State rainfall values for the one- and ten-year, twenty-four hour storms and a map of the 90% rainfall in New York State.
+   (144) Wetland means any area mapped as a wetland by the New York State Department of Environmental Conservation pursuant to the Environmental Conservation Law, which is at least 12.4 acres in size or has been designated as a wetland of unusual local importance.
 
-   (132) West of Hudson watershed means the Ashokan, Cannonsville, Pepacton, Neversink, Rondout, and Schoharie Reservoirs and their drainage basins.
+   (145) Winter highway maintenance materials means the solid compounds or the solutions that are commonly used for traction on, or for the abatement of, winter road ice, including, but not limited to, chloride compounds, and mixtures of sand and chloride compounds.
 
-   (133) Wetland means any area mapped as a wetland by the New York State Department of Environmental Conservation pursuant to the Environmental Conservation Law, which is at least 12.4 acres in size or has been designated as a wetland of unusual local importance.
 
-   (134) Winter highway maintenance materials means the solid compounds or the solutions that are commonly used for traction on, or for the abatement of, winter road ice, including, but not limited to, chloride compounds, mixtures of sand and chloride compounds, sand and coal combustion bottom ash and ash from solid waste incinerators that meet the requirements of 6 NYCRR § 360-3.5(h).
 
 
 
@@ -8340,31 +8370,25 @@ The following laws, guidance documents, regulations or technical material have b
 
    (2) USDA Soil Conservation Service Soil Type Boundaries, USDA SCS, Room 771, Federal Building, 100 South Clinton Street, P.O. Box 7248, Syracuse, New York 13261-7248.
 
-   (3) Standard Methods for the Examination of Water and Wastewater, 12th edition, 1965, Table 18, "Qualitative Description of Odors," page 306, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 2626 Pennsylvania Avenue NW, Washington, D.C. 20037.
+   (3) National Engineering Handbook, Part 630, Chapter 7, Hydrologic Soil Groups, U.S. Department of Agriculture, National Resources Conservation Service, 2009, U.S. Department of Agriculture 1400 Independence Ave., Washington, D.C. 20250.
 
-   (4) Standard Methods for the Examination of Water and Wastewater, 18th edition, 1992, American Public Health Association, American Water Works Association, and Water Environment Federation, 2626 Pennsylvania Avenue NW, Washington, D.C. 20037.
+   (4) New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.1.1, Ambient Water Quality Standards and Guidance Values and Groundwater Effluent Limitations (October 22, 1993, Reissue Date June 1998, as modified and supplemented by the January 1999 Errata Sheet and the April 2000 and June 2004 Addenda), New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (5) Methods for Chemical Analysis of Water and Wastes, 1979, Environmental Protection Agency (EPA), Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+   (5) New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.3.1, Total Maximum Daily Loads and Water Quality Based Effluent Limits , including Amendments A through E , New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (6) State Environmental Quality Review Act, New York State Environmental Conservation Law, Article 8 (ECL §§ 8-0101 et seq.), Department of State, 162 Washington Avenue, Albany, New York 12231.
+   (6) New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.3.1B, Total Maximum Daily Loads and Water Quality-Based Effluent Limits, Amendments-Low and Intermittent Stream Standards , New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (7) Public Water Supplies; Sewerage and Sewage Control, New York State Public Health Law, Article 11 (PHL §§ 1100 et seq.), Department of State, 41 State Street, Albany, New York 12231.
+   (7) New York State Department of Environmental Conservation SPDES General Permit for Stormwater Discharges from Construction Activity, Permit No. GP-0-15-002, Effective January 29, 2015, New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (8) Classifications and Standards of Quality and Purity, 6 NYCRR Parts 701 and 703, Department of State, 41 State Street, Albany, New York 12231.
+   (8) New York State Design Standards for Intermediate Sized Wastewater Treatment Systems, 2014, New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (9) Standards for Individual Water Supply and Wastewater Treatment Systems, 10 NYCRR Part 75 and Appendix 75-A, Department of State, 41 State Street, Albany, New York 12231.
+   (9) New York State Stormwater Design Manual, 2015, New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (10) New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.1.1, Ambient Water Quality and Guidance Values (October 22, 1993, Reissue Date June 1998, as modified and supplemented by the January 1999 Errata Sheet and the April 2000 and June 2004 Addenda), New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
+   (10) Model Sewer Use Law, 1994, New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (11) New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.3.1, Total Maximum Daily Loads and Water Quality Based Effluent Limits , including Amendments A through E , New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
+   (11) Recommended Standards for Wastewater Facilities, Great Lakes-Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers, 2014, Health Education Services, Health Education Services Division, P.O. Box 7126, Albany, New York 12224.
 
-   (12) New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.3.1B, Total Maximum Daily Loads and Water Quality-Based Effluent Limits, Amendments-Low and Intermittent Stream Standards , New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
 
-   (13) New York State Environmental Conservation SPDES General Permit for Storm Water Discharges from Construction Activities, Permit No. GP-0-08-001, Dated January 29, 2010, New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
-
-   (14) Design Standards for Wastewater Treatment Works, Intermediate Sized Sewerage Facilities, 1988, New York State Department of Environmental Conservation, 625 Broadway, Albany, New York 12233.
-
-   (15) Recommended Standards for Wastewater Facilities, Great Lakes – Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers, 2004, Health Education Services, P.O. Box 7126, Albany, New York 12224.
 
 
 
@@ -8447,9 +8471,9 @@ Where any notification, application or reporting to the Department required by t
 
    (3) When a regulated activity requires a related approval from any other agency or more than one approval from the Department, the application for review and approval shall include a list of such approvals which the applicant knows to be required, and a statement of the status of any required approval at the time of filing of the application with the Department.
 
-   (4) An application for review and approval of any regulated activity shall include the name, address, telephone number, and fax number of the applicant or the applicant's authorized representative, and of the design professional(s), if any, involved in preparing the application.
+   (4) An application for review and approval of any regulated activity shall include the name, address, telephone number, email address, and fax number of the applicant or the applicant's authorized representative, and of the design professional(s), if any, involved in preparing the application.
 
-(d) Review and Approval Procedures:
+(d) Review and Approval Procedures.
 
    (1) The applicant proposing to engage in any activity listed in 15 RCNY § 18-14 which requires the review and approval of the Department shall certify in writing that she or he believes that the application is complete and in compliance with the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations.
 
@@ -8476,6 +8500,8 @@ Where any notification, application or reporting to the Department required by t
    (8) Notwithstanding the time periods for decisions specified in this subdivision, the Department may condition an approval on the applicant providing satisfactory proof of any bonds required by the Department within thirty days of the applicant receiving the conditional approval from the Department.
 
    (9) Any notice required or permitted to be given by the Department under this Subchapter shall be given in such manner designed to reach the applicant, as the Department deems appropriate, and may include, but is not limited to, regular mail, certified mail return receipt requested, or telecopier.
+
+
 
 
 
@@ -8525,7 +8551,7 @@ Where any notification, application or reporting to the Department required by t
 *§ 18-26 Modification, Suspension or Revocation of Approvals and Variances.* ::
 
 
-(a)  An approval or variance issued by the Department pursuant to these rules and regulations may be modified, suspended or revoked at any time upon the Department's initiative, on any of the grounds set forth in paragraphs (1) through (5) of this subdivision. The grounds for modification, suspension or revocation include:
+(a)  An approval or variance issued by the Department pursuant to these rules and regulations may be modified, suspended or revoked at any time upon the Department's initiative, on any of the grounds set forth in paragraphs (1) through (5) of this subdivision.
 
    (1) Materially false or inaccurate statements in the approval or variance application or supporting documents;
 
@@ -8537,27 +8563,37 @@ Where any notification, application or reporting to the Department required by t
 
    (5) Noncompliance with previously issued approval or variance conditions, orders of the Commissioner, or with any provisions of the rules and regulations of the Department related to the activity.
 
-(b) The Department shall send a notice of intent to modify, suspend or revoke an approval or variance to the person named in the approval or variance by certified mail, return receipt requested or by personal service. The notice shall state the alleged facts or conduct which appear to warrant the intended action.
+(b) The Department shall send a notice of intent to modify, suspend or revoke an approval or variance to the person named in the approval or variance by certified mail, return receipt requested or by personal service. The notice shall specify the ground or grounds on which the modification, suspension, or revocation is sought, as well as the alleged facts on which the modification, suspension, or revocation is based.
 
-(c) Within fifteen calendar days of receipt of a notice of intent, the person named in the approval or variance may submit a written statement to the Department, giving reasons why the approval or variance should not be modified, suspended or revoked, or requesting a hearing, or both. Failure by such person to timely submit a statement shall result in the Department's action becoming effective on the date specified in the notice of intent.
+(c) Within fifteen calendar days of receipt of a notice of intent, the person named in the approval or variance may submit a written statement to the Department, giving reasons why the approval or variance should not be modified, suspended or revoked. Failure by such person to timely submit a statement shall result in the Department's action becoming effective on the date specified in the notice of intent.
 
 (d) Within fifteen calendar days of receipt of such person's statement, the Department shall either:
 
-   (1) If a statement without a request for a hearing is submitted, rescind or confirm the notice of intent based on a review of the information provided by such person; or
+   (1) Rescind the notice of intent based on a review of the information provided by such person;
 
-   (2) If a statement with a request for a hearing is submitted, notify such person of a date and place for a hearing, to be commenced not later than sixty calendar days from this notification.
+   (2)  Confirm the Department's intent to modify, suspend, or revoke the approval or variance as stated in the notice of intent; or
 
-(e) In the event such a hearing is held, the Commissioner shall, within thirty calendar days of receipt of the complete record, issue a written decision, stating the findings and reasons therefor, to the person named in the approval or variance. The decision shall:
+   (3) Amend the Department's notice of intent, specifying the Department's revised intent to modify, suspend, or revoke the approval or variance.
 
-   (1) Continue the approval or variance in effect as originally issued;
+(e) If the Department confirms or amends its intent to modify, suspend, or revoke the approval or variance, the person named in the approval or variance may request a hearing on the Department's determination by submitting a petition in writing to the Office of Administrative Trials and Hearings ("OATH"), and sending a copy of the petition to the Commissioner, within thirty (30) days of receipt of confirmation of the Department's intent, in accordance with the following:
 
-   (2) Modify the approval or variance or suspend it for a stated period of time or upon stated conditions; or
+   (1) Form and content of petition. The petition must state the name, address, and email address of the petitioner and must include a short and plain statement of the matters to be heard by OATH. The following documents must be included with the petition: the Department's notice of intent to modify, suspend, or revoke the approval or variance; the petitioner's statement giving reasons why the approval or variance should not be modified, suspended or revoked; the Department's confirmation or amendment of its intent; and a completed OATH intake sheet. Blank intake sheets are available from the Department.
 
-   (3) Revoke the approval or variance, including, where ordered by the Commissioner, removal or modification of all or any portion of a project, whether completed or not.
+   (2) Department response. Within twenty (20) days of receipt of the petition, the Commissioner may respond to the petition. If the Commissioner responds, the Commissioner must include the record on which the determination was based. A copy of any response shall be sent to the petitioner.
 
-(f) Where the Department proposes to modify an approval or variance, and the person named in the approval or variance requests a hearing on the proposed modification, the original conditions of the approval or variance shall remain in effect until a decision has been issued by the Commissioner pursuant to subdivision (e) of this section. At such time the modified conditions shall take effect.
+   (3) Proceedings before the OATH Trials Division. Upon receipt of the petition for a hearing, OATH shall promptly schedule a hearing at a time and date which shall not be less than thirty (30) days, nor exceed one hundred twenty (120) days, from the date of receipt by OATH of the petition for a hearing unless the parties and the ALJ agree to another date. The hearing may be held in the district of the Department where the activity that is the subject of the order is located, except that hearings may be held at the Department's offices in Kingston, New York for petitions relating to regulated activities in the East of Hudson watershed and at the Department's offices in Kingston, New York for petitions relating to regulated activities in the West of Hudson watershed. The hearing may also be held by video conferencing or other electronic means, or as otherwise agreed to by the parties and the ALJ. Notice of such hearing shall be provided in writing to the petitioner and to the Department.
 
-(g) Nothing in this section shall preclude or affect the Commissioner's authority to use the remedy of summary abatement or to issue a cease and desist order under these rules and regulations, or any other law or regulation.
+   (4) Burden of proof. The Department shall have the burden of proving, by a preponderance of the evidence, facts supporting the modification, suspension or revocation.
+
+   (5) The hearing shall be held before an OATH ALJ. The ALJ shall cause a record of the hearing to be made, and shall make a recommendation to the Commissioner within thirty (30) days of the close of the hearing record, setting forth the appearances, the relevant facts and arguments presented at the hearing, findings of fact and conclusions of law, and a recommendation as to whether approval or variance should be modified, suspended, or revoked and the reasons therefor. A transcript of the record of the hearing shall be made available at the petitioner's request and expense.
+
+(f) Within thirty (30) days of receipt of the recommendation of the ALJ, the Commissioner shall issue a final decision approving, rejecting, or modifying the ALJ's recommendation and shall serve that decision on the parties to the proceeding. If the Commissioner does not act within that time, the ALJ's recommendation shall be deemed adopted by the Commissioner.
+
+(g) Where the Department proposes to modify, suspend, or revoke an approval or variance, and the person named in the approval or variance requests a hearing on the proposed modification, suspension, or revocation, the original conditions of the approval or variance shall remain in effect until a decision has been issued by the Commissioner pursuant to subdivision (f) of this section. At such time the modified conditions shall take effect.
+
+(h) Nothing in this section shall preclude or affect the Department's authority to use the remedy of summary abatement or to issue a cease and desist order under these rules and regulations, or any other law or regulation or to seek injunctive relief to enforce these rules and regulations, or any other law or regulation, in a court of competent jurisdiction.
+
+
 
 
 
@@ -8573,39 +8609,21 @@ Where any notification, application or reporting to the Department required by t
 
    (2) A noncomplying regulated activity shall come into compliance with these rules and regulations where specifically required to do so by these rules and regulations.
 
-   (3) Except where otherwise provided in these rules and regulations, no noncomplying regulated activity shall be substantially altered or modified without the prior review and approval of the Department. The Department shall review and approve such an alteration or modification in accordance with the standards and procedures set forth in Subchapter F (variances). However, a noncomplying regulated activity may be reduced in size or extent without such review and approval provided that such reduction does not cause any increase in any existing discharge or any increase in the potential for contamination to or degradation of the water supply. An application for a regulated activity to be located on a site with a noncomplying regulated activity, which does not involve a substantial alteration or modification of a noncomplying regulated activity, shall be reviewed in accordance with the standards for that regulated activity.
+   (3) Should any noncomplying regulated activity cause contamination to or degradation of the water supply, such that the activity is a threat to the life, health, or safety of water supply users, the Commissioner may order that such noncomplying regulated activity conform either in whole or in part to the requirements of these rules and regulations, immediately or within a limited period of time at the Commissioner's discretion, or be discontinued immediately. Any person who receives such an order may request a hearing on such order in the manner provided in 15 RCNY § 18-29.
 
-   (4) In the event that any noncomplying regulated activity is discontinued for a period of one year or more, it shall permanently desist. However, a noncomplying regulated activity shall not be deemed discontinued in the following situations:
+   (4) Any owner or operator of a noncomplying regulated activity who was not required by these rules and regulations to notify the Department pursuant to paragraph (1) of subdivision (b) of this section, may request, in writing, a determination from the Department that such property or activity is a noncomplying regulated activity. The written request shall include a description of the property or activity and its location, and the name, telephone number, and email address of a contact person. The Department shall determine, based upon the submission, whether the property or activity is a noncomplying regulated activity, and shall notify the owner or operator of such determination in writing.
 
-      (i) Seasonal use of a residence or business;
+(b) Subsurface Sewage Treatment Systems. The regulations applicable to discontinuation, and the standards for alteration or modification, of noncomplying regulated activities that are subsurface sewage treatment systems are set forth in 15 RCNY § 18-38(b).
 
-      (ii) Destruction of 75 percent or more of the market value of a noncomplying regulated activity and its related property, by flood, fire, or other natural disaster, provided that any replacement of a noncomplying regulated activity shall be identical in capacity, intensity, volume and type to the former noncomplying regulated activity and provided that such replacement shall take place within two years of such destruction, and provided further that such replacement shall comply with these rules and regulations, where possible;
+(c) Storage of hazardous substances, storage of petroleum products, and the siting of junkyards and solid waste management facilities.
 
-      (iii) Transfer, sale, or lease of a residence or business provided further that the noncomplying regulated activity is not changed to a different noncomplying regulated activity, unless approved by the Department, and provided that such transfer, sale or lease occurs within three years of the offering for sale or lease of the residence or business.
+   (1) No noncomplying regulated activity involving storage of hazardous substances, storage of petroleum products, or the siting of junkyards and solid waste management facilities shall be substantially altered or modified without the prior review and approval of the Department. The Department shall review and approve such an alteration or modification in accordance with the standards and procedures set forth in Subchapter F (variances).
 
-   (5) Should any noncomplying regulated activity cause contamination to or degradation of the water supply, such that the activity is a threat to the life, health, or safety of water supply users, the Commissioner may order that such noncomplying regulated activity conform either in whole or in part to the requirements of these rules and regulations, immediately or within a limited period of time at the Commissioner's discretion, or be discontinued immediately. Any person who receives such an order may request a hearing on such order in the manner provided in 15 RCNY § 18-29.
+      (i) Such a noncomplying regulated activity may be reduced in size or extent, or replaced with a regulated activity that complies with the provisions of these rules and regulations, without such review and approval provided that such reduction does not cause any increase in any existing discharge or any increase in the potential for contamination to or degradation of the water supply.
 
-   (6) Any owner or operator of a noncomplying regulated activity who was not required by these rules and regulations to notify the Department pursuant to paragraph (1) of subdivision (b) of this section, may request, in writing, a determination from the Department that such property or activity is a noncomplying regulated activity. The written request shall include all of the information required in such paragraph. The Department shall determine, based upon the submission, whether the property or activity is a noncomplying regulated activity, and shall notify the owner or operator of such determination in writing.
+   (2) In the case of storage of hazardous substances, storage of petroleum products, and the siting of junkyards and solid waste management facilities, a noncomplying regulated activity must come into compliance with these rules and regulations if, for any reason, there is discontinuation for a period of two consecutive years. If it cannot come into compliance, it must permanently desist. A period of discontinuation shall commence on the date when regular or seasonal use ceases. Incidental or illegal use of an unoccupied structure shall not be sufficient to interrupt a period of discontinuation, and intent to resume a noncomplying regulated activity shall not confer the right to do so. The burden of proof for showing that a noncomplying regulated activity has not been substantially discontinued shall be on the owner or operator.
 
-(b) Commercial, industrial, institutional or governmental noncomplying regulated activities.
 
-   (1) Commercial, industrial, institutional or governmental owners or operators of a noncomplying regulated activity shall notify the Department, in writing, of the existence of the noncomplying regulated activity within one (1) year of the effective date of these rules and regulations. The notification shall include a description of the noncomplying regulated activity and its location, and the name and telephone number of a contact person.
-
-   (2) The Department shall publish a directory of all commercial, industrial, institutional or governmental noncomplying regulated activities located in the watershed based upon the information submitted pursuant to paragraph (1) of this subdivision, and any additional information available to the Department.
-
-   (3) The directory shall be published in a newspaper of general circulation for two consecutive weekdays in each of two consecutive weeks.
-
-   (4) Within sixty days of the last date of such publication, any commercial, industrial, institutional, or governmental owner or operator of a noncomplying regulated activity shall notify the Department in writing of any objection to the information set forth in the directory. Furthermore, any owner or operator of a noncomplying regulated activity shall notify the Department in writing of the omission from the directory of his or her noncomplying regulated activity.
-
-   (5) Within 120 days of the last date of publication of the directory, the Department shall publish a revised directory, in accordance with the procedures provided for in paragraph (3) of this subdivision.
-
-   (6) If, within five years of the effective date of these rules and regulations, a commercial, industrial, institutional or governmental owner or operator of a noncomplying regulated activity discovers that his or her property should have been included in the final directory and was not included, such owner or operator shall write to the Department and request that the property be added to the directory. The request shall include all of the facts surrounding the omission from the listing and the reason why the property should be designated a noncomplying regulated activity, as well as all supporting documentary evidence, such as title searches, deeds, etc. Based upon the submission, the Department shall determine whether to add the property to the directory and shall notify the petitioner in writing of its decision.
-
-   (7) Upon written notification by the Department, a commercial, industrial, institutional, or governmental owner or operator of a noncomplying regulated activity may be required to submit any results of local, state or federally mandated or conducted tests or environmental audits. In addition, such owner or operator may be required to provide to the Department copies of any reports or applications submitted to local, state and federal agencies relating to the noncomplying regulated activity.
-
-   (8) Upon written notification by the Department, a commercial, industrial, institutional, or governmental owner or operator of a noncomplying regulated activity may be required to submit, within ninety days of receipt of mailing, for review and approval by the Department, a plan to protect the water supply from the potential for contamination or degradation posed by such activity. Such plan may include, but shall not be limited to, restriction or management of activities, use of best management practices, drainage control, development of procedures to address the potential contamination or degradation (including disposal procedures) and training of employees.
-
-      (i) The decisions whether to require submission of a plan and whether to approve a plan shall be based upon the risk of potential for contamination to or degradation of the water supply based upon such factors as: location, intensity of use, record of adequate maintenance and operation of any existing structure or facility, compliance with existing local, state, and federal laws and rules and regulations, and the burden upon the noncomplying regulated activity.
 
 
 
@@ -8615,9 +8633,9 @@ Where any notification, application or reporting to the Department required by t
 *§ 18-28 Appeals.* ::
 
 
-(a)  An applicant may appeal a final determination issued by the Department under these rules and regulations by filing a petition in writing with the Department and with the New York City Office of Administrative Trials and Hearings ("OATH") within thirty (30) days of the date the determination was mailed. The petition shall state the name and address of the petitioner and shall include a short and plain statement of the matters to be adjudicated, identifying the approval or variance sought by the petitioner with citation to the applicable provisions of these rules and regulations, the regulated activity for which the Department issued the determination, the proposed location of the activity, and the date of the Department's determination. The petition should also indicate whether the petitioner is requesting a hearing. A copy of the determination being appealed shall be attached to the petition. In addition, a completed OATH intake sheet shall be included with the petition. Blank intake sheets are available from the Department.
+(a) An applicant may appeal a final determination issued by the Department under these rules and regulations by filing a petition in writing with the Department and with the New York City Office of Administrative Trials and Hearings, Trials Division ("OATH") within thirty (30) days of the date the determination was mailed. The petition shall state the name, address, and email address of the petitioner and shall include a short and plain statement of the matters to be adjudicated, identifying the approval or variance sought by the petitioner with citation to the applicable provisions of these rules and regulations, the regulated activity for which the Department issued the determination, the proposed location of the activity, and the date of the Department's determination. The petition should also indicate whether the petitioner is requesting a hearing. A copy of the determination being appealed shall be attached to the petition. In addition, a completed OATH intake sheet shall be included with the petition. Blank intake sheets are available from the Department.
 
-(b) The following determinations are appealable:
+(b) The following determinations of the Department are appealable:
 
    (1) A denial of an application for approval of a regulated activity.
 
@@ -8629,7 +8647,7 @@ Where any notification, application or reporting to the Department required by t
 
 (c) Petitions for appeal shall be referred to a City administrative law judge (ALJ) for hearing, where allowed by this section, and determination as defined in subdivision (g).
 
-(d) The following issues are adjudicable on appeal:
+(d) The following issues are reviewable on appeal:
 
    (1) Whether the regulated activity proposed by the petitioner will be in compliance with the requirements of these rules and regulations.
 
@@ -8637,19 +8655,23 @@ Where any notification, application or reporting to the Department required by t
 
    (3) Whether the Commissioner has abused his or her discretion in denying a request for a variance or in imposing a substantial condition in a grant of a variance.
 
-   (4) Except where the Department has acted as lead agency, the ALJ shall not adjudicate any issues relating to compliance with the State Environmental Quality Review Act (SEQRA).
+   (4) Except where the Department has acted as lead agency, the ALJ shall not review any issues relating to compliance with the State Environmental Quality Review Act (SEQRA).
 
 (e) Except for appeals from determinations relating to variances, the petitioner shall have the burden of proving by a preponderance of the evidence that the proposed regulated activity is in compliance with the requirements of these rules and regulations. For appeals from determinations relating to variances, the petitioner shall have the burden of proving that the Commissioner has abused his or her discretion.
 
-(f) (1)  Appeals from determinations relating to individual sewage treatment systems or variances shall be decided on the record before the Department in its review of the application and any other written submissions allowed by the ALJ.
+(f) (1) Appeals from determinations relating to individual sewage treatment systems or variances shall be decided on the record before the Department in its review of the application and any other written submissions allowed by the ALJ.
 
-   (2) A petitioner may request an adjudicatory hearing on appeals from all other determinations issued by the Department. If a petitioner does not request a hearing, the petition shall be decided on the record before the Department in its review of the application and any other written submissions allowed by the ALJ. (i)  Unless otherwise agreed to by the parties and the ALJ, the hearing shall be held in the district of the Department in which the regulated activity was proposed to be located, except that hearings may be held at the Department's offices in Valhalla, New York for appeals relating to regulated activities in the East of Hudson watershed and at the Department's offices in Kingston, New York for appeals relating to regulated activities in the West of Hudson watershed.
+   (2) A petitioner may request a hearing on appeals from all other determinations issued by the Department. If a petitioner does not request a hearing, the petition shall be decided on the record before the Department in its review of the application and any other written submissions allowed by the ALJ.
 
-(g) The ALJ shall submit a report to the Commissioner within 60 days after the record on appeal is closed with a recommendation as to whether the determination appealed from should be approved, modified or rejected. The Commissioner shall issue a final decision approving, rejecting, or modifying the ALJ's recommendation within 30 days of receipt of the ALJ's report. If the Commissioner does not act, the ALJ's recommendation shall be deemed approved.
+      (i) The hearing may be held in the district of the Department in which the regulated activity was proposed to be located, except that hearings may be held at the Department's offices in Valhalla, New York for appeals relating to regulated activities in the East of Hudson watershed and at the Department's offices in Kingston, New York for appeals relating to regulated activities in the West of Hudson watershed. The hearing may also be held by video conferencing or other electronic means, or as otherwise agreed to by the parties and the ALJ.
+
+(g) The ALJ shall submit a report to the Commissioner within 60 days after the record on appeal is closed with a recommendation as to whether the determination appealed from should be approved, modified or rejected. The Commissioner shall issue a final decision approving, rejecting, or modifying the ALJ's recommendation within 30 days of receipt of the ALJ's report. If the Commissioner does not act within that time, the ALJ's recommendation shall be deemed approved by the Commissioner.
 
 (h) This section shall not apply to determinations made by local governments administering provisions of these rules and regulations pursuant to Subchapter G.
 
-(i) An applicant shall have the option whether to file an administrative appeal under this section and nothing in this section shall preclude an applicant from challenging a final determination issued by the Department in a court of competent jurisdiction, including instituting a proceeding under Article 78 of the Civil Practice Law and Rules, without first filing a petition for appeal pursuant to this section.
+(i) An applicant shall have the option whether to file an appeal under this section and nothing in this section shall preclude an applicant from challenging the final determination issued by the Department in a court of competent jurisdiction, including instituting a proceeding under Article 78 of the Civil Practice Law and Rules, without first filing a petition for appeal pursuant to this section.
+
+
 
 
 
@@ -8659,21 +8681,23 @@ Where any notification, application or reporting to the Department required by t
 *§ 18-29 Hearings on Cease and Desist Orders.* ::
 
 
-(a)  Any person who receives a cease and desist order may request a hearing on the order by submitting a petition in writing to the Commissioner and to the Office of Administrative Trials and Hearings ("OATH") within seven (7) days of receipt of the cease and desist order. The petition for a hearing shall state the name and address of the petitioner and shall include a short and plain statement of the matters to be adjudicated, identifying the activity that is the subject of the order, the location of the activity, and the date of the cease and desist order. A copy of the order shall be attached to the petition. In addition, a completed OATH intake sheet shall be included with the petition. Blank intake sheets are available from the Department.
+(a) Any person who receives a cease and desist order may request a hearing on the order by submitting a petition in writing to the Commissioner and to the Office of Administrative Trials and Hearings, Trials Division ("OATH") within seven (7) days of receipt of the cease and desist order. The petition for a hearing shall state the name, address, and email address of the petitioner and shall include a short and plain statement of the matters to be adjudicated, identifying the activity that is the subject of the order, the location of the activity, and the date of the cease and desist order. A copy of the order shall be attached to the petition. In addition, a completed OATH intake sheet shall be included with the petition. Blank intake sheets are available from the Department.
 
-(b) Upon receipt of the petition for a hearing, OATH shall schedule a hearing promptly in the district of the Department where the activity that is the subject of the order allegedly occurred, and at a time and date which shall not exceed fifteen (15) days from the date of receipt by OATH of the petition for a hearing unless the parties and the ALJ agree to another location and date, except that hearings may be held at the Department's offices in Valhalla, New York for petitions relating to regulated activities in the East of Hudson watershed and at the Department's offices in Kingston, New York for petitions relating to regulated activities in the West of Hudson watershed. Notice of such hearing shall be provided in writing to the petitioner and to the Department.
+(b) Upon receipt of the petition for a hearing, OATH shall schedule a hearing promptly in the district of the Department where the activity that is the subject of the order allegedly occurred, and at a time and date which shall not exceed fifteen (15) days from the date of receipt by OATH of the petition for a hearing unless the parties and the ALJ agree to another location and date, except that hearings may be held at the Department's offices in Valhalla, New York for petitions relating to regulated activities in the East of Hudson watershed and at the Department's offices in Kingston, New York for petitions relating to regulated activities in the West of Hudson watershed. The hearing may also be held by video conferencing or other electronic means. Notice of such hearing shall be provided in writing to the petitioner and to the Department.
 
 (c) A petition for a hearing shall not stay compliance with the cease and desist order, and it shall continue to be the duty of the petitioner to discontinue the activity pursuant to the terms of the order. Failure to do so shall be a violation of the order and these rules and regulations.
 
-(d) At the hearing, the petitioner shall have the burden of proving that the activity that is the subject of the order does not come within the provisions of 15 RCNY § 18-21(a)(5) and 15 RCNY § 18-27(a)(5).
+(d) At the hearing, the Department shall have the burden of proving by a preponderance of the evidence, facts supporting the cease and desist order.
 
-(e) The failure of the petitioner to appear at the time, date and place set forth in the notice of hearing shall constitute a default of the right to a hearing on the cease and desist order. The Department shall provide a notice of default in writing to the petitioner within five (5) days of the petitioner's failure to appear.
+(e) The failure of the petitioner to appear at the time, date and place set forth in the notice of hearing shall constitute a waiver of the right to a hearing on the cease and desist order and the matter will be dismissed.
 
-(f) The hearing shall be held before an ALJ. The ALJ shall cause a record of the hearing to be made, and shall make a report to the Commissioner within ten (10) days of the close of the hearing record, setting forth the appearances, the relevant facts and arguments presented at the hearing, findings of fact and conclusions of law, and a recommendation as to whether the order should be continued, modified or vacated and the reasons therefor. Transcripts of the record of the hearing shall be made available at the petitioner's request and expense.
+(f) The hearing shall be held before an OATH ALJ. The ALJ shall cause a record of the hearing to be made, and shall make a report to the Commissioner within ten (10) days of the close of the hearing record, setting forth the appearances, the relevant facts and arguments presented at the hearing, findings of fact and conclusions of law, and a recommendation as to whether the order should be continued, modified or vacated and the reasons therefor. A transcript of the record of the hearing shall be made available at the petitioner's request and expense.
 
-(g) Within ten (10) days of receipt of the recommendation of the ALJ, the Commissioner may continue, vacate, or modify the order. If the Commissioner does not act, the ALJ's recommendation shall be deemed adopted.
+(g) Within ten (10) days of receipt of the recommendation of the ALJ, the Commissioner may continue, vacate, or modify the order. If the Commissioner does not act within that time, the ALJ's recommendation shall be deemed adopted by the Commissioner.
 
-(h) The results of the hearing on the cease and desist order shall be without prejudice to the right of a person to apply for an approval or variance for a regulated activity under these regulations, and shall also be without prejudice to the authority of the Department or any other person to take action on account of any violation of law, rule, regulation or order arising out of the events, situations or circumstances which led to the issuance of the order.
+(h) The results of the hearing on the cease and desist order do not affect the right of a person to apply for an approval or variance for a regulated activity under these regulations. In reviewing an application in connection with a regulated activity that has been the subject of a cease and desist order, however, the Department may take action on account of any violation of law, rule, regulation or order arising out of the events, situations or circumstances which led to the issuance of the order.
+
+
 
 
 
@@ -8756,11 +8780,11 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 (a)  Unless otherwise permitted by these rules and regulations, a discharge, or storage which is reasonably likely to lead to a discharge, of petroleum products into the environment (including into groundwater), and which is reasonably likely to cause degradation of surface water quality or of the water supply, is prohibited. It shall be an affirmative defense under this subsection that such discharge, or storage likely to lead to a discharge, is either permitted or not prohibited under federal law, and is either permitted or not prohibited under state law.
 
-(b) New aboveground and underground petroleum storage facilities, which require registration under 6 NYCRR Part 612, or new tanks which expand the capacity of existing facilities which require registration under 6 NYCRR Part 612, are prohibited within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake. Notwithstanding this prohibition, the expansion of an existing aboveground or underground petroleum storage facility shall be allowed within the aforesaid limiting distances provided that the owner or operator of such facility demonstrates to the Department that the application of the limiting distances would preclude the continuation of an existing business.
+(b) New aboveground and underground petroleum storage facilities, which require registration under 6 NYCRR Part 613, or new tanks which expand the capacity of existing facilities which require registration under 6 NYCRR Part 613, are prohibited within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake. If, however, the owner or operator of such facility demonstrates to the Department that the application of the limiting distances would preclude the continuation of an existing business, the facility may be expanded within the limiting distances set forth in this paragraph.
 
-(c) New home heating oil tanks not requiring registration under 6 NYCRR Part 612, within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake are prohibited from being installed underground and shall be located either aboveground or contained in a basement with a concrete or other impervious floor.
+(c) New home heating oil tanks not requiring registration under 6 NYCRR Part 613, within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake, are prohibited from being installed underground and shall be located either aboveground or contained in a basement with a concrete or other impervious floor.
 
-(d) New aboveground and underground petroleum storage tanks of 185 gallons or more which are neither home heating oil tanks regulated under subdivision (c) of this section nor located at facilities requiring registration under 6 NYCRR Part 612, are prohibited within the limiting distance of 25 feet of a watercourse or wetland, or within the limiting distance of 300 feet of a reservoir, reservoir stem, or controlled lake, except that such new tanks may be allowed within the aforesaid limiting distances provided that the applicant demonstrates to the Department that application of the limiting distances would preclude the continuation of an existing business or the continued identical use of the existing facility.
+(d) New aboveground and underground petroleum storage tanks of 185 gallons or more, which are neither home heating oil tanks regulated under subdivision (c) of this section nor located at facilities requiring registration under 6 NYCRR Part 613, are prohibited within the limiting distance of 25 feet of a watercourse or wetland, or within the limiting distance of 300 feet of a reservoir, reservoir stem, or controlled lake. If, however, the applicant demonstrates to the Department that application of the limiting distances would preclude the continuation of an existing business or the continued identical use of the existing facility, the facility may be expanded within the limiting distances set forth in this paragraph.
 
 (e) Subdivisions (b), (c), and (d) shall not apply to:
 
@@ -8777,12 +8801,38 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 
 
-*§ 18-35 Human Excreta and Holding Tanks.* ::
+
+
+*§ 18-35 Human Excreta, Holding Tanks, and Portable Toilets.* ::
 
 
 (a)  Unless otherwise permitted by these rules and regulations, a discharge, or storage which is reasonably likely to lead to a discharge, of human excreta, or a discharge, or storage which is reasonably likely to lead to a discharge, from a holding tank, into the environment (including into groundwater), and which is reasonably likely to cause degradation of surface water quality or of the water supply, is prohibited. It shall be an affirmative defense under this subsection that such discharge, or storage likely to lead to a discharge, is either permitted or not prohibited under federal law, and is either permitted or not prohibited under state law.
 
 (b) Emptying, discharging or transferring the contents of a holding tank or other sewage receptacle into any watercourse, wetland, reservoir, reservoir stem, or controlled lake is prohibited.
+
+(c) All new holding tanks and non-waterborne systems designed for sewage in quantities of less than 1,000 gallons per day from residential properties that are either permitted or not prohibited under 10 NYCRR Appendix 75-A may be used in the watershed provided that they are constructed and operated in accordance with the following standards:
+
+   (1) Such holding tanks must have a capacity equal to at least five (5) days' design flow, with a minimum capacity of 1,000 gallons.
+
+   (2) Such holding tanks must be equipped with an alarm (audible and visible) located in a conspicuous place to indicate when pump-out is necessary.
+
+   (3) Such holding tanks must be designed, installed and maintained in a manner to promote ease of access for pumping and cleanup.
+
+   (4) If such holding tanks will be used in the winter, the tanks must be protected from freezing.
+
+(d) New holding tanks designed for sewage in quantities of 1,000 gallons per day or more, or from non-residential properties, that are either permitted or not prohibited under state law, may be used in the watershed provided that they are constructed and operated in accordance with the following standards:
+
+   (1) The owner of such a holding tank must have and maintain an agreement with a professional hauler for disposal of waste at a facility that is permitted to accept septage, as defined in 6 NYCRR Part 364.
+
+   (2) Such holding tanks must have a capacity equal to at least twice the volume of waste to be generated between anticipated removal dates, with a minimum capacity of 1,000 gallons.
+
+   (3) Such holding tanks must have a high-level alarm positioned to allow storage of at least three days' volume of waste after activation.
+
+   (4) If such holding tanks will be used in the winter, the tanks must be protected from freezing.
+
+(e) Portable toilets shall not be located within the limiting distance of 50 feet of a mapped stream, wetland, reservoir, reservoir stem, or controlled lake and, to the extent practicable, are not located within the limiting distance of 50 feet from a watercourse other than a mapped stream.
+
+
 
 
 
@@ -8796,13 +8846,13 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (1) Unless otherwise permitted by these rules and regulations, the design, construction, or operation of a wastewater treatment plant is prohibited where such design, construction, or operation causes a discharge, or storage which is reasonably likely to lead to a discharge, of sewage or sewage effluent into the environment (including into groundwater), and which is reasonably likely to cause degradation of surface water quality or of the water supply. It shall be an affirmative defense under this subsection that such discharge, or storage likely to lead to a discharge, is either permitted or not prohibited under federal law, and is either permitted or not prohibited under state law.
 
-   (2) The design of new wastewater treatment plants, and the plans and specifications resulting from that design, require the review and approval of the Department. The construction of new wastewater treatment plants shall be in conformance with the plans and specifications approved by the Department.
+   (2) The design of new wastewater treatment plants, and the plans and specifications resulting from that design, require the review and approval of the Department. New wastewater treatment plants must be constructed in accordance with the plans and specifications approved by the Department.
 
-   (3) The design for an expansion or an alteration or modification of new or existing wastewater treatment plants, and the plans and specifications resulting from that design, require the review and approval of the Department. The construction of the expansion or alteration or modification shall be in accordance with the plans and specifications approved by the Department.
+   (3) The design for an expansion or an alteration or modification of wastewater treatment plants, and the plans and specifications resulting from that design, require the review and approval of the Department. Any expansion or alteration or modification of a wastewater treatment plant must be constructed in accordance with the plans and specifications approved by the Department.
 
-   (4) The owner or operator of a new or existing wastewater treatment plant shall operate and maintain the wastewater treatment plant in accordance with the operations and maintenance manual for the plant. Such manual shall be prepared by the owner and approved by the Department. Such manual shall be prepared or revised, and submitted to the Department for approval, within ninety (90) days after construction, expansion, alteration or modification of a wastewater treatment plant is completed.
+   (4) The owner or operator of a wastewater treatment plant shall operate and maintain the wastewater treatment plant in accordance with the operations and maintenance manual for the plant. Such manual shall be prepared by the owner and approved by the Department. Such manual shall be prepared or revised, and submitted to the Department for approval, within ninety (90) days after construction, expansion, alteration or modification of a wastewater treatment plant is completed.
 
-   (5) No new wastewater treatment plants with a surface discharge, or expansion or alteration or modification of new or existing wastewater treatment plants, shall cause a contravention of the water quality standards set forth in Subchapter D of these rules and regulations or the phosphorus water quality values set forth in the New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.1.1, Ambient Water Quality Standards and Guidance Values .
+   (5) No new wastewater treatment plants with a surface discharge, or expansion or alteration or modification of wastewater treatment plants, shall cause a contravention of the water quality standards set forth in Subchapter D of these rules and regulations or the phosphorus water quality values set forth in the New York State Department of Environmental Conservation Technical and Operational Guidance Series (TOGS) 1.1.1, Ambient Water Quality Standards and Guidance Values and Groundwater Effluent Limitations (October 22, 1993, Reissue Date June 1998, as modified and supplemented by the January 1999 Errata Sheet and the April 2000 and June 2004 Addenda).
 
    (6) No part of any seepage unit or absorption area for a subsurface discharge from a wastewater treatment plant shall be located within the limiting distance of 100 feet of a watercourse or wetland or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake.
 
@@ -8856,7 +8906,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) Existing wastewater treatment plants with SPDES permitted surface discharges may continue to operate provided the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration, disinfection, phosphorus removal, and microfiltration or a Department-approved equivalent technology to microfiltration, as required by these rules and regulations;
 
-      (iii) New and existing wastewater treatment plants with subsurface discharges may commence or continue to operate provided that the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration and phosphorus removal, and for SPDES permitted discharges greater than 30,000 gallons per day (gpd), disinfection, as required by these rules and regulations.
+      (iii) Wastewater treatment plants with subsurface discharges may commence or continue to operate provided that the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration and phosphorus removal, and for SPDES permitted discharges greater than 30,000 gallons per day (gpd), disinfection, as required by these rules and regulations.
 
 (e) Treatment requirements for wastewater treatment plants located in the watershed and beyond the 60 day travel time to intake.
 
@@ -8868,17 +8918,17 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) All new surface discharges into a watercourse, and any existing wastewater treatment plants with SPDES permitted surface discharges may commence or continue to operate, provided that the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration, disinfection, phosphorus removal, and microfiltration or a Department-approved equivalent technology to microfiltration, as required by these rules and regulations;
 
-      (iii) New and existing wastewater treatment plants with subsurface discharges may commence or continue to operate, provided that the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration and phosphorus removal, and for SPDES permitted discharges greater than 30,000 gallons per day (gpd), disinfection, as required by these rules and regulations.
+      (iii) Wastewater treatment plants with subsurface discharges may commence or continue to operate, provided that the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration and phosphorus removal, and for SPDES permitted discharges greater than 30,000 gallons per day (gpd), disinfection, as required by these rules and regulations.
 
 (f) Design, operation and maintenance requirements.
 
-   (1) This subdivision (f) shall apply to new and existing wastewater treatment plants.
+   (1) This subdivision (f) shall apply to wastewater treatment plants.
 
-   (2) The criteria used by the Department to approve the design for any new wastewater treatment plant or the portion of any new or existing wastewater treatment plant which is being expanded or altered or modified shall be all applicable requirements of law, including the standards set forth in the following documents:
+   (2) The criteria used by the Department to approve the design for any new wastewater treatment plant or the portion of any wastewater treatment plant which is being expanded or altered or modified shall be all applicable requirements of law, including the standards set forth in the following documents:
 
-      (i) "Design Standards for Wastewater Treatment Works, Intermediate Sized Sewerage Facilities," New York State Department of Environmental Conservation (1988); and
+      (i) "New York State Design Standards for Intermediate Sized Wastewater Treatment Systems" New York State Department of Environmental Conservation (2014); and
 
-      (ii) "Recommended Standards for Wastewater Facilities," Great Lakes – Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2004).
+      (ii) "Recommended Standards for Wastewater Facilities," Great Lakes – Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2014).
 
    (3) The Department shall not approve a wastewater treatment plant, or any proposed expansion of a wastewater treatment plant, which discharges within the watershed, if there is inflow or infiltration into a sewer system connected to such wastewater treatment plant which causes either:
 
@@ -8890,13 +8940,13 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (5) All wastewater treatment plants shall meet the following requirements to insure uninterrupted reliable operation:
 
-      (i) All wastewater treatment plants shall provide standby power units sufficient to run the entire plant in order to ensure uninterrupted reliable operation in the event of utility power failure and these units shall be equipped with an alarm and automatic start-up capability;
+      (i) All wastewater treatment plants shall provide standby power units sufficient to run the entire plant in order to ensure uninterrupted reliable operation in the event of utility power failure and these units shall be equipped with an alarm and automatic start-up capability.
 
-      (ii) All vital plant structures, mechanical and electrical equipment of new or existing wastewater treatment plants located or designed within the 100-year flood plain shall be protected from damage from a 100-year flood that may affect or disrupt its function or general performance. Such structures and equipment shall remain fully operational in a 25-year flood.
+      (ii) All vital plant structures, mechanical and electrical equipment of wastewater treatment plants located or designed within the 100-year flood plain shall be protected from damage from a 100-year flood that may affect or disrupt its function or general performance. Such structures and equipment shall remain fully operational in a 25-year flood.
 
       (iii) The disinfection system shall be provided with backup units, an alarm and equipment that will insure processing of the plant flow without interruption and the backup electrical and/or mechanical equipment shall be equipped with automatic start-up capability.
 
-      (iv) Sand filtration or a Department-approved alternative technology to sand filtration shall be implemented in units of sufficient number and size to ensure that the flow they are designed to accommodate, consistent with the "Design Standards for Wastewater Treatment Works, Intermediate Sized Sewerage Facilities," New York State Department of Environmental Conservation (1988) and/or the "Recommended Standards for Wastewater Facilities," Great Lakes – Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2004), can be processed in the event that the largest such unit is off line;
+      (iv) Sand filtration or a Department-approved alternative technology to sand filtration shall be implemented in units of sufficient number and size to ensure that the flow they are designed to accommodate, consistent with the "New York State Design Standards for Intermediate Sized Wastewater Treatment Systems," New York State Department of Environmental Conservation (2014) and/or the "Recommended Standards for Wastewater Facilities," Great Lakes-Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2014), can be processed in the event that the largest such unit is off line;
 
       (v) All wastewater treatment plants must be equipped with a flow meter that includes a recording device; and
 
@@ -8938,7 +8988,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (vii) A copy of the draft SPDES permit, if any, and, when issued, a copy of the final SPDES permit. Copies of any revisions to the draft SPDES permit shall also be provided to the Department as they become available to the applicant.
 
-   (2) An application for review and approval of an expansion or of an alteration or modification of a new or existing wastewater treatment plant shall include all of the information required in subdivision (g)(1) of this section where applicable, and shall either:
+   (2) An application for review and approval of an expansion or of an alteration or modification of a wastewater treatment plant shall include all of the information required in subdivision (g)(1) of this section where applicable, and shall either:
 
       (i) Certify that the wastewater treatment plant is in compliance with all of the requirements of this section, and all requirements of its SPDES permit; or
 
@@ -8951,64 +9001,82 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 
 
-*§ 18-37 Sewer Systems, Service Connections and Discharges to Sewer Systems.* ::
+
+
+*§ 18-37 Sewer Systems, Sewer Connections and Discharges to Sewer Systems.* ::
 
 
 (a)  Combined sewer systems are prohibited from discharging within the watershed.
 
-(b) A new service connection or sewer extension to a sewer system is prohibited where the wastewater treatment plant to which the sewer system has been connected and which discharges within the watershed has had a SPDES flow parameter violation in the prior twelve months, or where the additional flow from the new service connection or sewer extension will cause or can be expected to cause such wastewater treatment plant to have a SPDES flow parameter violation.
+(b) A new sewer connection or sewer extension to a sewer system is prohibited where the wastewater treatment plant to which the sewer system has been connected and which discharges within the watershed has had a SPDES flow parameter violation in the prior twelve months, or where the additional flow from the new sewer connection or sewer extension will cause or can be expected to cause such wastewater treatment plant to have a SPDES flow parameter violation as defined herein.
 
-(c) All new service connections shall be tested accordance with the standards set forth in "Design Standards for Wastewater Treatment Works, Intermediate Sized Sewerage Facilities," New York State Department of Environmental Conservation (1988), and the standards in "Recommended Standards for Wastewater Facilities," Great Lakes – Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers, §§ 33.92-33.95 (2004). A copy of the results of the tests shall be forwarded to the Department as soon as they are available.
+(c) Sewer Connections.
 
-(d) Except for the owner of an individual or two family residence, the owner of any property which will be served by a new sewer connection to a sewer system, or by any alteration or modification of a sewer connection to a sewer system, shall submit all plans or designs for such sewer connection or such alteration or modification to the Department prior to or simultaneously with the delivery of the notice to the Department required under paragraph (d)(1) below. The owner of an individual or two family residence to be served by a new sewer connection to a sewer system, or by an alteration or modification of a sewer connection to a sewer system, shall not be required to submit the plans or designs for such sewer connection or such alteration or modification to the Department, unless specifically requested by the Department. If so requested, such owner shall submit such plans or designs to the Department prior to or simultaneously with the delivery of the notice to the Department required under paragraph (d)(1) below or, if the request is made by the Department after such notice has been given, within ten (10) days after such request has been made.
+   (1) The owner of any individual residence that will be served by a new sewer connection, or by an alteration or modification of a sewer connection, shall notify the Department 48 hours prior to the installation of such sewer connection or of such alteration or modification, and provide an opportunity to the Department to observe the work. If specifically requested by the Department, the owner shall submit to the Department all plans or designs for such sewer connection or for such alteration or modification.
 
-   (1) The owner of any property which will be served by a new sewer connection to a sewer system, or by an alteration or modification of a sewer connection to a sewer system, shall notify the Department 48 hours prior to the installation of such sewer connection or of such alteration or modification, and provide an opportunity to the Department to observe the work. If required or requested pursuant to 15 RCNY § 18-37(d), the owner shall submit to the Department all plans or designs for such sewer connection or for such alteration or modification prior to or simultaneously with the delivery of such notice to the Department.
+   (2) The owner of a structure other than an individual residence that will be served by a new sewer connection, or by an alteration or modification of a sewer connection, to a sewer system that is subject to a qualifying municipal sewer use law shall:
 
-(e) The design, construction and plans for a new sewer system or sewer extension shall require the review and approval of the Department. Any proposed alteration or modification of a sewer system, including a sewer system that is a noncomplying regulated activity, shall require the review and approval of the Department.
+      (i) provide to the Department, at least 48 hours prior to the installation of such sewer connection or of such alteration or modification, a written permit from the superintendent of the sewer system authorizing such connection; and
 
-   (1) The Department may require an engineering report, construction plans and specifications, and any environmental assessments and determinations in compliance with Article 8 of the Environmental Conservation Law when reviewing any application pursuant to this subdivision for a new sewer system or sewer extension, or a proposed alteration or modification of a sewer system.
+      (ii) notify the Department 48 hours prior to the installation of such sewer connection or of such alteration or modification, and provide an opportunity to the Department to observe the work.
 
-   (2) Any approval of a new or an alteration or modification of an existing sewer system or sewer extension issued by the Department shall expire and thereafter be null and void unless construction is commenced within five (5) years of the date of issuance. Following expiration of the approval, the plans for the sewer system may be resubmitted to the Department for consideration for a new approval.
+   (3) The plans for a new sewer connection, or for an alteration or modification of a sewer connection, to a sewer system for a treatment facility with a SPDES permit, which is not subject to a qualifying municipal sewer use law, from a structure other than an individual residence, require review and approval of the Department. As a condition of approval, the Department will require the applicant to notify the Department 48 hours prior to the installation of such sewer connection or of such alteration or modification, and provide an opportunity to the Department to observe the work. An application for review and approval of such a new sewer connection or alteration or modification of a sewer connection must include:
 
-(f) The criteria used by the Department to approve any new sewer system or sewer extension or the portion of any sewer system which is being altered or modified, shall be all applicable requirements of law, including the standards set forth in the following documents:
+      (i) A written statement from the owner or operator of the treatment facility certifying that the new sewer connection or alteration or modification of a sewer connection will not require a modification of the treatment facility's SPDES permit, and
 
-   (1) "Design Standards for Wastewater Treatment Works, Intermediate Sized Sewerage Facilities," New York State Department of Environmental Conservation (1988);
+      (ii) Plans and specifications for the sewer connection.
 
-   (2) "Recommended Standards for Wastewater Facilities," Great Lakes – Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2004).
+   (4) New sewer connections, or alterations or modifications of sewer connections, to treatment facilities that do not have SPDES permits shall be reviewed in accordance with 15 RCNY § 18-37.
 
-(g) All sewer systems and sewer extensions connected to a wastewater treatment plant which discharges within the watershed shall be designed, operated and maintained in such manner as to prevent inflow or infiltration which causes either:
+(d) The design, construction and plans for a new sewer system or sewer extension shall require the review and approval of the Department. Any proposed alteration or modification of a sewer system shall require the review and approval of the Department.
 
-   (1) The SPDES authorized flow limit of the wastewater treatment plant to be exceeded; or
+(e) Any approval of a new or an alteration or modification of an existing sewer system, sewer extension, or sewer connection subject to Department approval pursuant to 15 RCNY § 18-37(c)(3), issued by the Department expires and is null and void unless construction is completed within five (5) years of the date of issuance. Following expiration of the approval, the plans for the sewer system may be resubmitted to the Department for consideration for a new approval.
 
-   (2) The strength of the sewage influent to the wastewater treatment plant to be diluted to a level that adversely affects the efficacy of the SPDES permitted and Department approved treatment process.
+(f) The criteria used by the Department to approve any new sewer system, sewer extension, or sewer connection subject to Department approval pursuant to 15 RCNY § 18-37(c)(3) or the portion of any sewer system or such sewer connection which is being altered or modified, shall be all applicable requirements of law, including the standards set forth in the following documents:
 
-(h) All sewer systems shall be designed, operated and maintained to prevent exfiltration from such systems.
+   (1) "New York State Design Standards for Intermediate Sized Wastewater Treatment Systems," New York State Department of Environmental Conservation (2014);
 
-(i) The owner or operator of a facility which disposes of wastes regulated pursuant to the Federal Categorical Pretreatment Standards, 40 C.F.R. Part 403, shall submit three copies of the engineering report, plans and specifications, prepared by a licensed design professional, in compliance with 40 C.F.R. Parts 403, 406 - 471 and any applicable local regulations, to the Department for its review and approval.
+   (2) "Recommended Standards for Wastewater Facilities," Great Lakes-Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2014);
 
-(j) Application Requirements. An application for review and approval of any sewer system or sewer extension shall include the following information:
+   (3) 19 NYCRR Part 1222 (Plumbing Code of New York State).
+
+(g) All sewer systems and sewer extensions connected to a wastewater treatment plant which discharges within the watershed shall be designed, operated and maintained in such manner as to prevent inflow or infiltration which causes one or more of the following:
+
+   (1) The SPDES authorized flow limit of the wastewater treatment plans to be exceeded;
+
+   (2) The strength of the sewage influent to the wastewater treatment plant to be diluted to a level that adversely affects the efficacy of the SPDES permitted and Department approved treatment process; or
+
+   (3) A bypass of any portion of a treatment facility that would be prohibited pursuant to 6 NYCRR Subpart 750-2.
+
+(h) All sewer systems and sewer extensions shall be designed, operated and maintained to prevent exfiltration from such systems.
+
+(i) The owner or operator of a facility which disposes of wastes regulated pursuant to the Federal Categorical Pretreatment Standards, 40 C.F.R. Part 403, shall submit three copies of the engineering report, plans and specifications, prepared by a licensed design professional, in compliance with 40 C.F.R. Parts 403, 406-471 and any applicable local regulations, to the Department for its review and approval.
+
+(j) Application Requirements for Sewer Systems and Sewer Extensions. An application for review and approval of any sewer system or sewer extension shall include the following information:
 
    (1) Tax map number and, where available, building permit number, for each property to be served by the proposed sewer system or sewer extension;
 
-   (2) Copy of the applicable municipal Sewer Use Ordinance, if any;
+   (2) Letter of flow acceptance from the owner of the receiving wastewater treatment plant, when available;
 
-   (3) Letter of flow acceptance from the owner of the receiving wastewater treatment plant, when available;
+   (3) An engineering report presenting the proposed flow and supporting design calculations; and
 
-   (4) An engineering report presenting the proposed flow and supporting design calculations; and
+   (4) Four (4) sets of plans showing:
 
-   (5) Four (4) sets of plans showing:
+      (i) design details and specifications of system components including pipe sizes and pump capacities;
 
-      (i) site location in relation to established sewer district;
+      (ii) where applicable, a copy of the application for modification of the SPDES permit for the receiving wastewater treatment plant and, if available, any draft revisions to such SPDES permit; and
 
-      (ii) distances to wells, watercourses, rock outcroppings, wetlands, controlled lakes and reservoirs;
+      (iii) construction phasing.
 
-      (iii) system profile including all connections, manholes and required pump stations;
+   (5) An application for review and approval of a sewer system must include an operation and maintenance plan for the sewer system, which may be a component of the operation and maintenance plan for the treatment facility served by the sewer system; and
 
-      (iv) design details of system components including pipe sizes and pump capacities; and
+   (6) An Environmental Assessment form and State Environmental Quality Review Act determination, if applicable.
 
-      (v) where applicable, a copy of the application for modification of the SPDES permit for the receiving wastewater treatment plant and any draft revisions to such SPDES permit.
+(k) All approvals for sewer systems and extensions are conditioned on the applicant's submission of as-built drawings, prepared by a design professional, once construction is complete.
 
-(k) As a condition of approval the Department may require evidence of financial security prior to construction, from any owner or operator of a new sewer system or sewer extension or a substantial alteration or modification to an existing sewer system. Such financial security shall consist of a bond, or an equivalent guaranty, to be deposited with the Department, covering the full cost of the construction of such facility and an additional bond or an equivalent guaranty for the payment of labor and material furnished in the course of such construction. Upon completion of construction and payment of labor and materials, such bonds or other guaranties shall be released. Additionally, a bond or equivalent guaranty may be required for the maintenance and operation of the facility for a period of five years post-construction. No bond or guaranty is required where the owner or operator of such a facility is a village, town, county or city.
+(l) As a condition of approval the Department may require evidence of financial security prior to construction, from any owner or operator of a new sewer system or sewer extension or a substantial alteration or modification to an existing sewer system. Such financial security shall consist of a bond, or an equivalent guaranty, to be deposited with the Department, covering the full cost of the construction of such facility and an additional bond or an equivalent guaranty for the payment of labor and material furnished in the course of such construction. Upon completion of construction and payment of labor and materials, such bonds or other guaranties shall be released. Additionally, a bond or equivalent guaranty may be required for the maintenance and operation of the facility for a period of five years post-construction. No bond or guaranty is required where the owner or operator of such a facility is a village, town, county or city.
+
+
 
 
 
@@ -9018,13 +9086,13 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 *§ 18-38 Subsurface Sewage Treatment Systems.* ::
 
 
-(a)  Minimum requirements.
+(a) Minimum Requirements for new subsurface sewage treatment systems.
 
    (1) The design, treatment, construction, maintenance and operation of new subsurface sewage treatment systems, and the plans therefor, require the review and approval of the Department, provided that the requirements of this section shall not apply to subsurface sewage treatment systems necessary for an agricultural activity that are designed, provide treatment and are constructed, maintained and operated in compliance with State and Federal law.
 
    (2) All new individual sewage treatment systems shall comply with the requirements of 10 NYCRR Part 75 and Appendix 75-A except where a local government or agency has enacted, or these rules and regulations specify, more stringent standards, in which case, the more stringent standards shall apply.
 
-   (3) All new intermediate sized sewage treatment systems shall comply with the requirements set forth in Design Standards for Wastewater Treatment Works, Intermediate Sized Sewerage Facilities, New York State Department of Environmental Conservation (1988), except where a local government or agency has enacted, or these rules and regulations specify, more stringent standards, in which case, the more stringent standards shall apply.
+   (3) All new intermediate sized sewage treatment systems shall comply with the requirements set forth in New York State Design Standards for Intermediate Sized Wastewater Treatment Systems, New York State Department of Environmental Conservation (2014), except where a local government or agency has enacted, or these rules and regulations specify, more stringent standards, in which case, the more stringent standards shall apply.
 
       (i) As a condition of approval the Department may require evidence of financial security prior to construction, from any owner or operator of a new intermediate sized sewage treatment system or a substantial alteration or modification to an existing intermediate sized sewage treatment system. Such financial security shall consist of a bond, or an equivalent guaranty, to be deposited with the Department, covering the full cost of the construction of such facility and an additional bond or an equivalent guaranty for the payment of labor and material furnished in the course of such construction. Upon completion of construction and payment of labor and materials, such bonds or other guaranties shall be released. Additionally, a bond or equivalent guaranty may be required for the maintenance and operation of the facility for a period of five years post-construction. No bond or guaranty is required where the owner or operator of such a facility is a village, town, county or city.
 
@@ -9036,43 +9104,97 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) Raised systems which cannot meet the limiting distances set forth in subparagraph (i) due to size or location of the lot shall be located at the greatest limiting distance possible within the property lines and at least 100 feet from any watercourse or wetland and 300 feet from any reservoir, reservoir stem or controlled lake.
 
-   (6) Where a watershed county has adopted a subdivision code that allows a raised system, as described in 10 NYCRR Part 75 and Appendix 75-A, or where any system that has been modified from the Standards outlined in Appendix 75-A has been approved by the New York State Department of Health as an alternative system, or where the New York State Department of Health approved such raised or modified alternative systems for use in subdivisions located in the watershed, such raised or alternative systems are allowed in subdivisions that are approved subsequent to the effective date of these rules and regulations, provided that no part of such systems shall be located within 250 feet of a watercourse or wetland or 500 feet of a reservoir, reservoir stem or controlled lake.
+   (6) Where a watershed county has adopted a subdivision code that allows a raised system, as described in 10 NYCRR Part 75 and Appendix 75-A, or where the New York State Department of Health approved such raised systems for use in subdivisions located in the watershed, such raised systems are allowed in subdivisions that are approved subsequent to the effective date of these rules and regulations, provided that no part of such systems shall be located within 250 feet of a watercourse or wetland or 500 feet of a reservoir, reservoir stem or controlled lake.
 
-   (7) Any proposed alteration or modification of any subsurface sewage treatment system, including a noncomplying regulated activity, requires the review and approval of the Department.
+   (7) Any approval of a subsurface sewage treatment system issued by the Department expires and is null and void unless construction is substantially completed such that the system is functioning as designed within five (5) years of the date of issuance for systems located within approved subdivisions, or within two (2) years of the date of issuance for all other subsurface sewage treatment systems. Following expiration of the approval, the plans for the subsurface sewage treatment system may be resubmitted to the Department for consideration for a new approval.
 
-      (i) Any proposed alteration or modification of any individual sewage treatment system that is an existing or a noncomplying regulated activity shall be performed in accordance with the requirements applicable to new subsurface sewage treatment systems under this section. Alterations or modifications of such individual sewage treatment systems that cannot meet these requirements, due to site constraints, shall be performed in accordance with these requirements to the extent possible. In addition, unless such an alteration or modification is limited to a replacement in kind, reduces the potential for contamination to or degradation of the water supply from an existing subsurface sewage treatment system, or reduces flow to an existing subsurface sewage treatment system, the applicant shall demonstrate adequate mitigation measures to avoid contamination to, or degradation of, the water supply which are at least as protective of the water supply as the requirements that cannot be met.
+(b) Minimum requirements for alteration and modification, repair and remediation, and discontinuation of subsurface sewage treatment systems.
 
-      (ii) Any proposed alteration or modification of any new individual sewage treatment system  shall be performed in accordance with the requirements applicable to new subsurface sewage treatment systems under this section. If such an alteration or modification reduces the potential for contamination to or degradation of the water supply from a new subsurface sewage treatment system, or reduces flow to a new subsurface sewage treatment system, and such alteration or modification cannot meet these requirements due to site constraints, it shall be performed in accordance with these requirements to the extent possible.
+   (1) All subsurface sewage treatment systems, which are operating in accordance with their Federal, State, and local approvals, but which do not comply with the requirements for new subsurface sewage treatment systems set forth in this section, shall be allowed to continue to operate.
 
-      (iii) Any proposed alteration or modification of any intermediate sized subsurface sewage treatment system is prohibited unless such alteration or modification complies with the requirements of this section.
+   (2) If the use of a subsurface sewage treatment system is, for any reason, subject to discontinuation for a period of five consecutive years or more, operation may resume if it comes into compliance with the standards for alterations or modifications of subsurface sewage treatment systems in accordance with 15 RCNY § 18-38(b)(4) below. If, however, the system cannot come into compliance with these standards, the use must permanently desist. The owner or operator bears the burden of proof for showing that there has been no discontinuation in the use of a subsurface sewage treatment system.
 
-   (8) All existing subsurface sewage treatment systems, which are operating in accordance with their Federal, State, and local approvals on the effective date of these rules and regulations, but which do not comply with the additional requirements set forth in this section, shall be allowed to continue to operate and shall be considered noncomplying regulated activities.
+   (3) Any proposed alteration or modification of any subsurface sewage treatment system requires the review and approval of the Department, except as provided in subparagraphs (i) through (iii) below.
 
-   (9) If at any time after the effective date of these rules and regulations a subsurface sewage treatment system fails or needs remediation, the owner or operator of the subsurface sewage treatment system shall comply with the following:
+      (i) The volume, character, or strength of the flow to a subsurface sewage treatment system may be reduced without review and approval provided that such reduction does not cause any increase in the existing discharge or any increase in the potential for contamination to or degradation of the water supply from that discharge. If the reduction in the volume, character, or strength results from an alteration or modification of a system component, or the addition of a new system component (such as installation of a peat filter or aerobic treatment unit), then such alteration, modification, or addition requires review and approval of the Department, except that:
 
-      (i) Any proposed remediation of any part of a subsurface sewage treatment system shall require the prior review and approval of the Department, and if approved, shall be completed as soon as possible in accordance with a schedule approved by the Department; (ii)  Any proposed remediation of any part of a subsurface sewage treatment system shall be implemented, to the extent possible, in accordance with the design standards set forth in this section, and shall require the prior review and approval of the Department. However, if the Department determines, based upon the application submitted by the owner or operator of the subsurface sewage treatment system, that such system cannot comply with this section, the owner or operator of the subsurface sewage treatment system shall cooperate with the Department to determine the most suitable location and design for the system on the specific site. The Department may require the owner to agree to a regular schedule for the pump out of the septic tank or other remedial action, including the use of holding tanks, before the proposed remediation is approved by the Department and implemented; and
+         a. Any such review and approval shall be limited to the affected system component; and
+
+         b. No such review and approval is required where the alteration, modification, or addition of the system component is otherwise exempt from review under this section (such as the replacement of a septic tank with a larger tank of an appropriate size for the subsurface sewage treatment system).
+
+      (ii) Except as set forth in this subdivision, for an intermediate sized subsurface sewage treatment system that has a State Pollutant Discharge Elimination System (SPDES) permit, review and approval is not required for any proposed alteration or modification that does not deviate from the engineering design and site plan approved by the New York State Department of Environmental Conservation.
+
+         a. Review and approval by the Department is required if the alteration or modification requires a modification of the SPDES permit for the SSTS for any reason including, but not limited to:
+
+            i. the alteration or modification involves physical alteration or modification of the SSTS, or
+
+            ii. the alteration or modification results in the system receiving sewage that either exceeds the treatment system design flow, or has a strength or characteristic beyond the design capability of the treatment system.
+
+         b. If the Department has previously issued an approval for an intermediate sized subsurface sewage treatment system, review and approval by the Department is required for any alteration or modification that results in the system receiving sewage that either exceeds the design flow of the system as approved by the Department, or has a strength or characteristic beyond the design capability of the system as approved by the Department.
+
+      (iii) In the following circumstances, where an ancillary, non-residential use of a residence served by an individual subsurface sewage treatment system does not result in an increase in or change in the nature of the flow of sewage, the subsurface sewage treatment system shall not be considered an intermediate-sized sewage treatment system, nor shall such use require review and approval by the Department:
+
+         a. Where the residence is used to provide accommodations for transient lodgers and no food service is provided other than to overnight guests, unless such use requires a temporary residence permit pursuant to 10 NYCRR Subpart 7-1.
+
+         b. Where the individual residence is used for a home office or home business, provided that:
+
+            i. The individual who operates the home office or home business occupies the home as his or her primary or secondary residence;
+
+            ii. The home office or home business is of a type that is estimated to generate 50 gallons per day of water or less based on Table B-3 of the New York State Design Standards for Intermediate Sized Wastewater Treatment Systems, New York State Department of Environmental Conservation (2014); and
+
+            iii. The conversion does not involve an increase in the individual residence's number of bedrooms.
+
+   (4) Standards for Alterations or Modifications of Subsurface Sewage Treatment Systems.
+
+      (i) Any proposed alteration or modification of any subsurface sewage treatment system must be performed in accordance with the requirements applicable to new subsurface sewage treatment systems under this section.
+
+      (ii) Alterations or modifications of subsurface sewage treatment systems that cannot meet these requirements, due to site constraints, must be performed in accordance with the requirements applicable to new subsurface sewage treatment systems to the extent possible. Applications for proposed alterations or modifications of such subsurface sewage treatment systems must include the information described in 15 RCNY § 18-38(d)(4).
+
+      (iii) Standard of review. The department will authorize use of a subsurface sewage treatment system that has been subject to a period of discontinuation for five consecutive years or more, or a proposed alteration or modification of a subsurface sewage treatment system, if the applicant demonstrates that such use, alteration, or modification does not present a threat to public health or water quality as determined by the Department.
+
+   (5) If a subsurface sewage treatment system fails or needs remediation, the owner or operator of the subsurface sewage treatment system must comply with the following:
+
+      (i) Any proposed remediation of any part of a subsurface sewage treatment system shall require the prior review and approval of the Department, and if approved, shall be completed as soon as possible in accordance with a schedule approved by the Department;
+
+      (ii) Any proposed remediation of any part of a subsurface sewage treatment system shall be implemented, to the extent possible, in accordance with the design standards set forth in this section, and shall require the prior review and approval of the Department. However, if the Department determines, based upon the application submitted by the owner or operator of the subsurface sewage treatment system, that such system cannot comply with this section, the owner or operator of the subsurface sewage treatment system shall cooperate with the Department to determine the most suitable location and design for the system on the specific site. The Department may require the owner to agree to a regular schedule for the pump out of the septic tank or other remedial action, including the use of holding tanks, before the proposed remediation is approved by the Department and implemented; and
 
       (iii) The provisions of this paragraph shall not apply to the routine repair and maintenance of a subsurface sewage treatment system, including, but not limited to, the pump out of a septic tank, the replacement of a septic tank, whether in kind or with a larger tank of an appropriate size for the subsurface sewage treatment system, the repair of a broken lateral, the leveling of a distribution box, or the removal of a blockage.
 
-   (10) Any approval of a subsurface sewage treatment system issued by the Department shall expire and thereafter be null and void unless construction is commenced within five (5) years of the date of issuance for systems located within approved subdivisions, or within two (2) years of the date of issuance for all other subsurface sewage treatment systems. Following expiration of the approval, the plans for the subsurface sewage treatment system may be resubmitted to the Department for consideration for a new approval.
+   (6) Any approval issued by the Department to use a subsurface sewage treatment system following a discontinuation expires and is null and void unless any required enhancements are implemented and such use is commenced within one (1) year of the date of issuance or such longer period as the Department may authorize in writing. Following expiration of the approval, the plans for the subsurface sewage treatment system may be resubmitted to the Department for consideration for a new approval.
 
-(b) Design, operation, treatment, and maintenance requirements.
+   (7) Any approval of an alteration or modification of a subsurface sewage treatment system issued by the Department expires and is null and void unless any required enhancements are implemented within two (2) years of the date of issuance. Following expiration of the approval, the plans for the subsurface sewage treatment system may be resubmitted to the Department for consideration for a new approval.
+
+   (8) Any property owner may request that the Department review and approve a proposed use of a subsurface sewage treatment system by demonstrating that it is capable of treating a specified volume and type of wastewater flow. The proposal may include proposed enhancements to the system. A determination by the Department that the subsurface sewage treatment system complies with the standards applicable to new subsurface sewage treatment systems or, if it cannot come into compliance the standards applicable to alterations or modifications of subsurface sewage treatment systems to the extent possible pursuant to 15 RCNY § 18-38(b)(4), for the proposed use and volume, shall be binding upon the Department for five years following the date of the determination.
+
+(c) Design, operation, treatment, and maintenance requirements.
 
    (1) All subsurface sewage treatment systems shall be designed, operated and maintained to prevent the exposure of sewage to the surface of the ground or the discharge of sewage to ground- water.
 
-   (2) Mound systems, galley systems, seepage pits, evaporation-transpiration (ET) and evaporation-transpiration absorption (ETA) systems are prohibited from use for subsurface sewage treatment systems installed in the watershed on or after June 30, 2002. Sand filters are prohibited from use for individual sewage treatment systems in the watershed.
+   (2) Limitations on certain systems in the watershed.
+
+      (i) Mound systems, galley systems, seepage pits, evaporation-transpiration (ET) and evaporation-transpiration absorption (ETA) systems are prohibited from use for subsurface sewage treatment systems installed in the watershed on or after June 30, 2002.
+
+      (ii) Drip and low profile dispersal systems, as described in New York State Design Standards for Intermediate Sized Wastewater Treatment Systems, New York State Department of Environmental Conservation (2014) are prohibited from use for subsurface sewage treatment systems installed in the watershed on or after September 25, 2019.
+
+      (iii) Sand filters are prohibited from use for individual sewage treatment systems in the watershed.
+
+      (iv) For new subsurface sewage treatment systems within the 60-day travel time, and for new subsurface sewage treatment systems that require State Pollutant Discharge Elimination System (SPDES) permits, trench length reductions will not be offered for use of any enhanced subsurface sewage treatment systems.
+
+      (v) No trench length reductions shall be granted for use of any open-bottom gravelless absorption system, as described in 10 NYCRR Appendix 75-A.8(c)(3)(i). One linear foot of a gravelless absorption system is equivalent to one linear foot of conventional (24" wide) absorption trench.
 
    (3) An additional area of at least 100 percent of the primary absorption field shall be set aside as a reserve absorption field for any subsurface sewage treatment system.
 
    (4) No part of any primary or reserve absorption field shall be built under pavement or other impervious surfaces, and pavement and other impervious surfaces shall not be built over such absorption fields after installation.
 
-   (5) At least one percolation test and at least one deep hole test shall be performed in the primary absorption field. At least one percolation test and at least one deep hole test shall be performed in the reserve absorption field area. An applicant shall notify the Department in writing at least seven (7) days prior to performance of such tests, and specify the location and the time of the tests. At the option of the Department, a Department representative may witness such tests.
+   (5) At least one percolation test and at least one deep hole test must be performed in the primary absorption field. At least one percolation test and at least one deep hole test must be performed in the reserve absorption field. An applicant must notify the Department in writing at least seven (7) days prior to performance of such tests, and specify the location and the time of the tests. Such soils testing must be performed during normal business hours on weekdays other than legal holidays. At the option of the Department, a Department representative may witness such tests.
 
    (6) Proposed sites with soil percolation rates faster than 3 minutes per inch or slower than 60 minutes per inch shall not be approved by the Department for locating a subsurface sewage treatment system.
 
    (7) Whenever possible, gravity flow systems shall be used for subsurface sewage treatment systems. The use of electrically operated pumps shall require a chamber equipped with an alarm to indicate malfunction and any other safety features required by the Department to prevent sewage overflow. An intermediate sized sewage treatment system that uses electrically operated pumps is required to have either a backup pump or a backup storage tank capable of holding two days' flow. An individual sewage treatment system that uses electrically operated pumps shall have a backup storage tank capable of holding one day's flow.
 
-(c) Application Requirements.
+   (8) A reserve absorption field is intended to be left undisturbed to be used in the event that the primary absorption field fails in the future. If the reserve absorption field is used because the primary absorption field has failed, the owner should, but is not required to, identify a new reserve absorption field. If the reserve absorption field is used for purposes of expanding the subsurface sewage treatment system, a new reserve absorption field or Department-approved alternative must be identified.
+
+(d) Application Requirements.
 
    (1) An application for review and approval of any subsurface sewage treatment system shall include the following information:
 
@@ -9080,7 +9202,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
          (a) percolation test results;
 
-         (b) deep hole test pit results or boring analysis;
+         (b)deep hole test pit results or boring analysis indicating the depth of useable soil;
 
          (c) indication of surface water or ledge rock observed;
 
@@ -9090,11 +9212,11 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) Building permit number and tax map number where available.
 
-      (iii) Four (4) sets of plans showing:
+      (iii) Four (4) sets of plans prepared by a design professional showing:
 
-         (a) site location, including distances to wells, watercourses, rock outcroppings, wetlands, controlled lakes and reservoirs;
+         (a)site location, including distances to wells, watercourses, rock outcroppings, wetlands, controlled lakes and reservoirs, and any property boundaries within 10 feet of any subsurface sewage treatment system component;
 
-         (b) site/system plans showing two-foot contours;
+         (b)site/system plans, drawn to scale, with topography showing two-foot contour intervals;
 
          (c) system profile;
 
@@ -9111,6 +9233,38 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
       (i) An Environmental Assessment form and State Environmental Quality Review Act determination, if applicable; and
 
       (ii) A SPDES permit, if applicable.
+
+   (3) All approvals for new subsurface sewage treatment systems are conditioned on the applicant's submission of as-built drawings, prepared by a design professional, once construction is complete.
+
+   (4) An application for review and approval of an alteration or modification of a subsurface sewage treatment system, or of the resumption of use of a subsurface sewage treatment following discontinuation, that cannot satisfy the requirements applicable to new subsurface sewage treatment system must include all of the information in paragraph (1) of subdivision (d) of this section, except that the Department may, at its option, waive the requirement to submit a soil investigation report. For an intermediate sized sewage treatment system, the application must include the information in paragraph (2) of subdivision (d) of this section. An application must also contain:
+
+      (i) Plans or other design information, consisting of:
+
+         (a)If available, design plans for the subsurface sewage treatment plans, indicating all known regulatory approvals for such plans;
+
+         (b)If design plans are not available, a description of the components of the system prepared by a licensed professional engineer;
+
+      (ii) A proposal for enhancements to the system to meet the standards in 15 RCNY § 18-38 applicable to a new subsurface sewage treatment system to the extent possible, including the information required under 15 RCNY § 18-38(c); and
+
+      (iii) Any additional information demonstrating any or all of the following:
+
+         (a)A reduction in the potential for contamination to or degradation of the water supply from the subsurface sewage treatment system,
+
+         (b)A reduction in flow to the subsurface sewage treatment system, or
+
+         (c)Mitigation measures to avoid contamination to, or degradation of, the water supply.
+
+(e) Construction Requirements.
+
+   (1) The applicant must notify the Department at least two business days before the start of construction of a subsurface sewage treatment system. The locations of the absorption field corners, septic tanks, pump or dosing chambers, and other treatment components must be staked out before the start of construction, so that the Department can, at its option, verify compliance with separation distance to wells, watercourses, and property lines. The ends of absorption trenches and the corners of absorption beds must be staked out before the start of construction. Stakes must be marked with applicable line and grade information and may not be disturbed during construction.
+
+   (2) If construction of a subsurface sewage treatment system ceases for more than seven days, the applicant must make best efforts to notify the Department at least two business days before restarting construction.
+
+   (3) The applicant must notify the Department at least one day before burying any component of a subsurface sewage treatment system.
+
+   (4) All notifications to the Department pursuant to this subsection (d) must be made via the email address and/or telephone number listed on the approval.
+
+
 
 
 
@@ -9168,7 +9322,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (i) Construction of an impervious surface for a new road within the limiting distance of 300 feet of a reservoir, reservoir stem or controlled lake is prohibited, except paving an existing dirt or gravel road is permitted. Construction of a new impervious surface by paving an existing dirt or gravel road requires a stormwater pollution prevention plan which complies with subdivisions (b), (c) and (d) of this section.
 
-      (ii) Construction of an impervious surface for a new road within the limiting distance of 50 feet of an intermittent stream or wetland, or within the limiting distance of 100 feet of a perennial stream is prohibited, except for paving an existing dirt or gravel road or where necessary to provide an access road to two or more parcels or to a subdivision. Construction of an impervious surface for paving such existing dirt or gravel road or for such a new access road requires a stormwater pollution prevention plan which complies with the requirements of subdivisions (b), (c) and (d) of this section. Any access road constructed pursuant to this paragraph shall be constructed as far as practicable from all watercourses and wetlands.
+      (ii) Construction of an impervious surface for a new road within the limiting distance of 50 feet of an intermittent stream or wetland, or within the limiting distance of 100 feet of a perennial stream, is prohibited, except for paving an existing dirt or gravel road or where necessary to provide an access road. Construction of an impervious surface for paving such existing dirt or gravel road or for such a new access road requires a stormwater pollution prevention plan which complies with the requirements of subdivisions (b), (c) and (d) of this section for the entire impervious surface. An access road constructed pursuant to this paragraph shall be constructed as far as practicable from all watercourses and wetlands, as determined by the Department.
 
       (iii) Construction of an impervious surface for a new road between the limiting distances of 50 feet and 100 feet of an intermittent stream or wetland requires a stormwater pollution prevention plan which complies with the requirements of subdivisions (b), (c) and (d) of this section.
 
@@ -9188,13 +9342,13 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (9) Construction of a bridge or crossing of a watercourse or wetland which does not require a permit from a regulatory agency other than the Department shall require the review and approval of the Department. Such bridge or crossing shall be constructed to prevent adverse impacts on the quality of the water supply.
 
-   (10) Maintenance of an existing impervious surface that is a noncomplying regulated activity shall not require the review and approval of the Department.
+   (10) Maintenance of an existing impervious surface shall not require the review and approval of the Department.
 
    (11) The following requirements are applicable to creation of an impervious surface in the East of Hudson watershed within a Designated Main Street Area:
 
       (i) Creation of any new impervious surface within a Designated Main Street Area requires a stormwater pollution prevention plan which complies with the requirements of subdivisions (b), (c), and (d) of this section, except that the foregoing requirements of this subparagraph shall not apply to the creation of a new impervious surface for an activity set forth in paragraph (2) of this subdivision which complies with the provisions of paragraph (2).
 
-      (ii) Within thirty (30) days of the effective date of these rules and regulations, a local government may define by metes and bounds, tax maps or other geographic boundaries a proposed Designated Main Street Area within its boundaries, and apply to the Department for approval of such proposal. Within thirty (30) days of such application the Department may approve, disapprove, or approve with modifications, such Designated Main Street Area. If the Department disapproves the application, the local government shall have an additional thirty (30) days in which to submit a revised application for approval of the proposed Designated Main Street Area, and the Department shall approve or disapprove the application within thirty (30) days of receipt of such revised application. The Department will approve only a limited number of Designated Main Street Areas and local governments may not designate all areas of population concentrations in the East of Hudson watershed as Designated Main Street Areas. The approved boundary description of a Designated Main Street Area shall be made available by the Department for public inspection at its field offices in the East of Hudson watershed.
+      (ii) The approved boundary descriptions of all Designated Main Street Areas shall be made available by the Department for public inspection at its field offices in the East of Hudson watershed.
 
 (b) Stormwater pollution prevention plans.
 
@@ -9202,41 +9356,43 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (2) Stormwater pollution prevention plans shall not be required to be prepared pursuant to this section for clear cutting and mining activities, provided, however, that such activities shall be subject to the requirements set forth in the applicable New York State Department of Environmental Conservation SPDES Permit which may be required pursuant to Environmental Conservation Law § 17-0808.
 
-   (3) Stormwater pollution prevention plans shall be prepared for the activities listed in this paragraph. Such plans shall be prepared and implemented in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-10-001 that are applicable to construction activities identified in Table 2 of Appendix B, except for plans for redevelopment projects and stormwater retrofits, which shall be prepared and implemented in accordance with subdivision (b)(7). No activity shall be exempt from any such requirements as a result of the size or nature of the watercourse(s) to which stormwater from such activity discharges, except with prior written approval from the Department. Such plans shall also be subject to the prior review and approval of the Department. The activities for which a stormwater pollution prevention plan must be prepared under this paragraph are:
+   (3) Stormwater pollution prevention plans shall be prepared for the activities listed in subparagraph (4) of this subdivision. Such plans shall also be subject to the prior review and approval of the Department. Such plans shall be prepared and implemented in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to construction activities identified in Table 2 of Appendix B, and in accordance with the requirements of subdivision (c) of this section, except that:
 
-      (i) Plans for development or sale of land that will result in the disturbance of five (5) or more acres of total land area as described in the definition of "larger common plan of development or sale" in Appendix A of General Permit No. GP-0-10-001;
+      (i) plans for redevelopment shall be prepared and implemented in accordance with subdivision (b)(8),
 
-      (ii) Construction of a subdivision;
+      (ii) plans for construction activities identified in Table 1 of Appendix 18-B must be prepared and implemented in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to construction activities identified in Table 1 of Appendix 18-B. A construction activity will be deemed to "alter hydrology from pre to post development conditions," for purposes of Table 1 of Appendix 18-B, if the post-development peak rate of flow for the activity has increased by more than 5% of the pre-developed condition for the one-year, twenty-four hour storm, the ten-year, twenty-four hour storm, or the one hundred-year, twenty-four hour storm as defined herein. A construction activity that is excluded from coverage under Table 1 of Appendix 18-B because it alters hydrology from pre to post development conditions must comply with the requirements of subdivision (b)(3) above,
 
-      (iii) Construction of a new industrial, institutional, municipal, commercial, or multi-family residential project that will result in creation of an impervious surface totaling over 40,000 square feet in size;
+      (iii) plans for construction activities requiring Department review and approval of a stormwater pollution prevention plan under this section that involve disturbance of less than one (1) acre of total land area, other than construction of gasoline stations and construction, alteration, or modification of solid waste management facilities, and which will not result in hot spot runoff, must be prepared and implemented in accordance with subdivision (b)(9), and
 
-      (iv) A land clearing or land grading project, involving two or more acres, located at least in part within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 300 feet of a reservoir, reservoir stem or controlled lake or on a slope exceeding 15 percent;
+      (iv) no activity shall be exempt from any such requirements as a result of the size or nature of the watercourse(s) to which stormwater from such activity discharges, except with prior written approval from the Department. Such plans shall also be subject to the prior review and approval of the Department.
 
-      (v) Construction of a new solid waste management facility or alteration of modification of an existing solid waste management facility within 300 feet of a watercourse or wetland or 500 feet of a reservoir, reservoir stem or controlled lake;
+   (4) The activities for which a stormwater pollution prevention plan must be prepared under subparagraph (3) of this subdivision are:
 
-      (vi) Construction of a gasoline station;
+      (i) Plans for development or sale of land that will result in the disturbance of five (5) or more acres of total land area as described in the definition of larger common plan of development or sale in Appendix A of SPDES General Permit No. GP-0-15-002;
 
-      (vii) Construction of an impervious surface for a new road, as required by paragraph (a)(6) of this section;
+      (ii) Construction of an impervious surface for a new road, for an access road, or for an existing dirt or gravel road, as required by paragraph (a)(6) of this section;
 
-      (viii) Construction of an impervious surface in the West of Hudson watershed within a village, hamlet, village extension or area zoned for commercial or industrial uses, as required by paragraph (a)(8) of this section;
+      (iii) Up to a 25 percent expansion of an existing impervious surface at an existing commercial, institutional, municipal, industrial, or multi-family residential facility which is within the limiting distance of 100 feet of a watercourse or wetland, as required in subdivision (a)(4)(iii) of this section; or
 
-      (ix) Up to a 25 percent expansion of an existing impervious surface at an existing commercial, institutional, municipal, or industrial facility which is within the limiting distance of 100 feet of a watercourse or wetland, as required in subdivision (a)(4)(iii) of this section; or
+   (5) If there is a significant change in design, construction, operation, or maintenance of an activity which is subject to a Stormwater Pollution Prevention Plan pursuant to subdivision (b)(3) which may have a significant effect on the potential for the discharge of pollutants to surface waters and which has not otherwise been addressed in the Stormwater Pollution Prevention Plan, or if the Stormwater Pollution Plan proves to be ineffective in eliminating or significantly minimizing erosion and sedimentation or the discharge of pollutants associated with construction activity, the Stormwater Pollution Prevention Plan must be amended. Such amended stormwater pollution prevention plan shall be submitted to the Department for prior review and approval and shall comply with the requirements of this section.
 
-      (x) Construction of an impervious surface in the East of Hudson Watershed in a Designated Main Street Area.
+   (6) Any approval of a stormwater pollution prevention plan issued by the Department expires and is null and void unless construction is completed within five (5) years of the date of issuance or within any extended period of time approved by the Department upon good cause shown. Following expiration of the approval, the application for the stormwater pollution prevention plan may be resubmitted to the Department for consideration for a new approval.
 
-   (4) If there is a significant change in design, construction, operation, or maintenance of an activity which is subject to a Stormwater Pollution Prevention Plan pursuant to subdivision (b)(3) which may have a significant effect on the potential for the discharge of pollutants to surface waters and which has not otherwise been addressed in the Stormwater Pollution Prevention Plan, or if the Stormwater Pollution Plan proves to be ineffective in eliminating or significantly minimizing erosion and sedimentation or the discharge of pollutants associated with construction activity, the Stormwater Pollution Prevention Plan must be amended. Such amended stormwater pollution prevention plan shall be submitted to the Department for prior review and approval and shall comply with the requirements of this section.
+   (7) As a condition of approval the Department may require evidence of financial security prior to construction from any owner or operator of a stormwater management system pursuant to a stormwater pollution prevention plan. Such financial security shall consist of a bond, or an equivalent guaranty, to be deposited with the Department, covering the full cost of the construction of such facility and an additional bond or an equivalent guaranty for the payment of labor and material furnished in the course of such construction. Upon completion of construction and payment of labor and materials, such bonds or other guaranties shall be released. Additionally, a bond or equivalent guaranty may be required for the maintenance and operation of the facility for a period of five years post-construction. No bond or guaranty is required where the owner or operator of such a facility is a village, town, county or city.
 
-   (5) Any approval of a stormwater pollution prevention plan issued by the Department shall expire and thereafter be null and void unless construction is completed within five (5) years of the date of issuance or within any extended period of time approved by the Department upon good cause shown. Following expiration of the approval, the application for the stormwater pollution prevention plan may be resubmitted to the Department for consideration for a new approval.
+   (8) Where portions of an activity that require a stormwater pollution prevention plan pursuant to subdivision (b)(3) constitute redevelopment as defined herein, those portions of such plan shall:
 
-   (6) As a condition of approval the Department may require evidence of financial security prior to construction from any owner or operator of a stormwater management system pursuant to a stormwater pollution prevention plan. Such financial security shall consist of a bond, or an equivalent guaranty, to be deposited with the Department, covering the full cost of the construction of such facility and an additional bond or an equivalent guaranty for the payment of labor and material furnished in the course of such construction. Upon completion of construction and payment of labor and materials, such bonds or other guaranties shall be released. Additionally, a bond or equivalent guaranty may be required for the maintenance and operation of the facility for a period of five years post-construction. No bond or guaranty is required where the owner or operator of such a facility is a village, town, county or city.
+      (i) be prepared and implemented, to the extent possible, in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to the construction activities identified in Table 2 of Appendix 18-B;
 
-   (7) Where an activity that requires a stormwater pollution prevention plan pursuant to subdivision (b)(3) is a redevelopment project or a stormwater retrofit, such plan shall:
+   (9) Where an activity requiring Department review and approval of a stormwater pollution prevention plan under this section that involves disturbance of less than one (1) acre of total land area, other than construction of a gasoline station or construction, alteration, or modification of a solid waste management facility, and which will not result in hot spot runoff, requires a stormwater pollution prevention plan pursuant to subdivision (b)(3) above, the application must consist of:
 
-      (i) be prepared and implemented, to the extent possible, in accordance with the requirements of Part III of the New York State Department of Environmental Conservation General Permit No. GP-0-10-001 that are applicable to construction activities identified in Table 2 of Appendix B;
+      (i) A plan of the proposed activity, identifying the area of disturbance, the location of any existing or proposed impervious surfaces, and the location of any watercourses, wetlands, reservoirs, reservoir stems or controlled lakes on or adjacent to the property;
 
-      (ii) be prepared and implemented, to the extent possible, in accordance with the additional requirements for stormwater pollution prevention plans set forth in subsection (c) below; and
+      (ii) A description and depiction of proposed erosion controls sufficient to prevent sedimentation of the receiving watercourse, wetland, reservoir, reservoir stem or controlled lake on or adjacent to the property during construction. Erosion controls typically consist of sediment barriers, such as hay bales and silt fencing, temporary sediment traps and temporary stormwater flow diversions;
 
-      (iii) provide an improvement in stormwater management and/or stormwater treatment as compared with conditions prior to the activity.
+      (iii) A schedule for construction, including grading and site stabilization; and
+
+      (iv) A description and depiction of proposed permanent stormwater management practices designed to filter, detain, or infiltrate runoff from impervious surfaces, thereby minimizing the post-construction increase in pollutant loading to the receiving watercourse, wetland, reservoir, reservoir stem or controlled lake.
 
 (c) Additional Requirements for Stormwater Pollution Prevention Plans.
 
@@ -9246,9 +9402,9 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (2) Stormwater Conveyance Measures. Stormwater pollution prevention plans prepared pursuant to this section shall provide for the maintenance of natural drainage systems, including perennial and intermittent streams, and the use of swales and drainage ditches in an open condition to the maximum extent practicable. A stormwater pollution prevention plan shall ensure that any closed stormwater conveyance measures are sized appropriately to convey, at a minimum, the 10-year, 24-hour storm flow.
 
-   (3) Stormwater Treatment Volume. All stormwater pollution prevention plans prepared pursuant to this section shall include measures to capture and treat the greater of the volume of runoff generated by the 1-year, 24-hour storm or the Water Quality Volume (WQv). Stormwater management practices which provide treatment shall be designed to accommodate the quantity of runoff flowing to the stormwater management practice, including runoff from off-site areas.
+   (3) Stormwater Treatment Volume. All stormwater pollution prevention plans prepared pursuant to this section shall include measures to capture and treat the greater of the volume of runoff generated by the 1-year, 24-hour storm or the Water Quality Volume (WQv), except that a stormwater management practice may be designed to capture and treat the lesser of those volumes if it is a stormwater infiltration practice or it is a bioretention practice in hydrologic soil group A or B. Stormwater management practices which provide treatment shall be designed to accommodate the quantity of runoff flowing to the stormwater management practice, including runoff from off-site areas.
 
-   (4) Where a stormwater pollution prevention plan prepared pursuant to this section includes a stormwater infiltration practice, to the maximum extent practicable, no portion of such stormwater infiltration practice shall be located within 100 feet of any portion of the absorption area of a subsurface sewage treatment system.
+   (4) Where a stormwater pollution prevention plan prepared pursuant to this section includes a stormwater infiltration practice, to the maximum extent practicable, no portion of such stormwater infiltration practice shall be located within 100 feet of any portion of the absorption field of a subsurface sewage treatment system.
 
    (5) To the maximum extent practicable, an activity requiring a stormwater pollution prevention plan, and the stormwater pollution prevention plan prepared for such activity, shall be designed:
 
@@ -9262,7 +9418,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) the activity requiring a stormwater pollution prevention plan is in the West of Hudson watershed within a village, hamlet, village extension, or area zoned for commercial or industrial uses or in the East of Hudson watershed within a Designated Main Street Area.
 
-   (7) For purposes of the design criteria incorporated by reference in New York State Department of Environmental Conservation General Permit GP-0-10-001, "detention time" shall mean the time runoff is detained in a stormwater management practice. It can be computed using either the center of mass method or the plug flow method.
+   (7) For purposes of the design criteria incorporated by reference in New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002, "detention time" shall mean the time runoff is detained in a stormwater management practice. It can be computed using either the center of mass method or the plug flow method.
 
 (d) Application requirements and procedures.
 
@@ -9270,7 +9426,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (i) The pollution prevention plan; and
 
-      (ii) The information required in a Notice of Intent under New York State Department of Environmental Conservation SPDES General Permit No. GP-0-10-001.
+      (ii) The information required in a Notice of Intent under New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002.
 
    (2) When the Department notifies an applicant that an application for approval of a stormwater pollution prevention plan is complete pursuant to 15 RCNY § 18-23(d)(2) and (3), the Department shall also issue a written notification to the Stormwater Project Review Committee ("Committee") for the Town(s) or Village in which the activity requiring preparation of the stormwater pollution prevention plan is proposed to be located, of the Department's receipt of a complete application.
 
@@ -9321,6 +9477,8 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 
 
+
+
 *§ 18-40 Miscellaneous Point Sources.* ::
 
 
@@ -9344,11 +9502,13 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (3) Expansion of the existing permitted municipal solid waste landfill located within Delaware County.
 
-(b) Discharge of solid waste directly into any watercourse, wetland, reservoir, reservoir stem or controlled lake is prohibited. For purposes of this subdivision, solid waste includes materials that are otherwise exempt from compliance with 6 NYCRR Part 360, as described in 6 NYCRR Part 360-1.2(a)(4). This subdivision shall not apply to discharge of treated leachate in accordance with the requirements of these rules and regulations and a valid SPDES permit.
+(b) Discharge of solid waste directly into any watercourse, wetland, reservoir, reservoir stem or controlled lake is prohibited. For purposes of this subdivision, solid waste includes materials that are otherwise exempt from compliance with 6 NYCRR Part 360, as described in 6 NYCRR § 360.2(a)(3), unless those materials are irrigation return flows, materials that are used for artificial reefs in compliance with applicable State requirements, or authorized to be discharged to waters of the state pursuant to a valid permit issued by the New York State Department of Environmental Conservation pursuant to Environmental Conservation Law article 15, 17, 24, 25, or 34 or a water quality certification issued under Section 401 of the Federal Water Pollution Control Act. This subdivision shall not apply to discharge of treated leachate in accordance with the requirements of these rules and regulations and a valid SPDES permit.
 
 (c) Only construction and demolition debris that is recognizable uncontaminated concrete, asphalt pavement, brick, soil, stone, trees or stumps, wood chips, or yard waste may be used as fill in the watershed.
 
 (d) All new solid waste management facilities, or altered or modified existing solid waste management facilities within the limiting distance of 300 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake, are required to submit stormwater pollution prevention plans to the Department for review and approval, in accordance with 15 RCNY § 18-39(b)(3)(v).
+
+
 
 
 
@@ -9493,11 +9653,9 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 
       (i) Identify the specific provision of the rules and regulations from which the variance is sought or identify the nature and extent of the alteration or modification of the noncomplying regulated activity;
 
-      (ii) Demonstrate that the variance requested is the minimum necessary to afford relief;
+      (ii) Demonstrate that the variance requested is the minimum necessary to afford relief; and
 
-      (iii) Demonstrate that the activity as proposed includes adequate mitigation measures to avoid contamination to or degradation of the water supply which are at least as protective of the water supply as the standards for regulated activities set forth in these rules and regulations; and
-
-      (iv) Demonstrate that for the proposed use or activity for which the variance is requested, compliance with the identified provision of the rules and regulations would create a substantial hardship due to site conditions or limitations.
+      (iii) Demonstrate that the activity as proposed includes adequate mitigation measures to avoid contamination to or degradation of the water supply which are at least as protective of the water supply as the standards for regulated activities set forth in these rules and regulations.
 
    (2) In granting variances the Commissioner may impose specific conditions, including evidence of financial security, time limitations and limitations on any transfer of the variance granted. In addition, the Commissioner may grant a lesser variance than that applied for.
 
@@ -9569,9 +9727,11 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 
          (e) an inflow study, and a plan and implementation schedule, to control and eliminate, to the maximum extent practicable, stormwater contributions from sources such as catch basins, downspouts, and sump pumps; and (f)  a program for training appropriate personnel on collection system operation and maintenance; and
 
-      (iv) All wastewater pumping stations in the sewer system serving the new or expanded wastewater treatment plant, both new and existing, shall meet the alarm systems and emergency operation requirements applicable to new wastewater pumping stations as set forth in "Recommended Standards for Wastewater Facilities," Great Lakes – Upper Mississippi River Board of State Public Health and Environmental Managers (2004); and
+      (iv) All wastewater pumping stations in the sewer system serving the new or expanded wastewater treatment plant shall meet the alarm systems and emergency operation requirements applicable to new wastewater pumping stations as set forth in "Recommended Standards for Wastewater Facilities," Great Lakes - Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers (2014); and
 
       (v) The applicant shall seek to have included in the wastewater treatment plant's SPDES permit a condition providing that in the event that the SPDES permitted flow limit is violated, the owner will investigate the violation and prepare a corrective action plan.
+
+
 
 
 
@@ -9889,9 +10049,7 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
    (4) The discharge from the new wastewater treatment plant or the expansion of an existing wastewater treatment plant complies with one of the following conditions:
 
-      (i) The total volume (or flow) of surface discharge from such new wastewater treatment plant or expansion of an existing wastewater treatment plant, together with the total volume of surface discharges from all other new wastewater treatment plants and expansions of wastewater treatment plants which have been permitted in the subject County pursuant to this subparagraph (i), shall not, in the aggregate, exceed 10 percent of the total volume (or flow) of surface discharge from wastewater treatment plants located in the Croton system, within the subject County, which previously discharged into the Croton system but have been permanently diverted, since the effective date of these rules and regulations, to a discharge point outside of the Watershed. The Department may approve applications to construct new wastewater treatment plants with surface discharges pursuant to this subdivision prior to the permanent diversion of wastewater, and allow construction to begin on such new wastewater treatment plants, provided that the wastewater treatment plant may not commence operation until the diversion for which the credit is received has actually occurred; or
-
-      (ii) In phosphorus restricted basins located outside of the sixty day travel time, provided that the Department has determined pursuant to 15 RCNY § 18-84, based upon the results of the pilot programs set forth in 15 RCNY §§ 18-82(g) and 18-83(a), or of other studies conducted within the watershed, that the phosphorus offsets sought by the pilot programs have been achieved, the Department may require that for each one (1) kilogram of projected increase in the phosphorus load resulting from the proposed new wastewater treatment plant, together with any accompanying non-point source runoff, is actually offset by at least three (3) kilograms of reductions in phosphorus loading within the basin within which the proposed project is located, including reductions from measures identified in and implemented in accordance with the Croton Plan pursuant to paragraph (c)(8) above, and otherwise eligible for an offset hereunder, whether the source of the offsets is in the same basin or within an upstream, hydrologically connected phosphorus restricted basin.
+      (i) The total volume (or flow) of surface discharge from such new wastewater treatment plant or expansion of an existing wastewater treatment plant, together with the total volume of surface discharges from all other new wastewater treatment plants and expansions of wastewater treatment plants which have been permitted in the subject County pursuant to this subparagraph (i), shall not, in the aggregate, exceed 10 percent of the total volume (or flow) of surface discharge from wastewater treatment plants located in the Croton system, within the subject County, which previously discharged into the Croton system but have been permanently diverted, since the effective date of these rules and regulations, to a discharge point outside of the Watershed. The Department may approve applications to construct new wastewater treatment plants with surface discharges pursuant to this subdivision prior to the permanent diversion of wastewater, and allow construction to begin on such new wastewater treatment plants, provided that the wastewater treatment plant may not commence operation until the diversion for which the credit is received has actually occurred.
 
    (5) With respect to any new or expanded wastewater treatment plant allowed pursuant to this subdivision (e), the Department will not impose additional requirements on the siting of such new or expanded wastewater treatment plant other than the requirements specifically set forth in these rules and regulations applicable to all wastewater treatment plants, the requirements of this subdivision (e), and, with respect to new or expanded wastewater treatment plants in phosphorus restricted basins relying on phosphorus offsets, the requirements of any phosphorus offset program pursuant to 15 RCNY §§ 18-82(g), 18-83(a) and 18-84.
 
@@ -9903,63 +10061,31 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
    (4) The provisions of subdivision (e) above shall not apply in any County or municipality which fails to participate in the preparation of the Croton Plan, fails to cooperate with the Department in the manner described in paragraph (f)(1) above in preparing the Croton Plan; fails or ceases to implement any water quality protection measures which such County or municipality has committed to implement as part of the final Croton Plan agreed upon by the County, municipality and the Department; or where a previously agreed upon Croton Plan is no longer valid and effective.
 
-(g) In Putnam County, provided that Putnam County has committed in writing to participate in the development of the Croton Plan pursuant to subdivision (d) above, the Department shall allow for a pilot program to evaluate the effectiveness of phosphorus offsets as a potential basis for allowing construction of new wastewater treatment plants within phosphorus restricted basins in the Croton system. Such pilot program shall be limited to a term of five (5) years, commencing on the effective date of these rules and regulations and expiring on the fifth anniversary thereof. During the term of the pilot program, the Department may approve within a Putnam County municipality which has committed in writing to participate in development of the Croton Plan, the construction of a new wastewater treatment plant with a surface discharge within a phosphorus restricted basin in the Croton system provided that the following conditions are met:
+(g) Nothing in this Subpart is intended to constrain, limit or preclude an applicant from seeking, or the Department from issuing, approval of or a variance for a proposed regulated activity under any other applicable provision of these rules and regulations.
 
-   (1) The applicant proposing a new wastewater treatment plant demonstrates that the County or municipality agrees to the plant's inclusion in the pilot program;
-
-   (2) The applicant demonstrates, and commits to take action to insure, that for every one (1) kilogram of projected increase in the phosphorus load resulting from the new wastewater treatment plant and accompanying non-point source runoff, there will be an offset which achieves at least three (3) kilograms of reduction in phosphorus within the basin in which the new wastewater treatment plant is located, whether the source of the offset is in the same basin or within an upstream hydrologically connected phosphorus restricted basin;
-
-   (3) All new wastewater treatment plants proposed to be constructed pursuant to this pilot program shall be reviewed and approved by the Department in accordance with 15 RCNY § 18-36;
-
-   (4) No more than three (3) wastewater treatment plants with surface discharges may be located in the Croton system in Putnam County pursuant to this pilot program. The total capacity, as constructed, for the three (3) proposed wastewater treatment plants shall not exceed a maximum of 150,000 gpd aggregate surface discharge; and
-
-   (5) Any wastewater treatment plant constructed pursuant to this pilot program shall be designed and operated to meet a total phosphorus effluent limit of .2 mg/l.
-
-(h) Nothing in this Subpart is intended to constrain, limit or preclude an applicant from seeking, or the Department from issuing, approval of or a variance for a proposed regulated activity under any other applicable provision of these rules and regulations.
-
-(i) Nothing in this section or in the Croton Plan is intended to constrain or limit the authority of local governments under State law to make local land use and zoning decisions, and nothing in this section or the Croton Plan should be construed to have the effect of transferring such local land use and zoning authority from the participating local governments to the Department or any other entity.
+(h) Nothing in this section or in the Croton Plan is intended to constrain or limit the authority of local governments under State law to make local land use and zoning decisions, and nothing in this section or the Croton Plan should be construed to have the effect of transferring such local land use and zoning authority from the participating local governments to the Department or any other entity.
 
 
 
 
 
 
-*§ 18-83 Watershed Planning in the West of Hudson Watershed.* ::
 
 
-(a)  The Department shall establish a pilot program to evaluate the effectiveness of phosphorus offsets as a potential basis for allowing the construction of new wastewater treatment plants, or the expansion of existing plants, with a surface discharge in a phosphorus restricted basin located in the West of Hudson watershed. Such pilot program shall be limited to a term of five (5) years, commencing on the effective date of these rules and regulations and expiring on the fifth anniversary thereof. During the term of the pilot program, the Department may approve the siting of a new wastewater treatment plant, or the expansion of an existing plant, with a surface discharge in a phosphorus restricted basin located in the West of Hudson watershed, provided that the following conditions are met:
-
-   (1) The County in which the new wastewater treatment plant, or the expansion of an existing plant, is proposed to be sited has prepared, or is in the process of preparing, a Comprehensive Strategy, in partnership with the Department and with the local governments located within the County and affected by the Comprehensive Strategy. The Comprehensive Strategy should identify existing economic resources, water quality problems, potential remedies for such problems and potential strategies and recommendations of economic development initiatives that could be undertaken to sustain local economies while remaining protective of the water supply.
-
-   (2) The applicant demonstrates that the new wastewater treatment plant, or the expansion of an existing plant, together with the offsets the applicant is proposing to make under paragraph (3) below, is consistent with the Comprehensive Strategy.
-
-   (3) The applicant demonstrates, and commits to take action to insure, that every one (1) kilogram of projected increase in the phosphorus load resulting from the new wastewater treatment plant or the expansion of an existing plant, and the accompanying non-point source runoff will be actually offset by at least three (3) kilograms of reductions in phosphorus loading within the basin in which such new wastewater treatment plant, or the expansion of an existing plant, is located. For purposes of this subdivision, the applicant may use as an offset any phosphorus reduction funded by the Catskill Fund for the Future or achieved from stormwater pollution prevention measures installed on existing structures or impervious surfaces in a village center or hamlet and funded by the Department.
-
-   (4) All new wastewater treatment plants, or expansions of existing plants, proposed to be constructed pursuant to this pilot program shall be reviewed and approved by the Department;
-
-   (5) No more than three (3) new wastewater treatment plants, or expansions of existing plants, with surface discharge shall be allowed into any phosphorus restricted basin pursuant to this pilot program. The total capacity, as constructed, of the three (3) plants shall not exceed a maximum of 100,000 gpd aggregate surface discharge.
-
-   (6) Any wastewater treatment plant, or expansion of an existing plant, constructed pursuant to this pilot program shall be designed and operated to meet the total phosphorus effluent limit of .2 mg/l.
-
-(b) Nothing in this Subpart is intended to constrain, limit or preclude an applicant from seeking, or the Department from issuing, approval of or a variance for a proposed regulated activity under any other applicable provision of these rules and regulations.
+*§ 18-83 Watershed Planning in the West of Hudson Watershed. [Repealed]* ::
 
 
 
 
 
 
-*§ 18-84 Permanent Phosphorus Offset Program.* ::
 
 
-(a)  Upon completion of the pilot programs set forth in 15 RCNY §§ 18-82(g) and 18-83(a), the Department may determine, based on the results of the pilot program or of other studies conducted in the Watershed that:
 
-   (1) Phosphorus offsets sought pursuant to 15 RCNY §§ 18-82(g) and 18-83(a) have been achieved and that a permanent phosphorus offset program should be established, with such conditions as may be appropriate based on the results of the pilot program or other studies conducted in the Watershed.
+*§ 18-84 Permanent Phosphorus Offset Program. [Repealed]* ::
 
-      (i) Pending completion of any necessary rulemaking for the continuation of a permanent phosphorus offset program, including any appropriate modifications thereto, the Department may allow the construction of new wastewater treatment plants with surface discharges into phosphorus restricted basins located outside of the sixty day travel time on a case-by-case basis pursuant to the standards set forth in 15 RCNY § 18-61 and subject to such conditions as may be appropriate based upon the results of the pilot program and other studies conducted in the watershed; or
 
-   (2) There is insufficient data on which to make a determination that phosphorus offsets have been achieved; therefore, the time frame for the pilot programs shall be extended for a period not to exceed five years to allow for the acquisition of further data. Nothing contained in this subdivision shall allow for an increase in the number or size of the wastewater treatment plants allowed pursuant to the pilot programs as set forth in 15 RCNY §§ 18-82(g) and 18-83(a).
 
-   (3) In the West of Hudson watershed, in any permanent phosphorus offset program, provided the applicant demonstrates, and commits to take action to insure, that every one (1) kilogram of projected increase in the phosphorus load resulting from the new wastewater treatment plant or the expansion of an existing plant, and the accompanying non-point source runoff will be actually offset by at least three (3) kilograms of reductions in phosphorus loading within the basin in which such new wastewater treatment plant, or the expansion of an existing plant, is located, the applicant may use as an offset any phosphorus reduction funded by the Catskill Fund for the Future or achieved from stormwater pollution prevention measures installed on existing structures or impervious surfaces in a village center or hamlet and funded by the Department.
 
 
 
@@ -9982,22 +10108,12 @@ The provisions of these rules and regulations shall be severable, and if any ite
 
 
 
-**Appendix A Watershed Maps**
+**Appendix 18-A Watershed Maps**
 
 
 
 
-**Appendix B System Specific Water Quality Characteristics**
-
-
-
-
-**Appendix C Tests for Analytical Determination of Concentrations of Elements**
-
-
-
-
-**Appendix D Hazardous Waste and Pesticide Standards [Repealed]**
+**Appendix 18-B System Specific Water Quality Characteristics and Applicable Monitoring Criteria**
 
 Chapter 19: Use of the Public Sewers
 --------------------------------------------------
@@ -19114,6 +19230,70 @@ Chapter 58: Notification of Mold Remediation
    (2) Excessive water accumulation or flooding.
 
 (b) Before commencing work, the mold remediation contractor must determine if any of the conditions listed in subdivision (a) exist, and must indicate in the mold remediation notice which, if any of these conditions exist, and attach appropriate documentation of said condition.
+
+
+
+
+
+
+Chapter 59: Hazardous Substances Emergency Response Law Penalty Schedule
+--------------------------------------------------
+
+
+
+*§ 59-01 General.* ::
+
+
+(a) Whenever a respondent is found in violation of any of the following provisions of the NYC Administrative Code, any civil penalties imposed by a hearing officer, pursuant to 48 RCNY § 6-17(a) in accordance with § 1049-a(d)(1)(d) of the Charter or any civil penalties imposed for admissions of violations, pursuant to 48 RCNY§ 6-09(c) or late admissions, pursuant to 48 RCNY § 3-17 will be imposed, pursuant to the penalty schedule set forth below.
+
+(b) All citations, unless otherwise indicated are to the NYC Administrative Code.
+
+(c) A second violation is a violation by the same respondent of the same section of law with a date of occurrence within three (3) years of the date of occurrence of the previous violation.
+
+
+
+
+
+
+
+
+*§ 59-02 Hazardous Substances Emergency Response Law Penalty Schedule.* ::
+
+
+* The following shall be considered environmentally sensitive areas: wetlands and wetland buffer areas; National and State parks; critical habitats for endangered and threatened plant and animal species; wilderness and natural areas; marine sanctuaries; conservation areas; preserves; wildlife areas; scenic, wild or recreational rivers; seashore and lakeshore recreational areas; critical biological resource areas; National and State protected and critical environmental areas (CEAS) as defined in 6 NYCRR Section 617.2(i). 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section/Offense/Penalty
+      - Mitigating Factors(Cumulative)
+      - Aggravating Factor(Cumulative, up to a Total Penalty of $10,000)
+      - Default
+    * - Admin. Code § 24-609(b)1st offenseFailed to comply with notification requirements upon release of hazardous substance$4,000
+      - 1. Subtract $500, if telephone within 24 hours. Telephone notification shall be found where respondent provided DEP with all of the telephone notification requirements as provided in 15 RCNY § 11-03(b) within 24 hours of when respondent knows or has reason to know of a release.2. Subtract $500, if respondent did provide written notification. Written notification shall be found where respondent provided DEP with all of the written notification requirements as provided in 15 RCNY § 11-03(c).3. Subtract $1,000, if began abating release within 3 hours of when respondent knew or had reason to know of a release.
+      - 1. Add $2,500, if release occurred within 1,000 feet of any of the following: residence district as defined by the New York City Zoning Resolution; school, highway, parkway or any other three lane roadway; environmentally sensitive area*; hazardous/toxic substance(s) industry/facility required to file under the New York City Community Right-to-know Law, Title 24 Chapter 7 of the New York Administrative Code.2. Add $2,500, if amount of release was equal to or greater than twice the Reportable Quantity.3. Add $2,500, if release caused actual injury to wildlife and/or human health.4. Add $2,500 if willful or intentional release of the listed hazardous substance.
+      - $10,000
+    * - Admin. Code § 24-609(b)2nd Offense$9,000
+      - SAME AS ABOVE
+      - SAME AS ABOVE
+      - $10,000
+    * - Admin Code § 24-610(c)1st OffenseWillfully violated or failed or refused to comply with Commissioner’s Order$3,000
+      - 1. Subtract $1,000, if complied with that portion of Scope of Work Order relating to securing of premises/building.2. Subtract $500, if complied with that portion of Scope of Work Order relating to identification of all hazardous substances.
+      - 1. Add $1,500, if failed to comply with that portion of Scope of Work Order relating to Bills of Lading and Hazardous Waste Manifests.2. Add $1,500, if total non-compliance, i.e. failed to comply with any part of Commissioner’s Order. (In such cases, there could be no mitigating factors.)
+      - $10,000
+    * - Admin. Code § 24-610(c)2nd Offense$4,500
+      - SAME AS ABOVE
+      - SAME AS ABOVE
+      - $10,000
+~
+
+
+
+ 
 
 
 

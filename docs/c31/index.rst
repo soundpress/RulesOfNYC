@@ -1324,46 +1324,10 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-111 Hazardous Materials Penalty Schedule.* ::
-
-
-HAZARDOUS SUBSTANCES EMERGENCY RESPONSE LAW PENALTY SCHEDULE 
-
-All citations, unless otherwise indicated are to the NYC Administrative Code. A second violation is a violation by the same respondent of the same section of law with a date of occurrence within three (3) years of the date of occurrence of the previous violation.
-
-* The following shall be considered environmentally sensitive areas: wetlands and wetland buffer areas; National and State parks; critical habitats for endangered and threatened plant and animal species; wilderness and natural areas; marine sanctuaries; conservation areas; preserves; wildlife areas; scenic, wild or recreational rivers; seashore and lakeshore recreational areas; critical biological resource areas; National and State protected and critical environmental areas (CEAS) as defined in 6 NYCRR Section 617.2(i). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Section/Offense/Penalty
-      - Mitigating Factors (Cumulative)
-      - Aggravating Factor(Cumulative, up to a Total Penalty of $10,000)
-      - Default
-    * - Admin. Code § 24-609(b) 1st offenseFailed to comply with notification requirements upon release of hazardous substance $4,000
-      - 1.  Subtract $500, if telephone within 24 hours. Telephone notification shall be found where respondent provided DEP with all of the telephone notification requirements as provided in 15 RCNY § 11-03(b) within 24 hours of when respondent knows or has reason to know of a release.2.  Subtract $500, if respondent did provide written notification. Written notification shall be found where respondent provided DEP with all of the written notification requirements as provided in 15 RCNY § 11-03(c).3.  Subtract $1,000, if began abating release within 3 hours of when respondent knew or had reason to know of a release.
-      - 1.  Add $2,500, if release occurred within 1,000 feet of any of the following: residence district as defined by the New York City Zoning Resolution; school, highway, parkway or any other three lane roadway; environmentally sensitive area*; hazardous/toxic substance(s) industry/facility required to file under the New York City Community Right-to-know Law, Title 24 Chapter 7 of the New York Administrative Code.2.  Add $2,500, if amount of release was equal to or greater than twice the Reportable Quantity.3.  Add $2,500, if release caused actual injury to wildlife and/or human health.4.  Add $2,500 if willful or intentional release of the listed hazardous substance.
-      - $10,000
-    * - Admin. Code § 24-609(b)2nd Offense$9,000
-      - SAME AS ABOVE
-      - SAME AS ABOVE
-      - $10,000
-    * - Admin Code § 24-610(c) 1st Offense willfully violated or failed or refused to comply with Commissioner's Order $3,000
-      - 1.  Subtract $1,000, if complied with that portion of Scope of Work Order relating to securing of premises/building.2.  Subtract $500, if complied with that portion of Scope of Work Order relating to identification of all hazardous substances.
-      - 1.  Add $1,500, if failed to comply with that portion of Scope of Work Order relating to Bills of Lading and Hazardous Waste Manifests.2.  Add $1,500, if total non-compliance, i.e. failed to comply with any part of Commissioner's Order. (In such cases, there could be no mitigating factors.)
-      - $10,000
-    * - Admin. Code § 24-610(c) 2nd Offense $4,500
-      - SAME AS ABOVE
-      - SAME AS ABOVE
-      - $10,000
-~
+*§ 3-111 Hazardous Materials Penalty Schedule. [Repealed]* ::
 
 
 
- 
 
 
 

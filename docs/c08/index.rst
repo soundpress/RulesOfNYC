@@ -2385,7 +2385,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
    (10) falsify any business record;
 
-   (11) in the case of a wholesale, market or other business, continue to employ within any market a person who is required to have but has not received a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked or suspended;
+   (11) in the case of a wholesale, market or other business, continue to employ a person who is required to have but does not possess a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked or suspended;
 
    (12) utilize any motor vehicle in connection with a business operating in the market that is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with 17 RCNY § 11-09;
 
@@ -2396,6 +2396,8 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
    (15) violate or fail to comply with any order or directive of the Commission; or
 
    (16) fail to pay any fines or civil penalties imposed by the Commission or any court or administrative tribunal of competent jurisdiction for violations of Chapter 1-B of Title 22 of the Code or this subchapter.
+
+
 
 
 
@@ -2597,7 +2599,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
       - Sale of prohibited items
       - $750
       - $1,500
-      - 2nd %2,5003rd %5,000Subs. %10,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
       - $10,000
     * - 17 RCNY § 11-19(a)(12)*
       - Discharge into tidal water, sewage, or drainage that may result in the pollution of water
@@ -2643,9 +2645,9 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
       - $10,000
     * - 17 RCNY § 11-19(b)(11)*
       - Employment of individuals without approved ID cards
-      - $3,000
-      - $5,000
-      - Subs. $10,000
+      - None
+      - $500
+      - 2nd $750Subs. $1,000
       - $10,000
     * - 17 RCNY § 11-19(b)(12)*
       - Use of unregistered/uninsured vehicle
@@ -3465,11 +3467,15 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
    (10) discharge into or leave in tidal water, sewage or drainage that may result in the pollution of water;
 
-   (11) perform any act that may tend to damage or clog drains or sewers; or
+   (11) perform any act that may tend to damage or clog drains or sewers;
 
-   (12) provide false or misleading information to the Commission.
+   (12) provide false or misleading information to the Commission; or
+
+   (13) in the case of a wholesale, market or other business, continue to employ a person who is required to have but does not possess a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked or suspended.
 
 (b) Where any provision of Chapter 1-A of Title 22 of the Code or this subchapter prohibits or otherwise restricts any activity or conduct of licensees or registrants, the principals, employees and agents of such licensees and registrants, or holders of photo identification cards, such provision also is applicable to applicants for such licenses and registrations, and principals, employees and agents thereof, and applicants for photo identification cards, as the case may be.
+
+
 
 
 
@@ -3899,6 +3905,61 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
       - Committed an act prohibited in the seafood distribution area
       - $1,000
       - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(2)
+      - Interfered, or attempted to interfere with, or otherwise obstructed any operations or property of any other person with the market
+      - $1,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(3)
+      - Took into or discharged into or on any market any rubbish, litter, or refuse
+      - $350
+      - 2nd $5003rd $1,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(4)
+      - Urinated or defecated in any market, or in or upon any market building or structure
+      - $500
+      - 2nd $1,5003rd $3,500Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(6)
+      - Violated any other order of the market manager issued in accordance with Chapter 1-A of Title 22 of the Code or Title 17 of RCNY not covered by 17 RCNY § 12-17
+      - $1,500
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(7)
+      - Violated any applicable federal, state or local law or regulation regarding the handling of seafood
+      - $500
+      - 2nd $1,5003rd $3,500Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(8)
+      - Made a misrepresentation of any kind with respect to merchandise offered for sale or take any unfair advantage of a purchaser or any attempt to take such unfair advantage
+      - $1,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(9)
+      - Sold in any market any merchandise that the Commission has prohibited to be sold
+      - $1,500
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(10)
+      - Discharged into or leave in tidal water, sewage or drainage that may result in the pollution of water
+      - $500
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(11)
+      - Performed any act that may tend to damage or clog drains or sewers
+      - $500
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(12)
+      - Provided false or misleading information to the Commission
+      - $1,500
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(13)
+      - Employment of individuals without approved ID cards
+      - $500
+      - 2nd $750Subs. $1,000
       - $10,000
     * - 17 RCNY § 12-19
       - Committed an act prohibited to wholesalers and seafood deliverers in the seafood distribution area

@@ -81,7 +81,7 @@ Chapter 1: Conflicts of Interest
 *§ 1-02 Public Servants Charged with Substantial Policy Discretion.* ::
 
 
-(a)  For purposes of Charter § 2604(b)(12) and § 2604(b)(15), a public servant is deemed to have substantial policy discretion if he or she has major responsibilities and exercises independent judgment in connection with determining important agency matters. Public servants with substantial policy discretion include, but are not limited to: agency heads, deputy agency heads, assistant agency heads, members of boards and commissions, and public servants in charge of any major office, division, bureau or unit of an agency. Agency heads shall:
+(a) For purposes of Charter § 2604(b)(12) and § 2604(b)(15), a public servant is deemed to have substantial policy discretion if he or she has major responsibilities and exercises independent judgment in connection with determining important agency matters. Public servants with substantial policy discretion include, but are not limited to: agency heads, deputy agency heads, assistant agency heads, public servants in charge of any major office, division, bureau, or unit of an agency, and members of boards and commissions other than community boards. Agency heads shall:
 
    (1) designate by title, or position, and name the public servants in their agencies who have substantial policy discretion as defined by this section;
 
@@ -90,6 +90,8 @@ Chapter 1: Conflicts of Interest
    (3) notify these public servants in writing of the restrictions set forth in Charter § 2604(b)(12) and § 2604(b)(15) to which they are subject. If the Conflicts of Interest Board determines that the title, position, or name of any public servant should be added to or deleted from the list supplied by an agency, the Board shall notify the head of the agency involved of that addition or deletion; the agency shall in turn promptly notify the affected public servant of the change.
 
 (b) Each agency may make available for public inspection a copy of the most recent list filed by the agency, with any additions or deletions made by the Board pursuant to subdivision (a) of this section.
+
+
 
 
 
@@ -410,7 +412,63 @@ Editor's note: Former section renumbered as 53 RCNY § 4-03.
 
 
 
-*§ 1-15 Reserved.* ::
+*§ 1-15 Special Rules for Community Board Members.* ::
+
+
+(a) Voting and Private Interests. For purposes of Charter §§ 2604(b)(1)(b) and 2604(b)(2), a community board member shall not vote at a community board meeting on any matter that may result in a personal and direct economic gain to the member or to any person or firm associated with the member, within the meaning of Charter § 2601(5), but the member may participate in discussion about such matter at a community board meeting after the member discloses at such meeting his or her private interest.
+
+   (1) For purposes of this paragraph, a “personal and direct” economic gain means a specific economic gain that would flow to the member or an associated person or firm as an anticipated result of the matter’s ultimate approval or rejection.
+
+   (2) For purposes of this paragraph, “economic gain” includes the mitigation of a loss.
+
+   (3) For purposes of Charter § 2601(5), the definition of “a business or other financial relationship” includes, but is not limited to, a relationship with:
+
+      (i) any person who, in the context of the member’s private employment, may hire or terminate the member, assign work to the member, approve the member’s leave, or evaluate the member’s work performance; or
+
+      (ii) any person who or firm that donates to the member’s not-for-profit employer in an amount of 10% or more of the not-for-profit’s annual operating budget.
+
+(b) Other Government and Quasi-Government Service. For purposes of Charter § 2604(b)(2), a community board member who serves any entity listed in 53 RCNY § 1-08 as an official, officer, or employee:
+
+   (1) may not appear, whether paid or unpaid, on behalf of such entity before the member’s community board;
+
+   (2) may not vote at a community board meeting on any matter involving such entity; and
+
+   (3)  may participate in discussion at a community board meeting on matters involving such entity only after the member discloses at the meeting his or her position with such entity.
+
+(c) Service as Chair of a Community Board or Its Committees or Subcommittees.
+
+   (1) For purposes of Charter §§ 2604(b)(1)(b) and 2604(b)(2), a community board member:
+
+      (i) shall not chair any meeting of the community board, a community board committee, or a community board subcommittee where any matter particularly affecting the member’s private employer, financial interest, or other private interest is being considered; and
+
+      (ii) shall not chair a community board committee or subcommittee that regularly reviews matters particularly affecting the member’s private employer, financial interest, or other private interest, including the interest of any person or firm associated with such member.
+
+      (iii) For purposes of this subparagraph, a committee or subcommittee of a community board “regularly reviews” matters involving the member’s private employer, financial interest, or other private interest if the committee or subcommittee considers or expects to consider a matter involving the member’s employer or interest three or more times within a twelve-month period.
+
+   (2) For purposes of Charter § 2604(b)(2), a community board member who serves another government or quasi-government entity listed in 53 RCNY § 1-08 as an official, officer, or employee:
+
+      (i) shall not chair any meeting of the community board, committee, or subcommittee that considers any matters involving that entity; and
+
+      (ii) shall not chair a committee or subcommittee that regularly reviews matters involving that entity.
+
+      (iii) For purposes of this subparagraph, a committee or subcommittee of a community board “regularly reviews” matters involving a government or quasi-government entity if either (A) the committee or subcommittee has jurisdiction over matters within the entity’s responsibilities or (B) the committee or subcommittee considers or anticipates considering matters involving that entity three or more times within a twelve-month period.
+
+(d) Public Members of Community Board Committees. A public member of a community board committee, appointed pursuant to Charter § 2800(i), is not a public servant within the meaning of Charter § 2601(19).
+
+(e) Community Board Staff. For purposes of Charter §§ 2604(b)(2), 2604(b)(3), 2604(b)(9)(b), 2604(b)(11)(c), 2604(b)(14), and 53 RCNY § 1-10, a public servant employed by the community board is a subordinate public servant of each community board member.
+
+(f) Agency Head Designations. A community board member serves as the agency head for any agency head designation or approval for himself or herself required by Charter § 2604(e) or the Board Rules. The chair of a community board is the agency head for the public servants employed by the community board.
+
+
+
+Editor's note: Former section renumbered as 53 RCNY § 4-04.
+
+
+
+
+
+
+*§ 1-16 Prohibited Gifts from Lobbyists and Exceptions Thereto.* ::
 
 
 (a)  Pursuant to Administrative Code § 3-225, no person required to be listed on a statement of registration pursuant to § 3-213(c)(1) of the Administrative Code shall offer or give a gift to any public servant.
