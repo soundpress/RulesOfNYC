@@ -1021,23 +1021,29 @@ Chapter 6: IDNYC Program
 
 For the purposes of this chapter:
 
-(a) "IDNYC Card" has the same meaning as "New York City identity card," as provided in § 3-115(a) of the Administrative Code of the City of New York.
+(a) “Caretaker” means a birth parent; adoptive parent; step parent; court-appointed guardian, custodian, or conservator; foster care parent; a sponsor of a minor appointed by the United States Department of Health and Human Services, Office of Refugee Resettlement (ORR); an employee from the New York City Administration for Children’s Services (ACS), New York State Office for People with Developmental Disabilities (OPWDD), New York State Department of Health (NYS DOH), New York State Office of Mental Health (NYS OMH), New York City Department of Health and Mental Hygiene (NYC DOHMH), a designated ACS foster care agency, or an agency or facility, including a residential care facility, that is operated, licensed, certified or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH; a cohabitant of an applicant who has been determined by OPWDD to be a person with a developmental disability; an applicant’s Social Security representative payee; or such other categories of individuals that HRA may designate as caretakers in the future pursuant to subdivision (f) of 68 RCNY § 6-07.
 
-(b) "HRA" means the New York City Human Resources Administration.
+(b) "IDNYC Card" has the same meaning as "New York City identity card," as provided in § 3-115(a) of the Administrative Code of the City of New York.
 
-(c) "Resident" has the same meaning as provided in § 3-115(a) of the Administrative Code of the City of New York.
+(c) "HRA" means the New York City Human Resources Administration.
 
-(d) "Caretaker" means a birth parent; adoptive parent; step parent; court-appointed guardian, custodian, or conservator; foster care parent; a sponsor of a minor appointed by the United States Department of Health and Human Services, Office of Refugee Resettlement (ORR); an employee from the New York City Administration for Children's Services (ACS), New York State Office for People with Developmental Disabilities (OPWDD), New York State Department of Health (NYS DOH), New York State Office of Mental Health (NYS OMH), New York City Department of Health and Mental Hygiene (NYC DOHMH), a designated ACS foster care agency, or an agency or facility, including a residential care facility, that is operated, licensed, certified or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH; a cohabitant of an applicant who has been determined by OPWDD to be a person with a developmental disability; an applicant's Social Security representative payee; or such other categories of individuals that HRA may designate as caretakers in the future pursuant to subdivision (f) of 68 RCNY § 6-07.
+(d) "Individual who lacks a stable residence" means a person who lacks permanent housing, who may live on the streets, in a vehicle or abandoned building, or reside at a location where there is a maximum stay of 30 days or less.
 
-(e) "Individual who lacks a stable residence" means a person who lacks permanent housing, who may live on the streets, in a vehicle or abandoned building, or reside at a location where there is a maximum stay of 30 days or less.
+(e) “Machine readable” describes a document with data that can be verified by electronic means by the IDNYC Card Program application system.
 
-(f) "State" means any of the 50 states of the United States, and shall also be deemed to include the District of Columbia, and any of the territories of the United States.
+(f) A “new applicant” means an individual who is applying for their first IDNYC card or who was previously issued an IDNYC card that expired and is outside the renewal period as established by HRA pursuant to 68 RCNY § 6-10(b).
 
-(g) "Territories" means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the U.S. Virgin Islands.
+(g) A “qualifying school” is any New York City Department of Education or accredited charter, parochial or private school located in New York City that HRA has designated as a school that it will accept a school verification form from pursuant to 68 RCNY § 6-04(d).
 
-(h) "Machine readable" means a document with data that can be verified by electronic means by the IDNYC Card Program application system.
+(h) “Renewal period” means the time period established by HRA pursuant to 68 RCNY § 6-10(b) in which a cardholder can renew their card and not be treated as a new applicant.
 
-(i) "Submitted" means submitted to HRA, as administering agency of the IDNYC Program, in accordance with this chapter.
+(i) “Resident” has the same meaning as provided in § 3-115(a) of the Administrative Code of the City of New York.
+
+(j) "State" means any of the 50 states of the United States, and shall also be deemed to include the District of Columbia, and any of the territories of the United States.
+
+(k) "Territories" means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the U.S. Virgin Islands.
+
+(l) "Submitted" means submitted to HRA, as administering agency of the IDNYC Program, in accordance with this chapter.
 
 
 
@@ -1061,7 +1067,7 @@ For the purposes of this chapter:
 
    (4) Where an applicant provides evidence that they participate in the New York State Address Confidentiality Program (ACP) established by New York Executive Law § 108 for victims of domestic violence, the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant's preference. An applicant who participates in the ACP must still establish residency under this chapter.
 
-   (5) Where an applicant is a college or university student who resides in housing affiliated with the school and receives mail at a central school-based location different from where the applicant resides, the IDNYC card will display the address where the applicant receives mail and the name of their school provided the applicant submits a Letter from a College or University Administrator as described in the table set forth in 68 RCNY § 6-06(c)(1).
+   (5) Where an applicant is a college or university student, employee or other person who resides in housing affiliated with a school and receives mail at a central school-based location different from where the applicant resides, the IDNYC card will display the address where the applicant receives mail and the name of their school provided the applicant submits a Letter from a College or University Administrator as described in the table set forth in 68 RCNY § 6-06(c)(1).
 
    (6) IDNYC Cards issued pursuant to 68 RCNY § 6-04(e) will not display a home address.
 
@@ -1072,7 +1078,7 @@ For the purposes of this chapter:
 
 
 
-*§ 6-03 Eligibility and Application Process.* ::
+*§ 6-03 Eligibility and Application Process for New Applicants.* ::
 
 
 (a) The IDNYC Card will be available to any resident of New York City ten years of age or older who:
@@ -1144,7 +1150,7 @@ The following documents are worth four points and establish identity and residen
       - 4
       - Yes
     * - IDNYC Card with Current Home Address
-      - A current IDNYC Card or an expired IDNYC Card with a current home address. If the card is expired, then the expiration date must be no more than 60 days prior to the date submitted.
+      - A current IDNYC Card or an expired IDNYC Card with a current home address. If the card is expired, then the card must be within the renewal period.
       - Yes
       - 4
       - Yes
@@ -1161,13 +1167,13 @@ The following documents are worth four points and establish identity and residen
 
 (b) For applicants who are clients of the New York City Department of Probation (DOP), IDNYC will accept the DOP's verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOP, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC Card.
 
-(c) For applicants who are students at New York City Department of Education (DOE) schools and are not applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the DOE's verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOE ("DOE verification"), and additional identity documents pursuant to 68 RCNY § 6-05, other than a DOE transcript, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card, as follows:
+(c) For applicants who are students at qualifying schools and are not applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the school’s verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school ("school verification"), and additional identity documents pursuant to 68 RCNY § 6-05, other than a school transcript, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card, as follows:
 
-   (1) If the DOE verification is provided to IDNYC at a temporary enrollment site located at the school in which the applicant is enrolled, IDNYC will accept any identity document listed in 68 RCNY § 6-05. Such document need not include a photo identification.
+   (1) If the school verification is provided to IDNYC at a temporary enrollment site located at the school in which the applicant is enrolled, IDNYC will accept any identity document listed in 68 RCNY § 6-05. Such document need not include a photo identification.
 
-   (2) If the DOE verification is provided to IDNYC at any other enrollment site, the applicant must also present:
+   (2) If the school verification is provided to IDNYC at any other enrollment site, the applicant must also present:
 
-      (A) a student identification card issued by the same school issuing the DOE verification; and
+      (A) a student identification card issued by the same school issuing the school verification; and
 
       (B) either:
 
@@ -1175,7 +1181,7 @@ The following documents are worth four points and establish identity and residen
 
          (ii) identity documents listed in 68 RCNY § 6-05 worth at least a total of two points, one of which must be accepted as a photo identification, if the student identification card does not include a photo.
 
-(d) For applicants who are students at New York City Department of Education (DOE) schools and are applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the DOE's verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOE ("DOE verification"), as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card.
+(d) For applicants who are students at qualifying schools and are applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the school’s verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school ("school verification"), as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card.
 
 (e) For applicants applying at participating DOE middle schools to be jointly agreed upon by HRA and DOE, IDNYC will accept the school’s verification of the applicant’s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school as sufficient proof of the applicant’s identity and residency to establish eligibility for the IDNYC card. Cards issued pursuant to this subdivision will include the school’s name and will expire on the student’s expected graduation date from the school.
 
@@ -1204,8 +1210,6 @@ The following documents are worth four points and establish identity and residen
 (b) HRA may determine in the future that additional documents, including data or electronic versions of documents received from the issuing agency, may be accepted and will be afforded the value of one point toward establishing the identity of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of new documents or data, including, but not limited to, publication on the IDNYC website.
 
 (c) (1) The following documents establish the identity of the applicant (3 points):
-
- 
 
  
 
@@ -1299,7 +1303,7 @@ The following documents are worth four points and establish identity and residen
       - 3 
       - Yes
     * - IDNYC Card without Current Home Address
-      - A current or expired IDNYC Card without a current home address. If the card is expired, the expiration date must be no more than 60 days prior to the date submitted.
+      - A current or expired IDNYC Card without a current home address. If the card is expired, the card must be within the renewal period.
       - Yes 
       - 3 
       - Yes
@@ -1308,8 +1312,6 @@ The following documents are worth four points and establish identity and residen
  
 
    (2) The following documents are worth two points toward establishing the identity of the applicant:
-
- 
 
  
 
@@ -1344,6 +1346,11 @@ The following documents are worth four points and establish identity and residen
       - Yes
     * - Expired Foreign Passport
       - Foreign passport that is machine readable and has expired no more than three years prior to the date submitted
+      - Yes
+      - 2
+      - Yes
+    * - Expired IDNYC Card
+      - IDNYC Card that has expired less than three years before the date submitted but is outside the renewal period.
       - Yes
       - 2
       - Yes
@@ -1711,18 +1718,18 @@ The following documents are worth four points and establish identity and residen
       - 1
       - Yes
     * - College/University Housing Agreement
-      - Current agreement issued by an institution of higher education located in New York City, in letter, lease, or other format. Must indicate that applicant is permitted to reside in housing affiliated with the institution; and must include applicant’s name, the street address of the residence, and the dates during which the student may reside there.The document must be presented with a student photo ID from the institution issuing the agreement.
+      - Current agreement issued by an institution of higher education located in New York City, in letter, lease, or other format. Must indicate that applicant is permitted to reside in housing affiliated with the institution; and must include applicant’s name, the street address of the residence, and the dates during which the student may reside there.The document must be presented with a photo ID from the institution issuing the agreement.
       - 1
       - Yes
     * - Letter from College or University Administrator
-      - Signed letter from a school administrator indicating that the applicant: (i) is enrolled as a student at the school; (ii) resides in housing in New York City that is affiliated with the school; (iii) receives mail at a central school-based location different from where the applicant resides; and (iv) the school mail box and/or street address where applicant’s mail is delivered.This document must be presented with a student photo ID from the institution issuing the letter.The IDNYC card will display the name of the school and the address where the applicant receives mail.
+      - Signed letter from a school administrator indicating that the applicant: (i) is enrolled, employed or otherwise connected with the school; (ii) resides in housing in New York City that is affiliated with the school; (iii) receives mail at a central school-based location different from where the applicant resides; and (iv) the school mail box and/or street address where applicant’s mail is delivered.This document must be presented with a photo ID from the institution issuing the letter.The IDNYC card will display the name of the school and the address where the applicant receives mail.
       - 1
       - Yes
 ~
 
  
 
-   (2) The following documents are worth one point and establish residency for an individual who lacks a stable residence or is a survivor of domestic violence, as applicable. When applicants submit one of these documents for proof of residency, no home address will appear on the card except as provided in this paragraph and in subdivisions (c) and (d) of 68 RCNY § 6-02:
+   (2) The following documents are worth one point and establish residency for an individual who lacks a stable residence or is a survivor of domestic violence, as applicable. When applicants submit one of these documents for proof of residency, no home address will appear on the card:
 
  
 
@@ -1880,16 +1887,14 @@ An applicant is not required to provide photo identification if accompanied by a
 
 
 
-*§ 6-08 Reporting Name Changes and Changes of Address.* ::
+*§ 6-08 Changes of Name, Address and Gender.* ::
 
 
-(a) An individual issued an IDNYC Card must report a change of name, address or gender within 10 days of such change.
+(a) An individual with an unexpired IDNYC card must report a change of name or address within 10 days of such change. A person may choose to update the gender on their card at any time.
 
-(b) After a change to an individual's name, address or gender, an individual who has notified HRA of such change may obtain a new IDNYC Card by bringing the outdated card to an IDNYC enrollment location. In addition, cardholders changing their name or address must present proof of the change they are reporting, as follows:
+(b) To obtain a card with an updated name, the cardholder must present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change. Only original documents or documents certified by the issuing agency will be accepted.
 
-   (i) To demonstrate a legal name change, the cardholder must present either a court order, a certificate of marriage or divorce or another government-issued document that establishes a lawful name change.
-
-   (ii) To demonstrate an address change, the cardholder must establish residency pursuant to either 68 RCNY § 6-04, 6-06 or 6-07.
+(c) To obtain a card with an updated address, the cardholder must establish residency pursuant to either 68 RCNY § 6-04, 6-06 or 6-07, unless HRA is able to verify the cardholder's new address by other means. Documents submitted to IDNYC to demonstrate a change of address need not be originals.
 
 
 
@@ -1901,11 +1906,13 @@ An applicant is not required to provide photo identification if accompanied by a
 *§ 6-09 Fees.* ::
 
 
-(a) HRA will not charge a fee to an applicant in connection with the issuance of an applicant's first IDNYC Card.
+(a) HRA will not charge a fee to an applicant in connection with the issuance of an applicant's first IDNYC Card, the issuance of a renewal card pursuant to 68 RCNY § 6-10, or where a cardholder is requesting a new card to update their name, address, gender or veteran status or to correct an error by IDNYC. Nor will HRA charge a fee for an individual to replace a card if the individual can establish that the card was stolen.
 
-(b) HRA will charge a $10.00 fee for the replacement of an unexpired card except where the individual requests a replacement card in order to update the address, name, or gender and brings the outdated IDNYC Card to an IDNYC enrollment location.
+(b) In all other instances, HRA will charge a $10 fee for the issuance of a card.
 
 (c) HRA will waive the fee set forth in 68 RCNY § 6-09(b) on behalf of individuals who submit a self attestation indicating that they cannot afford the cost of such fee.
+
+
 
 
 
@@ -1915,11 +1922,9 @@ An applicant is not required to provide photo identification if accompanied by a
 *§ 6-10 Expiration and Renewal.* ::
 
 
-(a) The IDNYC Card will be valid for five years from the date of application approval, except that cards issued to individuals under 14 years of age will expire two years from date of application approval.
+(a) IDNYC Cards issued after the effective date of this rule will expire five years from the date of application approval, except that cards issued pursuant to 68 RCNY § 6-04(e) will expire on the date that the cardholder is expected to graduate from middle school, and cards issued to any other individuals under 16 years of age will expire two years from date of application approval. IDNYC Cards issued prior to the effective date of this rule will be valid until the expiration date that appears on the face of the card unless invalidated pursuant to 68 RCNY § 6-12.
 
-(b) In order for an individual to receive a renewal card, the individual must present an IDNYC Card that is active or has expired no more than 60 days prior to the date of the application for a renewal card. If the address on the card is not the applicant's current address, the applicant must establish residency pursuant to 68 RCNY § 6-04, 6-06 or 6-07, as applicable.
-
-(c) An individual who presents an IDNYC Card that has been expired for more than 60 days or who fails to present an IDNYC Card at the time of renewal will be required to satisfy the same eligibility requirements as a new applicant.
+(b) Renewal cards will be available to individuals who have previously been issued an IDNYC card that will expire in less than 60 days, or such other longer timeframe that HRA may designate in the future, or that expired less than six months ago, or such other longer timeframe that IDNYC may designate in the future, and who submit a renewal application on or after December 2, 2019 in a format and in a manner established by the Commissioner. In most instances, cardholders seeking renewal of their card will not be required to re-establish their identity pursuant to the provisions of 68 RCNY §§ 6-04 and 6-05 of this title, but if they are seeking to update their name or address must meet the requirements of subdivision (b) or (c) of 68 RCNY § 6-08, as applicable. However, IDNYC reserves the right to have cardholders re-establish their identity pursuant to 68 RCNY § 6-04 or 6-05 if the program cannot confirm by other means that the individual seeking renewal is the individual to whom the card was issued.
 
 
 
@@ -1955,11 +1960,37 @@ An applicant is not required to provide photo identification if accompanied by a
 
 (a) An applicant who has been denied an IDNYC Card may request a secondary review of their eligibility for the card by submitting a review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of issuance of the denial.
 
-(b) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the applicant’s documents and eligibility for the card and the applicant will have the opportunity to reapply for the card. Secondary reviews will be offered only at specially designated enrollment centers.
+(b) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the applicant’s documents and eligibility for the card and the applicant will have the opportunity to reapply for the card. Secondary reviews will be offered only at specially designated locations.
 
 (c) The IDNYC program will offer the applicant a date, time, and location for the review conference that is within 30 days of receipt of the request. If the date, time, and location offered are not convenient for the applicant, the program will work with the applicant to find another date, time, and location, but cannot guarantee that the conference will take place within 30 days of the request.
 
 (d) If the applicant chooses to reapply following the review conference, IDNYC staff will notify the applicant of its determination on the application by mail. If IDNYC does not issue a determination within 30 days of the date of the conference, then the determination that triggered the review request shall become the final decision on the application.
+
+
+
+
+
+
+
+
+*§ 6-13 Card Invalidations.* ::
+
+
+(a) IDNYC will invalidate a card issued to an individual in the following circumstances:
+
+   (i) When IDNYC issues a new card to the individual;
+
+   (ii) When IDNYC learns that the individual has died;
+
+   (iii) In the circumstances described in subdivisions (b) - (e) of this section.
+
+(b) When the Executive Director of IDNYC or their designee determines that an individual may have obtained a card under a false identity, it will immediately suspend the card, promptly notify the individual of the suspension and provide the individual with an opportunity to challenge the suspension by submitting a secondary review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of notification. Secondary reviews will be offered only at specially designated locations.
+
+(c) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the individual’s documents and eligibility for the card.
+
+(d) The IDNYC program will offer the individual a date, time, and location for the review conference that is within 14 days of receipt of the request. If the date, time, and location offered are not convenient for the individual, the program will work with the individual to find another date, time, and location, but cannot guarantee that the conference will take place within 14 days of the request.
+
+(e) Following the review conference, IDNYC will notify the individual by mail of its determination. If IDNYC does not issue a determination within 14 days of the date of the conference, then the secondary review request will be deemed to have been denied.
 
 
 

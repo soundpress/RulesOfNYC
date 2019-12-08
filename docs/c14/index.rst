@@ -18395,11 +18395,17 @@ Chapter 52: Speculation Watch List
 
 As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
 
+421-a Construction Period Benefits. “421-a Construction Period Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, for the tax year or years immediately following taxable status dates occurring subsequent to the commencement and prior to the completion of construction, but not to exceed three such tax years, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
+
+421-a Final Benefits. “421-a Final Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, in tax years immediately following the taxable status date first occurring after the expiration of 421-a Construction Period Benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
+
+421-a New Building Tax Lot. “421-a New Building Tax Lot” means a tax lot (i) for which DOF records indicate that 421-a Construction Period Benefits were received no earlier than eight fiscal years before the final day of the most recently concluded Fiscal Quarter, or (ii) for which DOF records indicate that 421-a Final Benefits were received no earlier than five fiscal years before the final day of the most recently concluded Fiscal Quarter, or (iii) that has received any real property tax exemption benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law for a new multiple dwelling thereon that received its first temporary or permanent certificate of occupancy no earlier than five years before the final day of the most recently concluded Fiscal Quarter.
+
 Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
 
 Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
 
-Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD.
+Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD, at the time each Speculation Watch List update is completed.
 
 DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
 
@@ -18433,13 +18439,15 @@ Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined
 
    (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
 
-   (v) that either (a) is exclusively residential with eleven or more Dwelling Units or (b) contains seven or more Dwelling Units and one or more commercial units;
+   (v) that either (A) is exclusively residential with eleven or more Dwelling Units or (B) contains seven or more Dwelling Units and one or more commercial units;
 
    (vi) that is not providing Affordable Housing subject to Local Supervision;
 
-   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; and
+   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law;
 
-   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality.
+   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality; and
+
+   (ix) that is not located on a 421-a New Building Tax Lot.
 
 Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
 
