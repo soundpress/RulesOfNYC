@@ -1036,6 +1036,521 @@ Chapter 2: Annual Vault Charge [Repealed]
 
 
 
+Chapter 4: Cigarette Tax
+--------------------------------------------------
+
+
+
+*§ 4-01 Definitions.* ::
+
+
+(a) When using these regulations the following words shall have the meanings here indicated:
+
+   Agent. An "agent" shall mean any person authorized to purchase and affix adhesive or meter stamps under the law who is designated as an agent by the Commissioner of Finance.
+
+   Cigarette. A "cigarette" shall mean any roll for smoking made wholly or in part of tobacco or any other substance irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material except tobacco.
+
+   City. "City" shall mean the city of New York.
+
+   Commissioner of Finance. The "Commissioner of Finance" shall mean the Commissioner of Finance of the City.
+
+   Controlling person. A "controlling person" shall mean any person who is:
+
+      (1) an officer, director or partner or, in the case of a limited liability company, a member or a person having with respect to such limited liability company authority analogous to that of an officer or director with respect to a corporation, of an applicant for a license, or
+
+      (2) a shareholder, directly or indirectly owning more than ten percent of the number of shares of stock of such applicant (where such applicant is a corporation) entitling the holder thereof to vote for the election of directors or trustees. For purposes of this paragraph, where reference is made to ownership, directly or indirectly, of more than ten percent of the shares of stock of the applicant entitling the holder thereof to vote for election of directors or trustees, in the case of an applicant that at the relevant time has four or fewer shareholders holding shares entitling the holders thereof to vote for the election of directors or trustees, twenty-five percent or more shall be substituted as the applicable percentage in such reference to ownership, directly or indirectly, of voting stock.
+
+   Dealer. A "dealer" shall mean any wholesale dealer or retail dealer as hereinafter defined.
+
+   Package. "Package" shall mean the individual package, box or other container in or from which retail sales of cigarettes are normally made or intended to be made.
+
+   Person. A "person" shall mean any individual, partnership, society, association, joint stock company, corporation, estate, receiver, trustee, assignee, referee or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals.
+
+   Retail dealer. A "retail dealer" shall mean any person other than a wholesale dealer engaged in selling cigarettes. For the purposes of the law, the possession or transportation at any one time of 5,000 or more cigarettes by any person other than a manufacturer, an agent, a licensed wholesale dealer or a person delivering cigarettes in the regular course of business for a manufacturer, an agent or a licensed wholesale or retail dealer, is presumptive evidence that such person is a retail dealer.
+
+   Sale or purchase. A "sale" or "purchase" shall mean any transfer of title or possession or both, exchange or barter, conditional or otherwise, in any manner or by any means whatsoever or any agreement therefor. In addition to cash and credit sales, the giving of cigarettes as samples, prizes or gifts, and the exchanging of cigarettes are, for the purpose of the tax, considered sales.
+
+   Use. "Use" shall mean any exercise of a right or power, actual or constructive, and shall include but is not limited to the receipt, storage, or any keeping or retention for any length of time, but shall not include possession for sale by a dealer.
+
+   Wholesale dealer. "Wholesale dealer" shall mean any person who sells cigarettes to retail dealers or other persons for purposes of resale only, and any person who owns, operates or maintains one or more cigarette vending machines in, at or upon premises owned or occupied by any other person.
+
+
+
+
+
+
+*§ 4-02 Imposition of Tax.* ::
+
+
+(a)  On or after January 1, 1976, and before July 2, 2002, a tax at the rate of four cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however, on or after August 6, 1985 and before July 2, 2002, if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be two cents for each five cigarettes or fraction thereof. On or after July 2, 2002 a tax at the rate of 75 cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be 38 cents for each five cigarettes or fraction thereof. Every package of cigarettes must have affixed thereto stamps of the proper amount. For example: on or after July 2, 2002 a package containing from 11 to 20 cigarettes must have affixed $1.50 in stamps; a package containing ten cigarettes or less must have affixed 75 cents in stamps; a package containing 20 to 25 cigarettes must have affixed $1.88 in stamps; a package containing 26 to 30 cigarettes must have affixed $2.26 in stamps.
+
+(b) Payment of cigarette tax on inventory.
+
+   (1) Local Law 10 of 2002 required every dealer of cigarettes, including agents licensed to purchase and affix stamps, to take a physical inventory of all cigarettes possessed in the City as of the close of business on July 1, 2002. In addition, such local law required every dealer who is a licensed agent to take a physical inventory of all unaffixed cigarette tax stamps possessed as of the close of business on such date. In the event that it was not possible to take a physical inventory of cigarettes in all vending machines that are located within the City, a dealer was permitted to take as many physical inventories of the contents of such machines as was possible with available personnel. For those machines that could not be physically inventoried on July 1, 2002, cigarettes could be accounted for at one-half the normal fill capacities of such machines, as reflected in the individual inventory records maintained for such machines.
+
+   (2) i) (A) On or before September 20, 2002, every such dealer shall file a return on a form prescribed by the Department of Finance for such purpose, showing the quantity of all cigarettes and unaffixed stamps possessed as of the July 1, 2002 inventory. Such return must reflect the entire wholesale and/or retail inventories of the dealer within the City, as required by the Department of Finance, regardless of the number of business locations of the dealer. Except as provided in subparagraph (B) of this subparagraph (i), every dealer shall pay, with the filing of such return, an additional tax for all cigarettes in such inventory that are contained in packages bearing stamps evidencing tax payment at the rates in effect prior to July 2, 2002, and for all unaffixed cigarette tax stamps in such inventory evidencing tax payment at such rates. The additional tax shall be paid at the rate of 71 cents for each ten cigarettes or fraction thereof ($1.42 per package of 20 cigarettes) unless cigarettes are contained in packages of more than 20, in which case the additional tax for those cigarettes in excess of 20 shall be at the rate of 36 cents for each five cigarettes or fraction thereof ($1.78 per package of 25 cigarettes). Such tax shall be paid regardless of whether the affixed or unaffixed stamps show payment of the New York State tax or both the New York State and City taxes.
+
+         (B) Notwithstanding any other provision of law to the contrary, the tax due on cigarettes possessed in the City, as of the close of business on July 1, 2002, by any person for sale solely attributable to the increase imposed by this local law, may be paid in two installments, due on the twentieth days of September 2002 and January 2003, subject to such terms and conditions as the Department of Finance may prescribe; provided, however, no less than 25 percent of each such tax due shall be paid by September 20, 2002. Provided, however, in no event shall such installment be less than $200 or the entire additional cigarette tax due, if less than $200. Thus a dealer having an additional cigarette tax liability on inventory of $100 would be liable for the full payment on September 20, 2002; a dealer having such a liability of $440 would be liable for a first installment of at least $200; and a dealer having such a liability of $10,000 would be liable for a first installment of at least $2,500 ($10,000 × 25%). The second and final installment must be paid to the Department of Finance on or before January 20, 2003, and must be accompanied by a final payment document prescribed by the Department of Finance for this purpose. Where the Department of Finance has cause to believe that the final installment of the additional cigarette tax on inventory may be jeopardized by delay, the Department of Finance may require such payment at any time prior to January 20, 2003. (See paragraph (3) of this subdivision for sanctions concerning untimely installments.)
+
+      (ii) The additional cigarette tax on inventory and any applicable installment should be paid by check or money order, payable to the New York City Department of Finance.
+
+   (3) i) Failure to file a return on cigarette and cigarette tax stamp inventory or to pay the additional tax due thereon, or failure to comply with any provision of this section may result in civil or criminal sanctions, or both.
+
+      (ii) In the case of any dealer who elects to pay the additional cigarette tax liability in installments, as described in subparagraph (B) of subparagraph (i) of paragraph (2) of this subdivision, if the required first installment is not properly paid on or before September 20, 2002, the entire amount of additional tax shall be due and owing, and any civil penalty and interest imposed pursuant to § 11-1317 of the Administrative Code and 19 RCNY § 4-23 will accrue from such date on the entire tax liability that remains unpaid. Where the required first installment is timely paid but any portion of the second and final installment is paid after January 20, 2003, any civil penalty and interest so imposed will accrue from such date on the unpaid balance.
+
+
+
+
+
+
+*§ 4-03 Exemptions.* ::
+
+
+This law provides that the tax shall not apply to:
+
+(a) The use, otherwise than for sale, of four hundred cigarettes or less brought into the city, on or in possession of, any person;
+
+(b) Cigarettes sold to the United States;
+
+(c) Cigarettes sold to or by a voluntary unincorporated organization of the Armed Forces of the United States operating a place for the sale of goods pursuant to regulations promulgated by the appropriate executive agency of the United States;
+
+(d) Cigarettes possessed in the city by an agent or wholesale dealer for sale to a dealer outside the city or for sale and shipment to any person in another state for use there, provided such agent or wholesale dealer complies with the regulations relating thereto;
+
+(e) Cigarettes sold to the State of New York or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State where it is the purchaser, user or consumer and does not purchase said cigarettes for resale.
+
+
+
+
+
+
+*§ 4-04 Liability for the Tax.* ::
+
+
+(a) Article 4. Except as otherwise provided herein, the tax shall be advanced by the agent or distributor. The agent shall be liable for the collection and payment of the tax to the Commissioner of Finance by purchasing from the Commissioner of Finance adhesive stamps of such design and denomination as may be prescribed by the Commissioner of Finance, subject to the approval of the State Tax Commission. The tax may also be paid by the use of such metering machines as are prescribed by the Commissioner of Finance subject to the approval of the State Tax Commission. In addition, every person liable for the tax on the use of cigarettes must file a return, in such form as the Commissioner of Finance may prescribe, with the Commissioner of Finance within twenty-four hours after liability therefor accrues together with a remittance of the tax shown to be due thereon.
+
+(b) The amount of taxes advanced and paid by the agent or distributor as above provided shall be added to and collected as part of the sales price of the cigarettes.
+
+(c) It is intended that the ultimate incidence of and liability for the tax shall be upon the consumer, and that any agent, distributor, or dealer who shall pay the tax to the Commissioner of Finance shall collect the tax from the purchaser or consumer.
+
+
+
+
+
+
+*§ 4-05 Licenses.* ::
+
+
+(a)  (1) A wholesale or retail dealer must apply to the Commissioner of Finance for a license for each place of business that he desires to have for the sale of cigarettes in the City. Every application for a cigarette license shall be made upon a form prescribed and prepared by the Commissioner of Finance. At the time of applying for a license as a wholesale dealer, each applicant also seeking appointment as an agent must submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. At the discretion of the Commissioner of Finance, all other applicants for a license as a wholesale dealer may be required to submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. The Commissioner of Finance may, for cause, refuse to issue a license. Upon approval of the application, the Commissioner of Finance will grant and issue to the applicant a cigarette license for each place of business within the City set forth in the application. Cigarette licenses shall not be assignable and shall be valid only for the persons in whose names issued and for the transaction of business in the places designated therein and shall at all times be conspicuously displayed at the places for which issued. Whenever any license that has been issued is defaced, destroyed or lost, the Commissioner of Finance will issue a duplicate license to the holder of the defaced, destroyed or lost license upon the payment of a fee of $1.
+
+   (2) Cause for refusal of the Commissioner of Finance to issue a license or to relicense an applicant will generally exist where the applicant files an application for a license and, in considering such application, the Commissioner of Finance ascertains that:
+
+      (i) Within the preceding five years, the applicant or a controlling person has failed to comply with any of the provisions of Chapter 13 of Title 11 of the Administrative Code or any rules or regulations promulgated thereunder;
+
+      (ii) A warrant has been issued or a lien otherwise arises for any tax administered by the Department of Finance due from such applicant or a controlling person and such tax has not been paid in full, provided that liability for such tax arose out of the activities of the applicant or controlling person as a wholesale or retail dealer;
+
+      (iii) Such applicant or any controlling person was convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years;
+
+      (iv) Such applicant or any controlling person was the controlling person in another wholesale or retail dealer at the time that:
+
+         (A) A warrant was issued or a lien otherwise arose for any tax administered by the Department of Finance due from such other dealer and such tax has not been paid in full, provided that liability for such tax arose out of the activities of such other dealer as a wholesale or retail dealer, or
+
+         (B) Such other dealer had been convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years, or
+
+         (C) The license of such other dealer had been canceled or suspended pursuant to this section within the preceding five years.
+
+      (v) The license of such applicant has been canceled or suspended pursuant to this section within the preceding five years; or
+
+      (vi) Such applicant or any controlling person has been finally determined to have violated any of the provisions of Article 20 or Article 20-A of the New York State Tax Law.
+
+(b) The Commissioner of Finance may suspend or, after hearing, revoke a cigarette license whenever he finds that the holder thereof has failed to comply with any of the provisions of the law or any rules or regulations of the Commissioner of Finance prescribed, adopted and promulgated thereunder. Upon suspending or revoking any cigarette license, the Commissioner of Finance will direct the holder thereof to surrender to the Commissioner of Finance immediately all licenses or duplicates thereof issued to him and the holder shall surrender promptly all such licenses to the Commissioner of Finance as directed. Before the Commissioner of Finance suspends or revokes a cigarette license, he will notify the holder and afford him a hearing, if desired. After such hearing, the Commissioner of Finance good cause appearing therefore, may suspend or revoke the license. A person who has been refused a license by the Commissioner of Finance may likewise apply to the Commissioner of Finance for a hearing. After such hearing the Commissioner of Finance may rescind or affirm the refusal to issue a license, or issue a license.
+
+(c) No agent or dealer shall sell cigarettes to an unlicensed wholesale or retail dealer, or to a wholesale or retail dealer whose license has been suspended or revoked. No dealer shall purchase cigarettes from any person other than a manufacturer or a licensed wholesale dealer.
+
+(d) It is unlawful for a person to engage in business as a wholesale dealer or retail dealer without a license as herein prescribed. It is unlawful for a person to permit any premises under his control to be used by any other person in violation of this paragraph.
+
+
+
+
+
+
+*§ 4-06 Licensee Fees; Term.* ::
+
+
+(a) The annual fee for a wholesale cigarette dealer's license is $500. See Administrative Code § 11-1303(a) as add LL 34/87 § 2. The annual fee for a retail cigarette dealer's license is $10.
+
+(b) Cigarette licenses will be regularly numbered and duly registered.
+
+(c) Cigarette licenses expire on January 31st next succeeding the date of issuance unless sooner suspended or revoked. However, licenses issued prior to December 18, 1967 expire on March 16, 1968 unless sooner suspended or revoked.
+
+
+
+
+
+
+*§ 4-07 Adhesive Stamps.* ::
+
+
+(a) The Commissioner of Finance has prescribed adhesive stamps in two-cent and four-cent denominations. These stamps are on sale at banks throughout the city designated by the Commissioner of Finance as fiscal agents or sub-agents. Agents shall purchase stamps at the bank to which they have been assigned, either for each or upon thirty days' credit. An agent may purchase stamps from the banks over the counter or by mail. In the latter case, no shipping charge will be made by the bank. Payment for stamps shall be made by cash or by certified check.
+
+(b) The Commissioner of Finance will prescribe and furnish stamps of such denominations and quantities and in such form as may be necessary for the payment of the tax imposed by the law. He may, from time to time, provide for the issuance and exclusive use of a new design and forbid the use of stamps of any other design. Such stamps shall be in the form of a single stamp for the payment of the tax imposed by the law, or in lieu thereof, a joint stamp prepared and issued by the State of New York and the city for the payment of both the tax imposed by the City Cigarette Tax Law and the tax imposed by Article 20 of the Tax Law (New York State Cigarette Tax), may be used.
+
+(c) Whenever such a joint stamp is prescribed, it shall be used exclusively in lieu of any other form of stamp for the payment of the tax imposed by both the city and state laws. The Commissioner of Finance will appoint fiscal agents for the purpose of selling the stamps or may provide for the sale thereof at such other places as he may deem necessary. The Commissioner of Finance shall require each fiscal agent, appointed by him for the purpose of selling the stamps herein prescribed, to file with him a surety bond, in such form and in such amount as he deems appropriate, issued by a surety company licensed to do business in the State of New York, conditioned upon the faithful performance of any agreement made between the Commissioner of Finance of the City of New York and said fiscal agent, and to secure the Commissioner of Finance, or the City of New York against any loss or damage in any manner resulting from the acts of said fiscal agent or its employees. In lieu of the bond described in this paragraph, a fiscal agent may deposit with the Commissioner of Finance its personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from a fiscal agent pursuant to this article; but no such sale shall be had until a fiscal agent shall have had an opportunity to be heard regarding the amount due hereunder. Upon any such sale the surplus, if any, above the sums due shall be returned to such fiscal agent.
+
+
+
+
+
+
+*§ 4-08 Meter Stamps.* ::
+
+
+(a) The Commissioner of Finance, in addition to the sale of stamps herein provided for, in his discretion, and subject to the approval of the State Tax Commission, may permit the use of a cigarette tax stamp affixing machine (whether by meter impression or otherwise) approved by him, or, where a joint stamp for the payment of the tax imposed by Article 20 of the State Tax Law and the City Cigarette Tax Law is used, the use of a joint tax stamp affixed by machine to show payment of both state and city taxes. The Commissioner of Finance, however, may reserve the right to rescind such permission upon thirty days' notice should such action be deemed to be in the best interest of the city. Payment of the tax must be made either in cash at the time the tax stamps are purchased or on thirty days' credit upon the same terms and conditions as apply to any other stamps sold by the Commissioner of Finance. Payment for stamps shall be made by cash or certified check.
+
+(b) Each agent, when his application for permission to use such tax stamp affixing machine is approved, shall be assigned a distinctive number which shall be the same as the number assigned to him by the State Tax Commission for the purposes of the state tax, and which must be clearly incorporated in the design of the tax stamps.
+
+(c) Any person, including an agent, having in his possession an authorized tax stamp affixing machine may not transfer, sell or otherwise dispose of such machine without first securing the authorization and approval of the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-09 Sale or Use of Cigarettes without Stamps.* ::
+
+
+(a) Notwithstanding any other provision hereof, the Commissioner of Finance may, subject to the approval of the State Tax Commission, provide at any time that the tax imposed by the law shall be collected without the use of stamps.
+
+
+
+
+
+
+*§ 4-10 Affixation and Cancellation of Stamps.* ::
+
+
+(a) Each agent shall affix to each package of cigarettes subject to the tax the prescribed stamps evidencing the payment of the tax imposed by the law, and shall cancel such stamps before such cigarettes are sold or offered for sale and prior to delivery of such cigarettes to any such dealer in the city, unless stamps have been affixed to such packages of cigarettes and cancelled before such agent received them.
+
+(b) Stamps shall be affixed to each package of cigarettes of an aggregate denomination not less than the amount of the tax upon the contents therein.
+
+(c) The stamps must be so affixed that they are clearly visible to the purchaser. When affixed to "rounds" or "flats" of fifty cigarettes or more, they must be so placed that they will be destroyed when the container is opened. The stamps must be placed on the small, individual packages ordinarily sold to customers as distinguished from the carton or larger containers of cigarettes.
+
+(d) Every agent must keep unstamped cigarettes separate and apart from stamped cigarettes.
+
+
+
+
+
+
+*§ 4-11 Cancellation of Stamps.* ::
+
+
+(a) All adhesive stamps must be cancelled in waterproof ink with the number assigned to each authorized agent before the cigarettes to which said stamps are affixed are offered for sale. The stamps may be cancelled before or after they are affixed.
+
+(b) It is evident that, because of their nature and the fact that they carry the identifying number of the agent, meter stamps required no cancellation.
+
+(c) Whenever any cigarettes are found in the place of business of a dealer other than an agent without the stamps affixed and cancelled the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
+
+(d) Each dealer, other than an agent, in the city shall immediately upon the receipt of any cigarettes at his place of business mark in ink on each unopened box, carton or other container of such cigarettes the word "received", and the year, month, day and hour of such receipt, and shall affix his signature thereto. In addition, each retail dealer shall within twenty-four hours after receipt of any cigarettes, open such box, carton or other container and, unless such stamps have been previously affixed, immediately notify the dealer from whom he purchased such cigarettes and arrange for the replacement by the dealer of such cigarettes by cigarettes with such stamps affixed within twenty-four hours. Such dealer shall make and keep, until the cigarettes are replaced, a record of the time at which such arrangements were made and the name of the individual representing the dealer with whom such arrangements were made.
+
+(e) Whenever any cigarettes are found in the place of business of a dealer other than an agent without being marked as having been received within the preceding twenty-four hours, the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
+
+
+
+
+
+
+*§ 4-12 Destruction of Cancelled or Mutilated Stamps.* ::
+
+
+(a) Except as hereinafter provided, the Commissioner of Finance may destroy by incineration stamps which have been mutilated, broken, cancelled or otherwise become unfit for use or consumption. Such stamps shall be destroyed in the presence of the Commissioner of Finance, or his representative duly authorized in writing, who shall thereupon certify, in duplicate, to the fact of said destruction, the subject matter of the destruction in detail, and the persons before whom said destruction took place. Said certification, duly sworn to, shall be kept on file in the office of the Commission of Finance.
+
+(b) The destruction of joint stamps used for the payment of the state cigarette tax and the city tax shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-13 Possession and Transportation of Unstamped Cigarettes.* ::
+
+
+(a) Every person who possesses or transports upon the public highways, roads or streets of the city more than four hundred cigarettes in unstamped packages, is required to have in his actual possession invoices or delivery tickets for such cigarettes. All such invoices or delivery tickets must show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of cigarettes transported. The absence of such invoices or delivery tickets shall be prima facie evidence that such person is a dealer in cigarettes in the city and subject to the provisions of the law.
+
+
+
+
+
+
+*§ 4-14 Vending Machines; Visibility of Stamps.* ::
+
+
+(a) Owners and operators of cigarette vending machines are required to have the name, address, cigarette dealer's license number and telephone number of the owner displayed on each machine in operation within the City. The Commissioner of Finance may also require a report from such owners, which report shall contain information showing the location of each machine, the record of any change of location, placing of additional machines or withdrawal of previously listed machines, and such other information as the Commissioner of Finance may require.
+
+(b) Every package of cigarettes placed in any cigarette vending machine having an area through which such packages are visible, must be so placed therein that the New York City cigarette tax stamps thereon are visible. Whenever any cigarettes are found in any vending machine in violation of the provisions of this section or whenever a vending machine is not properly labeled, the duly authorized agents or employees of the Department of Finance shall seal the machine to prevent sale or removal of any cigarettes from the vending machine until such time as the violation is corrected in the presence of a duly authorized agent or employee of the Department of Finance.
+
+
+
+
+
+
+*§ 4-15 Agents; Credit and Performance Bonds.* ::
+
+
+(a) The Commissioner of Finance may appoint as an agent to affix stamps to be used in paying the tax imposed by the law any person who has been appointed by the State Tax Commission to affix stamps used in payment of the tax imposed by Article 20 of the State Tax Law. Each agent so appointed will be assigned a distinctive number to be used by him in the cancellation of stamps and for other purposes when necessary and said number will be the same as that assigned to such agent by the State Tax Commission. An agent shall at all times have the right to appoint the person in his employ who is to affix the stamps to any cigarettes under his control. Such agent shall purchase stamps from banks to which he has been assigned.
+
+(b) (1) At the discretion of the Commissioner of Finance agents may be permitted to pay for the purchase of such stamps within thirty days after the date of purchase, provided a surety bond satisfactory to the Commissioner of Finance is filed with him.
+
+   (2) A bond to secure the payment of sums due from an agent shall be on a form prescribed by the Commissioner of Finance and shall be issued by a surety company which is approved by the Superintendent of Insurance as to solvency and responsibility and which is authorized to transact business in the State of New York. Such bond, which must be filed in triplicate, shall secure the amount of credit for which application is made, and shall continue in full force and effect until a certificate has been issued by the Commissioner of Finance to the effect that all monies due the City for the purchase of stamps have been paid in full.
+
+   (3) In addition to the credit bond described in paragraph (2) of this subdivision, an agent may be required to file with the Commissioner of Finance a surety bond issued by a surety company described in paragraph (2), in such amount as he deems appropriate, guaranteeing the proper discharge and performance of his duties as agent.
+
+(c) A nonresident agent, that is, one located outside the City of New York, may likewise be appointed by the Commissioner of Finance for the purpose of purchasing and affixing stamps for cigarettes. Nonresident agents desiring to purchase stamps on credit may be permitted to do so, in the discretion of the Commissioner of Finance, in the same manner, and subject to the same conditions, as described in subdivision (b) of this section, in such amount as the Commissioner of Finance may deem appropriate, guaranteeing the proper discharge and performance of his duties as a nonresident agent. Such nonresident agent must agree to submit his books of account and records for examination during reasonable business hours.
+
+(d) In lieu of the bonds described in the preceding subdivisions, an agent may deposit with the Commissioner of Finance his personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from an agent pursuant to this section but no such sale shall be had until an agent shall have had an opportunity to be heard regarding the validity of any tax or the amount due, or to have a court determination, as provided by the law or these regulations. Upon any such sale the surplus, if any, above the sums due shall be returned to such agent.
+
+(e) No credit for the purchase of stamps shall be granted in excess of the amount secured by a credit bond or collateralized personal bond.
+
+(f) If, on June 30, 1982, an agent has outstanding a sum due for stamps purchased on credit, which sum is not fully secured by a credit bond or collateralized personal bond, such agent shall, on the first day of each of the next forty succeeding months, reduce the sum which is not so secured by an amount equal to two and one-half percent of such unsecured sum by paying such amount in cash or by tendering a credit bond or collateralized personal bond, as described in the preceding subdivisions, in such amount. Provided, however, that the Commissioner of Finance in implementing the foregoing reduction in unsecured credit shall have the authority to make minor adjustments to the foregoing percentage to adjust for the purchase of stamps in full rolls and provided further, however, that all of such unsecured credit shall be eliminated within the foregoing period of forty months.
+
+(g) In the event that the agent fails to remit any amount owed for stamps purchased on credit (with or without a credit bond or other security) when due, then, in such event, all or any part of the amounts then owing for credit purchases of stamps shall, at the option of the Commissioner of Finance, become immediately due and payable, the extension of credit to the agent shall immediately terminate, and no further sales to the agent will be made until such time as remittance in full is received for all such amounts so declared to be due and the Commissioner of Finance approves the restoration of credit and the making of sales to the agent.
+
+(h) No person shall sell or offer for sale any stamps issued under the law, except by written permission of the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-16 Compensation of Agents for Services.* ::
+
+
+(a) The law provides that whenever the Commissioner of Finance shall sell, consign or deliver to any agent authorized to affix stamps to be used in payment of the tax imposed thereby, such agent shall be entitled to receive as compensation for his services and expenses in affixing such stamps and to retain out of the monies to be paid by him for such stamps, a commission on the par value thereof. The Commissioner of Finance is authorized to prescribe a schedule of commissions not exceeding five percentum of the par value of such stamps for affixing such stamps. The Commissioner of Finance hereby prescribes the following commissions to be allowed to each such agent as compensation for his services and expenses in affixing stamps.
+
+(b) Where a joint stamp is issued by the State of New York and the City for the payment of the taxes imposed by the City's Cigarette Tax Law and by Article 20 of the Tax Law of the State, in lieu of a single stamp evidencing payment of the cigarette tax, and such joint stamp is issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes) and the City tax (at the rate of $1.50 per package of 20 cigarettes), the following schedule of commissions have been fixed by the Commissioner of Finance pursuant to the City's Cigarette Tax Law with the approval of the New York State Department of Taxation and Finance, and for the purposes of this schedule the par value of a joint stamp issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes), and the City tax (at the rate of $1.50 per package of 20 cigarettes) shall be deemed to be $1.50 each for State purposes and $1.50 each for City purposes. On the City par value of such joint stamps, not exceeding $5,611,200 purchased during each calendar year, a commission of 0.2171 percent thereof except as otherwise provided herein; and on the City par value of such joint stamps in excess of $5,611,200 purchased during each calendar year a commission of 0.0992 percent thereof. Said rate of 0.0992 percent shall also apply, even though the total City par value of joint stamps purchased during any calendar year does not exceed $5,611,200, whenever the value of New York State cigarette tax stamps (including the amount of the New York State cigarette tax represented by such joint stamps) purchased by any agent during each calendar year exceeds the sum of $5,611,200, computed at the State par value of $1.50 each. However, for the purpose of determining the point when said amount of $5,611,200 is reached, whenever the quantity of New York State cigarette tax stamps and/or the portion of the New York State cigarette tax included in joint stamps purchased by an agent at any one time brings the agent's total purchases of stamps evidencing payment of the New York State cigarette tax to at least $5,611,200, the amount purchased at such time shall be first applied to the previous total of purchases of stamps evidencing payment of the New York State cigarette tax until $5,611,200 is reached.
+
+(c) Where a single stamp is issued by the City of New York evidencing payment of the City's cigarette tax, and such stamp is for payment of the City's tax at the rate of four cents for each ten cigarettes or fraction thereof, the commission hereby fixed is 1.10 percent on the par value of such single stamp purchased.
+
+(d) Any commissions allowable hereunder shall be deducted by the agent from the purchase price of the stamps at the time payment is made therefor. No commissions shall be allowed on purchases of less than one hundred dollars. No commission shall be allowed to any purchaser of stamps other than an agent.
+
+
+
+
+
+
+*§ 4-17 Records To Be Kept.* ::
+
+
+(a) The law requires that certain records be kept by all dealers of cigarettes.
+
+   (1) All wholesale dealers, including agents, must keep records showing every purchase, sale or other disposition of all cigarettes and stamps handled.
+
+   (2) All invoices or other records indicating the purchase, sale or other disposition of cigarettes by a wholesale dealer must be either separate and distinct from all other records which a wholesale dealer shall possess or the cigarette transactions on such invoices or other records must be distinct from non-cigarette transactions recorded on the same invoice or other record.
+
+   (3) Agents authorized to keep cigarette tax stump affixing machines must keep a daily record of the meter readings, or the serial numbers of the rolls of stumps used, or other information required by the Commissioner of Finance on forms approved by him.
+
+   (4) Each agent or wholesale dealer in the City (other than a manufacturer) must, at the time of delivering cigarettes to any person, make a true duplicate serially numbered invoice showing his name, his address, the number of the then current license issued to him pursuant to 19 RCNY § 4-05, the date of delivery, the number of cartons in each shipment of cigarettes delivered, the name and address of the purchaser to whom delivery is made.
+
+   (5) Every wholesale dealer shall keep a record of the sales tax certificate number and city cigarette license number of each person to whom he delivers cigarettes. For this purpose, at the time of delivering cigarettes to any person, each wholesale dealer shall, unless previously obtained, request, and every retail dealer or other person to whom cigarettes are delivered shall furnish, his sales tax certificate number and the number of the then current license issued to him pursuant to 19 RCNY § 4-05. The failure or refusal to furnish these numbers shall be reported by the wholesale dealer to the Commissioner of Finance within five days of delivery.
+
+   (6) Each dealer in the City shall procure and retain invoices showing the number of cartons in each shipment of cigarettes received by him, the date of delivery, the name and address of the shipper, and the number of the then current license issued to the shipper pursuant to 19 RCNY § 4-05.
+
+(b) The Commissioner of Finance may require any railroad company, express company, trucking company or carrier transporting any shipment of cigarettes into the city to file with the Commissioner of Finance a copy of the freight bill within ten days after delivery in the city of each shipment.
+
+(c) In addition to the foregoing, every agent or dealer (other than a manufacturer) shall keep and maintain records of cigarettes on which a tax must be paid and of those on which a tax is not required to be paid. These records must also show the quantity of cigarettes returned because the cigarettes have become unsalable and any transfers of stamped or unstamped cigarettes to or from other agents. Records must also be maintained of cigarettes which are sold and delivered in the city and those which are sold and delivered to points outside the city, including quantities so sold and the names and addresses of the purchasers. Agents (other than manufacturers) are also required to keep records showing monthly inventories, at the beginning and close of each month, of stamped and unstamped cigarettes, and of the number of stamps.
+
+(d) Each agent, wholesale dealer or other dealer is required to maintain, retain and keep for a period of three years the records mentioned above, as well as such other records as may be required by the Commissioner of Finance from time to time, for the use and inspection of the Commissioner of Finance.
+
+(e) To verify the accuracy of the payment of the tax imposed by the law each dealer is required to give to the Commissioner of Finance or his duly authorized representative, the means, facilities and opportunity to examine the records herein required or for any other reasonable examination.
+
+
+
+
+
+
+*§ 4-18 Reports.* ::
+
+
+(a) Agents (other than manufacturers) appointed by the Commissioner of Finance are required to file with him, on forms prescribed and prepared by the Commissioner of Finance, monthly reports showing such information as he may require, including, among other things:
+
+   (1) The number of unstamped cigarettes:
+
+      (i) on hand at the beginning of the month,
+
+      (ii) purchased or received during the month,
+
+      (iii) on hand at the end of the month,
+
+      (iv) sold or disposed of during the month;
+
+   (2) The number of stamps:
+
+      (i) on hand at the beginning of the month,
+
+      (ii) purchased during the month,
+
+      (iii) on hand at the end of the month,
+
+      (iv) affixed or otherwise disposed of during the month; and
+
+   (3) The number of stamped cigarettes, with New York City stamps and joint New York State-New York City stamps affixed, on hand at the end of the month.
+
+(b) Every agent (other than a manufacturer) is required to take a physical inventory of stamped cigarettes on hand at least twice a year. The results of such an inventory shall be reported on the agent's monthly report in the form and manner prescribed by the Commissioner of Finance. One of the semiannual physical inventories must be as of the end of the fiscal or calendar year of the agent and the other six months later.
+
+(c) Five days prior to the return of cigarettes to a manufacturer, because the cigarettes have become unsalable, damaged, or for any other reason, each agent shall notify the Commissioner of Finance in writing of the number of cartons to be returned and the name of the manufacturer to whom delivery is to be made.
+
+(d) Each manufacturer having an agency permit shall file with the Commissioner of Finance monthly reports showing the total sales of unstamped cigarettes made to agents or wholesale dealers licensed by the City, specifying the name and address of the purchaser, the date of delivery, and the number of cartons in each shipment of cigarettes delivered. These reports shall also specify the quantity of cigarettes returned because the cigarettes have become unsalable, and the name and address of the agent, wholesale dealer or other person making the return.
+
+(e) Fifteen days prior to the distribution of sample cigarettes in the city, each manufacturer shall notify the Commissioner of Finance, in writing, of the amount to be distributed.
+
+(f) Each manufacturer shall file a monthly report of the total number of packages and the number of cigarettes contained therein of sample cigarettes distributed in the city. Payment of the tax due shall be made with the monthly report required herein. If no sample cigarettes are distributed in the city during a month, no report is required for that month.
+
+(g) Wholesale dealers other than agents may also be required to file such reports as the Commissioner of Finance may prescribe, showing the receipts and disposition of all stamped and unstamped cigarettes and any other information which the Commissioner of Finance may require.
+
+(h) Monthly reports shall be filed on or before the 15th day of each month covering the transactions for the preceding calendar month.
+
+
+
+
+
+
+*§ 4-19 Refunds.* ::
+
+
+(a) The law authorizes the Department of Finance to refund, without interest, any tax, interest or penalty erroneously, illegally or unconstitutionally collected or paid. In addition, a dealer is entitled to a refund of the amount of tax paid less applicable commissions, with respect to any cigarettes upon which stamps have been affixed which:
+
+   (1) have been sold and shipped to a dealer outside the city for sale there or to any person in another state for use there, or
+
+   (2) have become unfit for use and consumption or unsalable, or
+
+   (3) which have been destroyed. An agent is entitled to a refund of the amount of tax paid, less applicable commissions, with respect to any stamps which have become unfit for use, or mutilated or destroyed.
+
+(b) No refund will be granted unless written application to the Commissioner or Finance therefor is made within ninety days from the payment thereof.
+
+(c) No refund, however, will be made unless a verified statement is submitted setting forth the applicant's reasons for such requested refund on a form prescribed by the Department of Finance. If the Department of Finance approves the application for refund, he will issue to such dealer or agent stamps of sufficient value to cover the refund or to make such refund, subject to audit by the Commissioner of Finance.
+
+(d) In the event any agent terminates his business during the effective period of the law for any reason whatsoever and has unused stamps on hand, he must return the same to the Department of Finance who will redeem such stamps at the par value thereof, less any commissions theretofore allowed thereon and less any outstanding liability for such tax by the person presenting said stamps for redemption, provided, however, that in the case of joint stamps used for payment of the state cigarette tax and the city's tax, such surrender and redemption shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
+
+(e) No person shall sell or offer for sale any stamp issued under the law and these regulations except by written permission of the Commissioner of Finance, or as provided in Article 13 hereof.
+
+
+
+
+
+
+*§ 4-20 Out-of-City Sales.* ::
+
+
+(a) The law provides that the tax is not applicable to cigarettes possessed in the City by any agent or wholesale dealer for sale to a dealer outside the City, or for sale and shipment to any person in another state for use there.
+
+(b) Under this provision, the only sales by an agent or wholesale dealer of cigarettes which are shipped to a point outside the city which are not subject to the tax, are sales to a dealer outside the city, or shipments to any person outside the state for use there. The sale of cigarettes shipped to a person outside the city, but within the state, for use there is subject to the tax. For example: A sale by an agent or wholesale dealer to another dealer in Westchester County is not subject to the tax. The sale of cigarettes by a dealer who ships them to an ultimate consumer in Westchester County for use there is subject to tax. The sale of cigarettes by a dealer shipped to an ultimate consumer in New Jersey for use there is not subject to the tax.
+
+(c) Where an agent or wholesale dealer sells cigarettes to a dealer for sale outside the City or State, or to another dealer for sale to a dealer outside the City or State, he shall demand and receive from the purchaser, at the time of delivery of the cigarettes, or at the time of sale, a certificate in writing signed by the purchaser, which certificate shall be substantially in the following form: (Date) ________________
+
+   "To ____________________________ (name of agent or wholesale dealer). "I hereby certify that the cigarettes purchased by me and described in the attached invoice will be resold outside the city of New York.
+
+   ___________________________________________   Signature of Purchaser Address of Purchaser"
+
+One copy of such invoice and the above certificate must be retained by the agent or wholesale dealer for inspection by the Commissioner of Finance representative.
+
+
+
+
+
+
+*§ 4-21 Drop-Shipments.* ::
+
+
+In the case of so-called "drop-shipments," where an out-of-state manufacturer solicits an order directly from a retail dealer in this City, and the billing and payment on account of such sale is made through a wholesale dealer, the sale to the retail dealer is deemed to have been made by the wholesale dealer, and proper stamps must be affixed to the packages of cigarettes prior to delivery to the retail dealer, unless such retail dealer is any agent duly appointed by the Commissioner of Finance.
+
+
+
+
+
+
+*§ 4-22 Seizure and Sale of Cigarettes.* ::
+
+
+(a) Whenever a police officer designated in § 1.20 of the criminal procedure law or a peace officer designated in subdivision five of § 2.10 of such law, acting pursuant to his special duties, shall discover any cigarettes subject to the tax, and upon which the tax has not been paid or the stamps not affixed as required, they are hereby authorized and empowered forthwith to seize and take possession of such cigarettes, together with any vending machine or receptacle in which they are held for sale. Such cigarettes, vending machine or receptacle seized by a police officer or such peace officer shall be turned over to the Commissioner of Finance.
+
+(b) The seized cigarettes and any vending machine or receptacle seized therewith, but not the money contained in such vending machine or receptacle shall thereupon be forfeited to the City, unless the person from whom the seizure is made, or the owner of such seized cigarettes, vending machine or receptacle, or any other person having an interest in such property, shall within ten days of such seizure, apply to the Commissioner of Finance for a hearing to determine the propriety of the seizure, or unless the Commissioner of Finance shall on his own motion release the seized cigarettes, vending machine or receptacle. After such hearing the Commissioner of Finance shall give notice of his decision to the petitioner. The decision of the Commissioner shall be reviewable for error, illegality, unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the supreme court within thirty days after the giving of the notice of such decision. Such proceeding shall not be instituted unless there shall first be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York State as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed, or the seizure confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding.
+
+(c) The Commissioner of Finance may, within a reasonable time after the forfeiture to the city of such cigarettes, vending machines or receptacles, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the City, sell such forfeited cigarettes and vending machines or receptacles at public sale and pay the proceeds into the treasury of the City. Cigarettes so seized and sold shall be sold only to an agent and the notice of sale shall contain a provision to this effect. Such seized cigarettes, vending machines or receptacles may be sold prior to forfeiture if the owner of the seized property consents to the sale. Notwithstanding any other provision of this section, the Commissioner of Finance may enter into an agreement with the State Tax Commission to provide for the disposition between the City and State of the proceeds from any such sale.
+
+(d) In the alternative, the Commissioner of Finance, on reasonable notice by mail or otherwise may permit the person from whom said cigarettes were seized to redeem the said cigarettes, and any vending machine or receptacle seized therewith, or may permit the owner of any such cigarettes, vending machine or receptacle to redeem the same, by the payment of the tax due, plus a penalty of fifty percent thereof plus interest on the amount of tax due for each month or a fraction thereof, after such tax became due (determined without regard to any extension of time for filing or paying) at the rate prescribed by the law and the regulations of the Commissioner of Finance and the costs incurred in such proceeding, which total payment shall not be less than five dollars; provided, however, that such seizure and sale or redemption shall not be deemed to relieve any person from fine or imprisonment provided for in the law.
+
+(e) In the alternative, if the Commissioner of Finance concludes that any cigarettes seized pursuant to this section, when offered at public sale, will bring a price less than the reasonably estimated price which the Department of Correction would have to pay for the purchase of such cigarettes for sale to or use by inmates in institutions under the jurisdiction of such Department, the Commissioner of Finance may dispose of such cigarettes by transferring them to the Department of Correction for sale to or use by inmates in such institutions.
+
+
+
+
+
+
+*§ 4-23 Penalties and Interest.* ::
+
+
+(a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of the interest to be paid with respect to the taxes which remain or become due on or after July 1, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
+
+(b) Civil penalties. Penalties are provided for violations of the law and of the rules and regulations of the Commissioner of Finance. These penalties are in addition to the possible suspension or revocation of the license of a wholesale or retail dealer or the authority of an agent. The following civil penalties are provided for by law (§ 11-1317 of the Administrative Code of the City of New York):
+
+   (1) For failure to pay the tax under the law when due – a penalty of 50 percent of the amount of tax due. The Commissioner of Finance may, however, if satisfied that the delay was excusable, remit all or any part of such penalty.
+
+   (2) In addition to any other penalty imposed by § 11-1317 of the Administrative Code of the City of New York, as amended, the Commissioner of Finance may impose a penalty of not more than $100 for each two hundred cigarettes or fraction thereof in excess of two thousand cigarettes in unstamped or unlawfully stamped packages in the possession or under the control of any person. The Commissioner of Finance, in his discretion, may remit all or part of such penalty.
+
+   (3) The possession within the City of more than four hundred cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are subject to tax as provided by the law. Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents or persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
+
+   (4) The penalties provided by this subdivision shall be paid and enforced in the same manner as taxes.
+
+   (5) Application for the remission of penalty may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed and must set forth the grounds upon which the remission is requested.
+
+(c) Criminal penalties.
+
+   (1) Failure to obey subpoena; false testimony.
+
+      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
+
+         (A) fails or refuses to attend without lawful excuse, or
+
+         (B) refuses to be sworn,
+
+         (C) refuses to answer any material and proper question, or
+
+         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
+
+      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
+
+   (2) Willful failure to file a return or report or pay tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
+
+   (3) Fraudulent returns, reports, statements or other documents. 
+
+      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
+
+      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
+
+      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
+
+   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required by the law shall be guilty of a misdemeanor.
+
+   (5) Attempt to evade or defeat tax.
+
+      (i) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or the payment thereof shall, in addition to other penalties provided by law, be guilty of a misdemeanor.
+
+      (ii) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or payment thereof on twenty thousand cigarettes or more or has previously been convicted two or more times of a violation of subparagraph (i) of this paragraph shall be guilty of a Class E felony.
+
+   (6) Any person, other than an agent so authorized by the Commissioner of Finance, who possesses or transports for the purpose of sale any unstamped or unlawfully stamped packages of cigarettes subject to tax under the law, or who sells or offers for sale unstamped or unlawfully stamped packages of cigarettes in violation of the provisions of the law shall be guilty of a misdemeanor.
+
+   (7) Any person, other than an agent so authorized by the Commissioner of Finance, who willfully possesses or transports for the purpose of sale twenty thousand or more cigarettes subject to the tax imposed by law in any unstamped or unlawfully stamped packages or who willfully sells or offers for sale twenty thousand or more cigarettes in any unstamped or unlawfully stamped packages in violation of the law shall be guilty of a Class E felony.
+
+   (8) For the purposes of this subdivision, the possession or transportation within this City by any person, other than an agent, at any one time of five thousand or more cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are possessed or transported for the purpose of sale and are subject to the tax imposed by law. With respect to such possession or transportation, any provisions of law providing for a time period during which a use tax imposed by the law may be paid on unstamped cigarettes or unlawfully or improperly stamped cigarettes or during which such cigarettes may be returned to an agent shall not apply. The possession within this City of more than four hundred cigarettes in unstamped or unlawfully stamped packages by any person other than an agent at any one time shall be presumptive evidence that such cigarettes are subject to tax as provided by law.
+
+   (9) Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents of persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
+
+   (10) Any person who falsely or fraudulently makes, alters or counterfeits any stamp prescribed by the Commissioner of Finance under the law, or causes or procures to be falsely or fraudulently made, altered or counterfeited any such stamp, or knowingly and willfully utters, purchases, passes or tenders as true any such false, altered or counterfeited stamp, or knowingly and willfully possesses any cigarettes in packages bearing any such false, altered or counterfeited stamp, and any person who knowingly and willfully makes, causes to be made, purchases or receives any device for forging or counterfeiting any stamp, prescribed by the Commissioner of Finance under the provisions of the law, or who knowingly and willfully possesses any such device, shall be guilty of a Class E felony. For the purposes of this paragraph, the words "stamp prescribed by the Commissioner of Finance" shall include a stamp, impression or imprint made by a metering machine, the design of which has been approved by the Commissioner of Finance and the State Tax Commission.
+
+   (11) Any willful act or omission, other than those described in paragraphs (5) through (10) of this subdivision, by any person which constitutes a violation of any provision of law shall constitute a misdemeanor.
+
+
+
+
 Chapter 3: Banking Corporations
 --------------------------------------------------
 
@@ -3365,521 +3880,6 @@ Example: In the case of a short taxable year of 11 months, from January 1, 1981 
 
 
 
-Chapter 4: Cigarette Tax
---------------------------------------------------
-
-
-
-*§ 4-01 Definitions.* ::
-
-
-(a) When using these regulations the following words shall have the meanings here indicated:
-
-   Agent. An "agent" shall mean any person authorized to purchase and affix adhesive or meter stamps under the law who is designated as an agent by the Commissioner of Finance.
-
-   Cigarette. A "cigarette" shall mean any roll for smoking made wholly or in part of tobacco or any other substance irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material except tobacco.
-
-   City. "City" shall mean the city of New York.
-
-   Commissioner of Finance. The "Commissioner of Finance" shall mean the Commissioner of Finance of the City.
-
-   Controlling person. A "controlling person" shall mean any person who is:
-
-      (1) an officer, director or partner or, in the case of a limited liability company, a member or a person having with respect to such limited liability company authority analogous to that of an officer or director with respect to a corporation, of an applicant for a license, or
-
-      (2) a shareholder, directly or indirectly owning more than ten percent of the number of shares of stock of such applicant (where such applicant is a corporation) entitling the holder thereof to vote for the election of directors or trustees. For purposes of this paragraph, where reference is made to ownership, directly or indirectly, of more than ten percent of the shares of stock of the applicant entitling the holder thereof to vote for election of directors or trustees, in the case of an applicant that at the relevant time has four or fewer shareholders holding shares entitling the holders thereof to vote for the election of directors or trustees, twenty-five percent or more shall be substituted as the applicable percentage in such reference to ownership, directly or indirectly, of voting stock.
-
-   Dealer. A "dealer" shall mean any wholesale dealer or retail dealer as hereinafter defined.
-
-   Package. "Package" shall mean the individual package, box or other container in or from which retail sales of cigarettes are normally made or intended to be made.
-
-   Person. A "person" shall mean any individual, partnership, society, association, joint stock company, corporation, estate, receiver, trustee, assignee, referee or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals.
-
-   Retail dealer. A "retail dealer" shall mean any person other than a wholesale dealer engaged in selling cigarettes. For the purposes of the law, the possession or transportation at any one time of 5,000 or more cigarettes by any person other than a manufacturer, an agent, a licensed wholesale dealer or a person delivering cigarettes in the regular course of business for a manufacturer, an agent or a licensed wholesale or retail dealer, is presumptive evidence that such person is a retail dealer.
-
-   Sale or purchase. A "sale" or "purchase" shall mean any transfer of title or possession or both, exchange or barter, conditional or otherwise, in any manner or by any means whatsoever or any agreement therefor. In addition to cash and credit sales, the giving of cigarettes as samples, prizes or gifts, and the exchanging of cigarettes are, for the purpose of the tax, considered sales.
-
-   Use. "Use" shall mean any exercise of a right or power, actual or constructive, and shall include but is not limited to the receipt, storage, or any keeping or retention for any length of time, but shall not include possession for sale by a dealer.
-
-   Wholesale dealer. "Wholesale dealer" shall mean any person who sells cigarettes to retail dealers or other persons for purposes of resale only, and any person who owns, operates or maintains one or more cigarette vending machines in, at or upon premises owned or occupied by any other person.
-
-
-
-
-
-
-*§ 4-02 Imposition of Tax.* ::
-
-
-(a)  On or after January 1, 1976, and before July 2, 2002, a tax at the rate of four cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however, on or after August 6, 1985 and before July 2, 2002, if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be two cents for each five cigarettes or fraction thereof. On or after July 2, 2002 a tax at the rate of 75 cents for each ten cigarettes or fraction thereof, must be paid upon all cigarettes possessed in the City for sale, provided, however if a package of cigarettes contain more than 20 cigarettes, the rate of tax on the cigarettes in such package in excess of 20 shall be 38 cents for each five cigarettes or fraction thereof. Every package of cigarettes must have affixed thereto stamps of the proper amount. For example: on or after July 2, 2002 a package containing from 11 to 20 cigarettes must have affixed $1.50 in stamps; a package containing ten cigarettes or less must have affixed 75 cents in stamps; a package containing 20 to 25 cigarettes must have affixed $1.88 in stamps; a package containing 26 to 30 cigarettes must have affixed $2.26 in stamps.
-
-(b) Payment of cigarette tax on inventory.
-
-   (1) Local Law 10 of 2002 required every dealer of cigarettes, including agents licensed to purchase and affix stamps, to take a physical inventory of all cigarettes possessed in the City as of the close of business on July 1, 2002. In addition, such local law required every dealer who is a licensed agent to take a physical inventory of all unaffixed cigarette tax stamps possessed as of the close of business on such date. In the event that it was not possible to take a physical inventory of cigarettes in all vending machines that are located within the City, a dealer was permitted to take as many physical inventories of the contents of such machines as was possible with available personnel. For those machines that could not be physically inventoried on July 1, 2002, cigarettes could be accounted for at one-half the normal fill capacities of such machines, as reflected in the individual inventory records maintained for such machines.
-
-   (2) i) (A) On or before September 20, 2002, every such dealer shall file a return on a form prescribed by the Department of Finance for such purpose, showing the quantity of all cigarettes and unaffixed stamps possessed as of the July 1, 2002 inventory. Such return must reflect the entire wholesale and/or retail inventories of the dealer within the City, as required by the Department of Finance, regardless of the number of business locations of the dealer. Except as provided in subparagraph (B) of this subparagraph (i), every dealer shall pay, with the filing of such return, an additional tax for all cigarettes in such inventory that are contained in packages bearing stamps evidencing tax payment at the rates in effect prior to July 2, 2002, and for all unaffixed cigarette tax stamps in such inventory evidencing tax payment at such rates. The additional tax shall be paid at the rate of 71 cents for each ten cigarettes or fraction thereof ($1.42 per package of 20 cigarettes) unless cigarettes are contained in packages of more than 20, in which case the additional tax for those cigarettes in excess of 20 shall be at the rate of 36 cents for each five cigarettes or fraction thereof ($1.78 per package of 25 cigarettes). Such tax shall be paid regardless of whether the affixed or unaffixed stamps show payment of the New York State tax or both the New York State and City taxes.
-
-         (B) Notwithstanding any other provision of law to the contrary, the tax due on cigarettes possessed in the City, as of the close of business on July 1, 2002, by any person for sale solely attributable to the increase imposed by this local law, may be paid in two installments, due on the twentieth days of September 2002 and January 2003, subject to such terms and conditions as the Department of Finance may prescribe; provided, however, no less than 25 percent of each such tax due shall be paid by September 20, 2002. Provided, however, in no event shall such installment be less than $200 or the entire additional cigarette tax due, if less than $200. Thus a dealer having an additional cigarette tax liability on inventory of $100 would be liable for the full payment on September 20, 2002; a dealer having such a liability of $440 would be liable for a first installment of at least $200; and a dealer having such a liability of $10,000 would be liable for a first installment of at least $2,500 ($10,000 × 25%). The second and final installment must be paid to the Department of Finance on or before January 20, 2003, and must be accompanied by a final payment document prescribed by the Department of Finance for this purpose. Where the Department of Finance has cause to believe that the final installment of the additional cigarette tax on inventory may be jeopardized by delay, the Department of Finance may require such payment at any time prior to January 20, 2003. (See paragraph (3) of this subdivision for sanctions concerning untimely installments.)
-
-      (ii) The additional cigarette tax on inventory and any applicable installment should be paid by check or money order, payable to the New York City Department of Finance.
-
-   (3) i) Failure to file a return on cigarette and cigarette tax stamp inventory or to pay the additional tax due thereon, or failure to comply with any provision of this section may result in civil or criminal sanctions, or both.
-
-      (ii) In the case of any dealer who elects to pay the additional cigarette tax liability in installments, as described in subparagraph (B) of subparagraph (i) of paragraph (2) of this subdivision, if the required first installment is not properly paid on or before September 20, 2002, the entire amount of additional tax shall be due and owing, and any civil penalty and interest imposed pursuant to § 11-1317 of the Administrative Code and 19 RCNY § 4-23 will accrue from such date on the entire tax liability that remains unpaid. Where the required first installment is timely paid but any portion of the second and final installment is paid after January 20, 2003, any civil penalty and interest so imposed will accrue from such date on the unpaid balance.
-
-
-
-
-
-
-*§ 4-03 Exemptions.* ::
-
-
-This law provides that the tax shall not apply to:
-
-(a) The use, otherwise than for sale, of four hundred cigarettes or less brought into the city, on or in possession of, any person;
-
-(b) Cigarettes sold to the United States;
-
-(c) Cigarettes sold to or by a voluntary unincorporated organization of the Armed Forces of the United States operating a place for the sale of goods pursuant to regulations promulgated by the appropriate executive agency of the United States;
-
-(d) Cigarettes possessed in the city by an agent or wholesale dealer for sale to a dealer outside the city or for sale and shipment to any person in another state for use there, provided such agent or wholesale dealer complies with the regulations relating thereto;
-
-(e) Cigarettes sold to the State of New York or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State where it is the purchaser, user or consumer and does not purchase said cigarettes for resale.
-
-
-
-
-
-
-*§ 4-04 Liability for the Tax.* ::
-
-
-(a) Article 4. Except as otherwise provided herein, the tax shall be advanced by the agent or distributor. The agent shall be liable for the collection and payment of the tax to the Commissioner of Finance by purchasing from the Commissioner of Finance adhesive stamps of such design and denomination as may be prescribed by the Commissioner of Finance, subject to the approval of the State Tax Commission. The tax may also be paid by the use of such metering machines as are prescribed by the Commissioner of Finance subject to the approval of the State Tax Commission. In addition, every person liable for the tax on the use of cigarettes must file a return, in such form as the Commissioner of Finance may prescribe, with the Commissioner of Finance within twenty-four hours after liability therefor accrues together with a remittance of the tax shown to be due thereon.
-
-(b) The amount of taxes advanced and paid by the agent or distributor as above provided shall be added to and collected as part of the sales price of the cigarettes.
-
-(c) It is intended that the ultimate incidence of and liability for the tax shall be upon the consumer, and that any agent, distributor, or dealer who shall pay the tax to the Commissioner of Finance shall collect the tax from the purchaser or consumer.
-
-
-
-
-
-
-*§ 4-05 Licenses.* ::
-
-
-(a)  (1) A wholesale or retail dealer must apply to the Commissioner of Finance for a license for each place of business that he desires to have for the sale of cigarettes in the City. Every application for a cigarette license shall be made upon a form prescribed and prepared by the Commissioner of Finance. At the time of applying for a license as a wholesale dealer, each applicant also seeking appointment as an agent must submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. At the discretion of the Commissioner of Finance, all other applicants for a license as a wholesale dealer may be required to submit a current financial statement prepared and signed by a certified public accountant or an enrolled public accountant. The Commissioner of Finance may, for cause, refuse to issue a license. Upon approval of the application, the Commissioner of Finance will grant and issue to the applicant a cigarette license for each place of business within the City set forth in the application. Cigarette licenses shall not be assignable and shall be valid only for the persons in whose names issued and for the transaction of business in the places designated therein and shall at all times be conspicuously displayed at the places for which issued. Whenever any license that has been issued is defaced, destroyed or lost, the Commissioner of Finance will issue a duplicate license to the holder of the defaced, destroyed or lost license upon the payment of a fee of $1.
-
-   (2) Cause for refusal of the Commissioner of Finance to issue a license or to relicense an applicant will generally exist where the applicant files an application for a license and, in considering such application, the Commissioner of Finance ascertains that:
-
-      (i) Within the preceding five years, the applicant or a controlling person has failed to comply with any of the provisions of Chapter 13 of Title 11 of the Administrative Code or any rules or regulations promulgated thereunder;
-
-      (ii) A warrant has been issued or a lien otherwise arises for any tax administered by the Department of Finance due from such applicant or a controlling person and such tax has not been paid in full, provided that liability for such tax arose out of the activities of the applicant or controlling person as a wholesale or retail dealer;
-
-      (iii) Such applicant or any controlling person was convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years;
-
-      (iv) Such applicant or any controlling person was the controlling person in another wholesale or retail dealer at the time that:
-
-         (A) A warrant was issued or a lien otherwise arose for any tax administered by the Department of Finance due from such other dealer and such tax has not been paid in full, provided that liability for such tax arose out of the activities of such other dealer as a wholesale or retail dealer, or
-
-         (B) Such other dealer had been convicted of a crime provided for in Chapter 40 of Title 11 of the Administrative Code or any other criminal offense the nature of which has a direct bearing on the applicant's fitness or ability to perform any of the duties or responsibilities of a licensee under Chapter 13 of Title 11 of the Administrative Code within the preceding five years, or
-
-         (C) The license of such other dealer had been canceled or suspended pursuant to this section within the preceding five years.
-
-      (v) The license of such applicant has been canceled or suspended pursuant to this section within the preceding five years; or
-
-      (vi) Such applicant or any controlling person has been finally determined to have violated any of the provisions of Article 20 or Article 20-A of the New York State Tax Law.
-
-(b) The Commissioner of Finance may suspend or, after hearing, revoke a cigarette license whenever he finds that the holder thereof has failed to comply with any of the provisions of the law or any rules or regulations of the Commissioner of Finance prescribed, adopted and promulgated thereunder. Upon suspending or revoking any cigarette license, the Commissioner of Finance will direct the holder thereof to surrender to the Commissioner of Finance immediately all licenses or duplicates thereof issued to him and the holder shall surrender promptly all such licenses to the Commissioner of Finance as directed. Before the Commissioner of Finance suspends or revokes a cigarette license, he will notify the holder and afford him a hearing, if desired. After such hearing, the Commissioner of Finance good cause appearing therefore, may suspend or revoke the license. A person who has been refused a license by the Commissioner of Finance may likewise apply to the Commissioner of Finance for a hearing. After such hearing the Commissioner of Finance may rescind or affirm the refusal to issue a license, or issue a license.
-
-(c) No agent or dealer shall sell cigarettes to an unlicensed wholesale or retail dealer, or to a wholesale or retail dealer whose license has been suspended or revoked. No dealer shall purchase cigarettes from any person other than a manufacturer or a licensed wholesale dealer.
-
-(d) It is unlawful for a person to engage in business as a wholesale dealer or retail dealer without a license as herein prescribed. It is unlawful for a person to permit any premises under his control to be used by any other person in violation of this paragraph.
-
-
-
-
-
-
-*§ 4-06 Licensee Fees; Term.* ::
-
-
-(a) The annual fee for a wholesale cigarette dealer's license is $500. See Administrative Code § 11-1303(a) as add LL 34/87 § 2. The annual fee for a retail cigarette dealer's license is $10.
-
-(b) Cigarette licenses will be regularly numbered and duly registered.
-
-(c) Cigarette licenses expire on January 31st next succeeding the date of issuance unless sooner suspended or revoked. However, licenses issued prior to December 18, 1967 expire on March 16, 1968 unless sooner suspended or revoked.
-
-
-
-
-
-
-*§ 4-07 Adhesive Stamps.* ::
-
-
-(a) The Commissioner of Finance has prescribed adhesive stamps in two-cent and four-cent denominations. These stamps are on sale at banks throughout the city designated by the Commissioner of Finance as fiscal agents or sub-agents. Agents shall purchase stamps at the bank to which they have been assigned, either for each or upon thirty days' credit. An agent may purchase stamps from the banks over the counter or by mail. In the latter case, no shipping charge will be made by the bank. Payment for stamps shall be made by cash or by certified check.
-
-(b) The Commissioner of Finance will prescribe and furnish stamps of such denominations and quantities and in such form as may be necessary for the payment of the tax imposed by the law. He may, from time to time, provide for the issuance and exclusive use of a new design and forbid the use of stamps of any other design. Such stamps shall be in the form of a single stamp for the payment of the tax imposed by the law, or in lieu thereof, a joint stamp prepared and issued by the State of New York and the city for the payment of both the tax imposed by the City Cigarette Tax Law and the tax imposed by Article 20 of the Tax Law (New York State Cigarette Tax), may be used.
-
-(c) Whenever such a joint stamp is prescribed, it shall be used exclusively in lieu of any other form of stamp for the payment of the tax imposed by both the city and state laws. The Commissioner of Finance will appoint fiscal agents for the purpose of selling the stamps or may provide for the sale thereof at such other places as he may deem necessary. The Commissioner of Finance shall require each fiscal agent, appointed by him for the purpose of selling the stamps herein prescribed, to file with him a surety bond, in such form and in such amount as he deems appropriate, issued by a surety company licensed to do business in the State of New York, conditioned upon the faithful performance of any agreement made between the Commissioner of Finance of the City of New York and said fiscal agent, and to secure the Commissioner of Finance, or the City of New York against any loss or damage in any manner resulting from the acts of said fiscal agent or its employees. In lieu of the bond described in this paragraph, a fiscal agent may deposit with the Commissioner of Finance its personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from a fiscal agent pursuant to this article; but no such sale shall be had until a fiscal agent shall have had an opportunity to be heard regarding the amount due hereunder. Upon any such sale the surplus, if any, above the sums due shall be returned to such fiscal agent.
-
-
-
-
-
-
-*§ 4-08 Meter Stamps.* ::
-
-
-(a) The Commissioner of Finance, in addition to the sale of stamps herein provided for, in his discretion, and subject to the approval of the State Tax Commission, may permit the use of a cigarette tax stamp affixing machine (whether by meter impression or otherwise) approved by him, or, where a joint stamp for the payment of the tax imposed by Article 20 of the State Tax Law and the City Cigarette Tax Law is used, the use of a joint tax stamp affixed by machine to show payment of both state and city taxes. The Commissioner of Finance, however, may reserve the right to rescind such permission upon thirty days' notice should such action be deemed to be in the best interest of the city. Payment of the tax must be made either in cash at the time the tax stamps are purchased or on thirty days' credit upon the same terms and conditions as apply to any other stamps sold by the Commissioner of Finance. Payment for stamps shall be made by cash or certified check.
-
-(b) Each agent, when his application for permission to use such tax stamp affixing machine is approved, shall be assigned a distinctive number which shall be the same as the number assigned to him by the State Tax Commission for the purposes of the state tax, and which must be clearly incorporated in the design of the tax stamps.
-
-(c) Any person, including an agent, having in his possession an authorized tax stamp affixing machine may not transfer, sell or otherwise dispose of such machine without first securing the authorization and approval of the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-09 Sale or Use of Cigarettes without Stamps.* ::
-
-
-(a) Notwithstanding any other provision hereof, the Commissioner of Finance may, subject to the approval of the State Tax Commission, provide at any time that the tax imposed by the law shall be collected without the use of stamps.
-
-
-
-
-
-
-*§ 4-10 Affixation and Cancellation of Stamps.* ::
-
-
-(a) Each agent shall affix to each package of cigarettes subject to the tax the prescribed stamps evidencing the payment of the tax imposed by the law, and shall cancel such stamps before such cigarettes are sold or offered for sale and prior to delivery of such cigarettes to any such dealer in the city, unless stamps have been affixed to such packages of cigarettes and cancelled before such agent received them.
-
-(b) Stamps shall be affixed to each package of cigarettes of an aggregate denomination not less than the amount of the tax upon the contents therein.
-
-(c) The stamps must be so affixed that they are clearly visible to the purchaser. When affixed to "rounds" or "flats" of fifty cigarettes or more, they must be so placed that they will be destroyed when the container is opened. The stamps must be placed on the small, individual packages ordinarily sold to customers as distinguished from the carton or larger containers of cigarettes.
-
-(d) Every agent must keep unstamped cigarettes separate and apart from stamped cigarettes.
-
-
-
-
-
-
-*§ 4-11 Cancellation of Stamps.* ::
-
-
-(a) All adhesive stamps must be cancelled in waterproof ink with the number assigned to each authorized agent before the cigarettes to which said stamps are affixed are offered for sale. The stamps may be cancelled before or after they are affixed.
-
-(b) It is evident that, because of their nature and the fact that they carry the identifying number of the agent, meter stamps required no cancellation.
-
-(c) Whenever any cigarettes are found in the place of business of a dealer other than an agent without the stamps affixed and cancelled the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
-
-(d) Each dealer, other than an agent, in the city shall immediately upon the receipt of any cigarettes at his place of business mark in ink on each unopened box, carton or other container of such cigarettes the word "received", and the year, month, day and hour of such receipt, and shall affix his signature thereto. In addition, each retail dealer shall within twenty-four hours after receipt of any cigarettes, open such box, carton or other container and, unless such stamps have been previously affixed, immediately notify the dealer from whom he purchased such cigarettes and arrange for the replacement by the dealer of such cigarettes by cigarettes with such stamps affixed within twenty-four hours. Such dealer shall make and keep, until the cigarettes are replaced, a record of the time at which such arrangements were made and the name of the individual representing the dealer with whom such arrangements were made.
-
-(e) Whenever any cigarettes are found in the place of business of a dealer other than an agent without being marked as having been received within the preceding twenty-four hours, the prima facie presumption shall arise that such cigarettes are kept therein in violation of the provisions of the law.
-
-
-
-
-
-
-*§ 4-12 Destruction of Cancelled or Mutilated Stamps.* ::
-
-
-(a) Except as hereinafter provided, the Commissioner of Finance may destroy by incineration stamps which have been mutilated, broken, cancelled or otherwise become unfit for use or consumption. Such stamps shall be destroyed in the presence of the Commissioner of Finance, or his representative duly authorized in writing, who shall thereupon certify, in duplicate, to the fact of said destruction, the subject matter of the destruction in detail, and the persons before whom said destruction took place. Said certification, duly sworn to, shall be kept on file in the office of the Commission of Finance.
-
-(b) The destruction of joint stamps used for the payment of the state cigarette tax and the city tax shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-13 Possession and Transportation of Unstamped Cigarettes.* ::
-
-
-(a) Every person who possesses or transports upon the public highways, roads or streets of the city more than four hundred cigarettes in unstamped packages, is required to have in his actual possession invoices or delivery tickets for such cigarettes. All such invoices or delivery tickets must show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of cigarettes transported. The absence of such invoices or delivery tickets shall be prima facie evidence that such person is a dealer in cigarettes in the city and subject to the provisions of the law.
-
-
-
-
-
-
-*§ 4-14 Vending Machines; Visibility of Stamps.* ::
-
-
-(a) Owners and operators of cigarette vending machines are required to have the name, address, cigarette dealer's license number and telephone number of the owner displayed on each machine in operation within the City. The Commissioner of Finance may also require a report from such owners, which report shall contain information showing the location of each machine, the record of any change of location, placing of additional machines or withdrawal of previously listed machines, and such other information as the Commissioner of Finance may require.
-
-(b) Every package of cigarettes placed in any cigarette vending machine having an area through which such packages are visible, must be so placed therein that the New York City cigarette tax stamps thereon are visible. Whenever any cigarettes are found in any vending machine in violation of the provisions of this section or whenever a vending machine is not properly labeled, the duly authorized agents or employees of the Department of Finance shall seal the machine to prevent sale or removal of any cigarettes from the vending machine until such time as the violation is corrected in the presence of a duly authorized agent or employee of the Department of Finance.
-
-
-
-
-
-
-*§ 4-15 Agents; Credit and Performance Bonds.* ::
-
-
-(a) The Commissioner of Finance may appoint as an agent to affix stamps to be used in paying the tax imposed by the law any person who has been appointed by the State Tax Commission to affix stamps used in payment of the tax imposed by Article 20 of the State Tax Law. Each agent so appointed will be assigned a distinctive number to be used by him in the cancellation of stamps and for other purposes when necessary and said number will be the same as that assigned to such agent by the State Tax Commission. An agent shall at all times have the right to appoint the person in his employ who is to affix the stamps to any cigarettes under his control. Such agent shall purchase stamps from banks to which he has been assigned.
-
-(b) (1) At the discretion of the Commissioner of Finance agents may be permitted to pay for the purchase of such stamps within thirty days after the date of purchase, provided a surety bond satisfactory to the Commissioner of Finance is filed with him.
-
-   (2) A bond to secure the payment of sums due from an agent shall be on a form prescribed by the Commissioner of Finance and shall be issued by a surety company which is approved by the Superintendent of Insurance as to solvency and responsibility and which is authorized to transact business in the State of New York. Such bond, which must be filed in triplicate, shall secure the amount of credit for which application is made, and shall continue in full force and effect until a certificate has been issued by the Commissioner of Finance to the effect that all monies due the City for the purchase of stamps have been paid in full.
-
-   (3) In addition to the credit bond described in paragraph (2) of this subdivision, an agent may be required to file with the Commissioner of Finance a surety bond issued by a surety company described in paragraph (2), in such amount as he deems appropriate, guaranteeing the proper discharge and performance of his duties as agent.
-
-(c) A nonresident agent, that is, one located outside the City of New York, may likewise be appointed by the Commissioner of Finance for the purpose of purchasing and affixing stamps for cigarettes. Nonresident agents desiring to purchase stamps on credit may be permitted to do so, in the discretion of the Commissioner of Finance, in the same manner, and subject to the same conditions, as described in subdivision (b) of this section, in such amount as the Commissioner of Finance may deem appropriate, guaranteeing the proper discharge and performance of his duties as a nonresident agent. Such nonresident agent must agree to submit his books of account and records for examination during reasonable business hours.
-
-(d) In lieu of the bonds described in the preceding subdivisions, an agent may deposit with the Commissioner of Finance his personal bond together with securities, approved by the Commissioner of Finance, in such amounts as he may require. Such securities shall be kept in the custody of the Commissioner of Finance. Securities so deposited may be sold by the Commissioner of Finance, should it become necessary to do so, to recover any sums due from an agent pursuant to this section but no such sale shall be had until an agent shall have had an opportunity to be heard regarding the validity of any tax or the amount due, or to have a court determination, as provided by the law or these regulations. Upon any such sale the surplus, if any, above the sums due shall be returned to such agent.
-
-(e) No credit for the purchase of stamps shall be granted in excess of the amount secured by a credit bond or collateralized personal bond.
-
-(f) If, on June 30, 1982, an agent has outstanding a sum due for stamps purchased on credit, which sum is not fully secured by a credit bond or collateralized personal bond, such agent shall, on the first day of each of the next forty succeeding months, reduce the sum which is not so secured by an amount equal to two and one-half percent of such unsecured sum by paying such amount in cash or by tendering a credit bond or collateralized personal bond, as described in the preceding subdivisions, in such amount. Provided, however, that the Commissioner of Finance in implementing the foregoing reduction in unsecured credit shall have the authority to make minor adjustments to the foregoing percentage to adjust for the purchase of stamps in full rolls and provided further, however, that all of such unsecured credit shall be eliminated within the foregoing period of forty months.
-
-(g) In the event that the agent fails to remit any amount owed for stamps purchased on credit (with or without a credit bond or other security) when due, then, in such event, all or any part of the amounts then owing for credit purchases of stamps shall, at the option of the Commissioner of Finance, become immediately due and payable, the extension of credit to the agent shall immediately terminate, and no further sales to the agent will be made until such time as remittance in full is received for all such amounts so declared to be due and the Commissioner of Finance approves the restoration of credit and the making of sales to the agent.
-
-(h) No person shall sell or offer for sale any stamps issued under the law, except by written permission of the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-16 Compensation of Agents for Services.* ::
-
-
-(a) The law provides that whenever the Commissioner of Finance shall sell, consign or deliver to any agent authorized to affix stamps to be used in payment of the tax imposed thereby, such agent shall be entitled to receive as compensation for his services and expenses in affixing such stamps and to retain out of the monies to be paid by him for such stamps, a commission on the par value thereof. The Commissioner of Finance is authorized to prescribe a schedule of commissions not exceeding five percentum of the par value of such stamps for affixing such stamps. The Commissioner of Finance hereby prescribes the following commissions to be allowed to each such agent as compensation for his services and expenses in affixing stamps.
-
-(b) Where a joint stamp is issued by the State of New York and the City for the payment of the taxes imposed by the City's Cigarette Tax Law and by Article 20 of the Tax Law of the State, in lieu of a single stamp evidencing payment of the cigarette tax, and such joint stamp is issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes) and the City tax (at the rate of $1.50 per package of 20 cigarettes), the following schedule of commissions have been fixed by the Commissioner of Finance pursuant to the City's Cigarette Tax Law with the approval of the New York State Department of Taxation and Finance, and for the purposes of this schedule the par value of a joint stamp issued by the State of New York and the City of New York for payment of the State tax (at the rate of $1.50 per package of 20 cigarettes), and the City tax (at the rate of $1.50 per package of 20 cigarettes) shall be deemed to be $1.50 each for State purposes and $1.50 each for City purposes. On the City par value of such joint stamps, not exceeding $5,611,200 purchased during each calendar year, a commission of 0.2171 percent thereof except as otherwise provided herein; and on the City par value of such joint stamps in excess of $5,611,200 purchased during each calendar year a commission of 0.0992 percent thereof. Said rate of 0.0992 percent shall also apply, even though the total City par value of joint stamps purchased during any calendar year does not exceed $5,611,200, whenever the value of New York State cigarette tax stamps (including the amount of the New York State cigarette tax represented by such joint stamps) purchased by any agent during each calendar year exceeds the sum of $5,611,200, computed at the State par value of $1.50 each. However, for the purpose of determining the point when said amount of $5,611,200 is reached, whenever the quantity of New York State cigarette tax stamps and/or the portion of the New York State cigarette tax included in joint stamps purchased by an agent at any one time brings the agent's total purchases of stamps evidencing payment of the New York State cigarette tax to at least $5,611,200, the amount purchased at such time shall be first applied to the previous total of purchases of stamps evidencing payment of the New York State cigarette tax until $5,611,200 is reached.
-
-(c) Where a single stamp is issued by the City of New York evidencing payment of the City's cigarette tax, and such stamp is for payment of the City's tax at the rate of four cents for each ten cigarettes or fraction thereof, the commission hereby fixed is 1.10 percent on the par value of such single stamp purchased.
-
-(d) Any commissions allowable hereunder shall be deducted by the agent from the purchase price of the stamps at the time payment is made therefor. No commissions shall be allowed on purchases of less than one hundred dollars. No commission shall be allowed to any purchaser of stamps other than an agent.
-
-
-
-
-
-
-*§ 4-17 Records To Be Kept.* ::
-
-
-(a) The law requires that certain records be kept by all dealers of cigarettes.
-
-   (1) All wholesale dealers, including agents, must keep records showing every purchase, sale or other disposition of all cigarettes and stamps handled.
-
-   (2) All invoices or other records indicating the purchase, sale or other disposition of cigarettes by a wholesale dealer must be either separate and distinct from all other records which a wholesale dealer shall possess or the cigarette transactions on such invoices or other records must be distinct from non-cigarette transactions recorded on the same invoice or other record.
-
-   (3) Agents authorized to keep cigarette tax stump affixing machines must keep a daily record of the meter readings, or the serial numbers of the rolls of stumps used, or other information required by the Commissioner of Finance on forms approved by him.
-
-   (4) Each agent or wholesale dealer in the City (other than a manufacturer) must, at the time of delivering cigarettes to any person, make a true duplicate serially numbered invoice showing his name, his address, the number of the then current license issued to him pursuant to 19 RCNY § 4-05, the date of delivery, the number of cartons in each shipment of cigarettes delivered, the name and address of the purchaser to whom delivery is made.
-
-   (5) Every wholesale dealer shall keep a record of the sales tax certificate number and city cigarette license number of each person to whom he delivers cigarettes. For this purpose, at the time of delivering cigarettes to any person, each wholesale dealer shall, unless previously obtained, request, and every retail dealer or other person to whom cigarettes are delivered shall furnish, his sales tax certificate number and the number of the then current license issued to him pursuant to 19 RCNY § 4-05. The failure or refusal to furnish these numbers shall be reported by the wholesale dealer to the Commissioner of Finance within five days of delivery.
-
-   (6) Each dealer in the City shall procure and retain invoices showing the number of cartons in each shipment of cigarettes received by him, the date of delivery, the name and address of the shipper, and the number of the then current license issued to the shipper pursuant to 19 RCNY § 4-05.
-
-(b) The Commissioner of Finance may require any railroad company, express company, trucking company or carrier transporting any shipment of cigarettes into the city to file with the Commissioner of Finance a copy of the freight bill within ten days after delivery in the city of each shipment.
-
-(c) In addition to the foregoing, every agent or dealer (other than a manufacturer) shall keep and maintain records of cigarettes on which a tax must be paid and of those on which a tax is not required to be paid. These records must also show the quantity of cigarettes returned because the cigarettes have become unsalable and any transfers of stamped or unstamped cigarettes to or from other agents. Records must also be maintained of cigarettes which are sold and delivered in the city and those which are sold and delivered to points outside the city, including quantities so sold and the names and addresses of the purchasers. Agents (other than manufacturers) are also required to keep records showing monthly inventories, at the beginning and close of each month, of stamped and unstamped cigarettes, and of the number of stamps.
-
-(d) Each agent, wholesale dealer or other dealer is required to maintain, retain and keep for a period of three years the records mentioned above, as well as such other records as may be required by the Commissioner of Finance from time to time, for the use and inspection of the Commissioner of Finance.
-
-(e) To verify the accuracy of the payment of the tax imposed by the law each dealer is required to give to the Commissioner of Finance or his duly authorized representative, the means, facilities and opportunity to examine the records herein required or for any other reasonable examination.
-
-
-
-
-
-
-*§ 4-18 Reports.* ::
-
-
-(a) Agents (other than manufacturers) appointed by the Commissioner of Finance are required to file with him, on forms prescribed and prepared by the Commissioner of Finance, monthly reports showing such information as he may require, including, among other things:
-
-   (1) The number of unstamped cigarettes:
-
-      (i) on hand at the beginning of the month,
-
-      (ii) purchased or received during the month,
-
-      (iii) on hand at the end of the month,
-
-      (iv) sold or disposed of during the month;
-
-   (2) The number of stamps:
-
-      (i) on hand at the beginning of the month,
-
-      (ii) purchased during the month,
-
-      (iii) on hand at the end of the month,
-
-      (iv) affixed or otherwise disposed of during the month; and
-
-   (3) The number of stamped cigarettes, with New York City stamps and joint New York State-New York City stamps affixed, on hand at the end of the month.
-
-(b) Every agent (other than a manufacturer) is required to take a physical inventory of stamped cigarettes on hand at least twice a year. The results of such an inventory shall be reported on the agent's monthly report in the form and manner prescribed by the Commissioner of Finance. One of the semiannual physical inventories must be as of the end of the fiscal or calendar year of the agent and the other six months later.
-
-(c) Five days prior to the return of cigarettes to a manufacturer, because the cigarettes have become unsalable, damaged, or for any other reason, each agent shall notify the Commissioner of Finance in writing of the number of cartons to be returned and the name of the manufacturer to whom delivery is to be made.
-
-(d) Each manufacturer having an agency permit shall file with the Commissioner of Finance monthly reports showing the total sales of unstamped cigarettes made to agents or wholesale dealers licensed by the City, specifying the name and address of the purchaser, the date of delivery, and the number of cartons in each shipment of cigarettes delivered. These reports shall also specify the quantity of cigarettes returned because the cigarettes have become unsalable, and the name and address of the agent, wholesale dealer or other person making the return.
-
-(e) Fifteen days prior to the distribution of sample cigarettes in the city, each manufacturer shall notify the Commissioner of Finance, in writing, of the amount to be distributed.
-
-(f) Each manufacturer shall file a monthly report of the total number of packages and the number of cigarettes contained therein of sample cigarettes distributed in the city. Payment of the tax due shall be made with the monthly report required herein. If no sample cigarettes are distributed in the city during a month, no report is required for that month.
-
-(g) Wholesale dealers other than agents may also be required to file such reports as the Commissioner of Finance may prescribe, showing the receipts and disposition of all stamped and unstamped cigarettes and any other information which the Commissioner of Finance may require.
-
-(h) Monthly reports shall be filed on or before the 15th day of each month covering the transactions for the preceding calendar month.
-
-
-
-
-
-
-*§ 4-19 Refunds.* ::
-
-
-(a) The law authorizes the Department of Finance to refund, without interest, any tax, interest or penalty erroneously, illegally or unconstitutionally collected or paid. In addition, a dealer is entitled to a refund of the amount of tax paid less applicable commissions, with respect to any cigarettes upon which stamps have been affixed which:
-
-   (1) have been sold and shipped to a dealer outside the city for sale there or to any person in another state for use there, or
-
-   (2) have become unfit for use and consumption or unsalable, or
-
-   (3) which have been destroyed. An agent is entitled to a refund of the amount of tax paid, less applicable commissions, with respect to any stamps which have become unfit for use, or mutilated or destroyed.
-
-(b) No refund will be granted unless written application to the Commissioner or Finance therefor is made within ninety days from the payment thereof.
-
-(c) No refund, however, will be made unless a verified statement is submitted setting forth the applicant's reasons for such requested refund on a form prescribed by the Department of Finance. If the Department of Finance approves the application for refund, he will issue to such dealer or agent stamps of sufficient value to cover the refund or to make such refund, subject to audit by the Commissioner of Finance.
-
-(d) In the event any agent terminates his business during the effective period of the law for any reason whatsoever and has unused stamps on hand, he must return the same to the Department of Finance who will redeem such stamps at the par value thereof, less any commissions theretofore allowed thereon and less any outstanding liability for such tax by the person presenting said stamps for redemption, provided, however, that in the case of joint stamps used for payment of the state cigarette tax and the city's tax, such surrender and redemption shall be in such manner as may be prescribed by the State Tax Commission and the Commissioner of Finance.
-
-(e) No person shall sell or offer for sale any stamp issued under the law and these regulations except by written permission of the Commissioner of Finance, or as provided in Article 13 hereof.
-
-
-
-
-
-
-*§ 4-20 Out-of-City Sales.* ::
-
-
-(a) The law provides that the tax is not applicable to cigarettes possessed in the City by any agent or wholesale dealer for sale to a dealer outside the City, or for sale and shipment to any person in another state for use there.
-
-(b) Under this provision, the only sales by an agent or wholesale dealer of cigarettes which are shipped to a point outside the city which are not subject to the tax, are sales to a dealer outside the city, or shipments to any person outside the state for use there. The sale of cigarettes shipped to a person outside the city, but within the state, for use there is subject to the tax. For example: A sale by an agent or wholesale dealer to another dealer in Westchester County is not subject to the tax. The sale of cigarettes by a dealer who ships them to an ultimate consumer in Westchester County for use there is subject to tax. The sale of cigarettes by a dealer shipped to an ultimate consumer in New Jersey for use there is not subject to the tax.
-
-(c) Where an agent or wholesale dealer sells cigarettes to a dealer for sale outside the City or State, or to another dealer for sale to a dealer outside the City or State, he shall demand and receive from the purchaser, at the time of delivery of the cigarettes, or at the time of sale, a certificate in writing signed by the purchaser, which certificate shall be substantially in the following form: (Date) ________________
-
-   "To ____________________________ (name of agent or wholesale dealer). "I hereby certify that the cigarettes purchased by me and described in the attached invoice will be resold outside the city of New York.
-
-   ___________________________________________   Signature of Purchaser Address of Purchaser"
-
-One copy of such invoice and the above certificate must be retained by the agent or wholesale dealer for inspection by the Commissioner of Finance representative.
-
-
-
-
-
-
-*§ 4-21 Drop-Shipments.* ::
-
-
-In the case of so-called "drop-shipments," where an out-of-state manufacturer solicits an order directly from a retail dealer in this City, and the billing and payment on account of such sale is made through a wholesale dealer, the sale to the retail dealer is deemed to have been made by the wholesale dealer, and proper stamps must be affixed to the packages of cigarettes prior to delivery to the retail dealer, unless such retail dealer is any agent duly appointed by the Commissioner of Finance.
-
-
-
-
-
-
-*§ 4-22 Seizure and Sale of Cigarettes.* ::
-
-
-(a) Whenever a police officer designated in § 1.20 of the criminal procedure law or a peace officer designated in subdivision five of § 2.10 of such law, acting pursuant to his special duties, shall discover any cigarettes subject to the tax, and upon which the tax has not been paid or the stamps not affixed as required, they are hereby authorized and empowered forthwith to seize and take possession of such cigarettes, together with any vending machine or receptacle in which they are held for sale. Such cigarettes, vending machine or receptacle seized by a police officer or such peace officer shall be turned over to the Commissioner of Finance.
-
-(b) The seized cigarettes and any vending machine or receptacle seized therewith, but not the money contained in such vending machine or receptacle shall thereupon be forfeited to the City, unless the person from whom the seizure is made, or the owner of such seized cigarettes, vending machine or receptacle, or any other person having an interest in such property, shall within ten days of such seizure, apply to the Commissioner of Finance for a hearing to determine the propriety of the seizure, or unless the Commissioner of Finance shall on his own motion release the seized cigarettes, vending machine or receptacle. After such hearing the Commissioner of Finance shall give notice of his decision to the petitioner. The decision of the Commissioner shall be reviewable for error, illegality, unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the supreme court within thirty days after the giving of the notice of such decision. Such proceeding shall not be instituted unless there shall first be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York State as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed, or the seizure confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding.
-
-(c) The Commissioner of Finance may, within a reasonable time after the forfeiture to the city of such cigarettes, vending machines or receptacles, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the City, sell such forfeited cigarettes and vending machines or receptacles at public sale and pay the proceeds into the treasury of the City. Cigarettes so seized and sold shall be sold only to an agent and the notice of sale shall contain a provision to this effect. Such seized cigarettes, vending machines or receptacles may be sold prior to forfeiture if the owner of the seized property consents to the sale. Notwithstanding any other provision of this section, the Commissioner of Finance may enter into an agreement with the State Tax Commission to provide for the disposition between the City and State of the proceeds from any such sale.
-
-(d) In the alternative, the Commissioner of Finance, on reasonable notice by mail or otherwise may permit the person from whom said cigarettes were seized to redeem the said cigarettes, and any vending machine or receptacle seized therewith, or may permit the owner of any such cigarettes, vending machine or receptacle to redeem the same, by the payment of the tax due, plus a penalty of fifty percent thereof plus interest on the amount of tax due for each month or a fraction thereof, after such tax became due (determined without regard to any extension of time for filing or paying) at the rate prescribed by the law and the regulations of the Commissioner of Finance and the costs incurred in such proceeding, which total payment shall not be less than five dollars; provided, however, that such seizure and sale or redemption shall not be deemed to relieve any person from fine or imprisonment provided for in the law.
-
-(e) In the alternative, if the Commissioner of Finance concludes that any cigarettes seized pursuant to this section, when offered at public sale, will bring a price less than the reasonably estimated price which the Department of Correction would have to pay for the purchase of such cigarettes for sale to or use by inmates in institutions under the jurisdiction of such Department, the Commissioner of Finance may dispose of such cigarettes by transferring them to the Department of Correction for sale to or use by inmates in such institutions.
-
-
-
-
-
-
-*§ 4-23 Penalties and Interest.* ::
-
-
-(a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of the interest to be paid with respect to the taxes which remain or become due on or after July 1, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
-
-(b) Civil penalties. Penalties are provided for violations of the law and of the rules and regulations of the Commissioner of Finance. These penalties are in addition to the possible suspension or revocation of the license of a wholesale or retail dealer or the authority of an agent. The following civil penalties are provided for by law (§ 11-1317 of the Administrative Code of the City of New York):
-
-   (1) For failure to pay the tax under the law when due – a penalty of 50 percent of the amount of tax due. The Commissioner of Finance may, however, if satisfied that the delay was excusable, remit all or any part of such penalty.
-
-   (2) In addition to any other penalty imposed by § 11-1317 of the Administrative Code of the City of New York, as amended, the Commissioner of Finance may impose a penalty of not more than $100 for each two hundred cigarettes or fraction thereof in excess of two thousand cigarettes in unstamped or unlawfully stamped packages in the possession or under the control of any person. The Commissioner of Finance, in his discretion, may remit all or part of such penalty.
-
-   (3) The possession within the City of more than four hundred cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are subject to tax as provided by the law. Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents or persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
-
-   (4) The penalties provided by this subdivision shall be paid and enforced in the same manner as taxes.
-
-   (5) Application for the remission of penalty may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed and must set forth the grounds upon which the remission is requested.
-
-(c) Criminal penalties.
-
-   (1) Failure to obey subpoena; false testimony.
-
-      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
-
-         (A) fails or refuses to attend without lawful excuse, or
-
-         (B) refuses to be sworn,
-
-         (C) refuses to answer any material and proper question, or
-
-         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
-
-      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
-
-   (2) Willful failure to file a return or report or pay tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
-
-   (3) Fraudulent returns, reports, statements or other documents. 
-
-      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
-
-      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
-
-      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
-
-   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required by the law shall be guilty of a misdemeanor.
-
-   (5) Attempt to evade or defeat tax.
-
-      (i) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or the payment thereof shall, in addition to other penalties provided by law, be guilty of a misdemeanor.
-
-      (ii) Any person who willfully attempts in any manner to evade or defeat any tax imposed by law or payment thereof on twenty thousand cigarettes or more or has previously been convicted two or more times of a violation of subparagraph (i) of this paragraph shall be guilty of a Class E felony.
-
-   (6) Any person, other than an agent so authorized by the Commissioner of Finance, who possesses or transports for the purpose of sale any unstamped or unlawfully stamped packages of cigarettes subject to tax under the law, or who sells or offers for sale unstamped or unlawfully stamped packages of cigarettes in violation of the provisions of the law shall be guilty of a misdemeanor.
-
-   (7) Any person, other than an agent so authorized by the Commissioner of Finance, who willfully possesses or transports for the purpose of sale twenty thousand or more cigarettes subject to the tax imposed by law in any unstamped or unlawfully stamped packages or who willfully sells or offers for sale twenty thousand or more cigarettes in any unstamped or unlawfully stamped packages in violation of the law shall be guilty of a Class E felony.
-
-   (8) For the purposes of this subdivision, the possession or transportation within this City by any person, other than an agent, at any one time of five thousand or more cigarettes in unstamped or unlawfully stamped packages shall be presumptive evidence that such cigarettes are possessed or transported for the purpose of sale and are subject to the tax imposed by law. With respect to such possession or transportation, any provisions of law providing for a time period during which a use tax imposed by the law may be paid on unstamped cigarettes or unlawfully or improperly stamped cigarettes or during which such cigarettes may be returned to an agent shall not apply. The possession within this City of more than four hundred cigarettes in unstamped or unlawfully stamped packages by any person other than an agent at any one time shall be presumptive evidence that such cigarettes are subject to tax as provided by law.
-
-   (9) Nothing in this subdivision shall apply to common or contract carriers or warehousemen while engaged in lawfully transporting or storing unstamped packages of cigarettes as merchandise, nor to any employee of such carrier or warehouseman acting within the scope of his employment, nor to public officers or employees in the performance of their official duties requiring possession or control of unstamped or unlawfully stamped packages of cigarettes, nor to temporary incidental possession by employees or agents of persons lawfully entitled to possession, nor to persons whose possession is for the purpose of aiding police officers in performing their duties.
-
-   (10) Any person who falsely or fraudulently makes, alters or counterfeits any stamp prescribed by the Commissioner of Finance under the law, or causes or procures to be falsely or fraudulently made, altered or counterfeited any such stamp, or knowingly and willfully utters, purchases, passes or tenders as true any such false, altered or counterfeited stamp, or knowingly and willfully possesses any cigarettes in packages bearing any such false, altered or counterfeited stamp, and any person who knowingly and willfully makes, causes to be made, purchases or receives any device for forging or counterfeiting any stamp, prescribed by the Commissioner of Finance under the provisions of the law, or who knowingly and willfully possesses any such device, shall be guilty of a Class E felony. For the purposes of this paragraph, the words "stamp prescribed by the Commissioner of Finance" shall include a stamp, impression or imprint made by a metering machine, the design of which has been approved by the Commissioner of Finance and the State Tax Commission.
-
-   (11) Any willful act or omission, other than those described in paragraphs (5) through (10) of this subdivision, by any person which constitutes a violation of any provision of law shall constitute a misdemeanor.
-
-
-
-
 Chapter 5: Coin-operated Amusement Devices Tax [Repealed]
 --------------------------------------------------
 
@@ -4464,129 +4464,6 @@ Any notice authorized or required by the law may be given to the person for whom
 
 
 The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the city to levy, appraise, assess, determine or enforce the collection of any tax or penalty provided by the law. However, except in the case of a willfully false or fraudulent registration or return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of filing such return; provided, however, that where no registration or no return has been made as provided by law, the tax may be assessed at any time. Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a person has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
-
-
-
-
-Chapter 8: Court and Trust Funds
---------------------------------------------------
-
-
-
-*§ 8-01 Deposit with Commissioner of Finance of Funds or Securities.* ::
-
-
-Each deposit of money or securities with the Commissioner of Finance must be accompanied by either:
-
-(a) a certified copy of the judgment, order or decree directing the deposit or payment into court, or an excerpt thereof that includes such direction, under the seal of the court, or
-
-(b) a certificate, under the seal of the court, made by the clerk of the court whose duty it is first to receive the deposit in cases in which moneys or securities may be deposited or paid into court pursuant to statute. For example, a tender into court, a deposit to discharge a judgment or a mechanic's lien, security for costs in certain cases; deposits of civil bail; a surplus arising upon the sale of property by a sheriff under an execution or by a referee in mortgage foreclosure proceedings by advertising. This certificate must contain the following information:
-
-   (1) name of court, or source of receipt if deposited without court order;
-
-   (2) title of the action or proceeding;
-
-   (3) by whom, for whom, and for what purpose the deposit is made;
-
-   (4) date of original receipt by official making deposit; and
-
-   (5) if the deposit consists of cash, the amount thereof, or if it be securities, the nature and description of the same.
-
-
-
-
-
-
-*§ 8-02 Necessity of Certified Court Order for Payment.* ::
-
-
-(a) No payment, investment, surrender or delivery of court funds, property or security may be made by the Commissioner of Finance or any depositary, without a certified copy of an order or decree of the court having jurisdiction of such funds, property and securities, directing each such payment, investment, surrender or delivery. Payments may not be made on affidavits and proof of age alone. Moneys deposited for or on behalf of an infant payable when the infant attains his majority are not to be paid under the order directing the deposit unless that order also expressly directs the payment of such money on or after the day, month and year therein specified when the infant becomes of legal age.
-
-(b) Court orders must be certified by the clerk of the court .
-
-(c) When the whole or remaining balance of payments of money into court in an action, or of a distributive share thereof, or any security or other property, is directed to be paid out of court, the order must direct the payment of all accrued income belonging to the party to whom such money or distributive share or remaining balance thereof, or security or other property is paid.
-
-(d) If it is desired that the check for payment be mailed to the attorney for the claimant, a direction to that effect must be incorporated in the order of payment.
-
-
-
-
-
-
-*§ 8-03 Certificate of Deposit by Commissioner of Finance.* ::
-
-
-A certificate of deposit or other document showing the amount of money held by the Commissioner of Finance for the benefit of any person will be issued by the Court and Trust Fund Division of the Department of Finance upon fulfillment of the following prerequisites:
-
-(a) An application on forms furnished by the Department of Finance must be completed and filed by the person claiming the right to possession of the funds, or by an attorney acting on his behalf.
-
-(b) The Commissioner of Finance or his designee may require the claimant to appear at the Commissioner's office and to produce satisfactory evidence of the fact that the claimant is the person lawfully entitled to possession of the funds, and to complete and file additional written statements to satisfactorily establish the claimant's right to the funds. If the claimant is absent from the City or is unable to appear in person at the Commissioner of Finance's office by reason of physical or other disability, or by reason of military service, satisfactory proof of such fact may be required, and an attorney or other person acting on behalf of the claimant may be required to produce proof of his or her authority to act. At any time after the issuance of a certificate of deposit, and up to the actual payment of the funds on deposit to the claimant or to such other person as may be entitled thereto, the Commissioner of Finance or the Commissioner's designee may require proof similar to that described in this section, as well as copies of the petition, affidavits and exhibits upon which the order was granted.
-
-
-
-
-
-
-*§ 8-04 Vouchers.* ::
-
-
-Any of the following will be considered a proper voucher for payments of money out of court, by the Department of Finance.
-
-(a) A check properly endorsed and bearing proper evidence of payment by the bank on which it was drawn to the person or persons to whom payment was directed to be made.
-
-(b) A proper receipt or voucher signed by the person or persons to whom payment is directed to be made or to whom securities or other property are directed to be assigned or delivered. Such receipt must be filed at the time of any payment, assignment or delivery directed by the order of the court.
-
-
-
-
-
-
-*§ 8-05 Transfer of Funds.* ::
-
-
-Funds may not be transferred from one depositary to another except pursuant to the direction of a court order, or of the State Comptroller.
-
-
-
-
-
-
-*§ 8-06 Fees.* ::
-
-
-(a) The Commissioner of Finance is entitled, for services, to the following fees:
-
-   For each certificate of deposit - $1
-
-   Upon moneys paid out of court - 2% except as set forth in subdivision (c)
-
-   Upon moneys invested - 1/2 of 1%
-
-   Upon securities deposited in court and received by the Commissioner - 2 percent of the par value of the securities
-
-   Upon investments transferred or assigned out of court by the Commissioner, when the investments have been made by the Commissioner - 2 percent of the par value of the investments.
-
-(b) Unless the court otherwise specially directs, all fees for payment of money out of court will be deducted from the amount paid and not from the balance remaining to the credit of the action or proceeding. However, if a judgment or other evidence of debt is a lien upon the funds or portion thereof, or the expenses of litigation (such as referee's fees, county clerk's fees or subpoena fees, etc.) are directed to be paid therefrom, the fees of the Department of Finance are to be deducted from the sum or sums remaining of the share or shares which bear such expenses, if sufficient; if insufficient, the amount to be applied to such expenses is the amount remaining of such sum or sums after deducting the fees of the Department of Finance.
-
-(c) The Department waives the fees to which the Commissioner is entitled pursuant to subdivisions 1, 3 and 4 of Section 99-m of the general municipal law.
-
-
-
-
-
-
-
-
-*§ 8-07 Depositaries.* ::
-
-
-(a) Books of account. Each duly designated depositary is required to keep a separate account for each action or proceeding, in connection with which funds or moneys are deposited therein, showing the name of the court, the title of the action or proceeding, the amount deposited, the date of receipt, from whom received and a record of each additional receipt or credit of interest to and each withdrawal of moneys therefrom. Also an account of each change of investment if any.
-
-(b) Payment of interest. Depositaries are required to pay interest on deposits of money paid into courts of record at a rate satisfactory to the State, Comptroller and in no event less than the highest rate being paid by the depositary on other accounts having similar maturities. Such interest must be computed from the date of deposit to the date of withdrawal, except that no interest shall be payable on moneys withdrawn within 30 days from the date of deposit. Interest is to be credited not less often than January 1 and July 1 of each year.
-
-(c) Certificate of balances. Each depositary shall furnish annually to the Commissioner of Finance from whom deposits of money paid into court have been received, a certificate of the proper officer of such depositary stating the exact mount on deposit to the credit of each action and proceeding separately on December 31, including interest credits as of January 1 following. Such certificate shall be furnished within 10 days after December 31 in each year.
-
-(d) Undertakings and collateral. Depositaries, other than savings banks, are required to execute and deliver undertakings and to pledge collateral to secure deposits of court and trust funds, as may be required by the State Comptroller.
 
 
 
@@ -5516,6 +5393,129 @@ The provisions of the Civil Practice Law and Rules or any other law relative to 
 
 
 
+Chapter 8: Court and Trust Funds
+--------------------------------------------------
+
+
+
+*§ 8-01 Deposit with Commissioner of Finance of Funds or Securities.* ::
+
+
+Each deposit of money or securities with the Commissioner of Finance must be accompanied by either:
+
+(a) a certified copy of the judgment, order or decree directing the deposit or payment into court, or an excerpt thereof that includes such direction, under the seal of the court, or
+
+(b) a certificate, under the seal of the court, made by the clerk of the court whose duty it is first to receive the deposit in cases in which moneys or securities may be deposited or paid into court pursuant to statute. For example, a tender into court, a deposit to discharge a judgment or a mechanic's lien, security for costs in certain cases; deposits of civil bail; a surplus arising upon the sale of property by a sheriff under an execution or by a referee in mortgage foreclosure proceedings by advertising. This certificate must contain the following information:
+
+   (1) name of court, or source of receipt if deposited without court order;
+
+   (2) title of the action or proceeding;
+
+   (3) by whom, for whom, and for what purpose the deposit is made;
+
+   (4) date of original receipt by official making deposit; and
+
+   (5) if the deposit consists of cash, the amount thereof, or if it be securities, the nature and description of the same.
+
+
+
+
+
+
+*§ 8-02 Necessity of Certified Court Order for Payment.* ::
+
+
+(a) No payment, investment, surrender or delivery of court funds, property or security may be made by the Commissioner of Finance or any depositary, without a certified copy of an order or decree of the court having jurisdiction of such funds, property and securities, directing each such payment, investment, surrender or delivery. Payments may not be made on affidavits and proof of age alone. Moneys deposited for or on behalf of an infant payable when the infant attains his majority are not to be paid under the order directing the deposit unless that order also expressly directs the payment of such money on or after the day, month and year therein specified when the infant becomes of legal age.
+
+(b) Court orders must be certified by the clerk of the court .
+
+(c) When the whole or remaining balance of payments of money into court in an action, or of a distributive share thereof, or any security or other property, is directed to be paid out of court, the order must direct the payment of all accrued income belonging to the party to whom such money or distributive share or remaining balance thereof, or security or other property is paid.
+
+(d) If it is desired that the check for payment be mailed to the attorney for the claimant, a direction to that effect must be incorporated in the order of payment.
+
+
+
+
+
+
+*§ 8-03 Certificate of Deposit by Commissioner of Finance.* ::
+
+
+A certificate of deposit or other document showing the amount of money held by the Commissioner of Finance for the benefit of any person will be issued by the Court and Trust Fund Division of the Department of Finance upon fulfillment of the following prerequisites:
+
+(a) An application on forms furnished by the Department of Finance must be completed and filed by the person claiming the right to possession of the funds, or by an attorney acting on his behalf.
+
+(b) The Commissioner of Finance or his designee may require the claimant to appear at the Commissioner's office and to produce satisfactory evidence of the fact that the claimant is the person lawfully entitled to possession of the funds, and to complete and file additional written statements to satisfactorily establish the claimant's right to the funds. If the claimant is absent from the City or is unable to appear in person at the Commissioner of Finance's office by reason of physical or other disability, or by reason of military service, satisfactory proof of such fact may be required, and an attorney or other person acting on behalf of the claimant may be required to produce proof of his or her authority to act. At any time after the issuance of a certificate of deposit, and up to the actual payment of the funds on deposit to the claimant or to such other person as may be entitled thereto, the Commissioner of Finance or the Commissioner's designee may require proof similar to that described in this section, as well as copies of the petition, affidavits and exhibits upon which the order was granted.
+
+
+
+
+
+
+*§ 8-04 Vouchers.* ::
+
+
+Any of the following will be considered a proper voucher for payments of money out of court, by the Department of Finance.
+
+(a) A check properly endorsed and bearing proper evidence of payment by the bank on which it was drawn to the person or persons to whom payment was directed to be made.
+
+(b) A proper receipt or voucher signed by the person or persons to whom payment is directed to be made or to whom securities or other property are directed to be assigned or delivered. Such receipt must be filed at the time of any payment, assignment or delivery directed by the order of the court.
+
+
+
+
+
+
+*§ 8-05 Transfer of Funds.* ::
+
+
+Funds may not be transferred from one depositary to another except pursuant to the direction of a court order, or of the State Comptroller.
+
+
+
+
+
+
+*§ 8-06 Fees.* ::
+
+
+(a) The Commissioner of Finance is entitled, for services, to the following fees:
+
+   For each certificate of deposit - $1
+
+   Upon moneys paid out of court - 2% except as set forth in subdivision (c)
+
+   Upon moneys invested - 1/2 of 1%
+
+   Upon securities deposited in court and received by the Commissioner - 2 percent of the par value of the securities
+
+   Upon investments transferred or assigned out of court by the Commissioner, when the investments have been made by the Commissioner - 2 percent of the par value of the investments.
+
+(b) Unless the court otherwise specially directs, all fees for payment of money out of court will be deducted from the amount paid and not from the balance remaining to the credit of the action or proceeding. However, if a judgment or other evidence of debt is a lien upon the funds or portion thereof, or the expenses of litigation (such as referee's fees, county clerk's fees or subpoena fees, etc.) are directed to be paid therefrom, the fees of the Department of Finance are to be deducted from the sum or sums remaining of the share or shares which bear such expenses, if sufficient; if insufficient, the amount to be applied to such expenses is the amount remaining of such sum or sums after deducting the fees of the Department of Finance.
+
+(c) The Department waives the fees to which the Commissioner is entitled pursuant to subdivisions 1, 3 and 4 of Section 99-m of the general municipal law.
+
+
+
+
+
+
+
+
+*§ 8-07 Depositaries.* ::
+
+
+(a) Books of account. Each duly designated depositary is required to keep a separate account for each action or proceeding, in connection with which funds or moneys are deposited therein, showing the name of the court, the title of the action or proceeding, the amount deposited, the date of receipt, from whom received and a record of each additional receipt or credit of interest to and each withdrawal of moneys therefrom. Also an account of each change of investment if any.
+
+(b) Payment of interest. Depositaries are required to pay interest on deposits of money paid into courts of record at a rate satisfactory to the State, Comptroller and in no event less than the highest rate being paid by the depositary on other accounts having similar maturities. Such interest must be computed from the date of deposit to the date of withdrawal, except that no interest shall be payable on moneys withdrawn within 30 days from the date of deposit. Interest is to be credited not less often than January 1 and July 1 of each year.
+
+(c) Certificate of balances. Each depositary shall furnish annually to the Commissioner of Finance from whom deposits of money paid into court have been received, a certificate of the proper officer of such depositary stating the exact mount on deposit to the credit of each action and proceeding separately on December 31, including interest credits as of January 1 following. Such certificate shall be furnished within 10 days after December 31 in each year.
+
+(d) Undertakings and collateral. Depositaries, other than savings banks, are required to execute and deliver undertakings and to pledge collateral to secure deposits of court and trust funds, as may be required by the State Comptroller.
+
+
+
+
 Chapter 9: Fees
 --------------------------------------------------
 
@@ -5864,667 +5864,6 @@ Chapter 10: Financial Corporations
    (1) A corporation or association taxable under Part 1, of Subchapter 3 of Chapter 6 of Title 11, New York City Administrative Code, which is doing business or carrying on business through offices or branches maintained both within and without the City, must pay a minimum tax of not less than 1 mill except that for the years nineteen hundred seventy-one and those following such minimum tax shall be not less than one and one-quarter mills upon each dollar of that proportion of its issued capital stock on the last day of the calendar year preceding that in which such tax becomes due which its gross income from sources within New York City during such calendar year bears to its gross income derived from all business, both within and without the City, during said year.
 
    (2) In computing the minimum tax on its issued capital stock in the case of a corporation or association not reporting income and deductions on the basis of separate accounting, the part of its issued capital stock allocable to New York City shall be determined by multiplying its issued capital stock by the net income allocation percentage determined as provided in subdivision (d) of this section.
-
-
-
-
-Chapter 12: Hotel Room Occupancy Tax
---------------------------------------------------
-
-
-
-*§ 12-01 Definitions.* ::
-
-
-Commissioner of Finance. The words "Commissioner of Finance" mean the Commissioner of Finance of the City of New York.
-
-Hotel. A "hotel" is a building or portion of a building that is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house, bed and breakfast, or club, whether or not meals are served. An "apartment hotel" is a building or portion of it wherein apartments are rented to guests for fixed periods of time, either furnished or unfurnished. The term "boarding house" includes rooming houses, furnished-room houses and lodging houses. The term "bed and breakfast" includes a dwelling place ordinarily occupied by a person as his or her own dwelling in which more than one room is regularly used and kept open by such person for the lodging of guests for consideration regardless of whether services such as meals, telephone or linen services are provided. The term "club" includes a residence club, as well as private clubs. To illustrate:
-
-Illustration (i): Individual A owns and lives in a three-bedroom house in New York City. Individual A rents one of the bedrooms to guests from time to time by listing the room with a bed and breakfast listing service. At no time during the year does A rent or offer to rent more than one room to guests. The rental of one room by A is not subject to tax.
-
-Illustration (ii): The facts are the same as in illustration (i) except that A lists two of the three bedrooms or one bedroom and the living room, in his apartment for rental to guests. A's rental of rooms in the apartment is subject to tax.
-
-The term "hotel" also includes a bungalow, which is a furnished living unit intended for single family occupancy that is regularly used and kept open for the lodging of guests for consideration, except that for occupancies during taxable quarters beginning on or before September 1, 2003, the rental of a bungalow for at least one week will not be subject to the tax provided: no maid, food, or other common hotel services such as entertainment or planned activities are provided. The furnishing of linen by the lessor with the rental of a bungalow without the services of changing the linen does not alter the nontaxable status of the rental charges for such periods. To illustrate:
-
-Illustration (iii): Individual B owns an apartment in New York City. Beginning on January 1, 2004, B begins to regularly rent or offer to rent the apartment, furnished, to guests on a transient basis. B's rental of the apartment to guests on a transient basis is subject to the tax regardless of whether the rentals are for periods longer than one week.
-
-The term "hotel" does not include the following:
-
-(1) A nursing home, rest home, convalescent home, maternity home for expectant mothers, residence or home for adults or mentally disabled persons which is registered with the Department of Social Services or Department of Mental Hygiene, whether publicly or privately owned and operated, which accepts as patients persons who require special care on account of age, illness, mental or physical condition or the like, and provides this special care either by nurses, orderlies or aides. To illustrate:
-
-Illustration (iv): A senior citizen's lodging facility which only furnishes hotel facilities and services and does not furnish services or special care provided by attendants, etc., is a hotel.
-
-Illustration (v): A maternity home or residence for expectant unwed mothers which is registered with the Department of Social Services and provides care and service for mothers to be. Such care and service includes maintaining a residence, social services, medical care, and arranging for delivery at a local hospital. This facility is not a hotel.
-
-(2) A summer camp for children which provides a program of instruction or training which the campers are required to pursue under the supervision of counselors is not a hotel. Where guest facilities are provided for parents or others the tax applies to such facilities.
-
-(3) A college dormitory or apartment belonging to a school, college, or university in which its students reside is not a hotel. Where facilities are provided for parents, alumni or others the tax applies to such facilities. A building or portion thereof will be irrebuttably presumed not to be regularly used and kept open for the lodging of guests if, during any four consecutive quarterly tax periods, or, beginning on and after September 1, 2004, during any twelve-month tax period, described in subsection a of 19 RCNY § 12-07, rooms, apartments or living units are rented to guests or occupants on fewer than three occasions or for not more than 14 days in the aggregate. For this purpose, the rentals of rooms in a single building or apartment will be aggregated and the rentals of apartments and living units will be aggregated. In addition, for this purpose, the rental of a room, apartment or living unit under a single contract for one or more consecutive days will be considered a single occasion. However, if a single contract provides for the rental of a room or apartment for non-consecutive days, each period of consecutive days will be considered a separate occasion. In addition, for this purpose, if a room, apartment or living unit is subleased or the right to occupy it is otherwise subcontracted away to another person, each separate sublease or subcontract of a room, apartment or living unit for a period of consecutive days will be considered a separate occasion. Furthermore, for this purpose, rentals to guests or occupants that qualify as permanent residents will not be included in the number of days or occasions of rentals.
-
-Illustration (vi): A owns a four-bedroom house in New York City. During the period September 1, 2004 through August 31, 2005, A rents three of the bedrooms as follows: one bedroom is rented for the entire twelve month period to individual B who does not sublease the room; one bedroom is rented for one week to individual C; one bedroom is rented for two days to individual D, three days to individual E and one day to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented rooms on four occasions. However, because the total number of days is less than 14, A is not considered to be operating a hotel.
-
-Illustration (vii): Individual A owns four apartments in New York City. During the period September 1, 2004 through August 31, 2005, A rents the apartments as follows: one apartment is rented for the entire 12-month period to individual B who does not sublease the apartment; another apartment is rented for one week to individual C; a third apartment is rented for two days to individual D, five days to individual E and four days to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented three of the apartments on four occasions. Because the total number of days of rentals of the three apartments is more than 14, A is considered to be operating a hotel with respect to the three apartments rented to C, D, E, and F. If the apartment rented to B were rented to B for only 190 days and was subsequently rented during the period to individual G for three days, that apartment would also be included as part of the hotel operation of A.
-
-Occupancy.
-
-(a) "Occupancy" is the use or possession, or the right to the use or possession, of any room or rooms in a hotel, or the right to the use or possession of the furnishings or to the services and accommodations accompanying the use and possession of the room or rooms. "Occupancy" includes the right to the use or possession as well as the exercise of that right; there is an "occupancy" of a room whether or not the person entitled to the use or possession of the room actually uses it or possesses it.
-
-(b) A room is deemed to be the subject of only one taxable occupancy at a given time. Where an occupant sublets or otherwise contracts away his right to the use or possession, the tax shall be collected and paid in accordance with the following rules:
-
-   (1) (i) For taxable periods beginning before June 1, 2002, if the original occupant is itself an operator, as in the case of a private club located in a hotel, and subleases the occupancy to another, the taxable occupancy shall be the occupancy by the sublessee. In such case, the original occupant shall collect the tax from the sublessee and pay it over to the Commissioner of Finance.
-
-      (ii) For taxable periods beginning on or after June 1, 2002, if the original occupant or any sublessee of the room is directly or indirectly related to the original hotel operator, the taxable occupancy will be the occupancy by the sublessee of such related person. For purposes of this subparagraph (ii) an occupant will be considered to be directly or indirectly related to the original hotel operator if:
-
-         (A) the original hotel operator owns directly or indirectly a five percent or greater interest in such occupant.
-
-         (B) such occupant owns directly or indirectly a five percent or greater interest in the original hotel operator.
-
-         (C) one or more persons own directly or indirectly five percent or greater interests both in such occupant and in the original hotel operator, or
-
-         (D) such occupant is an officer, director, manager (including a manager of a limited liability company), trustee, fiduciary or employee of the original hotel operator or an individual that is a member of the family of an individual original hotel operator.
-
-         (E) For purposes of this subparagraph a five percent or greater interest shall mean, in the case of a corporation, five percent or more of the voting power of all classes of stock or five percent or more of the total fair market value of all classes of stock, and, in the case of a partnership, association, trust or other entity, five percent or more of the capital, profits or beneficial interests in such entity.
-
-         (F) To illustrate:
-
-Illustration 1: In 2003, Z contracts for 100 rooms in a hotel at a rate of $100 per room per day for 190 consecutive days. Z subleases the rooms to its customers. Z is not a private club and is not related to the hotel operator within the meaning of this paragraph. The hotel operator is required to charge and collect the tax from Z for its occupancy of all 100 rooms for the entire 190-day period. Z is not a permanent resident with respect to any of the rooms. See 19 RCNY § 12-01 definition of a "permanent resident," paragraph (3). Z is not required to charge and collect the tax from its customers for the occupancy of any of the rooms that it subleases for the days that such rooms are sublet.
-
-Illustration 2: The facts are the same as in Illustration 1 except that Z is related to the hotel operator within the meaning of this paragraph. In this case, the taxable occupancy is the occupancy by the customers of Z and the hotel operator is required to charge and collect the tax from the customers of Z.
-
-   (2) (i) For taxable periods beginning before June 1, 2002, if the original occupant is not an operator, the occupant's occupancy is taxable whether or not the occupant has the actual use or possession of the room and no tax will be paid by or collected from a sublessee of the occupant.
-
-      (ii) For taxable periods beginning on or after June 1, 2002, except as provided in subparagraph (ii) of paragraph (1), the occupancy of the original occupant is taxable whether or not the original occupant has the actual use or possession of the room and no tax will be paid by the person having actual use or possession of the room. See subdivision (b)(ii) of the definition of "occupancy," supra, in this section for the application of the tax to the occupancy by a sublessee of an occupancy that is related to the hotel operator.
-
-(c) The tax is applicable to any occupancy on and after July 1, 1970, even if such occupancy is pursuant to a contract, lease, or other arrangement made prior thereto.
-
-Occupant. An "occupant" is any person who, for a consideration, uses, possesses, or has the right to use or possess any room or rooms in a hotel under any lease, concession, permit, right of access, license to use or other agreement, or otherwise.
-
-Operator.
-
-(1) An "operator" is any person operating a hotel in the City of New York, including, but not limited to, the owner or proprietor of such premises, lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such hotel. For taxable periods beginning on or after June 1, 2002, a private club that, as an accommodation to its members, makes rooms available to such members in its own buildings is an "operator" within the meaning of the law.
-
-(2) For taxable periods beginning before June 1, 2002, any person who contracts away the use of a room or rooms in a hotel is an "operator." For example, a private club which, as an accommodation to its members, makes rooms available to such members either in its own buildings or in club rooms maintained in a hotel elsewhere, is an "operator" within the meaning of the law. For taxable periods beginning on or after June 1, 2002, any occupant who sublets or otherwise contracts away the right to use or possession of a room or rooms in a hotel is not an operator.
-
-Permanent resident.
-
-(1) A person is a "permanent resident" as of a given date if that person has occupied or has had the right to occupy a room or suite of rooms in a particular hotel for 180 consecutive days next preceding such date. (Prior to September 1, 1980, 90 days of occupancy qualified a person as a "permanent resident"). A person who enters into an agreement for occupancy for 180 consecutive days or more does not become a permanent resident under the law until that person has been an occupant for 180 consecutive days, and the operator is liable for the collection of the tax until such occupancy for 180 consecutive days has been completed. Where the tax has been collected by the operator for occupancy for less than 180 days and the occupant subsequently completes 180 consecutive days of occupancy, the operator may return such tax to the occupant. If the operator has paid such tax over to the Commissioner of Finance, the operator may, within one year from the date of the payment to the Commissioner of Finance, and provided the operator has returned such tax to the occupant, either take credit for the tax so paid on any subsequent return filed by the operator or file a claim for refund of such tax.
-
-(2) A person is not a permanent resident as of a given date unless that person has completed 180 days of consecutive occupancy in the same establishment immediately prior to that date. Thus, a person who has the right to use a room only on intermittent days of the week or of the month is not a permanent resident even though that person has had more than 180 days of occupancy in the aggregate. Similarly, a person who, after having been a permanent resident, surrenders his occupancy and then subsequently resumes its occupancy, is not a permanent resident under the later occupancy until that person completes 180 additional consecutive days of occupancy. Where a person transfers from one hotel to another, even though owned or operated by the same operator, that person is not a permanent resident of the latter establishment until that person has completed 180 consecutive days of occupancy therein. However, except as provided in subdivision (3) of this definition, a person who has completed 180 consecutive days of occupancy in different rooms of the same hotel is a permanent resident of that establishment. Where a permanent resident rents additional rooms on a temporary basis, that person is not considered a permanent resident with respect to such additional rooms unless such rooms are occupied for 180 or more consecutive days.
-
-(3) For purposes of the definition of permanent resident, days of consecutive occupancy shall not include any day that a person sublets or otherwise contracts away such person's occupancy of a room or rooms regardless of whether that person is an operator with respect to the subleasing of that room. If a person leases more than one room in a hotel that such person has sublet on some days, such person may not aggregate the days that it has not sublet any such room with the days that it has not sublet any other such room in order to qualify for permanent resident status. See illustration (vii). To illustrate:
-
-Illustration (i): A person occupies a certain room in a hotel for 57 days. On the 57th day that person moves to a different room in the same hotel, which that person occupies for an additional 130 days. This person is considered a permanent resident with respect to the occupancy of both rooms and that person is entitled to a refund of any tax paid with respect to the occupancy of the rooms.
-
-Illustration (ii): An airline corporation rents three rooms on an annual basis from a hotel. However, on occasion, when it requires additional rooms in the hotel for the use of its employees, it rents such additional rooms on a daily basis for a period less than 180 consecutive days. The hotel is required to charge and collect the tax from the airline corporation on the airline's occupancy of the additional rooms.
-
-Illustration (iii): B, an individual, resides in a hotel where that person has occupied a two-room suite for a period exceeding 180 consecutive days. B also rents a studio room for his own use in practicing piano. B has the exclusive use of this studio for a period of one hour per week. At other times, the room may or may not be rented to other persons. B's use of the studio room is subject to the tax.
-
-Illustration (iv): C, an individual, occupies a room in a hotel for a period of 180 days. He also rents two additional rooms for occupancy by his wife and his maid for a period of two weeks. The room occupied by his wife adjoins his room and the room occupied by his maid is on another floor of the hotel. The hotel operator is required to charge and collect the tax from C on the occupancy of the rooms occupied by C's maid and his wife.
-
-Illustration (v): D, an individual, occupies a room in a hotel for a period of more than 180 consecutive days. He rents an additional room in the same hotel for one day for the purpose of holding a party for his friends. The hotel is required to charge and collect the tax from D for the occupancy of the additional room.
-
-Illustration (vi): A corporation maintains a suite of rooms at a hotel on a permanent basis. During one week of the year, it holds a general sales meeting and for that purpose rents 75 additional rooms in the same hotel for the use of its employees. The hotel operator is required to charge and collect the tax from the corporation for the occupancy of the 75 additional rooms.
-
-Illustration (vii): Z, a tour company, contracts for 100 rooms in a hotel for 190 consecutive days. Z subleases 98 of the 100 rooms to its customers. Each of the 98 rooms is sublet for most of the 190-day period. However, there is no single day within the 190-day period on which all 98 rooms are sublet. Z uses the remaining two rooms to conduct its business. It does not sublease either of the two rooms for any period of time. Z becomes a permanent resident of the two rooms used to conduct its business when it completes 180 days of consecutive occupancy and is entitled to a refund of any tax paid with regard to the occupancy of these two rooms. Z does not become a permanent resident with respect to any of the 98 rooms that it subleases to customers even though at least one of the rooms is unoccupied for each of the 190 days.
-
-Person. The term "person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals or of the foregoing.
-
-Place of assembly. A "place of assembly" is an enclosed room or space in which 75 or more persons gather for religious, recreational, educational, political or social purposes, or for the consumption of food or drink, or for similar group activities, but excluding such spaces in dwelling units; or an outdoor space in which 200 or more persons gather for any of the above reasons. For purposes of this definition a room or space will be considered to be a place of assembly if either:
-
-(1) banquet or catering contracts indicate that at a particular function the expected attendance is 75 or more persons or
-
-(2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
-
-Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2,500 persons. Under certain circumstances the ballroom may be rented for a function for 1,000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1,000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
-
-Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
-
-Rent.
-
-(1) "Rent" is the consideration received for occupancy, valued in money, whether received in money or otherwise, including all receipts, cash, credits, and property or services of any kind or nature, and also any amount for which credit is allowed by the operator to the occupant, without any deduction therefrom whatsoever.
-
-(2) The entire amount charged by the operator for the use or possession of the room, of its furnishings, and of the services and accommodations accompanying its use and possession, constitutes rent under the law. Such services include but are not limited to the use of furniture and furnishings, maid and porter service, towel and linen service, doorman, bellman, and elevator service. The total charge for such services is deemed to be rent whether included in a lump-sum charge for the room or separately stated. Services and accommodations not deemed to accompany the use or possession of the room are the following: Food and liquor, valet and laundry service, and transportation and theatre ticket service. Where the operator separately charges for such services on any evidence of sale, such charges are not deemed to constitute rent. However, where a lump-sum charge for a room includes one or more such accommodations or services, the lump sum charge is deemed to constitute rent, except that where the charge includes meals the tax shall be applicable as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the total charge includes:
-      - The portion of the total charges subject to tax is: 
-    * - Breakfast, Lunch, Dinner
-      - 50% 
-    * - Lunch, Dinner
-      - 60% 
-    * - Breakfast, Dinner
-      - 60% 
-    * - Breakfast, Lunch
-      - 70% 
-    * - Dinner
-      - 75% 
-    * - Lunch
-      - 85% 
-    * - Breakfast
-      - 85% 
-~
-
- 
-
-(3) Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to be served in such room, such use constitutes a taxable occupancy, and any separate charge for rent for such occupancy is subject to tax. If no separate charge for the room is made to such person, 20% of the total charge to such person for the food and/or drink shall be attributable to the use of such room and taxable as rent.
-
-To illustrate: In 1982, A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby B will furnish and serve A and his guests with food and/or drink in the Blue Room. The total charge to A for such food and/or drink is $150.00. No separate charge is made to A for the use of the Blue Room. Operator B is required to collect a tax of $1.50 from A.
-
-Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to the guests of such person, to be served in such room, and no separate charge is made for such use of the room, food and/or drink to such person, but a charge for the food and/or drink is made to the guests, 20% of the total charge to the guests for the food and/or drink shall be attributable to the use of such room by such person and taxable as rent. If the charge to the guests is less than a minimum amount guaranteed by such person, 20% of the guaranteed minimum shall be attributable to the use of such room by such person and taxable as rent.
-
-To illustrate: A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby the charge for the food and/or drink to be served in such room will be made directly to the guests and no separate charge will be made for the use of the Blue Room. The total sales realized by B are $90.00. B is required to collect a tax of $.50 from A. If A guaranteed B a minimum sales volume to his guests of $200.00 then B will be required to collect a tax of $2.00 from A.
-
-(4) The tax is not applicable to any rent which has been ascertained to be worthless. Where a tax has been paid upon rent which has subsequently been ascertained to be worthless, the operator may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
-
-(5) The tax is not applicable to rent which has been returned by an operator to an occupant. Where the operator has paid the tax on such rent to the Commissioner of Finance, he may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
-
-(6) A cash discount may not be deducted from rent. However, where a discount is unconditionally deducted by an occupant upon settlement of his bill and is allowed as a matter of established custom without regard to the due date of such bill, the amount of such discount is not deemed to be a part of the rent.
-
-(7) Complimentary accommodations. When a hotel furnishes complimentary accommodations for which there is no consideration no tax applies. To illustrate:
-
-Illustration (i) An operator of a hotel furnishes free of charge hotel room accommodations to governmental officials, friends or relatives of management, visiting hotel representatives, hotel employees and representatives of charitable and religious organizations. These complimentary hotel rooms are deemed to have been furnished gratuitously, and as such are not subject to the tax.
-
-Illustration (ii) An operator of a hotel furnishes complimentary rooms to persons who procure guests for the hotel, such as tour guides, travel representatives, teachers and chaperons in charge of student groups, or representatives of organizations at the time of the negotiations for future business for the hotel. The rooms furnished at such time are deemed to have been furnished in consideration of their efforts in bringing potential business to the hotel. Such occupancies are subject to the tax based upon the normal rental charge for the room.
-
-Illustration (iii) Association ABC holds its December convention at Hotel Y and receives five complimentary rooms for use by the association's officers and convention chairman for the duration of the convention. The complimentary rooms are not considered taxable.
-
-Room. Any portion of a hotel, whether used for dwelling, commercial or any other purpose, is a "room" under the law and these rules, except:
-
-(1) a bathroom or lavatory,
-
-(2) a place of assembly as defined in § 27-232 of the Administrative Code of the City of New York (See: 19 RCNY § 12-01 "place of assembly"),
-
-(3) a store, stand or counter to which access is had directly from public thoroughfares or street or mezzanine lobbies, and,
-
-(4) a lobby, public dining room or other public room when employed as such, provided, however, when such lobby, public dining room or other public room is used exclusively for a private purpose, the occupancy thereof is subject to tax (unless the room qualifies as a place of assembly). The term "room" shall include a kitchenette provided that it is a walk-in area, enclosed by walls, with one or more doorways, archways or other openings, it is supplied with a cooking appliance including but not limited to a range, microwave or convection oven, or hot plate, and it contains at least one item from each of two of the following three categories:
-
-   (i) a sink with running water, or dishwater;
-
-   (ii) a refrigerator;
-
-   (iii) a cabinet, counter top, or table.
-
-Example: A hotel suite contains a kitchenette with a microwave oven, refrigerator, sink, cabinets and a counter top.
-
-      (a) The kitchenette is a walk-in area with three walls and a wide opening on the fourth side. The kitchenette is a room.
-
-      (b) The above items are all set into a wall and there is no appurtenant walk-in area. The kitchenette is not a room.
-
-      (c) Same facts as in (a) except the microwave is not in the kitchenette but rather is outside the kitchenette. The kitchenette is a room.
-
-
-
-
-
-
-*§ 12-02 Imposition of the Tax.* ::
-
-
-(a) The law imposes a tax, measured by the rent per day, for every occupancy of a room or rooms in a hotel in the City of New York, commencing July 1, 1970, with certain exceptions set forth hereinafter.
-
-(b) On and after July 1, 1970 until August 31, 1980, the rates of tax were as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the rent per day for the room was:
-      - The tax was:   
-    * - Less than $10
-      - $  .25 per day
-    * - $10 or more, but less than $15
-      - $  .50 per day
-    * - $15 or more, but less than $20
-      - $  .75 per day
-    * - $20 or more
-      - $1.00 per day
-~
-
-
-
- 
-
-(c) on and after September 1, 1980, the rates of tax are as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the rent per day for the room is:
-      - The tax is: 
-    * - Less than $10
-      -  $0.00
-    * - $10 or more, but less than $20
-      - $  .50 per day
-    * - $20 or more, but less than $30
-      - $1.00 per day
-    * - $30 or more, but less than $40
-      - $1.50 per day
-    * - $40 or more
-      - $2.00 per day
-~
-
-
-
- 
-
-(d) Where a person occupies a room for less than a full day and pays less than the rent for a full day, the tax shall nevertheless be the same amount as would be due had such person occupied the room for a full day at the rent for a full day.
-
-(e) As used in the law and these regulations, the word "day" means any period of 24 consecutive hours, or the actual period of occupancy if less than 24 hours, due regard being had for the established check-out time and practices regarding the early check-in and late check-out of guests of the particular hotel. If the hotel does not impose an additional charge for early check-in or late check-out of guests, then the occupancy before or after the official check-in and check-out times is not taxable.
-
-To illustrate: A checks into Hotel B at 1:00 P.M. Monday afternoon and checks out at 6:00 P.M. Wednesday evening. The established check-out time at Hotel B is 12 noon. The period from 1:00 P.M. Monday to 12 noon Tuesday constitutes a day for purposes of the tax, as does the period from noon Tuesday to noon Wednesday. The period from 12 noon Wednesday to 6:00 P.M. Wednesday will constitute a day for purposes of the tax only if the hotel charges the guest for such period after the 12 noon established check-out time. Accordingly, if Hotel B imposes a charge for the late check-out A is deemed to have spent 3 days at Hotel B. However, if Hotel B does not impose any additional charge for late check-out then A is deemed to have spent 2 days at Hotel B.
-
-Where the rent is based on a term longer than one day, such as a weekly or monthly term, the rent per day is computed by dividing the total number of days of occupancy into the total charge for such occupancy.
-
-To illustrate: A occupies a hotel room during the month of September, 1982, at the rate of $750 per month. The rate per day is 1/30 × $750, or $25, and the tax is $1.00 per day.
-
-(f) Where the rent is for more than one room, including a suite of rooms, the daily rent for each room is determined by multiplying the daily rent for the group of rooms by a fraction, the numerator of which is the daily rent for the particular room, or a similar room, when such room is rented alone with similar bath facilities, and the denominator of which is the total of the daily rent for the individual rooms in the group of rooms, or similar rooms, when such rooms are rented alone with similar bath facilities.
-
-To illustrate: In 1982 A and his wife occupy a suite of hotel rooms for one day. The suite consists of a bedroom, a living room, and bathroom. The rent charged for the suite is $40 per day. When rented separately, the daily rents for the bedroom and living room are $20 and $30 respectively. The daily rent for the bedroom rented as part of the suite is 20/50 × $40, or $16; the daily rent for the living room is 30/50 × $40, or $24. Accordingly, the tax is $.50 for the bedroom and $1.00 for the living room. The bathroom is not considered a room, and is not subject to the tax.
-
-Where an entire rent is charged for more than one room, whether or not a suite, if such rooms are not otherwise rented separately, the daily rent per room is to be determined by dividing the entire rent by the number of rooms for which the charge is made. For example, if the entire charge for a suite of 3 rooms is $90 per day, the charge for each room is considered to be $30. A tax of $1.50 must be paid for each room, a total tax of $4.50 for the suite.
-
-(g) The tax is not imposed upon occupancy by a permanent resident as defined in 19 RCNY § 12-01 "Permanent Resident".
-
-(h) The tax is not imposed upon occupancy by the federal or New York State governments or political subdivisions of the State. (See: 19 RCNY § 12-03.)
-
-(i) The tax is not imposed upon occupancy by religious, charitable, and educational organizations, nor on rents received by such organizations, to the extent provided in 19 RCNY § 12-03.
-
-
-
-
-
-
-*§ 12-03 Exemptions.* ::
-
-
-The following persons are exempt from the tax:
-
-(a) The State of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State; the United States of America, insofar as it is immune from taxation; the United Nations or other worldwide international organizations of which the United States of America is a member.
-
-(b) Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision (b) shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision (b).
-
-(c) Where any organization described in subdivision (b) above, carries on its activities in furtherance of any of the purposes for which it was organized, in premises in which, as part of said activities, it operates a hotel, occupancy of rooms in said premises and rents therefrom received by such organization are not subject to the tax. An organization claiming exemption under subdivisions (b) and (c) above must make application for such exemption to the Commissioner of Finance and is required to submit to the Commissioner of Finance such information as will enable the Commissioner to rule upon the applicant's status. The Commissioner, if satisfied that the applicant is entitled to the exemption, will issue a letter of exemption to the applicant. An applicant for exemption is required to submit an affidavit which shall set forth the following:
-
-   (1) The type of organization,
-
-   (2) The purposes for which it is organized,
-
-   (3) Its actual activities,
-
-   (4) The source and disposition of its income,
-
-   (5) Whether or not any of its income is credited to surplus or may inure to any private stockholder or individual, and
-
-   (6) Such other facts which may affect its right to exemption. The affidavit must be supplemented by a copy of the articles of incorporation, or articles of association, as the case may be, a copy of the by-laws of the organization, a financial statement showing its assets and liabilities for the most recent year, and a photostatic copy of the letter, if any, from the United States Treasury Department granting the organization exemption from Federal income taxation. An organization which is an occupant of a hotel room and claims exemption from tax on such occupancy must furnish a copy of the letter of exemption to the hotel operator when claiming such exemption. Where the occupancy is by an agent, representative, or employee of the organization, a certificate, on the form prescribed by the Commissioner, certifying that the occupancy is solely for official purposes and that the rent has or will be paid by the organization, must be furnished to the operator.
-
-
-
-
-
-
-*§ 12-04 Government Agencies, Diplomatic and Consular Representatives.* ::
-
-
-(a) Occupancy of rooms by the Federal government or by the State or City of New York or by an agency of such governments, is not subject to the tax. Employees and representatives of such governments and agencies, who occupy rooms solely for official purposes, are not required to pay the tax, providing that they furnish to the operator certificates on the form prescribed by the Commissioner, certifying that the rent has been or will be paid by the governmental agency concerned.
-
-(b) Ambassadors, ministers and other diplomatic representatives of foreign governments properly accredited to the United States, are exempt from tax upon their occupancy of rooms. Such exemption does not apply to consular officers or to officers of foreign governments other than those hereinabove specified, unless such exemption arises from treaties or reciprocal agreements existing between such foreign governments and the United States. A person claiming exemption from the tax under this subdivision is required to apply in writing therefor to the Commissioner of Finance, submitting with his application a copy or other evidence of the appropriate treaty or reciprocal agreement between his government and the United States. If the request for exemption is approved, a letter of exemption will be issued to the applicant, and a copy of such letter must be submitted to the operator whenever claim for exemption is made.
-
-
-
-
-
-
-*§ 12-05 Presumption and Burden of Proof.* ::
-
-
-It shall be presumed that all rents are subject to tax until the contrary is established, and the burden of proving that rent for occupancy is not taxable under the law shall be upon the operator or the occupant.
-
-
-
-
-
-
-*§ 12-06 Registration.* ::
-
-
-(a)  Every operator is required to file a certificate of registration in a form prescribed by the Commissioner of Finance. In the case of operators commencing business or opening new hotels the certificate is required to be filed with the Commissioner of Finance within three days after such commencement or opening. An operator of a hotel having 10 or more rooms or 10 or more apartments or living units offered for lodging of guests is deemed to have commenced business or opened a new hotel when such rooms are first offered to the public. In the case of a building or portion of a building having fewer than 10 rooms or fewer than 10 apartments or living units offered for lodging of guests, the operator will be considered to have commenced business or to have opened a hotel as of the first date that the rental of such rooms or living units exceeds either of the de minimis thresholds described in subsection a of 19 RCNY § 12-01 (i.e., such rooms or units are rented on three or more occasions or for more than 14 days in the aggregate) during any four consecutive quarterly tax periods, or, beginning on and after March 1, 2005, during any twelve-month tax period. Within five days after such registration, the Commissioner of Finance shall issue, without charge, to each operator, a certificate of authority empowering such operator to collect the tax from the occupant, and, in addition, a certificate of authority for each additional hotel of such operator. Each certificate shall state the hotel to which it is applicable. Such certificate of authority must be prominently displayed by the operator in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates are not assignable or transferable and must be surrendered immediately to the Commissioner of Finance upon the cessation of business at the hotel named therein, or upon its sale or transfer, together with an affidavit setting forth the pertinent details of such cessation. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). If the business is continued at the same place, but there is a change in the form of the organization, such as from a single proprietorship to a partnership or corporation, the operator is required to return his certificate for cancellation, and the successor is required to file a new application for a certificate of authority.
-
-(b) Registration hereunder is separate and apart from registration under the Sales Tax, and the operator who is registered under the Sales Tax must also register under the Tax on Occupancy of Hotel Rooms.
-
-
-
-
-
-
-*§ 12-07 Filing of Returns and Payment of Tax.* ::
-
-
-(a)  Except as provided herein, every operator shall file with the Commissioner of Finance a return of occupancy and of rents, and of the taxes payable thereon, on the form prescribed by the Commissioner of Finance, for the quarterly periods ending on the last day of February, May, August, and November of each year. Notwithstanding the foregoing, with respect to tax periods beginning on and after the first day of September, 2004, (i) an operator of a hotel having fewer than 10 rooms may file the above return for each such hotel on an annual basis for each twelve-month period ending on the last day of February of each year, and (ii) an operator of fewer than 10 furnished apartments or living units may file the above return on an annual basis for each twelve-month period ending on the last day of February of each year covering all such apartments or living units. Such returns shall be filed within twenty days after the last day of each such period. For the period beginning September 1, 2004 and ending February 28, 2005, an operator of fewer than 10 apartments or living units or of a hotel having fewer than 10 rooms may file the above return for each such hotel or apartments or living units covering that period on or before March 21, 2005. An operator of fewer than 10 rooms or fewer than 10 apartments or living units, after having registered, is required to file a return for each subsequent quarterly or annual period thereafter regardless of whether the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). An operator who ceased business must file a final return within twenty days from the date such business ceased, covering the period or portion of the period during which he conducted such business subsequent to the period for which a return was last required to be filed. If the business was sold, the purchaser thereof must file a return for the period from the date of purchase to the end of the period of which a return is required to be filed. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). Whenever an operator is not required to charge or collect the tax, the Commissioner of Finance may, upon application in writing made by such operator, waive the requirement for the filing of returns. All returns must be filed with the Bureau of Tax Operations of the Department of Finance at the address designated on the return form. The return of an individual must be signed by such individual unless he is absent from the City, ill or otherwise incapacitated, in which event the return may be signed by his duly authorized representative or agent. The return of a corporation must be signed by an officer thereof; the return of a partnership must be signed by a general partner thereof. The Commissioner of Finance may, for good cause, extend the time for filing any return for a period not exceeding 30 days.
-
-(b) At the time of filing a return, each operator shall pay to the Commissioner of Finance the tax due, as well as all other monies collected by the operator acting or purporting to act under the law even though it is determined that the tax collected was invalidly imposed. The tax for the period for which a return is required to be filed shall be due from the operator and payable to the Commissioner of Finance on the date prescribed for the filing of such return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rent and the tax due thereon. Payment of the tax shall be made in cash, or by check, money order or draft drawn to the order of the City Collector. Cash payments must be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of tax.
-
-(c) The Commissioner of Finance may require any operator within the City to file an information return, on a form prescribed by the Commissioner of Finance, at such time and containing such information as the Commissioner of Finance deems necessary for the proper administration of the law.
-
-(d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns and reports and the electronic payment of tax required by this chapter.
-
-
-
-
-
-
-*§ 12-08 Liability for Charging, Collecting and Paying the Tax.* ::
-
-
-(a) The law requires that upon every taxable occupancy, the operator shall charge and collect the tax from the occupant. The tax to be collected must be charged and stated separately from the rent and shown separately on any record thereof, at the time when the occupancy is contracted and charged for. The tax shall also be stated and separately charged upon every evidence of occupancy or any bill or statement of charge made for said occupancy issued or delivered by the operator. The tax shall be paid by the occupant to the operator as trustee for and on account of the City, and kept separate from all other funds in the possession of the operator and the operator shall be liable for the collection thereof and for the tax. The operator and any officer of any corporate operator shall be personally liable for the tax collected or required to be collected under the law. The operator shall have the same right in respect to collecting the tax from the occupant, or in respect to nonpayment of the tax by the occupant, as if the tax were a part of the rent for the occupancy payable at the time such tax shall become due and owing, including all rights of eviction, dispossession, repossession and enforcement of any innkeeper's lien that he may have in the event of nonpayment of rent by the occupant; provided, however, that the Commissioner of Finance shall be joined as a party in any action or proceeding brought by the operator to collect or enforce collection of the tax.
-
-(b) No operator may absorb the tax required to be collected, or tell the occupant that he will pay such tax, nor may he advertise or hold out to the public in any manner, directly or indirectly, that the tax is not deemed to be an element in the rent. Any operator and any officer of a corporate operator or partner in a partnership which is an operator who willfully fails to charge the tax separately from the rent, or willfully fails to state the tax separately from the rent, or willfully fails to or refuses to collect the tax from the occupant, or refers or causes reference to be made to the tax in any invoice, placard or advertisement in a form other than that required by law, is guilty of a misdemeanor. (See: 19 RCNY § 12-11 for penalties.)
-
-(c) Where the occupant has failed to pay and the operator has failed to collect the tax imposed by law, then, in addition to all other rights, obligations and remedies, such tax shall be payable by the occupant directly to the Commissioner of Finance, and it shall be the duty of the occupant to file a return thereof with the Commissioner of Finance and to pay the tax so imposed to the Commissioner of Finance within 15 days after such tax was due.
-
-(d) All monies collected by the operator or charged by him while acting, or purporting to act, under the law must be paid to the City, even though it is judicially determined that the tax was invalidly imposed.
-
-
-
-
-
-
-*§ 12-09 Surety Bond.* ::
-
-
-(a) Where the Commissioner of Finance in his discretion deems it necessary to protect revenues to be obtained under the law, he may require any operator required to collect the tax to file with him a bond, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York as to solvency and responsibility, in such amount as the Commissioner of Finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator. In the event that the Commissioner of Finance determines that an operator is to file such bond he shall give notice to such operator to that effect, specifying the amount of the bond required. The operator shall file such bond within five days after the giving of such notice, unless within such five days the operator shall request in writing a hearing before the Commissioner of Finance at which the necessity, propriety and amount of the bond shall be determined by the Commissioner of Finance. Such determination shall be final and shall be complied with within 15 days after the giving of notice thereof. In lieu of such bond, securities approved by the Commissioner of Finance, or cash in such amount as he may prescribe, may be deposited, and shall be kept in the custody of the Commissioner of Finance, who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him at public or private sale without notice to the depositor thereof.
-
-(b) As an alternative to filing a surety bond or depositing securities, the Commissioner of Finance may require or permit an operator required to collect the tax to deposit all taxes which become collectible in any banking institution located in the City, the deposits in which are insured by any agency of the federal government. Such deposits shall be made into and kept in a separate account, in trust and payable to the Commissioner of Finance, until payment over to the Commissioner of Finance. Such account shall remain open, and deposits made therein, until a notice of cancellation is given by the Commissioner of Finance.
-
-
-
-
-
-
-*§ 12-10 Returns To Be Secret.* ::
-
-
-Except in accordance with judicial order or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any officer or employee of the Department of Finance to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under the law. The officers charged with the custody of such returns are not required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of and may admit in evidence so much of the returns or of the facts shown thereby as are pertinent to the action or proceeding and no more. A taxpayer may obtain a certified copy of any return filed in connection with his tax upon application in writing to the Commissioner. Where a representative of a taxpayer applies for a certified copy of such return, he must file a power of attorney with the application. A certified copy of a taxpayer's return or of information contained therein or relating thereto may be delivered to the United States of America or any department thereof, the State of New York or any department thereof, any agency or any department of the City of New York provided the same is requested for official business. The Corporation Counsel or other legal representatives of the City or the District Attorney of any county within the City may be permitted to inspect returns for official business. Nothing herein shall be construed to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
-
-
-
-
-
-
-*§ 12-11 Interest.* ::
-
-
-If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
-
-
-
-
-
-
-*§ 12-12 Penalties.* ::
-
-
-(a) Civil penalties. Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:
-
-   (1) Failure to file return.
-
-      (i) In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, this is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.
-
-      (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph (1) shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
-
-      (iii) For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
-
-   (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
-
-   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 12-15), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
-
-   (4) Limitations on additions:
-
-      (i) With respect to any return the amount of the addition to tax is limited to the following:
-
-         (A) At no time will the addition for one (1) month be more than five percent (5%).
-
-         (B) If paragraphs (1) and (2) of this subdivision (a) are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e. the lesser of $100 or 100% of tax due).
-
-         (C) If paragraphs (1) and (3) of this subdivision (a) are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (a) (determined without regard to subparagraph (ii) of such paragraph (1), which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.
-
-      (ii) The provisions of this paragraph may be illustrated by the following examples:
-
-Example A: (a) Assume the taxpayer filed his tax return for the quarter ending February, 1983  on June 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on July 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from March 21 through July 20, and 0.5% for the fractional part of the month from July 21 through July 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
-      -  $200 
-    * - Reduced by the amount of the addition imposed under paragraph (2) for those months
-      -  $16 
-    * - Addition to tax under paragraph (1)
-      -  $184 
-~
-
-
-
- 
-
-Example A: (b) A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
-      -  $12 
-    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
-      -  $50 
-    * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
-      -  $40 
-    * - Maximum amount of the addition under paragraph (3)
-      -  $10 
-~
-
-
-
- 
-
-Example B: (a) A taxpayer files his tax return for the quarter ending February, 1983 on November 7, 1983, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on November 7, 1983. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Penalty at 5% for maximum of 5 months, 25% of $500
-      -  $125.00
-    * - Less reduction for the amount of the addition under paragraph (2): 
-      - 
-    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months March 16 through August 20 of the net amount due ($500)
-      - $12.50
-    * - Additional to tax under paragraph (1)
-      -  $112.50
-~
-
-
-
- 
-
-   (5) Reasonable cause as used in paragraphs (1), (2) and (3) of this subdivision (a) must be affirmatively shown in a written statement. The taxpayer's previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:
-
-      (i) death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;
-
-      (ii) destruction of the taxpayer's place of business or business records by fire or other casualty;
-
-      (iii) timely prepared reports misplaced by a responsible employee discovered after the due date;
-
-      (iv) inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;
-
-      (v) any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.
-
-   (6) Underpayment due to negligence.
-
-      (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
-
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
-
-   (7) Underpayment due to fraud.
-
-      (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
-
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
-
-      (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision (a).
-
-   (8) Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply any information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.
-
-   (9) The additions to tax and penalties provided by this subdivision (a) shall be paid and enforced in the same manner as taxes.
-
-   (10) Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.
-
-(b) Criminal penalties.
-
-   (1) Any person who willfully fails to file a registration certificate as required by the law and such data in connection therewith as the Commissioner of Finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by the law, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this paragraph shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
-
-   (2) Any person who willfully fails to charge separately the tax imposed under the law or willfully fails to state such tax separately on any bill, statement, memorandum or receipt issued or employed by such person upon which the tax is required to be stated separately as provided in the law, or who shall refer or cause reference to be made to this tax in a form or manner other than required by the law, shall be guilty of a mis- demeanor.
-
-   (3) Failure to collect tax. Any person who willfully fails to collect any tax required to be collected under the law shall be guilty of a misdemeanor.
-
-   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required under the law shall be guilty of a misdemeanor.
-
-   (5)  Failure to obey subpoena; false testimony.
-
-      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
-
-         (A) fails or refuses to attend without lawful excuse,
-
-         (B) refuses to be sworn,
-
-         (C) refuses to answer any material and proper question, or
-
-         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
-
-      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
-
-   (6) Willful failure to file a return or report or pay the tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
-
-   (7) Fraudulent returns, reports, statements or other documents.
-
-      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
-
-      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
-
-      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
-
-   (8) The penalties provided for in this subdivision (b) shall not preclude prosecution pursuant to the penal law with respect to the willful failure of any person to pay over to the City any hotel room occupancy tax imposed by law, whenever such person has been required to collect and has collected any such tax. In any such prosecution under the penal law, a person who has been required to collect and has collected any such tax shall be deemed to have acted in a fiduciary character with respect to the City, and the tax collected shall be deemed to have been entrusted to such person by the City.
-
-(c) Liability of officers or partners and effect of Certificate of Commissioner.
-
-   (1) Officers of a corporate operator and partners in a partnership which is an operator are personally liable for the tax collected or required to be collected by such corporation or partnership, and are subject to the penalties and interest imposed by law.
-
-   (2) The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a return, bond or registration certificate has not been filed, or that information has not been supplied pursuant to the provisions of the law shall be presumptive evidence thereof.
-
-
-
-
-
-
-*§ 12-13 Refunds.* ::
-
-
-The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, provided:
-
-(a) A written application for refund or credit was made to the Commissioner of Finance within one year from the payment thereof, and
-
-(b) The application is made by the occupant, operator or other person who actually paid the tax, or
-
-(c) The application is made by an operator who collected and paid over such tax to the Commissioner of Finance; however, no refund shall be made until the operator shall first establish to the satisfaction of the Commissioner of Finance that he repaid the occupant the amount for which the application is made. In such case, the period within which application for refund may be made begins when the payment is made by the occupant to the operator. No specific form has been prescribed for refund applications. An application for refund, however, shall be in writing and shall comply with the following requirements:
-
-(d) It must be signed by the applicant or his duly authorized agent. If signed by an agent, the application must be accompanied by a power of attorney acceptable to the Commissioner of Finance.
-
-(e) It must demonstrate that the refund provisions of the law have been complied with.
-
-(f) It must be accompanied by the cancelled check or a photostatic copy thereof, showing both the front and back of the check; or, if paid by cash or money order, by evidence of such payment. Whenever a taxpayer files a claim for refund, such application shall constitute an application for revision of the tax, penalty or interest complained of. The Commissioner of Finance may audit the taxpayer's books and records or may grant the refund subject to future audit. The Commissioner of Finance may determine without resorting to an audit that, based upon the evidence presented, the claim is without merit and, therefore, deny it. The Commissioner of Finance will notify the taxpayer in writing of his determination. Such determination shall become final and irrevocable unless the person to whom it is addressed shall, within 30 days after the date thereof, apply to the Commissioner of Finance for a hearing. A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by 19 RCNY § 12-15, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
-
-
-
-
-
-
-*§ 12-14 Records To Be Kept.* ::
-
-
-Every operator is required to keep records of room rentals and of the tax payable thereon. In addition to the general books of account, such records shall also include guests' registration records, rental contracts and leases, banquet records wherever applicable and such other records as will enable the Commissioner of Finance to determine the room rentals and the proportionate part of receipts from sale of food and/or drink which under these regulations constitutes rentals. In addition to the above records, operators must also retain all exemption certificates filed by exempt organizations and by the Federal government, or by the State or City of New York, or by an agency of such governments, and records of all other rentals which are not subject to tax. Exemption certificates from occupants who are not entitled to exemption should not be accepted, and the Commissioner of Finance will reject any exemption certificate obtained from an occupant who is not entitled to exemption. The records hereinabove prescribed are in addition to all other records which must be retained by an operator as provided for in any other State or City tax law. Unless the operator maintains adequate records showing rentals and the tax due thereon, the Commissioner of Finance reserves the right to determine the amount of such rentals and the tax due thereon from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as the number of rooms, location, scale of rents, comparable rents, type of accommodation and service, number of employees and/or other factors. Records of operators are to be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years unless permission in writing is obtained from the Commissioner of Finance to destroy them before the expiration of such period.
-
-
-
-
-
-
-*§ 12-15 Determination of Tax.* ::
-
-
-If a return required by law is not filed or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the Commissioner of Finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocable fix the tax unless the person against whom it is assessed, within 30 days after giving of notice of such determination, shall apply to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance of his own motion shall re-determine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the Supreme Court within 30 days after the giving of the notice of such determination. A proceeding under Article 78 of the Civil Practice Law and Rules shall not be instituted unless:
-
-(a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in this State and approved by the Superintendent of Insurance of this State as to solvency and responsibility, in such amount as a Justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or
-
-(b) at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the application shall net be required to deposit such taxes, penalties and interest as a condition precedent to the application.
-
-
-
-
-
-
-*§ 12-16 Proceedings To Recover Tax.* ::
-
-
-Whenever any operator or any officer of a corporate operator or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this title, the Corporation Counsel shall, upon the request of the Commissioner of Finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the State of New York or of any other state or of the United States. If, however, the Commissioner of Finance, in his discretion, believes that any such operator, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately. As an additional or alternate remedy, the Commissioner of Finance may issue a warrant, directed to the City Sheriff commanding him to levy upon and sell the real and personal property of the operator or officer of a corporate operator or of the occupant or other person liable for the tax, which may be found within the City, for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the Commissioner of Finance and to pay to him the money collected by virtue thereof within sixty days after the receipt of such warrant. The City Sheriff shall within five days after the receipt of the warrant file with the County Clerk a copy thereof; and thereupon such clerk shall enter the judgment docket the name of the person mentioned in the warrant and the amount of the tax, penalties and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The City Sheriff shall then proceed upon the warrant, in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record, and for services in executing the warrant he shall be entitled to the same fees, which he may collect in the same manner. In the discretion of the Commissioner of Finance a warrant of like terms, force and effect may be issued and directed to any officer or employee of the Finance Department, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the Commissioner of Finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the City has recovered judgment therefor and execution thereon had been returned unsatisfied.
-
-
-
-
-
-
-*§ 12-17 Notice and Limitations of Time.* ::
-
-
-(a) Any notice authorized or required under the provisions of this law may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him pursuant to the provisions of this law or in any application made by him, or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this law by the giving of notice shall commence to run from the date of mailing of such notice.
-
-(b) The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax, penalty or interest provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of the return; provided, however, that where no return has been filed as provided by law, the tax may be assessed at any time.
-
-(c) Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
-
-
-
-
-
-
-*§ 12-18 Reference to Tax.* ::
-
-
-Whenever reference is made in placards or advertisements or in any other publication to the tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms," except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
-
-
-
-
-
-
-*§ 12-19 Bulk Sales.* ::
-
-
-Whenever an operator shall make a sale, transfer, or assignment in bulk of any part or the whole of his hotel premises or his lease, license or other agreement or right to possess or operate such hotel, or of the equipment, furnishings, fixtures, supplies or stock of merchandise, or the said premises or lease, license or other agreement or right to possess or operate such hotel and the equipment, furnishings, fixtures, supplies and stock of merchandise pertaining to the conduct or operation of said hotel otherwise than in the ordinary and regular prosecution of business, the purchaser, transferee or assignee shall at least ten days before taking possession of the subject of the sale, transfer or assignment, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms, and conditions thereof whether or not the seller, transferrer or assignor has represented to, or informed the purchaser, transferee or assignee that he owes any tax pursuant to law, and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the City, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assigner any such sums of money, property or choses in action to the extent of the amount of the City's claim. For failure to comply with the provisions of this Section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code shall be personally liable for the payment to the City of any such taxes theretofore or thereafter determined to be due to the City from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.
 
 
 
@@ -9256,6 +8595,667 @@ A fee of five dollars will be charged for a search of the corporation tax record
 
 
 Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns, reports, or other forms and the electronic payment of tax required by this chapter.
+
+
+
+
+Chapter 12: Hotel Room Occupancy Tax
+--------------------------------------------------
+
+
+
+*§ 12-01 Definitions.* ::
+
+
+Commissioner of Finance. The words "Commissioner of Finance" mean the Commissioner of Finance of the City of New York.
+
+Hotel. A "hotel" is a building or portion of a building that is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house, bed and breakfast, or club, whether or not meals are served. An "apartment hotel" is a building or portion of it wherein apartments are rented to guests for fixed periods of time, either furnished or unfurnished. The term "boarding house" includes rooming houses, furnished-room houses and lodging houses. The term "bed and breakfast" includes a dwelling place ordinarily occupied by a person as his or her own dwelling in which more than one room is regularly used and kept open by such person for the lodging of guests for consideration regardless of whether services such as meals, telephone or linen services are provided. The term "club" includes a residence club, as well as private clubs. To illustrate:
+
+Illustration (i): Individual A owns and lives in a three-bedroom house in New York City. Individual A rents one of the bedrooms to guests from time to time by listing the room with a bed and breakfast listing service. At no time during the year does A rent or offer to rent more than one room to guests. The rental of one room by A is not subject to tax.
+
+Illustration (ii): The facts are the same as in illustration (i) except that A lists two of the three bedrooms or one bedroom and the living room, in his apartment for rental to guests. A's rental of rooms in the apartment is subject to tax.
+
+The term "hotel" also includes a bungalow, which is a furnished living unit intended for single family occupancy that is regularly used and kept open for the lodging of guests for consideration, except that for occupancies during taxable quarters beginning on or before September 1, 2003, the rental of a bungalow for at least one week will not be subject to the tax provided: no maid, food, or other common hotel services such as entertainment or planned activities are provided. The furnishing of linen by the lessor with the rental of a bungalow without the services of changing the linen does not alter the nontaxable status of the rental charges for such periods. To illustrate:
+
+Illustration (iii): Individual B owns an apartment in New York City. Beginning on January 1, 2004, B begins to regularly rent or offer to rent the apartment, furnished, to guests on a transient basis. B's rental of the apartment to guests on a transient basis is subject to the tax regardless of whether the rentals are for periods longer than one week.
+
+The term "hotel" does not include the following:
+
+(1) A nursing home, rest home, convalescent home, maternity home for expectant mothers, residence or home for adults or mentally disabled persons which is registered with the Department of Social Services or Department of Mental Hygiene, whether publicly or privately owned and operated, which accepts as patients persons who require special care on account of age, illness, mental or physical condition or the like, and provides this special care either by nurses, orderlies or aides. To illustrate:
+
+Illustration (iv): A senior citizen's lodging facility which only furnishes hotel facilities and services and does not furnish services or special care provided by attendants, etc., is a hotel.
+
+Illustration (v): A maternity home or residence for expectant unwed mothers which is registered with the Department of Social Services and provides care and service for mothers to be. Such care and service includes maintaining a residence, social services, medical care, and arranging for delivery at a local hospital. This facility is not a hotel.
+
+(2) A summer camp for children which provides a program of instruction or training which the campers are required to pursue under the supervision of counselors is not a hotel. Where guest facilities are provided for parents or others the tax applies to such facilities.
+
+(3) A college dormitory or apartment belonging to a school, college, or university in which its students reside is not a hotel. Where facilities are provided for parents, alumni or others the tax applies to such facilities. A building or portion thereof will be irrebuttably presumed not to be regularly used and kept open for the lodging of guests if, during any four consecutive quarterly tax periods, or, beginning on and after September 1, 2004, during any twelve-month tax period, described in subsection a of 19 RCNY § 12-07, rooms, apartments or living units are rented to guests or occupants on fewer than three occasions or for not more than 14 days in the aggregate. For this purpose, the rentals of rooms in a single building or apartment will be aggregated and the rentals of apartments and living units will be aggregated. In addition, for this purpose, the rental of a room, apartment or living unit under a single contract for one or more consecutive days will be considered a single occasion. However, if a single contract provides for the rental of a room or apartment for non-consecutive days, each period of consecutive days will be considered a separate occasion. In addition, for this purpose, if a room, apartment or living unit is subleased or the right to occupy it is otherwise subcontracted away to another person, each separate sublease or subcontract of a room, apartment or living unit for a period of consecutive days will be considered a separate occasion. Furthermore, for this purpose, rentals to guests or occupants that qualify as permanent residents will not be included in the number of days or occasions of rentals.
+
+Illustration (vi): A owns a four-bedroom house in New York City. During the period September 1, 2004 through August 31, 2005, A rents three of the bedrooms as follows: one bedroom is rented for the entire twelve month period to individual B who does not sublease the room; one bedroom is rented for one week to individual C; one bedroom is rented for two days to individual D, three days to individual E and one day to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented rooms on four occasions. However, because the total number of days is less than 14, A is not considered to be operating a hotel.
+
+Illustration (vii): Individual A owns four apartments in New York City. During the period September 1, 2004 through August 31, 2005, A rents the apartments as follows: one apartment is rented for the entire 12-month period to individual B who does not sublease the apartment; another apartment is rented for one week to individual C; a third apartment is rented for two days to individual D, five days to individual E and four days to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented three of the apartments on four occasions. Because the total number of days of rentals of the three apartments is more than 14, A is considered to be operating a hotel with respect to the three apartments rented to C, D, E, and F. If the apartment rented to B were rented to B for only 190 days and was subsequently rented during the period to individual G for three days, that apartment would also be included as part of the hotel operation of A.
+
+Occupancy.
+
+(a) "Occupancy" is the use or possession, or the right to the use or possession, of any room or rooms in a hotel, or the right to the use or possession of the furnishings or to the services and accommodations accompanying the use and possession of the room or rooms. "Occupancy" includes the right to the use or possession as well as the exercise of that right; there is an "occupancy" of a room whether or not the person entitled to the use or possession of the room actually uses it or possesses it.
+
+(b) A room is deemed to be the subject of only one taxable occupancy at a given time. Where an occupant sublets or otherwise contracts away his right to the use or possession, the tax shall be collected and paid in accordance with the following rules:
+
+   (1) (i) For taxable periods beginning before June 1, 2002, if the original occupant is itself an operator, as in the case of a private club located in a hotel, and subleases the occupancy to another, the taxable occupancy shall be the occupancy by the sublessee. In such case, the original occupant shall collect the tax from the sublessee and pay it over to the Commissioner of Finance.
+
+      (ii) For taxable periods beginning on or after June 1, 2002, if the original occupant or any sublessee of the room is directly or indirectly related to the original hotel operator, the taxable occupancy will be the occupancy by the sublessee of such related person. For purposes of this subparagraph (ii) an occupant will be considered to be directly or indirectly related to the original hotel operator if:
+
+         (A) the original hotel operator owns directly or indirectly a five percent or greater interest in such occupant.
+
+         (B) such occupant owns directly or indirectly a five percent or greater interest in the original hotel operator.
+
+         (C) one or more persons own directly or indirectly five percent or greater interests both in such occupant and in the original hotel operator, or
+
+         (D) such occupant is an officer, director, manager (including a manager of a limited liability company), trustee, fiduciary or employee of the original hotel operator or an individual that is a member of the family of an individual original hotel operator.
+
+         (E) For purposes of this subparagraph a five percent or greater interest shall mean, in the case of a corporation, five percent or more of the voting power of all classes of stock or five percent or more of the total fair market value of all classes of stock, and, in the case of a partnership, association, trust or other entity, five percent or more of the capital, profits or beneficial interests in such entity.
+
+         (F) To illustrate:
+
+Illustration 1: In 2003, Z contracts for 100 rooms in a hotel at a rate of $100 per room per day for 190 consecutive days. Z subleases the rooms to its customers. Z is not a private club and is not related to the hotel operator within the meaning of this paragraph. The hotel operator is required to charge and collect the tax from Z for its occupancy of all 100 rooms for the entire 190-day period. Z is not a permanent resident with respect to any of the rooms. See 19 RCNY § 12-01 definition of a "permanent resident," paragraph (3). Z is not required to charge and collect the tax from its customers for the occupancy of any of the rooms that it subleases for the days that such rooms are sublet.
+
+Illustration 2: The facts are the same as in Illustration 1 except that Z is related to the hotel operator within the meaning of this paragraph. In this case, the taxable occupancy is the occupancy by the customers of Z and the hotel operator is required to charge and collect the tax from the customers of Z.
+
+   (2) (i) For taxable periods beginning before June 1, 2002, if the original occupant is not an operator, the occupant's occupancy is taxable whether or not the occupant has the actual use or possession of the room and no tax will be paid by or collected from a sublessee of the occupant.
+
+      (ii) For taxable periods beginning on or after June 1, 2002, except as provided in subparagraph (ii) of paragraph (1), the occupancy of the original occupant is taxable whether or not the original occupant has the actual use or possession of the room and no tax will be paid by the person having actual use or possession of the room. See subdivision (b)(ii) of the definition of "occupancy," supra, in this section for the application of the tax to the occupancy by a sublessee of an occupancy that is related to the hotel operator.
+
+(c) The tax is applicable to any occupancy on and after July 1, 1970, even if such occupancy is pursuant to a contract, lease, or other arrangement made prior thereto.
+
+Occupant. An "occupant" is any person who, for a consideration, uses, possesses, or has the right to use or possess any room or rooms in a hotel under any lease, concession, permit, right of access, license to use or other agreement, or otherwise.
+
+Operator.
+
+(1) An "operator" is any person operating a hotel in the City of New York, including, but not limited to, the owner or proprietor of such premises, lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such hotel. For taxable periods beginning on or after June 1, 2002, a private club that, as an accommodation to its members, makes rooms available to such members in its own buildings is an "operator" within the meaning of the law.
+
+(2) For taxable periods beginning before June 1, 2002, any person who contracts away the use of a room or rooms in a hotel is an "operator." For example, a private club which, as an accommodation to its members, makes rooms available to such members either in its own buildings or in club rooms maintained in a hotel elsewhere, is an "operator" within the meaning of the law. For taxable periods beginning on or after June 1, 2002, any occupant who sublets or otherwise contracts away the right to use or possession of a room or rooms in a hotel is not an operator.
+
+Permanent resident.
+
+(1) A person is a "permanent resident" as of a given date if that person has occupied or has had the right to occupy a room or suite of rooms in a particular hotel for 180 consecutive days next preceding such date. (Prior to September 1, 1980, 90 days of occupancy qualified a person as a "permanent resident"). A person who enters into an agreement for occupancy for 180 consecutive days or more does not become a permanent resident under the law until that person has been an occupant for 180 consecutive days, and the operator is liable for the collection of the tax until such occupancy for 180 consecutive days has been completed. Where the tax has been collected by the operator for occupancy for less than 180 days and the occupant subsequently completes 180 consecutive days of occupancy, the operator may return such tax to the occupant. If the operator has paid such tax over to the Commissioner of Finance, the operator may, within one year from the date of the payment to the Commissioner of Finance, and provided the operator has returned such tax to the occupant, either take credit for the tax so paid on any subsequent return filed by the operator or file a claim for refund of such tax.
+
+(2) A person is not a permanent resident as of a given date unless that person has completed 180 days of consecutive occupancy in the same establishment immediately prior to that date. Thus, a person who has the right to use a room only on intermittent days of the week or of the month is not a permanent resident even though that person has had more than 180 days of occupancy in the aggregate. Similarly, a person who, after having been a permanent resident, surrenders his occupancy and then subsequently resumes its occupancy, is not a permanent resident under the later occupancy until that person completes 180 additional consecutive days of occupancy. Where a person transfers from one hotel to another, even though owned or operated by the same operator, that person is not a permanent resident of the latter establishment until that person has completed 180 consecutive days of occupancy therein. However, except as provided in subdivision (3) of this definition, a person who has completed 180 consecutive days of occupancy in different rooms of the same hotel is a permanent resident of that establishment. Where a permanent resident rents additional rooms on a temporary basis, that person is not considered a permanent resident with respect to such additional rooms unless such rooms are occupied for 180 or more consecutive days.
+
+(3) For purposes of the definition of permanent resident, days of consecutive occupancy shall not include any day that a person sublets or otherwise contracts away such person's occupancy of a room or rooms regardless of whether that person is an operator with respect to the subleasing of that room. If a person leases more than one room in a hotel that such person has sublet on some days, such person may not aggregate the days that it has not sublet any such room with the days that it has not sublet any other such room in order to qualify for permanent resident status. See illustration (vii). To illustrate:
+
+Illustration (i): A person occupies a certain room in a hotel for 57 days. On the 57th day that person moves to a different room in the same hotel, which that person occupies for an additional 130 days. This person is considered a permanent resident with respect to the occupancy of both rooms and that person is entitled to a refund of any tax paid with respect to the occupancy of the rooms.
+
+Illustration (ii): An airline corporation rents three rooms on an annual basis from a hotel. However, on occasion, when it requires additional rooms in the hotel for the use of its employees, it rents such additional rooms on a daily basis for a period less than 180 consecutive days. The hotel is required to charge and collect the tax from the airline corporation on the airline's occupancy of the additional rooms.
+
+Illustration (iii): B, an individual, resides in a hotel where that person has occupied a two-room suite for a period exceeding 180 consecutive days. B also rents a studio room for his own use in practicing piano. B has the exclusive use of this studio for a period of one hour per week. At other times, the room may or may not be rented to other persons. B's use of the studio room is subject to the tax.
+
+Illustration (iv): C, an individual, occupies a room in a hotel for a period of 180 days. He also rents two additional rooms for occupancy by his wife and his maid for a period of two weeks. The room occupied by his wife adjoins his room and the room occupied by his maid is on another floor of the hotel. The hotel operator is required to charge and collect the tax from C on the occupancy of the rooms occupied by C's maid and his wife.
+
+Illustration (v): D, an individual, occupies a room in a hotel for a period of more than 180 consecutive days. He rents an additional room in the same hotel for one day for the purpose of holding a party for his friends. The hotel is required to charge and collect the tax from D for the occupancy of the additional room.
+
+Illustration (vi): A corporation maintains a suite of rooms at a hotel on a permanent basis. During one week of the year, it holds a general sales meeting and for that purpose rents 75 additional rooms in the same hotel for the use of its employees. The hotel operator is required to charge and collect the tax from the corporation for the occupancy of the 75 additional rooms.
+
+Illustration (vii): Z, a tour company, contracts for 100 rooms in a hotel for 190 consecutive days. Z subleases 98 of the 100 rooms to its customers. Each of the 98 rooms is sublet for most of the 190-day period. However, there is no single day within the 190-day period on which all 98 rooms are sublet. Z uses the remaining two rooms to conduct its business. It does not sublease either of the two rooms for any period of time. Z becomes a permanent resident of the two rooms used to conduct its business when it completes 180 days of consecutive occupancy and is entitled to a refund of any tax paid with regard to the occupancy of these two rooms. Z does not become a permanent resident with respect to any of the 98 rooms that it subleases to customers even though at least one of the rooms is unoccupied for each of the 190 days.
+
+Person. The term "person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals or of the foregoing.
+
+Place of assembly. A "place of assembly" is an enclosed room or space in which 75 or more persons gather for religious, recreational, educational, political or social purposes, or for the consumption of food or drink, or for similar group activities, but excluding such spaces in dwelling units; or an outdoor space in which 200 or more persons gather for any of the above reasons. For purposes of this definition a room or space will be considered to be a place of assembly if either:
+
+(1) banquet or catering contracts indicate that at a particular function the expected attendance is 75 or more persons or
+
+(2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
+
+Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2,500 persons. Under certain circumstances the ballroom may be rented for a function for 1,000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1,000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
+
+Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
+
+Rent.
+
+(1) "Rent" is the consideration received for occupancy, valued in money, whether received in money or otherwise, including all receipts, cash, credits, and property or services of any kind or nature, and also any amount for which credit is allowed by the operator to the occupant, without any deduction therefrom whatsoever.
+
+(2) The entire amount charged by the operator for the use or possession of the room, of its furnishings, and of the services and accommodations accompanying its use and possession, constitutes rent under the law. Such services include but are not limited to the use of furniture and furnishings, maid and porter service, towel and linen service, doorman, bellman, and elevator service. The total charge for such services is deemed to be rent whether included in a lump-sum charge for the room or separately stated. Services and accommodations not deemed to accompany the use or possession of the room are the following: Food and liquor, valet and laundry service, and transportation and theatre ticket service. Where the operator separately charges for such services on any evidence of sale, such charges are not deemed to constitute rent. However, where a lump-sum charge for a room includes one or more such accommodations or services, the lump sum charge is deemed to constitute rent, except that where the charge includes meals the tax shall be applicable as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the total charge includes:
+      - The portion of the total charges subject to tax is: 
+    * - Breakfast, Lunch, Dinner
+      - 50% 
+    * - Lunch, Dinner
+      - 60% 
+    * - Breakfast, Dinner
+      - 60% 
+    * - Breakfast, Lunch
+      - 70% 
+    * - Dinner
+      - 75% 
+    * - Lunch
+      - 85% 
+    * - Breakfast
+      - 85% 
+~
+
+ 
+
+(3) Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to be served in such room, such use constitutes a taxable occupancy, and any separate charge for rent for such occupancy is subject to tax. If no separate charge for the room is made to such person, 20% of the total charge to such person for the food and/or drink shall be attributable to the use of such room and taxable as rent.
+
+To illustrate: In 1982, A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby B will furnish and serve A and his guests with food and/or drink in the Blue Room. The total charge to A for such food and/or drink is $150.00. No separate charge is made to A for the use of the Blue Room. Operator B is required to collect a tax of $1.50 from A.
+
+Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to the guests of such person, to be served in such room, and no separate charge is made for such use of the room, food and/or drink to such person, but a charge for the food and/or drink is made to the guests, 20% of the total charge to the guests for the food and/or drink shall be attributable to the use of such room by such person and taxable as rent. If the charge to the guests is less than a minimum amount guaranteed by such person, 20% of the guaranteed minimum shall be attributable to the use of such room by such person and taxable as rent.
+
+To illustrate: A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby the charge for the food and/or drink to be served in such room will be made directly to the guests and no separate charge will be made for the use of the Blue Room. The total sales realized by B are $90.00. B is required to collect a tax of $.50 from A. If A guaranteed B a minimum sales volume to his guests of $200.00 then B will be required to collect a tax of $2.00 from A.
+
+(4) The tax is not applicable to any rent which has been ascertained to be worthless. Where a tax has been paid upon rent which has subsequently been ascertained to be worthless, the operator may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
+
+(5) The tax is not applicable to rent which has been returned by an operator to an occupant. Where the operator has paid the tax on such rent to the Commissioner of Finance, he may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
+
+(6) A cash discount may not be deducted from rent. However, where a discount is unconditionally deducted by an occupant upon settlement of his bill and is allowed as a matter of established custom without regard to the due date of such bill, the amount of such discount is not deemed to be a part of the rent.
+
+(7) Complimentary accommodations. When a hotel furnishes complimentary accommodations for which there is no consideration no tax applies. To illustrate:
+
+Illustration (i) An operator of a hotel furnishes free of charge hotel room accommodations to governmental officials, friends or relatives of management, visiting hotel representatives, hotel employees and representatives of charitable and religious organizations. These complimentary hotel rooms are deemed to have been furnished gratuitously, and as such are not subject to the tax.
+
+Illustration (ii) An operator of a hotel furnishes complimentary rooms to persons who procure guests for the hotel, such as tour guides, travel representatives, teachers and chaperons in charge of student groups, or representatives of organizations at the time of the negotiations for future business for the hotel. The rooms furnished at such time are deemed to have been furnished in consideration of their efforts in bringing potential business to the hotel. Such occupancies are subject to the tax based upon the normal rental charge for the room.
+
+Illustration (iii) Association ABC holds its December convention at Hotel Y and receives five complimentary rooms for use by the association's officers and convention chairman for the duration of the convention. The complimentary rooms are not considered taxable.
+
+Room. Any portion of a hotel, whether used for dwelling, commercial or any other purpose, is a "room" under the law and these rules, except:
+
+(1) a bathroom or lavatory,
+
+(2) a place of assembly as defined in § 27-232 of the Administrative Code of the City of New York (See: 19 RCNY § 12-01 "place of assembly"),
+
+(3) a store, stand or counter to which access is had directly from public thoroughfares or street or mezzanine lobbies, and,
+
+(4) a lobby, public dining room or other public room when employed as such, provided, however, when such lobby, public dining room or other public room is used exclusively for a private purpose, the occupancy thereof is subject to tax (unless the room qualifies as a place of assembly). The term "room" shall include a kitchenette provided that it is a walk-in area, enclosed by walls, with one or more doorways, archways or other openings, it is supplied with a cooking appliance including but not limited to a range, microwave or convection oven, or hot plate, and it contains at least one item from each of two of the following three categories:
+
+   (i) a sink with running water, or dishwater;
+
+   (ii) a refrigerator;
+
+   (iii) a cabinet, counter top, or table.
+
+Example: A hotel suite contains a kitchenette with a microwave oven, refrigerator, sink, cabinets and a counter top.
+
+      (a) The kitchenette is a walk-in area with three walls and a wide opening on the fourth side. The kitchenette is a room.
+
+      (b) The above items are all set into a wall and there is no appurtenant walk-in area. The kitchenette is not a room.
+
+      (c) Same facts as in (a) except the microwave is not in the kitchenette but rather is outside the kitchenette. The kitchenette is a room.
+
+
+
+
+
+
+*§ 12-02 Imposition of the Tax.* ::
+
+
+(a) The law imposes a tax, measured by the rent per day, for every occupancy of a room or rooms in a hotel in the City of New York, commencing July 1, 1970, with certain exceptions set forth hereinafter.
+
+(b) On and after July 1, 1970 until August 31, 1980, the rates of tax were as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the rent per day for the room was:
+      - The tax was:   
+    * - Less than $10
+      - $  .25 per day
+    * - $10 or more, but less than $15
+      - $  .50 per day
+    * - $15 or more, but less than $20
+      - $  .75 per day
+    * - $20 or more
+      - $1.00 per day
+~
+
+
+
+ 
+
+(c) on and after September 1, 1980, the rates of tax are as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the rent per day for the room is:
+      - The tax is: 
+    * - Less than $10
+      -  $0.00
+    * - $10 or more, but less than $20
+      - $  .50 per day
+    * - $20 or more, but less than $30
+      - $1.00 per day
+    * - $30 or more, but less than $40
+      - $1.50 per day
+    * - $40 or more
+      - $2.00 per day
+~
+
+
+
+ 
+
+(d) Where a person occupies a room for less than a full day and pays less than the rent for a full day, the tax shall nevertheless be the same amount as would be due had such person occupied the room for a full day at the rent for a full day.
+
+(e) As used in the law and these regulations, the word "day" means any period of 24 consecutive hours, or the actual period of occupancy if less than 24 hours, due regard being had for the established check-out time and practices regarding the early check-in and late check-out of guests of the particular hotel. If the hotel does not impose an additional charge for early check-in or late check-out of guests, then the occupancy before or after the official check-in and check-out times is not taxable.
+
+To illustrate: A checks into Hotel B at 1:00 P.M. Monday afternoon and checks out at 6:00 P.M. Wednesday evening. The established check-out time at Hotel B is 12 noon. The period from 1:00 P.M. Monday to 12 noon Tuesday constitutes a day for purposes of the tax, as does the period from noon Tuesday to noon Wednesday. The period from 12 noon Wednesday to 6:00 P.M. Wednesday will constitute a day for purposes of the tax only if the hotel charges the guest for such period after the 12 noon established check-out time. Accordingly, if Hotel B imposes a charge for the late check-out A is deemed to have spent 3 days at Hotel B. However, if Hotel B does not impose any additional charge for late check-out then A is deemed to have spent 2 days at Hotel B.
+
+Where the rent is based on a term longer than one day, such as a weekly or monthly term, the rent per day is computed by dividing the total number of days of occupancy into the total charge for such occupancy.
+
+To illustrate: A occupies a hotel room during the month of September, 1982, at the rate of $750 per month. The rate per day is 1/30 × $750, or $25, and the tax is $1.00 per day.
+
+(f) Where the rent is for more than one room, including a suite of rooms, the daily rent for each room is determined by multiplying the daily rent for the group of rooms by a fraction, the numerator of which is the daily rent for the particular room, or a similar room, when such room is rented alone with similar bath facilities, and the denominator of which is the total of the daily rent for the individual rooms in the group of rooms, or similar rooms, when such rooms are rented alone with similar bath facilities.
+
+To illustrate: In 1982 A and his wife occupy a suite of hotel rooms for one day. The suite consists of a bedroom, a living room, and bathroom. The rent charged for the suite is $40 per day. When rented separately, the daily rents for the bedroom and living room are $20 and $30 respectively. The daily rent for the bedroom rented as part of the suite is 20/50 × $40, or $16; the daily rent for the living room is 30/50 × $40, or $24. Accordingly, the tax is $.50 for the bedroom and $1.00 for the living room. The bathroom is not considered a room, and is not subject to the tax.
+
+Where an entire rent is charged for more than one room, whether or not a suite, if such rooms are not otherwise rented separately, the daily rent per room is to be determined by dividing the entire rent by the number of rooms for which the charge is made. For example, if the entire charge for a suite of 3 rooms is $90 per day, the charge for each room is considered to be $30. A tax of $1.50 must be paid for each room, a total tax of $4.50 for the suite.
+
+(g) The tax is not imposed upon occupancy by a permanent resident as defined in 19 RCNY § 12-01 "Permanent Resident".
+
+(h) The tax is not imposed upon occupancy by the federal or New York State governments or political subdivisions of the State. (See: 19 RCNY § 12-03.)
+
+(i) The tax is not imposed upon occupancy by religious, charitable, and educational organizations, nor on rents received by such organizations, to the extent provided in 19 RCNY § 12-03.
+
+
+
+
+
+
+*§ 12-03 Exemptions.* ::
+
+
+The following persons are exempt from the tax:
+
+(a) The State of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State; the United States of America, insofar as it is immune from taxation; the United Nations or other worldwide international organizations of which the United States of America is a member.
+
+(b) Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision (b) shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision (b).
+
+(c) Where any organization described in subdivision (b) above, carries on its activities in furtherance of any of the purposes for which it was organized, in premises in which, as part of said activities, it operates a hotel, occupancy of rooms in said premises and rents therefrom received by such organization are not subject to the tax. An organization claiming exemption under subdivisions (b) and (c) above must make application for such exemption to the Commissioner of Finance and is required to submit to the Commissioner of Finance such information as will enable the Commissioner to rule upon the applicant's status. The Commissioner, if satisfied that the applicant is entitled to the exemption, will issue a letter of exemption to the applicant. An applicant for exemption is required to submit an affidavit which shall set forth the following:
+
+   (1) The type of organization,
+
+   (2) The purposes for which it is organized,
+
+   (3) Its actual activities,
+
+   (4) The source and disposition of its income,
+
+   (5) Whether or not any of its income is credited to surplus or may inure to any private stockholder or individual, and
+
+   (6) Such other facts which may affect its right to exemption. The affidavit must be supplemented by a copy of the articles of incorporation, or articles of association, as the case may be, a copy of the by-laws of the organization, a financial statement showing its assets and liabilities for the most recent year, and a photostatic copy of the letter, if any, from the United States Treasury Department granting the organization exemption from Federal income taxation. An organization which is an occupant of a hotel room and claims exemption from tax on such occupancy must furnish a copy of the letter of exemption to the hotel operator when claiming such exemption. Where the occupancy is by an agent, representative, or employee of the organization, a certificate, on the form prescribed by the Commissioner, certifying that the occupancy is solely for official purposes and that the rent has or will be paid by the organization, must be furnished to the operator.
+
+
+
+
+
+
+*§ 12-04 Government Agencies, Diplomatic and Consular Representatives.* ::
+
+
+(a) Occupancy of rooms by the Federal government or by the State or City of New York or by an agency of such governments, is not subject to the tax. Employees and representatives of such governments and agencies, who occupy rooms solely for official purposes, are not required to pay the tax, providing that they furnish to the operator certificates on the form prescribed by the Commissioner, certifying that the rent has been or will be paid by the governmental agency concerned.
+
+(b) Ambassadors, ministers and other diplomatic representatives of foreign governments properly accredited to the United States, are exempt from tax upon their occupancy of rooms. Such exemption does not apply to consular officers or to officers of foreign governments other than those hereinabove specified, unless such exemption arises from treaties or reciprocal agreements existing between such foreign governments and the United States. A person claiming exemption from the tax under this subdivision is required to apply in writing therefor to the Commissioner of Finance, submitting with his application a copy or other evidence of the appropriate treaty or reciprocal agreement between his government and the United States. If the request for exemption is approved, a letter of exemption will be issued to the applicant, and a copy of such letter must be submitted to the operator whenever claim for exemption is made.
+
+
+
+
+
+
+*§ 12-05 Presumption and Burden of Proof.* ::
+
+
+It shall be presumed that all rents are subject to tax until the contrary is established, and the burden of proving that rent for occupancy is not taxable under the law shall be upon the operator or the occupant.
+
+
+
+
+
+
+*§ 12-06 Registration.* ::
+
+
+(a)  Every operator is required to file a certificate of registration in a form prescribed by the Commissioner of Finance. In the case of operators commencing business or opening new hotels the certificate is required to be filed with the Commissioner of Finance within three days after such commencement or opening. An operator of a hotel having 10 or more rooms or 10 or more apartments or living units offered for lodging of guests is deemed to have commenced business or opened a new hotel when such rooms are first offered to the public. In the case of a building or portion of a building having fewer than 10 rooms or fewer than 10 apartments or living units offered for lodging of guests, the operator will be considered to have commenced business or to have opened a hotel as of the first date that the rental of such rooms or living units exceeds either of the de minimis thresholds described in subsection a of 19 RCNY § 12-01 (i.e., such rooms or units are rented on three or more occasions or for more than 14 days in the aggregate) during any four consecutive quarterly tax periods, or, beginning on and after March 1, 2005, during any twelve-month tax period. Within five days after such registration, the Commissioner of Finance shall issue, without charge, to each operator, a certificate of authority empowering such operator to collect the tax from the occupant, and, in addition, a certificate of authority for each additional hotel of such operator. Each certificate shall state the hotel to which it is applicable. Such certificate of authority must be prominently displayed by the operator in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates are not assignable or transferable and must be surrendered immediately to the Commissioner of Finance upon the cessation of business at the hotel named therein, or upon its sale or transfer, together with an affidavit setting forth the pertinent details of such cessation. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). If the business is continued at the same place, but there is a change in the form of the organization, such as from a single proprietorship to a partnership or corporation, the operator is required to return his certificate for cancellation, and the successor is required to file a new application for a certificate of authority.
+
+(b) Registration hereunder is separate and apart from registration under the Sales Tax, and the operator who is registered under the Sales Tax must also register under the Tax on Occupancy of Hotel Rooms.
+
+
+
+
+
+
+*§ 12-07 Filing of Returns and Payment of Tax.* ::
+
+
+(a)  Except as provided herein, every operator shall file with the Commissioner of Finance a return of occupancy and of rents, and of the taxes payable thereon, on the form prescribed by the Commissioner of Finance, for the quarterly periods ending on the last day of February, May, August, and November of each year. Notwithstanding the foregoing, with respect to tax periods beginning on and after the first day of September, 2004, (i) an operator of a hotel having fewer than 10 rooms may file the above return for each such hotel on an annual basis for each twelve-month period ending on the last day of February of each year, and (ii) an operator of fewer than 10 furnished apartments or living units may file the above return on an annual basis for each twelve-month period ending on the last day of February of each year covering all such apartments or living units. Such returns shall be filed within twenty days after the last day of each such period. For the period beginning September 1, 2004 and ending February 28, 2005, an operator of fewer than 10 apartments or living units or of a hotel having fewer than 10 rooms may file the above return for each such hotel or apartments or living units covering that period on or before March 21, 2005. An operator of fewer than 10 rooms or fewer than 10 apartments or living units, after having registered, is required to file a return for each subsequent quarterly or annual period thereafter regardless of whether the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). An operator who ceased business must file a final return within twenty days from the date such business ceased, covering the period or portion of the period during which he conducted such business subsequent to the period for which a return was last required to be filed. If the business was sold, the purchaser thereof must file a return for the period from the date of purchase to the end of the period of which a return is required to be filed. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). Whenever an operator is not required to charge or collect the tax, the Commissioner of Finance may, upon application in writing made by such operator, waive the requirement for the filing of returns. All returns must be filed with the Bureau of Tax Operations of the Department of Finance at the address designated on the return form. The return of an individual must be signed by such individual unless he is absent from the City, ill or otherwise incapacitated, in which event the return may be signed by his duly authorized representative or agent. The return of a corporation must be signed by an officer thereof; the return of a partnership must be signed by a general partner thereof. The Commissioner of Finance may, for good cause, extend the time for filing any return for a period not exceeding 30 days.
+
+(b) At the time of filing a return, each operator shall pay to the Commissioner of Finance the tax due, as well as all other monies collected by the operator acting or purporting to act under the law even though it is determined that the tax collected was invalidly imposed. The tax for the period for which a return is required to be filed shall be due from the operator and payable to the Commissioner of Finance on the date prescribed for the filing of such return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rent and the tax due thereon. Payment of the tax shall be made in cash, or by check, money order or draft drawn to the order of the City Collector. Cash payments must be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of tax.
+
+(c) The Commissioner of Finance may require any operator within the City to file an information return, on a form prescribed by the Commissioner of Finance, at such time and containing such information as the Commissioner of Finance deems necessary for the proper administration of the law.
+
+(d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns and reports and the electronic payment of tax required by this chapter.
+
+
+
+
+
+
+*§ 12-08 Liability for Charging, Collecting and Paying the Tax.* ::
+
+
+(a) The law requires that upon every taxable occupancy, the operator shall charge and collect the tax from the occupant. The tax to be collected must be charged and stated separately from the rent and shown separately on any record thereof, at the time when the occupancy is contracted and charged for. The tax shall also be stated and separately charged upon every evidence of occupancy or any bill or statement of charge made for said occupancy issued or delivered by the operator. The tax shall be paid by the occupant to the operator as trustee for and on account of the City, and kept separate from all other funds in the possession of the operator and the operator shall be liable for the collection thereof and for the tax. The operator and any officer of any corporate operator shall be personally liable for the tax collected or required to be collected under the law. The operator shall have the same right in respect to collecting the tax from the occupant, or in respect to nonpayment of the tax by the occupant, as if the tax were a part of the rent for the occupancy payable at the time such tax shall become due and owing, including all rights of eviction, dispossession, repossession and enforcement of any innkeeper's lien that he may have in the event of nonpayment of rent by the occupant; provided, however, that the Commissioner of Finance shall be joined as a party in any action or proceeding brought by the operator to collect or enforce collection of the tax.
+
+(b) No operator may absorb the tax required to be collected, or tell the occupant that he will pay such tax, nor may he advertise or hold out to the public in any manner, directly or indirectly, that the tax is not deemed to be an element in the rent. Any operator and any officer of a corporate operator or partner in a partnership which is an operator who willfully fails to charge the tax separately from the rent, or willfully fails to state the tax separately from the rent, or willfully fails to or refuses to collect the tax from the occupant, or refers or causes reference to be made to the tax in any invoice, placard or advertisement in a form other than that required by law, is guilty of a misdemeanor. (See: 19 RCNY § 12-11 for penalties.)
+
+(c) Where the occupant has failed to pay and the operator has failed to collect the tax imposed by law, then, in addition to all other rights, obligations and remedies, such tax shall be payable by the occupant directly to the Commissioner of Finance, and it shall be the duty of the occupant to file a return thereof with the Commissioner of Finance and to pay the tax so imposed to the Commissioner of Finance within 15 days after such tax was due.
+
+(d) All monies collected by the operator or charged by him while acting, or purporting to act, under the law must be paid to the City, even though it is judicially determined that the tax was invalidly imposed.
+
+
+
+
+
+
+*§ 12-09 Surety Bond.* ::
+
+
+(a) Where the Commissioner of Finance in his discretion deems it necessary to protect revenues to be obtained under the law, he may require any operator required to collect the tax to file with him a bond, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York as to solvency and responsibility, in such amount as the Commissioner of Finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator. In the event that the Commissioner of Finance determines that an operator is to file such bond he shall give notice to such operator to that effect, specifying the amount of the bond required. The operator shall file such bond within five days after the giving of such notice, unless within such five days the operator shall request in writing a hearing before the Commissioner of Finance at which the necessity, propriety and amount of the bond shall be determined by the Commissioner of Finance. Such determination shall be final and shall be complied with within 15 days after the giving of notice thereof. In lieu of such bond, securities approved by the Commissioner of Finance, or cash in such amount as he may prescribe, may be deposited, and shall be kept in the custody of the Commissioner of Finance, who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him at public or private sale without notice to the depositor thereof.
+
+(b) As an alternative to filing a surety bond or depositing securities, the Commissioner of Finance may require or permit an operator required to collect the tax to deposit all taxes which become collectible in any banking institution located in the City, the deposits in which are insured by any agency of the federal government. Such deposits shall be made into and kept in a separate account, in trust and payable to the Commissioner of Finance, until payment over to the Commissioner of Finance. Such account shall remain open, and deposits made therein, until a notice of cancellation is given by the Commissioner of Finance.
+
+
+
+
+
+
+*§ 12-10 Returns To Be Secret.* ::
+
+
+Except in accordance with judicial order or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any officer or employee of the Department of Finance to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under the law. The officers charged with the custody of such returns are not required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of and may admit in evidence so much of the returns or of the facts shown thereby as are pertinent to the action or proceeding and no more. A taxpayer may obtain a certified copy of any return filed in connection with his tax upon application in writing to the Commissioner. Where a representative of a taxpayer applies for a certified copy of such return, he must file a power of attorney with the application. A certified copy of a taxpayer's return or of information contained therein or relating thereto may be delivered to the United States of America or any department thereof, the State of New York or any department thereof, any agency or any department of the City of New York provided the same is requested for official business. The Corporation Counsel or other legal representatives of the City or the District Attorney of any county within the City may be permitted to inspect returns for official business. Nothing herein shall be construed to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
+
+
+
+
+
+
+*§ 12-11 Interest.* ::
+
+
+If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
+
+
+
+
+
+
+*§ 12-12 Penalties.* ::
+
+
+(a) Civil penalties. Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:
+
+   (1) Failure to file return.
+
+      (i) In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, this is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.
+
+      (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph (1) shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
+
+      (iii) For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
+
+   (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
+
+   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 12-15), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+
+   (4) Limitations on additions:
+
+      (i) With respect to any return the amount of the addition to tax is limited to the following:
+
+         (A) At no time will the addition for one (1) month be more than five percent (5%).
+
+         (B) If paragraphs (1) and (2) of this subdivision (a) are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e. the lesser of $100 or 100% of tax due).
+
+         (C) If paragraphs (1) and (3) of this subdivision (a) are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (a) (determined without regard to subparagraph (ii) of such paragraph (1), which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.
+
+      (ii) The provisions of this paragraph may be illustrated by the following examples:
+
+Example A: (a) Assume the taxpayer filed his tax return for the quarter ending February, 1983  on June 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on July 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from March 21 through July 20, and 0.5% for the fractional part of the month from July 21 through July 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
+      -  $200 
+    * - Reduced by the amount of the addition imposed under paragraph (2) for those months
+      -  $16 
+    * - Addition to tax under paragraph (1)
+      -  $184 
+~
+
+
+
+ 
+
+Example A: (b) A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
+      -  $12 
+    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
+      -  $50 
+    * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
+      -  $40 
+    * - Maximum amount of the addition under paragraph (3)
+      -  $10 
+~
+
+
+
+ 
+
+Example B: (a) A taxpayer files his tax return for the quarter ending February, 1983 on November 7, 1983, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on November 7, 1983. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Penalty at 5% for maximum of 5 months, 25% of $500
+      -  $125.00
+    * - Less reduction for the amount of the addition under paragraph (2): 
+      - 
+    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months March 16 through August 20 of the net amount due ($500)
+      - $12.50
+    * - Additional to tax under paragraph (1)
+      -  $112.50
+~
+
+
+
+ 
+
+   (5) Reasonable cause as used in paragraphs (1), (2) and (3) of this subdivision (a) must be affirmatively shown in a written statement. The taxpayer's previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:
+
+      (i) death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;
+
+      (ii) destruction of the taxpayer's place of business or business records by fire or other casualty;
+
+      (iii) timely prepared reports misplaced by a responsible employee discovered after the due date;
+
+      (iv) inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;
+
+      (v) any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.
+
+   (6) Underpayment due to negligence.
+
+      (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
+
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+   (7) Underpayment due to fraud.
+
+      (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
+
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+      (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision (a).
+
+   (8) Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply any information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.
+
+   (9) The additions to tax and penalties provided by this subdivision (a) shall be paid and enforced in the same manner as taxes.
+
+   (10) Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.
+
+(b) Criminal penalties.
+
+   (1) Any person who willfully fails to file a registration certificate as required by the law and such data in connection therewith as the Commissioner of Finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by the law, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this paragraph shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
+
+   (2) Any person who willfully fails to charge separately the tax imposed under the law or willfully fails to state such tax separately on any bill, statement, memorandum or receipt issued or employed by such person upon which the tax is required to be stated separately as provided in the law, or who shall refer or cause reference to be made to this tax in a form or manner other than required by the law, shall be guilty of a mis- demeanor.
+
+   (3) Failure to collect tax. Any person who willfully fails to collect any tax required to be collected under the law shall be guilty of a misdemeanor.
+
+   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required under the law shall be guilty of a misdemeanor.
+
+   (5)  Failure to obey subpoena; false testimony.
+
+      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
+
+         (A) fails or refuses to attend without lawful excuse,
+
+         (B) refuses to be sworn,
+
+         (C) refuses to answer any material and proper question, or
+
+         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
+
+      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
+
+   (6) Willful failure to file a return or report or pay the tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
+
+   (7) Fraudulent returns, reports, statements or other documents.
+
+      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
+
+      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
+
+      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
+
+   (8) The penalties provided for in this subdivision (b) shall not preclude prosecution pursuant to the penal law with respect to the willful failure of any person to pay over to the City any hotel room occupancy tax imposed by law, whenever such person has been required to collect and has collected any such tax. In any such prosecution under the penal law, a person who has been required to collect and has collected any such tax shall be deemed to have acted in a fiduciary character with respect to the City, and the tax collected shall be deemed to have been entrusted to such person by the City.
+
+(c) Liability of officers or partners and effect of Certificate of Commissioner.
+
+   (1) Officers of a corporate operator and partners in a partnership which is an operator are personally liable for the tax collected or required to be collected by such corporation or partnership, and are subject to the penalties and interest imposed by law.
+
+   (2) The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a return, bond or registration certificate has not been filed, or that information has not been supplied pursuant to the provisions of the law shall be presumptive evidence thereof.
+
+
+
+
+
+
+*§ 12-13 Refunds.* ::
+
+
+The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, provided:
+
+(a) A written application for refund or credit was made to the Commissioner of Finance within one year from the payment thereof, and
+
+(b) The application is made by the occupant, operator or other person who actually paid the tax, or
+
+(c) The application is made by an operator who collected and paid over such tax to the Commissioner of Finance; however, no refund shall be made until the operator shall first establish to the satisfaction of the Commissioner of Finance that he repaid the occupant the amount for which the application is made. In such case, the period within which application for refund may be made begins when the payment is made by the occupant to the operator. No specific form has been prescribed for refund applications. An application for refund, however, shall be in writing and shall comply with the following requirements:
+
+(d) It must be signed by the applicant or his duly authorized agent. If signed by an agent, the application must be accompanied by a power of attorney acceptable to the Commissioner of Finance.
+
+(e) It must demonstrate that the refund provisions of the law have been complied with.
+
+(f) It must be accompanied by the cancelled check or a photostatic copy thereof, showing both the front and back of the check; or, if paid by cash or money order, by evidence of such payment. Whenever a taxpayer files a claim for refund, such application shall constitute an application for revision of the tax, penalty or interest complained of. The Commissioner of Finance may audit the taxpayer's books and records or may grant the refund subject to future audit. The Commissioner of Finance may determine without resorting to an audit that, based upon the evidence presented, the claim is without merit and, therefore, deny it. The Commissioner of Finance will notify the taxpayer in writing of his determination. Such determination shall become final and irrevocable unless the person to whom it is addressed shall, within 30 days after the date thereof, apply to the Commissioner of Finance for a hearing. A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by 19 RCNY § 12-15, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
+
+
+
+
+
+
+*§ 12-14 Records To Be Kept.* ::
+
+
+Every operator is required to keep records of room rentals and of the tax payable thereon. In addition to the general books of account, such records shall also include guests' registration records, rental contracts and leases, banquet records wherever applicable and such other records as will enable the Commissioner of Finance to determine the room rentals and the proportionate part of receipts from sale of food and/or drink which under these regulations constitutes rentals. In addition to the above records, operators must also retain all exemption certificates filed by exempt organizations and by the Federal government, or by the State or City of New York, or by an agency of such governments, and records of all other rentals which are not subject to tax. Exemption certificates from occupants who are not entitled to exemption should not be accepted, and the Commissioner of Finance will reject any exemption certificate obtained from an occupant who is not entitled to exemption. The records hereinabove prescribed are in addition to all other records which must be retained by an operator as provided for in any other State or City tax law. Unless the operator maintains adequate records showing rentals and the tax due thereon, the Commissioner of Finance reserves the right to determine the amount of such rentals and the tax due thereon from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as the number of rooms, location, scale of rents, comparable rents, type of accommodation and service, number of employees and/or other factors. Records of operators are to be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years unless permission in writing is obtained from the Commissioner of Finance to destroy them before the expiration of such period.
+
+
+
+
+
+
+*§ 12-15 Determination of Tax.* ::
+
+
+If a return required by law is not filed or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the Commissioner of Finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocable fix the tax unless the person against whom it is assessed, within 30 days after giving of notice of such determination, shall apply to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance of his own motion shall re-determine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the Supreme Court within 30 days after the giving of the notice of such determination. A proceeding under Article 78 of the Civil Practice Law and Rules shall not be instituted unless:
+
+(a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in this State and approved by the Superintendent of Insurance of this State as to solvency and responsibility, in such amount as a Justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or
+
+(b) at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the application shall net be required to deposit such taxes, penalties and interest as a condition precedent to the application.
+
+
+
+
+
+
+*§ 12-16 Proceedings To Recover Tax.* ::
+
+
+Whenever any operator or any officer of a corporate operator or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this title, the Corporation Counsel shall, upon the request of the Commissioner of Finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the State of New York or of any other state or of the United States. If, however, the Commissioner of Finance, in his discretion, believes that any such operator, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately. As an additional or alternate remedy, the Commissioner of Finance may issue a warrant, directed to the City Sheriff commanding him to levy upon and sell the real and personal property of the operator or officer of a corporate operator or of the occupant or other person liable for the tax, which may be found within the City, for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the Commissioner of Finance and to pay to him the money collected by virtue thereof within sixty days after the receipt of such warrant. The City Sheriff shall within five days after the receipt of the warrant file with the County Clerk a copy thereof; and thereupon such clerk shall enter the judgment docket the name of the person mentioned in the warrant and the amount of the tax, penalties and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The City Sheriff shall then proceed upon the warrant, in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record, and for services in executing the warrant he shall be entitled to the same fees, which he may collect in the same manner. In the discretion of the Commissioner of Finance a warrant of like terms, force and effect may be issued and directed to any officer or employee of the Finance Department, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the Commissioner of Finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the City has recovered judgment therefor and execution thereon had been returned unsatisfied.
+
+
+
+
+
+
+*§ 12-17 Notice and Limitations of Time.* ::
+
+
+(a) Any notice authorized or required under the provisions of this law may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him pursuant to the provisions of this law or in any application made by him, or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this law by the giving of notice shall commence to run from the date of mailing of such notice.
+
+(b) The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax, penalty or interest provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of the return; provided, however, that where no return has been filed as provided by law, the tax may be assessed at any time.
+
+(c) Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
+
+
+
+
+
+
+*§ 12-18 Reference to Tax.* ::
+
+
+Whenever reference is made in placards or advertisements or in any other publication to the tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms," except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
+
+
+
+
+
+
+*§ 12-19 Bulk Sales.* ::
+
+
+Whenever an operator shall make a sale, transfer, or assignment in bulk of any part or the whole of his hotel premises or his lease, license or other agreement or right to possess or operate such hotel, or of the equipment, furnishings, fixtures, supplies or stock of merchandise, or the said premises or lease, license or other agreement or right to possess or operate such hotel and the equipment, furnishings, fixtures, supplies and stock of merchandise pertaining to the conduct or operation of said hotel otherwise than in the ordinary and regular prosecution of business, the purchaser, transferee or assignee shall at least ten days before taking possession of the subject of the sale, transfer or assignment, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms, and conditions thereof whether or not the seller, transferrer or assignor has represented to, or informed the purchaser, transferee or assignee that he owes any tax pursuant to law, and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the City, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assigner any such sums of money, property or choses in action to the extent of the amount of the City's claim. For failure to comply with the provisions of this Section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code shall be personally liable for the payment to the City of any such taxes theretofore or thereafter determined to be due to the City from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.
 
 
 

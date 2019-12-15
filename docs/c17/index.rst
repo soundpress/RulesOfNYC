@@ -24,6 +24,59 @@ Chapter 1: Eligibility of Homeless Families and Individuals To Rent City-Owned A
 
 
 
+Chapter 3: Single Adult Homeless Shelter
+--------------------------------------------------
+
+
+
+*§ 3-01 Single Adult Resource Assessment.* ::
+
+
+(a) Definitions.
+
+   (1) Official shelter: The single adult shelter to which an adult shelter client has been assigned, following intake and assessment.
+
+   (2) Extended absence: An exit from the single adult shelter system lasting at least 30 consecutive days.
+
+   (3) Returnee: An adult shelter client who returns to a single adult shelter after an extended absence and within 365 days.
+
+   (4) Single Adult Resource Assessment: An assessment to identify alternative housing options available to a Returnee and to connect a Returnee to resources or benefits to avoid re-entry into shelter.
+
+   (5) Diversion services: Services offered at a single adult intake center directed at finding non-shelter housing alternatives and resources.
+
+   (6) Diversion office: An office located at a single adult intake center that provides diversion services.
+
+(b) Upon a Returnee's return to the adult shelter system, shelter staff must determine whether, based on the entirety of the Returnee's circumstances, the Returnee will return to his or her official shelter or be referred to a diversion office for a Single Adult Resource Assessment. Factors whose presence would allow the Returnee to return to his or her official shelter and not be referred for a Single Adult Resource Assessment include but are not limited to:
+
+   (1) The Returnee has a mental or physical disability;
+
+   (2) Either the Returnee, or the primary tenant of the residence where the Returnee had been living prior to returning to shelter, has been evicted;
+
+   (3) A vacate order has been issued for the residence where the Returnee had been living during his or her extended absence;
+
+   (4) The Returnee was recently discharged from a prison, hospital, residential treatment facility, or other institution;
+
+   (5) The Returnee is a victim of domestic violence; or
+
+   (6) The Returnee has been living on the street.
+
+If one or more of these factors are present, the Returnee must be assigned a bed at his or her official shelter. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available. If none of these factors are present, shelter staff must refer the Returnee to a diversion office for a Single Adult Resource Assessment.
+
+(c) If shelter staff determines that the Returnee must be referred for a Single Adult Resource Assessment, the Returnee must appear in person at a diversion office. DHS must provide transportation services or MetroCards to transport the Returnee to a diversion office. No Returnee will be transported at a time, or in a manner, that would be unsafe for the Returnee due to illness or intoxication.
+
+(d) Single Adult Resource Assessment.
+
+   (1) Upon the Returnee's arrival at a diversion office during regular business hours for conducting Single Adult Resource Assessments, diversion staff must conduct a Single Adult Resource Assessment with the Returnee.
+
+   (2) If the Returnee arrives at a diversion office after regular business hours for conducting Single Adult Resource Assessments, he or she must be temporarily assigned a bed and provided meals and shower facilities at the diversion office until a Single Adult Resource Assessment can be conducted the next business day.
+
+(e) Following the Single Adult Resource Assessment, if the Returnee does not have an alternative housing option, or has such an option but does not wish to return to or utilize the option, he or she must be referred back to his or her official shelter as soon as a bed is available. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available.
+
+(f) For a Returnee who is not referred to a diversion office for a Single Adult Resource Assessment, diversion staff may, at their discretion, conduct such an assessment over the phone with the Returnee at his or her official shelter.
+
+
+
+
 Chapter 2: Single Adult Homeless Shelter
 --------------------------------------------------
 
@@ -75,59 +128,6 @@ Chapter 2: Single Adult Homeless Shelter
 (e) Should a client view a housing option provided by a potential landlord or agent and believe that it meets one or more of the criteria set forth in subdivision (a) of this section, the shelter provider must offer to assist the client in making a complaint to the 311 citizen service center. The shelter provider must provide the client with access to a telephone if the client does not have one available. If the client refuses to accept the housing option based on his/her report of a condition that would make the housing option inappropriate under such criteria, the shelter provider must not make the referral. If an inspection conducted by the Department of Buildings and/or Department of Housing Preservation and Development subsequent to a 311 complaint determines that the housing option does not meet any of the criteria set forth in subdivision (a) of this section, the shelter provider may make the referral. In the event a client refuses the referred housing option, the reason(s) for the refusal must be documented in the client's case record.
 
 (f) Shelter providers must distribute to all clients in shelter a plain language document that describes the conditions that preclude a referral to a housing option meeting one or more of the criteria set forth in subdivision (a) of this section and contains information about how to contact the Department of Buildings and the 311 citizen service center.
-
-
-
-
-Chapter 3: Single Adult Homeless Shelter
---------------------------------------------------
-
-
-
-*§ 3-01 Single Adult Resource Assessment.* ::
-
-
-(a) Definitions.
-
-   (1) Official shelter: The single adult shelter to which an adult shelter client has been assigned, following intake and assessment.
-
-   (2) Extended absence: An exit from the single adult shelter system lasting at least 30 consecutive days.
-
-   (3) Returnee: An adult shelter client who returns to a single adult shelter after an extended absence and within 365 days.
-
-   (4) Single Adult Resource Assessment: An assessment to identify alternative housing options available to a Returnee and to connect a Returnee to resources or benefits to avoid re-entry into shelter.
-
-   (5) Diversion services: Services offered at a single adult intake center directed at finding non-shelter housing alternatives and resources.
-
-   (6) Diversion office: An office located at a single adult intake center that provides diversion services.
-
-(b) Upon a Returnee's return to the adult shelter system, shelter staff must determine whether, based on the entirety of the Returnee's circumstances, the Returnee will return to his or her official shelter or be referred to a diversion office for a Single Adult Resource Assessment. Factors whose presence would allow the Returnee to return to his or her official shelter and not be referred for a Single Adult Resource Assessment include but are not limited to:
-
-   (1) The Returnee has a mental or physical disability;
-
-   (2) Either the Returnee, or the primary tenant of the residence where the Returnee had been living prior to returning to shelter, has been evicted;
-
-   (3) A vacate order has been issued for the residence where the Returnee had been living during his or her extended absence;
-
-   (4) The Returnee was recently discharged from a prison, hospital, residential treatment facility, or other institution;
-
-   (5) The Returnee is a victim of domestic violence; or
-
-   (6) The Returnee has been living on the street.
-
-If one or more of these factors are present, the Returnee must be assigned a bed at his or her official shelter. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available. If none of these factors are present, shelter staff must refer the Returnee to a diversion office for a Single Adult Resource Assessment.
-
-(c) If shelter staff determines that the Returnee must be referred for a Single Adult Resource Assessment, the Returnee must appear in person at a diversion office. DHS must provide transportation services or MetroCards to transport the Returnee to a diversion office. No Returnee will be transported at a time, or in a manner, that would be unsafe for the Returnee due to illness or intoxication.
-
-(d) Single Adult Resource Assessment.
-
-   (1) Upon the Returnee's arrival at a diversion office during regular business hours for conducting Single Adult Resource Assessments, diversion staff must conduct a Single Adult Resource Assessment with the Returnee.
-
-   (2) If the Returnee arrives at a diversion office after regular business hours for conducting Single Adult Resource Assessments, he or she must be temporarily assigned a bed and provided meals and shower facilities at the diversion office until a Single Adult Resource Assessment can be conducted the next business day.
-
-(e) Following the Single Adult Resource Assessment, if the Returnee does not have an alternative housing option, or has such an option but does not wish to return to or utilize the option, he or she must be referred back to his or her official shelter as soon as a bed is available. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available.
-
-(f) For a Returnee who is not referred to a diversion office for a Single Adult Resource Assessment, diversion staff may, at their discretion, conduct such an assessment over the phone with the Returnee at his or her official shelter.
 
 
 

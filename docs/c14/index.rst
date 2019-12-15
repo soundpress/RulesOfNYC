@@ -1,6 +1,311 @@
 Title 28: Housing Preservation and Development
 ===================================================
 
+Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
+--------------------------------------------------
+
+
+
+*§ 2-01 General Provisions.* ::
+
+
+(a) Purpose. This chapter (and any applicable regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement) shall govern the making of loans for rehabilitation and improvement pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York.
+
+(b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
+
+   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
+
+   City. "City" shall mean the City of New York.
+
+   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
+
+   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
+
+   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
+
+   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
+
+   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
+
+   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
+
+   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
+
+   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
+
+   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
+
+   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
+
+   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
+
+   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
+
+   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
+
+      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
+
+      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
+
+   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
+
+   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
+
+
+
+
+
+
+*§ 2-02 Eligibility and General Conditions.* ::
+
+
+(a) Eligible buildings. 
+
+   (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
+
+   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
+
+(b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
+
+   (1) Construction costs and filing fees required by the Department of Buildings and other governmental agencies having jurisdiction.
+
+   (2) Interim interest on the loan proceeds.
+
+   (3) Recording and filing fees and mortgage taxes.
+
+   (4) Payment and Performance Bond(s).
+
+   (5) Fees or charges attributable to the examination and insurance of title.
+
+   (6) Real estate taxes, assessments, water and meter charges and sewer rents.
+
+   (7) Fire insurance premiums.
+
+(c) Maximum amount. The loan amount shall not exceed an average of ten thousand ($10,000) dollars per dwelling unit or the actual cost of the rehabilitation or improvement, whichever is less.
+
+(d) Term. The term of a loan shall not exceed twenty years, except that the term of a loan whose amount exceeds an average of five thousand ($5,000) dollars per dwelling unit shall not exceed thirty (30) years. In no event shall the term of any loan exceed the useful life of the rehabilitation or improvement.
+
+(e) Interest rate. The interest rate shall be three (3%) percent per annum, except where otherwise determined by the Department.
+
+(f) Protection of mortgage lien. Subsequent to the loan closing, the Department at its discretion may pay any liens and charges the priority of which are superior to its mortgage and may pay such other expenses as may be appropriate to protect its loan or to protect the lien of the mortgage relating thereto, provided that such expenditures shall not exceed one-half of the total amount of the loan.
+
+
+
+
+
+
+*§ 2-03 Application Procedure.* ::
+
+
+(a) Application forms. Application forms may be obtained from the Department, 100 Gold Street, New York, N.Y. 10038, Attention: Article VIII-A Loan Program. All applications shall be submitted to the Department for review and approval.
+
+(b) Eligible applicants. Loan applications may be submitted by an owner or his duly authorized agent or by a contract vendee who becomes an owner prior to or simultaneously with the loan closing.
+
+(c) Application submission. The application, in form specified by the Department, shall include the following:
+
+   (1) A description of the rehabilitation or improvement and the estimated cost thereof.
+
+   (2) The name, address and telephone number of the applicant, the owner, the managing agent and the holders of existing mortgages and other liens against the multiple dwelling.
+
+   (3) A statement of income and expenses for a period of time to be determined by the Department.
+
+   (4) A statement of the current monthly rent or carrying charges of each residential and commercial unit, the name of each residential tenant, the number of rooms in each residential unit, and the rent controlled or rent stabilized status of each residential unit.
+
+   (5) A statement of the current non-publicly assisted, rent stabilized market rents of residential units in the building and, if known, a similar statement for comparable apartments in adjacent buildings or buildings in the immediate vicinity.
+
+   (6) Such additional information as the Department may require.
+
+(d) Consultation. The staff of the Department will be available for preapplication consultation.
+
+(e) Certification of inability to obtain financing. With the application, the owner shall submit an affidavit certifying that within the prior six months attempts to obtain financing for the rehabilitation or improvement at prevailing interest rates with the premises as security, from at least two (2) lending institutions which normally provide this type of financing were not successful, and, if known, the reasons for such failure or other factors indicating an inability of the private sector to provide unaided financing. If the multiple dwelling is encumbered by a mortgage held by a lending institution whose deposits are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or their successors, such mortgagee shall be one of the lending institutions to which the applicant made an attempt to obtain such financing.
+
+(f) Application fee. The owner shall pay an application fee in the amount of seventy-five ($75) dollars for each building for which application is made. Payment shall be made no later than the date of the Department's loan closing. The fee shall not be refundable and shall be used to help defray the expenses of the City in administering the Program. In the case of applications covering two or more adjacent buildings the application fee shall be seventy-five ($75) dollars for the first building and fifty ($50) for each additional building.
+
+(g) Loan commitment. No commitment for a loan shall be deemed to have been made unless and until a written letter of commitment shall have been issued by the Department. Any commitment issued shall be conditioned upon full and timely compliance with the requirements of these Rules and Regulations, the availability of funds to make the loan and such other terms and conditions as the Department may require. The acceptance or processing of a loan application by the Department may not be construed to be a commitment for a loan. A commitment may only be issued in writing and no owner, applicant or other party may rely upon any statement or representation made by any official, employee or agent of the Department regarding the loan application.
+
+
+
+
+
+
+*§ 2-04 Determination of Feasibility and Conditions Precedent to Making a Loan.* ::
+
+
+(a) Low income tenancy and rent increases.
+
+   (1) Covenant on low income tenancy. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
+
+      (i) Upon vacancy, each dwelling unit in the multiple dwelling shall be available solely for occupancy by persons or families of low income; and
+
+      (ii) No person living in the multiple dwelling at the time the loan is made shall be required to move because of the rehabilitation or improvement financed by the loan, other than temporarily during the course of construction.
+
+   (2) Rent increases.
+
+      (i) The Department, in its sole discretion, shall have the option to adjust the rent for each rental unit within the multiple dwelling pursuant to authority granted by subdivision 7 of § 452 of the Private Housing Finance Law of the State of New York. The total rental adjustment shall be in an amount not in excess of the debt service (both principal and interest) calculated on that portion of the loan which the Department attributes to the financing of the rehabilitation of the rental units as if such loan were to be repaid over a self-amortizing term to be determined by HPD which shall be not less than ten (10) years for loans averaging five thousand ($5,000) dollars or less per dwelling unit, and not less than fifteen (15) years for loans exceeding five thousand ($5,000) dollars per dwelling unit. The initial rental adjustment for each rental dwelling unit will be calculated by dividing the total rental adjustment by the total number of rental rooms. Such adjustment shall be applied equally on a per room per month basis, except that a greater adjustment may be allowed for vacant units. For loans which closed prior to the effective date of these regulations, unequal adjustments may be allowed if HPD sends notification of such rent adjustment to the tenants prior to the closing of the loan. For rents to be adjusted under the provisions of this subparagraph, the owner(s) of the premises must agree to waive any and all increases which are attributable to the completed rehabilitation work financed by the 8A loan or required pursuant to the Housing Repair and Maintenance Agreement to which he might be entitled under the Administrative Code Chapters 4 and/or 5 of Title 26. Rental adjustments under this subparagraph shall have no effect upon the status of
+
+         (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
+
+         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
+
+      (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
+
+   (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
+
+   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
+
+(b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
+
+(c) Relationship of loan to other mortgages.
+
+   (1) Existing mortgages. Loans may be made with respect to a multiple dwelling encumbered by mortgages provided no mortgage is in default, except by reason of the deteriorated physical condition of the building, if such condition and default shall be remedied by the proposed rehabilitation or improvement.
+
+   (2) Modification agreement. A mortgage modification or extension agreement may be required from the holder of a prior mortgage against the building where such mortgage secures a loan which is not self-liquidating and matures prior to the final payment date of the proposed loan.
+
+   (3) Subordination of existing liens.
+
+      (i) An existing mortgage or other lien held by the owner or a relative of the owner, or an officer, director, stockholder or partner of the owner, or a relative of such persons, or a party which is associated or affiliated with or a subsidiary of the owner shall be subordinated to the lien of the mortgage given to secure the City loan.
+
+      (ii) A secured loan made by a private non-institutional lender, if made in conjunction with a loan made by the City for the partial financing of the rehabilitation, shall be subordinated to the lien of the mortgage given to secure the City loan.
+
+(d) Removal of violations and management.
+
+   (1) Removal of violations. All multiple dwellings assisted under this Program shall be brought into substantial compliance with the Multiple Dwelling Law and the Housing Maintenance Code within a period of time to be determined by the Department but in no event later than one (1) year from the date set forth in the loan documents for the commencement of the payment of principal and interest on the loan.
+
+   (2) Additional work. The Department may require that the owner correct conditions and perform work in the premises in addition to that set forth in the Building Improvement Loan Agreement.
+
+   (3) Management. No loan shall be made unless the Department shall have determined that the owner has evidenced an ability to manage the building in accordance with good real estate industry practice. In appropriate cases, the Department may require a written management plan, acceptable to the Department, to ensure proper procedures for management of the property, including rent collection, supervision of building employees, payment of bills for maintenance and operation and handling tenant complaints.
+
+(e) Agency determination of feasibility.
+
+   (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
+
+   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
+
+
+
+
+
+
+*§ 2-05 Contract Terms and Insurance Requirements.* ::
+
+
+(a) Loan documents. Each loan shall be evidenced by a promissory note executed by the owner of the multiple dwelling in form specified by the Department. The Department in its discretion may require that one or more of the shareholders, officers or directors of a corporate owner co-sign the note or otherwise guarantee or pledge security or provide an acceptable surety for the repayment of the loan. The following additional documents may be required:
+
+   (1) Building Loan Contract. A Building Loan Contract between the owner and the City in form specified by the Department.
+
+   (2) Mortgage or financing statement. A mortgage executed by the owner in form specified by the Department, shall be required as security for all loans, except that, if the loan is for thirty-five thousand ($35,000) dollars or less, or for a term of seven (7) years or less, the Department may, in its discretion, accept a financing statement as security.
+
+   (3) Disclosure statement. A sworn disclosure statement, in form specified by the Department, executed by the owner or his duly authorized agent disclosing the identity of all parties involved or to be involved in the ownership, financing and rehabilitation or improvement of the building.
+
+   (4) Such other documents executed by the owner as the City or the Department and its attorneys deem necessary or desirable.
+
+(b) Repayment of the loan by the borrower.
+
+   (1) Method of repayment. Debt service consisting of payments of interest on the unpaid principal balance and repayment of the principal amount shall be paid in equal monthly installments so as to be fully amortized by the maturity date of the loan. At its discretion, the Department may require an alternative schedule of loan payments provided the loan is fully paid by its maturity date.
+
+   (2) Prepayment privileges. The loan may be prepaid only in accordance with the terms specified in the loan documents.
+
+   (3) Refinancing. Any debt in existence prior to the time of the closing of the City loan and secured by a lien against the premises may, without the consent of the Department be refinanced after such closing provided:
+
+      (i) the principal amount of the refinanced debt shall not exceed the unpaid principal balance of the debt at the time of the refinancing, except that if such lien is subordinate to that of the mortgage given to secure the City loan, the principal amount shall not exceed the unpaid balance of the debt at the time of the closing of the City loan;
+
+      (ii) the rate of interest on the refinanced debt shall not exceed the rate prevailing in the private market at the time of the refinancing;
+
+      (iii) after refinancing debt service on the refinanced debt shall be paid in equal and constant periodic installments; and
+
+      (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
+
+   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
+
+(c) Insurance requirements.
+
+   (1) Fire insurance. Ten days before loan closing the owner shall deliver to the Department prepaid insurance policies issued by companies in form and amounts satisfactory to the Department, insuring the premises against loss or damage by fire, with the usual extended coverage endorsement, and such other hazards as may reasonably be required by the Department. Such policies shall name the City as a mortgagee and provide that losses thereunder shall be payable to the City as its interest may appear.
+
+   (2) Workmen's compensation. Each contractor and sub-contractor, pursuant to the Workmen's Compensation Law, shall provide adequate Workmen's Compensation Insurance for all employees engaged in work on a building who may come within the protection of said law.
+
+   (3) The Department may require the owner or contractor to provide Public Liability, Property Damage and Employer's General Liability insurance.
+
+
+
+
+
+
+*§ 2-06 Construction Requirements and Payment of Loan Proceeds.* ::
+
+
+(a) Cost estimates, construction contract and contractors.
+
+   (1) Scope of work and cost estimates. Applicants shall be required to submit estimates showing the nature and cost of each item of the rehabilitation or improvement. The Department may require the applicant to submit more than one estimate per trade and may prescribe forms on which such estimates shall be prepared or summarized. The plans, specifications, work write-ups or any other description of work to be performed must be approved by the Department prior to the commencement of any rehabilitation work or the making of a loan for same. The technical specifications shall conform to the standards established by the Department and where applicable, shall be subject to the approval of the Department of Buildings or other governmental agencies having jurisdiction.
+
+   (2) Approval of construction contract. The specifications approved by the Department shall be made part of the written construction contract between the owner and the general contractor, and such construction contract shall be subject to the written approval of the Department. If a general contractor is not engaged, the owner shall enter into a written construction contract with each subcontractor. The pertinent specifications approved by the Department shall be made a part of each such contract and each such contract shall be subject to the written approval of the Department.
+
+   (3) Contractors. The Department reserves the right to disapprove any contractor or subcontractor because of previous violation of statutes, rules or regulations relating to discrimination, standards of employment or labor standards, or because of inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this Program or other programs of the City.
+
+(b) Payment of loan proceeds.
+
+   (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
+
+   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
+
+   (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
+
+      (i) completion of the work to the full satisfaction of the Department;
+
+      (ii) issuance of approvals by governmental agencies having jurisdiction, including, where applicable, a certificate of occupancy or of completion by the Department of Buildings; and
+
+      (iii) proof of payment for all labor and materials provided in connection with the rehabilitation or improvement. In lieu of subparagraph (ii) above, the Department in its discretion may accept from an architect registered with the State of New York or a professional engineer licensed by the State of New York, a certification that the completed work complies with the requirements of the particular governmental agencies having jurisdiction thereof and that applications seeking the approval of certification of such agencies have been properly filed with or submitted to such agencies.
+
+   (4) Escrow provisions. The Department may require the deposit of loan advances in a separate escrow account, in a bank designated by the Department, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Department. The Department may further require that the owner deposit in such escrow account, or in a separate trust account in such bank under such provisions as the Department shall prescribe, all or a designated portion of the rents collected from the multiple dwelling during the period of construction.
+
+   (5) Failure to complete work. If the borrower for any reason fails to diligently pursue or timely complete the rehabilitation to the full satisfaction of the Department, the Department may, after written notice to the borrower, enter upon the premises, effect the completion of the rehabilitation and charge the cost thereof to the borrower.
+
+   (6) Adjustments for interim interest. Any portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows. If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the borrower in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final advance of loan proceeds due borrower and paid to the City.
+
+(c) Non-discrimination and affirmative action.
+
+   (1) Compliance. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to discrimination and standards of employment. The owner shall not exclude any person, including prospective tenants, from participation in, deny any person the benefits of, or subject any person to discrimination under this Program on the grounds of race, color, national origin, creed, age, sex, or sexual orientation. If an owner, contractor or subcontractor fails to comply with the provisions of this paragraph (1), the Department, in its discretion, may, in addition to or as an alternative to any other remedies reserved to the City or the Department in the loan documents, withhold progress payments to the owner or disapprove the contractor or subcontractor for future work under this Program or other programs of the Department.
+
+   (2) Books, records and inspections. In order to assure strict compliance with this subdivision (c), all contractors and subcontractors will be required to sign an agreement, in form specified by the Department, to make their books and records available for inspection by representatives or agents of the Department. In order to determine such compliance the Department reserves the right to interview or confer with any employee at any time, on a rehabilitation site or in the office of the contractor or subcontractor.
+
+(d) Labor standards.
+
+   (1) Compliance with labor standards. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to labor standards, including the payment of prevailing wage rates.
+
+   (2) Enforcement. Each contractor and subcontractor shall be required to submit to the Department for review, copies of their weekly payrolls and such other documentation and reports as may be required by the Department. If the contractor engages a subcontractor, the contractor shall be obligated to obtain such required documentation and reports from the subcontractor. All books and records of the owner, contractors, subcontractors, laborers and materialmen involved in the rehabilitation shall be made available to representatives or agents of the Department and other governmental agencies having jurisdiction, for review or audit. The above parties may be required to submit to oral examination under oath. Such examination may include, but is not limited to, the performance and quality of the work, any and all matters pertaining to the loan and compliance with applicable statutes, rules and regulations.
+
+
+
+
+
+
+*§ 2-07 Supervision by the Department.* ::
+
+
+(a) Power to inspect and investigate. 
+
+   (1) Covenant on inspection and investigation. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
+
+      (i) All persons operating or managing the multiple dwelling will permit the duly authorized officers, employees, agents or inspectors of the Department to enter in or upon and inspect such multiple dwelling at all reasonable hours; and
+
+      (ii) The Department by its duly authorized representatives shall have full power to investigate into and order the owner of the multiple dwelling to furnish such reports and information as the Department may require concerning the rehabilitation or improvement and the management of the multiple dwelling, and shall have full power to audit the books of the owner with respect to such matters.
+
+   (2) Nature of inspection. In addition to any other inspections authorized by law, the Department may make periodic inspections of the building so long as any monies remain unpaid on the loan. Such inspections shall be for the purpose of inspecting the condition and maintenance of the building, including its utilities, fixtures and equipment. Copies of any inspection reports shall be made available to the owner with recommendations for corrective measures where necessary. Representatives of the Department may periodically visit the building for the purpose of conferring with tenants and, where necessary, serving as a liaison or intermediary on landlord-tenant problems.
+
+(b) Annual statement of income and expenses.
+
+   (1) No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid the owner shall submit to the Department annually, in such form as shall be approved by the Department, a statement of the income and expenses of such multiple dwelling. The statement of income shall include, but is not limited to, the monthly rent of each residential apartment and the rent controlled or rent stabilized status of each unit.
+
+   (2) The annual statement shall cover the twelve month period ending June 30th or such other period approved by the Department, and shall be submitted within ninety days after the close of such period. The Department, in its discretion, may require submission of statements of income and expenses on a more frequent basis.
+
+   (3) On five days' notice, the books and records of the owner relative to the premises shall be made available to representatives or agents of the Department for review, examination or audit.
+
+(c) Failure to comply with regulations. Upon failure or refusal of an applicant, owner or mortgagor to comply with this chapter (and all applicable rules and regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement), such applicant, owner or mortgagor in addition to the imposition of any civil or criminal penalties provided by law, may be disqualified by the Department from applying for or receiving a loan under this Program or other programs of the Department for up to three (3) years following the date of any such refusal or failure. These rules and regulations shall be enforceable by the governmental authority providing funds for the rehabilitation or improvement as well as by the City.
+
+(d) Waiver. The Department may waive any of this chapter where the nature of the rehabilitation or improvement or other circumstances warrant such exception. Any waiver to be effective shall require the written approval of the Commissioner or his designee and shall include a specific statement of the reason(s) for such waiver.
+
+
+
+
 Chapter 1: Rules and Regulations
 --------------------------------------------------
 
@@ -528,311 +833,6 @@ Upon failure of an applicant, owner or mortgagor to comply with this chapter, sa
 
 
 The Agency may waive any of this chapter where the nature of the installation, alteration, improvement or rehabilitation or other circumstances warrant such exception. Any waiver to be effective requires the approval of the Commissioner or the Municipal Loan Committee.
-
-
-
-
-Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
---------------------------------------------------
-
-
-
-*§ 2-01 General Provisions.* ::
-
-
-(a) Purpose. This chapter (and any applicable regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement) shall govern the making of loans for rehabilitation and improvement pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York.
-
-(b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
-
-   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
-
-   City. "City" shall mean the City of New York.
-
-   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
-
-   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
-
-   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
-
-   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
-
-   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
-
-   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
-
-   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
-
-   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
-
-   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
-
-   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
-
-   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
-
-   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
-
-   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
-
-      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
-
-      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
-
-   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
-
-   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
-
-
-
-
-
-
-*§ 2-02 Eligibility and General Conditions.* ::
-
-
-(a) Eligible buildings. 
-
-   (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
-
-   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
-
-(b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
-
-   (1) Construction costs and filing fees required by the Department of Buildings and other governmental agencies having jurisdiction.
-
-   (2) Interim interest on the loan proceeds.
-
-   (3) Recording and filing fees and mortgage taxes.
-
-   (4) Payment and Performance Bond(s).
-
-   (5) Fees or charges attributable to the examination and insurance of title.
-
-   (6) Real estate taxes, assessments, water and meter charges and sewer rents.
-
-   (7) Fire insurance premiums.
-
-(c) Maximum amount. The loan amount shall not exceed an average of ten thousand ($10,000) dollars per dwelling unit or the actual cost of the rehabilitation or improvement, whichever is less.
-
-(d) Term. The term of a loan shall not exceed twenty years, except that the term of a loan whose amount exceeds an average of five thousand ($5,000) dollars per dwelling unit shall not exceed thirty (30) years. In no event shall the term of any loan exceed the useful life of the rehabilitation or improvement.
-
-(e) Interest rate. The interest rate shall be three (3%) percent per annum, except where otherwise determined by the Department.
-
-(f) Protection of mortgage lien. Subsequent to the loan closing, the Department at its discretion may pay any liens and charges the priority of which are superior to its mortgage and may pay such other expenses as may be appropriate to protect its loan or to protect the lien of the mortgage relating thereto, provided that such expenditures shall not exceed one-half of the total amount of the loan.
-
-
-
-
-
-
-*§ 2-03 Application Procedure.* ::
-
-
-(a) Application forms. Application forms may be obtained from the Department, 100 Gold Street, New York, N.Y. 10038, Attention: Article VIII-A Loan Program. All applications shall be submitted to the Department for review and approval.
-
-(b) Eligible applicants. Loan applications may be submitted by an owner or his duly authorized agent or by a contract vendee who becomes an owner prior to or simultaneously with the loan closing.
-
-(c) Application submission. The application, in form specified by the Department, shall include the following:
-
-   (1) A description of the rehabilitation or improvement and the estimated cost thereof.
-
-   (2) The name, address and telephone number of the applicant, the owner, the managing agent and the holders of existing mortgages and other liens against the multiple dwelling.
-
-   (3) A statement of income and expenses for a period of time to be determined by the Department.
-
-   (4) A statement of the current monthly rent or carrying charges of each residential and commercial unit, the name of each residential tenant, the number of rooms in each residential unit, and the rent controlled or rent stabilized status of each residential unit.
-
-   (5) A statement of the current non-publicly assisted, rent stabilized market rents of residential units in the building and, if known, a similar statement for comparable apartments in adjacent buildings or buildings in the immediate vicinity.
-
-   (6) Such additional information as the Department may require.
-
-(d) Consultation. The staff of the Department will be available for preapplication consultation.
-
-(e) Certification of inability to obtain financing. With the application, the owner shall submit an affidavit certifying that within the prior six months attempts to obtain financing for the rehabilitation or improvement at prevailing interest rates with the premises as security, from at least two (2) lending institutions which normally provide this type of financing were not successful, and, if known, the reasons for such failure or other factors indicating an inability of the private sector to provide unaided financing. If the multiple dwelling is encumbered by a mortgage held by a lending institution whose deposits are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or their successors, such mortgagee shall be one of the lending institutions to which the applicant made an attempt to obtain such financing.
-
-(f) Application fee. The owner shall pay an application fee in the amount of seventy-five ($75) dollars for each building for which application is made. Payment shall be made no later than the date of the Department's loan closing. The fee shall not be refundable and shall be used to help defray the expenses of the City in administering the Program. In the case of applications covering two or more adjacent buildings the application fee shall be seventy-five ($75) dollars for the first building and fifty ($50) for each additional building.
-
-(g) Loan commitment. No commitment for a loan shall be deemed to have been made unless and until a written letter of commitment shall have been issued by the Department. Any commitment issued shall be conditioned upon full and timely compliance with the requirements of these Rules and Regulations, the availability of funds to make the loan and such other terms and conditions as the Department may require. The acceptance or processing of a loan application by the Department may not be construed to be a commitment for a loan. A commitment may only be issued in writing and no owner, applicant or other party may rely upon any statement or representation made by any official, employee or agent of the Department regarding the loan application.
-
-
-
-
-
-
-*§ 2-04 Determination of Feasibility and Conditions Precedent to Making a Loan.* ::
-
-
-(a) Low income tenancy and rent increases.
-
-   (1) Covenant on low income tenancy. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
-
-      (i) Upon vacancy, each dwelling unit in the multiple dwelling shall be available solely for occupancy by persons or families of low income; and
-
-      (ii) No person living in the multiple dwelling at the time the loan is made shall be required to move because of the rehabilitation or improvement financed by the loan, other than temporarily during the course of construction.
-
-   (2) Rent increases.
-
-      (i) The Department, in its sole discretion, shall have the option to adjust the rent for each rental unit within the multiple dwelling pursuant to authority granted by subdivision 7 of § 452 of the Private Housing Finance Law of the State of New York. The total rental adjustment shall be in an amount not in excess of the debt service (both principal and interest) calculated on that portion of the loan which the Department attributes to the financing of the rehabilitation of the rental units as if such loan were to be repaid over a self-amortizing term to be determined by HPD which shall be not less than ten (10) years for loans averaging five thousand ($5,000) dollars or less per dwelling unit, and not less than fifteen (15) years for loans exceeding five thousand ($5,000) dollars per dwelling unit. The initial rental adjustment for each rental dwelling unit will be calculated by dividing the total rental adjustment by the total number of rental rooms. Such adjustment shall be applied equally on a per room per month basis, except that a greater adjustment may be allowed for vacant units. For loans which closed prior to the effective date of these regulations, unequal adjustments may be allowed if HPD sends notification of such rent adjustment to the tenants prior to the closing of the loan. For rents to be adjusted under the provisions of this subparagraph, the owner(s) of the premises must agree to waive any and all increases which are attributable to the completed rehabilitation work financed by the 8A loan or required pursuant to the Housing Repair and Maintenance Agreement to which he might be entitled under the Administrative Code Chapters 4 and/or 5 of Title 26. Rental adjustments under this subparagraph shall have no effect upon the status of
-
-         (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
-
-         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
-
-      (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
-
-   (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
-
-   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
-
-(b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
-
-(c) Relationship of loan to other mortgages.
-
-   (1) Existing mortgages. Loans may be made with respect to a multiple dwelling encumbered by mortgages provided no mortgage is in default, except by reason of the deteriorated physical condition of the building, if such condition and default shall be remedied by the proposed rehabilitation or improvement.
-
-   (2) Modification agreement. A mortgage modification or extension agreement may be required from the holder of a prior mortgage against the building where such mortgage secures a loan which is not self-liquidating and matures prior to the final payment date of the proposed loan.
-
-   (3) Subordination of existing liens.
-
-      (i) An existing mortgage or other lien held by the owner or a relative of the owner, or an officer, director, stockholder or partner of the owner, or a relative of such persons, or a party which is associated or affiliated with or a subsidiary of the owner shall be subordinated to the lien of the mortgage given to secure the City loan.
-
-      (ii) A secured loan made by a private non-institutional lender, if made in conjunction with a loan made by the City for the partial financing of the rehabilitation, shall be subordinated to the lien of the mortgage given to secure the City loan.
-
-(d) Removal of violations and management.
-
-   (1) Removal of violations. All multiple dwellings assisted under this Program shall be brought into substantial compliance with the Multiple Dwelling Law and the Housing Maintenance Code within a period of time to be determined by the Department but in no event later than one (1) year from the date set forth in the loan documents for the commencement of the payment of principal and interest on the loan.
-
-   (2) Additional work. The Department may require that the owner correct conditions and perform work in the premises in addition to that set forth in the Building Improvement Loan Agreement.
-
-   (3) Management. No loan shall be made unless the Department shall have determined that the owner has evidenced an ability to manage the building in accordance with good real estate industry practice. In appropriate cases, the Department may require a written management plan, acceptable to the Department, to ensure proper procedures for management of the property, including rent collection, supervision of building employees, payment of bills for maintenance and operation and handling tenant complaints.
-
-(e) Agency determination of feasibility.
-
-   (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
-
-   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
-
-
-
-
-
-
-*§ 2-05 Contract Terms and Insurance Requirements.* ::
-
-
-(a) Loan documents. Each loan shall be evidenced by a promissory note executed by the owner of the multiple dwelling in form specified by the Department. The Department in its discretion may require that one or more of the shareholders, officers or directors of a corporate owner co-sign the note or otherwise guarantee or pledge security or provide an acceptable surety for the repayment of the loan. The following additional documents may be required:
-
-   (1) Building Loan Contract. A Building Loan Contract between the owner and the City in form specified by the Department.
-
-   (2) Mortgage or financing statement. A mortgage executed by the owner in form specified by the Department, shall be required as security for all loans, except that, if the loan is for thirty-five thousand ($35,000) dollars or less, or for a term of seven (7) years or less, the Department may, in its discretion, accept a financing statement as security.
-
-   (3) Disclosure statement. A sworn disclosure statement, in form specified by the Department, executed by the owner or his duly authorized agent disclosing the identity of all parties involved or to be involved in the ownership, financing and rehabilitation or improvement of the building.
-
-   (4) Such other documents executed by the owner as the City or the Department and its attorneys deem necessary or desirable.
-
-(b) Repayment of the loan by the borrower.
-
-   (1) Method of repayment. Debt service consisting of payments of interest on the unpaid principal balance and repayment of the principal amount shall be paid in equal monthly installments so as to be fully amortized by the maturity date of the loan. At its discretion, the Department may require an alternative schedule of loan payments provided the loan is fully paid by its maturity date.
-
-   (2) Prepayment privileges. The loan may be prepaid only in accordance with the terms specified in the loan documents.
-
-   (3) Refinancing. Any debt in existence prior to the time of the closing of the City loan and secured by a lien against the premises may, without the consent of the Department be refinanced after such closing provided:
-
-      (i) the principal amount of the refinanced debt shall not exceed the unpaid principal balance of the debt at the time of the refinancing, except that if such lien is subordinate to that of the mortgage given to secure the City loan, the principal amount shall not exceed the unpaid balance of the debt at the time of the closing of the City loan;
-
-      (ii) the rate of interest on the refinanced debt shall not exceed the rate prevailing in the private market at the time of the refinancing;
-
-      (iii) after refinancing debt service on the refinanced debt shall be paid in equal and constant periodic installments; and
-
-      (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
-
-   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
-
-(c) Insurance requirements.
-
-   (1) Fire insurance. Ten days before loan closing the owner shall deliver to the Department prepaid insurance policies issued by companies in form and amounts satisfactory to the Department, insuring the premises against loss or damage by fire, with the usual extended coverage endorsement, and such other hazards as may reasonably be required by the Department. Such policies shall name the City as a mortgagee and provide that losses thereunder shall be payable to the City as its interest may appear.
-
-   (2) Workmen's compensation. Each contractor and sub-contractor, pursuant to the Workmen's Compensation Law, shall provide adequate Workmen's Compensation Insurance for all employees engaged in work on a building who may come within the protection of said law.
-
-   (3) The Department may require the owner or contractor to provide Public Liability, Property Damage and Employer's General Liability insurance.
-
-
-
-
-
-
-*§ 2-06 Construction Requirements and Payment of Loan Proceeds.* ::
-
-
-(a) Cost estimates, construction contract and contractors.
-
-   (1) Scope of work and cost estimates. Applicants shall be required to submit estimates showing the nature and cost of each item of the rehabilitation or improvement. The Department may require the applicant to submit more than one estimate per trade and may prescribe forms on which such estimates shall be prepared or summarized. The plans, specifications, work write-ups or any other description of work to be performed must be approved by the Department prior to the commencement of any rehabilitation work or the making of a loan for same. The technical specifications shall conform to the standards established by the Department and where applicable, shall be subject to the approval of the Department of Buildings or other governmental agencies having jurisdiction.
-
-   (2) Approval of construction contract. The specifications approved by the Department shall be made part of the written construction contract between the owner and the general contractor, and such construction contract shall be subject to the written approval of the Department. If a general contractor is not engaged, the owner shall enter into a written construction contract with each subcontractor. The pertinent specifications approved by the Department shall be made a part of each such contract and each such contract shall be subject to the written approval of the Department.
-
-   (3) Contractors. The Department reserves the right to disapprove any contractor or subcontractor because of previous violation of statutes, rules or regulations relating to discrimination, standards of employment or labor standards, or because of inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this Program or other programs of the City.
-
-(b) Payment of loan proceeds.
-
-   (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
-
-   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
-
-   (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
-
-      (i) completion of the work to the full satisfaction of the Department;
-
-      (ii) issuance of approvals by governmental agencies having jurisdiction, including, where applicable, a certificate of occupancy or of completion by the Department of Buildings; and
-
-      (iii) proof of payment for all labor and materials provided in connection with the rehabilitation or improvement. In lieu of subparagraph (ii) above, the Department in its discretion may accept from an architect registered with the State of New York or a professional engineer licensed by the State of New York, a certification that the completed work complies with the requirements of the particular governmental agencies having jurisdiction thereof and that applications seeking the approval of certification of such agencies have been properly filed with or submitted to such agencies.
-
-   (4) Escrow provisions. The Department may require the deposit of loan advances in a separate escrow account, in a bank designated by the Department, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Department. The Department may further require that the owner deposit in such escrow account, or in a separate trust account in such bank under such provisions as the Department shall prescribe, all or a designated portion of the rents collected from the multiple dwelling during the period of construction.
-
-   (5) Failure to complete work. If the borrower for any reason fails to diligently pursue or timely complete the rehabilitation to the full satisfaction of the Department, the Department may, after written notice to the borrower, enter upon the premises, effect the completion of the rehabilitation and charge the cost thereof to the borrower.
-
-   (6) Adjustments for interim interest. Any portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows. If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the borrower in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final advance of loan proceeds due borrower and paid to the City.
-
-(c) Non-discrimination and affirmative action.
-
-   (1) Compliance. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to discrimination and standards of employment. The owner shall not exclude any person, including prospective tenants, from participation in, deny any person the benefits of, or subject any person to discrimination under this Program on the grounds of race, color, national origin, creed, age, sex, or sexual orientation. If an owner, contractor or subcontractor fails to comply with the provisions of this paragraph (1), the Department, in its discretion, may, in addition to or as an alternative to any other remedies reserved to the City or the Department in the loan documents, withhold progress payments to the owner or disapprove the contractor or subcontractor for future work under this Program or other programs of the Department.
-
-   (2) Books, records and inspections. In order to assure strict compliance with this subdivision (c), all contractors and subcontractors will be required to sign an agreement, in form specified by the Department, to make their books and records available for inspection by representatives or agents of the Department. In order to determine such compliance the Department reserves the right to interview or confer with any employee at any time, on a rehabilitation site or in the office of the contractor or subcontractor.
-
-(d) Labor standards.
-
-   (1) Compliance with labor standards. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to labor standards, including the payment of prevailing wage rates.
-
-   (2) Enforcement. Each contractor and subcontractor shall be required to submit to the Department for review, copies of their weekly payrolls and such other documentation and reports as may be required by the Department. If the contractor engages a subcontractor, the contractor shall be obligated to obtain such required documentation and reports from the subcontractor. All books and records of the owner, contractors, subcontractors, laborers and materialmen involved in the rehabilitation shall be made available to representatives or agents of the Department and other governmental agencies having jurisdiction, for review or audit. The above parties may be required to submit to oral examination under oath. Such examination may include, but is not limited to, the performance and quality of the work, any and all matters pertaining to the loan and compliance with applicable statutes, rules and regulations.
-
-
-
-
-
-
-*§ 2-07 Supervision by the Department.* ::
-
-
-(a) Power to inspect and investigate. 
-
-   (1) Covenant on inspection and investigation. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
-
-      (i) All persons operating or managing the multiple dwelling will permit the duly authorized officers, employees, agents or inspectors of the Department to enter in or upon and inspect such multiple dwelling at all reasonable hours; and
-
-      (ii) The Department by its duly authorized representatives shall have full power to investigate into and order the owner of the multiple dwelling to furnish such reports and information as the Department may require concerning the rehabilitation or improvement and the management of the multiple dwelling, and shall have full power to audit the books of the owner with respect to such matters.
-
-   (2) Nature of inspection. In addition to any other inspections authorized by law, the Department may make periodic inspections of the building so long as any monies remain unpaid on the loan. Such inspections shall be for the purpose of inspecting the condition and maintenance of the building, including its utilities, fixtures and equipment. Copies of any inspection reports shall be made available to the owner with recommendations for corrective measures where necessary. Representatives of the Department may periodically visit the building for the purpose of conferring with tenants and, where necessary, serving as a liaison or intermediary on landlord-tenant problems.
-
-(b) Annual statement of income and expenses.
-
-   (1) No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid the owner shall submit to the Department annually, in such form as shall be approved by the Department, a statement of the income and expenses of such multiple dwelling. The statement of income shall include, but is not limited to, the monthly rent of each residential apartment and the rent controlled or rent stabilized status of each unit.
-
-   (2) The annual statement shall cover the twelve month period ending June 30th or such other period approved by the Department, and shall be submitted within ninety days after the close of such period. The Department, in its discretion, may require submission of statements of income and expenses on a more frequent basis.
-
-   (3) On five days' notice, the books and records of the owner relative to the premises shall be made available to representatives or agents of the Department for review, examination or audit.
-
-(c) Failure to comply with regulations. Upon failure or refusal of an applicant, owner or mortgagor to comply with this chapter (and all applicable rules and regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement), such applicant, owner or mortgagor in addition to the imposition of any civil or criminal penalties provided by law, may be disqualified by the Department from applying for or receiving a loan under this Program or other programs of the Department for up to three (3) years following the date of any such refusal or failure. These rules and regulations shall be enforceable by the governmental authority providing funds for the rehabilitation or improvement as well as by the City.
-
-(d) Waiver. The Department may waive any of this chapter where the nature of the rehabilitation or improvement or other circumstances warrant such exception. Any waiver to be effective shall require the written approval of the Commissioner or his designee and shall include a specific statement of the reason(s) for such waiver.
 
 
 
@@ -8007,7 +8007,7 @@ Whenever used in this chapter:
 
 (a) Abatement. "Abatement" shall mean any set of measures designed to permanently eliminate lead-based paint or lead-based paint hazards. Abatement includes: (i) the removal of lead-based paint and dust lead hazards, the permanent enclosure or encapsulation of lead-based paint, the replacement of components or fixtures painted with lead-based paint, and the removal or permanent covering of soil-lead hazards; and (ii) all preparation, cleanup, disposal and post abatement clearance testing associated with such measures. Abatement does not include renovation, remodeling, landscaping or other activities, when such activities are not designed to permanently eliminate lead-based paint hazards, but, instead, are designed to repair, restore, or remodel a given structure or dwelling, even though these activities may incidentally result in a reduction or elimination of lead-based paint hazards. Furthermore, abatement does not include interim controls, operations and maintenance activities, or other measures and activities designed to temporarily, but not permanently, reduce lead-based paint hazards.
 
-(b) Applicable age. "Applicable age" shall mean under seven years of age for at least one calendar year from August 2, 2004. Upon the expiration of such one year period, in accordance with the procedures by which the health code is amended, the board of health may determine whether or not the provisions of article 14 of the housing maintenance code should apply to children of age six, and based on this determination, may redefine "applicable age" for the purposes of some or all of the provisions of such article 14 to mean under six years of age. In the event that the board of health makes such determination, the term "applicable age" shall mean under six years of age.
+(b) Applicable age. "Applicable age" shall mean under six years of age.
 
 (c) C.F.R.. "C.F.R." shall mean the Code of Federal Regulations.
 
@@ -8043,9 +8043,13 @@ Whenever used in this chapter:
 
 (s) Lead-based paint hazard. "Lead-based paint hazard" shall mean any condition in a dwelling or dwelling unit that causes exposure to lead from lead-contaminated dust, from lead-based paint that is peeling, or from lead-based paint that is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces that would result in adverse human health effects.
 
-(t) Lead-based paint. "Lead-based paint" shall mean paint or other similar surface coating material containing 1.0 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. If an x-ray fluorescence analyzer is used, readings shall be corrected for substrate bias when necessary as specified by the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings shall be classified as positive, negative or inconclusive in accordance with the United States department of housing and urban development "Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing"  and the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings that fall within the inconclusive zone, as determined by the performance characteristic sheets, shall be confirmed by laboratory analysis of paint chips, results shall be reported in milligrams of lead per square centimeter and the measure of such laboratory analysis shall be definitive. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, a laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material.
+(t) Lead-based paint. "Lead-based paint" shall mean paint or other similar surface coating material containing 1.0 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. If an x-ray fluorescence analyzer is used, readings shall be corrected for substrate bias when necessary as specified by the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings shall be classified as positive, negative or inconclusive in accordance with the United States department of housing and urban development "Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing"  and the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings that fall within the inconclusive zone, as determined by the performance characteristic sheets, shall be confirmed by laboratory analysis of paint chips, results shall be reported in milligrams of lead per square centimeter and the measure of such laboratory analysis shall be definitive. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, a laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material containing more than 0.5 percent of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
 
-(u) Lead-contaminated dust. "Lead-contaminated dust" shall mean dust containing lead at a mass per area concentration of 40 or more micrograms per square foot on a floor, 250 or more micrograms per square foot on window sills, and 400 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the department of health and mental hygiene.
+(u) Lead-contaminated dust.
+
+   (i)  "Lead-contaminated dust" shall mean dust containing lead at a mass per area concentration of 10 or more micrograms per square foot on a floor, 50 or more micrograms per square foot on window sills, and 100 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the department of health and mental hygiene, the board of health, or as otherwise provided by local law.
+
+   (ii) Notwithstanding paragraph (i) of this subdivision, on and after June 1, 2021, "lead-contaminated dust" shall mean dust containing lead at a mass per area concentration of 5 or more micrograms per square foot on a floor, 40 or more micrograms per square foot on window sills, and 100 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the board of health, provided that, if the federal environmental protection agency or a successor agency, or the federal department of housing and urban development or a successor agency, adopts lower definitions of lead-contaminated dust, the board of health shall define in the health code such lower levels as required by local law.
 
 (v) Lead contaminated dust clearance test. "Lead contaminated dust clearance test" shall mean a test for lead-contaminated dust on floors, window wells, and window sills in a dwelling, that is made in accordance with § 27-2056.11 of the housing maintenance code.
 
@@ -8059,23 +8063,27 @@ Whenever used in this chapter:
 
 (aa) Replacement. "Replacement" shall mean a strategy or method of abatement that entails the removal of building components that have surfaces coated with lead-based paint and the installation of new components free of lead-based paint.
 
-(bb) Rule or rules. "Rule" or "rules" shall mean a rule or rules promulgated pursuant to § 1043 of the New York city charter.
+(bb) Resides. “Resides” shall mean to routinely spend 10 or more hours per week in a dwelling unit, provided however, that this subdivision shall not take effect until January 1, 2020.
 
-(cc) Stabilization. "Stabilization" means repairing any physical defect in the substrate of a painted surface that is causing paint deterioration, and removing loose paint and other material from the surface to be treated.
+(cc) Rule or rules. "Rule" or "rules" shall mean a rule or rules promulgated pursuant to § 1043 of the New York city charter.
 
-(dd) Substrate. "Substrate" shall mean the material directly beneath the painted surface out of which the components are constructed, including wood, drywall, plaster, concrete, brick or metal.
+(dd) Stabilization. “Stabilization” shall mean repairing any physical defect in the substrate of a painted surface that is causing paint deterioration, and removing loose paint and other material from the surface to be treated, and includes compliance with all applicable safe work practices.
 
-(ee) Turnover. "Turnover" shall mean the occupancy of a dwelling unit subsequent to the termination of a tenancy and the vacatur by a prior tenant of such dwelling unit. Such term shall not mean temporary relocation of an occupant for purposes of performing work pursuant to article 14 of the housing maintenance code.
+(ee) Substrate. "Substrate" shall mean the material directly beneath the painted surface out of which the components are constructed, including wood, drywall, plaster, concrete, brick or metal.
 
-(ff) Underlying defect. "Underlying defect" shall mean a physical condition in a dwelling or dwelling unit that is causing or has caused paint to peel or a painted surface to deteriorate or fail, such as a structural or plumbing failure that allows water to intrude into a dwelling or dwelling unit.
+(ff) Turnover. "Turnover" shall mean the occupancy of a dwelling unit subsequent to the termination of a tenancy and the vacatur by a prior tenant of such dwelling unit. Such term shall not mean temporary relocation of an occupant for purposes of performing work pursuant to article 14 of the housing maintenance code.
 
-(gg) Wet sanding or wet scraping. "Wet sanding" or "wet scraping" shall mean a process of removing loose paint in which the painted surface to be sanded or scraped is kept wet to minimize the dispersal of paint chips and airborne dust.
+(gg) Underlying defect. "Underlying defect" shall mean a physical condition in a dwelling or dwelling unit that is causing or has caused paint to peel or a painted surface to deteriorate or fail, such as a structural or plumbing failure that allows water to intrude into a dwelling or dwelling unit.
 
-(hh) Window. "Window" shall mean the non-glass parts of a window, including but not limited to any window sash, window well, window jamb, window sill, or window molding.
+(hh) Wet sanding or wet scraping. "Wet sanding" or "wet scraping" shall mean a process of removing loose paint in which the painted surface to be sanded or scraped is kept wet to minimize the dispersal of paint chips and airborne dust.
 
-(ii) Work. "Work" shall mean any activity performed in accordance with article 14 of the housing maintenance code that disturbs paint.
+(ii) Window. "Window" shall mean the non-glass parts of a window, including but not limited to any window sash, window well, window jamb, window sill, or window molding.
 
-(jj) Work area. "Work area" shall mean that part of a building where paint is being disturbed.
+(jj) Work. "Work" shall mean any activity performed in accordance with article 14 of the housing maintenance code that disturbs paint.
+
+(kk) Work area. "Work area" shall mean that part of a building where paint is being disturbed.
+
+
 
 
 
@@ -8273,7 +8281,9 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
          (C) Final inspection. After final clean-up, and re-painting if necessary, has been completed, a final inspection shall be made by a third party retained by the owner who is independent of the owner and the contractor. The final clearance evaluation shall include a visual inspection and lead-contaminated dust clearance testing. Three wipe samples shall be collected and tested from each room or area where work has been conducted; one wipe sample contaminated dust clearance samples shall be collected and tested from the floor in rooms or areas immediately adjacent to the work area.
 
-         (D) Clearance for re-occupancy. Lead-contaminated dust levels in excess of the following constitute contamination and require repetition of the clean-up and testing process in all areas where such levels are found. Areas where every lead-contaminated dust sample result is below the following levels may be cleared for re-occupancy: 
+         (D) Clearance for re-occupancy.
+
+            (a) Lead-contaminated dust levels in excess of the following constitute contamination and require repetition of the clean-up and testing process in all areas where such levels are found. Areas where every lead-contaminated dust sample result is below the following levels may be cleared for re-occupancy:
 
  
 
@@ -8282,18 +8292,38 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
     :header-rows: 1
 
     * - Floors:
-      -  40 micrograms of lead per square foot. 
+      - 10 micrograms of lead per square foot. 
     * - Window Sills:
-      - 250 micrograms of lead per square foot.
+      - 50 micrograms of lead per square foot.
     * - Window Wells:
-      - 400 micrograms of lead per square foot.
+      - 100 micrograms of lead per square foot.
 ~
 
 
 
  
 
-Only upon receipt of laboratory test results showing that the above dust lead levels are not exceeded in the dwelling may the work area be cleared for permanent re-occupancy. However, temporary access to work areas may be allowed, provided that clean-up is completed and dust test samples have been collected in compliance with this section. The owner shall provide all lead-contaminated dust clearance test results to the occupants of the dwelling or dwelling unit.
+            (b) Only upon receipt of laboratory test results showing that the above dust lead levels are not exceeded in the dwelling may the work area be cleared for permanent re-occupancy. However, temporary access to work areas may be allowed, provided that clean-up is completed and dust test samples have been collected in compliance with this section. The owner shall provide all lead-contaminated dust clearance test results to the occupants of the dwelling or dwelling unit.
+
+            (c) On and after June 1, 2021, lead contaminated dust levels in excess of the following constitute contamination and require repetition of the clean-up and testing process in all areas where such levels are found, unless the board of health adopts more stringent standards in accordance with local law:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Floors:
+      - 5 micrograms of lead per square foot. 
+    * - Window Sills:
+      - 40 micrograms of lead per square foot.
+    * - Window Wells:
+      - 100 micrograms of lead per square foot.
+~
+
+
+
+ 
 
          (E) Relocation. An owner shall request that an occupant temporarily relocate from a unit pending completion of work where it appears that work cannot be performed safely with occupants in residence. Such owner shall offer a suitable, decent, safe and similarly accessible dwelling unit that does not have lead-based paint hazards to such occupants for temporary relocation. Unreasonable refusal by such occupants to relocate pursuant to such offer shall constitute a refusal of access under housing maintenance code §§ 27-2009 and 27-2056.4(b), and, where applicable, 9 NYCRR § 2524.3(e). Relocation shall not be required provided that work can be done safely with occupants in residence, and provided further that at the end of each day of work, the work area is properly cleaned as specified in subdivision (g)(1)(ix)(A) of this section; occupants have safe access to areas adequate for sleeping; occupants have bathroom and kitchen facilities available to them; occupants have safe access to entry/egress pathways; and the work does not create other safety hazards (e.g., exposed electrical wiring or holes in the floor).
 
@@ -8346,6 +8376,8 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 
 
 
+
+
 *§ 11-07 Presumption.* ::
 
 
@@ -8365,7 +8397,7 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 
    (3) The department shall notify the registered owner, registered officer or director of a corporate owner or registered managing agent of such multiple dwelling of its determination in writing, and, if the department determines that such presumption has not been rebutted, such notice shall set a date for correction of the violation.
 
-(c) Where testing or sampling is performed to rebut the presumption established in this section, the performance of such testing shall be in accordance with the definition for lead-based paint established in 28 RCNY § 11-01(s) and § 27-2056.2(7) of article 14 of the housing maintenance code. Laboratory analysis for paint chip samples shall be permitted only where XRF tests fall within the inconclusive zone for the particular XRF machine or where the configuration of the surface or component to be tested is such that an XRF machine cannot accurately measure the lead content of such surface or component. Laboratory tests of paint chip samples, where performed, shall be reported in mg/cm2, unless the surface area of a paint chip sample cannot be accurately measured, or if an accurately measured paint chip sample cannot be removed, in which circumstance the laboratory test may be reported in percent by weight. Where paint chip sampling has been performed, the sworn written statement by the person who performed the testing shall include a statement that such sampling was done in accordance with 40 C.F.R. § 745.227 or successor provisions.
+(c) Where testing or sampling is performed to rebut the presumption established in this section, the performance of such testing shall be in accordance with the definition for lead-based paint established in 28 RCNY § 11-01(t) and § 27-2056.2(7) of article 14 of the housing maintenance code. Laboratory analysis for paint chip samples shall be permitted only where XRF tests fall within the inconclusive zone for the particular XRF machine or where the configuration of the surface or component to be tested is such that an XRF machine cannot accurately measure the lead content of such surface or component. Laboratory tests of paint chip samples, where performed, shall be reported in mg/cm2, unless the surface area of a paint chip sample cannot be accurately measured, or if an accurately measured paint chip sample cannot be removed, in which circumstance the laboratory test may be reported in percent by weight as provided in such lead-based paint definition. Where paint chip sampling has been performed, the sworn written statement by the person who performed the testing shall include a statement that such sampling was done in accordance with 40 C.F.R. § 745.227 or successor provisions.
 
 (d) Testing performed to rebut the presumption may only be performed by a person who has been certified as a lead-based paint inspector or risk assessor in accordance with subparts L and Q of 40 C.F.R. Part 745 or successor provisions and such testing shall be performed in accordance with 40 C.F.R. § 745.227(a) and (b) or successor provisions.
 
@@ -8374,20 +8406,52 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 
 
 
-*§ 11-08 Exemption from Presumption.* ::
 
 
-(a)  A registered owner or registered officer or director of a corporate owner or registered managing agent of a multiple dwelling erected prior to January first, nineteen hundred sixty or, where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, a representative of the corporation or the condominium board of managers may apply to the department, in writing, for an exemption of the application of the presumption established under article 14 of the housing maintenance code and 28 RCNY § 11-07 with respect to such multiple dwelling or any part thereof, provided further, that where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, the shareholder of record on the proprietary lease or the owner of record of such condominium unit, as is applicable, may apply to the department for such exemption for his or her individual unit where such presumption is or may become applicable.
+*§ 11-08 Exemption from Presumption – Lead Free and Lead Safe.* ::
 
-(b) Except as otherwise provided in subdivision (c), such exemption shall be granted only where such owner or such other person specified in subdivision (a) of this section submits a written determination made by a lead-based paint inspector or risk assessor certified pursuant to subparts L and Q of 40 C.F.R. Part 745 or successor provisions, and in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing that each tested surface and component in each dwelling unit in such multiple dwelling or in the individual dwelling unit, if applying for an exemption of a particular dwelling unit in such multiple dwelling, is free of lead-based paint as defined in 28 RCNY § 11-01(s) and § 27-2056.2(7) of article 14 of the housing maintenance code, or, that as a result of a substantial alteration of each dwelling unit such lead-based paint on each surface and component in each dwelling unit has been contained so that each surface tested is negative for such lead-based paint. Where surfaces or components within the dwelling unit can be demonstrated by the owner, to the satisfaction of the department, to have a common construction and painting history, the lead-based paint inspector or risk assessor performing such testing may test a sample of the surfaces and components having such common construction and painting history within the dwelling unit to make such determination, in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing. For purposes of this section, the term "contained" shall mean that every surface containing lead-based paint has been permanently covered, enclosed and sealed with sheetrock or similar durable construction material to eliminate gaps which may allow access to or dispersion of dust or other matter from the underlying surface.
 
-(c) For any surface within a dwelling unit or dwelling where encapsulation has been applied to a surface for the purpose of qualifying such dwelling unit or dwelling for an exemption under this section, in addition to the information required to be provided to the department pursuant to subdivision (d) of this section, such application shall include: the location of each surface that has been encapsulated; the name of the encapsulant that has been used, which shall be limited to those approved by the New York state department of health or by another federal or state agency or jurisdiction which the department has designated as acceptable; and a statement by the person who applied such encapsulant, who shall be certified to perform abatement pursuant to 40 C.F.R. Part 745 or successor provisions, that it has been applied in accordance with the manufacturer's instructions. The surfaces to which such encapsulants are applied shall be subject to periodic monitoring by the owner to ensure that they remain undamaged and intact, provided further, that the owner of such dwelling unit or dwelling shall keep records of any monitoring of such encapsulated surfaces for a period of ten years and produced by the owner upon request by the department.
+(a) A registered owner or registered officer or director of a corporate owner, a registered managing agent of a multiple dwelling erected prior to January first, nineteen hundred sixty, an authorized representative of a governmental agency as approved by the department, or, where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, a representative of the corporation or the condominium board of managers may apply to the department, in writing, for a lead free or a lead safe exemption of the application of the presumption established under article 14 of the housing maintenance code and 28 RCNY § 11-07 with respect to such multiple dwelling or any part thereof, provided further, that where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, the shareholder of record on the proprietary lease or the owner of record of such condominium unit, as is applicable, may apply to the department for such exemption for his or her individual unit where such presumption is or may become applicable.
 
-(d) In addition to the information required by subdivision (c) of this section, where applicable, an application for exemption shall include: the address of the multiple dwelling; the number of units; the dates, if known, when substantial alterations were made to the dwelling unit(s) and a description of the work performed; the date of the inspection resulting in the determination; and a copy of the inspection report. Such inspection report shall contain a description of the surfaces tested and the results of such testing. Such application shall also include a copy of the certificate of training of the person who performed such testing.
+(b) (1) Lead Free Exemption. A lead free exemption will be granted where such owner or such other person specified in subdivision (a) of this section submits a written determination made by a lead-based paint inspector or risk assessor certified pursuant to subparts L and Q of 40 C.F.R. part 745 or successor provisions, and in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing (2012), that each tested surface and component in each dwelling unit in such multiple dwelling or in the individual dwelling unit, if applying for an exemption of a particular dwelling unit in such multiple dwelling, or in a common area of a multiple dwelling, (i) is free of lead-based paint as defined in 28 RCNY § 11-01(t) and § 27-2056.2(7) of article 14 of the housing maintenance code, or (ii) has been made free of lead-based paint through the complete removal of lead-based paint from any surface or component, or the removal or replacement of any surface or component that may have contained lead-based paint. In applying for a lead free exemption, such owner or other specified person shall confirm in the exemption application that, to the best of his or her knowledge, no surfaces in the dwelling unit, dwelling, or common area for which the exemption is sought that contain paint have been encapsulated or contained.
 
-(e) Upon submission of a complete application for exemption to the department, such multiple dwelling or part thereof, or dwelling unit, shall be deemed to be exempt from application of the presumption established under article 14 of the housing maintenance code and 28 RCNY § 11-07. The department may revoke an exemption granted pursuant to this section where the department determines, after inspection, that a surface in any dwelling unit for which lead-based paint was contained or to which an encapsulant was applied is no longer intact or sealed or that such exemption was determined to be based upon fraud, mistake or misrepresentation. The department shall provide written notification to the owner upon making such determination. Absent fraud, mistake or misrepresentation in the initial application, an owner may reapply for the exemption by showing that the surface for which the lead-based paint was no longer contained or encapsulated has been repaired and resealed.
+   (2) Lead Safe Exemption. A lead safe exemption will be granted where the owner or such other person specified in subdivision (a) of this section submits a written determination made by a lead-based paint inspector or risk assessor certified pursuant to subparts L and Q of 40 C.F.R. part 745 or successor provisions, and in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing (2012), that lead-based paint on each surface and component (i) in each dwelling unit from which lead-based paint was not fully removed or replaced, or (ii) in each dwelling unit in a property if the exemption is based upon the appropriate sampling combination of components and surfaces in each unit, or (iii) in a common area of a multiple dwelling, has been contained so that each surface tested is negative for such lead-based paint or has been encapsulated. For purposes of this section, the term "contained" shall mean that every surface containing lead-based paint has been temporarily covered, enclosed and sealed with sheetrock or similar durable construction material to eliminate gaps which may allow access to or dispersion of dust or other matter from the underlying surface.
 
-(f) Results of lead-based paint testing or evidence of application of encapsulants to surfaces performed prior to the effective date of these rules, that conforms with the requirements of this section, may be submitted to qualify for an exemption from the presumption pursuant to this section.
+   (3) For purposes of an application for an exemption pursuant to paragraphs (1) or (2) of this subdivision, where surfaces or components within the dwelling unit can be demonstrated by the owner, to the satisfaction of the department, to have a common construction and painting history, the lead-based paint inspector or risk assessor performing such testing may test a sample of the surfaces and components having such common construction and painting history within the dwelling unit or common area to make such determination, in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing (2012) Lead Based Paint Inspection, V. Inspections in Multi-family Housing, Table 7-3, Number of Units to be tested in Multi-family Building or Developments. In the absence of such documentation by the owner, or visual inspection by the certified individual, the certified individual must test each dwelling unit in order to provide the required certification. In addition, a list of any building components that would reasonably be expected to contain paint that have not been tested, and the reason that such building component has not been tested, must be included in the exemption application submission, along with a sketch or sketches of the rooms tested that is consistent with the XRF report of testing locations.
+
+(c) For any surface within a dwelling unit or dwelling or common area where encapsulation or containment has been applied to a surface for the purpose of qualifying such dwelling unit or dwelling or common area for a lead safe exemption under this section, in addition to the information required to be provided to the department pursuant to subdivision (d) of this section, such application shall include: the location of each surface that has been encapsulated or contained; the name of the encapsulant that has been used, which adheres to the standards for encapsulants issued by the American Society for Testing and Materials (ASTM International) or is approved by the New York state department of health or by another federal or state agency or jurisdiction which the department has designated as acceptable; and a statement by the person who applied such encapsulant, who shall be certified to perform abatement pursuant to 40 C.F.R. part 745 or successor provisions, that it has been applied in accordance with the manufacturer's instructions. The surfaces to which such encapsulants are applied or on which containments are used shall be subject to periodic monitoring by the owner for a period of 20 years or the life of the surface or component, whichever is longer, to ensure that they remain undamaged and intact, provided further, that the owner of such dwelling unit or dwelling shall submit to the department and comply with a plan for periodic monitoring of such encapsulated or contained surfaces in accordance with Chapters 12 and 13 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing (2012), and shall keep records of monitoring of such encapsulated and contained surfaces for a period of at least ten years which shall be produced by the owner upon request by the department.
+
+(d) In addition to the information required by subdivision (c) of this section, where applicable, an application for a lead free or lead safe exemption shall include: the address of the multiple dwelling; the number of units; the dates, if known, when substantial alterations, where applicable, were made to the dwelling unit(s) and a description of the work performed; the date of the inspection resulting in the determination that the dwelling unit or multiple dwelling, common area or other part thereof is lead free or lead safe; and a copy of the inspection report. Such inspection report shall contain a description of the surfaces tested and the results of such testing. Such application shall also include a copy of the certificate of training of the person who performed such testing. The department may also require additional information and affidavits to be submitted with the application for exemption as provided in such application form.
+
+(e) (1) Upon submission of a complete application for exemption to the department, such multiple dwelling or common area or other part thereof, or dwelling unit, the department shall review such application and notify the applicant whether the multiple dwelling, or common area or other part thereof, or dwelling unit, has been granted a lead safe or lead free exemption from application of the presumption established under article 14 of the housing maintenance code and 28 RCNY § 11-07.
+
+   (2) (i) The department may revoke a lead safe exemption granted pursuant to this section where the department determines, after inspection, that a surface in any dwelling unit for which lead-based paint was contained or to which an encapsulant was applied is no longer intact or sealed.
+
+      (ii) The department may revoke a lead safe or lead free exemption upon failure by an owner to provide records related to encapsulation or containment monitoring as requested by the Department.
+
+   (3) The department shall revoke a lead safe or lead free exemption upon the:
+
+      (i) issuance of a denial of a rebuttal of a lead-based paint violation based upon the presumption of lead paint for such dwelling unit filed pursuant to subdivision a of § 27-2056.5 where the department finds that lead-based paint was present on a surface that was subject to such exemption,
+
+      (ii) issuance of a lead-based paint violation based upon testing by the department for such dwelling unit,
+
+      (iii) issuance of an order to abate lead-based paint hazards or unsafe lead-based paint by the department of health and mental hygiene,
+
+      (iv) issuance of a denial of an objection to such a commissioner's order to abate filed pursuant to 24 RCNY Health Code § 173.13, or
+
+      (v) issuance of a determination that the exemption was based upon fraud, mistake, or misrepresentation.
+
+   (4) For exemptions that were approved prior to the effective date of the rule promulgated by the department pursuant to paragraph (b) of subdivision (7) of § 27-2056.2 of the administrative code, a lead free or lead safe exemption shall be deemed revoked upon the turnover of a dwelling unit on or after such effective date and subject to subdivision (f) of this section.
+
+   (5) The department shall provide written notification to the owner upon making a determination to revoke a lead safe or lead free exemption, and such multiple dwelling or part thereof, or dwelling unit shall be subject to all applicable provisions of article 14 of the housing maintenance code.
+
+   (6) Absent fraud, mistake or misrepresentation in the initial application, an owner may reapply for the lead safe exemption by showing that the surface for which the lead-based paint was no longer contained or encapsulated has been repaired and resealed, and that the surfaces found to test positive for the presence of lead based paint subsequent to revocation of the lead safe exemption no longer test positive for such paint, where applicable, or have been properly encapsulated or contained. Alternatively, such owner may submit an application for a lead free exemption. The application must include testing to show that the surfaces found to test positive for the presence of lead-based paint subsequent to revocation of the lead free exemption no longer test positive for lead-based paint.
+
+(f) (1) On or after the effective date of the rule promulgated by the department pursuant to paragraph (b) of subdivision (7) of § 27-2056.2 of the administrative code, an owner who had received a lead free or lead safe exemption prior to such date must notify the department whenever an exempted unit becomes vacant. The exemption from the presumption for such vacant unit shall be deemed revoked on the date of the vacancy, regardless of whether an owner has failed to provide the required notification, and such unit shall be subject to all of the requirements of law relating to units that are not exempt from the presumption of lead-based paint. The owner of such unit may apply for a new exemption by submitting an application as provided in this section, and the testing required pursuant to this section shall be performed using the definition of lead-based paint in effect on and after such date.
+
+   (2) An owner may also apply for a lead free or lead safe exemption for the first time on or after the effective date of the rule promulgated by the department pursuant to paragraph (b) of subdivision (7) of § 27-2056.2 of the administrative code as provided in this section, and the testing required pursuant to this section shall be performed using the definition of lead-based paint in effect on and after such date.
+
+
 
 
 
@@ -8437,19 +8501,283 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 *§ 11-11 Audit and Inspection by the Department.* ::
 
 
-(a)  Upon the issuance of a commissioner's order to abate by the commissioner of the department of health and mental hygiene pursuant to 24 RCNY Health Code § 173.13, the department shall require that an owner submit to it all records required to be kept by such owner pursuant to article 14 of the housing maintenance code and these rules. At such other times as the department may deem it necessary, the department may require that an owner submit to it all records required to be kept by such owner pursuant to article 14 of the housing maintenance code and these rules. If such order to abate has been issued, such records shall be submitted to the department within 45 days of written demand for such records by the department. In all other cases, the time period for submission shall be stated in writing to the owner, and shall be in the discretion of the department.
+(a)  Upon the issuance of a commissioner's order to abate by the commissioner of the department of health and mental hygiene pursuant to 24 RCNY Health Code § 173.13, the department shall require that an owner submit to it all records required to be kept by such owner pursuant to article 14 of the housing maintenance code and these rules. If such order to abate has been issued, such records shall be submitted to the department within 45 days of written demand for such records by the department. In all other cases, the time period for submission shall be stated in writing to the owner, and shall be in the discretion of the department, but shall be no less than 45 days.
 
-(b) The department may undertake any inspection and enforcement actions it deems necessary under applicable law and these rules based upon its review of the records submitted by an owner pursuant to subdivision (a) of this section. The department may also undertake any inspection or enforcement action authorized by law where an owner refuses or fails to produce any of the records required to be kept pursuant to article 14 of the housing maintenance code, these rules, and other applicable law.
-
-
+(b) The department may undertake any inspection and enforcement actions it deems necessary under applicable law and these rules based upon its review of the records submitted by an owner pursuant to subdivision (a) of this section, or where an owner refuses or fails to produce any of the required records as required by these rules or pursuant to any proper order.
 
 
 
 
-*§ 11-12 Dwelling Units in Cooperative Housing Corporations and Condominiums.* ::
+
+
+
+
+*§ 11-12 Additional Audits.* ::
+
+
+(a) Upon the issuance by the department of a demand for records to determine compliance with the requirements of article 14 of the housing maintenance code, the department may require that an owner submit to it records required to be kept by such owner pursuant to article 14 of the housing maintenance code and these rules. The department may perform such audits at any time, and, in addition, shall perform such audits for a minimum of 200 buildings each fiscal year. Such records must be submitted to the department within 45 days of written demand for such records by the department, or within such other time period not less than 45 days as shall be stated in writing to the owner, in the discretion of the department.
+
+(b) The department may select the buildings required to be audited each fiscal year pursuant to subdivision (a) of this section using the following criteria, which shall include, but need not be limited to:
+
+   (i) buildings with peeling lead based paint violations issued as a result of a positive XRF test;
+
+   (ii) buildings with violations that have been issued for other indicators of deteriorated subsurfaces including, but not limited to, mold and leaks;
+
+   (iii) buildings selected from a random sample of buildings based on data on the prevalence of elevated blood lead levels in certain geographic areas identified by the department of health and mental hygiene; and
+
+   (iv) buildings selected from a random sample of buildings that are subject to the presumption in § 27-2056.5 of article 14 of the housing maintenance code.
+
+ The buildings selected may be subject to further selection criteria including building size, date of issuance of violations, percentage of units with housing maintenance code violations, and location.
+
+(c) The department may undertake an inspection, and any enforcement action authorized by law, where an owner refuses or fails to produce the records required by the department pursuant to its audit demand or pursuant to any other proper order.
+
+(d) Documentation Required under Records Audits. The documents that may be required to be submitted to the department for each year for any audit as specified by the department are set forth in subdivisions (e) through (h) of this section. The department may make available on its website the forms or affidavits required for such submissions. In the event that a new owner has acquired the building within the required audit period, and the documentation required to be kept was not provided to the new owner by the previous owner, the new owner must provide the required documentation for the actual years of ownership and an additional affidavit of missing records for the remaining period of time covering the audit period, accompanied by a copy of the deed of ownership.
+
+(e) Audit of Annual Notice Distribution and Investigation. Pursuant to subdivision (d) of this section, the owner shall provide:
+
+   (1) Proof of delivery to the occupant of each dwelling unit of the annual notice required to be provided by 28 RCNY § 11-03(b), including:
+
+      (i) An affidavit of Delivery/Email/Mail from an owner's delivery, mailing or email service company or the owner (if sent directly by the owner) providing the following information: Complete service's or owner's name, address, contact information, and date of the affidavit; name of the service's or owner's representative who performed the delivery/mailing/emailing on behalf of the owner of the annual notice required to be provided by 28 RCNY § 11-03(b); and a sample copy of such annual notice in English and Spanish that was delivered/mailed/ emailed to occupants of the owner's building;
+
+      (ii) A complete list of recipient dwelling units with the building address, each dwelling unit number and the date of delivery to each dwelling unit or the date of the email/mail notice sent to each dwelling unit; and
+
+      (iii) Whenever applicable, a complete list of any dwelling units in the building for which there is a lead exemption obtained from the department for the dwelling unit that is in effect during the audit period; and a complete list of owner/shareholder-occupied cooperative or condominium dwelling units during the audit period, where the owner was not required to provide such annual notice to such owner/ shareholder. Any such lists must be signed by the owner.
+
+   (2) Annual notice response received from the occupant of each dwelling unit, including:
+
+      (i) A list of the dwelling units that received the annual notice required to be provided by 28 RCNY § 11-03(b), with an indication of whether each dwelling unit responded and, if so, the substance of such response, including whether a child under six resides in such dwelling unit, based on either the occupant's verbal or written response or the owner's inspection/knowledge;
+
+      (ii) Copies of the completed and returned annual notices, where received. Such annual notice must have the building address, dwelling unit number, and occupant's name, signature and date, where received; and
+
+      (iii) For those dwelling units that did not respond to such annual notice, the date when access was attempted to confirm whether a child under six resides in such therein or an indication that the owner had knowledge of a dwelling unit in which a child under six resides; and proof of providing written notice by certified or registered mail or by first class mail with proof of mailing of the need to access the unit; and a copy of the notice sent by the owner to the department of health and mental hygiene regarding failure to access any particular dwelling unit.
+
+   (3) Annual investigation reports conducted pursuant to responses by occupants to annual notices required to be provided by 28 RCNY § 11-03(b), including:
+
+      (i) An affidavit stating that access was gained to conduct the visual inspection of the dwelling unit, that the inspection was conducted, the person who conducted such inspection, the date of inspection, and the dwelling unit number; and
+
+      (ii) For dwelling units that were inspected, the owner must provide copies of the inspection report including a statement of whether there was or was not peeling paint on all visually inspected components or similar documentation. The owner may use a sample form made available by the department for documentation of owner investigations, or a substantially similar form containing the same information to provide a report of surface-by-surface, individual paint-containing building component investigation, including walls, chewable surfaces, deteriorated subsurfaces, friction sufaces and impact surfaces in every room, including interiors of closets and cabinets; and
+
+      (iii) If access was not gained to a dwelling unit, an affidavit stating the dates that an attempt was made to gain access, including the date the owner provided written notice of the need for access by certified or registered mail or by first class mail with proof of mailing. For such units, the owner must also provide copies of the written notice to the occupant informing the occupant of the need to access the unit or similar documentation and a record regarding access attempts and the reasons for failure of access as set forth in subdivision (b) of 28 RCNY § 11-04.
+
+(f) Audit of Work Performed to Correct Lead Based Paint Hazard Violations. For currently open and uncertified violations in the period, the owner must submit:
+
+   (1) An affidavit AF-5;
+
+   (2) An affidavit made by an EPA-certified abatement firm's authorized agent or individual who performed the work to correct the leadbased paint hazard violation(s) stating that the work was performed in accordance with § 27-2056.11 of article 14 of the housing maintenance code and 28 RCNY § 11-06; the start and completion date of the work; and the address and contact information (phone or fax) for the EPA-certified abatement firm that completed the work;
+
+   (3) A copy of the EPA certification for the EPA-certified abatement firm that performed the work to correct the lead-based paint hazard violation(s);
+
+   (4) A copy of the State-certified laboratory analysis of all surface dust samples taken which indicates the method of preparation and analysis of the samples;
+
+   (5) An affidavit from the individual who took the surface dust sample, verifying the date the sample was taken and indicating the address and dwelling unit where the sample was taken; and
+
+   (6) A copy of the Certificate of Training of the individual who took surface dust samples that is valid for the period when the dust samples were taken.
+
+(g) Audit of Non-violation Work that Disturbed Lead Based Paint or Paint of Unknown Lead Content. Upon a request by the department pursuant to subdivision (b) of this section, an owner must submit an affidavit that no non-violation work on such painted surfaces in apartments with children under six at the time of the repair was completed in the audit request period, or submit the following documents:
+
+   (1) Records for all non-violation work that disturbed lead-based paint or paint of unknown lead content on a surface greater than two square feet per room, in a dwelling unit where a child under six years of age resides, or in the common areas of the building, including documentation of the work practices used. Such records shall include:
+
+      (i) All documentation required under 28 RCNY § 11-06(c);
+
+      (ii) A copy of all licenses and training certificates, required for the firms and personnel who performed the work;
+
+      (iii) An affidavit made by an EPA-certified abatement or EPA-certified renovation firm's authorized agent or individual who performed the work stating that the work was performed in accordance with § 27-2056.11 of article 14 of the housing maintenance code and 28 RCNY § 11-06, including the start and completion date of the work, and the address and contact information (phone or fax) for such firm;
+
+      (iv) A copy of the certification for such firm;
+
+      (v) The location of the work performed in each room, including a description of such work or invoices for payment for such work;
+
+      (vi) A copy of the State-certified laboratory analysis of all surface dust samples taken which indicates the method of preparation and analysis of the samples;
+
+      (vii) An affidavit from the individual who took the surface dust samples, verifying the date the sample was taken and indicating the address/dwelling unit where the sample was taken;
+
+      (viii) A copy of the Certificate of Training of the individual who took surface dust samples that is valid for the period when the dust samples were taken; and
+
+      (ix) Checklists completed when and/if occupants were allowed temporary access to a work area.
+
+   (2) In addition to the documents required to be submitted by paragraph (1) of this subdivision, if the work that was performed disturbed greater than 100 square feet of lead based paint or paint of unknown lead content in a room in a dwelling unit where a child under age six resides, or involved the removal of two or more windows with lead based paint or paint of unknown lead content in such unit, the department may require the submission of the following additional documentation: A copy of the owner's notice of commencement of work that was filed with the department of health and mental hygiene. Such notice shall be signed by the owner or by a representative of the firm performing the work. Such notice shall include: the name, address and telephone number of the owner of the premises in which the lead-based paint work is to be performed; the address of the building and the specific location of the lead-based paint work within the building; the name, address and telephone number of the EPA-certified abatement firm that will be responsible for performing the work; the date and time of commencement of the work, working or shift hours, and the expected date of completion; a complete description and identification of the surfaces and structures, and surface areas, subject to the work; and any changes in the information contained in such notice filed with the department of health and mental hygiene prior to commencement of work, or if work has already commenced, within 24 hours of any such change.
+
+(h) Audit of Work Performed at Turnover of any Dwelling Unit. Upon an audit of turnover of a dwelling unit, the owner shall provide:
+
+   (1) An affidavit listing any dwelling units that have turned over in the audit period; and
+
+   (2) (A) Where no work was necessary to comply with the requirements for turnover of any dwelling unit: An affidavit stating that the dwelling unit: (i) has a lead free exemption from HPD; (ii) has no painted friction surfaces and the floor, window sills and window wells are smooth and cleanable such that no turnover work or clearance activity was required; or (iii) was XRF tested by a EPA-certified risk assessor and no painted surfaces tested positive for lead-based paint, with a copy of the results of the XRF test and an affidavit from the risk assessor; or
+
+      (B) Where work was necessary to comply with the requirements for turnover of the dwelling unit:
+
+         (i) The name, address, and telephone number of the EPA-certified abatement or EPA-certified renovation firm that performed the work;
+
+         (ii) A copy of all licenses and training certificates required for the firms and personnel who performed work;
+
+         (iii) A sworn statement made by the EPA-certified abatement firm's or EPA-certified renovation firm's authorized agent or individual who performed the work on behalf of such firm stating that the work was performed in accordance with § 27-2056.11(a)(3) of article 14 of the housing maintenance code and 28 RCNY § 11-06, and the start and completion date of the work;
+
+         (iv) A copy of the certification for such firm ;
+
+         (v) The location of the work performed in each room, including a description of such work and components or parts of the dwelling unit that were replaced, or the invoices for payment for such work;
+
+         (vi) A copy of the State-certified laboratory analysis of all surface dust samples taken which indicates the method of preparation and analysis of the samples;
+
+         (vii) An affidavit from the individual who took the surface dust sample, verifying the date that the sample was taken and stating the address and dwelling unit where the sample was taken; and
+
+         (viii) A copy of the Certificate of Training of the individual who took surface dust samples that is valid for the period when the dust samples were taken.
+
+
+
+
+
+
+
+
+*§ 11-13 Dwelling Units in Cooperative Housing Corporations and Condominiums.* ::
 
 
 Where the department has issued a violation pursuant to article 14 of the housing maintenance code for a dwelling unit in a multiple dwelling where (i) title to such multiple dwelling is held by a cooperative housing corporation or such dwelling unit is owned as a condominium unit, and (ii) such dwelling unit is occupied by the shareholder of record on the proprietary lease for such dwelling unit or the owner of record of such condominium unit, as is applicable, or the shareholder's or record owner's family, the cooperative housing corporation or the condominium board of managers may apply to the department to have such violation reissued. Such application shall include a sworn affidavit from a representative of the cooperative housing corporation or condominium board of managers attesting to the status of such multiple dwelling as either a cooperative or condominium, and a sworn affidavit from the shareholder of record on the proprietary lease of the unit or the owner of record of the condominium unit for which the violation was issued, attesting to his or her occupancy of the unit.
+
+
+
+
+
+
+
+
+*APPENDIX A: LEASE/COMMENCEMENT OF OCCUPANCY NOTICE FOR PREVENTION OF LEAD BASED PAINT HAZARDS – INQUIRY REGARDING CHILD* ::
+
+
+You are required by law to inform the owner if a child under six years of age resides or will reside in the dwelling unit (apartment) for which you are signing this lease/commencing occupancy. Beginning on January 1, 2020, the term "resides" means that a child under six routinely spends 10 or more hours per week in the dwelling unit. If such a child resides or will reside in the unit, the owner of the building is required to perform an annual visual inspection of the unit to determine the presence of lead-based paint hazards. IT IS IMPORTANT THAT YOU RETURN THIS FORM TO THE OWNER OR MANAGING AGENT OF YOUR BUILDING TO PROTECT THE HEALTH OF YOUR CHILD. If you do not respond to this notice, the owner is required to attempt to inspect your apartment to determine if a child under six years of age resides there.
+
+If a child under six years of age does not reside in the unit now, but does come to reside in it at any time during the year, you must inform the owner in writing immediately. If a child under six years of age resides in the unit, you should also inform the owner immediately at the address below if you notice any peeling paint or deteriorated subsurfaces in the unit during the year.
+
+Whether or not a child under age six will reside in the apartment, the owner of the building is also required to fix all lead-based paint hazards and underlying defects that may cause paint to peel, make floors, window sills and window wells smooth and cleanable, remove or cover all lead-based paint on friction surfaces of doors and door frames, and remove or cover all lead-based paint on friction surfaces of windows or install window channels or slides. This work should be performed before you move into the apartment, and the owner must properly clean the apartment after the work is completed.
+
+Please complete this form and return one copy to the owner or his or her agent or representative when you sign the lease/commence occupancy of the unit. Keep one copy of this form for your records. You should also receive a copy of a pamphlet developed by the New York City Department of Health explaining about lead based paint hazards when you sign your lease/commence occupancy.
+
+CHECK ONE:      ____   A child under six years of age resides in the unit
+
+      ____   A child under seven years of age does not reside in the unit
+
+ ________________________________(Occupant signature)
+
+ Print occupant's name, address and apartment number:________________________________________
+
+(NOT APPLICABLE TO RENEWAL LEASE) Certification by owner: I certify that I have complied with the provisions of § 27-2056.8 of Article 14 of the Housing Maintenance Code and the rules promulgated thereunder relating to duties to be performed in vacant units, and that I have provided a copy of the New York City Department of Health and Mental Hygiene pamphlet concerning lead-based paint hazards to the occupant.
+
+ ________________________________(Owner signature)
+
+RETURN THIS FORM TO:
+
+Owner representative name: _________________________________
+
+Address: _________________________________________________
+
+OCCUPANT: KEEP ONE COPY FOR YOUR RECORDS
+
+OWNER COPY/OCCUPANT COPY
+
+
+
+
+
+
+*APENDICE A: CONTRATO/COMIENZO DE OCUPACION Y MEDIDAS DE PRECAUCION CON LOS PELIGROS DE PLOMO EN LA PINTURA – ENCUESTA RESPECTO AL NIÑO* ::
+
+
+Usted esta requerido por ley informarle al dueño si un niño menor de seis años de edad está viviendo o vivirá con usted en la unidad de vivienda (apartamento) para la cual usted va a firmar un contrato de ocupación. A partir del 1 de enero de 2020, el término “residir” significa que un niño menor de seis años pasa 10 horas o más por semana en la unidad de vivienda. Si tal niño empieza a residir en la unidad, el dueño del edificio esta requerido hacer una inspeción visual anualmente de la unidad para determinar la presencia peligrosa de plomo en la pintura. POR ESO ES IMPORTANTE QUE USTED LE DEVEUELVA ESTE AVISO AL DUEÑO O AGENTE AUTORIZADO DEL EDIFICIO PARA PROTEGER LA SALUD DE SU NIÑO. Si usted no informa al dueño, el dueño esta requerido inspeccionar su apartamento para descubrir si un niño menor de seis años de edad está viviendo en el apartamento.
+
+Si un niño de seis años de edad no vive en la unidad ahora, pero viene a vivir en cualquier tiempo durante el año, usted debe de informarle al dueño por escrito inmediatamente a la dirección proveída abajo. Usted también debe de informarle al dueño por escrito si un niño menor de seis años de edad vive en la unidad y si usted observa que durante el año la pintura se deteriora o está por pelarse sobre la superficie de la unidad.
+
+Más allá de que un niño menor de seis años resida o no en el apartamento, el dueño del edificio también debe reparar todos los peligros de pintura a base de plomo y todos los defectos subyacentes que puedan causar que la pintura se descascare, debe hacer que los pisos, los alféizares y huecos de las ventanas sean lisos y de fácil limpieza, debe quitar o cubrir toda la pintura a base de plomo en las superficies de puertas y marcos de puertas en las que haya fricción, y debe quitar o cubrir toda la pintura a base de plomo en las superficies de ventanas en las que haya fricción o instalar perfiles para ventanas o ventanas deslizantes. Este trabajo debe hacerse antes de mudarse al apartamento, y el dueño debe limpiar correctamente el apartamento una vez que se haya completado el trabajo.
+
+Por favor de llenar este formulario y devolver una copia al dueño del edificio o al agente o representante cuando usted firme el contrato o empiece a ocupar la unidad. Mantenga una copia de este formulario para sus archivos. Al firmar su contrato de ocupación usted recibirá un panfleto hecho por el Departamento de Salud y Salud Mental de la Ciudad de Nueva York, explicando el peligro de plomo en pintura.
+
+MARQUE UNO:      ____   Vive un niño menor de seis años de edad en la unidad.
+
+      ____   No vive un niño menor de seis años de edad en la unidad.
+
+________________________________(Firma del inquilino)
+
+Nombre del inquilino, Dirección, Apartamento:________________________________________
+
+(Esto no es aplicable para un renovamiento del contrato de alquiler.) Certificación de dueño: Yo certifico que he cumplido con la provisión de § 27-2056.8 del Artículo 14 del código y reglas de Vivienda y Mantenimiento (Housing Maintenance Code) relacionado con mis obligaciones sobre las unidades vacante, y yo le he dado al ocupante una copia del panfleto del Departamento de Salud y Salud Mental de la Ciudad de Nueva York sobre el peligro de plomo en pintura.
+
+________________________________((Firma del dueño)
+
+DEVUELVA ESTE FORMULARIO A:
+
+Nombre del representate del propietario: ________________________
+
+Dirección: _________________________________________________
+
+INQUILINO: MANTENGA UNA COPIA PARA LOS ARCHIVOS
+
+COPIA DEL DUEÑO/COPIA DEL INQUILINO
+
+
+
+
+
+
+
+
+*APPENDIX B: ANNUAL NOTICE FOR PREVENTION OF LEAD BASED PAINT HAZARDS – INQUIRY REGARDING CHILD* ::
+
+
+You are required by law to inform the owner if a child under six years of age resides or will reside in your dwelling unit (apartment). Beginning on January 1, 2020, the term "resides" means that a child under six routinely spends 10 or more hours per week in the dwelling unit. If such a child resides or will reside in the unit, the owner of the building is required to perform an annual visual inspection of the unit to determine the presence of lead-based paint hazards. IT IS IMPORTANT THAT YOU RETURN THIS FORM TO THE OWNER OR MANAGING AGENT OF YOUR BUILDING TO PROTECT THE HEALTH OF YOUR CHILD. If you do not respond to this notice, the owner is required to attempt to inspect your apartment to determine if a child under six years of age resides there.
+
+If a child under six years of age does not reside in the unit now, but does come to reside in it at any time during the year, you must inform the owner in writing immediately. If a child under six years of age resides in the unit you should also inform the owner immediately if you notice any peeling paint or deteriorated surfaces in the unit during the year. You may request that the owner provide you with a copy of any records required to be kept as a result of a visual inspection of your unit.
+
+Please complete this form and return one copy to the owner or his or her agent or representative by March 1st. Keep one copy of this form for your records.
+
+CHECK ONE:      ____   A child under six years of age resides in the unit
+
+      ____   A child under seven years of age does not reside in the unit
+
+ ________________________________(Occupant signature)
+
+ Print occupant's name, address and apartment number:________________________________________
+
+RETURN THIS FORM TO:
+
+Owner representative name: _________________________________
+
+Address: _________________________________________________
+
+OCCUPANT: KEEP ONE COPY FOR YOUR RECORDS
+
+OWNER COPY/OCCUPANT COPY
+
+
+
+
+
+
+*APENDICE B: AVISO AÑUAL PARA MEDIDAS DE PRECAUCION CON LOS PELIGROS DE PLOMO EN LA PINTURA – ENCUESTA RESPECTO AL NIÑO* ::
+
+
+Usted esta requerido por ley informarle al dueño si un niño menor de seis años de edad está viviendo o vivirá con usted en su unidad de vivienda (apartamento). A partir del 1 de enero de 2020, el término “residir” significa que un niño menor de seis años pasa 10 horas o más por semana en la unidad de vivienda. Si tal niño empieza a residir en la unidad, el dueño del edificio esta requerido hacer una inspeción visual anualmente de la unidad para determinar la presencia peligrosa de plomo en la pintura. POR ESO ES IMPORTANTE QUE USTED LE DEVEUELVA ESTE AVISO AL DUEÑO O AGENTE AUTORIZADO DEL EDIFICIO PARA PROTEGER LA SALUD DE SU NIÑO. Si usted no informa al dueño, el dueño esta requerido inspeccionar su apartamento para descubrir si un niño menor de seis años de edad está viviendo en el apartamento.
+
+Si un niño menor de seis años de edad no vive en la unidad ahora, pero viene a vivir en cualquier tiempo durante el año, usted debe de informarle al dueño por escrito inmediatamente. Usted también debe de informarle al dueño por escrito si el niño menor de seis años de edad vive en la unidad y si usted observa que durante el año la pintura se deteriora o está por pelarse sobre la superficie de la unidad, usted tiene que informarle al dueño inmediatamente. Usted puede solicitar que el dueño le dé una copia de los archivos de la inspección visual hecha en su unidad.
+
+Por favor de llenar este formulario y devolver una copia al dueño del edificio o al agente o representante antes de Marzo 1. Mantenga una copia de este formulario para su información.
+
+MARQUE UNO:      ____   Vive un niño menor de seis años de edad en la unidad.
+
+      ____   No vive un niño menor de seis años de edad en la unidad.
+
+________________________________(Firma del inquilino)
+
+Nombre del inquilino, Dirección, Apartamento: ________________________
+
+DEVUELVA ESTE FORMULARIO A:
+
+Nombre del representate del propietario: ________________________
+
+Dirección: _________________________________________________
+
+INQUILINO: MANTENGA UNA COPIA PARA SU INFORMACION
+
+COPIA DEL DUEÑO/COPIA DEL INQUILINO
+
+
 
 
 

@@ -4528,51 +4528,6 @@ All notices required by these Rules shall be sent by certified, return receipt m
 
 
 
-Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
---------------------------------------------------
-
-
-
-*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equipment.* ::
-
-
-(a) Prohibition.
-
-   (1) Pursuant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
-
-   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with Subdivision (e) of 1 RCNY § 24-01 of the Rules of Department of Buildings of the City of New York governing fireproofing.
-
-   (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
-
-(b) Request for change in Department of Sanitation collection service.
-
-   (1) If, as a result of the cessation of operation and removal and sealing of refuse burning equipment, the owner of a residential building which contains such equipment and currently receives Department of Sanitation collection service determines that a change from its existing form of collection service (e.g., curbside or containerized collection) is necessary, he/she shall notify the Department of Sanitation in writing no later than June 28, 1993. Such notice shall be addressed to the New York City Department of Sanitation, Office of Collection and Containerization, 125 Worth Street, Room 821A, New York, New York 10013, and shall provide:
-
-      (i) The type of collection service the building is presently receiving (i.e., curbside or containerized). Curbside collection service means placing garbage receptacles at the curb which are then manually serviced by Department of Sanitation personnel. Containerized collection service means placing garbage bags/refuse into a container(s) in an area accessible to a Department of Sanitation mechanized collection vehicle. The owner of the building currently receiving Department of Sanitation collection service shall state whether he/she requests:
-
-         (A) continuation of containerized collection service or eligibility to receive containerized service; or
-
-         (B) continuation of curbside collection service, all requests are subject to Department of Sanitation approval based on availability of collection equipment, facilities, necessary support resources and operational feasibility; and
-
-      (ii) Proof of legal authorization and occupancy for building. The owner of a building currently receiving Department of Sanitation collection shall submit a copy of the certificate of occupancy for such building, or, if such building is not legally required to operate pursuant to a certificate of occupancy, a notarized statement from the building owner stating the number of stories the building contains and the number of families authorized by law to occupy the building.
-
-   (2) Upon the Department of Sanitation's receipt of the information set forth in subdivision (1) of this section, a Department of Sanitation representative shall visit the subject residential building and determine whether the request for change in collection service should be granted.
-
-   (3) Owners of commercial incinerators which cease to operate and are removed and sealed are required by law to arrange with their private carter for collection of the solid waste which they generate.
-
-(c) Department of Buildings requiremeents for renovation and alteration of refuse and/or chute rooms.
-
-   (1) If an owner of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989, renovates or alters the refuse and/or chute room, by, a method which includes, but is not limited to, the installation of a refuse chute or compactor, such owner shall comply with §§ 27-836, 27-837 and/or 27-875 of the Administrative Code of the City of New York and Department of Buildings Rules governing the construction and maintenance of refuse chutes and refuse rooms.
-
-   (2) Such owner shall obtain authorization from the borough office of the Department of Buildings in which his/her building is located in the form of the alteration application/permit, as required by Articles four, nine, ten and twelve of Subchapter one of Chapter one of Article twenty-seven of the Administrative Code of the City of New York.
-
-   (3) Such owner shall mail a copy of the approved alteration application/permit and a notarized statement that the owner has complied with all applicable rules and laws of the Department of Buildings to: Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
-
-(d) Department of Environmental Protection requirements for notice of cessation and removal and sealing of refuse burning equipment. All owners of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989 shall notify the Department of Environmental Protection in writing of such cessation and removal and sealing in accordance with subdivision (f) of § 24-122 of the Administrative Code of the City of New York, and mail such notice to: John Penn, Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
-
-
-
-
 Chapter 14: Street Events
 --------------------------------------------------
 
@@ -4720,29 +4675,47 @@ At least one week prior to the street event, the sponsor or his or her represent
 
 
 
-Chapter 15: Residential Enforcement Routing
+Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
 --------------------------------------------------
 
 
 
-*§ 15-01 Designation of Enforcement Routing Hours for Residential Buildings.* ::
+*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equipment.* ::
 
 
-(a)  Purpose. The purpose of this chapter is to designate two (2) one-hour periods each day when the Department will conduct citywide enforcement routing for residential premises pursuant to § 16-118.1 of the Administrative Code of the City of New York.
+(a) Prohibition.
 
-(b) Definition. For purposes of this chapter, "citywide enforcement routing for residential premises" means enforcement by authorized Department representatives of subdivision two of § 16-118 of the Administrative Code of the City of New York, as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of residential premises.
+   (1) Pursuant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
 
-(c) Hours of Residential Enforcement Routing. The Department establishes the periods from 8:00 A.M. to 9:00 A.M. and from 6:00 P.M. to 7:00 P.M. as the two (2) one-hour periods during which time the Department will conduct citywide enforcement routing for residential premises.
+   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with Subdivision (e) of 1 RCNY § 24-01 of the Rules of Department of Buildings of the City of New York governing fireproofing.
 
+   (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
 
+(b) Request for change in Department of Sanitation collection service.
 
+   (1) If, as a result of the cessation of operation and removal and sealing of refuse burning equipment, the owner of a residential building which contains such equipment and currently receives Department of Sanitation collection service determines that a change from its existing form of collection service (e.g., curbside or containerized collection) is necessary, he/she shall notify the Department of Sanitation in writing no later than June 28, 1993. Such notice shall be addressed to the New York City Department of Sanitation, Office of Collection and Containerization, 125 Worth Street, Room 821A, New York, New York 10013, and shall provide:
 
+      (i) The type of collection service the building is presently receiving (i.e., curbside or containerized). Curbside collection service means placing garbage receptacles at the curb which are then manually serviced by Department of Sanitation personnel. Containerized collection service means placing garbage bags/refuse into a container(s) in an area accessible to a Department of Sanitation mechanized collection vehicle. The owner of the building currently receiving Department of Sanitation collection service shall state whether he/she requests:
 
+         (A) continuation of containerized collection service or eligibility to receive containerized service; or
 
-*§ 15-02 Applicability.* ::
+         (B) continuation of curbside collection service, all requests are subject to Department of Sanitation approval based on availability of collection equipment, facilities, necessary support resources and operational feasibility; and
 
+      (ii) Proof of legal authorization and occupancy for building. The owner of a building currently receiving Department of Sanitation collection shall submit a copy of the certificate of occupancy for such building, or, if such building is not legally required to operate pursuant to a certificate of occupancy, a notarized statement from the building owner stating the number of stories the building contains and the number of families authorized by law to occupy the building.
 
-This chapter shall apply only to residential premises and shall not apply to commercial premises. The schedule for citywide enforcement routing for commercial premises in effect as of the effective date of this chapter shall continue in effect until such time as such schedule is changed by the Department in accordance with § 16-118.1 of the Administrative Code of the City of New York.
+   (2) Upon the Department of Sanitation's receipt of the information set forth in subdivision (1) of this section, a Department of Sanitation representative shall visit the subject residential building and determine whether the request for change in collection service should be granted.
+
+   (3) Owners of commercial incinerators which cease to operate and are removed and sealed are required by law to arrange with their private carter for collection of the solid waste which they generate.
+
+(c) Department of Buildings requiremeents for renovation and alteration of refuse and/or chute rooms.
+
+   (1) If an owner of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989, renovates or alters the refuse and/or chute room, by, a method which includes, but is not limited to, the installation of a refuse chute or compactor, such owner shall comply with §§ 27-836, 27-837 and/or 27-875 of the Administrative Code of the City of New York and Department of Buildings Rules governing the construction and maintenance of refuse chutes and refuse rooms.
+
+   (2) Such owner shall obtain authorization from the borough office of the Department of Buildings in which his/her building is located in the form of the alteration application/permit, as required by Articles four, nine, ten and twelve of Subchapter one of Chapter one of Article twenty-seven of the Administrative Code of the City of New York.
+
+   (3) Such owner shall mail a copy of the approved alteration application/permit and a notarized statement that the owner has complied with all applicable rules and laws of the Department of Buildings to: Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
+
+(d) Department of Environmental Protection requirements for notice of cessation and removal and sealing of refuse burning equipment. All owners of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989 shall notify the Department of Environmental Protection in writing of such cessation and removal and sealing in accordance with subdivision (f) of § 24-122 of the Administrative Code of the City of New York, and mail such notice to: John Penn, Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
 
 
 
@@ -4830,6 +4803,33 @@ Unsolicited advertisement. "Unsolicited advertisement" shall mean an advertiseme
 
 
 Nothing in this chapter shall be construed to preclude an enforcement agent from issuing a notice of violation based on his or her own observations, or in any other way to limit the authority of any enforcement agent.
+
+
+
+
+Chapter 15: Residential Enforcement Routing
+--------------------------------------------------
+
+
+
+*§ 15-01 Designation of Enforcement Routing Hours for Residential Buildings.* ::
+
+
+(a)  Purpose. The purpose of this chapter is to designate two (2) one-hour periods each day when the Department will conduct citywide enforcement routing for residential premises pursuant to § 16-118.1 of the Administrative Code of the City of New York.
+
+(b) Definition. For purposes of this chapter, "citywide enforcement routing for residential premises" means enforcement by authorized Department representatives of subdivision two of § 16-118 of the Administrative Code of the City of New York, as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of residential premises.
+
+(c) Hours of Residential Enforcement Routing. The Department establishes the periods from 8:00 A.M. to 9:00 A.M. and from 6:00 P.M. to 7:00 P.M. as the two (2) one-hour periods during which time the Department will conduct citywide enforcement routing for residential premises.
+
+
+
+
+
+
+*§ 15-02 Applicability.* ::
+
+
+This chapter shall apply only to residential premises and shall not apply to commercial premises. The schedule for citywide enforcement routing for commercial premises in effect as of the effective date of this chapter shall continue in effect until such time as such schedule is changed by the Department in accordance with § 16-118.1 of the Administrative Code of the City of New York.
 
 
 
