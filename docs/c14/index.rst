@@ -1,311 +1,6 @@
 Title 28: Housing Preservation and Development
 ===================================================
 
-Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
---------------------------------------------------
-
-
-
-*§ 2-01 General Provisions.* ::
-
-
-(a) Purpose. This chapter (and any applicable regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement) shall govern the making of loans for rehabilitation and improvement pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York.
-
-(b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
-
-   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
-
-   City. "City" shall mean the City of New York.
-
-   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
-
-   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
-
-   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
-
-   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
-
-   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
-
-   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
-
-   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
-
-   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
-
-   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
-
-   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
-
-   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
-
-   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
-
-   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
-
-      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
-
-      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
-
-   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
-
-   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
-
-
-
-
-
-
-*§ 2-02 Eligibility and General Conditions.* ::
-
-
-(a) Eligible buildings. 
-
-   (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
-
-   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
-
-(b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
-
-   (1) Construction costs and filing fees required by the Department of Buildings and other governmental agencies having jurisdiction.
-
-   (2) Interim interest on the loan proceeds.
-
-   (3) Recording and filing fees and mortgage taxes.
-
-   (4) Payment and Performance Bond(s).
-
-   (5) Fees or charges attributable to the examination and insurance of title.
-
-   (6) Real estate taxes, assessments, water and meter charges and sewer rents.
-
-   (7) Fire insurance premiums.
-
-(c) Maximum amount. The loan amount shall not exceed an average of ten thousand ($10,000) dollars per dwelling unit or the actual cost of the rehabilitation or improvement, whichever is less.
-
-(d) Term. The term of a loan shall not exceed twenty years, except that the term of a loan whose amount exceeds an average of five thousand ($5,000) dollars per dwelling unit shall not exceed thirty (30) years. In no event shall the term of any loan exceed the useful life of the rehabilitation or improvement.
-
-(e) Interest rate. The interest rate shall be three (3%) percent per annum, except where otherwise determined by the Department.
-
-(f) Protection of mortgage lien. Subsequent to the loan closing, the Department at its discretion may pay any liens and charges the priority of which are superior to its mortgage and may pay such other expenses as may be appropriate to protect its loan or to protect the lien of the mortgage relating thereto, provided that such expenditures shall not exceed one-half of the total amount of the loan.
-
-
-
-
-
-
-*§ 2-03 Application Procedure.* ::
-
-
-(a) Application forms. Application forms may be obtained from the Department, 100 Gold Street, New York, N.Y. 10038, Attention: Article VIII-A Loan Program. All applications shall be submitted to the Department for review and approval.
-
-(b) Eligible applicants. Loan applications may be submitted by an owner or his duly authorized agent or by a contract vendee who becomes an owner prior to or simultaneously with the loan closing.
-
-(c) Application submission. The application, in form specified by the Department, shall include the following:
-
-   (1) A description of the rehabilitation or improvement and the estimated cost thereof.
-
-   (2) The name, address and telephone number of the applicant, the owner, the managing agent and the holders of existing mortgages and other liens against the multiple dwelling.
-
-   (3) A statement of income and expenses for a period of time to be determined by the Department.
-
-   (4) A statement of the current monthly rent or carrying charges of each residential and commercial unit, the name of each residential tenant, the number of rooms in each residential unit, and the rent controlled or rent stabilized status of each residential unit.
-
-   (5) A statement of the current non-publicly assisted, rent stabilized market rents of residential units in the building and, if known, a similar statement for comparable apartments in adjacent buildings or buildings in the immediate vicinity.
-
-   (6) Such additional information as the Department may require.
-
-(d) Consultation. The staff of the Department will be available for preapplication consultation.
-
-(e) Certification of inability to obtain financing. With the application, the owner shall submit an affidavit certifying that within the prior six months attempts to obtain financing for the rehabilitation or improvement at prevailing interest rates with the premises as security, from at least two (2) lending institutions which normally provide this type of financing were not successful, and, if known, the reasons for such failure or other factors indicating an inability of the private sector to provide unaided financing. If the multiple dwelling is encumbered by a mortgage held by a lending institution whose deposits are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or their successors, such mortgagee shall be one of the lending institutions to which the applicant made an attempt to obtain such financing.
-
-(f) Application fee. The owner shall pay an application fee in the amount of seventy-five ($75) dollars for each building for which application is made. Payment shall be made no later than the date of the Department's loan closing. The fee shall not be refundable and shall be used to help defray the expenses of the City in administering the Program. In the case of applications covering two or more adjacent buildings the application fee shall be seventy-five ($75) dollars for the first building and fifty ($50) for each additional building.
-
-(g) Loan commitment. No commitment for a loan shall be deemed to have been made unless and until a written letter of commitment shall have been issued by the Department. Any commitment issued shall be conditioned upon full and timely compliance with the requirements of these Rules and Regulations, the availability of funds to make the loan and such other terms and conditions as the Department may require. The acceptance or processing of a loan application by the Department may not be construed to be a commitment for a loan. A commitment may only be issued in writing and no owner, applicant or other party may rely upon any statement or representation made by any official, employee or agent of the Department regarding the loan application.
-
-
-
-
-
-
-*§ 2-04 Determination of Feasibility and Conditions Precedent to Making a Loan.* ::
-
-
-(a) Low income tenancy and rent increases.
-
-   (1) Covenant on low income tenancy. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
-
-      (i) Upon vacancy, each dwelling unit in the multiple dwelling shall be available solely for occupancy by persons or families of low income; and
-
-      (ii) No person living in the multiple dwelling at the time the loan is made shall be required to move because of the rehabilitation or improvement financed by the loan, other than temporarily during the course of construction.
-
-   (2) Rent increases.
-
-      (i) The Department, in its sole discretion, shall have the option to adjust the rent for each rental unit within the multiple dwelling pursuant to authority granted by subdivision 7 of § 452 of the Private Housing Finance Law of the State of New York. The total rental adjustment shall be in an amount not in excess of the debt service (both principal and interest) calculated on that portion of the loan which the Department attributes to the financing of the rehabilitation of the rental units as if such loan were to be repaid over a self-amortizing term to be determined by HPD which shall be not less than ten (10) years for loans averaging five thousand ($5,000) dollars or less per dwelling unit, and not less than fifteen (15) years for loans exceeding five thousand ($5,000) dollars per dwelling unit. The initial rental adjustment for each rental dwelling unit will be calculated by dividing the total rental adjustment by the total number of rental rooms. Such adjustment shall be applied equally on a per room per month basis, except that a greater adjustment may be allowed for vacant units. For loans which closed prior to the effective date of these regulations, unequal adjustments may be allowed if HPD sends notification of such rent adjustment to the tenants prior to the closing of the loan. For rents to be adjusted under the provisions of this subparagraph, the owner(s) of the premises must agree to waive any and all increases which are attributable to the completed rehabilitation work financed by the 8A loan or required pursuant to the Housing Repair and Maintenance Agreement to which he might be entitled under the Administrative Code Chapters 4 and/or 5 of Title 26. Rental adjustments under this subparagraph shall have no effect upon the status of
-
-         (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
-
-         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
-
-      (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
-
-   (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
-
-   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
-
-(b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
-
-(c) Relationship of loan to other mortgages.
-
-   (1) Existing mortgages. Loans may be made with respect to a multiple dwelling encumbered by mortgages provided no mortgage is in default, except by reason of the deteriorated physical condition of the building, if such condition and default shall be remedied by the proposed rehabilitation or improvement.
-
-   (2) Modification agreement. A mortgage modification or extension agreement may be required from the holder of a prior mortgage against the building where such mortgage secures a loan which is not self-liquidating and matures prior to the final payment date of the proposed loan.
-
-   (3) Subordination of existing liens.
-
-      (i) An existing mortgage or other lien held by the owner or a relative of the owner, or an officer, director, stockholder or partner of the owner, or a relative of such persons, or a party which is associated or affiliated with or a subsidiary of the owner shall be subordinated to the lien of the mortgage given to secure the City loan.
-
-      (ii) A secured loan made by a private non-institutional lender, if made in conjunction with a loan made by the City for the partial financing of the rehabilitation, shall be subordinated to the lien of the mortgage given to secure the City loan.
-
-(d) Removal of violations and management.
-
-   (1) Removal of violations. All multiple dwellings assisted under this Program shall be brought into substantial compliance with the Multiple Dwelling Law and the Housing Maintenance Code within a period of time to be determined by the Department but in no event later than one (1) year from the date set forth in the loan documents for the commencement of the payment of principal and interest on the loan.
-
-   (2) Additional work. The Department may require that the owner correct conditions and perform work in the premises in addition to that set forth in the Building Improvement Loan Agreement.
-
-   (3) Management. No loan shall be made unless the Department shall have determined that the owner has evidenced an ability to manage the building in accordance with good real estate industry practice. In appropriate cases, the Department may require a written management plan, acceptable to the Department, to ensure proper procedures for management of the property, including rent collection, supervision of building employees, payment of bills for maintenance and operation and handling tenant complaints.
-
-(e) Agency determination of feasibility.
-
-   (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
-
-   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
-
-
-
-
-
-
-*§ 2-05 Contract Terms and Insurance Requirements.* ::
-
-
-(a) Loan documents. Each loan shall be evidenced by a promissory note executed by the owner of the multiple dwelling in form specified by the Department. The Department in its discretion may require that one or more of the shareholders, officers or directors of a corporate owner co-sign the note or otherwise guarantee or pledge security or provide an acceptable surety for the repayment of the loan. The following additional documents may be required:
-
-   (1) Building Loan Contract. A Building Loan Contract between the owner and the City in form specified by the Department.
-
-   (2) Mortgage or financing statement. A mortgage executed by the owner in form specified by the Department, shall be required as security for all loans, except that, if the loan is for thirty-five thousand ($35,000) dollars or less, or for a term of seven (7) years or less, the Department may, in its discretion, accept a financing statement as security.
-
-   (3) Disclosure statement. A sworn disclosure statement, in form specified by the Department, executed by the owner or his duly authorized agent disclosing the identity of all parties involved or to be involved in the ownership, financing and rehabilitation or improvement of the building.
-
-   (4) Such other documents executed by the owner as the City or the Department and its attorneys deem necessary or desirable.
-
-(b) Repayment of the loan by the borrower.
-
-   (1) Method of repayment. Debt service consisting of payments of interest on the unpaid principal balance and repayment of the principal amount shall be paid in equal monthly installments so as to be fully amortized by the maturity date of the loan. At its discretion, the Department may require an alternative schedule of loan payments provided the loan is fully paid by its maturity date.
-
-   (2) Prepayment privileges. The loan may be prepaid only in accordance with the terms specified in the loan documents.
-
-   (3) Refinancing. Any debt in existence prior to the time of the closing of the City loan and secured by a lien against the premises may, without the consent of the Department be refinanced after such closing provided:
-
-      (i) the principal amount of the refinanced debt shall not exceed the unpaid principal balance of the debt at the time of the refinancing, except that if such lien is subordinate to that of the mortgage given to secure the City loan, the principal amount shall not exceed the unpaid balance of the debt at the time of the closing of the City loan;
-
-      (ii) the rate of interest on the refinanced debt shall not exceed the rate prevailing in the private market at the time of the refinancing;
-
-      (iii) after refinancing debt service on the refinanced debt shall be paid in equal and constant periodic installments; and
-
-      (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
-
-   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
-
-(c) Insurance requirements.
-
-   (1) Fire insurance. Ten days before loan closing the owner shall deliver to the Department prepaid insurance policies issued by companies in form and amounts satisfactory to the Department, insuring the premises against loss or damage by fire, with the usual extended coverage endorsement, and such other hazards as may reasonably be required by the Department. Such policies shall name the City as a mortgagee and provide that losses thereunder shall be payable to the City as its interest may appear.
-
-   (2) Workmen's compensation. Each contractor and sub-contractor, pursuant to the Workmen's Compensation Law, shall provide adequate Workmen's Compensation Insurance for all employees engaged in work on a building who may come within the protection of said law.
-
-   (3) The Department may require the owner or contractor to provide Public Liability, Property Damage and Employer's General Liability insurance.
-
-
-
-
-
-
-*§ 2-06 Construction Requirements and Payment of Loan Proceeds.* ::
-
-
-(a) Cost estimates, construction contract and contractors.
-
-   (1) Scope of work and cost estimates. Applicants shall be required to submit estimates showing the nature and cost of each item of the rehabilitation or improvement. The Department may require the applicant to submit more than one estimate per trade and may prescribe forms on which such estimates shall be prepared or summarized. The plans, specifications, work write-ups or any other description of work to be performed must be approved by the Department prior to the commencement of any rehabilitation work or the making of a loan for same. The technical specifications shall conform to the standards established by the Department and where applicable, shall be subject to the approval of the Department of Buildings or other governmental agencies having jurisdiction.
-
-   (2) Approval of construction contract. The specifications approved by the Department shall be made part of the written construction contract between the owner and the general contractor, and such construction contract shall be subject to the written approval of the Department. If a general contractor is not engaged, the owner shall enter into a written construction contract with each subcontractor. The pertinent specifications approved by the Department shall be made a part of each such contract and each such contract shall be subject to the written approval of the Department.
-
-   (3) Contractors. The Department reserves the right to disapprove any contractor or subcontractor because of previous violation of statutes, rules or regulations relating to discrimination, standards of employment or labor standards, or because of inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this Program or other programs of the City.
-
-(b) Payment of loan proceeds.
-
-   (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
-
-   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
-
-   (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
-
-      (i) completion of the work to the full satisfaction of the Department;
-
-      (ii) issuance of approvals by governmental agencies having jurisdiction, including, where applicable, a certificate of occupancy or of completion by the Department of Buildings; and
-
-      (iii) proof of payment for all labor and materials provided in connection with the rehabilitation or improvement. In lieu of subparagraph (ii) above, the Department in its discretion may accept from an architect registered with the State of New York or a professional engineer licensed by the State of New York, a certification that the completed work complies with the requirements of the particular governmental agencies having jurisdiction thereof and that applications seeking the approval of certification of such agencies have been properly filed with or submitted to such agencies.
-
-   (4) Escrow provisions. The Department may require the deposit of loan advances in a separate escrow account, in a bank designated by the Department, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Department. The Department may further require that the owner deposit in such escrow account, or in a separate trust account in such bank under such provisions as the Department shall prescribe, all or a designated portion of the rents collected from the multiple dwelling during the period of construction.
-
-   (5) Failure to complete work. If the borrower for any reason fails to diligently pursue or timely complete the rehabilitation to the full satisfaction of the Department, the Department may, after written notice to the borrower, enter upon the premises, effect the completion of the rehabilitation and charge the cost thereof to the borrower.
-
-   (6) Adjustments for interim interest. Any portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows. If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the borrower in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final advance of loan proceeds due borrower and paid to the City.
-
-(c) Non-discrimination and affirmative action.
-
-   (1) Compliance. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to discrimination and standards of employment. The owner shall not exclude any person, including prospective tenants, from participation in, deny any person the benefits of, or subject any person to discrimination under this Program on the grounds of race, color, national origin, creed, age, sex, or sexual orientation. If an owner, contractor or subcontractor fails to comply with the provisions of this paragraph (1), the Department, in its discretion, may, in addition to or as an alternative to any other remedies reserved to the City or the Department in the loan documents, withhold progress payments to the owner or disapprove the contractor or subcontractor for future work under this Program or other programs of the Department.
-
-   (2) Books, records and inspections. In order to assure strict compliance with this subdivision (c), all contractors and subcontractors will be required to sign an agreement, in form specified by the Department, to make their books and records available for inspection by representatives or agents of the Department. In order to determine such compliance the Department reserves the right to interview or confer with any employee at any time, on a rehabilitation site or in the office of the contractor or subcontractor.
-
-(d) Labor standards.
-
-   (1) Compliance with labor standards. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to labor standards, including the payment of prevailing wage rates.
-
-   (2) Enforcement. Each contractor and subcontractor shall be required to submit to the Department for review, copies of their weekly payrolls and such other documentation and reports as may be required by the Department. If the contractor engages a subcontractor, the contractor shall be obligated to obtain such required documentation and reports from the subcontractor. All books and records of the owner, contractors, subcontractors, laborers and materialmen involved in the rehabilitation shall be made available to representatives or agents of the Department and other governmental agencies having jurisdiction, for review or audit. The above parties may be required to submit to oral examination under oath. Such examination may include, but is not limited to, the performance and quality of the work, any and all matters pertaining to the loan and compliance with applicable statutes, rules and regulations.
-
-
-
-
-
-
-*§ 2-07 Supervision by the Department.* ::
-
-
-(a) Power to inspect and investigate. 
-
-   (1) Covenant on inspection and investigation. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
-
-      (i) All persons operating or managing the multiple dwelling will permit the duly authorized officers, employees, agents or inspectors of the Department to enter in or upon and inspect such multiple dwelling at all reasonable hours; and
-
-      (ii) The Department by its duly authorized representatives shall have full power to investigate into and order the owner of the multiple dwelling to furnish such reports and information as the Department may require concerning the rehabilitation or improvement and the management of the multiple dwelling, and shall have full power to audit the books of the owner with respect to such matters.
-
-   (2) Nature of inspection. In addition to any other inspections authorized by law, the Department may make periodic inspections of the building so long as any monies remain unpaid on the loan. Such inspections shall be for the purpose of inspecting the condition and maintenance of the building, including its utilities, fixtures and equipment. Copies of any inspection reports shall be made available to the owner with recommendations for corrective measures where necessary. Representatives of the Department may periodically visit the building for the purpose of conferring with tenants and, where necessary, serving as a liaison or intermediary on landlord-tenant problems.
-
-(b) Annual statement of income and expenses.
-
-   (1) No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid the owner shall submit to the Department annually, in such form as shall be approved by the Department, a statement of the income and expenses of such multiple dwelling. The statement of income shall include, but is not limited to, the monthly rent of each residential apartment and the rent controlled or rent stabilized status of each unit.
-
-   (2) The annual statement shall cover the twelve month period ending June 30th or such other period approved by the Department, and shall be submitted within ninety days after the close of such period. The Department, in its discretion, may require submission of statements of income and expenses on a more frequent basis.
-
-   (3) On five days' notice, the books and records of the owner relative to the premises shall be made available to representatives or agents of the Department for review, examination or audit.
-
-(c) Failure to comply with regulations. Upon failure or refusal of an applicant, owner or mortgagor to comply with this chapter (and all applicable rules and regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement), such applicant, owner or mortgagor in addition to the imposition of any civil or criminal penalties provided by law, may be disqualified by the Department from applying for or receiving a loan under this Program or other programs of the Department for up to three (3) years following the date of any such refusal or failure. These rules and regulations shall be enforceable by the governmental authority providing funds for the rehabilitation or improvement as well as by the City.
-
-(d) Waiver. The Department may waive any of this chapter where the nature of the rehabilitation or improvement or other circumstances warrant such exception. Any waiver to be effective shall require the written approval of the Commissioner or his designee and shall include a specific statement of the reason(s) for such waiver.
-
-
-
-
 Chapter 1: Rules and Regulations
 --------------------------------------------------
 
@@ -833,6 +528,311 @@ Upon failure of an applicant, owner or mortgagor to comply with this chapter, sa
 
 
 The Agency may waive any of this chapter where the nature of the installation, alteration, improvement or rehabilitation or other circumstances warrant such exception. Any waiver to be effective requires the approval of the Commissioner or the Municipal Loan Committee.
+
+
+
+
+Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
+--------------------------------------------------
+
+
+
+*§ 2-01 General Provisions.* ::
+
+
+(a) Purpose. This chapter (and any applicable regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement) shall govern the making of loans for rehabilitation and improvement pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York.
+
+(b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
+
+   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
+
+   City. "City" shall mean the City of New York.
+
+   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
+
+   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
+
+   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
+
+   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
+
+   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
+
+   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
+
+   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
+
+   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
+
+   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
+
+   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
+
+   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
+
+   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
+
+   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
+
+      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
+
+      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
+
+   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
+
+   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
+
+
+
+
+
+
+*§ 2-02 Eligibility and General Conditions.* ::
+
+
+(a) Eligible buildings. 
+
+   (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
+
+   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
+
+(b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
+
+   (1) Construction costs and filing fees required by the Department of Buildings and other governmental agencies having jurisdiction.
+
+   (2) Interim interest on the loan proceeds.
+
+   (3) Recording and filing fees and mortgage taxes.
+
+   (4) Payment and Performance Bond(s).
+
+   (5) Fees or charges attributable to the examination and insurance of title.
+
+   (6) Real estate taxes, assessments, water and meter charges and sewer rents.
+
+   (7) Fire insurance premiums.
+
+(c) Maximum amount. The loan amount shall not exceed an average of ten thousand ($10,000) dollars per dwelling unit or the actual cost of the rehabilitation or improvement, whichever is less.
+
+(d) Term. The term of a loan shall not exceed twenty years, except that the term of a loan whose amount exceeds an average of five thousand ($5,000) dollars per dwelling unit shall not exceed thirty (30) years. In no event shall the term of any loan exceed the useful life of the rehabilitation or improvement.
+
+(e) Interest rate. The interest rate shall be three (3%) percent per annum, except where otherwise determined by the Department.
+
+(f) Protection of mortgage lien. Subsequent to the loan closing, the Department at its discretion may pay any liens and charges the priority of which are superior to its mortgage and may pay such other expenses as may be appropriate to protect its loan or to protect the lien of the mortgage relating thereto, provided that such expenditures shall not exceed one-half of the total amount of the loan.
+
+
+
+
+
+
+*§ 2-03 Application Procedure.* ::
+
+
+(a) Application forms. Application forms may be obtained from the Department, 100 Gold Street, New York, N.Y. 10038, Attention: Article VIII-A Loan Program. All applications shall be submitted to the Department for review and approval.
+
+(b) Eligible applicants. Loan applications may be submitted by an owner or his duly authorized agent or by a contract vendee who becomes an owner prior to or simultaneously with the loan closing.
+
+(c) Application submission. The application, in form specified by the Department, shall include the following:
+
+   (1) A description of the rehabilitation or improvement and the estimated cost thereof.
+
+   (2) The name, address and telephone number of the applicant, the owner, the managing agent and the holders of existing mortgages and other liens against the multiple dwelling.
+
+   (3) A statement of income and expenses for a period of time to be determined by the Department.
+
+   (4) A statement of the current monthly rent or carrying charges of each residential and commercial unit, the name of each residential tenant, the number of rooms in each residential unit, and the rent controlled or rent stabilized status of each residential unit.
+
+   (5) A statement of the current non-publicly assisted, rent stabilized market rents of residential units in the building and, if known, a similar statement for comparable apartments in adjacent buildings or buildings in the immediate vicinity.
+
+   (6) Such additional information as the Department may require.
+
+(d) Consultation. The staff of the Department will be available for preapplication consultation.
+
+(e) Certification of inability to obtain financing. With the application, the owner shall submit an affidavit certifying that within the prior six months attempts to obtain financing for the rehabilitation or improvement at prevailing interest rates with the premises as security, from at least two (2) lending institutions which normally provide this type of financing were not successful, and, if known, the reasons for such failure or other factors indicating an inability of the private sector to provide unaided financing. If the multiple dwelling is encumbered by a mortgage held by a lending institution whose deposits are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or their successors, such mortgagee shall be one of the lending institutions to which the applicant made an attempt to obtain such financing.
+
+(f) Application fee. The owner shall pay an application fee in the amount of seventy-five ($75) dollars for each building for which application is made. Payment shall be made no later than the date of the Department's loan closing. The fee shall not be refundable and shall be used to help defray the expenses of the City in administering the Program. In the case of applications covering two or more adjacent buildings the application fee shall be seventy-five ($75) dollars for the first building and fifty ($50) for each additional building.
+
+(g) Loan commitment. No commitment for a loan shall be deemed to have been made unless and until a written letter of commitment shall have been issued by the Department. Any commitment issued shall be conditioned upon full and timely compliance with the requirements of these Rules and Regulations, the availability of funds to make the loan and such other terms and conditions as the Department may require. The acceptance or processing of a loan application by the Department may not be construed to be a commitment for a loan. A commitment may only be issued in writing and no owner, applicant or other party may rely upon any statement or representation made by any official, employee or agent of the Department regarding the loan application.
+
+
+
+
+
+
+*§ 2-04 Determination of Feasibility and Conditions Precedent to Making a Loan.* ::
+
+
+(a) Low income tenancy and rent increases.
+
+   (1) Covenant on low income tenancy. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
+
+      (i) Upon vacancy, each dwelling unit in the multiple dwelling shall be available solely for occupancy by persons or families of low income; and
+
+      (ii) No person living in the multiple dwelling at the time the loan is made shall be required to move because of the rehabilitation or improvement financed by the loan, other than temporarily during the course of construction.
+
+   (2) Rent increases.
+
+      (i) The Department, in its sole discretion, shall have the option to adjust the rent for each rental unit within the multiple dwelling pursuant to authority granted by subdivision 7 of § 452 of the Private Housing Finance Law of the State of New York. The total rental adjustment shall be in an amount not in excess of the debt service (both principal and interest) calculated on that portion of the loan which the Department attributes to the financing of the rehabilitation of the rental units as if such loan were to be repaid over a self-amortizing term to be determined by HPD which shall be not less than ten (10) years for loans averaging five thousand ($5,000) dollars or less per dwelling unit, and not less than fifteen (15) years for loans exceeding five thousand ($5,000) dollars per dwelling unit. The initial rental adjustment for each rental dwelling unit will be calculated by dividing the total rental adjustment by the total number of rental rooms. Such adjustment shall be applied equally on a per room per month basis, except that a greater adjustment may be allowed for vacant units. For loans which closed prior to the effective date of these regulations, unequal adjustments may be allowed if HPD sends notification of such rent adjustment to the tenants prior to the closing of the loan. For rents to be adjusted under the provisions of this subparagraph, the owner(s) of the premises must agree to waive any and all increases which are attributable to the completed rehabilitation work financed by the 8A loan or required pursuant to the Housing Repair and Maintenance Agreement to which he might be entitled under the Administrative Code Chapters 4 and/or 5 of Title 26. Rental adjustments under this subparagraph shall have no effect upon the status of
+
+         (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
+
+         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
+
+      (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
+
+   (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
+
+   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
+
+(b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
+
+(c) Relationship of loan to other mortgages.
+
+   (1) Existing mortgages. Loans may be made with respect to a multiple dwelling encumbered by mortgages provided no mortgage is in default, except by reason of the deteriorated physical condition of the building, if such condition and default shall be remedied by the proposed rehabilitation or improvement.
+
+   (2) Modification agreement. A mortgage modification or extension agreement may be required from the holder of a prior mortgage against the building where such mortgage secures a loan which is not self-liquidating and matures prior to the final payment date of the proposed loan.
+
+   (3) Subordination of existing liens.
+
+      (i) An existing mortgage or other lien held by the owner or a relative of the owner, or an officer, director, stockholder or partner of the owner, or a relative of such persons, or a party which is associated or affiliated with or a subsidiary of the owner shall be subordinated to the lien of the mortgage given to secure the City loan.
+
+      (ii) A secured loan made by a private non-institutional lender, if made in conjunction with a loan made by the City for the partial financing of the rehabilitation, shall be subordinated to the lien of the mortgage given to secure the City loan.
+
+(d) Removal of violations and management.
+
+   (1) Removal of violations. All multiple dwellings assisted under this Program shall be brought into substantial compliance with the Multiple Dwelling Law and the Housing Maintenance Code within a period of time to be determined by the Department but in no event later than one (1) year from the date set forth in the loan documents for the commencement of the payment of principal and interest on the loan.
+
+   (2) Additional work. The Department may require that the owner correct conditions and perform work in the premises in addition to that set forth in the Building Improvement Loan Agreement.
+
+   (3) Management. No loan shall be made unless the Department shall have determined that the owner has evidenced an ability to manage the building in accordance with good real estate industry practice. In appropriate cases, the Department may require a written management plan, acceptable to the Department, to ensure proper procedures for management of the property, including rent collection, supervision of building employees, payment of bills for maintenance and operation and handling tenant complaints.
+
+(e) Agency determination of feasibility.
+
+   (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
+
+   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
+
+
+
+
+
+
+*§ 2-05 Contract Terms and Insurance Requirements.* ::
+
+
+(a) Loan documents. Each loan shall be evidenced by a promissory note executed by the owner of the multiple dwelling in form specified by the Department. The Department in its discretion may require that one or more of the shareholders, officers or directors of a corporate owner co-sign the note or otherwise guarantee or pledge security or provide an acceptable surety for the repayment of the loan. The following additional documents may be required:
+
+   (1) Building Loan Contract. A Building Loan Contract between the owner and the City in form specified by the Department.
+
+   (2) Mortgage or financing statement. A mortgage executed by the owner in form specified by the Department, shall be required as security for all loans, except that, if the loan is for thirty-five thousand ($35,000) dollars or less, or for a term of seven (7) years or less, the Department may, in its discretion, accept a financing statement as security.
+
+   (3) Disclosure statement. A sworn disclosure statement, in form specified by the Department, executed by the owner or his duly authorized agent disclosing the identity of all parties involved or to be involved in the ownership, financing and rehabilitation or improvement of the building.
+
+   (4) Such other documents executed by the owner as the City or the Department and its attorneys deem necessary or desirable.
+
+(b) Repayment of the loan by the borrower.
+
+   (1) Method of repayment. Debt service consisting of payments of interest on the unpaid principal balance and repayment of the principal amount shall be paid in equal monthly installments so as to be fully amortized by the maturity date of the loan. At its discretion, the Department may require an alternative schedule of loan payments provided the loan is fully paid by its maturity date.
+
+   (2) Prepayment privileges. The loan may be prepaid only in accordance with the terms specified in the loan documents.
+
+   (3) Refinancing. Any debt in existence prior to the time of the closing of the City loan and secured by a lien against the premises may, without the consent of the Department be refinanced after such closing provided:
+
+      (i) the principal amount of the refinanced debt shall not exceed the unpaid principal balance of the debt at the time of the refinancing, except that if such lien is subordinate to that of the mortgage given to secure the City loan, the principal amount shall not exceed the unpaid balance of the debt at the time of the closing of the City loan;
+
+      (ii) the rate of interest on the refinanced debt shall not exceed the rate prevailing in the private market at the time of the refinancing;
+
+      (iii) after refinancing debt service on the refinanced debt shall be paid in equal and constant periodic installments; and
+
+      (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
+
+   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
+
+(c) Insurance requirements.
+
+   (1) Fire insurance. Ten days before loan closing the owner shall deliver to the Department prepaid insurance policies issued by companies in form and amounts satisfactory to the Department, insuring the premises against loss or damage by fire, with the usual extended coverage endorsement, and such other hazards as may reasonably be required by the Department. Such policies shall name the City as a mortgagee and provide that losses thereunder shall be payable to the City as its interest may appear.
+
+   (2) Workmen's compensation. Each contractor and sub-contractor, pursuant to the Workmen's Compensation Law, shall provide adequate Workmen's Compensation Insurance for all employees engaged in work on a building who may come within the protection of said law.
+
+   (3) The Department may require the owner or contractor to provide Public Liability, Property Damage and Employer's General Liability insurance.
+
+
+
+
+
+
+*§ 2-06 Construction Requirements and Payment of Loan Proceeds.* ::
+
+
+(a) Cost estimates, construction contract and contractors.
+
+   (1) Scope of work and cost estimates. Applicants shall be required to submit estimates showing the nature and cost of each item of the rehabilitation or improvement. The Department may require the applicant to submit more than one estimate per trade and may prescribe forms on which such estimates shall be prepared or summarized. The plans, specifications, work write-ups or any other description of work to be performed must be approved by the Department prior to the commencement of any rehabilitation work or the making of a loan for same. The technical specifications shall conform to the standards established by the Department and where applicable, shall be subject to the approval of the Department of Buildings or other governmental agencies having jurisdiction.
+
+   (2) Approval of construction contract. The specifications approved by the Department shall be made part of the written construction contract between the owner and the general contractor, and such construction contract shall be subject to the written approval of the Department. If a general contractor is not engaged, the owner shall enter into a written construction contract with each subcontractor. The pertinent specifications approved by the Department shall be made a part of each such contract and each such contract shall be subject to the written approval of the Department.
+
+   (3) Contractors. The Department reserves the right to disapprove any contractor or subcontractor because of previous violation of statutes, rules or regulations relating to discrimination, standards of employment or labor standards, or because of inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this Program or other programs of the City.
+
+(b) Payment of loan proceeds.
+
+   (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
+
+   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
+
+   (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
+
+      (i) completion of the work to the full satisfaction of the Department;
+
+      (ii) issuance of approvals by governmental agencies having jurisdiction, including, where applicable, a certificate of occupancy or of completion by the Department of Buildings; and
+
+      (iii) proof of payment for all labor and materials provided in connection with the rehabilitation or improvement. In lieu of subparagraph (ii) above, the Department in its discretion may accept from an architect registered with the State of New York or a professional engineer licensed by the State of New York, a certification that the completed work complies with the requirements of the particular governmental agencies having jurisdiction thereof and that applications seeking the approval of certification of such agencies have been properly filed with or submitted to such agencies.
+
+   (4) Escrow provisions. The Department may require the deposit of loan advances in a separate escrow account, in a bank designated by the Department, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Department. The Department may further require that the owner deposit in such escrow account, or in a separate trust account in such bank under such provisions as the Department shall prescribe, all or a designated portion of the rents collected from the multiple dwelling during the period of construction.
+
+   (5) Failure to complete work. If the borrower for any reason fails to diligently pursue or timely complete the rehabilitation to the full satisfaction of the Department, the Department may, after written notice to the borrower, enter upon the premises, effect the completion of the rehabilitation and charge the cost thereof to the borrower.
+
+   (6) Adjustments for interim interest. Any portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows. If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the borrower in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final advance of loan proceeds due borrower and paid to the City.
+
+(c) Non-discrimination and affirmative action.
+
+   (1) Compliance. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to discrimination and standards of employment. The owner shall not exclude any person, including prospective tenants, from participation in, deny any person the benefits of, or subject any person to discrimination under this Program on the grounds of race, color, national origin, creed, age, sex, or sexual orientation. If an owner, contractor or subcontractor fails to comply with the provisions of this paragraph (1), the Department, in its discretion, may, in addition to or as an alternative to any other remedies reserved to the City or the Department in the loan documents, withhold progress payments to the owner or disapprove the contractor or subcontractor for future work under this Program or other programs of the Department.
+
+   (2) Books, records and inspections. In order to assure strict compliance with this subdivision (c), all contractors and subcontractors will be required to sign an agreement, in form specified by the Department, to make their books and records available for inspection by representatives or agents of the Department. In order to determine such compliance the Department reserves the right to interview or confer with any employee at any time, on a rehabilitation site or in the office of the contractor or subcontractor.
+
+(d) Labor standards.
+
+   (1) Compliance with labor standards. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to labor standards, including the payment of prevailing wage rates.
+
+   (2) Enforcement. Each contractor and subcontractor shall be required to submit to the Department for review, copies of their weekly payrolls and such other documentation and reports as may be required by the Department. If the contractor engages a subcontractor, the contractor shall be obligated to obtain such required documentation and reports from the subcontractor. All books and records of the owner, contractors, subcontractors, laborers and materialmen involved in the rehabilitation shall be made available to representatives or agents of the Department and other governmental agencies having jurisdiction, for review or audit. The above parties may be required to submit to oral examination under oath. Such examination may include, but is not limited to, the performance and quality of the work, any and all matters pertaining to the loan and compliance with applicable statutes, rules and regulations.
+
+
+
+
+
+
+*§ 2-07 Supervision by the Department.* ::
+
+
+(a) Power to inspect and investigate. 
+
+   (1) Covenant on inspection and investigation. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
+
+      (i) All persons operating or managing the multiple dwelling will permit the duly authorized officers, employees, agents or inspectors of the Department to enter in or upon and inspect such multiple dwelling at all reasonable hours; and
+
+      (ii) The Department by its duly authorized representatives shall have full power to investigate into and order the owner of the multiple dwelling to furnish such reports and information as the Department may require concerning the rehabilitation or improvement and the management of the multiple dwelling, and shall have full power to audit the books of the owner with respect to such matters.
+
+   (2) Nature of inspection. In addition to any other inspections authorized by law, the Department may make periodic inspections of the building so long as any monies remain unpaid on the loan. Such inspections shall be for the purpose of inspecting the condition and maintenance of the building, including its utilities, fixtures and equipment. Copies of any inspection reports shall be made available to the owner with recommendations for corrective measures where necessary. Representatives of the Department may periodically visit the building for the purpose of conferring with tenants and, where necessary, serving as a liaison or intermediary on landlord-tenant problems.
+
+(b) Annual statement of income and expenses.
+
+   (1) No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid the owner shall submit to the Department annually, in such form as shall be approved by the Department, a statement of the income and expenses of such multiple dwelling. The statement of income shall include, but is not limited to, the monthly rent of each residential apartment and the rent controlled or rent stabilized status of each unit.
+
+   (2) The annual statement shall cover the twelve month period ending June 30th or such other period approved by the Department, and shall be submitted within ninety days after the close of such period. The Department, in its discretion, may require submission of statements of income and expenses on a more frequent basis.
+
+   (3) On five days' notice, the books and records of the owner relative to the premises shall be made available to representatives or agents of the Department for review, examination or audit.
+
+(c) Failure to comply with regulations. Upon failure or refusal of an applicant, owner or mortgagor to comply with this chapter (and all applicable rules and regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement), such applicant, owner or mortgagor in addition to the imposition of any civil or criminal penalties provided by law, may be disqualified by the Department from applying for or receiving a loan under this Program or other programs of the Department for up to three (3) years following the date of any such refusal or failure. These rules and regulations shall be enforceable by the governmental authority providing funds for the rehabilitation or improvement as well as by the City.
+
+(d) Waiver. The Department may waive any of this chapter where the nature of the rehabilitation or improvement or other circumstances warrant such exception. Any waiver to be effective shall require the written approval of the Commissioner or his designee and shall include a specific statement of the reason(s) for such waiver.
 
 
 
@@ -15292,6 +15292,303 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 
 
+Chapter 34: Tenant Interim Lease Program
+--------------------------------------------------
+
+
+
+*§ 34-01 Definitions.* ::
+
+
+Building. "Building" shall mean any City-owned multiple dwelling, other than a single room occupancy dwelling, which is occupied by Tenants.
+
+City. "City" shall mean the City of New York.
+
+Disposition. "Disposition" shall mean the sale of a Building to an HDFC.
+
+Disposition Rent Increase. "Disposition Rent Increase" shall mean the last rent set by HPD prior to Disposition.
+
+HDFC. "HDFC" shall mean a housing development fund company formed pursuant to Article XI of the Private Housing Finance Law in order to purchase a Building pursuant to these Rules.
+
+HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City.
+
+Intake Rent Increase. "Intake Rent Increase" shall mean the initial rent set by HPD upon Selection of a Building.
+
+Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, the Tenant Association and/or HDFC, and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
+
+Interim Rent Increase. "Interim Rent Increase" shall mean any rent, other than an Intake Rent Increase or a Disposition Rent Increase, set by HPD from time to time after Selection and before Disposition of a Building.
+
+Laws. "Laws" shall mean any and all applicable laws, orders, rules and regulations.
+
+Occupied Units. "Occupied Units" shall mean any lawfully occupied dwelling units leased and occupied by a Tenant in a Building.
+
+Program. "Program" shall mean the Tenant Interim Lease Program.
+
+Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
+
+Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
+
+Rules. "Rules" shall mean the Rules set forth in this chapter.
+
+Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit in a Building pursuant to a lease with the City or with a Tenant Association that has entered into a Tenant Interim Lease. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
+
+Tenant Association. "Tenant Association" shall mean an unincorporated association with elected officers that has been formed by and continues to include as members the Tenants of at least sixty percent (60%) of the Occupied Units in a Building. If there is more than one such unincorporated association, "Tenant Association" shall mean the one from which HPD accepts an application for the Program and, if applicable, the one with which HPD executes a Tenant Interim Lease.
+
+Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-month net lease of an entire Building executed by the City, as lessor, and by the Tenant Association, as lessee, following Selection of a Building.
+
+
+
+
+
+
+*§ 34-02 General.* ::
+
+
+(a)  Coverage. These Rules will govern the procedures for: selecting Buildings for the Program, leasing Buildings to the Tenant Associations, determining and establishing rent, providing notice to Tenants and terminating buildings from the Program. Buildings in the Program will be subject to these Rules, 28 RCNY Chapter 21, and 28 RCNY Chapter 24. Notwithstanding any provision of 28 RCNY Chapter 14 to the contrary, Buildings in the Program will not be subject to 28 RCNY Chapter 14.
+
+(b) Program Description. Under the Program, Buildings are net leased to Tenant Associations and subsequently sold to HDFCs that will thereafter be solely responsible for the operation of such Buildings.
+
+
+
+
+
+
+*§ 34-03 Entering the Program.* ::
+
+
+(a)  Eligible buildings. A Building may be eligible for selection for the Program if HPD makes all of the following discretionary determinations:
+
+   (1) the Building requires Rehabilitation such that it is not marketable to the private sector in its "as is" condition, and HPD funding is necessary to return the Building to the private sector; and
+
+   (2) the performance of Rehabilitation is technically feasible; and
+
+   (3) the cost of Rehabilitation is economically reasonable; and
+
+   (4) the cost of Rehabilitation is within available HPD resources; and
+
+   (5) the Building is a Class A multiple dwelling containing at least three dwelling units; and
+
+   (6) at least two of the dwelling units in the Building are Occupied Units; and
+
+   (7) the Building has not been designated by HPD for disposition through another program, except to the extent that rules promulgated by HPD for such other program explicitly authorize a withdrawal to participate in the Program; and
+
+   (8) the Building has not previously participated in the Program, unless such participation was terminated more than five years prior to the current application.
+
+(b) Application procedure; selection requirements. If HPD has determined that a Building is eligible for the Program and its assignment to the Program is in the best interests of the City, a Tenant Association may apply for selection for the Program by complying with the following standards:
+
+   (1) the Tenant Association must submit an application on a form supplied by HPD signed by
+
+      (i) the Tenants of all of the Occupied Units in a Building containing up to five dwelling units, or
+
+      (ii) the Tenants of at least sixty percent (60%) of the Occupied Units in a Building containing six or more dwelling units; and
+
+   (2) the Tenants of at least fifty percent (50%) of the Occupied Units must pay one hundred percent (100%) of the billable rent for their respective dwelling units for the three months immediately prior to the filing of the application and continuously until HPD makes a determination of Selection; and
+
+   (3) officers and members of the Tenant Association must attend training classes as directed by HPD; and
+
+   (4) the Tenant Association must notify the Tenants of a meeting at which HPD will discuss the Program. Tenants of at least fifty percent (50%) of the Occupied Units must attend the meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the meeting, the Tenant Association must notify the Tenants of a second meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the second meeting, the Building will not be considered for the Program; and
+
+   (5) HPD must determine that the Building can be managed by the Tenant Asso- ciation.
+
+(c) Notice of approval. If the application has been approved, HPD will notify the Tenant Association of such approval in a written notice by regular mail to the president of the Tenant Association. The notice of approval shall include any notice of an Intake Rent Increase, which shall be implemented thirty (30) days thereafter in accordance with subdivision (f) of this section, and HPD shall send a copy to the Tenants by regular mail. If the application has been rejected, HPD will notify the president of the Tenant Association of such rejection and the reason therefor by regular mail.
+
+(d) Post-acceptance activities. Upon acceptance of the application and prior to execution of the Tenant Interim Lease, the Tenant Association must:
+
+   (1) adopt by-laws and articles of association in a form specified by HPD; and
+
+   (2) elect officers; and
+
+   (3) set up a restricted bank account as required by HPD.
+
+(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
+
+(f) Intake Rent Increases.
+
+   (1) HPD will from time to time establish intake rent levels, expressed as a minimum dollar amount per zoning room, for all dwelling units in Buildings entering the Program. Such intake rent levels will be based upon maintenance and operating expenses in similar buildings. Such intake rent levels and the rationale therefore will be kept on file by HPD and will be available for public inspection.
+
+   (2) HPD will issue an intake rent roll to the Tenant Association and will notify the Tenants of the Intake Rent Increase at least thirty (30) days prior to the effective date of the Intake Rent Increase.
+
+
+
+
+
+
+*§ 34-04 Program Activities.* ::
+
+
+(a)  Lease. Upon acceptance of a Building into the Program, HPD will temporarily lease the Building to the Tenant Association pursuant to the terms of a Tenant Interim Lease. The Tenant Interim Lease shall require the Tenant Association to follow these Rules and all HPD directives. Furthermore, officers and members of the Tenant Association must attend training classes as directed by HPD during the term of the Tenant Interim Lease.
+
+(b) Residential vacancies. If any dwelling unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant dwelling unit, or allow such vacant dwelling unit to become occupied, without the prior written approval of HPD.
+
+(c) Tenant Association. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant dwelling units. Such HPD directives may include, without limitation,
+
+      (i) procedures and criteria for the selection of new Tenants,
+
+      (ii) rents to be charged,
+
+      (iii) priority for persons that HPD has determined are in need of housing, and
+
+      (iv) the use of specified lists of eligible persons.
+
+(d) Non-residential vacancies. If any non-residential unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant non-residential unit, or allow such vacant non-residential unit to become occupied, without the prior written approval of HPD. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant non-residential units. Such HPD directives may include, without limitation,
+
+      (i) procedures and criteria for the selection of new non-residential tenants, and
+
+      (ii) rents to be charged.
+
+(e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
+
+(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
+
+(g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
+
+(h) Interim rent increases. During the term of the Tenant Interim Lease, one or more rent increases may be necessary to reflect the actual costs of operating a Building. HPD will from time to time establish an interim rent roll for a Building in the Program reflecting expenses of maintaining and operating the Building.
+
+   (1) HPD will prepare a statement of the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, which statement will reflect actual expenditures, adjusted for inflation on an individual or on a compounded yearly basis, for the maintenance and operation of the Building (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services) and any other costs anticipated to be associated with the maintenance and operation of the Building.
+
+   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, as reflected in such statement, and shall implement an Interim Rent Increase based upon such calculation.
+
+   (3) HPD will issue an interim rent roll to the Tenant Association and will notify the Tenants of such Interim Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+
+   (4) From the date that Tenants receive notice of the Interim Rent Increase until the effective date of the Interim Rent Increase,
+
+      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
+
+      (ii) any Tenant may comment in writing to HPD regarding the Interim Rent Increase, and
+
+      (iii) HPD will consider any timely comments received from Tenants.
+
+      (i) Successor Tenants. An application for a family member to be approved as a successor tenant will be subject to the rules governing successor tenants set forth in Chapter 24 of Title 28 of the rules of the city of New York. The Tenant Association will be required to provide a statement either supporting or opposing the successor tenant application. This statement must include the Tenant Association's reasons for support or opposition.
+
+
+
+
+
+
+*§ 34-05 Disposition.* ::
+
+
+(a)  Disposition rent increase.
+
+   (1) Prior to disposition, HPD will prepare a statement of the projected cost of maintaining and operating the Building in the first year following Disposition, which statement will reflect,
+
+      (i) actual expenditures, adjusted for inflation on an individual or compounded yearly basis, for the maintenance and operation of the Building prior to Disposition (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services),
+
+      (ii) real estate taxes,
+
+      (iii) water and sewer charges,
+
+      (iv) contingency reserves,
+
+      (v) reserves for vacancies and uncollectible debts, and
+
+      (vi) any other costs anticipated to be associated with the maintenance and operation of the Building.
+
+   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the first year following disposition, as reflected in such statement, and shall implement a Disposition Rent Increase based upon such calculation.
+
+   (3) HPD will issue a disposition rent roll to the Tenant Association and will notify the Tenants of such Disposition Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+
+   (4) From the date that Tenants receive notice of the Disposition Rent Increase until the effective date of the Disposition Rent Increase,
+
+      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
+
+      (ii) any Tenant may comment in writing to HPD regarding the Disposition Rent Increase, and
+
+      (iii) HPD will consider any timely comments received from Tenants.
+
+(b) Disposition. HPD will not convey a Building to an HDFC unless:
+
+   (1) the Tenant Association has, in the judgment of HPD, satisfactorily managed the Building during the term of the Tenant Interim Lease; and
+
+   (2) Tenants of at least eighty percent (80%) of the Occupied Units have signed subscription agreements to purchase the shares in the HDFC attributable to their dwelling units; and
+
+   (3) HPD has notified the Tenants of the Disposition Rent Increase; and
+
+   (4) if required by HPD, the HDFC has executed a regulatory agreement which may contain, without limitation, restrictions on renting, subletting, and sales of units, and requirements for transfer fees, primary residency, and establishment of reserve accounts to be serviced by HPD for a fee equal to 0.25% of the average monthly balance in the reserve account over the previous 12 month period.
+
+
+
+
+
+
+*§ 34-06 Rental Assistance.* ::
+
+
+(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, assist Tenants in completing rental assistance applications, and forward all necessary documentation to the appropriate authority for final review and processing.
+
+(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews with the authority responsible for determining a Tenant's eligibility for rental assistance, providing the necessary income certification and complying with all procedures to process an application.
+
+(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Tenant Association and/or HDFC of all applicants for rental assistance and shall forward to the Tenant Association and/or HDFC copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, the Tenant Association and/or HDFC, and HPD, before it becomes effective. This Interim Payment Agreement shall include:
+
+   (1) the amount of the increased rent for the apartment;
+
+   (2) the amount of rent that the Tenant must pay pending the final determination of the rental assistance application;
+
+   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
+
+   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
+
+(d) A Tenant who receives an Interim Payment Agreement will be required to pay the amount which s(he) would pay on a monthly basis if the rental assistance application is approved, or the rent charged prior to implementation of the rent increase, whichever is greater.
+
+(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
+
+   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
+
+   (2) any change in the rent charged by the City; or
+
+   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
+
+   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Tenant Association and/or HDFC; or
+
+   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
+
+(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
+
+
+
+
+
+
+*§ 34-07 Removal from the Program.* ::
+
+
+HPD may remove a Building from the program and terminate the Tenant Interim Lease with respect to such Building if HPD determines that:
+
+(a) there is a default under the Tenant Interim Lease; or
+
+(b) the management of the Building has failed to comply with generally accepted standards of management; or
+
+(c) the Tenant Association has an inadequate record in regard to rent collections; or
+
+(d) the Tenant Association has an inadequate record in regard to timely payment of bills; or
+
+(e) the Tenant Association has failed to comply with HPD reporting requirements as set forth in the Tenant Interim Lease; or
+
+(f) the Tenant Association has failed to comply with HPD directives; or
+
+(g) HPD determines that the Building no longer meets the eligibility requirements of the program.
+
+(h) for any other reason, it is no longer in the best interests of the City to keep the Building in the program.
+
+
+
+
+
+
+*§ 34-08 Miscellaneous Provisions.* ::
+
+
+(a)  HPD discretion. All determinations to be made by HPD in accordance with these Rules will be in the sole discretion of HPD.
+
+(b) Statutory authority not limited. Nothing in these Rules will be deemed to limit HPD's authority to act pursuant to applicable laws.
+
+(c) Method of notification. Unless otherwise provided herein, notices to Tenants will be in English and Spanish, and will either be posted in a common area of the Building and affixed to or placed under each dwelling unit door of the Building, or mailed to every occupied dwelling unit in the Building, as determined by HPD.
+
+(d) Technical violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules will not invalidate any action taken pursuant to these Rules, nor will such technical violations give rise to any rights, claims, or causes of action. HPD, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
+
+
+
+
 Chapter 33: Housing and Urban Renewal Projects and Programs
 --------------------------------------------------
 
@@ -15869,299 +16166,155 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
 
 
-Chapter 34: Tenant Interim Lease Program
+Chapter 36: Alternative Enforcement Program
 --------------------------------------------------
 
 
 
-*§ 34-01 Definitions.* ::
+*§ 36-01 Definitions.* ::
 
 
-Building. "Building" shall mean any City-owned multiple dwelling, other than a single room occupancy dwelling, which is occupied by Tenants.
+For purposes of this chapter:
 
-City. "City" shall mean the City of New York.
+(a) Alternative Enforcement Program. "Alternative Enforcement Program" shall mean the program established by Local Law 29 of 2007.
 
-Disposition. "Disposition" shall mean the sale of a Building to an HDFC.
+(b) Department. "Department" shall mean the New York City Department of Housing Preservation and Development or its successor.
 
-Disposition Rent Increase. "Disposition Rent Increase" shall mean the last rent set by HPD prior to Disposition.
+(c) Emergency Repair Charge. "Emergency Repair Charge" shall mean a charge or lien incurred as the result of repair work ordered by the Department pursuant to §§ 27-2125 or 27-2127 of the Housing Maintenance Code.
 
-HDFC. "HDFC" shall mean a housing development fund company formed pursuant to Article XI of the Private Housing Finance Law in order to purchase a Building pursuant to these Rules.
+(d) Housing Maintenance Code. "Housing Maintenance Code" shall mean chapter two of title 27 of the administrative code of the city of New York.
 
-HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City.
+(e) Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the New York State Multiple Dwelling Law.
 
-Intake Rent Increase. "Intake Rent Increase" shall mean the initial rent set by HPD upon Selection of a Building.
 
-Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, the Tenant Association and/or HDFC, and a Tenant eligible for rental assistance to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
 
-Interim Rent Increase. "Interim Rent Increase" shall mean any rent, other than an Intake Rent Increase or a Disposition Rent Increase, set by HPD from time to time after Selection and before Disposition of a Building.
 
-Laws. "Laws" shall mean any and all applicable laws, orders, rules and regulations.
 
-Occupied Units. "Occupied Units" shall mean any lawfully occupied dwelling units leased and occupied by a Tenant in a Building.
 
-Program. "Program" shall mean the Tenant Interim Lease Program.
+*§ 36-02 Request for Reinspection and Dismissal of Violations.* ::
 
-Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
 
-Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
+(a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
 
-Rules. "Rules" shall mean the Rules set forth in this chapter.
+   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
 
-Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit in a Building pursuant to a lease with the City or with a Tenant Association that has entered into a Tenant Interim Lease. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
+   (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
 
-Tenant Association. "Tenant Association" shall mean an unincorporated association with elected officers that has been formed by and continues to include as members the Tenants of at least sixty percent (60%) of the Occupied Units in a Building. If there is more than one such unincorporated association, "Tenant Association" shall mean the one from which HPD accepts an application for the Program and, if applicable, the one with which HPD executes a Tenant Interim Lease.
+   (4) Such application will not be processed by the Department unless such building is registered with the Department in accordance with the provisions of §§ 27-2097 through 27-2099 of the Housing Maintenance Code.
 
-Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-month net lease of an entire Building executed by the City, as lessor, and by the Tenant Association, as lessee, following Selection of a Building.
 
 
 
 
 
+*§ 36-03 Alternative Enforcement Program Fees.* ::
 
-*§ 34-02 General.* ::
 
+(a)  An owner of a building who has been notified of participation in the Alternative Enforcement Program shall be subject to fees for any inspection, reinspection or any other action undertaken by the Department during the time period that such building is in such Program. The schedule of fees is as follows:
 
-(a)  Coverage. These Rules will govern the procedures for: selecting Buildings for the Program, leasing Buildings to the Tenant Associations, determining and establishing rent, providing notice to Tenants and terminating buildings from the Program. Buildings in the Program will be subject to these Rules, 28 RCNY Chapter 21, and 28 RCNY Chapter 24. Notwithstanding any provision of 28 RCNY Chapter 14 to the contrary, Buildings in the Program will not be subject to 28 RCNY Chapter 14.
+   (1) For each reinspection performed upon application by an owner for dismissal of violations within the first four months after notification of participation in the Alternative Enforcement Program: $1,000 per building.
 
-(b) Program Description. Under the Program, Buildings are net leased to Tenant Associations and subsequently sold to HDFCs that will thereafter be solely responsible for the operation of such Buildings.
+   (2) For a building-wide inspection, monitoring of repair work and reassessment of a building pursuant to subdivisions k and m of § 27-2153 of the Housing Maintenance Code: $500 per dwelling unit every six months, beginning on the date of the building-wide inspection, with a maximum total fee of $1,000 per dwelling unit during participation in the Alternative Enforcement Program.
 
+   (3) For each inspection based upon a complaint that results in issuance of a class B or class C violation: $200 per inspection.
 
+   (4) For each reinspection pursuant to a certification of correction of violation(s) submitted to the Department, where the Department finds that one or more violations have not been corrected: $100 per reinspection per building.
 
+(b) All fees imposed pursuant to this section that remain unpaid by the owner shall constitute a debt recoverable from the owner and a lien upon the building and lot, and upon the rents and other income thereof. The provisions of article eight of subchapter five of the Housing Maintenance Code shall govern the effect and enforcement of such debt and lien.
 
 
 
-*§ 34-03 Entering the Program.* ::
 
 
-(a)  Eligible buildings. A Building may be eligible for selection for the Program if HPD makes all of the following discretionary determinations:
 
-   (1) the Building requires Rehabilitation such that it is not marketable to the private sector in its "as is" condition, and HPD funding is necessary to return the Building to the private sector; and
+*§ 36-04 Education Course.* ::
 
-   (2) the performance of Rehabilitation is technically feasible; and
 
-   (3) the cost of Rehabilitation is economically reasonable; and
+An owner or managing agent or other designated representative of a building which is the subject of an order by the Department pursuant to subdivision k of § 27-2153 of the Housing Maintenance Code, may be required to complete a course of training relating to building operation and maintenance, approved by the Department, prior to discharge of the building from the Alternative Enforcement Program. The charge for participation in such course shall be $300 for each participant. Such charge shall be paid prior to commencement of participation in such course.
 
-   (4) the cost of Rehabilitation is within available HPD resources; and
 
-   (5) the Building is a Class A multiple dwelling containing at least three dwelling units; and
 
-   (6) at least two of the dwelling units in the Building are Occupied Units; and
 
-   (7) the Building has not been designated by HPD for disposition through another program, except to the extent that rules promulgated by HPD for such other program explicitly authorize a withdrawal to participate in the Program; and
 
-   (8) the Building has not previously participated in the Program, unless such participation was terminated more than five years prior to the current application.
 
-(b) Application procedure; selection requirements. If HPD has determined that a Building is eligible for the Program and its assignment to the Program is in the best interests of the City, a Tenant Association may apply for selection for the Program by complying with the following standards:
+*§ 36-05 Criteria for Identification of Buildings for Participation in the Alternative Enforcement Program.* ::
 
-   (1) the Tenant Association must submit an application on a form supplied by HPD signed by
 
-      (i) the Tenants of all of the Occupied Units in a Building containing up to five dwelling units, or
+(a) Beginning in the sixth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
 
-      (ii) the Tenants of at least sixty percent (60%) of the Occupied Units in a Building containing six or more dwelling units; and
+   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
 
-   (2) the Tenants of at least fifty percent (50%) of the Occupied Units must pay one hundred percent (100%) of the billable rent for their respective dwelling units for the three months immediately prior to the filing of the application and continuously until HPD makes a determination of Selection; and
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-   (3) officers and members of the Tenant Association must attend training classes as directed by HPD; and
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the three-year period prior to such identification.
 
-   (4) the Tenant Association must notify the Tenants of a meeting at which HPD will discuss the Program. Tenants of at least fifty percent (50%) of the Occupied Units must attend the meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the meeting, the Tenant Association must notify the Tenants of a second meeting. If Tenants of less than fifty percent (50%) of the Occupied Units attend the second meeting, the Building will not be considered for the Program; and
+   (2) A multiple dwelling that contains twenty or more dwelling units must have:
 
-   (5) HPD must determine that the Building can be managed by the Tenant Asso- ciation.
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
 
-(c) Notice of approval. If the application has been approved, HPD will notify the Tenant Association of such approval in a written notice by regular mail to the president of the Tenant Association. The notice of approval shall include any notice of an Intake Rent Increase, which shall be implemented thirty (30) days thereafter in accordance with subdivision (f) of this section, and HPD shall send a copy to the Tenants by regular mail. If the application has been rejected, HPD will notify the president of the Tenant Association of such rejection and the reason therefor by regular mail.
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the three-year period prior to such identification.
 
-(d) Post-acceptance activities. Upon acceptance of the application and prior to execution of the Tenant Interim Lease, the Tenant Association must:
+(b) Beginning in the eighth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
 
-   (1) adopt by-laws and articles of association in a form specified by HPD; and
+   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
 
-   (2) elect officers; and
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-   (3) set up a restricted bank account as required by HPD.
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
 
-(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
+   (2) A multiple dwelling that contains twenty or more dwelling units must have:
 
-(f) Intake Rent Increases.
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
 
-   (1) HPD will from time to time establish intake rent levels, expressed as a minimum dollar amount per zoning room, for all dwelling units in Buildings entering the Program. Such intake rent levels will be based upon maintenance and operating expenses in similar buildings. Such intake rent levels and the rationale therefore will be kept on file by HPD and will be available for public inspection.
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
 
-   (2) HPD will issue an intake rent roll to the Tenant Association and will notify the Tenants of the Intake Rent Increase at least thirty (30) days prior to the effective date of the Intake Rent Increase.
+(c) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, the Department will use the following criteria to identify distressed buildings for participation in the program:
 
+   (1) The Department will identify no more than twenty-five multiple dwellings that contain less than six units for participation in the program. Such multiple dwellings must have:
 
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification;
 
+   (2) A multiple dwelling that contains at least six but not more than fourteen dwelling units must have:
 
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
 
-*§ 34-04 Program Activities.* ::
+      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
 
+   (3) A multiple dwelling that contains fifteen or more dwelling units must have:
 
-(a)  Lease. Upon acceptance of a Building into the Program, HPD will temporarily lease the Building to the Tenant Association pursuant to the terms of a Tenant Interim Lease. The Tenant Interim Lease shall require the Tenant Association to follow these Rules and all HPD directives. Furthermore, officers and members of the Tenant Association must attend training classes as directed by HPD during the term of the Tenant Interim Lease.
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
 
-(b) Residential vacancies. If any dwelling unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant dwelling unit, or allow such vacant dwelling unit to become occupied, without the prior written approval of HPD.
+      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
 
-(c) Tenant Association. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant dwelling units. Such HPD directives may include, without limitation,
+(d) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, for purposes of identifying buildings for participation in the Alternative Enforcement Program, those buildings having the highest amount of paid and unpaid Emergency Repair Charges incurred within the five-year period prior to such identification shall be selected first.
 
-      (i) procedures and criteria for the selection of new Tenants,
+(e) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, under the circumstances where the criteria set forth in subdivision (c) do not yield 250 buildings for participation in the program, the Department may apply the following criteria to select additional buildings for participation:
 
-      (ii) rents to be charged,
+   (1) A multiple dwelling that contains six or more dwelling units must have:
 
-      (iii) priority for persons that HPD has determined are in need of housing, and
+      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate four or more such violations for every dwelling unit in the multiple dwelling; and
 
-      (iv) the use of specified lists of eligible persons.
+      (ii) For purposes of identifying additional buildings for participation in the Alternative Enforcement Program pursuant to this paragraph, those buildings having the highest number of open hazardous and immediately hazardous violations within the five-year period prior to such identification shall be selected first.
 
-(d) Non-residential vacancies. If any non-residential unit in the Building is or becomes vacant, the Tenant Association will not sign a lease for such vacant non-residential unit, or allow such vacant non-residential unit to become occupied, without the prior written approval of HPD. The Tenant Association will comply with the terms of these Rules, the Tenant Interim Lease, and all HPD directives with regard to the leasing or occupancy of vacant non-residential units. Such HPD directives may include, without limitation,
 
-      (i) procedures and criteria for the selection of new non-residential tenants, and
 
-      (ii) rents to be charged.
 
-(e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
 
-(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
 
-(g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
 
-(h) Interim rent increases. During the term of the Tenant Interim Lease, one or more rent increases may be necessary to reflect the actual costs of operating a Building. HPD will from time to time establish an interim rent roll for a Building in the Program reflecting expenses of maintaining and operating the Building.
 
-   (1) HPD will prepare a statement of the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, which statement will reflect actual expenditures, adjusted for inflation on an individual or on a compounded yearly basis, for the maintenance and operation of the Building (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services) and any other costs anticipated to be associated with the maintenance and operation of the Building.
+*§ 36-06. [Exclusions: "Rehabilitation"; Previous Participation.]* ::
 
-   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the period following the Interim Rent Increase, as reflected in such statement, and shall implement an Interim Rent Increase based upon such calculation.
 
-   (3) HPD will issue an interim rent roll to the Tenant Association and will notify the Tenants of such Interim Rent Increase at least thirty (30) days prior to the effective date of the new rent.
+(a) For the purpose of excluding a building from the Alternative Enforcement Program pursuant to administrative code § 27-2153(e)(2) on the basis that the building is the subject of a loan provided by or through the department or the New York City Housing Development Corporation for the purpose of rehabilitation, the term "rehabilitation" shall mean that the scope of work for the building under the loan includes a building-wide replacement of a major component of the building.
 
-   (4) From the date that Tenants receive notice of the Interim Rent Increase until the effective date of the Interim Rent Increase,
+(b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
 
-      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
 
-      (ii) any Tenant may comment in writing to HPD regarding the Interim Rent Increase, and
 
-      (iii) HPD will consider any timely comments received from Tenants.
-
-      (i) Successor Tenants. An application for a family member to be approved as a successor tenant will be subject to the rules governing successor tenants set forth in Chapter 24 of Title 28 of the rules of the city of New York. The Tenant Association will be required to provide a statement either supporting or opposing the successor tenant application. This statement must include the Tenant Association's reasons for support or opposition.
-
-
-
-
-
-
-*§ 34-05 Disposition.* ::
-
-
-(a)  Disposition rent increase.
-
-   (1) Prior to disposition, HPD will prepare a statement of the projected cost of maintaining and operating the Building in the first year following Disposition, which statement will reflect,
-
-      (i) actual expenditures, adjusted for inflation on an individual or compounded yearly basis, for the maintenance and operation of the Building prior to Disposition (including, but not limited to, the cost of fuel, common space utilities, repair and maintenance, supplies, insurance, custodial services, and fees for management and professional services),
-
-      (ii) real estate taxes,
-
-      (iii) water and sewer charges,
-
-      (iv) contingency reserves,
-
-      (v) reserves for vacancies and uncollectible debts, and
-
-      (vi) any other costs anticipated to be associated with the maintenance and operation of the Building.
-
-   (2) HPD will calculate the rent levels necessary to cover the projected cost of maintaining and operating the Building in the first year following disposition, as reflected in such statement, and shall implement a Disposition Rent Increase based upon such calculation.
-
-   (3) HPD will issue a disposition rent roll to the Tenant Association and will notify the Tenants of such Disposition Rent Increase at least thirty (30) days prior to the effective date of the new rent.
-
-   (4) From the date that Tenants receive notice of the Disposition Rent Increase until the effective date of the Disposition Rent Increase,
-
-      (i) HPD will make such statement of maintenance and operating expenses available for public inspection,
-
-      (ii) any Tenant may comment in writing to HPD regarding the Disposition Rent Increase, and
-
-      (iii) HPD will consider any timely comments received from Tenants.
-
-(b) Disposition. HPD will not convey a Building to an HDFC unless:
-
-   (1) the Tenant Association has, in the judgment of HPD, satisfactorily managed the Building during the term of the Tenant Interim Lease; and
-
-   (2) Tenants of at least eighty percent (80%) of the Occupied Units have signed subscription agreements to purchase the shares in the HDFC attributable to their dwelling units; and
-
-   (3) HPD has notified the Tenants of the Disposition Rent Increase; and
-
-   (4) if required by HPD, the HDFC has executed a regulatory agreement which may contain, without limitation, restrictions on renting, subletting, and sales of units, and requirements for transfer fees, primary residency, and establishment of reserve accounts to be serviced by HPD for a fee equal to 0.25% of the average monthly balance in the reserve account over the previous 12 month period.
-
-
-
-
-
-
-*§ 34-06 Rental Assistance.* ::
-
-
-(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, assist Tenants in completing rental assistance applications, and forward all necessary documentation to the appropriate authority for final review and processing.
-
-(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews with the authority responsible for determining a Tenant's eligibility for rental assistance, providing the necessary income certification and complying with all procedures to process an application.
-
-(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the Tenant Association and/or HDFC of all applicants for rental assistance and shall forward to the Tenant Association and/or HDFC copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, the Tenant Association and/or HDFC, and HPD, before it becomes effective. This Interim Payment Agreement shall include:
-
-   (1) the amount of the increased rent for the apartment;
-
-   (2) the amount of rent that the Tenant must pay pending the final determination of the rental assistance application;
-
-   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
-
-   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
-
-(d) A Tenant who receives an Interim Payment Agreement will be required to pay the amount which s(he) would pay on a monthly basis if the rental assistance application is approved, or the rent charged prior to implementation of the rent increase, whichever is greater.
-
-(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
-
-   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
-
-   (2) any change in the rent charged by the City; or
-
-   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
-
-   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Tenant Association and/or HDFC; or
-
-   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
-
-(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
-
-
-
-
-
-
-*§ 34-07 Removal from the Program.* ::
-
-
-HPD may remove a Building from the program and terminate the Tenant Interim Lease with respect to such Building if HPD determines that:
-
-(a) there is a default under the Tenant Interim Lease; or
-
-(b) the management of the Building has failed to comply with generally accepted standards of management; or
-
-(c) the Tenant Association has an inadequate record in regard to rent collections; or
-
-(d) the Tenant Association has an inadequate record in regard to timely payment of bills; or
-
-(e) the Tenant Association has failed to comply with HPD reporting requirements as set forth in the Tenant Interim Lease; or
-
-(f) the Tenant Association has failed to comply with HPD directives; or
-
-(g) HPD determines that the Building no longer meets the eligibility requirements of the program.
-
-(h) for any other reason, it is no longer in the best interests of the City to keep the Building in the program.
-
-
-
-
-
-
-*§ 34-08 Miscellaneous Provisions.* ::
-
-
-(a)  HPD discretion. All determinations to be made by HPD in accordance with these Rules will be in the sole discretion of HPD.
-
-(b) Statutory authority not limited. Nothing in these Rules will be deemed to limit HPD's authority to act pursuant to applicable laws.
-
-(c) Method of notification. Unless otherwise provided herein, notices to Tenants will be in English and Spanish, and will either be posted in a common area of the Building and affixed to or placed under each dwelling unit door of the Building, or mailed to every occupied dwelling unit in the Building, as determined by HPD.
-
-(d) Technical violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules will not invalidate any action taken pursuant to these Rules, nor will such technical violations give rise to any rights, claims, or causes of action. HPD, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
+Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 
@@ -16449,159 +16602,6 @@ Under satisfactory completion of the Rehabilitation, title for the Building shal
 (d) Technical Violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules shall not invalidate any action taken pursuant to these Rules, nor shall such technical violations give rise to any rights, claims, or causes of action. The Commissioner, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
 
 (e) Funding Source Requirements. Notwithstanding any provision of these Rules to the contrary, if the requirements of any funding source for a Project conflict with the requirements of these Rules, the requirements of the funding source shall govern.
-
-
-
-
-Chapter 36: Alternative Enforcement Program
---------------------------------------------------
-
-
-
-*§ 36-01 Definitions.* ::
-
-
-For purposes of this chapter:
-
-(a) Alternative Enforcement Program. "Alternative Enforcement Program" shall mean the program established by Local Law 29 of 2007.
-
-(b) Department. "Department" shall mean the New York City Department of Housing Preservation and Development or its successor.
-
-(c) Emergency Repair Charge. "Emergency Repair Charge" shall mean a charge or lien incurred as the result of repair work ordered by the Department pursuant to §§ 27-2125 or 27-2127 of the Housing Maintenance Code.
-
-(d) Housing Maintenance Code. "Housing Maintenance Code" shall mean chapter two of title 27 of the administrative code of the city of New York.
-
-(e) Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the New York State Multiple Dwelling Law.
-
-
-
-
-
-
-*§ 36-02 Request for Reinspection and Dismissal of Violations.* ::
-
-
-(a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
-
-   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
-
-   (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
-
-   (4) Such application will not be processed by the Department unless such building is registered with the Department in accordance with the provisions of §§ 27-2097 through 27-2099 of the Housing Maintenance Code.
-
-
-
-
-
-
-*§ 36-03 Alternative Enforcement Program Fees.* ::
-
-
-(a)  An owner of a building who has been notified of participation in the Alternative Enforcement Program shall be subject to fees for any inspection, reinspection or any other action undertaken by the Department during the time period that such building is in such Program. The schedule of fees is as follows:
-
-   (1) For each reinspection performed upon application by an owner for dismissal of violations within the first four months after notification of participation in the Alternative Enforcement Program: $1,000 per building.
-
-   (2) For a building-wide inspection, monitoring of repair work and reassessment of a building pursuant to subdivisions k and m of § 27-2153 of the Housing Maintenance Code: $500 per dwelling unit every six months, beginning on the date of the building-wide inspection, with a maximum total fee of $1,000 per dwelling unit during participation in the Alternative Enforcement Program.
-
-   (3) For each inspection based upon a complaint that results in issuance of a class B or class C violation: $200 per inspection.
-
-   (4) For each reinspection pursuant to a certification of correction of violation(s) submitted to the Department, where the Department finds that one or more violations have not been corrected: $100 per reinspection per building.
-
-(b) All fees imposed pursuant to this section that remain unpaid by the owner shall constitute a debt recoverable from the owner and a lien upon the building and lot, and upon the rents and other income thereof. The provisions of article eight of subchapter five of the Housing Maintenance Code shall govern the effect and enforcement of such debt and lien.
-
-
-
-
-
-
-*§ 36-04 Education Course.* ::
-
-
-An owner or managing agent or other designated representative of a building which is the subject of an order by the Department pursuant to subdivision k of § 27-2153 of the Housing Maintenance Code, may be required to complete a course of training relating to building operation and maintenance, approved by the Department, prior to discharge of the building from the Alternative Enforcement Program. The charge for participation in such course shall be $300 for each participant. Such charge shall be paid prior to commencement of participation in such course.
-
-
-
-
-
-
-*§ 36-05 Criteria for Identification of Buildings for Participation in the Alternative Enforcement Program.* ::
-
-
-(a) Beginning in the sixth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
-
-   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the three-year period prior to such identification.
-
-   (2) A multiple dwelling that contains twenty or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the three-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the three-year period prior to such identification.
-
-(b) Beginning in the eighth year of the Alternative Enforcement Program, the Department will use the following criteria to identify distressed buildings for participation in the program:
-
-   (1) A multiple dwelling that contains at least three but not more than nineteen dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
-
-   (2) A multiple dwelling that contains twenty or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
-
-(c) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, the Department will use the following criteria to identify distressed buildings for participation in the program:
-
-   (1) The Department will identify no more than twenty-five multiple dwellings that contain less than six units for participation in the program. Such multiple dwellings must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification;
-
-   (2) A multiple dwelling that contains at least six but not more than fourteen dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate five or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of five thousand dollars ($5,000.00) or more, which were incurred within the five-year period prior to such identification.
-
-   (3) A multiple dwelling that contains fifteen or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate three or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) Paid or unpaid Emergency Repair Charges of two thousand five hundred dollars ($2,500.00) or more, which were incurred within the five-year period prior to such identification.
-
-(d) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, for purposes of identifying buildings for participation in the Alternative Enforcement Program, those buildings having the highest amount of paid and unpaid Emergency Repair Charges incurred within the five-year period prior to such identification shall be selected first.
-
-(e) Beginning in the ninth year of the Alternative Enforcement Program, and in each succeeding year, under the circumstances where the criteria set forth in subdivision (c) do not yield 250 buildings for participation in the program, the Department may apply the following criteria to select additional buildings for participation:
-
-   (1) A multiple dwelling that contains six or more dwelling units must have:
-
-      (i) A ratio of open hazardous and immediately hazardous violations that were issued by the Department within the five-year period prior to such identification that equals in the aggregate four or more such violations for every dwelling unit in the multiple dwelling; and
-
-      (ii) For purposes of identifying additional buildings for participation in the Alternative Enforcement Program pursuant to this paragraph, those buildings having the highest number of open hazardous and immediately hazardous violations within the five-year period prior to such identification shall be selected first.
-
-
-
-
-
-
-
-
-*§ 36-06. [Exclusions: "Rehabilitation"; Previous Participation.]* ::
-
-
-(a) For the purpose of excluding a building from the Alternative Enforcement Program pursuant to administrative code § 27-2153(e)(2) on the basis that the building is the subject of a loan provided by or through the department or the New York City Housing Development Corporation for the purpose of rehabilitation, the term "rehabilitation" shall mean that the scope of work for the building under the loan includes a building-wide replacement of a major component of the building.
-
-(b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
-
-
-
-Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 
@@ -17830,6 +17830,107 @@ Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots a
 
 
 
+Chapter 44: Orders By the Department For Repair of Underlying Conditions
+--------------------------------------------------
+
+
+
+*§ 44-01 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meaning:
+
+(a) "Class B violation" means a hazardous violation of the Housing Maintenance Code.
+
+(b) "Class C violation" means an immediately hazardous violation of the Housing Maintenance Code.
+
+(c) "HDC" means the Housing Development Corporation or its successor.
+
+(d) "Department" or "HPD" means the New York City Department of Housing Preservation and Development or its successor.
+
+(e) "Housing Maintenance Code" means chapter two of title 27 of the Administrative Code of the City of New York.
+
+(f) "Underlying Condition" means a physical defect or failure of a building system that is causing or has caused a violation of the Administrative Code, Multiple Dwelling Law, or any other state or local law that imposes requirements on dwellings, including, but not limited to, a structural defect or failure of a heating, plumbing, or other system.
+
+
+
+
+
+
+*§ 44-02 Criteria.* ::
+
+
+(a) The Department may identify buildings for issuance of orders to correct Underlying Conditions based upon the following criteria:
+
+   (1) A building with a Class B or Class C violation on record related to the existence of mold or water leaks that was issued by the Department within the prior year preceding issuance of the order that has not been properly certified as corrected by the owner, or that was corrected by the Department, and such building:
+
+      (i) Contains three to five dwelling units and at least 50% of such units have one such violation;
+
+      (ii) Contains six to nine dwelling units and at least 25% of such units have one such violation; or
+
+      (iii) Contains ten dwelling units or more and at least 15% of such units have one such violation.
+
+   (2) The Department will prioritize selection of buildings meeting the criteria in paragraph (1) of this subdivision first by those buildings with the highest total number of Class C violations relating to the existence of mold or water leaks, followed by those buildings with the highest total number of both Class C and Class B violations relating to the existence of mold or water leaks.
+
+(b) The Department may exclude a building from the issuance of an order to correct Underlying Conditions where such building otherwise meets the criteria in paragraph (1) of subdivision (a) of this section, but such building is:
+
+   (1) A one- or two-family building;
+
+   (2) Subject to an order issued in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153;
+
+   (3) Subject to the appointment of an administrator under the 7A Program pursuant to Article 7A of the New York State Real Property Actions and Proceedings Law;
+
+   (4) Subject to a comprehensive enforcement action by the Department;
+
+   (5) Conveyed to a new owner after an in rem judgment of foreclosure in favor of New York City in the Third Party Transfer Program pursuant to New York City Administrative Code § 11-412.1 within the last five years; or
+
+   (6) The subject of a preservation loan made by HPD or HDC within the last two years.
+
+
+
+
+
+
+*§ 44-03 Compliance and Documentation.* ::
+
+
+(a) An owner must comply with an order issued by the Department within four months of the issuance of an order, or within an additional two months upon approval of such extension by the Department, and submit the documentation required by this section.
+
+(b) To request an extension of two months to comply with an order, an owner must submit the following documentation to the Department within two months of issuance of such order:
+
+   (1) An affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that is the source of the mold or water leak; and
+
+   (2) An affidavit from the owner of the building in a form approved by the Department stating that the Underlying Condition and related violations will be corrected, describing the work that will be performed to correct such Underlying Condition and violations, and stating that the work will be completed within the extended time period.
+
+(c) To request a rescission of the order issued by the Department, an owner must submit the documentation required by paragraph 1 or paragraph 2 of this subdivision within four months of issuance of the order, or within six months of such issuance if an extension was granted by the Department. In addition, the Department will not grant a rescission unless it finds, after inspection, that at least 80% of the mold and water leak violations have been repaired.
+
+   (1) If there are no Underlying Conditions:
+
+      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department stating that there are no Underlying Conditions that are causing the mold and water leak violations; and
+
+      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
+
+   (2) If Underlying Conditions and related violations have been repaired:
+
+      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that was the source of the mold or water leak violations, stating that the Underlying Condition and related violations were properly repaired, and identifying who repaired the Underlying Condition and related violations; and
+
+      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
+
+(d) The Department may also rescind an order for the following reasons:
+
+   (1) An administrator had been appointed for the building pursuant to Article 7A of the Real Property Actions and Proceedings Law and this fact became known to the Department after issuance of the Underlying Conditions order;
+
+   (2) A preservation loan was closed by HPD or HDC during the four- or six-month period for compliance with the Underlying Conditions order;
+
+   (3) HPD completed the repair work required under the Underlying Conditions order;
+
+   (4) HPD selected a building for participation in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153 during the four- or six-month period for compliance with the Underlying Conditions order; or
+
+   (5) The order was issued to a building that is otherwise excluded from such issuance pursuant to 28 RCNY § 44-02(b).
+
+
+
+
 Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residential Real Property]
 --------------------------------------------------
 
@@ -17933,107 +18034,6 @@ Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residenti
 
 
 The term "mortgagee" as used in these rules has the meaning set forth in section 27-2109.1(a)(1) of the administrative code of the city of New York.
-
-
-
-
-Chapter 44: Orders By the Department For Repair of Underlying Conditions
---------------------------------------------------
-
-
-
-*§ 44-01 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meaning:
-
-(a) "Class B violation" means a hazardous violation of the Housing Maintenance Code.
-
-(b) "Class C violation" means an immediately hazardous violation of the Housing Maintenance Code.
-
-(c) "HDC" means the Housing Development Corporation or its successor.
-
-(d) "Department" or "HPD" means the New York City Department of Housing Preservation and Development or its successor.
-
-(e) "Housing Maintenance Code" means chapter two of title 27 of the Administrative Code of the City of New York.
-
-(f) "Underlying Condition" means a physical defect or failure of a building system that is causing or has caused a violation of the Administrative Code, Multiple Dwelling Law, or any other state or local law that imposes requirements on dwellings, including, but not limited to, a structural defect or failure of a heating, plumbing, or other system.
-
-
-
-
-
-
-*§ 44-02 Criteria.* ::
-
-
-(a) The Department may identify buildings for issuance of orders to correct Underlying Conditions based upon the following criteria:
-
-   (1) A building with a Class B or Class C violation on record related to the existence of mold or water leaks that was issued by the Department within the prior year preceding issuance of the order that has not been properly certified as corrected by the owner, or that was corrected by the Department, and such building:
-
-      (i) Contains three to five dwelling units and at least 50% of such units have one such violation;
-
-      (ii) Contains six to nine dwelling units and at least 25% of such units have one such violation; or
-
-      (iii) Contains ten dwelling units or more and at least 15% of such units have one such violation.
-
-   (2) The Department will prioritize selection of buildings meeting the criteria in paragraph (1) of this subdivision first by those buildings with the highest total number of Class C violations relating to the existence of mold or water leaks, followed by those buildings with the highest total number of both Class C and Class B violations relating to the existence of mold or water leaks.
-
-(b) The Department may exclude a building from the issuance of an order to correct Underlying Conditions where such building otherwise meets the criteria in paragraph (1) of subdivision (a) of this section, but such building is:
-
-   (1) A one- or two-family building;
-
-   (2) Subject to an order issued in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153;
-
-   (3) Subject to the appointment of an administrator under the 7A Program pursuant to Article 7A of the New York State Real Property Actions and Proceedings Law;
-
-   (4) Subject to a comprehensive enforcement action by the Department;
-
-   (5) Conveyed to a new owner after an in rem judgment of foreclosure in favor of New York City in the Third Party Transfer Program pursuant to New York City Administrative Code § 11-412.1 within the last five years; or
-
-   (6) The subject of a preservation loan made by HPD or HDC within the last two years.
-
-
-
-
-
-
-*§ 44-03 Compliance and Documentation.* ::
-
-
-(a) An owner must comply with an order issued by the Department within four months of the issuance of an order, or within an additional two months upon approval of such extension by the Department, and submit the documentation required by this section.
-
-(b) To request an extension of two months to comply with an order, an owner must submit the following documentation to the Department within two months of issuance of such order:
-
-   (1) An affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that is the source of the mold or water leak; and
-
-   (2) An affidavit from the owner of the building in a form approved by the Department stating that the Underlying Condition and related violations will be corrected, describing the work that will be performed to correct such Underlying Condition and violations, and stating that the work will be completed within the extended time period.
-
-(c) To request a rescission of the order issued by the Department, an owner must submit the documentation required by paragraph 1 or paragraph 2 of this subdivision within four months of issuance of the order, or within six months of such issuance if an extension was granted by the Department. In addition, the Department will not grant a rescission unless it finds, after inspection, that at least 80% of the mold and water leak violations have been repaired.
-
-   (1) If there are no Underlying Conditions:
-
-      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department stating that there are no Underlying Conditions that are causing the mold and water leak violations; and
-
-      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
-
-   (2) If Underlying Conditions and related violations have been repaired:
-
-      (i) An owner must submit an affidavit from a New York State licensed professional engineer or registered architect in a form approved by the Department identifying the Underlying Condition that was the source of the mold or water leak violations, stating that the Underlying Condition and related violations were properly repaired, and identifying who repaired the Underlying Condition and related violations; and
-
-      (ii) An owner must submit a completed dismissal request form pursuant to 28 RCNY Chapter 9.
-
-(d) The Department may also rescind an order for the following reasons:
-
-   (1) An administrator had been appointed for the building pursuant to Article 7A of the Real Property Actions and Proceedings Law and this fact became known to the Department after issuance of the Underlying Conditions order;
-
-   (2) A preservation loan was closed by HPD or HDC during the four- or six-month period for compliance with the Underlying Conditions order;
-
-   (3) HPD completed the repair work required under the Underlying Conditions order;
-
-   (4) HPD selected a building for participation in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153 during the four- or six-month period for compliance with the Underlying Conditions order; or
-
-   (5) The order was issued to a building that is otherwise excluded from such issuance pursuant to 28 RCNY § 44-02(b).
 
 
 
@@ -18514,6 +18514,121 @@ e. A contractor or subcontractor who submits an inaccurate Contractor Certified 
 
 
 
+Chapter 52: Speculation Watch List
+--------------------------------------------------
+
+
+
+*§ 52-01 Definitions.* ::
+
+
+As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
+
+421-a Construction Period Benefits. “421-a Construction Period Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, for the tax year or years immediately following taxable status dates occurring subsequent to the commencement and prior to the completion of construction, but not to exceed three such tax years, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
+
+421-a Final Benefits. “421-a Final Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, in tax years immediately following the taxable status date first occurring after the expiration of 421-a Construction Period Benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
+
+421-a New Building Tax Lot. “421-a New Building Tax Lot” means a tax lot (i) for which DOF records indicate that 421-a Construction Period Benefits were received no earlier than eight fiscal years before the final day of the most recently concluded Fiscal Quarter, or (ii) for which DOF records indicate that 421-a Final Benefits were received no earlier than five fiscal years before the final day of the most recently concluded Fiscal Quarter, or (iii) that has received any real property tax exemption benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law for a new multiple dwelling thereon that received its first temporary or permanent certificate of occupancy no earlier than five years before the final day of the most recently concluded Fiscal Quarter.
+
+Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
+
+Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
+
+Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD, at the time each Speculation Watch List update is completed.
+
+DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
+
+Dwelling Unit. “Dwelling Unit” means a dwelling unit as defined in § 27-2004 of the Housing Maintenance Code.
+
+Fiscal Quarter. “Fiscal Quarter” means any one of the following periods: (i) the period beginning on the first day of July and ending on the last day of September; or (ii) the period beginning on the first day of October and ending on the last day of December; or (iii) the period beginning on the first day of January and ending on the last day of March; or (iv) the period beginning on the first day of April and ending on the last day of June.
+
+Fiscal Year. “Fiscal Year” means the fiscal year of the City of New York, which commences July 1 and ends June 30.
+
+HDC. “HDC” means the New York City Housing Development Corporation.
+
+HDFC. “HDFC” means a housing development fund company organized pursuant to Article 11 of the Private Housing Finance Law.
+
+HPD. “HPD” means the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
+
+Internal Revenue Code. “Internal Revenue Code” means the United States Internal Revenue Code of 1986, as amended.
+
+List. “List” means the speculation watch list that is published during each Fiscal Quarter and includes all Multiple Dwellings that (i) were the subject of Qualified Transactions and (ii) HPD has determined to be at risk of tenant harassment in accordance with the criteria established in 28 RCNY § 52-02.
+
+Listed Building. “Listed Building” means a Multiple Dwelling included on a List.
+
+Local Supervision. “Supervision” means monitoring of the performance and regulatory compliance of Affordable Housing by HPD’s Division of Asset Management, HPD’s Division of Housing Supervision, or HDC Asset Management, or their successors.
+
+Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined in section 4 of the Multiple Dwelling Law:
+
+   (i) in which a majority of Dwelling Units are Rent Regulated;
+
+   (ii) that appears on the most recent DOF final assessment roll;
+
+   (iii) for which, during the Fiscal Year of the most recent DOF final assessment roll, DOF has recorded a notice of property value that lists numerical values greater than zero for both estimated gross income and estimated expenses;
+
+   (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
+
+   (v) that either (A) is exclusively residential with eleven or more Dwelling Units or (B) contains seven or more Dwelling Units and one or more commercial units;
+
+   (vi) that is not providing Affordable Housing subject to Local Supervision;
+
+   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law;
+
+   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality; and
+
+   (ix) that is not located on a 421-a New Building Tax Lot.
+
+Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
+
+   (i) occurred during the most recently concluded Fiscal Quarter;
+
+   (ii) has a sale price greater than $10,000;
+
+   (iii) is entirely contained within a single tax lot;
+
+   (iv) did not involve any federal, state, or local agency or instrumentality as either the purchaser or the seller; and
+
+   (v) did not involve an HDFC as the purchaser.
+
+Rent Regulated. “Rent Regulated” means subject to rent regulation under the Rent Stabilization Law of 1969, the Rent Stabilization Code, the Private Housing Finance Law, or the Emergency Tenant Protection Act of 1974, all as amended, together with any successor statutes or regulations addressing substantially the same subject matter.
+
+Zoning Resolution. “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended.
+
+
+
+
+
+
+
+
+*§ 52-02 Criteria for inclusion.* ::
+
+
+A Multiple Dwelling that is the subject of a Qualified Transaction and that has a Capitalization Rate less than the applicable Borough Capitalization Rate shall be added to the List. HPD will post a public e-mail address on its website through which HPD may be alerted as to any Multiple Dwelling that was either included on the List that allegedly did not meet the criteria for inclusion at the time of its inclusion or omitted from the List that allegedly did meet the criteria for inclusion.
+
+
+
+
+
+
+
+
+*§ 52-03 Criteria for removal.* ::
+
+
+A Listed Building shall be removed from the List if, subsequent to the Qualified Transaction:
+
+(a) it begins providing Affordable Housing subject to Local Supervision;
+
+(b) it receives a full or partial exemption from real property taxation pursuant to Article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; or
+
+(c) it receives benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any Federal, State, or local governmental agency or instrumentality.
+
+
+
+
+
+
 Chapter 51: Affordable New York Housing Program Rules and Eligibility Requirements Pursuant to Real Property Tax Law § 421-a(16)
 --------------------------------------------------
 
@@ -18707,121 +18822,6 @@ a. Whether a Rental Project or Homeownership Project has received benefits pursu
 b. Except with respect to dwelling units that will be rented through referrals from the City for homeless households who meet the applicable income requirements and other eligibility criteria permitted by the Agency's marketing guidelines, any Rental Project or Homeownership Project that previously applied to receive benefits pursuant to section hour hundred twenty-one-a of the real property tax law and thereafter elects to receive benefits pursuant to paragraph (r) of the Act, shall not be allowed to change the affordability designation of any dwelling units for which the Agency commenced processing households for occupancy on or before the date upon which such Rental Project or Homeownership Project makes such election.
 
 c. The Agency may waive the rule regarding the deadline by which to file a Notice of Intent if such waiver is appropriate based upon the Completion Date of any Rental Project that elects to receive Affordable New York Housing Program Benefits.
-
-
-
-
-
-
-Chapter 52: Speculation Watch List
---------------------------------------------------
-
-
-
-*§ 52-01 Definitions.* ::
-
-
-As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
-
-421-a Construction Period Benefits. “421-a Construction Period Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, for the tax year or years immediately following taxable status dates occurring subsequent to the commencement and prior to the completion of construction, but not to exceed three such tax years, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
-
-421-a Final Benefits. “421-a Final Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, in tax years immediately following the taxable status date first occurring after the expiration of 421-a Construction Period Benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
-
-421-a New Building Tax Lot. “421-a New Building Tax Lot” means a tax lot (i) for which DOF records indicate that 421-a Construction Period Benefits were received no earlier than eight fiscal years before the final day of the most recently concluded Fiscal Quarter, or (ii) for which DOF records indicate that 421-a Final Benefits were received no earlier than five fiscal years before the final day of the most recently concluded Fiscal Quarter, or (iii) that has received any real property tax exemption benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law for a new multiple dwelling thereon that received its first temporary or permanent certificate of occupancy no earlier than five years before the final day of the most recently concluded Fiscal Quarter.
-
-Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
-
-Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
-
-Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD, at the time each Speculation Watch List update is completed.
-
-DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
-
-Dwelling Unit. “Dwelling Unit” means a dwelling unit as defined in § 27-2004 of the Housing Maintenance Code.
-
-Fiscal Quarter. “Fiscal Quarter” means any one of the following periods: (i) the period beginning on the first day of July and ending on the last day of September; or (ii) the period beginning on the first day of October and ending on the last day of December; or (iii) the period beginning on the first day of January and ending on the last day of March; or (iv) the period beginning on the first day of April and ending on the last day of June.
-
-Fiscal Year. “Fiscal Year” means the fiscal year of the City of New York, which commences July 1 and ends June 30.
-
-HDC. “HDC” means the New York City Housing Development Corporation.
-
-HDFC. “HDFC” means a housing development fund company organized pursuant to Article 11 of the Private Housing Finance Law.
-
-HPD. “HPD” means the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
-
-Internal Revenue Code. “Internal Revenue Code” means the United States Internal Revenue Code of 1986, as amended.
-
-List. “List” means the speculation watch list that is published during each Fiscal Quarter and includes all Multiple Dwellings that (i) were the subject of Qualified Transactions and (ii) HPD has determined to be at risk of tenant harassment in accordance with the criteria established in 28 RCNY § 52-02.
-
-Listed Building. “Listed Building” means a Multiple Dwelling included on a List.
-
-Local Supervision. “Supervision” means monitoring of the performance and regulatory compliance of Affordable Housing by HPD’s Division of Asset Management, HPD’s Division of Housing Supervision, or HDC Asset Management, or their successors.
-
-Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined in section 4 of the Multiple Dwelling Law:
-
-   (i) in which a majority of Dwelling Units are Rent Regulated;
-
-   (ii) that appears on the most recent DOF final assessment roll;
-
-   (iii) for which, during the Fiscal Year of the most recent DOF final assessment roll, DOF has recorded a notice of property value that lists numerical values greater than zero for both estimated gross income and estimated expenses;
-
-   (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
-
-   (v) that either (A) is exclusively residential with eleven or more Dwelling Units or (B) contains seven or more Dwelling Units and one or more commercial units;
-
-   (vi) that is not providing Affordable Housing subject to Local Supervision;
-
-   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law;
-
-   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality; and
-
-   (ix) that is not located on a 421-a New Building Tax Lot.
-
-Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
-
-   (i) occurred during the most recently concluded Fiscal Quarter;
-
-   (ii) has a sale price greater than $10,000;
-
-   (iii) is entirely contained within a single tax lot;
-
-   (iv) did not involve any federal, state, or local agency or instrumentality as either the purchaser or the seller; and
-
-   (v) did not involve an HDFC as the purchaser.
-
-Rent Regulated. “Rent Regulated” means subject to rent regulation under the Rent Stabilization Law of 1969, the Rent Stabilization Code, the Private Housing Finance Law, or the Emergency Tenant Protection Act of 1974, all as amended, together with any successor statutes or regulations addressing substantially the same subject matter.
-
-Zoning Resolution. “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended.
-
-
-
-
-
-
-
-
-*§ 52-02 Criteria for inclusion.* ::
-
-
-A Multiple Dwelling that is the subject of a Qualified Transaction and that has a Capitalization Rate less than the applicable Borough Capitalization Rate shall be added to the List. HPD will post a public e-mail address on its website through which HPD may be alerted as to any Multiple Dwelling that was either included on the List that allegedly did not meet the criteria for inclusion at the time of its inclusion or omitted from the List that allegedly did meet the criteria for inclusion.
-
-
-
-
-
-
-
-
-*§ 52-03 Criteria for removal.* ::
-
-
-A Listed Building shall be removed from the List if, subsequent to the Qualified Transaction:
-
-(a) it begins providing Affordable Housing subject to Local Supervision;
-
-(b) it receives a full or partial exemption from real property taxation pursuant to Article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; or
-
-(c) it receives benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any Federal, State, or local governmental agency or instrumentality.
 
 
 

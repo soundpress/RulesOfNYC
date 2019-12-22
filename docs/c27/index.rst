@@ -100,6 +100,8 @@ Complaining Worker. “Complaining Worker” means a worker who has filed a writ
 
 Comptroller. “Comptroller” means the City of New York comptroller or the comptroller’s designee.
 
+Construction Poster. "Construction Poster" means a poster no smaller than two feet in height and two feet in width in the form provided on the comptroller's website with the heading "Prevailing Rate of Wages" in lettering no smaller than two inches in height and two inches in width. The poster must detail the Prevailing Wages and Supplements due for Covered Work performed on a public work project subject to the requirements of labor law article eight and must be constructed of materials capable of withstanding adverse weather conditions.
+
 Covered Employer. “Covered Employer” means any person or entity subject to liability for Prevailing Wages and/or Supplements under labor law articles eight or nine on public works projects or building service contracts for the City of New York by and through its agencies or public benefit corporations; or under real property tax law § 421-a(8), (16)(h), or 17(g); or New York City Administrative Code § 6-109 or 19-142.
 
 Covered Work. “Covered Work” means any work that is subject to the requirements of articles eight or nine of the labor law on public works projects or building service contracts for the City of New York by and through its agencies or public benefit corporations; or subject to the requirements of real property tax law § 421-a(8), (16)(h) or (17)(g); or New York City Administrative Code § 6-109 or 19-142. “Covered Work” does not include purely supervisory work, or work that is not performed on or about the site of the project, contract or building in question.
@@ -112,7 +114,7 @@ Document. “Document” means records in any form or electronically stored info
 
 Prevailing Wage and/or Supplement. “Prevailing Wage and Supplement” or “Prevailing Wage” or “Prevailing Supplement” mean Prevailing Wages and/or Supplements as defined in labor law articles eight and nine; real property tax law § 421-a(8), (16)(h) or (17)(g); and New York City Administrative Code §§ 6-109(a) and 19-142.
 
-Worker Notice Poster. “Worker Notice Poster” means a notice in the form provided on the comptroller’s website detailing the Prevailing Wages and Supplements due for Covered Work performed on a particular project, contract or building.
+Worker Notice. “Worker Notice” means a notice in the form provided on the comptroller’s website detailing the Prevailing Wages and Supplements due for Covered Work performed on a particular project, contract or building and informing workers of their right to contact the comptroller about Prevailing Wages and Supplements.
 
 
 
@@ -164,17 +166,23 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
       iii) Daily Sign-In Logs for Covered Work;
 
-      iv) Weekly payroll records, registers or journals required by labor law Section 195;
+      iv) Weekly payroll records, registers or journals required by labor law Section 195(4);
 
-      v) All Documents and records concerning the cost of Bona Fide Fringe Benefits provided to Covered Workers, including but not limited to invoices, account statements, benefits remittance reports and benefits plan descriptions; and
+      v) Pay stubs or wage statements required by labor law sections 195(3) and 220(3-a)(a)(ii);
 
-      vi) All Federal and State employment tax returns and filings, including but not limited to quarterly combined withholding, wage reporting, and unemployment insurance form NYS-45 returns; employers’ quarterly Federal tax form 941 returns; wage and tax form W-2 statements; and miscellaneous income form 1099 statements.
+      vi) All Documents and records concerning the cost of Bona Fide Fringe Benefits provided to Covered Workers, including but not limited to invoices, account statements, benefits remittance reports and benefits plan descriptions; and
+
+      vii) All Federal and State employment tax returns and filings, including but not limited to quarterly combined withholding, wage reporting, and unemployment insurance form NYS-45 returns; employers’ quarterly Federal tax form 941 returns; wage and tax form W-2 statements; and miscellaneous income form 1099 statements.
 
    (2) Each Covered Employer must maintain one weekly Certified Payroll Report for each project, contract or building on which it performs Covered Work. The Certified Payroll Report must set forth the names, addresses and trade classifications for all Covered Workers employed by the Covered Employer on the project, contract or building, as well as the hours and days of Covered Work, the hourly wage and supplement rates, and the weekly gross and net pay amounts for each Covered Worker. The Certified Payroll Report must be signed and affirmed to be true under penalties of perjury by an officer or principal of the Covered Employer.
 
    (3) Each Covered Employer must maintain one Daily Sign-In Log for each project, contract or building on which it performs Covered Work. The Daily Sign-In Log must set forth the names, trade classifications, daily start and end times of Covered Work for, and must be signed by, each Covered Worker employed by the Covered Employer on the project, contract or building.
 
-   (4) Each Covered Employer must post a Worker Notice Poster in a prominent and accessible place at each project, contract or building on which it performs Covered Work. The Worker Notice Poster must set forth the Prevailing Wages and Supplements due for the Covered Work performed on that project, contract or building.
+   (4) Each Covered Employer must post a Worker Notice in a prominent and accessible place at each project, contract or building on which it performs Covered Work. The Worker Notice must attach schedules detailing the trade classifications and the corresponding Prevailing Wages and Supplements applicable to the Covered Work performed on that project, contract or building. On public work projects subject to the requirements of labor law article eight only, Covered Employers must instead of posting a Worker Notice post a Construction Poster in a prominent and accessible place at each work site. The Construction Poster must attach schedules detailing the trade classifications and the corresponding Prevailing Wages and Supplements applicable to the Covered Work performed on that public work project.
+
+   (5) Each Covered Employer must provide a Worker Notice to each employee performing Covered Work subject to the requirements of labor law article eight at the time it begins performing such public work project, and with the first paycheck to each such employee after July first of each year. The Worker Notice must attach schedules detailing the trade classifications and the corresponding Prevailing Wages and Supplements applicable to the Covered Work performed on that public work project.
+
+   (6) Each Covered Employer with employees performing Covered Work subject to the requirements of labor law article eight must provide pay stubs, as required by labor law sections 195(3) and 220(3-a)(a)(ii), for each work week to each such employee detailing the trade classifications and the corresponding Prevailing Wage rates applicable to such Covered Work performed by such employee in such work week.
 
 
 
@@ -269,6 +277,299 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
    (2) In cases brought under labor law articles eight and nine and New York City Administrative Code § 19-142, the Comptroller may adopt, reject or modify the administrative law judge’s report and recommendation when issuing an order; such order is to be based exclusively upon the record as a whole, including facts of which official notice has been taken.
 
    (3) The Bureau files the order of the Comptroller and serves a notice of filing, with copy of the order, on every party.
+
+
+
+
+
+
+
+
+*§ 2-07 Civil Penalties for Violations of Employer Notice Requirements.* ::
+
+
+(a) Penalties for Construction Poster violations with opportunity to cure.
+
+   (1) The failure of a Covered Employer performing Covered Work subject to the requirements of labor law article eight to comply with the Construction Poster requirements set forth in 44 RCNY § 2-04(c)(4) constitutes a separate violation at each work site, for each work day. Covered Employers are deemed to have willfully posted an incorrect Construction Poster if they knew or should have known that the trade classifications or Prevailing Wages and Supplements detailed in such poster are incorrect or incomplete for the Covered Work performed at such public work site.
+
+   The penalty amounts set forth in Appendix A apply to the following Construction Poster violations.
+
+   (2) A Class 1 Construction Poster violation consists of:
+
+      i) failing to post a Construction Poster at the public work site where the Covered Employer has 10 or more employees and has worked on a prior public work project; or
+
+      ii) willfully posting an incorrect Construction Poster at the public work site.
+
+   (3) A Class 2 Construction Poster violation consists of:
+
+      i) failing to post a Construction Poster at the public work site where the Covered Employer has fewer than 10 employees or has never worked on a prior public work project; or
+
+      ii) posting a Construction Poster without schedules detailing trade classifications and Prevailing Wages and Supplements at the public work site; or
+
+      iii) posting a Construction Poster in an inaccessible and not prominent place at the public work site.
+
+   (4) A Covered Employer that has committed a first Construction Poster violation under this section has ten days from receipt of the summons under 44 RCNY § 2-07(e) to post a proper Construction Poster, sign the admission of liability and certification of cure on the summons, and return the summons with a photograph of such poster to the Comptroller. If such proof of compliance is acceptable to the Comptroller, an order for such violation will be issued with no civil penalty. Each violation by a Covered Employer that occurs after the Comptroller has issued one order under 44 RCNY § 2-07 to that Covered Employer within the last six years is a second violation. Each violation by a Covered Employer that occurs after the Comptroller has issued two or more orders under 44 RCNY § 2-07 to that Covered Employer within the last six years is a third and subsequent violation.
+
+(b) Penalties for Worker Notice violations with opportunity to cure.
+
+   (1) The failure of a Covered Employer to comply with the Worker Notice requirements set forth in 44 RCNY § 2-04(c)(5) for employees performing Covered Work subject to the requirements of labor law article eight constitutes a separate violation for each such employee. Covered Employers are deemed to have willfully provided an incorrect Worker Notice if they knew or should have known that the trade classifications or Prevailing Wages and Supplements detailed in such notice are incorrect or incomplete for such Covered Work performed by such employee.
+
+   The penalty amounts set forth in Appendix A apply to the following Worker Notice violations.
+
+   (2) A Class 1 Worker Notice violation consists of:
+
+      i) failing to provide a Worker Notice where the Covered Employer has 10 or more employees and has worked on a prior public work project; or
+
+      ii) willfully providing an incorrect Worker Notice.
+
+   (3) A Class 2 Worker Notice violation consists of:
+
+      i) failing to provide a Worker Notice where the Covered Employer has fewer than 10 employees or has not worked on a prior public work project; or
+
+      ii) providing a Worker Notice without schedules detailing trade classifications and Prevailing Wages and Supplements.
+
+   (4) A Covered Employer that has committed a first Worker Notice violation has thirty days from receipt of the summons under 44 RCNY § 2-07(e) to provide a proper Worker Notice to each employee, sign the admission of liability and certification of cure on the summons, and return the summons with a copy of such notice to the Comptroller. If such proof of compliance is acceptable to the Comptroller, an order for such violation will be issued with no civil penalty. Each violation by a Covered Employer that occurs after the Comptroller has issued one order under 44 RCNY § 2-07 to that Covered Employer within the last six years is a second violation. Each violation by a Covered Employer that occurs after the Comptroller has issued two or more orders under 44 RCNY § 2-07 to that Covered Employer within the last six years is a third and subsequent violation.
+
+(c) Penalties for pay stub violations with opportunity to cure.
+
+   (1) The failure of a Covered Employer to comply with the pay stub requirements set forth in 44 RCNY § 2-04(c)(6) for employees performing Covered Work subject to the requirements of labor law article eight constitutes a separate violation for each such employee, for each work week. Covered Employers are deemed to have willfully provided an incorrect pay stub to an employee performing Covered Work subject to the requirements of labor law article eight if they knew or should have known that the Prevailing Wage rates detailed in such pay stub are incorrect or incomplete for such Covered Work performed by such employee in the work week covered by such pay stub. Penalties for pay stub violations may be assessed for up to one year from the date of the violation for each such employee.
+
+   The penalty amounts set forth in Appendix A apply to the following pay stub violations.
+
+   (2) A Class 1 pay stub violation consists of:
+
+      i) failing to provide a pay stub; or
+
+      ii) willfully providing an incorrect pay stub.
+
+   (3) A Class 2 pay stub violation consists of providing a pay stub without trade classifications and Prevailing Wage rates.
+
+   (4) A Covered Employer that has committed a first Class 2 pay stub violation has thirty days from receipt of the summons under 44 RCNY § 2-07(e) to provide to each employee the proper pay stubs for the entire compliance period in the summons, sign the admission of liability and certification of cure on the summons, and return the summons with copies of all such pay stubs to the Comptroller. If such proof of compliance is acceptable to the Comptroller, an order for such violation will be issued with no civil penalty. Each violation by a Covered Employer that occurs after the Comptroller has issued one order under 44 RCNY § 2-07 to that Covered Employer within the last six years is a second violation. Each violation by a Covered Employer that occurs after the Comptroller has issued two or more orders under 44 RCNY § 2-07 to that Covered Employer within the last six years is a third and subsequent violation.
+
+(d) Designation. Before the Comptroller issues an order assessing a civil penalty against a Covered Employer under labor law section 220(3-a)(a)(ii) for failing to post a Construction Poster or willfully posting an incorrect Construction Poster, failing to provide a Worker Notice or willfully providing an incorrect Worker Notice, or for failing to provide a pay stub or willfully providing an incorrect pay stub, a hearing is held by the hearings division of the office of administrative trials and hearings.
+
+(e) Summons. For every alleged violation under labor law section 220(3-a)(a)(ii), the Bureau issues a summons to the Covered Employer performing work at the public work site or employing the workers at issue. The summons is either served in person upon any managing or general agent of the Covered Employer or mailed to the Covered Employer at its business address. The summons contains the name and address of the Covered Employer, the address of the work site and date for alleged violations concerning the Construction Poster, the name of the employee and date for alleged violations concerning Worker Notices and pay stubs, a brief description of the nature of the alleged violation and the maximum and "mail-in" penalty amounts.
+
+(f) Waiver of hearing. Any person who receives a summons under this section may waive a hearing by admitting the violation charged on the summons and paying the "mail-in" penalty amount. Payment must be made by certified or bank check payable to the "New York City Comptroller" and must be mailed to the Comptroller's office with the summons before the hearing date. Admission of the violation charged on the summons constitutes an order of the Comptroller for purposes of paragraph 4 of subdivision a, paragraph 4 of subdivision b and paragraph 4 of subdivision c of this section.
+
+(g) Order. The presiding hearing officer promptly issues a recommended decision after the hearing, which may adjudicate violations alleged in one or more summonses. The recommended decision must describe particularly the nature of each alleged violation and assess a civil penalty or dismiss the charge. The office of administrative trials and hearings serves the recommended decision on every party. The recommended decision is not subject to an appeal under 48 RCNY § 6-19. The Comptroller may adopt, reject or modify, in whole or in part, the recommended decision when issuing an order under labor law section 220(3-a)(a)(ii). The Bureau files the order of the Comptroller and serves a copy of the order on every party.
+
+
+
+
+
+
+
+
+*Appendix A* ::
+
+
+For a full description of violations, refer back to text of section of rule indicated
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section of Rule
+      - Violation Type
+      - Cure
+      - Penalty
+      - Default Penalty
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 44 RCNY § 2-07(a)(2)
+      - First Construction Poster violationClass 1
+      - Y
+      - $50
+      - $50
+    * - 44 RCNY § 2-07(a)(3)
+      - First Construction Poster violationClass 2
+      - Y
+      - $30
+      - $30
+    * - 44 RCNY § 2-07(a)(2)
+      - Second Construction Poster violationClass 1
+      - N
+      - $250
+      - $250
+    * - 44 RCNY § 2-07(a)(3)
+      - Second Construction Poster violationClass 2
+      - N
+      - $150
+      - $150
+    * - 44 RCNY § 2-07(a)(2)
+      - Third and subsequent Construction Poster violationClass 1
+      - N
+      - $500
+      - $500
+    * - 44 RCNY § 2-07(a)(3)
+      - Third and subsequent Construction Poster violationClass 2
+      - N
+      - $300
+      - $300
+    * - 44 RCNY § 2-07(b)(2)
+      - First Worker Notice violationClass 1
+      - Y
+      - $50
+      - $50
+    * - 44 RCNY § 2-07(b)(3)
+      - First Worker Notice violationClass 2
+      - Y
+      - $30
+      - $30
+    * - 44 RCNY § 2-07(b)(2)
+      - Second Worker Notice violationClass 1
+      - N
+      - $250
+      - $250
+    * - 44 RCNY § 2-07(b)(3)
+      - Second Worker Notice violationClass 2
+      - N
+      - $150
+      - $150
+    * - 44 RCNY § 2-07(b)(2)
+      - Third and subsequent Worker Notice violationClass 1
+      - N
+      - $500
+      - $500
+    * - 44 RCNY § 2-07(b)(3)
+      - Third and subsequent Worker Notice violationClass 2
+      - N
+      - $300
+      - $300
+    * - 44 RCNY § 2-07(c)(2)
+      - First pay stub violation for 1 - 9 weeks Class 1
+      - N
+      - $50
+      - $50
+    * - 44 RCNY § 2-07(c)(2)
+      - First pay stub violation for 10 - 24 weeksClass 1
+      - N
+      - $500
+      - $500
+    * - 44 RCNY § 2-07(c)(2)
+      - First pay stub violation 25 - 49 weeks Class 1
+      - N
+      - $1,250
+      - $1,250
+    * - 44 RCNY § 2-07(c)(2)
+      - First pay stub violation for 50 - 52 weeksClass 1
+      - N
+      - $2,500
+      - $2,500
+    * - 44 RCNY § 2-07(c)(3)
+      - First pay stub violation for 1 - 9 weeksClass 2
+      - Y
+      - $30
+      - $30
+    * - 44 RCNY § 2-07(c)(3)
+      - First pay stub violation for 10 - 24 weeksClass 2
+      - Y
+      - $300
+      - $300
+    * - 44 RCNY § 2-07(c)(3)
+      - First pay stub violation for 25 - 49 weeksClass 2
+      - Y
+      - $750
+      - $750
+    * - 44 RCNY § 2-07(c)(3)
+      - First pay stub violation for 50 - 52 weeksClass 2
+      - Y
+      - $1,500
+      - $1,500
+    * - 44 RCNY § 2-07(c)(2)
+      - Second pay stub violation for 1 - 9 weeksClass 1
+      - N
+      - $250
+      - $250
+    * - 44 RCNY § 2-07(c)(2)
+      - Second pay stub violation for 10 - 24 weeksClass 1
+      - N
+      - $2,500
+      - $2,500
+    * - 44 RCNY § 2-07(c)(2)
+      - Second pay stub violation for 25 - 49 weeksClass 1
+      - N
+      - $6,250
+      - $6,250
+    * - 44 RCNY § 2-07(c)(2)
+      - Second pay stub violation for 50 - 52 weeksClass 1
+      - N
+      - $12,500
+      - $12,500
+    * - 44 RCNY § 2-07(c)(3)
+      - Second pay stub violation for 1 - 9 weeks Class 2
+      - N
+      - $150
+      - $150
+    * - 44 RCNY § 2-07(c)(3)
+      - Second pay stub violation for 10 - 24 weeksClass 2
+      - N
+      - $1,500
+      - $1,500
+    * - 44 RCNY § 2-07(c)(3)
+      - Second pay stub violation for 25 - 49 weeksClass 2
+      - N
+      - $3,750
+      - $3,750
+    * - 44 RCNY § 2-07(c)(3)
+      - Second pay stub violation for 50 - 52 weeksClass 2
+      - N
+      - $7,500
+      - $7,500
+    * - 44 RCNY § 2-07(c)(2)
+      - Third and subsequent pay stub violation for 1 - 9 weeksClass 1
+      - N
+      - $500
+      - $500
+    * - 44 RCNY § 2-07(c)(2)
+      - Third and subsequent pay stub violation for 10 - 24 weeksClass 1 
+      - N
+      - $5,000
+      - $5,000
+    * - 44 RCNY § 2-07(c)(2)
+      - Third and subsequent pay stub violation for 25 - 49 weeksClass 1
+      - N
+      - $12,500
+      - $12,500
+    * - 44 RCNY § 2-07(c)(2)
+      - Third and subsequent pay stub violation for 50 - 52 weeksClass 1
+      - N
+      - $25,000
+      - $25,000
+    * - 44 RCNY § 2-07(c)(3)
+      - Third and subsequent pay stub violation for 1 - 9 weeks Class 2
+      - N
+      - $300
+      - $300
+    * - 44 RCNY § 2-07(c)(3)
+      - Third and subsequent pay stub violation for 10 - 24 weeksClass 2
+      - N
+      - $3,000
+      - $3,000
+    * - 44 RCNY § 2-07(c)(3)
+      - Third and subsequent pay stub violation for 25 - 49 weeksClass 2
+      - N
+      - $7,500
+      - $7,500
+    * - 44 RCNY § 2-07(c)(3)
+      - Third and subsequent pay stub violation for 50 - 52 weeksClass 2
+      - N
+      - $15,000
+      - $15,000
+~
+
+ 
 
 
 
