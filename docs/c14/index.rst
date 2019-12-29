@@ -16606,109 +16606,6 @@ Under satisfactory completion of the Rehabilitation, title for the Building shal
 
 
 
-Chapter 37: Fees For Administration of Loan Programs and Certain Other Municipality-Aided Projects
---------------------------------------------------
-
-
-
-*§ 37-01 Fees Authorized.* ::
-
-
-HPD shall be authorized to charge and collect the fees set forth in this chapter.
-
-
-
-
-
-
-*§ 37-02 Definitions.* ::
-
-
-For purposes of this chapter:
-
-(a) Appraisal Fee. Appraisal Fee shall mean the amount charged to a grantee, borrower, or recipient for HPD's administrative costs in connection with a Simple Appraisal or a Complex Appraisal.
-
-(b) Certificate of Incorporation Fee. Certificate of Incorporation Fee shall mean the amount charged to an applicant for HPD's administrative costs in connection with the review of the formation or dissolution of a housing development fund corporation pursuant to Article XI of the Private Housing Finance Law or any amendment to the certificate of incorporation of a housing development fund corporation.
-
-(c) City-owned Property. City-owned Property shall mean real property title to which is held by the City of New York.
-
-(d) Complex Appraisal. Complex Appraisal shall mean an investigation by an appraiser to estimate the value of a property that is the basis of underwriting of a loan or grant or that will be conveyed from City to private ownership where such property consists of:
-
-   (1) six or more tax lots consisting entirely of vacant land, for which the valuation can be made solely based upon available comparable sales data; or
-
-   (2) any improved residential property consisting of four or more class A units; or
-
-   (3) any improved property consisting of a combination of commercial and residential uses; or
-
-   (4) any property consisting of a combination of vacant and improved land; or
-
-   (5) any other complex development project consisting of a combination of uses.
-
-(e) Equal Employment Compliance Fee. "Equal Employment Compliance Fee" shall mean the amount charged to both a project sponsor and to a prime contractor for HPD's administrative costs in processing and reviewing employment reports required to be submitted pursuant to Executive Order 50 of 1980.
-
-(f) HPD. HPD shall mean the Department of Housing Preservation and Development of the City of New York.
-
-(g) Labor and Prevailing Wage Compliance Fee. "Labor and Prevailing Wage Compliance Fee" shall mean the amount charged to a project sponsor for each project for HPD's administrative costs in processing and reviewing compliance with the Federal Davis Bacon Act (40 U.S.C. §§ 3141 et seq.), State Labor Law §§ 220 and 230, Real Property Tax Law § 421-a(8), and New York City Administrative Code § 6-109 labor and prevailing wage requirements.
-
-(h) License Agreement Fee. License Agreement Fee shall mean the amount charged to an applicant for HPD's administrative costs in connection with preparing each license agreement or renewal thereof for short-term use of City-owned property. Such fee shall not be deemed to be a rental or use and occupancy charge.
-
-(i) Mortgage Refinance Fee. Mortgage Refinance Fee shall mean the amount charged to a grantee, borrower, or recipient for HPD's administrative costs in connection with processing requests to subordinate, satisfy or otherwise modify HPD debt.
-
-(j) Simple Appraisal. Simple Appraisal shall mean an investigation by an appraiser to estimate the value of a property that is the basis of underwriting of a loan or grant or that will be conveyed from City to private ownership where such property consists of:
-
-   (1) five or fewer tax lots consisting entirely of vacant land, for which the valuation can be made solely based upon available comparable sales data; or
-
-   (2) any improved residential property consisting of not more than three class A residential units for which the valuation can be made solely based upon available comparable sales data.
-
-
-
-
-
-
-*§ 37-03 Amount of Fee.* ::
-
-
-The amount of each fee authorized under this chapter shall be as follows:
-
-(a) Appraisal Fee. HPD may charge an Appraisal Fee in the amount of two thousand five hundred dollars ($2,500) for each Simple Appraisal, and in the amount of three thousand dollars ($3,000) for each Complex Appraisal.
-
-(b) Certificate of Incorporation Fee. HPD may charge a Certificate of Incorporation fee in the amount of two hundred and fifty dollars ($250).
-
-(c) Equal Employment Compliance Fee. HPD may charge an Equal Employment Compliance Fee in the amount of seven hundred dollars ($700) for each employment report it reviews for compliance, not to exceed one thousand four hundred dollars ($1,400) per project unless such project is exempt under subdivision b of 28 RCNY § 37-04.
-
-(d) Labor and Prevailing Wage Compliance Fee. HPD may charge a Labor and Prevailing Wage Compliance Fee in the amount of thirty thousand dollars ($30,000) for each project it reviews for compliance unless such project is exempt under subdivision b of 28 RCNY § 37-04.
-
-(e) License Agreement Fee. HPD may charge a License Agreement Fee in the amount of one hundred dollars ($100).
-
-(f) Mortgage Refinance Fee. HPD may charge a Mortgage Refinance Fee in the amount of four hundred dollars ($400).
-
-
-
-
-
-
-*§ 37-04 [;Fees Due and Payable.];* ::
-
-
-(a) All fees authorized pursuant to this chapter shall be due and payable as directed by HPD. The fees set forth in this chapter shall be in addition to any other fees authorized under any other law or rules.
-
-(b) The following loan or grant programs are exempt from the Equal Employment Compliance Fee and the Labor and Prevailing Wage Compliance Fee:
-
-   (1) One- to Four-Family Programs. Loans or grants made to owners of one- to four-family buildings for rehabilitation and repairs.
-
-   (2) Super Storm Sandy Disaster Recovery Programs. Community Development Block Grant Disaster Recovery Fund loans or grants made to owners for construction, rehabilitation, repair, or improvement of buildings impacted by Super Storm Sandy.
-
-   (3) Lead Paint Primary Prevention Program. Loans or grants made to building owners to treat lead-based paint hazards.
-
-   (4) Article 7A Financial Assistance. Loans made to administrators appointed under Real Property Actions and Proceedings Law Article 7A for the repair or rehabilitation of a subject building.
-
-   (5) Neighborhood Entrepreneurs Program. Loans made to neighborhood-based private property managers to own and manage occupied and vacant City-owned buildings.
-
-   (6) Neighborhood Redevelopment Program. Loans made to community-based, not-for-profit organizations for rehabilitation and operation of rental housing.
-
-
-
-
 Chapter 38: Campaign Finance Act Implementation
 --------------------------------------------------
 
@@ -16834,6 +16731,148 @@ Editor's note: the bracketed title of this 28 RCNY § 38-02 was added by the cod
    (17) is not listed in 28 RCNY § 38-02.
 
 Editor's note: the bracketed title of this 28 RCNY § 38-03 was added by the codifier for the convenience of the code user and is not an official part of this code.
+
+
+
+
+Chapter 37: Fees For Administration of Loan Programs and Certain Other Municipality-Aided Projects
+--------------------------------------------------
+
+
+
+*§ 37-01 Fees Authorized.* ::
+
+
+HPD shall be authorized to charge and collect the fees set forth in this chapter.
+
+
+
+
+
+
+*§ 37-02 Definitions.* ::
+
+
+For purposes of this chapter:
+
+(a) Appraisal Fee. Appraisal Fee shall mean the amount charged to a grantee, borrower, or recipient for HPD's administrative costs in connection with a Simple Appraisal or a Complex Appraisal.
+
+(b) Certificate of Incorporation Fee. Certificate of Incorporation Fee shall mean the amount charged to an applicant for HPD's administrative costs in connection with the review of the formation or dissolution of a housing development fund corporation pursuant to Article XI of the Private Housing Finance Law or any amendment to the certificate of incorporation of a housing development fund corporation.
+
+(c) City-owned Property. City-owned Property shall mean real property title to which is held by the City of New York.
+
+(d) Complex Appraisal. Complex Appraisal shall mean an investigation by an appraiser to estimate the value of a property that is the basis of underwriting of a loan or grant or that will be conveyed from City to private ownership where such property consists of:
+
+   (1) six or more tax lots consisting entirely of vacant land, for which the valuation can be made solely based upon available comparable sales data; or
+
+   (2) any improved residential property consisting of four or more class A units; or
+
+   (3) any improved property consisting of a combination of commercial and residential uses; or
+
+   (4) any property consisting of a combination of vacant and improved land; or
+
+   (5) any other complex development project consisting of a combination of uses.
+
+(e) Equal Employment Compliance Fee. "Equal Employment Compliance Fee" shall mean the amount charged to both a project sponsor and to a prime contractor for HPD's administrative costs in processing and reviewing employment reports required to be submitted pursuant to Executive Order 50 of 1980.
+
+(f) HPD. HPD shall mean the Department of Housing Preservation and Development of the City of New York.
+
+(g) Labor and Prevailing Wage Compliance Fee. "Labor and Prevailing Wage Compliance Fee" shall mean the amount charged to a project sponsor for each project for HPD's administrative costs in processing and reviewing compliance with the Federal Davis Bacon Act (40 U.S.C. §§ 3141 et seq.), State Labor Law §§ 220 and 230, Real Property Tax Law § 421-a(8), and New York City Administrative Code § 6-109 labor and prevailing wage requirements.
+
+(h) License Agreement Fee. License Agreement Fee shall mean the amount charged to an applicant for HPD's administrative costs in connection with preparing each license agreement or renewal thereof for short-term use of City-owned property. Such fee shall not be deemed to be a rental or use and occupancy charge.
+
+(i) Mortgage Refinance Fee. Mortgage Refinance Fee shall mean the amount charged to a grantee, borrower, or recipient for HPD's administrative costs in connection with processing requests to subordinate, satisfy or otherwise modify HPD debt.
+
+(j) Simple Appraisal. Simple Appraisal shall mean an investigation by an appraiser to estimate the value of a property that is the basis of underwriting of a loan or grant or that will be conveyed from City to private ownership where such property consists of:
+
+   (1) five or fewer tax lots consisting entirely of vacant land, for which the valuation can be made solely based upon available comparable sales data; or
+
+   (2) any improved residential property consisting of not more than three class A residential units for which the valuation can be made solely based upon available comparable sales data.
+
+
+
+
+
+
+*§ 37-03 Amount of Fee.* ::
+
+
+The amount of each fee authorized under this chapter shall be as follows:
+
+(a) Appraisal Fee. HPD may charge an Appraisal Fee in the amount of two thousand five hundred dollars ($2,500) for each Simple Appraisal, and in the amount of three thousand dollars ($3,000) for each Complex Appraisal.
+
+(b) Certificate of Incorporation Fee. HPD may charge a Certificate of Incorporation fee in the amount of two hundred and fifty dollars ($250).
+
+(c) Equal Employment Compliance Fee. HPD may charge an Equal Employment Compliance Fee in the amount of seven hundred dollars ($700) for each employment report it reviews for compliance, not to exceed one thousand four hundred dollars ($1,400) per project unless such project is exempt under subdivision b of 28 RCNY § 37-04.
+
+(d) Labor and Prevailing Wage Compliance Fee. HPD may charge a Labor and Prevailing Wage Compliance Fee in the amount of thirty thousand dollars ($30,000) for each project it reviews for compliance unless such project is exempt under subdivision b of 28 RCNY § 37-04.
+
+(e) License Agreement Fee. HPD may charge a License Agreement Fee in the amount of one hundred dollars ($100).
+
+(f) Mortgage Refinance Fee. HPD may charge a Mortgage Refinance Fee in the amount of four hundred dollars ($400).
+
+
+
+
+
+
+*§ 37-04 [;Fees Due and Payable.];* ::
+
+
+(a) All fees authorized pursuant to this chapter shall be due and payable as directed by HPD. The fees set forth in this chapter shall be in addition to any other fees authorized under any other law or rules.
+
+(b) The following loan or grant programs are exempt from the Equal Employment Compliance Fee and the Labor and Prevailing Wage Compliance Fee:
+
+   (1) One- to Four-Family Programs. Loans or grants made to owners of one- to four-family buildings for rehabilitation and repairs.
+
+   (2) Super Storm Sandy Disaster Recovery Programs. Community Development Block Grant Disaster Recovery Fund loans or grants made to owners for construction, rehabilitation, repair, or improvement of buildings impacted by Super Storm Sandy.
+
+   (3) Lead Paint Primary Prevention Program. Loans or grants made to building owners to treat lead-based paint hazards.
+
+   (4) Article 7A Financial Assistance. Loans made to administrators appointed under Real Property Actions and Proceedings Law Article 7A for the repair or rehabilitation of a subject building.
+
+   (5) Neighborhood Entrepreneurs Program. Loans made to neighborhood-based private property managers to own and manage occupied and vacant City-owned buildings.
+
+   (6) Neighborhood Redevelopment Program. Loans made to community-based, not-for-profit organizations for rehabilitation and operation of rental housing.
+
+
+
+
+Chapter 40: [Electronic Submission of Certifications of Correction of Housing Maintenance Code Violations]
+--------------------------------------------------
+
+
+
+*§ 40-01 Definitions.* ::
+
+
+For purposes of this chapter:
+
+(a) "Authorized Certifier" shall mean a person authorized to certify correction of violations of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
+
+(b) "Electronic Certification" shall mean an electronic form and any other forms or affidavits required to certify correction of a violation of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
+
+(c) "Housing Maintenance Code" shall mean chapter two of title 27 of the Administrative Code.
+
+(d) "HPD" shall mean the Department of Housing Preservation and Development of the City of New York or its successor.
+
+
+
+
+
+
+*§ 40-02 Electronic Certification Program.* ::
+
+
+(a)  An Authorized Certifier may certify correction of violations of the Housing Maintenance Code to HPD electronically, pursuant to this chapter, after enrolling in the Electronic Certification program, provided, however, that Electronic Certification may not be used to certify correction of any violation of article 14 of subchapter two of the Housing Maintenance Code.
+
+(b) To enroll in the Electronic Certification program or to change any information connected to an existing enrollment, an Authorized Certifier shall submit an application to HPD. Such application shall be submitted both electronically and by mail, in such form as HPD shall approve. The copy submitted by mail shall include a notarized signature. Such form shall require the Authorized Certifier to provide a telephone number and e-mail address for the purpose of receiving a single-use transaction identification code from HPD. HPD shall approve only one Authorized Certifier for each dwelling registered pursuant to the Housing Maintenance Code.
+
+(c) An Authorized Certifier who has been approved for enrollment in the Electronic Certification program will receive a user ID and password for submission of Electronic Certifications. An Authorized Certifier shall protect such user ID and password to ensure against unauthorized use. Such unauthorized use or the submission of a false Electronic Certification may result in revocation of such enrollment and may subject such Authorized Certifier to applicable fines and penalties, including fines and penalties under the Housing Maintenance Code.
+
+(d) Only one certification, whether electronic or by mail, for any one or group of violations may be submitted to HPD. The submission date of an Electronic Certification shall be the date that such certification is electronically time stamped by HPD. The submission date of a mailed certification shall be the postmark date. Where more than one certification is submitted, the certification that has the earliest date shall be the only certification accepted by HPD.
+
+(e) An Authorized Certifier shall be required to inform HPD if there have been any changes that would require a new enrollment in the Electronic Certification program, such as a change in any person or entity that is an Authorized Certifier for such building, or any other changes in information provided in connection with an existing enrollment, such as a change in the Authorized Certifier's telephone number or e-mail address. The existing enrollment shall continue and remain active as long as the building remains validly registered and no changes to the Authorized Certifier enrollment information have been submitted to HPD. Where the Authorized Certifier notifies HPD that there are any such changes, either a new application shall be filed pursuant to subdivision b of this section or the Authorized Certifier shall provide any changed information in accordance with the instructions of HPD. Failure to register a dwelling pursuant to the Housing Maintenance Code, or to notify HPD regarding a change in ownership or management of such dwelling, shall result in revocation of such enrollment.
 
 
 
@@ -16999,41 +17038,185 @@ HPD shall deliver all Initial Notices, Pre-Hearing Notices, Hearing Notices, and
 
 
 
-Chapter 40: [Electronic Submission of Certifications of Correction of Housing Maintenance Code Violations]
+Chapter 42: Greenthumb Gardens
 --------------------------------------------------
 
 
 
-*§ 40-01 Definitions.* ::
+*§ 42-01 Definitions.* ::
 
 
-For purposes of this chapter:
+As used in this chapter, the following terms will have the meanings set forth below:
 
-(a) "Authorized Certifier" shall mean a person authorized to certify correction of violations of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
+"Accelerated Default." A Default based in whole or in part upon any conduct, activity, or condition occurring in or immediately adjacent to the Lot and caused by the Gardening Group or circumstances under its control that (i) is contrary to law, (ii) constitutes a public nuisance, or (iii) affects, or poses a threat to, the health or safety of the community in which the Lot and Garden are located.
 
-(b) "Electronic Certification" shall mean an electronic form and any other forms or affidavits required to certify correction of a violation of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
+"Alternate Garden Contact Person." An individual registered with GreenThumb as the secondary representative of a Gardening Group.
 
-(c) "Housing Maintenance Code" shall mean chapter two of title 27 of the Administrative Code.
+"Alternate Site List." Either (i) a list of available City-owned vacant land within one-half mile of the Lot upon which an existing Garden is located, including the address, block and lot, and approximate size of each parcel of land contained therein, (ii) where there is no such available City-owned vacant land within one half mile of such Lot, a list of available City-owned vacant land within the community district in which such Lot is located, including the address, block and lot, and approximate size of each parcel of land contained therein; or (iii) a statement that there is no available City-owned vacant land within either one-half mile of such Lot or within the community district in which such Lot is located.
 
-(d) "HPD" shall mean the Department of Housing Preservation and Development of the City of New York or its successor.
+"Alternate Site Notice." A notice that transmits an Alternate Site List to a Garden Contact Person and Alternate Garden Contact Person and, if such Alternate Site List contains available City-owned vacant land, states that (i) the Garden Contact Person may select any site from such Alternate Site List and inform HPD and GreenThumb of such selection in writing within 45 days after the date of such notice, (ii) failure to inform HPD and GreenThumb of the selection of a site from the Alternate Site List within 45 days after the date of such notice will be deemed to be a rejection of the offer, (iii) rejection of the offer may result in a Transfer without relocation of the Garden, and (iv) if the Garden Contact Person accepts a site from the Alternate Site List, GreenThumb will offer an opportunity to register and license such new site. The Alternate Site List may be incorporated into the text of, and will in any event be deemed to be incorporated by reference in, the Alternate Site Notice.
+
+"City." The City of New York.
+
+"Default." A Gardening Group's failure or refusal to (i) comply with GreenThumb Registration requirements, (ii) complete the Registration process, (iii) comply with the terms of its Registration, (iv) comply with GreenThumb License requirements, (v) enter into a License, or (vi) comply with its License.
+
+"Default Notice." A notice from DPR directing a Gardening Group to cure an Accelerated Default within 30 days after the date of such notice or a notice to cure a Default within 6 months after the date of such notice. Copies of such notices shall be sent to the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located.
+
+"DPR." The City's Department of Parks and Recreation.
+
+"Garden." A community garden that is registered and licensed with GreenThumb and located on a Lot.
+
+"Garden Contact Person." An individual registered with GreenThumb as the primary representative of a Gardening Group.
+
+"Garden Review Process." The process set forth in 28 RCNY § 42-05 to be followed in connection with the Transfer of any Lot.
+
+"Garden Review Statement." A written statement, prepared by HPD in accordance with 28 RCNY § 42-05(b)(4), describing a Lot, the existing Garden on such Lot, and the proposed Transfer of such Lot.
+
+"Gardening Group." An organized group of individuals who maintain a Garden and are collectively represented by the Garden Contact Person. The Garden Contact Person shall by April 15 of each calendar year provide a list to GreenThumb of the names and contact information for all members of the Gardening Group.
+
+"GreenThumb." A division within DPR responsible for New York City's urban gardening program.
+
+"HPD." The City's Department of Housing Preservation and Development.
+
+"License." An agreement between HPD and a Licensee providing a license to operate a Garden on a Lot for a set term subject to requirements set forth therein, unless earlier terminated.
+
+"Licensee." A Gardening Group, acting through its Garden Contact Person, pursuant to a License.
+
+"Lot." A parcel of City-owned land under the jurisdiction of HPD that contains a Garden at any time on or after September 17, 2010.
+
+"Other Agency." A governmental agency or entity other than HPD.
+
+"Retention Agreement." A written agreement between the City, acting by and through HPD or an Other Agency, and a Gardening Group, acting by and through its Garden Contact Person, providing for (i) the retention of part or all of a Garden as a community garden and/or open space as part of a project to be developed, or (ii) the relocation of the Garden to an alternate site. Gardens that are retained or relocated pursuant to a Retention Agreement remain subject to the GreenThumb Registration and License requirements and this chapter.
+
+"Registration." Written acknowledgment by GreenThumb that a Gardening Group has complied with the criteria set forth by DPR to demonstrate eligibility for a License pursuant to 56 RCNY § 6-03.
+
+"Transfer." The conveyance of a Lot for the purpose of devoting such Lot to a use other than as a garden or open space.
+
+"Uncured Default." A Default that remains uncured six months after the date of a Default Notice or an Accelerated Default that remains uncured 30 days after the date of a Default Notice.
 
 
 
 
 
 
-*§ 40-02 Electronic Certification Program.* ::
+*§ 42-02 Application.* ::
 
 
-(a)  An Authorized Certifier may certify correction of violations of the Housing Maintenance Code to HPD electronically, pursuant to this chapter, after enrolling in the Electronic Certification program, provided, however, that Electronic Certification may not be used to certify correction of any violation of article 14 of subchapter two of the Housing Maintenance Code.
+This chapter establishes certain procedures with respect to the operation of Gardens registered and licensed on September 17, 2010, or first registered and licensed within the exercise of DPR's and HPD's discretion after September 17, 2010. This chapter also establishes certain procedures with respect to the Transfer of the Lots upon which such Gardens are located.
 
-(b) To enroll in the Electronic Certification program or to change any information connected to an existing enrollment, an Authorized Certifier shall submit an application to HPD. Such application shall be submitted both electronically and by mail, in such form as HPD shall approve. The copy submitted by mail shall include a notarized signature. Such form shall require the Authorized Certifier to provide a telephone number and e-mail address for the purpose of receiving a single-use transaction identification code from HPD. HPD shall approve only one Authorized Certifier for each dwelling registered pursuant to the Housing Maintenance Code.
 
-(c) An Authorized Certifier who has been approved for enrollment in the Electronic Certification program will receive a user ID and password for submission of Electronic Certifications. An Authorized Certifier shall protect such user ID and password to ensure against unauthorized use. Such unauthorized use or the submission of a false Electronic Certification may result in revocation of such enrollment and may subject such Authorized Certifier to applicable fines and penalties, including fines and penalties under the Housing Maintenance Code.
 
-(d) Only one certification, whether electronic or by mail, for any one or group of violations may be submitted to HPD. The submission date of an Electronic Certification shall be the date that such certification is electronically time stamped by HPD. The submission date of a mailed certification shall be the postmark date. Where more than one certification is submitted, the certification that has the earliest date shall be the only certification accepted by HPD.
 
-(e) An Authorized Certifier shall be required to inform HPD if there have been any changes that would require a new enrollment in the Electronic Certification program, such as a change in any person or entity that is an Authorized Certifier for such building, or any other changes in information provided in connection with an existing enrollment, such as a change in the Authorized Certifier's telephone number or e-mail address. The existing enrollment shall continue and remain active as long as the building remains validly registered and no changes to the Authorized Certifier enrollment information have been submitted to HPD. Where the Authorized Certifier notifies HPD that there are any such changes, either a new application shall be filed pursuant to subdivision b of this section or the Authorized Certifier shall provide any changed information in accordance with the instructions of HPD. Failure to register a dwelling pursuant to the Housing Maintenance Code, or to notify HPD regarding a change in ownership or management of such dwelling, shall result in revocation of such enrollment.
+
+
+*§ 42-03 Licenses.* ::
+
+
+(a) HPD will issue a License if the proposed Licensee and Garden meet the Registration criteria established by GreenThumb. HPD may renew such License if the Licensee complies with the terms and conditions set forth therein and continues to meet the Registration criteria established by GreenThumb. If the Licensee has not complied with the terms of or fails to renew the License, or fails to meet the Registration criteria established by GreenThumb, abandons the Garden, or if an Uncured Default has occurred, HPD may offer a License for the Garden to a new Gardening Group.
+
+(b) Licenses will set forth terms and conditions under which the Licensee will design and install a plant garden on a Lot and will thereafter maintain such Garden and all plants and conforming structures contained therein (including, but not limited to, all raised plant beds, planters, tables, benches, and other ornamental items) in a safe and orderly condition. HPD, in consultation with GreenThumb, may permit other uses of the Lot that are compatible with gardening and are authorized pursuant to the License.
+
+(c) Any license agreement from the City to any party performing work on the Lot or development work on an adjacent property that affects the Lot shall require the licensee to return the Garden to a condition similar to that which existed prior to commencement of said work.
+
+(d) The License will provide that (i) the Licensee accepts the Lot "as is," in whatever condition it may be on the date the License is fully executed, (ii) the City makes no representation or warranty of fitness of the Lot for gardening purposes, (iii) the Licensee must meet GreenThumb's Registration and License requirements; (iv) the Licensee must comply with all applicable federal, state, and local laws, rules, regulations, codes, and ordinances, and (v) the Licensee must comply with such other requirements as GreenThumb or HPD may establish.
+
+(e) The City will retain title to the Lot and the Licensee will not have any leasehold or other interest in the land comprising such Lot, any improvement thereon, or any equipment provided by GreenThumb.
+
+
+
+
+
+
+*§ 42-04 Lots Used as Gardens or as Open Space; Gardens not Deemed Mapped Parkland.* ::
+
+
+Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
+
+
+
+
+
+
+*§ 42-05 Garden Review Process.* ::
+
+
+(a) HPD will comply with the Garden Review Process before any Transfer.
+
+(b) Under the Garden Review Process:
+
+   (1) HPD will notify the Garden Contact Person and the Alternate Garden Contact Person of the proposed Transfer. Such notice may, but will not be required to, be included within the Alternate Site Notice.
+
+   (2) HPD will provide an Alternate Site Notice to the Garden Contact Person and Alternate Garden Contact Person.
+
+      a. The Garden Contact Person may select one site from the Alternate Site List for relocation of the Garden and inform HPD and GreenThumb of such selection in writing within 45 calendar days after the date of the Alternate Site Notice.
+
+      b. The offer contained in the Alternate Site Notice will be deemed rejected, and the Garden Contact Person will have no further right to select a site from the Alternate Site List for relocation of the Garden if (i) HPD and GreenThumb do not receive, within 45 calendar days after the date of the Alternate Site Notice, written notice from the Garden Contact Person that the Gardening Group has selected a site from the Alternate Site List for relocation of the Garden, or (ii) HPD or GreenThumb receives written notice from the Garden Contact Person at any time that the Gardening Group will not select a site from the Alternate Site List for relocation of the Garden.
+
+      c. If the Alternate Site List states that there is no available City-owned vacant land within one-half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 28 RCNY § 42-05(b)(2)(a) and (b)(2)(b) will not apply.
+
+   (3) Any site on the Alternate Site List will be offered "as is," and a Gardening Group will be responsible for performing all necessary work on such lot. DPR will, upon request and contingent upon staff availability and resources, assist the Gardening Group with its relocation and gardening efforts at the alternate site. The City will offer the Gardening Group an opportunity to register with GreenThumb for the alternate site, and once registered, obtain a License.
+
+   (4) Before any Transfer, HPD will prepare a Garden Review Statement that includes the following, to the extent that such information exists and/or is contained in HPD's files:
+
+      a. a description of each affected Lot (including the address, block, and lot of such Lot) and the existing Garden located thereon;
+
+      b. the name, address, and telephone number of the Garden Contact Person and Alternate Garden Contact Person;
+
+      c. the date that GreenThumb licensed each affected Lot for the first time;
+
+      d. copies of the most recent Registration form submitted to GreenThumb by the Garden Contact Person; the two most recent site visit forms prepared by GreenThumb; and at least two photographs of the existing Garden;
+
+      e. the Alternate Site List and a statement of whether the Garden Contact Person has accepted or rejected any sites on such Alternate Site List; and
+
+      f. a description of any proposed Transfer of each affected Lot.
+
+      g. A description provided by the Gardening Group of any programs, activities and events in, and existing features of, the Garden. The above description, which shall be no more than four legal size pages in length, will be included in the Garden Review Statement if submitted to HPD before submission of any application for approval as set forth in 28 RCNY § 42-05(b)(6).
+
+   (5) HPD will send a Garden Review Statement to the Garden Contact Person, the Alternate Garden Contact Person, the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located by written notice not less than 45 calendar days before any Transfer. The sending of such notice will constitute notice of the proposed Transfer.
+
+   (6) HPD will include a Garden Review Statement in any application for approval of a Transfer pursuant to section 197-c of the City Charter, in any application to the City Council or the Mayor for approval of a Transfer pursuant to Article 15 of the General Municipal Law, Article 16 of the General Municipal Law, or Article XI of the Private Housing Finance Law, and in any application to a Borough Board for approval of a Transfer pursuant to section 384(b)(4) of the City Charter.
+
+(c) If the Transfer of a Lot is disapproved through an applicable public review process, a Garden may remain on such Lot, subject to Registration, execution of a License, and compliance with all GreenThumb program requirements, until approval of a future Transfer of such Lot. Any new approval of such future Transfer will be subject to the Garden Review Process.
+
+(d) In order to facilitate the Transfer of a Lot, HPD may, by notice to the Garden Contact Person and Alternate Garden Contact Person at any time after the Transfer of such Lot is approved through the applicable public review process, terminate or decline to renew the License and direct the Gardening Group to vacate the Lot.
+
+
+
+
+
+
+*§ 42-06 Exemptions.* ::
+
+
+(a) The following Lots will not be subject to any of the requirements set forth in this chapter:
+
+   (1) Bronx: Block 2418; Lot 6; Block 2786; Lots 12, 13; Block 2867; Lot 128; Block 2979; Lot 1; Block 3540; Lots 1, 29, 40.
+
+   (2) Brooklyn: Block 1028; Lot 7; Block 1432; Lot 48; Block 1447; Lots 68 - 70; Block 1450; Lot 14; Block 1450; Lots 8, 11; Block 1476; Lot 34; Block 1484; Lots 6, 8; Block 1484; Lots 35, 41, 43; Block 1486; Lots 15, 16; Block 1663; Lot 82; Block 1664; Lot 40; Block 1755; Lots 54 - 57; Block 1792; Lots 22 - 25, 61; Block 3514; Lot 6; Block 3600; Lots 29, 31, 32, 34, 134; Block 3603; Lot 25; Block 3613; Lots 31 - 33; Block 3791; Lots 26, 28; Block 3841; Lot 32; Block 4000; Lot 3; Block 4009; Lot 47; Block 4015; Lots 22, 23; Block 4067; Lots 13, 14; Block 7050; Lot 74;
+
+   (3) Queens: Block 16088; Lot 15.
+
+   (4) Manhattan: Block 372; Lot 11; Block 372; Lot 49; Block 1645; Lots 3, 71; Block 1790; Lot 41; Block 1918; Lot 51.
+
+(b) Upon execution of a Retention Agreement that provides for the relocation of a Garden to an alternate site, (i) the Lot from which such Garden is to be relocated will no longer be subject to any of the requirements set forth in this chapter, and (ii) the Lot to which such Garden is to be relocated will be subject to the requirements set forth in this chapter.
+
+(c) After the execution of a Retention Agreement that provides for the retention of part or all of a Garden as a community garden as part of a project to be developed, the Transfer that is the subject of such Retention Agreement will no longer be subject to any of the requirements set forth in 28 RCNY § 42-05 of this chapter.
+
+(d) Except as set forth in 28 RCNY § 42-03(a), after the occurrence of an Uncured Default, the Lot that is the subject of such Uncured Default will no longer be subject to any of the requirements set forth in this chapter.
+
+
+
+
+
+
+*§ 42-07 Miscellaneous.* ::
+
+
+(a) Any determination by HPD pursuant to this chapter will be made in HPD's sole discretion.
+
+(b) Any notices required pursuant to this chapter will be in writing and will be delivered by regular mail, certified mail, registered mail, or personal delivery, and will also be posted at or near the Garden entrance. Any such notice will be deemed delivered when deposited in an official United States Postal Service receptacle. HPD will make reasonable efforts to provide translations for notices required pursuant to this chapter into the predominant language of the Gardening Group as identified by the Gardener of Record to GreenThumb.
+
+(c) Any Garden must comply with all applicable federal, state, and local laws, rules, regulations, codes and ordinances and is subject to the GreenThumb Registration and License requirements and this chapter.
 
 
 
@@ -17643,189 +17826,6 @@ Wherever the Zoning Resolution states that HPD's approval is required, such appr
 For New Construction Affordable Housing, Assisted Affordable Units shall not generate any Floor Area Compensation for any Compensated Development other than (a) a Compensated Development on the zoning lot on which such Assisted Affordable Units are located, or (b) a Compensated Development on a development site on which such Assisted Affordable Units are located where such development site includes two or more zoning lots that were reviewed and approved as a single unit pursuant to the Zoning Resolution.
 
 
-
-
-
-
-Chapter 42: Greenthumb Gardens
---------------------------------------------------
-
-
-
-*§ 42-01 Definitions.* ::
-
-
-As used in this chapter, the following terms will have the meanings set forth below:
-
-"Accelerated Default." A Default based in whole or in part upon any conduct, activity, or condition occurring in or immediately adjacent to the Lot and caused by the Gardening Group or circumstances under its control that (i) is contrary to law, (ii) constitutes a public nuisance, or (iii) affects, or poses a threat to, the health or safety of the community in which the Lot and Garden are located.
-
-"Alternate Garden Contact Person." An individual registered with GreenThumb as the secondary representative of a Gardening Group.
-
-"Alternate Site List." Either (i) a list of available City-owned vacant land within one-half mile of the Lot upon which an existing Garden is located, including the address, block and lot, and approximate size of each parcel of land contained therein, (ii) where there is no such available City-owned vacant land within one half mile of such Lot, a list of available City-owned vacant land within the community district in which such Lot is located, including the address, block and lot, and approximate size of each parcel of land contained therein; or (iii) a statement that there is no available City-owned vacant land within either one-half mile of such Lot or within the community district in which such Lot is located.
-
-"Alternate Site Notice." A notice that transmits an Alternate Site List to a Garden Contact Person and Alternate Garden Contact Person and, if such Alternate Site List contains available City-owned vacant land, states that (i) the Garden Contact Person may select any site from such Alternate Site List and inform HPD and GreenThumb of such selection in writing within 45 days after the date of such notice, (ii) failure to inform HPD and GreenThumb of the selection of a site from the Alternate Site List within 45 days after the date of such notice will be deemed to be a rejection of the offer, (iii) rejection of the offer may result in a Transfer without relocation of the Garden, and (iv) if the Garden Contact Person accepts a site from the Alternate Site List, GreenThumb will offer an opportunity to register and license such new site. The Alternate Site List may be incorporated into the text of, and will in any event be deemed to be incorporated by reference in, the Alternate Site Notice.
-
-"City." The City of New York.
-
-"Default." A Gardening Group's failure or refusal to (i) comply with GreenThumb Registration requirements, (ii) complete the Registration process, (iii) comply with the terms of its Registration, (iv) comply with GreenThumb License requirements, (v) enter into a License, or (vi) comply with its License.
-
-"Default Notice." A notice from DPR directing a Gardening Group to cure an Accelerated Default within 30 days after the date of such notice or a notice to cure a Default within 6 months after the date of such notice. Copies of such notices shall be sent to the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located.
-
-"DPR." The City's Department of Parks and Recreation.
-
-"Garden." A community garden that is registered and licensed with GreenThumb and located on a Lot.
-
-"Garden Contact Person." An individual registered with GreenThumb as the primary representative of a Gardening Group.
-
-"Garden Review Process." The process set forth in 28 RCNY § 42-05 to be followed in connection with the Transfer of any Lot.
-
-"Garden Review Statement." A written statement, prepared by HPD in accordance with 28 RCNY § 42-05(b)(4), describing a Lot, the existing Garden on such Lot, and the proposed Transfer of such Lot.
-
-"Gardening Group." An organized group of individuals who maintain a Garden and are collectively represented by the Garden Contact Person. The Garden Contact Person shall by April 15 of each calendar year provide a list to GreenThumb of the names and contact information for all members of the Gardening Group.
-
-"GreenThumb." A division within DPR responsible for New York City's urban gardening program.
-
-"HPD." The City's Department of Housing Preservation and Development.
-
-"License." An agreement between HPD and a Licensee providing a license to operate a Garden on a Lot for a set term subject to requirements set forth therein, unless earlier terminated.
-
-"Licensee." A Gardening Group, acting through its Garden Contact Person, pursuant to a License.
-
-"Lot." A parcel of City-owned land under the jurisdiction of HPD that contains a Garden at any time on or after September 17, 2010.
-
-"Other Agency." A governmental agency or entity other than HPD.
-
-"Retention Agreement." A written agreement between the City, acting by and through HPD or an Other Agency, and a Gardening Group, acting by and through its Garden Contact Person, providing for (i) the retention of part or all of a Garden as a community garden and/or open space as part of a project to be developed, or (ii) the relocation of the Garden to an alternate site. Gardens that are retained or relocated pursuant to a Retention Agreement remain subject to the GreenThumb Registration and License requirements and this chapter.
-
-"Registration." Written acknowledgment by GreenThumb that a Gardening Group has complied with the criteria set forth by DPR to demonstrate eligibility for a License pursuant to 56 RCNY § 6-03.
-
-"Transfer." The conveyance of a Lot for the purpose of devoting such Lot to a use other than as a garden or open space.
-
-"Uncured Default." A Default that remains uncured six months after the date of a Default Notice or an Accelerated Default that remains uncured 30 days after the date of a Default Notice.
-
-
-
-
-
-
-*§ 42-02 Application.* ::
-
-
-This chapter establishes certain procedures with respect to the operation of Gardens registered and licensed on September 17, 2010, or first registered and licensed within the exercise of DPR's and HPD's discretion after September 17, 2010. This chapter also establishes certain procedures with respect to the Transfer of the Lots upon which such Gardens are located.
-
-
-
-
-
-
-*§ 42-03 Licenses.* ::
-
-
-(a) HPD will issue a License if the proposed Licensee and Garden meet the Registration criteria established by GreenThumb. HPD may renew such License if the Licensee complies with the terms and conditions set forth therein and continues to meet the Registration criteria established by GreenThumb. If the Licensee has not complied with the terms of or fails to renew the License, or fails to meet the Registration criteria established by GreenThumb, abandons the Garden, or if an Uncured Default has occurred, HPD may offer a License for the Garden to a new Gardening Group.
-
-(b) Licenses will set forth terms and conditions under which the Licensee will design and install a plant garden on a Lot and will thereafter maintain such Garden and all plants and conforming structures contained therein (including, but not limited to, all raised plant beds, planters, tables, benches, and other ornamental items) in a safe and orderly condition. HPD, in consultation with GreenThumb, may permit other uses of the Lot that are compatible with gardening and are authorized pursuant to the License.
-
-(c) Any license agreement from the City to any party performing work on the Lot or development work on an adjacent property that affects the Lot shall require the licensee to return the Garden to a condition similar to that which existed prior to commencement of said work.
-
-(d) The License will provide that (i) the Licensee accepts the Lot "as is," in whatever condition it may be on the date the License is fully executed, (ii) the City makes no representation or warranty of fitness of the Lot for gardening purposes, (iii) the Licensee must meet GreenThumb's Registration and License requirements; (iv) the Licensee must comply with all applicable federal, state, and local laws, rules, regulations, codes, and ordinances, and (v) the Licensee must comply with such other requirements as GreenThumb or HPD may establish.
-
-(e) The City will retain title to the Lot and the Licensee will not have any leasehold or other interest in the land comprising such Lot, any improvement thereon, or any equipment provided by GreenThumb.
-
-
-
-
-
-
-*§ 42-04 Lots Used as Gardens or as Open Space; Gardens not Deemed Mapped Parkland.* ::
-
-
-Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
-
-
-
-
-
-
-*§ 42-05 Garden Review Process.* ::
-
-
-(a) HPD will comply with the Garden Review Process before any Transfer.
-
-(b) Under the Garden Review Process:
-
-   (1) HPD will notify the Garden Contact Person and the Alternate Garden Contact Person of the proposed Transfer. Such notice may, but will not be required to, be included within the Alternate Site Notice.
-
-   (2) HPD will provide an Alternate Site Notice to the Garden Contact Person and Alternate Garden Contact Person.
-
-      a. The Garden Contact Person may select one site from the Alternate Site List for relocation of the Garden and inform HPD and GreenThumb of such selection in writing within 45 calendar days after the date of the Alternate Site Notice.
-
-      b. The offer contained in the Alternate Site Notice will be deemed rejected, and the Garden Contact Person will have no further right to select a site from the Alternate Site List for relocation of the Garden if (i) HPD and GreenThumb do not receive, within 45 calendar days after the date of the Alternate Site Notice, written notice from the Garden Contact Person that the Gardening Group has selected a site from the Alternate Site List for relocation of the Garden, or (ii) HPD or GreenThumb receives written notice from the Garden Contact Person at any time that the Gardening Group will not select a site from the Alternate Site List for relocation of the Garden.
-
-      c. If the Alternate Site List states that there is no available City-owned vacant land within one-half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 28 RCNY § 42-05(b)(2)(a) and (b)(2)(b) will not apply.
-
-   (3) Any site on the Alternate Site List will be offered "as is," and a Gardening Group will be responsible for performing all necessary work on such lot. DPR will, upon request and contingent upon staff availability and resources, assist the Gardening Group with its relocation and gardening efforts at the alternate site. The City will offer the Gardening Group an opportunity to register with GreenThumb for the alternate site, and once registered, obtain a License.
-
-   (4) Before any Transfer, HPD will prepare a Garden Review Statement that includes the following, to the extent that such information exists and/or is contained in HPD's files:
-
-      a. a description of each affected Lot (including the address, block, and lot of such Lot) and the existing Garden located thereon;
-
-      b. the name, address, and telephone number of the Garden Contact Person and Alternate Garden Contact Person;
-
-      c. the date that GreenThumb licensed each affected Lot for the first time;
-
-      d. copies of the most recent Registration form submitted to GreenThumb by the Garden Contact Person; the two most recent site visit forms prepared by GreenThumb; and at least two photographs of the existing Garden;
-
-      e. the Alternate Site List and a statement of whether the Garden Contact Person has accepted or rejected any sites on such Alternate Site List; and
-
-      f. a description of any proposed Transfer of each affected Lot.
-
-      g. A description provided by the Gardening Group of any programs, activities and events in, and existing features of, the Garden. The above description, which shall be no more than four legal size pages in length, will be included in the Garden Review Statement if submitted to HPD before submission of any application for approval as set forth in 28 RCNY § 42-05(b)(6).
-
-   (5) HPD will send a Garden Review Statement to the Garden Contact Person, the Alternate Garden Contact Person, the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located by written notice not less than 45 calendar days before any Transfer. The sending of such notice will constitute notice of the proposed Transfer.
-
-   (6) HPD will include a Garden Review Statement in any application for approval of a Transfer pursuant to section 197-c of the City Charter, in any application to the City Council or the Mayor for approval of a Transfer pursuant to Article 15 of the General Municipal Law, Article 16 of the General Municipal Law, or Article XI of the Private Housing Finance Law, and in any application to a Borough Board for approval of a Transfer pursuant to section 384(b)(4) of the City Charter.
-
-(c) If the Transfer of a Lot is disapproved through an applicable public review process, a Garden may remain on such Lot, subject to Registration, execution of a License, and compliance with all GreenThumb program requirements, until approval of a future Transfer of such Lot. Any new approval of such future Transfer will be subject to the Garden Review Process.
-
-(d) In order to facilitate the Transfer of a Lot, HPD may, by notice to the Garden Contact Person and Alternate Garden Contact Person at any time after the Transfer of such Lot is approved through the applicable public review process, terminate or decline to renew the License and direct the Gardening Group to vacate the Lot.
-
-
-
-
-
-
-*§ 42-06 Exemptions.* ::
-
-
-(a) The following Lots will not be subject to any of the requirements set forth in this chapter:
-
-   (1) Bronx: Block 2418; Lot 6; Block 2786; Lots 12, 13; Block 2867; Lot 128; Block 2979; Lot 1; Block 3540; Lots 1, 29, 40.
-
-   (2) Brooklyn: Block 1028; Lot 7; Block 1432; Lot 48; Block 1447; Lots 68 - 70; Block 1450; Lot 14; Block 1450; Lots 8, 11; Block 1476; Lot 34; Block 1484; Lots 6, 8; Block 1484; Lots 35, 41, 43; Block 1486; Lots 15, 16; Block 1663; Lot 82; Block 1664; Lot 40; Block 1755; Lots 54 - 57; Block 1792; Lots 22 - 25, 61; Block 3514; Lot 6; Block 3600; Lots 29, 31, 32, 34, 134; Block 3603; Lot 25; Block 3613; Lots 31 - 33; Block 3791; Lots 26, 28; Block 3841; Lot 32; Block 4000; Lot 3; Block 4009; Lot 47; Block 4015; Lots 22, 23; Block 4067; Lots 13, 14; Block 7050; Lot 74;
-
-   (3) Queens: Block 16088; Lot 15.
-
-   (4) Manhattan: Block 372; Lot 11; Block 372; Lot 49; Block 1645; Lots 3, 71; Block 1790; Lot 41; Block 1918; Lot 51.
-
-(b) Upon execution of a Retention Agreement that provides for the relocation of a Garden to an alternate site, (i) the Lot from which such Garden is to be relocated will no longer be subject to any of the requirements set forth in this chapter, and (ii) the Lot to which such Garden is to be relocated will be subject to the requirements set forth in this chapter.
-
-(c) After the execution of a Retention Agreement that provides for the retention of part or all of a Garden as a community garden as part of a project to be developed, the Transfer that is the subject of such Retention Agreement will no longer be subject to any of the requirements set forth in 28 RCNY § 42-05 of this chapter.
-
-(d) Except as set forth in 28 RCNY § 42-03(a), after the occurrence of an Uncured Default, the Lot that is the subject of such Uncured Default will no longer be subject to any of the requirements set forth in this chapter.
-
-
-
-
-
-
-*§ 42-07 Miscellaneous.* ::
-
-
-(a) Any determination by HPD pursuant to this chapter will be made in HPD's sole discretion.
-
-(b) Any notices required pursuant to this chapter will be in writing and will be delivered by regular mail, certified mail, registered mail, or personal delivery, and will also be posted at or near the Garden entrance. Any such notice will be deemed delivered when deposited in an official United States Postal Service receptacle. HPD will make reasonable efforts to provide translations for notices required pursuant to this chapter into the predominant language of the Gardening Group as identified by the Gardener of Record to GreenThumb.
-
-(c) Any Garden must comply with all applicable federal, state, and local laws, rules, regulations, codes and ordinances and is subject to the GreenThumb Registration and License requirements and this chapter.
 
 
 
@@ -18514,121 +18514,6 @@ e. A contractor or subcontractor who submits an inaccurate Contractor Certified 
 
 
 
-Chapter 52: Speculation Watch List
---------------------------------------------------
-
-
-
-*§ 52-01 Definitions.* ::
-
-
-As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
-
-421-a Construction Period Benefits. “421-a Construction Period Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, for the tax year or years immediately following taxable status dates occurring subsequent to the commencement and prior to the completion of construction, but not to exceed three such tax years, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
-
-421-a Final Benefits. “421-a Final Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, in tax years immediately following the taxable status date first occurring after the expiration of 421-a Construction Period Benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
-
-421-a New Building Tax Lot. “421-a New Building Tax Lot” means a tax lot (i) for which DOF records indicate that 421-a Construction Period Benefits were received no earlier than eight fiscal years before the final day of the most recently concluded Fiscal Quarter, or (ii) for which DOF records indicate that 421-a Final Benefits were received no earlier than five fiscal years before the final day of the most recently concluded Fiscal Quarter, or (iii) that has received any real property tax exemption benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law for a new multiple dwelling thereon that received its first temporary or permanent certificate of occupancy no earlier than five years before the final day of the most recently concluded Fiscal Quarter.
-
-Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
-
-Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
-
-Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD, at the time each Speculation Watch List update is completed.
-
-DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
-
-Dwelling Unit. “Dwelling Unit” means a dwelling unit as defined in § 27-2004 of the Housing Maintenance Code.
-
-Fiscal Quarter. “Fiscal Quarter” means any one of the following periods: (i) the period beginning on the first day of July and ending on the last day of September; or (ii) the period beginning on the first day of October and ending on the last day of December; or (iii) the period beginning on the first day of January and ending on the last day of March; or (iv) the period beginning on the first day of April and ending on the last day of June.
-
-Fiscal Year. “Fiscal Year” means the fiscal year of the City of New York, which commences July 1 and ends June 30.
-
-HDC. “HDC” means the New York City Housing Development Corporation.
-
-HDFC. “HDFC” means a housing development fund company organized pursuant to Article 11 of the Private Housing Finance Law.
-
-HPD. “HPD” means the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
-
-Internal Revenue Code. “Internal Revenue Code” means the United States Internal Revenue Code of 1986, as amended.
-
-List. “List” means the speculation watch list that is published during each Fiscal Quarter and includes all Multiple Dwellings that (i) were the subject of Qualified Transactions and (ii) HPD has determined to be at risk of tenant harassment in accordance with the criteria established in 28 RCNY § 52-02.
-
-Listed Building. “Listed Building” means a Multiple Dwelling included on a List.
-
-Local Supervision. “Supervision” means monitoring of the performance and regulatory compliance of Affordable Housing by HPD’s Division of Asset Management, HPD’s Division of Housing Supervision, or HDC Asset Management, or their successors.
-
-Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined in section 4 of the Multiple Dwelling Law:
-
-   (i) in which a majority of Dwelling Units are Rent Regulated;
-
-   (ii) that appears on the most recent DOF final assessment roll;
-
-   (iii) for which, during the Fiscal Year of the most recent DOF final assessment roll, DOF has recorded a notice of property value that lists numerical values greater than zero for both estimated gross income and estimated expenses;
-
-   (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
-
-   (v) that either (A) is exclusively residential with eleven or more Dwelling Units or (B) contains seven or more Dwelling Units and one or more commercial units;
-
-   (vi) that is not providing Affordable Housing subject to Local Supervision;
-
-   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law;
-
-   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality; and
-
-   (ix) that is not located on a 421-a New Building Tax Lot.
-
-Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
-
-   (i) occurred during the most recently concluded Fiscal Quarter;
-
-   (ii) has a sale price greater than $10,000;
-
-   (iii) is entirely contained within a single tax lot;
-
-   (iv) did not involve any federal, state, or local agency or instrumentality as either the purchaser or the seller; and
-
-   (v) did not involve an HDFC as the purchaser.
-
-Rent Regulated. “Rent Regulated” means subject to rent regulation under the Rent Stabilization Law of 1969, the Rent Stabilization Code, the Private Housing Finance Law, or the Emergency Tenant Protection Act of 1974, all as amended, together with any successor statutes or regulations addressing substantially the same subject matter.
-
-Zoning Resolution. “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended.
-
-
-
-
-
-
-
-
-*§ 52-02 Criteria for inclusion.* ::
-
-
-A Multiple Dwelling that is the subject of a Qualified Transaction and that has a Capitalization Rate less than the applicable Borough Capitalization Rate shall be added to the List. HPD will post a public e-mail address on its website through which HPD may be alerted as to any Multiple Dwelling that was either included on the List that allegedly did not meet the criteria for inclusion at the time of its inclusion or omitted from the List that allegedly did meet the criteria for inclusion.
-
-
-
-
-
-
-
-
-*§ 52-03 Criteria for removal.* ::
-
-
-A Listed Building shall be removed from the List if, subsequent to the Qualified Transaction:
-
-(a) it begins providing Affordable Housing subject to Local Supervision;
-
-(b) it receives a full or partial exemption from real property taxation pursuant to Article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; or
-
-(c) it receives benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any Federal, State, or local governmental agency or instrumentality.
-
-
-
-
-
-
 Chapter 51: Affordable New York Housing Program Rules and Eligibility Requirements Pursuant to Real Property Tax Law § 421-a(16)
 --------------------------------------------------
 
@@ -18822,6 +18707,121 @@ a. Whether a Rental Project or Homeownership Project has received benefits pursu
 b. Except with respect to dwelling units that will be rented through referrals from the City for homeless households who meet the applicable income requirements and other eligibility criteria permitted by the Agency's marketing guidelines, any Rental Project or Homeownership Project that previously applied to receive benefits pursuant to section hour hundred twenty-one-a of the real property tax law and thereafter elects to receive benefits pursuant to paragraph (r) of the Act, shall not be allowed to change the affordability designation of any dwelling units for which the Agency commenced processing households for occupancy on or before the date upon which such Rental Project or Homeownership Project makes such election.
 
 c. The Agency may waive the rule regarding the deadline by which to file a Notice of Intent if such waiver is appropriate based upon the Completion Date of any Rental Project that elects to receive Affordable New York Housing Program Benefits.
+
+
+
+
+
+
+Chapter 52: Speculation Watch List
+--------------------------------------------------
+
+
+
+*§ 52-01 Definitions.* ::
+
+
+As used in this chapter, the following terms shall have the following meanings. Capitalized terms not specifically defined in this chapter shall have the meanings set forth in the Act.
+
+421-a Construction Period Benefits. “421-a Construction Period Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, for the tax year or years immediately following taxable status dates occurring subsequent to the commencement and prior to the completion of construction, but not to exceed three such tax years, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
+
+421-a Final Benefits. “421-a Final Benefits” means exemption from taxation for local purposes, other than assessments for local improvements, in tax years immediately following the taxable status date first occurring after the expiration of 421-a Construction Period Benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law.
+
+421-a New Building Tax Lot. “421-a New Building Tax Lot” means a tax lot (i) for which DOF records indicate that 421-a Construction Period Benefits were received no earlier than eight fiscal years before the final day of the most recently concluded Fiscal Quarter, or (ii) for which DOF records indicate that 421-a Final Benefits were received no earlier than five fiscal years before the final day of the most recently concluded Fiscal Quarter, or (iii) that has received any real property tax exemption benefits, pursuant to subdivisions 1 through 15 of section 421-a of the Real Property Tax Law for a new multiple dwelling thereon that received its first temporary or permanent certificate of occupancy no earlier than five years before the final day of the most recently concluded Fiscal Quarter.
+
+Act. “Act” means Article 3 of Subchapter 4 of Chapter 2 of title 27 of the administrative code of the City of New York, as may be amended.
+
+Affordable Housing. “Affordable Housing” means Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a loan, grant, tax exemption or conveyance of property from any state or local governmental agency or instrumentality pursuant to (A) the Private Housing Finance Law, other than Article 8-B of such law, or (B) the General Municipal Law, or (ii) a tax exemption pursuant to Section 420-c of the Real Property Tax Law. “Affordable Housing” shall not include Dwelling Units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of (i) a tax exemption pursuant to Section 421-a of the Real Property Tax Law, or (ii) generating a floor area bonus for the provision of affordable inclusionary housing or providing mandatory inclusionary housing pursuant to the Zoning Resolution.
+
+Borough Capitalization Rate. “Borough Capitalization Rate” means the median Capitalization Rate of all Qualified Transactions in a given borough during the four most recent Fiscal Quarters, as calculated by HPD, at the time each Speculation Watch List update is completed.
+
+DOF. “DOF” means the Department of Finance of the City of New York or any successor agency or department thereto.
+
+Dwelling Unit. “Dwelling Unit” means a dwelling unit as defined in § 27-2004 of the Housing Maintenance Code.
+
+Fiscal Quarter. “Fiscal Quarter” means any one of the following periods: (i) the period beginning on the first day of July and ending on the last day of September; or (ii) the period beginning on the first day of October and ending on the last day of December; or (iii) the period beginning on the first day of January and ending on the last day of March; or (iv) the period beginning on the first day of April and ending on the last day of June.
+
+Fiscal Year. “Fiscal Year” means the fiscal year of the City of New York, which commences July 1 and ends June 30.
+
+HDC. “HDC” means the New York City Housing Development Corporation.
+
+HDFC. “HDFC” means a housing development fund company organized pursuant to Article 11 of the Private Housing Finance Law.
+
+HPD. “HPD” means the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
+
+Internal Revenue Code. “Internal Revenue Code” means the United States Internal Revenue Code of 1986, as amended.
+
+List. “List” means the speculation watch list that is published during each Fiscal Quarter and includes all Multiple Dwellings that (i) were the subject of Qualified Transactions and (ii) HPD has determined to be at risk of tenant harassment in accordance with the criteria established in 28 RCNY § 52-02.
+
+Listed Building. “Listed Building” means a Multiple Dwelling included on a List.
+
+Local Supervision. “Supervision” means monitoring of the performance and regulatory compliance of Affordable Housing by HPD’s Division of Asset Management, HPD’s Division of Housing Supervision, or HDC Asset Management, or their successors.
+
+Multiple Dwelling. “Multiple Dwelling” means a multiple dwelling, as defined in section 4 of the Multiple Dwelling Law:
+
+   (i) in which a majority of Dwelling Units are Rent Regulated;
+
+   (ii) that appears on the most recent DOF final assessment roll;
+
+   (iii) for which, during the Fiscal Year of the most recent DOF final assessment roll, DOF has recorded a notice of property value that lists numerical values greater than zero for both estimated gross income and estimated expenses;
+
+   (iv) for which the final assessment roll for the Fiscal Year immediately preceding the most recent notice of property value lists a tentative actual assessed value of greater than $40,000;
+
+   (v) that either (A) is exclusively residential with eleven or more Dwelling Units or (B) contains seven or more Dwelling Units and one or more commercial units;
+
+   (vi) that is not providing Affordable Housing subject to Local Supervision;
+
+   (vii) that is neither (A) fully exempt from real property taxation under any applicable law or (B) partially exempt from real property taxation pursuant to article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law;
+
+   (viii) that is not receiving benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any federal, state, or local governmental agency or instrumentality; and
+
+   (ix) that is not located on a 421-a New Building Tax Lot.
+
+Qualified Transaction. “Qualified Transaction” means the sale of a Multiple Dwelling that:
+
+   (i) occurred during the most recently concluded Fiscal Quarter;
+
+   (ii) has a sale price greater than $10,000;
+
+   (iii) is entirely contained within a single tax lot;
+
+   (iv) did not involve any federal, state, or local agency or instrumentality as either the purchaser or the seller; and
+
+   (v) did not involve an HDFC as the purchaser.
+
+Rent Regulated. “Rent Regulated” means subject to rent regulation under the Rent Stabilization Law of 1969, the Rent Stabilization Code, the Private Housing Finance Law, or the Emergency Tenant Protection Act of 1974, all as amended, together with any successor statutes or regulations addressing substantially the same subject matter.
+
+Zoning Resolution. “Zoning Resolution” means the Zoning Resolution of the City of New York, as amended.
+
+
+
+
+
+
+
+
+*§ 52-02 Criteria for inclusion.* ::
+
+
+A Multiple Dwelling that is the subject of a Qualified Transaction and that has a Capitalization Rate less than the applicable Borough Capitalization Rate shall be added to the List. HPD will post a public e-mail address on its website through which HPD may be alerted as to any Multiple Dwelling that was either included on the List that allegedly did not meet the criteria for inclusion at the time of its inclusion or omitted from the List that allegedly did meet the criteria for inclusion.
+
+
+
+
+
+
+
+
+*§ 52-03 Criteria for removal.* ::
+
+
+A Listed Building shall be removed from the List if, subsequent to the Qualified Transaction:
+
+(a) it begins providing Affordable Housing subject to Local Supervision;
+
+(b) it receives a full or partial exemption from real property taxation pursuant to Article 2, 4, 5, or 11 of the Private Housing Finance Law or Section 420-c of the Real Property Tax Law; or
+
+(c) it receives benefits pursuant to § 11-243 of the Administrative Code of the City of New York for any eligible work that was carried out with the substantial assistance of grants, loans or subsidies from any Federal, State, or local governmental agency or instrumentality.
 
 
 

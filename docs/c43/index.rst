@@ -485,35 +485,6 @@ In the case of an application not subject to mandatory council review pursuant t
 
 
 
-Chapter 3: Contributions
---------------------------------------------------
-
-
-
-*§ 3-10 Contributions to Theater Subdistrict Fund Pursuant to § 81-744 of the New York City Zoning Resolution.* ::
-
-
-Contributions to the Theater Subdistrict Fund pursuant to § 81-744 of the New York City Zoning Resolution shall be made in an amount equal to $17.60 per square foot of floor area transferred.
-
-
-
-
-
-
-*§ 3-11 Contributions to the West Chelsea Affordable Housing Fund Pursuant to § 98-262(c) of the New York City Zoning Resolution.* ::
-
-
-Contributions to the West Chelsea Affordable Housing Fund pursuant to § 98-262(c) of the New York City Zoning Resolution shall be made in an amount equal to $625 per square foot of floor area increase as of the effective date of this rule.
-
-This amount shall be adjusted each year by a factor equal to the ratio of the per square foot contribution to the MIH Affordable Housing Fund for eligible MIH developments in Manhattan Community District 4 for the current year to such per square foot contribution for the prior year. Such adjustments shall take effect automatically upon adjustment by HPD to the contribution rate to the MIH Affordable Housing Fund pursuant to 28 RCNY § 41-23.
-
-The City Planning Commission retains the ability to adjust the contribution amount for the West Chelsea Affordable Housing by rule pursuant to § 98-262(c) of the New York City Zoning Resolution.
-
-
-
-
-
-
 Chapter 3: Fees and Contributions
 --------------------------------------------------
 
@@ -845,6 +816,35 @@ In the event that an application, pursuant to §§ 105-45, 107-321, 107-65, and 
 
 
 The fee for a request that the Department of City Planning verify in writing the zoning district(s) in which a property is located shall be $110 per request. Each zoning verification request shall be made in writing, and shall include the address, borough, tax block and lot(s) of the property. Each separate property shall be a separate request; however, a property comprised of multiple contiguous tax lots shall be treated as a single request.
+
+
+
+
+Chapter 3: Contributions
+--------------------------------------------------
+
+
+
+*§ 3-10 Contributions to Theater Subdistrict Fund Pursuant to § 81-744 of the New York City Zoning Resolution.* ::
+
+
+Contributions to the Theater Subdistrict Fund pursuant to § 81-744 of the New York City Zoning Resolution shall be made in an amount equal to $17.60 per square foot of floor area transferred.
+
+
+
+
+
+
+*§ 3-11 Contributions to the West Chelsea Affordable Housing Fund Pursuant to § 98-262(c) of the New York City Zoning Resolution.* ::
+
+
+Contributions to the West Chelsea Affordable Housing Fund pursuant to § 98-262(c) of the New York City Zoning Resolution shall be made in an amount equal to $625 per square foot of floor area increase as of the effective date of this rule.
+
+This amount shall be adjusted each year by a factor equal to the ratio of the per square foot contribution to the MIH Affordable Housing Fund for eligible MIH developments in Manhattan Community District 4 for the current year to such per square foot contribution for the prior year. Such adjustments shall take effect automatically upon adjustment by HPD to the contribution rate to the MIH Affordable Housing Fund pursuant to 28 RCNY § 41-23.
+
+The City Planning Commission retains the ability to adjust the contribution amount for the West Chelsea Affordable Housing by rule pursuant to § 98-262(c) of the New York City Zoning Resolution.
+
+
 
 
 

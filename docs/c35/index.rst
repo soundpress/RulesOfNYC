@@ -2410,87 +2410,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 12-01 Investigations.* ::
-
-
-The Board may conduct an investigation into possible violations of the Charter, Act, or these rules. In its investigation, the Board may use its investigative powers pursuant to § 1052(a)(5) of the Charter and §§ 3-708(5) and 3-710(1) of the Code. An investigation may include, but is not limited to, field investigations, desk and field audits, the issuance of subpoenas, the taking of sworn testimony, the issuance of document requests and interrogatories, and other methods of information gathering.
-
-
-
-
-
-
-
-
-*§ 12-02 Complaints.* ::
-
-
-(a) Filing a complaint. A complaint must be filed by hand delivery, mail, fax, or scanned and sent as an attachment via email to the Board's offices.
-
-(b) Complaint requirements. Complaints must:
-
-   (i) be made in writing;
-
-   (ii) be sworn to or affirmed;
-
-   (iii) be based on personal knowledge, if possible, and if a complaint is based on information and belief, the complainant must state the source of that information and belief;
-
-   (iv) specify the conduct alleged to be in violation of the Charter, Act, or these rules, and to the extent known:
-
-      (A) the date(s) and time(s) of the conduct,
-
-      (B) the place(s) the conduct occurred, and
-
-      (C) the names of witnesses, if any.
-
-   (v) be accompanied by copies of all documentary evidence available to the complainant; and
-
-   (vi) contain the complainant's full name, current address, telephone number, and email address.
-
-(c) Initial review of complaint.
-
-   (i) If in compliance. Upon receipt, the complaint will be reviewed for substantial compliance with the above requirements. If the complaint is in compliance, the Board shall, within 10 days of receipt, send each party complained about a copy of the complaint.
-
-   (ii) Deficient complaints.
-
-      (A) If the complaint is moot, facially meritless, or not in substantial compliance, it may be rejected and the complainant so notified.
-
-      (B) If the complaint is not in substantial compliance, the Board may investigate the subject matter of the complaint, but need not follow the procedural requirements of this chapter.
-
-(d) Response to complaint; possible dismissal.
-
-   (i) The party complained about may submit an answer to the complaint:
-
-      (A) within 20 days of the date the complaint was sent by the Board, or
-
-      (B) within such lesser time as may be specified by the Board for complaints received less than 90 days before an election.
-
-   (ii) The answer must:
-
-      (A) be sworn to and affirmed,
-
-      (B) set forth a response to the allegations contained in the complaint, including any reasons why the Board should dismiss the complaint in full or in part, if applicable, and
-
-      (C) be accompanied by copies of all documentary evidence available to the respondent.
-
-   (iii) Based on the answer, a complaint may be dismissed as moot.
-
-(e) Board action. Based on its review of the complaint and any answer filed, and of any investigation it chooses to conduct, the Board may:
-
-   (i) determine the complaint to be moot or lacking in merit and dismiss the complaint; or
-
-   (ii) determine that violations or infractions of the Charter, Act, or these rules have been substantiated, and initiate an enforcement proceeding pursuant to the procedures outlined in 52 RCNY Chapter 10.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 11-01 Definitions.* ::
 
 
@@ -2923,6 +2842,87 @@ Once the hearing officer has issued a recommended final determination, each part
 
 
 The Board shall provide a final determination affirming, rejecting, or modifying the hearing officer's recommended final determination within 30 days of the conclusion of the written comments period, or as soon thereafter as is practicable. The final determination shall notify the candidate of the commencement of the four-month period during which a special proceeding may be brought to challenge the Board's determination pursuant to Article 78 of the Civil Practice Law and Rules. If the Board rejects or modifies the hearing officer's recommended final determination, the Board shall provide a written determination stating the basis for any assessed penalty or public funds determination, including any findings of fact and conclusions of law. Determinations made by the Board pursuant to this chapter may not be appealed to the Board unless the Board specifically provides otherwise in its determination.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 12-01 Investigations.* ::
+
+
+The Board may conduct an investigation into possible violations of the Charter, Act, or these rules. In its investigation, the Board may use its investigative powers pursuant to § 1052(a)(5) of the Charter and §§ 3-708(5) and 3-710(1) of the Code. An investigation may include, but is not limited to, field investigations, desk and field audits, the issuance of subpoenas, the taking of sworn testimony, the issuance of document requests and interrogatories, and other methods of information gathering.
+
+
+
+
+
+
+
+
+*§ 12-02 Complaints.* ::
+
+
+(a) Filing a complaint. A complaint must be filed by hand delivery, mail, fax, or scanned and sent as an attachment via email to the Board's offices.
+
+(b) Complaint requirements. Complaints must:
+
+   (i) be made in writing;
+
+   (ii) be sworn to or affirmed;
+
+   (iii) be based on personal knowledge, if possible, and if a complaint is based on information and belief, the complainant must state the source of that information and belief;
+
+   (iv) specify the conduct alleged to be in violation of the Charter, Act, or these rules, and to the extent known:
+
+      (A) the date(s) and time(s) of the conduct,
+
+      (B) the place(s) the conduct occurred, and
+
+      (C) the names of witnesses, if any.
+
+   (v) be accompanied by copies of all documentary evidence available to the complainant; and
+
+   (vi) contain the complainant's full name, current address, telephone number, and email address.
+
+(c) Initial review of complaint.
+
+   (i) If in compliance. Upon receipt, the complaint will be reviewed for substantial compliance with the above requirements. If the complaint is in compliance, the Board shall, within 10 days of receipt, send each party complained about a copy of the complaint.
+
+   (ii) Deficient complaints.
+
+      (A) If the complaint is moot, facially meritless, or not in substantial compliance, it may be rejected and the complainant so notified.
+
+      (B) If the complaint is not in substantial compliance, the Board may investigate the subject matter of the complaint, but need not follow the procedural requirements of this chapter.
+
+(d) Response to complaint; possible dismissal.
+
+   (i) The party complained about may submit an answer to the complaint:
+
+      (A) within 20 days of the date the complaint was sent by the Board, or
+
+      (B) within such lesser time as may be specified by the Board for complaints received less than 90 days before an election.
+
+   (ii) The answer must:
+
+      (A) be sworn to and affirmed,
+
+      (B) set forth a response to the allegations contained in the complaint, including any reasons why the Board should dismiss the complaint in full or in part, if applicable, and
+
+      (C) be accompanied by copies of all documentary evidence available to the respondent.
+
+   (iii) Based on the answer, a complaint may be dismissed as moot.
+
+(e) Board action. Based on its review of the complaint and any answer filed, and of any investigation it chooses to conduct, the Board may:
+
+   (i) determine the complaint to be moot or lacking in merit and dismiss the complaint; or
+
+   (ii) determine that violations or infractions of the Charter, Act, or these rules have been substantiated, and initiate an enforcement proceeding pursuant to the procedures outlined in 52 RCNY Chapter 10.
 
 
 
@@ -3796,131 +3796,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 18-01 Records Available to the Public.* ::
-
-
-The New York State Freedom of Information Law (FOIL) (Public Officers Law, Article 6, § 84 et seq.) governs public access to the Board's records. The Board may deny access to records or portions of records that are exempted from disclosure by state or federal law.
-
-
-
-
-
-
-
-
-*§ 18-02 Records Access Officer.* ::
-
-
-The Board's records access officer is designated by the Executive Director and is responsible for ensuring appropriate agency response to public requests for access to records.
-
-
-
-
-
-
-
-
-*§ 18-03 Requesting Records.* ::
-
-
-(a) A candidate may request access to records such candidate submitted to the Board by contacting the Candidate Guidance and Policy Unit, which may, at its discretion, provide access to such records without a FOIL request.
-
-(b) To request access to Board records, a member of the public must:
-
-   (i) make a written FOIL request in person, by mail, or by email, addressed to the Board's records access officer;
-
-   (ii) reasonably describe the records sought;
-
-   (iii) provide the requestor's name and mailing or email address; and
-
-   (iv) specify preference for inspection of records or copies of records.
-
-(c) Within five business days of receipt of a FOIL request made in accordance with subdivision (b) above, the Board will:
-
-   (i) grant or deny the request, in whole or in part, in writing; or
-
-   (ii) provide:
-
-      (A) a written acknowledgment of the request and state the approximate date on which the request will be granted or denied; or
-
-      (B) where circumstances prevent granting or denying the request within 20 business days of the written acknowledgment,
-
-         (1) a written statement of the reasons for the delay in making a determination; and
-
-         (2) a date, within a reasonable period depending on the circumstances, when the request will be granted or denied.
-
-(d) Where the Board is unable to locate records responsive to the request, the Board, upon request, will certify that:
-
-   (i) the Board is not the custodian of such records; or
-
-   (ii) such records cannot be found after a diligent search.
-
-(e) Where the request is granted, the Board will:
-
-   (i) make records available for inspection:
-
-      (A) between the hours of 10:00 a.m. and 4:00 p.m., on business days, Monday through Friday;
-
-      (B) at the offices of the Board or another location chosen by the Board;
-
-      (C) in quantities that may be limited to the amount available at the time; and
-
-      (D) contingent on the requester's promise that the records will not be removed, damaged, marked, or changed in any way during the inspection; or
-
-   (ii) make copies of records available in the medium requested, where practicable, upon payment of fees as described in this chapter, and provide, on request, a certification that the copies are true copies;
-
-(f) Where a request is denied, the Board will explain the reasons for the denial in writing and set forth the right to appeal.
-
-
-
-
-
-
-
-
-*§ 18-04 Appealing a Denial of Access to Records.* ::
-
-
-(a) To appeal a denial of access to records, the requester must, within 30 days of the denial, submit a written appeal to the Board's General Counsel including:
-
-   (i) a copy of the original request;
-
-   (ii) a reasonable description of the records to which access was denied; and
-
-   (iii) the name and address of the requester.
-
-(b) Upon receipt of an appeal, the Board's General Counsel shall, within 10 business days:
-
-   (i) decide the appeal and send a copy of the written decision to the requester; and
-
-   (ii) send a copy of the appeal and a copy of the written decision to the Committee on Open Government of the Department of State of the State of New York.
-
-
-
-
-
-
-
-
-*§ 18-05 Fees.* ::
-
-
-The Board may require payment for copies of records, as follows:
-
-(a) 25 cents per page for photocopies not exceeding 8-1/2 inches by 14 inches; or
-
-(b) the actual cost of reproducing any other record, in accordance with § 87 of the New York Public Officers Law.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 17-01 Definitions.* ::
 
 
@@ -4111,6 +3986,131 @@ Except as otherwise provided, the definitions set forth in 52 RCNY § 1-02 apply
 
 
 Notwithstanding any other provision of this chapter, the Board shall take such actions as are practicable to prepare, publish, and distribute a Voter Guide in a timely manner for an election that is not held as initially scheduled.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 18-01 Records Available to the Public.* ::
+
+
+The New York State Freedom of Information Law (FOIL) (Public Officers Law, Article 6, § 84 et seq.) governs public access to the Board's records. The Board may deny access to records or portions of records that are exempted from disclosure by state or federal law.
+
+
+
+
+
+
+
+
+*§ 18-02 Records Access Officer.* ::
+
+
+The Board's records access officer is designated by the Executive Director and is responsible for ensuring appropriate agency response to public requests for access to records.
+
+
+
+
+
+
+
+
+*§ 18-03 Requesting Records.* ::
+
+
+(a) A candidate may request access to records such candidate submitted to the Board by contacting the Candidate Guidance and Policy Unit, which may, at its discretion, provide access to such records without a FOIL request.
+
+(b) To request access to Board records, a member of the public must:
+
+   (i) make a written FOIL request in person, by mail, or by email, addressed to the Board's records access officer;
+
+   (ii) reasonably describe the records sought;
+
+   (iii) provide the requestor's name and mailing or email address; and
+
+   (iv) specify preference for inspection of records or copies of records.
+
+(c) Within five business days of receipt of a FOIL request made in accordance with subdivision (b) above, the Board will:
+
+   (i) grant or deny the request, in whole or in part, in writing; or
+
+   (ii) provide:
+
+      (A) a written acknowledgment of the request and state the approximate date on which the request will be granted or denied; or
+
+      (B) where circumstances prevent granting or denying the request within 20 business days of the written acknowledgment,
+
+         (1) a written statement of the reasons for the delay in making a determination; and
+
+         (2) a date, within a reasonable period depending on the circumstances, when the request will be granted or denied.
+
+(d) Where the Board is unable to locate records responsive to the request, the Board, upon request, will certify that:
+
+   (i) the Board is not the custodian of such records; or
+
+   (ii) such records cannot be found after a diligent search.
+
+(e) Where the request is granted, the Board will:
+
+   (i) make records available for inspection:
+
+      (A) between the hours of 10:00 a.m. and 4:00 p.m., on business days, Monday through Friday;
+
+      (B) at the offices of the Board or another location chosen by the Board;
+
+      (C) in quantities that may be limited to the amount available at the time; and
+
+      (D) contingent on the requester's promise that the records will not be removed, damaged, marked, or changed in any way during the inspection; or
+
+   (ii) make copies of records available in the medium requested, where practicable, upon payment of fees as described in this chapter, and provide, on request, a certification that the copies are true copies;
+
+(f) Where a request is denied, the Board will explain the reasons for the denial in writing and set forth the right to appeal.
+
+
+
+
+
+
+
+
+*§ 18-04 Appealing a Denial of Access to Records.* ::
+
+
+(a) To appeal a denial of access to records, the requester must, within 30 days of the denial, submit a written appeal to the Board's General Counsel including:
+
+   (i) a copy of the original request;
+
+   (ii) a reasonable description of the records to which access was denied; and
+
+   (iii) the name and address of the requester.
+
+(b) Upon receipt of an appeal, the Board's General Counsel shall, within 10 business days:
+
+   (i) decide the appeal and send a copy of the written decision to the requester; and
+
+   (ii) send a copy of the appeal and a copy of the written decision to the Committee on Open Government of the Department of State of the State of New York.
+
+
+
+
+
+
+
+
+*§ 18-05 Fees.* ::
+
+
+The Board may require payment for copies of records, as follows:
+
+(a) 25 cents per page for photocopies not exceeding 8-1/2 inches by 14 inches; or
+
+(b) the actual cost of reproducing any other record, in accordance with § 87 of the New York Public Officers Law.
 
 
 

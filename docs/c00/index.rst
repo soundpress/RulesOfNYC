@@ -2423,6 +2423,55 @@ Chapter 21: Plans
 
 
 
+Chapter 22: Pressure Tanks
+--------------------------------------------------
+
+
+
+*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
+
+
+(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
+
+(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
+
+   (1) Size and location of high pressure tanks.
+
+   (2) The operating pressures and temperatures.
+
+   (3) The location, type and specifications of pressure relief valves.
+
+(c) Location. 
+
+   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
+
+   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
+
+   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
+
+(d) Installation. 
+
+   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
+
+   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
+
+   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
+
+   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
+
+   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
+
+   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
+
+   (7) All welded piping shall be butt welded.
+
+   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
+
+   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
+
+
+
+
 Chapter 23: Noncommercial Greenhouses
 --------------------------------------------------
 
@@ -2476,68 +2525,6 @@ Greenhouse. A greenhouse shall be defined as a glass or slow burning plastic enc
 
 
 
-Chapter 22: Pressure Tanks
---------------------------------------------------
-
-
-
-*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
-
-
-(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
-
-(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
-
-   (1) Size and location of high pressure tanks.
-
-   (2) The operating pressures and temperatures.
-
-   (3) The location, type and specifications of pressure relief valves.
-
-(c) Location. 
-
-   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
-
-   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
-
-   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
-
-(d) Installation. 
-
-   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
-
-   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
-
-   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
-
-   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
-
-   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
-
-   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
-
-   (7) All welded piping shall be butt welded.
-
-   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
-
-   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
-
-
-
-
-Chapter 25: Climber and Tower Crane Riggers [Repealed]
---------------------------------------------------
-
-
-
-*§ 25-01 Licensing Persons as Climber or Tower Crane Rigger. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 24: Refuse Chutes and Refuse Rooms
 --------------------------------------------------
 
@@ -2575,6 +2562,19 @@ Chapter 24: Refuse Chutes and Refuse Rooms
 (k) These rules shall apply only to refuse chutes in new construction and to refuse chutes resulting from the conversion of existing incinerator flues and to existing refuse chutes.
 
    (1) Collection and disposal of refuse within premises. The collection and disposal of refuse within any building or on any premises shall be performed as deemed necessary to provide for the safety, health and well being of the occupants of buildings and of the public. The construction, operation, maintenance, cleanliness and sanitation of refuse chutes and refuse rooms and extermination treatment for insects and rodents, and the keeping of records of such treatments for refuse chutes and refuse rooms shall be in accordance with regulations established by this Department in consultation with the Department of Health.
+
+
+
+
+Chapter 25: Climber and Tower Crane Riggers [Repealed]
+--------------------------------------------------
+
+
+
+*§ 25-01 Licensing Persons as Climber or Tower Crane Rigger. [Repealed]* ::
+
+
+
 
 
 

@@ -404,37 +404,6 @@ Note: The Twenty-Five ($25.00) Dollar fee is to be applied to each lot within th
 
 
 
-Chapter 5: Disposition of Personal Property
---------------------------------------------------
-
-
-
-*§ 5-01 Disposition of Personal Property of the City.* ::
-
-
-(a)  Personal property may be disposed of by the Division of Municipal Supplies by public or private sale or as otherwise authorized by law or regulation.
-
-   (1) The prior approval of the Comptroller is not required on a sale of personal property where such sale is to the highest responsible bidder at public auction or after receipt of sealed bids after advertisement in at least ten successive issues of The City Record. A bidder may be disqualified in accordance with applicable laws and regulations.
-
-   (2) If the estimated sales value of the personal property is $5,000 or less, the Division of Municipal Supply Services may make requests for offers, if possible, to at least three persons, firms or corporations separately engaged in the regular business of selling and buying materials of the class offered. All bids from other bidders shall be duly considered in making an award. Award of such informal sale, if any, must be made to the highest responsible bidder. However, no such award shall be valid without the prior approval of the comptroller. The total amount of such informal sales of the same class of materials shall not exceed $5,000 within a thirty-day period. The classification of materials of "the same class" shall be as determined by the commissioner and approved by the comptroller. Such classification shall be filed in the Division of Municipal Supply Services and the Office of the Comptroller and shall be effective upon publication in the City Record.
-
-   (3) When no bid or acceptable bid is received on an advertised sale, the Commissioner may waive the advertising requirements in an informal re-bid. Such sale on an informal re-bid shall be made only with the approval of the Comptroller. The Commissioner shall issue a certificate in writing that no acceptable bid was received when the proposal was originally advertised. Such certificate shall be filed in the Division of Municipal Supplies and with the Comptroller.
-
-   (4) Personal property may be given to a vendor in part payment on a contract at public letting to furnish new personal property at the lowest net price.
-
-   (5) Personal property may be sold at private sale without public notice, at no less than the value fixed by the Division of Municipal Supplies subject to the approval of the Comptroller.
-
-   (6) Personal property may be transferred between the various City agencies by order of the Commissioner.
-
-   (7) All materials, supplies and equipment which the Commissioner considers of no sale value or use to the City may be destroyed or otherwise disposed of in the most advantageous manner under the direction of the Commissioner. This provision shall not apply to public records until their destruction or other disposition has been duly authorized in accordance with applicable law or regulation.
-
-   (8) Notwithstanding any of the foregoing, property classified by the commissioner as "memorabilia" may be disposed of in the best interests of the city by public, private, wholesale or retail sale under the direction of the commissioner without the prior approval of the comptroller. "Memorabilia" is defined as surplus or obsolete personal property, excluding aircraft, watercraft and land vehicles, not exceeding an estimated per-unit sale value of $5,000, which by reason of its use by the city has historic, aesthetic, novelty or sentimental value in excess of the property's salvage value. In addition to a wholesale or retail price not exceeding an estimated per-unit sale value of $5,000, the commissioner is authorized to negotiate in the best interests of the city to obtain additional income from the disposition of "memorabilia".
-
-   (9) Notwithstanding any of the foregoing, property classified as a "product" by the commissioner, in conjunction with the commissioner or head of another agency or office, may be disposed of, as the commissioner deems appropriate, by that individual agency. "Product" is defined as property resulting from the processing, manufacture, or operations of an agency or its agent. "Agent" is defined as an individual or entity that is authorized to act for the agency by contract or other apparent authority. That individual agency must dispose of that property in the best interests of the city by public, private, wholesale or retail sale at a unit price to be determined by the respective agency's commissioner or his/her designee, and under the direction of said commissioner or his/her designee. If disposal by private sale is deemed appropriate, and the estimated per sale value is less than or equal to $10,000, the sale may proceed without the prior approval of the comptroller. In determining the unit price to be charged for the product, the respective agency must factor in the cost of producing each product. The agency must also factor in the fair market wholesale and retail rates currently being charged by a minimum of three entities that are marketing the same or similar products for wholesale or retail sale in the local region.
-
-
-
-
 Chapter 6: 'Original Equipment Manufacturer Agreements' For Purposes of the City's Anti-Apartheid Law
 --------------------------------------------------
 
@@ -468,6 +437,37 @@ For purposes of the City's anti-apartheid rider, included in City contracts purs
    (2) The equipment covered by the agreement (as sold by Company #1 or after modification by Company #2, if any is made) falls under one of the designated classifications government by the Export Administration Act of 1979  and the associated federal regulations for Electronics and Precision Instruments (15 C.F.R. § 799.1, Supp. 1, Group 5), such that Company #1 knows of the resale or distribution of the equipment to South Africa by Company #2 and assists Company #2 in procuring required governmental authorizations for such resale or distribution.
 
    (3) Company #1 has actual knowledge of resale or distribution of the equipment to South Africa by Company #2 and has not either terminated its contractual arrangement with Company #2 concerning such equipment or otherwise prohibited Company #2 from making further resale or distribution of Company #1's equipment to South Africa.
+
+
+
+
+Chapter 5: Disposition of Personal Property
+--------------------------------------------------
+
+
+
+*§ 5-01 Disposition of Personal Property of the City.* ::
+
+
+(a)  Personal property may be disposed of by the Division of Municipal Supplies by public or private sale or as otherwise authorized by law or regulation.
+
+   (1) The prior approval of the Comptroller is not required on a sale of personal property where such sale is to the highest responsible bidder at public auction or after receipt of sealed bids after advertisement in at least ten successive issues of The City Record. A bidder may be disqualified in accordance with applicable laws and regulations.
+
+   (2) If the estimated sales value of the personal property is $5,000 or less, the Division of Municipal Supply Services may make requests for offers, if possible, to at least three persons, firms or corporations separately engaged in the regular business of selling and buying materials of the class offered. All bids from other bidders shall be duly considered in making an award. Award of such informal sale, if any, must be made to the highest responsible bidder. However, no such award shall be valid without the prior approval of the comptroller. The total amount of such informal sales of the same class of materials shall not exceed $5,000 within a thirty-day period. The classification of materials of "the same class" shall be as determined by the commissioner and approved by the comptroller. Such classification shall be filed in the Division of Municipal Supply Services and the Office of the Comptroller and shall be effective upon publication in the City Record.
+
+   (3) When no bid or acceptable bid is received on an advertised sale, the Commissioner may waive the advertising requirements in an informal re-bid. Such sale on an informal re-bid shall be made only with the approval of the Comptroller. The Commissioner shall issue a certificate in writing that no acceptable bid was received when the proposal was originally advertised. Such certificate shall be filed in the Division of Municipal Supplies and with the Comptroller.
+
+   (4) Personal property may be given to a vendor in part payment on a contract at public letting to furnish new personal property at the lowest net price.
+
+   (5) Personal property may be sold at private sale without public notice, at no less than the value fixed by the Division of Municipal Supplies subject to the approval of the Comptroller.
+
+   (6) Personal property may be transferred between the various City agencies by order of the Commissioner.
+
+   (7) All materials, supplies and equipment which the Commissioner considers of no sale value or use to the City may be destroyed or otherwise disposed of in the most advantageous manner under the direction of the Commissioner. This provision shall not apply to public records until their destruction or other disposition has been duly authorized in accordance with applicable law or regulation.
+
+   (8) Notwithstanding any of the foregoing, property classified by the commissioner as "memorabilia" may be disposed of in the best interests of the city by public, private, wholesale or retail sale under the direction of the commissioner without the prior approval of the comptroller. "Memorabilia" is defined as surplus or obsolete personal property, excluding aircraft, watercraft and land vehicles, not exceeding an estimated per-unit sale value of $5,000, which by reason of its use by the city has historic, aesthetic, novelty or sentimental value in excess of the property's salvage value. In addition to a wholesale or retail price not exceeding an estimated per-unit sale value of $5,000, the commissioner is authorized to negotiate in the best interests of the city to obtain additional income from the disposition of "memorabilia".
+
+   (9) Notwithstanding any of the foregoing, property classified as a "product" by the commissioner, in conjunction with the commissioner or head of another agency or office, may be disposed of, as the commissioner deems appropriate, by that individual agency. "Product" is defined as property resulting from the processing, manufacture, or operations of an agency or its agent. "Agent" is defined as an individual or entity that is authorized to act for the agency by contract or other apparent authority. That individual agency must dispose of that property in the best interests of the city by public, private, wholesale or retail sale at a unit price to be determined by the respective agency's commissioner or his/her designee, and under the direction of said commissioner or his/her designee. If disposal by private sale is deemed appropriate, and the estimated per sale value is less than or equal to $10,000, the sale may proceed without the prior approval of the comptroller. In determining the unit price to be charged for the product, the respective agency must factor in the cost of producing each product. The agency must also factor in the fair market wholesale and retail rates currently being charged by a minimum of three entities that are marketing the same or similar products for wholesale or retail sale in the local region.
 
 
 
