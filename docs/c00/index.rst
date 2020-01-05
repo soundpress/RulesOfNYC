@@ -4076,41 +4076,6 @@ Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dw
 
 
 
-Chapter 42: Entrance Doors, Locks and Intercommunication Systems
---------------------------------------------------
-
-
-
-*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
-
-
-(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
-
-(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
-
-(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
-
-(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
-
-(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
-
-(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
-
-(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
-
-(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
-
-(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
-
-(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
-
-(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
-
-(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
-
-
-
-
 Chapter 43: Installation of Security Items In Multiple Dwellings
 --------------------------------------------------
 
@@ -4178,6 +4143,41 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 (d) The lights shall be so located as to adequately light all portions of the rear yards, side yards, front yards and courts.
 
 (e) Lights are not required in an inner court that is accessible only from the interior of the building and to which access is restricted for clean-out purposes.
+
+
+
+
+Chapter 42: Entrance Doors, Locks and Intercommunication Systems
+--------------------------------------------------
+
+
+
+*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
+
+
+(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
+
+(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
+
+(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
+
+(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
+
+(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
+
+(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
+
+(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
+
+(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
+
+(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
+
+(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
+
+(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
+
+(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
 
 
 
@@ -13089,6 +13089,8 @@ Table 7Special Inspection
 ~
 
 
+
+ 
 
 
 

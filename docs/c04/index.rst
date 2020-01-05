@@ -185,7 +185,7 @@ Chapter 1: General Provisions
 
    LBE. Locally Based Business Enterprise program established under New York City Local Law 49 for the year 1984 as amended by New York City Local Law 25 for the year 1989 which provides assistance to small, economically-disadvantaged construction firms meeting the stated economic criteria regardless of race or sex.
 
-   M/WBE. An acronym that stands for Minority and Women Owned Business Enterprise. A business enterprise authorized to do business in the State that has been certified by the program established pursuant to §1304 of the New York City Charter, including sole proprietorships, partnerships, and corporations, in which (i) at least fifty-one percent of the ownership interest is held by United States citizens or permanent resident aliens who are either minority group members or women, (ii) the ownership interest of such person is real, substantial, and continuing, and (iii) such persons have and exercise the authority to control independently the day-to-day business decisions of the enterprise.
+   M/WBE. An acronym that stands for Minority and Women Owned Business Enterprise. A business enterprise authorized to do business in the State that has been certified by the program established pursuant to §1304 of the New York City Charter, including sole proprietorships, partnerships, and corporations, in which (i) at least fifty-one percent of the ownership interest is held by United States citizens or permanent resident aliens who are either minority group members or women, (ii) the ownership interest of such person is real, substantial, and continuing, and (iii) such persons have and exercise the authority to control independently the day-to-day business decisions of the enterprise. The term M/WBE, as used in these Rules, does not include entities that are solely State-certified M/WBEs and do not meet the criteria set forth in this definition of M/WBE.
 
    May. Denotes the permissive.
 
@@ -298,6 +298,8 @@ Chapter 1: General Provisions
    Standard Services. Services other than professional services and human/client services such as custodial services, security guard services, stenography services and office machine repair.
 
    State. State of New York.
+
+   State-certified M/WBE. Any entity certified as a Minority and Women Owned Business Enterprise pursuant to article fifteen-a of the executive law.
 
    Suspension. An agency decision to exclude a vendor from consideration for award of contracts for a period not exceeding three months plus any extensions pending a debarment determination by OATH.
 
@@ -1473,7 +1475,7 @@ Chapter 3: Methods of Source Selection
 
          The ACCO, or committee, may consider any and all information related to such factors in determining best value and may require additional information to be submitted by the bidders with the bid, or alternatively, within up to thirty (30) days from the bid opening from all bidders whose bids are to be considered pursuant to in 9 RCNY § 3-02(o)(1)(iii). If a committee is used to evaluate the bids, then written evaluation forms shall be completed to record the evaluation of the bids and shall be signed and dated by all members of the committee.
 
-      (iv) If award will be made based on best value, a certified M/WBE in a group for which there is a goal established pursuant to section 6-129 of the New York City Administrative Code must, except with the permission of the CCPO, be given a price preference of 10% and will be evaluated as if the bid price were 10% lower.
+      (iv) If award will be made based on best value, a vendor that is an M/WBE or State-certified M/WBE must, except with the approval of the CCPO, be given a price preference of 10% and will be evaluated as if the bid price were 10% lower. A price preference of a different percentage may be given with approval from the CCPO. The price preference percentage, if any, shall be included in the IFB.
 
    (2) Negotiation with the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value. Upon determination of the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value, pursuant to 9 RCNY § 3-02(0)(1), and prior to award, the Contracting Officer may elect to open negotiations with the selected vendor in an effort to improve the bid to the City with respect to the price only if award will be made to the lowest responsive and responsible bidder, or if award will be made to the responsive and responsible bidder whose bid represents the best value to the City, with respect to any of the factors considered in determining best value. In the event the apparent winning bidder declines to negotiate, the Contracting Officer may elect to either award the contract to the apparent winning bidder or may, upon written approval by the ACCO, reject all bids in accordance with this section. The result of negotiations, if any, shall be documented in the Recommendation for Award.
 
@@ -1555,7 +1557,7 @@ Chapter 3: Methods of Source Selection
 
 (w) Disposition of bids. All bids shall be retained. When bids are rejected or a solicitation canceled after bids are received, the bids shall be retained and the bid security, if any, shall be promptly returned, and the file so documented.
 
-(Amended City Record 1/29/2016, eff. 3/1/2016 (part) and 7/1/2016 (part)])
+
 
 
 
@@ -1567,7 +1569,7 @@ Chapter 3: Methods of Source Selection
 
 (a) The Request for Proposals (RFP) – Contents. RFPs must include the following data:
 
-   (1) statement that the contract award will be made to the responsible proposer whose proposal represents the best value to the City by optimizing quality, cost and efficiency and therefore is determined to be the most advantageous to the City, taking into consideration the price and such other factors or criteria that are set forth in the RFP, including the quantitative preference to be provided to proposals submitted by certified M/WBEs for which there is a goal established pursuant to section 6-129 of the New York City Administrative Code;
+   (1) statement that the contract award will be made to the responsible proposer whose proposal represents the best value to the City by optimizing quality, cost and efficiency and therefore is determined to be the most advantageous to the City, taking into consideration the price and such other factors or criteria that are set forth in the RFP, including the quantitative preference to be provided to proposals submitted by vendors that are M/WBEs or State-certified M/WBEs;
 
    (2) statement of work or scope of services statement, performance requirements, and any special instructions;
 
@@ -1741,7 +1743,7 @@ Chapter 3: Methods of Source Selection
 
    (9) Receipt and Registration of Proposals. The identify of an offeror shall not be disclosed prior to the established date and time for receipt of proposals. Proposals shall not be opened publicly but shall be opened in the presence of two or more City employees. Proposals and modifications shall be time and date-stamped upon receipt and held in a secure place until the established due date and time. The agency shall disclose the identity of all proposers for goods and standard services on the due date and time of the proposals. After the date and time established for the receipt of proposals, a Register of Proposals shall be prepared and shall be open to public inspection after award of a contract. It shall include for all proposals the name of each offeror and the number of modifications received, if any.
 
-(g) Evaluation Process. Award, if any, must be made to the responsible proposer whose proposal represents the best value to the City by optimizing quality, cost and efficiency and therefore is determined to be the most advantageous to the City, taking into consideration the price and such other factors or criteria that are set forth in the RFP. In evaluating the proposals, the agency may consider only price and the criteria set forth in the RFP. In considering price, the agency may use methods such as ranking technically viable proposals by price, evaluating price per technical point, or evaluating proposals in accordance with another combination of price and technical merit. Such methods may result in the agency selecting the highest technically rated proposer over another technically qualified proposer who offered a lower fee as a result of factors including, but not limited to, the selected vendor's superior technical skill and expertise, increased likelihood of timely completion, and/or ability to manage several projects simultaneously with lower overall costs to the City, including costs in City personnel time and consultants. However, for construction-related consulting services, including those procured through multiple award task orders, the agency shall rank proposers by technical merit, and then consider price by negotiating a fair and reasonable price with the highest technically ranked proposer(s). Other methods for considering price, including using fee curves based on market-derived data with appropriate consideration of complexity, or evaluating proposals in accordance with another combination of price and technical merit, may be used for construction-related consulting services only with the written approval of the CCPO.
+(g) Evaluation Process. Award, if any, must be made to the responsible proposer whose proposal represents the best value to the City by optimizing quality, cost and efficiency and therefore is determined to be the most advantageous to the City, taking into consideration the price and such other factors or criteria that are set forth in the RFP. In evaluating the proposals, the agency may consider only price and the criteria set forth in the RFP. In considering price, the agency may use methods such as ranking technically viable proposals by price, evaluating price per technical point, or evaluating proposals in accordance with another combination of price and technical merit. Such methods may result in the agency selecting the highest technically rated proposer over another technically qualified proposer who offered a lower fee as a result of factors including, but not limited to, the selected vendor's superior technical skill and expertise, increased likelihood of timely completion, and/or ability to manage several projects simultaneously with lower overall costs to the City, including costs in City personnel time and consultants. However, for construction-related consulting services, including those procured through multiple award task orders, the agency shall rank proposers by technical merit, and then consider price by negotiating a fair and reasonable price with the highest technically ranked proposer(s). In ranking proposers for construction-related consultant services by technical merit, agencies must, except with the approval of the CCPO, provide a point preference of five percent (5%) of the total technical points earned to all proposers that are M/WBEs or State-certified M/WBEs before ranking proposers by technical merit. The point preference percentage, if any, shall be included in the RFP. Other methods for considering price, including using fee curves based on market-derived data with appropriate consideration of complexity, or evaluating proposals in accordance with another combination of price, technical merit and proposers' M/WBE or State-certified M/WBE status, may be used for construction-related consulting services only with the written approval of the CCPO.
 
    (1) Evaluation committee. Proposals shall be reviewed by an evaluation committee consisting of no fewer than three persons with knowledge, expertise, and experience sufficient to make a fair and reasonable evaluation. If an RFP incorporates multiple competitions, each competition may be evaluated by a separate committee. The ACCO shall require each member of the evaluation committee(s) to submit a signed statement, in a format approved by the CCPO, agreeing to prohibitions on any conflicts of interest.
 
@@ -1787,11 +1789,13 @@ Chapter 3: Methods of Source Selection
 
       (vii) For construction-related consulting services, in the event that the agency has chosen to negotiate a fair and reasonable price with the top-ranked proposer, if such a fee is not successfully negotiated, the agency may conclude such negotiations, and enter into negotiations with the next ranked vendor(s), as necessary.
 
-   (6) Contract proposals from certified M/WBEs for purchase of goods and standard services. Proposals submitted by certified M/WBEs in a group for which there is a goal established pursuant to section 6-129 of the New York City Administrative Code must, except with the permission of the CCPO, be provided one of following quantitative preferences, as determined by the ACCO:
+   (6) Contract proposals from vendors that are M/WBEs or State-certified M/WBEs for the purchase of goods, and standard and professional services except for construction-related consulting services. Proposals submitted by such M/WBEs or State-certified M/WBEs must, except with the approval of the CCPO, be provided one of following quantitative preferences, as determined by the ACCO:
 
-      (i) Ten percent (10%) of the total technical points; or
+      (i) Ten percent (10%), or such other percentage approved by the CCPO, of the total technical points earned in the evaluation of the proposal; or
 
-      (ii) If such proposal's score was above a minimum threshold for quality on the weighted criteria as established in the solicitation, either a price preference of ten percent (10%) or a point preference of ten percent (10%) of the total technical points in the evaluation of its proposal, as to be determined by the ACCO.
+      (ii) If such proposal's score was above a minimum threshold set forth in the RFP for quality on the weighted criteria as established in the solicitation, either a price preference of ten percent (10%), or such other percentage approved by the CCPO, or a point preference of ten percent (10%) of the total technical points earned in the evaluation of its proposal, or such other percentage approved by the CCPO, as to be determined by the ACCO.
+
+   The point or price preference percentage, if any, shall be included in the RFP.
 
 (h) Construction-related services.
 
@@ -1873,7 +1877,7 @@ Chapter 3: Methods of Source Selection
 
    (6) efforts to negotiate better value. Upon determination of the most favorable proposal and after obtaining all required approvals, the Contracting Officer shall award the contract to that proposer.
 
-(Amended City Record 1/29/2016, eff. 3/1/2016 (part) and 7/1/2016 (part))
+
 
 
 
@@ -2223,7 +2227,7 @@ Chapter 3: Methods of Source Selection
 *§ 3-08 Small Purchases.* ::
 
 
-(a) Definition. Small purchases are those procurements in value of not more than $100,000 or those procurements made, pursuant to subparagraph (c)(1)(iv) below, in value of not more than $150,000. This collectively shall be known as the small purchase limit. Procurements over $100,000 in value that are not made, pursuant to subparagraph (c)(1)(iv) below shall not be within the small purchase limit.
+(a) Definition. Small purchases are those procurements in value of not more than $100,000 or those procurements made, pursuant to subparagraph (c)(1)(iv) below, in value of not more than $500,000. This collectively shall be known as the small purchase limit. Procurements over $100,000 in value that are not made, pursuant to subparagraph (c)(1)(iv) below, shall not be within the small purchase limit.
 
 (b) Application. A procurement shall not be artificially divided in order to meet the requirements of this section. Changes to and/or renewals of small purchases shall not bring the total value of the procurement to an amount greater than the small purchase limit.
 
@@ -2237,7 +2241,7 @@ Chapter 3: Methods of Source Selection
 
       (iii) Small Purchases. Except for purchases made, pursuant to subparagraph (c)(1)(iv) below, for procurements of goods and all services except construction valued over $20,000 through the small purchase limit or procurements of construction valued over $35,000 through the small purchase limit, at least five vendors must be solicited at random from the appropriate citywide small purchases bidders list established by the CCPO for the particular goods, services, construction, or construction-related services being purchased, except where the bidders list consists of fewer than five vendors, in which case all vendors on the list must be solicited. Agencies may additionally employ any small purchase technique sanctioned by DSBS that is not otherwise in violation of these Rules. The agency may solicit additional vendors but only with the approval of the CCPO. Responsive bids or offers must be obtained from at least two vendors. For purposes of this section, a response of "no bid" is not a responsive bid. If only one responsive bid or offer is received in response to a solicitation, an award may be made to that vendor if the Contracting Officer determines that the price submitted is fair and reasonable and that other vendors had reasonable opportunity to respond.
 
-      (iv) M/WBE Noncompetitive Small Purchases. No competition is required for the procurement of goods and services from M/WBE vendors, except that in making purchases, pursuant to this subparagraph, the Contracting Officer must ensure that the noncompetitive price is reasonable and that purchases are distributed appropriately among responsible M/WBE vendors. Agencies shall not use this subparagraph to make any purchase the value of which is less than or equal to $20,000 or to make any purchase the value of which exceeds $150,000. Additionally, agencies shall not make purchases, pursuant to this subparagraph for human services or construction.
+      (iv) M/WBE Noncompetitive Small Purchases. No competition is required for the procurement of goods, services, and construction from M/WBE vendors, except that in making purchases pursuant to this subparagraph, the Contracting Officer must attempt to obtain at least three price quotes from M/WBE vendors or document their inability to do so. The Contracting Officer must ensure that the noncompetitive price selected is reasonable and that purchases are distributed appropriately among responsible M/WBE vendors. Agencies shall not use this subparagraph to make any purchase for goods, services or construction, the value of which is less than or equal to the applicable micropurchase limits set in subparagraph (c)(1)(ii) above, or to make any purchase the value of which exceeds $500,000. Additionally, agencies shall not make purchases pursuant to this subparagraph for human services.
 
    (2) Solicitation Methods and Use. For purchases made, pursuant to subparagraph (c)(1)(iii) above, agencies must use a written solicitation describing the requirements, which must contain, at a minimum:
 

@@ -1997,732 +1997,6 @@ An applicant is not required to provide photo identification if accompanied by a
 
 
 
-Chapter 8: CITYFEPS Programs; SEPS Program
---------------------------------------------------
-
-
-
-
-**Subchapter A: CITYFEPS Programs**
-
-
-
-*§ 8-01 Definitions.* ::
-
-
-For the purposes of this subchapter, the following terms have the following meanings:
-
-(a) The "CITYFEPS Programs" or "CITYFEPS" means the City Family Eviction Prevention Supplement Program and the City Family Exit Plan Supplement Program described in this chapter.
-
-(b) "CITYFEPS rent supplement" means a rent supplement provided pursuant to either the City Family Eviction Prevention Supplement Program or the City Family Exit Plan Supplement Program.
-
-(c) The "City shelter system" means DHS Shelters and HRA Shelters.
-
-(d) "DHS Shelter" means a shelter for families with children or adult families operated by or on behalf of the New York City Department of Homeless Services.
-
-(e) "Gross income" means the sum of earned income, as defined and computed as set forth in Section 352.17 of Title 18 of the New York Codes, Rules and Regulations, except that earned income does not include income earned through subsidized employment, and unearned income, as defined and computed as set forth in Section 387.10 of Title 18 of the New York Codes, Rules and Regulations, except that unearned income shall only include such income that is regularly recurring.
-
-(f) The "household" means the individuals who have applied for, have had an application submitted on their behalf for, or are in receipt of CITYFEPS rent supplement payments pursuant to this chapter, regardless of their eligibility for Public Assistance.
-
-(g) "HRA" means the New York City Human Resources Administration.
-
-(h) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
-
-(i) "HUD" means the United States Department of Housing and Urban Development.
-
-(j) A "program participant" means an individual who has entered into a lease or other rental agreement for a residence to which CITYFEPS rent supplement payments have been or are being applied.
-
-(k) "Public Assistance" means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
-
-(l) "Subsidized employment" means subsidized private sector employment or subsidized public sector employment as those terms are used in New York Social Services Law § 336(1)(b)-(c).
-
-
-
-
-
-
-
-
-*§ 8-02 Administration of the CITYFEPS Programs.* ::
-
-
-HRA shall administer the CITYFEPS Programs and shall make eligibility determinations in accordance with this subchapter.
-
-
-
-
-
-
-
-
-*§ 8-03 The City Family Eviction Prevention Supplement Program.* ::
-
-
-(a) Initial Eligibility.
-
-   (1) To be eligible for the City Family Eviction Prevention Supplement Program, a household must meet the following eligibility requirements: 
-
-      (A) The household must be in receipt of Public Assistance, all members eligible for Public Assistance must be in receipt of such benefits, and HRA must have determined that the household will be eligible for Public Assistance upon exit from shelter; 
-
-      (B) The household must include a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations or a pregnant woman; 
-
-      (C) The household must: 
-
-         (i) be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and New York Social Services Law§ 459-a, and
-
-            (I) reside in a DHS shelter but have not refused placement in an HRA shelter; or
-
-            (II) reside in an HRA Shelter and have reached the applicable maximum length of stay permitted under New York Social Services Law § 459-b;
-
-         (ii) be eligible for DHS shelter pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations, be in the City shelter system and, within the twelve months prior to entering the City shelter system, have been evicted or have left a residence located within the City of New York that (a) was the subject of an eviction proceeding; or (b) the household was required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations;
-
-         (iii) be at risk of entry into a DHS shelter as determined by HRA in consultation with DHS and within the last twelve months have been evicted or have lived in a residence within the City of New York that (a) was or is the subject of an eviction proceeding; or (b) the household was or is required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations: or
-
-         (iv) be in receipt of rental assistance pursuant to subchapter C of chapter 7 of this title and have met the requirements of clauses (i), (ii) or (iii) of this subparagraph at the time the household was approved to receive such rental assistance.
-
-      (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
-
-      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY §8-05 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
-
-      (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
-
-      (G) The household must apply for housing assistance pursuant to Section 8 of the United States Housing Act of 1937, if available, and accept the benefit, if offered; 
-
-      (H) The household must agree to have its CITYFEPS rent supplement paid directly to the landlord; and 
-
-      (I) The household must: 
-
-         (i) provide accurate, complete and current information on income and household composition; 
-
-         (ii) provide supporting documentation as necessary to verify eligibility and the information needed to determine the CITYFEPS rent supplement amount, maximum rent, and any required contributions by household members; and 
-
-         (iii) report to HRA any changes in household income or household composition within ten days of such changes occurring. 
-
-   (2) The number of eligible households that can be approved to receive rent supplements under the City Family Eviction Prevention Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA.
-
-   (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the City Family Eviction Prevention Supplement Program as set forth in 68 RCNY § 8-05.
-
-   (4) In no event shall HRA approve a CITYFEPS rent supplement for a household that includes the perpetrator of the domestic violence that resulted in the determination of eligibility for HRA shelter described in clause (i) of subparagraph (C) of paragraph (1) of this subdivision.
-
-(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Eviction Prevention Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS supplement is being applied, except as provided in 68 RCNY §8-06. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 12/30/2015, eff. 1/29/2016) 
-
-
-
-
-
-
-*§ 8-04 The City Family Exit Plan Supplement Program.* ::
-
-
-(a) Initial Eligibility.
-
-   (1) To be eligible for the City Family Exit Plan Supplement Program, a household must meet the following eligibility requirements: 
-
-      (A) The household must be in receipt of Public Assistance, all members eligible for Public Assistance must be in receipt of such benefits, and HRA must have determined that the household will be eligible for Public Assistance upon exit from shelter; 
-
-      (B) The household must include a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations or a pregnant woman; 
-
-      (C) The household must reside in a DHS shelter that has been identified for imminent closure or be in receipt of rental assistance pursuant to subchapter C of chapter 7 of this title and at the time the household was approved to receive such rental assistance have resided in a DHS shelter that was identified for imminent closure;
-
-      (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
-
-      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and must have a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
-										 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
-
-      (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
-
-      (G) The household must apply for housing assistance pursuant to Section 8 of the United States Housing Act of 1937, if available, and accept the benefit, if offered; 
-
-      (H) The household must agree to have its CITYFEPS rent supplement paid directly to the landlord; and 
-
-      (I) The household must: 
-
-         (i) provide accurate, complete and current information on income and household composition; 
-
-         (ii) provide supporting documentation as necessary to verify eligibility and the information needed to determine the CITYFEPS rent supplement amount, maximum rent, and any required contributions by household members; and 
-
-         (iii) report to HRA any changes in household income or household composition within ten days of such changes occurring. 
-
-   (2) The number of eligible households that can be approved to receive rent supplements under the City Family Exit Plan Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA. 
-
-   (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05
-										, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the CITYFEPS program as set forth in 68 RCNY § 8-05
-										. 
-
-(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Exit Plan Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS rent supplement is being applied, except as provided in 68 RCNY §8-06. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 12/30/2015, eff. 1/29/2016) 
-
-
-
-
-
-
-*§ 8-05 Maximum Rents and Calculation of Monthly Program Participant Contributions and Rent Supplement Amounts.* ::
-
-
-(a) Except as otherwise provided in this section, at the time of approval pursuant to paragraph (2) of subdivision (a) of 68 RCNY §8-03 or 8-04, the maximum CITYFEPS rent supplement amount and the maximum rent towards which CITYFEPS rent supplements may be applied shall not exceed the amounts set forth in the table below.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Household Size
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-    * - Maximum Rent
-      - $1,213
-      - $1,268
-      - $1,515
-      - $1,515
-      - $1,956
-      - $1,956
-      - $2,197
-      - $2,197
-    * - Maximum CITYFEPS Rent Supplement
-      - $936
-      - $985
-      - $1,115
-      - $1,065
-      - $1,455
-      - $1,432
-      - $1,651
-      - $1,651
-~
-
-
-
- 
-
-(b) Except as provided in subdivision (h) of this section, for the purposes of subdivision (a) of this section, the household size equals the number of household members in receipt of Public Assistance. 
-
-(c) Except as provided in subdivisions (e) and (f) of this section, and provided the household remains eligible for a CITYFEPS rent supplement, the CITYFEPS rent supplement amount shall be the household's actual rent less the sum of (1) any contributions required to be made in accordance with the provisions of subdivision (g) of this section, and (2) the standard Public Assistance shelter allowance as set forth in Section 352.3(a)(1) of Title 18 of the New York Codes, Rules and Regulations for the number of members in the household in receipt of Public Assistance, provided that the CITYFEPS rent supplement amount shall not exceed the maximum CITYFEPS rent supplement amount for the household size as set forth in subdivision (a) of this section. If the actual rent exceeds the sum of the CITYFEPS rent supplement amount and the standard Public Assistance shelter allowance, the household shall pay directly to the landlord the amount that the actual rent exceeds such sum. 
-
-(d) If a household in receipt of a CITYFEPS rent supplement receives a Public Assistance shelter allowance less than the standard Public Assistance shelter allowance set forth in Section 352.3(a)(1) of Title 18 of the New York Codes, Rules and Regulations, the household shall pay directly to the landlord the difference between the standard Public Assistance shelter allowance amount and the Public Assistance shelter allowance amount that the household receives. 
-
-(e) If the household's Public Assistance benefits are reduced pursuant to New York Social Services Law § 342, the CITYFEPS rent supplement amount will be reduced using the same rule applied to reduce the Public Assistance benefits. The CITYFEPS rent supplement amount will be so reduced for the duration of the Public Assistance benefits reduction and shall be reinstated at the expiration of the Public Assistance benefits reduction. The household shall pay any reduction amounts directly to the landlord. 
-
-(f) If a household is in receipt of the maximum CITYFEPS rent supplement amount and the household's monthly rent obligation increases above the applicable maximum rent set forth in subdivision (a) of this section, the household shall pay the amount of the rent increase directly to the landlord. In the event of such a rent increase, HRA may make exceptions to the maximum CITYFEPS rent supplement amount on a case-by-case basis 
-
-(g) A member of the household who is not in receipt of Public Assistance and who receives income, earned or unearned, must contribute a pro rata share of the rent or thirty percent of his or her gross income, whichever is less, towards rent. A person ineligible for Public Assistance on the basis of his or her immigration status shall not be included in the household for purposes of determining the maximum rent or maximum CITYFEPS rent supplement amount as set forth in subdivision (a) of this section and will not be subject to the program participant contribution requirement as set forth in this subdivision. If the household contains an individual contributing a pro rata share of rent or thirty percent of his or her gross income, the household's maximum rent shall be equal to the lesser of: (1) the sum of the maximum rent for the household size as determined pursuant to subdivision (b) of this section and such individual's required contribution, or (2) the maximum rent for the household if the household size were increased by one. Such individual's contribution shall be deducted from the household's actual rent for the purposes of determining the CITYFEPS rent supplement amount as set forth in subdivision (c) of this section. 
-
-(h) When an individual ineligible for Public Assistance on the basis of his or her immigration status has income that must be taken into consideration in calculating Public Assistance pursuant to New York Social Services Law § 131-a, such individual shall be included in the household for purposes of determining the maximum rent but shall not be included in the household for purposes of determining the maximum CITYFEPS rent supplement amount as set forth in subdivision (a) of this section and will not be subject to the program participant contribution requirement set forth in subdivision (g) of this section. 
-
-(i) A CITYFEPS rent supplement amount and any contributions required by subdivision (g) of this section shall be increased or decreased as a result of changes in a household's income, composition, or rent, provided that such increased or decreased rent supplement amount and contributions are calculated in accordance with the provisions of this section. Program participants shall promptly inform HRA of changes in income, household composition, or rent. Program participants will receive a notice from HRA of any change in their CITYFEPS rent supplement amount and required contributions. 
-
-(j) HRA shall pay the CITYFEPS rent supplement directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rent supplement payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing. Notwithstanding any inconsistent provisions of this section, (i) any such advance rent supplement payments shall be calculated based on the household size at the time of lease signing and (ii) if the household's rent supplement amount would otherwise have been reduced under this section during the year in which rent supplement payments have been paid in advance, the household is required to pay the difference to HRA. If the household does not pay such difference to HRA during the year in which rent supplement payments have been paid in advance, HRA shall have the right to recover such difference from the household. 
-
-(k) Notwithstanding any inconsistent provision of this section, if HRA determines that due to current market conditions, it is unlikely that households consisting of five or more individuals will be able to secure housing within the next 90 days at the rents otherwise permitted under this section, HRA may in its discretion increase the maximum rent towards which CITYFEPS rent supplements may be applied pursuant to subdivision (a) of this section to up to 130 percent of the 2014 New York City Housing Authority Section 8 Voucher Payment Standards for units for the household size. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 10/20/2015, eff. 11/19/2015) 
-
-
-
-
-
-
-*§ 8-06 Moves.* ::
-
-
-(a) A household receiving a CITYFEPS rent supplement may not move to a new residence and maintain eligibility for a CITYFEPS rent supplement except with the prior approval of HRA. HRA shall grant such approval if: 
-
-   (1) The new monthly rent obligation does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
-										 and is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; and 
-
-   (2) The need for the move is a direct result of: (A) the household's inability to pay required contributions pursuant to subdivision (g) of 68 RCNY § 8-05
-										 due to changes in the household's income, composition or rent obligations; (B) a vacate order issued by a City agency or court; or (C) a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis. 
-
-(b) If HRA has approved a move to a new residence, HRA shall recalculate the monthly CITYFEPS rent supplement amount and program participant contribution pursuant to 68 RCNY § 8-05
-										. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015) 
-
-
-
-
-
-
-*§ 8-07 Restoration.* ::
-
-
-If a household becomes ineligible for CITYFEPS because it has become ineligible for Public Assistance as a result of excess income or for reasons other than pursuant to New York Social Services Law § 342, the household may have its CITYFEPS rent supplement restored if (a) the household continues to reside in the address in which it resided at the time its Public Assistance benefits ceased; and (b) its Public Assistance benefits are reinstated within twelve months after such benefits ceased. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015) 
-
-
-
-
-
-
-*§ 8-08 Agency Review Conference and HRA Administrative Appeal Process.* ::
-
-
-(a) Right to HRA Administrative Review. An applicant or program participant may request an agency review conference and/or an HRA administrative hearing to seek review of any determinations or actions made by HRA under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, by HRA in implementing the provisions of this subchapter. 
-
-(b) Agency Review Conference.
-
-   (1) If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised. 
-
-   (2) An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing. 
-
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an HRA administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date. 
-
-   (4) A request for an agency review conference will extend the time period to request an HRA administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference. 
-
-(c) Request for an HRA Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice. 
-
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action. 
-
-(d) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant's or program participant's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee's authorization. 
-
-   (2) Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing. 
-
-(e) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination by HRA that CITYFEPS rent supplement payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of CITYFEPS rent supplement payments at the CITYFEPS rent supplement amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that: 
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and 
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination. 
-
-   (2) There is no right to continued CITYFEPS rent supplement payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law. 
-
-   (3) Rent supplement payments will not continue pending the issuance of a hearing decision when: 
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or 
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing. 
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rent supplement payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section. 
-
-(f) Notice. HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request. 
-
-(g) Examination of Case Record. The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her CITYFEPS program case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing. 
-
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA. 
-
-(i) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action. 
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested. 
-
-   (3) The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA. 
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made. 
-
-(j) Abandonment of Request for Administrative Hearing.
-
-   (1) HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has: 
-
-      (A) contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or 
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date. 
-
-   (2) HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision. 
-
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing. 
-
-(l) Hearing Decision.
-
-   (1) The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action. 
-
-   (2) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any. 
-
-(m) Additional Appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit. 
-
-   (2) The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA. 
-
-   (3) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any. 
-
-   (4) Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 10/20/2015, eff. 11/19/2015; amended City Record 11/24/2015, eff. 12/24/2015) 
-
-
-
-
-
-
-*§ 8-09 Additional Provisions.* ::
-
-
-(a) If a household is eligible for one or both of the rent supplement programs described in this chapter or any rental assistance program described in chapter 7 of this title, HRA reserves the right to determine, based on administrative and programmatic needs, which program the household will participate in. 
-
-(b) CITYFEPS rent supplements cannot be combined with any other rent subsidies other than a Public Assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except with the prior approval of HRA on a case-by-case basis. 
-
-(c) If HRA identifies a household as potentially eligible for Section 8 or other federal housing program subsidies or vouchers, the household must apply for such benefits and accept them if offered. 
-
-(d) Applicants are responsible for identifying potential housing. However, shelter staff may provide assistance to such individuals in their housing search. 
-
-(e) A landlord who signs a lease or other rental agreement with a household in receipt of a CITYFEPS rent supplement is prohibited from demanding, requesting, or receiving any amount above the rent or fees as stipulated in the lease or rental agreement regardless of any changes in household composition. The cost of heat and hot water must be included in the rent. A landlord who demands, requests or receives any amount above what is set forth in the lease or rental agreement will be barred from further participation in any HRA rent supplement or rental assistance programs and may be barred from other rent supplement or rental assistance programs administered by the City of New York. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing. 
-
-(f) If a program participant moves or is evicted from the apartment to which CITYFEPS rent supplement payments have been applied, the landlord must return any over-payment to HRA. 
-
-(g) HRA will not maintain waitlists for the CITYFEPS programs. 
-
-(h) HRA shall provide a household moving expenses, a security deposit voucher equal to one month's rent, and a broker's fee equal to up to one month's rent when available under Section 352.6 of Title 18 of the New York Codes, Rules and Regulations. 
-
-(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 10/20/2015, eff. 11/19/2015) 
-
-
-
-
-
-
-
-**Subchapter B: SEPS Program**
-
-
-
-*§ 8-10 Definitions.* ::
-
-
-For the purposes of this subchapter, the following terms have the following meanings:
-
-(a) "DHS" means the New York City Department of Homeless Services.
-
-(b) A "DHS Shelter for Single Adults" means a shelter for single adults operated by or on behalf of DHS, or a DHS veterans shelter as that term is defined in § 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
-
-(c) A "DHS Shelter for Adult Families" means a shelter for adult families operated by or on behalf of DHS.
-
-(d) "Gross income" means the sum of earned income, as defined and computed as set forth in Section 352.17 of Title 18 of the New York Codes, Rules and Regulations, except that earned income does not include income earned through subsidized employment, and unearned income, as defined and computed as set forth in Section 387.10 of Title 18 of the New York Codes, Rules and Regulations, except that unearned income shall only include such income that is regularly recurring.
-
-(e) The "household" means the individual or individuals who have applied for, have had an application submitted on their behalf for, or are in receipt of SEPS rent supplement payments pursuant to this subchapter, regardless of their eligibility for Public Assistance. The term "household" does not include other individuals residing in a residence within which a program participant is renting a single room.
-
-(f) "HRA" means the New York City Human Resources Administration.
-
-(g) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
-
-(h) A "primary tenant" is the person whose name is on the lease or who has the primary responsibility for payment of the monthly rent for a residence.
-
-(i) A "program participant" or "participant" means an individual who has been approved to participate in the SEPS Program and has entered into a rental agreement for a residence to which a SEPS rent supplement has been or is being applied.
-
-(j) "Public Assistance" means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159 and regulations promulgated thereunder.
-
-(k) A "rental agreement" means a lease or other written agreement to rent a residence for at least one year.
-
-(l) The "Special Exit and Prevention Supplement Program" or "SEPS Program" means the rent supplement program described in this subchapter.
-
-(m) "Subsidized employment" means subsidized private sector employment or subsidized public sector employment as those terms are used in New York Social Services Law § 336(1)(b)-(c).
-
-
-
-
-
-
-
-
-*§ 8-11 Administration of the Special Exit and Prevention Supplement Program.* ::
-
-
-HRA shall administer the Special Exit and Prevention Supplement Program, except that initial eligibility determinations pursuant to subdivision (a) of 68 RCNY § 8-12 shall be made by HRA in consultation with DHS.
-
-
-
-
-
-
-
-
-*§ 8-12 The Special Exit and Prevention Supplement Program.* ::
-
-
-(a) Initial Eligibility.
-
-   (1) To be eligible for an initial year of participation in the SEPS Program, a household must meet the following eligibility requirements:
-
-      (A) The household must:
-
-         (i) include a member who currently resides in a DHS Shelter for Single Adults, and:
-
-            (I) resided in a shelter operated by or on behalf of DHS for any period of time between May 1, 2015 and July 31, 2015, or such other timeframe that HRA may designate in consultation with DHS and post on HRA's website, and within the twelve months prior to entering a shelter operated by or on behalf of DHS, had been evicted or left a residence located within the City of New York that (a) was the subject of an eviction proceeding; or (b) the member was required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the member eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations;
-
-            (II) resided in a shelter operated by or on behalf of DHS for any period of time between May 1, 2015 and July 31, 2015, or such other timeframe that HRA may designate in consultation with DHS and post on HRA's website, and was discharged to a shelter operated by or on behalf of DHS from a residential substance abuse treatment program, residential program or facility licensed or operated by the New York State Office of Mental Health or the New York State Office of Alcoholism and Substance Abuse Services, foster care placement, or correctional institution; or
-
-            (III) has previous or current United States military service;
-
-         (ii) currently reside in a DHS Shelter for Adult Families and be eligible for shelter, as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations, and:
-
-            (I) within the twelve months prior to entering a shelter operated by or on behalf of DHS, have been evicted or have left a residence located within the City of New York that (a) was the subject of an eviction proceeding; or (b) the household was required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations; or
-
-            (II) include a member who has previous or current United States military service;
-
-         (iii) include a member who is eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and New York Social Services Law § 459-a, and:
-
-            (I) resides in a DHS Shelter for Single Adults or a DHS Shelter for Adult Families but has not refused placement in an HRA shelter; or
-
-            (II) resides in an HRA Shelter, has reached the applicable maximum length of stay permitted under New York Social Services Law § 459-b, and is at risk of entry into a DHS Shelter for Single Adults or a DHS Shelter for Adult Families;
-
-         (iv) meet the following criteria:
-
-            (I) be at risk of entry into a DHS Shelter for Single Adults or a DHS Shelter for Adult Families as determined by HRA in consultation with DHS; and
-
-            (II) within the last twelve months have been evicted from or have lived in a residence located within the City of New York that (a) was or is the subject of an eviction proceeding; or (b) the household was or is required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations;
-
-         (v) include a member who is at risk of entry into a DHS Shelter for Single Adults or a DHS Shelter for Adult Families, as determined by HRA in consultation with DHS, and has previous or current United States military service; or
-
-         (vi) be in receipt of rental assistance pursuant to subchapter C of chapter 7 of this title and have met the requirements of item (i), (ii), (iii), (iv) or (v) of this subparagraph at the time the household was approved to receive such rental assistance.
-
-      (B) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services;
-
-      (C) The household must be in receipt of Public Assistance;
-
-      (D) The household must have a rental agreement for the residence to which the SEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the applicable maximum rent under 68 RCNY § 8-13 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or U.S. Department of Housing and Urban Development regulations;
-
-      (E) The residence to which the SEPS rent supplement shall be applied must be located within the City of New York;
-
-      (F) The household must apply for any available federal housing assistance program that HRA has determined the household may be eligible for, including but not limited to HUD-Veteran Affairs Supportive Housing, Section 8, and Supportive Services for Veteran Families, and accept the benefit if offered;
-
-      (G) The household must agree to have its SEPS rent supplement paid directly to the landlord; and
-
-      (H) The household must:
-
-         (i) provide accurate, complete and current information on income and household composition; and
-
-         (ii) provide supporting documentation as necessary to verify eligibility and the information needed to determine the SEPS rent supplement amount, maximum rent, and any required contributions.
-
-   (2) The number of eligible households that can be approved to participate in the SEPS Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA.
-
-   (3) At the time of approval, HRA will calculate the household's monthly program participant contribution and the maximum monthly rent supplement amount pursuant to 68 RCNY § 8-13. Except as provided in 68 RCNY § 8-14, the monthly program participant contribution and monthly rent supplement amount will not change during the first year of the program, regardless of changes in household composition or income.
-
-(b) Renewals after the First Year.
-
-   (1) Subject to the availability of funding, a household participating in the SEPS Program will receive up to four one-year renewals in the SEPS Program if:
-
-      (A) The household's total gross income does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services; and
-
-      (B) The household provides prompt notice to HRA of any rent arrears that have accrued so that they may be addressed.
-
-   (2) A program participant who meets the requirements in paragraph (1) of this subdivision will continue to receive annual renewals after receiving the renewals provided for in that paragraph if the program participant either:
-
-      (A) receives social security disability insurance benefits under Title II of the federal Social Security Act or supplemental security income under Title XVI of the federal Social Security Act, or receives a recurring monthly Public Assistance grant and has been determined by HRA to be potentially eligible for such social security disability insurance benefits or supplemental security inco me based on a documented disability; or
-
-      (B) receives compensation for a disability resulting from a line-of-duty injury or disease pursuant to Subchapter II or Subchapter IV of Chapter 11 of Part II of Title 38 of the United States Code, or receives a non-service-connected disability pension pursuant to Subchapter II of Chapter 15 of Part II of Title 38 of the United States Code.
-
-   (3) HRA will determine a household's eligibility for renewal in the SEPS Program at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly program participant contribution and the monthly rent supplement amount pursuant to 68 RCNY § 8-13. Except as provided in 68 RCNY § 8-14, the monthly program participant contribution and monthly rent supplement will not change during the one-year renewal period, regardless of changes in household composition or income.
-
-   (4) HRA in its discretion may waive any of the requirements in paragraph (1) of this subdivision on a case-by-case basis where non-renewal is likely to result in the household's entry into shelter. HRA may also waive the requirement set forth in subparagraph (B) of paragraph (1) of this subdivision if the household's failure to meet the requirement was due to circumstances beyond its control.
-
-
-
-
-
-
-
-
-*§ 8-13 Maximum Rents and Calculation of Monthly Program Participant Contributions and Rent Supplements.* ::
-
-
-(a) Apartment Rentals.
-
-   (1) The maximum monthly rent for an apartment towards which a SEPS rent supplement may be applied during the first year of the rental agreement must not exceed the amounts in the table below:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Household Size
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-    * - Maximum Rent
-      - $1,213
-      - $1,268
-      - $1,515
-      - $1,515
-      - $1,956
-      - $1,956
-      - $2,197
-      - $2,197
-~
-
-
-
- 
-
-   (2) A program participant contribution of thirty percent of the household's total gross income at the time of approval or renewal plus any amount by which the rent after the first year exceeds the maximum rent for the household's size as set forth in paragraph (1) of this subdivision is required and will be paid by the program participant directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rent supplement. HRA shall pay the monthly rent supplement amount directly to the landlord each month as long as the household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rent supplement payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as a shelter unit operated by or on behalf of DHS immediately prior to lease signing. Any such advance rent supplement payments shall be calculated based on the household size at the time of lease signing. If the household's rent supplement amount would otherwise have been reduced under this section during the year in which rent supplement payments have been paid in advance, the household shall pay the difference to HRA. If the household does not pay the difference to HRA during the year in which rent supplement payments have been paid in advance, HRA has the right to recover such difference from the household.
-
-   (3) If HRA determines that due to current market conditions, it is unlikely that households consisting of five or more individuals will be able to secure housing within the next ninety days at the rents permitted under paragraph (1) of this subdivision, HRA may in its discretion increase the maximum rent towards which SEPS rent supplements may be applied pursuant to such paragraph to up to 130 percent of the 2014 New York City Housing Authority Section 8 Voucher Payment Standards for units for the household size.
-
-(b) Room Rentals.
-
-   (1) The maximum monthly rent for a single room towards which a SEPS rent supplement may be applied must not exceed $800 during the first year, except that HRA may make exceptions on a case-by-case basis if the rent is reasonable in relation to current rents for comparable units in the private unassisted market. It is further provided that:
-
-      (A) Where the rental agreement is with a primary tenant who receives Public Assistance, the household's monthly rent cannot exceed the difference between the primary tenant's rent obligation to the landlord and the primary tenant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the rental agreement; and
-
-      (B) In no event shall the household's monthly rent exceed the household's proportionate share of the rent for the entire residence. The determination of what constitutes the participant's proportionate share of the rent shall be based on the formula set forth in Section 2525.7 of Title 9 of the New York Code of Rules and Regulations or a comparable measure.
-
-   (2) A program participant contribution of (a) thirty percent of the household's total monthly gross income at the time of approval or renewal plus (b) any amount by which the rent after the first year exceeds $800 shall be paid by the program participant directly to the landlord or primary tenant, as applicable, each month. The program participant contribution will be deducted from the household's monthly rent or $800, whichever is less, to determine the monthly rent supplement. HRA shall pay the monthly rent supplement directly to the landlord or the primary tenant, as applicable, each month for so long as the program participant remains eligible and funding for the program remains available.
-
-
-
-
-
-
-
-
-*§ 8-14 Moves.* ::
-
-
-(a) A household participating in the SEPS Program may not move to a new residence and maintain eligibility for the SEPS Program except with the approval of HRA. The household must obtain such approval prior to moving to a new residence, provided that HRA may consider a request for approval made after the move if a household is unable to obtain such approval prior to the move due to circumstances beyond the household's control.
-
-(b) HRA shall grant approval for a move if the household is moving from a room to an apartment, unless the household is breaking a lease for the room, in which case the household must establish either good cause for the move or that the landlord is willing to release the program participant from the lease. In all other situations, HRA shall grant approval for a move from one residence to another residence only upon a showing by the household that there is good cause for the move. If the requested move is to a residence with a higher rent than the rent for the current residence, approval will also be subject to the availability of funding.
-
-(c) If HRA has approved a move to a new residence, HRA shall recalculate the monthly program participant contribution and monthly rent supplement and those amounts shall not change for one year from the effective date of the rental agreement for the new residence, regardless of changes in income or household composition. If the effective date of the rental agreement for the new residence is not more than ten months after the start of the household's current year of participation in the program, then the household's current year in the SEPS Program shall begin anew on the effective date of such rental agreement. If the effective date of the rental agreement for the new residence is more than ten months after the start of the household's current year in the program and the household is eligible for renewal in the SEPS Program, then the household's renewal period shall begin on the effective date of such rental agreement.
-
-
-
-
-
-
-
-
-*§ 8-15 Agency Review Conference and HRA Administrative Appeal Process.* ::
-
-
-(a) Right to HRA Administrative Review. An applicant or program participant may request an agency review conference and/or an HRA administrative hearing to seek review of any determinations or actions made by HRA under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, by HRA in implementing the provisions of this subchapter.
-
-(b) Agency Review Conference. 
-
-   (1) If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised.
-
-   (2) An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing.
-
-   (3) An agency review conference must be requested no later than sixty days after the challenged determination or action, provided further that if an HRA administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
-
-   (4) A request for an agency review conference will extend the time period to request an HRA administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
-
-(c) Request for an HRA Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice.
-
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made no later than sixty days after the challenged determination or action.
-
-(d) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant's or program participant's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required for an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee's authorization.
-
-   (2) Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing.
-
-(e) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination by HRA that SEPS rent supplement payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of SEPS rent supplement payments at the SEPS rent supplement amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
-
-   (2) There is no right to continued SEPS rent supplement payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.
-
-   (3) Rent supplement payments will not continue pending the issuance of a hearing decision when:
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rent supplement payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (m) of this section.
-
-(f) Notice. HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request.
-
-(g) Examination of Case Record. The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her SEPS Program case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing.
-
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA.
-
-(i) Conduct of Administrative Hearing. 
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
-
-   (3) The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
-
-(j) Abandonment of Request for Administrative Hearing. 
-
-   (1) HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has:
-
-      (A) contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
-
-   (2) HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
-
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
-
-(l) Hearing Decision.
-
-   (1) The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
-
-   (2) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any.
-
-(m) Additional Appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
-
-   (2) The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
-
-   (3) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
-
-   (4) Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
-
-
-
-
-
-
-
-
-*§ 8-16 Additional Provisions.* ::
-
-
-(a) If a household is eligible for any other rental assistance program described in chapter 7 or 8 of this title, HRA reserves the right to determine, based on administrative and programmatic needs, the program for which the household will be approved or certified.
-
-(b) SEPS rent supplements cannot be combined with any other rent subsidies other than a Public Assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except that HRA may make exceptions on a case-by-case basis.
-
-(c) The household must apply for any available federal housing assistance program that HRA has determined the household may be eligible for, including but not limited to HUD-Veteran Affairs Supportive Housing, Section 8, and Supportive Services for Veteran Families, and accept the benefit if offered.
-
-(e) Households are responsible for identifying potential housing. However, shelter staff may provide assistance to individuals in their housing search.
-
-(f) A landlord or primary tenant who has entered into a rental agreement with a program participant is prohibited from demanding, requesting, or receiving any monies, goods or services above the rent or any applicable fees as set forth in the rental agreement regardless of any changes in household composition or income. The cost of heat and hot water must be included in the rent. A landlord or primary tenant who demands, requests or receives any monies, goods or services above the rent or any applicable fees as set forth in the rental agreement will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a landlord or primary tenant on a disqualification list, HRA will provide notice to the landlord or primary tenant and an opportunity to object in writing.
-
-(g) If a household moves or is evicted from the apartment or room to which SEPS rent supplement payments have been applied, the landlord or primary tenant must return any overpayment to HRA.
-
-(h) HRA will not maintain a waitlist for the SEPS Program.
-
-(i) HRA shall provide a household moving expenses, a security deposit voucher equal to one month's rent, and a broker's fee equal to up to one month's rent when available under Section 352.6 of Title 18 of the New York Codes, Rules and Regulations.
-
-(j) If a household includes a person younger than eighteen years of age, SEPS rent supplement payments may not be applied towards a room rental. A household residing in a single room must promptly notify HRA if it intends to add a person younger than eighteen years of age to the household so that HRA can assist the household in implementing a move pursuant to 68 RCNY § 8-14.
-
-
-
-
-
-
 Chapter 7: LINC Programs
 --------------------------------------------------
 
@@ -3855,6 +3129,732 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 (i) If a program participant is evicted or moves from the residence to which LINC VI rental assistance payments have been or are being applied, the primary occupant must return any over-payment to HRA.
 
 (j) Any residence to which LINC VI rental assistance shall be applied must pass a safety and habitability inspection. Additionally, if the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
+
+
+
+
+
+
+Chapter 8: CITYFEPS Programs; SEPS Program
+--------------------------------------------------
+
+
+
+
+**Subchapter A: CITYFEPS Programs**
+
+
+
+*§ 8-01 Definitions.* ::
+
+
+For the purposes of this subchapter, the following terms have the following meanings:
+
+(a) The "CITYFEPS Programs" or "CITYFEPS" means the City Family Eviction Prevention Supplement Program and the City Family Exit Plan Supplement Program described in this chapter.
+
+(b) "CITYFEPS rent supplement" means a rent supplement provided pursuant to either the City Family Eviction Prevention Supplement Program or the City Family Exit Plan Supplement Program.
+
+(c) The "City shelter system" means DHS Shelters and HRA Shelters.
+
+(d) "DHS Shelter" means a shelter for families with children or adult families operated by or on behalf of the New York City Department of Homeless Services.
+
+(e) "Gross income" means the sum of earned income, as defined and computed as set forth in Section 352.17 of Title 18 of the New York Codes, Rules and Regulations, except that earned income does not include income earned through subsidized employment, and unearned income, as defined and computed as set forth in Section 387.10 of Title 18 of the New York Codes, Rules and Regulations, except that unearned income shall only include such income that is regularly recurring.
+
+(f) The "household" means the individuals who have applied for, have had an application submitted on their behalf for, or are in receipt of CITYFEPS rent supplement payments pursuant to this chapter, regardless of their eligibility for Public Assistance.
+
+(g) "HRA" means the New York City Human Resources Administration.
+
+(h) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(i) "HUD" means the United States Department of Housing and Urban Development.
+
+(j) A "program participant" means an individual who has entered into a lease or other rental agreement for a residence to which CITYFEPS rent supplement payments have been or are being applied.
+
+(k) "Public Assistance" means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(l) "Subsidized employment" means subsidized private sector employment or subsidized public sector employment as those terms are used in New York Social Services Law § 336(1)(b)-(c).
+
+
+
+
+
+
+
+
+*§ 8-02 Administration of the CITYFEPS Programs.* ::
+
+
+HRA shall administer the CITYFEPS Programs and shall make eligibility determinations in accordance with this subchapter.
+
+
+
+
+
+
+
+
+*§ 8-03 The City Family Eviction Prevention Supplement Program.* ::
+
+
+(a) Initial Eligibility.
+
+   (1) To be eligible for the City Family Eviction Prevention Supplement Program, a household must meet the following eligibility requirements: 
+
+      (A) The household must be in receipt of Public Assistance, all members eligible for Public Assistance must be in receipt of such benefits, and HRA must have determined that the household will be eligible for Public Assistance upon exit from shelter; 
+
+      (B) The household must include a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations or a pregnant woman; 
+
+      (C) The household must: 
+
+         (i) be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and New York Social Services Law§ 459-a, and
+
+            (I) reside in a DHS shelter but have not refused placement in an HRA shelter; or
+
+            (II) reside in an HRA Shelter and have reached the applicable maximum length of stay permitted under New York Social Services Law § 459-b;
+
+         (ii) be eligible for DHS shelter pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations, be in the City shelter system and, within the twelve months prior to entering the City shelter system, have been evicted or have left a residence located within the City of New York that (a) was the subject of an eviction proceeding; or (b) the household was required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations;
+
+         (iii) be at risk of entry into a DHS shelter as determined by HRA in consultation with DHS and within the last twelve months have been evicted or have lived in a residence within the City of New York that (a) was or is the subject of an eviction proceeding; or (b) the household was or is required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations: or
+
+         (iv) be in receipt of rental assistance pursuant to subchapter C of chapter 7 of this title and have met the requirements of clauses (i), (ii) or (iii) of this subparagraph at the time the household was approved to receive such rental assistance.
+
+      (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
+
+      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY §8-05 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
+
+      (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
+
+      (G) The household must apply for housing assistance pursuant to Section 8 of the United States Housing Act of 1937, if available, and accept the benefit, if offered; 
+
+      (H) The household must agree to have its CITYFEPS rent supplement paid directly to the landlord; and 
+
+      (I) The household must: 
+
+         (i) provide accurate, complete and current information on income and household composition; 
+
+         (ii) provide supporting documentation as necessary to verify eligibility and the information needed to determine the CITYFEPS rent supplement amount, maximum rent, and any required contributions by household members; and 
+
+         (iii) report to HRA any changes in household income or household composition within ten days of such changes occurring. 
+
+   (2) The number of eligible households that can be approved to receive rent supplements under the City Family Eviction Prevention Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA.
+
+   (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the City Family Eviction Prevention Supplement Program as set forth in 68 RCNY § 8-05.
+
+   (4) In no event shall HRA approve a CITYFEPS rent supplement for a household that includes the perpetrator of the domestic violence that resulted in the determination of eligibility for HRA shelter described in clause (i) of subparagraph (C) of paragraph (1) of this subdivision.
+
+(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Eviction Prevention Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS supplement is being applied, except as provided in 68 RCNY §8-06. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 12/30/2015, eff. 1/29/2016) 
+
+
+
+
+
+
+*§ 8-04 The City Family Exit Plan Supplement Program.* ::
+
+
+(a) Initial Eligibility.
+
+   (1) To be eligible for the City Family Exit Plan Supplement Program, a household must meet the following eligibility requirements: 
+
+      (A) The household must be in receipt of Public Assistance, all members eligible for Public Assistance must be in receipt of such benefits, and HRA must have determined that the household will be eligible for Public Assistance upon exit from shelter; 
+
+      (B) The household must include a child who meets the criteria set forth in Section 369.2(c) of Title 18 of the New York Codes, Rules and Regulations or a pregnant woman; 
+
+      (C) The household must reside in a DHS shelter that has been identified for imminent closure or be in receipt of rental assistance pursuant to subchapter C of chapter 7 of this title and at the time the household was approved to receive such rental assistance have resided in a DHS shelter that was identified for imminent closure;
+
+      (D) The household's Public Assistance benefits must not be reduced pursuant to New York Social Services Law § 342; 
+
+      (E) The household must have a lease, or an agreement in writing to rent for at least one year, the residence to which the CITYFEPS rent supplement will be applied and must have a monthly rent obligation that (i) does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
+										 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; 
+
+      (F) The residence to which the CITYFEPS rent supplement shall be applied must be located within the City of New York; 
+
+      (G) The household must apply for housing assistance pursuant to Section 8 of the United States Housing Act of 1937, if available, and accept the benefit, if offered; 
+
+      (H) The household must agree to have its CITYFEPS rent supplement paid directly to the landlord; and 
+
+      (I) The household must: 
+
+         (i) provide accurate, complete and current information on income and household composition; 
+
+         (ii) provide supporting documentation as necessary to verify eligibility and the information needed to determine the CITYFEPS rent supplement amount, maximum rent, and any required contributions by household members; and 
+
+         (iii) report to HRA any changes in household income or household composition within ten days of such changes occurring. 
+
+   (2) The number of eligible households that can be approved to receive rent supplements under the City Family Exit Plan Supplement Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA. 
+
+   (3) At the time of approval, HRA will calculate, pursuant to 68 RCNY § 8-05
+										, the household's monthly CITYFEPS rent supplement amount and any contributions required to be made by household members not eligible for Public Assistance. The CITYFEPS rent supplement amount and the amounts of any required contributions are subject to change during the household's participation in the CITYFEPS program as set forth in 68 RCNY § 8-05
+										. 
+
+(b) Continued Eligibility. A household's continued receipt of a rent supplement under the City Family Exit Plan Supplement Program is conditioned on the household continuing to meet the requirements of subparagraphs (A), (B), (F), (H), and (I) of paragraph (1) of subdivision (a) of this section and continuing to reside in the residence to which the CITYFEPS rent supplement is being applied, except as provided in 68 RCNY §8-06. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 12/30/2015, eff. 1/29/2016) 
+
+
+
+
+
+
+*§ 8-05 Maximum Rents and Calculation of Monthly Program Participant Contributions and Rent Supplement Amounts.* ::
+
+
+(a) Except as otherwise provided in this section, at the time of approval pursuant to paragraph (2) of subdivision (a) of 68 RCNY §8-03 or 8-04, the maximum CITYFEPS rent supplement amount and the maximum rent towards which CITYFEPS rent supplements may be applied shall not exceed the amounts set forth in the table below.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Household Size
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+    * - Maximum Rent
+      - $1,213
+      - $1,268
+      - $1,515
+      - $1,515
+      - $1,956
+      - $1,956
+      - $2,197
+      - $2,197
+    * - Maximum CITYFEPS Rent Supplement
+      - $936
+      - $985
+      - $1,115
+      - $1,065
+      - $1,455
+      - $1,432
+      - $1,651
+      - $1,651
+~
+
+
+
+ 
+
+(b) Except as provided in subdivision (h) of this section, for the purposes of subdivision (a) of this section, the household size equals the number of household members in receipt of Public Assistance. 
+
+(c) Except as provided in subdivisions (e) and (f) of this section, and provided the household remains eligible for a CITYFEPS rent supplement, the CITYFEPS rent supplement amount shall be the household's actual rent less the sum of (1) any contributions required to be made in accordance with the provisions of subdivision (g) of this section, and (2) the standard Public Assistance shelter allowance as set forth in Section 352.3(a)(1) of Title 18 of the New York Codes, Rules and Regulations for the number of members in the household in receipt of Public Assistance, provided that the CITYFEPS rent supplement amount shall not exceed the maximum CITYFEPS rent supplement amount for the household size as set forth in subdivision (a) of this section. If the actual rent exceeds the sum of the CITYFEPS rent supplement amount and the standard Public Assistance shelter allowance, the household shall pay directly to the landlord the amount that the actual rent exceeds such sum. 
+
+(d) If a household in receipt of a CITYFEPS rent supplement receives a Public Assistance shelter allowance less than the standard Public Assistance shelter allowance set forth in Section 352.3(a)(1) of Title 18 of the New York Codes, Rules and Regulations, the household shall pay directly to the landlord the difference between the standard Public Assistance shelter allowance amount and the Public Assistance shelter allowance amount that the household receives. 
+
+(e) If the household's Public Assistance benefits are reduced pursuant to New York Social Services Law § 342, the CITYFEPS rent supplement amount will be reduced using the same rule applied to reduce the Public Assistance benefits. The CITYFEPS rent supplement amount will be so reduced for the duration of the Public Assistance benefits reduction and shall be reinstated at the expiration of the Public Assistance benefits reduction. The household shall pay any reduction amounts directly to the landlord. 
+
+(f) If a household is in receipt of the maximum CITYFEPS rent supplement amount and the household's monthly rent obligation increases above the applicable maximum rent set forth in subdivision (a) of this section, the household shall pay the amount of the rent increase directly to the landlord. In the event of such a rent increase, HRA may make exceptions to the maximum CITYFEPS rent supplement amount on a case-by-case basis 
+
+(g) A member of the household who is not in receipt of Public Assistance and who receives income, earned or unearned, must contribute a pro rata share of the rent or thirty percent of his or her gross income, whichever is less, towards rent. A person ineligible for Public Assistance on the basis of his or her immigration status shall not be included in the household for purposes of determining the maximum rent or maximum CITYFEPS rent supplement amount as set forth in subdivision (a) of this section and will not be subject to the program participant contribution requirement as set forth in this subdivision. If the household contains an individual contributing a pro rata share of rent or thirty percent of his or her gross income, the household's maximum rent shall be equal to the lesser of: (1) the sum of the maximum rent for the household size as determined pursuant to subdivision (b) of this section and such individual's required contribution, or (2) the maximum rent for the household if the household size were increased by one. Such individual's contribution shall be deducted from the household's actual rent for the purposes of determining the CITYFEPS rent supplement amount as set forth in subdivision (c) of this section. 
+
+(h) When an individual ineligible for Public Assistance on the basis of his or her immigration status has income that must be taken into consideration in calculating Public Assistance pursuant to New York Social Services Law § 131-a, such individual shall be included in the household for purposes of determining the maximum rent but shall not be included in the household for purposes of determining the maximum CITYFEPS rent supplement amount as set forth in subdivision (a) of this section and will not be subject to the program participant contribution requirement set forth in subdivision (g) of this section. 
+
+(i) A CITYFEPS rent supplement amount and any contributions required by subdivision (g) of this section shall be increased or decreased as a result of changes in a household's income, composition, or rent, provided that such increased or decreased rent supplement amount and contributions are calculated in accordance with the provisions of this section. Program participants shall promptly inform HRA of changes in income, household composition, or rent. Program participants will receive a notice from HRA of any change in their CITYFEPS rent supplement amount and required contributions. 
+
+(j) HRA shall pay the CITYFEPS rent supplement directly to the landlord each month for so long as the program participant's household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rent supplement payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as DHS shelter immediately prior to lease signing. Notwithstanding any inconsistent provisions of this section, (i) any such advance rent supplement payments shall be calculated based on the household size at the time of lease signing and (ii) if the household's rent supplement amount would otherwise have been reduced under this section during the year in which rent supplement payments have been paid in advance, the household is required to pay the difference to HRA. If the household does not pay such difference to HRA during the year in which rent supplement payments have been paid in advance, HRA shall have the right to recover such difference from the household. 
+
+(k) Notwithstanding any inconsistent provision of this section, if HRA determines that due to current market conditions, it is unlikely that households consisting of five or more individuals will be able to secure housing within the next 90 days at the rents otherwise permitted under this section, HRA may in its discretion increase the maximum rent towards which CITYFEPS rent supplements may be applied pursuant to subdivision (a) of this section to up to 130 percent of the 2014 New York City Housing Authority Section 8 Voucher Payment Standards for units for the household size. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 10/20/2015, eff. 11/19/2015) 
+
+
+
+
+
+
+*§ 8-06 Moves.* ::
+
+
+(a) A household receiving a CITYFEPS rent supplement may not move to a new residence and maintain eligibility for a CITYFEPS rent supplement except with the prior approval of HRA. HRA shall grant such approval if: 
+
+   (1) The new monthly rent obligation does not exceed the maximum rent for the household's size under subdivision (a) of 68 RCNY § 8-05
+										 and is protected from increases for at least one year except as authorized under rent stabilization laws and rules or HUD regulations; and 
+
+   (2) The need for the move is a direct result of: (A) the household's inability to pay required contributions pursuant to subdivision (g) of 68 RCNY § 8-05
+										 due to changes in the household's income, composition or rent obligations; (B) a vacate order issued by a City agency or court; or (C) a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis. 
+
+(b) If HRA has approved a move to a new residence, HRA shall recalculate the monthly CITYFEPS rent supplement amount and program participant contribution pursuant to 68 RCNY § 8-05
+										. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015) 
+
+
+
+
+
+
+*§ 8-07 Restoration.* ::
+
+
+If a household becomes ineligible for CITYFEPS because it has become ineligible for Public Assistance as a result of excess income or for reasons other than pursuant to New York Social Services Law § 342, the household may have its CITYFEPS rent supplement restored if (a) the household continues to reside in the address in which it resided at the time its Public Assistance benefits ceased; and (b) its Public Assistance benefits are reinstated within twelve months after such benefits ceased. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015) 
+
+
+
+
+
+
+*§ 8-08 Agency Review Conference and HRA Administrative Appeal Process.* ::
+
+
+(a) Right to HRA Administrative Review. An applicant or program participant may request an agency review conference and/or an HRA administrative hearing to seek review of any determinations or actions made by HRA under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, by HRA in implementing the provisions of this subchapter. 
+
+(b) Agency Review Conference.
+
+   (1) If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised. 
+
+   (2) An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing. 
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an HRA administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date. 
+
+   (4) A request for an agency review conference will extend the time period to request an HRA administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference. 
+
+(c) Request for an HRA Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice. 
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action. 
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant's or program participant's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee's authorization. 
+
+   (2) Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing. 
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination by HRA that CITYFEPS rent supplement payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of CITYFEPS rent supplement payments at the CITYFEPS rent supplement amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that: 
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and 
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination. 
+
+   (2) There is no right to continued CITYFEPS rent supplement payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law. 
+
+   (3) Rent supplement payments will not continue pending the issuance of a hearing decision when: 
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or 
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing. 
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rent supplement payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section. 
+
+(f) Notice. HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request. 
+
+(g) Examination of Case Record. The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her CITYFEPS program case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing. 
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA. 
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action. 
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested. 
+
+   (3) The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA. 
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made. 
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has: 
+
+      (A) contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or 
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date. 
+
+   (2) HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision. 
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing. 
+
+(l) Hearing Decision.
+
+   (1) The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action. 
+
+   (2) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any. 
+
+(m) Additional Appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit. 
+
+   (2) The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA. 
+
+   (3) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any. 
+
+   (4) Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 10/20/2015, eff. 11/19/2015; amended City Record 11/24/2015, eff. 12/24/2015) 
+
+
+
+
+
+
+*§ 8-09 Additional Provisions.* ::
+
+
+(a) If a household is eligible for one or both of the rent supplement programs described in this chapter or any rental assistance program described in chapter 7 of this title, HRA reserves the right to determine, based on administrative and programmatic needs, which program the household will participate in. 
+
+(b) CITYFEPS rent supplements cannot be combined with any other rent subsidies other than a Public Assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except with the prior approval of HRA on a case-by-case basis. 
+
+(c) If HRA identifies a household as potentially eligible for Section 8 or other federal housing program subsidies or vouchers, the household must apply for such benefits and accept them if offered. 
+
+(d) Applicants are responsible for identifying potential housing. However, shelter staff may provide assistance to such individuals in their housing search. 
+
+(e) A landlord who signs a lease or other rental agreement with a household in receipt of a CITYFEPS rent supplement is prohibited from demanding, requesting, or receiving any amount above the rent or fees as stipulated in the lease or rental agreement regardless of any changes in household composition. The cost of heat and hot water must be included in the rent. A landlord who demands, requests or receives any amount above what is set forth in the lease or rental agreement will be barred from further participation in any HRA rent supplement or rental assistance programs and may be barred from other rent supplement or rental assistance programs administered by the City of New York. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing. 
+
+(f) If a program participant moves or is evicted from the apartment to which CITYFEPS rent supplement payments have been applied, the landlord must return any over-payment to HRA. 
+
+(g) HRA will not maintain waitlists for the CITYFEPS programs. 
+
+(h) HRA shall provide a household moving expenses, a security deposit voucher equal to one month's rent, and a broker's fee equal to up to one month's rent when available under Section 352.6 of Title 18 of the New York Codes, Rules and Regulations. 
+
+(Added City Record 7/16/2015, eff. 8/15/2015; amended City Record 10/20/2015, eff. 11/19/2015) 
+
+
+
+
+
+
+
+**Subchapter B: SEPS Program**
+
+
+
+*§ 8-10 Definitions.* ::
+
+
+For the purposes of this subchapter, the following terms have the following meanings:
+
+(a) "DHS" means the New York City Department of Homeless Services.
+
+(b) A "DHS Shelter for Single Adults" means a shelter for single adults operated by or on behalf of DHS, or a DHS veterans shelter as that term is defined in § 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
+
+(c) A "DHS Shelter for Adult Families" means a shelter for adult families operated by or on behalf of DHS.
+
+(d) "Gross income" means the sum of earned income, as defined and computed as set forth in Section 352.17 of Title 18 of the New York Codes, Rules and Regulations, except that earned income does not include income earned through subsidized employment, and unearned income, as defined and computed as set forth in Section 387.10 of Title 18 of the New York Codes, Rules and Regulations, except that unearned income shall only include such income that is regularly recurring.
+
+(e) The "household" means the individual or individuals who have applied for, have had an application submitted on their behalf for, or are in receipt of SEPS rent supplement payments pursuant to this subchapter, regardless of their eligibility for Public Assistance. The term "household" does not include other individuals residing in a residence within which a program participant is renting a single room.
+
+(f) "HRA" means the New York City Human Resources Administration.
+
+(g) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(h) A "primary tenant" is the person whose name is on the lease or who has the primary responsibility for payment of the monthly rent for a residence.
+
+(i) A "program participant" or "participant" means an individual who has been approved to participate in the SEPS Program and has entered into a rental agreement for a residence to which a SEPS rent supplement has been or is being applied.
+
+(j) "Public Assistance" means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159 and regulations promulgated thereunder.
+
+(k) A "rental agreement" means a lease or other written agreement to rent a residence for at least one year.
+
+(l) The "Special Exit and Prevention Supplement Program" or "SEPS Program" means the rent supplement program described in this subchapter.
+
+(m) "Subsidized employment" means subsidized private sector employment or subsidized public sector employment as those terms are used in New York Social Services Law § 336(1)(b)-(c).
+
+
+
+
+
+
+
+
+*§ 8-11 Administration of the Special Exit and Prevention Supplement Program.* ::
+
+
+HRA shall administer the Special Exit and Prevention Supplement Program, except that initial eligibility determinations pursuant to subdivision (a) of 68 RCNY § 8-12 shall be made by HRA in consultation with DHS.
+
+
+
+
+
+
+
+
+*§ 8-12 The Special Exit and Prevention Supplement Program.* ::
+
+
+(a) Initial Eligibility.
+
+   (1) To be eligible for an initial year of participation in the SEPS Program, a household must meet the following eligibility requirements:
+
+      (A) The household must:
+
+         (i) include a member who currently resides in a DHS Shelter for Single Adults, and:
+
+            (I) resided in a shelter operated by or on behalf of DHS for any period of time between May 1, 2015 and July 31, 2015, or such other timeframe that HRA may designate in consultation with DHS and post on HRA's website, and within the twelve months prior to entering a shelter operated by or on behalf of DHS, had been evicted or left a residence located within the City of New York that (a) was the subject of an eviction proceeding; or (b) the member was required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the member eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations;
+
+            (II) resided in a shelter operated by or on behalf of DHS for any period of time between May 1, 2015 and July 31, 2015, or such other timeframe that HRA may designate in consultation with DHS and post on HRA's website, and was discharged to a shelter operated by or on behalf of DHS from a residential substance abuse treatment program, residential program or facility licensed or operated by the New York State Office of Mental Health or the New York State Office of Alcoholism and Substance Abuse Services, foster care placement, or correctional institution; or
+
+            (III) has previous or current United States military service;
+
+         (ii) currently reside in a DHS Shelter for Adult Families and be eligible for shelter, as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations, and:
+
+            (I) within the twelve months prior to entering a shelter operated by or on behalf of DHS, have been evicted or have left a residence located within the City of New York that (a) was the subject of an eviction proceeding; or (b) the household was required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations; or
+
+            (II) include a member who has previous or current United States military service;
+
+         (iii) include a member who is eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations as a victim of domestic violence within the meaning of Section 452.2(g) of Title 18 of the New York Codes, Rules and Regulations and New York Social Services Law § 459-a, and:
+
+            (I) resides in a DHS Shelter for Single Adults or a DHS Shelter for Adult Families but has not refused placement in an HRA shelter; or
+
+            (II) resides in an HRA Shelter, has reached the applicable maximum length of stay permitted under New York Social Services Law § 459-b, and is at risk of entry into a DHS Shelter for Single Adults or a DHS Shelter for Adult Families;
+
+         (iv) meet the following criteria:
+
+            (I) be at risk of entry into a DHS Shelter for Single Adults or a DHS Shelter for Adult Families as determined by HRA in consultation with DHS; and
+
+            (II) within the last twelve months have been evicted from or have lived in a residence located within the City of New York that (a) was or is the subject of an eviction proceeding; or (b) the household was or is required to vacate as a result of a vacate order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency, other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations;
+
+         (v) include a member who is at risk of entry into a DHS Shelter for Single Adults or a DHS Shelter for Adult Families, as determined by HRA in consultation with DHS, and has previous or current United States military service; or
+
+         (vi) be in receipt of rental assistance pursuant to subchapter C of chapter 7 of this title and have met the requirements of item (i), (ii), (iii), (iv) or (v) of this subparagraph at the time the household was approved to receive such rental assistance.
+
+      (B) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services;
+
+      (C) The household must be in receipt of Public Assistance;
+
+      (D) The household must have a rental agreement for the residence to which the SEPS rent supplement will be applied and a monthly rent obligation that (i) does not exceed the applicable maximum rent under 68 RCNY § 8-13 and (ii) is protected from increases for at least one year except as authorized under rent stabilization laws and rules or U.S. Department of Housing and Urban Development regulations;
+
+      (E) The residence to which the SEPS rent supplement shall be applied must be located within the City of New York;
+
+      (F) The household must apply for any available federal housing assistance program that HRA has determined the household may be eligible for, including but not limited to HUD-Veteran Affairs Supportive Housing, Section 8, and Supportive Services for Veteran Families, and accept the benefit if offered;
+
+      (G) The household must agree to have its SEPS rent supplement paid directly to the landlord; and
+
+      (H) The household must:
+
+         (i) provide accurate, complete and current information on income and household composition; and
+
+         (ii) provide supporting documentation as necessary to verify eligibility and the information needed to determine the SEPS rent supplement amount, maximum rent, and any required contributions.
+
+   (2) The number of eligible households that can be approved to participate in the SEPS Program will be limited by the amount of available funding. Applications must be submitted on a form and in a format established by HRA.
+
+   (3) At the time of approval, HRA will calculate the household's monthly program participant contribution and the maximum monthly rent supplement amount pursuant to 68 RCNY § 8-13. Except as provided in 68 RCNY § 8-14, the monthly program participant contribution and monthly rent supplement amount will not change during the first year of the program, regardless of changes in household composition or income.
+
+(b) Renewals after the First Year.
+
+   (1) Subject to the availability of funding, a household participating in the SEPS Program will receive up to four one-year renewals in the SEPS Program if:
+
+      (A) The household's total gross income does not exceed 200 percent of the federal poverty level as established annually by the U.S. Department of Health and Human Services; and
+
+      (B) The household provides prompt notice to HRA of any rent arrears that have accrued so that they may be addressed.
+
+   (2) A program participant who meets the requirements in paragraph (1) of this subdivision will continue to receive annual renewals after receiving the renewals provided for in that paragraph if the program participant either:
+
+      (A) receives social security disability insurance benefits under Title II of the federal Social Security Act or supplemental security income under Title XVI of the federal Social Security Act, or receives a recurring monthly Public Assistance grant and has been determined by HRA to be potentially eligible for such social security disability insurance benefits or supplemental security inco me based on a documented disability; or
+
+      (B) receives compensation for a disability resulting from a line-of-duty injury or disease pursuant to Subchapter II or Subchapter IV of Chapter 11 of Part II of Title 38 of the United States Code, or receives a non-service-connected disability pension pursuant to Subchapter II of Chapter 15 of Part II of Title 38 of the United States Code.
+
+   (3) HRA will determine a household's eligibility for renewal in the SEPS Program at the end of each year of the household's participation in the program, subject to the availability of funding. Before the start of each one-year renewal, HRA will recalculate the household's monthly program participant contribution and the monthly rent supplement amount pursuant to 68 RCNY § 8-13. Except as provided in 68 RCNY § 8-14, the monthly program participant contribution and monthly rent supplement will not change during the one-year renewal period, regardless of changes in household composition or income.
+
+   (4) HRA in its discretion may waive any of the requirements in paragraph (1) of this subdivision on a case-by-case basis where non-renewal is likely to result in the household's entry into shelter. HRA may also waive the requirement set forth in subparagraph (B) of paragraph (1) of this subdivision if the household's failure to meet the requirement was due to circumstances beyond its control.
+
+
+
+
+
+
+
+
+*§ 8-13 Maximum Rents and Calculation of Monthly Program Participant Contributions and Rent Supplements.* ::
+
+
+(a) Apartment Rentals.
+
+   (1) The maximum monthly rent for an apartment towards which a SEPS rent supplement may be applied during the first year of the rental agreement must not exceed the amounts in the table below:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Household Size
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+    * - Maximum Rent
+      - $1,213
+      - $1,268
+      - $1,515
+      - $1,515
+      - $1,956
+      - $1,956
+      - $2,197
+      - $2,197
+~
+
+
+
+ 
+
+   (2) A program participant contribution of thirty percent of the household's total gross income at the time of approval or renewal plus any amount by which the rent after the first year exceeds the maximum rent for the household's size as set forth in paragraph (1) of this subdivision is required and will be paid by the program participant directly to the landlord each month. Such payments will be deducted from the monthly rent to determine the monthly rent supplement. HRA shall pay the monthly rent supplement amount directly to the landlord each month as long as the household remains eligible and funding for the program remains available, except that HRA may in its discretion pay one year of rent supplement payments in advance to a landlord who has entered into a lease with a program participant for a unit that was used as a shelter unit operated by or on behalf of DHS immediately prior to lease signing. Any such advance rent supplement payments shall be calculated based on the household size at the time of lease signing. If the household's rent supplement amount would otherwise have been reduced under this section during the year in which rent supplement payments have been paid in advance, the household shall pay the difference to HRA. If the household does not pay the difference to HRA during the year in which rent supplement payments have been paid in advance, HRA has the right to recover such difference from the household.
+
+   (3) If HRA determines that due to current market conditions, it is unlikely that households consisting of five or more individuals will be able to secure housing within the next ninety days at the rents permitted under paragraph (1) of this subdivision, HRA may in its discretion increase the maximum rent towards which SEPS rent supplements may be applied pursuant to such paragraph to up to 130 percent of the 2014 New York City Housing Authority Section 8 Voucher Payment Standards for units for the household size.
+
+(b) Room Rentals.
+
+   (1) The maximum monthly rent for a single room towards which a SEPS rent supplement may be applied must not exceed $800 during the first year, except that HRA may make exceptions on a case-by-case basis if the rent is reasonable in relation to current rents for comparable units in the private unassisted market. It is further provided that:
+
+      (A) Where the rental agreement is with a primary tenant who receives Public Assistance, the household's monthly rent cannot exceed the difference between the primary tenant's rent obligation to the landlord and the primary tenant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the rental agreement; and
+
+      (B) In no event shall the household's monthly rent exceed the household's proportionate share of the rent for the entire residence. The determination of what constitutes the participant's proportionate share of the rent shall be based on the formula set forth in Section 2525.7 of Title 9 of the New York Code of Rules and Regulations or a comparable measure.
+
+   (2) A program participant contribution of (a) thirty percent of the household's total monthly gross income at the time of approval or renewal plus (b) any amount by which the rent after the first year exceeds $800 shall be paid by the program participant directly to the landlord or primary tenant, as applicable, each month. The program participant contribution will be deducted from the household's monthly rent or $800, whichever is less, to determine the monthly rent supplement. HRA shall pay the monthly rent supplement directly to the landlord or the primary tenant, as applicable, each month for so long as the program participant remains eligible and funding for the program remains available.
+
+
+
+
+
+
+
+
+*§ 8-14 Moves.* ::
+
+
+(a) A household participating in the SEPS Program may not move to a new residence and maintain eligibility for the SEPS Program except with the approval of HRA. The household must obtain such approval prior to moving to a new residence, provided that HRA may consider a request for approval made after the move if a household is unable to obtain such approval prior to the move due to circumstances beyond the household's control.
+
+(b) HRA shall grant approval for a move if the household is moving from a room to an apartment, unless the household is breaking a lease for the room, in which case the household must establish either good cause for the move or that the landlord is willing to release the program participant from the lease. In all other situations, HRA shall grant approval for a move from one residence to another residence only upon a showing by the household that there is good cause for the move. If the requested move is to a residence with a higher rent than the rent for the current residence, approval will also be subject to the availability of funding.
+
+(c) If HRA has approved a move to a new residence, HRA shall recalculate the monthly program participant contribution and monthly rent supplement and those amounts shall not change for one year from the effective date of the rental agreement for the new residence, regardless of changes in income or household composition. If the effective date of the rental agreement for the new residence is not more than ten months after the start of the household's current year of participation in the program, then the household's current year in the SEPS Program shall begin anew on the effective date of such rental agreement. If the effective date of the rental agreement for the new residence is more than ten months after the start of the household's current year in the program and the household is eligible for renewal in the SEPS Program, then the household's renewal period shall begin on the effective date of such rental agreement.
+
+
+
+
+
+
+
+
+*§ 8-15 Agency Review Conference and HRA Administrative Appeal Process.* ::
+
+
+(a) Right to HRA Administrative Review. An applicant or program participant may request an agency review conference and/or an HRA administrative hearing to seek review of any determinations or actions made by HRA under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, by HRA in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference. 
+
+   (1) If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing.
+
+   (3) An agency review conference must be requested no later than sixty days after the challenged determination or action, provided further that if an HRA administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request an HRA administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for an HRA Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made no later than sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant's or program participant's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required for an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee's authorization.
+
+   (2) Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination by HRA that SEPS rent supplement payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of SEPS rent supplement payments at the SEPS rent supplement amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued SEPS rent supplement payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.
+
+   (3) Rent supplement payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rent supplement payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (m) of this section.
+
+(f) Notice. HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request.
+
+(g) Examination of Case Record. The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her SEPS Program case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA.
+
+(i) Conduct of Administrative Hearing. 
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing. 
+
+   (1) HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has:
+
+      (A) contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision.
+
+   (1) The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (2) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any.
+
+(m) Additional Appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+
+
+
+
+
+
+
+*§ 8-16 Additional Provisions.* ::
+
+
+(a) If a household is eligible for any other rental assistance program described in chapter 7 or 8 of this title, HRA reserves the right to determine, based on administrative and programmatic needs, the program for which the household will be approved or certified.
+
+(b) SEPS rent supplements cannot be combined with any other rent subsidies other than a Public Assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except that HRA may make exceptions on a case-by-case basis.
+
+(c) The household must apply for any available federal housing assistance program that HRA has determined the household may be eligible for, including but not limited to HUD-Veteran Affairs Supportive Housing, Section 8, and Supportive Services for Veteran Families, and accept the benefit if offered.
+
+(e) Households are responsible for identifying potential housing. However, shelter staff may provide assistance to individuals in their housing search.
+
+(f) A landlord or primary tenant who has entered into a rental agreement with a program participant is prohibited from demanding, requesting, or receiving any monies, goods or services above the rent or any applicable fees as set forth in the rental agreement regardless of any changes in household composition or income. The cost of heat and hot water must be included in the rent. A landlord or primary tenant who demands, requests or receives any monies, goods or services above the rent or any applicable fees as set forth in the rental agreement will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a landlord or primary tenant on a disqualification list, HRA will provide notice to the landlord or primary tenant and an opportunity to object in writing.
+
+(g) If a household moves or is evicted from the apartment or room to which SEPS rent supplement payments have been applied, the landlord or primary tenant must return any overpayment to HRA.
+
+(h) HRA will not maintain a waitlist for the SEPS Program.
+
+(i) HRA shall provide a household moving expenses, a security deposit voucher equal to one month's rent, and a broker's fee equal to up to one month's rent when available under Section 352.6 of Title 18 of the New York Codes, Rules and Regulations.
+
+(j) If a household includes a person younger than eighteen years of age, SEPS rent supplement payments may not be applied towards a room rental. A household residing in a single room must promptly notify HRA if it intends to add a person younger than eighteen years of age to the household so that HRA can assist the household in implementing a move pursuant to 68 RCNY § 8-14.
 
 
 

@@ -3765,151 +3765,6 @@ The lettering on signs or informational handouts shall be of sufficient size so 
 
 
 
-Chapter 19: Waiting List Rules For Full-term and Temporary Mobile Food Unit Permits and Full-term Mobile Food Unit Permits Designated Exclusively For Use In Specific Boroughs
---------------------------------------------------
-
-
-
-*§ 19-01 Definitions.* ::
-
-
-(a)  Words and terms used in these rules shall have the meanings specified in Section 17-306 of the Administrative Code.
-
-(b) "Establishment", "establish" or "established" shall refer to the initial creation of the waiting lists for full-term and temporary mobile food unit permits and the four additional separate waiting lists for full-term borough specific permits as well as all subsequent supplementations and re-establishments of any of these lists as necessary for filling both vacancies from the lists and waiting list positions for these permits.
-
-
-
-
-
-
-*§ 19-02 Direction to Establish Waiting Lists.* ::
-
-
-The Department shall establish separate waiting lists for full-term and temporary mobile food unit permits as well as four additional separate waiting lists for full-term permits that are designated exclusively for use in the boroughs of the Bronx, Brooklyn, Queens and Staten Island. The waiting lists shall consist of the names of natural persons, corporations, partnerships or limited liability companies authorized to hold a permit, who are selected for placement on these waiting lists in accordance with these rules. Any listing purporting to be a waiting list for mobile food unit permits, except for a listing authorized by Local Law 34 of 1993, in existence prior to the effective date of this rule shall be deemed void and of no force or effect.
-
-
-
-
-
-
-*§ 19-03 Eligibility for Place on Waiting Lists.* ::
-
-
-To be eligible for a position on any of the waiting lists established pursuant to these rules, a person (or in the case of a corporation, partnership or limited liability company, an officer, member, manager or partner thereof authorized to act for such person) shall hold a valid mobile food vendor license at least ten days prior to the date that the Department establishes such waiting lists.
-
-
-
-
-
-
-*§ 19-04 Notice of the Establishment of Waiting Lists.* ::
-
-
-At least 45 days prior to the establishment of waiting lists notice of the Department's intention to establish such waiting lists shall be published in the City Record. Such notice shall also be mailed to persons holding mobile food vendor licenses at the time of such publication, as well as to other interested parties known to the Department. Such Notice shall advise that only those persons in possession of valid mobile food vendor licenses at least ten days prior to the establishment of such waiting lists shall be eligible for inclusion on any such waiting list.
-
-
-
-
-
-
-*§ 19-05 Procedure for Requesting a Place on Any of the Waiting Lists.* ::
-
-
-The Division of Permits shall use a mail-in procedure for establishing all waiting lists. Such procedure shall allow persons requesting a place on any of the six waiting lists to submit a waiting list application, which shall contain their license number and the type of permit they seek, by mail postmarked during a period of time to be determined by the Division of Permits, which shall be specified in the Notice published pursuant to 24 RCNY § 19-04. A person's eligibility for inclusion on the waiting lists authorized to be created pursuant to these rules shall be limited. Persons shall be eligible for inclusion on the full-term waiting list, the temporary permit waiting list and one borough-specific full-term permit waiting list of the applicant's choice at any one time. Pursuant to § 17-307(b)(2)(c) a person shall be issued no more than one permit, whether full-term, borough-specific full-term, or temporary.
-
-
-
-
-
-
-*§ 19-06 Procedure for Establishment of Permit Waiting Lists.* ::
-
-
-Not less than 45 days after the Notice required by 24 RCNY § 19-04 is published in the City Record, the Department shall create a full-term permit waiting list, a temporary permit waiting list and four separate borough-specific full-term permit waiting lists pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses, or in the case of a corporation, limited liability company or partnership, persons on whose behalf such licenses are held on the date such lists are created and who have mailed in an application pursuant to 24 RCNY § 19-05 shall be included in this random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in 24 RCNY § 19-07 for the particular list shall not be placed on that waiting list. The Department shall notify persons assigned a position on a waiting list by mailing a notice to the address provided by the applicant in such applicant's waiting list application.
-
-
-
-
-
-
-*§ 19-07 Number of Positions on the Waiting Lists.* ::
-
-
-The maximum number of positions on the full-term permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such list exceed two thousand five hundred (2,500) positions. The maximum number of positions on the temporary permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such waiting list exceed one thousand (1,000) positions. When the number of potential applicants on either the full-term or temporary permit waiting lists falls below two hundred (200), the Permits Division shall supplement such waiting lists with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05. The maximum number of positions on each of the four waiting lists for full-term permits to be used exclusively for vending in the specified boroughs of the Bronx, Brooklyn, Queens and Staten Island shall also be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill future vacancies as they arise. In no event shall any of these borough-specific permit waiting lists exceed one hundred (100) positions or four hundred (400) for all borough-specific list positions combined. When the number of potential applicants on any of the borough-specific permit waiting lists falls below twenty-five (25), the Permits Division shall seek to supplement such waiting list with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05.
-
-
-
-
-
-
-*§ 19-08 Responsibility of Those on Waiting Lists to Notify the Department of Change of Address.* ::
-
-
-The names of persons selected for a waiting list created pursuant to these rules shall be entered on each list with their address of record as known to the Department through mobile food vendor license records, in the case of a corporation, partnership or limited liability company, the address of such corporation, partnership or limited liability company and the residence and business address of the officer, partner, manager, or member holding a mobile food vendor license who is authorized to act on behalf of such corporation, partnership, or limited liability company shall be entered. Thereafter, it shall be the responsibility of each person placed on a waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information may result in the loss of a person's waiting list position(s). Any person who does not respond to any notice of the Department mailed to his or her address of record as known to the Department through mobile food vendor license records because change of address information was not provided to the Department in a timely manner shall be deemed to have abandoned his or her place on a waiting list and shall not be reinstated to any list unless such person participates in a process of list establishment pursuant to 24 RCNY §§ 19-03 through 19-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
-
-
-
-
-
-
-*§ 19-09 Multiple Waiting List Positions on Any Single List Prohibited.* ::
-
-
-A person may submit waiting list applications for positions on the following specific lists: the full-term permit waiting list, the temporary permit waiting list and one of the four borough-specific permit waiting lists that are to be created pursuant to these rules. A person may not, under any circumstances, occupy more than one waiting list position on any of the three waiting lists selected by the applicant and no person shall be eligible to obtain more than one permit. Before the creation of any of these lists through the random selection process, the Department shall ensure that a mobile food vendor licensee is represented only once in the pool of licensees from which the random listing or selection to each list is made. For purposes of the waiting lists only, officers, members, managers and partners who represent corporations, limited liability companies and partnerships that are current mobile food unit permit holders shall not be excluded from the pool from which the randomized waiting lists are to be created solely on the basis that such officer, member, manager or partner is a licensee acting on behalf of a corporation, limited liability company or partnership, provided each such individual possesses a valid mobile food vendor license in accordance with these rules. Such officers, members, managers and partners, will be deemed to be representing themselves as individuals, and not the corporation, limited liability company or partnership with which they are associated, when placed on any waiting list, and shall be placed on any such waiting list in their individual capacities. Where such individual is acting on behalf of a corporation, limited liability company or partnership, the name of the corporation, limited liability company or partnership shall be placed on a waiting list with the name of the individual who is acting on its behalf. No partner, member or manager of a limited liability company or director, shareholder or officer of a corporation shall appear on the same waiting list as the partnership, limited liability company or corporation which he or she represents and/or has an interest in unless he or she holds the waiting list position in his or her individual capacity. Should the Department receive more than one request for a waiting list position from any person, requests subsequent to the first shall be deemed invalid. A person who submits more than one request for a position on any single waiting list will be disqualified and denied a position on the list if such multiple requests are deemed, in the sole discretion of the Department, to adversely affect the fairness or orderly establishment of a list. Nothing herein, which allows a person the right to hold a waiting list position in an individual capacity shall be deemed to give such person the right to obtain a mobile food unit permit in violation of § 17-307(b), (f) and (g) of the New York City Administrative Code.
-
-
-
-
-
-
-*§ 19-10 Selection of Applicants From a Waiting List.* ::
-
-
-When the number of outstanding full-term mobile food unit permits falls below two thousand eight hundred (2,800), the statutory maximum of three thousand (3,000) imposed by § 17-307(b)(2)(a) of the New York City Administrative Code less the two hundred (200) designated exclusively for use in specified boroughs by § 17-307(b)(2)(b)(i), and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. When the number of temporary mobile food unit permits outstanding falls below the statutory maximum of one thousand (1,000) imposed by § 17-307(f)(3)(a) of the Administrative Code, and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a temporary mobile food unit permit and shall form a pool of prospective applicants. When the number of borough-specific full-term mobile food unit permits outstanding for a particular borough falls below the statutory maximum of fifty (50) imposed by § 17-307(b)(2)(b)(i) of the Administrative Code and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list for that borough equal to the number of vacancies shall be notified in waiting list order of their eligibility to apply for a permit to be used exclusively in the specific borough and shall form a pool of prospective applicants. Only one permit shall be issued for each eligible waiting list position or applicant.
-
-
-
-
-
-
-*§ 19-11 Eligibility to Apply for a Mobile Food Vending Unit Permit.* ::
-
-
-Only those persons who have been notified that their waiting list number has been reached shall be eligible to submit an application for a mobile food unit permit. A person whose waiting list number is reached and who holds a full-term, temporary or full-term borough-specific mobile food unit permit including a person who is deemed to hold such a permit pursuant to subdivision g of § 17-307 of the Administrative Code, shall not be eligible for a permit with respect to such waiting list position unless such previously held permit is surrendered or expires before a permit with respect to such waiting list position is issued. Positions on a waiting list shall not be transferable.
-
-
-
-
-
-
-*§ 19-12 Notification of Eligibility to Apply for Permit.* ::
-
-
-Within ninety (90) days of the date that notification of eligibility to apply for a permit authorized to be issued by § 17-307 of the Administrative Code is mailed, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees therefor. The permit application shall be postmarked on or before the ninetieth day.
-
-
-
-
-
-
-*§ 19-13 Failure to Make Application for Permit.* ::
-
-
-The failure of any person on a waiting list who is notified of eligibility to apply for a permit, to complete the permit application process within ninety (90) days of being so notified, shall result in the forfeiture of such person's waiting list position.
-
-
-
-
-
-
-*§ 19-14 Abandonment of Waiting List Position.* ::
-
-
-A person who does not respond within ninety (90) days to a Departmental inquiry concerning a waiting list position held by such person, mailed by ordinary mail to the address provided by such person, shall be deemed to have abandoned such waiting list position. A person who holds a waiting list position may withdraw his or her name at any time by providing written notice to the Division of Permits with verifying documentation satisfactory to the Division.
-
-
-
-
 Chapter 20: Preference And/or Waiting List Rule For Full-term Mobile Food Unit Permits
 --------------------------------------------------
 
@@ -4051,6 +3906,151 @@ The failure of any person on the preference and/or waiting list who is notified 
 
 
 A person who does not respond within ninety (90) days to a Departmental inquiry concerning a preference and/or waiting list position held by such person, mailed by ordinary mail to the address provided by such person, shall be deemed to have abandoned such list position. A person who holds a preference and/or waiting list position may withdraw his or her name at any time by providing written notice to the Division of Permits with verifying documentation satisfactory to the Division.
+
+
+
+
+Chapter 19: Waiting List Rules For Full-term and Temporary Mobile Food Unit Permits and Full-term Mobile Food Unit Permits Designated Exclusively For Use In Specific Boroughs
+--------------------------------------------------
+
+
+
+*§ 19-01 Definitions.* ::
+
+
+(a)  Words and terms used in these rules shall have the meanings specified in Section 17-306 of the Administrative Code.
+
+(b) "Establishment", "establish" or "established" shall refer to the initial creation of the waiting lists for full-term and temporary mobile food unit permits and the four additional separate waiting lists for full-term borough specific permits as well as all subsequent supplementations and re-establishments of any of these lists as necessary for filling both vacancies from the lists and waiting list positions for these permits.
+
+
+
+
+
+
+*§ 19-02 Direction to Establish Waiting Lists.* ::
+
+
+The Department shall establish separate waiting lists for full-term and temporary mobile food unit permits as well as four additional separate waiting lists for full-term permits that are designated exclusively for use in the boroughs of the Bronx, Brooklyn, Queens and Staten Island. The waiting lists shall consist of the names of natural persons, corporations, partnerships or limited liability companies authorized to hold a permit, who are selected for placement on these waiting lists in accordance with these rules. Any listing purporting to be a waiting list for mobile food unit permits, except for a listing authorized by Local Law 34 of 1993, in existence prior to the effective date of this rule shall be deemed void and of no force or effect.
+
+
+
+
+
+
+*§ 19-03 Eligibility for Place on Waiting Lists.* ::
+
+
+To be eligible for a position on any of the waiting lists established pursuant to these rules, a person (or in the case of a corporation, partnership or limited liability company, an officer, member, manager or partner thereof authorized to act for such person) shall hold a valid mobile food vendor license at least ten days prior to the date that the Department establishes such waiting lists.
+
+
+
+
+
+
+*§ 19-04 Notice of the Establishment of Waiting Lists.* ::
+
+
+At least 45 days prior to the establishment of waiting lists notice of the Department's intention to establish such waiting lists shall be published in the City Record. Such notice shall also be mailed to persons holding mobile food vendor licenses at the time of such publication, as well as to other interested parties known to the Department. Such Notice shall advise that only those persons in possession of valid mobile food vendor licenses at least ten days prior to the establishment of such waiting lists shall be eligible for inclusion on any such waiting list.
+
+
+
+
+
+
+*§ 19-05 Procedure for Requesting a Place on Any of the Waiting Lists.* ::
+
+
+The Division of Permits shall use a mail-in procedure for establishing all waiting lists. Such procedure shall allow persons requesting a place on any of the six waiting lists to submit a waiting list application, which shall contain their license number and the type of permit they seek, by mail postmarked during a period of time to be determined by the Division of Permits, which shall be specified in the Notice published pursuant to 24 RCNY § 19-04. A person's eligibility for inclusion on the waiting lists authorized to be created pursuant to these rules shall be limited. Persons shall be eligible for inclusion on the full-term waiting list, the temporary permit waiting list and one borough-specific full-term permit waiting list of the applicant's choice at any one time. Pursuant to § 17-307(b)(2)(c) a person shall be issued no more than one permit, whether full-term, borough-specific full-term, or temporary.
+
+
+
+
+
+
+*§ 19-06 Procedure for Establishment of Permit Waiting Lists.* ::
+
+
+Not less than 45 days after the Notice required by 24 RCNY § 19-04 is published in the City Record, the Department shall create a full-term permit waiting list, a temporary permit waiting list and four separate borough-specific full-term permit waiting lists pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses, or in the case of a corporation, limited liability company or partnership, persons on whose behalf such licenses are held on the date such lists are created and who have mailed in an application pursuant to 24 RCNY § 19-05 shall be included in this random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in 24 RCNY § 19-07 for the particular list shall not be placed on that waiting list. The Department shall notify persons assigned a position on a waiting list by mailing a notice to the address provided by the applicant in such applicant's waiting list application.
+
+
+
+
+
+
+*§ 19-07 Number of Positions on the Waiting Lists.* ::
+
+
+The maximum number of positions on the full-term permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such list exceed two thousand five hundred (2,500) positions. The maximum number of positions on the temporary permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such waiting list exceed one thousand (1,000) positions. When the number of potential applicants on either the full-term or temporary permit waiting lists falls below two hundred (200), the Permits Division shall supplement such waiting lists with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05. The maximum number of positions on each of the four waiting lists for full-term permits to be used exclusively for vending in the specified boroughs of the Bronx, Brooklyn, Queens and Staten Island shall also be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill future vacancies as they arise. In no event shall any of these borough-specific permit waiting lists exceed one hundred (100) positions or four hundred (400) for all borough-specific list positions combined. When the number of potential applicants on any of the borough-specific permit waiting lists falls below twenty-five (25), the Permits Division shall seek to supplement such waiting list with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05.
+
+
+
+
+
+
+*§ 19-08 Responsibility of Those on Waiting Lists to Notify the Department of Change of Address.* ::
+
+
+The names of persons selected for a waiting list created pursuant to these rules shall be entered on each list with their address of record as known to the Department through mobile food vendor license records, in the case of a corporation, partnership or limited liability company, the address of such corporation, partnership or limited liability company and the residence and business address of the officer, partner, manager, or member holding a mobile food vendor license who is authorized to act on behalf of such corporation, partnership, or limited liability company shall be entered. Thereafter, it shall be the responsibility of each person placed on a waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information may result in the loss of a person's waiting list position(s). Any person who does not respond to any notice of the Department mailed to his or her address of record as known to the Department through mobile food vendor license records because change of address information was not provided to the Department in a timely manner shall be deemed to have abandoned his or her place on a waiting list and shall not be reinstated to any list unless such person participates in a process of list establishment pursuant to 24 RCNY §§ 19-03 through 19-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
+
+
+
+
+
+
+*§ 19-09 Multiple Waiting List Positions on Any Single List Prohibited.* ::
+
+
+A person may submit waiting list applications for positions on the following specific lists: the full-term permit waiting list, the temporary permit waiting list and one of the four borough-specific permit waiting lists that are to be created pursuant to these rules. A person may not, under any circumstances, occupy more than one waiting list position on any of the three waiting lists selected by the applicant and no person shall be eligible to obtain more than one permit. Before the creation of any of these lists through the random selection process, the Department shall ensure that a mobile food vendor licensee is represented only once in the pool of licensees from which the random listing or selection to each list is made. For purposes of the waiting lists only, officers, members, managers and partners who represent corporations, limited liability companies and partnerships that are current mobile food unit permit holders shall not be excluded from the pool from which the randomized waiting lists are to be created solely on the basis that such officer, member, manager or partner is a licensee acting on behalf of a corporation, limited liability company or partnership, provided each such individual possesses a valid mobile food vendor license in accordance with these rules. Such officers, members, managers and partners, will be deemed to be representing themselves as individuals, and not the corporation, limited liability company or partnership with which they are associated, when placed on any waiting list, and shall be placed on any such waiting list in their individual capacities. Where such individual is acting on behalf of a corporation, limited liability company or partnership, the name of the corporation, limited liability company or partnership shall be placed on a waiting list with the name of the individual who is acting on its behalf. No partner, member or manager of a limited liability company or director, shareholder or officer of a corporation shall appear on the same waiting list as the partnership, limited liability company or corporation which he or she represents and/or has an interest in unless he or she holds the waiting list position in his or her individual capacity. Should the Department receive more than one request for a waiting list position from any person, requests subsequent to the first shall be deemed invalid. A person who submits more than one request for a position on any single waiting list will be disqualified and denied a position on the list if such multiple requests are deemed, in the sole discretion of the Department, to adversely affect the fairness or orderly establishment of a list. Nothing herein, which allows a person the right to hold a waiting list position in an individual capacity shall be deemed to give such person the right to obtain a mobile food unit permit in violation of § 17-307(b), (f) and (g) of the New York City Administrative Code.
+
+
+
+
+
+
+*§ 19-10 Selection of Applicants From a Waiting List.* ::
+
+
+When the number of outstanding full-term mobile food unit permits falls below two thousand eight hundred (2,800), the statutory maximum of three thousand (3,000) imposed by § 17-307(b)(2)(a) of the New York City Administrative Code less the two hundred (200) designated exclusively for use in specified boroughs by § 17-307(b)(2)(b)(i), and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. When the number of temporary mobile food unit permits outstanding falls below the statutory maximum of one thousand (1,000) imposed by § 17-307(f)(3)(a) of the Administrative Code, and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a temporary mobile food unit permit and shall form a pool of prospective applicants. When the number of borough-specific full-term mobile food unit permits outstanding for a particular borough falls below the statutory maximum of fifty (50) imposed by § 17-307(b)(2)(b)(i) of the Administrative Code and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list for that borough equal to the number of vacancies shall be notified in waiting list order of their eligibility to apply for a permit to be used exclusively in the specific borough and shall form a pool of prospective applicants. Only one permit shall be issued for each eligible waiting list position or applicant.
+
+
+
+
+
+
+*§ 19-11 Eligibility to Apply for a Mobile Food Vending Unit Permit.* ::
+
+
+Only those persons who have been notified that their waiting list number has been reached shall be eligible to submit an application for a mobile food unit permit. A person whose waiting list number is reached and who holds a full-term, temporary or full-term borough-specific mobile food unit permit including a person who is deemed to hold such a permit pursuant to subdivision g of § 17-307 of the Administrative Code, shall not be eligible for a permit with respect to such waiting list position unless such previously held permit is surrendered or expires before a permit with respect to such waiting list position is issued. Positions on a waiting list shall not be transferable.
+
+
+
+
+
+
+*§ 19-12 Notification of Eligibility to Apply for Permit.* ::
+
+
+Within ninety (90) days of the date that notification of eligibility to apply for a permit authorized to be issued by § 17-307 of the Administrative Code is mailed, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees therefor. The permit application shall be postmarked on or before the ninetieth day.
+
+
+
+
+
+
+*§ 19-13 Failure to Make Application for Permit.* ::
+
+
+The failure of any person on a waiting list who is notified of eligibility to apply for a permit, to complete the permit application process within ninety (90) days of being so notified, shall result in the forfeiture of such person's waiting list position.
+
+
+
+
+
+
+*§ 19-14 Abandonment of Waiting List Position.* ::
+
+
+A person who does not respond within ninety (90) days to a Departmental inquiry concerning a waiting list position held by such person, mailed by ordinary mail to the address provided by such person, shall be deemed to have abandoned such waiting list position. A person who holds a waiting list position may withdraw his or her name at any time by providing written notice to the Division of Permits with verifying documentation satisfactory to the Division.
 
 
 
@@ -4321,6 +4321,143 @@ An application for a license or a license shall be subject to denial, suspension
 
 
 
+Chapter 24: Automated External Defibrillators In Certain Public Places
+--------------------------------------------------
+
+
+
+*§ 24-01 Definitions.* ::
+
+
+(a)  Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § 17-188 of the New York City Administrative Code.
+
+(b) When used in this chapter, the following words or terms shall have the following meaning:
+
+   (1) Department. "Department" means the New York City Department of Health and Mental Hygiene.
+
+   (2) Code. Code means the Administrative Code of the City of New York.
+
+   (3) Publicly Accessible Areas. Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a "public place", as that term is defined in § 17-188(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.
+
+   (4) Prominent Location. Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.
+
+   (5) Public access defibrillation provider. Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.
+
+   (6) Trained Responder(s). Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § 17-188(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.
+
+   (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
+
+   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
+
+
+
+
+
+
+*§ 24-02 Compliance with State Law.* ::
+
+
+Any automated external defibrillator required pursuant to § 17-188 of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.
+
+
+
+
+
+
+*§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
+
+
+(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
+
+(b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
+
+(c) Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer's specifications.
+
+
+
+
+
+
+*§ 24-04 Required Notice: Signage Information.* ::
+
+
+(a)  The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § 17-188(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.
+
+(b) The sign shall contain the following language in lettering and representation (symbol) in the size indicated:
+
+•     "DEFIBRILLATOR" or "AED" (minimum height – two (2) inches)
+
+•     Automated External Defibrillator (minimum height – five eighths (5/8) inch)
+
+•     Heart and lightening bolt logo (minimum height – two (2) inches)
+
+(c) A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:
+
+•     In event of emergency call 911 (minimum height – three eighths (3/8) inch)
+
+•     and
+
+•     Contact this facility's trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)
+
+(d) In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.
+
+(e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
+
+(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
+
+(g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
+
+
+
+
+
+
+*§ 24-05 Site-Specific Response Plan.* ::
+
+
+(a)  The owner or operator of a public place, as defined in § 17-188 of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.
+
+(b) The Site-Specific Plan must specify the following:
+
+   (1) A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.
+
+   (2) The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.
+
+   (3) The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).
+
+   (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
+
+   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
+
+   (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
+
+   (7) Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.
+
+   (8) How the trained responder(s) at a site will be dispatched to the location of the medical emergency.
+
+   (9) The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.
+
+   (10) Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.
+
+   (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
+
+(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
+
+
+
+
+
+
+*§ 24-06 Nursing Homes.* ::
+
+
+(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
+
+(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
+
+
+
+
 Chapter 23: Food Service Establishment Sanitary Inspection Procedures and Letter Grading
 --------------------------------------------------
 
@@ -4510,143 +4647,6 @@ The Department shall when conducting a sanitary inspection assess points only fo
 
 
 **APPENDIX 23-C FOOD SERVICE ESTABLISHMENT AND NON-RETAIL FOOD SERVICE ESTABLISHMENT PENALTY SCHEDULE**
-
-Chapter 24: Automated External Defibrillators In Certain Public Places
---------------------------------------------------
-
-
-
-*§ 24-01 Definitions.* ::
-
-
-(a)  Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § 17-188 of the New York City Administrative Code.
-
-(b) When used in this chapter, the following words or terms shall have the following meaning:
-
-   (1) Department. "Department" means the New York City Department of Health and Mental Hygiene.
-
-   (2) Code. Code means the Administrative Code of the City of New York.
-
-   (3) Publicly Accessible Areas. Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a "public place", as that term is defined in § 17-188(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.
-
-   (4) Prominent Location. Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.
-
-   (5) Public access defibrillation provider. Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.
-
-   (6) Trained Responder(s). Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § 17-188(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.
-
-   (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
-
-   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
-
-
-
-
-
-
-*§ 24-02 Compliance with State Law.* ::
-
-
-Any automated external defibrillator required pursuant to § 17-188 of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.
-
-
-
-
-
-
-*§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
-
-
-(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
-
-(b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
-
-(c) Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer's specifications.
-
-
-
-
-
-
-*§ 24-04 Required Notice: Signage Information.* ::
-
-
-(a)  The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § 17-188(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.
-
-(b) The sign shall contain the following language in lettering and representation (symbol) in the size indicated:
-
-•     "DEFIBRILLATOR" or "AED" (minimum height – two (2) inches)
-
-•     Automated External Defibrillator (minimum height – five eighths (5/8) inch)
-
-•     Heart and lightening bolt logo (minimum height – two (2) inches)
-
-(c) A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:
-
-•     In event of emergency call 911 (minimum height – three eighths (3/8) inch)
-
-•     and
-
-•     Contact this facility's trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)
-
-(d) In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.
-
-(e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
-
-(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
-
-(g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
-
-
-
-
-
-
-*§ 24-05 Site-Specific Response Plan.* ::
-
-
-(a)  The owner or operator of a public place, as defined in § 17-188 of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.
-
-(b) The Site-Specific Plan must specify the following:
-
-   (1) A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.
-
-   (2) The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.
-
-   (3) The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).
-
-   (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
-
-   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
-
-   (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
-
-   (7) Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.
-
-   (8) How the trained responder(s) at a site will be dispatched to the location of the medical emergency.
-
-   (9) The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.
-
-   (10) Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.
-
-   (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
-
-(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
-
-
-
-
-
-
-*§ 24-06 Nursing Homes.* ::
-
-
-(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
-
-(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
-
-
-
 
 Chapter 25: Service of Final Orders In Assisted Outpatient Treatment
 --------------------------------------------------
