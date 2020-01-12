@@ -3765,151 +3765,6 @@ The lettering on signs or informational handouts shall be of sufficient size so 
 
 
 
-Chapter 20: Preference And/or Waiting List Rule For Full-term Mobile Food Unit Permits
---------------------------------------------------
-
-
-
-*§ 20-01 Definitions.* ::
-
-
-(a)  Words and terms used in this rule shall have the meanings specified in § 17-306 of the Administrative Code.
-
-(b) "Establishment", "establish" or "established" shall refere to the initial creation of the preference and/or waiting list required by § 17-307(b)(3) as well as all subsequent supplementations and re-establishments of such list as necessary for filling both vacancies to the list and waiting list positions for these permits.
-
-
-
-
-
-
-*§ 20-02 Direction to Establish Preference and/or Waiting Lists.* ::
-
-
-The Department shall establish, as required, separate preference and/or waiting lists for full-term mobile food unit permits for the preference categories specified in § 17-307(b)(3)(b) of the Administrative Code. With regard to the first preference category specified in § 17-307(b)(3)(i), the Department may create an alternative waiting list based upon a random selection of one-hundred (100) candidates from the defined class of disabled veterans formerly holding general vendor licenses.
-
-
-
-
-
-
-*§ 20-03 Eligibility for Place on Preference and/or Waiting Lists.* ::
-
-
-To be eligible for inclusion on a preference and/or waiting list established pursuant to this rule an applicant must be a natural person holding a valid mobile food vendor license at least ten days prior to the date that the Department establishes such list. In addition, he or she must belong to a preference category established by § 17-307(b)(3), must not already hold a full-term mobile food unit permit and/or have had such a permit previously revoked or suspended.
-
-
-
-
-
-
-*§ 20-04 Notice of the Establishment of Preference and/or Waiting Lists.* ::
-
-
-Notice of the Department's establishment of a preference and/or waiting list, shall be made by publication in the City Record specifying the preference category for which such list is being established, at least forty-five days prior to the establishment of the waiting list, and by mail, also at least forty-five days prior to the establishment of the list, to all eligible persons holding mobile food vendor licenses, as well as other interested parties known to the Department, including persons known to the Department who are in superior preference categories. Such notice shall advise that only those natural persons in possession of valid mobile food vendor licenses at least ten days prior to the establishment of a preference and/or waiting list shall be eligible for inclusion on such list.
-
-
-
-
-
-
-*§ 20-05 Procedure for Requesting a Place on a Preference and/or Waiting List.* ::
-
-
-The Division of Permits shall use a mail-in procedure for establishing preference and/or waiting lists. Such procedure shall allow persons requesting a place on a preference and/or waiting list to submit a preference and/or waiting list application. Each such application shall contain the applicant's license number and preference category. The application shall be submitted by mail, postmarked during a period of time to be determined by the Division of Permits as specified in the notice published pursuant to 24 RCNY § 20-04 above.
-
-
-
-
-
-
-*§ 20-06 Procedure for Establishment of Preference and/or Waiting List.* ::
-
-
-Not less than forty-five days after the Notice required by 24 RCNY § 20-04 is published in the City Record, the Department shall create a preference and/or waiting list pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses at least ten days prior to the date such preference and/or waiting list is created and who have mailed in an application pursuant to 24 RCNY § 20-05 shall be included in the random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in 24 RCNY § 20-07 shall not be placed on the preference and/or waiting list. Each qualified applicant for a preference and/or waiting list position shall be eligible for one permit and one position on the preference and/or waiting list. The person's position on a preference and/or waiting list shall be determined by his or her preference category and the order in which his or her name is randomly selected within such preference category. The Department shall notify persons assigned a position on the preference and/or waiting list by mailing a notice to the address provided by the applicant in the applicant's preference and/or waiting list application.
-
-
-
-
-
-
-*§ 20-07 Number of Positions on a Preference and/or Waiting List.* ::
-
-
-The maximum number of positions on a preference and/or waiting list shall be determined by the Department's Permit Division so as to provide a reasonable number of potential applicants for the permits currently available as well as to fill future vacancies as they arise. In no event shall a preference and/or waiting list exceed one hundred (100) positions. After the initial issuance of the one hundred permits authorized by § 17-307(b)(3), the Permits Division may supplement a preference and/or waiting list with additional names pursuant to the procedures specified in 24 RCNY §§ 20-04 through 20-06. Prior to supplementing a preference and/or waiting list by giving notice and an opportunity to apply for a waiting list position to a particular preference group, in accordance with the procedures outlined in 24 RCNY §§ 20-04 through 20-06, the Permits Division shall first notify and solicit applications for a preference and/or waiting list from all persons known to the Department who are in all superior preference categories. Those in a superior preference category will be given priority over those in a lower preference category in the filling of any vacancy.
-
-
-
-
-
-
-*§ 20-08 Responsibility of Those on Preference and/or Waiting List to Notify the Department of Change of Address.* ::
-
-
-The names of persons selected for a position on a preference and/or waiting list created pursuant to these rules shall be entered on this list with their address of record as known to the Department through mobile food vendor license records. Thereafter, it shall be the responsibility of each person placed on a preference and/or waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information or, when requested, proof of the Department's confirmation of receipt of such written notification, may result in the loss of a person's preference and/or waiting list position and such person's eligibility to apply for a mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code. Such person shall be deemed to have abandoned his or her place on the preference and/or waiting list and will not be reinstated to the list unless such person participates in the process of list establishment pursuant to 24 RCNY §§ 20-03 through 20-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
-
-
-
-
-
-
-*§ 20-09 Multiple Requests for Preference and/or Waiting List Position Prohibited.* ::
-
-
-No more than one preference and/or waiting list position shall be granted to any person, who shall be eligible to obtain only one permit. Before the creation of the preference and/or waiting list through the random selection process, the Department shall ensure that a mobile food vendor licensee is represented only once in the pool of licensees from which the random listing and selection is to be made. Should the Department receive more than one request from any person, requests subsequent to the first shall be deemed invalid. A person who submits more than one request for a position on the preference and/or waiting list may be disqualified and denied a position on the list if such multiple requests are deemed, in the sole discretion of the Department, to adversely affect the fairness or orderly establishment of a list.
-
-
-
-
-
-
-*§ 20-10 Selection of Applicants From Preference and/or Waiting List.* ::
-
-
-When the number of permits outstanding falls below the statutory maximum of one-hundred (100) and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the preference and/or waiting list equal to the number of vacancies shall be notified by the Department, in preference and waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. Vacancies shall be filled from the highest preference category for which an applicant exists either on a waiting list or who may be identified as the result of the published notice specified in 24 RCNY § 20-04.
-
-
-
-
-
-
-*§ 20-11 Eligibility to Apply for a Mobile Food Unit Permit.* ::
-
-
-Only those persons who have been notified that their preference and/or waiting list number has been reached shall be eligible to submit an application for a mobile food unit permit. A person whose preference and/or waiting list number is reached and who holds a full-term, temporary or full-term borough-specific mobile food unit permit pursuant to subdivision g of § 17-307 of the Administrative Code, shall not be eligible for a permit pursuant to this preference and/or waiting list rule unless such previously held permit is surrendered or expires before a permit with respect to such waiting list position is issued. Positions on a preference and/or waiting list shall not be transferable.
-
-
-
-
-
-
-*§ 20-12 Notification of Eligibility to Apply for Permit.* ::
-
-
-Within ninety (90) days of mailing notification of eligibility to apply for a full-term mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees therefor. The permit application shall be submitted on or before the ninetieth day.
-
-
-
-
-
-
-*§ 20-13 Failure to Make Application for Permit.* ::
-
-
-The failure of any person on the preference and/or waiting list who is notified of eligibility to apply for a permit, to complete the permit application process within ninety (90) days of being so notified, shall result in the forfeiture of such person's eligibility to apply for a permit and such person's preference and/or waiting list position.
-
-
-
-
-
-
-*§ 20-14 Abandonment of Preference and/or Waiting List Position.* ::
-
-
-A person who does not respond within ninety (90) days to a Departmental inquiry concerning a preference and/or waiting list position held by such person, mailed by ordinary mail to the address provided by such person, shall be deemed to have abandoned such list position. A person who holds a preference and/or waiting list position may withdraw his or her name at any time by providing written notice to the Division of Permits with verifying documentation satisfactory to the Division.
-
-
-
-
 Chapter 19: Waiting List Rules For Full-term and Temporary Mobile Food Unit Permits and Full-term Mobile Food Unit Permits Designated Exclusively For Use In Specific Boroughs
 --------------------------------------------------
 
@@ -4051,6 +3906,151 @@ The failure of any person on a waiting list who is notified of eligibility to ap
 
 
 A person who does not respond within ninety (90) days to a Departmental inquiry concerning a waiting list position held by such person, mailed by ordinary mail to the address provided by such person, shall be deemed to have abandoned such waiting list position. A person who holds a waiting list position may withdraw his or her name at any time by providing written notice to the Division of Permits with verifying documentation satisfactory to the Division.
+
+
+
+
+Chapter 20: Preference And/or Waiting List Rule For Full-term Mobile Food Unit Permits
+--------------------------------------------------
+
+
+
+*§ 20-01 Definitions.* ::
+
+
+(a)  Words and terms used in this rule shall have the meanings specified in § 17-306 of the Administrative Code.
+
+(b) "Establishment", "establish" or "established" shall refere to the initial creation of the preference and/or waiting list required by § 17-307(b)(3) as well as all subsequent supplementations and re-establishments of such list as necessary for filling both vacancies to the list and waiting list positions for these permits.
+
+
+
+
+
+
+*§ 20-02 Direction to Establish Preference and/or Waiting Lists.* ::
+
+
+The Department shall establish, as required, separate preference and/or waiting lists for full-term mobile food unit permits for the preference categories specified in § 17-307(b)(3)(b) of the Administrative Code. With regard to the first preference category specified in § 17-307(b)(3)(i), the Department may create an alternative waiting list based upon a random selection of one-hundred (100) candidates from the defined class of disabled veterans formerly holding general vendor licenses.
+
+
+
+
+
+
+*§ 20-03 Eligibility for Place on Preference and/or Waiting Lists.* ::
+
+
+To be eligible for inclusion on a preference and/or waiting list established pursuant to this rule an applicant must be a natural person holding a valid mobile food vendor license at least ten days prior to the date that the Department establishes such list. In addition, he or she must belong to a preference category established by § 17-307(b)(3), must not already hold a full-term mobile food unit permit and/or have had such a permit previously revoked or suspended.
+
+
+
+
+
+
+*§ 20-04 Notice of the Establishment of Preference and/or Waiting Lists.* ::
+
+
+Notice of the Department's establishment of a preference and/or waiting list, shall be made by publication in the City Record specifying the preference category for which such list is being established, at least forty-five days prior to the establishment of the waiting list, and by mail, also at least forty-five days prior to the establishment of the list, to all eligible persons holding mobile food vendor licenses, as well as other interested parties known to the Department, including persons known to the Department who are in superior preference categories. Such notice shall advise that only those natural persons in possession of valid mobile food vendor licenses at least ten days prior to the establishment of a preference and/or waiting list shall be eligible for inclusion on such list.
+
+
+
+
+
+
+*§ 20-05 Procedure for Requesting a Place on a Preference and/or Waiting List.* ::
+
+
+The Division of Permits shall use a mail-in procedure for establishing preference and/or waiting lists. Such procedure shall allow persons requesting a place on a preference and/or waiting list to submit a preference and/or waiting list application. Each such application shall contain the applicant's license number and preference category. The application shall be submitted by mail, postmarked during a period of time to be determined by the Division of Permits as specified in the notice published pursuant to 24 RCNY § 20-04 above.
+
+
+
+
+
+
+*§ 20-06 Procedure for Establishment of Preference and/or Waiting List.* ::
+
+
+Not less than forty-five days after the Notice required by 24 RCNY § 20-04 is published in the City Record, the Department shall create a preference and/or waiting list pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses at least ten days prior to the date such preference and/or waiting list is created and who have mailed in an application pursuant to 24 RCNY § 20-05 shall be included in the random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in 24 RCNY § 20-07 shall not be placed on the preference and/or waiting list. Each qualified applicant for a preference and/or waiting list position shall be eligible for one permit and one position on the preference and/or waiting list. The person's position on a preference and/or waiting list shall be determined by his or her preference category and the order in which his or her name is randomly selected within such preference category. The Department shall notify persons assigned a position on the preference and/or waiting list by mailing a notice to the address provided by the applicant in the applicant's preference and/or waiting list application.
+
+
+
+
+
+
+*§ 20-07 Number of Positions on a Preference and/or Waiting List.* ::
+
+
+The maximum number of positions on a preference and/or waiting list shall be determined by the Department's Permit Division so as to provide a reasonable number of potential applicants for the permits currently available as well as to fill future vacancies as they arise. In no event shall a preference and/or waiting list exceed one hundred (100) positions. After the initial issuance of the one hundred permits authorized by § 17-307(b)(3), the Permits Division may supplement a preference and/or waiting list with additional names pursuant to the procedures specified in 24 RCNY §§ 20-04 through 20-06. Prior to supplementing a preference and/or waiting list by giving notice and an opportunity to apply for a waiting list position to a particular preference group, in accordance with the procedures outlined in 24 RCNY §§ 20-04 through 20-06, the Permits Division shall first notify and solicit applications for a preference and/or waiting list from all persons known to the Department who are in all superior preference categories. Those in a superior preference category will be given priority over those in a lower preference category in the filling of any vacancy.
+
+
+
+
+
+
+*§ 20-08 Responsibility of Those on Preference and/or Waiting List to Notify the Department of Change of Address.* ::
+
+
+The names of persons selected for a position on a preference and/or waiting list created pursuant to these rules shall be entered on this list with their address of record as known to the Department through mobile food vendor license records. Thereafter, it shall be the responsibility of each person placed on a preference and/or waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information or, when requested, proof of the Department's confirmation of receipt of such written notification, may result in the loss of a person's preference and/or waiting list position and such person's eligibility to apply for a mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code. Such person shall be deemed to have abandoned his or her place on the preference and/or waiting list and will not be reinstated to the list unless such person participates in the process of list establishment pursuant to 24 RCNY §§ 20-03 through 20-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
+
+
+
+
+
+
+*§ 20-09 Multiple Requests for Preference and/or Waiting List Position Prohibited.* ::
+
+
+No more than one preference and/or waiting list position shall be granted to any person, who shall be eligible to obtain only one permit. Before the creation of the preference and/or waiting list through the random selection process, the Department shall ensure that a mobile food vendor licensee is represented only once in the pool of licensees from which the random listing and selection is to be made. Should the Department receive more than one request from any person, requests subsequent to the first shall be deemed invalid. A person who submits more than one request for a position on the preference and/or waiting list may be disqualified and denied a position on the list if such multiple requests are deemed, in the sole discretion of the Department, to adversely affect the fairness or orderly establishment of a list.
+
+
+
+
+
+
+*§ 20-10 Selection of Applicants From Preference and/or Waiting List.* ::
+
+
+When the number of permits outstanding falls below the statutory maximum of one-hundred (100) and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the preference and/or waiting list equal to the number of vacancies shall be notified by the Department, in preference and waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. Vacancies shall be filled from the highest preference category for which an applicant exists either on a waiting list or who may be identified as the result of the published notice specified in 24 RCNY § 20-04.
+
+
+
+
+
+
+*§ 20-11 Eligibility to Apply for a Mobile Food Unit Permit.* ::
+
+
+Only those persons who have been notified that their preference and/or waiting list number has been reached shall be eligible to submit an application for a mobile food unit permit. A person whose preference and/or waiting list number is reached and who holds a full-term, temporary or full-term borough-specific mobile food unit permit pursuant to subdivision g of § 17-307 of the Administrative Code, shall not be eligible for a permit pursuant to this preference and/or waiting list rule unless such previously held permit is surrendered or expires before a permit with respect to such waiting list position is issued. Positions on a preference and/or waiting list shall not be transferable.
+
+
+
+
+
+
+*§ 20-12 Notification of Eligibility to Apply for Permit.* ::
+
+
+Within ninety (90) days of mailing notification of eligibility to apply for a full-term mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees therefor. The permit application shall be submitted on or before the ninetieth day.
+
+
+
+
+
+
+*§ 20-13 Failure to Make Application for Permit.* ::
+
+
+The failure of any person on the preference and/or waiting list who is notified of eligibility to apply for a permit, to complete the permit application process within ninety (90) days of being so notified, shall result in the forfeiture of such person's eligibility to apply for a permit and such person's preference and/or waiting list position.
+
+
+
+
+
+
+*§ 20-14 Abandonment of Preference and/or Waiting List Position.* ::
+
+
+A person who does not respond within ninety (90) days to a Departmental inquiry concerning a preference and/or waiting list position held by such person, mailed by ordinary mail to the address provided by such person, shall be deemed to have abandoned such list position. A person who holds a preference and/or waiting list position may withdraw his or her name at any time by providing written notice to the Division of Permits with verifying documentation satisfactory to the Division.
 
 
 
@@ -4321,143 +4321,6 @@ An application for a license or a license shall be subject to denial, suspension
 
 
 
-Chapter 24: Automated External Defibrillators In Certain Public Places
---------------------------------------------------
-
-
-
-*§ 24-01 Definitions.* ::
-
-
-(a)  Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § 17-188 of the New York City Administrative Code.
-
-(b) When used in this chapter, the following words or terms shall have the following meaning:
-
-   (1) Department. "Department" means the New York City Department of Health and Mental Hygiene.
-
-   (2) Code. Code means the Administrative Code of the City of New York.
-
-   (3) Publicly Accessible Areas. Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a "public place", as that term is defined in § 17-188(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.
-
-   (4) Prominent Location. Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.
-
-   (5) Public access defibrillation provider. Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.
-
-   (6) Trained Responder(s). Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § 17-188(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.
-
-   (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
-
-   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
-
-
-
-
-
-
-*§ 24-02 Compliance with State Law.* ::
-
-
-Any automated external defibrillator required pursuant to § 17-188 of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.
-
-
-
-
-
-
-*§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
-
-
-(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
-
-(b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
-
-(c) Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer's specifications.
-
-
-
-
-
-
-*§ 24-04 Required Notice: Signage Information.* ::
-
-
-(a)  The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § 17-188(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.
-
-(b) The sign shall contain the following language in lettering and representation (symbol) in the size indicated:
-
-•     "DEFIBRILLATOR" or "AED" (minimum height – two (2) inches)
-
-•     Automated External Defibrillator (minimum height – five eighths (5/8) inch)
-
-•     Heart and lightening bolt logo (minimum height – two (2) inches)
-
-(c) A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:
-
-•     In event of emergency call 911 (minimum height – three eighths (3/8) inch)
-
-•     and
-
-•     Contact this facility's trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)
-
-(d) In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.
-
-(e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
-
-(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
-
-(g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
-
-
-
-
-
-
-*§ 24-05 Site-Specific Response Plan.* ::
-
-
-(a)  The owner or operator of a public place, as defined in § 17-188 of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.
-
-(b) The Site-Specific Plan must specify the following:
-
-   (1) A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.
-
-   (2) The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.
-
-   (3) The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).
-
-   (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
-
-   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
-
-   (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
-
-   (7) Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.
-
-   (8) How the trained responder(s) at a site will be dispatched to the location of the medical emergency.
-
-   (9) The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.
-
-   (10) Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.
-
-   (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
-
-(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
-
-
-
-
-
-
-*§ 24-06 Nursing Homes.* ::
-
-
-(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
-
-(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
-
-
-
-
 Chapter 23: Food Service Establishment Sanitary Inspection Procedures and Letter Grading
 --------------------------------------------------
 
@@ -4647,6 +4510,143 @@ The Department shall when conducting a sanitary inspection assess points only fo
 
 
 **APPENDIX 23-C FOOD SERVICE ESTABLISHMENT AND NON-RETAIL FOOD SERVICE ESTABLISHMENT PENALTY SCHEDULE**
+
+Chapter 24: Automated External Defibrillators In Certain Public Places
+--------------------------------------------------
+
+
+
+*§ 24-01 Definitions.* ::
+
+
+(a)  Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § 17-188 of the New York City Administrative Code.
+
+(b) When used in this chapter, the following words or terms shall have the following meaning:
+
+   (1) Department. "Department" means the New York City Department of Health and Mental Hygiene.
+
+   (2) Code. Code means the Administrative Code of the City of New York.
+
+   (3) Publicly Accessible Areas. Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a "public place", as that term is defined in § 17-188(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.
+
+   (4) Prominent Location. Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.
+
+   (5) Public access defibrillation provider. Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.
+
+   (6) Trained Responder(s). Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § 17-188(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.
+
+   (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
+
+   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
+
+
+
+
+
+
+*§ 24-02 Compliance with State Law.* ::
+
+
+Any automated external defibrillator required pursuant to § 17-188 of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.
+
+
+
+
+
+
+*§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
+
+
+(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
+
+(b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
+
+(c) Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer's specifications.
+
+
+
+
+
+
+*§ 24-04 Required Notice: Signage Information.* ::
+
+
+(a)  The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § 17-188(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.
+
+(b) The sign shall contain the following language in lettering and representation (symbol) in the size indicated:
+
+•     "DEFIBRILLATOR" or "AED" (minimum height – two (2) inches)
+
+•     Automated External Defibrillator (minimum height – five eighths (5/8) inch)
+
+•     Heart and lightening bolt logo (minimum height – two (2) inches)
+
+(c) A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:
+
+•     In event of emergency call 911 (minimum height – three eighths (3/8) inch)
+
+•     and
+
+•     Contact this facility's trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)
+
+(d) In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.
+
+(e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
+
+(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
+
+(g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
+
+
+
+
+
+
+*§ 24-05 Site-Specific Response Plan.* ::
+
+
+(a)  The owner or operator of a public place, as defined in § 17-188 of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.
+
+(b) The Site-Specific Plan must specify the following:
+
+   (1) A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.
+
+   (2) The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.
+
+   (3) The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).
+
+   (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
+
+   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
+
+   (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
+
+   (7) Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.
+
+   (8) How the trained responder(s) at a site will be dispatched to the location of the medical emergency.
+
+   (9) The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.
+
+   (10) Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.
+
+   (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
+
+(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
+
+
+
+
+
+
+*§ 24-06 Nursing Homes.* ::
+
+
+(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
+
+(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
+
+
+
 
 Chapter 25: Service of Final Orders In Assisted Outpatient Treatment
 --------------------------------------------------
@@ -4872,105 +4872,6 @@ Within thirty (30) days of mailing notification of eligibility to apply for a fr
 
 
 
-Chapter 27: Food Allergy Information
---------------------------------------------------
-
-
-
-*§ 27-01 Scope and applicability.* ::
-
-
-This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
-
-
-
-
-
-
-*§ 27-02 Definitions.* ::
-
-
-When used in this Chapter, the following terms shall have the following meanings.
-
-(a) Food means any raw, cooked or processed edible substance, beverage, ingredient, ice or water used or intended for use or for sale, in whole or in part, for human consumption.
-
-(b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
-
-(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
-
-(d) [Reserved.]
-
-(e) Patron or customer means a person who orders from or is served food at a food service establishment.
-
-(f) Poster or posting. Poster or posting means a placard, paper or other poster, or a magnetized or other display, that contains information about food allergens and that is provided or approved by the Department pursuant to this Chapter.
-
-
-
-
-
-
-*§ 27-03 Posting and placement of food allergy information.* ::
-
-
-(a) Posting of information. Food allergy information provided or approved by the Department shall be posted in a food service establishment.
-
-(b) Languages and texts. Information shall be posted in languages that are understood by all food workers in an establishment. The Department shall provide posters with texts in English, Spanish, Chinese, Korean and Russian, shall maintain the texts of posters on its web site, may approve texts of posters in other languages upon request, and, as it deems necessary, may change and provide approved texts if new or different information about food allergens becomes known.
-
-(c) Placement. Information shall be posted in conspicuous locations where it will be visible to all food workers including, but not limited to, food preparation areas and kitchens where food orders and raw ingredients are processed or prepared and places where food orders are placed and retrieved.
-
-
-
-
-
-
-*§ 27-04 Disclosure.* ::
-
-
-Food service establishment operators shall disclose to a patron, on request, whether an ingredient containing a specific food allergen is used in the preparation of any menu item.
-
-
-
-
-
-
-*§ 27-05 No limitations on voluntary actions.* ::
-
-
-Nothing in this Chapter shall prohibit a food service establishment operator from taking any other measures to provide information to patrons or employees of the establishment to assist in avoiding patron contact with food allergens, including but not limited to providing additional information to patrons about food allergens in any format or soliciting patron allergen information.
-
-
-
-
-
-
-*§ 27-06 No third party beneficiary.* ::
-
-
-Nothing in this Chapter is intended to create any benefit or support a cause of action for any third persons, including individuals with food allergens.
-
-
-
-
-
-
-*§ 27-07 Violations.* ::
-
-
-(a) It shall be a violation of this Chapter for an operator of a food service establishment:
-
-   (1) To fail to post the information required by this Chapter in a conspicuous place or places in the establishment;
-
-   (2) To fail to post the information in areas where it is visible to food workers;
-
-   (3) To fail to post the information in languages understood by food workers; or
-
-   (4) To post texts that are not provided or approved by the Department.
-
-(b) Violations shall not be scored as sanitary inspection violations pursuant to Chapter 23 of Title 24 of these Rules.
-
-
-
-
 Chapter 28: Restriction On the Sale of Certain Flavored Tobacco Products
 --------------------------------------------------
 
@@ -5106,6 +5007,105 @@ If any provision of this Chapter is adjudged invalid by any court of competent j
 
 
 **Appendix A: Restricted Flavored Tobacco Products List [Reserved]**
+
+Chapter 27: Food Allergy Information
+--------------------------------------------------
+
+
+
+*§ 27-01 Scope and applicability.* ::
+
+
+This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
+
+
+
+
+
+
+*§ 27-02 Definitions.* ::
+
+
+When used in this Chapter, the following terms shall have the following meanings.
+
+(a) Food means any raw, cooked or processed edible substance, beverage, ingredient, ice or water used or intended for use or for sale, in whole or in part, for human consumption.
+
+(b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
+
+(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
+
+(d) [Reserved.]
+
+(e) Patron or customer means a person who orders from or is served food at a food service establishment.
+
+(f) Poster or posting. Poster or posting means a placard, paper or other poster, or a magnetized or other display, that contains information about food allergens and that is provided or approved by the Department pursuant to this Chapter.
+
+
+
+
+
+
+*§ 27-03 Posting and placement of food allergy information.* ::
+
+
+(a) Posting of information. Food allergy information provided or approved by the Department shall be posted in a food service establishment.
+
+(b) Languages and texts. Information shall be posted in languages that are understood by all food workers in an establishment. The Department shall provide posters with texts in English, Spanish, Chinese, Korean and Russian, shall maintain the texts of posters on its web site, may approve texts of posters in other languages upon request, and, as it deems necessary, may change and provide approved texts if new or different information about food allergens becomes known.
+
+(c) Placement. Information shall be posted in conspicuous locations where it will be visible to all food workers including, but not limited to, food preparation areas and kitchens where food orders and raw ingredients are processed or prepared and places where food orders are placed and retrieved.
+
+
+
+
+
+
+*§ 27-04 Disclosure.* ::
+
+
+Food service establishment operators shall disclose to a patron, on request, whether an ingredient containing a specific food allergen is used in the preparation of any menu item.
+
+
+
+
+
+
+*§ 27-05 No limitations on voluntary actions.* ::
+
+
+Nothing in this Chapter shall prohibit a food service establishment operator from taking any other measures to provide information to patrons or employees of the establishment to assist in avoiding patron contact with food allergens, including but not limited to providing additional information to patrons about food allergens in any format or soliciting patron allergen information.
+
+
+
+
+
+
+*§ 27-06 No third party beneficiary.* ::
+
+
+Nothing in this Chapter is intended to create any benefit or support a cause of action for any third persons, including individuals with food allergens.
+
+
+
+
+
+
+*§ 27-07 Violations.* ::
+
+
+(a) It shall be a violation of this Chapter for an operator of a food service establishment:
+
+   (1) To fail to post the information required by this Chapter in a conspicuous place or places in the establishment;
+
+   (2) To fail to post the information in areas where it is visible to food workers;
+
+   (3) To fail to post the information in languages understood by food workers; or
+
+   (4) To post texts that are not provided or approved by the Department.
+
+(b) Violations shall not be scored as sanitary inspection violations pursuant to Chapter 23 of Title 24 of these Rules.
+
+
+
 
 Chapter 29: Animal Population Control Program
 --------------------------------------------------

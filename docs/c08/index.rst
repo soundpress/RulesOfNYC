@@ -1890,21 +1890,6 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 
 
 
-Chapter 3: Rulemaking
---------------------------------------------------
-
-
-
-*§ 15-01 Proposed Rules.* ::
-
-
-The chair may draft or direct to be drafted such proposed rules of the Commission as he or she may deem necessary to effectuate the provisions of Section 2101 of the New York City Charter and of Title 16-A of the Administrative Code of the City of New York, and may provide for the publication and distribution of any such proposed rule and for a public hearing on any such proposed rule, all in accordance with the requirements of Chapter 45 of the New York City Charter. No rule of the Commission will be promulgated except by vote of a majority of the Commission, in accordance with Section 1119 of the New York City Charter.
-
-
-
-
-
-
 Chapter 2: Markets
 --------------------------------------------------
 
@@ -4649,6 +4634,21 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 The Commission may by resolution delegate to the Chairperson any authority of the Commission set forth in this subchapter and Chapter 1-B of Title 22 of the Code, as such chapter relates to market businesses located and operating within any market area and labor unions and labor organizations representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in any market area, that is lawful and appropriate to delegate. Such resolution shall state the authority delegated and the extent of such delegation, including any limitations on the authority delegated.
+
+
+
+
+Chapter 3: Rulemaking
+--------------------------------------------------
+
+
+
+*§ 15-01 Proposed Rules.* ::
+
+
+The chair may draft or direct to be drafted such proposed rules of the Commission as he or she may deem necessary to effectuate the provisions of Section 2101 of the New York City Charter and of Title 16-A of the Administrative Code of the City of New York, and may provide for the publication and distribution of any such proposed rule and for a public hearing on any such proposed rule, all in accordance with the requirements of Chapter 45 of the New York City Charter. No rule of the Commission will be promulgated except by vote of a majority of the Commission, in accordance with Section 1119 of the New York City Charter.
+
+
 
 
 
