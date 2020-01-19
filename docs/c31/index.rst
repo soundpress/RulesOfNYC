@@ -976,19 +976,6 @@ Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedi
 
 
 
-Chapter 4: Fitness and Discipline Hearings For OATH Employees
---------------------------------------------------
-
-
-
-*§ 4-01 Fitness and Discipline of Employees of the Office of Administrative Trials and Hearings.* ::
-
-
-The chief administrative law judge or, upon his or her designation, an administrative law judge, shall conduct administrative hearings regarding OATH employees' fitness and discipline pursuant to N.Y. Civil Service Law, § 71-75, and pursuant to Charter, § 1049(1). If such a hearing is conducted by an administrative law judge other than the chief administrative law judge, the administrative law judge shall make written proposed findings of fact and a recommended decision. The chief administrative law judge shall review the proposed findings and recommendations of the administrative law judge and shall make the final findings of fact and decision in the matter being adjudicated.
-
-
-
-
 Chapter 3: Rules of Practice Applicable to Proceedings Brought Before the Environmental Control Board Pursuant to 
 --------------------------------------------------
 
@@ -4301,6 +4288,19 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
 
  
+
+
+
+
+Chapter 4: Fitness and Discipline Hearings For OATH Employees
+--------------------------------------------------
+
+
+
+*§ 4-01 Fitness and Discipline of Employees of the Office of Administrative Trials and Hearings.* ::
+
+
+The chief administrative law judge or, upon his or her designation, an administrative law judge, shall conduct administrative hearings regarding OATH employees' fitness and discipline pursuant to N.Y. Civil Service Law, § 71-75, and pursuant to Charter, § 1049(1). If such a hearing is conducted by an administrative law judge other than the chief administrative law judge, the administrative law judge shall make written proposed findings of fact and a recommended decision. The chief administrative law judge shall review the proposed findings and recommendations of the administrative law judge and shall make the final findings of fact and decision in the matter being adjudicated.
 
 
 

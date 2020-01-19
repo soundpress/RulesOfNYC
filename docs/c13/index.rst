@@ -4872,6 +4872,105 @@ Within thirty (30) days of mailing notification of eligibility to apply for a fr
 
 
 
+Chapter 27: Food Allergy Information
+--------------------------------------------------
+
+
+
+*§ 27-01 Scope and applicability.* ::
+
+
+This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
+
+
+
+
+
+
+*§ 27-02 Definitions.* ::
+
+
+When used in this Chapter, the following terms shall have the following meanings.
+
+(a) Food means any raw, cooked or processed edible substance, beverage, ingredient, ice or water used or intended for use or for sale, in whole or in part, for human consumption.
+
+(b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
+
+(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
+
+(d) [Reserved.]
+
+(e) Patron or customer means a person who orders from or is served food at a food service establishment.
+
+(f) Poster or posting. Poster or posting means a placard, paper or other poster, or a magnetized or other display, that contains information about food allergens and that is provided or approved by the Department pursuant to this Chapter.
+
+
+
+
+
+
+*§ 27-03 Posting and placement of food allergy information.* ::
+
+
+(a) Posting of information. Food allergy information provided or approved by the Department shall be posted in a food service establishment.
+
+(b) Languages and texts. Information shall be posted in languages that are understood by all food workers in an establishment. The Department shall provide posters with texts in English, Spanish, Chinese, Korean and Russian, shall maintain the texts of posters on its web site, may approve texts of posters in other languages upon request, and, as it deems necessary, may change and provide approved texts if new or different information about food allergens becomes known.
+
+(c) Placement. Information shall be posted in conspicuous locations where it will be visible to all food workers including, but not limited to, food preparation areas and kitchens where food orders and raw ingredients are processed or prepared and places where food orders are placed and retrieved.
+
+
+
+
+
+
+*§ 27-04 Disclosure.* ::
+
+
+Food service establishment operators shall disclose to a patron, on request, whether an ingredient containing a specific food allergen is used in the preparation of any menu item.
+
+
+
+
+
+
+*§ 27-05 No limitations on voluntary actions.* ::
+
+
+Nothing in this Chapter shall prohibit a food service establishment operator from taking any other measures to provide information to patrons or employees of the establishment to assist in avoiding patron contact with food allergens, including but not limited to providing additional information to patrons about food allergens in any format or soliciting patron allergen information.
+
+
+
+
+
+
+*§ 27-06 No third party beneficiary.* ::
+
+
+Nothing in this Chapter is intended to create any benefit or support a cause of action for any third persons, including individuals with food allergens.
+
+
+
+
+
+
+*§ 27-07 Violations.* ::
+
+
+(a) It shall be a violation of this Chapter for an operator of a food service establishment:
+
+   (1) To fail to post the information required by this Chapter in a conspicuous place or places in the establishment;
+
+   (2) To fail to post the information in areas where it is visible to food workers;
+
+   (3) To fail to post the information in languages understood by food workers; or
+
+   (4) To post texts that are not provided or approved by the Department.
+
+(b) Violations shall not be scored as sanitary inspection violations pursuant to Chapter 23 of Title 24 of these Rules.
+
+
+
+
 Chapter 28: Restriction On the Sale of Certain Flavored Tobacco Products
 --------------------------------------------------
 
@@ -5007,105 +5106,6 @@ If any provision of this Chapter is adjudged invalid by any court of competent j
 
 
 **Appendix A: Restricted Flavored Tobacco Products List [Reserved]**
-
-Chapter 27: Food Allergy Information
---------------------------------------------------
-
-
-
-*§ 27-01 Scope and applicability.* ::
-
-
-This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
-
-
-
-
-
-
-*§ 27-02 Definitions.* ::
-
-
-When used in this Chapter, the following terms shall have the following meanings.
-
-(a) Food means any raw, cooked or processed edible substance, beverage, ingredient, ice or water used or intended for use or for sale, in whole or in part, for human consumption.
-
-(b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
-
-(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
-
-(d) [Reserved.]
-
-(e) Patron or customer means a person who orders from or is served food at a food service establishment.
-
-(f) Poster or posting. Poster or posting means a placard, paper or other poster, or a magnetized or other display, that contains information about food allergens and that is provided or approved by the Department pursuant to this Chapter.
-
-
-
-
-
-
-*§ 27-03 Posting and placement of food allergy information.* ::
-
-
-(a) Posting of information. Food allergy information provided or approved by the Department shall be posted in a food service establishment.
-
-(b) Languages and texts. Information shall be posted in languages that are understood by all food workers in an establishment. The Department shall provide posters with texts in English, Spanish, Chinese, Korean and Russian, shall maintain the texts of posters on its web site, may approve texts of posters in other languages upon request, and, as it deems necessary, may change and provide approved texts if new or different information about food allergens becomes known.
-
-(c) Placement. Information shall be posted in conspicuous locations where it will be visible to all food workers including, but not limited to, food preparation areas and kitchens where food orders and raw ingredients are processed or prepared and places where food orders are placed and retrieved.
-
-
-
-
-
-
-*§ 27-04 Disclosure.* ::
-
-
-Food service establishment operators shall disclose to a patron, on request, whether an ingredient containing a specific food allergen is used in the preparation of any menu item.
-
-
-
-
-
-
-*§ 27-05 No limitations on voluntary actions.* ::
-
-
-Nothing in this Chapter shall prohibit a food service establishment operator from taking any other measures to provide information to patrons or employees of the establishment to assist in avoiding patron contact with food allergens, including but not limited to providing additional information to patrons about food allergens in any format or soliciting patron allergen information.
-
-
-
-
-
-
-*§ 27-06 No third party beneficiary.* ::
-
-
-Nothing in this Chapter is intended to create any benefit or support a cause of action for any third persons, including individuals with food allergens.
-
-
-
-
-
-
-*§ 27-07 Violations.* ::
-
-
-(a) It shall be a violation of this Chapter for an operator of a food service establishment:
-
-   (1) To fail to post the information required by this Chapter in a conspicuous place or places in the establishment;
-
-   (2) To fail to post the information in areas where it is visible to food workers;
-
-   (3) To fail to post the information in languages understood by food workers; or
-
-   (4) To post texts that are not provided or approved by the Department.
-
-(b) Violations shall not be scored as sanitary inspection violations pursuant to Chapter 23 of Title 24 of these Rules.
-
-
-
 
 Chapter 29: Animal Population Control Program
 --------------------------------------------------
