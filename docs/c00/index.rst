@@ -10364,6 +10364,46 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 
+
+
+*§ 3321-01 Construction Site Safety Training (SST).* ::
+
+
+(a) Required training. Permit holders at building sites for which a construction superintendent, site safety manager or site safety coordinator is required must ensure that each worker at the site has completed the site safety training provided by approved course providers pursuant to 1 RCNY § 105-03 and as required by section 3321 of the Building Code.
+
+(b) Training deadlines. The required training must be completed in accordance with the following deadlines:
+
+   (1) Beginning March 1, 2018, workers must have completed either:
+
+      (i) An OSHA 10-hour class, as defined in section 3302.1 of the Building Code;
+
+      (ii) An OSHA 30-hour class, as defined in section 3302.1 of the Building Code; or
+
+      (iii) A 100-hour training program that DOB determines meets or exceeds the training in (i) or (ii).
+
+   (2) By December 1, 2019, or June 1, 2020 if the Department determines that there is insufficient capacity to provide the training required by section 3321 of the Building Code, workers must have completed either (i), (ii), (iii), or (iv) of this paragraph (2):
+
+      (i) Temporary SST Card as defined in section 3302.1 of the Building Code, for workers who provide a written statement that they have not ever been issued a Limited SST, Temporary SST or SST Card;
+
+      (ii) Limited SST Card as defined in section 3302.1 of the Building Code;
+
+      (iii) SST Card as defined in section 3302.1 of the Building Code; or
+
+      (iv) If serving as a site safety manager, site safety coordinator, concrete safety manager, construction superintendent or a competent person designated by the construction superintendent at such site, an SST Supervisor Card as defined in section 3302.1 of the Building Code.
+
+   (3) By September 1, 2020, workers must have either (i), (ii), or (iii) of this paragraph (3):
+
+      (i) SST Card;
+
+      (ii) Temporary SST Card as defined in section 3302.1 of the Building Code, for workers who provide a written statement that they have not ever been issued a Limited SST, Temporary SST or SST Card; or
+
+      (iii) If serving as a site safety manager, site safety coordinator, concrete safety manager, construction superintendent or a competent person at such site, an SST Supervisor Card as defined in section 3302.1 of the Building Code.
+
+
+
+
+
+
 Chapter 3500: Referenced Standards
 --------------------------------------------------
 
