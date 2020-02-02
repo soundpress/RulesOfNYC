@@ -1,159 +1,6 @@
 Title 53: Conflicts of Interest Board
 ===================================================
 
-Chapter 2: Procedural Rules for Enforcement Actions
---------------------------------------------------
-
-
-
-*§ 2-01 Applicability and Definitions.* ::
-
-
-(a) Applicability. This chapter establishes the procedural rules for enforcement actions brought pursuant to Charter § 2603(h) to address alleged violations of:
-
-   (1) Chapter 68 of the City Charter (the Conflicts of Interest Law);
-
-   (2) § 3-224 through § 3-228 of the Administrative Code (the Lobbyist Gift Law);
-
-   (3) § 3-901 through § 3-907 of the Administrative Code (the Affiliated Not-for-Profits Law); and
-
-   (4) § 3-1101 through § 3-1107 of the Administrative Code (the Legal Defense Trusts Law).
-
-(b) Definitions.
-
-   "Board" means the Conflicts of Interest Board.
-
-   "Board Rules" means the rules of the Conflicts of Interest Board, as set forth in Title 53 of the Rules of the City of New York.
-
-   "Day" means a calendar day. When the last day of a time period is a Saturday, Sunday, or public holiday, the time period will run through the end of the next business day.
-
-   "Enforcement attorney" means an attorney prosecuting an enforcement action on behalf of the Board.
-
-   "OATH" means the New York City Office of Administrative Trials and Hearings.
-
-   "OATH Rules" means OATH's Rules of Practice, as set forth in Title 48 of the Rules of the City of New York.
-
-   "Respondent" means a public servant or former public servant; a lobbyist or any other person required to be listed on a statement of registration pursuant to Administrative Code § 3-213(c)(1); an organization affiliated with an elected official or an agent of an elected official, as defined by Administrative Code § 3-901; or a legal defense trust, trustee, or beneficiary, as defined by Administrative Code § 3-1101, who has been served a Notice of Initial Determination of Probable Cause.
-
-
-
-
-
-
-
-
-*§ 2-02 Informal Proceedings.* ::
-
-
-(a) Notice of Initial Determination of Probable Cause. For the purposes of Charter § 2603(h)(1), the Board will commence an enforcement action by serving a Notice of Initial Determination of Probable Cause by first class mail to the respondent's last known residential address or actual place of business.
-
-(b) Response to the Notice of Initial Determination of Probable Cause.
-
-   (1) For the purposes of Charter § 2603(h)(1), the respondent has twenty (20) days from the date of service to submit a written response to the Notice of Initial Determination of Probable Cause ("Notice") or request an extension. The response is an opportunity to explain, rebut, or provide information concerning the factual or legal allegations in the Notice. The Board will not consider requests for discovery of evidence during informal proceedings.
-
-   (2) Upon oral or written request within twenty (20) days from the date of service of the Notice, the respondent will be granted a thirty- (30-) day extension within which to submit a written response. Upon oral or written request made prior to the expiration of the first extension, the respondent may be granted a second thirty- (30-) day extension for good cause shown, including, but not limited to, ongoing settlement negotiations. Any further extensions must be requested in writing to the Board and will be granted only in exigent circumstances.
-
-   (3) For the purposes of Charter § 2603(h)(2):
-
-      (i) If the respondent submits a substantive written response to the Notice, the Board will review the response to determine whether there remains probable cause to believe that any alleged violation occurred and will either dismiss the enforcement action or sustain its initial determination of probable cause in whole or in part.
-
-      (ii) If the respondent does not submit a written response to the Notice or submits only a general denial of the allegations in the Notice, the Board's initial determination of probable cause will be deemed sustained.
-
-(c) Referral to agency. If the Board sustains its initial determination of probable cause against a respondent who is entitled to disciplinary rights as described in Charter § 2603(h)(2), the Board will notify the respondent's employing City agency in writing of the alleged facts and violations. After such a referral, the Board retains separate and continuing jurisdiction over the enforcement action.
-
-   (1) If the agency does not pursue disciplinary action against the respondent, the Board will commence formal proceedings against the respondent.
-
-   (2) If the agency pursues disciplinary action against the respondent, the Board may resolve the enforcement action by a joint settlement agreement with the respondent and agency or commence formal proceedings against the respondent.
-
-(d) Representation by an attorney or other person.
-
-   (1) If the respondent chooses to be represented by an attorney or any other person, the representative appearing for the respondent must submit a written and signed Notice of Appearance to the Board. The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States will be indicated by the designation "Attorney for (person represented)." The appearance of any other person will be indicated by the designation "Representative for (person represented)." The Board will not accept a response from or discuss the details of an enforcement action with any attorney or other person who has not submitted a Notice of Appearance.
-
-   (2) To withdraw from representation, the representative must submit a written notice of withdrawal to the Board, signed by the respondent or otherwise explaining the reason for withdrawal. An attorney who has submitted a Notice of Appearance may withdraw from representation only with consent of the respondent or when other cause exists, as delineated in the applicable provisions of the New York Rules of Professional Conduct.
-
-   (3) A Notice of Appearance, withdrawal or substitution may be submitted to the Board at any time prior to commencement of formal proceedings. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a Notice of Appearance, withdrawal or substitution.
-
-(e) Stay of an enforcement action. To obtain a stay of an enforcement action prior to commencement of formal proceedings, the respondent must submit a written request to the Board for its review and approval. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a stay.
-
-(f) Settlement.
-
-   (1) At any time after the service of the Notice of Initial Determination of Probable Cause, an enforcement action may be resolved by settlement agreement in the form of a Public Disposition or Public Warning Letter.
-
-      (i) A Public Disposition must include an admission of the relevant facts; an acknowledgment that the admitted conduct violated a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law; and a penalty that addresses the admitted conduct.
-
-      (ii) A Public Warning Letter must include a statement of relevant facts, and a description of each violation of a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law.
-
-   (2) The language and penalty of the proposed settlement agreement will be negotiated between the enforcement attorney and the respondent or the respondent's representative, if applicable. If the respondent requests that the respondent's employing City agency be a party to the settlement, the respondent must submit a signed waiver of confidentiality to the Board to allow the enforcement attorney to discuss the proposed settlement agreement with such agency.
-
-   (3) If the enforcement attorney and the respondent reach a proposed settlement agreement, it will be reduced to writing and signed by the respondent, the respondent's representative, if applicable, and a representative of the respondent's employing City agency, if applicable. Any monetary penalty to be paid to the Board is due upon signing unless otherwise specified in the proposed settlement agreement. Monetary penalty payments will be held by the Board in escrow until the proposed settlement agreement is fully executed by the Board.
-
-   (4) After receiving the full payment of any monetary penalty to be paid to the Board, the enforcement attorney will present the proposed settlement agreement to the Board for its review and approval.
-
-      (i) If the Board approves the proposed settlement agreement, the settlement agreement will be signed by the Board Chair. The fully-executed settlement agreement will be made public, but all underlying records, reports, memoranda, and files of the enforcement action will remain confidential in accordance with Charter § 2603(k).
-
-      (ii) If the Board does not approve the proposed settlement agreement, the Board may direct the enforcement attorney to seek modification of the penalty or the language in the settlement agreement. The modified proposed settlement agreement must be reviewed and approved by the Board.
-
-
-
-
-
-
-
-
-*§ 2-03 Formal Proceedings.* ::
-
-
-(a) Designation of OATH. For the purposes of Charter § 2603(h)(2), and in accordance with Charter § 1048, the Board designates OATH to conduct hearings in accordance with the OATH Rules, except as otherwise provided by these rules.
-
-(b) Commencement of formal proceedings.
-
-   (1) The Board will commence formal proceedings at OATH by serving a Notice of Petition and Petition by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable. After service, the enforcement attorney will file the Notice of Petition and Petition with OATH and will provide OATH with potential dates for a settlement conference and potential dates for a hearing.
-
-   (2) After the conference and hearing dates have been scheduled at OATH, the enforcement attorney will serve a Notice of Hearing by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
-
-(c) Ex Parte communications with the Board.
-
-   (1) After service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), any Board attorney involved in the prosecution of the enforcement action may not communicate ex parte with any member of the Board or any attorney serving as counsel to the Board concerning the merits of the enforcement action, except as provided in paragraph (2) of this subdivision.
-
-   (2) An enforcement attorney may communicate ex parte with members of the Board or an attorney serving as counsel to the Board with respect to ministerial matters involving the enforcement action; on consent of the respondent or respondent's representative; or if deemed necessary by the Board or by an attorney serving as counsel to the Board.
-
-(d) Answer. The respondent may serve and file a written answer to the Petition in accordance with the OATH Rules. The answer may contain specific responses, by admission, denial, or otherwise, to each allegation of the Petition and assert all affirmative defenses, if any. The respondent may include in the answer matters in mitigation. The answer must contain the full name, address, telephone number, and email address of the respondent. If the respondent is represented, the representative's name, address, telephone number and email address must also appear on the answer. The answer must be signed by the respondent or respondent's representative.
-
-(e) Settlement. At the OATH settlement conference, an enforcement action may be resolved by settlement agreement pursuant to 53 RCNY § 2-02(f).
-
-(f) Hearing.
-
-   (1) The enforcement attorney will have the burden of proof by a preponderance of the evidence.
-
-   (2) The enforcement attorney will make an opening statement first, after which the respondent may make an opening statement.
-
-   (3) The enforcement attorney will initiate the presentation of evidence. After the enforcement attorney has completed the presentation of the Board's evidence, the respondent may present evidence. The enforcement attorney may present rebuttal evidence.
-
-   (4) The enforcement attorney will make a closing statement first, after which the respondent may make a closing statement.
-
-(g) OATH report. After a hearing has been conducted, OATH will issue a confidential report of its recommended findings of fact and conclusions of law and its recommended disposition of the enforcement action. OATH will send the report, along with the original transcript of the hearing and all documents introduced into the record, to the Board for review. OATH will send a copy of the report to the enforcement attorney and the respondent or respondent's representative, if applicable.
-
-(h) Comment on OATH report. Within twenty (20) days from the date of the OATH report, each party may submit a comment to the Board to explain, rebut, or provide information concerning OATH's recommended findings of fact, conclusions of law, and disposition. If either party submits a comment, the opposing party may submit to the Board a response to such comment within thirty (30) days from the date of the OATH report. Copies of all such submissions must be shared with the opposing party. The Board will not consider new evidence submitted in a comment or in a response to a comment.
-
-(i) Final review by the Board. For the purposes of Charter § 2603(h)(3), the Board will review the OATH report, along with the original transcript of the hearing and all documents introduced into the record, and any comments and responses to comments submitted to the Board pursuant to 53 RCNY § 2-03(h), to determine whether it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law. In accordance with 53 RCNY § 2-03(c), any Board attorney involved in the prosecution of the enforcement action will not participate in the Board's final review.
-
-(j) Board order finding a violation.
-
-   (1) If the Board determines that it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue an order stating its final findings of fact and conclusions of law and imposing a penalty, except, if the respondent is a current Member or employee of the New York City Council, the Board will issue an order stating its final findings of fact and conclusions of law and recommending a penalty to the New York City Council. The order will include notice of the respondent's right to appeal to the New York State Supreme Court.
-
-   (2) All orders of the Board will be made public. The Board may also make the OATH report public as part of its order, but all other underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
-
-   (3) The order will be sent by first class mail to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
-
-   (4) If the order imposes a monetary penalty, payment is due to the Board within thirty (30) days of the date of service. If the respondent does not pay the full monetary penalty amount, the Board will refer the matter to the New York City Law Department for collection.
-
-(k) Board dismissal. If the Board determines that it has not been proven by a preponderance of the evidence that the respondent violated any provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue a written decision that dismisses the enforcement action and states its final findings of fact and conclusions of law. The decision will be sent to the respondent and respondent's representative, if applicable, and will not be made public. All underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
-
-
-
-
-
-
 Chapter 1: Conflicts of Interest
 --------------------------------------------------
 
@@ -773,6 +620,290 @@ Editor's note: Former section renumbered as 53 RCNY § 4-04.
 
 
 
+Chapter 2: Procedural Rules for Enforcement Actions
+--------------------------------------------------
+
+
+
+*§ 2-01 Applicability and Definitions.* ::
+
+
+(a) Applicability. This chapter establishes the procedural rules for enforcement actions brought pursuant to Charter § 2603(h) to address alleged violations of:
+
+   (1) Chapter 68 of the City Charter (the Conflicts of Interest Law);
+
+   (2) § 3-224 through § 3-228 of the Administrative Code (the Lobbyist Gift Law);
+
+   (3) § 3-901 through § 3-907 of the Administrative Code (the Affiliated Not-for-Profits Law); and
+
+   (4) § 3-1101 through § 3-1107 of the Administrative Code (the Legal Defense Trusts Law).
+
+(b) Definitions.
+
+   "Board" means the Conflicts of Interest Board.
+
+   "Board Rules" means the rules of the Conflicts of Interest Board, as set forth in Title 53 of the Rules of the City of New York.
+
+   "Day" means a calendar day. When the last day of a time period is a Saturday, Sunday, or public holiday, the time period will run through the end of the next business day.
+
+   "Enforcement attorney" means an attorney prosecuting an enforcement action on behalf of the Board.
+
+   "OATH" means the New York City Office of Administrative Trials and Hearings.
+
+   "OATH Rules" means OATH's Rules of Practice, as set forth in Title 48 of the Rules of the City of New York.
+
+   "Respondent" means a public servant or former public servant; a lobbyist or any other person required to be listed on a statement of registration pursuant to Administrative Code § 3-213(c)(1); an organization affiliated with an elected official or an agent of an elected official, as defined by Administrative Code § 3-901; or a legal defense trust, trustee, or beneficiary, as defined by Administrative Code § 3-1101, who has been served a Notice of Initial Determination of Probable Cause.
+
+
+
+
+
+
+
+
+*§ 2-02 Informal Proceedings.* ::
+
+
+(a) Notice of Initial Determination of Probable Cause. For the purposes of Charter § 2603(h)(1), the Board will commence an enforcement action by serving a Notice of Initial Determination of Probable Cause by first class mail to the respondent's last known residential address or actual place of business.
+
+(b) Response to the Notice of Initial Determination of Probable Cause.
+
+   (1) For the purposes of Charter § 2603(h)(1), the respondent has twenty (20) days from the date of service to submit a written response to the Notice of Initial Determination of Probable Cause ("Notice") or request an extension. The response is an opportunity to explain, rebut, or provide information concerning the factual or legal allegations in the Notice. The Board will not consider requests for discovery of evidence during informal proceedings.
+
+   (2) Upon oral or written request within twenty (20) days from the date of service of the Notice, the respondent will be granted a thirty- (30-) day extension within which to submit a written response. Upon oral or written request made prior to the expiration of the first extension, the respondent may be granted a second thirty- (30-) day extension for good cause shown, including, but not limited to, ongoing settlement negotiations. Any further extensions must be requested in writing to the Board and will be granted only in exigent circumstances.
+
+   (3) For the purposes of Charter § 2603(h)(2):
+
+      (i) If the respondent submits a substantive written response to the Notice, the Board will review the response to determine whether there remains probable cause to believe that any alleged violation occurred and will either dismiss the enforcement action or sustain its initial determination of probable cause in whole or in part.
+
+      (ii) If the respondent does not submit a written response to the Notice or submits only a general denial of the allegations in the Notice, the Board's initial determination of probable cause will be deemed sustained.
+
+(c) Referral to agency. If the Board sustains its initial determination of probable cause against a respondent who is entitled to disciplinary rights as described in Charter § 2603(h)(2), the Board will notify the respondent's employing City agency in writing of the alleged facts and violations. After such a referral, the Board retains separate and continuing jurisdiction over the enforcement action.
+
+   (1) If the agency does not pursue disciplinary action against the respondent, the Board will commence formal proceedings against the respondent.
+
+   (2) If the agency pursues disciplinary action against the respondent, the Board may resolve the enforcement action by a joint settlement agreement with the respondent and agency or commence formal proceedings against the respondent.
+
+(d) Representation by an attorney or other person.
+
+   (1) If the respondent chooses to be represented by an attorney or any other person, the representative appearing for the respondent must submit a written and signed Notice of Appearance to the Board. The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States will be indicated by the designation "Attorney for (person represented)." The appearance of any other person will be indicated by the designation "Representative for (person represented)." The Board will not accept a response from or discuss the details of an enforcement action with any attorney or other person who has not submitted a Notice of Appearance.
+
+   (2) To withdraw from representation, the representative must submit a written notice of withdrawal to the Board, signed by the respondent or otherwise explaining the reason for withdrawal. An attorney who has submitted a Notice of Appearance may withdraw from representation only with consent of the respondent or when other cause exists, as delineated in the applicable provisions of the New York Rules of Professional Conduct.
+
+   (3) A Notice of Appearance, withdrawal or substitution may be submitted to the Board at any time prior to commencement of formal proceedings. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a Notice of Appearance, withdrawal or substitution.
+
+(e) Stay of an enforcement action. To obtain a stay of an enforcement action prior to commencement of formal proceedings, the respondent must submit a written request to the Board for its review and approval. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a stay.
+
+(f) Settlement.
+
+   (1) At any time after the service of the Notice of Initial Determination of Probable Cause, an enforcement action may be resolved by settlement agreement in the form of a Public Disposition or Public Warning Letter.
+
+      (i) A Public Disposition must include an admission of the relevant facts; an acknowledgment that the admitted conduct violated a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law; and a penalty that addresses the admitted conduct.
+
+      (ii) A Public Warning Letter must include a statement of relevant facts, and a description of each violation of a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law.
+
+   (2) The language and penalty of the proposed settlement agreement will be negotiated between the enforcement attorney and the respondent or the respondent's representative, if applicable. If the respondent requests that the respondent's employing City agency be a party to the settlement, the respondent must submit a signed waiver of confidentiality to the Board to allow the enforcement attorney to discuss the proposed settlement agreement with such agency.
+
+   (3) If the enforcement attorney and the respondent reach a proposed settlement agreement, it will be reduced to writing and signed by the respondent, the respondent's representative, if applicable, and a representative of the respondent's employing City agency, if applicable. Any monetary penalty to be paid to the Board is due upon signing unless otherwise specified in the proposed settlement agreement. Monetary penalty payments will be held by the Board in escrow until the proposed settlement agreement is fully executed by the Board.
+
+   (4) After receiving the full payment of any monetary penalty to be paid to the Board, the enforcement attorney will present the proposed settlement agreement to the Board for its review and approval.
+
+      (i) If the Board approves the proposed settlement agreement, the settlement agreement will be signed by the Board Chair. The fully-executed settlement agreement will be made public, but all underlying records, reports, memoranda, and files of the enforcement action will remain confidential in accordance with Charter § 2603(k).
+
+      (ii) If the Board does not approve the proposed settlement agreement, the Board may direct the enforcement attorney to seek modification of the penalty or the language in the settlement agreement. The modified proposed settlement agreement must be reviewed and approved by the Board.
+
+
+
+
+
+
+
+
+*§ 2-03 Formal Proceedings.* ::
+
+
+(a) Designation of OATH. For the purposes of Charter § 2603(h)(2), and in accordance with Charter § 1048, the Board designates OATH to conduct hearings in accordance with the OATH Rules, except as otherwise provided by these rules.
+
+(b) Commencement of formal proceedings.
+
+   (1) The Board will commence formal proceedings at OATH by serving a Notice of Petition and Petition by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable. After service, the enforcement attorney will file the Notice of Petition and Petition with OATH and will provide OATH with potential dates for a settlement conference and potential dates for a hearing.
+
+   (2) After the conference and hearing dates have been scheduled at OATH, the enforcement attorney will serve a Notice of Hearing by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
+
+(c) Ex Parte communications with the Board.
+
+   (1) After service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), any Board attorney involved in the prosecution of the enforcement action may not communicate ex parte with any member of the Board or any attorney serving as counsel to the Board concerning the merits of the enforcement action, except as provided in paragraph (2) of this subdivision.
+
+   (2) An enforcement attorney may communicate ex parte with members of the Board or an attorney serving as counsel to the Board with respect to ministerial matters involving the enforcement action; on consent of the respondent or respondent's representative; or if deemed necessary by the Board or by an attorney serving as counsel to the Board.
+
+(d) Answer. The respondent may serve and file a written answer to the Petition in accordance with the OATH Rules. The answer may contain specific responses, by admission, denial, or otherwise, to each allegation of the Petition and assert all affirmative defenses, if any. The respondent may include in the answer matters in mitigation. The answer must contain the full name, address, telephone number, and email address of the respondent. If the respondent is represented, the representative's name, address, telephone number and email address must also appear on the answer. The answer must be signed by the respondent or respondent's representative.
+
+(e) Settlement. At the OATH settlement conference, an enforcement action may be resolved by settlement agreement pursuant to 53 RCNY § 2-02(f).
+
+(f) Hearing.
+
+   (1) The enforcement attorney will have the burden of proof by a preponderance of the evidence.
+
+   (2) The enforcement attorney will make an opening statement first, after which the respondent may make an opening statement.
+
+   (3) The enforcement attorney will initiate the presentation of evidence. After the enforcement attorney has completed the presentation of the Board's evidence, the respondent may present evidence. The enforcement attorney may present rebuttal evidence.
+
+   (4) The enforcement attorney will make a closing statement first, after which the respondent may make a closing statement.
+
+(g) OATH report. After a hearing has been conducted, OATH will issue a confidential report of its recommended findings of fact and conclusions of law and its recommended disposition of the enforcement action. OATH will send the report, along with the original transcript of the hearing and all documents introduced into the record, to the Board for review. OATH will send a copy of the report to the enforcement attorney and the respondent or respondent's representative, if applicable.
+
+(h) Comment on OATH report. Within twenty (20) days from the date of the OATH report, each party may submit a comment to the Board to explain, rebut, or provide information concerning OATH's recommended findings of fact, conclusions of law, and disposition. If either party submits a comment, the opposing party may submit to the Board a response to such comment within thirty (30) days from the date of the OATH report. Copies of all such submissions must be shared with the opposing party. The Board will not consider new evidence submitted in a comment or in a response to a comment.
+
+(i) Final review by the Board. For the purposes of Charter § 2603(h)(3), the Board will review the OATH report, along with the original transcript of the hearing and all documents introduced into the record, and any comments and responses to comments submitted to the Board pursuant to 53 RCNY § 2-03(h), to determine whether it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law. In accordance with 53 RCNY § 2-03(c), any Board attorney involved in the prosecution of the enforcement action will not participate in the Board's final review.
+
+(j) Board order finding a violation.
+
+   (1) If the Board determines that it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue an order stating its final findings of fact and conclusions of law and imposing a penalty, except, if the respondent is a current Member or employee of the New York City Council, the Board will issue an order stating its final findings of fact and conclusions of law and recommending a penalty to the New York City Council. The order will include notice of the respondent's right to appeal to the New York State Supreme Court.
+
+   (2) All orders of the Board will be made public. The Board may also make the OATH report public as part of its order, but all other underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
+
+   (3) The order will be sent by first class mail to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
+
+   (4) If the order imposes a monetary penalty, payment is due to the Board within thirty (30) days of the date of service. If the respondent does not pay the full monetary penalty amount, the Board will refer the matter to the New York City Law Department for collection.
+
+(k) Board dismissal. If the Board determines that it has not been proven by a preponderance of the evidence that the respondent violated any provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue a written decision that dismisses the enforcement action and states its final findings of fact and conclusions of law. The decision will be sent to the respondent and respondent's representative, if applicable, and will not be made public. All underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
+
+
+
+
+
+
+Chapter 4: Annual Disclosure
+--------------------------------------------------
+
+
+
+*§ 4-01 Procedures for Obtaining an Extension of Time Within Which to File a Financial Disclosure Report.* ::
+
+
+(a) Bases for obtaining an extension of time to file.
+
+   (1) A person required to file a financial disclosure report with the Conflicts of Interest Board (the "Board") pursuant to § 12-110 of the Administrative Code of the City of New York (the "Administrative Code") may be granted an extension of time within which to file a report or portion thereof upon a showing of justifiable cause or undue hardship.
+
+   (2) A finding of justifiable cause or undue hardship shall not be based on periods of annual leave, attendance at conferences or meetings, or other pre-scheduled or voluntary absences from work.
+
+(b) General procedures.
+
+   (1) A request for an extension of time within which to file a financial disclosure report or portions thereof which is due by May first shall be postmarked, or delivery made to the Board, no later than April fifteenth of the year in which such report is to be filed. Where Administrative Code § 12-110 requires the filing of such report at a time other than on or before May first, a request for extension of time within which to file shall be postmarked, or delivery made to the Board, no later than fifteen days prior to such filing deadline.
+
+   (2) The request for an extension of time shall be mailed to the Board by certified mail or shall be delivered by hand and, upon request, a receipt may be issued upon acceptance of such delivery.
+
+   (3) The request for an extension of time within which to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship shall contain the following information:
+
+      (i) The name of the person making such request and his or her home address and work address;
+
+      (ii) The title of the position or job classification and name of the agency by which he or she is employed;
+
+      (iii) Explanation of justifiable cause or undue hardship in the form of a written statement with copies of any necessary supporting documents such person wishes the Board to consider;
+
+      (iv) Where the filer is seeking an extension to answer a portion of the report on the grounds that certain information is not yet available, the request shall state what information is not available. Documentation, if available, shall be provided in support of such request (for example, a copy of an application to the Internal Revenue Service for an automatic extension of time within which to file one's income tax return); and
+
+      (v) The additional time requested and the date by which such person intends to comply with the filing requirements.
+
+(c) Time limitations upon extensions. 
+
+   (1) The Board shall not grant an extension of time to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship for a period greater than four months from the original date the report was due.
+
+   (2) An individual who is seeking an extension of time to answer a portion of the financial disclosure report shall nevertheless file his or her report on or before May first, or at such other time required by Administrative Code § 12-110, containing all the information required by such report, except for that information which is not available. A supplemental statement providing information not previously available shall be filed on the date set by the Board. Failure to file such supplemental statement, or the filing of an incomplete or deficient supplemental statement, shall subject the reporting person to the penalties set forth in Administrative Code § 12-110(h).
+
+(d) Board action. 
+
+   (1) Upon receipt of a timely request for an extension of time within which to file a financial disclosure report or portions thereof, the Board shall review the material filed to determine whether an extension is appropriate.
+
+   (2) The Board may in its discretion request, in writing, additional information from the person making the request. Such additional information shall be submitted to the Board within ten business days of the date of the Board's request. In the event the Board does not receive the additional information within ten business days, it may make a determination on the basis of the information it has available.
+
+   (3) The Board shall give written notice of its determination to the person making the request.
+
+      (i) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is approved, such report shall be filed on or before the date indicated by the Board in its determination.
+
+      (ii) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is denied, such report shall be filed before or on the due date set forth in Administrative Code § 12-110 or such date as may thereafter be established by the Board in its determination.
+
+   (4) The Board may delegate to its executive director the authority to act pursuant to this Rule.
+
+(Renumbered from former 53 RCNY § 1-08, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-02 Retention of Financial Disclosure Reports.* ::
+
+
+(a) Definitions. As used in this Rule, the following terms shall have the respective meanings set forth below:
+
+   (1) "Administrative Code" shall mean the Administrative Code of the City of New York.
+
+   (2) "Board" shall mean the New York City Conflicts of Interest Board, established pursuant to § 2602 of the New York City Charter.
+
+   (3) "Financial disclosure report" shall mean any financial disclosure report filed or on file with the Board pursuant to § 12-110 of the Aministrative Code, including reports previously filed with the Office of the City Clerk and transferred to the Board's custody.
+
+   (4) "Prior disclosure report" shall mean any Financial Disclosure Report which, as of the effective date of this Rule, has been retained by the Board for a period in excess of six years from December 31 of the calendar year to which such report relates.
+
+(b) Retention of financial disclosure reports.
+
+   (1) Whenever a Financial Disclosure Report is filed with the Board, it shall be retained by the Board for a period commencing on the date such report was filed with the Board and expiring on the sixth anniversary of December 31 of the calendar year to which such report relates. The period during which the Board is required to retain a Financial Disclosure Report, pursuant to this paragraph (1), is hereinafter referred to as the "Required Retention Period" for such report.
+
+   (2) (i) Except as provided in subparagraphs (ii) and (iii) below, upon expiration of the Required Retention Period for a Financial Disclosure Report, pursuant to paragraph (1) above, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any request that the Board return such report must be made in writing to the Board not later than 10 days prior to the expiration of such period.
+
+      (ii) Notwithstanding the provisions of subparagraph (i), if a law enforcement agency requests that the Board retain a Financial Disclosure Report for an additional period of time beyond the expiration of its required retention period, for purposes of an ongoing investigation, the Board shall retain such report for such additional period, provided the request is made in writing and is submitted to the Board not later than 10 days prior to the expiration of such required retention period. Upon expiration of such additional period of time, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any such request must be made in accordance with the provision of subparagraph (i) above.
+
+      (iii) Notwithstanding the provisions of subparagraph (i), all reports shall be retained by the Board for a period of not less than one year from the date such report was filed with the Board.
+
+   (3) In accordance with the provisions of subdivision (e) of Administrative Code § 12-110, as amended by Local Law No. 93 of 1992, the retention period established in paragraph (1) is intended to supersede, and shall be observed by the Board in lieu of, the retention periods set forth in such sudivision (e).
+
+   (4) Notwithstanding any other provision of this section, the Board shall be entitled, upon the effective date of the Rule, to destroy immediately all Prior Financial Disclosure Reports then in its possession.
+
+(Renumbered from former 53 RCNY § 1-10, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-03 City Employees Holding Policymaking Positions for Purposes of the Financial Disclosure Law.* ::
+
+
+For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall be deemed to hold a policymaking position, and therefore be required to file a financial disclosure report, if such employee is charged with substantial policy discretion within the meaning of 53 RCNY § 1-02.
+
+(Renumbered from former 53 RCNY § 1-14, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-04 City Employees Whose Duties Involve the Negotiation, Authorization, or Approval of Contracts and of Certain Other Matters.* ::
+
+
+(a)  For purposes of Administrative Code § 12-110(b)(3)(a)(4), a City employee shall be deemed to have duties that involve the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits if the employee performs any of the following duties:
+
+   (1) Determines the substantive content of a request for proposals or other bid request or change order;
+
+   (2) Makes a determination as to the responsiveness of a bid or the responsibility of a vendor or bidder;
+
+   (3) Evaluates a bid;
+
+   (4) Negotiates or determines the substantive content of a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order;
+
+   (5) Recommends or determines whether or to whom a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order should be awarded or granted;
+
+   (6) Approves a contract, lease, franchise, revocable consent, or concession or change order on behalf of the City or any agency subject to Administrative Code § 12-110; or
+
+   (7) Determines the content of or promulgates City procurement policies, rules, or regulations.
+
+(b) Clerical personnel and other public servants who, in relation to the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits, perform only ministerial tasks shall not be required to file a financial disclosure report pursuant to Administrative Code § 12-110(b)(3)(a)(4). For example, public servants who are under the supervision of others and are without substantial personal discretion, and who perform only clerical tasks (such as typing, filing, or distributing contracts, leases, franchises, revocable consents, concessions, or zoning changes, variances, or special permits or calendaring meetings or who identify potential bidders or vendors) shall not, on the basis of such tasks alone, be required to file a financial disclosure report. Similarly, public servants who write a request for proposals, bid request, change order, contract, lease, franchise, revocable consent, concession or application for a zoning change, variance, or special permit or procurement policy, rule, or regulation under the direction of a superior but who do not determine the substantive content of the document shall not, on the basis of such tasks alone, be required to file a financial disclosure report.
+
+(Renumbered from former 53 RCNY § 1-15, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
 Chapter 3: Organizations Affiliated with Elected Officials
 --------------------------------------------------
 
@@ -960,137 +1091,6 @@ Editor's note: Pursuant to Section 2 of the rule adding this section, subsection
 (c) Custodian of Records. An organization affiliated with an elected official must designate a custodian of the organization’s records or documents that substantiate the reporting required pursuant to Administrative Code § 3-902 and must submit, at the time of each reporting pursuant to Administrative Code § 3-902, the name, address, email address, and telephone number of the custodian of the organization’s records. If an organization is no longer subject to the annual reporting requirement pursuant to Administrative Code § 3-902, the organization must, for 6 years after the date of its last filing required by Administrative Code § 3-902, notify the Board, in writing, of any change of custodian, or of the custodian’s address, email address, or telephone number, no later than 30 days after such change.
 
 
-
-
-
-
-Chapter 4: Annual Disclosure
---------------------------------------------------
-
-
-
-*§ 4-01 Procedures for Obtaining an Extension of Time Within Which to File a Financial Disclosure Report.* ::
-
-
-(a) Bases for obtaining an extension of time to file.
-
-   (1) A person required to file a financial disclosure report with the Conflicts of Interest Board (the "Board") pursuant to § 12-110 of the Administrative Code of the City of New York (the "Administrative Code") may be granted an extension of time within which to file a report or portion thereof upon a showing of justifiable cause or undue hardship.
-
-   (2) A finding of justifiable cause or undue hardship shall not be based on periods of annual leave, attendance at conferences or meetings, or other pre-scheduled or voluntary absences from work.
-
-(b) General procedures.
-
-   (1) A request for an extension of time within which to file a financial disclosure report or portions thereof which is due by May first shall be postmarked, or delivery made to the Board, no later than April fifteenth of the year in which such report is to be filed. Where Administrative Code § 12-110 requires the filing of such report at a time other than on or before May first, a request for extension of time within which to file shall be postmarked, or delivery made to the Board, no later than fifteen days prior to such filing deadline.
-
-   (2) The request for an extension of time shall be mailed to the Board by certified mail or shall be delivered by hand and, upon request, a receipt may be issued upon acceptance of such delivery.
-
-   (3) The request for an extension of time within which to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship shall contain the following information:
-
-      (i) The name of the person making such request and his or her home address and work address;
-
-      (ii) The title of the position or job classification and name of the agency by which he or she is employed;
-
-      (iii) Explanation of justifiable cause or undue hardship in the form of a written statement with copies of any necessary supporting documents such person wishes the Board to consider;
-
-      (iv) Where the filer is seeking an extension to answer a portion of the report on the grounds that certain information is not yet available, the request shall state what information is not available. Documentation, if available, shall be provided in support of such request (for example, a copy of an application to the Internal Revenue Service for an automatic extension of time within which to file one's income tax return); and
-
-      (v) The additional time requested and the date by which such person intends to comply with the filing requirements.
-
-(c) Time limitations upon extensions. 
-
-   (1) The Board shall not grant an extension of time to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship for a period greater than four months from the original date the report was due.
-
-   (2) An individual who is seeking an extension of time to answer a portion of the financial disclosure report shall nevertheless file his or her report on or before May first, or at such other time required by Administrative Code § 12-110, containing all the information required by such report, except for that information which is not available. A supplemental statement providing information not previously available shall be filed on the date set by the Board. Failure to file such supplemental statement, or the filing of an incomplete or deficient supplemental statement, shall subject the reporting person to the penalties set forth in Administrative Code § 12-110(h).
-
-(d) Board action. 
-
-   (1) Upon receipt of a timely request for an extension of time within which to file a financial disclosure report or portions thereof, the Board shall review the material filed to determine whether an extension is appropriate.
-
-   (2) The Board may in its discretion request, in writing, additional information from the person making the request. Such additional information shall be submitted to the Board within ten business days of the date of the Board's request. In the event the Board does not receive the additional information within ten business days, it may make a determination on the basis of the information it has available.
-
-   (3) The Board shall give written notice of its determination to the person making the request.
-
-      (i) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is approved, such report shall be filed on or before the date indicated by the Board in its determination.
-
-      (ii) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is denied, such report shall be filed before or on the due date set forth in Administrative Code § 12-110 or such date as may thereafter be established by the Board in its determination.
-
-   (4) The Board may delegate to its executive director the authority to act pursuant to this Rule.
-
-(Renumbered from former 53 RCNY § 1-08, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
-
-
-*§ 4-02 Retention of Financial Disclosure Reports.* ::
-
-
-(a) Definitions. As used in this Rule, the following terms shall have the respective meanings set forth below:
-
-   (1) "Administrative Code" shall mean the Administrative Code of the City of New York.
-
-   (2) "Board" shall mean the New York City Conflicts of Interest Board, established pursuant to § 2602 of the New York City Charter.
-
-   (3) "Financial disclosure report" shall mean any financial disclosure report filed or on file with the Board pursuant to § 12-110 of the Aministrative Code, including reports previously filed with the Office of the City Clerk and transferred to the Board's custody.
-
-   (4) "Prior disclosure report" shall mean any Financial Disclosure Report which, as of the effective date of this Rule, has been retained by the Board for a period in excess of six years from December 31 of the calendar year to which such report relates.
-
-(b) Retention of financial disclosure reports.
-
-   (1) Whenever a Financial Disclosure Report is filed with the Board, it shall be retained by the Board for a period commencing on the date such report was filed with the Board and expiring on the sixth anniversary of December 31 of the calendar year to which such report relates. The period during which the Board is required to retain a Financial Disclosure Report, pursuant to this paragraph (1), is hereinafter referred to as the "Required Retention Period" for such report.
-
-   (2) (i) Except as provided in subparagraphs (ii) and (iii) below, upon expiration of the Required Retention Period for a Financial Disclosure Report, pursuant to paragraph (1) above, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any request that the Board return such report must be made in writing to the Board not later than 10 days prior to the expiration of such period.
-
-      (ii) Notwithstanding the provisions of subparagraph (i), if a law enforcement agency requests that the Board retain a Financial Disclosure Report for an additional period of time beyond the expiration of its required retention period, for purposes of an ongoing investigation, the Board shall retain such report for such additional period, provided the request is made in writing and is submitted to the Board not later than 10 days prior to the expiration of such required retention period. Upon expiration of such additional period of time, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any such request must be made in accordance with the provision of subparagraph (i) above.
-
-      (iii) Notwithstanding the provisions of subparagraph (i), all reports shall be retained by the Board for a period of not less than one year from the date such report was filed with the Board.
-
-   (3) In accordance with the provisions of subdivision (e) of Administrative Code § 12-110, as amended by Local Law No. 93 of 1992, the retention period established in paragraph (1) is intended to supersede, and shall be observed by the Board in lieu of, the retention periods set forth in such sudivision (e).
-
-   (4) Notwithstanding any other provision of this section, the Board shall be entitled, upon the effective date of the Rule, to destroy immediately all Prior Financial Disclosure Reports then in its possession.
-
-(Renumbered from former 53 RCNY § 1-10, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
-
-
-*§ 4-03 City Employees Holding Policymaking Positions for Purposes of the Financial Disclosure Law.* ::
-
-
-For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall be deemed to hold a policymaking position, and therefore be required to file a financial disclosure report, if such employee is charged with substantial policy discretion within the meaning of 53 RCNY § 1-02.
-
-(Renumbered from former 53 RCNY § 1-14, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
-
-
-*§ 4-04 City Employees Whose Duties Involve the Negotiation, Authorization, or Approval of Contracts and of Certain Other Matters.* ::
-
-
-(a)  For purposes of Administrative Code § 12-110(b)(3)(a)(4), a City employee shall be deemed to have duties that involve the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits if the employee performs any of the following duties:
-
-   (1) Determines the substantive content of a request for proposals or other bid request or change order;
-
-   (2) Makes a determination as to the responsiveness of a bid or the responsibility of a vendor or bidder;
-
-   (3) Evaluates a bid;
-
-   (4) Negotiates or determines the substantive content of a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order;
-
-   (5) Recommends or determines whether or to whom a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order should be awarded or granted;
-
-   (6) Approves a contract, lease, franchise, revocable consent, or concession or change order on behalf of the City or any agency subject to Administrative Code § 12-110; or
-
-   (7) Determines the content of or promulgates City procurement policies, rules, or regulations.
-
-(b) Clerical personnel and other public servants who, in relation to the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits, perform only ministerial tasks shall not be required to file a financial disclosure report pursuant to Administrative Code § 12-110(b)(3)(a)(4). For example, public servants who are under the supervision of others and are without substantial personal discretion, and who perform only clerical tasks (such as typing, filing, or distributing contracts, leases, franchises, revocable consents, concessions, or zoning changes, variances, or special permits or calendaring meetings or who identify potential bidders or vendors) shall not, on the basis of such tasks alone, be required to file a financial disclosure report. Similarly, public servants who write a request for proposals, bid request, change order, contract, lease, franchise, revocable consent, concession or application for a zoning change, variance, or special permit or procurement policy, rule, or regulation under the direction of a superior but who do not determine the substantive content of the document shall not, on the basis of such tasks alone, be required to file a financial disclosure report.
-
-(Renumbered from former 53 RCNY § 1-15, City Record 12/21/2018, eff. 1/20/2019)
 
 
 

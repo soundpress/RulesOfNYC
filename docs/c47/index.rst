@@ -5356,3 +5356,168 @@ HRA shall administer the Pathway Home Program, except that HRA shall make initia
 
 
 
+Chapter 12: Fair Fares NYC Program
+--------------------------------------------------
+
+
+
+*§ 12-01 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms have the following meanings:
+
+(a) "City agency" means a city agency as defined in section 1-112(1) of Title 1 of the New York City Administrative Code.
+
+(b) "DSS/HRA" means the New York City Department of Social Services / Human Resources Administration.
+
+(c) "Fair Fares NYC Conditions of Use" or "Conditions of Use" means the terms and conditions that an applicant must accept and agree to be bound by before receiving a FFM pursuant to DSS/HRA's Memorandum of Understanding with the New York City Transit Authority.
+
+(d) "Fair Fares NYC MetroCard" or "FFM" means the special MetroCard (or any successor to the MetroCard) that allows eligible individuals to receive a discount on designated travel options pursuant to the program established by this chapter.
+
+(e) "Fair Fares NYC" or "Program" means the program established pursuant to this chapter to provide a 50% discount on designated transit options.
+
+(f) "FPL" means the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+(g) "NYCT" means the MTA New York City Transit Authority, established pursuant to Title 9 of Article 5 of the New York of the New York State Public Authorities Law.
+
+(h) "Participant" means an individual who is currently enrolled in the Program.
+
+
+
+
+
+
+
+
+*§ 12-02 In General.* ::
+
+
+DSS/HRA will administer Fair Fares NYC and will make eligibility determinations in accordance with this chapter. Participants will be able to use the Fair Fares NYC MetroCard to travel on all NYCT-operated subway and local bus lines, and such other transit options that DSS/HRA may designate in consultation with NYCT. Participants will be able to use the card to purchase, at half-price, pay per ride, 7-day or 30-day fares or such other fare types that DSS/HRA will designate as being available under the Program in the future. The program is subject to the availability of funding.
+
+
+
+
+
+
+
+
+*§ 12-03 Initial Eligibility and Application Process.* ::
+
+
+(a) To be eligible to receive a Fair Fares NYC MetroCard an applicant must:
+
+   (1) submit a completed application, including supporting documentation, in a format and manner established by the Program;
+
+   (2) submit a signed Fair Fares NYC Conditions of Use form pursuant to DSS/HRA's Memorandum with New York City Transit Authority; and
+
+   (3) meet the following eligibility requirements:
+
+      (A) The applicant must be a New York City resident;
+
+      (B) The applicant must be between 18 and 64 years of age;
+
+      (C) The applicant's federal gross income must not exceed 100 percent of FPL;
+
+      (D) The applicant must not currently be eligible for a duplicative discount or benefit from DSS/HRA, NYCT or any other entity or program;
+
+      (E) The applicant must not be currently suspended or permanently disqualified from the Program under 68 RCNY § 12-05(b);
+
+(b) The applicant must consent to have the Program verify any information in the application.
+
+(c) The Program will issue a written determination within 30 days following the submission of a completed application.
+
+
+
+
+
+
+
+
+*§ 12-04 Enrollment Period, Ongoing Eligibility and Re-Enrollments.* ::
+
+
+(a) Subject to the availability of funding, subdivision (b) of this section and 68 RCNY § 12-05, an individual will be enrolled in the Program for one year from the date of application approval, provided they continue to meet the requirements set forth in 68 RCNY § 12-03(a)(3).
+
+(b) If the Program determines that a participant no longer meets the requirements of 68 RCNY § 12-03(a)(3), or is no longer able to use the card due to a period of incarceration or other institutionalization of 30 days or more, the Program will provide a notice to the participant that will include the reason for the determination and the date their FFM will be deactivated.
+
+(c) In order to re-enroll in the Program after their first or any subsequent year, or after having their card deactivated pursuant to subdivision (b) of this section, an individual must satisfy the same eligibility requirements as a new applicant.
+
+
+
+
+
+
+
+
+*§ 12-05 Penalties for Misuse or Abuse.* ::
+
+
+(a) The FFM can be used only by the participant to whom it is issued and only in accordance with the Fair Fares NYC Conditions of Use pursuant to DSS/HRA's Memorandum of Understanding with NYCT.
+
+(b) A participant who misuses or abuses the FFM, or commits fraud on the program, including but not limited to giving the card to another person to use or deliberately providing misinformation to the Program, will be subject to the following penalties:
+
+   (1) For the first offense, the participant will be suspended from the Program for 60 days. The individual will be allowed to reapply following the 60-day suspension and after signing an attestation in a form to be established by the Program.
+
+   (2) For the second offense, the participant will be permanently disqualified from the Program.
+
+(c) The Program will provide notice to the individual of the penalty imposed and information on how to seek administrative review pursuant to 68 RCNY § 12-06.
+
+
+
+
+
+
+
+
+*§ 12-06 Administrative Review Process.* ::
+
+
+(a) In the event an individual is found ineligible for a FFM under 68 RCNY § 12-03 or 12-04, or is determined to have misused or abused the card or committed fraud on the program, they may request administrative review of the decision by submitting a review request, in a form and manner established by the Program, within 14 days of the date of the decision.
+
+(b) The Program will review any documentation and/or information that the applicant or participant submits and issue written notice of the final determination within 30 days of the Program's receipt of such documentation or information.
+
+
+
+
+
+
+
+
+*§ 12-07 Confidentiality of Fair Fares NYC Eligibility Information.* ::
+
+
+DSS/HRA will treat information concerning current and former applicants and participants as confidential and may only disclose such information:
+
+(a) To the person who is the subject of the information or such person's legal representative;
+
+(b) If authorized in writing by the individual to whom such information pertains, or if such individual is not legally competent, by such individual's legal representative;
+
+(c) If so ordered by a court of competent jurisdiction;
+
+(d) For the purpose of administering the Program or determining or facilitating the applicant's eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal, state, and local privacy laws and regulations, and subject to the further requirement that such information will not be redisclosed to any other third party in the absence of written permission from DSS/HRA;
+
+(e) At HRA's election, to a law enforcement agency or district attorney's office to investigate suspected instances of fraud related to the administration of the program; or
+
+(f) To a law enforcement agency or district attorney's office that serves DSS/HRA a judicial subpoena or judicial warrant.
+
+
+
+
+
+
+
+
+*§ 12-08 Additional Provisions* ::
+
+
+(a) The Program reserves the right to limit the number of replacement cards it will issue to an individual within a calendar year, in accordance with the Conditions of Use pursuant to DSS/HRA's Memorandum of Understanding with NYCT.
+
+(b) The Program reserves the right to require anyone who has been issued a card to return their card that has been reported as damaged or that has been deactivated or has expired. The Program further reserves the right to impose reasonable restrictions, in accordance with the Conditions of Use, on the ability of individuals who have failed to return a card at the request of the program to receive a new card.
+
+(c) Individuals who have been permanently disqualified from the Program under 68 RCNY § 12-06(b) may petition the Program for reinstatement after one year and may be reinstated if they can demonstrate extraordinary circumstances justifying reinstatement.
+
+
+
+
+
+
