@@ -5868,6 +5868,667 @@ Chapter 10: Financial Corporations
 
 
 
+Chapter 12: Hotel Room Occupancy Tax
+--------------------------------------------------
+
+
+
+*§ 12-01 Definitions.* ::
+
+
+Commissioner of Finance. The words "Commissioner of Finance" mean the Commissioner of Finance of the City of New York.
+
+Hotel. A "hotel" is a building or portion of a building that is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house, bed and breakfast, or club, whether or not meals are served. An "apartment hotel" is a building or portion of it wherein apartments are rented to guests for fixed periods of time, either furnished or unfurnished. The term "boarding house" includes rooming houses, furnished-room houses and lodging houses. The term "bed and breakfast" includes a dwelling place ordinarily occupied by a person as his or her own dwelling in which more than one room is regularly used and kept open by such person for the lodging of guests for consideration regardless of whether services such as meals, telephone or linen services are provided. The term "club" includes a residence club, as well as private clubs. To illustrate:
+
+Illustration (i): Individual A owns and lives in a three-bedroom house in New York City. Individual A rents one of the bedrooms to guests from time to time by listing the room with a bed and breakfast listing service. At no time during the year does A rent or offer to rent more than one room to guests. The rental of one room by A is not subject to tax.
+
+Illustration (ii): The facts are the same as in illustration (i) except that A lists two of the three bedrooms or one bedroom and the living room, in his apartment for rental to guests. A's rental of rooms in the apartment is subject to tax.
+
+The term "hotel" also includes a bungalow, which is a furnished living unit intended for single family occupancy that is regularly used and kept open for the lodging of guests for consideration, except that for occupancies during taxable quarters beginning on or before September 1, 2003, the rental of a bungalow for at least one week will not be subject to the tax provided: no maid, food, or other common hotel services such as entertainment or planned activities are provided. The furnishing of linen by the lessor with the rental of a bungalow without the services of changing the linen does not alter the nontaxable status of the rental charges for such periods. To illustrate:
+
+Illustration (iii): Individual B owns an apartment in New York City. Beginning on January 1, 2004, B begins to regularly rent or offer to rent the apartment, furnished, to guests on a transient basis. B's rental of the apartment to guests on a transient basis is subject to the tax regardless of whether the rentals are for periods longer than one week.
+
+The term "hotel" does not include the following:
+
+(1) A nursing home, rest home, convalescent home, maternity home for expectant mothers, residence or home for adults or mentally disabled persons which is registered with the Department of Social Services or Department of Mental Hygiene, whether publicly or privately owned and operated, which accepts as patients persons who require special care on account of age, illness, mental or physical condition or the like, and provides this special care either by nurses, orderlies or aides. To illustrate:
+
+Illustration (iv): A senior citizen's lodging facility which only furnishes hotel facilities and services and does not furnish services or special care provided by attendants, etc., is a hotel.
+
+Illustration (v): A maternity home or residence for expectant unwed mothers which is registered with the Department of Social Services and provides care and service for mothers to be. Such care and service includes maintaining a residence, social services, medical care, and arranging for delivery at a local hospital. This facility is not a hotel.
+
+(2) A summer camp for children which provides a program of instruction or training which the campers are required to pursue under the supervision of counselors is not a hotel. Where guest facilities are provided for parents or others the tax applies to such facilities.
+
+(3) A college dormitory or apartment belonging to a school, college, or university in which its students reside is not a hotel. Where facilities are provided for parents, alumni or others the tax applies to such facilities. A building or portion thereof will be irrebuttably presumed not to be regularly used and kept open for the lodging of guests if, during any four consecutive quarterly tax periods, or, beginning on and after September 1, 2004, during any twelve-month tax period, described in subsection a of 19 RCNY § 12-07, rooms, apartments or living units are rented to guests or occupants on fewer than three occasions or for not more than 14 days in the aggregate. For this purpose, the rentals of rooms in a single building or apartment will be aggregated and the rentals of apartments and living units will be aggregated. In addition, for this purpose, the rental of a room, apartment or living unit under a single contract for one or more consecutive days will be considered a single occasion. However, if a single contract provides for the rental of a room or apartment for non-consecutive days, each period of consecutive days will be considered a separate occasion. In addition, for this purpose, if a room, apartment or living unit is subleased or the right to occupy it is otherwise subcontracted away to another person, each separate sublease or subcontract of a room, apartment or living unit for a period of consecutive days will be considered a separate occasion. Furthermore, for this purpose, rentals to guests or occupants that qualify as permanent residents will not be included in the number of days or occasions of rentals.
+
+Illustration (vi): A owns a four-bedroom house in New York City. During the period September 1, 2004 through August 31, 2005, A rents three of the bedrooms as follows: one bedroom is rented for the entire twelve month period to individual B who does not sublease the room; one bedroom is rented for one week to individual C; one bedroom is rented for two days to individual D, three days to individual E and one day to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented rooms on four occasions. However, because the total number of days is less than 14, A is not considered to be operating a hotel.
+
+Illustration (vii): Individual A owns four apartments in New York City. During the period September 1, 2004 through August 31, 2005, A rents the apartments as follows: one apartment is rented for the entire 12-month period to individual B who does not sublease the apartment; another apartment is rented for one week to individual C; a third apartment is rented for two days to individual D, five days to individual E and four days to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented three of the apartments on four occasions. Because the total number of days of rentals of the three apartments is more than 14, A is considered to be operating a hotel with respect to the three apartments rented to C, D, E, and F. If the apartment rented to B were rented to B for only 190 days and was subsequently rented during the period to individual G for three days, that apartment would also be included as part of the hotel operation of A.
+
+Occupancy.
+
+(a) "Occupancy" is the use or possession, or the right to the use or possession, of any room or rooms in a hotel, or the right to the use or possession of the furnishings or to the services and accommodations accompanying the use and possession of the room or rooms. "Occupancy" includes the right to the use or possession as well as the exercise of that right; there is an "occupancy" of a room whether or not the person entitled to the use or possession of the room actually uses it or possesses it.
+
+(b) A room is deemed to be the subject of only one taxable occupancy at a given time. Where an occupant sublets or otherwise contracts away his right to the use or possession, the tax shall be collected and paid in accordance with the following rules:
+
+   (1) (i) For taxable periods beginning before June 1, 2002, if the original occupant is itself an operator, as in the case of a private club located in a hotel, and subleases the occupancy to another, the taxable occupancy shall be the occupancy by the sublessee. In such case, the original occupant shall collect the tax from the sublessee and pay it over to the Commissioner of Finance.
+
+      (ii) For taxable periods beginning on or after June 1, 2002, if the original occupant or any sublessee of the room is directly or indirectly related to the original hotel operator, the taxable occupancy will be the occupancy by the sublessee of such related person. For purposes of this subparagraph (ii) an occupant will be considered to be directly or indirectly related to the original hotel operator if:
+
+         (A) the original hotel operator owns directly or indirectly a five percent or greater interest in such occupant.
+
+         (B) such occupant owns directly or indirectly a five percent or greater interest in the original hotel operator.
+
+         (C) one or more persons own directly or indirectly five percent or greater interests both in such occupant and in the original hotel operator, or
+
+         (D) such occupant is an officer, director, manager (including a manager of a limited liability company), trustee, fiduciary or employee of the original hotel operator or an individual that is a member of the family of an individual original hotel operator.
+
+         (E) For purposes of this subparagraph a five percent or greater interest shall mean, in the case of a corporation, five percent or more of the voting power of all classes of stock or five percent or more of the total fair market value of all classes of stock, and, in the case of a partnership, association, trust or other entity, five percent or more of the capital, profits or beneficial interests in such entity.
+
+         (F) To illustrate:
+
+Illustration 1: In 2003, Z contracts for 100 rooms in a hotel at a rate of $100 per room per day for 190 consecutive days. Z subleases the rooms to its customers. Z is not a private club and is not related to the hotel operator within the meaning of this paragraph. The hotel operator is required to charge and collect the tax from Z for its occupancy of all 100 rooms for the entire 190-day period. Z is not a permanent resident with respect to any of the rooms. See 19 RCNY § 12-01 definition of a "permanent resident," paragraph (3). Z is not required to charge and collect the tax from its customers for the occupancy of any of the rooms that it subleases for the days that such rooms are sublet.
+
+Illustration 2: The facts are the same as in Illustration 1 except that Z is related to the hotel operator within the meaning of this paragraph. In this case, the taxable occupancy is the occupancy by the customers of Z and the hotel operator is required to charge and collect the tax from the customers of Z.
+
+   (2) (i) For taxable periods beginning before June 1, 2002, if the original occupant is not an operator, the occupant's occupancy is taxable whether or not the occupant has the actual use or possession of the room and no tax will be paid by or collected from a sublessee of the occupant.
+
+      (ii) For taxable periods beginning on or after June 1, 2002, except as provided in subparagraph (ii) of paragraph (1), the occupancy of the original occupant is taxable whether or not the original occupant has the actual use or possession of the room and no tax will be paid by the person having actual use or possession of the room. See subdivision (b)(ii) of the definition of "occupancy," supra, in this section for the application of the tax to the occupancy by a sublessee of an occupancy that is related to the hotel operator.
+
+(c) The tax is applicable to any occupancy on and after July 1, 1970, even if such occupancy is pursuant to a contract, lease, or other arrangement made prior thereto.
+
+Occupant. An "occupant" is any person who, for a consideration, uses, possesses, or has the right to use or possess any room or rooms in a hotel under any lease, concession, permit, right of access, license to use or other agreement, or otherwise.
+
+Operator.
+
+(1) An "operator" is any person operating a hotel in the City of New York, including, but not limited to, the owner or proprietor of such premises, lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such hotel. For taxable periods beginning on or after June 1, 2002, a private club that, as an accommodation to its members, makes rooms available to such members in its own buildings is an "operator" within the meaning of the law.
+
+(2) For taxable periods beginning before June 1, 2002, any person who contracts away the use of a room or rooms in a hotel is an "operator." For example, a private club which, as an accommodation to its members, makes rooms available to such members either in its own buildings or in club rooms maintained in a hotel elsewhere, is an "operator" within the meaning of the law. For taxable periods beginning on or after June 1, 2002, any occupant who sublets or otherwise contracts away the right to use or possession of a room or rooms in a hotel is not an operator.
+
+Permanent resident.
+
+(1) A person is a "permanent resident" as of a given date if that person has occupied or has had the right to occupy a room or suite of rooms in a particular hotel for 180 consecutive days next preceding such date. (Prior to September 1, 1980, 90 days of occupancy qualified a person as a "permanent resident"). A person who enters into an agreement for occupancy for 180 consecutive days or more does not become a permanent resident under the law until that person has been an occupant for 180 consecutive days, and the operator is liable for the collection of the tax until such occupancy for 180 consecutive days has been completed. Where the tax has been collected by the operator for occupancy for less than 180 days and the occupant subsequently completes 180 consecutive days of occupancy, the operator may return such tax to the occupant. If the operator has paid such tax over to the Commissioner of Finance, the operator may, within one year from the date of the payment to the Commissioner of Finance, and provided the operator has returned such tax to the occupant, either take credit for the tax so paid on any subsequent return filed by the operator or file a claim for refund of such tax.
+
+(2) A person is not a permanent resident as of a given date unless that person has completed 180 days of consecutive occupancy in the same establishment immediately prior to that date. Thus, a person who has the right to use a room only on intermittent days of the week or of the month is not a permanent resident even though that person has had more than 180 days of occupancy in the aggregate. Similarly, a person who, after having been a permanent resident, surrenders his occupancy and then subsequently resumes its occupancy, is not a permanent resident under the later occupancy until that person completes 180 additional consecutive days of occupancy. Where a person transfers from one hotel to another, even though owned or operated by the same operator, that person is not a permanent resident of the latter establishment until that person has completed 180 consecutive days of occupancy therein. However, except as provided in subdivision (3) of this definition, a person who has completed 180 consecutive days of occupancy in different rooms of the same hotel is a permanent resident of that establishment. Where a permanent resident rents additional rooms on a temporary basis, that person is not considered a permanent resident with respect to such additional rooms unless such rooms are occupied for 180 or more consecutive days.
+
+(3) For purposes of the definition of permanent resident, days of consecutive occupancy shall not include any day that a person sublets or otherwise contracts away such person's occupancy of a room or rooms regardless of whether that person is an operator with respect to the subleasing of that room. If a person leases more than one room in a hotel that such person has sublet on some days, such person may not aggregate the days that it has not sublet any such room with the days that it has not sublet any other such room in order to qualify for permanent resident status. See illustration (vii). To illustrate:
+
+Illustration (i): A person occupies a certain room in a hotel for 57 days. On the 57th day that person moves to a different room in the same hotel, which that person occupies for an additional 130 days. This person is considered a permanent resident with respect to the occupancy of both rooms and that person is entitled to a refund of any tax paid with respect to the occupancy of the rooms.
+
+Illustration (ii): An airline corporation rents three rooms on an annual basis from a hotel. However, on occasion, when it requires additional rooms in the hotel for the use of its employees, it rents such additional rooms on a daily basis for a period less than 180 consecutive days. The hotel is required to charge and collect the tax from the airline corporation on the airline's occupancy of the additional rooms.
+
+Illustration (iii): B, an individual, resides in a hotel where that person has occupied a two-room suite for a period exceeding 180 consecutive days. B also rents a studio room for his own use in practicing piano. B has the exclusive use of this studio for a period of one hour per week. At other times, the room may or may not be rented to other persons. B's use of the studio room is subject to the tax.
+
+Illustration (iv): C, an individual, occupies a room in a hotel for a period of 180 days. He also rents two additional rooms for occupancy by his wife and his maid for a period of two weeks. The room occupied by his wife adjoins his room and the room occupied by his maid is on another floor of the hotel. The hotel operator is required to charge and collect the tax from C on the occupancy of the rooms occupied by C's maid and his wife.
+
+Illustration (v): D, an individual, occupies a room in a hotel for a period of more than 180 consecutive days. He rents an additional room in the same hotel for one day for the purpose of holding a party for his friends. The hotel is required to charge and collect the tax from D for the occupancy of the additional room.
+
+Illustration (vi): A corporation maintains a suite of rooms at a hotel on a permanent basis. During one week of the year, it holds a general sales meeting and for that purpose rents 75 additional rooms in the same hotel for the use of its employees. The hotel operator is required to charge and collect the tax from the corporation for the occupancy of the 75 additional rooms.
+
+Illustration (vii): Z, a tour company, contracts for 100 rooms in a hotel for 190 consecutive days. Z subleases 98 of the 100 rooms to its customers. Each of the 98 rooms is sublet for most of the 190-day period. However, there is no single day within the 190-day period on which all 98 rooms are sublet. Z uses the remaining two rooms to conduct its business. It does not sublease either of the two rooms for any period of time. Z becomes a permanent resident of the two rooms used to conduct its business when it completes 180 days of consecutive occupancy and is entitled to a refund of any tax paid with regard to the occupancy of these two rooms. Z does not become a permanent resident with respect to any of the 98 rooms that it subleases to customers even though at least one of the rooms is unoccupied for each of the 190 days.
+
+Person. The term "person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals or of the foregoing.
+
+Place of assembly. A "place of assembly" is an enclosed room or space in which 75 or more persons gather for religious, recreational, educational, political or social purposes, or for the consumption of food or drink, or for similar group activities, but excluding such spaces in dwelling units; or an outdoor space in which 200 or more persons gather for any of the above reasons. For purposes of this definition a room or space will be considered to be a place of assembly if either:
+
+(1) banquet or catering contracts indicate that at a particular function the expected attendance is 75 or more persons or
+
+(2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
+
+Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2,500 persons. Under certain circumstances the ballroom may be rented for a function for 1,000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1,000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
+
+Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
+
+Rent.
+
+(1) "Rent" is the consideration received for occupancy, valued in money, whether received in money or otherwise, including all receipts, cash, credits, and property or services of any kind or nature, and also any amount for which credit is allowed by the operator to the occupant, without any deduction therefrom whatsoever.
+
+(2) The entire amount charged by the operator for the use or possession of the room, of its furnishings, and of the services and accommodations accompanying its use and possession, constitutes rent under the law. Such services include but are not limited to the use of furniture and furnishings, maid and porter service, towel and linen service, doorman, bellman, and elevator service. The total charge for such services is deemed to be rent whether included in a lump-sum charge for the room or separately stated. Services and accommodations not deemed to accompany the use or possession of the room are the following: Food and liquor, valet and laundry service, and transportation and theatre ticket service. Where the operator separately charges for such services on any evidence of sale, such charges are not deemed to constitute rent. However, where a lump-sum charge for a room includes one or more such accommodations or services, the lump sum charge is deemed to constitute rent, except that where the charge includes meals the tax shall be applicable as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the total charge includes:
+      - The portion of the total charges subject to tax is: 
+    * - Breakfast, Lunch, Dinner
+      - 50% 
+    * - Lunch, Dinner
+      - 60% 
+    * - Breakfast, Dinner
+      - 60% 
+    * - Breakfast, Lunch
+      - 70% 
+    * - Dinner
+      - 75% 
+    * - Lunch
+      - 85% 
+    * - Breakfast
+      - 85% 
+~
+
+ 
+
+(3) Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to be served in such room, such use constitutes a taxable occupancy, and any separate charge for rent for such occupancy is subject to tax. If no separate charge for the room is made to such person, 20% of the total charge to such person for the food and/or drink shall be attributable to the use of such room and taxable as rent.
+
+To illustrate: In 1982, A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby B will furnish and serve A and his guests with food and/or drink in the Blue Room. The total charge to A for such food and/or drink is $150.00. No separate charge is made to A for the use of the Blue Room. Operator B is required to collect a tax of $1.50 from A.
+
+Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to the guests of such person, to be served in such room, and no separate charge is made for such use of the room, food and/or drink to such person, but a charge for the food and/or drink is made to the guests, 20% of the total charge to the guests for the food and/or drink shall be attributable to the use of such room by such person and taxable as rent. If the charge to the guests is less than a minimum amount guaranteed by such person, 20% of the guaranteed minimum shall be attributable to the use of such room by such person and taxable as rent.
+
+To illustrate: A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby the charge for the food and/or drink to be served in such room will be made directly to the guests and no separate charge will be made for the use of the Blue Room. The total sales realized by B are $90.00. B is required to collect a tax of $.50 from A. If A guaranteed B a minimum sales volume to his guests of $200.00 then B will be required to collect a tax of $2.00 from A.
+
+(4) The tax is not applicable to any rent which has been ascertained to be worthless. Where a tax has been paid upon rent which has subsequently been ascertained to be worthless, the operator may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
+
+(5) The tax is not applicable to rent which has been returned by an operator to an occupant. Where the operator has paid the tax on such rent to the Commissioner of Finance, he may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
+
+(6) A cash discount may not be deducted from rent. However, where a discount is unconditionally deducted by an occupant upon settlement of his bill and is allowed as a matter of established custom without regard to the due date of such bill, the amount of such discount is not deemed to be a part of the rent.
+
+(7) Complimentary accommodations. When a hotel furnishes complimentary accommodations for which there is no consideration no tax applies. To illustrate:
+
+Illustration (i) An operator of a hotel furnishes free of charge hotel room accommodations to governmental officials, friends or relatives of management, visiting hotel representatives, hotel employees and representatives of charitable and religious organizations. These complimentary hotel rooms are deemed to have been furnished gratuitously, and as such are not subject to the tax.
+
+Illustration (ii) An operator of a hotel furnishes complimentary rooms to persons who procure guests for the hotel, such as tour guides, travel representatives, teachers and chaperons in charge of student groups, or representatives of organizations at the time of the negotiations for future business for the hotel. The rooms furnished at such time are deemed to have been furnished in consideration of their efforts in bringing potential business to the hotel. Such occupancies are subject to the tax based upon the normal rental charge for the room.
+
+Illustration (iii) Association ABC holds its December convention at Hotel Y and receives five complimentary rooms for use by the association's officers and convention chairman for the duration of the convention. The complimentary rooms are not considered taxable.
+
+Room. Any portion of a hotel, whether used for dwelling, commercial or any other purpose, is a "room" under the law and these rules, except:
+
+(1) a bathroom or lavatory,
+
+(2) a place of assembly as defined in § 27-232 of the Administrative Code of the City of New York (See: 19 RCNY § 12-01 "place of assembly"),
+
+(3) a store, stand or counter to which access is had directly from public thoroughfares or street or mezzanine lobbies, and,
+
+(4) a lobby, public dining room or other public room when employed as such, provided, however, when such lobby, public dining room or other public room is used exclusively for a private purpose, the occupancy thereof is subject to tax (unless the room qualifies as a place of assembly). The term "room" shall include a kitchenette provided that it is a walk-in area, enclosed by walls, with one or more doorways, archways or other openings, it is supplied with a cooking appliance including but not limited to a range, microwave or convection oven, or hot plate, and it contains at least one item from each of two of the following three categories:
+
+   (i) a sink with running water, or dishwater;
+
+   (ii) a refrigerator;
+
+   (iii) a cabinet, counter top, or table.
+
+Example: A hotel suite contains a kitchenette with a microwave oven, refrigerator, sink, cabinets and a counter top.
+
+      (a) The kitchenette is a walk-in area with three walls and a wide opening on the fourth side. The kitchenette is a room.
+
+      (b) The above items are all set into a wall and there is no appurtenant walk-in area. The kitchenette is not a room.
+
+      (c) Same facts as in (a) except the microwave is not in the kitchenette but rather is outside the kitchenette. The kitchenette is a room.
+
+
+
+
+
+
+*§ 12-02 Imposition of the Tax.* ::
+
+
+(a) The law imposes a tax, measured by the rent per day, for every occupancy of a room or rooms in a hotel in the City of New York, commencing July 1, 1970, with certain exceptions set forth hereinafter.
+
+(b) On and after July 1, 1970 until August 31, 1980, the rates of tax were as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the rent per day for the room was:
+      - The tax was:   
+    * - Less than $10
+      - $  .25 per day
+    * - $10 or more, but less than $15
+      - $  .50 per day
+    * - $15 or more, but less than $20
+      - $  .75 per day
+    * - $20 or more
+      - $1.00 per day
+~
+
+
+
+ 
+
+(c) on and after September 1, 1980, the rates of tax are as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the rent per day for the room is:
+      - The tax is: 
+    * - Less than $10
+      -  $0.00
+    * - $10 or more, but less than $20
+      - $  .50 per day
+    * - $20 or more, but less than $30
+      - $1.00 per day
+    * - $30 or more, but less than $40
+      - $1.50 per day
+    * - $40 or more
+      - $2.00 per day
+~
+
+
+
+ 
+
+(d) Where a person occupies a room for less than a full day and pays less than the rent for a full day, the tax shall nevertheless be the same amount as would be due had such person occupied the room for a full day at the rent for a full day.
+
+(e) As used in the law and these regulations, the word "day" means any period of 24 consecutive hours, or the actual period of occupancy if less than 24 hours, due regard being had for the established check-out time and practices regarding the early check-in and late check-out of guests of the particular hotel. If the hotel does not impose an additional charge for early check-in or late check-out of guests, then the occupancy before or after the official check-in and check-out times is not taxable.
+
+To illustrate: A checks into Hotel B at 1:00 P.M. Monday afternoon and checks out at 6:00 P.M. Wednesday evening. The established check-out time at Hotel B is 12 noon. The period from 1:00 P.M. Monday to 12 noon Tuesday constitutes a day for purposes of the tax, as does the period from noon Tuesday to noon Wednesday. The period from 12 noon Wednesday to 6:00 P.M. Wednesday will constitute a day for purposes of the tax only if the hotel charges the guest for such period after the 12 noon established check-out time. Accordingly, if Hotel B imposes a charge for the late check-out A is deemed to have spent 3 days at Hotel B. However, if Hotel B does not impose any additional charge for late check-out then A is deemed to have spent 2 days at Hotel B.
+
+Where the rent is based on a term longer than one day, such as a weekly or monthly term, the rent per day is computed by dividing the total number of days of occupancy into the total charge for such occupancy.
+
+To illustrate: A occupies a hotel room during the month of September, 1982, at the rate of $750 per month. The rate per day is 1/30 × $750, or $25, and the tax is $1.00 per day.
+
+(f) Where the rent is for more than one room, including a suite of rooms, the daily rent for each room is determined by multiplying the daily rent for the group of rooms by a fraction, the numerator of which is the daily rent for the particular room, or a similar room, when such room is rented alone with similar bath facilities, and the denominator of which is the total of the daily rent for the individual rooms in the group of rooms, or similar rooms, when such rooms are rented alone with similar bath facilities.
+
+To illustrate: In 1982 A and his wife occupy a suite of hotel rooms for one day. The suite consists of a bedroom, a living room, and bathroom. The rent charged for the suite is $40 per day. When rented separately, the daily rents for the bedroom and living room are $20 and $30 respectively. The daily rent for the bedroom rented as part of the suite is 20/50 × $40, or $16; the daily rent for the living room is 30/50 × $40, or $24. Accordingly, the tax is $.50 for the bedroom and $1.00 for the living room. The bathroom is not considered a room, and is not subject to the tax.
+
+Where an entire rent is charged for more than one room, whether or not a suite, if such rooms are not otherwise rented separately, the daily rent per room is to be determined by dividing the entire rent by the number of rooms for which the charge is made. For example, if the entire charge for a suite of 3 rooms is $90 per day, the charge for each room is considered to be $30. A tax of $1.50 must be paid for each room, a total tax of $4.50 for the suite.
+
+(g) The tax is not imposed upon occupancy by a permanent resident as defined in 19 RCNY § 12-01 "Permanent Resident".
+
+(h) The tax is not imposed upon occupancy by the federal or New York State governments or political subdivisions of the State. (See: 19 RCNY § 12-03.)
+
+(i) The tax is not imposed upon occupancy by religious, charitable, and educational organizations, nor on rents received by such organizations, to the extent provided in 19 RCNY § 12-03.
+
+
+
+
+
+
+*§ 12-03 Exemptions.* ::
+
+
+The following persons are exempt from the tax:
+
+(a) The State of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State; the United States of America, insofar as it is immune from taxation; the United Nations or other worldwide international organizations of which the United States of America is a member.
+
+(b) Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision (b) shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision (b).
+
+(c) Where any organization described in subdivision (b) above, carries on its activities in furtherance of any of the purposes for which it was organized, in premises in which, as part of said activities, it operates a hotel, occupancy of rooms in said premises and rents therefrom received by such organization are not subject to the tax. An organization claiming exemption under subdivisions (b) and (c) above must make application for such exemption to the Commissioner of Finance and is required to submit to the Commissioner of Finance such information as will enable the Commissioner to rule upon the applicant's status. The Commissioner, if satisfied that the applicant is entitled to the exemption, will issue a letter of exemption to the applicant. An applicant for exemption is required to submit an affidavit which shall set forth the following:
+
+   (1) The type of organization,
+
+   (2) The purposes for which it is organized,
+
+   (3) Its actual activities,
+
+   (4) The source and disposition of its income,
+
+   (5) Whether or not any of its income is credited to surplus or may inure to any private stockholder or individual, and
+
+   (6) Such other facts which may affect its right to exemption. The affidavit must be supplemented by a copy of the articles of incorporation, or articles of association, as the case may be, a copy of the by-laws of the organization, a financial statement showing its assets and liabilities for the most recent year, and a photostatic copy of the letter, if any, from the United States Treasury Department granting the organization exemption from Federal income taxation. An organization which is an occupant of a hotel room and claims exemption from tax on such occupancy must furnish a copy of the letter of exemption to the hotel operator when claiming such exemption. Where the occupancy is by an agent, representative, or employee of the organization, a certificate, on the form prescribed by the Commissioner, certifying that the occupancy is solely for official purposes and that the rent has or will be paid by the organization, must be furnished to the operator.
+
+
+
+
+
+
+*§ 12-04 Government Agencies, Diplomatic and Consular Representatives.* ::
+
+
+(a) Occupancy of rooms by the Federal government or by the State or City of New York or by an agency of such governments, is not subject to the tax. Employees and representatives of such governments and agencies, who occupy rooms solely for official purposes, are not required to pay the tax, providing that they furnish to the operator certificates on the form prescribed by the Commissioner, certifying that the rent has been or will be paid by the governmental agency concerned.
+
+(b) Ambassadors, ministers and other diplomatic representatives of foreign governments properly accredited to the United States, are exempt from tax upon their occupancy of rooms. Such exemption does not apply to consular officers or to officers of foreign governments other than those hereinabove specified, unless such exemption arises from treaties or reciprocal agreements existing between such foreign governments and the United States. A person claiming exemption from the tax under this subdivision is required to apply in writing therefor to the Commissioner of Finance, submitting with his application a copy or other evidence of the appropriate treaty or reciprocal agreement between his government and the United States. If the request for exemption is approved, a letter of exemption will be issued to the applicant, and a copy of such letter must be submitted to the operator whenever claim for exemption is made.
+
+
+
+
+
+
+*§ 12-05 Presumption and Burden of Proof.* ::
+
+
+It shall be presumed that all rents are subject to tax until the contrary is established, and the burden of proving that rent for occupancy is not taxable under the law shall be upon the operator or the occupant.
+
+
+
+
+
+
+*§ 12-06 Registration.* ::
+
+
+(a)  Every operator is required to file a certificate of registration in a form prescribed by the Commissioner of Finance. In the case of operators commencing business or opening new hotels the certificate is required to be filed with the Commissioner of Finance within three days after such commencement or opening. An operator of a hotel having 10 or more rooms or 10 or more apartments or living units offered for lodging of guests is deemed to have commenced business or opened a new hotel when such rooms are first offered to the public. In the case of a building or portion of a building having fewer than 10 rooms or fewer than 10 apartments or living units offered for lodging of guests, the operator will be considered to have commenced business or to have opened a hotel as of the first date that the rental of such rooms or living units exceeds either of the de minimis thresholds described in subsection a of 19 RCNY § 12-01 (i.e., such rooms or units are rented on three or more occasions or for more than 14 days in the aggregate) during any four consecutive quarterly tax periods, or, beginning on and after March 1, 2005, during any twelve-month tax period. Within five days after such registration, the Commissioner of Finance shall issue, without charge, to each operator, a certificate of authority empowering such operator to collect the tax from the occupant, and, in addition, a certificate of authority for each additional hotel of such operator. Each certificate shall state the hotel to which it is applicable. Such certificate of authority must be prominently displayed by the operator in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates are not assignable or transferable and must be surrendered immediately to the Commissioner of Finance upon the cessation of business at the hotel named therein, or upon its sale or transfer, together with an affidavit setting forth the pertinent details of such cessation. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). If the business is continued at the same place, but there is a change in the form of the organization, such as from a single proprietorship to a partnership or corporation, the operator is required to return his certificate for cancellation, and the successor is required to file a new application for a certificate of authority.
+
+(b) Registration hereunder is separate and apart from registration under the Sales Tax, and the operator who is registered under the Sales Tax must also register under the Tax on Occupancy of Hotel Rooms.
+
+
+
+
+
+
+*§ 12-07 Filing of Returns and Payment of Tax.* ::
+
+
+(a)  Except as provided herein, every operator shall file with the Commissioner of Finance a return of occupancy and of rents, and of the taxes payable thereon, on the form prescribed by the Commissioner of Finance, for the quarterly periods ending on the last day of February, May, August, and November of each year. Notwithstanding the foregoing, with respect to tax periods beginning on and after the first day of September, 2004, (i) an operator of a hotel having fewer than 10 rooms may file the above return for each such hotel on an annual basis for each twelve-month period ending on the last day of February of each year, and (ii) an operator of fewer than 10 furnished apartments or living units may file the above return on an annual basis for each twelve-month period ending on the last day of February of each year covering all such apartments or living units. Such returns shall be filed within twenty days after the last day of each such period. For the period beginning September 1, 2004 and ending February 28, 2005, an operator of fewer than 10 apartments or living units or of a hotel having fewer than 10 rooms may file the above return for each such hotel or apartments or living units covering that period on or before March 21, 2005. An operator of fewer than 10 rooms or fewer than 10 apartments or living units, after having registered, is required to file a return for each subsequent quarterly or annual period thereafter regardless of whether the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). An operator who ceased business must file a final return within twenty days from the date such business ceased, covering the period or portion of the period during which he conducted such business subsequent to the period for which a return was last required to be filed. If the business was sold, the purchaser thereof must file a return for the period from the date of purchase to the end of the period of which a return is required to be filed. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). Whenever an operator is not required to charge or collect the tax, the Commissioner of Finance may, upon application in writing made by such operator, waive the requirement for the filing of returns. All returns must be filed with the Bureau of Tax Operations of the Department of Finance at the address designated on the return form. The return of an individual must be signed by such individual unless he is absent from the City, ill or otherwise incapacitated, in which event the return may be signed by his duly authorized representative or agent. The return of a corporation must be signed by an officer thereof; the return of a partnership must be signed by a general partner thereof. The Commissioner of Finance may, for good cause, extend the time for filing any return for a period not exceeding 30 days.
+
+(b) At the time of filing a return, each operator shall pay to the Commissioner of Finance the tax due, as well as all other monies collected by the operator acting or purporting to act under the law even though it is determined that the tax collected was invalidly imposed. The tax for the period for which a return is required to be filed shall be due from the operator and payable to the Commissioner of Finance on the date prescribed for the filing of such return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rent and the tax due thereon. Payment of the tax shall be made in cash, or by check, money order or draft drawn to the order of the City Collector. Cash payments must be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of tax.
+
+(c) The Commissioner of Finance may require any operator within the City to file an information return, on a form prescribed by the Commissioner of Finance, at such time and containing such information as the Commissioner of Finance deems necessary for the proper administration of the law.
+
+(d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns and reports and the electronic payment of tax required by this chapter.
+
+
+
+
+
+
+*§ 12-08 Liability for Charging, Collecting and Paying the Tax.* ::
+
+
+(a) The law requires that upon every taxable occupancy, the operator shall charge and collect the tax from the occupant. The tax to be collected must be charged and stated separately from the rent and shown separately on any record thereof, at the time when the occupancy is contracted and charged for. The tax shall also be stated and separately charged upon every evidence of occupancy or any bill or statement of charge made for said occupancy issued or delivered by the operator. The tax shall be paid by the occupant to the operator as trustee for and on account of the City, and kept separate from all other funds in the possession of the operator and the operator shall be liable for the collection thereof and for the tax. The operator and any officer of any corporate operator shall be personally liable for the tax collected or required to be collected under the law. The operator shall have the same right in respect to collecting the tax from the occupant, or in respect to nonpayment of the tax by the occupant, as if the tax were a part of the rent for the occupancy payable at the time such tax shall become due and owing, including all rights of eviction, dispossession, repossession and enforcement of any innkeeper's lien that he may have in the event of nonpayment of rent by the occupant; provided, however, that the Commissioner of Finance shall be joined as a party in any action or proceeding brought by the operator to collect or enforce collection of the tax.
+
+(b) No operator may absorb the tax required to be collected, or tell the occupant that he will pay such tax, nor may he advertise or hold out to the public in any manner, directly or indirectly, that the tax is not deemed to be an element in the rent. Any operator and any officer of a corporate operator or partner in a partnership which is an operator who willfully fails to charge the tax separately from the rent, or willfully fails to state the tax separately from the rent, or willfully fails to or refuses to collect the tax from the occupant, or refers or causes reference to be made to the tax in any invoice, placard or advertisement in a form other than that required by law, is guilty of a misdemeanor. (See: 19 RCNY § 12-11 for penalties.)
+
+(c) Where the occupant has failed to pay and the operator has failed to collect the tax imposed by law, then, in addition to all other rights, obligations and remedies, such tax shall be payable by the occupant directly to the Commissioner of Finance, and it shall be the duty of the occupant to file a return thereof with the Commissioner of Finance and to pay the tax so imposed to the Commissioner of Finance within 15 days after such tax was due.
+
+(d) All monies collected by the operator or charged by him while acting, or purporting to act, under the law must be paid to the City, even though it is judicially determined that the tax was invalidly imposed.
+
+
+
+
+
+
+*§ 12-09 Surety Bond.* ::
+
+
+(a) Where the Commissioner of Finance in his discretion deems it necessary to protect revenues to be obtained under the law, he may require any operator required to collect the tax to file with him a bond, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York as to solvency and responsibility, in such amount as the Commissioner of Finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator. In the event that the Commissioner of Finance determines that an operator is to file such bond he shall give notice to such operator to that effect, specifying the amount of the bond required. The operator shall file such bond within five days after the giving of such notice, unless within such five days the operator shall request in writing a hearing before the Commissioner of Finance at which the necessity, propriety and amount of the bond shall be determined by the Commissioner of Finance. Such determination shall be final and shall be complied with within 15 days after the giving of notice thereof. In lieu of such bond, securities approved by the Commissioner of Finance, or cash in such amount as he may prescribe, may be deposited, and shall be kept in the custody of the Commissioner of Finance, who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him at public or private sale without notice to the depositor thereof.
+
+(b) As an alternative to filing a surety bond or depositing securities, the Commissioner of Finance may require or permit an operator required to collect the tax to deposit all taxes which become collectible in any banking institution located in the City, the deposits in which are insured by any agency of the federal government. Such deposits shall be made into and kept in a separate account, in trust and payable to the Commissioner of Finance, until payment over to the Commissioner of Finance. Such account shall remain open, and deposits made therein, until a notice of cancellation is given by the Commissioner of Finance.
+
+
+
+
+
+
+*§ 12-10 Returns To Be Secret.* ::
+
+
+Except in accordance with judicial order or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any officer or employee of the Department of Finance to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under the law. The officers charged with the custody of such returns are not required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of and may admit in evidence so much of the returns or of the facts shown thereby as are pertinent to the action or proceeding and no more. A taxpayer may obtain a certified copy of any return filed in connection with his tax upon application in writing to the Commissioner. Where a representative of a taxpayer applies for a certified copy of such return, he must file a power of attorney with the application. A certified copy of a taxpayer's return or of information contained therein or relating thereto may be delivered to the United States of America or any department thereof, the State of New York or any department thereof, any agency or any department of the City of New York provided the same is requested for official business. The Corporation Counsel or other legal representatives of the City or the District Attorney of any county within the City may be permitted to inspect returns for official business. Nothing herein shall be construed to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
+
+
+
+
+
+
+*§ 12-11 Interest.* ::
+
+
+If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
+
+
+
+
+
+
+*§ 12-12 Penalties.* ::
+
+
+(a) Civil penalties. Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:
+
+   (1) Failure to file return.
+
+      (i) In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, this is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.
+
+      (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph (1) shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
+
+      (iii) For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
+
+   (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
+
+   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 12-15), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+
+   (4) Limitations on additions:
+
+      (i) With respect to any return the amount of the addition to tax is limited to the following:
+
+         (A) At no time will the addition for one (1) month be more than five percent (5%).
+
+         (B) If paragraphs (1) and (2) of this subdivision (a) are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e. the lesser of $100 or 100% of tax due).
+
+         (C) If paragraphs (1) and (3) of this subdivision (a) are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (a) (determined without regard to subparagraph (ii) of such paragraph (1), which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.
+
+      (ii) The provisions of this paragraph may be illustrated by the following examples:
+
+Example A: (a) Assume the taxpayer filed his tax return for the quarter ending February, 1983  on June 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on July 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from March 21 through July 20, and 0.5% for the fractional part of the month from July 21 through July 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
+      -  $200 
+    * - Reduced by the amount of the addition imposed under paragraph (2) for those months
+      -  $16 
+    * - Addition to tax under paragraph (1)
+      -  $184 
+~
+
+
+
+ 
+
+Example A: (b) A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
+      -  $12 
+    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
+      -  $50 
+    * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
+      -  $40 
+    * - Maximum amount of the addition under paragraph (3)
+      -  $10 
+~
+
+
+
+ 
+
+Example B: (a) A taxpayer files his tax return for the quarter ending February, 1983 on November 7, 1983, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on November 7, 1983. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Penalty at 5% for maximum of 5 months, 25% of $500
+      -  $125.00
+    * - Less reduction for the amount of the addition under paragraph (2): 
+      - 
+    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months March 16 through August 20 of the net amount due ($500)
+      - $12.50
+    * - Additional to tax under paragraph (1)
+      -  $112.50
+~
+
+
+
+ 
+
+   (5) Reasonable cause as used in paragraphs (1), (2) and (3) of this subdivision (a) must be affirmatively shown in a written statement. The taxpayer's previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:
+
+      (i) death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;
+
+      (ii) destruction of the taxpayer's place of business or business records by fire or other casualty;
+
+      (iii) timely prepared reports misplaced by a responsible employee discovered after the due date;
+
+      (iv) inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;
+
+      (v) any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.
+
+   (6) Underpayment due to negligence.
+
+      (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
+
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+   (7) Underpayment due to fraud.
+
+      (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
+
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+      (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision (a).
+
+   (8) Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply any information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.
+
+   (9) The additions to tax and penalties provided by this subdivision (a) shall be paid and enforced in the same manner as taxes.
+
+   (10) Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.
+
+(b) Criminal penalties.
+
+   (1) Any person who willfully fails to file a registration certificate as required by the law and such data in connection therewith as the Commissioner of Finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by the law, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this paragraph shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
+
+   (2) Any person who willfully fails to charge separately the tax imposed under the law or willfully fails to state such tax separately on any bill, statement, memorandum or receipt issued or employed by such person upon which the tax is required to be stated separately as provided in the law, or who shall refer or cause reference to be made to this tax in a form or manner other than required by the law, shall be guilty of a mis- demeanor.
+
+   (3) Failure to collect tax. Any person who willfully fails to collect any tax required to be collected under the law shall be guilty of a misdemeanor.
+
+   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required under the law shall be guilty of a misdemeanor.
+
+   (5)  Failure to obey subpoena; false testimony.
+
+      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
+
+         (A) fails or refuses to attend without lawful excuse,
+
+         (B) refuses to be sworn,
+
+         (C) refuses to answer any material and proper question, or
+
+         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
+
+      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
+
+   (6) Willful failure to file a return or report or pay the tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
+
+   (7) Fraudulent returns, reports, statements or other documents.
+
+      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
+
+      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
+
+      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
+
+   (8) The penalties provided for in this subdivision (b) shall not preclude prosecution pursuant to the penal law with respect to the willful failure of any person to pay over to the City any hotel room occupancy tax imposed by law, whenever such person has been required to collect and has collected any such tax. In any such prosecution under the penal law, a person who has been required to collect and has collected any such tax shall be deemed to have acted in a fiduciary character with respect to the City, and the tax collected shall be deemed to have been entrusted to such person by the City.
+
+(c) Liability of officers or partners and effect of Certificate of Commissioner.
+
+   (1) Officers of a corporate operator and partners in a partnership which is an operator are personally liable for the tax collected or required to be collected by such corporation or partnership, and are subject to the penalties and interest imposed by law.
+
+   (2) The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a return, bond or registration certificate has not been filed, or that information has not been supplied pursuant to the provisions of the law shall be presumptive evidence thereof.
+
+
+
+
+
+
+*§ 12-13 Refunds.* ::
+
+
+The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, provided:
+
+(a) A written application for refund or credit was made to the Commissioner of Finance within one year from the payment thereof, and
+
+(b) The application is made by the occupant, operator or other person who actually paid the tax, or
+
+(c) The application is made by an operator who collected and paid over such tax to the Commissioner of Finance; however, no refund shall be made until the operator shall first establish to the satisfaction of the Commissioner of Finance that he repaid the occupant the amount for which the application is made. In such case, the period within which application for refund may be made begins when the payment is made by the occupant to the operator. No specific form has been prescribed for refund applications. An application for refund, however, shall be in writing and shall comply with the following requirements:
+
+(d) It must be signed by the applicant or his duly authorized agent. If signed by an agent, the application must be accompanied by a power of attorney acceptable to the Commissioner of Finance.
+
+(e) It must demonstrate that the refund provisions of the law have been complied with.
+
+(f) It must be accompanied by the cancelled check or a photostatic copy thereof, showing both the front and back of the check; or, if paid by cash or money order, by evidence of such payment. Whenever a taxpayer files a claim for refund, such application shall constitute an application for revision of the tax, penalty or interest complained of. The Commissioner of Finance may audit the taxpayer's books and records or may grant the refund subject to future audit. The Commissioner of Finance may determine without resorting to an audit that, based upon the evidence presented, the claim is without merit and, therefore, deny it. The Commissioner of Finance will notify the taxpayer in writing of his determination. Such determination shall become final and irrevocable unless the person to whom it is addressed shall, within 30 days after the date thereof, apply to the Commissioner of Finance for a hearing. A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by 19 RCNY § 12-15, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
+
+
+
+
+
+
+*§ 12-14 Records To Be Kept.* ::
+
+
+Every operator is required to keep records of room rentals and of the tax payable thereon. In addition to the general books of account, such records shall also include guests' registration records, rental contracts and leases, banquet records wherever applicable and such other records as will enable the Commissioner of Finance to determine the room rentals and the proportionate part of receipts from sale of food and/or drink which under these regulations constitutes rentals. In addition to the above records, operators must also retain all exemption certificates filed by exempt organizations and by the Federal government, or by the State or City of New York, or by an agency of such governments, and records of all other rentals which are not subject to tax. Exemption certificates from occupants who are not entitled to exemption should not be accepted, and the Commissioner of Finance will reject any exemption certificate obtained from an occupant who is not entitled to exemption. The records hereinabove prescribed are in addition to all other records which must be retained by an operator as provided for in any other State or City tax law. Unless the operator maintains adequate records showing rentals and the tax due thereon, the Commissioner of Finance reserves the right to determine the amount of such rentals and the tax due thereon from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as the number of rooms, location, scale of rents, comparable rents, type of accommodation and service, number of employees and/or other factors. Records of operators are to be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years unless permission in writing is obtained from the Commissioner of Finance to destroy them before the expiration of such period.
+
+
+
+
+
+
+*§ 12-15 Determination of Tax.* ::
+
+
+If a return required by law is not filed or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the Commissioner of Finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocable fix the tax unless the person against whom it is assessed, within 30 days after giving of notice of such determination, shall apply to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance of his own motion shall re-determine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the Supreme Court within 30 days after the giving of the notice of such determination. A proceeding under Article 78 of the Civil Practice Law and Rules shall not be instituted unless:
+
+(a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in this State and approved by the Superintendent of Insurance of this State as to solvency and responsibility, in such amount as a Justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or
+
+(b) at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the application shall net be required to deposit such taxes, penalties and interest as a condition precedent to the application.
+
+
+
+
+
+
+*§ 12-16 Proceedings To Recover Tax.* ::
+
+
+Whenever any operator or any officer of a corporate operator or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this title, the Corporation Counsel shall, upon the request of the Commissioner of Finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the State of New York or of any other state or of the United States. If, however, the Commissioner of Finance, in his discretion, believes that any such operator, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately. As an additional or alternate remedy, the Commissioner of Finance may issue a warrant, directed to the City Sheriff commanding him to levy upon and sell the real and personal property of the operator or officer of a corporate operator or of the occupant or other person liable for the tax, which may be found within the City, for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the Commissioner of Finance and to pay to him the money collected by virtue thereof within sixty days after the receipt of such warrant. The City Sheriff shall within five days after the receipt of the warrant file with the County Clerk a copy thereof; and thereupon such clerk shall enter the judgment docket the name of the person mentioned in the warrant and the amount of the tax, penalties and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The City Sheriff shall then proceed upon the warrant, in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record, and for services in executing the warrant he shall be entitled to the same fees, which he may collect in the same manner. In the discretion of the Commissioner of Finance a warrant of like terms, force and effect may be issued and directed to any officer or employee of the Finance Department, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the Commissioner of Finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the City has recovered judgment therefor and execution thereon had been returned unsatisfied.
+
+
+
+
+
+
+*§ 12-17 Notice and Limitations of Time.* ::
+
+
+(a) Any notice authorized or required under the provisions of this law may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him pursuant to the provisions of this law or in any application made by him, or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this law by the giving of notice shall commence to run from the date of mailing of such notice.
+
+(b) The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax, penalty or interest provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of the return; provided, however, that where no return has been filed as provided by law, the tax may be assessed at any time.
+
+(c) Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
+
+
+
+
+
+
+*§ 12-18 Reference to Tax.* ::
+
+
+Whenever reference is made in placards or advertisements or in any other publication to the tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms," except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
+
+
+
+
+
+
+*§ 12-19 Bulk Sales.* ::
+
+
+Whenever an operator shall make a sale, transfer, or assignment in bulk of any part or the whole of his hotel premises or his lease, license or other agreement or right to possess or operate such hotel, or of the equipment, furnishings, fixtures, supplies or stock of merchandise, or the said premises or lease, license or other agreement or right to possess or operate such hotel and the equipment, furnishings, fixtures, supplies and stock of merchandise pertaining to the conduct or operation of said hotel otherwise than in the ordinary and regular prosecution of business, the purchaser, transferee or assignee shall at least ten days before taking possession of the subject of the sale, transfer or assignment, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms, and conditions thereof whether or not the seller, transferrer or assignor has represented to, or informed the purchaser, transferee or assignee that he owes any tax pursuant to law, and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the City, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assigner any such sums of money, property or choses in action to the extent of the amount of the City's claim. For failure to comply with the provisions of this Section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code shall be personally liable for the payment to the City of any such taxes theretofore or thereafter determined to be due to the City from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.
+
+
+
+
 Chapter 11: General Corporation Tax
 --------------------------------------------------
 
@@ -8595,667 +9256,6 @@ A fee of five dollars will be charged for a search of the corporation tax record
 
 
 Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns, reports, or other forms and the electronic payment of tax required by this chapter.
-
-
-
-
-Chapter 12: Hotel Room Occupancy Tax
---------------------------------------------------
-
-
-
-*§ 12-01 Definitions.* ::
-
-
-Commissioner of Finance. The words "Commissioner of Finance" mean the Commissioner of Finance of the City of New York.
-
-Hotel. A "hotel" is a building or portion of a building that is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house, bed and breakfast, or club, whether or not meals are served. An "apartment hotel" is a building or portion of it wherein apartments are rented to guests for fixed periods of time, either furnished or unfurnished. The term "boarding house" includes rooming houses, furnished-room houses and lodging houses. The term "bed and breakfast" includes a dwelling place ordinarily occupied by a person as his or her own dwelling in which more than one room is regularly used and kept open by such person for the lodging of guests for consideration regardless of whether services such as meals, telephone or linen services are provided. The term "club" includes a residence club, as well as private clubs. To illustrate:
-
-Illustration (i): Individual A owns and lives in a three-bedroom house in New York City. Individual A rents one of the bedrooms to guests from time to time by listing the room with a bed and breakfast listing service. At no time during the year does A rent or offer to rent more than one room to guests. The rental of one room by A is not subject to tax.
-
-Illustration (ii): The facts are the same as in illustration (i) except that A lists two of the three bedrooms or one bedroom and the living room, in his apartment for rental to guests. A's rental of rooms in the apartment is subject to tax.
-
-The term "hotel" also includes a bungalow, which is a furnished living unit intended for single family occupancy that is regularly used and kept open for the lodging of guests for consideration, except that for occupancies during taxable quarters beginning on or before September 1, 2003, the rental of a bungalow for at least one week will not be subject to the tax provided: no maid, food, or other common hotel services such as entertainment or planned activities are provided. The furnishing of linen by the lessor with the rental of a bungalow without the services of changing the linen does not alter the nontaxable status of the rental charges for such periods. To illustrate:
-
-Illustration (iii): Individual B owns an apartment in New York City. Beginning on January 1, 2004, B begins to regularly rent or offer to rent the apartment, furnished, to guests on a transient basis. B's rental of the apartment to guests on a transient basis is subject to the tax regardless of whether the rentals are for periods longer than one week.
-
-The term "hotel" does not include the following:
-
-(1) A nursing home, rest home, convalescent home, maternity home for expectant mothers, residence or home for adults or mentally disabled persons which is registered with the Department of Social Services or Department of Mental Hygiene, whether publicly or privately owned and operated, which accepts as patients persons who require special care on account of age, illness, mental or physical condition or the like, and provides this special care either by nurses, orderlies or aides. To illustrate:
-
-Illustration (iv): A senior citizen's lodging facility which only furnishes hotel facilities and services and does not furnish services or special care provided by attendants, etc., is a hotel.
-
-Illustration (v): A maternity home or residence for expectant unwed mothers which is registered with the Department of Social Services and provides care and service for mothers to be. Such care and service includes maintaining a residence, social services, medical care, and arranging for delivery at a local hospital. This facility is not a hotel.
-
-(2) A summer camp for children which provides a program of instruction or training which the campers are required to pursue under the supervision of counselors is not a hotel. Where guest facilities are provided for parents or others the tax applies to such facilities.
-
-(3) A college dormitory or apartment belonging to a school, college, or university in which its students reside is not a hotel. Where facilities are provided for parents, alumni or others the tax applies to such facilities. A building or portion thereof will be irrebuttably presumed not to be regularly used and kept open for the lodging of guests if, during any four consecutive quarterly tax periods, or, beginning on and after September 1, 2004, during any twelve-month tax period, described in subsection a of 19 RCNY § 12-07, rooms, apartments or living units are rented to guests or occupants on fewer than three occasions or for not more than 14 days in the aggregate. For this purpose, the rentals of rooms in a single building or apartment will be aggregated and the rentals of apartments and living units will be aggregated. In addition, for this purpose, the rental of a room, apartment or living unit under a single contract for one or more consecutive days will be considered a single occasion. However, if a single contract provides for the rental of a room or apartment for non-consecutive days, each period of consecutive days will be considered a separate occasion. In addition, for this purpose, if a room, apartment or living unit is subleased or the right to occupy it is otherwise subcontracted away to another person, each separate sublease or subcontract of a room, apartment or living unit for a period of consecutive days will be considered a separate occasion. Furthermore, for this purpose, rentals to guests or occupants that qualify as permanent residents will not be included in the number of days or occasions of rentals.
-
-Illustration (vi): A owns a four-bedroom house in New York City. During the period September 1, 2004 through August 31, 2005, A rents three of the bedrooms as follows: one bedroom is rented for the entire twelve month period to individual B who does not sublease the room; one bedroom is rented for one week to individual C; one bedroom is rented for two days to individual D, three days to individual E and one day to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented rooms on four occasions. However, because the total number of days is less than 14, A is not considered to be operating a hotel.
-
-Illustration (vii): Individual A owns four apartments in New York City. During the period September 1, 2004 through August 31, 2005, A rents the apartments as follows: one apartment is rented for the entire 12-month period to individual B who does not sublease the apartment; another apartment is rented for one week to individual C; a third apartment is rented for two days to individual D, five days to individual E and four days to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented three of the apartments on four occasions. Because the total number of days of rentals of the three apartments is more than 14, A is considered to be operating a hotel with respect to the three apartments rented to C, D, E, and F. If the apartment rented to B were rented to B for only 190 days and was subsequently rented during the period to individual G for three days, that apartment would also be included as part of the hotel operation of A.
-
-Occupancy.
-
-(a) "Occupancy" is the use or possession, or the right to the use or possession, of any room or rooms in a hotel, or the right to the use or possession of the furnishings or to the services and accommodations accompanying the use and possession of the room or rooms. "Occupancy" includes the right to the use or possession as well as the exercise of that right; there is an "occupancy" of a room whether or not the person entitled to the use or possession of the room actually uses it or possesses it.
-
-(b) A room is deemed to be the subject of only one taxable occupancy at a given time. Where an occupant sublets or otherwise contracts away his right to the use or possession, the tax shall be collected and paid in accordance with the following rules:
-
-   (1) (i) For taxable periods beginning before June 1, 2002, if the original occupant is itself an operator, as in the case of a private club located in a hotel, and subleases the occupancy to another, the taxable occupancy shall be the occupancy by the sublessee. In such case, the original occupant shall collect the tax from the sublessee and pay it over to the Commissioner of Finance.
-
-      (ii) For taxable periods beginning on or after June 1, 2002, if the original occupant or any sublessee of the room is directly or indirectly related to the original hotel operator, the taxable occupancy will be the occupancy by the sublessee of such related person. For purposes of this subparagraph (ii) an occupant will be considered to be directly or indirectly related to the original hotel operator if:
-
-         (A) the original hotel operator owns directly or indirectly a five percent or greater interest in such occupant.
-
-         (B) such occupant owns directly or indirectly a five percent or greater interest in the original hotel operator.
-
-         (C) one or more persons own directly or indirectly five percent or greater interests both in such occupant and in the original hotel operator, or
-
-         (D) such occupant is an officer, director, manager (including a manager of a limited liability company), trustee, fiduciary or employee of the original hotel operator or an individual that is a member of the family of an individual original hotel operator.
-
-         (E) For purposes of this subparagraph a five percent or greater interest shall mean, in the case of a corporation, five percent or more of the voting power of all classes of stock or five percent or more of the total fair market value of all classes of stock, and, in the case of a partnership, association, trust or other entity, five percent or more of the capital, profits or beneficial interests in such entity.
-
-         (F) To illustrate:
-
-Illustration 1: In 2003, Z contracts for 100 rooms in a hotel at a rate of $100 per room per day for 190 consecutive days. Z subleases the rooms to its customers. Z is not a private club and is not related to the hotel operator within the meaning of this paragraph. The hotel operator is required to charge and collect the tax from Z for its occupancy of all 100 rooms for the entire 190-day period. Z is not a permanent resident with respect to any of the rooms. See 19 RCNY § 12-01 definition of a "permanent resident," paragraph (3). Z is not required to charge and collect the tax from its customers for the occupancy of any of the rooms that it subleases for the days that such rooms are sublet.
-
-Illustration 2: The facts are the same as in Illustration 1 except that Z is related to the hotel operator within the meaning of this paragraph. In this case, the taxable occupancy is the occupancy by the customers of Z and the hotel operator is required to charge and collect the tax from the customers of Z.
-
-   (2) (i) For taxable periods beginning before June 1, 2002, if the original occupant is not an operator, the occupant's occupancy is taxable whether or not the occupant has the actual use or possession of the room and no tax will be paid by or collected from a sublessee of the occupant.
-
-      (ii) For taxable periods beginning on or after June 1, 2002, except as provided in subparagraph (ii) of paragraph (1), the occupancy of the original occupant is taxable whether or not the original occupant has the actual use or possession of the room and no tax will be paid by the person having actual use or possession of the room. See subdivision (b)(ii) of the definition of "occupancy," supra, in this section for the application of the tax to the occupancy by a sublessee of an occupancy that is related to the hotel operator.
-
-(c) The tax is applicable to any occupancy on and after July 1, 1970, even if such occupancy is pursuant to a contract, lease, or other arrangement made prior thereto.
-
-Occupant. An "occupant" is any person who, for a consideration, uses, possesses, or has the right to use or possess any room or rooms in a hotel under any lease, concession, permit, right of access, license to use or other agreement, or otherwise.
-
-Operator.
-
-(1) An "operator" is any person operating a hotel in the City of New York, including, but not limited to, the owner or proprietor of such premises, lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such hotel. For taxable periods beginning on or after June 1, 2002, a private club that, as an accommodation to its members, makes rooms available to such members in its own buildings is an "operator" within the meaning of the law.
-
-(2) For taxable periods beginning before June 1, 2002, any person who contracts away the use of a room or rooms in a hotel is an "operator." For example, a private club which, as an accommodation to its members, makes rooms available to such members either in its own buildings or in club rooms maintained in a hotel elsewhere, is an "operator" within the meaning of the law. For taxable periods beginning on or after June 1, 2002, any occupant who sublets or otherwise contracts away the right to use or possession of a room or rooms in a hotel is not an operator.
-
-Permanent resident.
-
-(1) A person is a "permanent resident" as of a given date if that person has occupied or has had the right to occupy a room or suite of rooms in a particular hotel for 180 consecutive days next preceding such date. (Prior to September 1, 1980, 90 days of occupancy qualified a person as a "permanent resident"). A person who enters into an agreement for occupancy for 180 consecutive days or more does not become a permanent resident under the law until that person has been an occupant for 180 consecutive days, and the operator is liable for the collection of the tax until such occupancy for 180 consecutive days has been completed. Where the tax has been collected by the operator for occupancy for less than 180 days and the occupant subsequently completes 180 consecutive days of occupancy, the operator may return such tax to the occupant. If the operator has paid such tax over to the Commissioner of Finance, the operator may, within one year from the date of the payment to the Commissioner of Finance, and provided the operator has returned such tax to the occupant, either take credit for the tax so paid on any subsequent return filed by the operator or file a claim for refund of such tax.
-
-(2) A person is not a permanent resident as of a given date unless that person has completed 180 days of consecutive occupancy in the same establishment immediately prior to that date. Thus, a person who has the right to use a room only on intermittent days of the week or of the month is not a permanent resident even though that person has had more than 180 days of occupancy in the aggregate. Similarly, a person who, after having been a permanent resident, surrenders his occupancy and then subsequently resumes its occupancy, is not a permanent resident under the later occupancy until that person completes 180 additional consecutive days of occupancy. Where a person transfers from one hotel to another, even though owned or operated by the same operator, that person is not a permanent resident of the latter establishment until that person has completed 180 consecutive days of occupancy therein. However, except as provided in subdivision (3) of this definition, a person who has completed 180 consecutive days of occupancy in different rooms of the same hotel is a permanent resident of that establishment. Where a permanent resident rents additional rooms on a temporary basis, that person is not considered a permanent resident with respect to such additional rooms unless such rooms are occupied for 180 or more consecutive days.
-
-(3) For purposes of the definition of permanent resident, days of consecutive occupancy shall not include any day that a person sublets or otherwise contracts away such person's occupancy of a room or rooms regardless of whether that person is an operator with respect to the subleasing of that room. If a person leases more than one room in a hotel that such person has sublet on some days, such person may not aggregate the days that it has not sublet any such room with the days that it has not sublet any other such room in order to qualify for permanent resident status. See illustration (vii). To illustrate:
-
-Illustration (i): A person occupies a certain room in a hotel for 57 days. On the 57th day that person moves to a different room in the same hotel, which that person occupies for an additional 130 days. This person is considered a permanent resident with respect to the occupancy of both rooms and that person is entitled to a refund of any tax paid with respect to the occupancy of the rooms.
-
-Illustration (ii): An airline corporation rents three rooms on an annual basis from a hotel. However, on occasion, when it requires additional rooms in the hotel for the use of its employees, it rents such additional rooms on a daily basis for a period less than 180 consecutive days. The hotel is required to charge and collect the tax from the airline corporation on the airline's occupancy of the additional rooms.
-
-Illustration (iii): B, an individual, resides in a hotel where that person has occupied a two-room suite for a period exceeding 180 consecutive days. B also rents a studio room for his own use in practicing piano. B has the exclusive use of this studio for a period of one hour per week. At other times, the room may or may not be rented to other persons. B's use of the studio room is subject to the tax.
-
-Illustration (iv): C, an individual, occupies a room in a hotel for a period of 180 days. He also rents two additional rooms for occupancy by his wife and his maid for a period of two weeks. The room occupied by his wife adjoins his room and the room occupied by his maid is on another floor of the hotel. The hotel operator is required to charge and collect the tax from C on the occupancy of the rooms occupied by C's maid and his wife.
-
-Illustration (v): D, an individual, occupies a room in a hotel for a period of more than 180 consecutive days. He rents an additional room in the same hotel for one day for the purpose of holding a party for his friends. The hotel is required to charge and collect the tax from D for the occupancy of the additional room.
-
-Illustration (vi): A corporation maintains a suite of rooms at a hotel on a permanent basis. During one week of the year, it holds a general sales meeting and for that purpose rents 75 additional rooms in the same hotel for the use of its employees. The hotel operator is required to charge and collect the tax from the corporation for the occupancy of the 75 additional rooms.
-
-Illustration (vii): Z, a tour company, contracts for 100 rooms in a hotel for 190 consecutive days. Z subleases 98 of the 100 rooms to its customers. Each of the 98 rooms is sublet for most of the 190-day period. However, there is no single day within the 190-day period on which all 98 rooms are sublet. Z uses the remaining two rooms to conduct its business. It does not sublease either of the two rooms for any period of time. Z becomes a permanent resident of the two rooms used to conduct its business when it completes 180 days of consecutive occupancy and is entitled to a refund of any tax paid with regard to the occupancy of these two rooms. Z does not become a permanent resident with respect to any of the 98 rooms that it subleases to customers even though at least one of the rooms is unoccupied for each of the 190 days.
-
-Person. The term "person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals or of the foregoing.
-
-Place of assembly. A "place of assembly" is an enclosed room or space in which 75 or more persons gather for religious, recreational, educational, political or social purposes, or for the consumption of food or drink, or for similar group activities, but excluding such spaces in dwelling units; or an outdoor space in which 200 or more persons gather for any of the above reasons. For purposes of this definition a room or space will be considered to be a place of assembly if either:
-
-(1) banquet or catering contracts indicate that at a particular function the expected attendance is 75 or more persons or
-
-(2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
-
-Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2,500 persons. Under certain circumstances the ballroom may be rented for a function for 1,000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1,000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
-
-Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
-
-Rent.
-
-(1) "Rent" is the consideration received for occupancy, valued in money, whether received in money or otherwise, including all receipts, cash, credits, and property or services of any kind or nature, and also any amount for which credit is allowed by the operator to the occupant, without any deduction therefrom whatsoever.
-
-(2) The entire amount charged by the operator for the use or possession of the room, of its furnishings, and of the services and accommodations accompanying its use and possession, constitutes rent under the law. Such services include but are not limited to the use of furniture and furnishings, maid and porter service, towel and linen service, doorman, bellman, and elevator service. The total charge for such services is deemed to be rent whether included in a lump-sum charge for the room or separately stated. Services and accommodations not deemed to accompany the use or possession of the room are the following: Food and liquor, valet and laundry service, and transportation and theatre ticket service. Where the operator separately charges for such services on any evidence of sale, such charges are not deemed to constitute rent. However, where a lump-sum charge for a room includes one or more such accommodations or services, the lump sum charge is deemed to constitute rent, except that where the charge includes meals the tax shall be applicable as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the total charge includes:
-      - The portion of the total charges subject to tax is: 
-    * - Breakfast, Lunch, Dinner
-      - 50% 
-    * - Lunch, Dinner
-      - 60% 
-    * - Breakfast, Dinner
-      - 60% 
-    * - Breakfast, Lunch
-      - 70% 
-    * - Dinner
-      - 75% 
-    * - Lunch
-      - 85% 
-    * - Breakfast
-      - 85% 
-~
-
- 
-
-(3) Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to be served in such room, such use constitutes a taxable occupancy, and any separate charge for rent for such occupancy is subject to tax. If no separate charge for the room is made to such person, 20% of the total charge to such person for the food and/or drink shall be attributable to the use of such room and taxable as rent.
-
-To illustrate: In 1982, A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby B will furnish and serve A and his guests with food and/or drink in the Blue Room. The total charge to A for such food and/or drink is $150.00. No separate charge is made to A for the use of the Blue Room. Operator B is required to collect a tax of $1.50 from A.
-
-Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to the guests of such person, to be served in such room, and no separate charge is made for such use of the room, food and/or drink to such person, but a charge for the food and/or drink is made to the guests, 20% of the total charge to the guests for the food and/or drink shall be attributable to the use of such room by such person and taxable as rent. If the charge to the guests is less than a minimum amount guaranteed by such person, 20% of the guaranteed minimum shall be attributable to the use of such room by such person and taxable as rent.
-
-To illustrate: A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby the charge for the food and/or drink to be served in such room will be made directly to the guests and no separate charge will be made for the use of the Blue Room. The total sales realized by B are $90.00. B is required to collect a tax of $.50 from A. If A guaranteed B a minimum sales volume to his guests of $200.00 then B will be required to collect a tax of $2.00 from A.
-
-(4) The tax is not applicable to any rent which has been ascertained to be worthless. Where a tax has been paid upon rent which has subsequently been ascertained to be worthless, the operator may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
-
-(5) The tax is not applicable to rent which has been returned by an operator to an occupant. Where the operator has paid the tax on such rent to the Commissioner of Finance, he may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
-
-(6) A cash discount may not be deducted from rent. However, where a discount is unconditionally deducted by an occupant upon settlement of his bill and is allowed as a matter of established custom without regard to the due date of such bill, the amount of such discount is not deemed to be a part of the rent.
-
-(7) Complimentary accommodations. When a hotel furnishes complimentary accommodations for which there is no consideration no tax applies. To illustrate:
-
-Illustration (i) An operator of a hotel furnishes free of charge hotel room accommodations to governmental officials, friends or relatives of management, visiting hotel representatives, hotel employees and representatives of charitable and religious organizations. These complimentary hotel rooms are deemed to have been furnished gratuitously, and as such are not subject to the tax.
-
-Illustration (ii) An operator of a hotel furnishes complimentary rooms to persons who procure guests for the hotel, such as tour guides, travel representatives, teachers and chaperons in charge of student groups, or representatives of organizations at the time of the negotiations for future business for the hotel. The rooms furnished at such time are deemed to have been furnished in consideration of their efforts in bringing potential business to the hotel. Such occupancies are subject to the tax based upon the normal rental charge for the room.
-
-Illustration (iii) Association ABC holds its December convention at Hotel Y and receives five complimentary rooms for use by the association's officers and convention chairman for the duration of the convention. The complimentary rooms are not considered taxable.
-
-Room. Any portion of a hotel, whether used for dwelling, commercial or any other purpose, is a "room" under the law and these rules, except:
-
-(1) a bathroom or lavatory,
-
-(2) a place of assembly as defined in § 27-232 of the Administrative Code of the City of New York (See: 19 RCNY § 12-01 "place of assembly"),
-
-(3) a store, stand or counter to which access is had directly from public thoroughfares or street or mezzanine lobbies, and,
-
-(4) a lobby, public dining room or other public room when employed as such, provided, however, when such lobby, public dining room or other public room is used exclusively for a private purpose, the occupancy thereof is subject to tax (unless the room qualifies as a place of assembly). The term "room" shall include a kitchenette provided that it is a walk-in area, enclosed by walls, with one or more doorways, archways or other openings, it is supplied with a cooking appliance including but not limited to a range, microwave or convection oven, or hot plate, and it contains at least one item from each of two of the following three categories:
-
-   (i) a sink with running water, or dishwater;
-
-   (ii) a refrigerator;
-
-   (iii) a cabinet, counter top, or table.
-
-Example: A hotel suite contains a kitchenette with a microwave oven, refrigerator, sink, cabinets and a counter top.
-
-      (a) The kitchenette is a walk-in area with three walls and a wide opening on the fourth side. The kitchenette is a room.
-
-      (b) The above items are all set into a wall and there is no appurtenant walk-in area. The kitchenette is not a room.
-
-      (c) Same facts as in (a) except the microwave is not in the kitchenette but rather is outside the kitchenette. The kitchenette is a room.
-
-
-
-
-
-
-*§ 12-02 Imposition of the Tax.* ::
-
-
-(a) The law imposes a tax, measured by the rent per day, for every occupancy of a room or rooms in a hotel in the City of New York, commencing July 1, 1970, with certain exceptions set forth hereinafter.
-
-(b) On and after July 1, 1970 until August 31, 1980, the rates of tax were as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the rent per day for the room was:
-      - The tax was:   
-    * - Less than $10
-      - $  .25 per day
-    * - $10 or more, but less than $15
-      - $  .50 per day
-    * - $15 or more, but less than $20
-      - $  .75 per day
-    * - $20 or more
-      - $1.00 per day
-~
-
-
-
- 
-
-(c) on and after September 1, 1980, the rates of tax are as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the rent per day for the room is:
-      - The tax is: 
-    * - Less than $10
-      -  $0.00
-    * - $10 or more, but less than $20
-      - $  .50 per day
-    * - $20 or more, but less than $30
-      - $1.00 per day
-    * - $30 or more, but less than $40
-      - $1.50 per day
-    * - $40 or more
-      - $2.00 per day
-~
-
-
-
- 
-
-(d) Where a person occupies a room for less than a full day and pays less than the rent for a full day, the tax shall nevertheless be the same amount as would be due had such person occupied the room for a full day at the rent for a full day.
-
-(e) As used in the law and these regulations, the word "day" means any period of 24 consecutive hours, or the actual period of occupancy if less than 24 hours, due regard being had for the established check-out time and practices regarding the early check-in and late check-out of guests of the particular hotel. If the hotel does not impose an additional charge for early check-in or late check-out of guests, then the occupancy before or after the official check-in and check-out times is not taxable.
-
-To illustrate: A checks into Hotel B at 1:00 P.M. Monday afternoon and checks out at 6:00 P.M. Wednesday evening. The established check-out time at Hotel B is 12 noon. The period from 1:00 P.M. Monday to 12 noon Tuesday constitutes a day for purposes of the tax, as does the period from noon Tuesday to noon Wednesday. The period from 12 noon Wednesday to 6:00 P.M. Wednesday will constitute a day for purposes of the tax only if the hotel charges the guest for such period after the 12 noon established check-out time. Accordingly, if Hotel B imposes a charge for the late check-out A is deemed to have spent 3 days at Hotel B. However, if Hotel B does not impose any additional charge for late check-out then A is deemed to have spent 2 days at Hotel B.
-
-Where the rent is based on a term longer than one day, such as a weekly or monthly term, the rent per day is computed by dividing the total number of days of occupancy into the total charge for such occupancy.
-
-To illustrate: A occupies a hotel room during the month of September, 1982, at the rate of $750 per month. The rate per day is 1/30 × $750, or $25, and the tax is $1.00 per day.
-
-(f) Where the rent is for more than one room, including a suite of rooms, the daily rent for each room is determined by multiplying the daily rent for the group of rooms by a fraction, the numerator of which is the daily rent for the particular room, or a similar room, when such room is rented alone with similar bath facilities, and the denominator of which is the total of the daily rent for the individual rooms in the group of rooms, or similar rooms, when such rooms are rented alone with similar bath facilities.
-
-To illustrate: In 1982 A and his wife occupy a suite of hotel rooms for one day. The suite consists of a bedroom, a living room, and bathroom. The rent charged for the suite is $40 per day. When rented separately, the daily rents for the bedroom and living room are $20 and $30 respectively. The daily rent for the bedroom rented as part of the suite is 20/50 × $40, or $16; the daily rent for the living room is 30/50 × $40, or $24. Accordingly, the tax is $.50 for the bedroom and $1.00 for the living room. The bathroom is not considered a room, and is not subject to the tax.
-
-Where an entire rent is charged for more than one room, whether or not a suite, if such rooms are not otherwise rented separately, the daily rent per room is to be determined by dividing the entire rent by the number of rooms for which the charge is made. For example, if the entire charge for a suite of 3 rooms is $90 per day, the charge for each room is considered to be $30. A tax of $1.50 must be paid for each room, a total tax of $4.50 for the suite.
-
-(g) The tax is not imposed upon occupancy by a permanent resident as defined in 19 RCNY § 12-01 "Permanent Resident".
-
-(h) The tax is not imposed upon occupancy by the federal or New York State governments or political subdivisions of the State. (See: 19 RCNY § 12-03.)
-
-(i) The tax is not imposed upon occupancy by religious, charitable, and educational organizations, nor on rents received by such organizations, to the extent provided in 19 RCNY § 12-03.
-
-
-
-
-
-
-*§ 12-03 Exemptions.* ::
-
-
-The following persons are exempt from the tax:
-
-(a) The State of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State; the United States of America, insofar as it is immune from taxation; the United Nations or other worldwide international organizations of which the United States of America is a member.
-
-(b) Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision (b) shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision (b).
-
-(c) Where any organization described in subdivision (b) above, carries on its activities in furtherance of any of the purposes for which it was organized, in premises in which, as part of said activities, it operates a hotel, occupancy of rooms in said premises and rents therefrom received by such organization are not subject to the tax. An organization claiming exemption under subdivisions (b) and (c) above must make application for such exemption to the Commissioner of Finance and is required to submit to the Commissioner of Finance such information as will enable the Commissioner to rule upon the applicant's status. The Commissioner, if satisfied that the applicant is entitled to the exemption, will issue a letter of exemption to the applicant. An applicant for exemption is required to submit an affidavit which shall set forth the following:
-
-   (1) The type of organization,
-
-   (2) The purposes for which it is organized,
-
-   (3) Its actual activities,
-
-   (4) The source and disposition of its income,
-
-   (5) Whether or not any of its income is credited to surplus or may inure to any private stockholder or individual, and
-
-   (6) Such other facts which may affect its right to exemption. The affidavit must be supplemented by a copy of the articles of incorporation, or articles of association, as the case may be, a copy of the by-laws of the organization, a financial statement showing its assets and liabilities for the most recent year, and a photostatic copy of the letter, if any, from the United States Treasury Department granting the organization exemption from Federal income taxation. An organization which is an occupant of a hotel room and claims exemption from tax on such occupancy must furnish a copy of the letter of exemption to the hotel operator when claiming such exemption. Where the occupancy is by an agent, representative, or employee of the organization, a certificate, on the form prescribed by the Commissioner, certifying that the occupancy is solely for official purposes and that the rent has or will be paid by the organization, must be furnished to the operator.
-
-
-
-
-
-
-*§ 12-04 Government Agencies, Diplomatic and Consular Representatives.* ::
-
-
-(a) Occupancy of rooms by the Federal government or by the State or City of New York or by an agency of such governments, is not subject to the tax. Employees and representatives of such governments and agencies, who occupy rooms solely for official purposes, are not required to pay the tax, providing that they furnish to the operator certificates on the form prescribed by the Commissioner, certifying that the rent has been or will be paid by the governmental agency concerned.
-
-(b) Ambassadors, ministers and other diplomatic representatives of foreign governments properly accredited to the United States, are exempt from tax upon their occupancy of rooms. Such exemption does not apply to consular officers or to officers of foreign governments other than those hereinabove specified, unless such exemption arises from treaties or reciprocal agreements existing between such foreign governments and the United States. A person claiming exemption from the tax under this subdivision is required to apply in writing therefor to the Commissioner of Finance, submitting with his application a copy or other evidence of the appropriate treaty or reciprocal agreement between his government and the United States. If the request for exemption is approved, a letter of exemption will be issued to the applicant, and a copy of such letter must be submitted to the operator whenever claim for exemption is made.
-
-
-
-
-
-
-*§ 12-05 Presumption and Burden of Proof.* ::
-
-
-It shall be presumed that all rents are subject to tax until the contrary is established, and the burden of proving that rent for occupancy is not taxable under the law shall be upon the operator or the occupant.
-
-
-
-
-
-
-*§ 12-06 Registration.* ::
-
-
-(a)  Every operator is required to file a certificate of registration in a form prescribed by the Commissioner of Finance. In the case of operators commencing business or opening new hotels the certificate is required to be filed with the Commissioner of Finance within three days after such commencement or opening. An operator of a hotel having 10 or more rooms or 10 or more apartments or living units offered for lodging of guests is deemed to have commenced business or opened a new hotel when such rooms are first offered to the public. In the case of a building or portion of a building having fewer than 10 rooms or fewer than 10 apartments or living units offered for lodging of guests, the operator will be considered to have commenced business or to have opened a hotel as of the first date that the rental of such rooms or living units exceeds either of the de minimis thresholds described in subsection a of 19 RCNY § 12-01 (i.e., such rooms or units are rented on three or more occasions or for more than 14 days in the aggregate) during any four consecutive quarterly tax periods, or, beginning on and after March 1, 2005, during any twelve-month tax period. Within five days after such registration, the Commissioner of Finance shall issue, without charge, to each operator, a certificate of authority empowering such operator to collect the tax from the occupant, and, in addition, a certificate of authority for each additional hotel of such operator. Each certificate shall state the hotel to which it is applicable. Such certificate of authority must be prominently displayed by the operator in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates are not assignable or transferable and must be surrendered immediately to the Commissioner of Finance upon the cessation of business at the hotel named therein, or upon its sale or transfer, together with an affidavit setting forth the pertinent details of such cessation. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). If the business is continued at the same place, but there is a change in the form of the organization, such as from a single proprietorship to a partnership or corporation, the operator is required to return his certificate for cancellation, and the successor is required to file a new application for a certificate of authority.
-
-(b) Registration hereunder is separate and apart from registration under the Sales Tax, and the operator who is registered under the Sales Tax must also register under the Tax on Occupancy of Hotel Rooms.
-
-
-
-
-
-
-*§ 12-07 Filing of Returns and Payment of Tax.* ::
-
-
-(a)  Except as provided herein, every operator shall file with the Commissioner of Finance a return of occupancy and of rents, and of the taxes payable thereon, on the form prescribed by the Commissioner of Finance, for the quarterly periods ending on the last day of February, May, August, and November of each year. Notwithstanding the foregoing, with respect to tax periods beginning on and after the first day of September, 2004, (i) an operator of a hotel having fewer than 10 rooms may file the above return for each such hotel on an annual basis for each twelve-month period ending on the last day of February of each year, and (ii) an operator of fewer than 10 furnished apartments or living units may file the above return on an annual basis for each twelve-month period ending on the last day of February of each year covering all such apartments or living units. Such returns shall be filed within twenty days after the last day of each such period. For the period beginning September 1, 2004 and ending February 28, 2005, an operator of fewer than 10 apartments or living units or of a hotel having fewer than 10 rooms may file the above return for each such hotel or apartments or living units covering that period on or before March 21, 2005. An operator of fewer than 10 rooms or fewer than 10 apartments or living units, after having registered, is required to file a return for each subsequent quarterly or annual period thereafter regardless of whether the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). An operator who ceased business must file a final return within twenty days from the date such business ceased, covering the period or portion of the period during which he conducted such business subsequent to the period for which a return was last required to be filed. If the business was sold, the purchaser thereof must file a return for the period from the date of purchase to the end of the period of which a return is required to be filed. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). Whenever an operator is not required to charge or collect the tax, the Commissioner of Finance may, upon application in writing made by such operator, waive the requirement for the filing of returns. All returns must be filed with the Bureau of Tax Operations of the Department of Finance at the address designated on the return form. The return of an individual must be signed by such individual unless he is absent from the City, ill or otherwise incapacitated, in which event the return may be signed by his duly authorized representative or agent. The return of a corporation must be signed by an officer thereof; the return of a partnership must be signed by a general partner thereof. The Commissioner of Finance may, for good cause, extend the time for filing any return for a period not exceeding 30 days.
-
-(b) At the time of filing a return, each operator shall pay to the Commissioner of Finance the tax due, as well as all other monies collected by the operator acting or purporting to act under the law even though it is determined that the tax collected was invalidly imposed. The tax for the period for which a return is required to be filed shall be due from the operator and payable to the Commissioner of Finance on the date prescribed for the filing of such return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rent and the tax due thereon. Payment of the tax shall be made in cash, or by check, money order or draft drawn to the order of the City Collector. Cash payments must be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of tax.
-
-(c) The Commissioner of Finance may require any operator within the City to file an information return, on a form prescribed by the Commissioner of Finance, at such time and containing such information as the Commissioner of Finance deems necessary for the proper administration of the law.
-
-(d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns and reports and the electronic payment of tax required by this chapter.
-
-
-
-
-
-
-*§ 12-08 Liability for Charging, Collecting and Paying the Tax.* ::
-
-
-(a) The law requires that upon every taxable occupancy, the operator shall charge and collect the tax from the occupant. The tax to be collected must be charged and stated separately from the rent and shown separately on any record thereof, at the time when the occupancy is contracted and charged for. The tax shall also be stated and separately charged upon every evidence of occupancy or any bill or statement of charge made for said occupancy issued or delivered by the operator. The tax shall be paid by the occupant to the operator as trustee for and on account of the City, and kept separate from all other funds in the possession of the operator and the operator shall be liable for the collection thereof and for the tax. The operator and any officer of any corporate operator shall be personally liable for the tax collected or required to be collected under the law. The operator shall have the same right in respect to collecting the tax from the occupant, or in respect to nonpayment of the tax by the occupant, as if the tax were a part of the rent for the occupancy payable at the time such tax shall become due and owing, including all rights of eviction, dispossession, repossession and enforcement of any innkeeper's lien that he may have in the event of nonpayment of rent by the occupant; provided, however, that the Commissioner of Finance shall be joined as a party in any action or proceeding brought by the operator to collect or enforce collection of the tax.
-
-(b) No operator may absorb the tax required to be collected, or tell the occupant that he will pay such tax, nor may he advertise or hold out to the public in any manner, directly or indirectly, that the tax is not deemed to be an element in the rent. Any operator and any officer of a corporate operator or partner in a partnership which is an operator who willfully fails to charge the tax separately from the rent, or willfully fails to state the tax separately from the rent, or willfully fails to or refuses to collect the tax from the occupant, or refers or causes reference to be made to the tax in any invoice, placard or advertisement in a form other than that required by law, is guilty of a misdemeanor. (See: 19 RCNY § 12-11 for penalties.)
-
-(c) Where the occupant has failed to pay and the operator has failed to collect the tax imposed by law, then, in addition to all other rights, obligations and remedies, such tax shall be payable by the occupant directly to the Commissioner of Finance, and it shall be the duty of the occupant to file a return thereof with the Commissioner of Finance and to pay the tax so imposed to the Commissioner of Finance within 15 days after such tax was due.
-
-(d) All monies collected by the operator or charged by him while acting, or purporting to act, under the law must be paid to the City, even though it is judicially determined that the tax was invalidly imposed.
-
-
-
-
-
-
-*§ 12-09 Surety Bond.* ::
-
-
-(a) Where the Commissioner of Finance in his discretion deems it necessary to protect revenues to be obtained under the law, he may require any operator required to collect the tax to file with him a bond, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York as to solvency and responsibility, in such amount as the Commissioner of Finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator. In the event that the Commissioner of Finance determines that an operator is to file such bond he shall give notice to such operator to that effect, specifying the amount of the bond required. The operator shall file such bond within five days after the giving of such notice, unless within such five days the operator shall request in writing a hearing before the Commissioner of Finance at which the necessity, propriety and amount of the bond shall be determined by the Commissioner of Finance. Such determination shall be final and shall be complied with within 15 days after the giving of notice thereof. In lieu of such bond, securities approved by the Commissioner of Finance, or cash in such amount as he may prescribe, may be deposited, and shall be kept in the custody of the Commissioner of Finance, who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him at public or private sale without notice to the depositor thereof.
-
-(b) As an alternative to filing a surety bond or depositing securities, the Commissioner of Finance may require or permit an operator required to collect the tax to deposit all taxes which become collectible in any banking institution located in the City, the deposits in which are insured by any agency of the federal government. Such deposits shall be made into and kept in a separate account, in trust and payable to the Commissioner of Finance, until payment over to the Commissioner of Finance. Such account shall remain open, and deposits made therein, until a notice of cancellation is given by the Commissioner of Finance.
-
-
-
-
-
-
-*§ 12-10 Returns To Be Secret.* ::
-
-
-Except in accordance with judicial order or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any officer or employee of the Department of Finance to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under the law. The officers charged with the custody of such returns are not required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of and may admit in evidence so much of the returns or of the facts shown thereby as are pertinent to the action or proceeding and no more. A taxpayer may obtain a certified copy of any return filed in connection with his tax upon application in writing to the Commissioner. Where a representative of a taxpayer applies for a certified copy of such return, he must file a power of attorney with the application. A certified copy of a taxpayer's return or of information contained therein or relating thereto may be delivered to the United States of America or any department thereof, the State of New York or any department thereof, any agency or any department of the City of New York provided the same is requested for official business. The Corporation Counsel or other legal representatives of the City or the District Attorney of any county within the City may be permitted to inspect returns for official business. Nothing herein shall be construed to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
-
-
-
-
-
-
-*§ 12-11 Interest.* ::
-
-
-If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
-
-
-
-
-
-
-*§ 12-12 Penalties.* ::
-
-
-(a) Civil penalties. Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:
-
-   (1) Failure to file return.
-
-      (i) In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, this is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.
-
-      (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph (1) shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
-
-      (iii) For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
-
-   (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
-
-   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 12-15), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
-
-   (4) Limitations on additions:
-
-      (i) With respect to any return the amount of the addition to tax is limited to the following:
-
-         (A) At no time will the addition for one (1) month be more than five percent (5%).
-
-         (B) If paragraphs (1) and (2) of this subdivision (a) are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e. the lesser of $100 or 100% of tax due).
-
-         (C) If paragraphs (1) and (3) of this subdivision (a) are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (a) (determined without regard to subparagraph (ii) of such paragraph (1), which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.
-
-      (ii) The provisions of this paragraph may be illustrated by the following examples:
-
-Example A: (a) Assume the taxpayer filed his tax return for the quarter ending February, 1983  on June 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on July 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from March 21 through July 20, and 0.5% for the fractional part of the month from July 21 through July 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
-      -  $200 
-    * - Reduced by the amount of the addition imposed under paragraph (2) for those months
-      -  $16 
-    * - Addition to tax under paragraph (1)
-      -  $184 
-~
-
-
-
- 
-
-Example A: (b) A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
-      -  $12 
-    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
-      -  $50 
-    * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
-      -  $40 
-    * - Maximum amount of the addition under paragraph (3)
-      -  $10 
-~
-
-
-
- 
-
-Example B: (a) A taxpayer files his tax return for the quarter ending February, 1983 on November 7, 1983, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on November 7, 1983. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Penalty at 5% for maximum of 5 months, 25% of $500
-      -  $125.00
-    * - Less reduction for the amount of the addition under paragraph (2): 
-      - 
-    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months March 16 through August 20 of the net amount due ($500)
-      - $12.50
-    * - Additional to tax under paragraph (1)
-      -  $112.50
-~
-
-
-
- 
-
-   (5) Reasonable cause as used in paragraphs (1), (2) and (3) of this subdivision (a) must be affirmatively shown in a written statement. The taxpayer's previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:
-
-      (i) death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;
-
-      (ii) destruction of the taxpayer's place of business or business records by fire or other casualty;
-
-      (iii) timely prepared reports misplaced by a responsible employee discovered after the due date;
-
-      (iv) inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;
-
-      (v) any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.
-
-   (6) Underpayment due to negligence.
-
-      (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
-
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
-
-   (7) Underpayment due to fraud.
-
-      (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
-
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
-
-      (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision (a).
-
-   (8) Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply any information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.
-
-   (9) The additions to tax and penalties provided by this subdivision (a) shall be paid and enforced in the same manner as taxes.
-
-   (10) Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.
-
-(b) Criminal penalties.
-
-   (1) Any person who willfully fails to file a registration certificate as required by the law and such data in connection therewith as the Commissioner of Finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by the law, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this paragraph shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
-
-   (2) Any person who willfully fails to charge separately the tax imposed under the law or willfully fails to state such tax separately on any bill, statement, memorandum or receipt issued or employed by such person upon which the tax is required to be stated separately as provided in the law, or who shall refer or cause reference to be made to this tax in a form or manner other than required by the law, shall be guilty of a mis- demeanor.
-
-   (3) Failure to collect tax. Any person who willfully fails to collect any tax required to be collected under the law shall be guilty of a misdemeanor.
-
-   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required under the law shall be guilty of a misdemeanor.
-
-   (5)  Failure to obey subpoena; false testimony.
-
-      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
-
-         (A) fails or refuses to attend without lawful excuse,
-
-         (B) refuses to be sworn,
-
-         (C) refuses to answer any material and proper question, or
-
-         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
-
-      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
-
-   (6) Willful failure to file a return or report or pay the tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
-
-   (7) Fraudulent returns, reports, statements or other documents.
-
-      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
-
-      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
-
-      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
-
-   (8) The penalties provided for in this subdivision (b) shall not preclude prosecution pursuant to the penal law with respect to the willful failure of any person to pay over to the City any hotel room occupancy tax imposed by law, whenever such person has been required to collect and has collected any such tax. In any such prosecution under the penal law, a person who has been required to collect and has collected any such tax shall be deemed to have acted in a fiduciary character with respect to the City, and the tax collected shall be deemed to have been entrusted to such person by the City.
-
-(c) Liability of officers or partners and effect of Certificate of Commissioner.
-
-   (1) Officers of a corporate operator and partners in a partnership which is an operator are personally liable for the tax collected or required to be collected by such corporation or partnership, and are subject to the penalties and interest imposed by law.
-
-   (2) The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a return, bond or registration certificate has not been filed, or that information has not been supplied pursuant to the provisions of the law shall be presumptive evidence thereof.
-
-
-
-
-
-
-*§ 12-13 Refunds.* ::
-
-
-The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, provided:
-
-(a) A written application for refund or credit was made to the Commissioner of Finance within one year from the payment thereof, and
-
-(b) The application is made by the occupant, operator or other person who actually paid the tax, or
-
-(c) The application is made by an operator who collected and paid over such tax to the Commissioner of Finance; however, no refund shall be made until the operator shall first establish to the satisfaction of the Commissioner of Finance that he repaid the occupant the amount for which the application is made. In such case, the period within which application for refund may be made begins when the payment is made by the occupant to the operator. No specific form has been prescribed for refund applications. An application for refund, however, shall be in writing and shall comply with the following requirements:
-
-(d) It must be signed by the applicant or his duly authorized agent. If signed by an agent, the application must be accompanied by a power of attorney acceptable to the Commissioner of Finance.
-
-(e) It must demonstrate that the refund provisions of the law have been complied with.
-
-(f) It must be accompanied by the cancelled check or a photostatic copy thereof, showing both the front and back of the check; or, if paid by cash or money order, by evidence of such payment. Whenever a taxpayer files a claim for refund, such application shall constitute an application for revision of the tax, penalty or interest complained of. The Commissioner of Finance may audit the taxpayer's books and records or may grant the refund subject to future audit. The Commissioner of Finance may determine without resorting to an audit that, based upon the evidence presented, the claim is without merit and, therefore, deny it. The Commissioner of Finance will notify the taxpayer in writing of his determination. Such determination shall become final and irrevocable unless the person to whom it is addressed shall, within 30 days after the date thereof, apply to the Commissioner of Finance for a hearing. A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by 19 RCNY § 12-15, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
-
-
-
-
-
-
-*§ 12-14 Records To Be Kept.* ::
-
-
-Every operator is required to keep records of room rentals and of the tax payable thereon. In addition to the general books of account, such records shall also include guests' registration records, rental contracts and leases, banquet records wherever applicable and such other records as will enable the Commissioner of Finance to determine the room rentals and the proportionate part of receipts from sale of food and/or drink which under these regulations constitutes rentals. In addition to the above records, operators must also retain all exemption certificates filed by exempt organizations and by the Federal government, or by the State or City of New York, or by an agency of such governments, and records of all other rentals which are not subject to tax. Exemption certificates from occupants who are not entitled to exemption should not be accepted, and the Commissioner of Finance will reject any exemption certificate obtained from an occupant who is not entitled to exemption. The records hereinabove prescribed are in addition to all other records which must be retained by an operator as provided for in any other State or City tax law. Unless the operator maintains adequate records showing rentals and the tax due thereon, the Commissioner of Finance reserves the right to determine the amount of such rentals and the tax due thereon from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as the number of rooms, location, scale of rents, comparable rents, type of accommodation and service, number of employees and/or other factors. Records of operators are to be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years unless permission in writing is obtained from the Commissioner of Finance to destroy them before the expiration of such period.
-
-
-
-
-
-
-*§ 12-15 Determination of Tax.* ::
-
-
-If a return required by law is not filed or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the Commissioner of Finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocable fix the tax unless the person against whom it is assessed, within 30 days after giving of notice of such determination, shall apply to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance of his own motion shall re-determine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the Supreme Court within 30 days after the giving of the notice of such determination. A proceeding under Article 78 of the Civil Practice Law and Rules shall not be instituted unless:
-
-(a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in this State and approved by the Superintendent of Insurance of this State as to solvency and responsibility, in such amount as a Justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or
-
-(b) at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the application shall net be required to deposit such taxes, penalties and interest as a condition precedent to the application.
-
-
-
-
-
-
-*§ 12-16 Proceedings To Recover Tax.* ::
-
-
-Whenever any operator or any officer of a corporate operator or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this title, the Corporation Counsel shall, upon the request of the Commissioner of Finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the State of New York or of any other state or of the United States. If, however, the Commissioner of Finance, in his discretion, believes that any such operator, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately. As an additional or alternate remedy, the Commissioner of Finance may issue a warrant, directed to the City Sheriff commanding him to levy upon and sell the real and personal property of the operator or officer of a corporate operator or of the occupant or other person liable for the tax, which may be found within the City, for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the Commissioner of Finance and to pay to him the money collected by virtue thereof within sixty days after the receipt of such warrant. The City Sheriff shall within five days after the receipt of the warrant file with the County Clerk a copy thereof; and thereupon such clerk shall enter the judgment docket the name of the person mentioned in the warrant and the amount of the tax, penalties and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The City Sheriff shall then proceed upon the warrant, in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record, and for services in executing the warrant he shall be entitled to the same fees, which he may collect in the same manner. In the discretion of the Commissioner of Finance a warrant of like terms, force and effect may be issued and directed to any officer or employee of the Finance Department, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the Commissioner of Finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the City has recovered judgment therefor and execution thereon had been returned unsatisfied.
-
-
-
-
-
-
-*§ 12-17 Notice and Limitations of Time.* ::
-
-
-(a) Any notice authorized or required under the provisions of this law may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him pursuant to the provisions of this law or in any application made by him, or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this law by the giving of notice shall commence to run from the date of mailing of such notice.
-
-(b) The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax, penalty or interest provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of the return; provided, however, that where no return has been filed as provided by law, the tax may be assessed at any time.
-
-(c) Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
-
-
-
-
-
-
-*§ 12-18 Reference to Tax.* ::
-
-
-Whenever reference is made in placards or advertisements or in any other publication to the tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms," except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
-
-
-
-
-
-
-*§ 12-19 Bulk Sales.* ::
-
-
-Whenever an operator shall make a sale, transfer, or assignment in bulk of any part or the whole of his hotel premises or his lease, license or other agreement or right to possess or operate such hotel, or of the equipment, furnishings, fixtures, supplies or stock of merchandise, or the said premises or lease, license or other agreement or right to possess or operate such hotel and the equipment, furnishings, fixtures, supplies and stock of merchandise pertaining to the conduct or operation of said hotel otherwise than in the ordinary and regular prosecution of business, the purchaser, transferee or assignee shall at least ten days before taking possession of the subject of the sale, transfer or assignment, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms, and conditions thereof whether or not the seller, transferrer or assignor has represented to, or informed the purchaser, transferee or assignee that he owes any tax pursuant to law, and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the City, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assigner any such sums of money, property or choses in action to the extent of the amount of the City's claim. For failure to comply with the provisions of this Section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code shall be personally liable for the payment to the City of any such taxes theretofore or thereafter determined to be due to the City from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.
 
 
 
@@ -12206,195 +12206,6 @@ Example 4: The facts are the same as in Example 3 except that X Corp. made the o
 
 
 
-Chapter 26: Creation and Retention of Books and Records
---------------------------------------------------
-
-
-
-*§ 26-01 Purpose.* ::
-
-
-The purpose of these rules is to define the requirements imposed on taxpayers for the maintenance and retention of books, records, and other sources of information under §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York and to address these requirements where all or a part of the taxpayer's records are received, created, maintained or generated through various computer, electronic and imaging processes and systems.
-
-
-
-
-
-
-*§ 26-02 Definitions.* ::
-
-
-Unless the context requires otherwise, the following definitions apply in these rules:
-
-Database Management System. The term "Database Management System" or DMS means a software system that controls, relates, retrieves, and provides accessibility to data stored in a database.
-
-Department. The term "Department" means the Department of Finance of the City of New York.
-
-Electronic Data Interchange. The term "Electronic Data Interchange" or "EDI" means the computer-to-computer exchange of business transactions in a standardized structured electronic format.
-
-Hard copy. The term "Hard copy" means any documents, records, reports or other data printed on paper.
-
-Machine-sensible record. The term "Machine-sensible record" means a collection of related information in an electronic format. Machine-sensible records do not include hard copy records that are created or recorded on paper or stored in or by an imaging system such as microfilm, microfiche, or storage-only imaging systems.
-
-Storage-only imaging system. The term "Storage-only imaging system" means a system of computer hardware and software that provides for the storage, retention and retrieval of documents originally created on paper. It does not include any system, or part of a system, that manipulates or processes any information or data contained on the document in any manner other than to reproduce the document in hard copy or as an optical image.
-
-Taxpayer. The term "Taxpayer" as used in these rules means any individual or entity subject to the provisions of Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York.
-
-
-
-
-
-
-*§ 26-03 General.* ::
-
-
-(a)  A taxpayer shall maintain all records that are necessary to a determination of the correct tax liability under Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York. All required records must be made available on request by the Department or its authorized representatives as provided for in §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York. Such records shall include, but not be necessarily limited to permanent books of account or record, including inventories where applicable, as are sufficient to establish the amount of gross income, deductions, credits and other matters required to be shown by the taxpayer in any tax return required under the above chapters of the Administrative Code.
-
-(b) If a taxpayer retains records required to be retained under these rules in both machine-sensible and hard copy formats, the taxpayer shall make the records available to the Department in machine-sensible format upon request of the Department.
-
-(c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
-
-(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
-
-(e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
-
-(f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
-
-(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
-
-(h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
-
-
-
-
-
-
-*§ 26-04 Recordkeeping Requirements – Machine-Sensible Records.* ::
-
-
-(a)  General.
-
-   (1) Machine-sensible records used to establish tax compliance shall contain sufficient transaction-level detail information so that the details underlying the machine-sensible records can be identified and made available to the Department upon request. A taxpayer has discretion to discard duplicated records and redundant information provided its responsibilities under these rules are met.
-
-   (2) At the time of an examination, the retained records must be capable of being retrieved and converted to a standard record format as specified by the Department.
-
-   (3) Taxpayers are not required to construct machine-sensible records other than those created in the ordinary course of business. A taxpayer who does not create the electronic equivalent of a traditional paper document in the ordinary course of business is not required to construct such a record for tax purposes.
-
-   (4) Any system for creating, maintaining and retrieving machine-sensible records must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000 correctly and without ambiguity.
-
-(b) Electronic Data Interchange Requirements.
-
-   (1) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transaction, must be equivalent to that contained in an acceptable paper record. The retained records should contain such information as vendor name, invoice date, product description, quantity purchased, price, amount of tax and indication of tax status (where applicable), shipping detail, etc. Codes may be used to identify some or all of the data elements, provided that the taxpayer provides a method which allows the Department to interpret the coded information.
-
-   (2) The taxpayer may capture the information necessary to satisfy paragraph (1) of this subdivision at any level within the accounting system and need not retain the original EDI transaction records provided the audit trail, authenticity, and integrity of the retained records can be established.
-
-Example: A taxpayer using electronic data interchange technology receives electronic invoices from its suppliers. The taxpayer decides to retain the invoice data from completed and verified EDI transactions in its accounts payable system rather than to retain the EDI transactions themselves. Since neither the EDI transaction nor the accounts payable system captures information from the invoice pertaining to product description and vendor name (i.e., they contain only codes for that information), the taxpayer also retains other records, such as its vendor master file and product code description lists and makes them available to the Department. In this example, the taxpayer need not retain its EDI transaction for tax purposes.
-
-(c) Electronic Data Processing Systems Requirements. The requirements for an electronic data processing accounting system should be similar to that of a manual accounting system in that an adequately designed accounting system should incorporate methods and records that will satisfy the requirements of these rules. An electronic data processing accounting system must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000, correctly and without ambiguity.
-
-(d) Business Process Information.
-
-   (1) Upon the request of the Department, the taxpayer shall provide a description of the business process that created the retained records. Such description shall include the relationship between the records and the tax documents prepared by the taxpayer and the measures employed to ensure the integrity of the records.
-
-   (2) The taxpayer must be capable of demonstrating:
-
-      (i) the functions being performed as they relate to the flow of data through the system;
-
-      (ii) the internal controls used to ensure accurate and reliable processing; and
-
-      (iii) the internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.
-
-   (3) The following specific documentation for all retained files must also be kept:
-
-      (i) record formats (including the meaning of all "codes" used to represent information);
-
-      (ii) flowcharts for a system and a program;
-
-      (iii) label descriptions;
-
-      (iv) source program listings of programs that created the retained files;
-
-      (v) detailed charts of accounts (for specific periods);
-
-      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
-
-      (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
-
-   (4) Any change to a data processing system that affects the accounting system and/or subsystems, together with their effective dates, must be documented in order to preserve an accurate chronological record. This record should include any changes to software or systems and any changes to the formats of files.
-
-   (5) Every taxpayer must be able to process the retained records at the time of a Department examination. Processing must include the ability to print a hard copy of any record. When the data processing system that created the records is being replaced by a system with which the records would be incompatible, the taxpayer must convert pre-existing records to a format that is compatible with the new system.
-
-   (6) At the time of an examination, every taxpayer must provide the Department with computer resources (e.g., terminal access, computer time and personnel) that are necessary for the processing of the retained records.
-
-   (7) Every taxpayer that utilizes a Database Management System must create a sequential file(s) that contains all the detail necessary to identify the underlying source documents. In addition to the documentation described in paragraphs (2), (3) and (4) of this subdivision the following documentation must be retained:
-
-      (i) data base description including vendor, name and version;
-
-      (ii) record layouts of each segment with respect to the fields in the segment;
-
-      (iii) systems control language; and
-
-      (iv) programs associated with the DMS including a description of what each program does.
-
-   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
-
-   (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
-
-      (i) The taxpayer may arrange to provide the Department with the hardware, software and personnel resources to access the machine-sensible records.
-
-      (ii) The taxpayer may arrange for a third party to provide the hardware, software and personnel resources necessary to access the machine-sensible records.
-
-      (iii) The taxpayer may convert the machine-sensible records to a standard record format specified by the Department, including copies of files, on a magnetic medium that is agreed to by the Department.
-
-
-
-
-
-
-*§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
-
-
-(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
-
-(b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
-
-
-
-
-
-
-*§ 26-06 Alternative Storage Media for Hard Copy Documents.* ::
-
-
-(a)  For purposes of storage and retention, taxpayers may convert hard copy documents received or produced in the normal course of business and required to be retained under this rule to microfilm, microfiche or another storage-only imaging system and may discard the original hard copy documents, provided the conditions of this section are met. Documents that may be stored on these media include, but are not limited to general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates and credit memoranda.
-
-(b) Microfilm, microfiche and other storage-only imaging systems must meet the following requirements:
-
-   (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
-
-   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
-
-   (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
-
-   (4) When displayed on such equipment or reproduced on paper, the documents must exhibit a high degree of legibility and readability. For this purpose, legibility is defined as the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals. Readability is defined as the quality of a group of letters or numerals being recognizable as words or complete numbers.
-
-   (5) All data stored on microfilm, microfiche or other storage-only imaging system must be maintained and arranged in a manner that permits the location of any particular record.
-
-(c) Any imaging system meeting the requirements of an electronic storage system under Rev. Proc. 97-22, as promulgated by the Internal Revenue Service, must be deemed to satisfy the requirements of this section, provided it is able to accept date information input, provide date output and store dates before, on and after January 1, 2000 correctly and without ambiguity.
-
-
-
-
-
-
-*§ 26-07 Records Retention – Time Period.* ::
-
-
-All records required to be retained under these rules must be preserved pursuant to §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York unless the Department has provided in writing that the records are no longer required.
-
-
-
-
 Chapter 25: Retail Licensees of the State Liquor Authority
 --------------------------------------------------
 
@@ -12850,6 +12661,195 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
 (d) The provisions of the regulations of the Commissioner relating to the mailing rules for New York City income and excise tax apply with respect to retail licensee tax returns and payments. Generally, those regulations provide that if a tax return or payment properly addressed with sufficient postage prepaid is delivered to the Department of Finance by U.S. mail after the due date, the date of the U.S. Postal Service postmark stamped on the envelope will be deemed the date of delivery, provided the postmark date falls on or before the due date. Non-U.S. Postal Service postmarks will also be recognized, provided delivery to the Department of Finance occurs within five days of the postmark date. If the five-day limit is exceeded, the taxpayer must establish that the item was actually deposited in the mail by the due date, that the delay in receipt was due to a delay in the transmission of the mail, and the cause of the delay.
 
 (e) When the last day prescribed in these regulations for filing a return or paying a tax (including the last day covered by an extension of time) falls on Saturday, Sunday or a legal holiday in the State of New York, the filing of such return or paying of such tax will be considered timely if it is filed or paid on the next succeeding date which is not a Saturday, Sunday or legal holiday.
+
+
+
+
+Chapter 26: Creation and Retention of Books and Records
+--------------------------------------------------
+
+
+
+*§ 26-01 Purpose.* ::
+
+
+The purpose of these rules is to define the requirements imposed on taxpayers for the maintenance and retention of books, records, and other sources of information under §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York and to address these requirements where all or a part of the taxpayer's records are received, created, maintained or generated through various computer, electronic and imaging processes and systems.
+
+
+
+
+
+
+*§ 26-02 Definitions.* ::
+
+
+Unless the context requires otherwise, the following definitions apply in these rules:
+
+Database Management System. The term "Database Management System" or DMS means a software system that controls, relates, retrieves, and provides accessibility to data stored in a database.
+
+Department. The term "Department" means the Department of Finance of the City of New York.
+
+Electronic Data Interchange. The term "Electronic Data Interchange" or "EDI" means the computer-to-computer exchange of business transactions in a standardized structured electronic format.
+
+Hard copy. The term "Hard copy" means any documents, records, reports or other data printed on paper.
+
+Machine-sensible record. The term "Machine-sensible record" means a collection of related information in an electronic format. Machine-sensible records do not include hard copy records that are created or recorded on paper or stored in or by an imaging system such as microfilm, microfiche, or storage-only imaging systems.
+
+Storage-only imaging system. The term "Storage-only imaging system" means a system of computer hardware and software that provides for the storage, retention and retrieval of documents originally created on paper. It does not include any system, or part of a system, that manipulates or processes any information or data contained on the document in any manner other than to reproduce the document in hard copy or as an optical image.
+
+Taxpayer. The term "Taxpayer" as used in these rules means any individual or entity subject to the provisions of Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York.
+
+
+
+
+
+
+*§ 26-03 General.* ::
+
+
+(a)  A taxpayer shall maintain all records that are necessary to a determination of the correct tax liability under Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York. All required records must be made available on request by the Department or its authorized representatives as provided for in §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York. Such records shall include, but not be necessarily limited to permanent books of account or record, including inventories where applicable, as are sufficient to establish the amount of gross income, deductions, credits and other matters required to be shown by the taxpayer in any tax return required under the above chapters of the Administrative Code.
+
+(b) If a taxpayer retains records required to be retained under these rules in both machine-sensible and hard copy formats, the taxpayer shall make the records available to the Department in machine-sensible format upon request of the Department.
+
+(c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
+
+(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
+
+(e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
+
+(f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
+
+(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
+
+(h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
+
+
+
+
+
+
+*§ 26-04 Recordkeeping Requirements – Machine-Sensible Records.* ::
+
+
+(a)  General.
+
+   (1) Machine-sensible records used to establish tax compliance shall contain sufficient transaction-level detail information so that the details underlying the machine-sensible records can be identified and made available to the Department upon request. A taxpayer has discretion to discard duplicated records and redundant information provided its responsibilities under these rules are met.
+
+   (2) At the time of an examination, the retained records must be capable of being retrieved and converted to a standard record format as specified by the Department.
+
+   (3) Taxpayers are not required to construct machine-sensible records other than those created in the ordinary course of business. A taxpayer who does not create the electronic equivalent of a traditional paper document in the ordinary course of business is not required to construct such a record for tax purposes.
+
+   (4) Any system for creating, maintaining and retrieving machine-sensible records must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000 correctly and without ambiguity.
+
+(b) Electronic Data Interchange Requirements.
+
+   (1) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transaction, must be equivalent to that contained in an acceptable paper record. The retained records should contain such information as vendor name, invoice date, product description, quantity purchased, price, amount of tax and indication of tax status (where applicable), shipping detail, etc. Codes may be used to identify some or all of the data elements, provided that the taxpayer provides a method which allows the Department to interpret the coded information.
+
+   (2) The taxpayer may capture the information necessary to satisfy paragraph (1) of this subdivision at any level within the accounting system and need not retain the original EDI transaction records provided the audit trail, authenticity, and integrity of the retained records can be established.
+
+Example: A taxpayer using electronic data interchange technology receives electronic invoices from its suppliers. The taxpayer decides to retain the invoice data from completed and verified EDI transactions in its accounts payable system rather than to retain the EDI transactions themselves. Since neither the EDI transaction nor the accounts payable system captures information from the invoice pertaining to product description and vendor name (i.e., they contain only codes for that information), the taxpayer also retains other records, such as its vendor master file and product code description lists and makes them available to the Department. In this example, the taxpayer need not retain its EDI transaction for tax purposes.
+
+(c) Electronic Data Processing Systems Requirements. The requirements for an electronic data processing accounting system should be similar to that of a manual accounting system in that an adequately designed accounting system should incorporate methods and records that will satisfy the requirements of these rules. An electronic data processing accounting system must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000, correctly and without ambiguity.
+
+(d) Business Process Information.
+
+   (1) Upon the request of the Department, the taxpayer shall provide a description of the business process that created the retained records. Such description shall include the relationship between the records and the tax documents prepared by the taxpayer and the measures employed to ensure the integrity of the records.
+
+   (2) The taxpayer must be capable of demonstrating:
+
+      (i) the functions being performed as they relate to the flow of data through the system;
+
+      (ii) the internal controls used to ensure accurate and reliable processing; and
+
+      (iii) the internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.
+
+   (3) The following specific documentation for all retained files must also be kept:
+
+      (i) record formats (including the meaning of all "codes" used to represent information);
+
+      (ii) flowcharts for a system and a program;
+
+      (iii) label descriptions;
+
+      (iv) source program listings of programs that created the retained files;
+
+      (v) detailed charts of accounts (for specific periods);
+
+      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
+
+      (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
+
+   (4) Any change to a data processing system that affects the accounting system and/or subsystems, together with their effective dates, must be documented in order to preserve an accurate chronological record. This record should include any changes to software or systems and any changes to the formats of files.
+
+   (5) Every taxpayer must be able to process the retained records at the time of a Department examination. Processing must include the ability to print a hard copy of any record. When the data processing system that created the records is being replaced by a system with which the records would be incompatible, the taxpayer must convert pre-existing records to a format that is compatible with the new system.
+
+   (6) At the time of an examination, every taxpayer must provide the Department with computer resources (e.g., terminal access, computer time and personnel) that are necessary for the processing of the retained records.
+
+   (7) Every taxpayer that utilizes a Database Management System must create a sequential file(s) that contains all the detail necessary to identify the underlying source documents. In addition to the documentation described in paragraphs (2), (3) and (4) of this subdivision the following documentation must be retained:
+
+      (i) data base description including vendor, name and version;
+
+      (ii) record layouts of each segment with respect to the fields in the segment;
+
+      (iii) systems control language; and
+
+      (iv) programs associated with the DMS including a description of what each program does.
+
+   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
+
+   (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
+
+      (i) The taxpayer may arrange to provide the Department with the hardware, software and personnel resources to access the machine-sensible records.
+
+      (ii) The taxpayer may arrange for a third party to provide the hardware, software and personnel resources necessary to access the machine-sensible records.
+
+      (iii) The taxpayer may convert the machine-sensible records to a standard record format specified by the Department, including copies of files, on a magnetic medium that is agreed to by the Department.
+
+
+
+
+
+
+*§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
+
+
+(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
+
+(b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
+
+
+
+
+
+
+*§ 26-06 Alternative Storage Media for Hard Copy Documents.* ::
+
+
+(a)  For purposes of storage and retention, taxpayers may convert hard copy documents received or produced in the normal course of business and required to be retained under this rule to microfilm, microfiche or another storage-only imaging system and may discard the original hard copy documents, provided the conditions of this section are met. Documents that may be stored on these media include, but are not limited to general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates and credit memoranda.
+
+(b) Microfilm, microfiche and other storage-only imaging systems must meet the following requirements:
+
+   (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
+
+   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
+
+   (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
+
+   (4) When displayed on such equipment or reproduced on paper, the documents must exhibit a high degree of legibility and readability. For this purpose, legibility is defined as the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals. Readability is defined as the quality of a group of letters or numerals being recognizable as words or complete numbers.
+
+   (5) All data stored on microfilm, microfiche or other storage-only imaging system must be maintained and arranged in a manner that permits the location of any particular record.
+
+(c) Any imaging system meeting the requirements of an electronic storage system under Rev. Proc. 97-22, as promulgated by the Internal Revenue Service, must be deemed to satisfy the requirements of this section, provided it is able to accept date information input, provide date output and store dates before, on and after January 1, 2000 correctly and without ambiguity.
+
+
+
+
+
+
+*§ 26-07 Records Retention – Time Period.* ::
+
+
+All records required to be retained under these rules must be preserved pursuant to §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York unless the Department has provided in writing that the records are no longer required.
 
 
 

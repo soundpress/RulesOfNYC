@@ -4321,143 +4321,6 @@ An application for a license or a license shall be subject to denial, suspension
 
 
 
-Chapter 24: Automated External Defibrillators In Certain Public Places
---------------------------------------------------
-
-
-
-*§ 24-01 Definitions.* ::
-
-
-(a)  Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § 17-188 of the New York City Administrative Code.
-
-(b) When used in this chapter, the following words or terms shall have the following meaning:
-
-   (1) Department. "Department" means the New York City Department of Health and Mental Hygiene.
-
-   (2) Code. Code means the Administrative Code of the City of New York.
-
-   (3) Publicly Accessible Areas. Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a "public place", as that term is defined in § 17-188(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.
-
-   (4) Prominent Location. Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.
-
-   (5) Public access defibrillation provider. Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.
-
-   (6) Trained Responder(s). Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § 17-188(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.
-
-   (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
-
-   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
-
-
-
-
-
-
-*§ 24-02 Compliance with State Law.* ::
-
-
-Any automated external defibrillator required pursuant to § 17-188 of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.
-
-
-
-
-
-
-*§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
-
-
-(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
-
-(b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
-
-(c) Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer's specifications.
-
-
-
-
-
-
-*§ 24-04 Required Notice: Signage Information.* ::
-
-
-(a)  The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § 17-188(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.
-
-(b) The sign shall contain the following language in lettering and representation (symbol) in the size indicated:
-
-•     "DEFIBRILLATOR" or "AED" (minimum height – two (2) inches)
-
-•     Automated External Defibrillator (minimum height – five eighths (5/8) inch)
-
-•     Heart and lightening bolt logo (minimum height – two (2) inches)
-
-(c) A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:
-
-•     In event of emergency call 911 (minimum height – three eighths (3/8) inch)
-
-•     and
-
-•     Contact this facility's trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)
-
-(d) In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.
-
-(e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
-
-(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
-
-(g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
-
-
-
-
-
-
-*§ 24-05 Site-Specific Response Plan.* ::
-
-
-(a)  The owner or operator of a public place, as defined in § 17-188 of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.
-
-(b) The Site-Specific Plan must specify the following:
-
-   (1) A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.
-
-   (2) The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.
-
-   (3) The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).
-
-   (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
-
-   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
-
-   (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
-
-   (7) Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.
-
-   (8) How the trained responder(s) at a site will be dispatched to the location of the medical emergency.
-
-   (9) The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.
-
-   (10) Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.
-
-   (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
-
-(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
-
-
-
-
-
-
-*§ 24-06 Nursing Homes.* ::
-
-
-(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
-
-(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
-
-
-
-
 Chapter 23: Food Service Establishment Sanitary Inspection Procedures and Letter Grading
 --------------------------------------------------
 
@@ -4647,6 +4510,143 @@ The Department shall when conducting a sanitary inspection assess points only fo
 
 
 **APPENDIX 23-C FOOD SERVICE ESTABLISHMENT AND NON-RETAIL FOOD SERVICE ESTABLISHMENT PENALTY SCHEDULE**
+
+Chapter 24: Automated External Defibrillators In Certain Public Places
+--------------------------------------------------
+
+
+
+*§ 24-01 Definitions.* ::
+
+
+(a)  Words and terms used in this chapter, other than those specified in subsection (b) of this section, shall have the same meaning as specified in § 17-188 of the New York City Administrative Code.
+
+(b) When used in this chapter, the following words or terms shall have the following meaning:
+
+   (1) Department. "Department" means the New York City Department of Health and Mental Hygiene.
+
+   (2) Code. Code means the Administrative Code of the City of New York.
+
+   (3) Publicly Accessible Areas. Publicly accessible areas of buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services means the areas within a "public place", as that term is defined in § 17-188(a)(3) of the Code, to which members of the public are regularly invited or permitted on most business days and which do not require an appointment or special authorization or permission in order to gain admission.
+
+   (4) Prominent Location. Prominent location shall mean any central location in a public place where the automated external defibrillators can be located and are readily available at all times for use by persons trained in their operation.
+
+   (5) Public access defibrillation provider. Public access defibrillation provider means a person, firm, organization or other entity having control of a public place and possessing or operating an automated external defibrillator pursuant to a collaborative agreement, as that term is defined in § 3000-b of the New York State Public Health Law.
+
+   (6) Trained Responder(s). Employees/volunteers recruited by or, if necessary, designated by the owner/management of those public places specified in § 17-188(a)(3) of the Code, to operate automated external defibrillators. Such employees shall have received appropriate training in the use and operation of automated external defibrillators, as evidenced by the successful completion of a combination cardio-pulmonary resuscitation/automated external defibrillator (CPR/AED) training class.
+
+   (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
+
+   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
+
+
+
+
+
+
+*§ 24-02 Compliance with State Law.* ::
+
+
+Any automated external defibrillator required pursuant to § 17-188 of the Code shall be acquired, possessed and operated in accordance with the requirements of § 3000-b of the New York State Public Health Law.
+
+
+
+
+
+
+*§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
+
+
+(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
+
+(b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
+
+(c) Storage conditions for the automated external defibrillators shall be in compliance with the manufacturer's specifications.
+
+
+
+
+
+
+*§ 24-04 Required Notice: Signage Information.* ::
+
+
+(a)  The owner or operator of a public place shall provide written notice to all persons using a public place, as that term is defined in § 17-188(a)(3) of the Code, in the form of a clear and conspicuous wall sign placed at a height between five and seven feet above the floor and which is also in close proximity to the automated external defibrillator unit storage location.
+
+(b) The sign shall contain the following language in lettering and representation (symbol) in the size indicated:
+
+•     "DEFIBRILLATOR" or "AED" (minimum height – two (2) inches)
+
+•     Automated External Defibrillator (minimum height – five eighths (5/8) inch)
+
+•     Heart and lightening bolt logo (minimum height – two (2) inches)
+
+(c) A second wall sign either similarly placed as the one required in subsection (a) of this section or located on the storage cabinet containing the automated external defibrillator must contain the following information in the size indicated:
+
+•     In event of emergency call 911 (minimum height – three eighths (3/8) inch)
+
+•     and
+
+•     Contact this facility's trained responder(s) at: (Give contact information for trained responder(s) (minimum height – three eighths (3/8) inch)
+
+(d) In addition to the signs required in subsections (a) and (b) of this section, a wall sign containing the information specified in subsection (c) of this section shall be placed in a prominent location on all publicly accessible floors of a public place. Such sign shall also state that more information on CPR/AED training may be obtained by calling 311.
+
+(e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
+
+(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
+
+(g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
+
+
+
+
+
+
+*§ 24-05 Site-Specific Response Plan.* ::
+
+
+(a)  The owner or operator of a public place, as defined in § 17-188 of the Code, must have a site response and maintenance plan as part of the written practice protocols included in the collaborative agreement required by § 3000-b of New York State Public Health Law. This plan must be made available to the Department upon its request.
+
+(b) The Site-Specific Plan must specify the following:
+
+   (1) A list of the trained responders, the specific training they received, how they can be contacted, the locations of the trained responders at the site.
+
+   (2) The provider of the AED/CPR training received by each trained responder, the date that training was received as well as the due dates for training recertification of each trained responder.
+
+   (3) The specific location(s) of the automated external defibrillator(s) at the public place. The automated external defibrillator(s) shall be in a location(s) accessible to the trained responder(s).
+
+   (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
+
+   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
+
+   (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
+
+   (7) Procedures to be followed to notify the emergency medical services system as to the existence of an on-site medical emergency.
+
+   (8) How the trained responder(s) at a site will be dispatched to the location of the medical emergency.
+
+   (9) The procedures to be followed by the trained responder(s) at the location upon their response to the location of a medical emergency.
+
+   (10) Procedures to be followed by trained responders upon their transfer of care of an emergency to the emergency medical services system.
+
+   (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
+
+(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
+
+
+
+
+
+
+*§ 24-06 Nursing Homes.* ::
+
+
+(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
+
+(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
+
+
+
 
 Chapter 25: Service of Final Orders In Assisted Outpatient Treatment
 --------------------------------------------------

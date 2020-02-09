@@ -550,207 +550,6 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 
-Chapter 7: New York City Made In New York Film Production Tax Credit Program
---------------------------------------------------
-
-
-
-*§ 7-01 Purpose and General Description.* ::
-
-
-(a)  The purpose of these regulations is to set forth the application process for the New York City Made In New York Film Production Tax Credit program established by Local Law Number 2 of the Year 2005, as amended by Local Law No. 24 of the Year 2006, pursuant to subdivision (b) of § 1201-a of the Tax Law. The Mayor's Office of Film, Theatre and Broadcasting has authority to promulgate regulations to establish procedures for the allocation of such credits including, but not limited to, the application process, standards for application evaluations, and any other provisions deemed necessary and appropriate. The Mayor's Office of Film, Theatre and Broadcasting shall administer the program, including the issuance of tax credit certificates. These regulations do not govern the New York State film production tax credit program. Eligibility in and receipt of a tax credit in the New York State program does not guarantee eligibility in or receipt of a tax credit in the New York City Made In New York film production tax credit program. In addition, eligibility in and receipt of a tax credit in the New York City Made In New York film production tax credit program does not guarantee eligibility in or receipt of a tax credit in the New York State program.
-
-(b) A taxpayer which has been issued a certificate of tax credit shall be allowed to claim a New York City Made in New York film production tax credit pursuant to §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York, whichever is applicable.
-
-(c) Such tax credit shall only be allowed with respect to a qualified film that is completed on or after January 1, 2005. For this purpose, a film will be considered completed upon substantial completion of post-production.
-
-
-
-
-
-
-*§ 7-02 Definitions.* ::
-
-
-As used in this regulation, the following terms shall have the following meanings:
-
-(a) Authorized applicant. "Authorized applicant" means a qualified film production company that is scheduled to begin principal and ongoing photography on the qualified film no more than ninety (90) days after submitting an initial application to the Office and intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets.
-
-(b) Approved applicant. "Approved applicant" means an authorized applicant that has been issued a certificate of conditional eligibility by the Office.
-
-(c) Certificate of conditional eligibility. "Certificate of conditional eligibility" means a certificate issued by the Office which states that the authorized applicant has met the criteria set forth in 43 RCNY § 7-06(a) and is being considered for the New York City Made In New York film production tax credit, pending successful completion of the final application and issuance of a certificate of tax credit. Such certificate of conditional eligibility shall include, but not be limited to, the following information: name and address of the authorized applicant, effective date, taxpayer identification number, a statement that the initial application meets the appropriate criteria for conditional eligibility under this regulation and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
-
-(d) Certificate of tax credit. "Certificate of tax credit" means a certificate issued by the Office which states the amount of the New York City Made In New York film production tax credit that the approved applicant has qualified for, based on the Office's analysis under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such certificate shall include, but not be limited to, the following information: name and address of the approved applicant, name of the qualified film the credit applies to, the amount of the tax credit to be received by the approved applicant and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
-
-(e) Completeness of the application. "Completeness of the application" means that all questions on the application itself were fully addressed by either the authorized or approved applicant and that any additional substantiating documents that were requested by the Office were provided in a manner sufficient to allow the Office to properly evaluate the application.
-
-(f) Completion of production of a qualified film. "Completion of production of a qualified film" for purposes of paragraph (1) of subdivision (c) of 43 RCNY § 7-03 and paragraphs (4) and (5) of subdivision (b) of 43 RCNY § 7-06 and subdivision (k) of 43 RCNY § 7-02, means that post-production of a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for the striking of prints or electronic copies, and/or ready for broadcast or delivery to a distributor. All activities and expenses related to marketing and distribution, including the making of release prints, video dupes or other forms of copies, promotional images, and poster art are considered to occur after the production of a qualified film is completed.
-
-(g) Commissioner. "Commissioner" means the Commissioner of the City of New York Mayor's Office of Film, Theatre and Broadcasting.
-
-(h) Effective date. "Effective date" means the date the certificate of conditional eligibility becomes effective. Such date is determined by the date the initial application is received by the Office. In the event that the applicant's principal and ongoing photography on a qualified film does not actually begin within ninety (90) days of the submission of the initial application, the applicant's effective date will be recalculated to correspond to the date ninety (90) days prior to the date that the approved applicant submits, and the Office receives, a notification of actual commencement of principal and ongoing photography. If the actual commencement of principal and ongoing photography does not begin within one hundred eighty (180) days of submission of the initial application, the application shall no longer be deemed valid.
-
-(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the home video market that has a running time of at least seventy-five (75) minutes in length.
-
-(j) Film production facility. "Film production facility" means a building and/or complex of buildings and their improvements and associated back-lot facilities in which films are or are intended to be regularly produced and which contain at least one sound stage.
-
-(k) Final application. "Final application" means a document created by the Office and submitted by an approved applicant after it has completed production of a qualified film which contains information concerning actual expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but not be limited to: actual data with regard to the qualified film's total budget, the total production costs at film production facilities in and outside of New York, and the total number of shooting days in and outside of New York and any other information the Office determines is necessary to properly evaluate the application.
-
-(l) Initial application. "Initial application" means a document created by the Office and submitted by an authorized applicant which contains information concerning projected expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but is not limited to, the following information: the estimated total budget for the qualified film, estimates of expenditures at a qualifying production facility, estimates of shooting days and expenditures in New York City and outside of New York City and any other information the Office determines is necessary to properly evaluate the application.
-
-(m) Notification of actual commencement of principal and ongoing photography. "Notification of actual commencement of principal and ongoing photography" means the date the Office receives written notice from the approved applicant that the actual production of a qualified film, including the principal and ongoing photography, has commenced on a date specified in such notice, which date is on or before the date that the approved applicant has submitted such notice.
-
-(n) Office. "Office" means the City of New York Mayor's Office of Film, Theatre and Broadcasting.
-
-(o) Pre-production. "Pre-production" means the process of preparation for actual physical production which begins after a qualified film has received a firm agreement of financial commitment ("greenlit") with, for example, the establishment of a dedicated production office, the hiring of key crew members such as a Unit Production Manager, Line Producer and Location Manager, and includes, but is not limited to, activities such as location scouting, hiring of crew, and execution of contracts with vendors of equipment and stage space.
-
-(p) [Reserved.]
-
-(q) Priority number. "Priority number" means the number used by the Office to determine allocation of the New York City Made In New York film production tax credit. Priority number shall be based on the applicant's effective date; provided, however, that in the event that there is more than one initial application with the same effective date, priority shall be given to the authorized applicant with the earliest anticipated date of commencement of principal and ongoing photography. Provided further that if the principal and ongoing photography does not begin on the anticipated date, and the commencement date is within the one hundred eighty (180)-day limitation provided in subdivision (h) of this section, such priority number shall be recalculated based upon the date that the Office receives notification of actual commencement of principal and ongoing photography from the approved applicant.
-
-(r) Post-production. "Post-production" means the final stage in a qualified film's production after principal and ongoing photography is completed, including, but not limited to, editing, Foley recording, Automatic Dialogue Replacement, sound editing, special effects, scoring and music editing, beginning and end credits, negative cutting, soundtrack production, the addition of sound/visual effects, dubbing, and subtitling. Advertising and marketing activities and expenses are not included in post-production.
-
-(s) Premature application. "Premature application" means an initial application in which the Office reasonably determines that the applicant cannot commence principal and ongoing photography within ninety (90) days of the date the initial application was submitted. Such determination may, but is not required to, be based on, among other things, vagueness of the applicant's answers on the initial application and during the initial interview and lack of documentation supporting an applicant's initial application.
-
-(t) Principal and ongoing photography. "Principal and ongoing photography" means the filming of major and significant portions of a qualified film that involves the lead actors.
-
-(u) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. Production costs shall not include (i) costs for a story, script or scenario to be used for a qualified film and (ii) wages or salaries or other compensation for writers, directors, including music directors, producers, actors and performers (other than background actors or other performers with no scripted lines). Production costs generally include technical and crew production costs, such as expenditures for film production facilities, or any part thereof, props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
-
-(v) Qualified film. "Qualified film" means a feature-length film, television film, television pilot and/or each episode of a television series, regardless of the medium by means of which the film, pilot or episode is created or conveyed. Qualified film shall not include (i) a documentary film, news or current affairs program, interview or talk program, magazine program, variety or skit program, "how-to" (i.e., instructional) film or program, film or program consisting primarily of stock footage, sporting event or sporting program, game show, award ceremony, film or program intended primarily for industrial, corporate or institutional end-users, fundraising film or program, daytime drama (i.e., daytime "soap opera"), commercials, music videos or "reality" program or (ii) a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
-
-(w) Qualified film production company. "Qualified film production company" means a corporation, partnership, limited partnership, or other entity or individual which or who is principally engaged in the production of a qualified film and controls the qualified film during production and is responsible for payment of the direct production expenses (including pre and post-production) and is a signatory to the qualified film's contracts with its payroll company and facility operators.
-
-(x) Qualified film production facility. "Qualified film production facility" means a film production facility in New York City, which contains at least one sound stage having a minimum of seven thousand square feet of contiguous production space.
-
-(y) Qualified production costs. "Qualified production costs" means production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
-
-(z) Sound stage. "Sound stage" means a large interior room or space which provides a controlled environment in which filming takes place on sets built or assembled specifically for the production.
-
-(aa) Television film. "Television film", which may also be known as "movie-of-the-week," "mow," "made for television movie," or "mini-series," means a production intended for broadcast on television, whether free or via a subscription-based service, that has a running time of at least ninety (90) minutes in length (inclusive of commercial advertisement and interstitial programming).
-
-(bb) Television pilot. "Television pilot" means the initial episode produced for a proposed episodic television series. This category will include shorter formats which are known as "television presentation," a production of at least fifteen (15) minutes in length, produced for the purposes of selling a proposed television series, but not intended for broadcast.
-
-(cc) Television series. "Television series", which may also be known as "episodic television series," means a regularly occurring production intended in its initial run for broadcast no more than once weekly, on television, whether free or via subscription-based service, that has a running time of at least thirty (30) minutes in length (inclusive of commercial advertisement and interstitial programming).
-
-
-
-
-
-
-*§ 7-03 Application Process.* ::
-
-
-For the purposes of this Chapter, only an authorized applicant shall be eligible to apply for the New York City Made In New York film production tax credit.
-
-(a) Initial application.
-
-   (1) An authorized applicant shall submit an initial application to the Office prior to the start of principal and ongoing photography.
-
-   (2) The authorized applicant shall have an interview with the Office to discuss the details of the initial application. A producer and either the line producer, unit production manager, production accountant or their designee, approved by the Office, shall attend such meeting.
-
-   (3) The Office shall approve or disapprove the initial application based upon criteria set forth in 43 RCNY § 7-06(a).
-
-   (4) If the initial application is approved, the Office shall issue a certificate of conditional eligibility to the authorized applicant. The Office shall provide a copy of such certificate of conditional eligibility to the Department of Finance. If the initial application is disapproved, the Office shall provide the authorized applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the authorized applicant's initial application. If the initial application is disapproved as premature, an authorized applicant may resubmit the application.
-
-   (5) Applications shall be reviewed by the Office in the order they are received.
-
-(b) Notification. The approved applicant shall notify the Office, in writing, on the date principal and ongoing photography begins on the qualified film. In addition, the approved applicant shall provide a sign off budget or its equivalent and other supporting documents requested by the Office on this date.
-
-(c) Final application.
-
-   (1) Within ninety (90) days after the completion of production of a qualified film, or, if a written extension request is submitted, one hundred fifty (150) days after the completion of production, the approved applicant shall submit a final application to the Office.
-
-   (2) The Office shall approve or disapprove the final application based upon criteria set forth in 43 RCNY § 7-06(b). The Office may request additional documentation, including copies of receipts of qualified production costs, in connection with its consideration of the final application. If the final application is approved, the Office shall issue a certificate of tax credit to the approved applicant. The Office shall provide a copy of such certificate of tax credit to the Department of Finance. If the final application is disapproved, the Office shall provide the applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the applicant's final application.
-
-
-
-
-
-
-*§ 7-04 [Reserved]* ::
-
-
-The Office shall allocate the amount of the credits allocated for each calendar year in order of priority based upon an applicant's effective date. In the event that an approved applicant's New York City Made In New York production tax credit would exceed the maximum amount of credits allowed for that given year, the approved applicant will be allocated credits on a priority basis in the immediately succeeding calendar year. A maximum of $12.5 million of credits may be allocated in 2004 and 2005, and $30 million in 2006 through 2011.
-
-
-
-
-
-
-*§ 7-06 Criteria for Evaluation of Applications.* ::
-
-
-(a)  Initial application. In the event that any of the following criteria are not met, or in the event that the Office concludes that the authorized applicant knowingly submitted false or misleading information, the Office shall disapprove the initial application:
-
-   (1) the application is substantially complete;
-
-   (2) the application is not premature and is submitted prior to the start of principal and ongoing photography;
-
-   (3) the application is submitted within one hundred eighty (180) days of the start of the principal and ongoing photography;
-
-   (4) the authorized applicant is a qualified film production company;
-
-   (5) the authorized applicant intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
-
-   (6) the authorized applicant is planning to produce a qualified film;
-
-   (7) the qualified film will be completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
-
-   (8) the authorized applicant's projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are likely to equal or exceed seventy-five percent of the projected production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
-
-   (9) in the event that the projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film are expected to equal or exceed seventy-five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film.
-
-(b) Final application. In the event that any of the following criteria are not met, or the Office determines that the approved applicant knowingly submitted false or misleading information, the Office shall disapprove the final application:
-
-   (1) the application is substantially complete;
-
-   (2) the approved applicant shot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
-
-   (3) the application is submitted with respect to a completed qualified film that was completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
-
-   (4) the approved applicant's actual date of completion of production of the qualified film was within one year of its projected completion date;
-
-   (5) the final application was submitted within ninety (90) days after the completion of production of a qualified film, or, if a written extension request has been submitted, one hundred fifty (150) days after the completion of production;
-
-   (6) the approved applicant's actual qualified production costs paid or incurred (excluding post-production costs) which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of the qualified film equaled or exceeded seventy-five percent of the production costs (excluding post-production costs) paid or incurred that were attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
-
-   (7) in the event that the actual qualified production costs (excluding post-production costs) paid or incurred that are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film equaled or exceeded seventy five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film. If the shooting days spent in New York equaled or exceeded the seventy five percent threshold, the Office shall include in their calculation of the New York City Made In New York film production tax credit the portion of qualified production costs attributable to the use of tangible property or the performance of services in the production of a qualified film outside of a qualified film production facility.
-
-(c) For purposes of this section, the Office may consider whether an authorized applicant executes or has executed an agreement with the Office that obligates the authorized applicant to include the Office's "Made In New York" logo in the screen credits of the qualified film indicating receipt of the tax credit.
-
-
-
-
-
-
-*§ 7-07 Record Retention.* ::
-
-
-Each authorized and approved applicant must maintain records, in paper or electronic form, of any qualified productions costs used to calculate its potential or actual benefit(s) under this program for a minimum of three years from the date of filing of the tax return on which the applicant claims the tax credit. The Office shall have the right to request such records upon reasonable notice.
-
-
-
-
-
-
-*§ 7-08 Appeal Process.* ::
-
-
-If the authorized applicant's initial application or an approved applicant's final application is disapproved by the Office, or if the approved applicant disagrees with the amount of the tax credit granted by the Office, the applicant may appeal such determination. In the case of an appeal from a disapproval of an initial or final application, such appeal shall be made by sending a letter to the City of New York Mayor's Office of Film, Theatre and Broadcasting, Attn: Commissioner, 1697 Broadway, New York, NY 10019, within thirty (30) days from the date of the denial letter issued by the Office. In the case of an appeal from a determination of the amount of the tax credit, such appeal shall be made by sending a letter to the same address as listed above within thirty (30) days from the date of issuance of the certificate of tax credit. Failure to request an appeal within thirty (30) days will finalize the denial decision and/or the amount of the tax credit. Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review. Such appeal officer will make a report on the appeal to the Commissioner. The Commissioner or his designee shall issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appellant within ten (10) days after the date the Commissioner or his designee renders the final order.
-
-
-
-
-
-
-*§ 7-09 Applicability.* ::
-
-
-The amendments made by the rules that added this section shall not apply to initial or final applications submitted prior to the effective date of such amendments, with the exception of the amendments made to 43 RCNY § 7-05 by § 4 of such rules.
-
-
-
-
 Chapter 6: City Environmental Quality Review (CEQR) [Executive Order No. 91 of 1977, As Amended]
 --------------------------------------------------
 
@@ -1256,6 +1055,207 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
    (2) [Inapplicable. Replaced by State Type II list 6 NYCRR Part 617.13. See City Planning Rules 43 RCNY § 5-02(a) and 43 RCNY § 5-02(b)(2).] Pursuant to SEQRA, as amended, a list of Type II actions shall be promulgated prior to July 1, 1978, to become effective on September 1, 1978.
 
 Effective Date.[See new City Planning transition Rules 43 RCNY § 5-08 and 43 RCNY § 5-11. New Rules effective Oct. 1, 1991.]
+
+
+
+
+Chapter 7: New York City Made In New York Film Production Tax Credit Program
+--------------------------------------------------
+
+
+
+*§ 7-01 Purpose and General Description.* ::
+
+
+(a)  The purpose of these regulations is to set forth the application process for the New York City Made In New York Film Production Tax Credit program established by Local Law Number 2 of the Year 2005, as amended by Local Law No. 24 of the Year 2006, pursuant to subdivision (b) of § 1201-a of the Tax Law. The Mayor's Office of Film, Theatre and Broadcasting has authority to promulgate regulations to establish procedures for the allocation of such credits including, but not limited to, the application process, standards for application evaluations, and any other provisions deemed necessary and appropriate. The Mayor's Office of Film, Theatre and Broadcasting shall administer the program, including the issuance of tax credit certificates. These regulations do not govern the New York State film production tax credit program. Eligibility in and receipt of a tax credit in the New York State program does not guarantee eligibility in or receipt of a tax credit in the New York City Made In New York film production tax credit program. In addition, eligibility in and receipt of a tax credit in the New York City Made In New York film production tax credit program does not guarantee eligibility in or receipt of a tax credit in the New York State program.
+
+(b) A taxpayer which has been issued a certificate of tax credit shall be allowed to claim a New York City Made in New York film production tax credit pursuant to §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York, whichever is applicable.
+
+(c) Such tax credit shall only be allowed with respect to a qualified film that is completed on or after January 1, 2005. For this purpose, a film will be considered completed upon substantial completion of post-production.
+
+
+
+
+
+
+*§ 7-02 Definitions.* ::
+
+
+As used in this regulation, the following terms shall have the following meanings:
+
+(a) Authorized applicant. "Authorized applicant" means a qualified film production company that is scheduled to begin principal and ongoing photography on the qualified film no more than ninety (90) days after submitting an initial application to the Office and intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets.
+
+(b) Approved applicant. "Approved applicant" means an authorized applicant that has been issued a certificate of conditional eligibility by the Office.
+
+(c) Certificate of conditional eligibility. "Certificate of conditional eligibility" means a certificate issued by the Office which states that the authorized applicant has met the criteria set forth in 43 RCNY § 7-06(a) and is being considered for the New York City Made In New York film production tax credit, pending successful completion of the final application and issuance of a certificate of tax credit. Such certificate of conditional eligibility shall include, but not be limited to, the following information: name and address of the authorized applicant, effective date, taxpayer identification number, a statement that the initial application meets the appropriate criteria for conditional eligibility under this regulation and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
+
+(d) Certificate of tax credit. "Certificate of tax credit" means a certificate issued by the Office which states the amount of the New York City Made In New York film production tax credit that the approved applicant has qualified for, based on the Office's analysis under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such certificate shall include, but not be limited to, the following information: name and address of the approved applicant, name of the qualified film the credit applies to, the amount of the tax credit to be received by the approved applicant and a disclaimer stating that actual receipt of the tax credit is subject to availability of City funds for the program.
+
+(e) Completeness of the application. "Completeness of the application" means that all questions on the application itself were fully addressed by either the authorized or approved applicant and that any additional substantiating documents that were requested by the Office were provided in a manner sufficient to allow the Office to properly evaluate the application.
+
+(f) Completion of production of a qualified film. "Completion of production of a qualified film" for purposes of paragraph (1) of subdivision (c) of 43 RCNY § 7-03 and paragraphs (4) and (5) of subdivision (b) of 43 RCNY § 7-06 and subdivision (k) of 43 RCNY § 7-02, means that post-production of a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for the striking of prints or electronic copies, and/or ready for broadcast or delivery to a distributor. All activities and expenses related to marketing and distribution, including the making of release prints, video dupes or other forms of copies, promotional images, and poster art are considered to occur after the production of a qualified film is completed.
+
+(g) Commissioner. "Commissioner" means the Commissioner of the City of New York Mayor's Office of Film, Theatre and Broadcasting.
+
+(h) Effective date. "Effective date" means the date the certificate of conditional eligibility becomes effective. Such date is determined by the date the initial application is received by the Office. In the event that the applicant's principal and ongoing photography on a qualified film does not actually begin within ninety (90) days of the submission of the initial application, the applicant's effective date will be recalculated to correspond to the date ninety (90) days prior to the date that the approved applicant submits, and the Office receives, a notification of actual commencement of principal and ongoing photography. If the actual commencement of principal and ongoing photography does not begin within one hundred eighty (180) days of submission of the initial application, the application shall no longer be deemed valid.
+
+(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the home video market that has a running time of at least seventy-five (75) minutes in length.
+
+(j) Film production facility. "Film production facility" means a building and/or complex of buildings and their improvements and associated back-lot facilities in which films are or are intended to be regularly produced and which contain at least one sound stage.
+
+(k) Final application. "Final application" means a document created by the Office and submitted by an approved applicant after it has completed production of a qualified film which contains information concerning actual expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but not be limited to: actual data with regard to the qualified film's total budget, the total production costs at film production facilities in and outside of New York, and the total number of shooting days in and outside of New York and any other information the Office determines is necessary to properly evaluate the application.
+
+(l) Initial application. "Initial application" means a document created by the Office and submitted by an authorized applicant which contains information concerning projected expenditures regarding a qualified film that could make it eligible for the New York City Made In New York film production tax credit under §§ 11-503(m) or 11-604(20) of the Administrative Code of the City of New York and the provisions of this chapter. Such application shall include, but is not limited to, the following information: the estimated total budget for the qualified film, estimates of expenditures at a qualifying production facility, estimates of shooting days and expenditures in New York City and outside of New York City and any other information the Office determines is necessary to properly evaluate the application.
+
+(m) Notification of actual commencement of principal and ongoing photography. "Notification of actual commencement of principal and ongoing photography" means the date the Office receives written notice from the approved applicant that the actual production of a qualified film, including the principal and ongoing photography, has commenced on a date specified in such notice, which date is on or before the date that the approved applicant has submitted such notice.
+
+(n) Office. "Office" means the City of New York Mayor's Office of Film, Theatre and Broadcasting.
+
+(o) Pre-production. "Pre-production" means the process of preparation for actual physical production which begins after a qualified film has received a firm agreement of financial commitment ("greenlit") with, for example, the establishment of a dedicated production office, the hiring of key crew members such as a Unit Production Manager, Line Producer and Location Manager, and includes, but is not limited to, activities such as location scouting, hiring of crew, and execution of contracts with vendors of equipment and stage space.
+
+(p) [Reserved.]
+
+(q) Priority number. "Priority number" means the number used by the Office to determine allocation of the New York City Made In New York film production tax credit. Priority number shall be based on the applicant's effective date; provided, however, that in the event that there is more than one initial application with the same effective date, priority shall be given to the authorized applicant with the earliest anticipated date of commencement of principal and ongoing photography. Provided further that if the principal and ongoing photography does not begin on the anticipated date, and the commencement date is within the one hundred eighty (180)-day limitation provided in subdivision (h) of this section, such priority number shall be recalculated based upon the date that the Office receives notification of actual commencement of principal and ongoing photography from the approved applicant.
+
+(r) Post-production. "Post-production" means the final stage in a qualified film's production after principal and ongoing photography is completed, including, but not limited to, editing, Foley recording, Automatic Dialogue Replacement, sound editing, special effects, scoring and music editing, beginning and end credits, negative cutting, soundtrack production, the addition of sound/visual effects, dubbing, and subtitling. Advertising and marketing activities and expenses are not included in post-production.
+
+(s) Premature application. "Premature application" means an initial application in which the Office reasonably determines that the applicant cannot commence principal and ongoing photography within ninety (90) days of the date the initial application was submitted. Such determination may, but is not required to, be based on, among other things, vagueness of the applicant's answers on the initial application and during the initial interview and lack of documentation supporting an applicant's initial application.
+
+(t) Principal and ongoing photography. "Principal and ongoing photography" means the filming of major and significant portions of a qualified film that involves the lead actors.
+
+(u) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. Production costs shall not include (i) costs for a story, script or scenario to be used for a qualified film and (ii) wages or salaries or other compensation for writers, directors, including music directors, producers, actors and performers (other than background actors or other performers with no scripted lines). Production costs generally include technical and crew production costs, such as expenditures for film production facilities, or any part thereof, props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
+
+(v) Qualified film. "Qualified film" means a feature-length film, television film, television pilot and/or each episode of a television series, regardless of the medium by means of which the film, pilot or episode is created or conveyed. Qualified film shall not include (i) a documentary film, news or current affairs program, interview or talk program, magazine program, variety or skit program, "how-to" (i.e., instructional) film or program, film or program consisting primarily of stock footage, sporting event or sporting program, game show, award ceremony, film or program intended primarily for industrial, corporate or institutional end-users, fundraising film or program, daytime drama (i.e., daytime "soap opera"), commercials, music videos or "reality" program or (ii) a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
+
+(w) Qualified film production company. "Qualified film production company" means a corporation, partnership, limited partnership, or other entity or individual which or who is principally engaged in the production of a qualified film and controls the qualified film during production and is responsible for payment of the direct production expenses (including pre and post-production) and is a signatory to the qualified film's contracts with its payroll company and facility operators.
+
+(x) Qualified film production facility. "Qualified film production facility" means a film production facility in New York City, which contains at least one sound stage having a minimum of seven thousand square feet of contiguous production space.
+
+(y) Qualified production costs. "Qualified production costs" means production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
+
+(z) Sound stage. "Sound stage" means a large interior room or space which provides a controlled environment in which filming takes place on sets built or assembled specifically for the production.
+
+(aa) Television film. "Television film", which may also be known as "movie-of-the-week," "mow," "made for television movie," or "mini-series," means a production intended for broadcast on television, whether free or via a subscription-based service, that has a running time of at least ninety (90) minutes in length (inclusive of commercial advertisement and interstitial programming).
+
+(bb) Television pilot. "Television pilot" means the initial episode produced for a proposed episodic television series. This category will include shorter formats which are known as "television presentation," a production of at least fifteen (15) minutes in length, produced for the purposes of selling a proposed television series, but not intended for broadcast.
+
+(cc) Television series. "Television series", which may also be known as "episodic television series," means a regularly occurring production intended in its initial run for broadcast no more than once weekly, on television, whether free or via subscription-based service, that has a running time of at least thirty (30) minutes in length (inclusive of commercial advertisement and interstitial programming).
+
+
+
+
+
+
+*§ 7-03 Application Process.* ::
+
+
+For the purposes of this Chapter, only an authorized applicant shall be eligible to apply for the New York City Made In New York film production tax credit.
+
+(a) Initial application.
+
+   (1) An authorized applicant shall submit an initial application to the Office prior to the start of principal and ongoing photography.
+
+   (2) The authorized applicant shall have an interview with the Office to discuss the details of the initial application. A producer and either the line producer, unit production manager, production accountant or their designee, approved by the Office, shall attend such meeting.
+
+   (3) The Office shall approve or disapprove the initial application based upon criteria set forth in 43 RCNY § 7-06(a).
+
+   (4) If the initial application is approved, the Office shall issue a certificate of conditional eligibility to the authorized applicant. The Office shall provide a copy of such certificate of conditional eligibility to the Department of Finance. If the initial application is disapproved, the Office shall provide the authorized applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the authorized applicant's initial application. If the initial application is disapproved as premature, an authorized applicant may resubmit the application.
+
+   (5) Applications shall be reviewed by the Office in the order they are received.
+
+(b) Notification. The approved applicant shall notify the Office, in writing, on the date principal and ongoing photography begins on the qualified film. In addition, the approved applicant shall provide a sign off budget or its equivalent and other supporting documents requested by the Office on this date.
+
+(c) Final application.
+
+   (1) Within ninety (90) days after the completion of production of a qualified film, or, if a written extension request is submitted, one hundred fifty (150) days after the completion of production, the approved applicant shall submit a final application to the Office.
+
+   (2) The Office shall approve or disapprove the final application based upon criteria set forth in 43 RCNY § 7-06(b). The Office may request additional documentation, including copies of receipts of qualified production costs, in connection with its consideration of the final application. If the final application is approved, the Office shall issue a certificate of tax credit to the approved applicant. The Office shall provide a copy of such certificate of tax credit to the Department of Finance. If the final application is disapproved, the Office shall provide the applicant with a notice of disapproval which shall state the reasons therefor. Such disapproval shall be a rejection of the applicant's final application.
+
+
+
+
+
+
+*§ 7-04 [Reserved]* ::
+
+
+The Office shall allocate the amount of the credits allocated for each calendar year in order of priority based upon an applicant's effective date. In the event that an approved applicant's New York City Made In New York production tax credit would exceed the maximum amount of credits allowed for that given year, the approved applicant will be allocated credits on a priority basis in the immediately succeeding calendar year. A maximum of $12.5 million of credits may be allocated in 2004 and 2005, and $30 million in 2006 through 2011.
+
+
+
+
+
+
+*§ 7-06 Criteria for Evaluation of Applications.* ::
+
+
+(a)  Initial application. In the event that any of the following criteria are not met, or in the event that the Office concludes that the authorized applicant knowingly submitted false or misleading information, the Office shall disapprove the initial application:
+
+   (1) the application is substantially complete;
+
+   (2) the application is not premature and is submitted prior to the start of principal and ongoing photography;
+
+   (3) the application is submitted within one hundred eighty (180) days of the start of the principal and ongoing photography;
+
+   (4) the authorized applicant is a qualified film production company;
+
+   (5) the authorized applicant intends to shoot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
+
+   (6) the authorized applicant is planning to produce a qualified film;
+
+   (7) the qualified film will be completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
+
+   (8) the authorized applicant's projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are likely to equal or exceed seventy-five percent of the projected production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
+
+   (9) in the event that the projected qualified production costs (excluding post-production costs) paid or incurred which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film are expected to equal or exceed seventy-five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film.
+
+(b) Final application. In the event that any of the following criteria are not met, or the Office determines that the approved applicant knowingly submitted false or misleading information, the Office shall disapprove the final application:
+
+   (1) the application is substantially complete;
+
+   (2) the approved applicant shot a portion of principal and ongoing photography on a stage at a qualified film production facility on a set or sets;
+
+   (3) the application is submitted with respect to a completed qualified film that was completed on or after January 1, 2005, within the meaning of subdivision (c) of 43 RCNY § 7-01;
+
+   (4) the approved applicant's actual date of completion of production of the qualified film was within one year of its projected completion date;
+
+   (5) the final application was submitted within ninety (90) days after the completion of production of a qualified film, or, if a written extension request has been submitted, one hundred fifty (150) days after the completion of production;
+
+   (6) the approved applicant's actual qualified production costs paid or incurred (excluding post-production costs) which are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of the qualified film equaled or exceeded seventy-five percent of the production costs (excluding post-production costs) paid or incurred that were attributable to the use of tangible property or the performance of services at any film production facility within and without the City in the production of the qualified film; and
+
+   (7) in the event that the actual qualified production costs (excluding post-production costs) paid or incurred that are attributable to the use of tangible property or the performance of services at a qualified film production facility in the production of a qualified film are less than three million dollars, the shooting days spent in New York outside of a film production facility in the production of a qualified film equaled or exceeded seventy five percent of the total shooting days spent within and without New York outside of a film production facility in the production of such qualified film. If the shooting days spent in New York equaled or exceeded the seventy five percent threshold, the Office shall include in their calculation of the New York City Made In New York film production tax credit the portion of qualified production costs attributable to the use of tangible property or the performance of services in the production of a qualified film outside of a qualified film production facility.
+
+(c) For purposes of this section, the Office may consider whether an authorized applicant executes or has executed an agreement with the Office that obligates the authorized applicant to include the Office's "Made In New York" logo in the screen credits of the qualified film indicating receipt of the tax credit.
+
+
+
+
+
+
+*§ 7-07 Record Retention.* ::
+
+
+Each authorized and approved applicant must maintain records, in paper or electronic form, of any qualified productions costs used to calculate its potential or actual benefit(s) under this program for a minimum of three years from the date of filing of the tax return on which the applicant claims the tax credit. The Office shall have the right to request such records upon reasonable notice.
+
+
+
+
+
+
+*§ 7-08 Appeal Process.* ::
+
+
+If the authorized applicant's initial application or an approved applicant's final application is disapproved by the Office, or if the approved applicant disagrees with the amount of the tax credit granted by the Office, the applicant may appeal such determination. In the case of an appeal from a disapproval of an initial or final application, such appeal shall be made by sending a letter to the City of New York Mayor's Office of Film, Theatre and Broadcasting, Attn: Commissioner, 1697 Broadway, New York, NY 10019, within thirty (30) days from the date of the denial letter issued by the Office. In the case of an appeal from a determination of the amount of the tax credit, such appeal shall be made by sending a letter to the same address as listed above within thirty (30) days from the date of issuance of the certificate of tax credit. Failure to request an appeal within thirty (30) days will finalize the denial decision and/or the amount of the tax credit. Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review. Such appeal officer will make a report on the appeal to the Commissioner. The Commissioner or his designee shall issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appellant within ten (10) days after the date the Commissioner or his designee renders the final order.
+
+
+
+
+
+
+*§ 7-09 Applicability.* ::
+
+
+The amendments made by the rules that added this section shall not apply to initial or final applications submitted prior to the effective date of such amendments, with the exception of the amendments made to 43 RCNY § 7-05 by § 4 of such rules.
 
 
 
@@ -2975,199 +2975,6 @@ The authorization to attorneys appointed to represent indigent persons to obtain
 
 
 Attorneys on the Criminal Panels representing or who have represented indigent persons pursuant to Article 18-B of the County Law and this chapter, and investigators, experts, and other persons providing or who have provided services in accordance with Article 18-B of the County Law and this chapter shall apply to the court in which the representation was furnished or services provided pursuant to sections 722-b and 722-c of the County Law to fix his or her reasonable compensation for such representation or services. Applications shall be made on the appropriate voucher form or template promulgated by the OACP. Vouchers shall be signed by the judge presiding or who presided in the matter in which the attorney provided representation or the person provided ancillary services, approving the amount for which payment is being sought by the voucher, and shall be submitted to the OACP for review prior to payment by the comptroller.
-
-
-
-
-Chapter 15: New York City 'Made In New York Marketing Credit Program'
---------------------------------------------------
-
-
-
-*§ 15-01 Purpose and general description.* ::
-
-
-(a) The "Made in New York Marketing Credit Program" ("the Program"), established and administered by the Mayor's Office of Media and Entertainment ("MOME"), offers "Made in New York" film and television productions a number of opportunities to promote their project in major media markets that are City-Owned assets or are privately owned and operated media outlets with which the City has established relationships. Qualified "Made in New York" productions that apply and are approved for this Program will be provided media outlets including, but not limited to, bus shelters, subway cars, and broadcasts on New York City Media group television stations. The amount of media advertising offered will be determined by certain production costs as defined in this rule. In exchange for the marketing credits, recipients will be required to make a monetary contribution to a New York City cultural institution approved by the New York City Department of Cultural Affairs or a non-profit organization with proposals for program funding on a Participatory Budgeting New York City ballot. The "Made in NY" logo must be included in all media advertising.
-
-(b) The purpose of this rule is to outline the application process for the Program. These procedures govern the allocation of marketing credits, including the application process, standards for assessing evaluations, and other provisions necessary and appropriate for fulfilling the purposes of the Program.
-
-(c) In order to receive the marketing credit, a marketing credit recipient must donate a Community Benefit to a New York City cultural institution or non-profit organization within thirty (30) days of completion of the authorized applicant's media campaign.
-
-
-
-
-
-
-
-
-*§ 15-02 Definitions.* ::
-
-
-As used in this rule, the following terms have the following meanings:
-
-(a) Application form. "Application form" means the document created by the Office that is submitted by an authorized applicant to receive "Made in New York Marketing Credit Program" credit after it has completed production of a qualified film. The application form will include a list of non-profit cultural institutions and community organizations approved by the New York City Department of Cultural Affairs and Participatory Budgeting New York City, respectively, as eligible for Program donations.
-
-(b) Authorized applicant. "Authorized applicant" means a qualified film/television production and/or distribution company that is distributing a qualified film.
-
-(c) Certificate of marketing credit. "Certificate of marketing credit" means a certificate issued by the Office which establishes the amount of media assets for which the approved applicant has qualified, based on the Office's analysis according to the provisions of this chapter. The certificate will include such information as name and address of the authorized applicant; name of the qualified film in connection with which the credit applies; the amount of media assets to be received by the approved applicant; and a disclaimer stating that actual receipt of the marketing credit is subject to availability of media assets for the Program.
-
-(d) Completion of the application. "Completion of the application" means that all questions on an application have been fully addressed by an authorized applicant and that any additional supporting documents requested by the Office have been provided in a manner sufficient to allow the Office to properly evaluate the application.
-
-(e) Commissioner. "Commissioner" means the Commissioner of the New York City Office of Media and Entertainment.
-
-(f) Community Benefit. "Community Benefit" means a monetary contribution to a New York City cultural institution or community organization of (1) a minimum of $10,000 (ten thousand dollars) for any qualified film with qualified production costs equal to $10,000,000 (ten million dollars) or more, or (2) 0.1% (one-tenth per cent) of the qualified production costs for any qualified film having qualified production costs less than $10,000,000 (ten million dollars).
-
-(g) Effective date. "Effective date" means the date of the first usage of the marketing credit, i.e., when media assets are first utilized. The effective date is determined by the authorized applicant based on media asset availability provided by the Office.
-
-(h) End credit requirements. “End credit requirements” means those acknowledgements that an authorized applicant agrees to include in each qualified film as a condition for participation in the Program. Each qualified film must include in the end credits: (1) the “Made in NY” logo; and (2) the phrase “The ‘Made in NY’ logo is a trademark of the City of New York and is used with the City’s permission.”
-
-(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the public that is sixty (60) minutes or longer in length.
-
-(j) Marketing credit. "Marketing credit" means an allocation of media assets available free of charge to a qualified film.
-
-(k) Media asset. "Media asset" means available advertising media including, but not limited to, bus shelters, subway cars, taxi TV, and broadcasts on New York City Media group television stations that the Office makes available for this purpose.
-
-(l) New York City cultural institution or community organization. "New York City cultural institution or non-profit community organization" means an Internal Revenue Code § 501(c)(3) non-profit organization identified by the New York City Department of Cultural Affairs or through Participatory Budgeting New York City as an organization which supports and strengthens New York City's creative community or neighborhoods.
-
-(m) Office or MOME. "Office" or "MOME" means the New York City Mayor's Office of Media and Entertainment.
-
-(n) Priority number. "Priority number" means the number assigned by the Office to determine allocation of the marketing credit. "Priority number" will be based on the date an authorized applicant has submitted a completed application; provided, however, that in the event that there is more than one application with the same date, priority will be given to the authorized applicant having the earliest anticipated date of release of the qualified film.
-
-(o) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. "Production costs" do not include (1) costs for a story, script or scenario to be used for a qualified film or (2) wages, salaries or other compensation for writers, directors (including music directors), producers, actors and performers (other than background actors or other performers with no scripted lines). "Production costs" generally include below-the-line costs, as defined by industry standards, including but not limited to technical and crew production costs, such as expenditures for film production facilities props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
-
-(p) Qualified film. "Qualified film" means a feature-length film, television film, television special, and/or television series, regardless of the medium by means of which it is created or conveyed, of which: (1) 75% of its total shooting days take place in New York City, or (2) 75% of its production costs are "qualified production costs." A "qualified film" must have production costs of at least $400,000 and must have completed production no earlier than twenty-four (24) months prior to the date of application to the Program. A "qualified film", if distributed exclusively over the Internet, must be distributed through a paid subscription-based streaming service or advertiser supported streaming service. "Qualified film" does not include a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
-
-(q) Qualified film/television production and or distribution company. "Qualified film/television production and or distribution company" means a corporation, partnership, limited partnership, or other entity or individual that is principally engaged in the distribution of a qualified film, controls the qualified film during release, and is responsible for payment of the cultural component.
-
-(r) Qualified production costs. "Qualified production costs" means the below-the-line production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
-
-(s) Release of a qualified film. "Release of a qualified film" means that the post-production work in connection with a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for broadcast or delivery to a distributor.
-
-(t) Television film. "Television film", also known as "movie-of-the-week," "MOW," "made for television movie," or "mini-series," means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least sixty (60) minutes in length (exclusive of commercial advertisement and interstitial programming).
-
-(u) Television special. "Television special" means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length (exclusive of commercial advertisement and interstitial programming). "Television special" includes, but is not limited to, an awards show and a telethon.
-
-(v) Television series. "Television series" means a regularly occurring production on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length per episode (exclusive of commercial advertisement and interstitial programming). "Television series" includes, but is not limited to, late-night variety series, daily news series, situation comedies, single camera comedies, reality series, game shows, morning news and newsmagazine shows.
-
-
-
-
-
-
-
-
-*§ 15-03 Application process.* ::
-
-
-For the purposes of this chapter, only an authorized applicant will be eligible to apply for the New York City Made in New York Marketing Credit Program.
-
-(a) The application form required for the Program will be available on the Office's website, and must be completed and submitted by an authorized applicant to the Office through its U.S. postal mail or email address as set forth in the application form. In addition, applicants may submit such application through private delivery services including, but not limited to, Federal Express, United Postal Service (UPS) or private messenger. In addition to providing contact information including its name, postal address, electronic (email) address and fax number, the applicant must also submit information about total production costs at film production facilities in and outside of New York; the total number of shooting days in and outside of New York; and any other information the Office determines is necessary to properly evaluate the application.
-
-(b) An authorized applicant may submit an application for a qualified film that is a television series no more than once a year.
-
-(c) The authorized applicant must include information about the date that the qualified film is set to make its debut in theatres, on television, online, on DVD or any and all media. The application must be received at least sixty (60) days prior to the release date.
-
-(d) Applications will be reviewed by the Office in the order they are received.
-
-(e) The Office will approve or disapprove the application based upon criteria outlined in 43 RCNY § 15-04(a).
-
-(f) The Office will advise the authorized applicant about whether its request has been approved, by U.S. postal service or electronic mail, no later than twenty (20) business days from receipt of the application. The notification will inform the applicant of such approval or disapproval. If approved, the notification will inform the applicant the amount and type of media assets available for the promotional media campaign during the dates requested on the application.
-
-
-
-
-
-
-
-
-*§ 15-04 Evaluation of applications.* ::
-
-
-(a) In order to be approved for marketing credit, each of the following requirements must be satisfied:
-
-   (1) the application is substantially complete;
-
-   (2) the authorized applicant is a producer and/or distributor with a qualified film or television series;
-
-   (3) the authorized applicant's qualified production costs paid or incurred are attributable to the use of tangible property or the performance of services in the production of a qualified film;
-
-   (4) the authorized applicant has identified the cultural institution or community organization to which it will make a payment as part of the Program; and
-
-   (5) the authorized applicant intends to comply with the end credit requirements set forth in 43 RCNY § 15-02(h).
-
-(b) In the event that all of the criteria outlined in this section are not met, or in the event that the Office concludes that the authorized applicant has knowingly submitted false or misleading information, the Office will disapprove the application.
-
-
-
-
-
-
-
-
-*§ 15-05 Allocation of New York City Made in New York marketing credit.* ::
-
-
-(a) When an application has been approved the Office will allocate the credit in order of priority based upon submission date of an application and subject to the availability of media assets. In the event that an marketing credit recipient is unable to use the media assets after the credit has been allocated, such recipient will lose its "first come, first served" status and will be accommodated subject to availability without guarantee of reallocation.
-
-(b) The Office will allocate the credit based on a project's qualified production costs. The amount of qualified production costs will determine which of the following three tiers an applicant would qualify for:
-
-   Tier 1: Qualified production costs of $10 million (ten million dollars) or more
-
-   Tier 2: Qualified production costs of at least $5 million (five million dollars) and less than $10 million (ten million dollars)
-
-   Tier 3: Qualified production costs of at least $400,000 (four hundred thousand dollars) and less than $5 million (five million dollars)
-
-(c) Depending on the availability of media assets, the Office will determine the amount and type of media assets assigned to each tier, which will be allocated to marketing credit recipients according to their tier category.
-
-(d) Productions that have qualified production costs of $10 million or more, or are produced (i) by a company of which more than 5 percent of the beneficial ownership is owned directly or indirectly by a publicly traded entity, or (ii) by a company having more than $35 million in annual revenue, must pay for the costs, if any, of printing materials for distribution through the media assets assigned under the credit.
-
-(e) If a marketing credit recipient does not pay the Community Benefit within thirty (30) days of the completion of such recipient's media campaign, such recipient may be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
-
-
-
-
-
-
-
-
-*§ 15-06 Appeal process.* ::
-
-
-(a) If an authorized applicant's application is disapproved by the Office, or if a marketing credit recipient disagrees with the amount of the media assets granted by the Office, each such person or entity may appeal such determination.
-
-(b) In the case of an appeal from a disapproval of an application, an authorized applicant can request an appeal by sending a letter to the Mayor's Office of Media and Entertainment, Attn: Commissioner, to the address and by the means specified in the application form, within thirty (30) days from the date of the denial letter issued by the Office.
-
-(c) In the case of an appeal from a determination of the amount of media assets, a marketing credit recipient can request an appeal by sending a letter to the Commissioner as provided in Subdivision (b), within thirty (30) days from the date of issuance of the certificate of marketing credit.
-
-(d) If an authorized applicant or a marketing credit recipient fails to request an appeal within thirty (30) days of the Office's denial decision and/or allocated amount of media assets, such decision will be deemed final.
-
-(e) Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review the matter. The appeal officer may reverse, affirm or modify the original determination and provide a written explanation of his or her finding in a report to the Commissioner. The Commissioner or his or her designee must issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appealing person or entity within ten (10) days after the date the Commissioner or his or her designee renders the final order.
-
-
-
-
-
-
-
-
-*§ 15-07 Final report.* ::
-
-
-As part of the community benefit component of the Program, within thirty (30) days after the completion of a marketing credit recipient's media campaign, such recipient must submit to the Office by U.S. mail, email or fax, proof of payment to the identified New York City cultural institution, in the form of a cancelled check or letter of acknowledgment. Such recipients who have not satisfied this component of the Program will be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
-
-
-
-
-
-
-
-
-*§ 15-08 Record retention.* ::
-
-
-Each marketing credit recipient must maintain records, in paper or electronic form, of any qualified productions costs used to calculate the media assets received through this Program for a minimum of three years from the date of filing of the tax return applicable to the time period for which such recipient claims the marketing credit. The Office has the right to request such records upon reasonable notice.
-
-
 
 
 
@@ -5387,6 +5194,199 @@ c. Fee for Modifying Special Mixed Use Noise Requirements. An applicant requesti
    7. If the applicant disagrees with OER’s comments, the applicant must be given an opportunity to respond in writing, setting forth the applicant’s position regarding any additional information.
 
    8. Upon receipt and review of applicant submissions, OER will endeavor to issue a determination within thirty (30) days.
+
+
+
+
+
+
+Chapter 15: New York City 'Made In New York Marketing Credit Program'
+--------------------------------------------------
+
+
+
+*§ 15-01 Purpose and general description.* ::
+
+
+(a) The "Made in New York Marketing Credit Program" ("the Program"), established and administered by the Mayor's Office of Media and Entertainment ("MOME"), offers "Made in New York" film and television productions a number of opportunities to promote their project in major media markets that are City-Owned assets or are privately owned and operated media outlets with which the City has established relationships. Qualified "Made in New York" productions that apply and are approved for this Program will be provided media outlets including, but not limited to, bus shelters, subway cars, and broadcasts on New York City Media group television stations. The amount of media advertising offered will be determined by certain production costs as defined in this rule. In exchange for the marketing credits, recipients will be required to make a monetary contribution to a New York City cultural institution approved by the New York City Department of Cultural Affairs or a non-profit organization with proposals for program funding on a Participatory Budgeting New York City ballot. The "Made in NY" logo must be included in all media advertising.
+
+(b) The purpose of this rule is to outline the application process for the Program. These procedures govern the allocation of marketing credits, including the application process, standards for assessing evaluations, and other provisions necessary and appropriate for fulfilling the purposes of the Program.
+
+(c) In order to receive the marketing credit, a marketing credit recipient must donate a Community Benefit to a New York City cultural institution or non-profit organization within thirty (30) days of completion of the authorized applicant's media campaign.
+
+
+
+
+
+
+
+
+*§ 15-02 Definitions.* ::
+
+
+As used in this rule, the following terms have the following meanings:
+
+(a) Application form. "Application form" means the document created by the Office that is submitted by an authorized applicant to receive "Made in New York Marketing Credit Program" credit after it has completed production of a qualified film. The application form will include a list of non-profit cultural institutions and community organizations approved by the New York City Department of Cultural Affairs and Participatory Budgeting New York City, respectively, as eligible for Program donations.
+
+(b) Authorized applicant. "Authorized applicant" means a qualified film/television production and/or distribution company that is distributing a qualified film.
+
+(c) Certificate of marketing credit. "Certificate of marketing credit" means a certificate issued by the Office which establishes the amount of media assets for which the approved applicant has qualified, based on the Office's analysis according to the provisions of this chapter. The certificate will include such information as name and address of the authorized applicant; name of the qualified film in connection with which the credit applies; the amount of media assets to be received by the approved applicant; and a disclaimer stating that actual receipt of the marketing credit is subject to availability of media assets for the Program.
+
+(d) Completion of the application. "Completion of the application" means that all questions on an application have been fully addressed by an authorized applicant and that any additional supporting documents requested by the Office have been provided in a manner sufficient to allow the Office to properly evaluate the application.
+
+(e) Commissioner. "Commissioner" means the Commissioner of the New York City Office of Media and Entertainment.
+
+(f) Community Benefit. "Community Benefit" means a monetary contribution to a New York City cultural institution or community organization of (1) a minimum of $10,000 (ten thousand dollars) for any qualified film with qualified production costs equal to $10,000,000 (ten million dollars) or more, or (2) 0.1% (one-tenth per cent) of the qualified production costs for any qualified film having qualified production costs less than $10,000,000 (ten million dollars).
+
+(g) Effective date. "Effective date" means the date of the first usage of the marketing credit, i.e., when media assets are first utilized. The effective date is determined by the authorized applicant based on media asset availability provided by the Office.
+
+(h) End credit requirements. “End credit requirements” means those acknowledgements that an authorized applicant agrees to include in each qualified film as a condition for participation in the Program. Each qualified film must include in the end credits: (1) the “Made in NY” logo; and (2) the phrase “The ‘Made in NY’ logo is a trademark of the City of New York and is used with the City’s permission.”
+
+(i) Feature-length film. "Feature-length film" means a production intended for commercial distribution to a motion picture theater or directly to the public that is sixty (60) minutes or longer in length.
+
+(j) Marketing credit. "Marketing credit" means an allocation of media assets available free of charge to a qualified film.
+
+(k) Media asset. "Media asset" means available advertising media including, but not limited to, bus shelters, subway cars, taxi TV, and broadcasts on New York City Media group television stations that the Office makes available for this purpose.
+
+(l) New York City cultural institution or community organization. "New York City cultural institution or non-profit community organization" means an Internal Revenue Code § 501(c)(3) non-profit organization identified by the New York City Department of Cultural Affairs or through Participatory Budgeting New York City as an organization which supports and strengthens New York City's creative community or neighborhoods.
+
+(m) Office or MOME. "Office" or "MOME" means the New York City Mayor's Office of Media and Entertainment.
+
+(n) Priority number. "Priority number" means the number assigned by the Office to determine allocation of the marketing credit. "Priority number" will be based on the date an authorized applicant has submitted a completed application; provided, however, that in the event that there is more than one application with the same date, priority will be given to the authorized applicant having the earliest anticipated date of release of the qualified film.
+
+(o) Production costs. "Production costs" means any costs for tangible property used and services performed directly and predominantly (including pre-production and post-production) in the production of a qualified film. "Production costs" do not include (1) costs for a story, script or scenario to be used for a qualified film or (2) wages, salaries or other compensation for writers, directors (including music directors), producers, actors and performers (other than background actors or other performers with no scripted lines). "Production costs" generally include below-the-line costs, as defined by industry standards, including but not limited to technical and crew production costs, such as expenditures for film production facilities props, makeup, wardrobe, film processing, camera, sound recording, set construction, lighting, shooting, editing and meals.
+
+(p) Qualified film. "Qualified film" means a feature-length film, television film, television special, and/or television series, regardless of the medium by means of which it is created or conveyed, of which: (1) 75% of its total shooting days take place in New York City, or (2) 75% of its production costs are "qualified production costs." A "qualified film" must have production costs of at least $400,000 and must have completed production no earlier than twenty-four (24) months prior to the date of application to the Program. A "qualified film", if distributed exclusively over the Internet, must be distributed through a paid subscription-based streaming service or advertiser supported streaming service. "Qualified film" does not include a production for which records are required under § 2257 of Title 18, United States Code, to be maintained with respect to any performer in such production (reporting of books, films, etc. with respect to sexually explicit conduct).
+
+(q) Qualified film/television production and or distribution company. "Qualified film/television production and or distribution company" means a corporation, partnership, limited partnership, or other entity or individual that is principally engaged in the distribution of a qualified film, controls the qualified film during release, and is responsible for payment of the cultural component.
+
+(r) Qualified production costs. "Qualified production costs" means the below-the-line production costs only to the extent such costs are incurred directly in New York City and are attributable to the use of tangible property or the performance of services within New York City directly and predominantly in the production (including pre-production and post-production) of a qualified film.
+
+(s) Release of a qualified film. "Release of a qualified film" means that the post-production work in connection with a qualified film has been finished and a cut negative, video master or other final locked form of the qualified film is ready for broadcast or delivery to a distributor.
+
+(t) Television film. "Television film", also known as "movie-of-the-week," "MOW," "made for television movie," or "mini-series," means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least sixty (60) minutes in length (exclusive of commercial advertisement and interstitial programming).
+
+(u) Television special. "Television special" means a production intended for distribution on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length (exclusive of commercial advertisement and interstitial programming). "Television special" includes, but is not limited to, an awards show and a telethon.
+
+(v) Television series. "Television series" means a regularly occurring production on television, whether free or through a subscription-based service, or on the Internet through a subscription-based service, that has a running time of at least twenty (20) minutes in length per episode (exclusive of commercial advertisement and interstitial programming). "Television series" includes, but is not limited to, late-night variety series, daily news series, situation comedies, single camera comedies, reality series, game shows, morning news and newsmagazine shows.
+
+
+
+
+
+
+
+
+*§ 15-03 Application process.* ::
+
+
+For the purposes of this chapter, only an authorized applicant will be eligible to apply for the New York City Made in New York Marketing Credit Program.
+
+(a) The application form required for the Program will be available on the Office's website, and must be completed and submitted by an authorized applicant to the Office through its U.S. postal mail or email address as set forth in the application form. In addition, applicants may submit such application through private delivery services including, but not limited to, Federal Express, United Postal Service (UPS) or private messenger. In addition to providing contact information including its name, postal address, electronic (email) address and fax number, the applicant must also submit information about total production costs at film production facilities in and outside of New York; the total number of shooting days in and outside of New York; and any other information the Office determines is necessary to properly evaluate the application.
+
+(b) An authorized applicant may submit an application for a qualified film that is a television series no more than once a year.
+
+(c) The authorized applicant must include information about the date that the qualified film is set to make its debut in theatres, on television, online, on DVD or any and all media. The application must be received at least sixty (60) days prior to the release date.
+
+(d) Applications will be reviewed by the Office in the order they are received.
+
+(e) The Office will approve or disapprove the application based upon criteria outlined in 43 RCNY § 15-04(a).
+
+(f) The Office will advise the authorized applicant about whether its request has been approved, by U.S. postal service or electronic mail, no later than twenty (20) business days from receipt of the application. The notification will inform the applicant of such approval or disapproval. If approved, the notification will inform the applicant the amount and type of media assets available for the promotional media campaign during the dates requested on the application.
+
+
+
+
+
+
+
+
+*§ 15-04 Evaluation of applications.* ::
+
+
+(a) In order to be approved for marketing credit, each of the following requirements must be satisfied:
+
+   (1) the application is substantially complete;
+
+   (2) the authorized applicant is a producer and/or distributor with a qualified film or television series;
+
+   (3) the authorized applicant's qualified production costs paid or incurred are attributable to the use of tangible property or the performance of services in the production of a qualified film;
+
+   (4) the authorized applicant has identified the cultural institution or community organization to which it will make a payment as part of the Program; and
+
+   (5) the authorized applicant intends to comply with the end credit requirements set forth in 43 RCNY § 15-02(h).
+
+(b) In the event that all of the criteria outlined in this section are not met, or in the event that the Office concludes that the authorized applicant has knowingly submitted false or misleading information, the Office will disapprove the application.
+
+
+
+
+
+
+
+
+*§ 15-05 Allocation of New York City Made in New York marketing credit.* ::
+
+
+(a) When an application has been approved the Office will allocate the credit in order of priority based upon submission date of an application and subject to the availability of media assets. In the event that an marketing credit recipient is unable to use the media assets after the credit has been allocated, such recipient will lose its "first come, first served" status and will be accommodated subject to availability without guarantee of reallocation.
+
+(b) The Office will allocate the credit based on a project's qualified production costs. The amount of qualified production costs will determine which of the following three tiers an applicant would qualify for:
+
+   Tier 1: Qualified production costs of $10 million (ten million dollars) or more
+
+   Tier 2: Qualified production costs of at least $5 million (five million dollars) and less than $10 million (ten million dollars)
+
+   Tier 3: Qualified production costs of at least $400,000 (four hundred thousand dollars) and less than $5 million (five million dollars)
+
+(c) Depending on the availability of media assets, the Office will determine the amount and type of media assets assigned to each tier, which will be allocated to marketing credit recipients according to their tier category.
+
+(d) Productions that have qualified production costs of $10 million or more, or are produced (i) by a company of which more than 5 percent of the beneficial ownership is owned directly or indirectly by a publicly traded entity, or (ii) by a company having more than $35 million in annual revenue, must pay for the costs, if any, of printing materials for distribution through the media assets assigned under the credit.
+
+(e) If a marketing credit recipient does not pay the Community Benefit within thirty (30) days of the completion of such recipient's media campaign, such recipient may be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
+
+
+
+
+
+
+
+
+*§ 15-06 Appeal process.* ::
+
+
+(a) If an authorized applicant's application is disapproved by the Office, or if a marketing credit recipient disagrees with the amount of the media assets granted by the Office, each such person or entity may appeal such determination.
+
+(b) In the case of an appeal from a disapproval of an application, an authorized applicant can request an appeal by sending a letter to the Mayor's Office of Media and Entertainment, Attn: Commissioner, to the address and by the means specified in the application form, within thirty (30) days from the date of the denial letter issued by the Office.
+
+(c) In the case of an appeal from a determination of the amount of media assets, a marketing credit recipient can request an appeal by sending a letter to the Commissioner as provided in Subdivision (b), within thirty (30) days from the date of issuance of the certificate of marketing credit.
+
+(d) If an authorized applicant or a marketing credit recipient fails to request an appeal within thirty (30) days of the Office's denial decision and/or allocated amount of media assets, such decision will be deemed final.
+
+(e) Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review the matter. The appeal officer may reverse, affirm or modify the original determination and provide a written explanation of his or her finding in a report to the Commissioner. The Commissioner or his or her designee must issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appealing person or entity within ten (10) days after the date the Commissioner or his or her designee renders the final order.
+
+
+
+
+
+
+
+
+*§ 15-07 Final report.* ::
+
+
+As part of the community benefit component of the Program, within thirty (30) days after the completion of a marketing credit recipient's media campaign, such recipient must submit to the Office by U.S. mail, email or fax, proof of payment to the identified New York City cultural institution, in the form of a cancelled check or letter of acknowledgment. Such recipients who have not satisfied this component of the Program will be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
+
+
+
+
+
+
+
+
+*§ 15-08 Record retention.* ::
+
+
+Each marketing credit recipient must maintain records, in paper or electronic form, of any qualified productions costs used to calculate the media assets received through this Program for a minimum of three years from the date of filing of the tax return applicable to the time period for which such recipient claims the marketing credit. The Office has the right to request such records upon reasonable notice.
 
 
 

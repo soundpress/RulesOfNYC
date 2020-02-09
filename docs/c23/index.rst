@@ -1839,6 +1839,79 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
+Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted To the Board of Correction]
+--------------------------------------------------
+
+
+
+*§ 4-01 Definitions.* ::
+
+
+(a)  "Petition" shall mean a request or application for the Board of Correction ("the Board") to adopt a rule.
+
+(b) "Petitioner" shall mean the person or entity who files the petition.
+
+(c) "Rule" shall have the same meaning set forth in § 1041(5) of the New York City Charter.
+
+
+
+
+
+
+*§ 4-02 Scope.* ::
+
+
+This rule shall govern the procedures by which any person or entity may petition the Board to commence rulemaking pursuant to § 1043(f) of the New York City Charter and the procedure for submission, consideration and disposition of such petitions.
+
+
+
+
+
+
+*§ 4-03 Procedures for submitting petitions.* ::
+
+
+(a)  Any person or entity may petition the Board to consider the adoption of a rule.
+
+(b) A petition must contain the following information:
+
+   (1) the rule to be considered, with the proposed language for adoption;
+
+   (2) a statement of the Board's authority to promulgate the rule and its purpose;
+
+   (3) petitioner's arguments in support of adoption of the rule;
+
+   (4) the period of time the rule should be in effect;
+
+   (5) the name, address, email address and telephone number of the petitioner or his or her authorized representative;
+
+   (6) petitioner's signature or that of his or her authorized representative if the petition is submitted on paper or by facsimile.
+
+(c) Any change in the information provided pursuant to 40 RCNY § 4-03(b)(5) shall be communicated promptly in writing to the office of the Board's Executive Director.
+
+(d) Petitions shall be delivered, mailed or submitted by facsimile or electronic mail to the office of the Board's Executive Director.
+
+
+
+
+
+
+*§ 4-04 Procedures for responding to petitions.* ::
+
+
+(a)  Upon receipt of a petition in proper form, the Executive Director shall promptly forward it to the Board.
+
+(b) Within 60 days from the date a petition is received by the office of the Executive Director, the Chair shall either state in writing the Board's intention to initiate rulemaking by a specified date, or shall deny the petition in writing, stating the reasons for denial.
+
+   (1) Whenever the Chair decides to initiate rulemaking, the petition shall be made part of the record of the Board meeting at which rulemaking is initiated. In proceeding with rulemaking, the Board shall not be bound by the language proposed by the petitioner, but may amend or modify such proposed language at the Board's discretion. Neither shall the Board be bound to enact the substance of a petition for which the Chair has decided to initiate rulemaking.
+
+   (2) Whenever the Chair intends to deny a petition, the proposed denial and the reasons therefore shall be promptly provided to the members of the Board. Should a member object to the proposed denial of the petition within 10 days of receiving notice of the Chair's intention to deny, the petition shall be placed before the full Board for consideration as to whether the petition should be denied or the Board should proceed to rulemaking.
+
+(c) The Chair's decision to initiate rulemaking, or to deny a petition in the absence of a member's timely objection, or a decision by the Board to initiate rulemaking or deny a petition, shall be a final decision which is not subject to judicial review.
+
+
+
+
 Chapter 3: Health Care Minimum Standards
 --------------------------------------------------
 
@@ -3238,79 +3311,6 @@ Dated: April 10, 1991
       (C) Injuries reflecting self-harm, disaggregated by housing type, and further disaggregated serious and non-serious injuries.
 
 
-
-
-
-
-Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted To the Board of Correction]
---------------------------------------------------
-
-
-
-*§ 4-01 Definitions.* ::
-
-
-(a)  "Petition" shall mean a request or application for the Board of Correction ("the Board") to adopt a rule.
-
-(b) "Petitioner" shall mean the person or entity who files the petition.
-
-(c) "Rule" shall have the same meaning set forth in § 1041(5) of the New York City Charter.
-
-
-
-
-
-
-*§ 4-02 Scope.* ::
-
-
-This rule shall govern the procedures by which any person or entity may petition the Board to commence rulemaking pursuant to § 1043(f) of the New York City Charter and the procedure for submission, consideration and disposition of such petitions.
-
-
-
-
-
-
-*§ 4-03 Procedures for submitting petitions.* ::
-
-
-(a)  Any person or entity may petition the Board to consider the adoption of a rule.
-
-(b) A petition must contain the following information:
-
-   (1) the rule to be considered, with the proposed language for adoption;
-
-   (2) a statement of the Board's authority to promulgate the rule and its purpose;
-
-   (3) petitioner's arguments in support of adoption of the rule;
-
-   (4) the period of time the rule should be in effect;
-
-   (5) the name, address, email address and telephone number of the petitioner or his or her authorized representative;
-
-   (6) petitioner's signature or that of his or her authorized representative if the petition is submitted on paper or by facsimile.
-
-(c) Any change in the information provided pursuant to 40 RCNY § 4-03(b)(5) shall be communicated promptly in writing to the office of the Board's Executive Director.
-
-(d) Petitions shall be delivered, mailed or submitted by facsimile or electronic mail to the office of the Board's Executive Director.
-
-
-
-
-
-
-*§ 4-04 Procedures for responding to petitions.* ::
-
-
-(a)  Upon receipt of a petition in proper form, the Executive Director shall promptly forward it to the Board.
-
-(b) Within 60 days from the date a petition is received by the office of the Executive Director, the Chair shall either state in writing the Board's intention to initiate rulemaking by a specified date, or shall deny the petition in writing, stating the reasons for denial.
-
-   (1) Whenever the Chair decides to initiate rulemaking, the petition shall be made part of the record of the Board meeting at which rulemaking is initiated. In proceeding with rulemaking, the Board shall not be bound by the language proposed by the petitioner, but may amend or modify such proposed language at the Board's discretion. Neither shall the Board be bound to enact the substance of a petition for which the Chair has decided to initiate rulemaking.
-
-   (2) Whenever the Chair intends to deny a petition, the proposed denial and the reasons therefore shall be promptly provided to the members of the Board. Should a member object to the proposed denial of the petition within 10 days of receiving notice of the Chair's intention to deny, the petition shall be placed before the full Board for consideration as to whether the petition should be denied or the Board should proceed to rulemaking.
-
-(c) The Chair's decision to initiate rulemaking, or to deny a petition in the absence of a member's timely objection, or a decision by the Board to initiate rulemaking or deny a petition, shall be a final decision which is not subject to judicial review.
 
 
 

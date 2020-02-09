@@ -1,6 +1,345 @@
 Title 16: Department of Sanitation
 ===================================================
 
+Chapter 2: Use of Department Disposal Facilities
+--------------------------------------------------
+
+
+
+*§ 2-01 Definitions.* ::
+
+
+Each of the following words, terms, or phrases shall have for the purposes of these Rules and Regulations, the sense or meaning prescribed by its definition:
+
+Ashes. "Ashes" means cinders, coal and every other such substance which is left unconsumed by fire in stoves, furnaces, ranges, firepots, fireplaces, and other such places.
+
+Brush. "Brush" means wood components of yard waste, including tree branches, prunings and other similar materials, which are greater than three quarters (3/4) of an inch in diameter.
+
+Burnable material. "Burnable material" means putrescible solid waste, non-putrescible solid waste and other combustibles excepting dangerous materials.
+
+Burnable rubbish. "Burnable rubbish" means non-putrescible solid waste that may be burned mixed with putrescible solid waste, without additional or supplementary fuel, at incinerator furnace temperatures ranging from 800°F. up including, but not limited to, paper, dry rags, cartons, boxes, small pieces of wood, excelsior in small quantities, broken furniture, bedding, small pieces of old leather, tree branches in short pieces, and yard trimmings.
+
+Commissioner. "Commissioner" means the Commissioner of the Department of Sanitation.
+
+Compost Facility. "Compost Facility" means a facility operated by the Commissioner and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
+
+Compostable Material. "Compostable material" means organic constituents of solid waste including, but not limited to, yard waste, that are capable of being processed aerobically and thermophilically to form a stable, humus-like material.
+
+Dangerous material. "Dangerous material" means:
+
+   (1) Any substance, or compound, or mixture, or article having properties of such a character that alone, or in combination or contiguity with other substances or compounds; it may decompose suddenly and generate sufficient heat, or gas, or pressure to produce rapid flaming combustion, or administer a destructive blow to surrounding objects.
+
+   (2) Any chemical or any mechanical mixture containing any oxidizing and combustible units or other ingredients in such proportions, quantities or packing that an ignition by fire, friction, concussion, percussion or detonation of any part of the compound or mixture may cause sudden generation of highly heated gases that the resultant gaseous pressure is capable of producing destructive effects upon life, limb or contiguous objects.
+
+   (3) Including, but not limited to,
+
+      (i) animal hides in quantities
+
+      (ii) magnesium strips, foil, powder
+
+      (iii) sulphur
+
+      (iv) phosphorus
+
+      (v) mercury
+
+      (vi) unused flash bulbs
+
+      (vii) any sealed object containing a gas or liquid and canned goods
+
+      (viii) any container used for or containing:
+
+         (A) benzene
+
+         (B) cigarette lighter fluid
+
+         (C) cleaning fluid
+
+         (D) alcohol
+
+         (E) acetone
+
+         (F) ether
+
+         (G) oil
+
+         (H) any other inflammable substance
+
+      (ix) celluloid
+
+      (x) calcium carbide
+
+      (xi) sawdust
+
+      (xii) any finely divided or powdered materials
+
+      (xiii) any other chemicals
+
+      (xiv) cellulose nitrate
+
+      (xv) buffing from resin compounds
+
+      (xvi) fine wool in quantities
+
+      (xvii) boxes, barrels or baskets with steel hoops or bindings.
+
+Department. "Department" means Department of Sanitation or its agents or designees.
+
+Incinerator. "Incinerator" means plant owned by the City of New York and operated by the Commissioner to incinerate burnable material.
+
+Location. "Location" means in the generic sense, any location operated by the Commissioner for the disposal, composting or incineration of material, or for an intervening stage or step to final disposal; and, as the context indicates, an incinerator, or a marine transfer station, or a truck landfill, or a marine unloading plant, or a composting facility.
+
+Marine transfer station. "Marine transfer station" means a waterfront lo cation operated by the Commissioner to load materials into barges for marine transportation to another point for final disposal.
+
+Marine unloading plant. "Marine unloading plant" means a waterfront location where material is unloaded from barges and used to reclaim adjacent low lying swampy land by filling and operated by the Commissioner.
+
+Material. "Material" means in the generic sense, any of the materials defined in these Rules, i.e. ashes or garbage or burnable or dangerous materials or yard waste; and, as the context indicates, a particular defined material.
+
+Non-putrescible Solid Waste. "Non-putrescible Solid Waste" means solid waste, whether or not contained in receptacles, that does not contain organic matter having the tendency to decompose with the formation of malodorous by-products.
+
+Permittee or licensee. "Permittee or licensee" means a person licensed or permitted by the New York City Department of Consumer Affairs pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York to collect or dispose of commercial non-putrescible and putrescible solid waste.
+
+Person. "Person" means any individual, partnership, corporation, association, firm, organization, or any other group of individuals, or any officer or employee or agent thereof.
+
+Putrescible Solid Waste. "Putrescible Solid Waste" means solid waste containing organic matter having the tendency to decompose with the formation of malodorous by-products.
+
+Solid Waste. "Solid Waste" means all putrescible and non-putrescible materials or substances, except as described in paragraph (2) of this subsection, that are discarded or rejected, including but not limited to garbage, refuse, waste collected by any person required to be licensed or permitted pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal. Such term shall include recyclable materials, as defined in subdivision i of section 16-303 of chapter one of title sixteen.
+
+   (1) A material is discarded or rejected if it is:
+
+         (A) spent, useless, or worthless or in excess to the owners at the time of such discard or rejection;
+
+         (B) disposed of;
+
+         (C) burned or incinerated, including material burned as a fuel for the purpose of recovering useable energy; or
+
+         (D) accumulated, stored, or physically, chemically or biologically treated (other than burned or incinerated) instead of or before being disposed of.
+
+   (2) The following are not solid waste for the purpose of this subsection:
+
+         (A) domestic sewage;
+
+         (B) any mixture of domestic sewage and other waste that passes through a sewer system to a publicly owned treatment works facility for treatment, except any material that is introduced into such system in order to avoid the provisions of the Title 16 of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities;
+
+         (C) industrial wastewater discharges that are actual point source discharges subject to permits under Article 17 of the New York State Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
+
+         (D) irrigation return flows;
+
+         (E) radioactive materials that are source, special nuclear, or byproduct material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011 et seq.;
+
+         (F) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
+
+         (G) hazardous waste as defined in § 27-0901 of the New York state environmental conservation law, including material containing hazardous waste; and
+
+         (H) regulated medical waste as defined in Title 15 of article 27 of the New York State Environmental Conservation law, in Title 13 of Article 13 of the New York State Public Health Law, or in § 16-120.1 of the Administrative Code of the City of New York or any rules and regulations promulgated pursuant to such provisions of law.
+
+Truck landfill. "Truck landfill" means an inland location; low lying, swampy land being reclaimed by filling with material and operated by the Commissioner.
+
+Unburnable material. "Unburnable material" means any material which will not ignite or actively support combustion in a surrounding temperature of 1250°F. during an exposure of sixty seconds including, but not limited to, ashes, plaster, bricks, broken asphalt, concrete, concrete building boards, glass, crockery, metals, granite, marble, other stone and stoneware, porcelain and porcelain ware, slag, mortar, terracotta, gypsum, lime, asbestos, mineral wool, rock wool, hard rubber, and any material containing a high percentage of moisture.
+
+Virgin Wood Chips. "Virgin wood chips" means wood from a tree or tree branch that has been reduced or chipped to a minimum size of one inch and a maximum size of four inches in diameter. Notwithstanding the preceding sentence, a particular load of wood chips may contain de minimis quantities of wood chips, as determined by the Department, that do not meet the minimum or maximum size specifications. Wood chips made from wood that has been milled, painted, chemically treated, contaminated or adulterated in any manner whatsoever shall not be considered virgin wood chips, including, but not limited to, wood chips from pallets or plywood.
+
+Yard Waste. "Yard Waste" means leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight (8) inches in diameter and eight (8) feet in length shall be considered yard waste.
+
+
+
+
+
+
+*§ 2-02 General Limitations.* ::
+
+
+(a) Material produced or collected outside the City of New York will not be received or accepted from any person.
+
+(b) Material will not be received or accepted at any location unless (1) the person offering it tenders a debit card pursuant to 16 RCNY § 2-06, as applicable, for each load at the rates in effect when such material is received; and (2) unless the vehicle body and/or container clearly displays an official notice from the Department stating the cubic yard capacity of such vehicle and/or any identification number as required by the Department.
+
+(c) Material will not be received or accepted at a Marine Unloading Plant. If the Department designates an area within the site of a Marine Unloading Plant with vehicular access through the inland or upland boundaries of the Plant site as a landfill, materials otherwise acceptable at Truck Landfills generally will be received and accepted at such a landfill.
+
+(d) Unburnable materials will not be received or accepted at incinerators.
+
+(e) Dangerous materials will not be received or accepted at any point, except as provided by these Rules.
+
+(f) Burnable materials will not be received or accepted at truck landfills or marine transfer stations during any period in which the nearest incinerator is accepting burnable material.
+
+(g) Material will be received and accepted at particular locations only while each is open for that purpose. The Commissioner shall determine when a particular location be open.
+
+(h) Material will be received and accepted only when delivered in a vehicle displaying a decal issued for the particular vehicle by the Department of Sanitation indicating the cubic yard capacity of such vehicle and a waste conveyance truck permit or license issued for the particular vehicle in accordance with Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York.
+
+(i) Roll-on/Roll-off containers whose bodies are permanently enclosed and are of a welded steel construction will be accepted at incinerators, provided that the person, permittee, or licensee offering such container complies with all rules and regulations of the Department. All other Roll-on/Roll-off containers shall not be accepted at any incin- erator.
+
+(j) Except as provided in subdivision (k) below, overweight vehicles as defined in this subdivision (j) will not be received or accepted at Department disposal facilities as follows:
+
+   (1) At Marine Transfer Stations trucks weighing over 40 tons gross will not be received or accepted for disposal of materials.
+
+   (2) At landfills and compost facilities trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
+
+   (3) At incinerators trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
+
+(k) Any person, licensee, or permittee who shall be found to have violated any provisions of these Rules may have his dumping privileges suspended by the Commissioner for a period not to exceed 30 days. In the case of a violation of 16 RCNY § 2-02(j) the following will occur: (1) upon the first violation of such paragraph the materials may be accepted for disposal and an oral warning will be given to the driver of the overweight vehicle. Such oral warning will be followed by a written warning indicating that a second and/or any subsequent violation(s) will result in the suspension of the dumping privileges of the violating person, licensee or permittee for a period not to exceed 30 days; upon suspension, notice of the cause thereof shall be mailed to the violating person, licensee or permittee within two days thereafter (Saturdays, Sundays and legal holidays excluded), and in the same notice the violating person, licensee or permittee shall be informed of the time and place at which the Commissioner or his representative will receive such explanation, excuse, or justification as the violating person, licensee or permittee may care to offer. If the violating person, licensee or permittee shall fail to avail himself of such opportunity at the time and place named, or if after considering the matter submitted by the violating person, licensee or permittee and such other matter as he may deem pertinent, the Commissioner shall be of the opinion that it is not in the public interest to reinstate the dumping privileges, he may order its continued suspension, reinstatement upon compliance with conditions named by him, or revocation effective at a time named by him or for failure to comply with the conditions named by him within the time limited by him. Notice of such decision of the Commissioner and of any revocation shall be mailed to the violating person, licensee or permittee within two days (Saturdays, Sundays and legal holidays excluded), after it is made by the Commissioner.
+
+(l) In the event that any material is offered for disposal, discharged, or otherwise disposed of at any incinerator, Marine Transfer Station, Compost Facility or Truck Landfill, the receipt of which is not authorized or permitted by these Rules, or any other applicable federal, state, or local law or rule, then the person or permittee offering such material shall be responsible for all costs and expenses incurred by the City as determined by the Commissioner in processing such material. These costs include, but are not limited to, the cost of any chemical or other analysis of such materials, the cost of segregation of such material, the cost of providing security, if necessary, the cost of removal and disposal of such material, and any other cost incurred by the City as a result of the dumping or discharge or the attempt to dump such material at any of the above enumerated facilities. The Commissioner reserves the right to direct such person to remove such material within 48 hours of written notification. In addition, in the event dumping privileges have been suspended as provided for under 16 RCNY § 2-02(k), the Commissioner may, as a condition of reinstatement of such dumping privileges, require such person to reimburse the City for such costs as provided for under this subdivision.
+
+
+
+
+
+
+*§ 2-03 General Provisions.* ::
+
+
+(a) Each and every time a permittee or licensee and any servant, agent, employee, or representative of a permittee or licensee offers a load of material for receipt and acceptance by the Department at any location, such permittee or licensee and the individual offering the load on his behalf shall be deemed by such offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and of all applicable provisions of law. Such permittee or licensee and such individual shall also be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
+
+(b) Whenever the Commissioner determines that it is in the City's best interest, he may close at any time and without notice or warning in advance, down indefinitely, or discontinue entirely, or continue open and in operation for the purpose of only receiving materials collected by the Department, any Department Incinerator, Marine Transfer Station, Compost Facility or Truck Landfill location.
+
+(c) The receipt for disposal of any materials, by the Department is subject to the suitability of Department Incineration, Marine Transfer Station, Compost and Truck Landfill facilities for handling any such materials and the capacity of such facilities remaining after receipt of Department-collected materials.
+
+(d) No separate or special permit to deposit materials at Department locations is required other than the waste conveyance truck permit or license required under subchapter eighteen of chapter two of title twenty of the Administrative Code of the City of New York for the lawful transportation of such materials through the streets to Department locations. Each such permit or license is deemed to include the privilege of disposing of materials at Department locations upon payment pursuant to 16 RCNY § 2-06, as applicable, of the charges fixed by law, provided that such permittee or licensee complies with these rules and all applicable provisions of federal, state and local law and all other rules, regulations and orders of competent authorities.
+
+(e) To calculate the load charge for the volume of material that may be carried in the body of a particular vehicle, the Commissioner's representative will measure the body of the vehicle.
+
+(f) In determining body capacities for purposes of payment, calculations will be made to the hundredth of a cubic yard. When the calculated capacity contains a fraction not exceeding fifty one-hundredths (50/100's) of a cubic yard, capacity will be fixed at the whole number of cubic yards less the fraction. When the fraction exceeds fifty one-hundredths of a cubic yard, capacity will be fixed at the next higher whole number of cubic yards.
+
+(g) The manufacturer's rated cubic body capacity for a total enclosed body may be accepted, or such body may be measured and capacity calculated.
+
+(h) The Department may accept some dangerous materials provided that special arrangements have been made through the Bureau of Waste Disposal at the Department's Main Office, 125 Worth Street, New York, N.Y. 10013.
+
+
+
+
+
+
+*§ 2-04 Rates of Charge.* ::
+
+
+(a)  Pursuant to § 16-129 of the Administrative Code, the following rates are hereby fixed to be charged and collected by the Commissioner on and/or after August 1, 1988 from any person desiring to deposit at Department of Sanitation disposal facilities the materials named in such section of the Administrative Code:
+
+   (1) fifty three dollars ($53.00) per cubic yard for material disposed of at all incinerator locations; forty four dollars ($44.00) per cubic yard for material disposed of at all Marine Transfer Stations; and forty dollars ($40.00) per cubic yard for material except asbestos, and one hundred dollars ($100.00) per cubic yard for asbestos, disposed of at all Truck Landfill locations.
+
+   (2) These rates are based on the capacity of the vehicle container or body from which the load is dumped, as determined by the Commissioner, and will be charged and collected in such manner, by such method, and at such time, as the Commissioner may prescribe.
+
+   (3) Nothing herein is intended to compel the Commissioner of Sanitation to collect, or remove, or dispose of, or accept for disposal, wastes or materials of any nature whatsoever other than those collected, removed, disposed of, or accepted for disposal by the Commissioner pursuant to Department rules.
+
+(b) Notwithstanding any inconsistent provision of this section, the Commissioner may waive charges for the use of Department disposal facilities for: (1) governmental agencies of the City and State of New York, and contractors of such agencies; (2) public authorities of the State of New York and contractors of such authorities; and (3) entities, such as not-for-profit organizations or their contractors, that are eligible for Department collection service pursuant to Chapter 1 of this Title.
+
+
+
+
+
+
+*§ 2-05 Payments. [Repealed]* ::
+
+
+(a) Except as otherwise provided for in this chapter, any user of Department Disposal Facilities shall be required to pay for the privilege of disposing of materials, otherwise defined in these rules, in accordance with the provisions of this section. The Department may, at its discretion, require users to apply to the Department, on forms to be furnished by the Department, to establish an account under the Automated Payment System (hereinafter "APS"). Upon review of such application, the user shall be notified as to the amount, if any, to be paid to the Department as the minimum balance necessary to establish such account. The Department may require users to establish an APS account, and to maintain a minimum balance in such account, regardless of whether the user is required to pay for the use of Department facilities pursuant to this chapter. The amount that the Department may require to be deposited shall be determined by the Department based on the prevailing rate fixed by law for the disposal of non-asbestos material at Truck Landfill locations and on the user's active fleet size, as registered with the Department, as follows:
+
+   (1) For fixed body type trucks, such deposit shall be equivalent to the charges for the cubic yard capacity of all such vehicles, registered by the user with the Department;
+
+   (2) For roll-on/roll-off type containers, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based on one-ninth (1/9) of the cubic yard capacity of all such containers registered by the user with the Department;
+
+   (3) For tractor-trailer type vehicles transporting waste materials, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based upon twice the cubic yard capacity of all such vehicles registered by the user with the Department; A user may apply for a modification to its required minimum balance based upon a reduction in its active fleet size. To apply for such a modification, a user must submit modification forms to the Department to de-register the affected vehicles.
+
+(b) The Department will be open to accept applications and deposits Mondays through Fridays (excluding holidays), during such hours as posted by the Department.
+
+(c) All deposit and debit transactions will be processed within one business day. Any amounts necessary to permit use of Department facilities by a user shall be deposited with the Department one business day prior to such use.
+
+(d) Each prospective user shall be identified by the Department of Consumer Affairs waste conveyance license number, or other Department registration identification number and the user name under which it desires to apply and make a deposit.
+
+(e) Only cash, money orders, or certified bank checks shall be received and accepted as deposit payments. All such checks/money orders shall be drawn to the order of "Department of Sanitation" as payee. (The maximum cash payments accepted per day, per user shall not exceed $1,000.00).
+
+(f) Each account will be charged or debited for the cost of the load on the basis of the vehicle's cubic yard capacity as calculated and determined by the Commissioner for the body of the particular vehicle registered to dump.
+
+(g) Upon the Department's establishment of an account on behalf of a user, each vehicle registered with the Department by the user shall receive a debit card which shall be delivered to the Commissioner's field representative at the Department's disposal location, in advance of dumping and as a condition precedent by the Department to the receipt and acceptance of material to be dumped. The debit card will be returned to the vehicle operator upon completion of each transaction. Such debit card shall be the property of the Department and shall be returned upon notice to the user by the Commissioner.
+
+(h) When offering a load for disposal, the user, or his employee or a person operating the vehicle on his behalf shall deliver to the Commissioner's field representative the debit card issued by the Department for such vehicle, listing the user name, permit number (where applicable), and account number. Debit cards may not be interchanged among vehicles. (However, funds on deposit may be applied to the dumping of any vehicle registered by the user with the Department). The information contained on the debit card must match the information contained on the Truck Measurement and Capacity Form for such vehicle and must match the markings and permit plate of the vehicle. Truck Measurement and Capacity forms shall be carried in vehicles as required by the Department.
+
+(i) The Commissioner may authorize refunds for unused account balances. Such refunds shall be made through the Comptroller's Office. Written requests for refunds should be made to the Department, giving the user's name, address and account number.
+
+(j) Upon acceptance of each load, the user's APS account will be debited or reduced by the appropriate amount determined by the product of the rated cubic yard capacity of such vehicle, as determined by the Department's Truck Measurement Unit, and the rate fixed by law for such material.
+
+(k) The Department will provide reasonable notice to a user when its account is approaching the minimum balance, by advising the user's agent offering the load of material for disposal that the user is approaching the minimum balance. It shall be the user's responsibility to ensure that it has maintained and is maintaining the necessary minimum balance in the APS to accommodate any loads offered at any Department Disposal Facility.
+
+(l) In the event that a user's account is reduced below its minimum balance, as determined by the Department pursuant to subdivision (b) of this section, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount to bring the account above the minimum balance.
+
+(m) In the case of a diminution of the user's account below the total amount on deposit with the Department, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material. In addition, the Department may, at its discretion, require the user to deposit an additional amount which shall increase the user's required minimum balance to twice the amount previously established by the Department. The Department may require that such additional minimum balance be maintained for at least one year, at which time the user may apply for a reduction in the additional minimum balance.
+
+(n) In the case of a diminution of the user's account below the total amount on deposit with the Department on more than one occasion, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at the Department's Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material and an additional amount which shall be determined by the Department.
+
+(o) Requirements for pre-payment shall not apply to Federal Government agencies. The Commissioner may enter into written agreements with such agencies providing for payments at the rates set by 16 RCNY § 2-04 or by local law, whichever is applicable, in a manner other than that specified in this section, including, for example, quarterly payments.
+
+
+
+
+
+
+*§ 2-07 Construction and Demolition Waste and Transporters.* ::
+
+
+(a) It is the purpose and intent of this section to treat separately that category of materials hereinafter defined as "Construction and Demolition Waste" and those persons and vehicles hereinafter defined as "Construction and Demolition Waste Transporters."
+
+(b) "Construction and Demolition Waste" materials are hereby defined as the non-putrescible waste products resulting from building demolition, construction, alteration and excavation, including but not limited to dirt, earth, plaster, concrete, rock, rubble, slag, ashes and waste timber and lumber.
+
+(c) Construction and Demolition Waste Transporters are defined as persons or vehicles engaged in the business of transporting construction and demolition waste except that no person or vehicle possessing a Class 1, Class 2, Class 3, Class 4, Class 5 or Class 6 commercial refuse license may qualify as a Construction and Demolition Waste Transporter.
+
+(d) The Department may accept at specifically designated locations construction and demolition waste resulting from operations conducted within New York City and offered by Construction and Demolition Waste Transporters in compliance with all applicable provisions of these Rules and Regulations and with all applicable provisions of law. The Department shall require such Transporters to identify the origin of such waste and to furnish the identifying number of the applicable Department of Buildings permit, if any. The Department may at its discretion prohibit any Construction and Demolition Waste Transporter violating these Rules and Regulations or any applicable provision of law from offering such waste at such locations. Construction and Demolition Waste will not be accepted at any location from any person from whom the Commissioner is authorized by Resolution of the Board of Estimate of the City of New York to charge a cubic yard rate for the receipt and disposal of such waste unless the person offering such waste tenders a prepaid ticket known as a CW ticket for each load at the rates prescribed and fixed by the Board of Estimate of the City of New York. CW tickets shall be sold only in books of five (5) tickets, each separate ticket being a payment for one load. Tickets shall not be detached and offered separately. CW tickets shall not be assigned, transferred, or otherwise disposed of by any person, firm, or corporation that has purchased such tickets from the Department of Sanitation.
+
+(e) Each and every time a Construction and Demolition Waste Transporter, or his servant, agent, employee, or representative offers a load of material for receipt and acceptance by the Department of Sanitation at specifically designated locations the Construction and Demolition Waste Transporter and the individual offering the load on his behalf shall be deemed by the offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and Regulations and of all applicable provisions of law, and also shall be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
+
+(f) 16 RCNY § 2-02(h) is not applicable to CW Transporters, but 16 RCNY § 2-03(d) shall apply.
+
+(g) Upon the expiration of 60 days from the effective date of this Rule and Regulation, no Construction and Demolition Waste Transporter shall be permitted to offer any construction and demolition waste to any Department facility and the Department will not accept any such waste unless the Construction and Demolition Waste Transporters offering such material have complied with the following:
+
+   (1) Such Construction and Demolition Waste Transporters shall have been measured by the Commissioner to determine their cubic yard capacity;
+
+   (2) Such Construction and Demolition Waste Transporters shall, upon offering any construction and demolition waste at any Department disposal facility exhibit an identification card, issued by the Department of Sanitation, indicating the name and address of the owner of such Transporter, the cubic yard capacity of such Transporter as determined by the Department of Sanitation registration number assigned to such transporter; and
+
+   (3) Such Construction and Demolition Waste Transporter shall have painted upon each side of the Transporter body well forward, in the manner and sequence specified below the following information which shall be identical to that contained on the identification card referred to in 16 RCNY § 2-07(g)(2) above:
+
+      (i) in letters and numbers not less than four inches in height, the business name and address of the owner of such transporter;
+
+      (ii) in letters and numbers not less than two inches in height, the following legends "D.S. Reg. Cap. Cu. Yds., D.S. Reg. No." with the numbers adjacent thereto which are identical to those appearing on the identification card referred to in 16 RCNY § 2-07(g)(2) above;
+
+      (iii) the sequence of the information required to be painted in subparagraphs (i) and (ii) above shall be as follows:
+
+         Name of owner Address of owner D.S. Reg. Cap – Cu. Yds. D.S. Reg. No.
+
+   (4) Such Construction and Demolition Waste Transporter shall have affixed to the vehicle body and/or container an official notice from the Department of Sanitation stating the cubic yard capacity and/or any identification number as required by the Department. For purpose of this section, in the event that any Construction and Demolition Waste Transporter shall have more than one container including but not limited to roll-on/roll-off containers, which are used for the Construction and Demolition Waste Transporter, then each such container shall be deemed a separate Construction and Demolition Waste Transporter for purposes of these Rules and Regulations and shall be measured by the Department of Sanitation as provided hereunder. Once the Construction and Demolition Waste Transporter shall have been measured by the Department of Sanitation in compliance with these Rules and Regulations, any change in the cubic capacity of such Transporter shall require the owner of such Transporter to present such Transporter to the Department for a new measuring within 5 days of such change in its cubic capacity. Except as provided for above, as to changes in cubic capacity after measuring by the Department, any Construction and Demolition Waste Transporter warrants and represents that in offering any load of construction and demolition waste that his Construction and Demolition Waste Transporter has not been altered or changed in any manner so as to increase or decrease the cubic capacity of such Transporter.
+
+(h) [Reserved.]
+
+(i) Before a work permit for construction, alteration or demolition is issued by the Department of Buildings to any applicant who desires to dispose of the construction and demolition waste originating from such work, the applicant for such permit shall pay a Construction and Demolition Waste Disposal fee to the Department of Buildings as agent for the Department of Sanitation based on a schedule of rates fixed by the Board of Estimate. Where a permit is issued in connection with a contract awarded by an agency of the City of New York which may include the New York City Housing Authority, the applicant shall accompany payment of such fee with a certification by such City agency setting forth the cubeage or load data as the case may be, which determines the amount of the fee; or in lieu of payment of such fee the applicant may submit to the Department of Buildings a certification by such City agency on a form prescribed by the Comptroller that it will determine the fee payable on such construction alteration or demolition as the case may be, and report such amount to the Comptroller to be collected out of the first payment due under such contract.
+
+(j) All other sections, subdivisions and paragraphs of these Rules and Regulations shall apply with equal force and effect to Construction and Demolition Waste Transporters, except where inconsistent or in conflict with the provisions of 16 RCNY § 2-07 herein, in which case, the provisions of 16 RCNY § 2-07, shall prevail.
+
+(k) On or after July 23, 1973, no construction and demolition waste will be accepted for disposition at any Department of Sanitation disposal facility if:
+
+   (1) such waste has originated from a site for which a disposal fee has been paid in accordance with Board of Estimate Resolution No. 43, adopted on October 8, 1970;
+
+   (2) such waste has originated from a site for which a certification by a City agency has been filed pursuant to 16 RCNY § 2-07(i); or
+
+   (3) such waste originates from a site for which no permit is required to be issued pursuant to §§ 27-156, 27-161 and 27-167 of the Administrative Code unless the applicant for such permits, as to the construction and demolition waste specified in (3) above, provide the Construction and Demolition Waste Transporter with dump tickets, furnished to such applicant by the Department of Sanitation, and the Construction and Demolition Waste Transporter shall present such tickets in the appropriate number when offering such waste at any Department of Sanitation disposal facility for receipt and disposal. Such tickets shall be issued to any such applicant who requests such tickets provided such applicant executes a request for these tickets upon forms supplied by the Commissioner of the Department of Sanitation and supplies all of the appropriate information required on such forms. The Commissioner reserves the right to determine whether the information furnished by such applicant is accurate and to certify whether such applicant is entitled to the number of dump tickets contained in his request. Such requests shall be made on forms provided by the Department of Sanitation which shall be filed at any time subsequent to the effective date of this amendment at times and places to be designated by the Commissioner.
+
+
+
+
+
+
+*§ 2-08 Receipt of Compostable Material at Department Compost Facilities.* ::
+
+
+In addition to 16 RCNY §§ 2-01, 2-02, 2-03, and 2-06, the following provisions shall apply to the receipt of yard waste and other compostable material at Compost Facilities.
+
+(a) The Department may, at its discretion, accept yard waste and other compostable material at Compost Facilities at the rates set by law. In addition, the Department may, at its discretion, accept virgin wood chips at Compost Facilities free of charge.
+
+(b) Only yard waste as defined in 16 RCNY § 2-01 and other compostable material, as determined by the Department, shall be accepted at Compost Facilities. Yard waste or other compostable material that is contaminated with non-compostable material shall not be accepted at Compost Facilities.
+
+(c) Yard waste and other compostable material shall be accepted in bulk form or compostable receptacles as determined by the Commissioner. In no event shall yard waste or other compostable material be accepted in plastic bags or in other receptacles determined by the Commissioner to be non-compostable.
+
+(d) Brush shall be segregated from other yard waste and shall be deposited at Compost Facilities as directed by the Department.
+
+(e) To be eligible for acceptance free of charge, virgin wood chips must be delivered to Compost Facilities in a vehicle that contains only virgin wood chips. Virgin wood chips that are delivered to Compost Facilities in the same vehicle as yard waste or other compostable material, even if segregated from such other materials, shall be accepted at the rates set by law for the acceptance of such other material at Compost Facilities.
+
+
+
+
 Chapter 1: Collection
 --------------------------------------------------
 
@@ -900,345 +1239,6 @@ For purposes of this section, the “floor area” of an establishment has the s
    (2) Any person that violates any provision of this section shall be liable for civil penalties as provided for under paragraphs one, two and three of subdivision e of section 16-324 of the New York City Administrative Code.
 
 
-
-
-
-
-Chapter 2: Use of Department Disposal Facilities
---------------------------------------------------
-
-
-
-*§ 2-01 Definitions.* ::
-
-
-Each of the following words, terms, or phrases shall have for the purposes of these Rules and Regulations, the sense or meaning prescribed by its definition:
-
-Ashes. "Ashes" means cinders, coal and every other such substance which is left unconsumed by fire in stoves, furnaces, ranges, firepots, fireplaces, and other such places.
-
-Brush. "Brush" means wood components of yard waste, including tree branches, prunings and other similar materials, which are greater than three quarters (3/4) of an inch in diameter.
-
-Burnable material. "Burnable material" means putrescible solid waste, non-putrescible solid waste and other combustibles excepting dangerous materials.
-
-Burnable rubbish. "Burnable rubbish" means non-putrescible solid waste that may be burned mixed with putrescible solid waste, without additional or supplementary fuel, at incinerator furnace temperatures ranging from 800°F. up including, but not limited to, paper, dry rags, cartons, boxes, small pieces of wood, excelsior in small quantities, broken furniture, bedding, small pieces of old leather, tree branches in short pieces, and yard trimmings.
-
-Commissioner. "Commissioner" means the Commissioner of the Department of Sanitation.
-
-Compost Facility. "Compost Facility" means a facility operated by the Commissioner and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
-
-Compostable Material. "Compostable material" means organic constituents of solid waste including, but not limited to, yard waste, that are capable of being processed aerobically and thermophilically to form a stable, humus-like material.
-
-Dangerous material. "Dangerous material" means:
-
-   (1) Any substance, or compound, or mixture, or article having properties of such a character that alone, or in combination or contiguity with other substances or compounds; it may decompose suddenly and generate sufficient heat, or gas, or pressure to produce rapid flaming combustion, or administer a destructive blow to surrounding objects.
-
-   (2) Any chemical or any mechanical mixture containing any oxidizing and combustible units or other ingredients in such proportions, quantities or packing that an ignition by fire, friction, concussion, percussion or detonation of any part of the compound or mixture may cause sudden generation of highly heated gases that the resultant gaseous pressure is capable of producing destructive effects upon life, limb or contiguous objects.
-
-   (3) Including, but not limited to,
-
-      (i) animal hides in quantities
-
-      (ii) magnesium strips, foil, powder
-
-      (iii) sulphur
-
-      (iv) phosphorus
-
-      (v) mercury
-
-      (vi) unused flash bulbs
-
-      (vii) any sealed object containing a gas or liquid and canned goods
-
-      (viii) any container used for or containing:
-
-         (A) benzene
-
-         (B) cigarette lighter fluid
-
-         (C) cleaning fluid
-
-         (D) alcohol
-
-         (E) acetone
-
-         (F) ether
-
-         (G) oil
-
-         (H) any other inflammable substance
-
-      (ix) celluloid
-
-      (x) calcium carbide
-
-      (xi) sawdust
-
-      (xii) any finely divided or powdered materials
-
-      (xiii) any other chemicals
-
-      (xiv) cellulose nitrate
-
-      (xv) buffing from resin compounds
-
-      (xvi) fine wool in quantities
-
-      (xvii) boxes, barrels or baskets with steel hoops or bindings.
-
-Department. "Department" means Department of Sanitation or its agents or designees.
-
-Incinerator. "Incinerator" means plant owned by the City of New York and operated by the Commissioner to incinerate burnable material.
-
-Location. "Location" means in the generic sense, any location operated by the Commissioner for the disposal, composting or incineration of material, or for an intervening stage or step to final disposal; and, as the context indicates, an incinerator, or a marine transfer station, or a truck landfill, or a marine unloading plant, or a composting facility.
-
-Marine transfer station. "Marine transfer station" means a waterfront lo cation operated by the Commissioner to load materials into barges for marine transportation to another point for final disposal.
-
-Marine unloading plant. "Marine unloading plant" means a waterfront location where material is unloaded from barges and used to reclaim adjacent low lying swampy land by filling and operated by the Commissioner.
-
-Material. "Material" means in the generic sense, any of the materials defined in these Rules, i.e. ashes or garbage or burnable or dangerous materials or yard waste; and, as the context indicates, a particular defined material.
-
-Non-putrescible Solid Waste. "Non-putrescible Solid Waste" means solid waste, whether or not contained in receptacles, that does not contain organic matter having the tendency to decompose with the formation of malodorous by-products.
-
-Permittee or licensee. "Permittee or licensee" means a person licensed or permitted by the New York City Department of Consumer Affairs pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York to collect or dispose of commercial non-putrescible and putrescible solid waste.
-
-Person. "Person" means any individual, partnership, corporation, association, firm, organization, or any other group of individuals, or any officer or employee or agent thereof.
-
-Putrescible Solid Waste. "Putrescible Solid Waste" means solid waste containing organic matter having the tendency to decompose with the formation of malodorous by-products.
-
-Solid Waste. "Solid Waste" means all putrescible and non-putrescible materials or substances, except as described in paragraph (2) of this subsection, that are discarded or rejected, including but not limited to garbage, refuse, waste collected by any person required to be licensed or permitted pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal. Such term shall include recyclable materials, as defined in subdivision i of section 16-303 of chapter one of title sixteen.
-
-   (1) A material is discarded or rejected if it is:
-
-         (A) spent, useless, or worthless or in excess to the owners at the time of such discard or rejection;
-
-         (B) disposed of;
-
-         (C) burned or incinerated, including material burned as a fuel for the purpose of recovering useable energy; or
-
-         (D) accumulated, stored, or physically, chemically or biologically treated (other than burned or incinerated) instead of or before being disposed of.
-
-   (2) The following are not solid waste for the purpose of this subsection:
-
-         (A) domestic sewage;
-
-         (B) any mixture of domestic sewage and other waste that passes through a sewer system to a publicly owned treatment works facility for treatment, except any material that is introduced into such system in order to avoid the provisions of the Title 16 of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities;
-
-         (C) industrial wastewater discharges that are actual point source discharges subject to permits under Article 17 of the New York State Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
-
-         (D) irrigation return flows;
-
-         (E) radioactive materials that are source, special nuclear, or byproduct material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011 et seq.;
-
-         (F) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
-
-         (G) hazardous waste as defined in § 27-0901 of the New York state environmental conservation law, including material containing hazardous waste; and
-
-         (H) regulated medical waste as defined in Title 15 of article 27 of the New York State Environmental Conservation law, in Title 13 of Article 13 of the New York State Public Health Law, or in § 16-120.1 of the Administrative Code of the City of New York or any rules and regulations promulgated pursuant to such provisions of law.
-
-Truck landfill. "Truck landfill" means an inland location; low lying, swampy land being reclaimed by filling with material and operated by the Commissioner.
-
-Unburnable material. "Unburnable material" means any material which will not ignite or actively support combustion in a surrounding temperature of 1250°F. during an exposure of sixty seconds including, but not limited to, ashes, plaster, bricks, broken asphalt, concrete, concrete building boards, glass, crockery, metals, granite, marble, other stone and stoneware, porcelain and porcelain ware, slag, mortar, terracotta, gypsum, lime, asbestos, mineral wool, rock wool, hard rubber, and any material containing a high percentage of moisture.
-
-Virgin Wood Chips. "Virgin wood chips" means wood from a tree or tree branch that has been reduced or chipped to a minimum size of one inch and a maximum size of four inches in diameter. Notwithstanding the preceding sentence, a particular load of wood chips may contain de minimis quantities of wood chips, as determined by the Department, that do not meet the minimum or maximum size specifications. Wood chips made from wood that has been milled, painted, chemically treated, contaminated or adulterated in any manner whatsoever shall not be considered virgin wood chips, including, but not limited to, wood chips from pallets or plywood.
-
-Yard Waste. "Yard Waste" means leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight (8) inches in diameter and eight (8) feet in length shall be considered yard waste.
-
-
-
-
-
-
-*§ 2-02 General Limitations.* ::
-
-
-(a) Material produced or collected outside the City of New York will not be received or accepted from any person.
-
-(b) Material will not be received or accepted at any location unless (1) the person offering it tenders a debit card pursuant to 16 RCNY § 2-06, as applicable, for each load at the rates in effect when such material is received; and (2) unless the vehicle body and/or container clearly displays an official notice from the Department stating the cubic yard capacity of such vehicle and/or any identification number as required by the Department.
-
-(c) Material will not be received or accepted at a Marine Unloading Plant. If the Department designates an area within the site of a Marine Unloading Plant with vehicular access through the inland or upland boundaries of the Plant site as a landfill, materials otherwise acceptable at Truck Landfills generally will be received and accepted at such a landfill.
-
-(d) Unburnable materials will not be received or accepted at incinerators.
-
-(e) Dangerous materials will not be received or accepted at any point, except as provided by these Rules.
-
-(f) Burnable materials will not be received or accepted at truck landfills or marine transfer stations during any period in which the nearest incinerator is accepting burnable material.
-
-(g) Material will be received and accepted at particular locations only while each is open for that purpose. The Commissioner shall determine when a particular location be open.
-
-(h) Material will be received and accepted only when delivered in a vehicle displaying a decal issued for the particular vehicle by the Department of Sanitation indicating the cubic yard capacity of such vehicle and a waste conveyance truck permit or license issued for the particular vehicle in accordance with Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York.
-
-(i) Roll-on/Roll-off containers whose bodies are permanently enclosed and are of a welded steel construction will be accepted at incinerators, provided that the person, permittee, or licensee offering such container complies with all rules and regulations of the Department. All other Roll-on/Roll-off containers shall not be accepted at any incin- erator.
-
-(j) Except as provided in subdivision (k) below, overweight vehicles as defined in this subdivision (j) will not be received or accepted at Department disposal facilities as follows:
-
-   (1) At Marine Transfer Stations trucks weighing over 40 tons gross will not be received or accepted for disposal of materials.
-
-   (2) At landfills and compost facilities trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
-
-   (3) At incinerators trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
-
-(k) Any person, licensee, or permittee who shall be found to have violated any provisions of these Rules may have his dumping privileges suspended by the Commissioner for a period not to exceed 30 days. In the case of a violation of 16 RCNY § 2-02(j) the following will occur: (1) upon the first violation of such paragraph the materials may be accepted for disposal and an oral warning will be given to the driver of the overweight vehicle. Such oral warning will be followed by a written warning indicating that a second and/or any subsequent violation(s) will result in the suspension of the dumping privileges of the violating person, licensee or permittee for a period not to exceed 30 days; upon suspension, notice of the cause thereof shall be mailed to the violating person, licensee or permittee within two days thereafter (Saturdays, Sundays and legal holidays excluded), and in the same notice the violating person, licensee or permittee shall be informed of the time and place at which the Commissioner or his representative will receive such explanation, excuse, or justification as the violating person, licensee or permittee may care to offer. If the violating person, licensee or permittee shall fail to avail himself of such opportunity at the time and place named, or if after considering the matter submitted by the violating person, licensee or permittee and such other matter as he may deem pertinent, the Commissioner shall be of the opinion that it is not in the public interest to reinstate the dumping privileges, he may order its continued suspension, reinstatement upon compliance with conditions named by him, or revocation effective at a time named by him or for failure to comply with the conditions named by him within the time limited by him. Notice of such decision of the Commissioner and of any revocation shall be mailed to the violating person, licensee or permittee within two days (Saturdays, Sundays and legal holidays excluded), after it is made by the Commissioner.
-
-(l) In the event that any material is offered for disposal, discharged, or otherwise disposed of at any incinerator, Marine Transfer Station, Compost Facility or Truck Landfill, the receipt of which is not authorized or permitted by these Rules, or any other applicable federal, state, or local law or rule, then the person or permittee offering such material shall be responsible for all costs and expenses incurred by the City as determined by the Commissioner in processing such material. These costs include, but are not limited to, the cost of any chemical or other analysis of such materials, the cost of segregation of such material, the cost of providing security, if necessary, the cost of removal and disposal of such material, and any other cost incurred by the City as a result of the dumping or discharge or the attempt to dump such material at any of the above enumerated facilities. The Commissioner reserves the right to direct such person to remove such material within 48 hours of written notification. In addition, in the event dumping privileges have been suspended as provided for under 16 RCNY § 2-02(k), the Commissioner may, as a condition of reinstatement of such dumping privileges, require such person to reimburse the City for such costs as provided for under this subdivision.
-
-
-
-
-
-
-*§ 2-03 General Provisions.* ::
-
-
-(a) Each and every time a permittee or licensee and any servant, agent, employee, or representative of a permittee or licensee offers a load of material for receipt and acceptance by the Department at any location, such permittee or licensee and the individual offering the load on his behalf shall be deemed by such offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and of all applicable provisions of law. Such permittee or licensee and such individual shall also be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
-
-(b) Whenever the Commissioner determines that it is in the City's best interest, he may close at any time and without notice or warning in advance, down indefinitely, or discontinue entirely, or continue open and in operation for the purpose of only receiving materials collected by the Department, any Department Incinerator, Marine Transfer Station, Compost Facility or Truck Landfill location.
-
-(c) The receipt for disposal of any materials, by the Department is subject to the suitability of Department Incineration, Marine Transfer Station, Compost and Truck Landfill facilities for handling any such materials and the capacity of such facilities remaining after receipt of Department-collected materials.
-
-(d) No separate or special permit to deposit materials at Department locations is required other than the waste conveyance truck permit or license required under subchapter eighteen of chapter two of title twenty of the Administrative Code of the City of New York for the lawful transportation of such materials through the streets to Department locations. Each such permit or license is deemed to include the privilege of disposing of materials at Department locations upon payment pursuant to 16 RCNY § 2-06, as applicable, of the charges fixed by law, provided that such permittee or licensee complies with these rules and all applicable provisions of federal, state and local law and all other rules, regulations and orders of competent authorities.
-
-(e) To calculate the load charge for the volume of material that may be carried in the body of a particular vehicle, the Commissioner's representative will measure the body of the vehicle.
-
-(f) In determining body capacities for purposes of payment, calculations will be made to the hundredth of a cubic yard. When the calculated capacity contains a fraction not exceeding fifty one-hundredths (50/100's) of a cubic yard, capacity will be fixed at the whole number of cubic yards less the fraction. When the fraction exceeds fifty one-hundredths of a cubic yard, capacity will be fixed at the next higher whole number of cubic yards.
-
-(g) The manufacturer's rated cubic body capacity for a total enclosed body may be accepted, or such body may be measured and capacity calculated.
-
-(h) The Department may accept some dangerous materials provided that special arrangements have been made through the Bureau of Waste Disposal at the Department's Main Office, 125 Worth Street, New York, N.Y. 10013.
-
-
-
-
-
-
-*§ 2-04 Rates of Charge.* ::
-
-
-(a)  Pursuant to § 16-129 of the Administrative Code, the following rates are hereby fixed to be charged and collected by the Commissioner on and/or after August 1, 1988 from any person desiring to deposit at Department of Sanitation disposal facilities the materials named in such section of the Administrative Code:
-
-   (1) fifty three dollars ($53.00) per cubic yard for material disposed of at all incinerator locations; forty four dollars ($44.00) per cubic yard for material disposed of at all Marine Transfer Stations; and forty dollars ($40.00) per cubic yard for material except asbestos, and one hundred dollars ($100.00) per cubic yard for asbestos, disposed of at all Truck Landfill locations.
-
-   (2) These rates are based on the capacity of the vehicle container or body from which the load is dumped, as determined by the Commissioner, and will be charged and collected in such manner, by such method, and at such time, as the Commissioner may prescribe.
-
-   (3) Nothing herein is intended to compel the Commissioner of Sanitation to collect, or remove, or dispose of, or accept for disposal, wastes or materials of any nature whatsoever other than those collected, removed, disposed of, or accepted for disposal by the Commissioner pursuant to Department rules.
-
-(b) Notwithstanding any inconsistent provision of this section, the Commissioner may waive charges for the use of Department disposal facilities for: (1) governmental agencies of the City and State of New York, and contractors of such agencies; (2) public authorities of the State of New York and contractors of such authorities; and (3) entities, such as not-for-profit organizations or their contractors, that are eligible for Department collection service pursuant to Chapter 1 of this Title.
-
-
-
-
-
-
-*§ 2-05 Payments. [Repealed]* ::
-
-
-(a) Except as otherwise provided for in this chapter, any user of Department Disposal Facilities shall be required to pay for the privilege of disposing of materials, otherwise defined in these rules, in accordance with the provisions of this section. The Department may, at its discretion, require users to apply to the Department, on forms to be furnished by the Department, to establish an account under the Automated Payment System (hereinafter "APS"). Upon review of such application, the user shall be notified as to the amount, if any, to be paid to the Department as the minimum balance necessary to establish such account. The Department may require users to establish an APS account, and to maintain a minimum balance in such account, regardless of whether the user is required to pay for the use of Department facilities pursuant to this chapter. The amount that the Department may require to be deposited shall be determined by the Department based on the prevailing rate fixed by law for the disposal of non-asbestos material at Truck Landfill locations and on the user's active fleet size, as registered with the Department, as follows:
-
-   (1) For fixed body type trucks, such deposit shall be equivalent to the charges for the cubic yard capacity of all such vehicles, registered by the user with the Department;
-
-   (2) For roll-on/roll-off type containers, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based on one-ninth (1/9) of the cubic yard capacity of all such containers registered by the user with the Department;
-
-   (3) For tractor-trailer type vehicles transporting waste materials, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based upon twice the cubic yard capacity of all such vehicles registered by the user with the Department; A user may apply for a modification to its required minimum balance based upon a reduction in its active fleet size. To apply for such a modification, a user must submit modification forms to the Department to de-register the affected vehicles.
-
-(b) The Department will be open to accept applications and deposits Mondays through Fridays (excluding holidays), during such hours as posted by the Department.
-
-(c) All deposit and debit transactions will be processed within one business day. Any amounts necessary to permit use of Department facilities by a user shall be deposited with the Department one business day prior to such use.
-
-(d) Each prospective user shall be identified by the Department of Consumer Affairs waste conveyance license number, or other Department registration identification number and the user name under which it desires to apply and make a deposit.
-
-(e) Only cash, money orders, or certified bank checks shall be received and accepted as deposit payments. All such checks/money orders shall be drawn to the order of "Department of Sanitation" as payee. (The maximum cash payments accepted per day, per user shall not exceed $1,000.00).
-
-(f) Each account will be charged or debited for the cost of the load on the basis of the vehicle's cubic yard capacity as calculated and determined by the Commissioner for the body of the particular vehicle registered to dump.
-
-(g) Upon the Department's establishment of an account on behalf of a user, each vehicle registered with the Department by the user shall receive a debit card which shall be delivered to the Commissioner's field representative at the Department's disposal location, in advance of dumping and as a condition precedent by the Department to the receipt and acceptance of material to be dumped. The debit card will be returned to the vehicle operator upon completion of each transaction. Such debit card shall be the property of the Department and shall be returned upon notice to the user by the Commissioner.
-
-(h) When offering a load for disposal, the user, or his employee or a person operating the vehicle on his behalf shall deliver to the Commissioner's field representative the debit card issued by the Department for such vehicle, listing the user name, permit number (where applicable), and account number. Debit cards may not be interchanged among vehicles. (However, funds on deposit may be applied to the dumping of any vehicle registered by the user with the Department). The information contained on the debit card must match the information contained on the Truck Measurement and Capacity Form for such vehicle and must match the markings and permit plate of the vehicle. Truck Measurement and Capacity forms shall be carried in vehicles as required by the Department.
-
-(i) The Commissioner may authorize refunds for unused account balances. Such refunds shall be made through the Comptroller's Office. Written requests for refunds should be made to the Department, giving the user's name, address and account number.
-
-(j) Upon acceptance of each load, the user's APS account will be debited or reduced by the appropriate amount determined by the product of the rated cubic yard capacity of such vehicle, as determined by the Department's Truck Measurement Unit, and the rate fixed by law for such material.
-
-(k) The Department will provide reasonable notice to a user when its account is approaching the minimum balance, by advising the user's agent offering the load of material for disposal that the user is approaching the minimum balance. It shall be the user's responsibility to ensure that it has maintained and is maintaining the necessary minimum balance in the APS to accommodate any loads offered at any Department Disposal Facility.
-
-(l) In the event that a user's account is reduced below its minimum balance, as determined by the Department pursuant to subdivision (b) of this section, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount to bring the account above the minimum balance.
-
-(m) In the case of a diminution of the user's account below the total amount on deposit with the Department, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material. In addition, the Department may, at its discretion, require the user to deposit an additional amount which shall increase the user's required minimum balance to twice the amount previously established by the Department. The Department may require that such additional minimum balance be maintained for at least one year, at which time the user may apply for a reduction in the additional minimum balance.
-
-(n) In the case of a diminution of the user's account below the total amount on deposit with the Department on more than one occasion, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at the Department's Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material and an additional amount which shall be determined by the Department.
-
-(o) Requirements for pre-payment shall not apply to Federal Government agencies. The Commissioner may enter into written agreements with such agencies providing for payments at the rates set by 16 RCNY § 2-04 or by local law, whichever is applicable, in a manner other than that specified in this section, including, for example, quarterly payments.
-
-
-
-
-
-
-*§ 2-07 Construction and Demolition Waste and Transporters.* ::
-
-
-(a) It is the purpose and intent of this section to treat separately that category of materials hereinafter defined as "Construction and Demolition Waste" and those persons and vehicles hereinafter defined as "Construction and Demolition Waste Transporters."
-
-(b) "Construction and Demolition Waste" materials are hereby defined as the non-putrescible waste products resulting from building demolition, construction, alteration and excavation, including but not limited to dirt, earth, plaster, concrete, rock, rubble, slag, ashes and waste timber and lumber.
-
-(c) Construction and Demolition Waste Transporters are defined as persons or vehicles engaged in the business of transporting construction and demolition waste except that no person or vehicle possessing a Class 1, Class 2, Class 3, Class 4, Class 5 or Class 6 commercial refuse license may qualify as a Construction and Demolition Waste Transporter.
-
-(d) The Department may accept at specifically designated locations construction and demolition waste resulting from operations conducted within New York City and offered by Construction and Demolition Waste Transporters in compliance with all applicable provisions of these Rules and Regulations and with all applicable provisions of law. The Department shall require such Transporters to identify the origin of such waste and to furnish the identifying number of the applicable Department of Buildings permit, if any. The Department may at its discretion prohibit any Construction and Demolition Waste Transporter violating these Rules and Regulations or any applicable provision of law from offering such waste at such locations. Construction and Demolition Waste will not be accepted at any location from any person from whom the Commissioner is authorized by Resolution of the Board of Estimate of the City of New York to charge a cubic yard rate for the receipt and disposal of such waste unless the person offering such waste tenders a prepaid ticket known as a CW ticket for each load at the rates prescribed and fixed by the Board of Estimate of the City of New York. CW tickets shall be sold only in books of five (5) tickets, each separate ticket being a payment for one load. Tickets shall not be detached and offered separately. CW tickets shall not be assigned, transferred, or otherwise disposed of by any person, firm, or corporation that has purchased such tickets from the Department of Sanitation.
-
-(e) Each and every time a Construction and Demolition Waste Transporter, or his servant, agent, employee, or representative offers a load of material for receipt and acceptance by the Department of Sanitation at specifically designated locations the Construction and Demolition Waste Transporter and the individual offering the load on his behalf shall be deemed by the offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and Regulations and of all applicable provisions of law, and also shall be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
-
-(f) 16 RCNY § 2-02(h) is not applicable to CW Transporters, but 16 RCNY § 2-03(d) shall apply.
-
-(g) Upon the expiration of 60 days from the effective date of this Rule and Regulation, no Construction and Demolition Waste Transporter shall be permitted to offer any construction and demolition waste to any Department facility and the Department will not accept any such waste unless the Construction and Demolition Waste Transporters offering such material have complied with the following:
-
-   (1) Such Construction and Demolition Waste Transporters shall have been measured by the Commissioner to determine their cubic yard capacity;
-
-   (2) Such Construction and Demolition Waste Transporters shall, upon offering any construction and demolition waste at any Department disposal facility exhibit an identification card, issued by the Department of Sanitation, indicating the name and address of the owner of such Transporter, the cubic yard capacity of such Transporter as determined by the Department of Sanitation registration number assigned to such transporter; and
-
-   (3) Such Construction and Demolition Waste Transporter shall have painted upon each side of the Transporter body well forward, in the manner and sequence specified below the following information which shall be identical to that contained on the identification card referred to in 16 RCNY § 2-07(g)(2) above:
-
-      (i) in letters and numbers not less than four inches in height, the business name and address of the owner of such transporter;
-
-      (ii) in letters and numbers not less than two inches in height, the following legends "D.S. Reg. Cap. Cu. Yds., D.S. Reg. No." with the numbers adjacent thereto which are identical to those appearing on the identification card referred to in 16 RCNY § 2-07(g)(2) above;
-
-      (iii) the sequence of the information required to be painted in subparagraphs (i) and (ii) above shall be as follows:
-
-         Name of owner Address of owner D.S. Reg. Cap – Cu. Yds. D.S. Reg. No.
-
-   (4) Such Construction and Demolition Waste Transporter shall have affixed to the vehicle body and/or container an official notice from the Department of Sanitation stating the cubic yard capacity and/or any identification number as required by the Department. For purpose of this section, in the event that any Construction and Demolition Waste Transporter shall have more than one container including but not limited to roll-on/roll-off containers, which are used for the Construction and Demolition Waste Transporter, then each such container shall be deemed a separate Construction and Demolition Waste Transporter for purposes of these Rules and Regulations and shall be measured by the Department of Sanitation as provided hereunder. Once the Construction and Demolition Waste Transporter shall have been measured by the Department of Sanitation in compliance with these Rules and Regulations, any change in the cubic capacity of such Transporter shall require the owner of such Transporter to present such Transporter to the Department for a new measuring within 5 days of such change in its cubic capacity. Except as provided for above, as to changes in cubic capacity after measuring by the Department, any Construction and Demolition Waste Transporter warrants and represents that in offering any load of construction and demolition waste that his Construction and Demolition Waste Transporter has not been altered or changed in any manner so as to increase or decrease the cubic capacity of such Transporter.
-
-(h) [Reserved.]
-
-(i) Before a work permit for construction, alteration or demolition is issued by the Department of Buildings to any applicant who desires to dispose of the construction and demolition waste originating from such work, the applicant for such permit shall pay a Construction and Demolition Waste Disposal fee to the Department of Buildings as agent for the Department of Sanitation based on a schedule of rates fixed by the Board of Estimate. Where a permit is issued in connection with a contract awarded by an agency of the City of New York which may include the New York City Housing Authority, the applicant shall accompany payment of such fee with a certification by such City agency setting forth the cubeage or load data as the case may be, which determines the amount of the fee; or in lieu of payment of such fee the applicant may submit to the Department of Buildings a certification by such City agency on a form prescribed by the Comptroller that it will determine the fee payable on such construction alteration or demolition as the case may be, and report such amount to the Comptroller to be collected out of the first payment due under such contract.
-
-(j) All other sections, subdivisions and paragraphs of these Rules and Regulations shall apply with equal force and effect to Construction and Demolition Waste Transporters, except where inconsistent or in conflict with the provisions of 16 RCNY § 2-07 herein, in which case, the provisions of 16 RCNY § 2-07, shall prevail.
-
-(k) On or after July 23, 1973, no construction and demolition waste will be accepted for disposition at any Department of Sanitation disposal facility if:
-
-   (1) such waste has originated from a site for which a disposal fee has been paid in accordance with Board of Estimate Resolution No. 43, adopted on October 8, 1970;
-
-   (2) such waste has originated from a site for which a certification by a City agency has been filed pursuant to 16 RCNY § 2-07(i); or
-
-   (3) such waste originates from a site for which no permit is required to be issued pursuant to §§ 27-156, 27-161 and 27-167 of the Administrative Code unless the applicant for such permits, as to the construction and demolition waste specified in (3) above, provide the Construction and Demolition Waste Transporter with dump tickets, furnished to such applicant by the Department of Sanitation, and the Construction and Demolition Waste Transporter shall present such tickets in the appropriate number when offering such waste at any Department of Sanitation disposal facility for receipt and disposal. Such tickets shall be issued to any such applicant who requests such tickets provided such applicant executes a request for these tickets upon forms supplied by the Commissioner of the Department of Sanitation and supplies all of the appropriate information required on such forms. The Commissioner reserves the right to determine whether the information furnished by such applicant is accurate and to certify whether such applicant is entitled to the number of dump tickets contained in his request. Such requests shall be made on forms provided by the Department of Sanitation which shall be filed at any time subsequent to the effective date of this amendment at times and places to be designated by the Commissioner.
-
-
-
-
-
-
-*§ 2-08 Receipt of Compostable Material at Department Compost Facilities.* ::
-
-
-In addition to 16 RCNY §§ 2-01, 2-02, 2-03, and 2-06, the following provisions shall apply to the receipt of yard waste and other compostable material at Compost Facilities.
-
-(a) The Department may, at its discretion, accept yard waste and other compostable material at Compost Facilities at the rates set by law. In addition, the Department may, at its discretion, accept virgin wood chips at Compost Facilities free of charge.
-
-(b) Only yard waste as defined in 16 RCNY § 2-01 and other compostable material, as determined by the Department, shall be accepted at Compost Facilities. Yard waste or other compostable material that is contaminated with non-compostable material shall not be accepted at Compost Facilities.
-
-(c) Yard waste and other compostable material shall be accepted in bulk form or compostable receptacles as determined by the Commissioner. In no event shall yard waste or other compostable material be accepted in plastic bags or in other receptacles determined by the Commissioner to be non-compostable.
-
-(d) Brush shall be segregated from other yard waste and shall be deposited at Compost Facilities as directed by the Department.
-
-(e) To be eligible for acceptance free of charge, virgin wood chips must be delivered to Compost Facilities in a vehicle that contains only virgin wood chips. Virgin wood chips that are delivered to Compost Facilities in the same vehicle as yard waste or other compostable material, even if segregated from such other materials, shall be accepted at the rates set by law for the acceptance of such other material at Compost Facilities.
 
 
 
