@@ -1,6 +1,429 @@
 Title 40: Board of Correction
 ===================================================
 
+Chapter 2: Mental Health Minimum Standards
+--------------------------------------------------
+
+
+
+*§ 2-01 Service Calls.* ::
+
+
+Services for the detection, diagnosis and treatment of mental illness shall be provided to those persons in the care and custody of the New York City Department of Correction. The New York City Department of Health or a contracted service provider,* and the Department of Correction, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall design and implement a mental health program to provide:
+
+(a) crisis intervention and the management of acute psychiatric episodes;
+
+(b) suicide prevention;
+
+(c) stabilization of mental illness and the alleviation of psychological deterioration in the prison setting; and
+
+(d) elective therapy services and preventive treatment where resources permit.
+
+
+
+
+
+
+*§ 2-02 Identification and Detection.* ::
+
+
+(a) Policy. Procedures shall be developed and implemented which promote the timely identification of inmates requiring mental health evaluation.
+
+(b) Receiving screening.
+
+   (1) Screening for mental and emotional disorders is to be performed on all inmates before they are placed in general population. This initial screening shall take place within twenty-four hours after an inmate's arrival at the correctional facility.
+
+   (2) Screening shall be performed by mental health services personnel or by appropriately trained medical personnel. Screening may be incorporated within the medical intake procedure.
+
+   (3) The Department of Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop written procedures setting the topics to be reviewed in receiving screening. The review shall include, but need not be limited to: psychiatric history, including neuropsychiatric hospitalizations, contacts with mental health professionals, suicidal and violent behavior, history or presence of delusions or hallucinations, and an assessment based on behavioral observations of mood, orientation, impaired consciousness, indications of gross mental retardation and significant presenting complaints.
+
+   (4) The professionals conducting intake screening shall record their findings in a standard, written mental health intake form which the Department of Health shall develop with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services for use in all facilities.
+
+   (5) Receiving screening shall include a description of available mental health services and the procedures for access to those services:
+
+      (i) inmates shall receive a written communication in English and Spanish describing available mental health services, the confidentiality of those services and the procedures for gaining access to them;
+
+      (ii) the Department of Correction shall make provisions to assist in assuring that the procedures for gaining access to mental health services are verbally explained to illiterate inmates, and that inmates whose native language is other than English or Spanish are given prompt access to translation services for the explanation of these procedures.
+
+(c) Training of staff.
+
+   (1) All correction officers and medical services personnel are to receive training and continuing education in programs approved by the Departments of Correction, Health and Mental Health, Mental Retardation and Alcoholism Services regarding the recognition of mental and emotional disorders. This training shall incorporate, but need not be limited to, the following areas:
+
+      (i) the recognition of signs and symptoms of mental and emotional disorders most frequently found in the inmate population;
+
+      (ii) the recognition of signs of chemical dependence and the symptoms of narcotic and alcohol withdrawal;
+
+      (iii) the recognition of adverse reactions to psychotropic medication;
+
+      (iv) the recognition of signs of developmental disability, particularly mental retardation;
+
+      (v) types of potential mental health emergencies, and how to approach inmates to intervene in these crises;
+
+      (vi) identification and referral of medical problems of mental health inmates;
+
+      (vii) suicide prevention; and
+
+      (viii) the appropriate channels for the immediate referral of an inmate to mental health services for further evaluation, and the procedures governing such referrals.
+
+   (2) No later than nine months from the effective date of these standards, there shall be at least one officer in every housing area on every tour trained in the application of basic first aid, including life support cardio-pulmonary resuscitation.
+
+   (3) Mental health services staff shall receive explicit orientation as well as continuing education and training appropriate to their activities:
+
+      (i) there shall be a written plan developed by the Department of Health and approved by the Department of Mental Health, Mental Retardation and Alcoholism Services for the orientation, continuing education and training of all mental health services staff;
+
+      (ii) in-service training shall include regular individual supervision of not less than one hour per week and not less than one hour per week of continuing education to be prorated for part-time staff.
+
+(d) Observation aides.
+
+   (1) There is to be an organized program of observation aides trained to monitor those inmates identified as potential suicide risks as well as to recognize in those inmates not previously identified the warning signals of suicidal behavior. Inmates, including those housed in mental observation areas, may be employed as observation aides and shall be paid for their services.
+
+   (2) Written procedures shall be developed by the Department of Correction and Health, to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services, defining the selection criteria for observation aides, the training they shall receive, the procedures they shall follow and the criteria for the evaluation of their performance as well as for terminating their employment where necessary:
+
+      (i) in developing a program of observation aides the Department of Correction shall consult with the Department of Health in order to provide for coordination of effort between the two agencies;
+
+      (ii) observation aides shall be trained to promptly inform correction or mental health services staff when they believe an inmate poses a suicide risk, presents an immediate danger of suicide or is engaging in bizarre behavior. This information shall be recorded in a systematic manner.
+
+   (3) Observation aides shall operate in all correctional facilities in the following housing areas: mental observation, punitive segregation, administrative segregation and new admission. They shall be employed in other areas as required.
+
+
+
+
+
+
+*§ 2-03 Diagnosis and Referral.* ::
+
+
+(a) Policy. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services, shall develop procedures to provide for the prompt evaluation and appropriate referral of inmates whose behavior suggests that they are suffering from a mental or emotional disorder, as well as the immediate evaluation and treatment of those in need of emergency psychiatric care.
+
+(b) Access.
+
+   (1) There is to be non-emergency access to mental health services. Inmates may refer themselves for preliminary evaluation, and they shall be seen by a member of mental health services staff as soon as possible but in no instance later than three working days after receipt of referral by mental health services staff. The Department of Correction shall ensure that notice of the request is received by mental health services staff within twenty-four hours.
+
+   (2) Inmates shall have twenty-four hour access to mental health services personnel for emergency psychiatric care and the management of acute psychiatric episodes:
+
+      (i) all inmates who report having been sexually assaulted shall be referred for emergency assessment;
+
+      (ii) inmates awaiting emergency evaluation are to be housed in a specially designated area with close staff supervision and sufficient security to protect inmates and staff;
+
+      (iii) the Departments of Correction and Health shall develop a written form for emergency evaluation referrals.
+
+   (3) Correction staff and medical services personnel are required to refer to mental health services those inmates in the general population who exhibit signs of mental or emotional disorders. A standard written procedure to include a description of the behavior upon which the referral is based shall be developed by the Departments of Health and Correction.
+
+   (4) The Department of Correction shall provide sufficient escort officers to ensure delivery of service in a manner that promotes the maximum efficiency of mental health services staff. The Department of Correction shall develop and implement procedures to provide that inmates requested for evaluation or follow-up be escorted to mental health services staff, or accounted for, the same day. In all cases where the inmate is still in custody, he or she shall be brought to mental health services staff within twenty-four hours.
+
+
+
+
+
+
+*§ 2-04 Treatment.* ::
+
+
+(a) Policy. Adequate mental health care is to be provided to inmates in an environment which facilitates care and treatment, provides for maximum observation, reduces the risk of suicide, and is minimally stressful. Inmates under the care of mental health services, if in all other respects qualified and eligible shall be entitled to the same rights and privileges as every other inmate.
+
+(b) Criteria of adequacy.
+
+   (1) The Department of Health shall develop written criteria to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services defining in accordance with current professional standards the mental health staff, supplies and equipment necessary to provide adequate mental health care.
+
+   (2) The Departments of Health and Correction shall develop written criteria to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services defining in accordance with current professional standards the space necessary to provide adequate and appropriate housing and treatment of inmates under the care of mental health services.
+
+   (3) No later than ninety days from the effective date of these standards, the written criteria shall be submitted to the Board of Correction for promulgation as an amendment to these standards.
+
+(c) Programs.
+
+   (1) Special housing shall be provided to those inmates in need of close supervision due to mental or emotional disorders, and to those inmates in the process of being evaluated for such disorders:
+
+      (i) twenty-four hour observation aides shall be assigned to special housing areas;
+
+      (ii) correction officers who have received not less than thirty-five hours of special training within the first year of their assignment shall be assigned to steady posts within these areas. These officers shall receive annual training enhancement. The Departments of Health and Correction shall develop a written curriculum to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services specifying the components and hours of the training programs;
+
+      (iii) inmates placed in special housing areas shall be seen and interviewed by mental health services staff at least once per week;
+
+      (iv) an individual member of mental health services staff shall be directly responsible for mental health services in each special housing area;
+
+      (v) the Department of Correction shall make provision for the allocation of dormitory space as special housing for the observation of potentially suicidal inmates.
+
+   (2) The Departments of Correction and Health shall develop specific written criteria and procedures for the admission to and the discharge from special housing areas for mental observation:
+
+      (i) it shall be the prerogative of mental health services to admit and discharge inmates from special housing areas for mental observation;
+
+      (ii) the placement of an inmate in special housing shall be reviewed by mental health services at least once per week.
+
+   (3) An individualized written treatment plan based upon the evaluation of the treatment team shall be developed for each inmate placed in special housing for mental observation and for all inmates to whom medication for mental or emotional disorders is prescribed:
+
+      (i) the treatment team must include a psychiatrist who shall personally examine each inmate evaluated by the treatment team;
+
+      (ii) those members of the treatment team who are providing care to an inmate shall prepare a treatment plan, which shall be signed by the psychiatrist;
+
+      (iii) the Chief of Service or his or her designee shall approve all treatment plans;
+
+      (iv) the Department of Health shall develop written criteria to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services defining the nature and the specificity of the treatment plan;
+
+      (v) there shall be documented evidence of initial treatment planning within three days of the inmate being placed in special housing, and a treatment plan shall be prepared no later than one week after placement;
+
+      (vi) treatment plans shall be reviewed and assessed for effectiveness by professional mental health services staff at least every two weeks. Both the review and the inmate's progress shall be recorded in the medical chart;
+
+      (vii) a range of treatment modalities other than the provision of medication shall be made available.
+
+   (4) There shall be facilities appropriate for the observation, evaluation and treatment of acute psychiatric episodes.
+
+   (5) Where required, an inmate shall be transferred to a municipal hospital prison ward in accordance with New York State Correction Law §§ 402 and 508.
+
+   (6) Inmates identified as developmentally disabled shall be evaluated within seventy-two hours and mental health services staff shall make a recommendation to the Department of Correction as to whether such developmental disability makes it necessary for the inmate to be placed in special housing or otherwise separated from the general inmate population:
+
+      (i) inmates who suffer from developmental disabilities shall be housed in areas sufficient to ensure their safety;
+
+      (ii) if it is determined by mental health services that an inmate's developmental disability makes it clinically contraindicated that the inmate be housed in a correctional facility, then the Department of Correction shall immediately notify the court and a written notice shall be filed in the inmate's court papers.
+
+   (7) The Departments of Health and Correction shall use mechanisms approved by the Department of Mental Health, Mental Retardation and Alcoholism Services to identify inmates who are suffering from drug addiction or the disease of alcoholism. Inmates so identified shall be referred to available programs approved by the Departments of Correction and Health. Detoxification shall take place in a setting appropriate to the level of care required.
+
+(d) Informed consent. Except as otherwise provided herein, mental health treatment may be administered only upon the informed consent of the inmate after a disclosure of the risks and benefits of the proposed treatment in accordance with good clinical practice. The Departments of Health and Mental Health, Mental Retardation and Alcoholism Services shall develop procedures for the implementation of this section, which shall include the use of a written form to document the informed consent of the inmate.
+
+(e) Right to refuse treatment. The city may not require treatment of an inmate without the inmate's consent unless, in an emergency, that person, by reason of mental disability or mental illness, poses a clear and present danger of serious physical injury to self or others. Then and only then may an inmate be examined, treated or medicated against the inmate's will, subject to the following conditions:
+
+   (1) the attending physician shall use only those measures which in his or her best professional judgment are deemed appropriate in response to the emergency;
+
+   (2) these measures may be used only with a written medical order;
+
+   (3) these measures may be used only with adequate explanation in the inmate's chart by the physician responsible detailing the length of the period of observation, the inmate's condition, the threat the inmate poses and the specific reasons for the specific intervention proposed;
+
+   (4) no order to treat an inmate against the inmate's will shall be valid for longer than twenty-four hours, without review and renewal and appropriate notation in the inmate's medical records;
+
+   (5) the Departments of Correction and Health shall develop procedures to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services for the implementation of this subdivision including the use of a written form to document an inmate's refusal to consent to a particular examination, procedure or medication.
+
+
+
+
+
+
+*§ 2-05 Medication.* ::
+
+
+(a) Policy. Medication shall not be used solely as a method of restraint or means of control, but only as one facet of a treatment plan (as defined in 40 RCNY § 2-04(c)(3)).
+
+(b) Procedures.
+
+   (1) The Department of Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement procedures governing the prescription, dispensing, administration and review of medication:
+
+      (i) medication for mental and emotional disorders is to be prescribed only by a psychiatrist, except in an emergency when a physician other than a psychiatrist may prescribe medication for mental and emotional disorders. Such a prescription must be reviewed by a psychiatrist within twenty-four hours;
+
+      (ii) except in an emergency, medication for mental and emotional disorders may not be prescribed to an inmate unless that inmate has had a physical examination including a detailed clinical history within the previous six months; in all cases the prescribing physician must first review the medical chart and all other medicine the inmate is receiving;
+
+      (iii) medication is to be administered only by appropriately trained medical or health services personnel.
+
+   (2) Psychotropic medication shall be dispensed only when clinically indicated, consistent with the treatment plan:
+
+      (i) all prescriptions for psychotropic medication must include a stop order; no prescription for psychotropic medication shall be valid for longer than two weeks;
+
+      (ii) every inmate receiving psychotropic medication shall be seen and evaluated by the prescribing psychiatrist, or, in cases of emergency when a physician other than a psychiatrist prescribes medication under 40 RCNY § 2-05(b)(1)(i) by the reviewing psychiatrist, at least once a week until stabilized and thereafter at least every two weeks by medical personnel;
+
+      (iii) female inmates who are prescribed psychotropic medication shall be informed of the potential risk of taking such drugs while pregnant and shall be given the opportunity to be tested for pregnancy.
+
+(c) Pharmacy.
+
+   (1) When stock medications are maintained within a correctional facility, the agency providing medical services shall develop and maintain a formulary of medications stored in that facility.
+
+   (2) The Departments of Health and Correction shall develop and implement a written policy to provide for the maximum security storage and weekly inventory of all controlled substances, syringes, needles and surgical instruments:
+
+      (i) "controlled substances" are defined as those so listed by the Drug Enforcement Administration of the United States Department of Justice;
+
+      (ii) written notice of this policy shall be given to all staff with potential access to any controlled substances or items under maximum security storage.
+
+(d) Research. Biomedical or behavioral research involving any inmate in the custody of the New York City Department of Correction is prohibited, except insofar as it meets the requirements for approval of research which is subject to the Department of Health and Human Services' regulations, and in addition, has the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services.
+
+
+
+
+
+
+*§ 2-06 Restraints and Seclusion.* ::
+
+
+(a) Policy. The Departments of Correction and Health shall develop and implement procedures subject to the review of the Department of Mental Health, Mental Retardation and Alcoholism Services governing the physical restraint and seclusion of inmates being observed or treated for mental or emotional disorders. Consistent with the New York State Mental Hygiene Law restraints or seclusion shall not be used as punishment, for the convenience of staff, or as a substitute for treatment programs.
+
+(b) Definitions.
+
+   Physical restraint. "Physical restraint" is the deliberate use of a device to interfere with the free movement of an inmate's arms and/or legs, or which totally immobilizes the inmate, and which the inmate is unable to remove without assistance:
+
+      (i) the Departments of Health and Mental Health, Mental Retardation and Alcoholism Services shall develop procedures defining permissible forms of physical restraints;
+
+      (ii) in no instance shall metal handcuffs be used to restrain an inmate; however, this proscription shall not preclude the application of appropriate security precautions during the transportation of inmates;
+
+      (iii) in an emergency, when an inmate presents a clear and present danger to himself or others, the inmate may be restrained, including with metal handcuffs, pending the arrival of a psychiatrist. Correction personnel shall immediately notify the mental health staff for response. The psychiatrist shall respond immediately, but in no event more than one hour after notification. When there is no institutional psychiatrist on duty, correction personnel shall immediately transport the inmate to a facility where a psychiatrist is present.
+
+   Seclusion. "Seclusion" is the placing of inmates in their cells, or a seclusion room from which they cannot leave at will, during a normal lock-out period when other inmates in the housing area are given the option to lock out of their cells:
+
+      (i) seclusion shall be used only if the cells or seclusion rooms available allow adequate observation of the inmate by staff;
+
+      (ii) nothing in this Section shall restrict the ability of the Department of Correction to limit the lock-out rights of inmates for disciplinary purposes (punitive segregation).
+
+(c) Procedures. 
+
+   (1) The use of physical restraint or seclusion of inmates being observed or treated for mental or emotional disorders shall be permitted only where there is on-duty psychiatric coverage.
+
+   (2) Physical restraint or seclusion may be used only upon the direct written order of a psychiatrist which includes the reasons for taking such action.
+
+   (3) Physical restraint or seclusion shall be used only when the psychiatrist has examined the inmate and determined in light of all available mental health data that:
+
+      (i) the inmate presents an immediate danger of injury to self or others;
+
+      (ii) this potential for violence is the result of a mental health disorder for which the inmate is receiving treatment;
+
+      (iii) these measures are absolutely necessary to avert the danger and will be therapeutically beneficial; and
+
+      (iv) all other available alternatives are ineffective in preventing injury.
+
+   (4) An inmate put in restraints or seclusion shall be kept under constant observation and the need for continued restrictive measures shall be assessed by nursing or mental health staff:
+
+      (i) use of restraints shall be assessed every fifteen minutes and seclusion shall be reviewed every thirty minutes;
+
+      (ii) written findings of such reviews shall be noted on the inmate's medical chart;
+
+      (iii) vital signs (temperature, pulse, blood pressure and respiration) shall be recorded every hour.
+
+   (5) An inmate subjected to restraints or seclusion shall be released every two hours and given the opportunity to go to the toilet.
+
+   (6) A psychiatrist shall evaluate an inmate in restraints or seclusion at least once every two hours to determine whether continued restrictive measures are warranted.
+
+   (7) No order to place an inmate in restraints or seclusion shall be valid longer than two hours, and such an order shall be renewable only once, by a psychiatrist after evaluation of the inmate's condition.
+
+   (8) After four hours, if an inmate remains too agitated to be released, the inmate shall be moved to a municipal hospital prison ward.
+
+
+
+
+
+
+*§ 2-07 Confidentiality.* ::
+
+
+(a) Policy. The principle of confidentiality of information obtained in the course of treatment is to be upheld. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement a written policy governing the dissemination of information.
+
+(b) Sharing of information.
+
+   (1) Mental health services shall promptly inform correction personnel when an inmate is identified as:
+
+      (i) suicidal;
+
+      (ii) homicidal;
+
+      (iii) posing a clear danger or injury to self or to others;
+
+      (iv) presenting a clear and immediate risk of escape or riot;
+
+      (v) receiving psychotropic medication; or
+
+      (vi) requiring transfer for mental health reasons.
+
+   (2) The Departments of Correction and Health shall develop and implement an explicit written procedure specifying which correction personnel are to be notified of information as described in 40 RCNY § 2-07(b)(1) above, and the method of notification.
+
+(c) Records.
+
+   (1) Mental health records are to be maintained separately from the confinement record and kept in a secure file. Each significant inmate contact shall be reflected by a substantive progress note on the chart.
+
+   (2) Mental health records are to be transferred with an inmate when the inmate is transferred from one facility to another within the New York City Department of Correction. A record summary shall accompany each inmate transferred to a municipal hospital prison ward. When a request is received to transfer mental health records outside the jurisdiction of the Department of Correction, written authorization of the inmate is required unless otherwise provided by law.
+
+
+
+
+
+
+*§ 2-08 Coordination.* ::
+
+
+(a) Policy. The Departments of Correction and Health shall consult and coordinate their activities on a regular basis in order to provide for the continued delivery of quality mental health care.
+
+(b) Discipline.
+
+   (1) The Departments of Health and Correction shall develop written procedures to provide for mental health services to be informed whenever an inmate in a special housing area for mental observation is charged with an infraction, and to be permitted to participate in the infraction hearing and to review any punitive measures to be taken.
+
+   (2) When placement in punitive segregation would pose a serious threat to an inmate's physical or mental health, medical staff shall have the authority to determine that the inmate shall be barred from such placement or shall be moved from punitive segregation to a more appropriate housing unit. This determination may be made at any time during the inmate's placement in punitive segregation. All inmates in punitive segregation shall be seen at least once each day by medical staff who shall make referrals to medical and mental health services where appropriate.
+
+(c) Meetings. Monthly meetings including the facility administrator, the chief representative of mental health services to that facility and representatives of the medical and nursing staff shall be held to discuss the delivery of mental health services. Meetings shall include a written agenda as well as the taking and distribution of minutes.
+
+(d) Evaluation. The Department of Mental Health, Mental Retardation and Alcoholism Services shall annually conduct a formal evaluation of the quality, effectiveness and level of performance of mental health services provided to inmates in New York City correctional facilities.
+
+
+
+
+
+
+*§ 2-09 Variances.* ::
+
+
+(a) Policy. Any Department affected by these minimum standards may apply for a variance from a specific subdivision or Section of these standards when compliance cannot be achieved or continued. A "variance" is an exemption granted by the Board from full compliance with a particular subdivision or Section for a specified period of time.
+
+(b) Variance prior to implementation date. A Department may apply to the Board for a variance prior to the implementation date of a particular subdivision or Section when:
+
+   (1) despite its best efforts and the best efforts of other New York City officials and agencies, full compliance with the subdivision or Section cannot be achieved by the implementation date; or
+
+   (2) compliance is to be achieved in a manner other than specified in the subdivision or Section.
+
+(c) Variance application. An application for a variance must be made in writing to the Board by the Commissioner of the Department at least forty-five days prior to the implementation date and shall state:
+
+   (1) the particular subdivision or Section at issue;
+
+   (2) the efforts undertaken by the Department to achieve compliance by the implementation date;
+
+   (3) the specific facts or reasons making full compliance by the implementation date impossible;
+
+   (4) the specific plans, projections and timetables for achieving full compliance;
+
+   (5) the specific plans for serving the purpose of the subdivision or Section for the period that strict compliance is not possible; and
+
+   (6) the time period for which the variance is requested, provided that this shall be no more than six months.
+
+(d) Variance procedure.
+
+   (1) Prior to a decision on a variance application, the Board shall consider the positions of all interested parties.
+
+   (2) In order to receive this input the Board shall publicize the variance application in its entirety in a manner reasonably calculated to reach all interested parties, including direct mail. This shall occur at least thirty days prior to the implementation date of the subdivision or Section.
+
+   (3) The Board shall hold a public meeting or hearing on the variance application and hear testimony from all interested parties at least twenty-one days prior to the implementation date.
+
+   (4) The Board's decision on a variance application shall be in writing and shall include the specific facts and reasons underlying the decision.
+
+   (5) The Board's decision shall be publicized in the manner provided by 40 RCNY § 2-09(d)(2) at least ten days prior to the implementation date.
+
+(e) Granting of variance. 
+
+   (1) The Board shall grant a variance only if it is convinced that the variance is necessary and justified.
+
+   (2) Upon granting a variance, the Board shall state:
+
+      (i) the time period of the variance; and
+
+      (ii) any requirements imposed as conditions on the variance.
+
+(f) Renewal of variance. An application for a renewal of a variance shall be treated in the same manner as an original application as provided in 40 RCNY §§ 2-09(b), 2-09(c), 2-09(d) and 2-09(e). The Board shall not grant renewal of a variance unless it finds that, in addition to the requirements for approving an original application, a good faith effort has been made to comply with the subdivision or Section within the previously prescribed time limitation.
+
+(g) Emergency variance after implementation date. A Department may apply to the Board for a variance after the implementation date of a particular subdivision or Section when an emergency prevents continued compliance with the subdivision or Section.
+
+(h) Emergency variance application. 
+
+   (1) A variance for a period of less than twenty-four hours may be declared by the Department or a designee when an emergency prevents continued compliance with a particular subdivision or Section. The Board or a designate shall be immediately notified of the emergency and the variance.
+
+   (2) An application for an emergency variance for a period of twenty-four hours or more, or for a renewal of an emergency variance, must be made by the Commissioner of the Department or a designee to the Board and shall state:
+
+      (i) the particular subdivision or Section at issue;
+
+      (ii) the specific facts or reasons making continued compliance impossible;
+
+      (iii) the specific plans, projections and timetables for achieving full compliance; and
+
+      (iv) the time period for which the variance is requested, provided that this shall be no more than five days.
+
+(i) Granting of emergency variance.
+
+   (1) The Board shall grant an emergency variance only if it is convinced that the variance is necessary and justified.
+
+   (2) A renewal of an emergency variance previously granted by the Board may be granted only if the requirements of 40 RCNY §§ 2-09(g), 2-09(h)(2) and 2-09(i)(1) have been met.
+
+   (3) The Board shall not grant more than two consecutive renewals of an emergency variance.
+
+
+
+
 Chapter 1: Correctional Facilities
 --------------------------------------------------
 
@@ -1416,502 +1839,6 @@ Provided, however, that, where the Department is permitted to consider an inmate
 
 
 
-Chapter 2: Mental Health Minimum Standards
---------------------------------------------------
-
-
-
-*§ 2-01 Service Calls.* ::
-
-
-Services for the detection, diagnosis and treatment of mental illness shall be provided to those persons in the care and custody of the New York City Department of Correction. The New York City Department of Health or a contracted service provider,* and the Department of Correction, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall design and implement a mental health program to provide:
-
-(a) crisis intervention and the management of acute psychiatric episodes;
-
-(b) suicide prevention;
-
-(c) stabilization of mental illness and the alleviation of psychological deterioration in the prison setting; and
-
-(d) elective therapy services and preventive treatment where resources permit.
-
-
-
-
-
-
-*§ 2-02 Identification and Detection.* ::
-
-
-(a) Policy. Procedures shall be developed and implemented which promote the timely identification of inmates requiring mental health evaluation.
-
-(b) Receiving screening.
-
-   (1) Screening for mental and emotional disorders is to be performed on all inmates before they are placed in general population. This initial screening shall take place within twenty-four hours after an inmate's arrival at the correctional facility.
-
-   (2) Screening shall be performed by mental health services personnel or by appropriately trained medical personnel. Screening may be incorporated within the medical intake procedure.
-
-   (3) The Department of Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop written procedures setting the topics to be reviewed in receiving screening. The review shall include, but need not be limited to: psychiatric history, including neuropsychiatric hospitalizations, contacts with mental health professionals, suicidal and violent behavior, history or presence of delusions or hallucinations, and an assessment based on behavioral observations of mood, orientation, impaired consciousness, indications of gross mental retardation and significant presenting complaints.
-
-   (4) The professionals conducting intake screening shall record their findings in a standard, written mental health intake form which the Department of Health shall develop with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services for use in all facilities.
-
-   (5) Receiving screening shall include a description of available mental health services and the procedures for access to those services:
-
-      (i) inmates shall receive a written communication in English and Spanish describing available mental health services, the confidentiality of those services and the procedures for gaining access to them;
-
-      (ii) the Department of Correction shall make provisions to assist in assuring that the procedures for gaining access to mental health services are verbally explained to illiterate inmates, and that inmates whose native language is other than English or Spanish are given prompt access to translation services for the explanation of these procedures.
-
-(c) Training of staff.
-
-   (1) All correction officers and medical services personnel are to receive training and continuing education in programs approved by the Departments of Correction, Health and Mental Health, Mental Retardation and Alcoholism Services regarding the recognition of mental and emotional disorders. This training shall incorporate, but need not be limited to, the following areas:
-
-      (i) the recognition of signs and symptoms of mental and emotional disorders most frequently found in the inmate population;
-
-      (ii) the recognition of signs of chemical dependence and the symptoms of narcotic and alcohol withdrawal;
-
-      (iii) the recognition of adverse reactions to psychotropic medication;
-
-      (iv) the recognition of signs of developmental disability, particularly mental retardation;
-
-      (v) types of potential mental health emergencies, and how to approach inmates to intervene in these crises;
-
-      (vi) identification and referral of medical problems of mental health inmates;
-
-      (vii) suicide prevention; and
-
-      (viii) the appropriate channels for the immediate referral of an inmate to mental health services for further evaluation, and the procedures governing such referrals.
-
-   (2) No later than nine months from the effective date of these standards, there shall be at least one officer in every housing area on every tour trained in the application of basic first aid, including life support cardio-pulmonary resuscitation.
-
-   (3) Mental health services staff shall receive explicit orientation as well as continuing education and training appropriate to their activities:
-
-      (i) there shall be a written plan developed by the Department of Health and approved by the Department of Mental Health, Mental Retardation and Alcoholism Services for the orientation, continuing education and training of all mental health services staff;
-
-      (ii) in-service training shall include regular individual supervision of not less than one hour per week and not less than one hour per week of continuing education to be prorated for part-time staff.
-
-(d) Observation aides.
-
-   (1) There is to be an organized program of observation aides trained to monitor those inmates identified as potential suicide risks as well as to recognize in those inmates not previously identified the warning signals of suicidal behavior. Inmates, including those housed in mental observation areas, may be employed as observation aides and shall be paid for their services.
-
-   (2) Written procedures shall be developed by the Department of Correction and Health, to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services, defining the selection criteria for observation aides, the training they shall receive, the procedures they shall follow and the criteria for the evaluation of their performance as well as for terminating their employment where necessary:
-
-      (i) in developing a program of observation aides the Department of Correction shall consult with the Department of Health in order to provide for coordination of effort between the two agencies;
-
-      (ii) observation aides shall be trained to promptly inform correction or mental health services staff when they believe an inmate poses a suicide risk, presents an immediate danger of suicide or is engaging in bizarre behavior. This information shall be recorded in a systematic manner.
-
-   (3) Observation aides shall operate in all correctional facilities in the following housing areas: mental observation, punitive segregation, administrative segregation and new admission. They shall be employed in other areas as required.
-
-
-
-
-
-
-*§ 2-03 Diagnosis and Referral.* ::
-
-
-(a) Policy. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services, shall develop procedures to provide for the prompt evaluation and appropriate referral of inmates whose behavior suggests that they are suffering from a mental or emotional disorder, as well as the immediate evaluation and treatment of those in need of emergency psychiatric care.
-
-(b) Access.
-
-   (1) There is to be non-emergency access to mental health services. Inmates may refer themselves for preliminary evaluation, and they shall be seen by a member of mental health services staff as soon as possible but in no instance later than three working days after receipt of referral by mental health services staff. The Department of Correction shall ensure that notice of the request is received by mental health services staff within twenty-four hours.
-
-   (2) Inmates shall have twenty-four hour access to mental health services personnel for emergency psychiatric care and the management of acute psychiatric episodes:
-
-      (i) all inmates who report having been sexually assaulted shall be referred for emergency assessment;
-
-      (ii) inmates awaiting emergency evaluation are to be housed in a specially designated area with close staff supervision and sufficient security to protect inmates and staff;
-
-      (iii) the Departments of Correction and Health shall develop a written form for emergency evaluation referrals.
-
-   (3) Correction staff and medical services personnel are required to refer to mental health services those inmates in the general population who exhibit signs of mental or emotional disorders. A standard written procedure to include a description of the behavior upon which the referral is based shall be developed by the Departments of Health and Correction.
-
-   (4) The Department of Correction shall provide sufficient escort officers to ensure delivery of service in a manner that promotes the maximum efficiency of mental health services staff. The Department of Correction shall develop and implement procedures to provide that inmates requested for evaluation or follow-up be escorted to mental health services staff, or accounted for, the same day. In all cases where the inmate is still in custody, he or she shall be brought to mental health services staff within twenty-four hours.
-
-
-
-
-
-
-*§ 2-04 Treatment.* ::
-
-
-(a) Policy. Adequate mental health care is to be provided to inmates in an environment which facilitates care and treatment, provides for maximum observation, reduces the risk of suicide, and is minimally stressful. Inmates under the care of mental health services, if in all other respects qualified and eligible shall be entitled to the same rights and privileges as every other inmate.
-
-(b) Criteria of adequacy.
-
-   (1) The Department of Health shall develop written criteria to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services defining in accordance with current professional standards the mental health staff, supplies and equipment necessary to provide adequate mental health care.
-
-   (2) The Departments of Health and Correction shall develop written criteria to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services defining in accordance with current professional standards the space necessary to provide adequate and appropriate housing and treatment of inmates under the care of mental health services.
-
-   (3) No later than ninety days from the effective date of these standards, the written criteria shall be submitted to the Board of Correction for promulgation as an amendment to these standards.
-
-(c) Programs.
-
-   (1) Special housing shall be provided to those inmates in need of close supervision due to mental or emotional disorders, and to those inmates in the process of being evaluated for such disorders:
-
-      (i) twenty-four hour observation aides shall be assigned to special housing areas;
-
-      (ii) correction officers who have received not less than thirty-five hours of special training within the first year of their assignment shall be assigned to steady posts within these areas. These officers shall receive annual training enhancement. The Departments of Health and Correction shall develop a written curriculum to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services specifying the components and hours of the training programs;
-
-      (iii) inmates placed in special housing areas shall be seen and interviewed by mental health services staff at least once per week;
-
-      (iv) an individual member of mental health services staff shall be directly responsible for mental health services in each special housing area;
-
-      (v) the Department of Correction shall make provision for the allocation of dormitory space as special housing for the observation of potentially suicidal inmates.
-
-   (2) The Departments of Correction and Health shall develop specific written criteria and procedures for the admission to and the discharge from special housing areas for mental observation:
-
-      (i) it shall be the prerogative of mental health services to admit and discharge inmates from special housing areas for mental observation;
-
-      (ii) the placement of an inmate in special housing shall be reviewed by mental health services at least once per week.
-
-   (3) An individualized written treatment plan based upon the evaluation of the treatment team shall be developed for each inmate placed in special housing for mental observation and for all inmates to whom medication for mental or emotional disorders is prescribed:
-
-      (i) the treatment team must include a psychiatrist who shall personally examine each inmate evaluated by the treatment team;
-
-      (ii) those members of the treatment team who are providing care to an inmate shall prepare a treatment plan, which shall be signed by the psychiatrist;
-
-      (iii) the Chief of Service or his or her designee shall approve all treatment plans;
-
-      (iv) the Department of Health shall develop written criteria to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services defining the nature and the specificity of the treatment plan;
-
-      (v) there shall be documented evidence of initial treatment planning within three days of the inmate being placed in special housing, and a treatment plan shall be prepared no later than one week after placement;
-
-      (vi) treatment plans shall be reviewed and assessed for effectiveness by professional mental health services staff at least every two weeks. Both the review and the inmate's progress shall be recorded in the medical chart;
-
-      (vii) a range of treatment modalities other than the provision of medication shall be made available.
-
-   (4) There shall be facilities appropriate for the observation, evaluation and treatment of acute psychiatric episodes.
-
-   (5) Where required, an inmate shall be transferred to a municipal hospital prison ward in accordance with New York State Correction Law §§ 402 and 508.
-
-   (6) Inmates identified as developmentally disabled shall be evaluated within seventy-two hours and mental health services staff shall make a recommendation to the Department of Correction as to whether such developmental disability makes it necessary for the inmate to be placed in special housing or otherwise separated from the general inmate population:
-
-      (i) inmates who suffer from developmental disabilities shall be housed in areas sufficient to ensure their safety;
-
-      (ii) if it is determined by mental health services that an inmate's developmental disability makes it clinically contraindicated that the inmate be housed in a correctional facility, then the Department of Correction shall immediately notify the court and a written notice shall be filed in the inmate's court papers.
-
-   (7) The Departments of Health and Correction shall use mechanisms approved by the Department of Mental Health, Mental Retardation and Alcoholism Services to identify inmates who are suffering from drug addiction or the disease of alcoholism. Inmates so identified shall be referred to available programs approved by the Departments of Correction and Health. Detoxification shall take place in a setting appropriate to the level of care required.
-
-(d) Informed consent. Except as otherwise provided herein, mental health treatment may be administered only upon the informed consent of the inmate after a disclosure of the risks and benefits of the proposed treatment in accordance with good clinical practice. The Departments of Health and Mental Health, Mental Retardation and Alcoholism Services shall develop procedures for the implementation of this section, which shall include the use of a written form to document the informed consent of the inmate.
-
-(e) Right to refuse treatment. The city may not require treatment of an inmate without the inmate's consent unless, in an emergency, that person, by reason of mental disability or mental illness, poses a clear and present danger of serious physical injury to self or others. Then and only then may an inmate be examined, treated or medicated against the inmate's will, subject to the following conditions:
-
-   (1) the attending physician shall use only those measures which in his or her best professional judgment are deemed appropriate in response to the emergency;
-
-   (2) these measures may be used only with a written medical order;
-
-   (3) these measures may be used only with adequate explanation in the inmate's chart by the physician responsible detailing the length of the period of observation, the inmate's condition, the threat the inmate poses and the specific reasons for the specific intervention proposed;
-
-   (4) no order to treat an inmate against the inmate's will shall be valid for longer than twenty-four hours, without review and renewal and appropriate notation in the inmate's medical records;
-
-   (5) the Departments of Correction and Health shall develop procedures to be approved by the Department of Mental Health, Mental Retardation and Alcoholism Services for the implementation of this subdivision including the use of a written form to document an inmate's refusal to consent to a particular examination, procedure or medication.
-
-
-
-
-
-
-*§ 2-05 Medication.* ::
-
-
-(a) Policy. Medication shall not be used solely as a method of restraint or means of control, but only as one facet of a treatment plan (as defined in 40 RCNY § 2-04(c)(3)).
-
-(b) Procedures.
-
-   (1) The Department of Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement procedures governing the prescription, dispensing, administration and review of medication:
-
-      (i) medication for mental and emotional disorders is to be prescribed only by a psychiatrist, except in an emergency when a physician other than a psychiatrist may prescribe medication for mental and emotional disorders. Such a prescription must be reviewed by a psychiatrist within twenty-four hours;
-
-      (ii) except in an emergency, medication for mental and emotional disorders may not be prescribed to an inmate unless that inmate has had a physical examination including a detailed clinical history within the previous six months; in all cases the prescribing physician must first review the medical chart and all other medicine the inmate is receiving;
-
-      (iii) medication is to be administered only by appropriately trained medical or health services personnel.
-
-   (2) Psychotropic medication shall be dispensed only when clinically indicated, consistent with the treatment plan:
-
-      (i) all prescriptions for psychotropic medication must include a stop order; no prescription for psychotropic medication shall be valid for longer than two weeks;
-
-      (ii) every inmate receiving psychotropic medication shall be seen and evaluated by the prescribing psychiatrist, or, in cases of emergency when a physician other than a psychiatrist prescribes medication under 40 RCNY § 2-05(b)(1)(i) by the reviewing psychiatrist, at least once a week until stabilized and thereafter at least every two weeks by medical personnel;
-
-      (iii) female inmates who are prescribed psychotropic medication shall be informed of the potential risk of taking such drugs while pregnant and shall be given the opportunity to be tested for pregnancy.
-
-(c) Pharmacy.
-
-   (1) When stock medications are maintained within a correctional facility, the agency providing medical services shall develop and maintain a formulary of medications stored in that facility.
-
-   (2) The Departments of Health and Correction shall develop and implement a written policy to provide for the maximum security storage and weekly inventory of all controlled substances, syringes, needles and surgical instruments:
-
-      (i) "controlled substances" are defined as those so listed by the Drug Enforcement Administration of the United States Department of Justice;
-
-      (ii) written notice of this policy shall be given to all staff with potential access to any controlled substances or items under maximum security storage.
-
-(d) Research. Biomedical or behavioral research involving any inmate in the custody of the New York City Department of Correction is prohibited, except insofar as it meets the requirements for approval of research which is subject to the Department of Health and Human Services' regulations, and in addition, has the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services.
-
-
-
-
-
-
-*§ 2-06 Restraints and Seclusion.* ::
-
-
-(a) Policy. The Departments of Correction and Health shall develop and implement procedures subject to the review of the Department of Mental Health, Mental Retardation and Alcoholism Services governing the physical restraint and seclusion of inmates being observed or treated for mental or emotional disorders. Consistent with the New York State Mental Hygiene Law restraints or seclusion shall not be used as punishment, for the convenience of staff, or as a substitute for treatment programs.
-
-(b) Definitions.
-
-   Physical restraint. "Physical restraint" is the deliberate use of a device to interfere with the free movement of an inmate's arms and/or legs, or which totally immobilizes the inmate, and which the inmate is unable to remove without assistance:
-
-      (i) the Departments of Health and Mental Health, Mental Retardation and Alcoholism Services shall develop procedures defining permissible forms of physical restraints;
-
-      (ii) in no instance shall metal handcuffs be used to restrain an inmate; however, this proscription shall not preclude the application of appropriate security precautions during the transportation of inmates;
-
-      (iii) in an emergency, when an inmate presents a clear and present danger to himself or others, the inmate may be restrained, including with metal handcuffs, pending the arrival of a psychiatrist. Correction personnel shall immediately notify the mental health staff for response. The psychiatrist shall respond immediately, but in no event more than one hour after notification. When there is no institutional psychiatrist on duty, correction personnel shall immediately transport the inmate to a facility where a psychiatrist is present.
-
-   Seclusion. "Seclusion" is the placing of inmates in their cells, or a seclusion room from which they cannot leave at will, during a normal lock-out period when other inmates in the housing area are given the option to lock out of their cells:
-
-      (i) seclusion shall be used only if the cells or seclusion rooms available allow adequate observation of the inmate by staff;
-
-      (ii) nothing in this Section shall restrict the ability of the Department of Correction to limit the lock-out rights of inmates for disciplinary purposes (punitive segregation).
-
-(c) Procedures. 
-
-   (1) The use of physical restraint or seclusion of inmates being observed or treated for mental or emotional disorders shall be permitted only where there is on-duty psychiatric coverage.
-
-   (2) Physical restraint or seclusion may be used only upon the direct written order of a psychiatrist which includes the reasons for taking such action.
-
-   (3) Physical restraint or seclusion shall be used only when the psychiatrist has examined the inmate and determined in light of all available mental health data that:
-
-      (i) the inmate presents an immediate danger of injury to self or others;
-
-      (ii) this potential for violence is the result of a mental health disorder for which the inmate is receiving treatment;
-
-      (iii) these measures are absolutely necessary to avert the danger and will be therapeutically beneficial; and
-
-      (iv) all other available alternatives are ineffective in preventing injury.
-
-   (4) An inmate put in restraints or seclusion shall be kept under constant observation and the need for continued restrictive measures shall be assessed by nursing or mental health staff:
-
-      (i) use of restraints shall be assessed every fifteen minutes and seclusion shall be reviewed every thirty minutes;
-
-      (ii) written findings of such reviews shall be noted on the inmate's medical chart;
-
-      (iii) vital signs (temperature, pulse, blood pressure and respiration) shall be recorded every hour.
-
-   (5) An inmate subjected to restraints or seclusion shall be released every two hours and given the opportunity to go to the toilet.
-
-   (6) A psychiatrist shall evaluate an inmate in restraints or seclusion at least once every two hours to determine whether continued restrictive measures are warranted.
-
-   (7) No order to place an inmate in restraints or seclusion shall be valid longer than two hours, and such an order shall be renewable only once, by a psychiatrist after evaluation of the inmate's condition.
-
-   (8) After four hours, if an inmate remains too agitated to be released, the inmate shall be moved to a municipal hospital prison ward.
-
-
-
-
-
-
-*§ 2-07 Confidentiality.* ::
-
-
-(a) Policy. The principle of confidentiality of information obtained in the course of treatment is to be upheld. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement a written policy governing the dissemination of information.
-
-(b) Sharing of information.
-
-   (1) Mental health services shall promptly inform correction personnel when an inmate is identified as:
-
-      (i) suicidal;
-
-      (ii) homicidal;
-
-      (iii) posing a clear danger or injury to self or to others;
-
-      (iv) presenting a clear and immediate risk of escape or riot;
-
-      (v) receiving psychotropic medication; or
-
-      (vi) requiring transfer for mental health reasons.
-
-   (2) The Departments of Correction and Health shall develop and implement an explicit written procedure specifying which correction personnel are to be notified of information as described in 40 RCNY § 2-07(b)(1) above, and the method of notification.
-
-(c) Records.
-
-   (1) Mental health records are to be maintained separately from the confinement record and kept in a secure file. Each significant inmate contact shall be reflected by a substantive progress note on the chart.
-
-   (2) Mental health records are to be transferred with an inmate when the inmate is transferred from one facility to another within the New York City Department of Correction. A record summary shall accompany each inmate transferred to a municipal hospital prison ward. When a request is received to transfer mental health records outside the jurisdiction of the Department of Correction, written authorization of the inmate is required unless otherwise provided by law.
-
-
-
-
-
-
-*§ 2-08 Coordination.* ::
-
-
-(a) Policy. The Departments of Correction and Health shall consult and coordinate their activities on a regular basis in order to provide for the continued delivery of quality mental health care.
-
-(b) Discipline.
-
-   (1) The Departments of Health and Correction shall develop written procedures to provide for mental health services to be informed whenever an inmate in a special housing area for mental observation is charged with an infraction, and to be permitted to participate in the infraction hearing and to review any punitive measures to be taken.
-
-   (2) When placement in punitive segregation would pose a serious threat to an inmate's physical or mental health, medical staff shall have the authority to determine that the inmate shall be barred from such placement or shall be moved from punitive segregation to a more appropriate housing unit. This determination may be made at any time during the inmate's placement in punitive segregation. All inmates in punitive segregation shall be seen at least once each day by medical staff who shall make referrals to medical and mental health services where appropriate.
-
-(c) Meetings. Monthly meetings including the facility administrator, the chief representative of mental health services to that facility and representatives of the medical and nursing staff shall be held to discuss the delivery of mental health services. Meetings shall include a written agenda as well as the taking and distribution of minutes.
-
-(d) Evaluation. The Department of Mental Health, Mental Retardation and Alcoholism Services shall annually conduct a formal evaluation of the quality, effectiveness and level of performance of mental health services provided to inmates in New York City correctional facilities.
-
-
-
-
-
-
-*§ 2-09 Variances.* ::
-
-
-(a) Policy. Any Department affected by these minimum standards may apply for a variance from a specific subdivision or Section of these standards when compliance cannot be achieved or continued. A "variance" is an exemption granted by the Board from full compliance with a particular subdivision or Section for a specified period of time.
-
-(b) Variance prior to implementation date. A Department may apply to the Board for a variance prior to the implementation date of a particular subdivision or Section when:
-
-   (1) despite its best efforts and the best efforts of other New York City officials and agencies, full compliance with the subdivision or Section cannot be achieved by the implementation date; or
-
-   (2) compliance is to be achieved in a manner other than specified in the subdivision or Section.
-
-(c) Variance application. An application for a variance must be made in writing to the Board by the Commissioner of the Department at least forty-five days prior to the implementation date and shall state:
-
-   (1) the particular subdivision or Section at issue;
-
-   (2) the efforts undertaken by the Department to achieve compliance by the implementation date;
-
-   (3) the specific facts or reasons making full compliance by the implementation date impossible;
-
-   (4) the specific plans, projections and timetables for achieving full compliance;
-
-   (5) the specific plans for serving the purpose of the subdivision or Section for the period that strict compliance is not possible; and
-
-   (6) the time period for which the variance is requested, provided that this shall be no more than six months.
-
-(d) Variance procedure.
-
-   (1) Prior to a decision on a variance application, the Board shall consider the positions of all interested parties.
-
-   (2) In order to receive this input the Board shall publicize the variance application in its entirety in a manner reasonably calculated to reach all interested parties, including direct mail. This shall occur at least thirty days prior to the implementation date of the subdivision or Section.
-
-   (3) The Board shall hold a public meeting or hearing on the variance application and hear testimony from all interested parties at least twenty-one days prior to the implementation date.
-
-   (4) The Board's decision on a variance application shall be in writing and shall include the specific facts and reasons underlying the decision.
-
-   (5) The Board's decision shall be publicized in the manner provided by 40 RCNY § 2-09(d)(2) at least ten days prior to the implementation date.
-
-(e) Granting of variance. 
-
-   (1) The Board shall grant a variance only if it is convinced that the variance is necessary and justified.
-
-   (2) Upon granting a variance, the Board shall state:
-
-      (i) the time period of the variance; and
-
-      (ii) any requirements imposed as conditions on the variance.
-
-(f) Renewal of variance. An application for a renewal of a variance shall be treated in the same manner as an original application as provided in 40 RCNY §§ 2-09(b), 2-09(c), 2-09(d) and 2-09(e). The Board shall not grant renewal of a variance unless it finds that, in addition to the requirements for approving an original application, a good faith effort has been made to comply with the subdivision or Section within the previously prescribed time limitation.
-
-(g) Emergency variance after implementation date. A Department may apply to the Board for a variance after the implementation date of a particular subdivision or Section when an emergency prevents continued compliance with the subdivision or Section.
-
-(h) Emergency variance application. 
-
-   (1) A variance for a period of less than twenty-four hours may be declared by the Department or a designee when an emergency prevents continued compliance with a particular subdivision or Section. The Board or a designate shall be immediately notified of the emergency and the variance.
-
-   (2) An application for an emergency variance for a period of twenty-four hours or more, or for a renewal of an emergency variance, must be made by the Commissioner of the Department or a designee to the Board and shall state:
-
-      (i) the particular subdivision or Section at issue;
-
-      (ii) the specific facts or reasons making continued compliance impossible;
-
-      (iii) the specific plans, projections and timetables for achieving full compliance; and
-
-      (iv) the time period for which the variance is requested, provided that this shall be no more than five days.
-
-(i) Granting of emergency variance.
-
-   (1) The Board shall grant an emergency variance only if it is convinced that the variance is necessary and justified.
-
-   (2) A renewal of an emergency variance previously granted by the Board may be granted only if the requirements of 40 RCNY §§ 2-09(g), 2-09(h)(2) and 2-09(i)(1) have been met.
-
-   (3) The Board shall not grant more than two consecutive renewals of an emergency variance.
-
-
-
-
-Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted To the Board of Correction]
---------------------------------------------------
-
-
-
-*§ 4-01 Definitions.* ::
-
-
-(a)  "Petition" shall mean a request or application for the Board of Correction ("the Board") to adopt a rule.
-
-(b) "Petitioner" shall mean the person or entity who files the petition.
-
-(c) "Rule" shall have the same meaning set forth in § 1041(5) of the New York City Charter.
-
-
-
-
-
-
-*§ 4-02 Scope.* ::
-
-
-This rule shall govern the procedures by which any person or entity may petition the Board to commence rulemaking pursuant to § 1043(f) of the New York City Charter and the procedure for submission, consideration and disposition of such petitions.
-
-
-
-
-
-
-*§ 4-03 Procedures for submitting petitions.* ::
-
-
-(a)  Any person or entity may petition the Board to consider the adoption of a rule.
-
-(b) A petition must contain the following information:
-
-   (1) the rule to be considered, with the proposed language for adoption;
-
-   (2) a statement of the Board's authority to promulgate the rule and its purpose;
-
-   (3) petitioner's arguments in support of adoption of the rule;
-
-   (4) the period of time the rule should be in effect;
-
-   (5) the name, address, email address and telephone number of the petitioner or his or her authorized representative;
-
-   (6) petitioner's signature or that of his or her authorized representative if the petition is submitted on paper or by facsimile.
-
-(c) Any change in the information provided pursuant to 40 RCNY § 4-03(b)(5) shall be communicated promptly in writing to the office of the Board's Executive Director.
-
-(d) Petitions shall be delivered, mailed or submitted by facsimile or electronic mail to the office of the Board's Executive Director.
-
-
-
-
-
-
-*§ 4-04 Procedures for responding to petitions.* ::
-
-
-(a)  Upon receipt of a petition in proper form, the Executive Director shall promptly forward it to the Board.
-
-(b) Within 60 days from the date a petition is received by the office of the Executive Director, the Chair shall either state in writing the Board's intention to initiate rulemaking by a specified date, or shall deny the petition in writing, stating the reasons for denial.
-
-   (1) Whenever the Chair decides to initiate rulemaking, the petition shall be made part of the record of the Board meeting at which rulemaking is initiated. In proceeding with rulemaking, the Board shall not be bound by the language proposed by the petitioner, but may amend or modify such proposed language at the Board's discretion. Neither shall the Board be bound to enact the substance of a petition for which the Chair has decided to initiate rulemaking.
-
-   (2) Whenever the Chair intends to deny a petition, the proposed denial and the reasons therefore shall be promptly provided to the members of the Board. Should a member object to the proposed denial of the petition within 10 days of receiving notice of the Chair's intention to deny, the petition shall be placed before the full Board for consideration as to whether the petition should be denied or the Board should proceed to rulemaking.
-
-(c) The Chair's decision to initiate rulemaking, or to deny a petition in the absence of a member's timely objection, or a decision by the Board to initiate rulemaking or deny a petition, shall be a final decision which is not subject to judicial review.
-
-
-
-
 Chapter 3: Health Care Minimum Standards
 --------------------------------------------------
 
@@ -3311,6 +3238,79 @@ Dated: April 10, 1991
       (C) Injuries reflecting self-harm, disaggregated by housing type, and further disaggregated serious and non-serious injuries.
 
 
+
+
+
+
+Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted To the Board of Correction]
+--------------------------------------------------
+
+
+
+*§ 4-01 Definitions.* ::
+
+
+(a)  "Petition" shall mean a request or application for the Board of Correction ("the Board") to adopt a rule.
+
+(b) "Petitioner" shall mean the person or entity who files the petition.
+
+(c) "Rule" shall have the same meaning set forth in § 1041(5) of the New York City Charter.
+
+
+
+
+
+
+*§ 4-02 Scope.* ::
+
+
+This rule shall govern the procedures by which any person or entity may petition the Board to commence rulemaking pursuant to § 1043(f) of the New York City Charter and the procedure for submission, consideration and disposition of such petitions.
+
+
+
+
+
+
+*§ 4-03 Procedures for submitting petitions.* ::
+
+
+(a)  Any person or entity may petition the Board to consider the adoption of a rule.
+
+(b) A petition must contain the following information:
+
+   (1) the rule to be considered, with the proposed language for adoption;
+
+   (2) a statement of the Board's authority to promulgate the rule and its purpose;
+
+   (3) petitioner's arguments in support of adoption of the rule;
+
+   (4) the period of time the rule should be in effect;
+
+   (5) the name, address, email address and telephone number of the petitioner or his or her authorized representative;
+
+   (6) petitioner's signature or that of his or her authorized representative if the petition is submitted on paper or by facsimile.
+
+(c) Any change in the information provided pursuant to 40 RCNY § 4-03(b)(5) shall be communicated promptly in writing to the office of the Board's Executive Director.
+
+(d) Petitions shall be delivered, mailed or submitted by facsimile or electronic mail to the office of the Board's Executive Director.
+
+
+
+
+
+
+*§ 4-04 Procedures for responding to petitions.* ::
+
+
+(a)  Upon receipt of a petition in proper form, the Executive Director shall promptly forward it to the Board.
+
+(b) Within 60 days from the date a petition is received by the office of the Executive Director, the Chair shall either state in writing the Board's intention to initiate rulemaking by a specified date, or shall deny the petition in writing, stating the reasons for denial.
+
+   (1) Whenever the Chair decides to initiate rulemaking, the petition shall be made part of the record of the Board meeting at which rulemaking is initiated. In proceeding with rulemaking, the Board shall not be bound by the language proposed by the petitioner, but may amend or modify such proposed language at the Board's discretion. Neither shall the Board be bound to enact the substance of a petition for which the Chair has decided to initiate rulemaking.
+
+   (2) Whenever the Chair intends to deny a petition, the proposed denial and the reasons therefore shall be promptly provided to the members of the Board. Should a member object to the proposed denial of the petition within 10 days of receiving notice of the Chair's intention to deny, the petition shall be placed before the full Board for consideration as to whether the petition should be denied or the Board should proceed to rulemaking.
+
+(c) The Chair's decision to initiate rulemaking, or to deny a petition in the absence of a member's timely objection, or a decision by the Board to initiate rulemaking or deny a petition, shall be a final decision which is not subject to judicial review.
 
 
 

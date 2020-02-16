@@ -330,7 +330,11 @@ Chapter 4: Traffic Rules and Regulations
 
       (ii) School bus. The term "school bus" means every motor vehicle regardless of seating capacity owned by a public or governmental agency or private school and operated for the transportation of pupils, teachers and other persons acting in a supervisory capacity, to or from school or school activities, or privately owned and operated on a regular basis for compensation for the transportation of pupils, teachers and other persons acting in a supervisory capacity to or from school or school activities.
 
-      (iii) Sight-seeing bus. The term "sight-seeing bus" means a bus for hire carrying passengers from a fixed point in the City of New York, at which point the passengers embark and are generally discharged to a place or places of interest or amusement in the City of New York, and including a charter bus, as defined in these rules, when engaged in a sight-seeing operation.
+      (iii) Sight-seeing bus. The term "sight-seeing bus" means a bus for hire carrying passengers from a fixed point in the City of New York, at which point the passengers embark and are generally discharged to a place or places of interest, assembly, or amusement in the City of New York, and including a charter bus, as defined in these rules, when engaged in a sight-seeing operation.
+
+      (iv) Shuttle bus. The term “shuttle bus” means a bus operating entirely within the City of New York that does not charge a fee to its passengers.
+
+      (v) Intercity bus. An “intercity bus” means a bus that transports the general public between the City of New York and any location outside the City of New York in scheduled bus service. Such term does not include a school bus, a bus providing public transportation, or a charter bus.
 
    Chartered party. The term "chartered party" means a group of persons who, pursuant to a common purpose and under a single contract and at a fixed charge, have acquired exclusive use of a bus to travel together as a group to a specific destination or for a particular itinerary either agreed upon in advance or modified after having left the place of origin by such group.
 
@@ -393,8 +397,6 @@ Chapter 4: Traffic Rules and Regulations
    Horse drawn cab. The term "horse drawn cab" shall mean a vehicle drawn by a horse and used for the carriage of passengers for compensation in conformance with a New York City Department of Consumer Affairs license. Where signs limit parking to horse drawn cabs, only those cabs licensed by the New York City Department of Consumer Affairs will be permitted.
 
    Impounded vehicle. A vehicle is considered "impounded" when the City of New York takes it into custody by taking any action preventing the free use of the vehicle by the motorist, including, but not limited to, beginning to attach to the vehicle an immobilization device such as a "boot" or a hook on a Department of Transportation tow truck.
-
-   Intercity bus. The term "intercity bus" means a bus that transports the general public between the City of New York and any location outside the City of New York in scheduled bus service. Such term does not include a school bus, a bus providing public transportation, or a charter bus.
 
    Law enforcement officer. The term "law enforcement officer" means a police officer or any authorized agent of the Department of Transportation.
 
@@ -858,7 +860,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (3) Authorized roadways. Yearly and single issue permits will be granted only for the following parkways or any other area designated by the Department of Transportation:
 
-      (i) Belt Parkway: Except that the roadway between Knapp Street and Rockaway Parkway is limited to vehicles weighing under 5 tons when fully loaded.
+      (i) Belt Parkway
 
       (ii) Bronx River Parkway
 
@@ -1740,21 +1742,21 @@ Chapter 4: Traffic Rules and Regulations
 
 (c) Pickup and discharge of passengers and layovers.
 
-   (1) Pickup and discharge of passengers at designated bus stops. Except as provided in paragraph (2) below, no operator of a bus shall pick up or discharge passengers on a street except at a bus stop designated for the use of that operator by the Commissioner in writing. Only buses designated by the Commissioner in writing may stop at such locations. A charter bus may stop on the highway at points of origin and destination for the purpose of expeditiously receiving or discharging passengers, except where prohibited by sign or by the Commissioner. While engaging in the picking up or discharging of passengers, buses must be within twelve inches of the curb and parallel thereto, except where a bus stop is physically obstructed.
+   (1) Pickup and discharge of passengers at assigned bus stops. Except as provided in paragraph (2) below, no operator of a bus, except a charter or school bus, shall pick up or discharge passengers on a street except at a bus stop assigned for the use of that operator by the Department in writing. A bus may only stop at a location that has been assigned to it by the Department. Charter buses, school buses, buses licensed by the New York City Taxi and Limousine Commission, buses operated by the Metropolitan Transportation Authority or any of its subdivisions or buses operating pursuant to a contract or franchise with the City of New York are not required to obtain permits for bus stop assignments. For all other bus types, bus stop assignments will be made by the Department under a permit system in accordance with subdivisions (d) and (j) of this section. A charter bus may stop on a highway at points of origin and destination for the purpose of expeditiously receiving or discharging passengers, except where prohibited by sign or by the Department. While picking up or discharging passengers, a bus must be within twelve inches of the curb and parallel thereto, except where a bus stop is physically obstructed.
 
-   (2) Pickup and discharge of passengers at locations other than designated bus stops.
+   (2) Pickup and discharge of passengers at locations other than assigned bus stops.
 
-      (i) (A) At times and along those portions of bus routes designated by the Commissioner, the operator of a bus authorized to operate in the City of New York that provides local or express service along a bus route may discharge a passenger, on such passenger's request, at a curbside location other than a bus stop as described in paragraph (1) above, provided that such location affords the alighting passenger a safe point of departure from the bus and provided that complying with such request will not interfere with the flow of traffic.
+      (i) (A) At times and along those portions of bus routes assigned by the Department, an operator of a bus authorized to operate in the City of New York that provides local or express service along a bus route may discharge a passenger, on such passenger's request, at a curbside location other than a bus stop as described in paragraph (1) above, provided that such location affords the passenger getting off the bus a safe point of departure from the bus and provided that complying with such request will not interfere with the flow of traffic.
 
          (B) Prospective passengers shall be picked up only at a bus stop as provided in paragraph (1) above.
 
-         (C) The provisions of this subparagraph (i) shall be clearly posted, in a format approved by the Commissioner, in all buses authorized to discharge passengers between designated stops.
+         (C) The provisions of this subparagraph shall be clearly posted, in a format approved by the Department, in all buses authorized to discharge passengers between assigned stops.
 
-         (D) This subparagraph does not apply to intercity buses.
+         (D) Clause (A) of this subparagraph does not apply to intercity buses.
 
-      (ii) A charter bus may stop on the highway at points of origin and destination for the purpose of expeditiously receiving or discharging passengers, except where prohibited by sign or by the Commissioner.
+      (ii) A charter bus may stop on a highway at points of origin and destination for the purpose of expeditiously picking up or discharging passengers, except where prohibited by sign or by the Department.
 
-   (3) Layovers. No operator of a bus shall make a bus layover, except in locations designated by sign or by the Commissioner in writing. For the purposes of this rule, layover is defined as follows: for a bus without passengers a layover consists of waiting at a curb or other street location; for a bus with passengers a layover consists of waiting at a curb or other street location for more than five minutes. The Commissioner may define the terms, including duration and authorized companies, for use of layover areas.
+   (3) Layovers. No operator of a bus shall make a bus layover, except in locations designated by sign or by the Department in writing. For the purposes of this rule, layover is defined as follows: for a bus without passengers a layover consists of waiting at a curb or other street location; for a bus with passengers a layover consists of waiting at a curb or other street location for more than five minutes. The Department may define the terms, including duration and authorized companies, for use of layover areas.
 
 (d) Intercity Bus Permit System.
 
@@ -1864,49 +1866,121 @@ Chapter 4: Traffic Rules and Regulations
 
 (i) Bus parking on streets prohibited. No person shall park a bus at any time on any street within the City, unless authorized by signs, except that a charter bus may park where parking is otherwise permitted at point of destination.
 
-(j) Sight-seeing bus stop permit assignment process through random ranking.
+(j) Bus Stop Permits for Non-Intercity Buses.
 
-   (1) The Commissioner will determine the sightseeing bus stops that will be available for assignment through a random ranking process allowing bus stop applicants to select from the available bus stop locations.
+   (1) Permit Required. The owner or operator of a sight-seeing bus, shuttle bus, or public transportation bus, that makes on-street stops to pick up or discharge passengers in the City of New York must obtain a Bus Stop Permit from the Department for each on-street bus stop location. This subdivision does not apply to charter buses, school buses, buses operated by the Metropolitan Transportation Authority or any of its subdivisions or buses operating pursuant to a contract or franchise with the City of New York.
 
-   (2) Applications. An application must be submitted to the Department on a form provided by the Department no later than 5:00 p.m. on the twentieth business day following the publication in the City Record of the Department's intent to assign the bus stops.
+   (2) Applications. An initial application for Bus Stop Permit(s) and a renewal application for Bus Stop Permit(s) must be filed with the Department on a form provided by the Department.
 
-      (i) Form. The form to be provided will require, but not be limited to, the following information from applicants:
+      (i) Applications must include, but not be limited to, the following information:
 
-         (i) Legal name, doing business as certificate, if applicable, address, telephone number, e-mail address, contact person's name;
+         (A) Company legal name and any and all assumed name(s); the principal address; the telephone number; the e-mail address; the names of the principal(s) and the title(s); the United States Department of Transportation number and the Federal Motor Carrier Safety Administration MC number; and/or the New York State Department of Transportation number; the New York City Department of Consumer Affairs existing license number for renewal applications; and the vehicle registration for each bus that would stop at the proposed location(s).
 
-         (ii) U.S. Department of Transportation numbers, Department of Consumer Affairs License and vehicle inspection report, if applicable;
+         (B) Proposed on-street bus stop location(s) and two or more alternative locations for each proposed location if applicable.
 
-         (iii) Insurance policy listing vehicle identification numbers for all buses, if applicable;
+         (C) Number of stops to be made per day at the proposed location(s).
 
-         (iv) Length of bus, vehicle type, e.g. open top bus, regular bus, double decker;
+         (D) Proposed bus schedule for the proposed location(s).
 
-         (v) Daily schedule;
+         (E) Origin and final destination(s) of the proposed bus service.
 
-         (vi) Number of passengers anticipated for each bus at each bus stop location;
+         (F) Maximum passenger capacity of the bus(es) to be used at the proposed location.
 
-         (vii) List of bus stop locations for which the applicant is seeking permit for use; and
+         (G) Planned garage or other parking location of the bus(es) during periods when the bus(es) is/are not being used to pick up or drop off passengers.
 
-         (vii) Planned garage or other bus parking locations when the bus is not being used to pick up or drop off passengers.
+         (H) Number of buses planned to be used in the operation of the proposed bus service.
 
-   (3) The Commissioner will use the following procedure to grant permits to applicants for use of available bus stops:
+      (ii) Renewal applications must be submitted to the Department no earlier than three months and no later than one month prior to the expiration of a Bus Stop Permit.
 
-      (i) Each applicant shall be assigned a rank chosen randomly utilizing a computer generated random number selection program.
+   (3) Review and issuance of Bus Stop Permits.
 
-      (ii) Applicants will then select from the list of available bus stops in consecutive order based upon their rank.
+      (i) The Department may refuse to issue or renew a Bus Stop Permit under this subdivision to an applicant or Bus Stop Permit holder who:
 
-      (iii) The selected bus stop is then removed from the list of available bus stops and the next ranked applicant will then select from the revised list of available stops.
+         (A) Is in arrears for an amount totaling more than one thousand dollars owed to the City of New York;
 
-      (iv) After each applicant has utilized its position in the assigned order, a round is complete. Rounds will continue until each of the available sight-seeing bus stops are distributed.
+         (B) Has been issued five or more total violations and/or one or more violations per vehicle in operation pursuant to this subdivision within the preceding year;
 
-      (v) The Commissioner will assign the bus stop permit that has been offered when the applicant demonstrates, within 45 days of when the offer was made, that it complies with all applicable licensing requirements. If the applicant does not comply with all applicable licensing requirements, the Department will not offer the applicant the bus stops it selects. If this circumstance arises, the Commissioner may conduct another assignment of available bus stop permits through random ranking of bus operators using the assignment procedure outlined in this paragraph, allowing the operators to select from available bus stop permits.
+         (C) Has failed to provide location data or other information as required by this subdivision. This subparagraph applies only to sight-seeing bus applicants or permit holders;
 
-   (4) Bus stops will not be assigned to a sightseeing bus operator that already holds a bus stop within a three block radius of the bus stop subject to the selection unless the applicant agrees to relinquish the previously assigned bus stop if assigned the new selected bus stop pursuant to this process.
+         (D) Has been found to operate without a New York City Department of Consumer Affairs license, if such license is required, within the last year or had a license revoked by the New York City Department of Consumer Affairs or has been found in violation of any of the applicable New York City Department of Consumer Affairs rules and regulations;
 
-   (5) All applicants receiving bus stops permits must comply with all applicable laws, rules and regulations related to the operation of sightseeing buses.
+         (E) Has had its Bus Stop Permit(s) revoked within the last two years; or
 
-   (6) The bus stop permits offered as a result of this process will be for a term of 2 years.
+         (F) Is currently not authorized to operate a bus by either the United States Department of Transportation Federal Motor Carrier Safety Administration (or any successor agency) and/or the New York State Department of Transportation (or any successor agency) and/or the New York City Department of Consumer Affairs (or any successor agency).
 
-   (7) After one year following the effective date of this Rule, this Rule shall expire and have no further force and effect.
+      (ii) The owner or operator of a bus company that has been assigned on-street bus stop location(s) by the Department, which are still in effect upon the effective date of this subdivision will, upon application to the Department, within thirty days of the effective date of this subdivision, be issued a Bus Stop Permit by the Department for a term of up to three years. Such owner or operator who had previously been assigned on-street bus stop location(s) by the Department and who submits an application within such thirty day period may continue to use such assigned on-street bus stop location(s) for a period of up to ninety days from the effective date of this subdivision, or until a Bus Stop Permit is issued by the Department for such location(s), whichever date is sooner.
+
+      (iii) In assigning on-street bus stop locations, the Department will consider criteria: including, but not limited to:
+
+         (A) Traffic, pedestrian flow, and public safety;
+
+         (B) Preferences of the applicant;
+
+         (C) Consultation with the local community board for the district encompassing the location to be authorized, including but not limited to a notice and comment period of 45 days prior to the authorization or permanent amendment;
+
+         (D) The number of stops proposed and the viability of a proposed bus stop schedule as determined by the Department;
+
+         (E) The availability and location of planned garage or other parking space for periods when buses picking up or discharging passengers at the authorized stops are not in use;
+
+         (F) Ongoing and/or upcoming construction projects in the vicinity of the proposed location(s); and
+
+         (G) Any other criteria deemed appropriate by the Department.
+
+      The Department must approve or deny such authorizations no later than 180 days from the date of the application.
+
+      (iv) The Department will notify the local community board for the community district encompassing the location of a proposed on-street bus stop at least forty-five business days prior to the issuance of a Bus Stop Permit, or the permanent relocation of an assigned on-street bus stop location, in order to provide the community board an opportunity to comment on the proposed on-street bus stop location.
+
+      (v) If the Department denies an application submitted pursuant to subparagraph (i) of this paragraph, or disapproves of all of an applicant's on-street bus stop locations requested in its application based on the bus stop assignment criteria set forth in subparagraph (iii) of this paragraph, the applicant will have fifteen calendar days to appeal such determination in the form prescribed by the Department or submit alternative bus stop locations. The Department will make a final determination on such appeal within thirty days
+
+   (4) Relocation of on-street bus stop locations.
+
+      (i) Permanent relocation of on-street bus stops. The Department may relocate an assigned on-street bus stop location based on the criteria provided in subparagraph (iii) of paragraph (3) of this subdivision and upon ninety calendar days' notice to the permit holder.
+
+      (ii) Temporary relocation of on-street bus stops. The Department may temporarily relocate an assigned on-street bus stop location for reasons of public safety or other emergency or temporary need as determined by the Department. The Department will notify the local community board for the community district encompassing the location within thirty calendar days of such temporary relocation.
+
+   (5) Permit Fees. For any new sightseeing bus stop application, an applicant must pay a fee of five hundred and twenty dollars for each bus stop. For any renewal sightseeing bus stop application, an applicant must pay a fee of one hundred fifty five dollars for each bus stop.
+
+   (6) Term of Bus Permits. The Department will fix the term of each Bus Stop Permit, which will not exceed three years.
+
+   (7) Permittee obligations. Bus Stop Permit holders must:
+
+      (i) Promptly notify the Department of changes to information provided in its application.
+
+      (ii) Keep all the Bus Stop Permits in each bus permitted to use the assigned bus stops and present such permits for inspection upon request of any law enforcement officer or other person authorized to enforce this rule.
+
+      (iii) Prominently display a list of all Bus Stop Permits and specific bus stop locations authorized by such permits in each bus permitted to use the assigned bus stop in a way that such list can be clearly observed from the closest curb at which the bus is stopped.
+
+      (iv) Display on each bus authorized hereunder to stop at an on-street bus stop the owner or operator's name, address and telephone number permanently affixed in characters at least five inches high on both sides of the bus, with such display being in a color contrasting with that of the bus and placed approximately midway vertically on doors or side panels. Bus operators may also meet the display obligations by prominently marking buses in such a way that such markings clearly identify the bus operator when observed from the closest curb at which the bus is stopped.
+
+      (v) Pick up and discharge passengers only at on-street bus stop(s) assigned by the Department.
+
+      (vi) Not stop or stand in an assigned on-street bus stop location except when actively engaged in the pick-up or discharge of passengers.
+
+      (vii) Not alter any permit issued pursuant to this section.
+
+      (viii) Notify the Department of the issuance of any violation, revocation, suspension, or other status change, to the bus operating authority, by the United States Department of Transportation Federal Motor Carrier Safety Administration or the New York State Department of Transportation, or the New York City Department of Consumer Affairs within five calendar days of the issuance thereof.
+
+      (ix) Notify the Department of the issuance of any traffic or parking violations within thirty calendar days of the issuance thereof and the issuance of any traffic violation committed by a driver while operating the sight-seeing bus that could be the basis for the assignment of points within three calendar days of the issuance thereof.
+
+      (x) Not transfer, sell, give or otherwise reassign the Bus Stop Permit(s) except as authorized by the Department.
+
+      (xi) Provide the Department, in the form prescribed by the Department, with quarterly reports containing Global Positioning System data for each bus operated by the permit holder, recorded at one-minute intervals, including, but not limited to, vehicle identification number, time and date of ping, time zone, latitude and longitude, ignition status, speed, and odometer reading, except as authorized by the Department. This subparagraph applies only to sight-seeing Bus Stop Permit holders.
+
+   (8) Suspension and revocation of Bus Stop Permits.
+
+      (i) The Department may suspend or revoke a Bus Stop Permit:
+
+         (A) For failure to comply with any of the requirements of this subdivision;
+
+         (B) In the event of suspension or termination of the authorization to operate a bus by either the United States Department of Transportation Federal Motor Carrier Safety Administration or the New York State Department of Transportation or the New York City Department of Consumer Affairs;
+
+         (C) Based on any grounds listed in subparagraph (i) of paragraph (3) of this subdivision;
+
+         (D) If an operator does not provide a bus service for a period of one month.
+
+      (ii) Prior to suspending or revoking a Bus Stop Permit, the Department will give the bus company an opportunity to be heard upon at least two business days' notice.
+
+      (iii) If the Department determines that an imminent peril to life or property exists, the Department may suspend or revoke a bus stop authorization without providing the permittee an opportunity to be heard prior to such suspension or revocation. Upon request of the permittee, the Department will provide the permitee an opportunity to present its objections to such suspension or revocation within five business days after the Department receives the request. Any such request by a permitee must be made within thirty business days of such suspension or revocation.
 
 
 

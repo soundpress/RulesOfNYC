@@ -190,51 +190,6 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 
-Chapter 3: City Policy Concerning Aliens
---------------------------------------------------
-
-
-
-*§ 3-01 Definitions.* ::
-
-
-Alien. "Alien" means any person who is not a citizen or national of the United States.
-
-Line worker. "Line worker" means a person employed by any City agency whose duties involve contact with the public.
-
-
-
-
-
-
-*§ 3-02 Confidentiality of Information Respecting Aliens.* ::
-
-
-(a) No City officer or employee shall transmit information respecting any alien to federal immigration authorities unless
-
-   (1) such officer's or employee's agency is required by law to disclose information respecting such alien, or
-
-   (2) such agency has been authorized, in writing signed by such alien, to verify such alien's immigration status, or
-
-   (3) such alien is suspected by such agency of engaging in criminal activity, including an attempt to obtain public assistance benefits through the use of fraudulent documents.
-
-(b) Each agency shall designate one or more officers or employees who shall be responsible for receiving reports from such agency's line workers on aliens suspected of criminal activity and for determining, on a case by case basis, what action, if any, to take on such reports. No such determination shall be made by any line worker, nor shall any line worker transmit information respecting any alien directly to federal immigration authorities.
-
-(c) Enforcement agencies, including the Police Department and the Department of Correction, shall continue to cooperate with federal authorities in investigating and apprehending aliens suspected of criminal activity. However, such agencies shall not transmit to federal authorities information respecting any alien who is the victim of a crime.
-
-
-
-
-
-
-*§ 3-03 Availability of City Services to Aliens.* ::
-
-
-Any service provided by a City agency shall be made available to all aliens who are otherwise eligible for such service unless such agency is required by law to deny eligibility for such service to aliens. Every City agency shall encourage aliens to make use of those services provided by such agency for which aliens are not denied eligibility by law.
-
-
-
-
 Chapter 2: Percent For Art Law Procedures
 --------------------------------------------------
 
@@ -422,6 +377,51 @@ These Regulations apply to projects listed in the city's capital budget and incl
 (b) It is the intent of § 224 of the Charter that the works of art be an integral part of and compatible with the project being constructed. Hence, the procedures called for in these Regulations are meant to commence at the earliest stages of project design to assure that the project construction schedule has incorporated into it the schedule to be followed for the creation, acquisition or restoration of the works of art to be included therein.
 
 (c) The Commissioner shall administer the implementation of § 224 of the Charter and shall offer guidance, assistance and advice, throughout the pre- and post-panel process, to the agencies involved with eligible projects, the Architect, the artist(s) or the community.
+
+
+
+
+Chapter 3: City Policy Concerning Aliens
+--------------------------------------------------
+
+
+
+*§ 3-01 Definitions.* ::
+
+
+Alien. "Alien" means any person who is not a citizen or national of the United States.
+
+Line worker. "Line worker" means a person employed by any City agency whose duties involve contact with the public.
+
+
+
+
+
+
+*§ 3-02 Confidentiality of Information Respecting Aliens.* ::
+
+
+(a) No City officer or employee shall transmit information respecting any alien to federal immigration authorities unless
+
+   (1) such officer's or employee's agency is required by law to disclose information respecting such alien, or
+
+   (2) such agency has been authorized, in writing signed by such alien, to verify such alien's immigration status, or
+
+   (3) such alien is suspected by such agency of engaging in criminal activity, including an attempt to obtain public assistance benefits through the use of fraudulent documents.
+
+(b) Each agency shall designate one or more officers or employees who shall be responsible for receiving reports from such agency's line workers on aliens suspected of criminal activity and for determining, on a case by case basis, what action, if any, to take on such reports. No such determination shall be made by any line worker, nor shall any line worker transmit information respecting any alien directly to federal immigration authorities.
+
+(c) Enforcement agencies, including the Police Department and the Department of Correction, shall continue to cooperate with federal authorities in investigating and apprehending aliens suspected of criminal activity. However, such agencies shall not transmit to federal authorities information respecting any alien who is the victim of a crime.
+
+
+
+
+
+
+*§ 3-03 Availability of City Services to Aliens.* ::
+
+
+Any service provided by a City agency shall be made available to all aliens who are otherwise eligible for such service unless such agency is required by law to deny eligibility for such service to aliens. Every City agency shall encourage aliens to make use of those services provided by such agency for which aliens are not denied eligibility by law.
 
 
 

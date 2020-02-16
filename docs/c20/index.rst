@@ -2347,113 +2347,6 @@ Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
 
 
 
-Chapter 8: Sound Device Permits
---------------------------------------------------
-
-
-
-*§ 8-01 Definition.* ::
-
-
-Sound device. "Sound device" shall mean any radio or device or apparatus for the amplification of any sound from any radio, phonograph or other sound making or sound producing device, or any device or apparatus for the reproduction or amplification of the human voice.
-
-
-
-
-
-
-*§ 8-02 Applications.* ::
-
-
-(a) An application for a permit will be made at least five days prior to date upon which the sound device or apparatus is to be used or operated, except in a case of a sudden event of great public interest where applicant was unable, through no fault of his or her own, to file the application within the required time.
-
-(b) An application must be obtained from the precinct in which the device is to be used to the greatest extent, if more than one location is involved.
-
-   (1) Form P.D. 656-041 (Rev. 9-86-31). Sound Device Application and Permit must be completed – clearly printed or typewritten. Incomplete, incorrectly prepared, or illegible applications will not be accepted.
-
-   (2) If sound device or apparatus is to be used at more than two locations, a typewritten letter in duplicate containing locations and time scheduled at each location, will be attached to application by applicant.
-
-   (3) The application must also contain:
-
-      (i) The name, address and telephone number of the applicant.
-
-      (ii) If the application is made in behalf of a corporation, organization or association, it must be signed by an officer of the corporation, organization, or association; giving full name and title of office held.
-
-      (iii) In addition, the applicant must provide a certified copy of the articles of incorporation, or if not incorporated, a sworn list of names and resident addresses of officers of said organization will be filed with application, unless one has already been filed with previous application and is on file at License Division.
-
-      (iv) Applicant will describe or specify in application the volume of sound intended to be used, measured by decibels or by any other efficient method for measuring sound.
-
-
-
-
-
-
-*§ 8-03 Fees.* ::
-
-
-The fee for use of each sound device or apparatus is five dollars for each day, regardless of number of locations specified in application. No fee is required for a permit issued to any agency of the United States Government, State or City of New York. The fee will be required upon approval of application and be paid to the precinct of application.
-
-
-
-
-
-
-*§ 8-04 Approval/Disapproval Procedures.* ::
-
-
-(a) The permittee will be notified by the precinct if his application for a permit is approved. If the permit is approved the permittee will be directed to pay the fee and to pick up the permit on the morning of the event. The permittee will be given a receipt for his application fee.
-
-(b) If his application is disapproved, the applicant will be notified. If his application is disapproved because it is for a prohibited location, or to prevent an overlapping of permits, the applicant may be offered an alternate location in the vicinity, if available.
-
-
-
-
-
-
-*§ 8-05 Permit Conditions.* ::
-
-
-Sound device permits are issued under the following conditions:
-
-(a) Permit automatically expires upon termination of occasion for which it was issued and should be returned, if possible, to Commanding Officer of precinct where it was issued, for forwarding to License Division for cancellation.
-
-(b) A permit to operate a sound device or apparatus is valid only at the location and dates designated and during the hours specified on said permit.
-
-(c) A sound device or apparatus will be so operated as not to unnecessarily interfere with the peace and comfort of residents at or near location.
-
-(d) A sound device or apparatus may not be used in any vehicle or other device, while it is in transit.
-
-(e) A sound device or apparatus may not be used between the hours of 10 p.m. and 9 a.m.
-
-(f) The permit is revocable at any time.
-
-
-
-
-
-
-*§ 8-06 Prohibitions.* ::
-
-
-A sound device permit will not be issued for:
-
-(a) Any location within 500 feet of a school, courthouse or church during hours of school, court or worship, or within 500 feet of a hospital or similar institution;
-
-(b) Any location where the Department, upon investigation, determines that conditions of vehicular or pedestrian traffic, or both, are such that use of such a device or apparatus will constitute a threat to the safety of pedestrians or vehicle operators;
-
-(c) Any location where the Department, upon investigation, determines that conditions of overcrowding or street repair, or other physical conditions are such that use of a sound device or apparatus will deprive the public of the right to safe, comfortable, convenient and peaceful enjoyment of any public street, park or place, or constitute a threat to the safety of pedestrians or vehicle operators;
-
-(d) Use in any vehicle or other device while it is in transit;
-
-(e) Between the hours of 10 p.m. to 9 a.m.
-
-(f) A permit to use a sound device or apparatus for commercial or business advertising purposes.
-
-   Note: These Regulations do not apply to use or operation of any sound device or apparatus by any church or synagogue on or within its own premises in connection with religious rites or ceremonies.
-
-
-
-
 Chapter 7: Radio Receiving Set Permits
 --------------------------------------------------
 
@@ -2665,6 +2558,113 @@ The radio receiving set permit is issued subject to the following conditions/ter
    (5) The permittee will be notified by mail of when to appear to complete the renewal process.
 
 (b) Failure to renew. If the permittee fails to renew his permit by its expiration date, he must have the radio receiving set removed from his vehicle (or made inoperable) and present proof of same, prior to being allowed to renew or reapply.
+
+
+
+
+Chapter 8: Sound Device Permits
+--------------------------------------------------
+
+
+
+*§ 8-01 Definition.* ::
+
+
+Sound device. "Sound device" shall mean any radio or device or apparatus for the amplification of any sound from any radio, phonograph or other sound making or sound producing device, or any device or apparatus for the reproduction or amplification of the human voice.
+
+
+
+
+
+
+*§ 8-02 Applications.* ::
+
+
+(a) An application for a permit will be made at least five days prior to date upon which the sound device or apparatus is to be used or operated, except in a case of a sudden event of great public interest where applicant was unable, through no fault of his or her own, to file the application within the required time.
+
+(b) An application must be obtained from the precinct in which the device is to be used to the greatest extent, if more than one location is involved.
+
+   (1) Form P.D. 656-041 (Rev. 9-86-31). Sound Device Application and Permit must be completed – clearly printed or typewritten. Incomplete, incorrectly prepared, or illegible applications will not be accepted.
+
+   (2) If sound device or apparatus is to be used at more than two locations, a typewritten letter in duplicate containing locations and time scheduled at each location, will be attached to application by applicant.
+
+   (3) The application must also contain:
+
+      (i) The name, address and telephone number of the applicant.
+
+      (ii) If the application is made in behalf of a corporation, organization or association, it must be signed by an officer of the corporation, organization, or association; giving full name and title of office held.
+
+      (iii) In addition, the applicant must provide a certified copy of the articles of incorporation, or if not incorporated, a sworn list of names and resident addresses of officers of said organization will be filed with application, unless one has already been filed with previous application and is on file at License Division.
+
+      (iv) Applicant will describe or specify in application the volume of sound intended to be used, measured by decibels or by any other efficient method for measuring sound.
+
+
+
+
+
+
+*§ 8-03 Fees.* ::
+
+
+The fee for use of each sound device or apparatus is five dollars for each day, regardless of number of locations specified in application. No fee is required for a permit issued to any agency of the United States Government, State or City of New York. The fee will be required upon approval of application and be paid to the precinct of application.
+
+
+
+
+
+
+*§ 8-04 Approval/Disapproval Procedures.* ::
+
+
+(a) The permittee will be notified by the precinct if his application for a permit is approved. If the permit is approved the permittee will be directed to pay the fee and to pick up the permit on the morning of the event. The permittee will be given a receipt for his application fee.
+
+(b) If his application is disapproved, the applicant will be notified. If his application is disapproved because it is for a prohibited location, or to prevent an overlapping of permits, the applicant may be offered an alternate location in the vicinity, if available.
+
+
+
+
+
+
+*§ 8-05 Permit Conditions.* ::
+
+
+Sound device permits are issued under the following conditions:
+
+(a) Permit automatically expires upon termination of occasion for which it was issued and should be returned, if possible, to Commanding Officer of precinct where it was issued, for forwarding to License Division for cancellation.
+
+(b) A permit to operate a sound device or apparatus is valid only at the location and dates designated and during the hours specified on said permit.
+
+(c) A sound device or apparatus will be so operated as not to unnecessarily interfere with the peace and comfort of residents at or near location.
+
+(d) A sound device or apparatus may not be used in any vehicle or other device, while it is in transit.
+
+(e) A sound device or apparatus may not be used between the hours of 10 p.m. and 9 a.m.
+
+(f) The permit is revocable at any time.
+
+
+
+
+
+
+*§ 8-06 Prohibitions.* ::
+
+
+A sound device permit will not be issued for:
+
+(a) Any location within 500 feet of a school, courthouse or church during hours of school, court or worship, or within 500 feet of a hospital or similar institution;
+
+(b) Any location where the Department, upon investigation, determines that conditions of vehicular or pedestrian traffic, or both, are such that use of such a device or apparatus will constitute a threat to the safety of pedestrians or vehicle operators;
+
+(c) Any location where the Department, upon investigation, determines that conditions of overcrowding or street repair, or other physical conditions are such that use of a sound device or apparatus will deprive the public of the right to safe, comfortable, convenient and peaceful enjoyment of any public street, park or place, or constitute a threat to the safety of pedestrians or vehicle operators;
+
+(d) Use in any vehicle or other device while it is in transit;
+
+(e) Between the hours of 10 p.m. to 9 a.m.
+
+(f) A permit to use a sound device or apparatus for commercial or business advertising purposes.
+
+   Note: These Regulations do not apply to use or operation of any sound device or apparatus by any church or synagogue on or within its own premises in connection with religious rites or ceremonies.
 
 
 

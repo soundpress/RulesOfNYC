@@ -576,179 +576,6 @@ For a full description of violations, refer back to text of section of rule indi
 
 
 
-Chapter 3: Comptroller’s Living Wage and Minimum Average Hourly Wage Law Regulations.
---------------------------------------------------
-
-
-
-*§ 3-01 Applicability.* ::
-
-
-These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state real property tax law § 421-a(16)(c) and to Comptroller investigations, determinations, hearings and reports and recommendations made to City agencies under the living wage provisions of New York City Administrative Code § 6-109.
-
-
-
-
-
-
-
-
-*§ 3-02 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings. Capitalized terms that are not specifically defined in this chapter have the meanings set forth in the laws designated in 44 RCNY § 3-01.
-
-Bureau. “Bureau” means the comptroller’s bureau of labor law. Certified Payroll Report. “Certified Payroll Report” means a weekly payroll record in the form provided on the comptroller’s website.
-
-Complaining Worker. “Complaining Worker” means a worker who has filed a written complaint for the underpayment of Wages and Supplements with the Bureau.
-
-Comptroller. “Comptroller” means the City of New York comptroller or the comptroller’s designee.
-
-Covered Employer. “Covered Employer” means any person or entity subject to liability for Wages and Supplements under real property tax law § 421-a(16)(c) or New York City Administrative Code § 6-109.
-
-Covered Work. “Covered Work” means any work that is subject to the requirements of real property tax law § 421-a(16)(c) or New York City Administrative Code § 6-109.
-
-Covered Worker. “Covered Worker” means any person who performs Covered Work.
-
-Daily Sign-In Log. “Daily Sign-In Log” means a daily attendance record in the form provided on the comptroller’s website.
-
-Document. “Document” means records in any form or electronically stored information, including writings, graphs, charts and other data or data compilations stored in any medium.
-
-Wage and Supplement. “Wage and Supplement” means Living Wage and Health Benefits or Health Benefits Supplement Rate as defined in New York City Administrative Code § 6-109(b), or minimum average hourly wage as set forth in real property tax law § 421-a(16)(c).
-
-Worker Notice Poster. “Worker Notice Poster” means a notice in the form provided on the comptroller’s website detailing the Wage and Supplement due for Covered Work performed on a particular project, contract or building.
-
-
-
-
-
-
-
-
-*§ 3-03 Wage and Supplement Required Records.* ::
-
-
-(a) Covered Employers must maintain Documents consisting of the following records for six years after Covered Work is performed, must preserve the records immediately when notified by the Bureau of a compliance investigation, and must produce true copies of all such records within the time requested by the Bureau after notice of the right to counsel described in 44 RCNY § 3-04(f):
-
-   1) Contracts and subcontracts for Covered Work;
-
-   2) Certified Payroll Reports for Covered Work;
-
-   3) Daily Sign-In Logs for Covered Work;
-
-   4) Weekly payroll records, registers or journals required by labor law Section 195;
-
-   5) All Documents and records concerning the cost of Health Benefits or Employee Benefits provided to Covered Workers, including but not limited to invoices, account statements, benefits remittance reports and benefits plan descriptions; and
-
-   6) All federal and state employment tax returns and filings, including but not limited to quarterly combined withholding, wage reporting, and unemployment insurance form NYS-45 returns; employers’ quarterly Federal tax form 941 returns; wage and tax form W-2 statements; and miscellaneous income form 1099 statements.
-
-(b) Each Covered Employer must maintain one weekly Certified Payroll Report for each project, contract or building on which it performs Covered Work. The Certified Payroll Report must set forth the names, addresses and trade classifications for all Covered Workers employed by the Covered Employer on the project, contract or building, as well as the hours and days of Covered Work, the hourly wage and supplement rates, and the weekly gross and net pay amounts for each Covered Worker. The Certified Payroll Report must be signed and affirmed to be true under penalties of perjury by an officer or principal of the Covered Employer.
-
-(c) Each Covered Employer must maintain one Daily Sign-In Log for each project, contract or building on which it performs Covered Work. The Daily Sign-In Log must set forth the names, trade classifications, daily start and end times of Covered Work for, and must be signed by, each Covered Worker employed by the Covered Employer on the project, contract or building.
-
-(d) Each Covered Employer must post a Worker Notice Poster in a prominent and accessible place at each project, contract or building on which it performs Covered Work. The Worker Notice Poster must set forth the Wages and Supplements due for the Covered Work performed on that project, contract or building.
-
-(e) Each Independent Monitor contracted under real property tax law § 421-a(16)(c) must submit one Project Wide Certified Payroll Report to the Bureau within one year of the Completion Date for each project that involves Covered Work. The Project Wide Certified Payroll Report must attach all Contractor Certified Payroll Reports submitted to the Independent Monitor, and must be signed and affirmed to be true under penalties of perjury by the Independent Monitor, based upon a review of the information contained in the attached Contractor Certified Payroll Reports. The Project Wide Certified Payroll Report must:
-
-   1) Identify all Covered Employers that performed Covered Work on the project;
-
-   2) For each Covered Employer, set forth the completion date for its Covered Work on the project;
-
-   3) For each Covered Employer, set forth the date that its Contractor Certified Payroll Report was submitted to the Independent Monitor, or state that no Contractor Certified Payroll Report was submitted;
-
-   4) For each Covered Employer, calculate and set forth the total hours of Covered Work performed by all Covered Workers it employed on the project, based upon its Contractor Certified Payroll Report;
-
-   5) For each Covered Employer, calculate and set forth the total Wages paid for Covered Work to all Covered Workers it employed on the project, based upon its Contractor Certified Payroll Report;
-
-   6) Calculate and set forth the total hours of Covered Work performed on the project, based upon the Contractor Certified Payroll Reports;
-
-   7)  Calculate and set forth the total Wages paid for all Covered Work on the project, based upon the Contractor Certified Payroll Reports;
-
-   8) Calculate and set forth the Average Hourly Wage paid for all Covered Work on the project; and
-
-   9) If the Average Hourly Wage is less than the applicable minimum average hourly wage as set forth in real property tax law § 421-a(16)(c), then calculate and set forth the aggregate amount of the deficiency for all Covered Workers on the project.
-
-
-
-
-
-
-
-
-*§ 3-04 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.* ::
-
-
-(a) The Bureau investigates and determines underpayments of Living Wage and Health Benefits or Health Benefits Supplement Rate by Covered Employers under New York City Administrative Code § 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue.
-
-(b) The Bureau investigates and determines liability for underpayments of minimum average hourly wage by Covered Employers under real property tax law § 421-a(16)(c) for Covered Work on a project, provided such compliance investigation is commenced within one year of the Completion Date of the project.
-
-(c) The Bureau may decline to investigate and determine underpayments of Wages and Supplements if the Complaining Worker or the Complaining Worker’s representative has participated in any other legal proceeding to recover the same unpaid Wages and Supplements that are the subject of the complaint.
-
-(d) A private settlement between a Covered Worker and a Covered Employer, or the execution of a release by a Covered Worker in favor of a Covered Employer, does not preclude investigation and determination as to underpayment of Wages and Supplements by the Bureau.
-
-(e) The Bureau does not disclose the names or identities of Complaining Workers unless necessary for settlement or hearing.
-
-(f) Covered Employers under investigation by the Bureau have the right to be represented by counsel at their own expense. Covered Employers are notified of the right to counsel at the commencement of a compliance investigation in which records, described in 44 RCNY §§ 3-03(a), 3-04 and 3-05 may be demanded. Counsel must file a written notice of appearance with the Bureau. All subsequent notices, Documents or other communications are sent to such counsel and deemed service upon the Covered Employer.
-
-(g) During the compliance investigation, the Covered Employer must provide all relevant information and Documents within the time requested by the Bureau, including but not limited to the records required by 44 RCNY § 3-03(a). Upon completion of a compliance investigation with a finding of violation, the Bureau sends a written thirty day notice to the Covered Employer that it will begin calculations of Wage and Supplement underpayments for a determination. In preparing its determination, the Bureau will not consider any information or Documents requested by the Bureau and not provided by the Covered Employer within thirty days of the written notice.
-
-(h) If a Covered Employer failed to keep or provide to the Bureau in a timely manner accurate records as required by 44 RCNY § 3-03(a), the Bureau is permitted to calculate underpayments of Wages and Supplements due to Covered Workers by using the best available evidence and the burden shifts to the Covered Employer to negate the reasonableness of the Bureau’s calculations. In such case, the amount and extent of underpayment is a matter of reasonable inference and may be based upon the statements of Covered Workers.
-
-(i) The Bureau may resolve a compliance determination by stipulation of settlement with a Covered Employer, which includes: (i) findings and assessments as to the underpayment of Wages and Supplements, (ii) findings as to the willfulness of the violation, (iii) assessments of interest and, (iv) in cases brought under New York city Administrative Code § 6-109 only, assessment of a civil penalty.
-
-(j) Stipulations of settlement resolving compliance determinations under real property tax law § 421-a(16)(c) are endorsed by the Comptroller and have the effect of an order of the Fiscal Officer under that statute.
-
-(k) Stipulations of settlement resolving compliance investigations under New York City Administrative Code § 6-109 must be endorsed by the contracting agency in order to have final effect under that statute.
-
-(l) Interest.
-
-   (1) The Bureau assesses interest due on the underpayment of Wages and Supplements from the date of underpayment at the rate of interest then in effect as prescribed by the superintendent of banks under Section fourteen-a of the banking law per annum, and such interest cannot be waived by stipulation of settlement.
-
-   (2) Upon resolution of a compliance determination by stipulation of settlement, the Bureau may reduce the rate of interest on the underpayment of Wages and Supplements to a rate of interest not less than six percent, based upon due consideration of the size of the Covered Employer’s business, the good faith of the Covered Employer, the gravity of the violation, the history of previous violations and the failure to comply with recordkeeping or other non-wage requirements.
-
-(m) The Bureau sends written notice to a Complaining Worker or the Complaining Worker’s representative upon closure of a compliance investigation without a finding of violation. This notice of a final determination, binding on the Complaining Worker, commences any applicable time limits under article 78 of the New York State civil practice law and rules. If the Covered Employer under investigation has been notified of a compliance investigation, the Bureau sends written notice of closure without a finding of violation to the Covered Employer.
-
-
-
-
-
-
-
-
-*§ 3-05 Hearings, Reports and Recommendations and Orders.* ::
-
-
-(a) Designation. All hearings required by New York real property tax law § 421-a(16)(c) and New York City Administrative Code § 6-109 are held by the office of administrative trials and hearings trials division.
-
-(b) Discovery. Each party must provide to all other parties, no later than ten business days before trial: (i) the names of all witnesses the party expects to present at trial, (ii) copies of all Documents or other exhibits the party expects to introduce at trial, (iii) copies of all Documents provided by each Complaining Worker and (iv) copies of all statements, in any form, provided by each Covered Employer that is a party to the hearing.
-
-(c) Preclusion.
-
-   (1) Failure of a Covered Employer to provide any information or Document requested by the Bureau in a timely manner as set forth in 44 RCNY § 3-04(g) and (h) may be grounds for preclusion of that Document or drawing of an adverse inference at the trial upon motion to the administrative law judge.
-
-   (2) No party may seek to introduce any testimonial, documentary or other evidence concerning the immigration status of Covered Workers at the trial, including but not limited to information about their social security or individual taxpayer identification numbers, except upon motion to the administrative law judge for good cause shown.
-
-(d) Report and recommendation.
-
-   (1) Within a reasonable time after the conclusion of the hearing, the administrative law judge issues a written report, including proposed findings of fact and conclusions of law, and recommendation as to the order.
-
-   (2) In cases brought under real property tax law § 421-a(16)(c), the administrative law judge forwards the report and recommendation to the Comptroller for consideration and the Comptroller issues an order.
-
-   (3) In cases brought under New York City Administrative Code § 6-109, the administrative law judge forwards the report and recommendation to the contracting agency for consideration, and the contracting agency issues an order.
-
-(e) Orders under real property tax law § 421-a(16)(c).
-
-   (1) The Comptroller may, on his or her own initiative or on application duly made, on notice to all parties: (i) request further information or briefing on any relevant issue or (ii) provide copies of any recalculation of Wages and Supplements underpayment and interest, and request comments from the parties to the hearing before issuing an order. Such request and any responses are part of the record.
-
-   (2) The Comptroller may adopt, reject or modify the administrative law judge’s report and recommendation when issuing an order; such order is to be based exclusively upon the record as a whole, including facts of which official notice has been taken.
-
-   (3) The Bureau files the order of the Comptroller and serves a notice of filing, with copy of the order, on every party.
-
-
-
-
-
-
 Chapter 4: Hospital Audits
 --------------------------------------------------
 
@@ -920,6 +747,179 @@ An individual, other than an attorney, representing the hospital, shall have wri
 
 
 Upon determination that overpayments have been made, the BFA shall transmit a "Withholding Request for Provider Recoupment Initiated by the Local District" to NYSDSS. NYSDSS' fiscal agent shall recover overpayments by withholding against the hospital's current or future payments on claims submitted or a percentage of payments otherwise payable on such claims, at the option of NYSDSS. Such withholding may be made at any time after the issuance of a decision after hearing or, if a hearing has not been requested in accordance with this chapter, at any time after expiration of the time period allowed (30 days) for the making of such request.
+
+
+
+
+
+
+Chapter 3: Comptroller’s Living Wage and Minimum Average Hourly Wage Law Regulations.
+--------------------------------------------------
+
+
+
+*§ 3-01 Applicability.* ::
+
+
+These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state real property tax law § 421-a(16)(c) and to Comptroller investigations, determinations, hearings and reports and recommendations made to City agencies under the living wage provisions of New York City Administrative Code § 6-109.
+
+
+
+
+
+
+
+
+*§ 3-02 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings. Capitalized terms that are not specifically defined in this chapter have the meanings set forth in the laws designated in 44 RCNY § 3-01.
+
+Bureau. “Bureau” means the comptroller’s bureau of labor law. Certified Payroll Report. “Certified Payroll Report” means a weekly payroll record in the form provided on the comptroller’s website.
+
+Complaining Worker. “Complaining Worker” means a worker who has filed a written complaint for the underpayment of Wages and Supplements with the Bureau.
+
+Comptroller. “Comptroller” means the City of New York comptroller or the comptroller’s designee.
+
+Covered Employer. “Covered Employer” means any person or entity subject to liability for Wages and Supplements under real property tax law § 421-a(16)(c) or New York City Administrative Code § 6-109.
+
+Covered Work. “Covered Work” means any work that is subject to the requirements of real property tax law § 421-a(16)(c) or New York City Administrative Code § 6-109.
+
+Covered Worker. “Covered Worker” means any person who performs Covered Work.
+
+Daily Sign-In Log. “Daily Sign-In Log” means a daily attendance record in the form provided on the comptroller’s website.
+
+Document. “Document” means records in any form or electronically stored information, including writings, graphs, charts and other data or data compilations stored in any medium.
+
+Wage and Supplement. “Wage and Supplement” means Living Wage and Health Benefits or Health Benefits Supplement Rate as defined in New York City Administrative Code § 6-109(b), or minimum average hourly wage as set forth in real property tax law § 421-a(16)(c).
+
+Worker Notice Poster. “Worker Notice Poster” means a notice in the form provided on the comptroller’s website detailing the Wage and Supplement due for Covered Work performed on a particular project, contract or building.
+
+
+
+
+
+
+
+
+*§ 3-03 Wage and Supplement Required Records.* ::
+
+
+(a) Covered Employers must maintain Documents consisting of the following records for six years after Covered Work is performed, must preserve the records immediately when notified by the Bureau of a compliance investigation, and must produce true copies of all such records within the time requested by the Bureau after notice of the right to counsel described in 44 RCNY § 3-04(f):
+
+   1) Contracts and subcontracts for Covered Work;
+
+   2) Certified Payroll Reports for Covered Work;
+
+   3) Daily Sign-In Logs for Covered Work;
+
+   4) Weekly payroll records, registers or journals required by labor law Section 195;
+
+   5) All Documents and records concerning the cost of Health Benefits or Employee Benefits provided to Covered Workers, including but not limited to invoices, account statements, benefits remittance reports and benefits plan descriptions; and
+
+   6) All federal and state employment tax returns and filings, including but not limited to quarterly combined withholding, wage reporting, and unemployment insurance form NYS-45 returns; employers’ quarterly Federal tax form 941 returns; wage and tax form W-2 statements; and miscellaneous income form 1099 statements.
+
+(b) Each Covered Employer must maintain one weekly Certified Payroll Report for each project, contract or building on which it performs Covered Work. The Certified Payroll Report must set forth the names, addresses and trade classifications for all Covered Workers employed by the Covered Employer on the project, contract or building, as well as the hours and days of Covered Work, the hourly wage and supplement rates, and the weekly gross and net pay amounts for each Covered Worker. The Certified Payroll Report must be signed and affirmed to be true under penalties of perjury by an officer or principal of the Covered Employer.
+
+(c) Each Covered Employer must maintain one Daily Sign-In Log for each project, contract or building on which it performs Covered Work. The Daily Sign-In Log must set forth the names, trade classifications, daily start and end times of Covered Work for, and must be signed by, each Covered Worker employed by the Covered Employer on the project, contract or building.
+
+(d) Each Covered Employer must post a Worker Notice Poster in a prominent and accessible place at each project, contract or building on which it performs Covered Work. The Worker Notice Poster must set forth the Wages and Supplements due for the Covered Work performed on that project, contract or building.
+
+(e) Each Independent Monitor contracted under real property tax law § 421-a(16)(c) must submit one Project Wide Certified Payroll Report to the Bureau within one year of the Completion Date for each project that involves Covered Work. The Project Wide Certified Payroll Report must attach all Contractor Certified Payroll Reports submitted to the Independent Monitor, and must be signed and affirmed to be true under penalties of perjury by the Independent Monitor, based upon a review of the information contained in the attached Contractor Certified Payroll Reports. The Project Wide Certified Payroll Report must:
+
+   1) Identify all Covered Employers that performed Covered Work on the project;
+
+   2) For each Covered Employer, set forth the completion date for its Covered Work on the project;
+
+   3) For each Covered Employer, set forth the date that its Contractor Certified Payroll Report was submitted to the Independent Monitor, or state that no Contractor Certified Payroll Report was submitted;
+
+   4) For each Covered Employer, calculate and set forth the total hours of Covered Work performed by all Covered Workers it employed on the project, based upon its Contractor Certified Payroll Report;
+
+   5) For each Covered Employer, calculate and set forth the total Wages paid for Covered Work to all Covered Workers it employed on the project, based upon its Contractor Certified Payroll Report;
+
+   6) Calculate and set forth the total hours of Covered Work performed on the project, based upon the Contractor Certified Payroll Reports;
+
+   7)  Calculate and set forth the total Wages paid for all Covered Work on the project, based upon the Contractor Certified Payroll Reports;
+
+   8) Calculate and set forth the Average Hourly Wage paid for all Covered Work on the project; and
+
+   9) If the Average Hourly Wage is less than the applicable minimum average hourly wage as set forth in real property tax law § 421-a(16)(c), then calculate and set forth the aggregate amount of the deficiency for all Covered Workers on the project.
+
+
+
+
+
+
+
+
+*§ 3-04 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.* ::
+
+
+(a) The Bureau investigates and determines underpayments of Living Wage and Health Benefits or Health Benefits Supplement Rate by Covered Employers under New York City Administrative Code § 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue.
+
+(b) The Bureau investigates and determines liability for underpayments of minimum average hourly wage by Covered Employers under real property tax law § 421-a(16)(c) for Covered Work on a project, provided such compliance investigation is commenced within one year of the Completion Date of the project.
+
+(c) The Bureau may decline to investigate and determine underpayments of Wages and Supplements if the Complaining Worker or the Complaining Worker’s representative has participated in any other legal proceeding to recover the same unpaid Wages and Supplements that are the subject of the complaint.
+
+(d) A private settlement between a Covered Worker and a Covered Employer, or the execution of a release by a Covered Worker in favor of a Covered Employer, does not preclude investigation and determination as to underpayment of Wages and Supplements by the Bureau.
+
+(e) The Bureau does not disclose the names or identities of Complaining Workers unless necessary for settlement or hearing.
+
+(f) Covered Employers under investigation by the Bureau have the right to be represented by counsel at their own expense. Covered Employers are notified of the right to counsel at the commencement of a compliance investigation in which records, described in 44 RCNY §§ 3-03(a), 3-04 and 3-05 may be demanded. Counsel must file a written notice of appearance with the Bureau. All subsequent notices, Documents or other communications are sent to such counsel and deemed service upon the Covered Employer.
+
+(g) During the compliance investigation, the Covered Employer must provide all relevant information and Documents within the time requested by the Bureau, including but not limited to the records required by 44 RCNY § 3-03(a). Upon completion of a compliance investigation with a finding of violation, the Bureau sends a written thirty day notice to the Covered Employer that it will begin calculations of Wage and Supplement underpayments for a determination. In preparing its determination, the Bureau will not consider any information or Documents requested by the Bureau and not provided by the Covered Employer within thirty days of the written notice.
+
+(h) If a Covered Employer failed to keep or provide to the Bureau in a timely manner accurate records as required by 44 RCNY § 3-03(a), the Bureau is permitted to calculate underpayments of Wages and Supplements due to Covered Workers by using the best available evidence and the burden shifts to the Covered Employer to negate the reasonableness of the Bureau’s calculations. In such case, the amount and extent of underpayment is a matter of reasonable inference and may be based upon the statements of Covered Workers.
+
+(i) The Bureau may resolve a compliance determination by stipulation of settlement with a Covered Employer, which includes: (i) findings and assessments as to the underpayment of Wages and Supplements, (ii) findings as to the willfulness of the violation, (iii) assessments of interest and, (iv) in cases brought under New York city Administrative Code § 6-109 only, assessment of a civil penalty.
+
+(j) Stipulations of settlement resolving compliance determinations under real property tax law § 421-a(16)(c) are endorsed by the Comptroller and have the effect of an order of the Fiscal Officer under that statute.
+
+(k) Stipulations of settlement resolving compliance investigations under New York City Administrative Code § 6-109 must be endorsed by the contracting agency in order to have final effect under that statute.
+
+(l) Interest.
+
+   (1) The Bureau assesses interest due on the underpayment of Wages and Supplements from the date of underpayment at the rate of interest then in effect as prescribed by the superintendent of banks under Section fourteen-a of the banking law per annum, and such interest cannot be waived by stipulation of settlement.
+
+   (2) Upon resolution of a compliance determination by stipulation of settlement, the Bureau may reduce the rate of interest on the underpayment of Wages and Supplements to a rate of interest not less than six percent, based upon due consideration of the size of the Covered Employer’s business, the good faith of the Covered Employer, the gravity of the violation, the history of previous violations and the failure to comply with recordkeeping or other non-wage requirements.
+
+(m) The Bureau sends written notice to a Complaining Worker or the Complaining Worker’s representative upon closure of a compliance investigation without a finding of violation. This notice of a final determination, binding on the Complaining Worker, commences any applicable time limits under article 78 of the New York State civil practice law and rules. If the Covered Employer under investigation has been notified of a compliance investigation, the Bureau sends written notice of closure without a finding of violation to the Covered Employer.
+
+
+
+
+
+
+
+
+*§ 3-05 Hearings, Reports and Recommendations and Orders.* ::
+
+
+(a) Designation. All hearings required by New York real property tax law § 421-a(16)(c) and New York City Administrative Code § 6-109 are held by the office of administrative trials and hearings trials division.
+
+(b) Discovery. Each party must provide to all other parties, no later than ten business days before trial: (i) the names of all witnesses the party expects to present at trial, (ii) copies of all Documents or other exhibits the party expects to introduce at trial, (iii) copies of all Documents provided by each Complaining Worker and (iv) copies of all statements, in any form, provided by each Covered Employer that is a party to the hearing.
+
+(c) Preclusion.
+
+   (1) Failure of a Covered Employer to provide any information or Document requested by the Bureau in a timely manner as set forth in 44 RCNY § 3-04(g) and (h) may be grounds for preclusion of that Document or drawing of an adverse inference at the trial upon motion to the administrative law judge.
+
+   (2) No party may seek to introduce any testimonial, documentary or other evidence concerning the immigration status of Covered Workers at the trial, including but not limited to information about their social security or individual taxpayer identification numbers, except upon motion to the administrative law judge for good cause shown.
+
+(d) Report and recommendation.
+
+   (1) Within a reasonable time after the conclusion of the hearing, the administrative law judge issues a written report, including proposed findings of fact and conclusions of law, and recommendation as to the order.
+
+   (2) In cases brought under real property tax law § 421-a(16)(c), the administrative law judge forwards the report and recommendation to the Comptroller for consideration and the Comptroller issues an order.
+
+   (3) In cases brought under New York City Administrative Code § 6-109, the administrative law judge forwards the report and recommendation to the contracting agency for consideration, and the contracting agency issues an order.
+
+(e) Orders under real property tax law § 421-a(16)(c).
+
+   (1) The Comptroller may, on his or her own initiative or on application duly made, on notice to all parties: (i) request further information or briefing on any relevant issue or (ii) provide copies of any recalculation of Wages and Supplements underpayment and interest, and request comments from the parties to the hearing before issuing an order. Such request and any responses are part of the record.
+
+   (2) The Comptroller may adopt, reject or modify the administrative law judge’s report and recommendation when issuing an order; such order is to be based exclusively upon the record as a whole, including facts of which official notice has been taken.
+
+   (3) The Bureau files the order of the Comptroller and serves a notice of filing, with copy of the order, on every party.
 
 
 
