@@ -3889,79 +3889,6 @@ Service. A stop work order may be served: (1) by mailing the stop work order to 
 
 
 
-Chapter 13: Fees
---------------------------------------------------
-
-
-
-*§ 13-01 Requirement of Fee.* ::
-
-
-All applicants for a certificate of appropriateness or a certificate of no effect shall pay a fee, as established in accordance with the provisions of this Chapter, except that no fees shall be payable by an owner of the designated building or property affected if the owner is a corporation or association organized and operated exclusively for religious, charitable or educational purposes, or for one or more such purposes, no part of the earnings of which enures to the benefit of any private shareholder or individual, and provided that the property affected is used exclusively by such corporation or association for one or more of such purposes.
-
-
-
-
-
-
-*§ 13-02 Fee for Approval and Consideration of Applications.* ::
-
-
-The fees required to be paid under this Chapter are for filing and processing of aplications for certificates of appropriateness and certificates of no effect. The total fee for such work shall be paid by or on behalf of the owner or lessee of the designated building or property before the Department of Buildings issues a work permit or other approval for such work approved in the certificate of appropriateness or certificate of no effect. The fees required to be paid under this Chapter shall be payable each time the owner or lessee of the designated building or property shall apply for a permit or approval from the Department of Buildings for work approved in a certificate of appropriateness or certificate of no effect.
-
-
-
-
-
-
-*§ 13-03 Definitions.* ::
-
-
-"Administrative Code" shall mean the Administrative Code of the City of New York.
-
-"Designated building or property" shall mean an improvement designated as a landmark, interior landmark or as part of a historic district, and the landmark site(s) associated with such designation, pursuant to § 25-303 of the Administrative Code.
-
-
-
-
-
-
-*§ 13-04 Computation of Fees.* ::
-
-
-Fees shall be computed as hereinafter provided:
-
-(a) New buildings. The fees for permits to construct new buildings shall be computed as follows:
-
-   (1) a fee of twenty-five cents per square foot or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings, other than one, two or three family dwellings.
-
-   (2) a fee of fifteen cents per square foot, or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings that are one, two or three family dwellings.
-
-(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § 28-112.2 of the Administrative Code.
-
-(c) Demolition and removal. A fee computed by multiplying the street frontage in feet by the number of stories of the building times one dollar, but not less than one hundred dollars, shall be paid for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code. For corner lots, use the longer street frontage.
-
-(d) Signs. A fee of one hundred dollars to erect, install or alter a sign shall be paid for each sign subject to a fee payable to the Department of Buildings pursuant to § 28-112.2. An additional fee shall be payable for signs as follows:
-
-   (1) A fee of fifty dollars shall be paid for each ground sign subject to a fee pursuant to § 28-112.2 of the Administrative Code.
-
-   (2) A fee of fifty dollars shall be paid for each roof sign having a tight, closed or solid surface, where such sign is subject to a fee pursuant to § 28-112.2 of the Administrative Code.
-
-   (3) A fee of fifty dollars shall be paid for each roof sign that does not have a tight, closed or solid surface and where such sign does not extend beyond thirty-one feet above the roof level, where such sign is subject to a fee pursuant to § [26-212(6)(a)(3)] 28-112.2 of the Administrative Code. A fee of one hundred shall be paid for each roof sign that exceeds thirty-one feet above the roof level.
-
-
-
-
-
-
-*§ 13-05 Effective Date.* ::
-
-
-The fees required pursuant to this Chapter shall apply to certificates of appropriateness and certificates of no effect issued on or after July 1, 2004.
-
-
-
-
 Chapter 12: Historic District Master Plans
 --------------------------------------------------
 
@@ -4267,6 +4194,79 @@ Terms not otherwise defined in these rules or the District Master Plan shall hav
       (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
 
       (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+
+
+
+
+Chapter 13: Fees
+--------------------------------------------------
+
+
+
+*§ 13-01 Requirement of Fee.* ::
+
+
+All applicants for a certificate of appropriateness or a certificate of no effect shall pay a fee, as established in accordance with the provisions of this Chapter, except that no fees shall be payable by an owner of the designated building or property affected if the owner is a corporation or association organized and operated exclusively for religious, charitable or educational purposes, or for one or more such purposes, no part of the earnings of which enures to the benefit of any private shareholder or individual, and provided that the property affected is used exclusively by such corporation or association for one or more of such purposes.
+
+
+
+
+
+
+*§ 13-02 Fee for Approval and Consideration of Applications.* ::
+
+
+The fees required to be paid under this Chapter are for filing and processing of aplications for certificates of appropriateness and certificates of no effect. The total fee for such work shall be paid by or on behalf of the owner or lessee of the designated building or property before the Department of Buildings issues a work permit or other approval for such work approved in the certificate of appropriateness or certificate of no effect. The fees required to be paid under this Chapter shall be payable each time the owner or lessee of the designated building or property shall apply for a permit or approval from the Department of Buildings for work approved in a certificate of appropriateness or certificate of no effect.
+
+
+
+
+
+
+*§ 13-03 Definitions.* ::
+
+
+"Administrative Code" shall mean the Administrative Code of the City of New York.
+
+"Designated building or property" shall mean an improvement designated as a landmark, interior landmark or as part of a historic district, and the landmark site(s) associated with such designation, pursuant to § 25-303 of the Administrative Code.
+
+
+
+
+
+
+*§ 13-04 Computation of Fees.* ::
+
+
+Fees shall be computed as hereinafter provided:
+
+(a) New buildings. The fees for permits to construct new buildings shall be computed as follows:
+
+   (1) a fee of twenty-five cents per square foot or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings, other than one, two or three family dwellings.
+
+   (2) a fee of fifteen cents per square foot, or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings that are one, two or three family dwellings.
+
+(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § 28-112.2 of the Administrative Code.
+
+(c) Demolition and removal. A fee computed by multiplying the street frontage in feet by the number of stories of the building times one dollar, but not less than one hundred dollars, shall be paid for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code. For corner lots, use the longer street frontage.
+
+(d) Signs. A fee of one hundred dollars to erect, install or alter a sign shall be paid for each sign subject to a fee payable to the Department of Buildings pursuant to § 28-112.2. An additional fee shall be payable for signs as follows:
+
+   (1) A fee of fifty dollars shall be paid for each ground sign subject to a fee pursuant to § 28-112.2 of the Administrative Code.
+
+   (2) A fee of fifty dollars shall be paid for each roof sign having a tight, closed or solid surface, where such sign is subject to a fee pursuant to § 28-112.2 of the Administrative Code.
+
+   (3) A fee of fifty dollars shall be paid for each roof sign that does not have a tight, closed or solid surface and where such sign does not extend beyond thirty-one feet above the roof level, where such sign is subject to a fee pursuant to § [26-212(6)(a)(3)] 28-112.2 of the Administrative Code. A fee of one hundred shall be paid for each roof sign that exceeds thirty-one feet above the roof level.
+
+
+
+
+
+
+*§ 13-05 Effective Date.* ::
+
+
+The fees required pursuant to this Chapter shall apply to certificates of appropriateness and certificates of no effect issued on or after July 1, 2004.
 
 
 

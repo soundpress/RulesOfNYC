@@ -6,121 +6,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 2-01 Filer Registration.* ::
-
-
-A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
-
-(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
-
-(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
-
-(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
-
-(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
-
-(e) Contents. The Filer Registration must include:
-
-   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
-
-   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
-
-   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
-
-   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
-
-   (v) other information as required by the Board.
-
-(f) Small campaign registration.
-
-   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
-
-   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
-
-
-
-
-
-
-
-
-*§ 2-02 Certification.* ::
-
-
-To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
-
-(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
-
-(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
-
-(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
-
-(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
-
-(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
-
-(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
-
-
-
-
-
-
-
-
-*§ 2-03 Amendments to Filer Registration or Certification.* ::
-
-
-The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
-
-
-
-
-
-
-
-
-*§ 2-04 Non-Participants.* ::
-
-
-A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
-
-
-
-
-
-
-
-
-*§ 2-05 Petition for Extraordinary Circumstances.* ::
-
-
-(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
-
-(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
-
-
-
-
-
-
-
-
-*§ 2-06 Training.* ::
-
-
-A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 1-01 Scope of Rules.* ::
 
 
@@ -399,6 +284,121 @@ The Board will not accept any electronic disclosure statement or other document,
 (a) If any provision of these rules or portion thereof is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the remainder of these rules.
 
 (b) If the application of any provision of these rules or portion thereof to any individual, entity, or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the application thereof to other individuals, entities, and circumstances.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 2-01 Filer Registration.* ::
+
+
+A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
+
+(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
+
+(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
+
+(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
+
+(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
+
+(e) Contents. The Filer Registration must include:
+
+   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
+
+   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
+
+   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
+
+   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
+
+   (v) other information as required by the Board.
+
+(f) Small campaign registration.
+
+   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
+
+   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
+
+
+
+
+
+
+
+
+*§ 2-02 Certification.* ::
+
+
+To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
+
+(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
+
+(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
+
+(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
+
+(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
+
+(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
+
+(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
+
+
+
+
+
+
+
+
+*§ 2-03 Amendments to Filer Registration or Certification.* ::
+
+
+The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
+
+
+
+
+
+
+
+
+*§ 2-04 Non-Participants.* ::
+
+
+A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
+
+
+
+
+
+
+
+
+*§ 2-05 Petition for Extraordinary Circumstances.* ::
+
+
+(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
+
+(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
+
+
+
+
+
+
+
+
+*§ 2-06 Training.* ::
+
+
+A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
 
 
 
@@ -2254,79 +2254,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 9-01 [Repayment.]* ::
-
-
-Candidates must promptly repay public funds upon a determination made by the Board that a repayment is required. Candidates returning public funds must make a check payable to the "New York City Election Campaign Finance Fund." Candidates may not reclaim public funds they have returned. Public funds must be repaid to the Board separately from, and in addition to, any penalties owed by the candidate.
-
-
-
-
-
-
-
-
-*§ 9-02 Reasons for Repayment.* ::
-
-
-The Board shall determine whether a candidate or such candidate's principal committee is required to repay public funds previously received as follows:
-
-(a) Overpayment of public funds. Pursuant to § 3-710(2)(a) of the Code, the candidate's principal committee is required to pay to the Board an amount equivalent to the amount of public funds received in excess of the amount which the candidate is eligible to receive.
-
-(b) Qualified expenditure deficit. Pursuant to § 3-710(2)(b) of the Code, the candidate's principal committee is required to pay to the Board an amount equivalent to the amount of public funds paid to the candidate that were not spent on qualified expenditures.
-
-   (i) Determination of personal liability. A candidate may be personally liable for paying to the Board the amount of public funds not spent on qualified expenditures, or a portion of that amount. In considering whether and to what extent a participating candidate shall be personally liable for repayment of public funds, the Board shall act in accordance with the following:
-
-      (A) where credible documentation supporting each qualified expenditure exists but is incomplete, the Board shall not impose such liability for such expenditure;
-
-      (B) where there is an absence of credible documentation for each qualified expenditure, the Board may impose such liability upon a showing that such absence of credible documentation for such expenditure arose from a lack of adequate controls including, but not limited to, trained staff, internal procedures for following Board guidelines and internal procedures for employing standard financial controls.
-
-(c) Final bank balance. Pursuant to § 3-710(2)(c) of the Code, the candidate and the principal committee are required to pay to the Board an amount equivalent to the campaign funds remaining in such candidate's principal committee account. The candidate must promptly pay to the Board such remaining funds; provided, however, that all remaining funds for a candidate shall be immediately due and payable to the Board upon a determination by the Board that the candidate has delayed the post-election audit process. The candidate must promptly pay to the Board any additional remaining campaign funds based upon a determination made by the Board at a subsequent date. The amount of remaining campaign funds shall be presumed to be equal to the candidate's authorized committee bank account balance on January 11 in the year following the election, or for special elections, on the last day of the reporting period for the final disclosure statement the candidate is required to file with the Board for such election, less any permissible documented post-election expenditures pursuant to paragraph (i) of this subdivision. The Board may also consider information revealed in the course of an audit or investigation in making a remaining funds determination, including, but not limited to, the fact that campaign expenditures were made in violation of law, that expenditures were made for any purpose other than the furtherance of the candidate's nomination or election, or that the candidate has not maintained or provided requested documentation. If a candidate repays to the Fund all funds remaining in such candidate's authorized committee bank account on or before December 31 in the year of the election, or, for special elections, on or before the last day of the month following the month in which the election took place, such candidate shall be presumed not to owe additional remaining funds, provided that any contributions received and expenditures made after such funds are repaid must be raised and spent in compliance with the Act and these rules.
-
-   (i) Before repaying campaign funds remaining in the committee bank account, a candidate may make post-election expenditures only for routine activities involving nominal cost associated with winding up a campaign and responding to the post-election audit. Such expenditures may include: payment of utility bills and rent; reasonable staff salaries and consultancy fees for responding to a post-election audit; reasonable staff salaries and legal fees incurred prior to the date of the issuance of the candidate's final audit report and associated with defending against a claim that public funds must be repaid; a post-election event for staff, volunteers, or supporters held within 30 days of the election; reasonable moving expenses related to closing the campaign office; a holiday card mailing to contributors, campaign volunteers, and staff; thank you notes to contributors, campaign volunteers, and staff; payment of taxes and other reasonable expenses for compliance with applicable tax laws; and interest expense. Routine post-election expenditures that may be paid for with remaining campaign funds do not include such items as post-election mailings other than as specifically provided for in this paragraph; making contributions; or making bonus payments or gifts to staff or volunteers. Campaign funds remaining in the committee account may not be used for transition and inauguration activities.
-
-   (ii) Notwithstanding the restriction on the use of receipts provided in subdivision (c)(i), a candidate who has outstanding liabilities from the election, including a candidate who owes public funds or penalties to the Board, may make post-election expenditures for the purpose of raising funds to repay such debt, provided, however, that such expenditures and any contributions received shall be included in the calculation of the candidate's remaining funds, unless such expenditures and contributions are incurred or received after the date of the issuance of the candidate's final audit report.
-
-   (iii) Notwithstanding the prohibition on post-election bonus payments provided in subdivision (c)(i), a bonus payment to an employee may be considered a permissible pre-election expenditure, even if paid after the election, provided that:
-
-      (A) the bonus is paid pursuant to a contract executed before the services that serve as the basis for the bonus are performed;
-
-      (B) such contract states in detail the amount of the bonus and the criteria that must be satisfied in order for the bonus to be paid;
-
-      (C) such criteria are quantifiable, merit-based, and related to services provided prior to the election;
-
-      (D) the bonus is not conditioned, either in existence or amount, on the result of the election, the amount of funds remaining in the committee account, or whether the candidate received public funds; and
-
-      (E) the bonus does not constitute more than 10% of the total amount paid to the employee.
-
-(d) Repayment is largest amount. Where more than one grounds for repayment exists as provided in subdivisions (a), (b), and (c) of this section, the amount to be paid to the Board shall be the largest of the amounts.
-
-(e) Breach of certification. A candidate found to have breached such candidate's certification pursuant to 52 RCNY § 3-01(e) may be deemed ineligible to receive public funds and may be required to return all public funds previously received.
-
-(f) Ballot disqualification. Pursuant to § 3-709(7) of the Code, a candidate who has been finally disqualified or whose designating or nominating petitions have been finally declared invalid by the Board of Elections or a court of competent jurisdiction, may not thereafter spend public funds for any purpose other than the payment of previous liabilities incurred in qualified campaign expenditures. All public funds in excess of such liabilities previously incurred shall be promptly repaid to the Board; the amount to be repaid shall be determined in accordance with § 3-710(2)(b) of the Code and subdivision (b) of this section. A repayment made pursuant to § 3-709(7) shall not preclude a determination that an additional repayment is required pursuant to that or any other provision of the Act.
-
-(g) Ballot fraud. Pursuant to § 3-710(3) of the Code, a candidate who has been disqualified by a court of competent jurisdiction on the grounds that such candidate committed fraudulent acts in order to obtain a place on the ballot, if such decision is not reversed, must pay to the Board an amount equal to the total public funds paid to the candidate. Repayments pursuant to this subdivision must be made promptly upon the court's determination of disqualification.
-
-(h) Other reasons for repayment. The Board may require a candidate to repay public funds because:
-
-   (i) the candidate failed to maintain copies of checks or contribution cards that document matchable contributions;
-
-   (ii) the public funds paid were based on contributions that were returned or contribution checks that have not been paid;
-
-   (iii) the candidate has failed to demonstrate eligibility for the public funds paid or compliance with Program requirements; or
-
-   (iv) a determination pursuant to §§ 3-705(6) or (7) of the Code is reversed following reconsideration pursuant to 52 RCNY § 7-10(b)(vii).
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 10-01 Audits.* ::
 
 
@@ -2410,76 +2337,68 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 12-01 Investigations.* ::
+*§ 9-01 [Repayment.]* ::
 
 
-The Board may conduct an investigation into possible violations of the Charter, Act, or these rules. In its investigation, the Board may use its investigative powers pursuant to § 1052(a)(5) of the Charter and §§ 3-708(5) and 3-710(1) of the Code. An investigation may include, but is not limited to, field investigations, desk and field audits, the issuance of subpoenas, the taking of sworn testimony, the issuance of document requests and interrogatories, and other methods of information gathering.
-
-
-
+Candidates must promptly repay public funds upon a determination made by the Board that a repayment is required. Candidates returning public funds must make a check payable to the "New York City Election Campaign Finance Fund." Candidates may not reclaim public funds they have returned. Public funds must be repaid to the Board separately from, and in addition to, any penalties owed by the candidate.
 
 
 
 
 
-*§ 12-02 Complaints.* ::
 
 
-(a) Filing a complaint. A complaint must be filed by hand delivery, mail, fax, or scanned and sent as an attachment via email to the Board's offices.
 
-(b) Complaint requirements. Complaints must:
+*§ 9-02 Reasons for Repayment.* ::
 
-   (i) be made in writing;
 
-   (ii) be sworn to or affirmed;
+The Board shall determine whether a candidate or such candidate's principal committee is required to repay public funds previously received as follows:
 
-   (iii) be based on personal knowledge, if possible, and if a complaint is based on information and belief, the complainant must state the source of that information and belief;
+(a) Overpayment of public funds. Pursuant to § 3-710(2)(a) of the Code, the candidate's principal committee is required to pay to the Board an amount equivalent to the amount of public funds received in excess of the amount which the candidate is eligible to receive.
 
-   (iv) specify the conduct alleged to be in violation of the Charter, Act, or these rules, and to the extent known:
+(b) Qualified expenditure deficit. Pursuant to § 3-710(2)(b) of the Code, the candidate's principal committee is required to pay to the Board an amount equivalent to the amount of public funds paid to the candidate that were not spent on qualified expenditures.
 
-      (A) the date(s) and time(s) of the conduct,
+   (i) Determination of personal liability. A candidate may be personally liable for paying to the Board the amount of public funds not spent on qualified expenditures, or a portion of that amount. In considering whether and to what extent a participating candidate shall be personally liable for repayment of public funds, the Board shall act in accordance with the following:
 
-      (B) the place(s) the conduct occurred, and
+      (A) where credible documentation supporting each qualified expenditure exists but is incomplete, the Board shall not impose such liability for such expenditure;
 
-      (C) the names of witnesses, if any.
+      (B) where there is an absence of credible documentation for each qualified expenditure, the Board may impose such liability upon a showing that such absence of credible documentation for such expenditure arose from a lack of adequate controls including, but not limited to, trained staff, internal procedures for following Board guidelines and internal procedures for employing standard financial controls.
 
-   (v) be accompanied by copies of all documentary evidence available to the complainant; and
+(c) Final bank balance. Pursuant to § 3-710(2)(c) of the Code, the candidate and the principal committee are required to pay to the Board an amount equivalent to the campaign funds remaining in such candidate's principal committee account. The candidate must promptly pay to the Board such remaining funds; provided, however, that all remaining funds for a candidate shall be immediately due and payable to the Board upon a determination by the Board that the candidate has delayed the post-election audit process. The candidate must promptly pay to the Board any additional remaining campaign funds based upon a determination made by the Board at a subsequent date. The amount of remaining campaign funds shall be presumed to be equal to the candidate's authorized committee bank account balance on January 11 in the year following the election, or for special elections, on the last day of the reporting period for the final disclosure statement the candidate is required to file with the Board for such election, less any permissible documented post-election expenditures pursuant to paragraph (i) of this subdivision. The Board may also consider information revealed in the course of an audit or investigation in making a remaining funds determination, including, but not limited to, the fact that campaign expenditures were made in violation of law, that expenditures were made for any purpose other than the furtherance of the candidate's nomination or election, or that the candidate has not maintained or provided requested documentation. If a candidate repays to the Fund all funds remaining in such candidate's authorized committee bank account on or before December 31 in the year of the election, or, for special elections, on or before the last day of the month following the month in which the election took place, such candidate shall be presumed not to owe additional remaining funds, provided that any contributions received and expenditures made after such funds are repaid must be raised and spent in compliance with the Act and these rules.
 
-   (vi) contain the complainant's full name, current address, telephone number, and email address.
+   (i) Before repaying campaign funds remaining in the committee bank account, a candidate may make post-election expenditures only for routine activities involving nominal cost associated with winding up a campaign and responding to the post-election audit. Such expenditures may include: payment of utility bills and rent; reasonable staff salaries and consultancy fees for responding to a post-election audit; reasonable staff salaries and legal fees incurred prior to the date of the issuance of the candidate's final audit report and associated with defending against a claim that public funds must be repaid; a post-election event for staff, volunteers, or supporters held within 30 days of the election; reasonable moving expenses related to closing the campaign office; a holiday card mailing to contributors, campaign volunteers, and staff; thank you notes to contributors, campaign volunteers, and staff; payment of taxes and other reasonable expenses for compliance with applicable tax laws; and interest expense. Routine post-election expenditures that may be paid for with remaining campaign funds do not include such items as post-election mailings other than as specifically provided for in this paragraph; making contributions; or making bonus payments or gifts to staff or volunteers. Campaign funds remaining in the committee account may not be used for transition and inauguration activities.
 
-(c) Initial review of complaint.
+   (ii) Notwithstanding the restriction on the use of receipts provided in subdivision (c)(i), a candidate who has outstanding liabilities from the election, including a candidate who owes public funds or penalties to the Board, may make post-election expenditures for the purpose of raising funds to repay such debt, provided, however, that such expenditures and any contributions received shall be included in the calculation of the candidate's remaining funds, unless such expenditures and contributions are incurred or received after the date of the issuance of the candidate's final audit report.
 
-   (i) If in compliance. Upon receipt, the complaint will be reviewed for substantial compliance with the above requirements. If the complaint is in compliance, the Board shall, within 10 days of receipt, send each party complained about a copy of the complaint.
+   (iii) Notwithstanding the prohibition on post-election bonus payments provided in subdivision (c)(i), a bonus payment to an employee may be considered a permissible pre-election expenditure, even if paid after the election, provided that:
 
-   (ii) Deficient complaints.
+      (A) the bonus is paid pursuant to a contract executed before the services that serve as the basis for the bonus are performed;
 
-      (A) If the complaint is moot, facially meritless, or not in substantial compliance, it may be rejected and the complainant so notified.
+      (B) such contract states in detail the amount of the bonus and the criteria that must be satisfied in order for the bonus to be paid;
 
-      (B) If the complaint is not in substantial compliance, the Board may investigate the subject matter of the complaint, but need not follow the procedural requirements of this chapter.
+      (C) such criteria are quantifiable, merit-based, and related to services provided prior to the election;
 
-(d) Response to complaint; possible dismissal.
+      (D) the bonus is not conditioned, either in existence or amount, on the result of the election, the amount of funds remaining in the committee account, or whether the candidate received public funds; and
 
-   (i) The party complained about may submit an answer to the complaint:
+      (E) the bonus does not constitute more than 10% of the total amount paid to the employee.
 
-      (A) within 20 days of the date the complaint was sent by the Board, or
+(d) Repayment is largest amount. Where more than one grounds for repayment exists as provided in subdivisions (a), (b), and (c) of this section, the amount to be paid to the Board shall be the largest of the amounts.
 
-      (B) within such lesser time as may be specified by the Board for complaints received less than 90 days before an election.
+(e) Breach of certification. A candidate found to have breached such candidate's certification pursuant to 52 RCNY § 3-01(e) may be deemed ineligible to receive public funds and may be required to return all public funds previously received.
 
-   (ii) The answer must:
+(f) Ballot disqualification. Pursuant to § 3-709(7) of the Code, a candidate who has been finally disqualified or whose designating or nominating petitions have been finally declared invalid by the Board of Elections or a court of competent jurisdiction, may not thereafter spend public funds for any purpose other than the payment of previous liabilities incurred in qualified campaign expenditures. All public funds in excess of such liabilities previously incurred shall be promptly repaid to the Board; the amount to be repaid shall be determined in accordance with § 3-710(2)(b) of the Code and subdivision (b) of this section. A repayment made pursuant to § 3-709(7) shall not preclude a determination that an additional repayment is required pursuant to that or any other provision of the Act.
 
-      (A) be sworn to and affirmed,
+(g) Ballot fraud. Pursuant to § 3-710(3) of the Code, a candidate who has been disqualified by a court of competent jurisdiction on the grounds that such candidate committed fraudulent acts in order to obtain a place on the ballot, if such decision is not reversed, must pay to the Board an amount equal to the total public funds paid to the candidate. Repayments pursuant to this subdivision must be made promptly upon the court's determination of disqualification.
 
-      (B) set forth a response to the allegations contained in the complaint, including any reasons why the Board should dismiss the complaint in full or in part, if applicable, and
+(h) Other reasons for repayment. The Board may require a candidate to repay public funds because:
 
-      (C) be accompanied by copies of all documentary evidence available to the respondent.
+   (i) the candidate failed to maintain copies of checks or contribution cards that document matchable contributions;
 
-   (iii) Based on the answer, a complaint may be dismissed as moot.
+   (ii) the public funds paid were based on contributions that were returned or contribution checks that have not been paid;
 
-(e) Board action. Based on its review of the complaint and any answer filed, and of any investigation it chooses to conduct, the Board may:
+   (iii) the candidate has failed to demonstrate eligibility for the public funds paid or compliance with Program requirements; or
 
-   (i) determine the complaint to be moot or lacking in merit and dismiss the complaint; or
-
-   (ii) determine that violations or infractions of the Charter, Act, or these rules have been substantiated, and initiate an enforcement proceeding pursuant to the procedures outlined in 52 RCNY Chapter 10.
+   (iv) a determination pursuant to §§ 3-705(6) or (7) of the Code is reversed following reconsideration pursuant to 52 RCNY § 7-10(b)(vii).
 
 
 
@@ -2923,6 +2842,87 @@ Once the hearing officer has issued a recommended final determination, each part
 
 
 The Board shall provide a final determination affirming, rejecting, or modifying the hearing officer's recommended final determination within 30 days of the conclusion of the written comments period, or as soon thereafter as is practicable. The final determination shall notify the candidate of the commencement of the four-month period during which a special proceeding may be brought to challenge the Board's determination pursuant to Article 78 of the Civil Practice Law and Rules. If the Board rejects or modifies the hearing officer's recommended final determination, the Board shall provide a written determination stating the basis for any assessed penalty or public funds determination, including any findings of fact and conclusions of law. Determinations made by the Board pursuant to this chapter may not be appealed to the Board unless the Board specifically provides otherwise in its determination.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 12-01 Investigations.* ::
+
+
+The Board may conduct an investigation into possible violations of the Charter, Act, or these rules. In its investigation, the Board may use its investigative powers pursuant to § 1052(a)(5) of the Charter and §§ 3-708(5) and 3-710(1) of the Code. An investigation may include, but is not limited to, field investigations, desk and field audits, the issuance of subpoenas, the taking of sworn testimony, the issuance of document requests and interrogatories, and other methods of information gathering.
+
+
+
+
+
+
+
+
+*§ 12-02 Complaints.* ::
+
+
+(a) Filing a complaint. A complaint must be filed by hand delivery, mail, fax, or scanned and sent as an attachment via email to the Board's offices.
+
+(b) Complaint requirements. Complaints must:
+
+   (i) be made in writing;
+
+   (ii) be sworn to or affirmed;
+
+   (iii) be based on personal knowledge, if possible, and if a complaint is based on information and belief, the complainant must state the source of that information and belief;
+
+   (iv) specify the conduct alleged to be in violation of the Charter, Act, or these rules, and to the extent known:
+
+      (A) the date(s) and time(s) of the conduct,
+
+      (B) the place(s) the conduct occurred, and
+
+      (C) the names of witnesses, if any.
+
+   (v) be accompanied by copies of all documentary evidence available to the complainant; and
+
+   (vi) contain the complainant's full name, current address, telephone number, and email address.
+
+(c) Initial review of complaint.
+
+   (i) If in compliance. Upon receipt, the complaint will be reviewed for substantial compliance with the above requirements. If the complaint is in compliance, the Board shall, within 10 days of receipt, send each party complained about a copy of the complaint.
+
+   (ii) Deficient complaints.
+
+      (A) If the complaint is moot, facially meritless, or not in substantial compliance, it may be rejected and the complainant so notified.
+
+      (B) If the complaint is not in substantial compliance, the Board may investigate the subject matter of the complaint, but need not follow the procedural requirements of this chapter.
+
+(d) Response to complaint; possible dismissal.
+
+   (i) The party complained about may submit an answer to the complaint:
+
+      (A) within 20 days of the date the complaint was sent by the Board, or
+
+      (B) within such lesser time as may be specified by the Board for complaints received less than 90 days before an election.
+
+   (ii) The answer must:
+
+      (A) be sworn to and affirmed,
+
+      (B) set forth a response to the allegations contained in the complaint, including any reasons why the Board should dismiss the complaint in full or in part, if applicable, and
+
+      (C) be accompanied by copies of all documentary evidence available to the respondent.
+
+   (iii) Based on the answer, a complaint may be dismissed as moot.
+
+(e) Board action. Based on its review of the complaint and any answer filed, and of any investigation it chooses to conduct, the Board may:
+
+   (i) determine the complaint to be moot or lacking in merit and dismiss the complaint; or
+
+   (ii) determine that violations or infractions of the Charter, Act, or these rules have been substantiated, and initiate an enforcement proceeding pursuant to the procedures outlined in 52 RCNY Chapter 10.
 
 
 

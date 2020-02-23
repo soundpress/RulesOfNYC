@@ -3288,6 +3288,123 @@ The Department will place automated external defibrillators in the following loc
 
 
 
+Chapter 5: Rules Governing Tree Replacement
+--------------------------------------------------
+
+
+
+*§ 5-01 Removal of Trees.* ::
+
+
+(a) Any person who intends to remove any tree under the jurisdiction of the Department shall apply for and obtain a permit under this chapter prior to such removal.
+
+(b) If the Department approves a removal request for a tree, issuance of a permit under this chapter shall require the applicant to pay a fee to the Department sufficient to cover the cost of replacing any tree proposed to be removed as set forth in this chapter, unless otherwise permitted by law. The applicant shall indicate in writing whether they intend to plant the required number of replacement trees, as directed by the Department, or requests that the Department plant such replacement trees at applicant's cost.
+
+(c) In addition to all other legal remedies, the Department shall seek damages, as applicable, as determined under 56 RCNY § 5-02(d)-(f), from any person who violates 56 RCNY § 1-04(b)(1)(i).
+
+
+
+
+
+
+*§ 5-02 Determination of Replacement Trees.* ::
+
+
+(a) Determination of replacement trees. The number of trees needed to replace each tree approved for removal shall be determined by calculating the size, condition, species and location rating of the tree proposed for removal. If a removal permit is approved by the Commissioner, the Department, no later than ninety (90) days following the filing of a completed application for a permit, shall inform the applicant, based on the factors herein, the number and size of replacement trees to be planted and the period of time during which the replacement trees shall be planted and the fee for such replacements. In order to determine the applicable rating for any tree approved for removal the Department horticultural officer shall take into consideration the following:
+
+   (1) Size. The size rating of a tree shall be determined by measuring the diameter of the tree at breast height (four and one half (4 1/2) feet above the ground) and then calculating the cross sectional area of the trunk in square inches.
+
+   (2) Condition. The condition rating of a tree shall be based on the following factors:
+
+      a. The structure and health of its roots;
+
+      b. The structure and health of its trunk;
+
+      c. The structure and health of its branches;
+
+      d. The health of its small branches and twigs; and
+
+      e. The health of its foliage and/or buds. However, if the Department determines, after consulting with the applicant, that a tree requested for removal is dead or seriously diseased, or otherwise represents a hazard to public safety, such tree will not result in any required replacement trees unless the hazard was caused by actions of the applicant.
+
+   (3) Species. The species rating of a tree shall be based on the magnitude and longevity of the services and benefits the species provides in the City. Magnitude and longevity are established by tree stature at maturity (i.e., mature height), and expected tree lifespan.
+
+   (4) Location. The location factor of a tree shall be determined by considering how well the site supports the tree's biological, physical and chemical needs; and a tree's placement in the landscape with respect to both the tree's positioning within and its relationship to its surroundings.
+
+      a. The rating of the site where a tree is growing is established by considering the following:
+
+         i. whether the site is in a park or landscaped area with ample belowground and overhead growing space;
+
+         ii. whether the site is in the street but there is enough above and below ground space to support the tree;
+
+         iii. whether the species of tree is tolerant of the site's difficult growing conditions, if any;
+
+         iv. whether the site is physically limiting to the tree, but the tree's stature and root system are appropriate for current adjacent infrastructure (e.g., small stature under utility wires or next to a building or retaining wall);
+
+         v. whether the tree is negatively impacted by existing site infrastructure;
+
+         vi. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally sound species;
+
+         vii. whether physical space limitations at the site will challenge the success of the tree over time;
+
+         viii. whether the species of tree is only moderately tolerant of the site's difficult growing conditions, if any;
+
+         ix. whether the tree's stature or root system is inappropriate for adjacent current site infrastructure (e.g., large tree under utility wires or too close to a building foundation or bridge parapet); and
+
+         x. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally weak species.
+
+      b. The rating for a tree's placement in its surrounding landscape is determined by considering the following:
+
+         i. whether the tree is a native species in or adjacent to a natural area or large park;
+
+         ii. whether the tree is a historic specimen or part of a grove, or is an original planting in a historic landscape;
+
+         iii. whether the tree is the only, or one of a few, in the area;
+
+         iv. whether the tree is extremely complimentary to or prominent within an adjacent view, land use, structure or natural landscape element;
+
+         v. whether the tree is one of a group of plantings and its individual loss would have minimal visual or environmental impact on the entire group of plantings;
+
+         vi. whether the tree is very important within a group of other plantings, such as an allée or along an even-aged block, and its loss would be of high impact to that planting group; and
+
+         vii. whether the tree provides exceptional services based on its location (e.g., shade in a playground or sitting area, property value in front of a building, stormwater absorption in or near a wetland).
+
+   (5) a. Number of Replacement Trees. Based on the factors established in 56 RCNY § 5-02(a)(1) - (4), the Department will determine the required number of replacement trees.
+
+      b. In no case shall the number of replacement trees equal less than one caliper inch of replacement tree for each caliper inch of tree removed.
+
+   (6) Calculation of Fee for a Tree Removal Permit. The Department will determine the total fee for a tree removal permit pursuant to 56 RCNY § 5-01(a) by multiplying the number of required replacement trees by the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree as derived from all Department planting contracts for the City fiscal year preceding the date of the permit application.
+
+   (7) The timing for planting replacement trees shall be determined by the Department's horticultural officer and stated within the permit unless otherwise permitted by law. However, each replacement tree under such a permit shall be planted no later than sixty (60) days after the project for which the tree removal was requested has been completed, or in the next ensuing spring or fall season after such project is completed or earlier as agreed by the applicant and the Department.
+
+   (8) Size of Replacement Trees. All replacement trees will be three (3) inch caliper, unless otherwise authorized by the Department.
+
+(b) Payment to the Department.
+
+   (1) If a person granted a permit pursuant to 56 RCNY § 5-01(a) requests that the Department plant any required replacement trees, such person shall pay the required fee to the Department prior to the issuance of any such permit unless otherwise permitted by law.
+
+   (2) If a person granted a permit pursuant to 56 RCNY § 5-01(a) and subject to paragraph one of this subdivision intends to plant any required replacement trees, such person shall notify the Department in advance and pay the required fee to the Department prior to the issuance of any such permit. If the required replacement tree(s) are planted by the permittee as directed by the Department, the Department shall return any such fee within sixty (60) days of confirmation by the Department that such trees were properly planted by permittee. If any such tree(s) is not replanted as directed by the Department by the time specified within the permit, the Department shall retain such fee for the purpose of planting said replacement trees.
+
+(c) Irreparable Tree Damage. If a tree is damaged beyond recovery or if it is damaged so that it poses a safety risk, as determined by the Department, it shall be removed, including its stump, at the permittee's expense if a permit is in effect pursuant to 56 RCNY § 5-01(a), or at the expense of the person responsible for such damage if no permit is in effect. In such instances, the tree shall be evaluated for replacement purposes pursuant to 56 RCNY § 5-02(a) based on its condition prior to suffering irreparable damage.
+
+(d) Destruction and Tree Removal. If a tree is destroyed and removed without a permit pursuant to 56 RCNY § 5-01(a), there shall be a rebuttable presumption that such tree was in perfect condition prior to such removal. In this instance the tree shall be evaluated pursuant to 56 RCNY § 5-02(a) for all other factors. However, the size of the removed tree shall be determined either by the diameter of the remaining stump or from existing Department records. The cost of the total number of replacement trees to be planted shall equal the appraised value of the destroyed or removed tree.
+
+(e) Injured Trees. If a tree is damaged or injured, but not destroyed or removed, a Department horticultural officer will make the following two (2) appraisals using the method established in 56 RCNY § 5-02(a) in order to determine the value of the damaged or injured tree. The first appraisal shall account for the tree's condition prior to damage or injury. The second appraisal shall account for the tree's condition after damage or injury, with all other factors being equal. The difference between the two appraisals shall equal the replacement value caused by the injury and the sum for which the permit holder or person responsible for the injury is responsible.
+
+(f) The location of replacement trees shall be determined by the Department's horticultural officer unless otherwise permitted by law. To the extent practicable, replacement trees shall be planted within the same community district from which the tree(s) that were the subject of the permit were removed. Where the horticultural officer determines that it is not feasible to plant the total number of replacement trees at the subject location, the person granted the permit under 56 RCNY § 5-01(a) shall be required to plant the remaining replacement trees at locations capable of accommodating such planting, either as close as possible to the property from which the original trees were removed, destroyed or severely damaged, or as the horticultural officer deems feasible. The person granted the permit under 56 RCNY § 5-01(a) may propose in writing to the horticultural officer alternate locations, so that provision may be made for the planting of all required replacement trees. Where the horticultural officer determines that a proposed alternate location or the number of replacement trees proposed to be planted at an alternate location is not feasible, the horticultural officer may select other locations to accommodate the planting of all required replacement trees.
+
+
+
+
+
+
+*§ 5-03 Tree Planting in Lieu of Obligations under the Zoning Requirements.* ::
+
+
+If a person or entity is required under Zoning Resolution Article 2, Chapter 6, Section 41 to plant street trees, but pursuant to the Zoning Resolution such person or entity is required or opts to have the Department plant such trees on such person or entity's behalf, then the person or entity must deposit the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree based on Department planting contracts for the preceding City fiscal year, in an account of the City as directed by the Department, unless otherwise permitted by law.
+
+
+
+
 Chapter 4: Rules Governing Mooring Fields Under the Jurisdiction of the Department
 --------------------------------------------------
 
@@ -3600,123 +3717,6 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
  
-
-
-
-
-Chapter 5: Rules Governing Tree Replacement
---------------------------------------------------
-
-
-
-*§ 5-01 Removal of Trees.* ::
-
-
-(a) Any person who intends to remove any tree under the jurisdiction of the Department shall apply for and obtain a permit under this chapter prior to such removal.
-
-(b) If the Department approves a removal request for a tree, issuance of a permit under this chapter shall require the applicant to pay a fee to the Department sufficient to cover the cost of replacing any tree proposed to be removed as set forth in this chapter, unless otherwise permitted by law. The applicant shall indicate in writing whether they intend to plant the required number of replacement trees, as directed by the Department, or requests that the Department plant such replacement trees at applicant's cost.
-
-(c) In addition to all other legal remedies, the Department shall seek damages, as applicable, as determined under 56 RCNY § 5-02(d)-(f), from any person who violates 56 RCNY § 1-04(b)(1)(i).
-
-
-
-
-
-
-*§ 5-02 Determination of Replacement Trees.* ::
-
-
-(a) Determination of replacement trees. The number of trees needed to replace each tree approved for removal shall be determined by calculating the size, condition, species and location rating of the tree proposed for removal. If a removal permit is approved by the Commissioner, the Department, no later than ninety (90) days following the filing of a completed application for a permit, shall inform the applicant, based on the factors herein, the number and size of replacement trees to be planted and the period of time during which the replacement trees shall be planted and the fee for such replacements. In order to determine the applicable rating for any tree approved for removal the Department horticultural officer shall take into consideration the following:
-
-   (1) Size. The size rating of a tree shall be determined by measuring the diameter of the tree at breast height (four and one half (4 1/2) feet above the ground) and then calculating the cross sectional area of the trunk in square inches.
-
-   (2) Condition. The condition rating of a tree shall be based on the following factors:
-
-      a. The structure and health of its roots;
-
-      b. The structure and health of its trunk;
-
-      c. The structure and health of its branches;
-
-      d. The health of its small branches and twigs; and
-
-      e. The health of its foliage and/or buds. However, if the Department determines, after consulting with the applicant, that a tree requested for removal is dead or seriously diseased, or otherwise represents a hazard to public safety, such tree will not result in any required replacement trees unless the hazard was caused by actions of the applicant.
-
-   (3) Species. The species rating of a tree shall be based on the magnitude and longevity of the services and benefits the species provides in the City. Magnitude and longevity are established by tree stature at maturity (i.e., mature height), and expected tree lifespan.
-
-   (4) Location. The location factor of a tree shall be determined by considering how well the site supports the tree's biological, physical and chemical needs; and a tree's placement in the landscape with respect to both the tree's positioning within and its relationship to its surroundings.
-
-      a. The rating of the site where a tree is growing is established by considering the following:
-
-         i. whether the site is in a park or landscaped area with ample belowground and overhead growing space;
-
-         ii. whether the site is in the street but there is enough above and below ground space to support the tree;
-
-         iii. whether the species of tree is tolerant of the site's difficult growing conditions, if any;
-
-         iv. whether the site is physically limiting to the tree, but the tree's stature and root system are appropriate for current adjacent infrastructure (e.g., small stature under utility wires or next to a building or retaining wall);
-
-         v. whether the tree is negatively impacted by existing site infrastructure;
-
-         vi. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally sound species;
-
-         vii. whether physical space limitations at the site will challenge the success of the tree over time;
-
-         viii. whether the species of tree is only moderately tolerant of the site's difficult growing conditions, if any;
-
-         ix. whether the tree's stature or root system is inappropriate for adjacent current site infrastructure (e.g., large tree under utility wires or too close to a building foundation or bridge parapet); and
-
-         x. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally weak species.
-
-      b. The rating for a tree's placement in its surrounding landscape is determined by considering the following:
-
-         i. whether the tree is a native species in or adjacent to a natural area or large park;
-
-         ii. whether the tree is a historic specimen or part of a grove, or is an original planting in a historic landscape;
-
-         iii. whether the tree is the only, or one of a few, in the area;
-
-         iv. whether the tree is extremely complimentary to or prominent within an adjacent view, land use, structure or natural landscape element;
-
-         v. whether the tree is one of a group of plantings and its individual loss would have minimal visual or environmental impact on the entire group of plantings;
-
-         vi. whether the tree is very important within a group of other plantings, such as an allée or along an even-aged block, and its loss would be of high impact to that planting group; and
-
-         vii. whether the tree provides exceptional services based on its location (e.g., shade in a playground or sitting area, property value in front of a building, stormwater absorption in or near a wetland).
-
-   (5) a. Number of Replacement Trees. Based on the factors established in 56 RCNY § 5-02(a)(1) - (4), the Department will determine the required number of replacement trees.
-
-      b. In no case shall the number of replacement trees equal less than one caliper inch of replacement tree for each caliper inch of tree removed.
-
-   (6) Calculation of Fee for a Tree Removal Permit. The Department will determine the total fee for a tree removal permit pursuant to 56 RCNY § 5-01(a) by multiplying the number of required replacement trees by the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree as derived from all Department planting contracts for the City fiscal year preceding the date of the permit application.
-
-   (7) The timing for planting replacement trees shall be determined by the Department's horticultural officer and stated within the permit unless otherwise permitted by law. However, each replacement tree under such a permit shall be planted no later than sixty (60) days after the project for which the tree removal was requested has been completed, or in the next ensuing spring or fall season after such project is completed or earlier as agreed by the applicant and the Department.
-
-   (8) Size of Replacement Trees. All replacement trees will be three (3) inch caliper, unless otherwise authorized by the Department.
-
-(b) Payment to the Department.
-
-   (1) If a person granted a permit pursuant to 56 RCNY § 5-01(a) requests that the Department plant any required replacement trees, such person shall pay the required fee to the Department prior to the issuance of any such permit unless otherwise permitted by law.
-
-   (2) If a person granted a permit pursuant to 56 RCNY § 5-01(a) and subject to paragraph one of this subdivision intends to plant any required replacement trees, such person shall notify the Department in advance and pay the required fee to the Department prior to the issuance of any such permit. If the required replacement tree(s) are planted by the permittee as directed by the Department, the Department shall return any such fee within sixty (60) days of confirmation by the Department that such trees were properly planted by permittee. If any such tree(s) is not replanted as directed by the Department by the time specified within the permit, the Department shall retain such fee for the purpose of planting said replacement trees.
-
-(c) Irreparable Tree Damage. If a tree is damaged beyond recovery or if it is damaged so that it poses a safety risk, as determined by the Department, it shall be removed, including its stump, at the permittee's expense if a permit is in effect pursuant to 56 RCNY § 5-01(a), or at the expense of the person responsible for such damage if no permit is in effect. In such instances, the tree shall be evaluated for replacement purposes pursuant to 56 RCNY § 5-02(a) based on its condition prior to suffering irreparable damage.
-
-(d) Destruction and Tree Removal. If a tree is destroyed and removed without a permit pursuant to 56 RCNY § 5-01(a), there shall be a rebuttable presumption that such tree was in perfect condition prior to such removal. In this instance the tree shall be evaluated pursuant to 56 RCNY § 5-02(a) for all other factors. However, the size of the removed tree shall be determined either by the diameter of the remaining stump or from existing Department records. The cost of the total number of replacement trees to be planted shall equal the appraised value of the destroyed or removed tree.
-
-(e) Injured Trees. If a tree is damaged or injured, but not destroyed or removed, a Department horticultural officer will make the following two (2) appraisals using the method established in 56 RCNY § 5-02(a) in order to determine the value of the damaged or injured tree. The first appraisal shall account for the tree's condition prior to damage or injury. The second appraisal shall account for the tree's condition after damage or injury, with all other factors being equal. The difference between the two appraisals shall equal the replacement value caused by the injury and the sum for which the permit holder or person responsible for the injury is responsible.
-
-(f) The location of replacement trees shall be determined by the Department's horticultural officer unless otherwise permitted by law. To the extent practicable, replacement trees shall be planted within the same community district from which the tree(s) that were the subject of the permit were removed. Where the horticultural officer determines that it is not feasible to plant the total number of replacement trees at the subject location, the person granted the permit under 56 RCNY § 5-01(a) shall be required to plant the remaining replacement trees at locations capable of accommodating such planting, either as close as possible to the property from which the original trees were removed, destroyed or severely damaged, or as the horticultural officer deems feasible. The person granted the permit under 56 RCNY § 5-01(a) may propose in writing to the horticultural officer alternate locations, so that provision may be made for the planting of all required replacement trees. Where the horticultural officer determines that a proposed alternate location or the number of replacement trees proposed to be planted at an alternate location is not feasible, the horticultural officer may select other locations to accommodate the planting of all required replacement trees.
-
-
-
-
-
-
-*§ 5-03 Tree Planting in Lieu of Obligations under the Zoning Requirements.* ::
-
-
-If a person or entity is required under Zoning Resolution Article 2, Chapter 6, Section 41 to plant street trees, but pursuant to the Zoning Resolution such person or entity is required or opts to have the Department plant such trees on such person or entity's behalf, then the person or entity must deposit the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree based on Department planting contracts for the preceding City fiscal year, in an account of the City as directed by the Department, unless otherwise permitted by law.
 
 
 

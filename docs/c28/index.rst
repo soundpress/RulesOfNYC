@@ -391,105 +391,6 @@ Except as specifically provided in this section, every application for the prepa
 
 
 
-Chapter 5: President of the Borough of Staten Island
---------------------------------------------------
-
-
-
-
-**Subchapter A: Rules For the Conduct of Public Hearings**
-
-
-
-*§ 5-01 Applicability.* ::
-
-
-These Rules apply to public hearings conducted pursuant to the New York City Charter or other applicable law or rule by the President of the Borough of Staten Island ("Borough President") or his or her designee.
-
-
-
-
-
-
-*§ 5-02 Notice of Public Hearing and Agenda.* ::
-
-
-Notice of the date, day, time, place and subject of a public hearing shall be by publication in the City Record for the five days of publication immediately preceding and including the date of the public hearing. An agenda for the public hearing shall be available at the public hearing.
-
-
-
-
-
-
-*§ 5-03 Conduct of Public Hearings.* ::
-
-
-(a) Location. Public hearings shall be held in Room 122 at Staten Island Borough Hall, Saint George, Staten Island, New York, or such other place as may be determined by the Borough President and listed in the notice.
-
-(b) General Character. Public hearings shall be legislative type hearings, without sworn testimony or strict rules of evidence. The Borough President or her or his designee shall preside and only she or he may question a speaker.
-
-(c) Testimony. Persons seeking to testify on any matter on the agenda shall request an opportunity to testify by completing the form provided by the Borough President at the hearing. Persons testifying shall be called in the order determined by the Borough President. Testimony generally is limited to three minutes, unless extended by the Borough President.
-
-(d) Written Comments. Any person may submit a written statement or comments on any matter on the agenda. Written statements or comments shall be submitted to the Borough President at the public hearing or by two days after the hearing to receive full consideration.
-
-(e) Record. The record of a public hearing shall consist of a tape recording, or when determined by the Borough President, a stenographic transcript of the hearing, a list of the names of the persons who testified and their affiliation, if any, and any timely submitted written statements or comments. The record shall be available for public inspection at the Staten Island Borough Hall, Room 100 within sixty (60) days after the hearing. A copy of the transcript, if any, or any pages requested is available at a fee of twenty-five cents a page, plus mailing costs, payable in advance.
-
-
-
-
-
-
-*§ 5-04 Borough President's Actions.* ::
-
-
-The Borough President may adjourn, continue or close any public hearing. The Borough President may make no recommendation, or may approve, approve with modification, disapprove or conditionally disapprove any matter on the agenda of a public hearing.
-
-
-
-
-
-
-
-**Subchapter B: Topographical Bureau Fees**
-
-
-
-*§ 5-05 Definitions.* ::
-
-
-(a)  "House or building number issuance" means the issuance and recording of a house or building number(s) for a specific lot or lots including:
-
-      (i) The issuance of a new street number for an existing house or building or proposed house or building (or a portion thereof); and
-
-      (ii) The review and confirmation of whether a specific street number is correct for an existing house or building or proposed house or building (or a portion thereof).
-
-(b) "Topographical Bureau" means the topographical bureau maintained by the Office of the Borough President of the Borough of Staten Island.
-
-
-
-
-
-
-*§ 5-06 Fee Schedule.* ::
-
-
-(a)  The fee for the processing of the below listed application and request submitted to the Topographical Bureau shall be as follows:
-
-   (1) House or building number application: $100.00 per house or building number.
-
-
-
-
-
-
-*§ 5-07 Method of Payments.* ::
-
-
-Every application for a house or building number issuance made after August 25, 2003 shall include a non-returnable fee which shall be paid by certified check or money order made payable to the Office of the Staten Island Borough President. Fees shall be paid when an application is filed, and no application will be processed by the Office of the Borough President until the fee is paid in full.
-
-
-
-
 Chapter 4: President of the Borough of Queens
 --------------------------------------------------
 
@@ -718,6 +619,105 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 Except as specifically provided in this section, every application for the preparation of an alteration map, review of an alteration map, new building certification, building alteration, to conduct a detailed grade study or issue house numbers, shall include a non-returnable fee, which shall be paid by certified check, money order, bank check or credit card, made payable to the Office of the Queens Borough President. Fees shall be paid when the application is filed, and no application will be processed by the Borough President's Office until the fee is paid in full.
+
+
+
+
+Chapter 5: President of the Borough of Staten Island
+--------------------------------------------------
+
+
+
+
+**Subchapter A: Rules For the Conduct of Public Hearings**
+
+
+
+*§ 5-01 Applicability.* ::
+
+
+These Rules apply to public hearings conducted pursuant to the New York City Charter or other applicable law or rule by the President of the Borough of Staten Island ("Borough President") or his or her designee.
+
+
+
+
+
+
+*§ 5-02 Notice of Public Hearing and Agenda.* ::
+
+
+Notice of the date, day, time, place and subject of a public hearing shall be by publication in the City Record for the five days of publication immediately preceding and including the date of the public hearing. An agenda for the public hearing shall be available at the public hearing.
+
+
+
+
+
+
+*§ 5-03 Conduct of Public Hearings.* ::
+
+
+(a) Location. Public hearings shall be held in Room 122 at Staten Island Borough Hall, Saint George, Staten Island, New York, or such other place as may be determined by the Borough President and listed in the notice.
+
+(b) General Character. Public hearings shall be legislative type hearings, without sworn testimony or strict rules of evidence. The Borough President or her or his designee shall preside and only she or he may question a speaker.
+
+(c) Testimony. Persons seeking to testify on any matter on the agenda shall request an opportunity to testify by completing the form provided by the Borough President at the hearing. Persons testifying shall be called in the order determined by the Borough President. Testimony generally is limited to three minutes, unless extended by the Borough President.
+
+(d) Written Comments. Any person may submit a written statement or comments on any matter on the agenda. Written statements or comments shall be submitted to the Borough President at the public hearing or by two days after the hearing to receive full consideration.
+
+(e) Record. The record of a public hearing shall consist of a tape recording, or when determined by the Borough President, a stenographic transcript of the hearing, a list of the names of the persons who testified and their affiliation, if any, and any timely submitted written statements or comments. The record shall be available for public inspection at the Staten Island Borough Hall, Room 100 within sixty (60) days after the hearing. A copy of the transcript, if any, or any pages requested is available at a fee of twenty-five cents a page, plus mailing costs, payable in advance.
+
+
+
+
+
+
+*§ 5-04 Borough President's Actions.* ::
+
+
+The Borough President may adjourn, continue or close any public hearing. The Borough President may make no recommendation, or may approve, approve with modification, disapprove or conditionally disapprove any matter on the agenda of a public hearing.
+
+
+
+
+
+
+
+**Subchapter B: Topographical Bureau Fees**
+
+
+
+*§ 5-05 Definitions.* ::
+
+
+(a)  "House or building number issuance" means the issuance and recording of a house or building number(s) for a specific lot or lots including:
+
+      (i) The issuance of a new street number for an existing house or building or proposed house or building (or a portion thereof); and
+
+      (ii) The review and confirmation of whether a specific street number is correct for an existing house or building or proposed house or building (or a portion thereof).
+
+(b) "Topographical Bureau" means the topographical bureau maintained by the Office of the Borough President of the Borough of Staten Island.
+
+
+
+
+
+
+*§ 5-06 Fee Schedule.* ::
+
+
+(a)  The fee for the processing of the below listed application and request submitted to the Topographical Bureau shall be as follows:
+
+   (1) House or building number application: $100.00 per house or building number.
+
+
+
+
+
+
+*§ 5-07 Method of Payments.* ::
+
+
+Every application for a house or building number issuance made after August 25, 2003 shall include a non-returnable fee which shall be paid by certified check or money order made payable to the Office of the Staten Island Borough President. Fees shall be paid when an application is filed, and no application will be processed by the Office of the Borough President until the fee is paid in full.
 
 
 
