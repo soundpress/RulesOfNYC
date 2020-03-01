@@ -18355,7 +18355,7 @@ Benefits Ineligibility Letter. “Benefits Ineligibility Letter” shall mean th
 
 Comptroller. "Comptroller" shall mean the comptroller of the city of New York or his or her designee.
 
-Comptroller Schedule. "Comptroller Schedule" shall mean the annual Labor Law Section 230 Prevailing Wage Schedules for Building Service Employees that are in effect at the time the relevant Building Service Employee performs the work and that are published at www.comptroller.nyc.gov/prevailingwage.
+Comptroller Schedule. "Comptroller Schedule" shall mean the annual Building Service Employee Prevailing Wage Schedule published by the Comptroller that is in effect at the time the relevant Building Service Employee performs the work and that is published at www.comptroller.nyc.gov/wages.
 
 Construction Benefits. "Construction Benefits" shall mean Benefits for the period before issuance of either a permanent certificate of occupancy for the entire building or a temporary certificate of occupancy for all of the residential areas contained therein.
 
@@ -18371,7 +18371,7 @@ New 421-a Act. “New 421-a Act” shall mean paragraph (h) of subdivision 16 of
 
 Order. "Order" shall mean an order issued by the Agency, pursuant to paragraph (d) of the Act, subparagraph (iv) of the New 421-a Act or subparagraph (iv) of the Extended Affordability Act, respectively, that either (a) adopts, in whole or in part, or rejects a Report and Recommendation, or (b) approves any Stipulation of Settlement between the Comptroller and the Applicant.
 
-Owner. "Owner" shall mean the fee owner of the real property receiving Benefits and any ground lessee of such real property.
+Owner. "Owner" shall mean the fee owner of the real property receiving Benefits and any ground lessee, master lessee, sublessor or sublessee of such real property.
 
 Preliminary Certificate of Eligibility. "Preliminary Certificate of Eligibility" shall mean the document issued by the Agency in accordance with 28 RCNY Chapter 6 that provides for Construction Benefits.
 
@@ -18379,7 +18379,7 @@ Post-Construction Benefits. "Post-Construction Benefits" shall mean Benefits for
 
 Prevailing Wage. "Prevailing Wage" shall mean the prevailing wage and supplement rates for the various classifications set forth in the Comptroller Schedule.
 
-Prevailing Wage Requirement. "Prevailing Wage Requirement" shall mean the requirements under the Act, the New 421-a Act or the Extended Affordability Act, respectively, and this chapter that are applicable, with respect to the Act or the New 421-a Act, to any Multiple Dwelling whose construction began on or after December 28, 2007, and with respect to the Extended Affordability Act, to any Extended Affordability Property, except as otherwise provided in paragraph (e) of the Act, subparagraph (v) of the New 421-a Act, or subparagraph (v) of the Extended Affordability Act, as applicable, that all Building Service Employees receive the Prevailing Wage for the duration of the applicable Benefits period.
+Prevailing Wage Requirement. "Prevailing Wage Requirement" shall mean the requirements under the Act, the New 421-a Act or the Extended Affordability Act, respectively, and this chapter that are applicable, with respect to the Act or the New 421-a Act, to any Multiple Dwelling whose construction began on or after December 28, 2007, and with respect to the Extended Affordability Act, to any Extended Affordability Property, except as otherwise provided in paragraph (e) of the Act, subparagraph (v) of the New 421-a Act, or subparagraph (v) of the Extended Affordability Act, as applicable, that all Building Service Employees receive the Prevailing Wage for the duration of the applicable Benefits period. Notwithstanding anything to the contrary contained herein or in the Act, the New 421-a Act or the Extended Affordability Act, such requirements shall only be applicable to persons who are employed at a building, eligible site or extended affordability property, as applicable, for at least a ninety day period.
 
 Report and Recommendation. "Report and Recommendation" shall mean a report and recommendation issued by the Comptroller or the Comptroller's designee after a hearing is conducted regarding an alleged violation of the Prevailing Wage Requirement.
 
@@ -18425,7 +18425,9 @@ a. An Applicant found to have violated the Prevailing Wage Requirement shall be 
 
 b. An Applicant found to have violated the Prevailing Wage Requirement shall be liable for interest on the underpayment of the Prevailing Wage at a rate of not less than six percent per year and not more than the rate of interest then in effect as prescribed by the superintendent of banks pursuant to Section 14-a of the Banking Law per annum from the time such Prevailing Wage should have been paid. The rate of interest on such underpayment shall be calculated with due consideration to the number of persons employed by the Applicant, the good faith of the Applicant, the gravity of the Prevailing Wage violation, the history of the Applicant's previous Prevailing Wage violations and the Applicant's failure to comply with recordkeeping or other non-wage requirements.
 
-c. An Owner shall be jointly liable for any violation of the Act, the New 421-a Act or the Extended Affordability Act, as applicable, at the property receiving Benefits without regard to whether the Building Service Employees were directly employed by such Owner.
+c. An Applicant found to have violated the Prevailing Wage Requirement shall be subject to a civil penalty in an amount not exceeding twenty-five percent (25%) of the underpayment of the Prevailing Wage and the interest found to be due. In assessing the amount of the civil penalty, due consideration shall be given to the size of the Applicant, the good faith of the Applicant, the gravity of the violation, the history of previous violations of the Applicant, and the failure to comply with recordkeeping or other non-wage requirements. The civil penalty shall be paid to the Comptroller for deposit in the city treasury.
+
+d. An Owner shall be jointly liable for any violation of the Act, the New 421-a Act or the Extended Affordability Act, as applicable, at the property receiving Benefits without regard to whether the Building Service Employees were directly employed by such Owner.
 
 
 
@@ -18437,7 +18439,7 @@ c. An Owner shall be jointly liable for any violation of the Act, the New 421-a 
 *§ 50-05 Prevailing Wage Requirement Orders.* ::
 
 
-a. After receiving from the Comptroller a Report and Recommendation with a summary of the underpayment setting forth the respective amounts of Prevailing Wage underpayment and interest due to each Building Service Employee and the complete hearing record, the Agency shall issue an Order, which shall include instructions for payment of any such respective amounts of Prevailing Wage underpayment and interest to the Comptroller.
+a. After receiving from the Comptroller a Report and Recommendation with a summary of the underpayment setting forth the respective amounts of Prevailing Wage underpayment and interest due to each Building Service Employee, the proposed civil penalty and the complete hearing record, the Agency shall issue an Order, which shall include instructions for payment of any such respective amounts of Prevailing Wage underpayment, interest and civil penalty to the Comptroller.
 
 b. If the Agency approves a Stipulation of Settlement, it shall have the full force and effect of an Order of the Agency.
 
@@ -18507,7 +18509,7 @@ c. In the event that any contractor or subcontractor does not submit the Contrac
 
 d. The Comptroller shall provide the Independent Monitor with a statement of actual wages paid to all Construction Workers employed by a contractor or subcontractor that did not submit the Contractor Certified Payroll Report, and the Independent Monitor shall use such statement to complete the Project-Wide Certified Payroll Report.
 
-e. A contractor or subcontractor who submits an inaccurate Contractor Certified Payroll Report shall be liable for the difference between the wages set forth in such Contractor Certified Payroll Report and the actual wages paid, with interest at the rate of interest then in effect as prescribed by the superintendent of financial services pursuant to Section 14-a of the Banking Law per annum from the date of the underpayment to the date of the payment of such difference.
+e. A contractor or subcontractor who submits an inaccurate Contractor Certified Payroll Report shall be (i) liable for the difference between the wages set forth in such Contractor Certified Payroll Report and the actual wages paid, with interest at the rate of interest then in effect as prescribed by the superintendent of financial services pursuant to Section 14-a of the Banking Law per annum from the date of the underpayment to the date of the payment of such difference (collectively, “Differential”) and (ii) subject to a civil penalty in an amount not exceeding twenty-five percent (25%) of the Differential. In assessing the amount of the civil penalty, due consideration shall be given to the size of the contractor or subcontractor, the good faith of the contractor or subcontractor, the gravity of the violation, the history of previous violations of the contractor or subcontractor, and the failure to comply with recordkeeping or other nonwage requirements. The civil penalty shall be paid to the Comptroller for deposit in the city treasury.
 
 
 

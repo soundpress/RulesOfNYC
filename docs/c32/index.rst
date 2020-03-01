@@ -106,19 +106,6 @@ No request for disposal of records shall be granted if in the judgment of the De
 
 
 
-Chapter 2: Municipal Archives Research Service and Copy Fee Schedule
---------------------------------------------------
-
-
-
-*§ 2-01 Vital Records.* ::
-
-
-Additional charges for oversize, cropping, or other services and products.
-
-
-
-
 Chapter 3: Municipal Archives Guidelines Regarding Access To Archival Material
 --------------------------------------------------
 
@@ -216,6 +203,19 @@ B. The regulation governing public access to all archival material are set forth
    (1) For requests to examine records in case files that are less than fifty years old (from the year of indictment), the Municipal Archives Director, or an authorized staff member, will submit to DANY the following information: name of researcher and affiliation, if any, subject and purpose of research, case file number(s) and name(s) of defendant(s). The Municipal Archives will submit this information to DANY prior to granting the researcher access to the requested records. DANY will be permitted to examine the material in the requested file(s) and separate any items as to which (a) public disclosure is prohibited by statute or court order (e.g. minutes of Grand Jury proceedings); or (b) disclosure would threaten the life or safety of any person, such as information about confidential informants or undercover law enforcement personnel. The Municipal Archives will not permit access to any items separated by DANY from other items in the file. The DANY will have five business days (from the date of notification that the case file is available) in which to conduct a case file review.
 
    (2) For all case files regardless of age, the Municipal Archives will not permit access to minutes of Grand Jury proceedings or any other records as to which disclosure is prohibited by statute or court order. The Municipal Archives will also consider requests by DANY to maintain the confidentiality of records whose age is greater than 50 years when exceptional circumstances warrant granting such request.
+
+
+
+
+Chapter 2: Municipal Archives Research Service and Copy Fee Schedule
+--------------------------------------------------
+
+
+
+*§ 2-01 Vital Records.* ::
+
+
+Additional charges for oversize, cropping, or other services and products.
 
 
 

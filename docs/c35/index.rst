@@ -6,6 +6,121 @@ Title 52: Campaign Finance Board*
 
 
 
+*§ 2-01 Filer Registration.* ::
+
+
+A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
+
+(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
+
+(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
+
+(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
+
+(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
+
+(e) Contents. The Filer Registration must include:
+
+   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
+
+   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
+
+   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
+
+   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
+
+   (v) other information as required by the Board.
+
+(f) Small campaign registration.
+
+   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
+
+   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
+
+
+
+
+
+
+
+
+*§ 2-02 Certification.* ::
+
+
+To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
+
+(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
+
+(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
+
+(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
+
+(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
+
+(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
+
+(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
+
+
+
+
+
+
+
+
+*§ 2-03 Amendments to Filer Registration or Certification.* ::
+
+
+The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
+
+
+
+
+
+
+
+
+*§ 2-04 Non-Participants.* ::
+
+
+A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
+
+
+
+
+
+
+
+
+*§ 2-05 Petition for Extraordinary Circumstances.* ::
+
+
+(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
+
+(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
+
+
+
+
+
+
+
+
+*§ 2-06 Training.* ::
+
+
+A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
 *§ 1-01 Scope of Rules.* ::
 
 
@@ -284,121 +399,6 @@ The Board will not accept any electronic disclosure statement or other document,
 (a) If any provision of these rules or portion thereof is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the remainder of these rules.
 
 (b) If the application of any provision of these rules or portion thereof to any individual, entity, or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the application thereof to other individuals, entities, and circumstances.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
-*§ 2-01 Filer Registration.* ::
-
-
-A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
-
-(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
-
-(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
-
-(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
-
-(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
-
-(e) Contents. The Filer Registration must include:
-
-   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
-
-   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
-
-   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
-
-   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
-
-   (v) other information as required by the Board.
-
-(f) Small campaign registration.
-
-   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
-
-   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
-
-
-
-
-
-
-
-
-*§ 2-02 Certification.* ::
-
-
-To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
-
-(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
-
-(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
-
-(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
-
-(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
-
-(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
-
-(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
-
-
-
-
-
-
-
-
-*§ 2-03 Amendments to Filer Registration or Certification.* ::
-
-
-The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
-
-
-
-
-
-
-
-
-*§ 2-04 Non-Participants.* ::
-
-
-A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
-
-
-
-
-
-
-
-
-*§ 2-05 Petition for Extraordinary Circumstances.* ::
-
-
-(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
-
-(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
-
-
-
-
-
-
-
-
-*§ 2-06 Training.* ::
-
-
-A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
 
 
 
@@ -2410,6 +2410,87 @@ Title 52: Campaign Finance Board*
 
 
 
+*§ 12-01 Investigations.* ::
+
+
+The Board may conduct an investigation into possible violations of the Charter, Act, or these rules. In its investigation, the Board may use its investigative powers pursuant to § 1052(a)(5) of the Charter and §§ 3-708(5) and 3-710(1) of the Code. An investigation may include, but is not limited to, field investigations, desk and field audits, the issuance of subpoenas, the taking of sworn testimony, the issuance of document requests and interrogatories, and other methods of information gathering.
+
+
+
+
+
+
+
+
+*§ 12-02 Complaints.* ::
+
+
+(a) Filing a complaint. A complaint must be filed by hand delivery, mail, fax, or scanned and sent as an attachment via email to the Board's offices.
+
+(b) Complaint requirements. Complaints must:
+
+   (i) be made in writing;
+
+   (ii) be sworn to or affirmed;
+
+   (iii) be based on personal knowledge, if possible, and if a complaint is based on information and belief, the complainant must state the source of that information and belief;
+
+   (iv) specify the conduct alleged to be in violation of the Charter, Act, or these rules, and to the extent known:
+
+      (A) the date(s) and time(s) of the conduct,
+
+      (B) the place(s) the conduct occurred, and
+
+      (C) the names of witnesses, if any.
+
+   (v) be accompanied by copies of all documentary evidence available to the complainant; and
+
+   (vi) contain the complainant's full name, current address, telephone number, and email address.
+
+(c) Initial review of complaint.
+
+   (i) If in compliance. Upon receipt, the complaint will be reviewed for substantial compliance with the above requirements. If the complaint is in compliance, the Board shall, within 10 days of receipt, send each party complained about a copy of the complaint.
+
+   (ii) Deficient complaints.
+
+      (A) If the complaint is moot, facially meritless, or not in substantial compliance, it may be rejected and the complainant so notified.
+
+      (B) If the complaint is not in substantial compliance, the Board may investigate the subject matter of the complaint, but need not follow the procedural requirements of this chapter.
+
+(d) Response to complaint; possible dismissal.
+
+   (i) The party complained about may submit an answer to the complaint:
+
+      (A) within 20 days of the date the complaint was sent by the Board, or
+
+      (B) within such lesser time as may be specified by the Board for complaints received less than 90 days before an election.
+
+   (ii) The answer must:
+
+      (A) be sworn to and affirmed,
+
+      (B) set forth a response to the allegations contained in the complaint, including any reasons why the Board should dismiss the complaint in full or in part, if applicable, and
+
+      (C) be accompanied by copies of all documentary evidence available to the respondent.
+
+   (iii) Based on the answer, a complaint may be dismissed as moot.
+
+(e) Board action. Based on its review of the complaint and any answer filed, and of any investigation it chooses to conduct, the Board may:
+
+   (i) determine the complaint to be moot or lacking in merit and dismiss the complaint; or
+
+   (ii) determine that violations or infractions of the Charter, Act, or these rules have been substantiated, and initiate an enforcement proceeding pursuant to the procedures outlined in 52 RCNY Chapter 10.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
 *§ 11-01 Definitions.* ::
 
 
@@ -2842,87 +2923,6 @@ Once the hearing officer has issued a recommended final determination, each part
 
 
 The Board shall provide a final determination affirming, rejecting, or modifying the hearing officer's recommended final determination within 30 days of the conclusion of the written comments period, or as soon thereafter as is practicable. The final determination shall notify the candidate of the commencement of the four-month period during which a special proceeding may be brought to challenge the Board's determination pursuant to Article 78 of the Civil Practice Law and Rules. If the Board rejects or modifies the hearing officer's recommended final determination, the Board shall provide a written determination stating the basis for any assessed penalty or public funds determination, including any findings of fact and conclusions of law. Determinations made by the Board pursuant to this chapter may not be appealed to the Board unless the Board specifically provides otherwise in its determination.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
-*§ 12-01 Investigations.* ::
-
-
-The Board may conduct an investigation into possible violations of the Charter, Act, or these rules. In its investigation, the Board may use its investigative powers pursuant to § 1052(a)(5) of the Charter and §§ 3-708(5) and 3-710(1) of the Code. An investigation may include, but is not limited to, field investigations, desk and field audits, the issuance of subpoenas, the taking of sworn testimony, the issuance of document requests and interrogatories, and other methods of information gathering.
-
-
-
-
-
-
-
-
-*§ 12-02 Complaints.* ::
-
-
-(a) Filing a complaint. A complaint must be filed by hand delivery, mail, fax, or scanned and sent as an attachment via email to the Board's offices.
-
-(b) Complaint requirements. Complaints must:
-
-   (i) be made in writing;
-
-   (ii) be sworn to or affirmed;
-
-   (iii) be based on personal knowledge, if possible, and if a complaint is based on information and belief, the complainant must state the source of that information and belief;
-
-   (iv) specify the conduct alleged to be in violation of the Charter, Act, or these rules, and to the extent known:
-
-      (A) the date(s) and time(s) of the conduct,
-
-      (B) the place(s) the conduct occurred, and
-
-      (C) the names of witnesses, if any.
-
-   (v) be accompanied by copies of all documentary evidence available to the complainant; and
-
-   (vi) contain the complainant's full name, current address, telephone number, and email address.
-
-(c) Initial review of complaint.
-
-   (i) If in compliance. Upon receipt, the complaint will be reviewed for substantial compliance with the above requirements. If the complaint is in compliance, the Board shall, within 10 days of receipt, send each party complained about a copy of the complaint.
-
-   (ii) Deficient complaints.
-
-      (A) If the complaint is moot, facially meritless, or not in substantial compliance, it may be rejected and the complainant so notified.
-
-      (B) If the complaint is not in substantial compliance, the Board may investigate the subject matter of the complaint, but need not follow the procedural requirements of this chapter.
-
-(d) Response to complaint; possible dismissal.
-
-   (i) The party complained about may submit an answer to the complaint:
-
-      (A) within 20 days of the date the complaint was sent by the Board, or
-
-      (B) within such lesser time as may be specified by the Board for complaints received less than 90 days before an election.
-
-   (ii) The answer must:
-
-      (A) be sworn to and affirmed,
-
-      (B) set forth a response to the allegations contained in the complaint, including any reasons why the Board should dismiss the complaint in full or in part, if applicable, and
-
-      (C) be accompanied by copies of all documentary evidence available to the respondent.
-
-   (iii) Based on the answer, a complaint may be dismissed as moot.
-
-(e) Board action. Based on its review of the complaint and any answer filed, and of any investigation it chooses to conduct, the Board may:
-
-   (i) determine the complaint to be moot or lacking in merit and dismiss the complaint; or
-
-   (ii) determine that violations or infractions of the Charter, Act, or these rules have been substantiated, and initiate an enforcement proceeding pursuant to the procedures outlined in 52 RCNY Chapter 10.
 
 
 
@@ -3470,6 +3470,167 @@ Title 52: Campaign Finance Board*
 
 
 
+*§ 16-01 Demonstrating That a Runoff Is Reasonably Anticipated.* ::
+
+
+(a) A candidate may not accept contributions or make expenditures for a runoff election unless the Board has determined that a runoff election is reasonably anticipated.
+
+(b) A candidate may not accept contributions or make expenditures for a runoff election once the Board determines that it is no longer reasonable to anticipate such an election.
+
+(c) In determining whether a runoff election is reasonably anticipated, the Board shall consider factors including, but not limited to:
+
+   (i) the history of runoff primaries in a particular party for the office at issue;
+
+   (ii) media reports discussing the likelihood of a runoff primary;
+
+   (iii) polling information;
+
+   (iv) the proximity to the date of the primary;
+
+   (v) whether an incumbent officeholder is a candidate in the race;
+
+   (vi) the number of candidates running;
+
+   (vii) the amount of funds raised by the candidates; and
+
+   (viii) endorsements made to the candidates in the race.
+
+
+
+
+
+
+
+
+*§ 16-02 Certification.* ::
+
+
+A candidate's Certification for a primary, general, or special election applies to any related runoff or runoff special election.
+
+
+
+
+
+
+
+
+*§ 16-03 Reporting.* ::
+
+
+(a) Pre-election disclosure statements must be filed four days before a runoff election.
+
+(b) Post-election disclosure statements must be filed 10 days after a runoff primary election.
+
+(c) Each disclosure statement submitted by the candidate must include a copy of the most recent bank statements for the candidate's runoff election account.
+
+
+
+
+
+
+
+
+*§ 16-04 Expenditure Limit.* ::
+
+
+The expenditure limit for a runoff election is one half the amount of the applicable limitation for the associated primary, general, or special election.
+
+
+
+
+
+
+
+
+*§ 16-05 Contributions.* ::
+
+
+(a) Limit. The contribution limit for a reasonably anticipated runoff election is one half of the contribution limit applicable to the office for which the runoff election is occurring.
+
+(b) Solicitation of contributions. Until a primary or special election is held that results in a runoff election, each solicitation of runoff election contributions must expressly state that such contributions are being solicited only for a runoff election that may not occur.
+
+(c) No single contribution may be divided between runoff and non-runoff accounts, nor may a single contribution be accepted in an amount that exceeds the limit applicable for the primary and general election, or runoff election, under § 3-703(1)(f) or (h) of the Act.
+
+(d) Contribution documentation.
+
+   (i) Each contribution must be documented and disclosed to the Board as a runoff contribution.
+
+   (ii) For each contribution from an individual contributor that the candidate deposits into a runoff bank account, the candidate must maintain a contribution card, which shall be provided to the Board upon request.
+
+      (A) Runoff account contribution cards must include all information required pursuant to 52 RCNY § 4-01(b)(ii)(B).
+
+      (B) Runoff account contribution cards must state, above the line for the contributor's signature: "I understand that this entire contribution will be used only for a runoff election. I hereby affirm that I was not, nor, to my knowledge, was anyone else, reimbursed in any manner for this contribution; that this contribution is not being made as a loan; and that this contribution is being made from my personal funds or my personal account, which has no corporate affiliation."
+
+(e) Public funds payments.
+
+   (i) Flat grants for run-off elections. Pursuant to § 3-705(5)(a) of the Code, the Board shall pay to a candidate in a runoff primary election or runoff special election an amount equal to 25 cents for each one dollar of public funds paid to the candidate for the preceding election.
+
+   (ii) Timing. The Board shall make payments pursuant to this subdivision within four business days after the date of the preceding election, or as soon thereafter as practicable; provided, however, that no public funds shall be paid to candidates in a runoff election until the Board has determined that such runoff election is reasonably anticipated to occur.
+
+(f) Receipts accepted for a runoff election may not be commingled in any account with receipts accepted for another election, with receipts accepted for a TIE, or with personal or business funds, and may not be used for any other election held in the year that the runoff election is held or anticipated.
+
+(g) Receipts accepted for an anticipated runoff election that is not held may not be spent or otherwise transferred until the earlier of (i) the first January 12 after the date of the election for which the runoff election was anticipated or (ii) the date upon which all the candidate's liabilities from the election for which the runoff election was anticipated have been extinguished.
+
+
+
+
+
+
+
+
+*§ 16-06 Runoff Bank Accounts.* ::
+
+
+(a) Runoff primary elections.
+
+   (i) Candidates must use a runoff primary bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding primary election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
+
+   (ii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
+
+   (iii) Exchange of funds. Funds may be exchanged between an account maintained for a primary or the general election and an account maintained for a runoff primary for the following purposes only:
+
+      (A) exchanges from a primary or general election account to a runoff primary account made after the primary election so that the funds transferred may be spent in the runoff primary; and
+
+      (B) exchanges from a runoff primary account to a primary or general election account made after the runoff primary is held so that the funds exchanged may be spent in the general election.
+
+(b) Runoff special elections.
+
+   (i) A runoff special election may be held for the office of mayor, as provided by § 10(c)(10) of the Charter.
+
+   (ii) Candidates must use a runoff special bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding special election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
+
+   (iii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
+
+   (iv) Exchange of funds. Receipts accepted for a runoff special election may not be used for any other election until after the runoff special election is actually held; provided, however, that funds may be exchanged between an account maintained for a special election and an account maintained for a runoff special only after the special election, in order for the funds transferred to be spent in the runoff special.
+
+
+
+
+
+
+
+
+*§ 16-07 Independent Expenditure Disclosure.* ::
+
+
+(a) The reporting period for the first disclosure statement in a runoff election begins on the day the Board issues a determination stating that such runoff election is reasonably anticipated.
+
+(b) For a runoff primary election, a disclosure statement is due 10 days after the election.
+
+(c) For a runoff special election, a disclosure statement is due 27 days after the election.
+
+(d) During the 14 days before a runoff primary or special election, an independent spender must submit a disclosure statement to the Board within 24 hours of distributing any reportable communication, making any reportable expenditure, or receiving any reportable contribution.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
 *§ 15-01 Special Requirements and Procedures.* ::
 
 
@@ -3624,167 +3785,6 @@ A candidate in a special election, or such candidate's representative, must atte
 (c) Unless permitted by subdivision (a) above, any expenditure incurred after 30 days following the date of the elected candidate's inauguration by a TIE shall be presumed to be for the next election in which the elected candidate is a candidate following the day that it is incurred, and not incurred for the purposes of transition or inauguration.
 
 (d) The TIE must be terminated after it has paid all liabilities and otherwise disposed of all funds pursuant to the requirements set forth in this chapter and, in any event, no later than 60 days after inauguration.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
-*§ 16-01 Demonstrating That a Runoff Is Reasonably Anticipated.* ::
-
-
-(a) A candidate may not accept contributions or make expenditures for a runoff election unless the Board has determined that a runoff election is reasonably anticipated.
-
-(b) A candidate may not accept contributions or make expenditures for a runoff election once the Board determines that it is no longer reasonable to anticipate such an election.
-
-(c) In determining whether a runoff election is reasonably anticipated, the Board shall consider factors including, but not limited to:
-
-   (i) the history of runoff primaries in a particular party for the office at issue;
-
-   (ii) media reports discussing the likelihood of a runoff primary;
-
-   (iii) polling information;
-
-   (iv) the proximity to the date of the primary;
-
-   (v) whether an incumbent officeholder is a candidate in the race;
-
-   (vi) the number of candidates running;
-
-   (vii) the amount of funds raised by the candidates; and
-
-   (viii) endorsements made to the candidates in the race.
-
-
-
-
-
-
-
-
-*§ 16-02 Certification.* ::
-
-
-A candidate's Certification for a primary, general, or special election applies to any related runoff or runoff special election.
-
-
-
-
-
-
-
-
-*§ 16-03 Reporting.* ::
-
-
-(a) Pre-election disclosure statements must be filed four days before a runoff election.
-
-(b) Post-election disclosure statements must be filed 10 days after a runoff primary election.
-
-(c) Each disclosure statement submitted by the candidate must include a copy of the most recent bank statements for the candidate's runoff election account.
-
-
-
-
-
-
-
-
-*§ 16-04 Expenditure Limit.* ::
-
-
-The expenditure limit for a runoff election is one half the amount of the applicable limitation for the associated primary, general, or special election.
-
-
-
-
-
-
-
-
-*§ 16-05 Contributions.* ::
-
-
-(a) Limit. The contribution limit for a reasonably anticipated runoff election is one half of the contribution limit applicable to the office for which the runoff election is occurring.
-
-(b) Solicitation of contributions. Until a primary or special election is held that results in a runoff election, each solicitation of runoff election contributions must expressly state that such contributions are being solicited only for a runoff election that may not occur.
-
-(c) No single contribution may be divided between runoff and non-runoff accounts, nor may a single contribution be accepted in an amount that exceeds the limit applicable for the primary and general election, or runoff election, under § 3-703(1)(f) or (h) of the Act.
-
-(d) Contribution documentation.
-
-   (i) Each contribution must be documented and disclosed to the Board as a runoff contribution.
-
-   (ii) For each contribution from an individual contributor that the candidate deposits into a runoff bank account, the candidate must maintain a contribution card, which shall be provided to the Board upon request.
-
-      (A) Runoff account contribution cards must include all information required pursuant to 52 RCNY § 4-01(b)(ii)(B).
-
-      (B) Runoff account contribution cards must state, above the line for the contributor's signature: "I understand that this entire contribution will be used only for a runoff election. I hereby affirm that I was not, nor, to my knowledge, was anyone else, reimbursed in any manner for this contribution; that this contribution is not being made as a loan; and that this contribution is being made from my personal funds or my personal account, which has no corporate affiliation."
-
-(e) Public funds payments.
-
-   (i) Flat grants for run-off elections. Pursuant to § 3-705(5)(a) of the Code, the Board shall pay to a candidate in a runoff primary election or runoff special election an amount equal to 25 cents for each one dollar of public funds paid to the candidate for the preceding election.
-
-   (ii) Timing. The Board shall make payments pursuant to this subdivision within four business days after the date of the preceding election, or as soon thereafter as practicable; provided, however, that no public funds shall be paid to candidates in a runoff election until the Board has determined that such runoff election is reasonably anticipated to occur.
-
-(f) Receipts accepted for a runoff election may not be commingled in any account with receipts accepted for another election, with receipts accepted for a TIE, or with personal or business funds, and may not be used for any other election held in the year that the runoff election is held or anticipated.
-
-(g) Receipts accepted for an anticipated runoff election that is not held may not be spent or otherwise transferred until the earlier of (i) the first January 12 after the date of the election for which the runoff election was anticipated or (ii) the date upon which all the candidate's liabilities from the election for which the runoff election was anticipated have been extinguished.
-
-
-
-
-
-
-
-
-*§ 16-06 Runoff Bank Accounts.* ::
-
-
-(a) Runoff primary elections.
-
-   (i) Candidates must use a runoff primary bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding primary election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
-
-   (ii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
-
-   (iii) Exchange of funds. Funds may be exchanged between an account maintained for a primary or the general election and an account maintained for a runoff primary for the following purposes only:
-
-      (A) exchanges from a primary or general election account to a runoff primary account made after the primary election so that the funds transferred may be spent in the runoff primary; and
-
-      (B) exchanges from a runoff primary account to a primary or general election account made after the runoff primary is held so that the funds exchanged may be spent in the general election.
-
-(b) Runoff special elections.
-
-   (i) A runoff special election may be held for the office of mayor, as provided by § 10(c)(10) of the Charter.
-
-   (ii) Candidates must use a runoff special bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding special election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
-
-   (iii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
-
-   (iv) Exchange of funds. Receipts accepted for a runoff special election may not be used for any other election until after the runoff special election is actually held; provided, however, that funds may be exchanged between an account maintained for a special election and an account maintained for a runoff special only after the special election, in order for the funds transferred to be spent in the runoff special.
-
-
-
-
-
-
-
-
-*§ 16-07 Independent Expenditure Disclosure.* ::
-
-
-(a) The reporting period for the first disclosure statement in a runoff election begins on the day the Board issues a determination stating that such runoff election is reasonably anticipated.
-
-(b) For a runoff primary election, a disclosure statement is due 10 days after the election.
-
-(c) For a runoff special election, a disclosure statement is due 27 days after the election.
-
-(d) During the 14 days before a runoff primary or special election, an independent spender must submit a disclosure statement to the Board within 24 hours of distributing any reportable communication, making any reportable expenditure, or receiving any reportable contribution.
 
 
 

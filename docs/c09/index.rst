@@ -20582,7 +20582,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
     * - Any subsequent offense within a six month period
       - $500.00 
     * - (o) Parking in violation of officially posted street cleaning rules, unless such rules have been suspended by the Commissioner of Transportation or his or her designee
-      - $30.00 
+      - $50.00 
     * - (p) Parking where parking is prohibited by officially posted rule other than street cleaning rules
       - $45.00 
     * - (q) Obstructing traffic at an intersection in violation of 34 RCNY § 4-08(e)(12)
@@ -20605,7 +20605,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
 
  
 
-As used in this section, the term "Restricted Area" means all of Manhattan south of the building line on the north side of 96th Street, and between the Hudson River and the East River. Within the Restricted Area, the fine for violations enumerated in paragraphs (c), (k), (o) and (p) is $50.00 and for paragraph (j) the fine is $45.00.
+As used in this section, the term "Restricted Area" means all of Manhattan south of the building line on the north side of 96th Street, and between the Hudson River and the East River. Within the Restricted Area, the fine for violations enumerated in paragraphs (c), (k) and (p) is $50.00 and for paragraph (j) the fine is $45.00.
 
 Fines following a hearing.
 
