@@ -9062,11 +9062,17 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (4) Four (4) sets of plans showing:
 
-      (i) design details and specifications of system components including pipe sizes and pump capacities;
+      (i) site location in relation to established sewer district;
 
-      (ii) where applicable, a copy of the application for modification of the SPDES permit for the receiving wastewater treatment plant and, if available, any draft revisions to such SPDES permit; and
+      (ii) distances to wells, watercourses, rock outcroppings, wetlands, controlled lakes and reservoirs;
 
-      (iii) construction phasing.
+      (iii) system profile including all connections, manholes and required pump stations;
+
+      (iv) design details and specifications of system components including pipe sizes and pump capacities;
+
+      (v) where applicable, a copy of the application for modification of the SPDES permit for the receiving wastewater treatment plant and, if available, any draft revisions to such SPDES permit; and
+
+      (vi) construction phasing.
 
    (5) An application for review and approval of a sewer system must include an operation and maintenance plan for the sewer system, which may be a component of the operation and maintenance plan for the treatment facility served by the sewer system; and
 
@@ -9360,7 +9366,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (i) plans for redevelopment shall be prepared and implemented in accordance with subdivision (b)(8),
 
-      (ii) plans for construction activities identified in Table 1 of Appendix 18-B must be prepared and implemented in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to construction activities identified in Table 1 of Appendix 18-B. A construction activity will be deemed to "alter hydrology from pre to post development conditions," for purposes of Table 1 of Appendix 18-B, if the post-development peak rate of flow for the activity has increased by more than 5% of the pre-developed condition for the one-year, twenty-four hour storm, the ten-year, twenty-four hour storm, or the one hundred-year, twenty-four hour storm as defined herein. A construction activity that is excluded from coverage under Table 1 of Appendix 18-B because it alters hydrology from pre to post development conditions must comply with the requirements of subdivision (b)(3) above,
+      (ii) plans for construction activities identified in Table 1 of Appendix B must be prepared and implemented in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to construction activities identified in Table 1 of Appendix B. A construction activity will be deemed to "alter hydrology from pre to post development conditions," for purposes of Table 1 of Appendix B, if the post-development peak rate of flow for the activity has increased by more than 5% of the pre-developed condition for the one-year, twenty-four hour storm, the ten-year, twenty-four hour storm, or the one hundred-year, twenty-four hour storm as defined herein. A construction activity that is excluded from coverage under Table 1 of Appendix B because it alters hydrology from pre to post development conditions must comply with the requirements of subdivision (b)(3) above,
 
       (iii) plans for construction activities requiring Department review and approval of a stormwater pollution prevention plan under this section that involve disturbance of less than one (1) acre of total land area, other than construction of gasoline stations and construction, alteration, or modification of solid waste management facilities, and which will not result in hot spot runoff, must be prepared and implemented in accordance with subdivision (b)(9), and
 
@@ -9370,9 +9376,23 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (i) Plans for development or sale of land that will result in the disturbance of five (5) or more acres of total land area as described in the definition of larger common plan of development or sale in Appendix A of SPDES General Permit No. GP-0-15-002;
 
-      (ii) Construction of an impervious surface for a new road, for an access road, or for an existing dirt or gravel road, as required by paragraph (a)(6) of this section;
+      (ii) Construction of a subdivision;
 
-      (iii) Up to a 25 percent expansion of an existing impervious surface at an existing commercial, institutional, municipal, industrial, or multi-family residential facility which is within the limiting distance of 100 feet of a watercourse or wetland, as required in subdivision (a)(4)(iii) of this section; or
+      (iii) Construction of a new industrial, institutional, municipal, commercial or multi-family residential project that will result in creation of an impervious surface totaling over 40,000 square feet in size;
+
+      (iv) A land clearing or land grading project, involving two or more acres, located at least in part within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 300 feet of a reservoir, reservoir stem or controlled lake or on a slope exceeding 15 percent;
+
+      (v) Construction of a new solid waste management facility or alteration or modification of an existing solid waste management facility within 300 feet of a watercourse or wetland or 500 feet of a reservoir, reservoir stem or controlled lake;
+
+      (vi) Construction of a gasoline station;
+
+      (vii) Construction of an impervious surface for a new road, for an access road, or for an existing dirt or gravel road, as required by paragraph (a)(6) of this section;
+
+      (viii) Construction of an impervious surface in the West of Hudson watershed within a village, hamlet, village extension or area zoned for commercial or industrial uses, as required by paragraph (a)(8) of this section;
+
+      (ix) Up to a 25 percent expansion of an existing impervious surface at an existing commercial, institutional, municipal, industrial, or multi-family residential facility which is within the limiting distance of 100 feet of a watercourse or wetland, as required in subdivision (a)(4)(iii) of this section; or
+
+      (x) Construction of an impervious surface in the East of Hudson Watershed in a Designated Main Street Area.
 
    (5) If there is a significant change in design, construction, operation, or maintenance of an activity which is subject to a Stormwater Pollution Prevention Plan pursuant to subdivision (b)(3) which may have a significant effect on the potential for the discharge of pollutants to surface waters and which has not otherwise been addressed in the Stormwater Pollution Prevention Plan, or if the Stormwater Pollution Plan proves to be ineffective in eliminating or significantly minimizing erosion and sedimentation or the discharge of pollutants associated with construction activity, the Stormwater Pollution Prevention Plan must be amended. Such amended stormwater pollution prevention plan shall be submitted to the Department for prior review and approval and shall comply with the requirements of this section.
 
@@ -9382,7 +9402,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (8) Where portions of an activity that require a stormwater pollution prevention plan pursuant to subdivision (b)(3) constitute redevelopment as defined herein, those portions of such plan shall:
 
-      (i) be prepared and implemented, to the extent possible, in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to the construction activities identified in Table 2 of Appendix 18-B;
+      (i) be prepared and implemented, to the extent possible, in accordance with the requirements of Part III of the New York State Department of Environmental Conservation SPDES General Permit No. GP-0-15-002 that are applicable to the construction activities identified in Table 2 of Appendix B;
 
    (9) Where an activity requiring Department review and approval of a stormwater pollution prevention plan under this section that involves disturbance of less than one (1) acre of total land area, other than construction of a gasoline station or construction, alteration, or modification of a solid waste management facility, and which will not result in hot spot runoff, requires a stormwater pollution prevention plan pursuant to subdivision (b)(3) above, the application must consist of:
 

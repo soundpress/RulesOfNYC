@@ -3135,594 +3135,6 @@ An applicant is not required to provide photo identification if accompanied by a
 
 
 
-Chapter 9: HRA HOME TBRA Program
---------------------------------------------------
-
-
-
-*§ 9-01 Definitions.* ::
-
-
-(a) "Adjusted income" means a household's annual income minus the deductions set forth in Section 5.611 of Title 24 of the Code of Federal Regulations.
-
-(b) "Annual income" means annual income as that term is used in Section 5.609 of Title 24 of the Code of Federal Regulations, subject to the self-sufficiency disallowance for increases in earned income pursuant to Section 5.617 of Title 24 of the Code of Federal Regulations.
-
-(c) "Area median income" means the median family income for the area, as determined by the United States Department of Housing and Urban Development with adjustments for smaller and larger families.
-
-(d) An "assisted unit" is a residential unit to which HRA HOME TBRA rental assistance payments are being applied pursuant to this chapter.
-
-(e) A "chronically street homeless individual" means an individual (1) who has been identified by the New York City Department of Homeless Services as not residing in a shelter, residence, or other accommodations for nine of the past twenty-four months at the close of the HRA HOME TBRA application period and who has not secured any other temporary or permanent housing; or (2) who currently resides in a DHS safe haven or uses a DHS stabilization bed as those terms are defined in § 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
-
-(f) "Citizen" means citizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations.
-
-(g) A "coupon" means a document issued by HRA to a household selected for participation in HRA HOME TBRA that describes the program, program requirements, and the procedures for HRA approval of a unit selected by the household.
-
-(h) "DHS" means the New York City Department of Homeless Services.
-
-(i) "DHS Shelter" means a shelter for families with children or adult families operated by or on behalf of DHS.
-
-(j) A "guest" is an individual who was not included in a household's application for HRA HOME TBRA or added to the household as a member pursuant to subdivision (d) of 68 RCNY § 9-14, and who is staying in an assisted unit with the consent of a household member.
-
-(k) The "household" means the individual or individuals who have applied for, have had an application submitted on their behalf for, or are participating in HRA HOME TBRA.
-
-(l) "HRA" means the New York City Human Resources Administration.
-
-(m) "HRA HOME Tenant-Based Rental Assistance Program" or "HRA HOME TBRA" means the rental assistance program described in this chapter.
-
-(n) "HRA shelter" means a shelter operated by or on behalf of HRA.
-
-(o) "HPD" means the New York City Department of Housing Preservation and Development.
-
-(p) "HQS" means the Section 8 Housing Quality Standards set forth in Section 982.401 of Title 24 of the Code of Federal Regulations.
-
-(q) "HUD" means the United States Department of Housing and Urban Development.
-
-(r) "Noncitizen" means noncitizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations.
-
-(s) A "program participant" means an individual who has entered into an approved lease for an assisted unit.
-
-(t) "Public Assistance" means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
-
-
-
-
-
-
-
-
-*§ 9-02 Administration of the HOME Tenant-Based Rental Assistance Program.* ::
-
-
-HRA shall administer HRA HOME TBRA subject to oversight by the New York City Department of HPD and in accordance with all applicable HUD rules and directives.
-
-
-
-
-
-
-
-
-*§ 9-03 Eligibility Criteria.* ::
-
-
-(a) To be eligible for HRA HOME TBRA, a household must meet the following eligibility requirements:
-
-   (1) The household must:
-
-      (A) Consist of two or more individuals or a pregnant person, currently reside in a DHS Shelter or HRA Shelter, and have resided in shelter for more than 120 days as of the close of the application period established pursuant to subdivision (a) of 68 RCNY § 9-04; or
-
-      (B) Consist of or include at least one chronically street homeless individual;
-
-   (2) The household's adjusted income must not exceed 60 percent of the area median income;
-
-   (3) At least one member of the household must receive social security disability insurance benefits, old-age benefits or survivors insurance benefits under Title II of the federal Social Security Act, or supplemental security income under Title XVI of the federal Social Security Act; and
-
-   (4) At least one member of the household must be either:
-
-      (A) a citizen; or
-
-      (B) a noncitizen with a qualifying immigration status under Section 1436a of Title 42 of the United States Code.
-
-(b) Eligibility will be determined via an application process. The number of eligible households that can be approved to participate in HRA HOME TBRA will be limited by the amount of available funding.
-
-
-
-
-
-
-
-
-*§ 9-04 Application Process, Lottery and Waitlist.* ::
-
-
-(a) At HRA's discretion, when there is funding available to provide HRA HOME TBRA to applicant households, HRA will set an application period of at least 30 days, during which households may submit applications. HRA will disseminate notice of the application period, including on HRA's website. Applications must be submitted on a form and in a format established by HRA. A household may submit no more than one application per application period.
-
-(b) After the application period closes, HRA will randomly assign all applications received during the application period a number. HRA will review all applications in order of assigned number.
-
-(c) HRA will provide notice to an applicant household if HRA determines that an application is incomplete, and such household will have ten days from the date the notice is sent to supplement the application. HRA may grant an additional extension of time to supplement the application for good cause. Failure to supplement the application within ten days or any applicable extension period will result in denial of such household's application for HRA HOME TBRA.
-
-(d) Coupons will be issued in order of assigned number to applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03 until coupons are no longer available. If HRA determines that an applicant household is ineligible for HRA HOME TBRA, HRA will notify such household that its application has been denied and the reasons for denial. Remaining applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03 will be placed on a waitlist in order of assigned number and notified in writing of their placement on the waitlist. Once placed on the waitlist, a household will retain its placement on the waitlist unless it is selected or removed from the waitlist pursuant to subdivision (e) of this section.
-
-(e) Selection or Removal of Households from Waitlist.
-
-   (1) Subject to available funding and HRA HOME TBRA coupons, households will be selected for participation in HRA HOME TBRA from the waitlist in order of assigned number, provided such households continue to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
-										.
-
-   (2) Households that are unable to establish that they continue to satisfy the requirements set forth in subdivision (a) of 68 RCNY § 9-03
-										 will be removed from the waitlist and informed that their applications have been denied.
-
-   (3) HRA may request an applicant household on the waitlist to provide additional documentation regarding the household's income and composition and to establish that the household continues to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
-										. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.
-
-   (4) In the event that HRA does not have sufficient funding to select the household at the top of the waitlist for HRA HOME TBRA participation due to such household's unit size, HRA shall not select a household with a smaller unit size, but shall select the household at the top of the waitlist when sufficient funding is available.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-05 Coupon.* ::
-
-
-(a) A household shall receive a coupon only after attending a briefing session provided by HRA. The head of household as designated on the application must sign the coupon. Failure to attend the briefing session and sign the coupon will result in denial of the household's application for HRA HOME TBRA.
-
-(b) The initial term of a coupon will be 120 calendar days.
-
-(c) HRA may extend a household's initial coupon term for documented special circumstances, including if such extension is needed as a reasonable accommodation on the basis of disability.
-
-(d) If a household submits a request for unit approval pursuant to subdivision (b) of 68 RCNY §9-06, the coupon term will be stayed until HRA approves or denies the request.
-
-(e) HRA HOME TBRA rental assistance payments shall only be available if a household receives a unit approval pursuant to subdivision (b) of 68 RCNY §9-06 prior to the expiration of the coupon term. A household that does not obtain a unit approval prior to the expiration of the coupon term may submit a new application for participation in HRA HOME TBRA if HRA re-opens the application period pursuant to subdivision (a) of 68 RCNY §9-04.
-
-(f) HRA HOME TBRA rental assistance payments shall only be available if a household complies with program obligations as outlined in the coupon.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-06 Leasing a Unit.* ::
-
-
-(a) HRA HOME TBRA rental assistance shall only be provided for units approved by HRA. A household must submit a request for unit approval on a form and in a format established by HRA prior to the expiration of the coupon. A household may not submit more than one request for unit approval at a time.
-
-(b) Request for Unit Approval. HRA will approve a request for unit approval if all of the following requirements are met:
-
-   (1) The unit has been inspected and is HQS-compliant;
-
-   (2) The lease complies with the requirements in Section 92.253(a)-(b) of Title 24 of the Code of Federal Regulations;
-
-   (3) The rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations and, for the household's first year in the unit, does not exceed the applicable rent standard amount established pursuant to subdivision (b) of 68 RCNY §9-08;
-
-   (4) The unit is located within the City of New York; and
-
-   (5) The unit will be the household's only residence.
-
-(c) Lease and Rental Assistance Contract Signing.
-
-   (1) Upon approval of a unit pursuant to subdivision (b) of this section, two contracts must be executed before HRA HOME TBRA rental assistance payments may be issued:
-
-      (A) An approved lease between the landlord and household; and
-
-      (B) A Rental Assistance Contract between HRA and the landlord.
-
-   (2) The lease and Rental Assistance Contract shall be executed at a date, time and location to be designated by HRA.
-
-   (3) HRA HOME TBRA rental assistance payments shall be paid to the landlord in accordance with the terms of the Rental Assistance Contract and may only be paid to the landlord during the lease term and while the household is residing in the assisted unit.
-
-   (4) The term of the Rental Assistance Contract shall terminate on termination of the lease and may not exceed 24 months, but may be renewed, subject to the availability of funding.
-
-   (5) HRA HOME TBRA rental assistance payments to a landlord terminate when a landlord terminates the lease. However, if the landlord has commenced the process to evict the household but the household continues to reside in the assisted unit, HRA shall continue to make rental assistance payments to the landlord in accordance with the Rental Assistance Contract for the remaining term of the Rental Assistance Contract or until the landlord has obtained a court judgment or other process allowing the landlord to evict the household. HRA may continue such payments until the household moves or is evicted from the assisted unit but no later than the end of the Rental Assistance Contract term.
-
-   (6) A landlord may not terminate the lease or refuse to renew the lease of a household participating in HRA HOME TBRA, except in accordance with Section 92.253(c) of Title 24 of the Code of Federal Regulations. 
-
-(d) The requirements of subdivision (b) of this section shall apply to renewal leases.
-
-(Added City Record 11/30/2015, eff. 12/30/2015) 
-
-
-
-
-
-
-*§ 9-07 Annual and Interim Recertification and Ongoing Program Participant Obligations.* ::
-
-
-(a) Annual Recertification.
-
-   (1) Subject to the availability of funding, HRA shall recertify a household for continued participation in HRA HOME TBRA if:
-
-      (A) the household's adjusted income does not exceed 80 percent of the area median income;
-
-      (B) at least one member of the household is a citizen or qualifying noncitizen as set forth in paragraph (4) of subdivision (a) of 68 RCNY §9-03; and
-
-      (C) the household continues to reside in the assisted unit.
-
-   (2) HRA will determine a household's eligibility for recertification at the end of each year of the household's participation in HRA HOME TBRA. Prior to annual recertification, HRA will recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08. Except as provided in subdivision (c) of this section or 68 RCNY §9-10, the total monthly household contribution and HRA HOME TBRA rental assistance amount will not change during the one-year recertification period, regardless of changes in household composition or income.
-
-   (3) A household's eligibility for recertification is conditioned on the household's timely cooperation with any requests by HRA for household information and documentation.
-
-(b) Changes in Household Composition Prior to Annual Recertification.
-
-   (1) Program participants must report to HRA any changes in household composition within thirty (30) days of such changes occurring.
-
-   (2) When informed of changes in household composition prior to annual recertification, HRA shall conduct an interim recertification to determine the household's continued eligibility and whether the change in household composition results or will result in an HQS failure. If an HQS failure has resulted or will result, the household shall be responsible for remedying or avoiding such failure, including requesting prior approval pursuant to paragraph (1) of subdivision (a) of 68 RCNY §9-10 to move to a new unit. If the household's change in composition affects the household size, a new unit size will not be assigned pursuant to subdivision (a) of 68 RCNY §9-08 until the household's next annual recertification and the household's rent standard amount will not change until such recertification. If the household's change in composition results in a change in household income, the provisions in subdivision (c) of this section shall apply.
-
-(c) Changes in Income Prior to Annual Recertification.
-
-   (1) Program participants may report changes in household income to HRA at any time prior to annual recertification.
-
-   (2) When informed of an increase in household income prior to annual recertification, HRA may conduct an interim recertification to determine the household's continued eligibility. In the event of an interim recertification pursuant to this subdivision, HRA may recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08.
-
-   (3) When informed of a decrease in household income prior to annual recertification, HRA shall conduct an interim recertification and recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08.
-
-(d) A household's participation in HRA HOME TBRA will be terminated during the Rental Assistance Contract term if:
-
-   (1) HRA determines that a household member knowingly permitted another individual who is not eligible for HRA HOME TBRA due to immigration status in accordance with Part 5 of Title 24 of the Code of Federal Regulations and Section 1436a of Title 42 of the United States Code to reside on a permanent basis in the assisted unit. In such an event, the household will be barred from submitting a new application for HRA HOME TBRA for not less than 24 months. This provision does not apply to a household if the ineligibility of the ineligible individual was considered in calculating the prorated HRA HOME TBRA rental assistance amount pursuant to subdivision (e) of 68 RCNY §9-08.
-
-   (2) The household is absent from the assisted unit for more than a total of 180 days in a 12-month period in any circumstance and for any reason.
-
-   (3) The household is absent from the assisted unit for 90 consecutive days unless the household establishes:
-
-      (A) That the absence from the unit was due to exceptional circumstances beyond the household's control, such as hospitalization;
-
-      (B) That the household intends to return to the assisted unit within 180 days of departure; and
-
-      (C) That the household is not maintaining an alternative residence.
-
-   (4) The household fails to grant access to the assisted unit for an HQS inspection pursuant to 68 RCNY §9-09.
-
-   (5) The household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA. Such HQS failure may result from actions or inactions that include but are not limited to the household's failure to pay for any utilities for which the household is responsible for payment, or damage to the dwelling unit or premises beyond ordinary wear and tear caused by any member or guest of the household.
-
-   (6) The household fails to comply with program obligations.
-
-   (7) The rental assistance amount calculated pursuant to subdivision (c) of 68 RCNY §9-08 has been zero for six months.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-08 Calculating HRA HOME TBRA Rental Assistance Amount and Household Share of Rent.* ::
-
-
-(a) Unit Size.
-
-   (1) A household will be assigned a standard unit size, corresponding to the number of bedrooms needed for the household size, as set forth in the table below. HRA shall assign such unit size at the time of coupon issuance and include it on the coupon issued to the household.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Household Size
-      - Unit Size
-    * - 1
-      - SRO/Studio
-    * - 2
-      - 1
-    * - 3 or 4
-      - 2
-    * - 5 or 6
-      - 3
-    * - 7 or 8
-      - 4
-    * - 9 or 10
-      - 5
-    * - 11 or 12
-      - 6
-    * - 13 or 14
-      - 7
-~
-
- 
-
-   (2) For purposes of determining unit size:
-
-      (A) The household consists of all individuals who intend to reside in the assisted unit;
-
-      (B) In the case of documented pregnancy by a household member, the unborn child is counted as a household member;
-
-      (C) Any live-in aide approved by HRA to reside in the assisted unit to care for a household member who is disabled or 62 years of age or over is counted as a household member;
-
-      (D) A child who resides in the assisted unit with his or her parent for at least 183 days of the year pursuant to a joint custody agreement or order is counted as a household member, provided that such parent is a household member;
-
-      (E) A foster child who is placed and resides in the assisted unit for more than 183 days of the year is counted as a household member; and
-
-      (F) Except as otherwise provided in this paragraph, an individual who is absent from the assisted unit for more than 90 consecutive days will not be counted as a household member unless such individual is absent due to hospitalization, military deployment, or other good cause as determined by HRA on a case-by-case basis, and is reasonably expected to return within 180 days. A household member who is away at school but intends to live with the household in the assisted unit during school recesses is considered a household member.
-
-   (3) If a household includes a household member with a disability, HRA may assign the household a higher unit size as a reasonable accommodation for such member.
-
-   (4) The household may lease an otherwise acceptable unit with fewer bedrooms than the assigned unit size provided the unit meets the applicable HQS space requirements.
-
-   (5) The household may lease an otherwise acceptable unit with more bedrooms than the assigned unit size.
-
-(b) Rent Standard Amount.
-
-   (1) The HRA HOME TBRA rent standard amount shall be based on unit size. HRA shall set the HRA HOME TBRA rent standard amount for each unit size at an amount that is between 95 and 110 percent of the fair market rent applicable in New York City for the unit size as published annually by HUD pursuant to Part 888 of Title 24 of the Code of Federal Regulations. HRA shall publish current HRA HOME TBRA rent standard amounts on HRA's website.
-
-   (2) A household's rent standard amount shall be the HRA HOME TBRA rent standard amount established pursuant to paragraph (1) of this subdivision for the household's assigned unit size.
-
-   (3) For the initial occupancy of an assisted unit, the household's gross rent, including heat and hot water, shall not exceed the household's rent standard amount. Following the household's first year in the unit, the household's rent may exceed the applicable rent standard amount so long as the rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations.
-
-(c) The HRA HOME TBRA rental assistance amount paid on behalf of a household shall equal the household's gross rent minus the total household contribution calculated pursuant to subdivision (d) of this section.
-
-(d) Income Contribution and Household Share of Rent.
-
-   (1) The household's total monthly household contribution to rent shall be the sum of the following:
-
-      (A) The highest of the following amounts, rounded to the nearest dollar:
-
-         (i) The household's adjusted income multiplied by 30 percent and divided by 12;
-
-         (ii) The household's annual income multiplied by 10 percent and divided by 12;
-
-         (iii) The amount of the household's public assistance shelter allowance as calculated and received pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations; or 
-
-         (iv) Fifty dollars, which may be reduced based on financial hardship at HRA's discretion;
-
-      (B) The amount, if any, by which the rent exceeds the applicable rent standard amount established pursuant to subdivision (b) of 68 RCNY §9-08, after the household's first year in the assisted unit; and
-
-      (C) The amount, if any, by which the HRA HOME TBRA rental assistance amount has been reduced pursuant to subdivision (e) of this section.
-
-(e) If a household includes a member who is ineligible for HRA HOME TBRA on the basis of immigration status in accordance with Section 1436a of Title 42 of the United States Code, the household's HRA HOME TBRA rental assistance amount will be prorated by multiplying the HRA HOME TBRA rental assistance amount as calculated in subdivision (c) of this section by a fraction, the denominator of which is the total number of household members and the numerator of which is the total number of household members who are not ineligible for HRA HOME TBRA on the basis of immigration status.
-
-(f) Change in the HRA HOME TBRA Rent Standard Amount during the Coupon Term and Prior to Execution of the Rental Assistance Contract.
-
-   If the HRA HOME TBRA rent standard amount for the household's assigned unit size is increased or decreased during the term of the coupon and prior to the execution of the Rental Assistance Contract, the new rent standard amount shall be used to calculate the HRA HOME TBRA rental assistance amount for the household.
-
-(g) Change in the HRA HOME TBRA Rent Standard Amount During the Rental Assistance Contract Term.
-
-   (1) If the HRA HOME TBRA rent standard amount for the household's assigned unit size is increased during the term of the Rental Assistance Contract, the increased rent standard amount shall be used to calculate the HRA HOME TBRA rental assistance amount for the household beginning on the effective date of the household's next annual recertification on or after the effective date of the increase in the rent standard amount.
-
-   (2) A decrease in the HRA HOME TBRA rent standard will not be applied to a household during the Rental Assistance Contract term and the household's rent standard amount will remain the same for purposes of calculating the HRA HOME TBRA rental assistance amount at the household's next annual recertification.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-09 Inspections.* ::
-
-
-(a) A unit for which a household requests approval pursuant to subdivision (b) of 68 RCNY §9-06 must pass an HQS inspection and will be subject to inspections in accordance with Section 92.209 of Title 24 of the Code of Federal Regulations, including but not limited to additional inspections to ensure continued compliance with HQS based on complaints from the household, landlord, interested third parties or the general public. Except in emergency situations, HRA will provide reasonable notice of any inspection and a reasonable opportunity for the landlord and household to reschedule an inspection.
-
-(b) The landlord must maintain the assisted unit in accordance with HQS. If the landlord fails to maintain the assisted unit in accordance with HQS and fails to remedy any HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations within the period specified by HRA, HRA shall either abate HRA HOME TBRA rental assistance payments in their entirety until such time as the landlord remedies the HQS failure as determined by HRA, or terminate the Rental Assistance Contract and cease HRA HOME TBRA rental assistance payments. This provision does not apply if the landlord is not responsible for the HQS failure. If HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to this subdivision, HRA shall allow the household to move pursuant to 68 RCNY §9-10.
-
-(c) If the household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA, HRA shall terminate the household's participation in HRA HOME TBRA.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-10 Moves.* ::
-
-
-(a) A household participating in HRA HOME TBRA may not move to a new unit and maintain eligibility for HRA HOME TBRA except with the prior approval of HRA. HRA may grant such approval and issue a new coupon to the household on the following grounds:
-
-   (1) The household is overcrowded in the assisted unit;
-
-   (2) HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to subdivision (b) of 68 RCNY §9-09;
-
-   (3) The lease for the assisted unit has terminated by mutual agreement of the household and landlord and the landlord signs a release of the lease and the Rental Assistance Contract;
-
-   (4) The landlord has obtained a court judgment or other process allowing the landlord to evict the household; or
-
-   (5) The need for the move is a direct result of a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis.
-
-(b) All requirements of 68 RCNY §9-06 must be met before a household may move to a new assisted unit.
-
-(c) If HRA has approved a move to a new unit, HRA shall reassign the household a unit size, re-determine the household's rent standard amount, and recalculate the HRA HOME TBRA rental assistance amount and the household's total monthly household contribution pursuant to 68 RCNY §9-08.
-
-(d) Upon an approved move to a new unit, the household shall be recertified pursuant to subdivision (a) of 68 RCNY §9-07. The household's annual recertification cycle shall coincide with the new lease term.
-
-(e) If a household moves from an assisted unit, HRA HOME TBRA rental assistance payments for such unit shall cease as of the month after the month that the household moves from such unit. The landlord may keep the HRA HOME TBRA rental assistance payment for the month during which the household moves from such unit.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-11 Household Separations.* ::
-
-
-(a) If an applicant household separates into two or more otherwise eligible applicant household units prior to executing a Rental Assistance Contract, HRA will decide on a case-by-case basis which of the household units will be considered the applicant household and remain eligible to receive HRA HOME TBRA rental assistance. If a household receiving HRA HOME TBRA rental assistance separates, HRA will decide on a case-by-case basis which of the household units will continue to receive such assistance. In the event of a household separation, under no circumstances shall more than one of the resulting household units receive HRA HOME TBRA rental assistance.
-
-(b) In determining pursuant to subdivision (a) of this section which resulting household unit shall remain eligible for or participate in HRA HOME TBRA, consideration will be given to factors including but not limited to:
-
-   (1) which household member was designated as head of household on the application for HRA HOME TBRA rental assistance;
-
-   (2) which household unit retains any children, members with disabilities, or members over 62 years of age;
-
-   (3) the role of domestic violence in the household separation;
-
-   (4) the role of criminal activity or incarceration in the household separation; and
-
-   (5) recommendations of social service agencies, including state and local children's services agencies, or qualified professionals.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-12 Right of Review.* ::
-
-
-An applicant or program participant may request an agency review conference and/or an HRA administrative hearing pursuant to 68 RCNY §9-13 to seek review of the following determinations only, but in no event shall an agency review conference or HRA administrative hearing be available to review a determination based solely on a lack of available funding for HRA HOME TBRA:
-
-(a) A denial of a household's application for HRA HOME TBRA;
-
-(b) A determination of a household's ineligibility for HRA HOME TBRA at recertification;
-
-(c) A determination of a household member's ineligibility for HRA HOME TBRA on the grounds of immigration status;
-
-(d) A household's removal from the waitlist;
-
-(e) A household's termination from HRA HOME TBRA pursuant to paragraphs (1) - (6) of subdivision (d) of 68 RCNY §9-07;
-
-(f) The assignment of a household's unit size and the calculation of a household's HRA HOME TBRA rental assistance amount and monthly household contribution pursuant to 68 RCNY §9-08, provided that determinations of or changes to the HRA HOME TBRA rent standard amount shall not be reviewable; and
-
-(g) A denial of a household's request to move.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-13 Agency Review Conference and HRA Administrative Appeal Process.* ::
-
-
-(a) Agency Review Conference.
-
-   (1) If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised.
-
-   (2) An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing.
-
-   (3) An agency review conference must be requested no later than fourteen days after the challenged determination or action.
-
-(b) Request for an HRA Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice.
-
-   (2) A request for an administrative hearing must be made by the later of twenty-one days after the challenged determination or action or seven days after the date of the agency review conference.
-
-(c) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant's or program participant's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee's authorization.
-
-   (2) Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing.
-
-(d) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination by HRA that HRA HOME TBRA rental assistance payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of HRA HOME TBRA rental assistance payments at the HRA HOME TBRA rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (k) of this section or the end of the term of the current Rental Assistance Contract, whichever is earlier, provided that:
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
-
-   (2) There is no right to continued HRA HOME TBRA rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.
-
-   (3) Rental assistance payments will not continue pending the issuance of a hearing decision when:
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rental assistance payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (m) of this section.
-
-(e) Notice. HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request.
-
-(f) Examination of Case Record. The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her HRA HOME TBRA case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing.
-
-(g) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA.
-
-(h) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
-
-   (3) The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
-
-(i) Abandonment of Request for Administrative Hearing.
-
-   (1) HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has:
-
-      (A) contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
-
-   (2) HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
-
-(j) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
-
-(k) Hearing Decision.
-
-   (1) The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
-
-   (2) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any.
-
-(l) Effect of Hearing Decision.
-
-   (1) HRA is not bound by a hearing decision:
-
-      (A) concerning a matter for which HRA is not required to provide an opportunity for a hearing under this section, or that otherwise exceeds the authority of the person conducting the hearing under this section; or
-
-      (B) contrary to HUD regulations or requirements, or otherwise contrary to federal, State, or local law.
-
-   (2) If HRA determines that it is not bound by a hearing decision, it shall promptly notify the family of the determination, and of the reasons for the determination.
-
-(m) Additional Appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
-
-   (2) The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
-
-   (3) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
-
-   (4) Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
-
-
-*§ 9-14 Additional Provisions.* ::
-
-
-(a) Applicants and program participants must:
-
-   (1) provide accurate, complete and current information on household income and household composition; and
-
-   (2) furnish documentation to verify information needed to determine eligibility and the HRA HOME TBRA rental assistance amount.
-
-(b) Prior to executing a lease, applicant households not currently in receipt of Public Assistance must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
-
-(c) Households must report an absence of the household from the assisted unit, as well as the absence of any individual household member, that is expected to last more than 90 days and, where practicable, receive prior approval for the absence.
-
-(d) A guest shall not reside in an assisted unit for more than 90 days during a year unless such guest is added to the household as a member. To add such guest as a member of the household, the program participant must notify HRA of the change in household composition, and HRA shall conduct an interim recertification pursuant to subdivisions (b) and (c) of 68 RCNY §9-07. If a household does not seek to add a guest as a member of the household, HRA may ask the household to provide verification that the guest is not residing permanently in the assisted unit.
-
-(e) An applicant household does not have any right or entitlement to have its application selected for review, to be listed on the HRA HOME TBRA waitlist, to any particular position on such waitlist, or to selection for participation in HRA HOME TBRA. The preceding sentence does not affect or prejudice any right, independent of this chapter, to bring a judicial action challenging a violation of a constitutional or statutory requirement.
-
-(f) Applicants and household members must disclose and verify social security numbers in accordance with Section 5.216 of Title 24 of the Code of Federal Regulations, execute consent forms in accordance with Section 5.230 of such title, and complete and provide all other forms required by law.
-
-(g) Rental assistance provided under the HRA HOME TBRA Program cannot be combined with any other rent subsidies other than a public assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except with the prior approval of HRA on a case-by-case basis. 
-
-(h) Applicant households are responsible for identifying potential housing. However, shelter staff may provide assistance to such households in their housing search.
-
-(i) A landlord who signs a lease with a household participating in HRA HOME TBRA is prohibited from demanding, requesting, or receiving any amount above the rent or fees as stipulated in the lease agreement regardless of any changes in household composition, except that a landlord may charge fees customarily charged in rental housing in accordance with Section 92.214(b)(3) of Title 24 of the Code of Federal Regulations subject to prior approval from HRA. Except as provided in the preceding sentence, a landlord who demands, requests or receives any amount above what is set forth in the lease will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing.
-
-(j) If a program participant moves or is evicted from an assisted unit, the landlord must return any over-payment to HRA except as otherwise provided in 68 RCNY §9-10.
-
-(k) In the event of the death of the sole member of a household participating in HRA HOME TBRA, HRA HOME TBRA assistance cannot be transferred and will be terminated.
-
-(Added City Record 11/30/2015, eff. 12/30/2015)
-
-
-
-
 Chapter 8: CITYFEPS Programs; SEPS Program
 --------------------------------------------------
 
@@ -4449,119 +3861,266 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
 
 
-Chapter 11: Pathway Home
+Chapter 9: HRA HOME TBRA Program
 --------------------------------------------------
 
 
 
-*§ 11-01 Definitions.* ::
+*§ 9-01 Definitions.* ::
 
 
-(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+(a) "Adjusted income" means a household's annual income minus the deductions set forth in Section 5.611 of Title 24 of the Code of Federal Regulations.
 
-(b) "DHS" means the New York City Department of Homeless Services.
+(b) "Annual income" means annual income as that term is used in Section 5.609 of Title 24 of the Code of Federal Regulations, subject to the self-sufficiency disallowance for increases in earned income pursuant to Section 5.617 of Title 24 of the Code of Federal Regulations.
 
-(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
+(c) "Area median income" means the median family income for the area, as determined by the United States Department of Housing and Urban Development with adjustments for smaller and larger families.
 
-(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
+(d) An "assisted unit" is a residential unit to which HRA HOME TBRA rental assistance payments are being applied pursuant to this chapter.
 
-(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+(e) A "chronically street homeless individual" means an individual (1) who has been identified by the New York City Department of Homeless Services as not residing in a shelter, residence, or other accommodations for nine of the past twenty-four months at the close of the HRA HOME TBRA application period and who has not secured any other temporary or permanent housing; or (2) who currently resides in a DHS safe haven or uses a DHS stabilization bed as those terms are defined in § 3-113 of the Administrative Code of the City of New York as added by local law 37 for the year 2011.
 
-(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+(f) "Citizen" means citizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations.
 
-(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
+(g) A "coupon" means a document issued by HRA to a household selected for participation in HRA HOME TBRA that describes the program, program requirements, and the procedures for HRA approval of a unit selected by the household.
 
-(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
+(h) "DHS" means the New York City Department of Homeless Services.
 
-(i) "HRA" means the New York City Human Resources Administration.
+(i) "DHS Shelter" means a shelter for families with children or adult families operated by or on behalf of DHS.
 
-(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+(j) A "guest" is an individual who was not included in a household's application for HRA HOME TBRA or added to the household as a member pursuant to subdivision (d) of 68 RCNY § 9-14, and who is staying in an assisted unit with the consent of a household member.
 
-(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+(k) The "household" means the individual or individuals who have applied for, have had an application submitted on their behalf for, or are participating in HRA HOME TBRA.
 
-(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+(l) "HRA" means the New York City Human Resources Administration.
 
-(m) The "Pathway Home Program" means the program established pursuant to this chapter.
+(m) "HRA HOME Tenant-Based Rental Assistance Program" or "HRA HOME TBRA" means the rental assistance program described in this chapter.
 
-(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
+(n) "HRA shelter" means a shelter operated by or on behalf of HRA.
 
-(o) A "program participant" means an adult household member.
+(o) "HPD" means the New York City Department of Housing Preservation and Development.
 
-(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+(p) "HQS" means the Section 8 Housing Quality Standards set forth in Section 982.401 of Title 24 of the Code of Federal Regulations.
 
-(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+(q) "HUD" means the United States Department of Housing and Urban Development.
 
+(r) "Noncitizen" means noncitizen as that term is used in Section 5.504 of Title 24 of the Code of Federal Regulations.
 
+(s) A "program participant" means an individual who has entered into an approved lease for an assisted unit.
 
+(t) "Public Assistance" means benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
 
 
 
 
 
-*§ 11-02 Administration of the Pathway Home Program.* ::
 
 
-HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
 
+*§ 9-02 Administration of the HOME Tenant-Based Rental Assistance Program.* ::
 
 
+HRA shall administer HRA HOME TBRA subject to oversight by the New York City Department of HPD and in accordance with all applicable HUD rules and directives.
 
 
 
 
 
-*§ 11-03 Eligibility.* ::
 
 
-(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
 
-   (1) The household must meet one of the following conditions:
+*§ 9-03 Eligibility Criteria.* ::
 
-      (A) The household resides in DHS shelter and
 
-         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
+(a) To be eligible for HRA HOME TBRA, a household must meet the following eligibility requirements:
 
-         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
+   (1) The household must:
 
-      (B) The household is street homeless; or
+      (A) Consist of two or more individuals or a pregnant person, currently reside in a DHS Shelter or HRA Shelter, and have resided in shelter for more than 120 days as of the close of the application period established pursuant to subdivision (a) of 68 RCNY § 9-04; or
 
-      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
+      (B) Consist of or include at least one chronically street homeless individual;
 
-   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
+   (2) The household's adjusted income must not exceed 60 percent of the area median income;
 
-   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+   (3) At least one member of the household must receive social security disability insurance benefits, old-age benefits or survivors insurance benefits under Title II of the federal Social Security Act, or supplemental security income under Title XVI of the federal Social Security Act; and
 
-   (4) All members of the household who are eligible for PA must be in receipt of PA.
+   (4) At least one member of the household must be either:
 
-   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+      (A) a citizen; or
 
-   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
+      (B) a noncitizen with a qualifying immigration status under Section 1436a of Title 42 of the United States Code.
 
-   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
+(b) Eligibility will be determined via an application process. The number of eligible households that can be approved to participate in HRA HOME TBRA will be limited by the amount of available funding.
 
-   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
 
-(b) Qualifying Shelter Stay and Limitations.
 
-   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
 
-   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
 
-(c) Applications must be submitted on a form and in a format established by HRA.
 
-(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
 
 
+*§ 9-04 Application Process, Lottery and Waitlist.* ::
 
 
+(a) At HRA's discretion, when there is funding available to provide HRA HOME TBRA to applicant households, HRA will set an application period of at least 30 days, during which households may submit applications. HRA will disseminate notice of the application period, including on HRA's website. Applications must be submitted on a form and in a format established by HRA. A household may submit no more than one application per application period.
 
+(b) After the application period closes, HRA will randomly assign all applications received during the application period a number. HRA will review all applications in order of assigned number.
 
+(c) HRA will provide notice to an applicant household if HRA determines that an application is incomplete, and such household will have ten days from the date the notice is sent to supplement the application. HRA may grant an additional extension of time to supplement the application for good cause. Failure to supplement the application within ten days or any applicable extension period will result in denial of such household's application for HRA HOME TBRA.
 
+(d) Coupons will be issued in order of assigned number to applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03 until coupons are no longer available. If HRA determines that an applicant household is ineligible for HRA HOME TBRA, HRA will notify such household that its application has been denied and the reasons for denial. Remaining applicant households that meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03 will be placed on a waitlist in order of assigned number and notified in writing of their placement on the waitlist. Once placed on the waitlist, a household will retain its placement on the waitlist unless it is selected or removed from the waitlist pursuant to subdivision (e) of this section.
 
-*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
+(e) Selection or Removal of Households from Waitlist.
 
+   (1) Subject to available funding and HRA HOME TBRA coupons, households will be selected for participation in HRA HOME TBRA from the waitlist in order of assigned number, provided such households continue to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
+										.
 
-(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
+   (2) Households that are unable to establish that they continue to satisfy the requirements set forth in subdivision (a) of 68 RCNY § 9-03
+										 will be removed from the waitlist and informed that their applications have been denied.
+
+   (3) HRA may request an applicant household on the waitlist to provide additional documentation regarding the household's income and composition and to establish that the household continues to meet the requirements set forth in subdivision (a) of 68 RCNY § 9-03
+										. An applicant household that fails to timely or adequately respond to such a request will be removed from the waitlist and informed that its application has been denied.
+
+   (4) In the event that HRA does not have sufficient funding to select the household at the top of the waitlist for HRA HOME TBRA participation due to such household's unit size, HRA shall not select a household with a smaller unit size, but shall select the household at the top of the waitlist when sufficient funding is available.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+
+
+*§ 9-05 Coupon.* ::
+
+
+(a) A household shall receive a coupon only after attending a briefing session provided by HRA. The head of household as designated on the application must sign the coupon. Failure to attend the briefing session and sign the coupon will result in denial of the household's application for HRA HOME TBRA.
+
+(b) The initial term of a coupon will be 120 calendar days.
+
+(c) HRA may extend a household's initial coupon term for documented special circumstances, including if such extension is needed as a reasonable accommodation on the basis of disability.
+
+(d) If a household submits a request for unit approval pursuant to subdivision (b) of 68 RCNY §9-06, the coupon term will be stayed until HRA approves or denies the request.
+
+(e) HRA HOME TBRA rental assistance payments shall only be available if a household receives a unit approval pursuant to subdivision (b) of 68 RCNY §9-06 prior to the expiration of the coupon term. A household that does not obtain a unit approval prior to the expiration of the coupon term may submit a new application for participation in HRA HOME TBRA if HRA re-opens the application period pursuant to subdivision (a) of 68 RCNY §9-04.
+
+(f) HRA HOME TBRA rental assistance payments shall only be available if a household complies with program obligations as outlined in the coupon.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+
+
+*§ 9-06 Leasing a Unit.* ::
+
+
+(a) HRA HOME TBRA rental assistance shall only be provided for units approved by HRA. A household must submit a request for unit approval on a form and in a format established by HRA prior to the expiration of the coupon. A household may not submit more than one request for unit approval at a time.
+
+(b) Request for Unit Approval. HRA will approve a request for unit approval if all of the following requirements are met:
+
+   (1) The unit has been inspected and is HQS-compliant;
+
+   (2) The lease complies with the requirements in Section 92.253(a)-(b) of Title 24 of the Code of Federal Regulations;
+
+   (3) The rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations and, for the household's first year in the unit, does not exceed the applicable rent standard amount established pursuant to subdivision (b) of 68 RCNY §9-08;
+
+   (4) The unit is located within the City of New York; and
+
+   (5) The unit will be the household's only residence.
+
+(c) Lease and Rental Assistance Contract Signing.
+
+   (1) Upon approval of a unit pursuant to subdivision (b) of this section, two contracts must be executed before HRA HOME TBRA rental assistance payments may be issued:
+
+      (A) An approved lease between the landlord and household; and
+
+      (B) A Rental Assistance Contract between HRA and the landlord.
+
+   (2) The lease and Rental Assistance Contract shall be executed at a date, time and location to be designated by HRA.
+
+   (3) HRA HOME TBRA rental assistance payments shall be paid to the landlord in accordance with the terms of the Rental Assistance Contract and may only be paid to the landlord during the lease term and while the household is residing in the assisted unit.
+
+   (4) The term of the Rental Assistance Contract shall terminate on termination of the lease and may not exceed 24 months, but may be renewed, subject to the availability of funding.
+
+   (5) HRA HOME TBRA rental assistance payments to a landlord terminate when a landlord terminates the lease. However, if the landlord has commenced the process to evict the household but the household continues to reside in the assisted unit, HRA shall continue to make rental assistance payments to the landlord in accordance with the Rental Assistance Contract for the remaining term of the Rental Assistance Contract or until the landlord has obtained a court judgment or other process allowing the landlord to evict the household. HRA may continue such payments until the household moves or is evicted from the assisted unit but no later than the end of the Rental Assistance Contract term.
+
+   (6) A landlord may not terminate the lease or refuse to renew the lease of a household participating in HRA HOME TBRA, except in accordance with Section 92.253(c) of Title 24 of the Code of Federal Regulations. 
+
+(d) The requirements of subdivision (b) of this section shall apply to renewal leases.
+
+(Added City Record 11/30/2015, eff. 12/30/2015) 
+
+
+
+
+
+
+*§ 9-07 Annual and Interim Recertification and Ongoing Program Participant Obligations.* ::
+
+
+(a) Annual Recertification.
+
+   (1) Subject to the availability of funding, HRA shall recertify a household for continued participation in HRA HOME TBRA if:
+
+      (A) the household's adjusted income does not exceed 80 percent of the area median income;
+
+      (B) at least one member of the household is a citizen or qualifying noncitizen as set forth in paragraph (4) of subdivision (a) of 68 RCNY §9-03; and
+
+      (C) the household continues to reside in the assisted unit.
+
+   (2) HRA will determine a household's eligibility for recertification at the end of each year of the household's participation in HRA HOME TBRA. Prior to annual recertification, HRA will recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08. Except as provided in subdivision (c) of this section or 68 RCNY §9-10, the total monthly household contribution and HRA HOME TBRA rental assistance amount will not change during the one-year recertification period, regardless of changes in household composition or income.
+
+   (3) A household's eligibility for recertification is conditioned on the household's timely cooperation with any requests by HRA for household information and documentation.
+
+(b) Changes in Household Composition Prior to Annual Recertification.
+
+   (1) Program participants must report to HRA any changes in household composition within thirty (30) days of such changes occurring.
+
+   (2) When informed of changes in household composition prior to annual recertification, HRA shall conduct an interim recertification to determine the household's continued eligibility and whether the change in household composition results or will result in an HQS failure. If an HQS failure has resulted or will result, the household shall be responsible for remedying or avoiding such failure, including requesting prior approval pursuant to paragraph (1) of subdivision (a) of 68 RCNY §9-10 to move to a new unit. If the household's change in composition affects the household size, a new unit size will not be assigned pursuant to subdivision (a) of 68 RCNY §9-08 until the household's next annual recertification and the household's rent standard amount will not change until such recertification. If the household's change in composition results in a change in household income, the provisions in subdivision (c) of this section shall apply.
+
+(c) Changes in Income Prior to Annual Recertification.
+
+   (1) Program participants may report changes in household income to HRA at any time prior to annual recertification.
+
+   (2) When informed of an increase in household income prior to annual recertification, HRA may conduct an interim recertification to determine the household's continued eligibility. In the event of an interim recertification pursuant to this subdivision, HRA may recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08.
+
+   (3) When informed of a decrease in household income prior to annual recertification, HRA shall conduct an interim recertification and recalculate the total monthly household contribution and the HRA HOME TBRA rental assistance amount pursuant to 68 RCNY §9-08.
+
+(d) A household's participation in HRA HOME TBRA will be terminated during the Rental Assistance Contract term if:
+
+   (1) HRA determines that a household member knowingly permitted another individual who is not eligible for HRA HOME TBRA due to immigration status in accordance with Part 5 of Title 24 of the Code of Federal Regulations and Section 1436a of Title 42 of the United States Code to reside on a permanent basis in the assisted unit. In such an event, the household will be barred from submitting a new application for HRA HOME TBRA for not less than 24 months. This provision does not apply to a household if the ineligibility of the ineligible individual was considered in calculating the prorated HRA HOME TBRA rental assistance amount pursuant to subdivision (e) of 68 RCNY §9-08.
+
+   (2) The household is absent from the assisted unit for more than a total of 180 days in a 12-month period in any circumstance and for any reason.
+
+   (3) The household is absent from the assisted unit for 90 consecutive days unless the household establishes:
+
+      (A) That the absence from the unit was due to exceptional circumstances beyond the household's control, such as hospitalization;
+
+      (B) That the household intends to return to the assisted unit within 180 days of departure; and
+
+      (C) That the household is not maintaining an alternative residence.
+
+   (4) The household fails to grant access to the assisted unit for an HQS inspection pursuant to 68 RCNY §9-09.
+
+   (5) The household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA. Such HQS failure may result from actions or inactions that include but are not limited to the household's failure to pay for any utilities for which the household is responsible for payment, or damage to the dwelling unit or premises beyond ordinary wear and tear caused by any member or guest of the household.
+
+   (6) The household fails to comply with program obligations.
+
+   (7) The rental assistance amount calculated pursuant to subdivision (c) of 68 RCNY §9-08 has been zero for six months.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+
+
+*§ 9-08 Calculating HRA HOME TBRA Rental Assistance Amount and Household Share of Rent.* ::
+
+
+(a) Unit Size.
+
+   (1) A household will be assigned a standard unit size, corresponding to the number of bedrooms needed for the household size, as set forth in the table below. HRA shall assign such unit size at the time of coupon issuance and include it on the coupon issued to the household.
 
  
 
@@ -4569,175 +4128,323 @@ HRA shall administer the Pathway Home Program, except that HRA shall make initia
 .. list-table::
     :header-rows: 1
 
-    * - Pathway Home Payments
-      - 
-      - 
-      - 
     * - Household Size
-      - 1 or 2
-      - 3 or 4
-      - 5+
-    * - Monthly Payment to Host
-      - $1,200
-      -  $1,500
-      - $1,800
+      - Unit Size
+    * - 1
+      - SRO/Studio
+    * - 2
+      - 1
+    * - 3 or 4
+      - 2
+    * - 5 or 6
+      - 3
+    * - 7 or 8
+      - 4
+    * - 9 or 10
+      - 5
+    * - 11 or 12
+      - 6
+    * - 13 or 14
+      - 7
 ~
-
-
 
  
 
-(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
+   (2) For purposes of determining unit size:
 
-(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
+      (A) The household consists of all individuals who intend to reside in the assisted unit;
+
+      (B) In the case of documented pregnancy by a household member, the unborn child is counted as a household member;
+
+      (C) Any live-in aide approved by HRA to reside in the assisted unit to care for a household member who is disabled or 62 years of age or over is counted as a household member;
+
+      (D) A child who resides in the assisted unit with his or her parent for at least 183 days of the year pursuant to a joint custody agreement or order is counted as a household member, provided that such parent is a household member;
+
+      (E) A foster child who is placed and resides in the assisted unit for more than 183 days of the year is counted as a household member; and
+
+      (F) Except as otherwise provided in this paragraph, an individual who is absent from the assisted unit for more than 90 consecutive days will not be counted as a household member unless such individual is absent due to hospitalization, military deployment, or other good cause as determined by HRA on a case-by-case basis, and is reasonably expected to return within 180 days. A household member who is away at school but intends to live with the household in the assisted unit during school recesses is considered a household member.
+
+   (3) If a household includes a household member with a disability, HRA may assign the household a higher unit size as a reasonable accommodation for such member.
+
+   (4) The household may lease an otherwise acceptable unit with fewer bedrooms than the assigned unit size provided the unit meets the applicable HQS space requirements.
+
+   (5) The household may lease an otherwise acceptable unit with more bedrooms than the assigned unit size.
+
+(b) Rent Standard Amount.
+
+   (1) The HRA HOME TBRA rent standard amount shall be based on unit size. HRA shall set the HRA HOME TBRA rent standard amount for each unit size at an amount that is between 95 and 110 percent of the fair market rent applicable in New York City for the unit size as published annually by HUD pursuant to Part 888 of Title 24 of the Code of Federal Regulations. HRA shall publish current HRA HOME TBRA rent standard amounts on HRA's website.
+
+   (2) A household's rent standard amount shall be the HRA HOME TBRA rent standard amount established pursuant to paragraph (1) of this subdivision for the household's assigned unit size.
+
+   (3) For the initial occupancy of an assisted unit, the household's gross rent, including heat and hot water, shall not exceed the household's rent standard amount. Following the household's first year in the unit, the household's rent may exceed the applicable rent standard amount so long as the rent is reasonable pursuant to standards set forth in Section 982.507 of Title 24 of the Code of Federal Regulations.
+
+(c) The HRA HOME TBRA rental assistance amount paid on behalf of a household shall equal the household's gross rent minus the total household contribution calculated pursuant to subdivision (d) of this section.
+
+(d) Income Contribution and Household Share of Rent.
+
+   (1) The household's total monthly household contribution to rent shall be the sum of the following:
+
+      (A) The highest of the following amounts, rounded to the nearest dollar:
+
+         (i) The household's adjusted income multiplied by 30 percent and divided by 12;
+
+         (ii) The household's annual income multiplied by 10 percent and divided by 12;
+
+         (iii) The amount of the household's public assistance shelter allowance as calculated and received pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations; or 
+
+         (iv) Fifty dollars, which may be reduced based on financial hardship at HRA's discretion;
+
+      (B) The amount, if any, by which the rent exceeds the applicable rent standard amount established pursuant to subdivision (b) of 68 RCNY §9-08, after the household's first year in the assisted unit; and
+
+      (C) The amount, if any, by which the HRA HOME TBRA rental assistance amount has been reduced pursuant to subdivision (e) of this section.
+
+(e) If a household includes a member who is ineligible for HRA HOME TBRA on the basis of immigration status in accordance with Section 1436a of Title 42 of the United States Code, the household's HRA HOME TBRA rental assistance amount will be prorated by multiplying the HRA HOME TBRA rental assistance amount as calculated in subdivision (c) of this section by a fraction, the denominator of which is the total number of household members and the numerator of which is the total number of household members who are not ineligible for HRA HOME TBRA on the basis of immigration status.
+
+(f) Change in the HRA HOME TBRA Rent Standard Amount during the Coupon Term and Prior to Execution of the Rental Assistance Contract.
+
+   If the HRA HOME TBRA rent standard amount for the household's assigned unit size is increased or decreased during the term of the coupon and prior to the execution of the Rental Assistance Contract, the new rent standard amount shall be used to calculate the HRA HOME TBRA rental assistance amount for the household.
+
+(g) Change in the HRA HOME TBRA Rent Standard Amount During the Rental Assistance Contract Term.
+
+   (1) If the HRA HOME TBRA rent standard amount for the household's assigned unit size is increased during the term of the Rental Assistance Contract, the increased rent standard amount shall be used to calculate the HRA HOME TBRA rental assistance amount for the household beginning on the effective date of the household's next annual recertification on or after the effective date of the increase in the rent standard amount.
+
+   (2) A decrease in the HRA HOME TBRA rent standard will not be applied to a household during the Rental Assistance Contract term and the household's rent standard amount will remain the same for purposes of calculating the HRA HOME TBRA rental assistance amount at the household's next annual recertification.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
 
 
 
 
 
 
+*§ 9-09 Inspections.* ::
 
 
-*§ 11-05 Moves.* ::
+(a) A unit for which a household requests approval pursuant to subdivision (b) of 68 RCNY §9-06 must pass an HQS inspection and will be subject to inspections in accordance with Section 92.209 of Title 24 of the Code of Federal Regulations, including but not limited to additional inspections to ensure continued compliance with HQS based on complaints from the household, landlord, interested third parties or the general public. Except in emergency situations, HRA will provide reasonable notice of any inspection and a reasonable opportunity for the landlord and household to reschedule an inspection.
 
+(b) The landlord must maintain the assisted unit in accordance with HQS. If the landlord fails to maintain the assisted unit in accordance with HQS and fails to remedy any HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations within the period specified by HRA, HRA shall either abate HRA HOME TBRA rental assistance payments in their entirety until such time as the landlord remedies the HQS failure as determined by HRA, or terminate the Rental Assistance Contract and cease HRA HOME TBRA rental assistance payments. This provision does not apply if the landlord is not responsible for the HQS failure. If HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to this subdivision, HRA shall allow the household to move pursuant to 68 RCNY §9-10.
 
-(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
+(c) If the household is responsible for an HQS failure related to the performance requirements and acceptability criteria set forth in Section 982.401 of Title 24 of the Code of Federal Regulations and the household fails to remedy the HQS failure within the period specified by HRA, HRA shall terminate the household's participation in HRA HOME TBRA.
 
-(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
-
-
-
-
-
+(Added City Record 11/30/2015, eff. 12/30/2015)
 
 
 
-*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
 
 
-(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
 
-(b) Agency Review Conference.
+*§ 9-10 Moves.* ::
 
-   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
 
-   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+(a) A household participating in HRA HOME TBRA may not move to a new unit and maintain eligibility for HRA HOME TBRA except with the prior approval of HRA. HRA may grant such approval and issue a new coupon to the household on the following grounds:
 
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+   (1) The household is overcrowded in the assisted unit;
 
-   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+   (2) HRA abates HRA HOME TBRA rental assistance payments to the assisted unit or terminates the Rental Assistance Contract pursuant to subdivision (b) of 68 RCNY §9-09;
 
-(c) Request for a DSS Administrative Hearing.
+   (3) The lease for the assisted unit has terminated by mutual agreement of the household and landlord and the landlord signs a release of the lease and the Rental Assistance Contract;
 
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+   (4) The landlord has obtained a court judgment or other process allowing the landlord to evict the household; or
 
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+   (5) The need for the move is a direct result of a documented health and safety concern or other good cause, as determined by HRA on a case-by-case basis.
 
-(d) Authorized Representative.
+(b) All requirements of 68 RCNY §9-06 must be met before a household may move to a new assisted unit.
 
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+(c) If HRA has approved a move to a new unit, HRA shall reassign the household a unit size, re-determine the household's rent standard amount, and recalculate the HRA HOME TBRA rental assistance amount and the household's total monthly household contribution pursuant to 68 RCNY §9-08.
 
-   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+(d) Upon an approved move to a new unit, the household shall be recertified pursuant to subdivision (a) of 68 RCNY §9-07. The household's annual recertification cycle shall coincide with the new lease term.
 
-(e) Aid Continuing.
+(e) If a household moves from an assisted unit, HRA HOME TBRA rental assistance payments for such unit shall cease as of the month after the month that the household moves from such unit. The landlord may keep the HRA HOME TBRA rental assistance payment for the month during which the household moves from such unit.
 
-   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+(Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+
+
+*§ 9-11 Household Separations.* ::
+
+
+(a) If an applicant household separates into two or more otherwise eligible applicant household units prior to executing a Rental Assistance Contract, HRA will decide on a case-by-case basis which of the household units will be considered the applicant household and remain eligible to receive HRA HOME TBRA rental assistance. If a household receiving HRA HOME TBRA rental assistance separates, HRA will decide on a case-by-case basis which of the household units will continue to receive such assistance. In the event of a household separation, under no circumstances shall more than one of the resulting household units receive HRA HOME TBRA rental assistance.
+
+(b) In determining pursuant to subdivision (a) of this section which resulting household unit shall remain eligible for or participate in HRA HOME TBRA, consideration will be given to factors including but not limited to:
+
+   (1) which household member was designated as head of household on the application for HRA HOME TBRA rental assistance;
+
+   (2) which household unit retains any children, members with disabilities, or members over 62 years of age;
+
+   (3) the role of domestic violence in the household separation;
+
+   (4) the role of criminal activity or incarceration in the household separation; and
+
+   (5) recommendations of social service agencies, including state and local children's services agencies, or qualified professionals.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+
+
+*§ 9-12 Right of Review.* ::
+
+
+An applicant or program participant may request an agency review conference and/or an HRA administrative hearing pursuant to 68 RCNY §9-13 to seek review of the following determinations only, but in no event shall an agency review conference or HRA administrative hearing be available to review a determination based solely on a lack of available funding for HRA HOME TBRA:
+
+(a) A denial of a household's application for HRA HOME TBRA;
+
+(b) A determination of a household's ineligibility for HRA HOME TBRA at recertification;
+
+(c) A determination of a household member's ineligibility for HRA HOME TBRA on the grounds of immigration status;
+
+(d) A household's removal from the waitlist;
+
+(e) A household's termination from HRA HOME TBRA pursuant to paragraphs (1) - (6) of subdivision (d) of 68 RCNY §9-07;
+
+(f) The assignment of a household's unit size and the calculation of a household's HRA HOME TBRA rental assistance amount and monthly household contribution pursuant to 68 RCNY §9-08, provided that determinations of or changes to the HRA HOME TBRA rent standard amount shall not be reviewable; and
+
+(g) A denial of a household's request to move.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+
+
+*§ 9-13 Agency Review Conference and HRA Administrative Appeal Process.* ::
+
+
+(a) Agency Review Conference.
+
+   (1) If an applicant or program participant requests an agency review conference, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An applicant or program participant may request an agency review conference without also requesting an HRA administrative hearing. Requesting an agency review conference will not prevent an applicant or program participant from later requesting an HRA administrative hearing.
+
+   (3) An agency review conference must be requested no later than fourteen days after the challenged determination or action.
+
+(b) Request for an HRA Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or facsimile, or other means as HRA may set forth in an appeals notice.
+
+   (2) A request for an administrative hearing must be made by the later of twenty-one days after the challenged determination or action or seven days after the date of the agency review conference.
+
+(c) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an applicant or program participant must have the applicant's or program participant's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such applicant or program participant. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises HRA by telephone of such employee's authorization.
+
+   (2) Once HRA has been notified that a person or organization has been authorized to represent an applicant or program participant at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by HRA to the applicant or program participant relating to the conference and hearing.
+
+(d) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination by HRA that HRA HOME TBRA rental assistance payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of HRA HOME TBRA rental assistance payments at the HRA HOME TBRA rental assistance amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (k) of this section or the end of the term of the current Rental Assistance Contract, whichever is earlier, provided that:
 
       (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
 
       (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
 
-   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
+   (2) There is no right to continued HRA HOME TBRA rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.
 
-   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
+   (3) Rental assistance payments will not continue pending the issuance of a hearing decision when:
 
       (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
 
       (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
 
-      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, rental assistance payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (m) of this section.
 
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
+(e) Notice. HRA shall provide the applicant or program participant with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the applicant or program participant has withdrawn his or her hearing request.
 
-(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
+(f) Examination of Case Record. The applicant or program participant or his or her authorized representative has the right to examine the contents of his or her HRA HOME TBRA case file and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such applicant or program participant with copies of all such documents, and copies of any additional documents in the possession of HRA that the applicant or program participant identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the applicant or program participant with copies of such documents no later than at the time of the administrative hearing.
 
-(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+(g) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the applicant or program participant, or HRA.
 
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
+(h) Conduct of Administrative Hearing.
 
-(i) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by HRA who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
 
    (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
 
-   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+   (3) The applicant or program participant shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
 
    (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
 
-(j) Abandonment of Request for Administrative Hearing.
+(i) Abandonment of Request for Administrative Hearing.
 
-   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
+   (1) HRA will consider an administrative hearing request abandoned if neither the applicant or program participant nor his or her authorized representative appears at the administrative hearing, unless either the applicant or program participant or his or her authorized representative has:
 
-      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+      (A) contacted HRA prior to the administrative hearing to request rescheduling of the administrative hearing; or
 
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted HRA and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
 
-   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+   (2) HRA will restore the case to the calendar if the applicant or program participant or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
 
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+(j) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
 
-(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+(k) Hearing Decision.
 
-   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+   (1) The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
 
-   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+   (2) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to further appeal and the procedures for requesting such appeal, will be sent to each of the parties and to their authorized representatives, if any.
 
-(m) Additional appeal.
+(l) Effect of Hearing Decision.
 
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+   (1) HRA is not bound by a hearing decision:
 
-   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+      (A) concerning a matter for which HRA is not required to provide an opportunity for a hearing under this section, or that otherwise exceeds the authority of the person conducting the hearing under this section; or
 
-   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+      (B) contrary to HUD regulations or requirements, or otherwise contrary to federal, State, or local law.
 
-   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+   (2) If HRA determines that it is not bound by a hearing decision, it shall promptly notify the family of the determination, and of the reasons for the determination.
 
+(m) Additional Appeal.
 
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner of HRA or his or her designee provided it is received by HRA through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after HRA sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
 
+   (2) The Commissioner or his or her designee shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
 
+   (3) A copy of the decision, accompanied by written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
 
+   (4) Upon issuance, the decision of the Commissioner or his or her designee made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
 
-
-
-*§ 11-07 Additional Provisions.* ::
-
-
-(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
-
-(b) Waitlists will not be maintained for the Pathway Home Program.
-
-(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
-
-(d) Shelter residents are responsible for identifying potential host families.
-
-(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
-
-(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
-
-(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
-
-(h) Any host family residence must pass a safety and habitability inspection. Additionally:
-
-   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
-
-   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
-
-(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
-
-(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
+(Added City Record 11/30/2015, eff. 12/30/2015)
 
 
+
+
+
+
+*§ 9-14 Additional Provisions.* ::
+
+
+(a) Applicants and program participants must:
+
+   (1) provide accurate, complete and current information on household income and household composition; and
+
+   (2) furnish documentation to verify information needed to determine eligibility and the HRA HOME TBRA rental assistance amount.
+
+(b) Prior to executing a lease, applicant households not currently in receipt of Public Assistance must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+
+(c) Households must report an absence of the household from the assisted unit, as well as the absence of any individual household member, that is expected to last more than 90 days and, where practicable, receive prior approval for the absence.
+
+(d) A guest shall not reside in an assisted unit for more than 90 days during a year unless such guest is added to the household as a member. To add such guest as a member of the household, the program participant must notify HRA of the change in household composition, and HRA shall conduct an interim recertification pursuant to subdivisions (b) and (c) of 68 RCNY §9-07. If a household does not seek to add a guest as a member of the household, HRA may ask the household to provide verification that the guest is not residing permanently in the assisted unit.
+
+(e) An applicant household does not have any right or entitlement to have its application selected for review, to be listed on the HRA HOME TBRA waitlist, to any particular position on such waitlist, or to selection for participation in HRA HOME TBRA. The preceding sentence does not affect or prejudice any right, independent of this chapter, to bring a judicial action challenging a violation of a constitutional or statutory requirement.
+
+(f) Applicants and household members must disclose and verify social security numbers in accordance with Section 5.216 of Title 24 of the Code of Federal Regulations, execute consent forms in accordance with Section 5.230 of such title, and complete and provide all other forms required by law.
+
+(g) Rental assistance provided under the HRA HOME TBRA Program cannot be combined with any other rent subsidies other than a public assistance shelter allowance provided pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations, except with the prior approval of HRA on a case-by-case basis. 
+
+(h) Applicant households are responsible for identifying potential housing. However, shelter staff may provide assistance to such households in their housing search.
+
+(i) A landlord who signs a lease with a household participating in HRA HOME TBRA is prohibited from demanding, requesting, or receiving any amount above the rent or fees as stipulated in the lease agreement regardless of any changes in household composition, except that a landlord may charge fees customarily charged in rental housing in accordance with Section 92.214(b)(3) of Title 24 of the Code of Federal Regulations subject to prior approval from HRA. Except as provided in the preceding sentence, a landlord who demands, requests or receives any amount above what is set forth in the lease will be barred from further participation in any HRA rental assistance programs and may be barred from other rental assistance programs administered by the City of New York. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing.
+
+(j) If a program participant moves or is evicted from an assisted unit, the landlord must return any over-payment to HRA except as otherwise provided in 68 RCNY §9-10.
+
+(k) In the event of the death of the sole member of a household participating in HRA HOME TBRA, HRA HOME TBRA assistance cannot be transferred and will be terminated.
+
+(Added City Record 11/30/2015, eff. 12/30/2015)
 
 
 
@@ -5358,6 +5065,299 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 (h) HRA in its discretion may offer payments to landlords of units that are subject to the HPD/HDC Marketing Handbook pursuant to a regulatory agreement or similar instrument, for which HPD or HDC is requiring or approving such units to be filled by homeless individuals or families instead of or subsequent to a lottery, where such payments are needed to make up the difference between the CityFHEPS maximum rent under 68 RCNY § 10-05 and the regulatory rent.
 
 (Added City Record 9/28/2018, eff. 10/28/2018; amended City Record 2/7/2020, eff. 2/7/2020)
+
+
+
+
+Chapter 11: Pathway Home
+--------------------------------------------------
+
+
+
+*§ 11-01 Definitions.* ::
+
+
+(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+
+(b) "DHS" means the New York City Department of Homeless Services.
+
+(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
+
+(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
+
+(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+
+(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+
+(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
+
+(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
+
+(i) "HRA" means the New York City Human Resources Administration.
+
+(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+
+(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(m) The "Pathway Home Program" means the program established pursuant to this chapter.
+
+(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
+
+(o) A "program participant" means an adult household member.
+
+(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+
+(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+
+
+
+
+
+
+
+
+*§ 11-02 Administration of the Pathway Home Program.* ::
+
+
+HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
+
+
+
+
+
+
+
+
+*§ 11-03 Eligibility.* ::
+
+
+(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
+
+   (1) The household must meet one of the following conditions:
+
+      (A) The household resides in DHS shelter and
+
+         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
+
+         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
+
+      (B) The household is street homeless; or
+
+      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
+
+   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+
+   (4) All members of the household who are eligible for PA must be in receipt of PA.
+
+   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
+
+   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
+
+   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
+
+(b) Qualifying Shelter Stay and Limitations.
+
+   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
+
+   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
+
+(c) Applications must be submitted on a form and in a format established by HRA.
+
+(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
+
+
+
+
+
+
+
+
+*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
+
+
+(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Pathway Home Payments
+      - 
+      - 
+      - 
+    * - Household Size
+      - 1 or 2
+      - 3 or 4
+      - 5+
+    * - Monthly Payment to Host
+      - $1,200
+      -  $1,500
+      - $1,800
+~
+
+
+
+ 
+
+(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
+
+(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
+
+
+
+
+
+
+
+
+*§ 11-05 Moves.* ::
+
+
+(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
+
+(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
+
+
+
+
+
+
+
+
+*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+
+
+(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference.
+
+   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for a DSS Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+
+   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
+
+   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
+
+(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
+
+(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
+
+      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+
+   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+
+(m) Additional appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+
+
+
+
+
+
+
+*§ 11-07 Additional Provisions.* ::
+
+
+(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
+
+(b) Waitlists will not be maintained for the Pathway Home Program.
+
+(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
+
+(d) Shelter residents are responsible for identifying potential host families.
+
+(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
+
+(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
+
+(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
+
+(h) Any host family residence must pass a safety and habitability inspection. Additionally:
+
+   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
+
+   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
+
+(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
+
+(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
+
+
 
 
 

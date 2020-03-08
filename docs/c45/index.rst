@@ -954,878 +954,6 @@ Contract documents may be obtained at the Department of Business Services, 110 W
 
 
 
-Chapter 5-A: New York City Lower Manhattan Energy Program
---------------------------------------------------
-
-
-
-
-**Subchapter A: General Provisions**
-
-
-
-*§ 5-51 Authority; Purpose.* ::
-
-
-(a) These rules are promulgated pursuant to Chapter 4 of the Laws of 1995 of the State of New York, as amended, to effectuate the purposes of the New York City Lower Manhattan Energy Program (the "Program").
-
-(b) The purpose of the Program is to encourage commercial development, through construction, expansion or improvement of commercial space in a defined area of Lower Manhattan, by providing a reduction of certain electricity costs related to the transmission and distribution of electricity for a period of twelve (12) years or, in specified cases involving landmark sites, thirteen (13) years, including reductions in the cost of energy services purchased from the New York City Public Utility Service.
-
-(c) These rules set forth the standards and criteria used to determine eligibility and the available reductions in energy costs, as well as requirements for applications and procedures for review of determinations made in connection with the Program.
-
-
-
-
-
-
-*§ 5-52 Definitions.* ::
-
-
-As used in these rules, the following terms shall have the respective meanings set forth below:
-
-Act. "Act" means Article 2-I of the General City Law of the State of New York, as added by Chapter 4 of the Laws of 1995 of the State of New York, as amended by Chapter 154 of the Laws of 1999 and Chapters 103 and 472 of the Laws of 2000.
-
-Applicant. "Applicant" means any person applying individually or jointly as an owner or lessee of a building, or a portion thereof, or an agent of such owner or lessee, for a certificate of eligibility as an eligible redistributor of energy or a qualified eligible redistributor of energy, or a holding company, parent corporation, or subsidiary or affiliated corporation so applying on behalf of any of the foregoing.
-
-Application. "Application" means the application for a certificate of eligibility and shall include the preapplication and all supporting exhibits submitted and statements made by an applicant to the commissioner for the purpose of determining such applicant's initial eligibility for benefits as an eligible redistributor of energy or as a qualified eligible redistributor of energy under LMEP, and shall include the information required by 66 RCNY § 5-82.
-
-Assessed value. "Assessed value" means the assessed value of the real property and buildings thereon for tax purposes during the tax year in which improvements to such real property and buildings thereon commenced, as required by and referred to in these rules.
-
-Average monthly load factor. "Average monthly load factor" means, for each electric account, the average monthly load factor for the preceding 12-month period, determined once annually using the most recently available twelve months of load factor data.
-
-Benefit period. "Benefit period" means the number of months a recipient is eligible to receive a special rebate, which period shall not exceed one hundred and forty-four (144) consecutive months, beginning on the effective date of the recipient's certificate of eligibility, unless such building is a landmark site, in which case the benefit period shall not exceed one hundred and fifty-six (156) consecutive months, beginning on the effective date of the recipient's certificate of eligibility.
-
-Building. "Building" means articles, structures, substructures and superstructures erected upon, under, or above real property, or affixed thereto, and fixtures (other than trade fixtures) and other improvements erected or situated thereon.
-
-Building permit. "Building permit" means a permit approving proposed construction work issued by the New York City Department of Buildings, DBS or other agency of the City authorized by law to receive and approve plans for construction work. A building permit shall include a permit to construct a new building, an alteration, foundation, plumbing, sign or equipment work permit and may, at the option of the applicant, include a permit for partial demolition or earthwork.
-
-Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility of an applicant to receive a special rebate as an eligible redistributor of energy or a qualified eligible redistributor of energy. The certificate of eligibility shall include such information as is required pursuant to 66 RCNY § 5-87.
-
-Charter. "Charter" means the New York City Charter of New York, as amended.
-
-City. "City" means The City of New York.
-
-Code. "Code" means the Administrative Code of the City of New York, as amended.
-
-Commissioner. "Commissioner" means the Commissioner of DBS or his or her designee or his or her successor in function.
-
-Common areas, systems and facilities. "Common areas, systems and facilities" mean those areas, systems and facilities of a building that are shared by tenants and building owners, including, but not limited to: heating; ventilation and cooling systems; public, light and power; facilities, machinery and support hardware of a building, including, but not limited to, shafts, enclosing walls, corridors and lobbies, and loading docks of a building.
-
-Contiguous square footage. "Contiguous square footage" means gross square footage that is in actual contact or touching along a boundary or at a point, and shall include space on two (2) or more floors that are directly above or below each other.
-
-DBS. "DBS" means the New York City Department of Business Services or its successor in function.
-
-DOF. "DOF" means the New York City Department of Finance or its successor in function.
-
-Directly metered eligible revitalization area energy user. "Directly metered eligible revitalization area energy user" means an eligible revitalization area energy user that is directly metered by a utility.
-
-Effective date. "Effective date" means the effective date of a certificate of eligibility, which date is the first day of the first billing cycle after a certificate of eligibility is issued.
-
-Eligible building. "Eligible building" means a building or structure that meets the criteria set forth in § 25-aa(a) of the Act and 66 RCNY § 5-61.
-
-Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 25-aa(b) of the Act and the applicable provisions of 66 RCNY § 5-64, to which charges the applicable percentages in 66 RCNY § 5-65 or 66 RCNY § 5-67 are applied to determine the amount of a special rebate.
-
-Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 25-aa(b) of the Act and the applicable provisions of 66 RCNY § 5-64.
-
-Eligible redistributor of energy. "Eligible redistributor of energy" means a person that meets the criteria set forth in § 25-aa(c) of the Act and 66 RCNY § 5-62.
-
-Eligible revitalization area. "Eligible revitalization area" means the area of the City defined in § 25-aa(d) of the Act, namely the area of the City in the borough of Manhattan bounded by Murray Street on the north starting at the intersection of West Street and Murray Street; running easterly along the center line of Murray Street; connecting through City Hall Park with the center line of Frankfort Street and running easterly along the center lines of Frankfort and Dover Streets to the intersection of Dover Street and South Street; running southerly along the center line of South Street to Peter Minuit Plaza; connecting through Peter Minuit Plaza to the center line of State Street and running northwesterly along the center line of State Street to the intersection of State Street and Battery Place; running westerly along the center line of Battery Place to the intersection of Battery Place and West Street; and running northerly along the center line of West Street to the intersection of West Street and Murray Street. Any tax lot which is partly located inside the eligible revitalization area shall be deemed to be entirely located inside such area.
-
-Eligible revitalization area energy user. "Eligible revitalization area energy user" means any person that meets the criteria set forth in § 25-aa(e) of the Act and 66 RCNY § 5-63.
-
-Energy services. "Energy services" mean (i) the transportation of electric commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of electric commodity to a utility system.
-
-Energy services bill. "Energy services bill" means a statement of charges for energy services rendered by a utility, NYCPUS, an eligible redistributor of energy or qualified eligible redistributor of energy and shall include a bill for rent or similar charges for the occupancy of premises where such rent or similar charges include the use of energy services.
-
-FERC. "FERC" shall mean the Federal Energy Regulatory Commission.
-
-Floor area. "Floor area" means either the gross area or the rental area of the eligible building. The gross area means all of the area within the exterior walls of the building. The rentable area means the square footage leased to a particular tenant for its exclusive use as reflected in the lease agreement. An applicant may select either of these meanings, but must be consistent in the application of the meaning.
-
-Hospital. "Hospital" means a hospital as defined in § 2801 of the Public Health Law of the State of New York.
-
-Hotel. "Hotel" means a building or portion thereof, that is regularly used and kept open as such for the lodging of guests, including, but not limited to, an apartment hotel, a motel, a boarding house or club or any other facility whose principal use is residential accommodation, whether or not meals are served.
-
-ICIP. "ICIP" means the New York City Industrial and Commercial Incentive Program as set forth in Title 11, Chapter 247, Part 3 of the Code, as amended.
-
-IDA. "IDA" means the New York City Industrial Development Agency established pursuant to § 850 of the General Municipal Law of the State of New York, as amended.
-
-Landmark site. "Landmark site" means a building or any part thereof that has been designated as a landmark pursuant to the provisions set forth in Chapter 3 of Title 25 of the code.
-
-LMEP or Program. "LMEP" or "Program" means the New York City Lower Manhattan Energy Program described in the Act and Subchapter A of these rules.
-
-Manufacturing activity. "Manufacturing activity" means an activity involving the assembly of goods to create a different article or the processing, fabrication, or packaging of goods.
-
-Mixed-use property. "Mixed-use property" means mixed-use property as defined in Title 2-E of Article 4 of the Real Property Tax Law of the State of New York.
-
-Monthly load factor. "Monthly load factor" means, for each electric account, the number determined by dividing (a) the account's energy consumption, measured in kilowatt hours, for a monthly billing period, by (b) the peak electric demand, measured in kilowatts, for such monthly billing period multiplied by the number of billing days in the period multiplied by 24 hours.
-
-NYCPUS. "NYCPUS" means the New York City Public Utility Service established by Local Law No. 78 of 1982, codified in Title 22, Chapter 3 of the code.
-
-Person. "Person" means any individual, partnership, association, corporation, limited liability company, estate or trust, and any combination of the foregoing.
-
-Preapplication. "Preapplication" means the initial filing in the process of applying for a certificate of eligibility and shall contain the information required by 66 RCNY § 5-82(a).
-
-Public Service Commission or PSC. "Public Service Commission" or "PSC" means the Public Service Commission of the State of New York, created by and defined in § 2 of the Public Service Law of the State of New York.
-
-Qualified eligible redistributor of energy. "Qualified eligible redistributor of energy" shall have the meaning ascribed to such term in § 25-aa(m) of the Act.
-
-Real property. "Real property" means land and articles, structures, substructures and superstructures erected upon, under or above the land or affixed thereto and articles of equipment, as described by, and subject to assessment for taxation pursuant to subdivision (a), (b), (f) or (i) of § 102(12) of the Real Property Tax Law of the State of New York, but not including any incorporeal right, franchise or special franchise.
-
-Recipient. "Recipient" means an applicant that has satisfied the eligibility criteria of Subchapter B of these rules and has been certified by the commissioner as either an eligible redistributor of energy or a qualified eligible redistributor of energy.
-
-Retail space. "Retail space" means space used by an applicant that: (a) is predominantly engaged in the sale of tangible personal property to any person, for any purpose unrelated to the trade or business of such person; or (b) is predominantly engaged in selling services to persons for any purpose unrelated to the trade or business of such persons; provided however, where such sale of tangible personal property or services described herein is performed by only one (1) or more operating units, divisions or subdivisions of the applicant, or at only one (1) or more locations, only such operating units, divisions, or subdivisions, or such locations, shall come within the definition contained herein, and provided, further, that retail space shall not include space occupied by bankers, insurance brokers, real estate brokers, stock brokers, doctors, lawyers or accountants.
-
-Service classification. "Service classification" means the classification used by a utility in its rate schedule that sets forth the particular rates charged for energy services that are applicable to particular kinds of customers.
-
-Site visit. "Site visit" means an on-site inspection performed by or at the direction of DBS to determine the use of energy services, size, or occupancy of certain buildings, real property or any portion of such building or real property.
-
-Special rebate. "Special rebate" shall mean the amount of reduction in an energy services bill rendered by a utility or NYCPUS for energy services to an eligible redistributor of energy or a qualified eligible redistributor of energy or directly metered eligible revitalization energy user, or an agent of any of these, and shall be calculated as a percentage of eligible charges in accordance with the provisions of 66 RCNY § 5-65 or 66 RCNY § 5-67.
-
-Submeter. "Submeter" means a meter that individually and accurately meters an occupant's usage of energy services.
-
-Survey. "Survey" means a study or report based on on-site field inspections, professional surveys by a licensed professional engineer, data collection or meter readings or other actions related to determining the size, use, energy services consumption, or occupancy of certain buildings or real property, or portions thereof.
-
-Systems benefit charge. "Systems benefit charge" means a charge that is regulated by the PSC and that a utility is required to collect from its customers for the purposes of funding public benefit programs.
-
-Targeted eligible building. "Targeted eligible building" means a building or structure which meets the criteria set forth § 25-aa(q) of the Act.
-
-UDC. "UDC" means the New York State Urban Development Corporation or any subsidiary or any successor in function thereof created and defined by § 6254 of the Unconsolidated Laws of the State of New York.
-
-Utility. "Utility" shall mean any provider of energy services within the eligible revitalization area that is subject both to the jurisdiction and general supervision of the PSC and to a tax imposed pursuant to Chapter 11 of Title 11 of the code.
-
-Utility credit. "Utility credit" means a credit to which a utility is entitled, in accordance with the rules promulgated by DOF, against the tax imposed under Chapter 11 of Title 11 of the code, and equal to the aggregate amount of all special rebates granted by such utility in accordance with the requirements of the Act and these rules.
-
-
-
-
-
-
-*§ 5-53 Law Governing Applications.* ::
-
-
-Applications pending as of the effective date of these rules and applications filed subsequently shall be governed by these rules. Persons that have been certified as eligible for special rebates under provisions of law in effect before November 1, 2000, are not required to reapply in order to receive benefits under provision of Chapter 472 of the Laws of 2000.
-
-
-
-
-
-
-*§ 5-54 Rules of Construction.* ::
-
-
-(a)  These rules shall be interpreted and enforced in accordance with the General Construction Law of the State of New York except where the context otherwise requires or a different rule is provided by these rules.
-
-(b) These rules shall be construed consistently with the provisions of the Act, including any amendments thereto.
-
-(c) Provisions of these rules that restate the Act and that do not provide rules or procedures for the exercise of regulatory authority shall not be construed as increasing or diminishing any rights or duties created by the Act, but may be used to assist in the interpretation of the Act.
-
-(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of LMEP set forth in 66 RCNY § 5-51 shall be used to assist in the interpretation and application of such provision.
-
-(e) Reference to particular provisions of law in these rules shall be deemed to refer to such provisions, as interpreted by the applicable decisions of Federal and New York State Courts.
-
-
-
-
-
-
-*§ 5-55 Material Misrepresentations, Misstatements and Omissions.* ::
-
-
-(a) An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or the staff of DBS in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
-
-(b) The commissioner may deny an application for a certificate of eligibility or suspend, terminate or revoke a certificate of eligibility issued pursuant to the program whenever:
-
-   (1) a recipient fails to comply with the requirements set forth in the Act or these rules; (2)  an application, certificate, amendment, supplement or other document submitted by an applicant pursuant to the Act or these rules contains a false or misleading statement as to a material fact or omits to state any material fact necessary in order to make the statements therein not false or misleading;
-
-   (3) any real property tax or water or sewer charge due and payable with respect to an eligible building or targeted eligible building shall remain unpaid for at least one (1) year following the date upon which such tax or charge became due and payable, unless within thirty (30) days from the mailing of a notice of termination by DBS satisfactory proof is presented to DBS that any and all delinquent taxes and charges owing with respect to such building as of the date of such notice have been paid in full or are currently being paid in timely installments pursuant to a written agreement with the appropriate City agency; or
-
-   (4) any payment in lieu of taxes payable with respect to such buildings shall remain unpaid for at least one (1) year following the date upon which such payment became due and payable, unless within thirty (30) days from the mailing of a notice of termination by DBS satisfactory proof is presented to DBS that any and all delinquent payments in lieu of taxes with respect to such building as of the date of such notice have been paid in full or are currently being paid in timely installments pursuant to a written agreement with the appropriate City agency.
-
-(d) DBS shall revoke a certificate of eligibility in the event a recipient fails at any time within the first five (5) years of the benefit period to submeter any portion of a building as required by the Act or in accordance with the requirements set forth in 66 RCNY § 5-63(d)(1). The City may maintain a civil action or proceeding to recover an amount equal to any benefits improperly obtained.
-
-
-
-
-
-
-*§ 5-56 Actions of Employees.* ::
-
-
-Employees and agents of the City whose duties require them to take actions in connection with ECSP shall perform such duties, subject to the lawful direction of their supervisors and appropriate public officers, in accordance with these rules. However, noncompliance by such employees or agents with the requirements of these rules shall not be deemed to void any obligation of, or to waive any requirement imposed on, an applicant or recipient, or to excuse any noncompliance by an applicant or recipient with the provisions hereof or of any law. Such noncompliance shall not create any right of relief from the City or its employees or agents in favor of any person adversely affected thereby.
-
-
-
-
-
-
-*§ 5-57 Separability.* ::
-
-
-If any provision of these rules or its application shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remaining provisions of these rules, but shall be confined in its operation to the provision thereof directly involved.
-
-
-
-
-
-
-*§ 5-58 Effective Date of Rules.* ::
-
-
-The effective date of these rules shall be November 1, 2000, and they shall apply to persons certified as eligible to receive special rebates under the laws and rules applicable to LMEP prior to such effective date as well as to applicants certified as eligible for such special rebates after such effective date, provided that where bills for sales of energy services are rendered on a monthly billing cycle, the calculation of special rebates shall, for each eligible revitalization area energy user, eligible redistributor of energy or qualified eligible redistributor of energy, be based on the applicable percentages and eligible charges under the provisions of the Act and these rules beginning with the first billing cycle beginning after November 1, 2000, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before November 1, 2000, and provided, further, that special rebates shall be calculated pursuant to 66 RCNY § 5-66 or 66 RCNY § 5-67, if applicable, beginning with the first billing cycle beginning after June 1, 2001, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before June 1, 2001.
-
-
-
-
-
-
-
-**Subchapter B: Eligibility and Amount of the Special Rebate**
-
-
-
-*§ 5-61 Eligible Building.* ::
-
-
-To qualify as an eligible building, a building shall be located in an eligible revitalization area and:
-
-(a) shall meet the criteria set forth in paragraphs (1), (2), (3) or (4) below:
-
-   (1) such building is eligible to obtain benefits under Title 2-D of Article 4 of the Real Property Tax Law, or would be eligible to receive benefits under such title except that such property is exempt from real property taxation and the requirements of paragraph (b) of subdivision seven of section four hundred eighty-nine-dddd of such law have not been satisfied, provided that application for such benefits was made after June 30, 1995, and before July 1, 2005, that construction or renovation of such building or structure was described in such application, that such building or structure has been substantially improved by such construction or renovation, and that the minimum required expenditure as defined in such title has been made within such period of time established by the applicable provisions of Title 2-D of Article 4 of the Real Property Tax Law for the construction of a new building or structure; or
-
-   (2) such building is the subject of an IDA inducement resolution adopted by the IDA after June 30, 1995 and before July 1, 2005, to receive financing by IDA, provided that IDA financing has been used in whole or in part to substantially improve the building by construction or renovation, that expenditures made for improvements to the building have been made in excess of twenty percent (20%) of the assessed value of the real property and buildings, and that such expenditures have been made within thirty-six (36) months after the earlier of: (A) the issuance by IDA of bonds for such financing; or (B) the conveyance of title to such building to IDA; or
-
-   (3) such building is owned by the City or UDC, and is subject to a lease that was approved in accordance with the applicable provisions of the Charter or by UDC's board of directors, as the case may be, and such approval was obtained after June 30, 1995, and before July 1, 2005, provided that expenditures have been made for improvements to such real property in excess of twenty percent (20%) of the assessed value of the real property and buildings, and that such expenditures have been made within thirty-six (36) months after the effective date of such lease; or
-
-   (4) is eligible to obtain benefits as mixed-use property, or would be eligible to obtain benefits as mixed-use property except that such building is exempt from real property taxation and the requirements of paragraph (b) of subdivision ten of section four hundred eighty-nine-ccccc of the Real Property Tax Law of the State of New York have not been satisfied, provided that application was made after June 30, 1995, and before July 1, 2000, that such building has been substantially improved by such renovation, and that the minimum required expenditure as defined in such title has been made;
-
-(b) such construction or renovation described in subdivision (a) of this section shall occur subsequent to filing for a building permit for such construction or renovation. In the case where a building permit is not required for renovation or construction (e.g., installation of machinery), an application shall be filed prior to beginning any work on the building the expenditures for which are described in subdivision (a) of this section. Such fact must be documented by a written statement by a licensed professional architect or licensed professional engineer sworn to or affirmed under penalties of perjury;
-
-(c) such building or portion thereof shall have provisions to receive electricity either: (i) directly from a utility; or (ii) from NYCPUS; and
-
-(d) such building or portion thereof is metered or submetered in accordance with the provisions set forth in 66 RCNY § 5-63(d)(1).
-
-
-
-
-
-
-*§ 5-62 Eligible Redistributor of Energy.* ::
-
-
-(a) Only eligible redistributors of energy and qualified eligible redistributors of energy, as described in, and to the extent permitted by, the Act and these rules, are eligible for special rebates under LMEP.
-
-(b) To qualify for benefits as an eligible redistributor of energy, an applicant must own or lease an eligible building, or a portion thereof, and purchase energy services on a metered basis from a utility or NYCPUS, and:
-
-   (1) i)  resell or otherwise redistribute such energy services to one or more eligible revitalization area energy users that occupy such eligible building; or
-
-      (ii) consume or use such energy services itself and qualify as an eligible revitalization area energy user; and
-
-   (2) individually and accurately meter or submeter the energy services it redistributes in accordance with the provisions set forth in 66 RCNY § 5-63(d)(1).
-
-(c) A person that owns or leases any portion of an eligible building containing mixed-use property shall not be an eligible redistributor of energy unless that portion of such mixed-use property used for commercial purposes is metered by a utility or NYCPUS directly and separately from other portions of such mixed-use property.
-
-
-
-
-
-
-*§ 5-63 Eligible Revitalization Area Energy Users.* ::
-
-
-(a) To qualify for benefits as an eligible revitalization area energy user, a person shall: (1)  purchase or otherwise receive energy services for its own use either directly from a utility or NYCPUS or from an eligible redistributor of energy or a qualified eligible redistributor of energy;
-
-   (2) occupy, operate or manage premises in an eligible building or a targeted eligible building; and
-
-   (3) be metered or submetered in accordance with the provisions set forth in subdivision (d) of this 66 RCNY § 5-63.
-
-(b) A person shall not qualify as an eligible revitalization area energy user if such person engages in any of the following activities or uses in an eligible building or targeted eligible building:
-
-   (1) occupying residential space;
-
-   (2) engaging primarily in manufacturing activity;
-
-   (3) operating a hospital;
-
-   (4) operating a hotel; or
-
-   (5) occupying retail space.
-
-(c) An eligible redistributor of energy shall be an eligible revitalization area energy user with respect to:
-
-   (1) vacant premises within an eligible building which have been constructed or renovated by such eligible redistributor of energy for occupancy by an eligible revitalization area energy user other than such eligible redistributor of energy; and
-
-   (2) common areas, systems and facilities to the extent such common areas, systems and facilities are used by eligible revitalization area energy users and such usage is not billed to such users, except that a person shall not be an eligible revitalization area energy user of common areas, systems and facilities located in mixed-use buildings unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
-
-(d) A person shall not qualify as an eligible revitalization area energy user if the premises occupied, operated or managed by such person:
-
-   (1) exceed the lesser of ten thousand (10,000) contiguous square feet in area or the entire floor of an eligible building or targeted eligible building and are not individually and accurately metered or submetered to determine the occupant's usage of energy services. A person that occupies more than one (1) floor of an eligible building or targeted eligible building or more than ten thousand (10,000) contiguous square feet, is required to have only one (1) meter or submeter for its premises; or
-
-   (2) are located in that portion of mixed-use property used for commercial purposes, and such portion is not metered by a utility or NYCPUS directly and separately from other portions of such mixed-use property.
-
-
-
-
-
-
-*§ 5-64 Eligible Charges and Eligible Public Utility Service Charges.* ::
-
-
-(a) Eligible charges.
-
-   (1) Eligible charges are charges for energy services purchased from a utility at a rate or rates established pursuant to an order or rule of the PSC or FERC, other than charges for the purchase of the commodity of electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision (a).
-
-   (2) Eligible charges shall not include the following charges:
-
-      (i) charges for energy services used by persons that are not eligible revitalization area energy users;
-
-      (ii) any special charges on bills relating to such energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy for energy services, as authorized by 66 RCNY § 5-71(g); and
-
-      (iii) charges for energy services used for common areas, systems and facilities to the extent such services are excluded pursuant to subparagraph (3)(ii) of this section.
-
-   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of 66 RCNY § 5-61(a) to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
-
-      (ii) Eligible charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in 66 RCNY § 5-61(a)(4), unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
-
-(b) Eligible public utility service charges.
-
-   (1) Eligible public utility service charges are actual charges for energy services provided by a public utility service, including charges for public utility administrative services, and shall include all taxes payable thereon, and shall exclude charges in accordance with paragraph (2) of this subdivision (b).
-
-   (2) Eligible public utility service charges shall not include the following charges:
-
-      (i) charges for energy services used by persons that are not eligible revitalization area energy users;
-
-      (ii) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy or qualified eligible redistributor of energy for energy services, as authorized by 66 RCNY § 5-71(g); and
-
-      (iii) charges for energy services used for common areas, systems and facilities to the extent such energy services are excluded pursuant to paragraph (3)(ii) of this section.
-
-   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible public utility charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of 66 RCNY § 5-61(a) or a targeted eligible building meeting the criteria set forth in paragraph (1), (2) or (3) of subdivision (q) of § 25-aa of the Act to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
-
-      (ii) Eligible public utility service charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in 66 RCNY § 5-61(a)(4) or a targeted eligible building meeting the criteria set forth in paragraph (4) of subdivision (q) of § 25-aa of the Act, unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
-
-(c) 1)  An eligible redistributor of energy or qualified eligible redistributor of energy has the burden of demonstrating to the commissioner that charges for energy services are eligible charges or eligible public utility service charges. If a determination of such charges cannot be ascertained by the commissioner without a survey or such redistributor is not satisfied with the commissioner's determination of such redistributor's eligible charges or eligible public utility service charges, such redistributor may request that the commissioner cause a survey to be conducted by a licensed professional engineer satisfactory to DBS at such redistributor's expense. Upon completion of the survey, the professional who prepares such survey shall submit the report, together with a certification as to the amount of eligible charges or eligible public utility service charges, to the commissioner for his or her review.
-
-   (2) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the amount of charges that constitute the eligible redistributor's or qualified eligible redistributor's eligible charges or eligible public utility service charges to which a special rebate may be applied. If such redistributor disagrees with the commissioner's findings, such redistributor may request an opportunity to be heard in accordance with the procedures set forth in 66 RCNY §§ 5-45, 5-46 and 5-47.
-
-
-
-
-
-
-*§ 5-65 Special Rebates for Users and Redistributors that Applied for LMEP Benefits After October 31, 2000.* ::
-
-
-(a) Except as otherwise provided in subdivision (b) of this section, a utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000, or a directly metered eligible revitalization area energy user that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Months During Benefit Period
-      - Special Rebate for Energy Services
-    * - first through ninety-sixth
-      - 45%
-    * - ninety-seventh through one hundred eighth
-      - 36% 
-    * - one hundred ninth through one hundred twentieth
-      - 27%
-    * - one hundred twenty-first through one hundred thirty-second
-      - 18%
-    * - one hundred thirty-third through one hundred forty-fourth
-      - 9%
-~
-
-
-
- 
-
-(b) A utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000 and that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Months During Benefit Period
-      - Special Rebate for Energy Services
-    * - first through one hundred eighth
-      - 45%
-    * - one hundred ninth through one hundred twentieth
-      - 36% 
-    * - one hundred twenty-first through one hundred thirty-second
-      - 27%
-    * - one hundred thirty-third through one hundred forty-fourth
-      - 18%
-    * - one hundred forty-fifth through one hundred fifty-sixth
-      - 9%
-~
-
-
-
- 
-
-(c) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible redistributor of energy or a directly metered eligible revitalization area energy user that applied for and was certified as such after October 31, 2000, such utility shall make a discount to NYCPUS and NYCPUS shall make a special rebate to such eligible redistributor of energy or such directly metered eligible revitalization area energy user, which discount and special rebate shall be the product of the eligible charges to such eligible redistributor of energy or such directly metered eligible revitalization area energy user and the applicable percentage for a special rebate for energy services in the applicable schedule contained in subdivision (a) or (b) of this section.
-
-
-
-
-
-
-*§ 5-66 Special Rebates for Redistributors and Users that Applied for LMEP Benefits Prior to November 1, 2000 and Were Certified Prior to July 1, 2001. [Repealed]* ::
-
-
-(a) Paragraph (1) of subdivision (a) of § 25-bb of the general city law states that the "that the department of business services of a city having a population of one million or more may increase the percentages set forth in 66 RCNY § 5-65 at its discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in this section of the rules shall be applicable to the calculations of special rebates for all eligible redistributors of energy or directly metered eligible revitalization energy users that applied for LMEP benefits prior to November 1, 2000 and for qualified eligible energy redistributors of energy that were certified before November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
-
-(b) Except as set forth in subdivision (d) of this section, for all billing cycles prior to the ninety-seventh month of each eligible redistributor of energy's or directly metered eligible revitalization energy user's benefit period occurring during the period beginning June 1, 2001, each redistributor or user shall receive rebates on eligible charges as specified in this paragraph; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle.
-
-   (1) The rebate percentage to be applied to eligible charges for energy services provided by a utility pursuant to its "PSC No. 9 – Electricity Rate Schedule" or "PSC No. 2 – Retail Access Rate Schedule" shall equal the percentages specified in Attachment A of Appendix A of these rules, which shall vary depending on such redistributor's or user's average monthly load factor, applicable service classification and the applicable rate, and whether such redistributor or user receives discounts on service pursuant to a service rider. If, for any affected redistributor or user, eligible charges for energy services were rendered at more than one service classification and/or at more than one rate for a service classification, the rebate percentages specified in Attachment A of Appendix A of these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to such redistributor or user. To the extent that such redistributor or user is served under the utility's "PSC No. 9 – Electrical Rate Schedule" its rebate percentages shall be determined as if such redistributor or user was served under the utility's "PSC No. 2 – Retail Access Rate Schedule."
-
-   (2) The rebate percentage to be applied to eligible public utility service charges for energy services provided by NYCPUS pursuant to its "Service Tariff No. 4 Rate Schedule" shall equal the percentages specified in Attachment B of Appendix A of these rules, which shall vary depending on such redistributor's or user's average monthly load factor, the applicable service classification and the applicable rate, and whether such redistributor or user receives discounts on service pursuant to a service rider or other tariff provisions. If, for any affected redistributor or user, eligible public utility service charges for energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment B of Appendix A of these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider or other tariff discount applies to such redistributor or user.
-
-(c) Except as otherwise provided in subdivision (d) of this section, for all billing cycles after the ninety-sixth month of the benefit period and thereafter, the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-67(b) or (e), shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected eligible redistributor of energy or directly metered eligible revitalization energy user, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Month of Benefit Period
-      - Adjustment Factor
-    * - 97 through 108
-      - 0.8
-    * - 109 through 120
-      - 0.6
-    * - 121 through 132
-      - 0.4
-    * - 133 through 144
-      - 0.2
-    * - 145 and thereafter
-      - 0.0
-~
-
-
-
- 
-
-(d) Where a utility that sells energy services to an eligible redistributor of energy that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits prior to November 1, 2000, all billing cycles in the one hundred and ninth month of each of the above-noted benefit periods and thereafter shall have the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-67(b) or (e) of these rules, multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Month of Benefit Period
-      - Adjustment Factor
-    * - 109 through 120
-      - 0.8
-    * - 121 through 132
-      - 0.6
-    * - 133 through 144
-      - 0.4
-    * - 145 through 156
-      - 0.2
-    * - 157 and thereafter
-      - 0.0
-~
-
-
-
- 
-
-(e) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to a qualified eligible redistributors of energy that has been individually approved by such power authority and certified prior to November 1, 2000, or to an eligible redistributor of energy or directly metered eligible revitalization area energy user that applied for benefits prior to November 1, 2000 and was certified as a redistributor or user after October 31, 2000, such utility shall make a discount to NYCPUS and NYCPUS shall make a special rebate to such qualified eligible redistributors or such eligible redistributor or user, which discount and special rebate shall be the product of the eligible public utility service charges to such qualified eligible redistributor of energy or such eligible revitalization area energy user and the applicable percentage for a special rebate for energy services in the applicable schedule contained in Attachment B of Appendix A of these rules.
-
-
-
-
-
-
-
-**Subchapter C: Implementation**
-
-
-
-*§ 5-71 Implementation by Eligible Redistributor of Energy or Qualified Eligible Redistributor of Energy.* ::
-
-
-(a) An eligible redistributor of energy or qualified eligible redistributor of energy shall reduce the energy services bills rendered to eligible revitalization area energy users that are not directly metered and that occupy, operate or manage premises in eligible buildings owned or leased by such redistributor by an amount equal, in the aggregate, to one hundred percent (100%) of each special rebate received by such redistributor.
-
-(b) An eligible redistributor of energy or qualified eligible redistributor of energy shall individually and accurately meter or submeter the energy services sold or otherwise redistributed by such redistributor to each such eligible revitalization area energy user or other occupant of eligible buildings so as to enable a determination of each such user's or occupant's usage of energy services, provided such user or occupant occupies, operates or manages premises that equal or exceed the lesser of ten thousand (10,000) contiguous square feet in area or the entire floor of a building.
-
-(c) In order to establish the usage of energy services attributable to the tenants occupying an eligible building, an eligible redistributor of energy or qualified eligible redistributor of energy shall have a load study performed by a licensed professional engineer on all non-eligible users that are not individually metered or submetered. In addition, such redistributor shall have all of the submeters attributable to non-eligible users read by a licensed professional engineer.
-
-(d) If an eligible redistributor of energy or qualified eligible redistributor of energy charges amounts to eligible revitalization area energy users and other users that vary annually or more frequently with the costs incurred by such redistributor for the operation of common areas, systems and facilities, such redistributor shall reduce such charges by the portion of the special rebates attributable thereto.
-
-(e) An eligible redistributor of energy or qualified eligible redistributor of energy shall allocate the reductions required by subdivision (a) of this 66 RCNY § 5-71 in direct proportion to each such eligible revitalization area energy user's use of energy services. Such reductions shall be determined as follows:
-
-   (1) The total amount of such redistributor's energy services bill shall be divided by the total amount of kilowatt hours used by the eligible building to determine the cost per kilowatt hour charge for the eligible building;
-
-   (2) If the premises of such eligible revitalization area energy user or other user are submetered, such reduction shall be established by multiplying: (A) the amount of energy services use determined by such submeter; by (B) the dollar per kilowatt charge determined in (1) above; by (C) the amount of the special rebate set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67;
-
-   (3) If two or more eligible revitalization area energy users or other users share a submeter, the amount of the reduction to be shared by the eligible revitalization area energy users shall be determined in accordance with (2) above. This amount shall then be allocated among such users in direct proportion to the floor area of the premises occupied, operated or managed by each such user;
-
-   (4) If the premises of such eligible revitalization area energy user is not required to be submetered by these rules, such discount shall be determined as follows:
-
-(A) Divide the portion of the special rebate received by all submetered eligible revitalization area energy users by their total square footage to determine the special rebate per square footage amount; and
-
-(B) Multiply the special rebate per square footage amount determined in (A) above by the square footage of each non-submetered eligible revitalization area energy user to determine the amount of the special rebate each such non-submetered eligible revitalization area energy user is entitled to;
-
-   (5) The special rebate to be applied to common areas, systems and facilities shall be the total rebate received by the eligible building less: (A) the total special rebate received by each submetered eligible revitalization area energy user as determined in (2) above; and (B) the total special rebate received by each submetered eligible revitalization area energy user sharing a submeter as determined in (3) above; and (C) the total special rebate received by all non-submetered eligible revitalization area energy users as determined in (4) above.
-
-(f) If the premises of an eligible revitalization area energy user are directly metered, such discount shall be determined by such meter.
-
-(g) An eligible redistributor of energy or qualified eligible redistributor of energy shall limit charges to those eligible revitalization area energy users that are submetered in accordance with this section to a price for the purchase of energy services that shall be no higher than the price paid by such redistributor, provided that an additional fee, not exceeding twelve percent (12%) of such sales price, may be charged by such redistributor for energy services sold to such eligible revitalization area energy users.
-
-(h) An eligible redistributor of energy or a qualified eligible redistributor of energy shall separately state in all energy bills rendered by such redistributor to an eligible revitalization area energy user for sales of energy services the amount of the reduction in charges for such services representing the share of the special rebate allocated to such user, or that no reduction has been made, and shall state the following: "You may be entitled to share a rebate which your landlord has received for charges for energy services pursuant to the revitalization area energy rebate program. The amount is separately stated and identified in this bill." Any deviation from this language must be approved in advance by DBS.
-
-(i) An eligible redistributor of energy or qualified eligible redistributor of energy shall keep records verifying compliance with the requirements of LMEP, and allow DBS access to such records.
-
-(j) An eligible redistributor of energy or qualified eligible redistributor of energy shall provide access to eligible buildings or targeted eligible buildings to DBS for the purpose of inspecting meters, submeters and other equipment and verifying the accuracy of any application or supplement thereto filed with DBS and DOF.
-
-
-
-
-
-
-*§ 5-72 Implementation by a Utility and NYCPUS.* ::
-
-
-(a) Where a utility or NYCPUS is required to make a special rebate pursuant to 66 RCNY § 5-65 or 66 RCNY § 5-67, they shall reduce each energy services bill for each eligible redistributor of energy or qualified eligible redistributor of energy or directly metered eligible revitalization area energy user by the full amount of the special rebate that shall have accrued for the period covered by each such energy services bill. A utility or NYCPUS shall cease to make such reductions in such energy services bills upon receipt of notification from DBS that the certification of eligibility has been suspended or terminated, and a utility or NYCPUS shall change the amount of such reduction in accordance with notification from DBS.
-
-(b) A utility shall not be required to make a special rebate to such eligible redistributor of energy or qualified eligible redistributor of energy in excess of the charges for energy services.
-
-
-
-
-
-
-*§ 5-73 Granting of Utility Credit to a Utility.* ::
-
-
-(a) Where a utility has granted special rebates to recipients in accordance with the provisions set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67, it shall be entitled to a utility credit equal to the aggregate amount of all such special rebates it has provided to recipients.
-
-(b) Such utility credit may be taken only as provided for in the code, these rules and rules promulgated by the commissioner of DOF, for the purpose of permitting utilities a deduction against certain taxes.
-
-
-
-
-
-
-
-**Subchapter D: Application, Approval, Notification of Eligibility and Commencement of Eligibility**
-
-
-
-*§ 5-81 Forms and Filing of Application and Preapplication.* ::
-
-
-(a) All preapplication and application forms may be obtained from DBS, 110 William Street, 3rd Floor, New York, New York 10038, and, upon completion, forms shall be submitted to DBS at the above address. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
-
-(b) An applicant for benefits under LMEP shall file an application after June 30, 1995 and prior to the issuance of the first building permit for the construction or renovation required pursuant to 66 RCNY § 5-61, but not later than June 30, 2005. For the purposes of these rules, the first building permit shall be the building permit which would, in the ordinary course, allow construction to proceed, even though: (i) such permit was granted before submission of completed plans and specifications for the entire building; (ii) such permit, or the application, plans or specifications upon which it was granted, are later amended; (iii) such permit shall have expired by limitation of time or otherwise become invalid; or (iv) another permit is issued for the same project on the basis of the same or similar plans.
-
-(c) In the case where a building permit is not required for renovation or construction, an application must be filed prior to beginning any work on the building the expenditures for which would be the basis for the determination of whether an applicant has reached the eligibility requirements set forth in 66 RCNY § 5-61. All preapplications must be filed not later than June 30, 2005.
-
-(d) An applicant that purchases or leases an eligible building or a targeted eligible building or a portion thereof, the owner or lessor of which building or portion thereof has been receiving LMEP benefits, must file a preapplication to receive benefits within ninety (90) days of taking occupancy or signing a contract of sale or lease for such building, whichever is earlier.
-
-(e) An applicant applying for benefits under 66 RCNY § 5-65(c) or 66 RCNY § 5-67(e), must receive approval from NYCPUS prior to submitting its preapplication to DBS and provide evidence of such approval as part of such application.
-
-
-
-
-
-
-*§ 5-82 Contents of Preapplication and Application.* ::
-
-
-(a) The applicant shall provide DBS with all information required in the preapplication form, including the following: the applicant's name; name and title of a contact person; telephone number; street address of the building site; block and lot number of the building site; Internal Revenue Service tax identification number; if applicable, the ICIP application number for the building site, and such other information as the commissioner deems necessary or useful for a preliminary determination that an applicant may be eligible to participate in LMEP.
-
-(b) The applicant shall provide DBS with all information required in the application form and deemed necessary or useful for the administration of LMEP, including, but not limited to, the following:
-
-   (1) assessed value of the real property and building(s) for which the application has been submitted; total square footage of the building floor area; names and addresses of any parent, subsidiaries or affiliated companies; and the name and title of an individual authorized to complete the application on behalf of the applicant;
-
-   (2) estimated commencement date and completion date for construction or renovations;
-
-   (3) a certified copy of the deed for the eligible building, or portion thereof, and any lease to the applicant as lessee of the building or any portion thereof;
-
-   (4) a listing of all electricity account numbers serving the building or any portion thereof, and a copy of one (1) year's energy bills for each account number directly metered by a utility servicing the building or a sworn statement by the applicant if the applicant has not received one (1) year's bill;
-
-   (5) building floor plans;
-
-   (6) a list of every tenant or other person occupying, operating or managing premises in the building, including both eligible revitalization area energy users and other users, and the following information relating to such person: the business activity engaged in by such person; the square footage of the premises occupied, operated or managed by such person; contact person; telephone number; location in building identified on the building floor plans referred to in paragraph (v) of this subdivision; a list of the meter(s) or submeter(s) utilized by such person including meter identification numbers if submetered by the landlord or an eligible redistributor of energy or qualified eligible redistributor of energy; account number if directly metered by the utility or NYCPUS; a schematic or other description of the linkage between each such person's consumption of electricity or energy services and the appropriate direct utility meter; and number of employees;
-
-   (7) an applicant applying under the provisions set forth in subdivisions (a)(2), (3) or (4) of 66 RCNY § 5-61, shall submit evidence that the expenditures required by such provisions have been made within the time period specified therein;
-
-   (8) copy of the relevant building permit issued by the Department of Buildings, if applicable;
-
-   (9) relevant documents evidencing the authority of the City, the IDA, UDC or other lessor to lease a building or premises to the applicant, including a copy of the inducement resolution issued by IDA to the applicant, the IDA lease or financing agreement, if applicable; and
-
-   (10) any other information, documentary or otherwise, including but not limited to, sworn statements and other data, that the commissioner deems relevant to evaluate the applicant's application.
-
-(c) In addition to the requirements of subdivisions (a) and (b) of this 66 RCNY § 5-82, an applicant that purchases energy services from NYCPUS shall submit as part of its application, a written contract between the applicant and NYCPUS setting forth the agreement by NYCPUS to provide energy services to the applicant, and stating the conditions for the sale of such energy services.
-
-(d) The applicant shall have the affirmative burden of proving its eligibility to the satisfaction of the commissioner as to each and every fact contained in its application.
-
-
-
-
-
-
-*§ 5-83 Application Filing Fee.* ::
-
-
-(a) The applicant shall submit to the commissioner with its preapplication a check for a non-refundable application fee in the following amount:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Square Footage of Building
-      - Fee 
-    * - Less than 10,000 square feet
-      - $500
-    * - 10,001 to 25,000 square feet
-      - $1,000
-    * - 25,001 to 50,000 square feet
-      - $1,250
-    * - 50,001 to 100,000 square feet
-      - $1,500
-    * - 100,001 to 250,000 square feet
-      - $2,500
-    * - Over 250,000 square feet
-      - $5,000
-~
-
-
-
- 
-
-(b) In addition to the filing fee, an applicant shall pay the costs of any survey conducted by or at the request of the commissioner, to develop or verify any factual matters relating to the application.
-
-(c) All fees shall be made payable by check or money order to the "New York City Department of Small Business Services."
-
-
-
-
-
-
-*§ 5-84 Representations and Warranties.* ::
-
-
-(a) As part of the preapplication, application, periodic reports and other reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be necessary or appropriate to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
-
-   (1) that all statements made by or on behalf of the applicant in connection with such applications and reports are made by any person authorized by the applicant to make such statements and having actual knowledge or documentary information sufficient to make informed and accurate statements, and that such person believes all such statements to be true;
-
-   (2) that the applicant has paid all of the real property taxes or water or sewer charges or payments in lieu of taxes or has paid timely installments of such taxes or payments in lieu of taxes in accordance with an agreement with a city agency with respect to an eligible building or targeted eligible building;
-
-   (3) that the applicant represents, acknowledges, covenants and agrees that it bears sole responsibility for paying the full amount of energy services costs to a utility and/or NYCPUS for which it is directly metered until such time as the special rebate (if any) granted to applicant under LMEP is reflected on the applicant's bill;
-
-   (4) that the applicant agrees to permit or cause permission to be granted to the City and its agents to inspect its building and real property upon notice during regular business hours; and
-
-   (5) any other representations or warranties as may be required in such applications or reports or requested by the commissioner.
-
-(b) In addition to the requirements of subdivision (a) of this 66 RCNY § 5-84, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner) on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any benefits which the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive those benefits for any reason.
-
-
-
-
-
-
-*§ 5-85 Approval of an Application.* ::
-
-
-(a) Approval by the commissioner of an application shall be based on a review of the following information:
-
-   (1) representations and/or certifications made by the applicant in its application;
-
-   (2) a review of the applicant's prior energy bills;
-
-   (3) a site visit performed by DBS; and
-
-   (4) any other relevant factors relating to use and occupancy which is deemed to be relevant in making such a determination.
-
-(b) The commissioner, after reviewing all relevant information and documentation submitted, shall, in his or her sole discretion, determine what constitutes the applicant's or recipient's eligible charges. If the applicant or recipient disagrees or is unsatisfied with the commissioner's findings, the applicant or recipient may request an opportunity to be heard in accordance with the procedures set forth in Subchapter E of these rules.
-
-
-
-
-
-
-*§ 5-86 Notification to Applicant.* ::
-
-
-(a) If the commissioner grants an applicant's application for a certificate of eligibility, DBS shall forward a certificate of eligibility executed by the commissioner to the applicant.
-
-(b) If the commissioner denies an applicant's application for a certificate of eligibility, the commissioner shall notify the applicant in writing, of the reason for such denial. The applicant may request an opportunity to be heard in accordance with the provisions set forth in Subchapter E of these rules.
-
-
-
-
-
-
-*§ 5-87 Certificate of Eligibility.* ::
-
-
-(a) An applicant shall execute the certificate of eligibility and return it to the commissioner within thirty (30) days of the issuance date stated on the certificate of eligibility. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
-
-(b) The certificate of eligibility shall evidence:
-
-   (1) the eligibility and qualification of an applicant as an eligible redistributor of energy or a qualified eligible redistributor of energy or as a directly metered eligible revitalization area energy user;
-
-   (2) the benefit period the eligible premises or targeted eligible premises is qualified for;
-
-   (3) the benefit an eligible redistributor of energy or a qualified eligible redistributor of energy or a directly metered eligible revitalization area energy user is qualified to receive; and
-
-   (4) the date of issuance.
-
-(c) DBS shall coordinate with the recipient, a utility and/or NYCPUS and DOF, where applicable, to establish the benefit period of the certificate of eligibility, which shall be within two (2) months of execution by the applicant of the certificate of eligibility.
-
-(d) Subsequent to establishing the effective date of the certificate of eligibility, DBS shall affix such date to the applicant's certificate of eligibility and forward a copy of the fully completed and executed certificate of eligibility to the applicant and any other necessary party.
-
-
-
-
-
-
-*§ 5-88 Notification to a Utility and/or NYCPUS.* ::
-
-
-(a) DBS shall notify a utility and/or NYCPUS whichever is appropriate, in writing, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with 66 RCNY § 5-87.
-
-(b) DBS shall notify a utility and/or NYCPUS, whichever is appropriate, in writing, of any changes in an applicant's certificate of eligibility as set forth in 66 RCNY § 5-87.
-
-
-
-
-
-
-*§ 5-89 Periodic and Other Reports to DBS.* ::
-
-
-(a) During the benefit period, a recipient shall promptly notify the commissioner of any material changes which may affect a recipient's eligibility or the amount of the special rebate under LMEP, including but not limited to, changes in:
-
-   (1) sources of energy services;
-
-   (2) ownership of the eligible building or the targeted eligible building;
-
-   (3) establishment of new direct accounts;
-
-   (4) landlord's or directly metered tenant's usage of energy services;
-
-   (5) the type of metering or method of billing for usage of energy services at the eligible building or targeted eligible building;
-
-   (6) a change in the ratio between floor space occupied by eligible revitalization are energy users and that occupied by other occupants; and
-
-   (7) the new tenancy of a noneligible revitalization area energy user.
-
-(b) During the benefit period, DBS must be immediately notified of any additional utility accounts acquired or changes in utility account numbers in the eligible building or targeted eligible building.
-
-(c) When it appears that the percentage of non-eligible use in the eligible building or targeted eligible building changes so that the special rebate for the eligible building or targeted eligible building appears to change, a new load study shall be performed in order to ascertain the new special rebate for the eligible building or targeted eligible building.
-
-(d) During the benefit period, a recipient shall submit to the commissioner a reporting form on September 30th, December 31st, March 31st and June 30th of each year, to document the current status of the recipient's continued eligibility under LMEP. Such reporting form shall include, but shall not be limited to, the following information:
-
-   (1) the use or type of operations conducted at the eligible building or targeted eligible building;
-
-   (2) any changes in the eligible building's breakdown of eligible versus non-eligible uses;
-
-   (3) a summary of building metering or submetering and utility accounts;
-
-   (4) architectural rendering of building floor plans showing any changes, including changes in floor space, type of common areas, systems and facilities;
-
-   (5) tenant list including, but not limited to, the following: square footage; contact person; telephone number; location in building; meter number if submetered by landlord or account number if directly metered by a utility; and number of employees;
-
-   (6) change in the size of tenants' premises;
-
-   (7) any additions to or changes in the linkage between an eligible revitalization area energy user's metering scheme and the utility's main direct meter; and
-
-   (8) such other information as the commissioner may request to determine eligible charges, eligibility and amount of special rebate.
-
-(e) A qualified eligible redistributor of energy shall submit to DBS on an annual basis proof that the heating and cooling systems within the targeted eligible building continue to meet the performance standards specified in § 7813.21 of the State conservation code, or if applicable, a municipal code authorized pursuant to such article, or such predecessor section to which such targeted eligible building, when constructed or substantially renovated, was subject.
-
-(f) All such information may be used by the commissioner for the purpose of determining whether the recipient's certificate of eligibility should be suspended until a final determination of eligibility can be made and/or whether it shall be revoked or revised.
-
-(g) Information received by the commissioner pursuant to this section or otherwise may be used by him or her to determine that a recipient does not satisfy the applicable eligibility criteria in the Act or these rules, and the commissioner may, among other things, suspend such recipient's certificate of eligibility until a final determination of eligibility can be made, or revise, terminate or revoke such recipient's certificate of eligibility.
-
-(h) The commissioner shall notify the recipient, a utility and/or NYCPUS in writing of the determination to revise, suspend, terminate or revoke the recipient's certificate of eligibility. A utility and/or NYCPUS must modify its bills to such recipient to reflect the change in benefits which such revision, suspension, termination or revocation to a recipient's certificate of eligibility is intended to effect within thirty (30) days of receipt of written notice from the commissioner of such action.
-
-(i) A recipient may request an opportunity to be heard in accordance with Subchapter E of these rules.
-
-
-
-
-
-
-
-**Subchapter E: Opportunities To Be Heard**
-
-
-
-*§ 5-91 Requests for an Opportunity to be Heard.* ::
-
-
-Within thirty (30) days after the mailing of a written determination by the commissioner or his or her designee pursuant to the Act or these rules, an applicant or recipient that wants to contest such determination may submit documentation supporting its position to the commissioner or his or her designee and may request an opportunity to be heard.
-
-
-
-
-
-
-*§ 5-92 Opportunity to be Heard.* ::
-
-
-If an opportunity to be heard is requested in accordance with 66 RCNY § 5-91, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
-
-
-
-
-
-
-*§ 5-93 Final Determination; Notification.* ::
-
-
-(a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
-
-(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to 66 RCNY § 5-92.
-
-(c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
-
- 
-
-
-
-
-
-
-*APPENDIX A: RATE SCHEDULES* ::
-
-
- ATTACHMENT A: CON EDISON ELECTRIC SERVICE  PSC No. 2 Retail Access Rate Schedule and PSC No. 9  Electric Rate Schedule
-
-
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-370-img$3.0$p=
-
- 
-
-ATTACHMENT B: NEW YORK CITY PUBLIC UTILITY SERVICE ELECTRIC SERVICEService Tariff No. 4
-
-
-
-
-.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15908-img$3.0$p=
-
-ATTACHMENT C [Repealed]
-
-ATTACHMENT D [Repealed]
-
-
-
-
 Chapter 5: New York City Energy Cost Savings Program
 --------------------------------------------------
 
@@ -2875,6 +2003,878 @@ ATTACHMENT H [Repealed]
 ATTACHMENT I [Repealed]
 
 ATTACHMENT J [Repealed]
+
+
+
+
+Chapter 5-A: New York City Lower Manhattan Energy Program
+--------------------------------------------------
+
+
+
+
+**Subchapter A: General Provisions**
+
+
+
+*§ 5-51 Authority; Purpose.* ::
+
+
+(a) These rules are promulgated pursuant to Chapter 4 of the Laws of 1995 of the State of New York, as amended, to effectuate the purposes of the New York City Lower Manhattan Energy Program (the "Program").
+
+(b) The purpose of the Program is to encourage commercial development, through construction, expansion or improvement of commercial space in a defined area of Lower Manhattan, by providing a reduction of certain electricity costs related to the transmission and distribution of electricity for a period of twelve (12) years or, in specified cases involving landmark sites, thirteen (13) years, including reductions in the cost of energy services purchased from the New York City Public Utility Service.
+
+(c) These rules set forth the standards and criteria used to determine eligibility and the available reductions in energy costs, as well as requirements for applications and procedures for review of determinations made in connection with the Program.
+
+
+
+
+
+
+*§ 5-52 Definitions.* ::
+
+
+As used in these rules, the following terms shall have the respective meanings set forth below:
+
+Act. "Act" means Article 2-I of the General City Law of the State of New York, as added by Chapter 4 of the Laws of 1995 of the State of New York, as amended by Chapter 154 of the Laws of 1999 and Chapters 103 and 472 of the Laws of 2000.
+
+Applicant. "Applicant" means any person applying individually or jointly as an owner or lessee of a building, or a portion thereof, or an agent of such owner or lessee, for a certificate of eligibility as an eligible redistributor of energy or a qualified eligible redistributor of energy, or a holding company, parent corporation, or subsidiary or affiliated corporation so applying on behalf of any of the foregoing.
+
+Application. "Application" means the application for a certificate of eligibility and shall include the preapplication and all supporting exhibits submitted and statements made by an applicant to the commissioner for the purpose of determining such applicant's initial eligibility for benefits as an eligible redistributor of energy or as a qualified eligible redistributor of energy under LMEP, and shall include the information required by 66 RCNY § 5-82.
+
+Assessed value. "Assessed value" means the assessed value of the real property and buildings thereon for tax purposes during the tax year in which improvements to such real property and buildings thereon commenced, as required by and referred to in these rules.
+
+Average monthly load factor. "Average monthly load factor" means, for each electric account, the average monthly load factor for the preceding 12-month period, determined once annually using the most recently available twelve months of load factor data.
+
+Benefit period. "Benefit period" means the number of months a recipient is eligible to receive a special rebate, which period shall not exceed one hundred and forty-four (144) consecutive months, beginning on the effective date of the recipient's certificate of eligibility, unless such building is a landmark site, in which case the benefit period shall not exceed one hundred and fifty-six (156) consecutive months, beginning on the effective date of the recipient's certificate of eligibility.
+
+Building. "Building" means articles, structures, substructures and superstructures erected upon, under, or above real property, or affixed thereto, and fixtures (other than trade fixtures) and other improvements erected or situated thereon.
+
+Building permit. "Building permit" means a permit approving proposed construction work issued by the New York City Department of Buildings, DBS or other agency of the City authorized by law to receive and approve plans for construction work. A building permit shall include a permit to construct a new building, an alteration, foundation, plumbing, sign or equipment work permit and may, at the option of the applicant, include a permit for partial demolition or earthwork.
+
+Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility of an applicant to receive a special rebate as an eligible redistributor of energy or a qualified eligible redistributor of energy. The certificate of eligibility shall include such information as is required pursuant to 66 RCNY § 5-87.
+
+Charter. "Charter" means the New York City Charter of New York, as amended.
+
+City. "City" means The City of New York.
+
+Code. "Code" means the Administrative Code of the City of New York, as amended.
+
+Commissioner. "Commissioner" means the Commissioner of DBS or his or her designee or his or her successor in function.
+
+Common areas, systems and facilities. "Common areas, systems and facilities" mean those areas, systems and facilities of a building that are shared by tenants and building owners, including, but not limited to: heating; ventilation and cooling systems; public, light and power; facilities, machinery and support hardware of a building, including, but not limited to, shafts, enclosing walls, corridors and lobbies, and loading docks of a building.
+
+Contiguous square footage. "Contiguous square footage" means gross square footage that is in actual contact or touching along a boundary or at a point, and shall include space on two (2) or more floors that are directly above or below each other.
+
+DBS. "DBS" means the New York City Department of Business Services or its successor in function.
+
+DOF. "DOF" means the New York City Department of Finance or its successor in function.
+
+Directly metered eligible revitalization area energy user. "Directly metered eligible revitalization area energy user" means an eligible revitalization area energy user that is directly metered by a utility.
+
+Effective date. "Effective date" means the effective date of a certificate of eligibility, which date is the first day of the first billing cycle after a certificate of eligibility is issued.
+
+Eligible building. "Eligible building" means a building or structure that meets the criteria set forth in § 25-aa(a) of the Act and 66 RCNY § 5-61.
+
+Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 25-aa(b) of the Act and the applicable provisions of 66 RCNY § 5-64, to which charges the applicable percentages in 66 RCNY § 5-65 or 66 RCNY § 5-67 are applied to determine the amount of a special rebate.
+
+Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 25-aa(b) of the Act and the applicable provisions of 66 RCNY § 5-64.
+
+Eligible redistributor of energy. "Eligible redistributor of energy" means a person that meets the criteria set forth in § 25-aa(c) of the Act and 66 RCNY § 5-62.
+
+Eligible revitalization area. "Eligible revitalization area" means the area of the City defined in § 25-aa(d) of the Act, namely the area of the City in the borough of Manhattan bounded by Murray Street on the north starting at the intersection of West Street and Murray Street; running easterly along the center line of Murray Street; connecting through City Hall Park with the center line of Frankfort Street and running easterly along the center lines of Frankfort and Dover Streets to the intersection of Dover Street and South Street; running southerly along the center line of South Street to Peter Minuit Plaza; connecting through Peter Minuit Plaza to the center line of State Street and running northwesterly along the center line of State Street to the intersection of State Street and Battery Place; running westerly along the center line of Battery Place to the intersection of Battery Place and West Street; and running northerly along the center line of West Street to the intersection of West Street and Murray Street. Any tax lot which is partly located inside the eligible revitalization area shall be deemed to be entirely located inside such area.
+
+Eligible revitalization area energy user. "Eligible revitalization area energy user" means any person that meets the criteria set forth in § 25-aa(e) of the Act and 66 RCNY § 5-63.
+
+Energy services. "Energy services" mean (i) the transportation of electric commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of electric commodity to a utility system.
+
+Energy services bill. "Energy services bill" means a statement of charges for energy services rendered by a utility, NYCPUS, an eligible redistributor of energy or qualified eligible redistributor of energy and shall include a bill for rent or similar charges for the occupancy of premises where such rent or similar charges include the use of energy services.
+
+FERC. "FERC" shall mean the Federal Energy Regulatory Commission.
+
+Floor area. "Floor area" means either the gross area or the rental area of the eligible building. The gross area means all of the area within the exterior walls of the building. The rentable area means the square footage leased to a particular tenant for its exclusive use as reflected in the lease agreement. An applicant may select either of these meanings, but must be consistent in the application of the meaning.
+
+Hospital. "Hospital" means a hospital as defined in § 2801 of the Public Health Law of the State of New York.
+
+Hotel. "Hotel" means a building or portion thereof, that is regularly used and kept open as such for the lodging of guests, including, but not limited to, an apartment hotel, a motel, a boarding house or club or any other facility whose principal use is residential accommodation, whether or not meals are served.
+
+ICIP. "ICIP" means the New York City Industrial and Commercial Incentive Program as set forth in Title 11, Chapter 247, Part 3 of the Code, as amended.
+
+IDA. "IDA" means the New York City Industrial Development Agency established pursuant to § 850 of the General Municipal Law of the State of New York, as amended.
+
+Landmark site. "Landmark site" means a building or any part thereof that has been designated as a landmark pursuant to the provisions set forth in Chapter 3 of Title 25 of the code.
+
+LMEP or Program. "LMEP" or "Program" means the New York City Lower Manhattan Energy Program described in the Act and Subchapter A of these rules.
+
+Manufacturing activity. "Manufacturing activity" means an activity involving the assembly of goods to create a different article or the processing, fabrication, or packaging of goods.
+
+Mixed-use property. "Mixed-use property" means mixed-use property as defined in Title 2-E of Article 4 of the Real Property Tax Law of the State of New York.
+
+Monthly load factor. "Monthly load factor" means, for each electric account, the number determined by dividing (a) the account's energy consumption, measured in kilowatt hours, for a monthly billing period, by (b) the peak electric demand, measured in kilowatts, for such monthly billing period multiplied by the number of billing days in the period multiplied by 24 hours.
+
+NYCPUS. "NYCPUS" means the New York City Public Utility Service established by Local Law No. 78 of 1982, codified in Title 22, Chapter 3 of the code.
+
+Person. "Person" means any individual, partnership, association, corporation, limited liability company, estate or trust, and any combination of the foregoing.
+
+Preapplication. "Preapplication" means the initial filing in the process of applying for a certificate of eligibility and shall contain the information required by 66 RCNY § 5-82(a).
+
+Public Service Commission or PSC. "Public Service Commission" or "PSC" means the Public Service Commission of the State of New York, created by and defined in § 2 of the Public Service Law of the State of New York.
+
+Qualified eligible redistributor of energy. "Qualified eligible redistributor of energy" shall have the meaning ascribed to such term in § 25-aa(m) of the Act.
+
+Real property. "Real property" means land and articles, structures, substructures and superstructures erected upon, under or above the land or affixed thereto and articles of equipment, as described by, and subject to assessment for taxation pursuant to subdivision (a), (b), (f) or (i) of § 102(12) of the Real Property Tax Law of the State of New York, but not including any incorporeal right, franchise or special franchise.
+
+Recipient. "Recipient" means an applicant that has satisfied the eligibility criteria of Subchapter B of these rules and has been certified by the commissioner as either an eligible redistributor of energy or a qualified eligible redistributor of energy.
+
+Retail space. "Retail space" means space used by an applicant that: (a) is predominantly engaged in the sale of tangible personal property to any person, for any purpose unrelated to the trade or business of such person; or (b) is predominantly engaged in selling services to persons for any purpose unrelated to the trade or business of such persons; provided however, where such sale of tangible personal property or services described herein is performed by only one (1) or more operating units, divisions or subdivisions of the applicant, or at only one (1) or more locations, only such operating units, divisions, or subdivisions, or such locations, shall come within the definition contained herein, and provided, further, that retail space shall not include space occupied by bankers, insurance brokers, real estate brokers, stock brokers, doctors, lawyers or accountants.
+
+Service classification. "Service classification" means the classification used by a utility in its rate schedule that sets forth the particular rates charged for energy services that are applicable to particular kinds of customers.
+
+Site visit. "Site visit" means an on-site inspection performed by or at the direction of DBS to determine the use of energy services, size, or occupancy of certain buildings, real property or any portion of such building or real property.
+
+Special rebate. "Special rebate" shall mean the amount of reduction in an energy services bill rendered by a utility or NYCPUS for energy services to an eligible redistributor of energy or a qualified eligible redistributor of energy or directly metered eligible revitalization energy user, or an agent of any of these, and shall be calculated as a percentage of eligible charges in accordance with the provisions of 66 RCNY § 5-65 or 66 RCNY § 5-67.
+
+Submeter. "Submeter" means a meter that individually and accurately meters an occupant's usage of energy services.
+
+Survey. "Survey" means a study or report based on on-site field inspections, professional surveys by a licensed professional engineer, data collection or meter readings or other actions related to determining the size, use, energy services consumption, or occupancy of certain buildings or real property, or portions thereof.
+
+Systems benefit charge. "Systems benefit charge" means a charge that is regulated by the PSC and that a utility is required to collect from its customers for the purposes of funding public benefit programs.
+
+Targeted eligible building. "Targeted eligible building" means a building or structure which meets the criteria set forth § 25-aa(q) of the Act.
+
+UDC. "UDC" means the New York State Urban Development Corporation or any subsidiary or any successor in function thereof created and defined by § 6254 of the Unconsolidated Laws of the State of New York.
+
+Utility. "Utility" shall mean any provider of energy services within the eligible revitalization area that is subject both to the jurisdiction and general supervision of the PSC and to a tax imposed pursuant to Chapter 11 of Title 11 of the code.
+
+Utility credit. "Utility credit" means a credit to which a utility is entitled, in accordance with the rules promulgated by DOF, against the tax imposed under Chapter 11 of Title 11 of the code, and equal to the aggregate amount of all special rebates granted by such utility in accordance with the requirements of the Act and these rules.
+
+
+
+
+
+
+*§ 5-53 Law Governing Applications.* ::
+
+
+Applications pending as of the effective date of these rules and applications filed subsequently shall be governed by these rules. Persons that have been certified as eligible for special rebates under provisions of law in effect before November 1, 2000, are not required to reapply in order to receive benefits under provision of Chapter 472 of the Laws of 2000.
+
+
+
+
+
+
+*§ 5-54 Rules of Construction.* ::
+
+
+(a)  These rules shall be interpreted and enforced in accordance with the General Construction Law of the State of New York except where the context otherwise requires or a different rule is provided by these rules.
+
+(b) These rules shall be construed consistently with the provisions of the Act, including any amendments thereto.
+
+(c) Provisions of these rules that restate the Act and that do not provide rules or procedures for the exercise of regulatory authority shall not be construed as increasing or diminishing any rights or duties created by the Act, but may be used to assist in the interpretation of the Act.
+
+(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of LMEP set forth in 66 RCNY § 5-51 shall be used to assist in the interpretation and application of such provision.
+
+(e) Reference to particular provisions of law in these rules shall be deemed to refer to such provisions, as interpreted by the applicable decisions of Federal and New York State Courts.
+
+
+
+
+
+
+*§ 5-55 Material Misrepresentations, Misstatements and Omissions.* ::
+
+
+(a) An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or the staff of DBS in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
+
+(b) The commissioner may deny an application for a certificate of eligibility or suspend, terminate or revoke a certificate of eligibility issued pursuant to the program whenever:
+
+   (1) a recipient fails to comply with the requirements set forth in the Act or these rules; (2)  an application, certificate, amendment, supplement or other document submitted by an applicant pursuant to the Act or these rules contains a false or misleading statement as to a material fact or omits to state any material fact necessary in order to make the statements therein not false or misleading;
+
+   (3) any real property tax or water or sewer charge due and payable with respect to an eligible building or targeted eligible building shall remain unpaid for at least one (1) year following the date upon which such tax or charge became due and payable, unless within thirty (30) days from the mailing of a notice of termination by DBS satisfactory proof is presented to DBS that any and all delinquent taxes and charges owing with respect to such building as of the date of such notice have been paid in full or are currently being paid in timely installments pursuant to a written agreement with the appropriate City agency; or
+
+   (4) any payment in lieu of taxes payable with respect to such buildings shall remain unpaid for at least one (1) year following the date upon which such payment became due and payable, unless within thirty (30) days from the mailing of a notice of termination by DBS satisfactory proof is presented to DBS that any and all delinquent payments in lieu of taxes with respect to such building as of the date of such notice have been paid in full or are currently being paid in timely installments pursuant to a written agreement with the appropriate City agency.
+
+(d) DBS shall revoke a certificate of eligibility in the event a recipient fails at any time within the first five (5) years of the benefit period to submeter any portion of a building as required by the Act or in accordance with the requirements set forth in 66 RCNY § 5-63(d)(1). The City may maintain a civil action or proceeding to recover an amount equal to any benefits improperly obtained.
+
+
+
+
+
+
+*§ 5-56 Actions of Employees.* ::
+
+
+Employees and agents of the City whose duties require them to take actions in connection with ECSP shall perform such duties, subject to the lawful direction of their supervisors and appropriate public officers, in accordance with these rules. However, noncompliance by such employees or agents with the requirements of these rules shall not be deemed to void any obligation of, or to waive any requirement imposed on, an applicant or recipient, or to excuse any noncompliance by an applicant or recipient with the provisions hereof or of any law. Such noncompliance shall not create any right of relief from the City or its employees or agents in favor of any person adversely affected thereby.
+
+
+
+
+
+
+*§ 5-57 Separability.* ::
+
+
+If any provision of these rules or its application shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remaining provisions of these rules, but shall be confined in its operation to the provision thereof directly involved.
+
+
+
+
+
+
+*§ 5-58 Effective Date of Rules.* ::
+
+
+The effective date of these rules shall be November 1, 2000, and they shall apply to persons certified as eligible to receive special rebates under the laws and rules applicable to LMEP prior to such effective date as well as to applicants certified as eligible for such special rebates after such effective date, provided that where bills for sales of energy services are rendered on a monthly billing cycle, the calculation of special rebates shall, for each eligible revitalization area energy user, eligible redistributor of energy or qualified eligible redistributor of energy, be based on the applicable percentages and eligible charges under the provisions of the Act and these rules beginning with the first billing cycle beginning after November 1, 2000, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before November 1, 2000, and provided, further, that special rebates shall be calculated pursuant to 66 RCNY § 5-66 or 66 RCNY § 5-67, if applicable, beginning with the first billing cycle beginning after June 1, 2001, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before June 1, 2001.
+
+
+
+
+
+
+
+**Subchapter B: Eligibility and Amount of the Special Rebate**
+
+
+
+*§ 5-61 Eligible Building.* ::
+
+
+To qualify as an eligible building, a building shall be located in an eligible revitalization area and:
+
+(a) shall meet the criteria set forth in paragraphs (1), (2), (3) or (4) below:
+
+   (1) such building is eligible to obtain benefits under Title 2-D of Article 4 of the Real Property Tax Law, or would be eligible to receive benefits under such title except that such property is exempt from real property taxation and the requirements of paragraph (b) of subdivision seven of section four hundred eighty-nine-dddd of such law have not been satisfied, provided that application for such benefits was made after June 30, 1995, and before July 1, 2005, that construction or renovation of such building or structure was described in such application, that such building or structure has been substantially improved by such construction or renovation, and that the minimum required expenditure as defined in such title has been made within such period of time established by the applicable provisions of Title 2-D of Article 4 of the Real Property Tax Law for the construction of a new building or structure; or
+
+   (2) such building is the subject of an IDA inducement resolution adopted by the IDA after June 30, 1995 and before July 1, 2005, to receive financing by IDA, provided that IDA financing has been used in whole or in part to substantially improve the building by construction or renovation, that expenditures made for improvements to the building have been made in excess of twenty percent (20%) of the assessed value of the real property and buildings, and that such expenditures have been made within thirty-six (36) months after the earlier of: (A) the issuance by IDA of bonds for such financing; or (B) the conveyance of title to such building to IDA; or
+
+   (3) such building is owned by the City or UDC, and is subject to a lease that was approved in accordance with the applicable provisions of the Charter or by UDC's board of directors, as the case may be, and such approval was obtained after June 30, 1995, and before July 1, 2005, provided that expenditures have been made for improvements to such real property in excess of twenty percent (20%) of the assessed value of the real property and buildings, and that such expenditures have been made within thirty-six (36) months after the effective date of such lease; or
+
+   (4) is eligible to obtain benefits as mixed-use property, or would be eligible to obtain benefits as mixed-use property except that such building is exempt from real property taxation and the requirements of paragraph (b) of subdivision ten of section four hundred eighty-nine-ccccc of the Real Property Tax Law of the State of New York have not been satisfied, provided that application was made after June 30, 1995, and before July 1, 2000, that such building has been substantially improved by such renovation, and that the minimum required expenditure as defined in such title has been made;
+
+(b) such construction or renovation described in subdivision (a) of this section shall occur subsequent to filing for a building permit for such construction or renovation. In the case where a building permit is not required for renovation or construction (e.g., installation of machinery), an application shall be filed prior to beginning any work on the building the expenditures for which are described in subdivision (a) of this section. Such fact must be documented by a written statement by a licensed professional architect or licensed professional engineer sworn to or affirmed under penalties of perjury;
+
+(c) such building or portion thereof shall have provisions to receive electricity either: (i) directly from a utility; or (ii) from NYCPUS; and
+
+(d) such building or portion thereof is metered or submetered in accordance with the provisions set forth in 66 RCNY § 5-63(d)(1).
+
+
+
+
+
+
+*§ 5-62 Eligible Redistributor of Energy.* ::
+
+
+(a) Only eligible redistributors of energy and qualified eligible redistributors of energy, as described in, and to the extent permitted by, the Act and these rules, are eligible for special rebates under LMEP.
+
+(b) To qualify for benefits as an eligible redistributor of energy, an applicant must own or lease an eligible building, or a portion thereof, and purchase energy services on a metered basis from a utility or NYCPUS, and:
+
+   (1) i)  resell or otherwise redistribute such energy services to one or more eligible revitalization area energy users that occupy such eligible building; or
+
+      (ii) consume or use such energy services itself and qualify as an eligible revitalization area energy user; and
+
+   (2) individually and accurately meter or submeter the energy services it redistributes in accordance with the provisions set forth in 66 RCNY § 5-63(d)(1).
+
+(c) A person that owns or leases any portion of an eligible building containing mixed-use property shall not be an eligible redistributor of energy unless that portion of such mixed-use property used for commercial purposes is metered by a utility or NYCPUS directly and separately from other portions of such mixed-use property.
+
+
+
+
+
+
+*§ 5-63 Eligible Revitalization Area Energy Users.* ::
+
+
+(a) To qualify for benefits as an eligible revitalization area energy user, a person shall: (1)  purchase or otherwise receive energy services for its own use either directly from a utility or NYCPUS or from an eligible redistributor of energy or a qualified eligible redistributor of energy;
+
+   (2) occupy, operate or manage premises in an eligible building or a targeted eligible building; and
+
+   (3) be metered or submetered in accordance with the provisions set forth in subdivision (d) of this 66 RCNY § 5-63.
+
+(b) A person shall not qualify as an eligible revitalization area energy user if such person engages in any of the following activities or uses in an eligible building or targeted eligible building:
+
+   (1) occupying residential space;
+
+   (2) engaging primarily in manufacturing activity;
+
+   (3) operating a hospital;
+
+   (4) operating a hotel; or
+
+   (5) occupying retail space.
+
+(c) An eligible redistributor of energy shall be an eligible revitalization area energy user with respect to:
+
+   (1) vacant premises within an eligible building which have been constructed or renovated by such eligible redistributor of energy for occupancy by an eligible revitalization area energy user other than such eligible redistributor of energy; and
+
+   (2) common areas, systems and facilities to the extent such common areas, systems and facilities are used by eligible revitalization area energy users and such usage is not billed to such users, except that a person shall not be an eligible revitalization area energy user of common areas, systems and facilities located in mixed-use buildings unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
+
+(d) A person shall not qualify as an eligible revitalization area energy user if the premises occupied, operated or managed by such person:
+
+   (1) exceed the lesser of ten thousand (10,000) contiguous square feet in area or the entire floor of an eligible building or targeted eligible building and are not individually and accurately metered or submetered to determine the occupant's usage of energy services. A person that occupies more than one (1) floor of an eligible building or targeted eligible building or more than ten thousand (10,000) contiguous square feet, is required to have only one (1) meter or submeter for its premises; or
+
+   (2) are located in that portion of mixed-use property used for commercial purposes, and such portion is not metered by a utility or NYCPUS directly and separately from other portions of such mixed-use property.
+
+
+
+
+
+
+*§ 5-64 Eligible Charges and Eligible Public Utility Service Charges.* ::
+
+
+(a) Eligible charges.
+
+   (1) Eligible charges are charges for energy services purchased from a utility at a rate or rates established pursuant to an order or rule of the PSC or FERC, other than charges for the purchase of the commodity of electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision (a).
+
+   (2) Eligible charges shall not include the following charges:
+
+      (i) charges for energy services used by persons that are not eligible revitalization area energy users;
+
+      (ii) any special charges on bills relating to such energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy for energy services, as authorized by 66 RCNY § 5-71(g); and
+
+      (iii) charges for energy services used for common areas, systems and facilities to the extent such services are excluded pursuant to subparagraph (3)(ii) of this section.
+
+   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of 66 RCNY § 5-61(a) to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
+
+      (ii) Eligible charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in 66 RCNY § 5-61(a)(4), unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
+
+(b) Eligible public utility service charges.
+
+   (1) Eligible public utility service charges are actual charges for energy services provided by a public utility service, including charges for public utility administrative services, and shall include all taxes payable thereon, and shall exclude charges in accordance with paragraph (2) of this subdivision (b).
+
+   (2) Eligible public utility service charges shall not include the following charges:
+
+      (i) charges for energy services used by persons that are not eligible revitalization area energy users;
+
+      (ii) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by an eligible redistributor of energy or qualified eligible redistributor of energy for energy services, as authorized by 66 RCNY § 5-71(g); and
+
+      (iii) charges for energy services used for common areas, systems and facilities to the extent such energy services are excluded pursuant to paragraph (3)(ii) of this section.
+
+   (3) i)  Except as set forth in subparagraph (ii) of this subdivision, eligible public utility charges shall include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in paragraphs (1), (2) or (3) of 66 RCNY § 5-61(a) or a targeted eligible building meeting the criteria set forth in paragraph (1), (2) or (3) of subdivision (q) of § 25-aa of the Act to the extent such common areas, systems and facilities are used by eligible revitalization area energy users, except that charges attributable to other users, if minor and incidental, may be included in eligible charges for such common areas, systems and facilities.
+
+      (ii) Eligible public utility service charges shall not include charges for energy services used for common areas, systems and facilities of an eligible building meeting the criteria set forth in 66 RCNY § 5-61(a)(4) or a targeted eligible building meeting the criteria set forth in paragraph (4) of subdivision (q) of § 25-aa of the Act, unless such common areas, systems and facilities are separate from the common areas, systems and facilities that serve that portion of the mixed-use property used for residential purposes and serve only that portion of such mixed-use property used for commercial purposes.
+
+(c) 1)  An eligible redistributor of energy or qualified eligible redistributor of energy has the burden of demonstrating to the commissioner that charges for energy services are eligible charges or eligible public utility service charges. If a determination of such charges cannot be ascertained by the commissioner without a survey or such redistributor is not satisfied with the commissioner's determination of such redistributor's eligible charges or eligible public utility service charges, such redistributor may request that the commissioner cause a survey to be conducted by a licensed professional engineer satisfactory to DBS at such redistributor's expense. Upon completion of the survey, the professional who prepares such survey shall submit the report, together with a certification as to the amount of eligible charges or eligible public utility service charges, to the commissioner for his or her review.
+
+   (2) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the amount of charges that constitute the eligible redistributor's or qualified eligible redistributor's eligible charges or eligible public utility service charges to which a special rebate may be applied. If such redistributor disagrees with the commissioner's findings, such redistributor may request an opportunity to be heard in accordance with the procedures set forth in 66 RCNY §§ 5-45, 5-46 and 5-47.
+
+
+
+
+
+
+*§ 5-65 Special Rebates for Users and Redistributors that Applied for LMEP Benefits After October 31, 2000.* ::
+
+
+(a) Except as otherwise provided in subdivision (b) of this section, a utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000, or a directly metered eligible revitalization area energy user that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Months During Benefit Period
+      - Special Rebate for Energy Services
+    * - first through ninety-sixth
+      - 45%
+    * - ninety-seventh through one hundred eighth
+      - 36% 
+    * - one hundred ninth through one hundred twentieth
+      - 27%
+    * - one hundred twenty-first through one hundred thirty-second
+      - 18%
+    * - one hundred thirty-third through one hundred forty-fourth
+      - 9%
+~
+
+
+
+ 
+
+(b) A utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000 and that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Months During Benefit Period
+      - Special Rebate for Energy Services
+    * - first through one hundred eighth
+      - 45%
+    * - one hundred ninth through one hundred twentieth
+      - 36% 
+    * - one hundred twenty-first through one hundred thirty-second
+      - 27%
+    * - one hundred thirty-third through one hundred forty-fourth
+      - 18%
+    * - one hundred forty-fifth through one hundred fifty-sixth
+      - 9%
+~
+
+
+
+ 
+
+(c) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible redistributor of energy or a directly metered eligible revitalization area energy user that applied for and was certified as such after October 31, 2000, such utility shall make a discount to NYCPUS and NYCPUS shall make a special rebate to such eligible redistributor of energy or such directly metered eligible revitalization area energy user, which discount and special rebate shall be the product of the eligible charges to such eligible redistributor of energy or such directly metered eligible revitalization area energy user and the applicable percentage for a special rebate for energy services in the applicable schedule contained in subdivision (a) or (b) of this section.
+
+
+
+
+
+
+*§ 5-66 Special Rebates for Redistributors and Users that Applied for LMEP Benefits Prior to November 1, 2000 and Were Certified Prior to July 1, 2001. [Repealed]* ::
+
+
+(a) Paragraph (1) of subdivision (a) of § 25-bb of the general city law states that the "that the department of business services of a city having a population of one million or more may increase the percentages set forth in 66 RCNY § 5-65 at its discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in this section of the rules shall be applicable to the calculations of special rebates for all eligible redistributors of energy or directly metered eligible revitalization energy users that applied for LMEP benefits prior to November 1, 2000 and for qualified eligible energy redistributors of energy that were certified before November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
+
+(b) Except as set forth in subdivision (d) of this section, for all billing cycles prior to the ninety-seventh month of each eligible redistributor of energy's or directly metered eligible revitalization energy user's benefit period occurring during the period beginning June 1, 2001, each redistributor or user shall receive rebates on eligible charges as specified in this paragraph; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle.
+
+   (1) The rebate percentage to be applied to eligible charges for energy services provided by a utility pursuant to its "PSC No. 9 – Electricity Rate Schedule" or "PSC No. 2 – Retail Access Rate Schedule" shall equal the percentages specified in Attachment A of Appendix A of these rules, which shall vary depending on such redistributor's or user's average monthly load factor, applicable service classification and the applicable rate, and whether such redistributor or user receives discounts on service pursuant to a service rider. If, for any affected redistributor or user, eligible charges for energy services were rendered at more than one service classification and/or at more than one rate for a service classification, the rebate percentages specified in Attachment A of Appendix A of these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to such redistributor or user. To the extent that such redistributor or user is served under the utility's "PSC No. 9 – Electrical Rate Schedule" its rebate percentages shall be determined as if such redistributor or user was served under the utility's "PSC No. 2 – Retail Access Rate Schedule."
+
+   (2) The rebate percentage to be applied to eligible public utility service charges for energy services provided by NYCPUS pursuant to its "Service Tariff No. 4 Rate Schedule" shall equal the percentages specified in Attachment B of Appendix A of these rules, which shall vary depending on such redistributor's or user's average monthly load factor, the applicable service classification and the applicable rate, and whether such redistributor or user receives discounts on service pursuant to a service rider or other tariff provisions. If, for any affected redistributor or user, eligible public utility service charges for energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment B of Appendix A of these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider or other tariff discount applies to such redistributor or user.
+
+(c) Except as otherwise provided in subdivision (d) of this section, for all billing cycles after the ninety-sixth month of the benefit period and thereafter, the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-67(b) or (e), shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected eligible redistributor of energy or directly metered eligible revitalization energy user, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Month of Benefit Period
+      - Adjustment Factor
+    * - 97 through 108
+      - 0.8
+    * - 109 through 120
+      - 0.6
+    * - 121 through 132
+      - 0.4
+    * - 133 through 144
+      - 0.2
+    * - 145 and thereafter
+      - 0.0
+~
+
+
+
+ 
+
+(d) Where a utility that sells energy services to an eligible redistributor of energy that owns or leases an eligible building that has been designated as a landmark site before the issuance of a certificate of eligibility to such redistributor, or to a directly metered eligible revitalization area energy user occupying premises in such building that applied for LMEP benefits prior to November 1, 2000, all billing cycles in the one hundred and ninth month of each of the above-noted benefit periods and thereafter shall have the applicable rebate percentages on eligible charges, determined as specified in 66 RCNY § 5-67(b) or (e) of these rules, multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Month of Benefit Period
+      - Adjustment Factor
+    * - 109 through 120
+      - 0.8
+    * - 121 through 132
+      - 0.6
+    * - 133 through 144
+      - 0.4
+    * - 145 through 156
+      - 0.2
+    * - 157 and thereafter
+      - 0.0
+~
+
+
+
+ 
+
+(e) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to a qualified eligible redistributors of energy that has been individually approved by such power authority and certified prior to November 1, 2000, or to an eligible redistributor of energy or directly metered eligible revitalization area energy user that applied for benefits prior to November 1, 2000 and was certified as a redistributor or user after October 31, 2000, such utility shall make a discount to NYCPUS and NYCPUS shall make a special rebate to such qualified eligible redistributors or such eligible redistributor or user, which discount and special rebate shall be the product of the eligible public utility service charges to such qualified eligible redistributor of energy or such eligible revitalization area energy user and the applicable percentage for a special rebate for energy services in the applicable schedule contained in Attachment B of Appendix A of these rules.
+
+
+
+
+
+
+
+**Subchapter C: Implementation**
+
+
+
+*§ 5-71 Implementation by Eligible Redistributor of Energy or Qualified Eligible Redistributor of Energy.* ::
+
+
+(a) An eligible redistributor of energy or qualified eligible redistributor of energy shall reduce the energy services bills rendered to eligible revitalization area energy users that are not directly metered and that occupy, operate or manage premises in eligible buildings owned or leased by such redistributor by an amount equal, in the aggregate, to one hundred percent (100%) of each special rebate received by such redistributor.
+
+(b) An eligible redistributor of energy or qualified eligible redistributor of energy shall individually and accurately meter or submeter the energy services sold or otherwise redistributed by such redistributor to each such eligible revitalization area energy user or other occupant of eligible buildings so as to enable a determination of each such user's or occupant's usage of energy services, provided such user or occupant occupies, operates or manages premises that equal or exceed the lesser of ten thousand (10,000) contiguous square feet in area or the entire floor of a building.
+
+(c) In order to establish the usage of energy services attributable to the tenants occupying an eligible building, an eligible redistributor of energy or qualified eligible redistributor of energy shall have a load study performed by a licensed professional engineer on all non-eligible users that are not individually metered or submetered. In addition, such redistributor shall have all of the submeters attributable to non-eligible users read by a licensed professional engineer.
+
+(d) If an eligible redistributor of energy or qualified eligible redistributor of energy charges amounts to eligible revitalization area energy users and other users that vary annually or more frequently with the costs incurred by such redistributor for the operation of common areas, systems and facilities, such redistributor shall reduce such charges by the portion of the special rebates attributable thereto.
+
+(e) An eligible redistributor of energy or qualified eligible redistributor of energy shall allocate the reductions required by subdivision (a) of this 66 RCNY § 5-71 in direct proportion to each such eligible revitalization area energy user's use of energy services. Such reductions shall be determined as follows:
+
+   (1) The total amount of such redistributor's energy services bill shall be divided by the total amount of kilowatt hours used by the eligible building to determine the cost per kilowatt hour charge for the eligible building;
+
+   (2) If the premises of such eligible revitalization area energy user or other user are submetered, such reduction shall be established by multiplying: (A) the amount of energy services use determined by such submeter; by (B) the dollar per kilowatt charge determined in (1) above; by (C) the amount of the special rebate set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67;
+
+   (3) If two or more eligible revitalization area energy users or other users share a submeter, the amount of the reduction to be shared by the eligible revitalization area energy users shall be determined in accordance with (2) above. This amount shall then be allocated among such users in direct proportion to the floor area of the premises occupied, operated or managed by each such user;
+
+   (4) If the premises of such eligible revitalization area energy user is not required to be submetered by these rules, such discount shall be determined as follows:
+
+(A) Divide the portion of the special rebate received by all submetered eligible revitalization area energy users by their total square footage to determine the special rebate per square footage amount; and
+
+(B) Multiply the special rebate per square footage amount determined in (A) above by the square footage of each non-submetered eligible revitalization area energy user to determine the amount of the special rebate each such non-submetered eligible revitalization area energy user is entitled to;
+
+   (5) The special rebate to be applied to common areas, systems and facilities shall be the total rebate received by the eligible building less: (A) the total special rebate received by each submetered eligible revitalization area energy user as determined in (2) above; and (B) the total special rebate received by each submetered eligible revitalization area energy user sharing a submeter as determined in (3) above; and (C) the total special rebate received by all non-submetered eligible revitalization area energy users as determined in (4) above.
+
+(f) If the premises of an eligible revitalization area energy user are directly metered, such discount shall be determined by such meter.
+
+(g) An eligible redistributor of energy or qualified eligible redistributor of energy shall limit charges to those eligible revitalization area energy users that are submetered in accordance with this section to a price for the purchase of energy services that shall be no higher than the price paid by such redistributor, provided that an additional fee, not exceeding twelve percent (12%) of such sales price, may be charged by such redistributor for energy services sold to such eligible revitalization area energy users.
+
+(h) An eligible redistributor of energy or a qualified eligible redistributor of energy shall separately state in all energy bills rendered by such redistributor to an eligible revitalization area energy user for sales of energy services the amount of the reduction in charges for such services representing the share of the special rebate allocated to such user, or that no reduction has been made, and shall state the following: "You may be entitled to share a rebate which your landlord has received for charges for energy services pursuant to the revitalization area energy rebate program. The amount is separately stated and identified in this bill." Any deviation from this language must be approved in advance by DBS.
+
+(i) An eligible redistributor of energy or qualified eligible redistributor of energy shall keep records verifying compliance with the requirements of LMEP, and allow DBS access to such records.
+
+(j) An eligible redistributor of energy or qualified eligible redistributor of energy shall provide access to eligible buildings or targeted eligible buildings to DBS for the purpose of inspecting meters, submeters and other equipment and verifying the accuracy of any application or supplement thereto filed with DBS and DOF.
+
+
+
+
+
+
+*§ 5-72 Implementation by a Utility and NYCPUS.* ::
+
+
+(a) Where a utility or NYCPUS is required to make a special rebate pursuant to 66 RCNY § 5-65 or 66 RCNY § 5-67, they shall reduce each energy services bill for each eligible redistributor of energy or qualified eligible redistributor of energy or directly metered eligible revitalization area energy user by the full amount of the special rebate that shall have accrued for the period covered by each such energy services bill. A utility or NYCPUS shall cease to make such reductions in such energy services bills upon receipt of notification from DBS that the certification of eligibility has been suspended or terminated, and a utility or NYCPUS shall change the amount of such reduction in accordance with notification from DBS.
+
+(b) A utility shall not be required to make a special rebate to such eligible redistributor of energy or qualified eligible redistributor of energy in excess of the charges for energy services.
+
+
+
+
+
+
+*§ 5-73 Granting of Utility Credit to a Utility.* ::
+
+
+(a) Where a utility has granted special rebates to recipients in accordance with the provisions set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67, it shall be entitled to a utility credit equal to the aggregate amount of all such special rebates it has provided to recipients.
+
+(b) Such utility credit may be taken only as provided for in the code, these rules and rules promulgated by the commissioner of DOF, for the purpose of permitting utilities a deduction against certain taxes.
+
+
+
+
+
+
+
+**Subchapter D: Application, Approval, Notification of Eligibility and Commencement of Eligibility**
+
+
+
+*§ 5-81 Forms and Filing of Application and Preapplication.* ::
+
+
+(a) All preapplication and application forms may be obtained from DBS, 110 William Street, 3rd Floor, New York, New York 10038, and, upon completion, forms shall be submitted to DBS at the above address. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
+
+(b) An applicant for benefits under LMEP shall file an application after June 30, 1995 and prior to the issuance of the first building permit for the construction or renovation required pursuant to 66 RCNY § 5-61, but not later than June 30, 2005. For the purposes of these rules, the first building permit shall be the building permit which would, in the ordinary course, allow construction to proceed, even though: (i) such permit was granted before submission of completed plans and specifications for the entire building; (ii) such permit, or the application, plans or specifications upon which it was granted, are later amended; (iii) such permit shall have expired by limitation of time or otherwise become invalid; or (iv) another permit is issued for the same project on the basis of the same or similar plans.
+
+(c) In the case where a building permit is not required for renovation or construction, an application must be filed prior to beginning any work on the building the expenditures for which would be the basis for the determination of whether an applicant has reached the eligibility requirements set forth in 66 RCNY § 5-61. All preapplications must be filed not later than June 30, 2005.
+
+(d) An applicant that purchases or leases an eligible building or a targeted eligible building or a portion thereof, the owner or lessor of which building or portion thereof has been receiving LMEP benefits, must file a preapplication to receive benefits within ninety (90) days of taking occupancy or signing a contract of sale or lease for such building, whichever is earlier.
+
+(e) An applicant applying for benefits under 66 RCNY § 5-65(c) or 66 RCNY § 5-67(e), must receive approval from NYCPUS prior to submitting its preapplication to DBS and provide evidence of such approval as part of such application.
+
+
+
+
+
+
+*§ 5-82 Contents of Preapplication and Application.* ::
+
+
+(a) The applicant shall provide DBS with all information required in the preapplication form, including the following: the applicant's name; name and title of a contact person; telephone number; street address of the building site; block and lot number of the building site; Internal Revenue Service tax identification number; if applicable, the ICIP application number for the building site, and such other information as the commissioner deems necessary or useful for a preliminary determination that an applicant may be eligible to participate in LMEP.
+
+(b) The applicant shall provide DBS with all information required in the application form and deemed necessary or useful for the administration of LMEP, including, but not limited to, the following:
+
+   (1) assessed value of the real property and building(s) for which the application has been submitted; total square footage of the building floor area; names and addresses of any parent, subsidiaries or affiliated companies; and the name and title of an individual authorized to complete the application on behalf of the applicant;
+
+   (2) estimated commencement date and completion date for construction or renovations;
+
+   (3) a certified copy of the deed for the eligible building, or portion thereof, and any lease to the applicant as lessee of the building or any portion thereof;
+
+   (4) a listing of all electricity account numbers serving the building or any portion thereof, and a copy of one (1) year's energy bills for each account number directly metered by a utility servicing the building or a sworn statement by the applicant if the applicant has not received one (1) year's bill;
+
+   (5) building floor plans;
+
+   (6) a list of every tenant or other person occupying, operating or managing premises in the building, including both eligible revitalization area energy users and other users, and the following information relating to such person: the business activity engaged in by such person; the square footage of the premises occupied, operated or managed by such person; contact person; telephone number; location in building identified on the building floor plans referred to in paragraph (v) of this subdivision; a list of the meter(s) or submeter(s) utilized by such person including meter identification numbers if submetered by the landlord or an eligible redistributor of energy or qualified eligible redistributor of energy; account number if directly metered by the utility or NYCPUS; a schematic or other description of the linkage between each such person's consumption of electricity or energy services and the appropriate direct utility meter; and number of employees;
+
+   (7) an applicant applying under the provisions set forth in subdivisions (a)(2), (3) or (4) of 66 RCNY § 5-61, shall submit evidence that the expenditures required by such provisions have been made within the time period specified therein;
+
+   (8) copy of the relevant building permit issued by the Department of Buildings, if applicable;
+
+   (9) relevant documents evidencing the authority of the City, the IDA, UDC or other lessor to lease a building or premises to the applicant, including a copy of the inducement resolution issued by IDA to the applicant, the IDA lease or financing agreement, if applicable; and
+
+   (10) any other information, documentary or otherwise, including but not limited to, sworn statements and other data, that the commissioner deems relevant to evaluate the applicant's application.
+
+(c) In addition to the requirements of subdivisions (a) and (b) of this 66 RCNY § 5-82, an applicant that purchases energy services from NYCPUS shall submit as part of its application, a written contract between the applicant and NYCPUS setting forth the agreement by NYCPUS to provide energy services to the applicant, and stating the conditions for the sale of such energy services.
+
+(d) The applicant shall have the affirmative burden of proving its eligibility to the satisfaction of the commissioner as to each and every fact contained in its application.
+
+
+
+
+
+
+*§ 5-83 Application Filing Fee.* ::
+
+
+(a) The applicant shall submit to the commissioner with its preapplication a check for a non-refundable application fee in the following amount:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Square Footage of Building
+      - Fee 
+    * - Less than 10,000 square feet
+      - $500
+    * - 10,001 to 25,000 square feet
+      - $1,000
+    * - 25,001 to 50,000 square feet
+      - $1,250
+    * - 50,001 to 100,000 square feet
+      - $1,500
+    * - 100,001 to 250,000 square feet
+      - $2,500
+    * - Over 250,000 square feet
+      - $5,000
+~
+
+
+
+ 
+
+(b) In addition to the filing fee, an applicant shall pay the costs of any survey conducted by or at the request of the commissioner, to develop or verify any factual matters relating to the application.
+
+(c) All fees shall be made payable by check or money order to the "New York City Department of Small Business Services."
+
+
+
+
+
+
+*§ 5-84 Representations and Warranties.* ::
+
+
+(a) As part of the preapplication, application, periodic reports and other reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be necessary or appropriate to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
+
+   (1) that all statements made by or on behalf of the applicant in connection with such applications and reports are made by any person authorized by the applicant to make such statements and having actual knowledge or documentary information sufficient to make informed and accurate statements, and that such person believes all such statements to be true;
+
+   (2) that the applicant has paid all of the real property taxes or water or sewer charges or payments in lieu of taxes or has paid timely installments of such taxes or payments in lieu of taxes in accordance with an agreement with a city agency with respect to an eligible building or targeted eligible building;
+
+   (3) that the applicant represents, acknowledges, covenants and agrees that it bears sole responsibility for paying the full amount of energy services costs to a utility and/or NYCPUS for which it is directly metered until such time as the special rebate (if any) granted to applicant under LMEP is reflected on the applicant's bill;
+
+   (4) that the applicant agrees to permit or cause permission to be granted to the City and its agents to inspect its building and real property upon notice during regular business hours; and
+
+   (5) any other representations or warranties as may be required in such applications or reports or requested by the commissioner.
+
+(b) In addition to the requirements of subdivision (a) of this 66 RCNY § 5-84, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner) on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any benefits which the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive those benefits for any reason.
+
+
+
+
+
+
+*§ 5-85 Approval of an Application.* ::
+
+
+(a) Approval by the commissioner of an application shall be based on a review of the following information:
+
+   (1) representations and/or certifications made by the applicant in its application;
+
+   (2) a review of the applicant's prior energy bills;
+
+   (3) a site visit performed by DBS; and
+
+   (4) any other relevant factors relating to use and occupancy which is deemed to be relevant in making such a determination.
+
+(b) The commissioner, after reviewing all relevant information and documentation submitted, shall, in his or her sole discretion, determine what constitutes the applicant's or recipient's eligible charges. If the applicant or recipient disagrees or is unsatisfied with the commissioner's findings, the applicant or recipient may request an opportunity to be heard in accordance with the procedures set forth in Subchapter E of these rules.
+
+
+
+
+
+
+*§ 5-86 Notification to Applicant.* ::
+
+
+(a) If the commissioner grants an applicant's application for a certificate of eligibility, DBS shall forward a certificate of eligibility executed by the commissioner to the applicant.
+
+(b) If the commissioner denies an applicant's application for a certificate of eligibility, the commissioner shall notify the applicant in writing, of the reason for such denial. The applicant may request an opportunity to be heard in accordance with the provisions set forth in Subchapter E of these rules.
+
+
+
+
+
+
+*§ 5-87 Certificate of Eligibility.* ::
+
+
+(a) An applicant shall execute the certificate of eligibility and return it to the commissioner within thirty (30) days of the issuance date stated on the certificate of eligibility. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
+
+(b) The certificate of eligibility shall evidence:
+
+   (1) the eligibility and qualification of an applicant as an eligible redistributor of energy or a qualified eligible redistributor of energy or as a directly metered eligible revitalization area energy user;
+
+   (2) the benefit period the eligible premises or targeted eligible premises is qualified for;
+
+   (3) the benefit an eligible redistributor of energy or a qualified eligible redistributor of energy or a directly metered eligible revitalization area energy user is qualified to receive; and
+
+   (4) the date of issuance.
+
+(c) DBS shall coordinate with the recipient, a utility and/or NYCPUS and DOF, where applicable, to establish the benefit period of the certificate of eligibility, which shall be within two (2) months of execution by the applicant of the certificate of eligibility.
+
+(d) Subsequent to establishing the effective date of the certificate of eligibility, DBS shall affix such date to the applicant's certificate of eligibility and forward a copy of the fully completed and executed certificate of eligibility to the applicant and any other necessary party.
+
+
+
+
+
+
+*§ 5-88 Notification to a Utility and/or NYCPUS.* ::
+
+
+(a) DBS shall notify a utility and/or NYCPUS whichever is appropriate, in writing, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with 66 RCNY § 5-87.
+
+(b) DBS shall notify a utility and/or NYCPUS, whichever is appropriate, in writing, of any changes in an applicant's certificate of eligibility as set forth in 66 RCNY § 5-87.
+
+
+
+
+
+
+*§ 5-89 Periodic and Other Reports to DBS.* ::
+
+
+(a) During the benefit period, a recipient shall promptly notify the commissioner of any material changes which may affect a recipient's eligibility or the amount of the special rebate under LMEP, including but not limited to, changes in:
+
+   (1) sources of energy services;
+
+   (2) ownership of the eligible building or the targeted eligible building;
+
+   (3) establishment of new direct accounts;
+
+   (4) landlord's or directly metered tenant's usage of energy services;
+
+   (5) the type of metering or method of billing for usage of energy services at the eligible building or targeted eligible building;
+
+   (6) a change in the ratio between floor space occupied by eligible revitalization are energy users and that occupied by other occupants; and
+
+   (7) the new tenancy of a noneligible revitalization area energy user.
+
+(b) During the benefit period, DBS must be immediately notified of any additional utility accounts acquired or changes in utility account numbers in the eligible building or targeted eligible building.
+
+(c) When it appears that the percentage of non-eligible use in the eligible building or targeted eligible building changes so that the special rebate for the eligible building or targeted eligible building appears to change, a new load study shall be performed in order to ascertain the new special rebate for the eligible building or targeted eligible building.
+
+(d) During the benefit period, a recipient shall submit to the commissioner a reporting form on September 30th, December 31st, March 31st and June 30th of each year, to document the current status of the recipient's continued eligibility under LMEP. Such reporting form shall include, but shall not be limited to, the following information:
+
+   (1) the use or type of operations conducted at the eligible building or targeted eligible building;
+
+   (2) any changes in the eligible building's breakdown of eligible versus non-eligible uses;
+
+   (3) a summary of building metering or submetering and utility accounts;
+
+   (4) architectural rendering of building floor plans showing any changes, including changes in floor space, type of common areas, systems and facilities;
+
+   (5) tenant list including, but not limited to, the following: square footage; contact person; telephone number; location in building; meter number if submetered by landlord or account number if directly metered by a utility; and number of employees;
+
+   (6) change in the size of tenants' premises;
+
+   (7) any additions to or changes in the linkage between an eligible revitalization area energy user's metering scheme and the utility's main direct meter; and
+
+   (8) such other information as the commissioner may request to determine eligible charges, eligibility and amount of special rebate.
+
+(e) A qualified eligible redistributor of energy shall submit to DBS on an annual basis proof that the heating and cooling systems within the targeted eligible building continue to meet the performance standards specified in § 7813.21 of the State conservation code, or if applicable, a municipal code authorized pursuant to such article, or such predecessor section to which such targeted eligible building, when constructed or substantially renovated, was subject.
+
+(f) All such information may be used by the commissioner for the purpose of determining whether the recipient's certificate of eligibility should be suspended until a final determination of eligibility can be made and/or whether it shall be revoked or revised.
+
+(g) Information received by the commissioner pursuant to this section or otherwise may be used by him or her to determine that a recipient does not satisfy the applicable eligibility criteria in the Act or these rules, and the commissioner may, among other things, suspend such recipient's certificate of eligibility until a final determination of eligibility can be made, or revise, terminate or revoke such recipient's certificate of eligibility.
+
+(h) The commissioner shall notify the recipient, a utility and/or NYCPUS in writing of the determination to revise, suspend, terminate or revoke the recipient's certificate of eligibility. A utility and/or NYCPUS must modify its bills to such recipient to reflect the change in benefits which such revision, suspension, termination or revocation to a recipient's certificate of eligibility is intended to effect within thirty (30) days of receipt of written notice from the commissioner of such action.
+
+(i) A recipient may request an opportunity to be heard in accordance with Subchapter E of these rules.
+
+
+
+
+
+
+
+**Subchapter E: Opportunities To Be Heard**
+
+
+
+*§ 5-91 Requests for an Opportunity to be Heard.* ::
+
+
+Within thirty (30) days after the mailing of a written determination by the commissioner or his or her designee pursuant to the Act or these rules, an applicant or recipient that wants to contest such determination may submit documentation supporting its position to the commissioner or his or her designee and may request an opportunity to be heard.
+
+
+
+
+
+
+*§ 5-92 Opportunity to be Heard.* ::
+
+
+If an opportunity to be heard is requested in accordance with 66 RCNY § 5-91, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
+
+
+
+
+
+
+*§ 5-93 Final Determination; Notification.* ::
+
+
+(a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
+
+(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to 66 RCNY § 5-92.
+
+(c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
+
+ 
+
+
+
+
+
+
+*APPENDIX A: RATE SCHEDULES* ::
+
+
+ ATTACHMENT A: CON EDISON ELECTRIC SERVICE  PSC No. 2 Retail Access Rate Schedule and PSC No. 9  Electric Rate Schedule
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-370-img$3.0$p=
+
+ 
+
+ATTACHMENT B: NEW YORK CITY PUBLIC UTILITY SERVICE ELECTRIC SERVICEService Tariff No. 4
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15908-img$3.0$p=
+
+ATTACHMENT C [Repealed]
+
+ATTACHMENT D [Repealed]
 
 
 

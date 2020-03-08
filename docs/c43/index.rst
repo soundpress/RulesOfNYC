@@ -2152,6 +2152,125 @@ For applications for establishments within the same set of applicable geographic
 
 
 
+Chapter 11: Signage Systems for Privately Owned Public Spaces
+--------------------------------------------------
+
+
+
+*§ 11-01 Signage Systems for Privately Owned Public Spaces.* ::
+
+
+This rule applies in addition to sections 37-53(h) (Design Standards for Pedestrian Circulation Spaces) and 37-751 (Public space signage systems) of the New York City Zoning Resolution (hereinafter, "Zoning Resolution") and other sections thereof incorporating section 37-751 by reference, except as otherwise provided.
+
+
+
+
+
+
+
+
+*§ 11-02 Purpose.* ::
+
+
+The purpose of this rule is to ensure that all privately owned public spaces have clear, visible, and readable signage at appropriate locations within such spaces that easily identifies such spaces as open to the public and also presents other information related to such privately owned public space.
+
+
+
+
+
+
+
+
+*§ 11-03 Definitions.* ::
+
+
+For the purposes of this section, the term "privately owned public space" is defined in Local Law 116 of 2017, as amended by Local Law 250 of 2017, as follows: (1) a plaza, residential plaza, urban plaza, public plaza, elevated plaza, arcade, through block arcade, through block galleria, through block connection, open air concourse, covered pedestrian space, publicly accessible space or sidewalk widening provided for in the Zoning Resolution, now or previously in effect; (2) such other privately owned outdoor or indoor space required to be open to the public and for which the Department of City Planning ("DCP") maintains a record in the privately owned public space data set accessible through the open data web portal that is linked to nyc.gov or successor website pursuant to New York City Administrative Code section 23-502; and (3) such other privately owned outdoor or indoor spaces required to be open to the public pursuant to any of the following actions occurring on or after January 1, 2001:
+
+(a) A decision, authorization, certification, or special permit issued by the City Planning Commission (the "Commission");
+
+(b) A certification issued by the Chairperson of the Commission (the "Chair");
+
+(c) A variance of the Zoning Resolution or special permit issued by the Board of Standards and Appeals; or
+
+(d) Action taken by the City Council pursuant to section 197-d of the Charter of the City of New York.
+
+Such term does not include any waterfront public access areas regulated pursuant to article 6 chapter 2 of the Zoning Resolution.
+
+
+
+
+
+
+
+
+*§ 11-04 Applicability and Signage Requirements.* ::
+
+
+All privately owned public spaces must provide a signage system, subject to the requirements of this rule:
+
+(a) Prior to installation of any signage at a privately owned public space after the effective date of this rule, a signage system pursuant to this rule must be reviewed and approved by the DCP for compliance with the requirements of this rule; and
+
+(b) The signage system in all privately owned public spaces must include the following, provided in technical drawings that illustrate compliance with the provisions of this rule:
+
+   (1) The name and contact information of the person or entity charged by the owner with oversight of complaints about such space;
+
+   (2) A statement that such space is open to the public;
+
+   (3) The hours the space is open to the public;
+
+   (4) The primary amenities required in the space;
+
+   (5) A statement that complaints can be registered by calling 311, or its successor;
+
+   (6) A public space logo that matches exactly the logo and dimensions provided in the Required Signage Symbols file and the "New York City Privately Owned Public Space Signage Standards and Specifications" document available on the DCP's website (to be published by the DCP, and modified from time to time);
+
+   (7) For all privately owned public spaces established on or after October 1, 2017, such signage system must also include a site map, displaying the boundaries of the privately owned public space or spaces on the zoning lot relative to other structures on the zoning lot and the adjacent streets or public ways in accordance with the design guidelines specified in the "New York City Privately Owned Public Space Signage Standards and Specifications" available on the DCP's website (to be published by the DCP and modified from time to time); and
+
+   (8) For all privately owned public spaces with access for persons with disabilities, such signage system must also include the International Logo of Access for persons with disabilities that is at least three inches square.
+
+(c) For all privately owned public spaces which are not otherwise subject to Article III, Chapter 7 of the Zoning Resolution, the signage standards of Zoning Resolution section 37-751 (Public space signage systems), as supplemented herein, will serve as a guide and apply as reasonably determined by the DCP, in consideration of the circulation needs and of the type, size and configuration of the privately owned public space or spaces. For privately owned public spaces that require certifications under sections 37-625 (Design changes) or 37-78 (Compliance), and for through-block connections, the signage provisions of Zoning Resolution Section 37-751 (Public space signage systems) and 37-53(h) (Design Standards for Pedestrian Circulation Spaces), respectively, will continue to apply, as supplemented herein.
+
+(d) If signage is proposed as part of an application for a Chair or Commission approval under the Zoning Resolution, the DCP's review and approval of such signage in accordance with this rule must be concurrent with the DCP's review of such application and incorporated into any application before the Chair or Commission for their approval.
+
+(e) Any signage system approved pursuant to this rule for an existing privately owned public space governed by plans approved pursuant to a prior approval under the Zoning Resolution will be deemed to be in substantial compliance with such plans.
+
+
+
+
+
+
+
+
+*§ 11-05 Design Review.* ::
+
+
+Prior to installation of any signage at a privately owned public space after the effective date of this rule, an owner or manager, or agent thereof, of any privately owned public space, must submit to the DCP a package for approval, consisting of the following materials:
+
+(a) The form, available at the DCP's website, requesting a design review;
+
+(b) Copies of the most recently approved drawings, if any, of the privately owned public space or spaces; and
+
+(c) A plan for a signage system, prepared in accordance with the requirements herein.
+
+A fee in the amount of $500, payable to the DCP, will be charged for each privately owned public space signage design review that is not part of an application for DCP's review of a new privately owned public space or the redesign of an existing privately owned public space pursuant to the Zoning Resolution or section 197-c of the Charter of the City of New York.
+
+
+
+
+
+
+
+
+*§ 11-06 Compliance.* ::
+
+
+As of the effective date of this rule, owners of a privately owned public space without any previously approved signage, or with previously approved signage that does not include a statement that such space is open to the public and the hours it is open will have 180 days from the effective date of this rule to submit a complete design review package to the DCP for approval, as specified in 62 RCNY § 11-04. All other owners will have two years from the effective date of this rule to submit a complete design review package. Privately owned public space owners will have 90 days from the date of DCP approval to install signage that complies with the approved plan(s). Such owners may for good cause, in connection with construction or renovation of the POPS, request extension of the 90-day period from DCP.
+
+
+
+
+
+
 Chapter 10: Pre-application Process: Submission and Meeting Participation Requirements Prior To Filing A Land Use Application Or Application For Environmental Review
 --------------------------------------------------
 
@@ -2375,125 +2494,6 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 (a) After an Applicant receives notification pursuant to 62 RCNY § 10-08(b) that it may proceed to file an application for environmental review, the Applicant may file such application pursuant to 62 RCNY Chapter 5.
 
 (b) Notwithstanding subdivision (a) of this section, an Applicant may proceed with filing an application for environmental review where otherwise provided in this chapter.
-
-
-
-
-Chapter 11: Signage Systems for Privately Owned Public Spaces
---------------------------------------------------
-
-
-
-*§ 11-01 Signage Systems for Privately Owned Public Spaces.* ::
-
-
-This rule applies in addition to sections 37-53(h) (Design Standards for Pedestrian Circulation Spaces) and 37-751 (Public space signage systems) of the New York City Zoning Resolution (hereinafter, "Zoning Resolution") and other sections thereof incorporating section 37-751 by reference, except as otherwise provided.
-
-
-
-
-
-
-
-
-*§ 11-02 Purpose.* ::
-
-
-The purpose of this rule is to ensure that all privately owned public spaces have clear, visible, and readable signage at appropriate locations within such spaces that easily identifies such spaces as open to the public and also presents other information related to such privately owned public space.
-
-
-
-
-
-
-
-
-*§ 11-03 Definitions.* ::
-
-
-For the purposes of this section, the term "privately owned public space" is defined in Local Law 116 of 2017, as amended by Local Law 250 of 2017, as follows: (1) a plaza, residential plaza, urban plaza, public plaza, elevated plaza, arcade, through block arcade, through block galleria, through block connection, open air concourse, covered pedestrian space, publicly accessible space or sidewalk widening provided for in the Zoning Resolution, now or previously in effect; (2) such other privately owned outdoor or indoor space required to be open to the public and for which the Department of City Planning ("DCP") maintains a record in the privately owned public space data set accessible through the open data web portal that is linked to nyc.gov or successor website pursuant to New York City Administrative Code section 23-502; and (3) such other privately owned outdoor or indoor spaces required to be open to the public pursuant to any of the following actions occurring on or after January 1, 2001:
-
-(a) A decision, authorization, certification, or special permit issued by the City Planning Commission (the "Commission");
-
-(b) A certification issued by the Chairperson of the Commission (the "Chair");
-
-(c) A variance of the Zoning Resolution or special permit issued by the Board of Standards and Appeals; or
-
-(d) Action taken by the City Council pursuant to section 197-d of the Charter of the City of New York.
-
-Such term does not include any waterfront public access areas regulated pursuant to article 6 chapter 2 of the Zoning Resolution.
-
-
-
-
-
-
-
-
-*§ 11-04 Applicability and Signage Requirements.* ::
-
-
-All privately owned public spaces must provide a signage system, subject to the requirements of this rule:
-
-(a) Prior to installation of any signage at a privately owned public space after the effective date of this rule, a signage system pursuant to this rule must be reviewed and approved by the DCP for compliance with the requirements of this rule; and
-
-(b) The signage system in all privately owned public spaces must include the following, provided in technical drawings that illustrate compliance with the provisions of this rule:
-
-   (1) The name and contact information of the person or entity charged by the owner with oversight of complaints about such space;
-
-   (2) A statement that such space is open to the public;
-
-   (3) The hours the space is open to the public;
-
-   (4) The primary amenities required in the space;
-
-   (5) A statement that complaints can be registered by calling 311, or its successor;
-
-   (6) A public space logo that matches exactly the logo and dimensions provided in the Required Signage Symbols file and the "New York City Privately Owned Public Space Signage Standards and Specifications" document available on the DCP's website (to be published by the DCP, and modified from time to time);
-
-   (7) For all privately owned public spaces established on or after October 1, 2017, such signage system must also include a site map, displaying the boundaries of the privately owned public space or spaces on the zoning lot relative to other structures on the zoning lot and the adjacent streets or public ways in accordance with the design guidelines specified in the "New York City Privately Owned Public Space Signage Standards and Specifications" available on the DCP's website (to be published by the DCP and modified from time to time); and
-
-   (8) For all privately owned public spaces with access for persons with disabilities, such signage system must also include the International Logo of Access for persons with disabilities that is at least three inches square.
-
-(c) For all privately owned public spaces which are not otherwise subject to Article III, Chapter 7 of the Zoning Resolution, the signage standards of Zoning Resolution section 37-751 (Public space signage systems), as supplemented herein, will serve as a guide and apply as reasonably determined by the DCP, in consideration of the circulation needs and of the type, size and configuration of the privately owned public space or spaces. For privately owned public spaces that require certifications under sections 37-625 (Design changes) or 37-78 (Compliance), and for through-block connections, the signage provisions of Zoning Resolution Section 37-751 (Public space signage systems) and 37-53(h) (Design Standards for Pedestrian Circulation Spaces), respectively, will continue to apply, as supplemented herein.
-
-(d) If signage is proposed as part of an application for a Chair or Commission approval under the Zoning Resolution, the DCP's review and approval of such signage in accordance with this rule must be concurrent with the DCP's review of such application and incorporated into any application before the Chair or Commission for their approval.
-
-(e) Any signage system approved pursuant to this rule for an existing privately owned public space governed by plans approved pursuant to a prior approval under the Zoning Resolution will be deemed to be in substantial compliance with such plans.
-
-
-
-
-
-
-
-
-*§ 11-05 Design Review.* ::
-
-
-Prior to installation of any signage at a privately owned public space after the effective date of this rule, an owner or manager, or agent thereof, of any privately owned public space, must submit to the DCP a package for approval, consisting of the following materials:
-
-(a) The form, available at the DCP's website, requesting a design review;
-
-(b) Copies of the most recently approved drawings, if any, of the privately owned public space or spaces; and
-
-(c) A plan for a signage system, prepared in accordance with the requirements herein.
-
-A fee in the amount of $500, payable to the DCP, will be charged for each privately owned public space signage design review that is not part of an application for DCP's review of a new privately owned public space or the redesign of an existing privately owned public space pursuant to the Zoning Resolution or section 197-c of the Charter of the City of New York.
-
-
-
-
-
-
-
-
-*§ 11-06 Compliance.* ::
-
-
-As of the effective date of this rule, owners of a privately owned public space without any previously approved signage, or with previously approved signage that does not include a statement that such space is open to the public and the hours it is open will have 180 days from the effective date of this rule to submit a complete design review package to the DCP for approval, as specified in 62 RCNY § 11-04. All other owners will have two years from the effective date of this rule to submit a complete design review package. Privately owned public space owners will have 90 days from the date of DCP approval to install signage that complies with the approved plan(s). Such owners may for good cause, in connection with construction or renovation of the POPS, request extension of the 90-day period from DCP.
-
-
 
 
 

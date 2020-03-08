@@ -1,285 +1,6 @@
 Title 51: City Clerk
 ===================================================
 
-Chapter 2: Commissioner of Deeds
---------------------------------------------------
-
-
-
-*§ 2-01 Qualifications.* ::
-
-
-To become a Commissioner of Deeds, an individual:
-
-(a) must be a citizen of the United States of America;
-
-(b) must be a resident of the City of New York, or be an attorney who maintains a law office within the City of New York (such attorneys are deemed residents of the City by NYS Executive Law §§ 140(5) and (5-a) for the purpose of becoming a Commissioner of Deeds);
-
-(c) must be at least 18 years of age;
-
-(d) must not have been removed from the Office of Notary Public or Commissioner of Deeds;
-
-(e) must be an attorney, an attorney's employee, someone serving a clerkship in a law office, or someone who has qualified for a Certificate of Fitness from the Office of the City Clerk. After the oath or affirmation is administered, the Commissioner of Deeds should place the appropriate one of the following statements (called a "jurat") after the person's signature: "Sworn to before me this ____________________ day of __________,  19 ____." The jurat must be followed by the signature and other information of the Commissioner of Deeds as described above.
-
-   (1) Acknowledgements. For the purpose of a Commissioner of Deeds, an acknowledgement is a declaration by a person that he is in fact the person who is described in a particular document and that he has executed (signed) that particular document. There is no particular form that must be used in taking an acknowledgement. For an acknowledgement to be valid, the Commissioner of Deeds must ask the person making the acknowledgement:
-
-      (i) to identify himself to the satisfaction of the commissioner of deeds;
-
-      (ii) whether he is the person described in the document; and
-
-      (iii) whether it is in fact his signature on the document.
-
-(It is not essential for the person to sign the document in the presence of the Commissioner of Deeds.)
-
-After taking an acknowledgement, the Commissioner of Deeds must place a statement on the document or attach a statement to the document as evidence of her taking the acknowledgment. Whatever form used, the statement must recite all the matters that were required to be done, known or proved on the taking of the acknowledgement, together with the name and substance of the declaration of the person making the acknowledgement. An acceptable form of such a statement is: "On this ________________ day of __________, 19 ____, before me came (person's name), to me known to be the individual described in and who executed the foregoing instrument, and acknowledged that he executed the same." This must be followed by the Commissioner's signature and other information as described above.
-
-
-
-
-
-
-*§ 2-02 Certificates of Fitness – Qualifications.* ::
-
-
-To qualify for a Certificate of Fitness from the Office of the City Clerk, an applicant for the office of Commissioner of Deeds:
-
-(a) must not have any outstanding tax bills or any unpaid traffic tickets; and
-
-(b) must not have been convicted of:
-
-   (1) any felony; or
-
-   (2) illegally using, carrying or possessing a pistol or other dangerous weapon; or
-
-   (3) making or possessing burglar's tools; or
-
-   (4) buying or receiving or criminally possessing stolen property; or
-
-   (5) unlawful entry of a building; or
-
-   (6) aiding escape from prison; or
-
-   (7) unlawfully possessing or distributing habit-forming narcotic drugs; or
-
-   (8) practicing or appearing as attorney-at-law without being admitted and registered (Judiciary Law § 478; former Penal Law § 270); or
-
-   (9) soliciting legal business on behalf of an attorney (Jud. Law § 479; former Penal Law § 270-a); or
-
-   (10) entering a hospital to negotiate a settlement or obtain a release statement from a patient (Jud. § 480; former Penal Law § 270-b); or
-
-   (11) being an employee or another attached to a hospital, police department, prison, court, or bail bond institution, who assisted or abetted the solicitation of persons or the procurement of a retainer for or on behalf of an attorney (Jud. Law § 481; former Penal Law § 270-c); or
-
-   (12) unlawfully practicing law (Jud. Law § 484; former Penal Law § 271); or
-
-   (13) purchasing claims for the purpose of commencing a lawsuit (Jud. Law § 489; former Penal Law § 275); or
-
-   (14) as an attorney, sharing legal fees with a non-attorney (Jud. Law § 491; former Penal Law § 271); or
-
-   (15) "jostling," i.e., taking certain actions designed to aid or commit pickpocketing (Penal Law § 165.30; former Penal Law § 722); or
-
-   (16) fraudulent accosting (Penal Law § 165.30; former Penal Law § 722); or
-
-   (17) aggravated harassment in the second degree via electronic, print, or other medium (Penal Law § 240.30(1); former Penal Law § 722); or
-
-   (18) loitering for the purpose of engaging another in deviate sexual intercourse or other deviate sexual behavior (Penal Law § 240.35(3); former Penal Law § 722); or
-
-   (19) violation of §§ 550; 551, or 551-a of the former Penal Law; or
-
-   (20) vagrancy or prostitution.
-
-(c) must, if applying on or after January 1, 1990, have earned a grade of at least 65 percent on a written examination to be administered by the Office of the City Clerk in accordance with 51 RCNY § 2-03 of these Rules.
-
-
-
-
-
-
-*§ 2-03 Certificates of Fitness – Application and Examination.* ::
-
-
-(a) Commencing January 1, 1990, the City Clerk will not issue a Certificate of Fitness to any applicant for the Office of Commissioner of Deeds until and unless the applicant has earned a grade of at least 65 percent on a written examination administered by the Office of the City Clerk.
-
-(b) Applicants shall take the examination prior to submitting their application and fees. An application shall not be considered complete unless the applicant has earned a grade of at least 65 percent on the written examination prior to the submission of the application form.
-
-(c) The written examination shall be administered by the Office of the City Clerk in accordance with a schedule and in such places as shall be set and announced from time to time by the City Clerk.
-
-(d) The written examination shall be of a format type as shall be set and announced by the City Clerk from time to time. Examples of formats include, but are not limited to, short answer, essay question, multiple choice, true/false, or any combination thereof; open book; or closed book.
-
-(e) The examination shall be based solely on information contained in the City Clerk's rules for the Office of Commissioner of Deeds.
-
-(f) All earned grades shall be final. Applicants who do not earn a passing grade shall be free to try again to earn a passing grade at any and all future, regular test administrations by the Office of the City Clerk.
-
-
-
-
-
-
-*§ 2-04 Applications.* ::
-
-
-(a) Obtain and complete the appropriate application form as per the instructions.
-
-(b) Have the application notarized.
-
-(c) Applicants serving clerkships in the offices of attorneys, and whose clerkship certificates are on file with the proper officials, shall submit an affidavit to that effect. (First-time applicants only.)
-
-(d) Other employees of attorneys shall submit an affidavit, sworn to by a member of the law firm, stating that the applicant is a proper and competent person to perform the duties of a Commissioner of Deeds. (First-time applicants only.)
-
-(e) Submit a certified check or money order for the appropriate amount. Upon being notified of appointment, the applicant must appear in person at the Office of the City Clerk and take an oath of office. In so doing, the applicant must swear or affirm that: he is a citizen of the United States, and a resident of the State of New York, the City of New York and the county of (name of the county); that he will support the constitutions of the State of New York and of the United States, and that he will faithfully discharge the duties of the Office of Commissioner of Deeds.
-
-
-
-
-
-
-*§ 2-05 Term of Office.* ::
-
-
-The term of office for a Commissioner of Deeds is two years, commencing from the date of appointment.
-
-(a) For individuals who are residents of the City of New York: Any Commissioner of Deeds who ceases to be a resident of New York City automatically gives up his or her office of Commissioner of Deeds. When any Commissioner of Deeds ceases to be a resident of New York City he or she must immediately notify the Office of the City Clerk.
-
-(b) For attorneys who are deemed "residents" of the City of New York by virtue of having law offices within City: Any Commissioner of Deeds who ceases to maintain a law office within New York City automatically gives up his or her office of Commissioner of Deeds. When any Commissioner of Deeds ceases to maintain a law office within New York City he or she must immediately notify the Office of the City Clerk.
-
-
-
-
-
-
-*§ 2-06 Procedures for Exercising the Powers of a Commissioner of Deeds.* ::
-
-
-(a) Required information. On each document sworn to, acknowledged, or proved before him, a Commissioner of Deeds must affix, in black ink,
-
-   (1) his signature;
-
-   (2) his printed, typewritten, or stamped name;
-
-   (3) his office title;
-
-   (4) his official number; and
-
-   (5) the date when his term expires. An example of the form to be followed is:
-
-      (signature) Jane Sample Commissioner of Deeds, New York City 123456789 Term Expires: (date)
-
- A Commissioner of Deeds must sign the name under which she was appointed; she may use no other. When a Commissioner of Deeds marries during the term of office, the Commissioner must continue to use any pre-marriage surname when signing as a Commissioner of Deeds. However, if the Commissioner wishes to include a new, marriage surname, the Commissioner must use the pre-marriage surname in the Commissioner's signature and printed name, and then add the marriage surname in parentheses after the signature. When the term of office expires, the Commissioner's renewal application may be made either under the pre-marriage or the marriage surname. When the renewal is granted the Commissioner must perform all functions solely under the name used on the renewal application. A Commissioner of Deeds must immediately notify the Office of the City Clerk concerning any changes of address. It is optional to have an official stamp or seal. A Commissioner of Deeds appointed in the City of New York may administer oaths and take acknowledgements or proofs of deeds and other documents in any part of the City of New York.
-
-(b) Administering oaths and taking acknowledgement or proofs.
-
-   (1) Oaths. For the purpose of a Commissioner of Deeds, an oath is a person's verbal pledge that her statements contained in a document are true. An affirmation is the equivalent of an oath and may be administered to anyone who objects to taking an oath as a matter of principle. Oaths and affirmations must be administered in legally acceptable forms. An acceptable form for administering an oath is: "Do you solemnly swear that the contents of the statement made and subscribed by you are true and correct?" An acceptable form for administering an affirmation is: "Do you solemnly, sincerely, and truly, declare and affirm that the statements made and subscribed by you are true and correct?" When an oath or affirmation is administered, the person swearing or affirming must express assent to the oath or affirmation by the words "I do" or words of like meaning. For an oath or affirmation to be valid, whatever form is used, it is necessary that:
-
-      (i) the person swearing or affirming be personally present before the Commissioner of Deeds;
-
-      (ii) the person unequivocally swears or affirms that what she states is true;
-
-      (iii) the person swears or affirms as of that moment; and
-
-      (iv) the person consciously and conscientiously takes upon herself the obligation of an oath or affirmation.
-
-   (2) Proofs.
-
-      (i) A proof is used in place of an acknowledgement on certain instruments. A proof is a formal declaration by a person who witnessed the signing of an instrument and who himself signed as a subscribing witness, which declaration sets forth:
-
-         (A) the witness' place of residence;
-
-         (B) that the witness knew the individual who is described in and who executed (signed) the instrument; and
-
-         (C) that the witness actually saw the individual sign the instrument.
-
-      (ii) As with acknowledgements, there is no prescribed form for taking a proof. For a proof to be valid, the commissioner of deeds must be satisfied that:
-
-         (A) the witness is who she claims to be;
-
-         (B) the witness is stating her correct place of residence;
-
-         (C) the witness does in fact personally know the individual who executed the instrument; and
-
-         (D) the witness actually saw the individual execute the instrument. When a proof is taken, the Commissioner of Deeds must place a statement on the document or attached thereto as evidence of her having taken the proof. Whatever form is used, the statement must recite all the matters that were required to be done, known, or proved on the taking of the proof, together with the name, place of residence, and substance of the declaration of the person giving proof. An acceptable form of the statement is: "On this ________________ day of __________,  19 ____, before me came (person's name), to me known to be the individual who subscribed as witness the foregoing instrument and declared that she resides at (house and street), (town or city), (state), that she knows personally (person's name), that she knows the person to be the individual described in and who executed the foregoing instrument, and that (the person) executed the foregoing instrument in her presence." This statement must be followed by the Commissioner's signature and other information described above.
-
-   (3) Fee. The fee for administering an oath or taking an acknowledgement or proof is twenty-five cents.
-
-(c) Authentication. "Authentication" in this case involves a County Clerk affirming the genuineness of a certificate of acknowledgement, proof, or oath taken before a Commissioner of Deeds. The significance of authentication is as follows: When an instrument or paper is sworn to, proved, or acknowledged before a Commissioner of Deeds within the City of New York, it can be recorded and read in evidence in any office of any County Clerk within the City of New York or in the Office of the Register of the City of New York without the need for further proof. However, for such an instrument to be read into evidence, without the need for further proof, anywhere in New York outside the five boroughs of the City, it is necessary that the instrument first be authenticated by one of the County Clerks in the City of New York. To permit people to have instruments authenticated, a Commissioner of Deeds may file his autograph signature and certificate of appointment in the office of any County Clerk in New York City. Certificates of appointment may be obtained from the Office of the City Clerk.
-
-
-
-
-
-
-*§ 2-07 Restrictions.* ::
-
-
-(a) A Commissioner of Deeds must be and remain a resident of New York City. If a Commissioner of Deeds ceases to be a New York City resident he vacates his office and must immediately notify the City Clerk.
-
-(b) A Commissioner of Deeds appointed within the City of New York cannot perform official functions anywhere except within the five boroughs of the City of New York.
-
-(c) A Commissioner cannot certify any document to a transaction in which the Commissioner has an interest (financial) or to which the Commissioner of Deeds is a party.
-
-(d) A Commissioner of Deeds cannot charge a fee for administering oaths of office to: a member of the legislature; any military officer; an inspector of election; a clerk of the poll; or any other public officer or public employee.
-
-(e) The powers of a Commissioner of Deeds are personal and cannot be delegated to anyone.
-
-(f) A Commissioner of Deeds who is an employee or stockholder of a corporation may take the acknowledgement or proof of any party to a written instrument executed by the corporation, or may administer an oath to any other officer, employee, or stockholder of the corporation, except when the Commissioner of Deeds himself is one of the parties executing the instrument either as individual or as a representative of the corporation.
-
-(g) A Commissioner of Deeds has no power to protest a negotiable instrument (e.g., a promissory note or bill of exchange).
-
-(h) A Commissioner of Deeds cannot take an acknowledgement or proof of the execution of a will.
-
-
-
-
-
-
-*§ 2-08 Professional Conduct.* ::
-
-
-(a) General. A Commissioner of Deeds is a public officer, and is so regarded under the laws of the State of New York. As such, a high standard of professional conduct is required and expected of each individual having an appointment as a Commissioner of Deeds. Moreover, the care with which a Commissioner of Deeds performs her duties can often be the only thing that ensures the integrity of a particular document. In performing the functions of his or her office, a Commissioner of Deeds must:
-
-   (1) take an acknowledgement or proof, or administer an oath, only when the individual is personally present (taking proofs or acknowledgements, or administering oaths, over the telephone or otherwise is absolutely illegal);
-
-   (2) always satisfy himself as to the true identity of the individual giving the acknowledgement or taking an oath; and
-
-   (3) always follow the appropriate forms when administering oaths, issuing certificates, etc. In addition to the prohibition against the careless performance of the duties of the office of Commissioner of Deeds, there are strict legal proscriptions against the deliberate abuse of the office:
-
-(b) Official misconduct. A public servant is guilty of official misconduct when, with intent to obtain a benefit or to injure or deprive another person of a benefit:
-
-   (1) he commits an act relating to his office but constituting an unauthorized exercise of his official functions, knowing that such act is unauthorized; or
-
-   (2) he knowingly refrains from performing a duty which is imposed upon him by law or is clearly inherent in the nature of his office.
-
-Official misconduct is a Class A misdemeanor.
-
-(NYS Penal Law § 195.00.)
-
-(c) Issuing a false certificate. (Falsely stating that someone took an oath or gave an acknowledgement of proof.) A person is guilty of issuing a false certificate when, being a public servant authorized by law to make or issue official certificates or other official written instruments, and with intent to defraud, deceive or injure another person, he issues such an instrument, or makes the same with intent that it be issued, knowing that it contains a false statement or false information.
-
-Issuing a false certificate is a Class E felony.
-
-(NYS Penal Law § 175.40.)
-
-(d) Forgery in the second degree. A person is guilty of forgery in the second degree when, with intent to defraud, deceive, or injure another, he falsely makes, completes or alters a written instrument which is or purports to be, or which is calculated to become or to represent if completed:
-
-   (1) a deed, will codicil, contract, assignment, commercial instrument, or other instrument which does or may evidence, create, transfer, terminate or otherwise effect a legal right, interest, obligation or status; or
-
-   (2) a public record, or an instrument filed or required or authorized by law to be filed in or with a public office or public servant; or
-
-   (3) a written instrument officially issued or created by a public office, public servant or governmental instrumentality.
-
-Forgery in the second degree is a Class D felony.
-
-(NYS Penal Law § 170.10.)
-
-(e) Fees. A public officer or other person who charges a fee for his service which is greater than the amount allowed by statute, or which charges a fee for services that were not actually rendered, is liable, in addition to the punishment prescribed by law for the criminal offense, to an action on behalf of the person aggrieved, in which the plaintiff is entitled to treble damages. (Outline of NYS Pub. Off. Law §§ 67(2), (3), (4).)
-
-(f) Fraud in office. A Commissioner of Deeds who, in the exercise of the powers, or in the performance of the duties of such office, shall practice any fraud or deceit, the punishment for which is not otherwise provided for by this act, shall be guilty of a misdemeanor. (NYS Exec. Law § 135-a(2).)
-
-(g) Acting without authority. Anyone who holds himself out to the public as being entitled to act as a Commissioner of Deeds or conveys the impression that he is a Commissioner of Deeds, without having been appointed a Commissioner of Deeds, is guilty of a misdemeanor. (NYS Exec. Law § 135-a(1).)
-
-(h) Penalties. In addition to the criminal and civil penalties outlined above, any kind of misconduct in office by a Commissioner of Deeds is punishable by removal from office. Section 140 of the New York State Executive Law vests the Office of the Mayor with the power to remove a Commissioner of Deeds from office for cause shown. Commissioners have the right to answer charges brought against them. (NYS Exec. Law § 140(12).) Removal from office as a Commissioner of Deeds of the City of New York disqualifies an individual from ever again being appointed to that office. In addition, that individual is disqualified from becoming a Notary Public. Anyone removed from office as a Commissioner of Deeds who, after learning of such removal, continues to perform the functions of that office, shall be guilty of a misdemeanor.
-
-
-
-
 Chapter 1: Lobbying
 --------------------------------------------------
 
@@ -1177,6 +898,442 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
+Chapter 2: Commissioner of Deeds
+--------------------------------------------------
+
+
+
+*§ 2-01 Qualifications.* ::
+
+
+To become a Commissioner of Deeds, an individual:
+
+(a) must be a citizen of the United States of America;
+
+(b) must be a resident of the City of New York, or be an attorney who maintains a law office within the City of New York (such attorneys are deemed residents of the City by NYS Executive Law §§ 140(5) and (5-a) for the purpose of becoming a Commissioner of Deeds);
+
+(c) must be at least 18 years of age;
+
+(d) must not have been removed from the Office of Notary Public or Commissioner of Deeds;
+
+(e) must be an attorney, an attorney's employee, someone serving a clerkship in a law office, or someone who has qualified for a Certificate of Fitness from the Office of the City Clerk. After the oath or affirmation is administered, the Commissioner of Deeds should place the appropriate one of the following statements (called a "jurat") after the person's signature: "Sworn to before me this ____________________ day of __________,  19 ____." The jurat must be followed by the signature and other information of the Commissioner of Deeds as described above.
+
+   (1) Acknowledgements. For the purpose of a Commissioner of Deeds, an acknowledgement is a declaration by a person that he is in fact the person who is described in a particular document and that he has executed (signed) that particular document. There is no particular form that must be used in taking an acknowledgement. For an acknowledgement to be valid, the Commissioner of Deeds must ask the person making the acknowledgement:
+
+      (i) to identify himself to the satisfaction of the commissioner of deeds;
+
+      (ii) whether he is the person described in the document; and
+
+      (iii) whether it is in fact his signature on the document.
+
+(It is not essential for the person to sign the document in the presence of the Commissioner of Deeds.)
+
+After taking an acknowledgement, the Commissioner of Deeds must place a statement on the document or attach a statement to the document as evidence of her taking the acknowledgment. Whatever form used, the statement must recite all the matters that were required to be done, known or proved on the taking of the acknowledgement, together with the name and substance of the declaration of the person making the acknowledgement. An acceptable form of such a statement is: "On this ________________ day of __________, 19 ____, before me came (person's name), to me known to be the individual described in and who executed the foregoing instrument, and acknowledged that he executed the same." This must be followed by the Commissioner's signature and other information as described above.
+
+
+
+
+
+
+*§ 2-02 Certificates of Fitness – Qualifications.* ::
+
+
+To qualify for a Certificate of Fitness from the Office of the City Clerk, an applicant for the office of Commissioner of Deeds:
+
+(a) must not have any outstanding tax bills or any unpaid traffic tickets; and
+
+(b) must not have been convicted of:
+
+   (1) any felony; or
+
+   (2) illegally using, carrying or possessing a pistol or other dangerous weapon; or
+
+   (3) making or possessing burglar's tools; or
+
+   (4) buying or receiving or criminally possessing stolen property; or
+
+   (5) unlawful entry of a building; or
+
+   (6) aiding escape from prison; or
+
+   (7) unlawfully possessing or distributing habit-forming narcotic drugs; or
+
+   (8) practicing or appearing as attorney-at-law without being admitted and registered (Judiciary Law § 478; former Penal Law § 270); or
+
+   (9) soliciting legal business on behalf of an attorney (Jud. Law § 479; former Penal Law § 270-a); or
+
+   (10) entering a hospital to negotiate a settlement or obtain a release statement from a patient (Jud. § 480; former Penal Law § 270-b); or
+
+   (11) being an employee or another attached to a hospital, police department, prison, court, or bail bond institution, who assisted or abetted the solicitation of persons or the procurement of a retainer for or on behalf of an attorney (Jud. Law § 481; former Penal Law § 270-c); or
+
+   (12) unlawfully practicing law (Jud. Law § 484; former Penal Law § 271); or
+
+   (13) purchasing claims for the purpose of commencing a lawsuit (Jud. Law § 489; former Penal Law § 275); or
+
+   (14) as an attorney, sharing legal fees with a non-attorney (Jud. Law § 491; former Penal Law § 271); or
+
+   (15) "jostling," i.e., taking certain actions designed to aid or commit pickpocketing (Penal Law § 165.30; former Penal Law § 722); or
+
+   (16) fraudulent accosting (Penal Law § 165.30; former Penal Law § 722); or
+
+   (17) aggravated harassment in the second degree via electronic, print, or other medium (Penal Law § 240.30(1); former Penal Law § 722); or
+
+   (18) loitering for the purpose of engaging another in deviate sexual intercourse or other deviate sexual behavior (Penal Law § 240.35(3); former Penal Law § 722); or
+
+   (19) violation of §§ 550; 551, or 551-a of the former Penal Law; or
+
+   (20) vagrancy or prostitution.
+
+(c) must, if applying on or after January 1, 1990, have earned a grade of at least 65 percent on a written examination to be administered by the Office of the City Clerk in accordance with 51 RCNY § 2-03 of these Rules.
+
+
+
+
+
+
+*§ 2-03 Certificates of Fitness – Application and Examination.* ::
+
+
+(a) Commencing January 1, 1990, the City Clerk will not issue a Certificate of Fitness to any applicant for the Office of Commissioner of Deeds until and unless the applicant has earned a grade of at least 65 percent on a written examination administered by the Office of the City Clerk.
+
+(b) Applicants shall take the examination prior to submitting their application and fees. An application shall not be considered complete unless the applicant has earned a grade of at least 65 percent on the written examination prior to the submission of the application form.
+
+(c) The written examination shall be administered by the Office of the City Clerk in accordance with a schedule and in such places as shall be set and announced from time to time by the City Clerk.
+
+(d) The written examination shall be of a format type as shall be set and announced by the City Clerk from time to time. Examples of formats include, but are not limited to, short answer, essay question, multiple choice, true/false, or any combination thereof; open book; or closed book.
+
+(e) The examination shall be based solely on information contained in the City Clerk's rules for the Office of Commissioner of Deeds.
+
+(f) All earned grades shall be final. Applicants who do not earn a passing grade shall be free to try again to earn a passing grade at any and all future, regular test administrations by the Office of the City Clerk.
+
+
+
+
+
+
+*§ 2-04 Applications.* ::
+
+
+(a) Obtain and complete the appropriate application form as per the instructions.
+
+(b) Have the application notarized.
+
+(c) Applicants serving clerkships in the offices of attorneys, and whose clerkship certificates are on file with the proper officials, shall submit an affidavit to that effect. (First-time applicants only.)
+
+(d) Other employees of attorneys shall submit an affidavit, sworn to by a member of the law firm, stating that the applicant is a proper and competent person to perform the duties of a Commissioner of Deeds. (First-time applicants only.)
+
+(e) Submit a certified check or money order for the appropriate amount. Upon being notified of appointment, the applicant must appear in person at the Office of the City Clerk and take an oath of office. In so doing, the applicant must swear or affirm that: he is a citizen of the United States, and a resident of the State of New York, the City of New York and the county of (name of the county); that he will support the constitutions of the State of New York and of the United States, and that he will faithfully discharge the duties of the Office of Commissioner of Deeds.
+
+
+
+
+
+
+*§ 2-05 Term of Office.* ::
+
+
+The term of office for a Commissioner of Deeds is two years, commencing from the date of appointment.
+
+(a) For individuals who are residents of the City of New York: Any Commissioner of Deeds who ceases to be a resident of New York City automatically gives up his or her office of Commissioner of Deeds. When any Commissioner of Deeds ceases to be a resident of New York City he or she must immediately notify the Office of the City Clerk.
+
+(b) For attorneys who are deemed "residents" of the City of New York by virtue of having law offices within City: Any Commissioner of Deeds who ceases to maintain a law office within New York City automatically gives up his or her office of Commissioner of Deeds. When any Commissioner of Deeds ceases to maintain a law office within New York City he or she must immediately notify the Office of the City Clerk.
+
+
+
+
+
+
+*§ 2-06 Procedures for Exercising the Powers of a Commissioner of Deeds.* ::
+
+
+(a) Required information. On each document sworn to, acknowledged, or proved before him, a Commissioner of Deeds must affix, in black ink,
+
+   (1) his signature;
+
+   (2) his printed, typewritten, or stamped name;
+
+   (3) his office title;
+
+   (4) his official number; and
+
+   (5) the date when his term expires. An example of the form to be followed is:
+
+      (signature) Jane Sample Commissioner of Deeds, New York City 123456789 Term Expires: (date)
+
+ A Commissioner of Deeds must sign the name under which she was appointed; she may use no other. When a Commissioner of Deeds marries during the term of office, the Commissioner must continue to use any pre-marriage surname when signing as a Commissioner of Deeds. However, if the Commissioner wishes to include a new, marriage surname, the Commissioner must use the pre-marriage surname in the Commissioner's signature and printed name, and then add the marriage surname in parentheses after the signature. When the term of office expires, the Commissioner's renewal application may be made either under the pre-marriage or the marriage surname. When the renewal is granted the Commissioner must perform all functions solely under the name used on the renewal application. A Commissioner of Deeds must immediately notify the Office of the City Clerk concerning any changes of address. It is optional to have an official stamp or seal. A Commissioner of Deeds appointed in the City of New York may administer oaths and take acknowledgements or proofs of deeds and other documents in any part of the City of New York.
+
+(b) Administering oaths and taking acknowledgement or proofs.
+
+   (1) Oaths. For the purpose of a Commissioner of Deeds, an oath is a person's verbal pledge that her statements contained in a document are true. An affirmation is the equivalent of an oath and may be administered to anyone who objects to taking an oath as a matter of principle. Oaths and affirmations must be administered in legally acceptable forms. An acceptable form for administering an oath is: "Do you solemnly swear that the contents of the statement made and subscribed by you are true and correct?" An acceptable form for administering an affirmation is: "Do you solemnly, sincerely, and truly, declare and affirm that the statements made and subscribed by you are true and correct?" When an oath or affirmation is administered, the person swearing or affirming must express assent to the oath or affirmation by the words "I do" or words of like meaning. For an oath or affirmation to be valid, whatever form is used, it is necessary that:
+
+      (i) the person swearing or affirming be personally present before the Commissioner of Deeds;
+
+      (ii) the person unequivocally swears or affirms that what she states is true;
+
+      (iii) the person swears or affirms as of that moment; and
+
+      (iv) the person consciously and conscientiously takes upon herself the obligation of an oath or affirmation.
+
+   (2) Proofs.
+
+      (i) A proof is used in place of an acknowledgement on certain instruments. A proof is a formal declaration by a person who witnessed the signing of an instrument and who himself signed as a subscribing witness, which declaration sets forth:
+
+         (A) the witness' place of residence;
+
+         (B) that the witness knew the individual who is described in and who executed (signed) the instrument; and
+
+         (C) that the witness actually saw the individual sign the instrument.
+
+      (ii) As with acknowledgements, there is no prescribed form for taking a proof. For a proof to be valid, the commissioner of deeds must be satisfied that:
+
+         (A) the witness is who she claims to be;
+
+         (B) the witness is stating her correct place of residence;
+
+         (C) the witness does in fact personally know the individual who executed the instrument; and
+
+         (D) the witness actually saw the individual execute the instrument. When a proof is taken, the Commissioner of Deeds must place a statement on the document or attached thereto as evidence of her having taken the proof. Whatever form is used, the statement must recite all the matters that were required to be done, known, or proved on the taking of the proof, together with the name, place of residence, and substance of the declaration of the person giving proof. An acceptable form of the statement is: "On this ________________ day of __________,  19 ____, before me came (person's name), to me known to be the individual who subscribed as witness the foregoing instrument and declared that she resides at (house and street), (town or city), (state), that she knows personally (person's name), that she knows the person to be the individual described in and who executed the foregoing instrument, and that (the person) executed the foregoing instrument in her presence." This statement must be followed by the Commissioner's signature and other information described above.
+
+   (3) Fee. The fee for administering an oath or taking an acknowledgement or proof is twenty-five cents.
+
+(c) Authentication. "Authentication" in this case involves a County Clerk affirming the genuineness of a certificate of acknowledgement, proof, or oath taken before a Commissioner of Deeds. The significance of authentication is as follows: When an instrument or paper is sworn to, proved, or acknowledged before a Commissioner of Deeds within the City of New York, it can be recorded and read in evidence in any office of any County Clerk within the City of New York or in the Office of the Register of the City of New York without the need for further proof. However, for such an instrument to be read into evidence, without the need for further proof, anywhere in New York outside the five boroughs of the City, it is necessary that the instrument first be authenticated by one of the County Clerks in the City of New York. To permit people to have instruments authenticated, a Commissioner of Deeds may file his autograph signature and certificate of appointment in the office of any County Clerk in New York City. Certificates of appointment may be obtained from the Office of the City Clerk.
+
+
+
+
+
+
+*§ 2-07 Restrictions.* ::
+
+
+(a) A Commissioner of Deeds must be and remain a resident of New York City. If a Commissioner of Deeds ceases to be a New York City resident he vacates his office and must immediately notify the City Clerk.
+
+(b) A Commissioner of Deeds appointed within the City of New York cannot perform official functions anywhere except within the five boroughs of the City of New York.
+
+(c) A Commissioner cannot certify any document to a transaction in which the Commissioner has an interest (financial) or to which the Commissioner of Deeds is a party.
+
+(d) A Commissioner of Deeds cannot charge a fee for administering oaths of office to: a member of the legislature; any military officer; an inspector of election; a clerk of the poll; or any other public officer or public employee.
+
+(e) The powers of a Commissioner of Deeds are personal and cannot be delegated to anyone.
+
+(f) A Commissioner of Deeds who is an employee or stockholder of a corporation may take the acknowledgement or proof of any party to a written instrument executed by the corporation, or may administer an oath to any other officer, employee, or stockholder of the corporation, except when the Commissioner of Deeds himself is one of the parties executing the instrument either as individual or as a representative of the corporation.
+
+(g) A Commissioner of Deeds has no power to protest a negotiable instrument (e.g., a promissory note or bill of exchange).
+
+(h) A Commissioner of Deeds cannot take an acknowledgement or proof of the execution of a will.
+
+
+
+
+
+
+*§ 2-08 Professional Conduct.* ::
+
+
+(a) General. A Commissioner of Deeds is a public officer, and is so regarded under the laws of the State of New York. As such, a high standard of professional conduct is required and expected of each individual having an appointment as a Commissioner of Deeds. Moreover, the care with which a Commissioner of Deeds performs her duties can often be the only thing that ensures the integrity of a particular document. In performing the functions of his or her office, a Commissioner of Deeds must:
+
+   (1) take an acknowledgement or proof, or administer an oath, only when the individual is personally present (taking proofs or acknowledgements, or administering oaths, over the telephone or otherwise is absolutely illegal);
+
+   (2) always satisfy himself as to the true identity of the individual giving the acknowledgement or taking an oath; and
+
+   (3) always follow the appropriate forms when administering oaths, issuing certificates, etc. In addition to the prohibition against the careless performance of the duties of the office of Commissioner of Deeds, there are strict legal proscriptions against the deliberate abuse of the office:
+
+(b) Official misconduct. A public servant is guilty of official misconduct when, with intent to obtain a benefit or to injure or deprive another person of a benefit:
+
+   (1) he commits an act relating to his office but constituting an unauthorized exercise of his official functions, knowing that such act is unauthorized; or
+
+   (2) he knowingly refrains from performing a duty which is imposed upon him by law or is clearly inherent in the nature of his office.
+
+Official misconduct is a Class A misdemeanor.
+
+(NYS Penal Law § 195.00.)
+
+(c) Issuing a false certificate. (Falsely stating that someone took an oath or gave an acknowledgement of proof.) A person is guilty of issuing a false certificate when, being a public servant authorized by law to make or issue official certificates or other official written instruments, and with intent to defraud, deceive or injure another person, he issues such an instrument, or makes the same with intent that it be issued, knowing that it contains a false statement or false information.
+
+Issuing a false certificate is a Class E felony.
+
+(NYS Penal Law § 175.40.)
+
+(d) Forgery in the second degree. A person is guilty of forgery in the second degree when, with intent to defraud, deceive, or injure another, he falsely makes, completes or alters a written instrument which is or purports to be, or which is calculated to become or to represent if completed:
+
+   (1) a deed, will codicil, contract, assignment, commercial instrument, or other instrument which does or may evidence, create, transfer, terminate or otherwise effect a legal right, interest, obligation or status; or
+
+   (2) a public record, or an instrument filed or required or authorized by law to be filed in or with a public office or public servant; or
+
+   (3) a written instrument officially issued or created by a public office, public servant or governmental instrumentality.
+
+Forgery in the second degree is a Class D felony.
+
+(NYS Penal Law § 170.10.)
+
+(e) Fees. A public officer or other person who charges a fee for his service which is greater than the amount allowed by statute, or which charges a fee for services that were not actually rendered, is liable, in addition to the punishment prescribed by law for the criminal offense, to an action on behalf of the person aggrieved, in which the plaintiff is entitled to treble damages. (Outline of NYS Pub. Off. Law §§ 67(2), (3), (4).)
+
+(f) Fraud in office. A Commissioner of Deeds who, in the exercise of the powers, or in the performance of the duties of such office, shall practice any fraud or deceit, the punishment for which is not otherwise provided for by this act, shall be guilty of a misdemeanor. (NYS Exec. Law § 135-a(2).)
+
+(g) Acting without authority. Anyone who holds himself out to the public as being entitled to act as a Commissioner of Deeds or conveys the impression that he is a Commissioner of Deeds, without having been appointed a Commissioner of Deeds, is guilty of a misdemeanor. (NYS Exec. Law § 135-a(1).)
+
+(h) Penalties. In addition to the criminal and civil penalties outlined above, any kind of misconduct in office by a Commissioner of Deeds is punishable by removal from office. Section 140 of the New York State Executive Law vests the Office of the Mayor with the power to remove a Commissioner of Deeds from office for cause shown. Commissioners have the right to answer charges brought against them. (NYS Exec. Law § 140(12).) Removal from office as a Commissioner of Deeds of the City of New York disqualifies an individual from ever again being appointed to that office. In addition, that individual is disqualified from becoming a Notary Public. Anyone removed from office as a Commissioner of Deeds who, after learning of such removal, continues to perform the functions of that office, shall be guilty of a misdemeanor.
+
+
+
+
+Chapter 3: Marriages
+--------------------------------------------------
+
+
+
+*§ 3-01 Marriage License Application Forms.* ::
+
+
+(a) Both parties must be present in order to obtain a blank marriage license application. The prospective bride and prospective groom must fill out the application in the City Clerk's office and present it for processing.
+
+(b) Under no circumstances shall a clerk give out a blank application for a marriage license unless both the prospective bride and prospective groom are personally present before that clerk, except that where, for religious or health reasons or, in the sole discretion of the City Clerk, by reason of other exigent circumstances, both parties to the marriage cannot be present at the same time, the City Clerk may waive the requirement imposed by subdivision (a) of this section.
+
+(c) The foregoing do not apply to cases where City Clerk personnel must issue a marriage license in a prison or a hospital or where the parties have submitted the application for a marriage license by electronic means.
+
+
+
+
+
+
+*§ 3-02 Issuing Licenses Outside of the Office.* ::
+
+
+Marriage licenses may be issued only at the Marriage Bureau in the ordinary course of the business day. There are only two exceptions to this section: cases where an individual is confined to a hospital, and cases where an individual is confined in prison. Such issuance is strictly a courtesy, and is therefore entirely subject to the availability of personnel and the schedule of the office.
+
+(a) In a hospital case, there are three requirements that must be met before a license may be issued:
+
+   (1) the parties must present a statement from the doctor indicating that the sick party is seriously ill, that he or she will be confined to the hospital for a very long period of time, that there is a possibility that the sick person will not survive the illness, and that the sick person is mentally competent to apply for the marriage license; and
+
+   (2) the parties must call ahead of time or make arrangements for the license to be issued; and
+
+   (3) the parties must be willing to furnish our clerk with transportation to and from the hospital, and must arrange on their own for someone to return to the office to pick up the marriage license after it has been prepared.
+
+(b) In a prison case, the requirements are as follows:
+
+   (1) the parties must present a written statement from the social worker, warden, or other authorized person granting consent for the issuing of the marriage license in the prison; and
+
+   (2) the parties must contact the office ahead of time to request the license to be issued and to make all necessary preparations.
+
+
+
+
+
+
+*§ 3-03 Hearings Pursuant to Domestic Relations Law § 15.* ::
+
+
+(a)  Production of witnesses or notarized affidavits to establish identity. If in the opinion of the issuing clerk there appears to be some question as to the identity of one or both of the parties, the City Clerk, pursuant to the provisions of § 15 of the New York State Domestic Relations Law, may compel the production of witnesses, certified official records or notarized affidavits to establish the identity of the parties.
+
+(b) Request for review of City Clerk's preliminary denial of marriage license.
+
+   (1) Applicants who have been preliminarily denied a marriage license by the City Clerk may request a review of such determination by paying a $25 fee and filing a request for a review on such form as may be provided by the City Clerk no later than 30 days after such preliminary denial. The City Clerk may waive this fee upon a showing of financial hardship.
+
+   (2) Duty of the City Clerk. Within fifteen days of receipt of a request for review the City Clerk shall forward to the Office of Administrative Trials and Hearings (OATH) such request for review, a written statement outlining the reason for the preliminary denial of the marriage license and the documentary evidence supporting the preliminary denial, all of which documentation with the exception of the request for review shall constitute the petition. A copy of the petition shall be mailed contemporaneously to the applicant via certified mail return receipt requested.
+
+   (3) Notice to spouse of record. Where the marriage license was denied because of the existence in the records of the City Clerk of a prior non-terminated marriage, the City Clerk shall exert its best efforts to notify the spouse of record of the impending action. The spouse of record shall be given twenty-one days from the date of mailing to respond to such notification. In such response, the spouse of record may request an opportunity to be heard on the issue, either in writing or at the hearing, if OATH decides a hearing is warranted. Upon request contained in such response, the City Clerk shall forward to the spouse of record all documentation exchanged among OATH, the City Clerk and the applicant.
+
+   (4) Applicant's duty to respond. Applicant shall, no later than thirty days after he or she receives the petition, submit in duplicate an answer to the City Clerk including therein any documentary evidence or other proof which may include notarized affidavits in support of his or her claim. Upon written request of the applicant stating the specific reason for such request, submitted no later than five days prior to the due date for such answer, the City Clerk may for good cause grant an extension of time for applicant to submit the same. Upon receipt of the answer the City Clerk shall forward a copy thereof to OATH. Applicant's failure to respond by the deadline set forth herein, including any extension granted by the City Clerk pursuant to this sub-paragraph, shall be deemed a withdrawal of the applicant's challenge to the City Clerk's preliminary decision and such preliminary decision shall thereafter be deemed final.
+
+   (5) Designation of OATH. Pursuant to Charter § 1048, the City Clerk designates OATH to conduct on its behalf all the reviews and hearings referred to herein.
+
+   (6) The reviewing officer. An administrative law judge ("ALJ") employed by OATH shall review the petition and the answer no later than fifteen days after the date of receipt of both the petition and the answer as well as any documentation presented by the spouse of record, if any. If upon such review the ALJ shall conclude that such evidence is sufficient to form a conclusion then the ALJ shall prepare no later than thirty days after receipt of all of the documents referred to in the first sentence of this paragraph a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition. Alternatively, if the ALJ shall conclude that the evidence presented is insufficient to form a conclusion, the ALJ shall convene a hearing at a date to be determined in such ALJ's sole discretion but no later than sixty days from the date of such initial review. Upon notification thereof by such ALJ, which notification may be electronic, the City Clerk, not later than five days after the date of such notification, shall notify the applicant as well as his or her attorney or other representative, if any, and the spouse of record, if any, of the date of the hearing by certified mail, return receipt requested. Such notification shall be post-marked no later than thirty days prior to the date of such hearing.
+
+   (7) Use of expert witness. It shall be the obligation of any party intending to present the testimony of expert witness or witnesses at the hearing to notify the ALJ and the opposing parties of such intention no later than fifteen days prior to the date of the hearing and to submit to both the ALJ and the opposing parties no later than seven days prior to the date of the hearing copies of any reports, filings or any other documentation produced by such expert witness or witnesses which such party intends to use at the hearing. The ALJ may grant an extension of time to the parties.
+
+   (8) The hearing. The ALJ shall preside over the hearing, make all procedural rulings, and make a statement on the record describing the nature of the proceedings, the issues, and the manner in which the hearing will be conducted. The ALJ shall have all the requisite powers conferred by law to administer oaths, issue subpoenas, require the attendance of witnesses and production of records, rule upon requests for adjournment, rule upon evidentiary matters and to otherwise regulate the hearing, observe the requirements of due process and effectuate the purposes and provisions of applicable law. All testimony shall be given under oath or affirmation administered by the ALJ. The City Clerk shall have the burden of demonstrating by a preponderance of the evidence that the applicant should not be granted a marriage license.
+
+   (9) The applicant and the spouse of record, if any, may be represented by an attorney or other representative of his or her choice.
+
+   (10) The applicant as well as the City Clerk and the spouse of record, if any, may have witnesses, may give testimony and may otherwise present relevant and material evidence on his or her behalf, may cross-examine witnesses and may examine any document or other item offered into evidence.
+
+   (11) A recorded copy of the record of the hearing shall be prepared by OATH; upon request a compact disc audio recording of the hearing, at no cost, or a transcript of the hearing, at a cost to be determined by OATH, may be provided.
+
+   (12) At the discretion of the ALJ, the hearing may be adjourned for good cause upon the request of any of the parties or upon the ALJ's own motion and with notice to the parties.
+
+   (13) The hearing shall be conducted in conformity with procedural requirements of applicable law and the rules of procedure adopted by OATH which are not inconsistent with these rules. In the event of any conflict of laws, the rules of this section shall be determinative and controlling.
+
+   (14) After the conclusion of the hearing, the ALJ shall prepare a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and a recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition.
+
+   (15) Final decision.
+
+      (i) The City Clerk's final decision shall be in writing and shall state reasons for the determinations and, when appropriate, direct specific action. Notwithstanding the foregoing, such final decision need not be a separate formal document and a report submitted to the City Clerk pursuant to paragraph b(6) or b(14) hereof together with a letter from the City Clerk concurring with the recommended findings of fact and recommended disposition shall constitute a final decision. In reaching such final decision, the City Clerk may review the petition and answer and memoranda of law of the parties, if any, and any record of the hearing. The City Clerk shall not be bound by the ALJ's recommendation.
+
+      (ii) A copy of such final decision shall be mailed by the City Clerk to the applicant and his or her attorney or representative, if any, and the spouse of record, if any.
+
+      (iii) Any of the aggrieved parties have the right to judicial review in accordance with the provisions of Article 78 of the Civil Practice Law and Rules.
+
+
+
+
+
+
+*§ 3-04 Marriage Chapel.* ::
+
+
+(a) The Office of the City Clerk performs civil marriage ceremonies only. No references to religion or deity are made.
+
+(b) Where the personal presence of "both parents" at the wedding ceremony is required by § 11-a(c) of the Domestic Relations Law, the Office of the City Clerk shall deem the requirement met when the party or parties whose consent was required for the issuance of the license is/are personally present at the wedding ceremony. All such parties must have proper identification with them showing their signature. In addition, custodial parents must present a divorce decree or death certificate; guardians must present guardianship papers.
+
+(c) Every couple must have at least one witness who must be at least 18 years of age.
+
+(d) Food and drink are not allowed in any City Clerk's Office chapel or chapel waiting room. The throwing of rice or other objects is also prohibited.
+
+
+
+
+
+
+*§ 3-05 Release of Marriage Records.* ::
+
+
+(a) In the ordinary course of business, marriage records shall be released only:
+
+   (1) to the parties to the marriage;
+
+   (2) to individuals presenting written authorization from one of the parties to the marriage (the authorization must be notarized); or
+
+   (3) to attorneys in cases where such records are required as evidence in a legal proceeding. The following restrictions do not apply to records that are at least 50 years old, or to records where both parties to the marriage are deceased.
+
+(b) Where a party to the marriage sends a third party to obtain their marriage record without a letter of authorization, that third party may make the request and pay the fee if that third party consents to having the record mailed directly to the party to the marriage. The record will not be released directly to the unauthorized third party.
+
+(c) If a person requires information regarding a current or prospective spouse's marital history, the Office of the City Clerk will, upon the payment of the appropriate search fee, the furnishing of an approximate marriage date, and sufficient information to search under at least one party's name, confirm only the fact of a prior marriage or a subsequent fraudulent acquisition of a marriage certificate with a party other than the inquiring spouse subsequent to their marriage by a "yes" or "no" answer. Under no circumstances will a copy of the record be provided. Nothing in this rule shall be construed to permit a divorced person to obtain the information described in this sub-paragraph with respect to his or her former spouse.
+
+(d) Any requestors whose requests are refused by the Records Division pursuant to the above subdivisions, but who feel nevertheless that their requests are for a statutorily proper purpose, may send their requests in writing for review by the City Clerk, at 1 Centre Street – Room 265, New York, New York, 10007. Requests may be approved or denied in whole or in part. All approvals shall be in writing.
+
+(e) All over-the-counter requestors must present identification when applying to obtain a marriage record.
+
+(f) Over-the-counter requests may be honored only when accompanied by payment in the form of a money order or certified check.
+
+(g) A person making an over-the-counter record request involving a multi-year search pre-dating 1973 will be asked to return for the results another day, or can have the record mailed to them if they prefer.
+
+
+
+
+
+
+*§ 3-06 Marriage Officiant Registration.* ::
+
+
+Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk will accept the registration of officiants to perform wedding ceremonies within the City of New York upon presentation of documentary proof of authority as outlined below.
+
+(a) In the case of clergy, the person wishing to register (hereafter "the registrant") must comply with one of the following:
+
+   (1) In cases where the denomination publishes a directory of its clergy, the registrant may show that he or she is listed in that directory. If the registrant's name does not yet appear in the denominational directory, the registrant claiming membership in that denomination may instead present written confirmation for that membership from the body that puts out the directory. Such confirmation can also consist of a certificate or letter showing that the registrant graduated from the seminary or theological school pertaining to the denomination.
+
+   (2) In cases where the denomination does not have such a directory, the registrant must show several pieces of documentary proof of authority. First, the registrant must present an ordination certificate accompanied, if necessary, by an English translation thereof. In lieu of an ordination certificate, the registrant must present a "license to minister" or a letter of appointment from his or her religious body, i.e., from its hierarch or its board of trustees. Second, the registrant must present a letter from his or her local congregation verifying that he or she is the pastor or associate pastor of that congregation, and that the congregation therefore consents to the registering of that individual. Lastly, if the church is incorporated, the registrant must present a copy of the articles or incorporation. If the church is not incorporated, the registrant must submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
+
+   (3) In cases where the registrant belongs to a denomination that does not have a directory and does not grant certificates of ordination or license to minister, the registrant must present a letter stating that he or she is the recognized spiritual leader of a congregation, and that the congregation therefore consents to the registering of that individual. The registrant must also submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
+
+(b) In the case of judges, registrants must present identification that shows them to be members of the judiciary of the Unified Court System of the State of New York. In the case of retired judges, registrants must also present proof that they have been certified pursuant to Paragraph (j) of Subdivision two of § 212 of the Judiciary Law.
+
+(c) In the case of all other civil officials authorized to solemnize weddings, registrants must present documentary evidence identifying themselves as holders of their respective offices.
+
+(d) In the case of chaplains of the armed forces of the United States, registrants must present active military identification that indicates their occupation.
+
+
+
+
 Chapter 4: Domestic Partner Registration
 --------------------------------------------------
 
@@ -1356,163 +1513,6 @@ After a domestic partnership has been registered by the City Clerk, such record 
 (a)  Upon receipt of the applicable fee and subsequent to the registration of the domestic partnership, the City Clerk or an emloyee of the City Clerk designated for such purpose shall, upon request, conduct a ceremony in the City Clerk chapel to recognize the formation of a domestic partnership.
 
 (b) No ceremony is required to formalize a domestic partnership.
-
-
-
-
-Chapter 3: Marriages
---------------------------------------------------
-
-
-
-*§ 3-01 Marriage License Application Forms.* ::
-
-
-(a) Both parties must be present in order to obtain a blank marriage license application. The prospective bride and prospective groom must fill out the application in the City Clerk's office and present it for processing.
-
-(b) Under no circumstances shall a clerk give out a blank application for a marriage license unless both the prospective bride and prospective groom are personally present before that clerk, except that where, for religious or health reasons or, in the sole discretion of the City Clerk, by reason of other exigent circumstances, both parties to the marriage cannot be present at the same time, the City Clerk may waive the requirement imposed by subdivision (a) of this section.
-
-(c) The foregoing do not apply to cases where City Clerk personnel must issue a marriage license in a prison or a hospital or where the parties have submitted the application for a marriage license by electronic means.
-
-
-
-
-
-
-*§ 3-02 Issuing Licenses Outside of the Office.* ::
-
-
-Marriage licenses may be issued only at the Marriage Bureau in the ordinary course of the business day. There are only two exceptions to this section: cases where an individual is confined to a hospital, and cases where an individual is confined in prison. Such issuance is strictly a courtesy, and is therefore entirely subject to the availability of personnel and the schedule of the office.
-
-(a) In a hospital case, there are three requirements that must be met before a license may be issued:
-
-   (1) the parties must present a statement from the doctor indicating that the sick party is seriously ill, that he or she will be confined to the hospital for a very long period of time, that there is a possibility that the sick person will not survive the illness, and that the sick person is mentally competent to apply for the marriage license; and
-
-   (2) the parties must call ahead of time or make arrangements for the license to be issued; and
-
-   (3) the parties must be willing to furnish our clerk with transportation to and from the hospital, and must arrange on their own for someone to return to the office to pick up the marriage license after it has been prepared.
-
-(b) In a prison case, the requirements are as follows:
-
-   (1) the parties must present a written statement from the social worker, warden, or other authorized person granting consent for the issuing of the marriage license in the prison; and
-
-   (2) the parties must contact the office ahead of time to request the license to be issued and to make all necessary preparations.
-
-
-
-
-
-
-*§ 3-03 Hearings Pursuant to Domestic Relations Law § 15.* ::
-
-
-(a)  Production of witnesses or notarized affidavits to establish identity. If in the opinion of the issuing clerk there appears to be some question as to the identity of one or both of the parties, the City Clerk, pursuant to the provisions of § 15 of the New York State Domestic Relations Law, may compel the production of witnesses, certified official records or notarized affidavits to establish the identity of the parties.
-
-(b) Request for review of City Clerk's preliminary denial of marriage license.
-
-   (1) Applicants who have been preliminarily denied a marriage license by the City Clerk may request a review of such determination by paying a $25 fee and filing a request for a review on such form as may be provided by the City Clerk no later than 30 days after such preliminary denial. The City Clerk may waive this fee upon a showing of financial hardship.
-
-   (2) Duty of the City Clerk. Within fifteen days of receipt of a request for review the City Clerk shall forward to the Office of Administrative Trials and Hearings (OATH) such request for review, a written statement outlining the reason for the preliminary denial of the marriage license and the documentary evidence supporting the preliminary denial, all of which documentation with the exception of the request for review shall constitute the petition. A copy of the petition shall be mailed contemporaneously to the applicant via certified mail return receipt requested.
-
-   (3) Notice to spouse of record. Where the marriage license was denied because of the existence in the records of the City Clerk of a prior non-terminated marriage, the City Clerk shall exert its best efforts to notify the spouse of record of the impending action. The spouse of record shall be given twenty-one days from the date of mailing to respond to such notification. In such response, the spouse of record may request an opportunity to be heard on the issue, either in writing or at the hearing, if OATH decides a hearing is warranted. Upon request contained in such response, the City Clerk shall forward to the spouse of record all documentation exchanged among OATH, the City Clerk and the applicant.
-
-   (4) Applicant's duty to respond. Applicant shall, no later than thirty days after he or she receives the petition, submit in duplicate an answer to the City Clerk including therein any documentary evidence or other proof which may include notarized affidavits in support of his or her claim. Upon written request of the applicant stating the specific reason for such request, submitted no later than five days prior to the due date for such answer, the City Clerk may for good cause grant an extension of time for applicant to submit the same. Upon receipt of the answer the City Clerk shall forward a copy thereof to OATH. Applicant's failure to respond by the deadline set forth herein, including any extension granted by the City Clerk pursuant to this sub-paragraph, shall be deemed a withdrawal of the applicant's challenge to the City Clerk's preliminary decision and such preliminary decision shall thereafter be deemed final.
-
-   (5) Designation of OATH. Pursuant to Charter § 1048, the City Clerk designates OATH to conduct on its behalf all the reviews and hearings referred to herein.
-
-   (6) The reviewing officer. An administrative law judge ("ALJ") employed by OATH shall review the petition and the answer no later than fifteen days after the date of receipt of both the petition and the answer as well as any documentation presented by the spouse of record, if any. If upon such review the ALJ shall conclude that such evidence is sufficient to form a conclusion then the ALJ shall prepare no later than thirty days after receipt of all of the documents referred to in the first sentence of this paragraph a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition. Alternatively, if the ALJ shall conclude that the evidence presented is insufficient to form a conclusion, the ALJ shall convene a hearing at a date to be determined in such ALJ's sole discretion but no later than sixty days from the date of such initial review. Upon notification thereof by such ALJ, which notification may be electronic, the City Clerk, not later than five days after the date of such notification, shall notify the applicant as well as his or her attorney or other representative, if any, and the spouse of record, if any, of the date of the hearing by certified mail, return receipt requested. Such notification shall be post-marked no later than thirty days prior to the date of such hearing.
-
-   (7) Use of expert witness. It shall be the obligation of any party intending to present the testimony of expert witness or witnesses at the hearing to notify the ALJ and the opposing parties of such intention no later than fifteen days prior to the date of the hearing and to submit to both the ALJ and the opposing parties no later than seven days prior to the date of the hearing copies of any reports, filings or any other documentation produced by such expert witness or witnesses which such party intends to use at the hearing. The ALJ may grant an extension of time to the parties.
-
-   (8) The hearing. The ALJ shall preside over the hearing, make all procedural rulings, and make a statement on the record describing the nature of the proceedings, the issues, and the manner in which the hearing will be conducted. The ALJ shall have all the requisite powers conferred by law to administer oaths, issue subpoenas, require the attendance of witnesses and production of records, rule upon requests for adjournment, rule upon evidentiary matters and to otherwise regulate the hearing, observe the requirements of due process and effectuate the purposes and provisions of applicable law. All testimony shall be given under oath or affirmation administered by the ALJ. The City Clerk shall have the burden of demonstrating by a preponderance of the evidence that the applicant should not be granted a marriage license.
-
-   (9) The applicant and the spouse of record, if any, may be represented by an attorney or other representative of his or her choice.
-
-   (10) The applicant as well as the City Clerk and the spouse of record, if any, may have witnesses, may give testimony and may otherwise present relevant and material evidence on his or her behalf, may cross-examine witnesses and may examine any document or other item offered into evidence.
-
-   (11) A recorded copy of the record of the hearing shall be prepared by OATH; upon request a compact disc audio recording of the hearing, at no cost, or a transcript of the hearing, at a cost to be determined by OATH, may be provided.
-
-   (12) At the discretion of the ALJ, the hearing may be adjourned for good cause upon the request of any of the parties or upon the ALJ's own motion and with notice to the parties.
-
-   (13) The hearing shall be conducted in conformity with procedural requirements of applicable law and the rules of procedure adopted by OATH which are not inconsistent with these rules. In the event of any conflict of laws, the rules of this section shall be determinative and controlling.
-
-   (14) After the conclusion of the hearing, the ALJ shall prepare a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and a recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition.
-
-   (15) Final decision.
-
-      (i) The City Clerk's final decision shall be in writing and shall state reasons for the determinations and, when appropriate, direct specific action. Notwithstanding the foregoing, such final decision need not be a separate formal document and a report submitted to the City Clerk pursuant to paragraph b(6) or b(14) hereof together with a letter from the City Clerk concurring with the recommended findings of fact and recommended disposition shall constitute a final decision. In reaching such final decision, the City Clerk may review the petition and answer and memoranda of law of the parties, if any, and any record of the hearing. The City Clerk shall not be bound by the ALJ's recommendation.
-
-      (ii) A copy of such final decision shall be mailed by the City Clerk to the applicant and his or her attorney or representative, if any, and the spouse of record, if any.
-
-      (iii) Any of the aggrieved parties have the right to judicial review in accordance with the provisions of Article 78 of the Civil Practice Law and Rules.
-
-
-
-
-
-
-*§ 3-04 Marriage Chapel.* ::
-
-
-(a) The Office of the City Clerk performs civil marriage ceremonies only. No references to religion or deity are made.
-
-(b) Where the personal presence of "both parents" at the wedding ceremony is required by § 11-a(c) of the Domestic Relations Law, the Office of the City Clerk shall deem the requirement met when the party or parties whose consent was required for the issuance of the license is/are personally present at the wedding ceremony. All such parties must have proper identification with them showing their signature. In addition, custodial parents must present a divorce decree or death certificate; guardians must present guardianship papers.
-
-(c) Every couple must have at least one witness who must be at least 18 years of age.
-
-(d) Food and drink are not allowed in any City Clerk's Office chapel or chapel waiting room. The throwing of rice or other objects is also prohibited.
-
-
-
-
-
-
-*§ 3-05 Release of Marriage Records.* ::
-
-
-(a) In the ordinary course of business, marriage records shall be released only:
-
-   (1) to the parties to the marriage;
-
-   (2) to individuals presenting written authorization from one of the parties to the marriage (the authorization must be notarized); or
-
-   (3) to attorneys in cases where such records are required as evidence in a legal proceeding. The following restrictions do not apply to records that are at least 50 years old, or to records where both parties to the marriage are deceased.
-
-(b) Where a party to the marriage sends a third party to obtain their marriage record without a letter of authorization, that third party may make the request and pay the fee if that third party consents to having the record mailed directly to the party to the marriage. The record will not be released directly to the unauthorized third party.
-
-(c) If a person requires information regarding a current or prospective spouse's marital history, the Office of the City Clerk will, upon the payment of the appropriate search fee, the furnishing of an approximate marriage date, and sufficient information to search under at least one party's name, confirm only the fact of a prior marriage or a subsequent fraudulent acquisition of a marriage certificate with a party other than the inquiring spouse subsequent to their marriage by a "yes" or "no" answer. Under no circumstances will a copy of the record be provided. Nothing in this rule shall be construed to permit a divorced person to obtain the information described in this sub-paragraph with respect to his or her former spouse.
-
-(d) Any requestors whose requests are refused by the Records Division pursuant to the above subdivisions, but who feel nevertheless that their requests are for a statutorily proper purpose, may send their requests in writing for review by the City Clerk, at 1 Centre Street – Room 265, New York, New York, 10007. Requests may be approved or denied in whole or in part. All approvals shall be in writing.
-
-(e) All over-the-counter requestors must present identification when applying to obtain a marriage record.
-
-(f) Over-the-counter requests may be honored only when accompanied by payment in the form of a money order or certified check.
-
-(g) A person making an over-the-counter record request involving a multi-year search pre-dating 1973 will be asked to return for the results another day, or can have the record mailed to them if they prefer.
-
-
-
-
-
-
-*§ 3-06 Marriage Officiant Registration.* ::
-
-
-Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk will accept the registration of officiants to perform wedding ceremonies within the City of New York upon presentation of documentary proof of authority as outlined below.
-
-(a) In the case of clergy, the person wishing to register (hereafter "the registrant") must comply with one of the following:
-
-   (1) In cases where the denomination publishes a directory of its clergy, the registrant may show that he or she is listed in that directory. If the registrant's name does not yet appear in the denominational directory, the registrant claiming membership in that denomination may instead present written confirmation for that membership from the body that puts out the directory. Such confirmation can also consist of a certificate or letter showing that the registrant graduated from the seminary or theological school pertaining to the denomination.
-
-   (2) In cases where the denomination does not have such a directory, the registrant must show several pieces of documentary proof of authority. First, the registrant must present an ordination certificate accompanied, if necessary, by an English translation thereof. In lieu of an ordination certificate, the registrant must present a "license to minister" or a letter of appointment from his or her religious body, i.e., from its hierarch or its board of trustees. Second, the registrant must present a letter from his or her local congregation verifying that he or she is the pastor or associate pastor of that congregation, and that the congregation therefore consents to the registering of that individual. Lastly, if the church is incorporated, the registrant must present a copy of the articles or incorporation. If the church is not incorporated, the registrant must submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
-
-   (3) In cases where the registrant belongs to a denomination that does not have a directory and does not grant certificates of ordination or license to minister, the registrant must present a letter stating that he or she is the recognized spiritual leader of a congregation, and that the congregation therefore consents to the registering of that individual. The registrant must also submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
-
-(b) In the case of judges, registrants must present identification that shows them to be members of the judiciary of the Unified Court System of the State of New York. In the case of retired judges, registrants must also present proof that they have been certified pursuant to Paragraph (j) of Subdivision two of § 212 of the Judiciary Law.
-
-(c) In the case of all other civil officials authorized to solemnize weddings, registrants must present documentary evidence identifying themselves as holders of their respective offices.
-
-(d) In the case of chaplains of the armed forces of the United States, registrants must present active military identification that indicates their occupation.
 
 
 

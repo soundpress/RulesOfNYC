@@ -6,121 +6,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 2-01 Filer Registration.* ::
-
-
-A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
-
-(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
-
-(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
-
-(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
-
-(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
-
-(e) Contents. The Filer Registration must include:
-
-   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
-
-   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
-
-   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
-
-   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
-
-   (v) other information as required by the Board.
-
-(f) Small campaign registration.
-
-   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
-
-   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
-
-
-
-
-
-
-
-
-*§ 2-02 Certification.* ::
-
-
-To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
-
-(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
-
-(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
-
-(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
-
-(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
-
-(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
-
-(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
-
-
-
-
-
-
-
-
-*§ 2-03 Amendments to Filer Registration or Certification.* ::
-
-
-The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
-
-
-
-
-
-
-
-
-*§ 2-04 Non-Participants.* ::
-
-
-A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
-
-
-
-
-
-
-
-
-*§ 2-05 Petition for Extraordinary Circumstances.* ::
-
-
-(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
-
-(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
-
-
-
-
-
-
-
-
-*§ 2-06 Training.* ::
-
-
-A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 1-01 Scope of Rules.* ::
 
 
@@ -399,6 +284,121 @@ The Board will not accept any electronic disclosure statement or other document,
 (a) If any provision of these rules or portion thereof is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the remainder of these rules.
 
 (b) If the application of any provision of these rules or portion thereof to any individual, entity, or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the application thereof to other individuals, entities, and circumstances.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 2-01 Filer Registration.* ::
+
+
+A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
+
+(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
+
+(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
+
+(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
+
+(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
+
+(e) Contents. The Filer Registration must include:
+
+   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
+
+   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
+
+   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
+
+   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
+
+   (v) other information as required by the Board.
+
+(f) Small campaign registration.
+
+   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
+
+   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
+
+
+
+
+
+
+
+
+*§ 2-02 Certification.* ::
+
+
+To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
+
+(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
+
+(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
+
+(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
+
+(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
+
+(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
+
+(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
+
+
+
+
+
+
+
+
+*§ 2-03 Amendments to Filer Registration or Certification.* ::
+
+
+The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
+
+
+
+
+
+
+
+
+*§ 2-04 Non-Participants.* ::
+
+
+A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
+
+
+
+
+
+
+
+
+*§ 2-05 Petition for Extraordinary Circumstances.* ::
+
+
+(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
+
+(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
+
+
+
+
+
+
+
+
+*§ 2-06 Training.* ::
+
+
+A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
 
 
 
@@ -982,385 +982,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 6-01 Expenditure Limits.* ::
-
-
-(a) Participants may not exceed the applicable expenditure limits provided in § 3-706 of the Code.
-
-(b) Adjustment. Pursuant to § 3-706(1) of the Code, not later than the first day of March in the year 2010, and every fourth year thereafter, the Board shall adjust the expenditure limits. Such adjustment shall be made in accordance with changes in the consumer price index for the metropolitan New York-New Jersey region published by the United States Bureau of Labor Statistics. The adjustment shall be based on the difference between the average consumer price index over the 12 months preceding the calendar year of such adjustment, and either (a) the calendar year preceding the year of the last such adjustment or (b) such other calendar year as may be appropriate pursuant to any amendment to the Act.
-
-(c) Participants have the burden of monitoring their expenditures to be sure that they do not exceed the limit.
-
-(d) Applicability. All expenditures made by a participant to further the participant's nomination or election, including expenditures made for the purpose of furthering or facilitating the defeat of the nomination or election of an opponent or prospective opponent, are subject to the expenditure limit applicable under the Act. All expenditures made by the participant shall be totaled to determine the participant's compliance with the applicable expenditure limit. Expenditures incurred after the last election in an election year in which the participant is a candidate, or a special election, are not subject to the expenditure limits for that election.
-
-(e) Expenditures made during the three calendar years preceding the election. Expenditures made by a participant during the three calendar years preceding the year of a covered election are subject to the applicable expenditure limit set forth in § 3-706(2) of the Code. A participant is permitted to make expenditure in excess of this limit. However, pursuant to § 3-706(2a)(a), the amount by which the limits of § 3-706(2) are exceeded will be counted against the participant's first election year expenditure limit under § 3-706(1).
-
-(f) Expenditures made during the year of the election. Expenditures made on or after the first day of January in the year of a covered election, and expenditures attributed to the year of the election pursuant to paragraph (v) of subdivision (h) of this section, are subject to the applicable expenditure limit set forth in § 3-706(1) of the Code.
-
-(g) Expenditures for or against a ballot proposal. Expenditures made by a participant's principal committee for the purpose of advocating a vote for or against a proposal on the ballot in an election that is also a covered election, regardless of whether the expenditures were also made to further or facilitate the participant's nomination or election, shall be subject to the contribution and expenditure limits applicable to such covered election.
-
-(h) Attributing an expenditure.
-
-   (i) An expenditure is presumed to be made for the first covered election in which the participant or non-participant is a candidate following the day it is made, except:
-
-      (A) expenditures made before the first January 12 after a state or local election will be presumed to be made for that election; and
-
-      (B) expenditures made before the first January 1 after a federal election will be presumed to be made for that election, except as may otherwise be provided under federal law and regulations.
-
-   (ii) No contested primary. If there is no contested primary election in any party for an office, expenditures made by a candidate seeking that office will be entirely attributed to the general election.
-
-   (iii) Contested primary or write-in primary.
-
-      (A) If there is a contested or write-in primary election in any party for an office, every participant or limited participant seeking that office, regardless of whether the participant or limited participant is in the primary election, may make expenditures subject to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant or limited participant files the two pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to 52 RCNY § 4-05(b)(ii)(B), (C), and 52 RCNY § 4-06 in a timely manner. In this case, the general election expenditure limit will first apply after the date of the primary election.
-
-      (B) Expenditures incurred after the date of the contested or write-in primary election will be attributed to the general election.
-
-      (C) Expenditures incurred before the primary election by a candidate in a contested primary election are attributed to the primary election, regardless of whether the candidate also received the nomination of another party without a primary election.
-
-   (iv) Reasonably anticipated primary. Expenditures may be attributed to a primary election that the Board has determined is reasonably anticipated.
-
-      (A) If a participant demonstrates to the Board that for a period preceding the primary election the participant had reasonably anticipated a primary election in any party for the office the participant seeks, the participant may attribute expenditures made before and during that period to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant files the two pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to 52 RCNY § 4-05(b)(ii)(B), (C), and 52 RCNY § 4-06 in a timely manner. In this case, the general election expenditure limit will first apply after that period.
-
-      (B) In order to demonstrate to the Board that for a period preceding the primary election the participant had reasonably anticipated a primary election, the participant must file a petition, consisting of an affidavit with supporting documentation, with the Board no later than 10 business days following the date the last remaining candidate other than the participant was finally disqualified from the ballot as set forth in 52 RCNY § 7-01(e)(i).
-
-         (1) The affidavit must:
-
-            (I) be sworn to or affirmed by the candidate;
-
-            (II) specify the period of time during which it was reasonable to anticipate that a primary election would be held;
-
-            (III) identify the prospective candidate(s); and
-
-            (IV) provide a factual basis for the participant's belief that a primary election was reasonably anticipated during the specified period of time.
-
-         (2) The supporting documentation must demonstrate that the prospective candidate(s) engaged in activities that would lead a reasonable person to believe that such candidate(s) would participate in the primary election. Such activities may include:
-
-            (I) authorizing a political committee with the Board of Elections for the primary election;
-
-            (II) filing a Filer Registration or Certification with the Board;
-
-            (III) engaging in petitioning activity, including the filing of petitions with the Board of Elections;
-
-            (IV) producing and/or distributing campaign communications related to the primary election; and
-
-            (V) campaigning for office or otherwise publicly declaring an intent to participate in the primary election.
-
-      (C) Once it is determined that no primary election will be held for nomination to an office, or that such primary election is no longer reasonably anticipated, subsequent expenditures will be subject to the general election expenditure limit.
-
-   (v) Timing of expenditures. As provided and described in §§ 3-706 (1) and (2) of the Code, an expenditure for goods or services is made when the goods or services are received, used, or rendered, regardless when payment is made. Expenditures for goods or services received, used, or rendered in more than one year, including campaign websites, shall be attributed in a reasonable manner to the expenditure limits of § 3-706(1) or (2) of the Code, as appropriate.
-
-      (A) Expenditures for campaign advertising or other campaign communications shall be attributed to the expenditure limit in effect when the advertisement or communication is distributed, broadcast, or published. For the purposes of this paragraph, "campaign advertising or other campaign communications" shall not include a campaign website. A communication that is mailed shall be considered to have been "distributed" on the date on which it was postmarked.
-
-      (B) Expenditures for services performed or deliverables provided over a period that includes both the primary and the general elections shall be attributed in a reasonable manner to the expenditure limits of §§ 3-706(1) and (2) of the Code, as appropriate.
-
-      (C) Notwithstanding the requirements of this subdivision, the Board may require a candidate to demonstrate that an expenditure should be attributed to the expenditure limit provided in § 3-706(1) or (2) of the Code, as appropriate, based on the timing, nature, and purpose of the expenditure.
-
-(i) Exempt expenditures.
-
-   (i) The following shall not be subject to the expenditure limits:
-
-      (A) expenses made for the purpose of bringing or responding to any action, proceeding, claim, or suit before any court or arbitrator or administrative agency to determine a candidate's or political committee's compliance with the requirements of this chapter, including eligibility for public funds payments, or pursuant to or with respect to election law or other law or regulation governing candidate or political committee activity or ballot status;
-
-      (B) expenses to challenge or defend the validity of petitions of designation or nomination or certificates of nomination, acceptance, authorization, declination or substitution, and expenses related to the canvassing or re-canvassing of election results;
-
-      (C) expenses related to the post-election audit, except as provided in paragraph (ii) of this subdivision; and
-
-      (D) expenditures for childcare services made pursuant to § 3-702(21)(a)(13) of the Code for an aggregate amount of $20,000 or less.
-
-   (ii) Exempt expenses related to the post-election audit shall include pre-election expenses for organizing and copying existing records in preparation for submission during the post-election audit, but shall not include pre-election expenses for:
-
-      (A) Ordinary compliance activities, such as the review of records to identify missing documents, evaluating whether documents meet Board standards, and identifying, preventing, and correcting any potential violation;
-
-      (B) Post-election work for which an invoice is issued or paid prior to the election;
-
-      (C) Salaries or other payments to campaign managers, finance chairpersons, treasurers, accountants, advisors, or other consultants;
-
-      (D) Legal or accounting fees;
-
-      (E) Costs associated with record creation and retention;
-
-      (F) Costs associated with running an office or business, such as standard bookkeeping, maintaining checkbook registers, petty cash journals, bank records, and loan records;
-
-      (G) Bookkeeping for payroll or vendor payments; and
-
-      (H) Other standard practices that political committees routinely perform as entities that raise and spend funds.
-
-   (iii) Candidates have the burden of demonstrating that expenditures are exempt pursuant to § 3-706(4) of the Code. To meet this burden, a candidate must maintain contemporaneous, detailed records that demonstrate that each individual expenditure is exempt in accordance with the Act and these rules, and submit such documentation as required. Expenditures not demonstrated to be exempt will be included in the expenditure limit calculation.
-
-   (iv) Notwithstanding anything otherwise provided for in this subdivision, the reimbursement of an advance shall not be considered an exempt expenditure.
-
-   (v) For purposes of this subdivision, in determining whether a participant's total expenditures exceed the expenditure limits of § 3-706(1) or § 3-706(3)(a) of the Code, as appropriate, expenditures made in the first three years of the election cycle, to the extent such expenditures do not exceed the limit applicable under § 3-706(2) of the Code, shall be excluded.
-
-(j) Expenditure limit compliance for a transfer between political committees.
-
-   (i) A committee of a participant that receives a transfer of funds from another political committee, other than another principal committee of the same candidate, must:
-
-      (A) allocate to the transferred contributions any expenditures incurred by the transferor committee in connection with raising transferred contributions, and any expenditures incurred by the transferor committee during the covered election cycle in connection with administering transferred contributions; and
-
-      (B) upon request, provide documentation related to any such expenditures, including copies of federal forms or disclosure statements filed with the New York State Board of Elections on behalf of the transferor committee.
-
-   (ii) Expenditures will be applied towards the expenditure limit in effect at the time of the transfer; provided, however, that in the case of transfers made prior to the covered election cycle, expenditures will be applied towards the expenditure limits of § 3-706(2) of the Code.
-
-   (iii) The participant has the burden of demonstrating, for the purpose of compliance with the expenditure limits, that an expenditure made by the transferor committee was not made in connection with raising or administering the transferred contributions.
-
-(k) Expenditure limit relief.
-
-   (i) Pursuant to § 3-706(3)(a) of the Code, where the Board has determined that a non-participating candidate has spent or contracted or become obligated to spend, or received in loans or contributions, an amount which, in the aggregate, exceeds half the applicable expenditure limit pursuant to § 3-706(1)(a) of the Code, the expenditure limit applicable to participating candidates in the election for that office will be increased to 150% of the expenditure limit.
-
-   (ii) Pursuant to § 3-706(3)(b) of the Code, where the Board has determined that a non-participating candidate has spent or contracted or become obligated to spend, or received in loans or contributions, an amount which, in the aggregate, exceeds three times the applicable expenditure limit pursuant to § 3-706(1)(a) of the Code, the expenditure limit will no longer apply to participating candidates in the election for that office.
-
-
-
-
-
-
-
-
-*§ 6-02 Restrictions on Expenditures.* ::
-
-
-(a) Spending public funds; qualified expenditures.
-
-   (i) Public funds may be used only for qualified expenditures.
-
-   (ii) The following are not considered qualified expenditures:
-
-      (A) expenditures for any purpose other than to further the candidate's nomination or election;
-
-      (B) expenditures not incurred between December 15 in the year preceding the year of the election in which the participant is a candidate, and the date of such election;
-
-      (C) expenditures in violation of any law;
-
-      (D) payments to the candidate or a spouse, domestic partner, child, grandchild, parent, grandparent, brother, or sister of the candidate or spouse or domestic partner of such child, grandchild, parent, grandparent, brother, or sister, or to a business entity in which the candidate or any such person has a 10% or greater ownership interest;
-
-      (E) payments in excess of the fair market value of services, materials, facilities, or other things of value received;
-
-      (F) expenditures made after the candidate has been finally disqualified or such candidate's petitions have been finally declared invalid by the Board of Elections or a court of competent jurisdiction, except that such expenditures may be made (1) as otherwise permitted pursuant to § 3-709(7) of the Code, or (2) for a different election (other than a special election to fill a vacancy) held later in the same calendar year in which the candidate seeks election for the same office;
-
-      (G) expenditures made after the only remaining opponent of the candidate has been finally disqualified or such opponent's petitions have been finally declared invalid by the Board of Elections or a court of competent jurisdiction, except that such expenditures may be made for a different election (other than a special election to fill a vacancy) held later in the same calendar year in which the candidate seeks election for the same office;
-
-      (H) expenditures made for any other election, if the public funds were originally received for a special election to fill a vacancy;
-
-      (I) payments in cash;
-
-      (J) contributions, transfers, or loans made to another candidate or political committee;
-
-      (K) gifts, except brochures, buttons, signs, and other printed campaign material;
-
-      (L) expenditures to challenge or defend the validity of petitions of designation, or nomination, or certificates of nomination, acceptance, authorization, declination, or substitution, and expenses related to the canvassing of election results;
-
-      (M) expenditures for which records required by 52 RCNY § 4-01 are not maintained or obtained by the candidate and submitted to the CFB;
-
-      (N) expenditures that are not itemized in a disclosure statement;
-
-      (O) payments that are not made or reimbursed from an account disclosed by the candidate pursuant to 52 RCNY § 2-01 or 52 RCNY § 2-02(e);
-
-      (P) reimbursement for advances, except in the case of individual purchases in excess of $250, provided that the individual purchase is not otherwise not a qualified expenditure on the basis of any of the other subparagraphs of paragraph (ii);
-
-      (Q) expenditures made in connection with any action, claim, or suit before any court or arbitrator;
-
-      (R) expenditures made primarily for the purpose of expressly advocating a vote for or against a ballot proposal, unless such expenditures were also made to further the participating candidate's nomination or election;
-
-      (S) payments of any penalty or fine imposed pursuant to federal, state, or local law;
-
-      (T) payments for services that were never received, including payments for legal services pursuant to a retainer agreement to the extent payments for such services exceed the value of the services rendered;
-
-      (U) expenditures to facilitate, support, or otherwise assist in the execution or performance of the duties of public office;
-
-      (V) expenditures related to childcare services; or
-
-      (W) payments for liabilities that were not reported in the disclosure statement covering the reporting period in which the liability was incurred.
-
-(b) Expenditures in cash. A candidate may not use cash for an expenditure of more than $100.
-
-(c) Volunteer services. Candidates may not pay volunteers for services already performed on a voluntary basis for that election, but may hire them as paid employees or retain them as consultants for future services. Candidates may not accept professional services on a volunteer basis from individuals who previously provided, on a paid basis, services of a similar nature to the same candidate during the same election cycle. Candidates may not accept volunteer services from any entity, or from an individual having an ownership interest of 10% or more in, or control over, any entity that provided paid services to the same candidate during the same election cycle. Notwithstanding the foregoing, after the election, candidates may accept volunteer services from individuals who previously provided paid services.
-
-(d) Candidates may not enter into contracts or agreements that provide for payments to vendors or employees that are conditional upon the receipt of public funds.
-
-
-
-
-
-
-
-
-*§ 6-03 Joint Expenditures; Endorsements.* ::
-
-
-(a) Generally. Candidates may engage in joint campaign activities, including joint fundraising, joint petitioning, and the production of joint campaign literature, subject to applicable expenditure limits.
-
-(b) Candidates must pay proportionally. A candidate must pay for the portion of the joint expenditure that is proportionally equivalent to such candidate's campaign's exposure in or benefit from the joint activity, unless the benefit is de minimis.
-
-   (i) Candidates and other individuals or entities may present information to the Board establishing such a de minimis benefit pursuant to 52 RCNY § 12-02.
-
-   (ii) Factors for proportional payment. Among the factors the Board will consider in determining whether the benefit to a candidate is proportionally equivalent to its expenditure or is de minimis are:
-
-      (A) the geographic distribution or location of the material or activity;
-
-      (B) the subject matter of the communication;
-
-      (C) the references to the candidate or the candidate's appearances therein;
-
-      (D) the relative prominence of a candidate's references or appearances in the communication, including the size and location of references to the candidate and any photographs of the candidate;
-
-      (E) the timing of the communication; and
-
-      (F) other circumstances of the communication.
-
-(c) Non-proportional payment may lead to in-kind contribution. To the extent a candidate does not pay for the proportional benefit it receives, the candidate is considered to have received an in-kind contribution from the other candidate. An in-kind contribution is also an expenditure by the candidate receiving the contribution.
-
-(d) Not joint expenditures. The following activities, by themselves, are not joint expenditures:
-
-   (i) the act of appearing with another candidate;
-
-   (ii) endorsing a candidate, or communicating about an endorsement or appearance in an insubstantial way, such as where the endorser's name is one of several names appearing on a communication and is of equivalent prominence as the other names; and
-
-   (iii) giving fundraising assistance to another candidate in the form of de minimis written communications, such as allowing the use of one's name or signature on a letter soliciting funds for another candidate or on fundraising material where the endorser's name appears alone or with other names and is of equivalent prominence as the other names.
-
-
-
-
-
-
-
-
-*§ 6-04 Independent Expenditures.* ::
-
-
-(a) Factors for determining independence. In determining whether an expenditure is independent, the Board may consider any of the factors from the following non-exhaustive list:
-
-   (i) whether the person or entity making the expenditure is also an agent of a candidate;
-
-   (ii) whether any person authorized to accept receipts or make expenditures for the person or entity making the expenditure is also an agent of a candidate;
-
-   (iii) whether a candidate has authorized, requested, suggested, fostered, or otherwise cooperated in any way in the formation or operation of the person or entity making the expenditure;
-
-   (iv) whether the person or entity making the expenditure has been established, financed, maintained, or controlled by any of the same persons or entities as those that have established, financed, maintained, or controlled a political committee authorized by the candidate;
-
-   (v) whether the candidate shares or rents space for a campaign-related purpose with or from the person or entity making the expenditure;
-
-   (vi) whether the candidate has solicited or collected funds on behalf of the person or entity making the expenditure, during the same election cycle in which the expenditure is made;
-
-   (vii) whether the candidate, or any public or private office held or entity controlled by the candidate, including any governmental agency, division, or office, has retained the professional services of the person making the expenditure or a principal member or professional or managerial employee of the entity making the expenditure, during the same election cycle in which the expenditure is made; and
-
-   (viii) whether the candidate and the person or entity making the expenditure have each consulted or otherwise been in communication with the same third party or parties, if the candidate knew or should have known that the candidate's communication or relationship to the third party or parties would inform or result in expenditures to benefit the candidate.
-
-(b) Board determination. Upon consideration of the factors described in subdivision (a), the Board may determine by a preponderance of evidence that an expenditure was not independent. Prior to such determination, the candidate and/or the person or entity making the expenditure shall have an opportunity to provide evidence indicating that such expenditure was independent.
-
-(c) Presumed non-independent expenditures. Financing the dissemination, distribution, or republication of any broadcast or any written, graphic, or other form of campaign materials prepared by a candidate is presumed to be a non-independent expenditure, unless the candidate can show that the activity was not in any way undertaken, authorized, requested, suggested, fostered, or otherwise cooperated in by the candidate.
-
-(d) Non-independent expenditures are contributions and expenditures. An expenditure for the purpose of furthering or facilitating the nomination or election of a candidate which is determined not to be an independent expenditure, is a contribution to, and an expenditure by, the candidate.
-
-(e) Expenditures made by party committees or constituted committees. Communication between, or common agents shared by, parties and their nominees will not require a conclusion that all spending by the party's constituted committees and party committees in an election is an in-kind contribution to the nominee.
-
-   (i) The following expenditures made by party committees or constituted committees are not considered in-kind contributions to a candidate unless it is demonstrated that the candidate in some way cooperated in the expenditure and that the expenditure was intended to benefit that candidate:
-
-      (A) materials or activities that promote the party, or oppose another party, by name, platform, principles, history, theme, slogans, issues, or philosophy, without reference to particular candidates in an upcoming election subject to the requirements of the Act.
-
-      (B) materials or activities in connection with candidates and elections not subject to the requirements of the Act.
-
-      (C) training, compensating, or providing materials for poll watchers appointed by the party pursuant to § 8-500 of the New York State Election Law.
-
-      (D) promoting party enrollment or voter turnout without reference to particular candidates in an upcoming election subject to Program requirements, including research, polling, recruitment of party employees and volunteers, and development and maintenance of voter and contributor lists.
-
-      (E) raising funds for the party without reference to particular candidates in an upcoming election subject to the requirements of the Act.
-
-      (F) mailing of absentee ballot applications in a special or general election in which an office not subject to the requirements of the Act is on the ballot.
-
-   (ii) The Board may require a candidate to demonstrate that expenditures made by a party committee or constituted committee for the purpose of furthering or facilitating the nomination or election of a candidate, including expenditures for the purpose of furthering or facilitating the defeat of the nomination or election of such candidate's opponent or prospective opponent, are not in-kind contributions to the candidate.
-
-   (iii) Where a candidate has, without making public disclosure of an outstanding liability in a timely manner, promised or made reimbursement or other payment to a party committee or constituted committee for an expenditure, such expenditure will be considered an in-kind contribution to the candidate during the time preceding the reimbursement or other payment by the candidate.
-
-(f) Running as a "ticket". If candidates announce they are running together as a "ticket" for which they have chosen to join together in a broad spectrum of activities to promote each other's election, the Board will presume that expenditures made by one candidate's campaign for materials or activities that clearly identify the other candidate are in-kind contributions to the second candidate. If the expenditures are in-kind contributions, the expenditures are subject to apportionment requirements as joint expenditures. The following factors would increase the burden a candidate would have in overcoming this presumption:
-
-   (i) the campaigns have staff, consultants, office space, or telephone lines in common; and
-
-   (ii) other in-kind contributions, expenditure refunds, advances, or joint expenditures have been made between these candidates, or one of the candidates has reported a liability owed to the other candidate(s).
-
-(g) Certain routine interactions with entities. Certain routine interactions with entities, absent other indicia of non-independence, will not in themselves lead to a determination of non-independence pursuant to 52 RCNY § 6-04(b), including:
-
-   (i) Discussions of logistics, including scheduling, regarding a non-fundraising event hosted by the entity;
-
-   (ii) Communications directly related to an entity's endorsement process, including questionnaires and interviews; and
-
-   (iii) Requesting, obtaining, or distributing publicly available materials such as a candidate's photograph, biography, position paper, or press release, but not including leaflets, posters, or other similar materials, nor video or audio materials.
-
-
-
-
-
-
-
-
-*§ 6-05 Expenditures Made by Other Committees Established for the Candidate.* ::
-
-
-(a) A candidate has the burden of demonstrating that expenditures made by a committee authorized by such candidate for a different election should not be attributed to the covered election.
-
-(b) Failure to meet this burden will result in the application of all Program requirements to these committees for the covered election, including attribution of expenditures to the covered election.
-
-(c) Expenditures for fundraising for more than one election. When a candidate makes expenditures for a single event or other activity to raise funds for more than one office, and the next election that will be held is:
-
-   (i) a covered election, the full amount of such expenditures is subject to the expenditure limit.
-
-   (ii) not a covered election, a portion of such expenditures will be subject to the expenditure limit in the same proportion as the funds raised for the covered election bears to the total funds raised, unless the candidate can demonstrate to the Board that a different apportionment is applicable.
-
-
-
-
-
-
-
-
-*§ 6-06 Identification of Communications.* ::
-
-
-(a) "Paid for by". When a candidate makes expenditures for any literature, advertisement, or other communication, the communication must include the words "paid for by" followed by the first and last name of the candidate or the name of the authorized committee that made the expenditures; provided that, if the name of the committee does not include the first or last name of the candidate, the words "paid for by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
-
-(b) "Authorized by". When a candidate authorizes any individual or entity, other than the candidate, to pay for any literature, advertisement, or other communication in support of or in opposition to any candidate in any covered election, the communication must include the words "authorized by" followed by the first and last name of the candidate or the name of the candidate's authorized committee; provided that, if the name of the committee does not include the first or last name of the candidate, the words "authorized by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
-
-(c) Form. The identification required by subdivision (a) or (b) of this section must be in the following form:
-
-   (i) For printed material, an internet text advertisement, or a website, the identification must be written in a font of conspicuous size and style and contained in a box within the borders of the communication.
-
-   (ii) For an audio communication broadcast on radio or over the internet, the identification must be clearly spoken at the beginning or end of the communication.
-
-   (iii) For a video communication broadcast by television, satellite, cable, internet, or similar medium, the identification must be clearly spoken at the beginning or end of the communication and, simultaneous with the spoken disclosure, written in a font of conspicuous size and style contained in a box within the borders of the communication.
-
-   (iv) For a telephone communication, the identification must be clearly spoken at the beginning or end of the communication. If the identification is spoken at the end of the communication, the name of the candidate must also be clearly spoken at the beginning of the call.
-
-(d) Languages other than English. For communications primarily in a language other than English, all required written or spoken identification required by this section must be in such language.
-
-(e) Where identification would be impractical. This requirement may be modified by the Board concerning items upon which identification would be impractical.
-
-
-
-
-
-
-
-
-*§ 6-07 Routine Communication Sent by a Political Club to its Members.* ::
-
-
-A routine communication sent by a political club to its members that includes the name of a candidate is not an in-kind contribution to such candidate, provided that:
-
-(a) the candidate is already a member of the club;
-
-(b) the club has fewer than 500 members; and
-
-(c) the communication does not solicit funds on behalf of or otherwise promote the candidate's campaign for a covered election.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 5-01 Contribution Limits.* ::
 
 
@@ -1852,16 +1473,132 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 8-01 Payment Determinations.* ::
+*§ 6-01 Expenditure Limits.* ::
 
 
-(a) Candidates who fail to demonstrate compliance with the Act and these rules, including candidates who satisfy one or more criteria for ineligibility as provided in 52 RCNY § 3-01(d), are not eligible to receive a post-election public funds payment.
+(a) Participants may not exceed the applicable expenditure limits provided in § 3-706 of the Code.
 
-(b) Candidates have the burden of demonstrating eligibility to retain public funds received prior to the election and to receive additional public funds after the election. Candidates who fail to demonstrate eligibility to retain all or a portion of the public funds previously received may be required to repay such amount to the Fund.
+(b) Adjustment. Pursuant to § 3-706(1) of the Code, not later than the first day of March in the year 2010, and every fourth year thereafter, the Board shall adjust the expenditure limits. Such adjustment shall be made in accordance with changes in the consumer price index for the metropolitan New York-New Jersey region published by the United States Bureau of Labor Statistics. The adjustment shall be based on the difference between the average consumer price index over the 12 months preceding the calendar year of such adjustment, and either (a) the calendar year preceding the year of the last such adjustment or (b) such other calendar year as may be appropriate pursuant to any amendment to the Act.
 
-(c) A candidate's post-election payment, if any, will be reduced by the amount of any applicable deductions pursuant to 52 RCNY § 7-07(a), if such amounts were not deducted from pre-election public funds payments.
+(c) Participants have the burden of monitoring their expenditures to be sure that they do not exceed the limit.
 
-(d) The post-election payment, repayment, or nonpayment determination shall be the final determination regarding that candidate's public funds payment status, except as provided in 52 RCNY § 8-05.
+(d) Applicability. All expenditures made by a participant to further the participant's nomination or election, including expenditures made for the purpose of furthering or facilitating the defeat of the nomination or election of an opponent or prospective opponent, are subject to the expenditure limit applicable under the Act. All expenditures made by the participant shall be totaled to determine the participant's compliance with the applicable expenditure limit. Expenditures incurred after the last election in an election year in which the participant is a candidate, or a special election, are not subject to the expenditure limits for that election.
+
+(e) Expenditures made during the three calendar years preceding the election. Expenditures made by a participant during the three calendar years preceding the year of a covered election are subject to the applicable expenditure limit set forth in § 3-706(2) of the Code. A participant is permitted to make expenditure in excess of this limit. However, pursuant to § 3-706(2a)(a), the amount by which the limits of § 3-706(2) are exceeded will be counted against the participant's first election year expenditure limit under § 3-706(1).
+
+(f) Expenditures made during the year of the election. Expenditures made on or after the first day of January in the year of a covered election, and expenditures attributed to the year of the election pursuant to paragraph (v) of subdivision (h) of this section, are subject to the applicable expenditure limit set forth in § 3-706(1) of the Code.
+
+(g) Expenditures for or against a ballot proposal. Expenditures made by a participant's principal committee for the purpose of advocating a vote for or against a proposal on the ballot in an election that is also a covered election, regardless of whether the expenditures were also made to further or facilitate the participant's nomination or election, shall be subject to the contribution and expenditure limits applicable to such covered election.
+
+(h) Attributing an expenditure.
+
+   (i) An expenditure is presumed to be made for the first covered election in which the participant or non-participant is a candidate following the day it is made, except:
+
+      (A) expenditures made before the first January 12 after a state or local election will be presumed to be made for that election; and
+
+      (B) expenditures made before the first January 1 after a federal election will be presumed to be made for that election, except as may otherwise be provided under federal law and regulations.
+
+   (ii) No contested primary. If there is no contested primary election in any party for an office, expenditures made by a candidate seeking that office will be entirely attributed to the general election.
+
+   (iii) Contested primary or write-in primary.
+
+      (A) If there is a contested or write-in primary election in any party for an office, every participant or limited participant seeking that office, regardless of whether the participant or limited participant is in the primary election, may make expenditures subject to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant or limited participant files the two pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to 52 RCNY § 4-05(b)(ii)(B), (C), and 52 RCNY § 4-06 in a timely manner. In this case, the general election expenditure limit will first apply after the date of the primary election.
+
+      (B) Expenditures incurred after the date of the contested or write-in primary election will be attributed to the general election.
+
+      (C) Expenditures incurred before the primary election by a candidate in a contested primary election are attributed to the primary election, regardless of whether the candidate also received the nomination of another party without a primary election.
+
+   (iv) Reasonably anticipated primary. Expenditures may be attributed to a primary election that the Board has determined is reasonably anticipated.
+
+      (A) If a participant demonstrates to the Board that for a period preceding the primary election the participant had reasonably anticipated a primary election in any party for the office the participant seeks, the participant may attribute expenditures made before and during that period to the primary election expenditure limit of § 3-706(1) of the Code, provided the participant files the two pre-primary and 10 day post-primary election disclosure statements and daily disclosures pursuant to 52 RCNY § 4-05(b)(ii)(B), (C), and 52 RCNY § 4-06 in a timely manner. In this case, the general election expenditure limit will first apply after that period.
+
+      (B) In order to demonstrate to the Board that for a period preceding the primary election the participant had reasonably anticipated a primary election, the participant must file a petition, consisting of an affidavit with supporting documentation, with the Board no later than 10 business days following the date the last remaining candidate other than the participant was finally disqualified from the ballot as set forth in 52 RCNY § 7-01(e)(i).
+
+         (1) The affidavit must:
+
+            (I) be sworn to or affirmed by the candidate;
+
+            (II) specify the period of time during which it was reasonable to anticipate that a primary election would be held;
+
+            (III) identify the prospective candidate(s); and
+
+            (IV) provide a factual basis for the participant's belief that a primary election was reasonably anticipated during the specified period of time.
+
+         (2) The supporting documentation must demonstrate that the prospective candidate(s) engaged in activities that would lead a reasonable person to believe that such candidate(s) would participate in the primary election. Such activities may include:
+
+            (I) authorizing a political committee with the Board of Elections for the primary election;
+
+            (II) filing a Filer Registration or Certification with the Board;
+
+            (III) engaging in petitioning activity, including the filing of petitions with the Board of Elections;
+
+            (IV) producing and/or distributing campaign communications related to the primary election; and
+
+            (V) campaigning for office or otherwise publicly declaring an intent to participate in the primary election.
+
+      (C) Once it is determined that no primary election will be held for nomination to an office, or that such primary election is no longer reasonably anticipated, subsequent expenditures will be subject to the general election expenditure limit.
+
+   (v) Timing of expenditures. As provided and described in §§ 3-706 (1) and (2) of the Code, an expenditure for goods or services is made when the goods or services are received, used, or rendered, regardless when payment is made. Expenditures for goods or services received, used, or rendered in more than one year, including campaign websites, shall be attributed in a reasonable manner to the expenditure limits of § 3-706(1) or (2) of the Code, as appropriate.
+
+      (A) Expenditures for campaign advertising or other campaign communications shall be attributed to the expenditure limit in effect when the advertisement or communication is distributed, broadcast, or published. For the purposes of this paragraph, "campaign advertising or other campaign communications" shall not include a campaign website. A communication that is mailed shall be considered to have been "distributed" on the date on which it was postmarked.
+
+      (B) Expenditures for services performed or deliverables provided over a period that includes both the primary and the general elections shall be attributed in a reasonable manner to the expenditure limits of §§ 3-706(1) and (2) of the Code, as appropriate.
+
+      (C) Notwithstanding the requirements of this subdivision, the Board may require a candidate to demonstrate that an expenditure should be attributed to the expenditure limit provided in § 3-706(1) or (2) of the Code, as appropriate, based on the timing, nature, and purpose of the expenditure.
+
+(i) Exempt expenditures.
+
+   (i) The following shall not be subject to the expenditure limits:
+
+      (A) expenses made for the purpose of bringing or responding to any action, proceeding, claim, or suit before any court or arbitrator or administrative agency to determine a candidate's or political committee's compliance with the requirements of this chapter, including eligibility for public funds payments, or pursuant to or with respect to election law or other law or regulation governing candidate or political committee activity or ballot status;
+
+      (B) expenses to challenge or defend the validity of petitions of designation or nomination or certificates of nomination, acceptance, authorization, declination or substitution, and expenses related to the canvassing or re-canvassing of election results;
+
+      (C) expenses related to the post-election audit, except as provided in paragraph (ii) of this subdivision; and
+
+      (D) expenditures for childcare services made pursuant to § 3-702(21)(a)(13) of the Code for an aggregate amount of $20,000 or less.
+
+   (ii) Exempt expenses related to the post-election audit shall include pre-election expenses for organizing and copying existing records in preparation for submission during the post-election audit, but shall not include pre-election expenses for:
+
+      (A) Ordinary compliance activities, such as the review of records to identify missing documents, evaluating whether documents meet Board standards, and identifying, preventing, and correcting any potential violation;
+
+      (B) Post-election work for which an invoice is issued or paid prior to the election;
+
+      (C) Salaries or other payments to campaign managers, finance chairpersons, treasurers, accountants, advisors, or other consultants;
+
+      (D) Legal or accounting fees;
+
+      (E) Costs associated with record creation and retention;
+
+      (F) Costs associated with running an office or business, such as standard bookkeeping, maintaining checkbook registers, petty cash journals, bank records, and loan records;
+
+      (G) Bookkeeping for payroll or vendor payments; and
+
+      (H) Other standard practices that political committees routinely perform as entities that raise and spend funds.
+
+   (iii) Candidates have the burden of demonstrating that expenditures are exempt pursuant to § 3-706(4) of the Code. To meet this burden, a candidate must maintain contemporaneous, detailed records that demonstrate that each individual expenditure is exempt in accordance with the Act and these rules, and submit such documentation as required. Expenditures not demonstrated to be exempt will be included in the expenditure limit calculation.
+
+   (iv) Notwithstanding anything otherwise provided for in this subdivision, the reimbursement of an advance shall not be considered an exempt expenditure.
+
+   (v) For purposes of this subdivision, in determining whether a participant's total expenditures exceed the expenditure limits of § 3-706(1) or § 3-706(3)(a) of the Code, as appropriate, expenditures made in the first three years of the election cycle, to the extent such expenditures do not exceed the limit applicable under § 3-706(2) of the Code, shall be excluded.
+
+(j) Expenditure limit compliance for a transfer between political committees.
+
+   (i) A committee of a participant that receives a transfer of funds from another political committee, other than another principal committee of the same candidate, must:
+
+      (A) allocate to the transferred contributions any expenditures incurred by the transferor committee in connection with raising transferred contributions, and any expenditures incurred by the transferor committee during the covered election cycle in connection with administering transferred contributions; and
+
+      (B) upon request, provide documentation related to any such expenditures, including copies of federal forms or disclosure statements filed with the New York State Board of Elections on behalf of the transferor committee.
+
+   (ii) Expenditures will be applied towards the expenditure limit in effect at the time of the transfer; provided, however, that in the case of transfers made prior to the covered election cycle, expenditures will be applied towards the expenditure limits of § 3-706(2) of the Code.
+
+   (iii) The participant has the burden of demonstrating, for the purpose of compliance with the expenditure limits, that an expenditure made by the transferor committee was not made in connection with raising or administering the transferred contributions.
+
+(k) Expenditure limit relief.
+
+   (i) Pursuant to § 3-706(3)(a) of the Code, where the Board has determined that a non-participating candidate has spent or contracted or become obligated to spend, or received in loans or contributions, an amount which, in the aggregate, exceeds half the applicable expenditure limit pursuant to § 3-706(1)(a) of the Code, the expenditure limit applicable to participating candidates in the election for that office will be increased to 150% of the expenditure limit.
+
+   (ii) Pursuant to § 3-706(3)(b) of the Code, where the Board has determined that a non-participating candidate has spent or contracted or become obligated to spend, or received in loans or contributions, an amount which, in the aggregate, exceeds three times the applicable expenditure limit pursuant to § 3-706(1)(a) of the Code, the expenditure limit will no longer apply to participating candidates in the election for that office.
 
 
 
@@ -1870,26 +1607,66 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 8-02 Amount of Post-Election Payment.* ::
+*§ 6-02 Restrictions on Expenditures.* ::
 
 
-(a) Reasons for post-election payment. A post-election payment shall only be made if, at the conclusion of the post-election audit, a candidate has demonstrated unpaid matching claims, a qualified expenditure surplus, and documented outstanding liabilities.
+(a) Spending public funds; qualified expenditures.
 
-   (i) Unpaid matching claims. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total valid matchable claims multiplied by the applicable matching rate pursuant to § 3-705(2)(a) of the Code exceed the total pre-election payments received by the candidate.
+   (i) Public funds may be used only for qualified expenditures.
 
-   (ii) Qualified expenditure surplus. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total qualified expenditures exceed the total pre-election payments received by the candidate.
+   (ii) The following are not considered qualified expenditures:
 
-   (iii) Documented outstanding liabilities. Candidates may be entitled to receive a post-election payment equal to the amount of the candidate's properly reported and documented liabilities that remain outstanding, less the amount remaining in the candidate's principal committee bank account.
+      (A) expenditures for any purpose other than to further the candidate's nomination or election;
 
-      (A) Prior to issuing a post-election payment, the Board may require the candidate to submit any bank statements not previously provided.
+      (B) expenditures not incurred between December 15 in the year preceding the year of the election in which the participant is a candidate, and the date of such election;
 
-      (B) In order to be the basis for a post-election payment, an outstanding liability must be reported on or before the due date for the final disclosure statement required to be submitted for the covered election to which the liability relates.
+      (C) expenditures in violation of any law;
 
-      (C) To document an outstanding liability for the purpose of receiving a post-election payment, the candidate must provide documentation demonstrating that the reported payee has made a commercially reasonable attempt to collect the debt.
+      (D) payments to the candidate or a spouse, domestic partner, child, grandchild, parent, grandparent, brother, or sister of the candidate or spouse or domestic partner of such child, grandchild, parent, grandparent, brother, or sister, or to a business entity in which the candidate or any such person has a 10% or greater ownership interest;
 
-   (iv) Post-election payment is smallest amount. The amount of the post-election payment shall be the lowest of the three amounts detailed in paragraphs (i), (ii), and (iii) of this subdivision. If any of these amounts is zero, the candidate is not entitled to receive a post-election public funds payment.
+      (E) payments in excess of the fair market value of services, materials, facilities, or other things of value received;
 
-(b) Statutory maximum. Combined with the total pre-election payments received by the candidate, the post-election payment shall not exceed the maximum payment allowed for each election in which the candidate was a participant pursuant to § 3-705(2)(b) of the Code.
+      (F) expenditures made after the candidate has been finally disqualified or such candidate's petitions have been finally declared invalid by the Board of Elections or a court of competent jurisdiction, except that such expenditures may be made (1) as otherwise permitted pursuant to § 3-709(7) of the Code, or (2) for a different election (other than a special election to fill a vacancy) held later in the same calendar year in which the candidate seeks election for the same office;
+
+      (G) expenditures made after the only remaining opponent of the candidate has been finally disqualified or such opponent's petitions have been finally declared invalid by the Board of Elections or a court of competent jurisdiction, except that such expenditures may be made for a different election (other than a special election to fill a vacancy) held later in the same calendar year in which the candidate seeks election for the same office;
+
+      (H) expenditures made for any other election, if the public funds were originally received for a special election to fill a vacancy;
+
+      (I) payments in cash;
+
+      (J) contributions, transfers, or loans made to another candidate or political committee;
+
+      (K) gifts, except brochures, buttons, signs, and other printed campaign material;
+
+      (L) expenditures to challenge or defend the validity of petitions of designation, or nomination, or certificates of nomination, acceptance, authorization, declination, or substitution, and expenses related to the canvassing of election results;
+
+      (M) expenditures for which records required by 52 RCNY § 4-01 are not maintained or obtained by the candidate and submitted to the CFB;
+
+      (N) expenditures that are not itemized in a disclosure statement;
+
+      (O) payments that are not made or reimbursed from an account disclosed by the candidate pursuant to 52 RCNY § 2-01 or 52 RCNY § 2-02(e);
+
+      (P) reimbursement for advances, except in the case of individual purchases in excess of $250, provided that the individual purchase is not otherwise not a qualified expenditure on the basis of any of the other subparagraphs of paragraph (ii);
+
+      (Q) expenditures made in connection with any action, claim, or suit before any court or arbitrator;
+
+      (R) expenditures made primarily for the purpose of expressly advocating a vote for or against a ballot proposal, unless such expenditures were also made to further the participating candidate's nomination or election;
+
+      (S) payments of any penalty or fine imposed pursuant to federal, state, or local law;
+
+      (T) payments for services that were never received, including payments for legal services pursuant to a retainer agreement to the extent payments for such services exceed the value of the services rendered;
+
+      (U) expenditures to facilitate, support, or otherwise assist in the execution or performance of the duties of public office;
+
+      (V) expenditures related to childcare services; or
+
+      (W) payments for liabilities that were not reported in the disclosure statement covering the reporting period in which the liability was incurred.
+
+(b) Expenditures in cash. A candidate may not use cash for an expenditure of more than $100.
+
+(c) Volunteer services. Candidates may not pay volunteers for services already performed on a voluntary basis for that election, but may hire them as paid employees or retain them as consultants for future services. Candidates may not accept professional services on a volunteer basis from individuals who previously provided, on a paid basis, services of a similar nature to the same candidate during the same election cycle. Candidates may not accept volunteer services from any entity, or from an individual having an ownership interest of 10% or more in, or control over, any entity that provided paid services to the same candidate during the same election cycle. Notwithstanding the foregoing, after the election, candidates may accept volunteer services from individuals who previously provided paid services.
+
+(d) Candidates may not enter into contracts or agreements that provide for payments to vendors or employees that are conditional upon the receipt of public funds.
 
 
 
@@ -1898,10 +1675,38 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 8-03 Use of Final Post-Election Payment.* ::
+*§ 6-03 Joint Expenditures; Endorsements.* ::
 
 
-Before the Board makes the final post-election payment determination, if eligible, the candidate must submit to the Board bills or other documentation of outstanding debt for which such payment will be used. Within 60 days after the final public funds payment, the candidate must demonstrate that the public funds were used to pay such outstanding debt. If such demonstration is not made, the candidate must repay the public funds to the Board.
+(a) Generally. Candidates may engage in joint campaign activities, including joint fundraising, joint petitioning, and the production of joint campaign literature, subject to applicable expenditure limits.
+
+(b) Candidates must pay proportionally. A candidate must pay for the portion of the joint expenditure that is proportionally equivalent to such candidate's campaign's exposure in or benefit from the joint activity, unless the benefit is de minimis.
+
+   (i) Candidates and other individuals or entities may present information to the Board establishing such a de minimis benefit pursuant to 52 RCNY § 12-02.
+
+   (ii) Factors for proportional payment. Among the factors the Board will consider in determining whether the benefit to a candidate is proportionally equivalent to its expenditure or is de minimis are:
+
+      (A) the geographic distribution or location of the material or activity;
+
+      (B) the subject matter of the communication;
+
+      (C) the references to the candidate or the candidate's appearances therein;
+
+      (D) the relative prominence of a candidate's references or appearances in the communication, including the size and location of references to the candidate and any photographs of the candidate;
+
+      (E) the timing of the communication; and
+
+      (F) other circumstances of the communication.
+
+(c) Non-proportional payment may lead to in-kind contribution. To the extent a candidate does not pay for the proportional benefit it receives, the candidate is considered to have received an in-kind contribution from the other candidate. An in-kind contribution is also an expenditure by the candidate receiving the contribution.
+
+(d) Not joint expenditures. The following activities, by themselves, are not joint expenditures:
+
+   (i) the act of appearing with another candidate;
+
+   (ii) endorsing a candidate, or communicating about an endorsement or appearance in an insubstantial way, such as where the endorser's name is one of several names appearing on a communication and is of equivalent prominence as the other names; and
+
+   (iii) giving fundraising assistance to another candidate in the form of de minimis written communications, such as allowing the use of one's name or signature on a letter soliciting funds for another candidate or on fundraising material where the endorser's name appears alone or with other names and is of equivalent prominence as the other names.
 
 
 
@@ -1910,10 +1715,66 @@ Before the Board makes the final post-election payment determination, if eligibl
 
 
 
-*§ 8-04 Disclosure Statement Amendments.* ::
+*§ 6-04 Independent Expenditures.* ::
 
 
-The Board shall not make payments based on disclosure statement amendments filed after January 15 in the year following the year of the election; provided, however, that the Board may make payments based upon such amendments solely if they are made in response to invalid matching claims reports or expenditure sample reports to which the Board has requested a response after January 15 in the year following the year of the election.
+(a) Factors for determining independence. In determining whether an expenditure is independent, the Board may consider any of the factors from the following non-exhaustive list:
+
+   (i) whether the person or entity making the expenditure is also an agent of a candidate;
+
+   (ii) whether any person authorized to accept receipts or make expenditures for the person or entity making the expenditure is also an agent of a candidate;
+
+   (iii) whether a candidate has authorized, requested, suggested, fostered, or otherwise cooperated in any way in the formation or operation of the person or entity making the expenditure;
+
+   (iv) whether the person or entity making the expenditure has been established, financed, maintained, or controlled by any of the same persons or entities as those that have established, financed, maintained, or controlled a political committee authorized by the candidate;
+
+   (v) whether the candidate shares or rents space for a campaign-related purpose with or from the person or entity making the expenditure;
+
+   (vi) whether the candidate has solicited or collected funds on behalf of the person or entity making the expenditure, during the same election cycle in which the expenditure is made;
+
+   (vii) whether the candidate, or any public or private office held or entity controlled by the candidate, including any governmental agency, division, or office, has retained the professional services of the person making the expenditure or a principal member or professional or managerial employee of the entity making the expenditure, during the same election cycle in which the expenditure is made; and
+
+   (viii) whether the candidate and the person or entity making the expenditure have each consulted or otherwise been in communication with the same third party or parties, if the candidate knew or should have known that the candidate's communication or relationship to the third party or parties would inform or result in expenditures to benefit the candidate.
+
+(b) Board determination. Upon consideration of the factors described in subdivision (a), the Board may determine by a preponderance of evidence that an expenditure was not independent. Prior to such determination, the candidate and/or the person or entity making the expenditure shall have an opportunity to provide evidence indicating that such expenditure was independent.
+
+(c) Presumed non-independent expenditures. Financing the dissemination, distribution, or republication of any broadcast or any written, graphic, or other form of campaign materials prepared by a candidate is presumed to be a non-independent expenditure, unless the candidate can show that the activity was not in any way undertaken, authorized, requested, suggested, fostered, or otherwise cooperated in by the candidate.
+
+(d) Non-independent expenditures are contributions and expenditures. An expenditure for the purpose of furthering or facilitating the nomination or election of a candidate which is determined not to be an independent expenditure, is a contribution to, and an expenditure by, the candidate.
+
+(e) Expenditures made by party committees or constituted committees. Communication between, or common agents shared by, parties and their nominees will not require a conclusion that all spending by the party's constituted committees and party committees in an election is an in-kind contribution to the nominee.
+
+   (i) The following expenditures made by party committees or constituted committees are not considered in-kind contributions to a candidate unless it is demonstrated that the candidate in some way cooperated in the expenditure and that the expenditure was intended to benefit that candidate:
+
+      (A) materials or activities that promote the party, or oppose another party, by name, platform, principles, history, theme, slogans, issues, or philosophy, without reference to particular candidates in an upcoming election subject to the requirements of the Act.
+
+      (B) materials or activities in connection with candidates and elections not subject to the requirements of the Act.
+
+      (C) training, compensating, or providing materials for poll watchers appointed by the party pursuant to § 8-500 of the New York State Election Law.
+
+      (D) promoting party enrollment or voter turnout without reference to particular candidates in an upcoming election subject to Program requirements, including research, polling, recruitment of party employees and volunteers, and development and maintenance of voter and contributor lists.
+
+      (E) raising funds for the party without reference to particular candidates in an upcoming election subject to the requirements of the Act.
+
+      (F) mailing of absentee ballot applications in a special or general election in which an office not subject to the requirements of the Act is on the ballot.
+
+   (ii) The Board may require a candidate to demonstrate that expenditures made by a party committee or constituted committee for the purpose of furthering or facilitating the nomination or election of a candidate, including expenditures for the purpose of furthering or facilitating the defeat of the nomination or election of such candidate's opponent or prospective opponent, are not in-kind contributions to the candidate.
+
+   (iii) Where a candidate has, without making public disclosure of an outstanding liability in a timely manner, promised or made reimbursement or other payment to a party committee or constituted committee for an expenditure, such expenditure will be considered an in-kind contribution to the candidate during the time preceding the reimbursement or other payment by the candidate.
+
+(f) Running as a "ticket". If candidates announce they are running together as a "ticket" for which they have chosen to join together in a broad spectrum of activities to promote each other's election, the Board will presume that expenditures made by one candidate's campaign for materials or activities that clearly identify the other candidate are in-kind contributions to the second candidate. If the expenditures are in-kind contributions, the expenditures are subject to apportionment requirements as joint expenditures. The following factors would increase the burden a candidate would have in overcoming this presumption:
+
+   (i) the campaigns have staff, consultants, office space, or telephone lines in common; and
+
+   (ii) other in-kind contributions, expenditure refunds, advances, or joint expenditures have been made between these candidates, or one of the candidates has reported a liability owed to the other candidate(s).
+
+(g) Certain routine interactions with entities. Certain routine interactions with entities, absent other indicia of non-independence, will not in themselves lead to a determination of non-independence pursuant to 52 RCNY § 6-04(b), including:
+
+   (i) Discussions of logistics, including scheduling, regarding a non-fundraising event hosted by the entity;
+
+   (ii) Communications directly related to an entity's endorsement process, including questionnaires and interviews; and
+
+   (iii) Requesting, obtaining, or distributing publicly available materials such as a candidate's photograph, biography, position paper, or press release, but not including leaflets, posters, or other similar materials, nor video or audio materials.
 
 
 
@@ -1922,22 +1783,64 @@ The Board shall not make payments based on disclosure statement amendments filed
 
 
 
-*§ 8-05 Post-Election Petitions for Review.* ::
+*§ 6-05 Expenditures Made by Other Committees Established for the Candidate.* ::
 
 
-(a) After the Board provides a candidate a written determination specifying the basis for payment or non-payment of public funds after the election, the candidate may petition the Board in writing for reconsideration of such determination.
+(a) A candidate has the burden of demonstrating that expenditures made by a committee authorized by such candidate for a different election should not be attributed to the covered election.
 
-(b) A petition for review of a post-election payment determination must be submitted within 30 days of the candidate's final audit report, and must include:
+(b) Failure to meet this burden will result in the application of all Program requirements to these committees for the covered election, including attribution of expenditures to the covered election.
 
-   (i) a statement of the grounds for reconsideration;
+(c) Expenditures for fundraising for more than one election. When a candidate makes expenditures for a single event or other activity to raise funds for more than one office, and the next election that will be held is:
 
-   (ii) information or documentation that was unavailable to the Board previously and is material to such determination;
+   (i) a covered election, the full amount of such expenditures is subject to the expenditure limit.
 
-   (iii) a showing that the candidate had good cause for the previous failure to provide such information or documentation; and
+   (ii) not a covered election, a portion of such expenditures will be subject to the expenditure limit in the same proportion as the funds raised for the covered election bears to the total funds raised, unless the candidate can demonstrate to the Board that a different apportionment is applicable.
 
-   (iv) either a request to appear before the Board concerning the petition or a statement that the candidate waives such candidate's right to appear.
 
-(c) The Board shall timely issue a written determination on the subject of the petition. If the petition is denied, the determination shall inform the candidate of the right to appeal such determination pursuant to Article 78 of the Civil Practice Law and Rules.
+
+
+
+
+
+
+*§ 6-06 Identification of Communications.* ::
+
+
+(a) "Paid for by". When a candidate makes expenditures for any literature, advertisement, or other communication, the communication must include the words "paid for by" followed by the first and last name of the candidate or the name of the authorized committee that made the expenditures; provided that, if the name of the committee does not include the first or last name of the candidate, the words "paid for by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
+
+(b) "Authorized by". When a candidate authorizes any individual or entity, other than the candidate, to pay for any literature, advertisement, or other communication in support of or in opposition to any candidate in any covered election, the communication must include the words "authorized by" followed by the first and last name of the candidate or the name of the candidate's authorized committee; provided that, if the name of the committee does not include the first or last name of the candidate, the words "authorized by" must be followed by the first and last name of the candidate, either instead of or in addition to the name of the committee.
+
+(c) Form. The identification required by subdivision (a) or (b) of this section must be in the following form:
+
+   (i) For printed material, an internet text advertisement, or a website, the identification must be written in a font of conspicuous size and style and contained in a box within the borders of the communication.
+
+   (ii) For an audio communication broadcast on radio or over the internet, the identification must be clearly spoken at the beginning or end of the communication.
+
+   (iii) For a video communication broadcast by television, satellite, cable, internet, or similar medium, the identification must be clearly spoken at the beginning or end of the communication and, simultaneous with the spoken disclosure, written in a font of conspicuous size and style contained in a box within the borders of the communication.
+
+   (iv) For a telephone communication, the identification must be clearly spoken at the beginning or end of the communication. If the identification is spoken at the end of the communication, the name of the candidate must also be clearly spoken at the beginning of the call.
+
+(d) Languages other than English. For communications primarily in a language other than English, all required written or spoken identification required by this section must be in such language.
+
+(e) Where identification would be impractical. This requirement may be modified by the Board concerning items upon which identification would be impractical.
+
+
+
+
+
+
+
+
+*§ 6-07 Routine Communication Sent by a Political Club to its Members.* ::
+
+
+A routine communication sent by a political club to its members that includes the name of a candidate is not an in-kind contribution to such candidate, provided that:
+
+(a) the candidate is already a member of the club;
+
+(b) the club has fewer than 500 members; and
+
+(c) the communication does not solicit funds on behalf of or otherwise promote the candidate's campaign for a covered election.
 
 
 
@@ -2254,34 +2157,16 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 10-01 Audits.* ::
+*§ 8-01 Payment Determinations.* ::
 
 
-(a) The Board shall conduct desk and field audits of participants and non-participants, regardless of whether the candidates receive public funds. Field audits may be conducted before or after an election, as the Board deems appropriate. In conducting audits, the Board may use random sampling of data and other analytic techniques, as appropriate. The Board shall conduct campaign audits in accordance with generally accepted government auditing standards.
+(a) Candidates who fail to demonstrate compliance with the Act and these rules, including candidates who satisfy one or more criteria for ineligibility as provided in 52 RCNY § 3-01(d), are not eligible to receive a post-election public funds payment.
 
-(b) Candidates are required to respond to all Board requests for information and documentation during the audit process. Failure to respond in a timely fashion may cause delay in the issuance of a final audit report. In addition, the Board may assess penalties for failing to respond or responding late to requests for documentation or information pursuant to § 3-711 of the Code.
+(b) Candidates have the burden of demonstrating eligibility to retain public funds received prior to the election and to receive additional public funds after the election. Candidates who fail to demonstrate eligibility to retain all or a portion of the public funds previously received may be required to repay such amount to the Fund.
 
+(c) A candidate's post-election payment, if any, will be reduced by the amount of any applicable deductions pursuant to 52 RCNY § 7-07(a), if such amounts were not deducted from pre-election public funds payments.
 
-
-
-
-
-
-
-*§ 10-02 Audit Deadlines; Optional Post-Election Training.* ::
-
-
-The Board shall issue all draft and final audit reports in accordance with the deadlines provided in § 3-710(1)(a) and (b) of the Code subject to any applicable exceptions to those deadlines provided in § 3-710(1)(d), (e), and (f) of the Code.
-
-(a) Candidates who attend a post-election training. Pursuant to § 3-710(1) of the Code, where the candidate, the campaign manager, or the treasurer has attended a post-election audit training provided by the Board, the Board will issue the candidate's enforcement notice or final audit report within 14 months after the deadline for submission of the final disclosure report for the covered election, in the case of city council and borough-wide races, and within 16 months after the deadline for submission of the final disclosure report for the covered election in the case of citywide races.
-
-(b) Candidates who do not attend a post-election training. For candidates who do not attend a post-election training, the Board will issue an enforcement notice or final audit report:
-
-   (i) For City Council and borough-wide races, within 16 months after the deadline for submission of the final disclosure report for the covered election; and
-
-   (ii) For citywide races, within 18 months after the deadline for submission of the final disclosure report for the covered election.
-
-(c) Deadline for attending post-election training. To be subject to the deadlines provided in subdivision (a) of this section, candidates must attend a post-election training on or before the earlier of 20 days following issuance of the candidate's draft audit report or one year after the deadline for submission of the final disclosure report for the covered election.
+(d) The post-election payment, repayment, or nonpayment determination shall be the final determination regarding that candidate's public funds payment status, except as provided in 52 RCNY § 8-05.
 
 
 
@@ -2290,30 +2175,26 @@ The Board shall issue all draft and final audit reports in accordance with the d
 
 
 
-*§ 10-03 Board Determinations Concerning Violations, Infractions, Penalties, and Repayment of Public Funds.* ::
+*§ 8-02 Amount of Post-Election Payment.* ::
 
 
-(a) Notice and opportunity to contest. The Board will notify the candidate, the TIE, or the independent spender and its authorized representative, as applicable, in writing of any infractions or violations alleged to have been committed by such party, as well as any corresponding recommended penalties, and any recommended public funds repayment. Such notice shall:
+(a) Reasons for post-election payment. A post-election payment shall only be made if, at the conclusion of the post-election audit, a candidate has demonstrated unpaid matching claims, a qualified expenditure surplus, and documented outstanding liabilities.
 
-   (i) set forth in detail the factual and legal basis for staff's recommendation that a violation, infraction, or public funds repayment obligation be found;
+   (i) Unpaid matching claims. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total valid matchable claims multiplied by the applicable matching rate pursuant to § 3-705(2)(a) of the Code exceed the total pre-election payments received by the candidate.
 
-   (ii) inform the party that hearings are conducted in accordance with the requirements for adjudications contained in § 1046 of the Charter unless such procedures are waived by, as applicable: the participant or nonparticipant, the elected candidate, the independent spender or authorized representative, or an agent thereof;
+   (ii) Qualified expenditure surplus. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total qualified expenditures exceed the total pre-election payments received by the candidate.
 
-   (iii) notify the party of the opportunity to submit information and documentation for the Board's consideration within a time period to be specified in such notice; and
+   (iii) Documented outstanding liabilities. Candidates may be entitled to receive a post-election payment equal to the amount of the candidate's properly reported and documented liabilities that remain outstanding, less the amount remaining in the candidate's principal committee bank account.
 
-   (iv) notify the party of the opportunity to appear at a hearing before the Board or an administrative law judge to contest the alleged violations or infractions, penalties, and public funds repayment obligation.
+      (A) Prior to issuing a post-election payment, the Board may require the candidate to submit any bank statements not previously provided.
 
-(b) Response to the notice.
+      (B) In order to be the basis for a post-election payment, an outstanding liability must be reported on or before the due date for the final disclosure statement required to be submitted for the covered election to which the liability relates.
 
-   (i) The noticed party must submit a complete response to the notice by the due date. Extensions may be granted for good cause shown. Extension requests must be made in writing and must be submitted prior to the deadline.
+      (C) To document an outstanding liability for the purpose of receiving a post-election payment, the candidate must provide documentation demonstrating that the reported payee has made a commercially reasonable attempt to collect the debt.
 
-   (ii) Unless specifically notified to the contrary by the Board, the opportunity to submit information and documentation in response to the notice shall be the only such opportunity, and any information and documentation that is not timely received by the Board shall be disregarded. Under extraordinary circumstances, the Board may, at its sole discretion, choose to accept information or documentation not timely received.
+   (iv) Post-election payment is smallest amount. The amount of the post-election payment shall be the lowest of the three amounts detailed in paragraphs (i), (ii), and (iii) of this subdivision. If any of these amounts is zero, the candidate is not entitled to receive a post-election public funds payment.
 
-(c) Final Board determination. Based on the evidence, the Board will make a final Board determination as to the party's violations or infractions, penalties, and public funds repayment obligation, and shall provide the party with a written copy of its determination. Such determination shall notify the party that it may be appealed within four months as set forth in Article 78 of the Civil Practice Law and Rules.
-
-(d) Payment. If the Board has determined that the party must pay penalties or repay public funds, the party must make payment by the deadline set forth in the final Board determination. If these amounts are not paid by the payment deadline, they may be sought through appropriate legal action or, in the case of civil penalties against participants, by deduction from any public funds otherwise due for any election.
-
-(e) Penalty Guidelines. The Board shall publicize staff guidelines for presumptive penalties to be recommended for certain violations of the Charter, Act, and these rules, subject to consideration of aggravating and mitigating factors that may be considered in determining the appropriate penalty assessment for the violation.
+(b) Statutory maximum. Combined with the total pre-election payments received by the candidate, the post-election payment shall not exceed the maximum payment allowed for each election in which the candidate was a participant pursuant to § 3-705(2)(b) of the Code.
 
 
 
@@ -2322,10 +2203,46 @@ The Board shall issue all draft and final audit reports in accordance with the d
 
 
 
-*§ 10-04 Submission of False Information.* ::
+*§ 8-03 Use of Final Post-Election Payment.* ::
 
 
-If the Board has reason to believe that any individual or entity has knowingly submitted false information or fabricated evidence or has knowingly withheld or concealed information in a written or oral submission or representation to the Board, the Board may refer the matter to the appropriate agency for criminal prosecution and may commence a civil action to recover public funds and/or civil penalties, if appropriate.
+Before the Board makes the final post-election payment determination, if eligible, the candidate must submit to the Board bills or other documentation of outstanding debt for which such payment will be used. Within 60 days after the final public funds payment, the candidate must demonstrate that the public funds were used to pay such outstanding debt. If such demonstration is not made, the candidate must repay the public funds to the Board.
+
+
+
+
+
+
+
+
+*§ 8-04 Disclosure Statement Amendments.* ::
+
+
+The Board shall not make payments based on disclosure statement amendments filed after January 15 in the year following the year of the election; provided, however, that the Board may make payments based upon such amendments solely if they are made in response to invalid matching claims reports or expenditure sample reports to which the Board has requested a response after January 15 in the year following the year of the election.
+
+
+
+
+
+
+
+
+*§ 8-05 Post-Election Petitions for Review.* ::
+
+
+(a) After the Board provides a candidate a written determination specifying the basis for payment or non-payment of public funds after the election, the candidate may petition the Board in writing for reconsideration of such determination.
+
+(b) A petition for review of a post-election payment determination must be submitted within 30 days of the candidate's final audit report, and must include:
+
+   (i) a statement of the grounds for reconsideration;
+
+   (ii) information or documentation that was unavailable to the Board previously and is material to such determination;
+
+   (iii) a showing that the candidate had good cause for the previous failure to provide such information or documentation; and
+
+   (iv) either a request to appear before the Board concerning the petition or a statement that the candidate waives such candidate's right to appear.
+
+(c) The Board shall timely issue a written determination on the subject of the petition. If the petition is denied, the determination shall inform the candidate of the right to appeal such determination pursuant to Article 78 of the Civil Practice Law and Rules.
 
 
 
@@ -2399,6 +2316,89 @@ The Board shall determine whether a candidate or such candidate's principal comm
    (iii) the candidate has failed to demonstrate eligibility for the public funds paid or compliance with Program requirements; or
 
    (iv) a determination pursuant to §§ 3-705(6) or (7) of the Code is reversed following reconsideration pursuant to 52 RCNY § 7-10(b)(vii).
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 10-01 Audits.* ::
+
+
+(a) The Board shall conduct desk and field audits of participants and non-participants, regardless of whether the candidates receive public funds. Field audits may be conducted before or after an election, as the Board deems appropriate. In conducting audits, the Board may use random sampling of data and other analytic techniques, as appropriate. The Board shall conduct campaign audits in accordance with generally accepted government auditing standards.
+
+(b) Candidates are required to respond to all Board requests for information and documentation during the audit process. Failure to respond in a timely fashion may cause delay in the issuance of a final audit report. In addition, the Board may assess penalties for failing to respond or responding late to requests for documentation or information pursuant to § 3-711 of the Code.
+
+
+
+
+
+
+
+
+*§ 10-02 Audit Deadlines; Optional Post-Election Training.* ::
+
+
+The Board shall issue all draft and final audit reports in accordance with the deadlines provided in § 3-710(1)(a) and (b) of the Code subject to any applicable exceptions to those deadlines provided in § 3-710(1)(d), (e), and (f) of the Code.
+
+(a) Candidates who attend a post-election training. Pursuant to § 3-710(1) of the Code, where the candidate, the campaign manager, or the treasurer has attended a post-election audit training provided by the Board, the Board will issue the candidate's enforcement notice or final audit report within 14 months after the deadline for submission of the final disclosure report for the covered election, in the case of city council and borough-wide races, and within 16 months after the deadline for submission of the final disclosure report for the covered election in the case of citywide races.
+
+(b) Candidates who do not attend a post-election training. For candidates who do not attend a post-election training, the Board will issue an enforcement notice or final audit report:
+
+   (i) For City Council and borough-wide races, within 16 months after the deadline for submission of the final disclosure report for the covered election; and
+
+   (ii) For citywide races, within 18 months after the deadline for submission of the final disclosure report for the covered election.
+
+(c) Deadline for attending post-election training. To be subject to the deadlines provided in subdivision (a) of this section, candidates must attend a post-election training on or before the earlier of 20 days following issuance of the candidate's draft audit report or one year after the deadline for submission of the final disclosure report for the covered election.
+
+
+
+
+
+
+
+
+*§ 10-03 Board Determinations Concerning Violations, Infractions, Penalties, and Repayment of Public Funds.* ::
+
+
+(a) Notice and opportunity to contest. The Board will notify the candidate, the TIE, or the independent spender and its authorized representative, as applicable, in writing of any infractions or violations alleged to have been committed by such party, as well as any corresponding recommended penalties, and any recommended public funds repayment. Such notice shall:
+
+   (i) set forth in detail the factual and legal basis for staff's recommendation that a violation, infraction, or public funds repayment obligation be found;
+
+   (ii) inform the party that hearings are conducted in accordance with the requirements for adjudications contained in § 1046 of the Charter unless such procedures are waived by, as applicable: the participant or nonparticipant, the elected candidate, the independent spender or authorized representative, or an agent thereof;
+
+   (iii) notify the party of the opportunity to submit information and documentation for the Board's consideration within a time period to be specified in such notice; and
+
+   (iv) notify the party of the opportunity to appear at a hearing before the Board or an administrative law judge to contest the alleged violations or infractions, penalties, and public funds repayment obligation.
+
+(b) Response to the notice.
+
+   (i) The noticed party must submit a complete response to the notice by the due date. Extensions may be granted for good cause shown. Extension requests must be made in writing and must be submitted prior to the deadline.
+
+   (ii) Unless specifically notified to the contrary by the Board, the opportunity to submit information and documentation in response to the notice shall be the only such opportunity, and any information and documentation that is not timely received by the Board shall be disregarded. Under extraordinary circumstances, the Board may, at its sole discretion, choose to accept information or documentation not timely received.
+
+(c) Final Board determination. Based on the evidence, the Board will make a final Board determination as to the party's violations or infractions, penalties, and public funds repayment obligation, and shall provide the party with a written copy of its determination. Such determination shall notify the party that it may be appealed within four months as set forth in Article 78 of the Civil Practice Law and Rules.
+
+(d) Payment. If the Board has determined that the party must pay penalties or repay public funds, the party must make payment by the deadline set forth in the final Board determination. If these amounts are not paid by the payment deadline, they may be sought through appropriate legal action or, in the case of civil penalties against participants, by deduction from any public funds otherwise due for any election.
+
+(e) Penalty Guidelines. The Board shall publicize staff guidelines for presumptive penalties to be recommended for certain violations of the Charter, Act, and these rules, subject to consideration of aggravating and mitigating factors that may be considered in determining the appropriate penalty assessment for the violation.
+
+
+
+
+
+
+
+
+*§ 10-04 Submission of False Information.* ::
+
+
+If the Board has reason to believe that any individual or entity has knowingly submitted false information or fabricated evidence or has knowingly withheld or concealed information in a written or oral submission or representation to the Board, the Board may refer the matter to the appropriate agency for criminal prosecution and may commence a civil action to recover public funds and/or civil penalties, if appropriate.
 
 
 
@@ -3470,167 +3470,6 @@ Title 52: Campaign Finance Board*
 
 
 
-*§ 16-01 Demonstrating That a Runoff Is Reasonably Anticipated.* ::
-
-
-(a) A candidate may not accept contributions or make expenditures for a runoff election unless the Board has determined that a runoff election is reasonably anticipated.
-
-(b) A candidate may not accept contributions or make expenditures for a runoff election once the Board determines that it is no longer reasonable to anticipate such an election.
-
-(c) In determining whether a runoff election is reasonably anticipated, the Board shall consider factors including, but not limited to:
-
-   (i) the history of runoff primaries in a particular party for the office at issue;
-
-   (ii) media reports discussing the likelihood of a runoff primary;
-
-   (iii) polling information;
-
-   (iv) the proximity to the date of the primary;
-
-   (v) whether an incumbent officeholder is a candidate in the race;
-
-   (vi) the number of candidates running;
-
-   (vii) the amount of funds raised by the candidates; and
-
-   (viii) endorsements made to the candidates in the race.
-
-
-
-
-
-
-
-
-*§ 16-02 Certification.* ::
-
-
-A candidate's Certification for a primary, general, or special election applies to any related runoff or runoff special election.
-
-
-
-
-
-
-
-
-*§ 16-03 Reporting.* ::
-
-
-(a) Pre-election disclosure statements must be filed four days before a runoff election.
-
-(b) Post-election disclosure statements must be filed 10 days after a runoff primary election.
-
-(c) Each disclosure statement submitted by the candidate must include a copy of the most recent bank statements for the candidate's runoff election account.
-
-
-
-
-
-
-
-
-*§ 16-04 Expenditure Limit.* ::
-
-
-The expenditure limit for a runoff election is one half the amount of the applicable limitation for the associated primary, general, or special election.
-
-
-
-
-
-
-
-
-*§ 16-05 Contributions.* ::
-
-
-(a) Limit. The contribution limit for a reasonably anticipated runoff election is one half of the contribution limit applicable to the office for which the runoff election is occurring.
-
-(b) Solicitation of contributions. Until a primary or special election is held that results in a runoff election, each solicitation of runoff election contributions must expressly state that such contributions are being solicited only for a runoff election that may not occur.
-
-(c) No single contribution may be divided between runoff and non-runoff accounts, nor may a single contribution be accepted in an amount that exceeds the limit applicable for the primary and general election, or runoff election, under § 3-703(1)(f) or (h) of the Act.
-
-(d) Contribution documentation.
-
-   (i) Each contribution must be documented and disclosed to the Board as a runoff contribution.
-
-   (ii) For each contribution from an individual contributor that the candidate deposits into a runoff bank account, the candidate must maintain a contribution card, which shall be provided to the Board upon request.
-
-      (A) Runoff account contribution cards must include all information required pursuant to 52 RCNY § 4-01(b)(ii)(B).
-
-      (B) Runoff account contribution cards must state, above the line for the contributor's signature: "I understand that this entire contribution will be used only for a runoff election. I hereby affirm that I was not, nor, to my knowledge, was anyone else, reimbursed in any manner for this contribution; that this contribution is not being made as a loan; and that this contribution is being made from my personal funds or my personal account, which has no corporate affiliation."
-
-(e) Public funds payments.
-
-   (i) Flat grants for run-off elections. Pursuant to § 3-705(5)(a) of the Code, the Board shall pay to a candidate in a runoff primary election or runoff special election an amount equal to 25 cents for each one dollar of public funds paid to the candidate for the preceding election.
-
-   (ii) Timing. The Board shall make payments pursuant to this subdivision within four business days after the date of the preceding election, or as soon thereafter as practicable; provided, however, that no public funds shall be paid to candidates in a runoff election until the Board has determined that such runoff election is reasonably anticipated to occur.
-
-(f) Receipts accepted for a runoff election may not be commingled in any account with receipts accepted for another election, with receipts accepted for a TIE, or with personal or business funds, and may not be used for any other election held in the year that the runoff election is held or anticipated.
-
-(g) Receipts accepted for an anticipated runoff election that is not held may not be spent or otherwise transferred until the earlier of (i) the first January 12 after the date of the election for which the runoff election was anticipated or (ii) the date upon which all the candidate's liabilities from the election for which the runoff election was anticipated have been extinguished.
-
-
-
-
-
-
-
-
-*§ 16-06 Runoff Bank Accounts.* ::
-
-
-(a) Runoff primary elections.
-
-   (i) Candidates must use a runoff primary bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding primary election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
-
-   (ii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
-
-   (iii) Exchange of funds. Funds may be exchanged between an account maintained for a primary or the general election and an account maintained for a runoff primary for the following purposes only:
-
-      (A) exchanges from a primary or general election account to a runoff primary account made after the primary election so that the funds transferred may be spent in the runoff primary; and
-
-      (B) exchanges from a runoff primary account to a primary or general election account made after the runoff primary is held so that the funds exchanged may be spent in the general election.
-
-(b) Runoff special elections.
-
-   (i) A runoff special election may be held for the office of mayor, as provided by § 10(c)(10) of the Charter.
-
-   (ii) Candidates must use a runoff special bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding special election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
-
-   (iii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
-
-   (iv) Exchange of funds. Receipts accepted for a runoff special election may not be used for any other election until after the runoff special election is actually held; provided, however, that funds may be exchanged between an account maintained for a special election and an account maintained for a runoff special only after the special election, in order for the funds transferred to be spent in the runoff special.
-
-
-
-
-
-
-
-
-*§ 16-07 Independent Expenditure Disclosure.* ::
-
-
-(a) The reporting period for the first disclosure statement in a runoff election begins on the day the Board issues a determination stating that such runoff election is reasonably anticipated.
-
-(b) For a runoff primary election, a disclosure statement is due 10 days after the election.
-
-(c) For a runoff special election, a disclosure statement is due 27 days after the election.
-
-(d) During the 14 days before a runoff primary or special election, an independent spender must submit a disclosure statement to the Board within 24 hours of distributing any reportable communication, making any reportable expenditure, or receiving any reportable contribution.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
 *§ 15-01 Special Requirements and Procedures.* ::
 
 
@@ -3785,6 +3624,167 @@ A candidate in a special election, or such candidate's representative, must atte
 (c) Unless permitted by subdivision (a) above, any expenditure incurred after 30 days following the date of the elected candidate's inauguration by a TIE shall be presumed to be for the next election in which the elected candidate is a candidate following the day that it is incurred, and not incurred for the purposes of transition or inauguration.
 
 (d) The TIE must be terminated after it has paid all liabilities and otherwise disposed of all funds pursuant to the requirements set forth in this chapter and, in any event, no later than 60 days after inauguration.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
+*§ 16-01 Demonstrating That a Runoff Is Reasonably Anticipated.* ::
+
+
+(a) A candidate may not accept contributions or make expenditures for a runoff election unless the Board has determined that a runoff election is reasonably anticipated.
+
+(b) A candidate may not accept contributions or make expenditures for a runoff election once the Board determines that it is no longer reasonable to anticipate such an election.
+
+(c) In determining whether a runoff election is reasonably anticipated, the Board shall consider factors including, but not limited to:
+
+   (i) the history of runoff primaries in a particular party for the office at issue;
+
+   (ii) media reports discussing the likelihood of a runoff primary;
+
+   (iii) polling information;
+
+   (iv) the proximity to the date of the primary;
+
+   (v) whether an incumbent officeholder is a candidate in the race;
+
+   (vi) the number of candidates running;
+
+   (vii) the amount of funds raised by the candidates; and
+
+   (viii) endorsements made to the candidates in the race.
+
+
+
+
+
+
+
+
+*§ 16-02 Certification.* ::
+
+
+A candidate's Certification for a primary, general, or special election applies to any related runoff or runoff special election.
+
+
+
+
+
+
+
+
+*§ 16-03 Reporting.* ::
+
+
+(a) Pre-election disclosure statements must be filed four days before a runoff election.
+
+(b) Post-election disclosure statements must be filed 10 days after a runoff primary election.
+
+(c) Each disclosure statement submitted by the candidate must include a copy of the most recent bank statements for the candidate's runoff election account.
+
+
+
+
+
+
+
+
+*§ 16-04 Expenditure Limit.* ::
+
+
+The expenditure limit for a runoff election is one half the amount of the applicable limitation for the associated primary, general, or special election.
+
+
+
+
+
+
+
+
+*§ 16-05 Contributions.* ::
+
+
+(a) Limit. The contribution limit for a reasonably anticipated runoff election is one half of the contribution limit applicable to the office for which the runoff election is occurring.
+
+(b) Solicitation of contributions. Until a primary or special election is held that results in a runoff election, each solicitation of runoff election contributions must expressly state that such contributions are being solicited only for a runoff election that may not occur.
+
+(c) No single contribution may be divided between runoff and non-runoff accounts, nor may a single contribution be accepted in an amount that exceeds the limit applicable for the primary and general election, or runoff election, under § 3-703(1)(f) or (h) of the Act.
+
+(d) Contribution documentation.
+
+   (i) Each contribution must be documented and disclosed to the Board as a runoff contribution.
+
+   (ii) For each contribution from an individual contributor that the candidate deposits into a runoff bank account, the candidate must maintain a contribution card, which shall be provided to the Board upon request.
+
+      (A) Runoff account contribution cards must include all information required pursuant to 52 RCNY § 4-01(b)(ii)(B).
+
+      (B) Runoff account contribution cards must state, above the line for the contributor's signature: "I understand that this entire contribution will be used only for a runoff election. I hereby affirm that I was not, nor, to my knowledge, was anyone else, reimbursed in any manner for this contribution; that this contribution is not being made as a loan; and that this contribution is being made from my personal funds or my personal account, which has no corporate affiliation."
+
+(e) Public funds payments.
+
+   (i) Flat grants for run-off elections. Pursuant to § 3-705(5)(a) of the Code, the Board shall pay to a candidate in a runoff primary election or runoff special election an amount equal to 25 cents for each one dollar of public funds paid to the candidate for the preceding election.
+
+   (ii) Timing. The Board shall make payments pursuant to this subdivision within four business days after the date of the preceding election, or as soon thereafter as practicable; provided, however, that no public funds shall be paid to candidates in a runoff election until the Board has determined that such runoff election is reasonably anticipated to occur.
+
+(f) Receipts accepted for a runoff election may not be commingled in any account with receipts accepted for another election, with receipts accepted for a TIE, or with personal or business funds, and may not be used for any other election held in the year that the runoff election is held or anticipated.
+
+(g) Receipts accepted for an anticipated runoff election that is not held may not be spent or otherwise transferred until the earlier of (i) the first January 12 after the date of the election for which the runoff election was anticipated or (ii) the date upon which all the candidate's liabilities from the election for which the runoff election was anticipated have been extinguished.
+
+
+
+
+
+
+
+
+*§ 16-06 Runoff Bank Accounts.* ::
+
+
+(a) Runoff primary elections.
+
+   (i) Candidates must use a runoff primary bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding primary election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
+
+   (ii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
+
+   (iii) Exchange of funds. Funds may be exchanged between an account maintained for a primary or the general election and an account maintained for a runoff primary for the following purposes only:
+
+      (A) exchanges from a primary or general election account to a runoff primary account made after the primary election so that the funds transferred may be spent in the runoff primary; and
+
+      (B) exchanges from a runoff primary account to a primary or general election account made after the runoff primary is held so that the funds exchanged may be spent in the general election.
+
+(b) Runoff special elections.
+
+   (i) A runoff special election may be held for the office of mayor, as provided by § 10(c)(10) of the Charter.
+
+   (ii) Candidates must use a runoff special bank account. No disbursements, withdrawals, or transfers may be made from the runoff account prior to the day of the preceding special election, except that contributions may be returned to contributors until the candidate first receives public funds for the runoff election.
+
+   (iii) A runoff bank account must be disclosed to the Board in an amendment to a Certification or Filer Registration.
+
+   (iv) Exchange of funds. Receipts accepted for a runoff special election may not be used for any other election until after the runoff special election is actually held; provided, however, that funds may be exchanged between an account maintained for a special election and an account maintained for a runoff special only after the special election, in order for the funds transferred to be spent in the runoff special.
+
+
+
+
+
+
+
+
+*§ 16-07 Independent Expenditure Disclosure.* ::
+
+
+(a) The reporting period for the first disclosure statement in a runoff election begins on the day the Board issues a determination stating that such runoff election is reasonably anticipated.
+
+(b) For a runoff primary election, a disclosure statement is due 10 days after the election.
+
+(c) For a runoff special election, a disclosure statement is due 27 days after the election.
+
+(d) During the 14 days before a runoff primary or special election, an independent spender must submit a disclosure statement to the Board within 24 hours of distributing any reportable communication, making any reportable expenditure, or receiving any reportable contribution.
 
 
 
