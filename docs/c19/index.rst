@@ -37,8 +37,6 @@ Accessible Conversion Start Date is the date which is the earlier of (1) the dat
 
 Accessible Medallion is a Restricted Medallion valid for use only with an Accessible Taxicab.
 
-Accessible Official Taxicab Vehicle ("Accessible OTV") is the OTV modified in a manner that is consistent with the City's contract with Nissan North America.
-
 Accessible Street Hail Livery. An Accessible Street Hail Livery is a Street Hail Livery that is required to be used with a Commission approved vehicle that is designed to transport persons in wheelchairs or whose design is altered to permit access and enable the transportation of persons in wheelchairs or contains a physical device permitting such access, in accordance with the Americans with Disabilities Act.
 
 Accessible Taxi Dispatcher. The Accessible Taxi Dispatcher is the entity which, under contract with the Commission, will convey dispatches, or requests for accessible service to Drivers of Accessible Taxicabs and to Drivers of Accessible Street Hail Liveries to provide transportation for a Passenger or group of Passengers, at least one of whom must be mobility-impaired, for trips that originate in New York City.
@@ -467,10 +465,6 @@ Official Bus Route means the route, including all stops, traveled upon by a bus 
 
 Old Rules means Title 35 of the Rules of the City of New York as in effect before the Activation Date.
 
-Official Taxicab Vehicle ("OTV") is the vehicle that is a purpose built taxicab for model years 2014 - 2024, manufactured pursuant to the City's contract with Nissan North America. All references to OTV include Accessible OTV unless otherwise specified.
-
-Official Taxicab Vehicle Activation Date ("OTV Activation Date") is the date on or after which the Official Taxicab Vehicle is required to be used in the Hack-up of any Unrestricted Medallion unless otherwise provided in 35 RCNY Chapter 67.
-
 Owner means the legal owner and is further defined in each relevant Chapter.
 
 Paratransit Base or Base Station is the facility from which a paratransit service operates a transportation service for Persons with Disabilities, including all ambulette services.
@@ -623,7 +617,7 @@ Taxicab Improvement Surcharge is the surcharge of $0.30 per trip that will be ad
 
 Taxicab License is the authority granted by the Commission for an Applicant to own and operate a designated vehicle as a Taxicab within the Commission's jurisdiction, as evidenced by the Medallion affixed to the hood of the vehicle.
 
-Taxicab Model is the OTV, the Accessible OTV, or a Taxicab Candidate that has been verified by the Commission as complying with the standard specifications set forth in 35 RCNY § 67-05.1 or § 67-05.2.
+Taxicab Model is a Taxicab Candidate that has been verified by the Commission as complying with the standard specifications set forth in 35 RCNY § 67-05.1 or § 67-05.2.
 
 Taximeter is an instrument or device approved by the Commission that automatically calculates and plainly indicates the charge to a passenger for hire in a Taxicab or Street Hail Livery.
 
@@ -7952,7 +7946,8 @@ Chapter 58: Medallion Taxicab Service
 
       (vi) The new surcharge will take effect on July 31 and December 31 of each year beginning December 31, 2012. If the Commission has not posted a new surcharge, the prior surcharge will remain in effect.
 
-      (vii) Based on the index, the surcharge will be as follows:
+      (vii) Based on the index, the surcharge will be as follows: 
+										
 
  
 
@@ -7961,7 +7956,8 @@ Chapter 58: Medallion Taxicab Service
     :header-rows: 1
 
     * - When the Index is:
-      - The surcharge will be:
+      - The surcharge for Hybrid Electric and Diesel-Fueled taxicabs will be:
+      - The surcharge for all other taxicabs will be:
 ~
 
 
@@ -7974,18 +7970,25 @@ Chapter 58: Medallion Taxicab Service
 
     * - $2.49 or less
       - $13 per shift (or $78 per week)
+      - $16 per shift (or $96 per week)
     * - $2.50 to $2.99
       - $16 per shift (or $96 per week)
+      - $19 per shift (or $114 per week)
     * - $3.00 to $3.49
       - $18 per shift (or $108 per week)
+      - $21 per shift (or $126 per week)
     * - $3.50 to $3.99
       - $21 per shift (or $126 per week)
+      - $24 per shift (or $144 per week)
     * - $4.00 to $4.49
       - $23 per shift (or $138 per week)
+      - $26 per shift (or $156 per week)
     * - $4.50 to $4.99
       - $26 per shift (or $156 per week)
+      - $29 per shift (or $174 per week)
     * - $5.00 or more
       - $28 per shift (or $168 per week)
+      - $31 per shift (or $186 per week)
 ~
 
  
@@ -8287,7 +8290,10 @@ Chapter 58: Medallion Taxicab Service
 
          B. When a cancellation payment is made, the Driver's obligation to make lease payments terminates immediately.
 
-   (6) Deposit information. Each lease must include the information regarding deposits required by 35 RCNY § 58-21(e). 
+   (6) Deposit information. Each lease must include the information regarding deposits required by 35 RCNY § 58-21(e).
+
+   (7) No Driver Lease Payments through TPEP. An owner may not require a driver to make a lease payment pursuant to this section utilizing the TPEP system. 
+										
 
  
 
@@ -9235,7 +9241,8 @@ EZ-Pass
 
  
 
-(d) No Alterations. An Owner will make no structural change in a Taxicab or in an OTV that deviates from the Taxicab specifications set forth in 35 RCNY Chapter 67 without the Commission's written approval.
+(d) No Alterations. An Owner will make no structural change in a Taxicab that deviates from the Taxicab specifications set forth in 35 RCNY Chapter 67 without the Commission's written approval. 
+										
 
  
 
@@ -9641,8 +9648,8 @@ EZ-Pass
     * - (m) Medallion number decals (required). (Non-detachable decals only.)
       - The decals must be applied to both rear quarter panels, just below the rear windows or following the line created by the bottom edge of the windows.On some vehicles, such as minivans, the Medallion number can be placed at the rear of the sliding door.
       - The size of the Medallion number decals must be determined by the Commission.
-    * - (n) Checkerboard stripe decals [Reserved]
-      -  
+    * - (n) New York State symbol for accessibility, for Accessible Taxicabs. (optional)
+      - Front and rear of roof light, displayed on both sides of the medallion number.
       -  
     * - (o)"Drivers are not allowed to use cell phones or handheld electronics."Decal or sticker shall be issued by the Commission
       - Interior of passenger compartment in a location plainly visible to passengers
@@ -9660,7 +9667,7 @@ EZ-Pass
       - On a rear passenger window.
       - 3.5 x 3.5 inches.
     * - (t) The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A"T"will be placed in the lower right-hand corner of each decal. The internal decal will include the language"Induction loop installed. Switch hearing aid to T-coil."
-      - The decal will be placed on the outside of each OTV on the B-pillar and on the inside of each OTV rear passenger compartment on the partition in a location plainly visible to passengers. For vehicles that are not OTVs but have Hearing Induction Loop technology, place as directed by the Chairperson.
+      - Vehicles equipped with Hearing Induction Loop technology must place the decal on the outside of the vehicle as directed by the Chairperson, and inside the rear passenger compartment in a location plainly visible to passengers.
       - The exterior B-pillar decal will be 3.000 x 3.000 inches; the interior passenger compartment decal dimensions will be as issued by the Commission.
 ~
 
@@ -9915,28 +9922,7 @@ EZ-Pass
 
    (3) An approved In-Vehicle Camera System that meets the requirements of 35 RCNY § 67-12.
 
-(c) Curtain Airbags Modification. (Not Applicable to Official Taxicab Vehicles or Accessible Official Taxicab Vehicles).
-
-   (1) A Taxicab with a partition that is equipped with factory installed curtain airbags will be equipped with a modified partition that does not extend the full width of the interior of the Taxicab.
-
-   (2) The modified partition instead must allow a space of six inches at each side, sufficient to permit proper deployment of the curtain airbags.
-
-   (3) The modified partition must conform in all other respects with the applicable requirements of 35 RCNY § 67-10.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-35(c)
-      - Fine: $300 and suspension until the condition is corrected
-      - Appearance Required
-~
-
-
-
- 
+(c) Repealed.
 
 
 
@@ -17919,11 +17905,11 @@ Chapter 62: Taxicab Brokers
 
 (b) Applicant in this Chapter means an Applicant for an original or renewal License as a Taxicab Broker
 
-(c) Broker or Taxicab Broker is an individual or Business Entity licensed by the Commission to act as an agent for another person or Business Entity in negotiating either of the following:
+(c) Broker or Taxicab Broker is an individual or Business Entity licensed by the Commission to act as an agent for another person or Business Entity in negotiating any of the following:
 
-   (1) The transfer of any interest in a Medallion
+   (1) The transfer of any interest in a Medallion.
 
-   (2) A loan to be secured by a Medallion or a Taxicab
+   (2) A loan to be secured by a Medallion or a Taxicab, including any refinancing, extension or modification of any such loan.
 
 (d) Brokerage is the term for the business of being a Broker.
 
@@ -17932,6 +17918,10 @@ Chapter 62: Taxicab Brokers
 (f) Exclusive Listing means that the Broker has been given the right to be the only Broker for a particular transaction. Usually the right will be limited to a specific period of time.
 
 (g) License in this Chapter means a License to be a Taxicab Broker.
+
+(h) Related Party or Parties means a spouse, domestic partner, child, grandchild, parent, sibling, or grandparent; a parent, child or sibling of a spouse or domestic partner; and a spouse, or domestic partner of a parent, child or sibling of any natural person who is a Broker, or, if a Broker is a Business Entity, of any natural person who is a partner, member, shareholder and/or officer of a Broker.
+
+
 
 
 
@@ -18027,13 +18017,43 @@ Chapter 62: Taxicab Brokers
 
 (b) Prior Business or Occupation of Applicant. The Applicant must provide information on the prior business or occupation of the individual Applicant or, if a Business Entity, information on the Applicant's Business Entity Persons during the two years immediately before the date of the application. The information must specify the place or places of the business or occupation and the name or names of employers.
 
-(c) Potential Conflicts of Interest. The Applicant must disclose all information about Applicant's interest if the Applicant or any principal of the Applicant also:
+(c) Potential Conflicts of Interest.
 
-   (1) Acts as a lender, insurance broker, or automobile dealer or
+   (1) The Applicant must disclose all information about Applicant's interests if the Applicant or any principal of the Applicant or any Related Party of Applicant also:
 
-   (2) Has a financial interest in a lender, insurance broker, or automobile dealership
+      (i) Acts as a lender, insurance broker, or automobile dealer;
+
+      (ii) Has a financial interest in a lender, insurance broker, or automobile dealership; or
+
+      (iii) Has a financial interest in any business primarily serving applicants or holders of TLC-issued taxicab licenses or offering products or services targeted to applicants or holders of TLC-issued taxicab licenses or which specifically advertises to applicants or holders of TLC-issued taxicab licenses.
+
+   (2) Such disclosure must be made at the time of submission of an Application for a new or renewal Broker license in the form and manner prescribed by the Commission.
+
+   (3) The disclosure on file with the Commission must be updated within 30 days of any material change in the terms of the disclosure. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 62-05(c)(3)
+      - Fine: $2,500 - $10,000 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+   (4) The TLC may post such disclosures on its web site or otherwise make them publicly available.
+
+   (5) The Applicant must disclose the names of its employees at the time of application.
 
 (d) Additional Information as Required by the Commission. The Applicant must provide any additional information the Commission may require to determine if the Applicant is qualified to assume the duties and obligations of a Taxicab Broker.
+
+
 
 
 
@@ -18139,6 +18159,8 @@ Chapter 62: Taxicab Brokers
 
    (3) The Applicant or Broker attempted to conceal the identity of a party who has an interest, direct or indirect, in his or her business as a Broker.
 
+   (4) The Applicant failed to disclose any information about Applicant's interest, or that of any principal of the Applicant, or any Related Party of Applicant, in any transaction involving a Medallion, a transfer of a Medallion, or a financing or refinancing of a Medallion in which the Applicant or any Related Party has a financial interest.
+
 (c) No Longer Meets Requirements. Whenever the Commission determines that a licensed Broker no longer meets the requirements to hold a Broker's License, the Commission will deny the renewal application or suspend or revoke the License in the manner provided in Chapter 68 of these Rules.
 
 (d) Failure to Complete Application Requirements.
@@ -18150,6 +18172,8 @@ Chapter 62: Taxicab Brokers
    (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
 
 (e) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License (Authorization), the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
+
+
 
 
 
@@ -18182,7 +18206,7 @@ Chapter 62: Taxicab Brokers
     :header-rows: 1
 
     * - 35 RCNY § 62-12(a)
-      - Fine: $500 - $1,500
+      - Fine: $1,500; after the third violation occurring within two years, $10,000
       - Appearance Required 
 ~
 
@@ -18250,7 +18274,7 @@ Chapter 62: Taxicab Brokers
     :header-rows: 1
 
     * - 35 RCNY § 62-12(e)
-      - Fine: $2,500 and suspension
+      - Fine: $10,000 and/or suspension or revocation
       - Appearance Required
 ~
 
@@ -18267,13 +18291,15 @@ Chapter 62: Taxicab Brokers
     :header-rows: 1
 
     * - 35 RCNY § 62-12(f)
-      - Fine: $2,500 and suspension
+      - Fine: $10,000 and/or suspension or revocation
       - Appearance Required
 ~
 
 
 
  
+
+
 
 
 
@@ -18294,7 +18320,7 @@ Chapter 62: Taxicab Brokers
     :header-rows: 1
 
     * - 35 RCNY § 62-13(a)(1)
-      - Fine: $500 - $1,000
+      - Fine: $2,500 - $10,000 and/or suspension or revocation
       - Appearance Required
 ~
 
@@ -18311,7 +18337,7 @@ Chapter 62: Taxicab Brokers
     :header-rows: 1
 
     * - 35 RCNY § 62-13(a)(2)
-      - Fine: $250 - $1,000
+      - Fine: $2,500 - $10,000 and/or suspension or revocation
       - Appearance Required
 ~
 
@@ -18353,7 +18379,8 @@ Chapter 62: Taxicab Brokers
 
  
 
-(d) Broker Compensation. A Broker must not accept any commission, rebate, or profit on expenditures that the Broker makes for the owner unless the owner provides written consent. The Broker must retain the written consent for three years. 
+(d) Broker Compensation. A Broker must not accept any commission, rebate, or profit on expenditures that the Broker makes for the owner unless the Broker has disclosed to the owner that the Broker expects to profit in an estimated amount and the owner provides written consent. The Broker must retain the written consent for three years. 
+										
 
  
 
@@ -18362,13 +18389,15 @@ Chapter 62: Taxicab Brokers
     :header-rows: 1
 
     * - 35 RCNY § 62-13(d)
-      - Fine: $250 - $2,000
+      - Fine: $250 - $2,000 and restitution may be ordered to the owner if the Broker has not disclosed the compensation or the owner has not consented
       - Appearance Required
 ~
 
 
 
  
+
+
 
 
 
@@ -18403,7 +18432,8 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 *§ 62-15 Requirements &amp; Prohibitions – Self-Dealing.* ::
 
 
-(a) A Broker must not directly or indirectly buy for himself or herself any interest in a Medallion listed with the Broker without first disclosing that fact in writing to the owner. 
+(a) A Broker must not directly or indirectly buy or otherwise acquire for himself or herself, nor may a Related Party acquire any interest in a Medallion listed with the Broker without first disclosing that fact in writing to the owner and obtaining the owner's written consent to such transaction, in the form and manner prescribed by the Commission. Where the Broker has an interest in such purchase or acquisition, the Broker may not charge a fee for his or her services. 
+										
 
  
 
@@ -18412,7 +18442,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
     :header-rows: 1
 
     * - 35 RCNY § 62-15(a)
-      - Fine: $500 - $2,000
+      - Fine: $10,000 and suspension for 30 days; restitution may be ordered
       - Appearance Required
 ~
 
@@ -18420,7 +18450,8 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
  
 
-(b) A Broker must not sell a Medallion in which he or she owns an interest without disclosing that interest in writing to the purchaser. 
+(b) A Broker must not sell a Medallion in which he or she or a Related Party owns an interest without first disclosing that interest in writing to the purchaser and obtaining the purchaser's written consent to such transaction, in the form and manner prescribed by the Commission. Where the Broker has an interest in such sale, the Broker may not charge a fee for his or her services unless the necessary disclosures have been made to the purchasing and selling parties as required by these rules. 
+										
 
  
 
@@ -18429,7 +18460,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
     :header-rows: 1
 
     * - 35 RCNY § 62-15(b)
-      - Fine: $250 - $750
+      - Fine: $10,000 and suspension for 30 days; restitution may be ordered.
       - Appearance Required
 ~
 
@@ -18437,7 +18468,8 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
  
 
-(c) The Broker must disclose any financial interests in writing to the owners in any transaction where the Broker acts as a lender, insurance broker, or automobile dealer or has a financial interest in the lender, insurance brokerage firm, or automobile dealership. 
+(c) The Broker must disclose any financial interests in writing to the purchaser and seller in any transfer of an interest in a Medallion or any other transaction facilitated by the Broker, including but not limited to financing or refinancing, where the Broker or any Related Party acts as a lender, insurance broker, or automobile dealer or has a financial interest in the lender, insurance brokerage firm, or automobile dealership or any other business entity providing services in relation to such transaction. The Broker must obtain the written consent of such purchaser and seller to any such conflict prior to offering any such products or services in the form and manner prescribed by the Commission. 
+										
 
  
 
@@ -18446,13 +18478,35 @@ A Broker must not encourage any party to break a contract for the transfer of a 
     :header-rows: 1
 
     * - 35 RCNY § 62-15(c)
-      - Fine: $250 - $2,000
+      - Fine: $10,000 and suspension for 30 days; restitution may be ordered. 
       - Appearance Required
 ~
 
 
 
  
+
+(d) If a Broker has failed to disclose any interest held by the Broker or any Related Party in a transaction as required by this section or has failed to obtain the written consent of the other party or parties to such transaction, the Broker may be ordered to pay restitution to the other party for any fees charged or tangible or intangible benefit received by the Broker.
+
+(e) No Broker may represent any party in any transaction in which the Broker or a Related Party has a conflict if the Broker has not filed the disclosure of such conflict with the Commission as required by 35 RCNY § 62-05. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 62-15(e)
+      - Fine: $10,000 and suspension for 30 days or revocation; restitution may be ordered. 
+      - Appearance Required
+~
+
+
+
+ 
+
+
 
 
 
@@ -18516,7 +18570,9 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 (a) Specific Disclosure. The Broker must include the following explanation in type size of not less than six point in all agreements that provide for an Exclusive Listing of a Taxicab Medallion:
 
-An "Exclusive Right to Sell" listing with a Broker is one where the owner has surrendered his or her own right to sell. This means that if you, the Taxicab Medallion owner, find a buyer for your Taxicab, or if another Broker finds a buyer, you must nonetheless pay the agreed commission to the Broker who has the Exclusive Right to Sell. This explanation must be signed or initialed by the owner and attached to the listing, printed in boldface type on the listing, or printed on the reverse side of the listing. 
+An "Exclusive Right to Sell" listing with a Broker is one where the owner has surrendered his or her own right to sell. This means that if you, the Taxicab Medallion owner, find a buyer for your Taxicab, or if another Broker finds a buyer, you must nonetheless pay the agreed commission to the Broker who has the Exclusive Right to Sell.
+
+This explanation must be signed or initialed by the owner and attached to the listing, printed in boldface type on the listing, or printed on the reverse side of the listing. 
 
  
 
@@ -18589,9 +18645,10 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
    (2) If a Broker requests a party to sign a document and return it to the Broker, the Broker must give the party a duplicate copy for the party's own records. If any party attends a closing and is presented with a document for signature, the Broker must furnish that party with a copy of the signed document at that closing.
 
-   (3) All other documents prepared by the Broker for an interested party must be delivered to that party within 10 business days after the completion of a closing or other transaction.
+   (3) All other documents prepared by the Broker for an interested party must be delivered to that party within 10 business days after the completion of a closing or other transaction unless otherwise provided in these Rules.
 
-   (4) The Broker must request written acknowledgement that the party received the papers. 
+   (4) The Broker must request and retain written acknowledgement that the party received the papers. The Broker must be able to provide proof of compliance with this paragraph upon request of any party or the TLC. 
+										
 
  
 
@@ -18599,7 +18656,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 62-19(a)(1)-(4)
+    * - 35 RCNY § 62-19(a)(1) - (4)
       - Fine: $400 - $2,000 and/or suspension
       - Appearance Required
 ~
@@ -18627,7 +18684,8 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 (b) Principals.
 
-   (1) A Broker who arranges a loan for his or her principal must give that principal a copy of the lender's commitment and of all other documents provided by the lender to the Broker. 
+   (1) A Broker who arranges a loan for his or her principal must give that principal a copy of the lender's commitment and of all other documents provided by the lender to the Broker. The Broker must be able to provide proof of compliance with this paragraph upon the request of any party or the TLC. The Broker must also be able to provide proof of compliance with the requirements of 35 RCNY § 62-15(c), if applicable. 
+										
 
  
 
@@ -18686,7 +18744,131 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
     :header-rows: 1
 
     * - 35 RCNY § 62-19(b)(3)
-      - Fine: $1,000-$2,500 and/or suspension or revocation
+      - Fine: $2,500 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Brokerage Agreements.
+
+   (1) A Broker must execute with each client of such Broker a written agreement, signed by the Broker and the client, which specifies each transaction or service to be performed by such Broker for such client.
+
+   (2) A copy of each fully executed agreement must be provided to the Broker's clients upon execution of the agreement and upon the client's request.
+
+   (3) Brokerage agreements must be written in plain language.
+
+   (4) Terms. Each agreement must provide:
+
+      (i) All parties represented by the Broker.
+
+         (A) If the parties represented by a Broker change after the execution of an agreement, the agreement must be amended to reflect this change.
+
+         (B) If the Broker is representing more than one party in a transaction, the Broker must indicate the fee paid by each party to the transaction.
+
+      (ii) The fee to be paid to the Broker or, for purposes of net listing agreements pursuant to 35 RCNY § 62-18, the amount to be paid to the seller.
+
+      (iii) All services provided by the Broker.
+
+      (iv) The Broker's duty to act in the interest of his or her client.
+
+      (v) The Broker's duty to disclose any financial interest of the Broker in the transaction beyond the fee specified in the agreement.
+
+      (vi) The Broker's duty to account for all money and property of his or her client that is entrusted to the Broker.
+
+      (vii) The purchasers' and sellers' right to be represented by an Attorney.
+
+      (viii) Agreements for the transfer of an interest in a Medallion must provide the following additional terms:
+
+         (A) The Broker's duty to disclose any facts known to the Broker which materially impacts the value of the Medallion.
+
+         (B) If the Broker is representing the seller, the Broker's duty to disclose all offers to purchase the Medallion.
+
+   (5) The following documents must be attached to each agreement:
+
+      (i) A copy of the Broker's annual disclosure, signed by the Broker's client, in a form and manner prescribed by the Commission.
+
+      (ii) A disclosure of the Broker's actual interest in the transaction, signed by the Broker's client and affirmed by the Broker as accurate and complete, in a form and manner prescribed by the Commission.
+
+      (iii) A copy of a Broker Client Rights document, signed by the Broker's client, in a form and manner prescribed by the Commission. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 62-19(c)
+      - Fine: $1,000 - $2,500 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Broker Duties.
+
+   (1)    Brokers must act in the interest of their clients.
+
+   (2) Brokers must disclose any financial interest in a transaction, in a form and manner prescribed by the Commission.
+
+   (3) Brokers must disclose all fees received from any party related to services provided by the Broker in a transaction, in a form and manner prescribed by the Commission.
+
+   (4) Reserved.
+
+   (5) In transactions including the transfer of an interest in a Medallion:
+
+      (i) Brokers must disclose any facts known to the Broker which materially impact the value of the Medallion, including but not limited to, any liens, encumbrances or judgments against the medallion or an upcoming wheelchair accessible vehicle cycle known to the Broker.
+
+      (ii) If a Broker is representing the seller, the Broker must disclose all offers to purchase the Medallion.
+
+      (iii) Prior to the transfer of an interest in a Medallion, Brokers must provide their clients and the Commission with a closing statement, in a form and manner prescribed by the Commission, as well as an executed agreement with all attachments required by paragraph (4) of subdivision (c) of this section.
+
+   (6) In transactions including the financing or refinancing of a Medallion:
+
+      (i) A Broker must provide his or her client with all documents provided by the lender for such client.
+
+      (ii) Brokers must disclose all material loan terms, in a form and manner prescribed by the Commission.
+
+      (iii) For financing or refinancing transactions that do not include the transfer of an interest in a Medallion, Brokers must provide the Commission with the disclosure of all material loan terms and an executed agreement with all attachments required by paragraph (4) of subdivision (c) of this section within 10 business days of the transaction. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 62-19(d)(1) - (6)
+      - Fine: $1,000 - $2,500 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+   (7) Brokers must account for all money and property of their clients that is entrusted to the Broker.
+
+   (8) Brokers may not charge or request any additional payment or fee in excess of the dollar amount or percentage set forth in the Brokerage Agreement.
+
+   (9) Within 10 business days following any transaction, a Broker must forward to his or her client all monies due to such client.
+
+      (i) Exception. The Broker may maintain the monies due to such client in an Escrow account to permit recovery against outstanding obligations owed by the client. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 62-19(d)(7) - (9)
+      - Fine: $2,500 - $10,000 and/or suspension or revocation; restitution may be ordered.
       - Appearance Required
 ~
 
@@ -18699,24 +18881,13 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 
+
+
 *§ 62-20 Business Procedures – Record Keeping.* ::
 
 
-(a) Retention of Records. A Broker must keep and maintain the following records for three years:
-
-   (1) The names and addresses of transferor(s), transferee(s), mortgagee(s), or other lien holder(s), if any
-
-   (2) The purchase price
-
-   (3) Amount of deposit paid on contract
-
-   (4) Amount of commission paid to Broker
-
-   (5) Expenses of procuring the mortgage loan, if any
-
-   (6) Closing statements
-
-   (7) Listing placed with the Broker. 
+(a) Retention of Records. A Broker must keep and maintain all documents required by 35 RCNY § 62-19 and any other documents provided by the Broker and signed by the Broker's client for ten years. 
+										
 
  
 
@@ -18724,8 +18895,8 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 62-20(a)(1)-(7)
-      - Fine: $250 - $1,000
+    * - 35 RCNY § 62-20(a)
+      - Fine: $250 - $1,000 for each missing document
       - Appearance NOT Required
 ~
 
@@ -18749,6 +18920,8 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
  
+
+
 
 
 
@@ -18784,7 +18957,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
     :header-rows: 1
 
     * - 35 RCNY § 62-21(b)
-      - Fine: $1,000 - $2,500
+      - Fine: $2,500 - $10,000 and/or suspension or revocation; restitution may be ordered.
       - Appearance Required
 ~
 
@@ -18818,13 +18991,15 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
     :header-rows: 1
 
     * - 35 RCNY § 62-21(d)
-      - Fine: $100 - $500
+      - Fine: $100 - $500; restitution may be ordered.
       - Appearance Required
 ~
 
 
 
  
+
+
 
 
 
@@ -19068,6 +19243,30 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
  
+
+(k) Retaliation.
+
+   (1) A Broker may not retaliate against any Owner or client for making a good faith complaint against any Broker.
+
+   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Owner or client or withholding or withdrawing any beneficial condition or consequence from the Owner or client. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 62-23(k)
+      - Fine: $1,000 plus restitution to the owner or client for losses for the first violation and a fine of $10,000 plus restitution to the owner or client for the second violation and subsequent violations within five years.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
 
 
 
@@ -19346,7 +19545,7 @@ Chapter 63: Taxicab Agent Rules
 
 (c) Criminal Conviction. The Commission will deny an application, including a renewal application, if the individual Applicant, or any Limited Business Entity Person of the Applicant is convicted of a crime that under Article 23-A of the Correction Law would provide a basis for suspension or revocation of the License.
 
-(d) Medallion-Owner Agent Violates Rules. The Commission will deny an application for an Agent's License if the Applicant owns a Medallion and has violated any Commission Rule where the penalty for that violation is revocation of the License.
+(d) Medallion-Owner Agent Violates Rules. The Commission will deny an application for an Agent's License if the Applicant owns or manages a Medallion and has violated any Commission Rule where the penalty for that violation is revocation of the License.
 
 (e) Violation of the Administrative Code. The Commission will deny an application if the Applicant has violated any provision of § 19-530 of the Administrative Code or any applicable rule of the Commission.
 
@@ -19359,6 +19558,8 @@ Chapter 63: Taxicab Agent Rules
    (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
 
 (g) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License (Authorization), the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application.
+
+
 
 
 
@@ -19528,7 +19729,7 @@ Chapter 63: Taxicab Agent Rules
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 63-08(i)(1)-(2)
+    * - 35 RCNY § 63-08(i)(1) - (2)
       - Fine: $100
       - Appearance NOT Required
 ~
@@ -19540,6 +19741,28 @@ Chapter 63: Taxicab Agent Rules
    (3) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Agent.
 
    (4) Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05, is sufficient if sent by email to the last Email Address provided by the Agent.
+
+(j) Retaliation.
+
+   (1) An Agent may not retaliate against any Driver or Owner for making a good faith complaint against any Agent.
+
+   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or Owner or withholding or withdrawing any beneficial condition or consequence from the Driver or Owner. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-08(j)
+      - Fine: $1,000 plus restitution to the driver or owner for losses for the first violation and a fine of $10,000 plus restitution to the driver or owner for the second violation and subsequent violations within five years.
+      - Appearance NOT Required
+~
+
+
+
+ 
 
 
 
@@ -19584,6 +19807,26 @@ Chapter 63: Taxicab Agent Rules
 
 
  
+
+(c) An Agent must not dispatch a Taxicab or other vehicle unless the registration of such Taxicab or other vehicle is Valid. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-09(c)
+      - Fine: $100 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+
 
 
 
@@ -19689,13 +19932,10 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
  
 
-(c) Drivers.
+(c) No Unlicensed Drivers.
 
-   (1) An Agent must not authorize or allow a Driver to operate a Taxicab unless either:
-
-      (i) The Driver's name has been entered on the Rate Card by the Commission, and the Driver's Vehicle lease (if any) has not expired, or
-
-      (ii) "Unspecified Drivers" has been entered on the rate card by the Commission. 
+   (1) An Agent may not permit a Taxicab to be operated for hire unless the driver has in his or her possession a Valid TLC Driver License. 
+										
 
  
 
@@ -19703,16 +19943,26 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 63-11(c)(1)(i)-(ii)
-      - Fine: $350
-      - Appearance NOT Required
+    * - 35 RCNY § 63-11(c)(1)
+      - Fine: $400 and/or suspension up to 30 days
+      - Appearance Required
 ~
 
 
 
  
 
-   (2) An Agent must not authorize or allow a driver to operate a Taxicab unless the Driver possesses a Valid Chauffeur's License and a Valid TLC Driver License.
+   (2) Exceptions. An Agent can permit a person who does not possess a TLC Driver License to drive the vehicle only when all of the following limited circumstances are met:
+
+      (i) The vehicle is being driven to or from the Commission's centralized Taxicab inspection facility or a repair facility;
+
+      (ii) The driver has entered the appropriate off duty code in the Technology System;
+
+      (iii) A current Trip Record (written or electronically printed out) is in the Taxicab, indicating the vehicle is "Off-Duty" and why;
+
+      (iv) The rear doors are locked;
+
+      (v) The person driving the vehicle is licensed to drive a motor vehicle.
 
  
 
@@ -19721,7 +19971,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
     :header-rows: 1
 
     * - 35 RCNY § 63-11(c)(2)
-      - $500 - $2,000 and/or suspension up to 30 days
+      - Fine: $400 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -19729,9 +19979,10 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
  
 
-(d) Owner-Must-Drive Compliance.
+   (3) The Commission will post on its website a list of Drivers holding Valid TLC Driver Licenses.
 
-   (1) An Agent must ensure that each Independent Medallion acquired by an Owner on or after January 7, 1990 must comply with the service requirements which that Medallion must follow under 35 RCNY § 58-20(a) in each calendar year or partial calendar year that the Agent manages that Medallion. 
+(d) Hours of Operation; Maximum Driving Hours. An Agent may not require a Driver to operate one or more Taxicabs for more than 12 consecutive hours. 
+										
 
  
 
@@ -19739,18 +19990,14 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 63-11(d)(1)
-      - Fine: $1,000 -$10,000 per medallion and/or suspension until compliance
-      - Appearance Required
+    * - 35 RCNY § 63-11(d)
+      - Fine: $50
+      - Appearance NOT Required
 ~
 
 
 
  
-
-   (2) In addition to any penalties the Commission can impose for a violation of this Rule, the Commission can also issue a Stop-Use Directive preventing an Agent from continuing to manage non-complying Independent Medallions.
-
-   (3) The Commission will post on its Web site a list of Independent Medallions currently subject to the service requirements of 35 RCNY § 58-20(a).
 
 (e) Agent Responsibility for Accessible Taxicab Operation.
 
@@ -19805,7 +20052,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
     :header-rows: 1
 
     * - 35 RCNY § 63-11(g)
-      - Fine: $1,000 and suspension until compliance.
+      - Fine: $1,000 - $10,000 and suspension until compliance or revocation; restitution to the owner may be ordered.
       - Appearance NOT Required
 ~
 
@@ -19823,7 +20070,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 *§ 63-12 Vehicle – Equipment.* ::
 
 
-(a) Partition. An Agent must not dispatch a Taxicab unless it is equipped with a partition that isolates the Driver from the rear seat passengers in accordance with the specifications in 35 RCNY § 67-10 unless the Taxicab is exempt from the partition requirements under the general provisions of 35 RCNY § 58-35(b).
+(a) Vehicle Safety Equipment. An Agent must not dispatch a Taxicab unless it is in compliance with the provisions of 35 RCNY § 58-35.
 
 (b) Distress Signal. An Agent must not dispatch a Taxicab that is not equipped with a help or distress signaling light system, as required in 35 RCNY § 58-34(d) and in accordance with specifications established in 35 RCNY § 67-11.
 
@@ -20065,7 +20312,23 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
  
 
-(f) [Repealed.]
+(f) No Driver Lease Payments through TPEP. An Agent may not require a driver to make a lease payment pursuant to 35 RCNY § 58-21 utilizing the TPEP system. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-14(f)
+      - Fine: First violation $500.Second and subsequent violations: $1,000 and/or suspension of the Agent for up to thirty days. 
+      - Appearance NOT Required
+~
+
+
+
+ 
 
 
 
@@ -20080,6 +20343,150 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 (a) An Agent may not de-install the Technology System for medallion taxicab vehicles for which the Agent is not the contractee, or the listed Agent.
 
 (b) The Agent must inform the Technology System Provider that is providing service to a medallion taxicab of the de-installation of that taxicab's Technology System within twenty-four (24) hours of de-installation.
+
+
+
+
+
+
+
+
+*§ 63-16 Leasing of Medallions from Medallion Owners.* ::
+
+
+(a) Lease must be in writing.
+
+   (1) All lease agreements between Agents and Medallion owners, including any amendments to such leases, must be in writing and signed by the Agent and Medallion or Taxicab owner. Electronic signatures are permissible for electronic leases.
+
+   (2) A copy of the fully executed lease must be provided to the Medallion or Taxicab owner upon lease execution and upon the owner's request. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-16(a)
+      - Fine: $500 per missing lease
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Terms. Each lease between an Agent and a Medallion owner must provide:
+
+   (1) The amount and frequency of lease payments.
+
+   (2) All costs and fees that may or will be charged to the Medallion Owner by the Agent.
+
+      (i) For each cost and fee that will be charged, the lease must provide in clear and unambiguous language an explanation of the cost or fee.
+
+      (ii) For each cost and fee that may be charged, the lease must provide in clear and unambiguous language an explanation of the conditions that will result in the imposition of such cost or fee.
+
+      (iii) If a cancellation fee is included in the lease, the cancellation fee must be reasonable and the lease must specify the minimum prior notice that must be provided by the owner to avoid the cancellation fee.
+
+   (3) All leases must include the following provisions:
+
+      (i) The Agent is responsible for paying to New York City and New York State agencies all taxes and surcharges collected on behalf of a Medallion Owner during the periods that such Medallion is leased by the Agent. Failure to pay any taxes or surcharges collected by the Agent should be reported by the Medallion Owner to TLC.
+
+      (ii) TLC rules prohibit Agents from retaliating against owners for complaints filed with the TLC. Any retaliation should be reported to the TLC.
+
+      (iii) TLC rules prohibit Agents from charging any fees to owners unless specifically provided in the written lease between the Agent and the Medallion Owner. Any charges not specified in such lease should be reported to the TLC.
+
+   (4) If the lease allows the Agent to change the lease payment amount, the agreement must include the following:
+
+      (i) The Agent must provide the owner with no less than 60 days' notice before changing the lease payment amount.
+
+      (ii) Such notice must be sent by certified US Mail to the owner.
+
+      (iii) The Owner has the ability to terminate the lease agreement at any time during the 60-day notice period without any fee or penalty.
+
+(c) Timely Payment. Agents must make all lease payments as required by the lease agreement.
+
+(d) No Overcharges. Agents may not charge or request any additional payment or any fee in excess of any amount set forth in the lease agreement.
+
+(e)    No interest in Medallion. A lease agreement may not grant the Agent any rights in or to a Medallion other than the dispatch and operation of the Taxicab to which the Medallion is affixed for the period specified. A lease agreement may not grant an Agent a right or option to purchase. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-16(b) - (e)
+      - Fine: First violation $500.Second and subsequent violations: $1,000 and/or suspension of the Agent for up to thirty days. In addition to the penalty payable to the Commission, restitution to the owner, equal to the excess or unauthorized charge that was charged to the owner.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Owner Receipts. Agents must provide owners with receipts for all payments, deductions and charges, with applicable lease provision cited for any deduction or charge. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-16(f)
+      - Fine: $200
+      - Appearance Required
+~
+
+
+
+ 
+
+(g) Annual Accounting. Agents must provide to owners an annual accounting of all taxes, fees, insurance and other costs paid or remitted on behalf of the Medallion owner. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-16(f)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(h) Maintenance of Records. An Agent must maintain for a period of three years from the date a lease agreement with a Medallion owner expires or is cancelled:
+
+   (1) A copy of the executed lease and any lease amendments;
+
+   (2) Records of all itemized lease payments paid to owners;
+
+   (3) Records of all itemized payments received from owners; and
+
+   (4) Copies of all annual accountings prepared by the Agent for the owner. 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 63-16(h)
+      - Fine: $100 for each missing item
+      - Appearance Required
+~
+
+
+
+ 
 
 
 
@@ -23812,7 +24219,7 @@ A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1
 *§ 67-05 Taxicab Model Choice.* ::
 
 
-(a) Unrestricted Medallions. Unrestricted Medallions may be used with the OTV, the Accessible OTV, or any Taxicab Model that complies with 35 RCNY § 67-05.1. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase an Accessible OTV or lease such medallion for use with an Accessible OTV. Provided, however, that with the Chairperson’s approval, up to 496 Unrestricted Medallion owners in good standing may at any time purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
+(a) Unrestricted Medallions. Unrestricted Medallions may be used with any Taxicab Model that complies with 35 RCNY § 67-05.1 or 35 RCNY § 67-05.2. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
 
 (b) Alternative Fuel Medallions. Alternative Fuel Medallions may be used with any Taxicab Model that:
 
@@ -23820,7 +24227,7 @@ A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1
 
    (2) is a Hybrid Electric Vehicle or is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market.
 
-(c) Accessible Medallions. Accessible Medallions may be used with the Accessible OTV or any Accessible Taxicab Model that complies with 35 RCNY § 67-05.2.
+(c) Accessible Medallions. Accessible Medallions may be used with any Accessible Taxicab Model that complies with 35 RCNY § 67-05.2.
 
 (d) Any vehicle valid for use with any Medallion at the time the vehicle was Hacked-up can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
 
@@ -24140,7 +24547,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
    (4) The entire protective plate of each partition must have sufficient padding to prevent injury to any rear-seat passenger in case of a Collision or sudden stopping, and all surfaces must be free of sharp and rough edges.
 
-   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags.
+   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags unless the partition is specifically designed by the vehicle manufacturer to not interfere with the deployment of side curtain airbags.
 
    (6) In addition to meeting all other technical specifications, a partition may be installed only if it does not impair passenger and driver safety and has the following features:
 
