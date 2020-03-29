@@ -5149,3 +5149,86 @@ Default penalty. “Default penalty” shall mean the penalty imposed by the Off
 
 
 
+Chapter 20: Commercial Waste Zones
+--------------------------------------------------
+
+
+
+
+**Subchapter A: General**
+
+
+
+*§ 20-02 Commercial waste zones.* ::
+
+
+a. The geographic area of the city of New York shall be divided into 20 commercial waste zones as follows: 
+										
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Zone name
+      - Zone geographic area
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Lower Manhattan
+      - Community district 101
+    * - Manhattan Southwest
+      - Community district 102
+    * - Manhattan Southeast
+      - Community districts 103, 106
+    * - Midtown South
+      - The geographic area of community district 105 south of 37th Street
+    * - Midtown North
+      - The geographic area of community district 105 north of 37th Street
+    * - Manhattan West
+      - Community districts 104, 107, and commercial establishments located on Central Park West
+    * - Manhattan Northeast
+      - Community district 108, excluding Roosevelt Island, community district 111, and Central Park (Joint Interest Area 64), excluding commercial establishments located on Central Park West
+    * - Upper Manhattan
+      - Community districts 109, 110, 112
+    * - Bronx West
+      - Community districts 201, 203, 204, 205, 206, 207, 208, Van Cortlandt Park (Joint Interest Area 26), and Bronx Park (Joint Interest Area 27)
+    * - Bronx East
+      - Community districts 202, 209, 210, 211, 212, and Pelham Bay Park (Joint Interest Area 28)
+    * - Brooklyn North
+      - Community districts 301, 303, 304
+    * - Brooklyn West
+      - Community districts 302, 306, 307
+    * - Brooklyn East
+      - Community districts 305, 308, 309, 316, 317, 318, Prospect Park (Joint Interest Area 55), and Brooklyn Gateway National Recreation Area (Joint Interest Area 56)
+    * - Brooklyn Southwest
+      - Community districts 310, 311, 312
+    * - Brooklyn South
+      - Community districts 313, 314, 315
+    * - Queens West
+      - Community districts 401, 402, and Roosevelt Island
+    * - Queens Central
+      - Community districts 403, 404, 405, 406, LaGuardia Airport (Joint Interest Area 80), and Forest Park (Joint Interest Area 82)
+    * - Queens Northeast
+      - Community districts 407, 408, 411, and Flushing Meadows-Corona Park (Joint Interest Area 81)
+    * - Queens Southeast
+      - Community districts 409, 410, 412, 413, 414, JFK International Airport (Joint Interest Area 83), and Queens Gateway National Recreation Area (Joint Interest Area 84)
+    * - Staten Island
+      - Community districts 501, 502, 503, and Staten Island Gateway National Recreation Area (Joint Interest Area 95)
+~
+
+ 
+
+
+
+
+
+

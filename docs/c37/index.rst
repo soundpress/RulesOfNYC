@@ -1272,187 +1272,6 @@ All permits issued shall include the conditions set forth above.
 
 
 
-Chapter 12: Municipal Employees' Charitable Contributions
---------------------------------------------------
-
-
-
-*§ 12-01 Definitions.* ::
-
-
-Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the Combined Municipal Campaign to obtain contributions with respect to the ensuing year of contributions.
-
-Charitable non-profit organization. "Charitable non-profit organization" shall mean a private non-profit organization performing charitable services for human health and welfare or recreation, eligible for approval as a coordinating agency, or for membership in the combined Municipal Campaign in accordance with the provisions of these rules.
-
-Combined municipal campaign. "Combined municipal campaign" shall mean the joint campaign of the coordinating agency with one or more other charitable non-profit organizations, based on their written agreement, approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-06, for the joint conduct and sharing in the result of annual solicitation campaign.
-
-Commissioner. "Commissioner" shall mean the Commissioner of Citywide Administrative Services.
-
-Coordinating agency. "Coordinating agency" shall mean a federated community campaign, as defined in section 93-b of the General Municipal Law, which is approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-05 to serve as the agent for the Combined Municipal Campaign.
-
-Year of contributions. Year of contributions. "Year of contributions" shall mean the calendar year or other period designated by the Commissioner of Citywide Administrative Services for collection of the payroll deductions authorized by municipal employees pursuant to § 93-b of the General Municipal Law on behalf of the Combined Municipal Campaign.
-
-
-
-
-
-
-*§ 12-02 Coordinating Agency; Constituent Organizations.* ::
-
-
-The coordinating agency shall consist of the charitable non-profit organizations named as constituent members thereof upon the Commissioner of Citywide Administrative Services' approval of the coordinating agency, subject to changes by discontinuance of such participation or the addition of eligible charitable non-profit organizations. The coordinating agency shall give prompt written notice of any such changes to the Commissioner of Citywide Administrative Services.
-
-
-
-
-
-
-*§ 12-03 Charitable Non-Profit Organizations.* ::
-
-
-To be eligible as a constituent organization of the coordinating agency or as a participating organization in the Combined Municipal Campaign, a charitable non-profit organization must meet and maintain the following requirements:
-
-(a) It shall be
-
-   (1) a private, non-profit corporation, association, or organization,
-
-   (2) incorporated or authorized to do business in New York, or a member of a federation of charitable organizations which is authorized to do business in New York, and
-
-   (3) organized to render voluntary charitable services for human health and welfare or recreation.
-
-(b) It shall be and remain registered with the Secretary of State; in compliance with the requirements and provisions of article 7-A of the Executive Law of New York; and a tax exempt organization under the terms of Section 501(c)(3) of the U.S. Internal Revenue Code.
-
-(c) It shall operate without discrimination in regard to all persons served by the campaign and comply with all requirements of law and regulations respecting nondiscrimination and equal employment opportunity with respect to its officers, staff, employees and volunteers.
-
-(d) As its principal purpose, function and activity, it shall carry out a bona fide program of charitable services in support and advancement of the health, welfare or recreation of a substantial number of persons in need of such services.
-
-
-
-
-
-
-*§ 12-04 Coordinating Agency; Qualification Requirements.* ::
-
-
-To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in 55 RCNY § 12-03, and in addition, shall
-
-(a) constitute a federation of a substantial number of charitable non-profit organizations;
-
-(b) conduct a bona fide program for the provision of services for human health and welfare or recreation services for the aid, support and advancement of a substantial number of residents in the City; and
-
-(c) agree to combine with other eligible charitable non-profit organizations and/or federations of such organizations to form a Combined Municipal Campaign, and serve as agent of the Combined Municipal Campaign as set forth in 55 RCNY § 12-06.
-
-
-
-
-
-
-*§ 12-05 Approval of Coordinating Agency.* ::
-
-
-(a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in 55 RCNY § 12-04 may make written application to the Commissioner of Citywide Administrative Services for approval as the coordinating agency for the City.
-
-(b) In December of every year there shall be made available at the offices of the Commissioner of Citywide Administrative Services a proposed calendar of events for the preceding years' Combined Municipal Campaign, if any. This schedule shall include a timetable for application.
-
-(c) The application shall contain a detailed statement and furnish documentation evidencing the organization's compliance with all conditions of eligibility as a coordinating agency and shall provide the following:
-
-   (1) corporate or registered business name and address of the organization; name, titles and addresses of its directors or principals and executive officers; registration number obtained upon registration pursuant to Article 7-A of the Executive Law;
-
-   (2) concise description of the organization's structure, origin, and history of its activities in the City; financial statements for its two immediately preceding years of operation, showing contributions and other revenues received, administrative and overhead expenses, costs of operations and other significant financial data; a specification of the extent its operations have been carried out by volunteers' services;
-
-   (3) statement of its plan and program for performing charitable services within the City over the next three-year period, with particular description of projected benefits to employees' communities of residence;
-
-   (4) copies of charter or certificate of incorporation, bylaws, latest external audit by a certified public accountant and letter from the Internal Revenue Service certifying tax exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code;
-
-   (5) a listing, by corporate or registered business name, address, and name of the authorized principal representative, of each constituent charitable non-profit organization included in the coordinating agency; the applicant shall certify that it has examined and established compliance by all of its constituent organizations with the conditions and requirements of eligibility specified in 55 RCNY § 12-03.
-
-(d) The applicant shall furnish additional information and documentation as requested by the Commissioner of Citywide Administrative Services.
-
-(e) The Commissioner's determination as to the approval or refusal of an application hereunder shall be conclusive and binding, and written notice thereof shall be given to the applicant.
-
-(f) If it should become necessary to change the coordinating agency while the annual solicitation campaign or the year of contributions is in progress, the Commissioner shall substitute another charitable non-profit organization eligible to be coordinating agency pursuant to 55 RCNY § 12-04.
-
-
-
-
-
-
-*§ 12-06 Combined Municipal Campaign; Structure and Operations.* ::
-
-
-(a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to 55 RCNY §§ 12-07 and 12-08 to form a Combined Municipal Campaign.
-
-(b) Such contract shall be subject to approval by the Commissioner of Citywide Administrative Services and shall:
-
-   (1) identify each charitable non-profit organization participating with the coordinating agency by corporate or business name and address, and name its authorized representative;
-
-   (2) provide an annual budget of the campaign and specify the allocation among the coordinating agency and participating organizations of administrative expenses including publicity, central receipt, accounting and distribution of contributions, and loss of anticipated income to the campaign due to withdrawal of consent to contribution, termination of employment, or other discontinuation of payroll deduction;
-
-   (3) state the method of calculation of the share of total contributions to be received respectively by the coordinating agency and each participating organization, and the manner of payment to them;
-
-   (4) inform participants that the administrative expenses of the campaign shall be divided equally among each participating agency; for this purpose each participating constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency.
-
-   (5) Contain such other terms and conditions as may be required by the Commissioner.
-
-(c) The coordinating agency shall be the recipient in the first instance of all contributions made by employees to the campaign, including both contributions collected through payroll deductions and those made by check. The coordinating agency shall act in a fiduciary capacity with respect to its receipt and distribution of the contributions in accordance with the terms of the Combined Municipal Campaign contract.
-
-(d) The annual solicitation campaign shall be conducted at such times and pursuant to such procedures as shall be approved by the Commissioner.
-
-(e) The coordinating agency shall submit a report to the Commissioner at the end of each calendar year and at such other times as the Commissioner may request, stating the total amount of contributions collected through the Combined Municipal Campaign, the amount received by each participating agency, and such other information as the Director may request.
-
-
-
-
-
-
-*§ 12-07 Application for Participation in the Combined Municipal Campaign.* ::
-
-
-(a) A charitable non-profit organization seeking participation in the Combined Municipal Campaign shall make written application therefor to the Commissioner, who shall forward such application to the coordinating agency.
-
-(b) Such application shall be made on the form prescribed by the Commissioner and shall be accompanied by all required documentation.
-
-(c) The coordinating agency shall review the applications and approve the applications of all organizations qualified pursuant to 55 RCNY § 12-03.
-
-(d) The coordinating agency shall notify each applicant in writing whether or not it has been accepted as a participating organization in the Combined Municipal Campaign. If an applicant has not been accepted for participation, such notice shall state the reasons therefor, and shall state that the decision may be appealed to the Commissioner within fourteen days.
-
-
-
-
-
-
-*§ 12-08 Review of Non-Acceptance for Participation.* ::
-
-
-(a) An organization which has been notified of non-acceptance for participation in the Combined Municipal Campaign may, within fourteen days of the date notice was sent to the applicant by the coordinating agency, appeal in writing to the Commissioner for review of the determination of the coordinating agency. Copies of all material previously submitted to the coordinating agency shall be furnished to the Commissioner by the organization seeking review.
-
-(b) The Commissioner, consistent with these rules, shall determine whether sufficient grounds existed for non-acceptance of the applicant or whether the coordinating agency's decision shall be reversed, in which case the Commissioner shall direct the coordinating agency to accept the applicant for participation in the Combined Municipal Campaign.
-
-(c) The Commissioner's written determination shall be transmitted to the applicant and the coordinating agency, and shall be final and conclusive. Upon a determination directing the acceptance of the applicant, the coordinating agency shall forthwith arrange for the participation of the applicant in the Combined Municipal Campaign.
-
-
-
-
-
-
-*§ 12-09 Conduct of Solicitation Among City Employees.* ::
-
-
-(a) Contributions by employees to any charitable non-profit organization shall be purely voluntary.
-
-(b) No form of pressure or coercion shall be used at any time by any employee or charitable non-profit organization to persuade employees to contribute to any charitable non-profit organization.
-
-(c) An employee who wishes to make a charitable contribution through the Combined Municipal Campaign shall do so by completing and signing the form furnished by the Director. The employee shall indicate on the form whether the contribution is to be given to a particular organization participating in the Combined Municipal Campaign, or to the Combined Municipal Campaign itself for distribution to all participating organizations in the manner set forth in this section. Contributions may be made by submitting a single check made out to the order of the Combined Municipal Campaign, or by consenting to payroll deduction of a specified amount per pay period. If the employee chooses to contribute to the Combined Municipal Campaign through payroll deduction, the year of contribution shall be deemed to be the period between the time the consent to the deduction is given and the time such consent is withdrawn or the employee leaves his/her agency of employment, whichever shall occur first. The deduction shall continue until the employee either withdraws his/her consent to the payroll deduction or the employee leaves his/her agency of employment, whichever shall occur first.
-
-(d) Employees shall be allowed to withdraw their consent to payroll deduction for contribution to charitable non-profit organizations at any time, upon written notice to the Commissioner.
-
-(e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in 55 RCNY § 12-06, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
-
-(f) When an employee's paycheck is refunded by the employee's agency to the Department of Finance, any charitable contribution deducted for the period covered by such paycheck shall be returned to the City by the coordinating agency, or recovered by the City from the Combined Municipal Campaign by deduction from subsequent payments.
-
-
-
-
 Chapter 11: Personnel Practice and Procedure
 --------------------------------------------------
 
@@ -1972,6 +1791,187 @@ The names of successful candidates in the license examinations listed above will
 
 
 
+Chapter 12: Municipal Employees' Charitable Contributions
+--------------------------------------------------
+
+
+
+*§ 12-01 Definitions.* ::
+
+
+Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the Combined Municipal Campaign to obtain contributions with respect to the ensuing year of contributions.
+
+Charitable non-profit organization. "Charitable non-profit organization" shall mean a private non-profit organization performing charitable services for human health and welfare or recreation, eligible for approval as a coordinating agency, or for membership in the combined Municipal Campaign in accordance with the provisions of these rules.
+
+Combined municipal campaign. "Combined municipal campaign" shall mean the joint campaign of the coordinating agency with one or more other charitable non-profit organizations, based on their written agreement, approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-06, for the joint conduct and sharing in the result of annual solicitation campaign.
+
+Commissioner. "Commissioner" shall mean the Commissioner of Citywide Administrative Services.
+
+Coordinating agency. "Coordinating agency" shall mean a federated community campaign, as defined in section 93-b of the General Municipal Law, which is approved by the Commissioner of Citywide Administrative Services pursuant to 55 RCNY § 12-05 to serve as the agent for the Combined Municipal Campaign.
+
+Year of contributions. Year of contributions. "Year of contributions" shall mean the calendar year or other period designated by the Commissioner of Citywide Administrative Services for collection of the payroll deductions authorized by municipal employees pursuant to § 93-b of the General Municipal Law on behalf of the Combined Municipal Campaign.
+
+
+
+
+
+
+*§ 12-02 Coordinating Agency; Constituent Organizations.* ::
+
+
+The coordinating agency shall consist of the charitable non-profit organizations named as constituent members thereof upon the Commissioner of Citywide Administrative Services' approval of the coordinating agency, subject to changes by discontinuance of such participation or the addition of eligible charitable non-profit organizations. The coordinating agency shall give prompt written notice of any such changes to the Commissioner of Citywide Administrative Services.
+
+
+
+
+
+
+*§ 12-03 Charitable Non-Profit Organizations.* ::
+
+
+To be eligible as a constituent organization of the coordinating agency or as a participating organization in the Combined Municipal Campaign, a charitable non-profit organization must meet and maintain the following requirements:
+
+(a) It shall be
+
+   (1) a private, non-profit corporation, association, or organization,
+
+   (2) incorporated or authorized to do business in New York, or a member of a federation of charitable organizations which is authorized to do business in New York, and
+
+   (3) organized to render voluntary charitable services for human health and welfare or recreation.
+
+(b) It shall be and remain registered with the Secretary of State; in compliance with the requirements and provisions of article 7-A of the Executive Law of New York; and a tax exempt organization under the terms of Section 501(c)(3) of the U.S. Internal Revenue Code.
+
+(c) It shall operate without discrimination in regard to all persons served by the campaign and comply with all requirements of law and regulations respecting nondiscrimination and equal employment opportunity with respect to its officers, staff, employees and volunteers.
+
+(d) As its principal purpose, function and activity, it shall carry out a bona fide program of charitable services in support and advancement of the health, welfare or recreation of a substantial number of persons in need of such services.
+
+
+
+
+
+
+*§ 12-04 Coordinating Agency; Qualification Requirements.* ::
+
+
+To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in 55 RCNY § 12-03, and in addition, shall
+
+(a) constitute a federation of a substantial number of charitable non-profit organizations;
+
+(b) conduct a bona fide program for the provision of services for human health and welfare or recreation services for the aid, support and advancement of a substantial number of residents in the City; and
+
+(c) agree to combine with other eligible charitable non-profit organizations and/or federations of such organizations to form a Combined Municipal Campaign, and serve as agent of the Combined Municipal Campaign as set forth in 55 RCNY § 12-06.
+
+
+
+
+
+
+*§ 12-05 Approval of Coordinating Agency.* ::
+
+
+(a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in 55 RCNY § 12-04 may make written application to the Commissioner of Citywide Administrative Services for approval as the coordinating agency for the City.
+
+(b) In December of every year there shall be made available at the offices of the Commissioner of Citywide Administrative Services a proposed calendar of events for the preceding years' Combined Municipal Campaign, if any. This schedule shall include a timetable for application.
+
+(c) The application shall contain a detailed statement and furnish documentation evidencing the organization's compliance with all conditions of eligibility as a coordinating agency and shall provide the following:
+
+   (1) corporate or registered business name and address of the organization; name, titles and addresses of its directors or principals and executive officers; registration number obtained upon registration pursuant to Article 7-A of the Executive Law;
+
+   (2) concise description of the organization's structure, origin, and history of its activities in the City; financial statements for its two immediately preceding years of operation, showing contributions and other revenues received, administrative and overhead expenses, costs of operations and other significant financial data; a specification of the extent its operations have been carried out by volunteers' services;
+
+   (3) statement of its plan and program for performing charitable services within the City over the next three-year period, with particular description of projected benefits to employees' communities of residence;
+
+   (4) copies of charter or certificate of incorporation, bylaws, latest external audit by a certified public accountant and letter from the Internal Revenue Service certifying tax exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code;
+
+   (5) a listing, by corporate or registered business name, address, and name of the authorized principal representative, of each constituent charitable non-profit organization included in the coordinating agency; the applicant shall certify that it has examined and established compliance by all of its constituent organizations with the conditions and requirements of eligibility specified in 55 RCNY § 12-03.
+
+(d) The applicant shall furnish additional information and documentation as requested by the Commissioner of Citywide Administrative Services.
+
+(e) The Commissioner's determination as to the approval or refusal of an application hereunder shall be conclusive and binding, and written notice thereof shall be given to the applicant.
+
+(f) If it should become necessary to change the coordinating agency while the annual solicitation campaign or the year of contributions is in progress, the Commissioner shall substitute another charitable non-profit organization eligible to be coordinating agency pursuant to 55 RCNY § 12-04.
+
+
+
+
+
+
+*§ 12-06 Combined Municipal Campaign; Structure and Operations.* ::
+
+
+(a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to 55 RCNY §§ 12-07 and 12-08 to form a Combined Municipal Campaign.
+
+(b) Such contract shall be subject to approval by the Commissioner of Citywide Administrative Services and shall:
+
+   (1) identify each charitable non-profit organization participating with the coordinating agency by corporate or business name and address, and name its authorized representative;
+
+   (2) provide an annual budget of the campaign and specify the allocation among the coordinating agency and participating organizations of administrative expenses including publicity, central receipt, accounting and distribution of contributions, and loss of anticipated income to the campaign due to withdrawal of consent to contribution, termination of employment, or other discontinuation of payroll deduction;
+
+   (3) state the method of calculation of the share of total contributions to be received respectively by the coordinating agency and each participating organization, and the manner of payment to them;
+
+   (4) inform participants that the administrative expenses of the campaign shall be divided equally among each participating agency; for this purpose each participating constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency.
+
+   (5) Contain such other terms and conditions as may be required by the Commissioner.
+
+(c) The coordinating agency shall be the recipient in the first instance of all contributions made by employees to the campaign, including both contributions collected through payroll deductions and those made by check. The coordinating agency shall act in a fiduciary capacity with respect to its receipt and distribution of the contributions in accordance with the terms of the Combined Municipal Campaign contract.
+
+(d) The annual solicitation campaign shall be conducted at such times and pursuant to such procedures as shall be approved by the Commissioner.
+
+(e) The coordinating agency shall submit a report to the Commissioner at the end of each calendar year and at such other times as the Commissioner may request, stating the total amount of contributions collected through the Combined Municipal Campaign, the amount received by each participating agency, and such other information as the Director may request.
+
+
+
+
+
+
+*§ 12-07 Application for Participation in the Combined Municipal Campaign.* ::
+
+
+(a) A charitable non-profit organization seeking participation in the Combined Municipal Campaign shall make written application therefor to the Commissioner, who shall forward such application to the coordinating agency.
+
+(b) Such application shall be made on the form prescribed by the Commissioner and shall be accompanied by all required documentation.
+
+(c) The coordinating agency shall review the applications and approve the applications of all organizations qualified pursuant to 55 RCNY § 12-03.
+
+(d) The coordinating agency shall notify each applicant in writing whether or not it has been accepted as a participating organization in the Combined Municipal Campaign. If an applicant has not been accepted for participation, such notice shall state the reasons therefor, and shall state that the decision may be appealed to the Commissioner within fourteen days.
+
+
+
+
+
+
+*§ 12-08 Review of Non-Acceptance for Participation.* ::
+
+
+(a) An organization which has been notified of non-acceptance for participation in the Combined Municipal Campaign may, within fourteen days of the date notice was sent to the applicant by the coordinating agency, appeal in writing to the Commissioner for review of the determination of the coordinating agency. Copies of all material previously submitted to the coordinating agency shall be furnished to the Commissioner by the organization seeking review.
+
+(b) The Commissioner, consistent with these rules, shall determine whether sufficient grounds existed for non-acceptance of the applicant or whether the coordinating agency's decision shall be reversed, in which case the Commissioner shall direct the coordinating agency to accept the applicant for participation in the Combined Municipal Campaign.
+
+(c) The Commissioner's written determination shall be transmitted to the applicant and the coordinating agency, and shall be final and conclusive. Upon a determination directing the acceptance of the applicant, the coordinating agency shall forthwith arrange for the participation of the applicant in the Combined Municipal Campaign.
+
+
+
+
+
+
+*§ 12-09 Conduct of Solicitation Among City Employees.* ::
+
+
+(a) Contributions by employees to any charitable non-profit organization shall be purely voluntary.
+
+(b) No form of pressure or coercion shall be used at any time by any employee or charitable non-profit organization to persuade employees to contribute to any charitable non-profit organization.
+
+(c) An employee who wishes to make a charitable contribution through the Combined Municipal Campaign shall do so by completing and signing the form furnished by the Director. The employee shall indicate on the form whether the contribution is to be given to a particular organization participating in the Combined Municipal Campaign, or to the Combined Municipal Campaign itself for distribution to all participating organizations in the manner set forth in this section. Contributions may be made by submitting a single check made out to the order of the Combined Municipal Campaign, or by consenting to payroll deduction of a specified amount per pay period. If the employee chooses to contribute to the Combined Municipal Campaign through payroll deduction, the year of contribution shall be deemed to be the period between the time the consent to the deduction is given and the time such consent is withdrawn or the employee leaves his/her agency of employment, whichever shall occur first. The deduction shall continue until the employee either withdraws his/her consent to the payroll deduction or the employee leaves his/her agency of employment, whichever shall occur first.
+
+(d) Employees shall be allowed to withdraw their consent to payroll deduction for contribution to charitable non-profit organizations at any time, upon written notice to the Commissioner.
+
+(e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in 55 RCNY § 12-06, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
+
+(f) When an employee's paycheck is refunded by the employee's agency to the Department of Finance, any charitable contribution deducted for the period covered by such paycheck shall be returned to the City by the coordinating agency, or recovered by the City from the Combined Municipal Campaign by deduction from subsequent payments.
+
+
+
+
 Chapter 13: [Filming and Photography Authorized By the Department]
 --------------------------------------------------
 
@@ -2183,11 +2183,15 @@ School Security Administrator. The term "School Security Administrator" means a 
 
    (iii) demonstrate a minimum of two (2) years prior experience as a Security Guard Company;
 
-   (iv) demonstrate that it has exercised due diligence and has conducted a background investigation to verify the credentials of each Security Guard that it employs, pursuant to the requirements set forth in Article 7-A of the General Business Law;
+   (iv) demonstrate that it has exercised due diligence and has conducted a background investigation, including a criminal history check, to verify the credentials of each Security Guard that it employs, pursuant to the requirements set forth in Article 7-A of the General Business Law;
 
-   (v) ensure that each of its Security Guards holds a valid registration card, which has not expired or been revoked or suspended, pursuant to Article 7-A of the General Business Law; and
+   (v) ensure that each of its Security Guards holds a valid registration card, which has not expired or been revoked or suspended, pursuant to Article 7-A of the General Business Law;
 
-   (vi) be incorporated, a limited liability company, a person or firm at the time of its application for inclusion on the Qualified Provider List.
+   (vi) be incorporated, a limited liability company, a person or firm at the time of its application for inclusion on the Qualified Provider List;
+
+   (vii) be enrolled in the Procurement and Sourcing Solutions Portal (“PASSPort”); and
+
+   (viii) the Security Guard Company must demonstrate that each of its guards have undergone training as set forth in 55 RCNY § 14-06(a).
 
 (c) The Department shall review all applications for compliance with the requirements set forth in these Rules. The Agency Chief Contracting Officer ("ACCO") shall determine whether the application is responsive. A responsive application is one that complies with all material terms and conditions of the application, including providing required documentation.
 
@@ -2239,7 +2243,7 @@ School Security Administrator. The term "School Security Administrator" means a 
 
 (f) Upon the determination by the ACCO that an application meets the requirements set forth herein, the Department shall notify the applicant of its inclusion on the Qualified Provider List by regular and electronic mail within 90 days of receipt of its application. The Qualified Provider List will be reviewed periodically to ensure that providers continue to meet the necessary qualifications.
 
-(g) At least once every two years, each Security Guard Company on the Qualified Provider List must affirm that there has been no change in the information included in its original application or must supply such changed information. Failure to supply such affirmation of no change will result in the Security Guard Company's removal from the Qualified Provider List until the affirmation of no change or the updated information has been supplied to the Department. Any Security Guard Company that is removed from the Qualified Provider List and re-applies must also provide an affirmation of no change or updated information.
+(g) At least once every two years, each Security Guard Company on the Qualified Provider List must affirm that there has been no change in the information included in its original application. In the event that there has been a change in the information submitted on its application before two years has elapsed, the Security Guard Company must immediately submit such changed information to the Department. Failure to supply such affirmation of no change will result in the Security Guard Company's removal from the Qualified Provider List until the affirmation of no change or the updated information has been supplied to the Department. Any Security Guard Company that is removed from the Qualified Provider List and re-applies must also provide an affirmation of no change or updated information.
 
 (h) A Security Guard Company must retain all certified payroll records, which verify that its Security Guards were paid at least the prevailing wages and supplements for unarmed security guards as determined by the Comptroller of the City of New York pursuant to New York State Labor Law § 234.
 
@@ -2265,13 +2269,23 @@ School Security Administrator. The term "School Security Administrator" means a 
 
 (b) Application.
 
-   (i) After completing HHS Accelerator's business and service applications, a school may access the application to participate in the Reimbursement Program. The application will be on a form prescribed by the Department and will be accessed through HHS Accelerator. For the 2017-2018 school year, and for any subsequent school year in which the Reimbursement Program is authorized, the deadline to submit a completed application is May 15. This deadline applies to both new and existing schools that wish to participate in the Reimbursement Program. The Department will use such application to determine whether a school is qualified to participate in the Reimbursement Program.
+   (i) After completing HHS Accelerator's business and service applications, a school may access the application to participate in the Reimbursement Program. The application will be on a form prescribed by the Department and will be accessed through HHS Accelerator. For the 2019-2020 school year, and for any subsequent school year in which the Reimbursement Program is authorized, the deadline to submit a completed application is May 15, unless the agency determines that due to an event that impacts public safety, which was not foreseen in advance of the May 15 deadline and which compromises the safety of one or more non-public schools, it is appropriate for the application to be due at a later date for one or more nonparticipating schools. This deadline applies to both new and existing schools that wish to participate in the Reimbursement Program. The Department shall use such application to determine whether a school is qualified to participate in the Reimbursement Program.
 
-   (ii) The application will require the school to provide the number of students enrolled at the school, which may include pre-kindergarten students who will be four years of age on or before December 1, or who will otherwise be eligible to attend kindergarten in the following school year. To participate in the Reimbursement Program a school must be a Qualifying Nonpublic School pursuant to Administrative Code § 10-172(a) and must enroll at least 300 students. The Department will verify all enrollment information with the New York State Education Department as reported by the school on the Basic Educational Data Systems ("BEDS") Nonpublic Schools Report for the school year for which the nonpublic school is seeking reimbursement. A school's BEDS enrollment number is considered final for the corresponding school year.
+   (ii) The application will require the school to provide the number of students enrolled at the school, which may include pre-kindergarten students who will be four years of age on or before December 1, or who will otherwise be eligible to attend kindergarten in the following school year. To participate in the Reimbursement Program a school must be a Qualifying Nonpublic School pursuant to Administrative Code § 10-172(a) and must enroll at least 300 students. The Department will verify all enrollment information with the New York State Education Department as reported by the school on the Basic Educational Data Systems ("BEDS") Nonpublic Schools Report for the school year for which the nonpublic school is seeking reimbursement. A separate application is required from each school instructional site with its own individual BEDS code. Multiple sites shall not be aggregated under one BEDS code. A school's BEDS enrollment number is considered final for the corresponding school year.
 
    (iii) All questions regarding the submission, uploading, or retention of documents in connection with the application must be submitted to HHS Accelerator.
 
-(c) Response. The Department will respond, by regular and electronic mail, to each school that submits an application within 30 business days of the submission of the application. The response will state whether the school qualifies to participate in the Reimbursement Program.
+(c) Response. The Department will respond, by regular and electronic mail, to each school that submits a complete application within 30 business days of the submission of the application. The response will state whether the school qualifies to participate in the Reimbursement Program. A complete application shall consist of:
+
+   (i) an organizational chart, which identifies the names and roles of the school’s administrators and the hierarchy of the School;
+
+   (ii) a complete and finalized BEDS form for the current school year, which has been filed with the New York State Education Department (NYSED), or if the school does not have the prior year’s BEDS form, the letter from NYSED assigning the school its BEDS number;
+
+   (iii) a workscope document, which depicts the daily schedule of the school, as well as school closures;
+
+   (iv) proof of the School’s non-profit, non-public status in the form of either a School Charter, Board of Regent’s Certificate, or Certificate of Incorporation; and
+
+   (v) IRS 501(c)(3) Determination Letter which includes the school’s tax identification number.
 
 (d) Denial or Revocation of Qualification.
 
@@ -2291,7 +2305,7 @@ School Security Administrator. The term "School Security Administrator" means a 
 *§ 14-04 Nonpublic Schools; Memorandum of Understanding.* ::
 
 
-If the Department notifies a school that it qualifies to participate in the Reimbursement Program, the Department shall also provide a Memorandum of Understanding ("MOU") regarding the school's participation in the Reimbursement Program. Each school must enter into a MOU with the City of New York, acting by and through the Department, before the school may receive funds through the Reimbursement Program. Upon execution of the MOU, such MOU shall take effect in accordance with applicable law.
+If the Department notifies a school that it qualifies to participate in the Reimbursement Program, the Department shall also provide a Memorandum of Understanding ("MOU") regarding the school's participation in the Reimbursement Program. Each school must enter into a MOU with the City of New York, acting by and through the Department, before the school may receive funds through the Reimbursement Program. The MOU and Budget Task shall be returned by the School to the Department no later than November 15 of the corresponding year. Failure to timely return the MOU and Budget Task to the Department shall result in the forfeiture of the School’s acceptance into the Program for the school year at issue, and the school will need to reapply the following year if it seeks to participate in the Reimbursement Program. Any security expenses incurred by a school from the date of acceptance, but prior to the timely return of the MOU will not be eligible for reimbursement. Upon execution of the MOU, such MOU shall take effect in accordance with applicable law.
 
 
 
@@ -2329,7 +2343,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
       (2) A Security Guard Company must ensure that its policies are current and is required to submit an updated certificate of insurance and certification by broker or agent within five days of the expiration date of the current policy.
 
-      (3) A Security Guard Company shall maintain workers' compensation insurance, disability benefits insurance and employer's liability insurance in accordance with the laws of the State of New York on behalf of, or with regard to, all employees providing services to a school, and must produce proof of such coverage within 10 days of its retention by the school, or upon demand by the Department. Satisfactory proof shall mean:
+      (3) A Security Guard Company shall maintain workers' compensation insurance, disability benefits insurance and employer's liability insurance in accordance with the laws of the State of New York on behalf of, or with regard to, all employees providing services to a school, and must produce proof of workers’ compensation insurance and disability benefits insurance coverage within 10 days of its retention by the school, or upon demand by the Department. Satisfactory proof shall mean:
 
          A. C-105.2 Certificate of Workers' Compensation Insurance;
 
@@ -2351,13 +2365,13 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
    (iii) ensure that each Security Guard assigned to the school has no physical conditions that would hamper the performance of assigned duties;
 
-   (iv) ensure that each Security Guard assigned to the school is physically able to wear all protective equipment, and has been properly trained in the use of such protective equipment;
+   (iv) ensure that each Security Guard assigned to the school is physically able to wear and use any equipment furnished to them to conduct their duties;
 
-   (v) ensure that each Security Guard assigned to the school has the ability to understand, speak, write and be understood in English.
+   (v) ensure that each Security Guard assigned to the school wears and displays a Company-issued identification card and New York State Guard License prominently while on duty;
 
-   (vi) ensure that each Security Guard assigned to the school wears and displays an identification card and New York State Guard License prominently while on duty;
+   (vi) ensure that each Security Guard assigned to the school has the ability to understand, speak, write and be understood in English; and
 
-   (vii) furnish communication systems and accessories for use at each school. Such systems and accessories must be provided in sufficient quantities to ensure that there is at least one operable, fully charged radio and case for each guard on each shift. All security personnel assigned to a school must report for duty bearing all assigned equipment. The School Security Administrator must approve all equipment prior to use. Such systems and accessories must:
+   (vii) furnish communication systems and accessories for use at each school. Such systems and accessories must be provided in sufficient quantities to ensure that there is at least one operable, fully charged radio and case, or other Security Guard Company issued communication device, for each guard on each shift. All security personnel assigned to a school must report for duty bearing all assigned equipment. The School Security Administrator must approve all equipment prior to use. Such systems and accessories must:
 
       (1) permit each guard to communicate with the School Security Administrator and any other guards assigned to the school; and
 
@@ -2381,9 +2395,9 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 (a) Security Guard Companies must ensure that all Security Guards receive training pursuant to the Article 7-A, Section 89-n of the General Business Law. Consistent with such requirements, a Security Guard must receive:
 
-   (i) On-the-Job Training: A minimum of 16 hours of training that specifically addresses, but is not limited to, the provision of security services to youths and in school environments; and
+   (i) On-the-Job Training: A minimum of 16 hours of training generally relating to the security guard’s specific duties, the nature of the work place and the requirements of the Security Guard Company.
 
-   (ii) Refresher Training: During each year that a Security Guard takes part in the Reimbursement Program, such Security Guard must complete a minimum of 8 hours of training that specifically addresses the provision of security services to youths and in school environments.
+   (ii) Refresher Training: During each year that a Security Guard takes part in the Reimbursement Program, such Security Guard must complete at a minimum an eight hour annual in-service training course.
 
 (b) Security Guard Companies must maintain current records for each Security Guard regarding the training that such guard has completed. The school may request a copy of such records at any time.
 
@@ -2415,7 +2429,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 (e) Reasonable Costs. Each Security Guard Company may charge Reasonable Costs to each school for administrative expenses. The Department shall reimburse the school for such costs.
 
-(f) Payments. The Department shall provide reimbursements on a quarterly basis after receiving satisfactory proof from the school of compliance with the requirements set forth in these Rules. Satisfactory proof must be submitted through HHS Accelerator, and must include, but not be limited to, certified invoices, payroll records, timesheets, and work assignment data from Security Guard Companies and, when applicable, an annual report of incidents as required by 55 RCNY § 14-05(f). All invoices must be signed by an authorized signatory, or their successor, identified in the application submitted by each school.
+(f) Payments. The Department shall provide reimbursements on a quarterly basis after receiving satisfactory proof from the school of compliance with the requirements set forth in these Rules. Satisfactory proof must be submitted through HHS Accelerator, and must include, but not be limited to, certified invoices, payroll records, timesheets and, when applicable, an annual report of incidents as required by 55 RCNY § 14-05(f). All invoices must be signed by an authorized signatory, or their successor, identified in the application submitted by each school.
 
 (g) Budget. If the Department anticipates that schools will submit reimbursement claims in excess of available funds for a given school year, the Department shall reimburse each school on an equitable basis until such funds are exhausted. The Department will notify each school promptly if such a determination is made.
 

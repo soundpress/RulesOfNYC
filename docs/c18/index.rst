@@ -5150,7 +5150,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
    (2) Improvements shall be at least 18 inches from the curb line (front face of curb).
 
-   (3) Clear path. A straight unobstructed path ("clear path") for pedestrian circulation on the sidewalk shall remain after the installation of the improvement. The minimum width of the clear path shall be the greater of eight feet or one-half of the sidewalk width. The minimum width of the clear path shall be the greater of ten and one-half feet or one-half of the sidewalk width where a bench, information kiosk or bicycle rack with bicycles parallel to the curb or a queuing area enclosed by poles abuts the clear path. The minimum width of the clear path shall be the greater of 121/2 feet or one-half of the sidewalk width where a bicycle rack with bicycles perpendicular to the curb abuts the clear path. The clear path shall be maintained for 15 feet to either side of the improvement. When possible, the improvement shall abut, be aligned with, or be located between other major obstructions such as subway entrances, bus stop shelters, newsstands, and sidewalk cafés.
+   (3) Clear path. A straight unobstructed path ("clear path") for pedestrian circulation on the sidewalk shall remain after the installation of the improvement. The minimum width of the clear path shall be the greater of eight feet or one-half of the sidewalk width. The minimum width of the clear path shall be the greater of ten and one-half feet or one-half of the sidewalk width where a bench, information kiosk or bicycle rack with bicycles parallel to the curb or a queuing area enclosed by poles abuts the clear path. The minimum width of the clear path shall be the greater of 121/2 feet or one-half of the sidewalk width where a bicycle rack with bicycles perpendicular to the curb abuts the clear path. The clear path shall be maintained for 15 feet to either side of the improvement. When possible, the improvement shall abut, be aligned with, or be located between other major obstructions such as subway entrances, bus stop shelters, newsstands, and sidewalk cafes.
 
    (4) Improvements shall not be located under fire escapes.
 
@@ -5164,7 +5164,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
     * - Subway Entrance (open side)
       - 15'
-    * - Sidewalk Cafés
+    * - Sidewalk Cafes
       - 15'
     * - Newsstand
       - 15'

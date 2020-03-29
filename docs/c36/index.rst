@@ -1,159 +1,6 @@
 Title 53: Conflicts of Interest Board
 ===================================================
 
-Chapter 2: Procedural Rules for Enforcement Actions
---------------------------------------------------
-
-
-
-*§ 2-01 Applicability and Definitions.* ::
-
-
-(a) Applicability. This chapter establishes the procedural rules for enforcement actions brought pursuant to Charter § 2603(h) to address alleged violations of:
-
-   (1) Chapter 68 of the City Charter (the Conflicts of Interest Law);
-
-   (2) § 3-224 through § 3-228 of the Administrative Code (the Lobbyist Gift Law);
-
-   (3) § 3-901 through § 3-907 of the Administrative Code (the Affiliated Not-for-Profits Law); and
-
-   (4) § 3-1101 through § 3-1107 of the Administrative Code (the Legal Defense Trusts Law).
-
-(b) Definitions.
-
-   "Board" means the Conflicts of Interest Board.
-
-   "Board Rules" means the rules of the Conflicts of Interest Board, as set forth in Title 53 of the Rules of the City of New York.
-
-   "Day" means a calendar day. When the last day of a time period is a Saturday, Sunday, or public holiday, the time period will run through the end of the next business day.
-
-   "Enforcement attorney" means an attorney prosecuting an enforcement action on behalf of the Board.
-
-   "OATH" means the New York City Office of Administrative Trials and Hearings.
-
-   "OATH Rules" means OATH's Rules of Practice, as set forth in Title 48 of the Rules of the City of New York.
-
-   "Respondent" means a public servant or former public servant; a lobbyist or any other person required to be listed on a statement of registration pursuant to Administrative Code § 3-213(c)(1); an organization affiliated with an elected official or an agent of an elected official, as defined by Administrative Code § 3-901; or a legal defense trust, trustee, or beneficiary, as defined by Administrative Code § 3-1101, who has been served a Notice of Initial Determination of Probable Cause.
-
-
-
-
-
-
-
-
-*§ 2-02 Informal Proceedings.* ::
-
-
-(a) Notice of Initial Determination of Probable Cause. For the purposes of Charter § 2603(h)(1), the Board will commence an enforcement action by serving a Notice of Initial Determination of Probable Cause by first class mail to the respondent's last known residential address or actual place of business.
-
-(b) Response to the Notice of Initial Determination of Probable Cause.
-
-   (1) For the purposes of Charter § 2603(h)(1), the respondent has twenty (20) days from the date of service to submit a written response to the Notice of Initial Determination of Probable Cause ("Notice") or request an extension. The response is an opportunity to explain, rebut, or provide information concerning the factual or legal allegations in the Notice. The Board will not consider requests for discovery of evidence during informal proceedings.
-
-   (2) Upon oral or written request within twenty (20) days from the date of service of the Notice, the respondent will be granted a thirty- (30-) day extension within which to submit a written response. Upon oral or written request made prior to the expiration of the first extension, the respondent may be granted a second thirty- (30-) day extension for good cause shown, including, but not limited to, ongoing settlement negotiations. Any further extensions must be requested in writing to the Board and will be granted only in exigent circumstances.
-
-   (3) For the purposes of Charter § 2603(h)(2):
-
-      (i) If the respondent submits a substantive written response to the Notice, the Board will review the response to determine whether there remains probable cause to believe that any alleged violation occurred and will either dismiss the enforcement action or sustain its initial determination of probable cause in whole or in part.
-
-      (ii) If the respondent does not submit a written response to the Notice or submits only a general denial of the allegations in the Notice, the Board's initial determination of probable cause will be deemed sustained.
-
-(c) Referral to agency. If the Board sustains its initial determination of probable cause against a respondent who is entitled to disciplinary rights as described in Charter § 2603(h)(2), the Board will notify the respondent's employing City agency in writing of the alleged facts and violations. After such a referral, the Board retains separate and continuing jurisdiction over the enforcement action.
-
-   (1) If the agency does not pursue disciplinary action against the respondent, the Board will commence formal proceedings against the respondent.
-
-   (2) If the agency pursues disciplinary action against the respondent, the Board may resolve the enforcement action by a joint settlement agreement with the respondent and agency or commence formal proceedings against the respondent.
-
-(d) Representation by an attorney or other person.
-
-   (1) If the respondent chooses to be represented by an attorney or any other person, the representative appearing for the respondent must submit a written and signed Notice of Appearance to the Board. The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States will be indicated by the designation "Attorney for (person represented)." The appearance of any other person will be indicated by the designation "Representative for (person represented)." The Board will not accept a response from or discuss the details of an enforcement action with any attorney or other person who has not submitted a Notice of Appearance.
-
-   (2) To withdraw from representation, the representative must submit a written notice of withdrawal to the Board, signed by the respondent or otherwise explaining the reason for withdrawal. An attorney who has submitted a Notice of Appearance may withdraw from representation only with consent of the respondent or when other cause exists, as delineated in the applicable provisions of the New York Rules of Professional Conduct.
-
-   (3) A Notice of Appearance, withdrawal or substitution may be submitted to the Board at any time prior to commencement of formal proceedings. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a Notice of Appearance, withdrawal or substitution.
-
-(e) Stay of an enforcement action. To obtain a stay of an enforcement action prior to commencement of formal proceedings, the respondent must submit a written request to the Board for its review and approval. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a stay.
-
-(f) Settlement.
-
-   (1) At any time after the service of the Notice of Initial Determination of Probable Cause, an enforcement action may be resolved by settlement agreement in the form of a Public Disposition or Public Warning Letter.
-
-      (i) A Public Disposition must include an admission of the relevant facts; an acknowledgment that the admitted conduct violated a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law; and a penalty that addresses the admitted conduct.
-
-      (ii) A Public Warning Letter must include a statement of relevant facts, and a description of each violation of a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law.
-
-   (2) The language and penalty of the proposed settlement agreement will be negotiated between the enforcement attorney and the respondent or the respondent's representative, if applicable. If the respondent requests that the respondent's employing City agency be a party to the settlement, the respondent must submit a signed waiver of confidentiality to the Board to allow the enforcement attorney to discuss the proposed settlement agreement with such agency.
-
-   (3) If the enforcement attorney and the respondent reach a proposed settlement agreement, it will be reduced to writing and signed by the respondent, the respondent's representative, if applicable, and a representative of the respondent's employing City agency, if applicable. Any monetary penalty to be paid to the Board is due upon signing unless otherwise specified in the proposed settlement agreement. Monetary penalty payments will be held by the Board in escrow until the proposed settlement agreement is fully executed by the Board.
-
-   (4) After receiving the full payment of any monetary penalty to be paid to the Board, the enforcement attorney will present the proposed settlement agreement to the Board for its review and approval.
-
-      (i) If the Board approves the proposed settlement agreement, the settlement agreement will be signed by the Board Chair. The fully-executed settlement agreement will be made public, but all underlying records, reports, memoranda, and files of the enforcement action will remain confidential in accordance with Charter § 2603(k).
-
-      (ii) If the Board does not approve the proposed settlement agreement, the Board may direct the enforcement attorney to seek modification of the penalty or the language in the settlement agreement. The modified proposed settlement agreement must be reviewed and approved by the Board.
-
-
-
-
-
-
-
-
-*§ 2-03 Formal Proceedings.* ::
-
-
-(a) Designation of OATH. For the purposes of Charter § 2603(h)(2), and in accordance with Charter § 1048, the Board designates OATH to conduct hearings in accordance with the OATH Rules, except as otherwise provided by these rules.
-
-(b) Commencement of formal proceedings.
-
-   (1) The Board will commence formal proceedings at OATH by serving a Notice of Petition and Petition by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable. After service, the enforcement attorney will file the Notice of Petition and Petition with OATH and will provide OATH with potential dates for a settlement conference and potential dates for a hearing.
-
-   (2) After the conference and hearing dates have been scheduled at OATH, the enforcement attorney will serve a Notice of Hearing by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
-
-(c) Ex Parte communications with the Board.
-
-   (1) After service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), any Board attorney involved in the prosecution of the enforcement action may not communicate ex parte with any member of the Board or any attorney serving as counsel to the Board concerning the merits of the enforcement action, except as provided in paragraph (2) of this subdivision.
-
-   (2) An enforcement attorney may communicate ex parte with members of the Board or an attorney serving as counsel to the Board with respect to ministerial matters involving the enforcement action; on consent of the respondent or respondent's representative; or if deemed necessary by the Board or by an attorney serving as counsel to the Board.
-
-(d) Answer. The respondent may serve and file a written answer to the Petition in accordance with the OATH Rules. The answer may contain specific responses, by admission, denial, or otherwise, to each allegation of the Petition and assert all affirmative defenses, if any. The respondent may include in the answer matters in mitigation. The answer must contain the full name, address, telephone number, and email address of the respondent. If the respondent is represented, the representative's name, address, telephone number and email address must also appear on the answer. The answer must be signed by the respondent or respondent's representative.
-
-(e) Settlement. At the OATH settlement conference, an enforcement action may be resolved by settlement agreement pursuant to 53 RCNY § 2-02(f).
-
-(f) Hearing.
-
-   (1) The enforcement attorney will have the burden of proof by a preponderance of the evidence.
-
-   (2) The enforcement attorney will make an opening statement first, after which the respondent may make an opening statement.
-
-   (3) The enforcement attorney will initiate the presentation of evidence. After the enforcement attorney has completed the presentation of the Board's evidence, the respondent may present evidence. The enforcement attorney may present rebuttal evidence.
-
-   (4) The enforcement attorney will make a closing statement first, after which the respondent may make a closing statement.
-
-(g) OATH report. After a hearing has been conducted, OATH will issue a confidential report of its recommended findings of fact and conclusions of law and its recommended disposition of the enforcement action. OATH will send the report, along with the original transcript of the hearing and all documents introduced into the record, to the Board for review. OATH will send a copy of the report to the enforcement attorney and the respondent or respondent's representative, if applicable.
-
-(h) Comment on OATH report. Within twenty (20) days from the date of the OATH report, each party may submit a comment to the Board to explain, rebut, or provide information concerning OATH's recommended findings of fact, conclusions of law, and disposition. If either party submits a comment, the opposing party may submit to the Board a response to such comment within thirty (30) days from the date of the OATH report. Copies of all such submissions must be shared with the opposing party. The Board will not consider new evidence submitted in a comment or in a response to a comment.
-
-(i) Final review by the Board. For the purposes of Charter § 2603(h)(3), the Board will review the OATH report, along with the original transcript of the hearing and all documents introduced into the record, and any comments and responses to comments submitted to the Board pursuant to 53 RCNY § 2-03(h), to determine whether it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law. In accordance with 53 RCNY § 2-03(c), any Board attorney involved in the prosecution of the enforcement action will not participate in the Board's final review.
-
-(j) Board order finding a violation.
-
-   (1) If the Board determines that it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue an order stating its final findings of fact and conclusions of law and imposing a penalty, except, if the respondent is a current Member or employee of the New York City Council, the Board will issue an order stating its final findings of fact and conclusions of law and recommending a penalty to the New York City Council. The order will include notice of the respondent's right to appeal to the New York State Supreme Court.
-
-   (2) All orders of the Board will be made public. The Board may also make the OATH report public as part of its order, but all other underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
-
-   (3) The order will be sent by first class mail to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
-
-   (4) If the order imposes a monetary penalty, payment is due to the Board within thirty (30) days of the date of service. If the respondent does not pay the full monetary penalty amount, the Board will refer the matter to the New York City Law Department for collection.
-
-(k) Board dismissal. If the Board determines that it has not been proven by a preponderance of the evidence that the respondent violated any provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue a written decision that dismisses the enforcement action and states its final findings of fact and conclusions of law. The decision will be sent to the respondent and respondent's representative, if applicable, and will not be made public. All underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
-
-
-
-
-
-
 Chapter 1: Conflicts of Interest
 --------------------------------------------------
 
@@ -773,6 +620,159 @@ Editor's note: Former section renumbered as 53 RCNY § 4-04.
 
 
 
+Chapter 2: Procedural Rules for Enforcement Actions
+--------------------------------------------------
+
+
+
+*§ 2-01 Applicability and Definitions.* ::
+
+
+(a) Applicability. This chapter establishes the procedural rules for enforcement actions brought pursuant to Charter § 2603(h) to address alleged violations of:
+
+   (1) Chapter 68 of the City Charter (the Conflicts of Interest Law);
+
+   (2) § 3-224 through § 3-228 of the Administrative Code (the Lobbyist Gift Law);
+
+   (3) § 3-901 through § 3-907 of the Administrative Code (the Affiliated Not-for-Profits Law); and
+
+   (4) § 3-1101 through § 3-1107 of the Administrative Code (the Legal Defense Trusts Law).
+
+(b) Definitions.
+
+   "Board" means the Conflicts of Interest Board.
+
+   "Board Rules" means the rules of the Conflicts of Interest Board, as set forth in Title 53 of the Rules of the City of New York.
+
+   "Day" means a calendar day. When the last day of a time period is a Saturday, Sunday, or public holiday, the time period will run through the end of the next business day.
+
+   "Enforcement attorney" means an attorney prosecuting an enforcement action on behalf of the Board.
+
+   "OATH" means the New York City Office of Administrative Trials and Hearings.
+
+   "OATH Rules" means OATH's Rules of Practice, as set forth in Title 48 of the Rules of the City of New York.
+
+   "Respondent" means a public servant or former public servant; a lobbyist or any other person required to be listed on a statement of registration pursuant to Administrative Code § 3-213(c)(1); an organization affiliated with an elected official or an agent of an elected official, as defined by Administrative Code § 3-901; or a legal defense trust, trustee, or beneficiary, as defined by Administrative Code § 3-1101, who has been served a Notice of Initial Determination of Probable Cause.
+
+
+
+
+
+
+
+
+*§ 2-02 Informal Proceedings.* ::
+
+
+(a) Notice of Initial Determination of Probable Cause. For the purposes of Charter § 2603(h)(1), the Board will commence an enforcement action by serving a Notice of Initial Determination of Probable Cause by first class mail to the respondent's last known residential address or actual place of business.
+
+(b) Response to the Notice of Initial Determination of Probable Cause.
+
+   (1) For the purposes of Charter § 2603(h)(1), the respondent has twenty (20) days from the date of service to submit a written response to the Notice of Initial Determination of Probable Cause ("Notice") or request an extension. The response is an opportunity to explain, rebut, or provide information concerning the factual or legal allegations in the Notice. The Board will not consider requests for discovery of evidence during informal proceedings.
+
+   (2) Upon oral or written request within twenty (20) days from the date of service of the Notice, the respondent will be granted a thirty- (30-) day extension within which to submit a written response. Upon oral or written request made prior to the expiration of the first extension, the respondent may be granted a second thirty- (30-) day extension for good cause shown, including, but not limited to, ongoing settlement negotiations. Any further extensions must be requested in writing to the Board and will be granted only in exigent circumstances.
+
+   (3) For the purposes of Charter § 2603(h)(2):
+
+      (i) If the respondent submits a substantive written response to the Notice, the Board will review the response to determine whether there remains probable cause to believe that any alleged violation occurred and will either dismiss the enforcement action or sustain its initial determination of probable cause in whole or in part.
+
+      (ii) If the respondent does not submit a written response to the Notice or submits only a general denial of the allegations in the Notice, the Board's initial determination of probable cause will be deemed sustained.
+
+(c) Referral to agency. If the Board sustains its initial determination of probable cause against a respondent who is entitled to disciplinary rights as described in Charter § 2603(h)(2), the Board will notify the respondent's employing City agency in writing of the alleged facts and violations. After such a referral, the Board retains separate and continuing jurisdiction over the enforcement action.
+
+   (1) If the agency does not pursue disciplinary action against the respondent, the Board will commence formal proceedings against the respondent.
+
+   (2) If the agency pursues disciplinary action against the respondent, the Board may resolve the enforcement action by a joint settlement agreement with the respondent and agency or commence formal proceedings against the respondent.
+
+(d) Representation by an attorney or other person.
+
+   (1) If the respondent chooses to be represented by an attorney or any other person, the representative appearing for the respondent must submit a written and signed Notice of Appearance to the Board. The appearance of a member in good standing of the bar of a court of general jurisdiction of any state or territory of the United States will be indicated by the designation "Attorney for (person represented)." The appearance of any other person will be indicated by the designation "Representative for (person represented)." The Board will not accept a response from or discuss the details of an enforcement action with any attorney or other person who has not submitted a Notice of Appearance.
+
+   (2) To withdraw from representation, the representative must submit a written notice of withdrawal to the Board, signed by the respondent or otherwise explaining the reason for withdrawal. An attorney who has submitted a Notice of Appearance may withdraw from representation only with consent of the respondent or when other cause exists, as delineated in the applicable provisions of the New York Rules of Professional Conduct.
+
+   (3) A Notice of Appearance, withdrawal or substitution may be submitted to the Board at any time prior to commencement of formal proceedings. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a Notice of Appearance, withdrawal or substitution.
+
+(e) Stay of an enforcement action. To obtain a stay of an enforcement action prior to commencement of formal proceedings, the respondent must submit a written request to the Board for its review and approval. After the service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), the OATH Rules govern the procedures for a stay.
+
+(f) Settlement.
+
+   (1) At any time after the service of the Notice of Initial Determination of Probable Cause, an enforcement action may be resolved by settlement agreement in the form of a Public Disposition or Public Warning Letter.
+
+      (i) A Public Disposition must include an admission of the relevant facts; an acknowledgment that the admitted conduct violated a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law; and a penalty that addresses the admitted conduct.
+
+      (ii) A Public Warning Letter must include a statement of relevant facts, and a description of each violation of a specific provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law.
+
+   (2) The language and penalty of the proposed settlement agreement will be negotiated between the enforcement attorney and the respondent or the respondent's representative, if applicable. If the respondent requests that the respondent's employing City agency be a party to the settlement, the respondent must submit a signed waiver of confidentiality to the Board to allow the enforcement attorney to discuss the proposed settlement agreement with such agency.
+
+   (3) If the enforcement attorney and the respondent reach a proposed settlement agreement, it will be reduced to writing and signed by the respondent, the respondent's representative, if applicable, and a representative of the respondent's employing City agency, if applicable. Any monetary penalty to be paid to the Board is due upon signing unless otherwise specified in the proposed settlement agreement. Monetary penalty payments will be held by the Board in escrow until the proposed settlement agreement is fully executed by the Board.
+
+   (4) After receiving the full payment of any monetary penalty to be paid to the Board, the enforcement attorney will present the proposed settlement agreement to the Board for its review and approval.
+
+      (i) If the Board approves the proposed settlement agreement, the settlement agreement will be signed by the Board Chair. The fully-executed settlement agreement will be made public, but all underlying records, reports, memoranda, and files of the enforcement action will remain confidential in accordance with Charter § 2603(k).
+
+      (ii) If the Board does not approve the proposed settlement agreement, the Board may direct the enforcement attorney to seek modification of the penalty or the language in the settlement agreement. The modified proposed settlement agreement must be reviewed and approved by the Board.
+
+
+
+
+
+
+
+
+*§ 2-03 Formal Proceedings.* ::
+
+
+(a) Designation of OATH. For the purposes of Charter § 2603(h)(2), and in accordance with Charter § 1048, the Board designates OATH to conduct hearings in accordance with the OATH Rules, except as otherwise provided by these rules.
+
+(b) Commencement of formal proceedings.
+
+   (1) The Board will commence formal proceedings at OATH by serving a Notice of Petition and Petition by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable. After service, the enforcement attorney will file the Notice of Petition and Petition with OATH and will provide OATH with potential dates for a settlement conference and potential dates for a hearing.
+
+   (2) After the conference and hearing dates have been scheduled at OATH, the enforcement attorney will serve a Notice of Hearing by certified mail, return receipt requested, and first class mail, to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
+
+(c) Ex Parte communications with the Board.
+
+   (1) After service of the Notice of Petition and Petition pursuant to 53 RCNY § 2-03(b)(1), any Board attorney involved in the prosecution of the enforcement action may not communicate ex parte with any member of the Board or any attorney serving as counsel to the Board concerning the merits of the enforcement action, except as provided in paragraph (2) of this subdivision.
+
+   (2) An enforcement attorney may communicate ex parte with members of the Board or an attorney serving as counsel to the Board with respect to ministerial matters involving the enforcement action; on consent of the respondent or respondent's representative; or if deemed necessary by the Board or by an attorney serving as counsel to the Board.
+
+(d) Answer. The respondent may serve and file a written answer to the Petition in accordance with the OATH Rules. The answer may contain specific responses, by admission, denial, or otherwise, to each allegation of the Petition and assert all affirmative defenses, if any. The respondent may include in the answer matters in mitigation. The answer must contain the full name, address, telephone number, and email address of the respondent. If the respondent is represented, the representative's name, address, telephone number and email address must also appear on the answer. The answer must be signed by the respondent or respondent's representative.
+
+(e) Settlement. At the OATH settlement conference, an enforcement action may be resolved by settlement agreement pursuant to 53 RCNY § 2-02(f).
+
+(f) Hearing.
+
+   (1) The enforcement attorney will have the burden of proof by a preponderance of the evidence.
+
+   (2) The enforcement attorney will make an opening statement first, after which the respondent may make an opening statement.
+
+   (3) The enforcement attorney will initiate the presentation of evidence. After the enforcement attorney has completed the presentation of the Board's evidence, the respondent may present evidence. The enforcement attorney may present rebuttal evidence.
+
+   (4) The enforcement attorney will make a closing statement first, after which the respondent may make a closing statement.
+
+(g) OATH report. After a hearing has been conducted, OATH will issue a confidential report of its recommended findings of fact and conclusions of law and its recommended disposition of the enforcement action. OATH will send the report, along with the original transcript of the hearing and all documents introduced into the record, to the Board for review. OATH will send a copy of the report to the enforcement attorney and the respondent or respondent's representative, if applicable.
+
+(h) Comment on OATH report. Within twenty (20) days from the date of the OATH report, each party may submit a comment to the Board to explain, rebut, or provide information concerning OATH's recommended findings of fact, conclusions of law, and disposition. If either party submits a comment, the opposing party may submit to the Board a response to such comment within thirty (30) days from the date of the OATH report. Copies of all such submissions must be shared with the opposing party. The Board will not consider new evidence submitted in a comment or in a response to a comment.
+
+(i) Final review by the Board. For the purposes of Charter § 2603(h)(3), the Board will review the OATH report, along with the original transcript of the hearing and all documents introduced into the record, and any comments and responses to comments submitted to the Board pursuant to 53 RCNY § 2-03(h), to determine whether it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law. In accordance with 53 RCNY § 2-03(c), any Board attorney involved in the prosecution of the enforcement action will not participate in the Board's final review.
+
+(j) Board order finding a violation.
+
+   (1) If the Board determines that it has been proven by a preponderance of the evidence that the respondent violated a provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue an order stating its final findings of fact and conclusions of law and imposing a penalty, except, if the respondent is a current Member or employee of the New York City Council, the Board will issue an order stating its final findings of fact and conclusions of law and recommending a penalty to the New York City Council. The order will include notice of the respondent's right to appeal to the New York State Supreme Court.
+
+   (2) All orders of the Board will be made public. The Board may also make the OATH report public as part of its order, but all other underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
+
+   (3) The order will be sent by first class mail to the respondent's last known residential address or actual place of business and to the respondent's representative, if applicable.
+
+   (4) If the order imposes a monetary penalty, payment is due to the Board within thirty (30) days of the date of service. If the respondent does not pay the full monetary penalty amount, the Board will refer the matter to the New York City Law Department for collection.
+
+(k) Board dismissal. If the Board determines that it has not been proven by a preponderance of the evidence that the respondent violated any provision of the Conflicts of Interest Law, the Lobbyist Gift Law, the Affiliated Not-for-Profits Law, or the Legal Defense Trusts Law, the Board will issue a written decision that dismisses the enforcement action and states its final findings of fact and conclusions of law. The decision will be sent to the respondent and respondent's representative, if applicable, and will not be made public. All underlying records, reports, memoranda, and files will remain confidential in accordance with Charter § 2603(k).
+
+
+
+
+
+
 Chapter 3: Organizations Affiliated with Elected Officials
 --------------------------------------------------
 
@@ -881,27 +881,15 @@ Pursuant to Administrative Code § 3-902, all organizations affiliated with an e
 
    (1) A restricted organization must submit the information listed in Administrative Code §§ 3-902(a)(1) to 3-902(a)(8).
 
-   (2) To comply with the reporting requirement of Administrative Code §§ 3-902(a)(6) and 3-902(a)(7), a restricted organization must report for each donation received during the previous calendar year:
+   (2) In addition to the reporting requirement of Administrative Code §§ 3-902(a)(6) and 3-902(a)(7), a restricted organization must report for each donation received during the previous calendar year:
 
-      (i) the name of any donor who, as of the date of such donation, was either listed in the City’s Doing Business Database or who was a household member of a person listed in the City’s Doing Business Database;
+      (i) if the donor was the household member of a person listed in the City’s Doing Business Database as of the date of such donation, or added to the City’s Doing Business Database within 180 days after the receipt of such donation, the name of the person listed in the City’s Doing Business Database;
 
-      (ii) the name of any donor who was added to the City’s Doing Business Database within 180 days after the receipt of such donation or who was a household member of a person added to the City’s Doing Business Database within 180 days after the receipt of such donation;
+      (ii) the value of any excess donation refunded pursuant to Administrative Code §§ 3-903(a) or 3-903(b); and
 
-      (iii) if the donor was the household member of a person listed in the City’s Doing Business Database as of the date of such donation, or added to the City’s Doing Business Database within 180 days after the receipt of such donation, the name of the person listed in the City’s Doing Business Database;
+      (iii) the date of any excess donation refunded pursuant to Administrative Code §§ 3-903(a) or 3-903(b).
 
-      (iv) the name of any donor who made a donation with a reasonable value of $1,000 or more;
-
-      (v) the City and State of residence of the donor;
-
-      (vi) the date of each donation;
-
-      (vii) the value of each donation;
-
-      (viii) the value of any excess donation refunded pursuant to Administrative Code §§ 3-903(a) or 3-903(b); and
-
-      (ix) the date of any excess donation refunded pursuant to Administrative Code §§ 3-903(a) or 3-903(b).
-
-   (3) Multiple donations made by a person listed in the City’s Doing Business Database and that person’s household members in the same calendar year are considered in the aggregate for purposes of Administrative Code §§ 3-903(a), and 3-903(b). Multiple donations made by an individual in the same calendar year are considered in the aggregate for purposes of Administrative Code § 3-902(a)(7) and for purposes of obtaining the individual donor’s written submission pursuant to Administrative Code § 3-903(d).
+   (3) Multiple donations made by a person listed in the City’s Doing Business Database and that person’s household members in the same calendar year are considered in the aggregate for purposes of Administrative Code §§ 3-903(a), and 3-903(b). Multiple donations made by an individual in the same calendar year are considered in the aggregate for purposes of obtaining the individual donor’s written submission pursuant to Administrative Code § 3-903(d).
 
    (4) In determining whether and when a donation must be returned pursuant to Administrative Code § 3-903(b), where a person is added to the City’s Doing Business Database in a calendar year and the donor or household members of the donor make multiple donations to the organization that in the aggregate exceed $400 in that calendar year, the date of receipt will be deemed to be the date that the aggregate donations for the calendar year among the donor and household members of the donor exceed $400.
 
@@ -917,27 +905,11 @@ Pursuant to Administrative Code § 3-902, all organizations affiliated with an e
 
    (6) To comply with the reporting requirement of Administrative Code § 3-902(a)(8), a restricted organization must submit to the Board a list of each elected official communication created or distributed, which list must include a description, the date, and the total cost of each such communication. In calculating the total cost of an elected official communication, a restricted organization must include the value of all goods and services paid by the organization to create and distribute the elected official communication, including without limitation the value of the time of its employees and the value of all goods and services donated by a non-governmental source for the communication’s creation or distribution.
 
-(b) Reporting Requirements for Unrestricted Organizations.
-
-   (1) An unrestricted organization must submit the information listed in Administrative Code §§ 3-902(a)(1) to (a)(9).
-
-   (2) To comply with the reporting requirement of Administrative Code § 3-902(a)(6), an unrestricted organization must take the following steps to determine whether a donor was listed in the City’s Doing Business Database or was a household member of a person listed in the City’s Doing Business Database, either on the date of the donation or within 180 days after the date of the donation:
-
-      (i) check the name of the donor against the City’s Doing Business Database both at the time of the donation and as of 180 days after the date of the donation;
-
-      (ii) consult the organization’s records, including but not limited to donors’ written submissions collected pursuant to Administrative Code § 3-903(d), to determine whether the donor was a household member of a person listed in the City’s Doing Business Database; and
-
-      (iii) if an organization believes that a donor, a donor’s spouse or domestic partner (or, if a donor is an unemancipated child, his or her parent), is not a person with business dealings with the City, despite such person’s name matching the name of an individual in the Doing Business Database, the organization must submit information supporting that conclusion to the Board. The Board will review the submission and determine whether the donation must be reported pursuant to Administrative Code § 3-902(a)(6).
-
-   (3) To comply with the reporting requirement of Administrative Code § 3-902(a)(7), an unrestricted organization must submit to the Board the names of any individuals who or entities that made a donation with a reasonable value of $1,000 or more, whether in a single donation or in multiple donations. If an unrestricted organization receives multiple donations from the same individual or entity, the aggregate value of which has a reasonable value of $1,000 or more, the organization must report the date and value of every donation from that individual or entity.
-
-   (4) To comply with the reporting requirement of Administrative Code § 3-902(a)(8), an unrestricted organization must submit to the Board a list of each elected official communication created or distributed, which list must include a description, the date, and the total cost of each such communication. In calculating the total cost of an elected official communication, an unrestricted organization must include the value of all goods and services paid by the organization to create and distribute the elected official communication, including without limitation the value of the time of its employees and the value of all goods and services donated by a non-governmental source for the communication’s creation or distribution.
-
-   (5) To comply with the reporting requirement of Administrative Code § 3-902(a)(9), an unrestricted organization must report its total expenditures for the previous calendar year and, for the current calendar year, both total budgeted expenditures and budgeted expenditures for elected official communications.
+(b) Reporting Requirements for Unrestricted Organizations. An unrestricted organization must submit the information listed in Administrative Code § 3-902(b)(1) to (b)(8).
 
 (c) Privacy, Safety, and Security Requests.
 
-   (1) Pursuant to Administrative Code § 3-902(b), an organization affiliated with an elected official may submit a request to the Board that disclosure of one or more of its donors and/or the amount of donation not be made public. The organization must make such a request in writing no later than April 1 for the previous calendar year and must explain why the release of such information to the public may cause harm, threats, harassment, or reprisals to the donor, or to individuals or property affiliated with the donor.
+   (1) Pursuant to Administrative Code § 3-902(c), a restricted organization may submit a request to the Board that disclosure of one or more of its donors and/or the amount of donation not be made public. The organization must make such a request in writing no later than April 1 for the previous calendar year and must explain why the release of such information to the public may cause harm, threats, harassment, or reprisals to the donor, or to individuals or property affiliated with the donor.
 
    (2) Whether or not a reporting entity has submitted a request pursuant to this subdivision, the Board may upon its own initiative grant privacy as to any information submitted by an organization affiliated with an elected official, upon a finding by the Board that the release of such information would constitute a risk to the safety or security of any person.
 

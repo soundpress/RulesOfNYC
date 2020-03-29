@@ -16166,289 +16166,115 @@ HPD may remove a Building from the program and terminate the Tenant Interim Leas
 
 
 
-Chapter 35: Neighborhood Entrepreneurs Program
+Chapter 35: Neighborhood Entrepreneurs Program [Repealed]
 --------------------------------------------------
 
 
 
-*§ 35-01 Definitions.* ::
+*§ 35-01 Definitions. [Repealed]* ::
 
 
-Administrative Code. "Administrative Code" shall mean the Administrative Code of the City.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-Building. "Building" shall mean any multiple dwelling that is occupied by Tenants and (prior to sale to the NPC) owned by the City, including any vacant land adjacent thereto, which is or may be the subject of a Project.
 
-City. "City" shall mean the City of New York.
 
-Commissioner. "Commissioner" shall mean the Commissioner of HPD or his or her designee.
 
-DHCR. "DHCR" shall mean the State of New York Division of Housing and Community Renewal.
 
-Disposition. "Disposition" shall mean the date of title transfer of a Building from the NPC to a Sponsor.
 
-Final Selection. "Final Selection" shall mean a decision by HPD to select a Building for the Program.
+*§ 35-02 General. [Repealed]* ::
 
-FMR. "FMR" shall mean the fair market rent set by the Section 8 program or any other successor program of the United States Department of Housing and Urban Development.
 
-Housing Maintenance Code. "Housing Maintenance Code" shall mean Chapter 2 of Title 27 of the Administrative Code.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-HPD. "HPD" shall mean the Department of Housing Preservation and Development of the City, or its designee.
 
-Intake Rent. "Intake Rent" shall mean the rent set by HPD that takes effect after Project Commencement.
 
-Interim Payment Agreement. "Interim Payment Agreement" shall mean an agreement entered into between HPD, a Tenant eligible for rental assistance and the NPC or the Sponsor, as applicable, to temporarily accept less than the full rent from the Tenant prior to the provision of rental assistance.
 
-Laws. "Laws" shall mean any and all applicable laws, ordinances, orders, rules and regulations.
 
-NPC. "NPC" shall mean a not-for-profit corporation selected by HPD to participate in the Program and to which the City net leases and thereafter conveys title to a Building in the Program prior to Disposition.
 
-Post-Rehabilitation Rent. "Post-Rehabilitation Rent" shall mean the rent set by HPD that takes effect after substantial completion.
+*§ 35-03 Selection of Sponsors. [Repealed]* ::
 
-Preliminary Selection. "Preliminary Selection" shall mean a preliminary determination by HPD to select a Building for the Program.
 
-Program. "Program" shall mean the Neighborhood Entrepreneurs Program.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-Project. "Project" shall mean a project in the Program.
 
-Project Activity. "Project Activity" shall mean any activity performed or required to be performed by the Sponsor in connection with a Project.
 
-Project Commencement. "Project Commencement" shall mean the date the Project has commenced, as set forth in the notice described in 28 RCNY § 35-04(f).
 
-Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more Building systems or the correction of inadequate, unsafe, or insanitary conditions.
 
-Rules. "Rules" shall mean the rules set forth in this chapter.
 
-SDMA. "SDMA" shall mean a site development and management agreement entered into by the NPC and the Sponsor that determines the Sponsor's responsibilities regarding the day-to-day operation of the Building prior to Disposition.
+*§ 35-04 Selection of Buildings, Tenant Notification. [Repealed]* ::
 
-Sponsor. "Sponsor" shall mean the entity selected to manage, own and/or develop the Project, and any entity substantially controlled by such Sponsor.
 
-Subsidy. "Subsidy" shall mean a loan or a grant made by HPD to the NPC or to a Sponsor for Project Activities.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-Substantial Completion. "Substantial Completion" shall mean the date on which HPD certifies that (a) construction work comprising at least 95 percent of the approved Rehabilitation cost has been satisfactorily completed, and (b) all work required to remove Housing Maintenance Code violations which were of record before the Rehabilitation of the Building and were then classified as "B" and "C" has been completed.
 
-Tenants. "Tenants" shall mean residential tenants of record occupying a dwelling unit in a Building. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space in a Building for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
 
 
 
 
+*§ 35-05 Subsidy. [Repealed]* ::
 
 
-*§ 35-02 General.* ::
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
 
-(a)  Coverage. These Rules govern the procedures for: selecting Buildings for the Program, net leasing and sale of Buildings to the NPC, selecting Sponsors for the Program, the SDMA between the NPC and the Sponsor. Disposition of Buildings to Sponsors, providing subsidies for projects, project operation, determining and establishing rents, and providing notices to Tenants. Buildings in the Program shall be subject to these Rules.
 
-(b) Program Description. Under the Program, Buildings will be net leased and thereafter conveyed to the NPC. Sale of the Buildings to the NPC will be pursuant to applicable Laws and each such sale will require approval of the Mayor and the City Council, acting in their respective capacities pursuant to such Laws. Upon net lease, the NPC will enter into an SDMA with the Sponsor. After the Rehabilitation of the Building is completed, the Building will be sold by the NPC to the Sponsor.
 
 
 
+*§ 35-06 Rent Setting. [Repealed]* ::
 
 
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-*§ 35-03 Selection of Sponsors.* ::
 
 
-HPD may select a Sponsor for a Project by any method which HPD determines will best further the purposes of the Program, including, without limitation, pursuant to a request for qualifications process, pursuant to a request for proposals process, selection from a pre-qualified list or, in the discretion of HPD, by a direct designation of an entity judged by HPD to be suitable for the task. In selecting a Sponsor, any relevant factors may be considered, including, but not limited to:
 
-      (i) the Sponsor's prior record in other City housing programs;
 
-      (ii) the Sponsor's prior selection by the City as a developer in another program;
 
-      (iii) the Sponsor's record as a property owner, developer or manager;
+*§ 35-07 Project Operation by Sponsor under the SDMA Prior to Disposition. [Repealed]* ::
 
-      (iv) the Sponsor's relevant experience in and knowledge of the neighborhood where the project is located, and
 
-      (v) any relevant written comments by Tenants.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
 
 
 
 
 
-*§ 35-04 Selection of Buildings, Tenant Notification.* ::
+*§ 35-08 Disposition to Sponsor. [Repealed]* ::
 
 
-(a)  Eligible Buildings. HPD may select Buildings for the Program if:
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-   (1) Rehabilitation of the Building is technically and financially feasible;
 
-   (2) The Building has not been accepted into another HPD disposition program.
 
-(b) Notice of Preliminary Selection. After HPD has found a Building to be eligible pursuant to subdivision (a) of this section and has preliminarily selected the Building for the Program, HPD shall provide all Tenants of the Building with a document containing the following:
 
-   (1) A statement that HPD is considering placing the Building in the Program; (2)  A description of the Program;
 
-   (3) A statement that an Intake Rent will be set;
 
-   (4) A statement that the Building may be eligible for other HPD programs and the name, address and phone number of an HPD employee who may provide information on how to apply for such other programs;
+*§ 35-09 Project Operation After Disposition to Sponsor. [Repealed]* ::
 
-   (5) The name of the Sponsor selected by HPD to develop the Project; and
 
-   (6) A statement that the Building will remain in the Program unless accepted into another HPD program.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
-(c) Tenant Meeting. HPD shall hold a Tenant meeting prior to making a Final Selection, giving notice to Tenants at least two business days prior to such meeting.
 
-(d) Interim Reminder Notice. No later than thirty (30) days after the notice of Preliminary Selection, HPD shall notify the Tenants of a Building selected for the Program that they have ninety (90) days left to apply for any other HPD disposition program that accepts applications from Tenants.
 
-(e) Notice of Final Selection. No sooner than sixty (60) days after the notice of Preliminary Selection, HPD shall notify the Tenants of a Building of the Final Selection of the Building for the Program.
 
-(f) Notice of Project Commencement. No sooner than sixty (60) days after the Notice of Final Selection, HPD shall notify the Tenants of a Building that the Project has commenced, unless Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period. If the Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period and have been rejected from such program, then, immediately after the later of such rejection or sixty (60) days after the notice of Final Selection, HPD shall notify Tenants that the Project has commenced.
 
-(g) Notice of Intake Rent. Either at the time of the notice of Project Commencement or thereafter, HPD shall notify each Tenant of the Intake Rent and the date it becomes effective, which effective date shall be not less than thirty (30) days after the date of the notice of Intake Rent, and shall, in accordance with 28 RCNY § 35-10, provide information on rental assistance which may be available to Tenants and the procedures to apply for such assistance.
 
+*§ 35-10 Rental Assistance. [Repealed]* ::
 
 
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
 
 
-*§ 35-05 Subsidy.* ::
 
 
-(a)  Eligible Costs. Subject to the limitations set forth in applicable Laws, a Subsidy may be made in such amounts as may be required for Project Activities.
 
-(b) Commitment Letter. HPD may state Subsidy terms in a commitment letter signed by the Commissioner. Such commitment letter, if any, may contain such terms as HPD may deem necessary or desirable in order to effectuate the purposes of these Rules and to protect the City's interests. The provision of the Subsidy shall be made subject to satisfaction of all the terms and conditions contained in such commitment letter.
+*§ 35-11 Miscellaneous Provisions. [Repealed]* ::
 
 
-
-
-
-
-*§ 35-06 Rent Setting.* ::
-
-
-(a)  Establishment of Intake Rents. HPD shall from time to time on a program-wide basis establish Intake Rents for all dwelling units in Buildings selected for the Program based upon a minimum rent level per zoning room based on operating costs in similar Buildings. The Intake Rent and the rationale therefore shall be kept on file by HPD and be available for public inspection. HPD shall provide notice of Intake Rent pursuant to 28 RCNY § 35-04(g).
-
-(b) Pre-commitment meeting. After the notice of Project Commencement pursuant to 28 RCNY § 35-04(f), and prior to the issuance of a commitment letter containing the terms and conditions for a Subsidy, HPD shall send a notice informing the Tenants of the time and place of a meeting to discuss the Program at least two business days prior to such meeting. A representative of HPD shall attend such meeting.
-
-(c) Projection of Post-Rehabilitation Rents. HPD shall determine a rent for each dwelling unit in the Building to take effect upon Substantial Completion. The Post-Rehabilitation Rent per occupied dwelling unit may be based upon the Tenants' income or may reflect the expenses for the Building as projected by HPD less the effective annual net commercial income, if any. If the Post-Rehabilitation Rent reflects the Building's expenses, HPD shall project the annual maintenance and operating expenses for the Building after Substantial Completion, including allowances for vacancies and debt service coverage. The expenses shall be projected by HPD based on its experience and knowledge of the operation of similar buildings. For those apartments which are vacant at the time of the sending of the notice of Substantial Completion pursuant to subdivision (h) of this section, HPD shall set Post-Rehabilitation Rents at no greater than one hundred and ten percent (110%) of the FMR for the area in which the Building is located.
-
-(d) Pre-Disposition Notice. Following the pre-commitment meeting held pursuant to subdivision (b) of this section, and not less than thirty (30) days prior to sale of a Building to the NPC, NPD shall send a notice that shall:
-
-   (1) inform each Tenant of the contemplated Rehabilitation which will be performed in the Project;
-
-   (2) advise each Tenant of the expected rental increase to result from the Rehabilitation that will take effect after Substantial Completion (i.e., the Post-Rehabilitation Rent); (3)  provide information on rental assistance which assistance that may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 35-10;
-
-   (4) apprise each Tenant of such Tenant's right to submit written comments; and
-
-   (5) advise each Tenant that where relocation during Rehabilitation is necessary, HPD will use its best efforts to minimize inconvenience to affected Tenants.
-
-(e) Implementation of Intake Rent. Commencing no earlier than the date set forth in the notice of Intake Rent sent pursuant to 28 RCNY § 35-04(g), HPD shall charge the Intake Rent, except that rents for Tenants whose rents at such time are greater than the Intake Rent shall not be decreased.
-
-(f) Registration of Rent. Not less than thirty (30) days after sale of a Building to the, NPC, the Sponsor shall register with DHCR the rent charged to each Tenant in the Building at the time of such sale. Leases shall contain a provision satisfactory to HPD requiring notice to the Tenant of the subsequent establishment of the Post-Rehabilitation Rent.
-
-(g) Increase in Projected Post-Rehabilitation Rents. If the Post-Rehabilitation Rents established by HPD pursuant to subdivision (c) of this section reflect the Building's expenses, and HPD determines that its projection of maintenance and operating costs must be increased based on unforeseen changes in the circumstances and factors which formed the basis of the original projection, including, but not limited to, unexpected increases in fuel or utility costs, HPD shall notify Tenants of the amount of the expected rent increase over and above the Post-Rehabilitation Rent set forth in the pre-Disposition notice sent pursuant to subdivision (d) of this section.
-
-(h) Notice of Substantial Completion. Following Substantial Completion, HPD shall send a notice to each Tenant that the Rehabilitation is substantially complete and that the Tenant's rent will be increased to the Post-Rehabilitation Rent in not less than sixty (60) days. Such notice shall state that the Tenant has an opportunity to comment regarding the quality of Rehabilitation. Such notice shall also include the amount of the Post-Rehabilitation Rent, its effective date, and provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 35-10. Prior to the establishment of Post-Rehabilitation Rent, HPD shall give due consideration to Tenant comments regarding the quality of the Rehabilitation.
-
-(i) Implementation and Registration of Post-Rehabilitation Rents. Not less than sixty (60) days after the sending of the notice of Substantial Completion pursuant to subdivision (h) of this section, HPD shall complete and sign a rent order, and shall mail such order to the Tenant with a copy to the Sponsor. The rent set forth on each rent order shall be the Post-Rehabilitation Rent for such apartment as was determined in accordance with subdivision (c) of this section and as set forth in the pre-Disposition notice or as adjusted pursuant to subdivision (g) of this section. If an apartment is vacant at the time of establishment of rents, the rent order shall be mailed to the Sponsor. Immediately upon receipt of the rent order or a copy thereof, the Sponsor shall register the Post-Rehabilitation Rent for each Tenant in the Building with DHCR.
-
-(j) Two year leases. The Sponsor must offer two year leases to all Tenants upon Substantial Completion.
-
-
-
-
-
-
-*§ 35-07 Project Operation by Sponsor under the SDMA Prior to Disposition.* ::
-
-
-(a)  SDMA. Prior to Disposition to the Sponsor, the NPC shall enter into a SDMA with the Sponsor.
-
-(b) Tenant Selection Policy. Sponsor shall rent vacant apartments only to low and/or moderate income Tenants as defined by HPD and in accordance with HPD guidelines. HPD may also, in the public interest, require that other persons, determined by HPD to be in need of housing, receive priority in the renting of apartments. HPD may require that rentals be pre-approved by HPD, that specified lists of eligible persons be used, or may direct any other Tenant selection method be used.
-
-(c) Successor Tenants. Persons claiming to be successor Tenants, if any, prior to a unit entering rent stabilization, are subject to the rules set forth in 28 RCNY Chapter 24.
-
-(d) Interim Payment Agreement. HPD may require the Sponsor to enter into one or more Interim Payment Agreements in accordance with 28 RCNY § 35-10.
-
-(e) Limitation on Collection of Arrears. At such time as a Tenant is one month or more in arrears on the payment of rent to Sponsor, Sponsor may commence a proceeding for such rent arrears and/or for possession of the apartment. Sponsor may not sue for arrears that accrued more than three (3) months prior to the commencement of the lease for the Building.
-
-(f) Vacancy Rents. Rents for vacant apartments shall be set by Sponsor, subject to HPD approval.
-
-(g) Commencement of Legal Proceedings. Sponsor may commence legal proceedings, including eviction proceedings for failure to pay rent in accordance with 28 RCNY § 21-23(c), with the prior approval of HPD and the NPC.
-
-(h) Tenant Complaints.
-
-   (1) Complaints shall, in the first instance, be directed to Sponsor.
-
-   (2) Tenants shall have the right to file written complaints with HPD staff or the NPC if a Tenant deems Sponsor's response to be inadequate or unsatisfactory.
-
-
-
-
-
-
-*§ 35-08 Disposition to Sponsor.* ::
-
-
-Under satisfactory completion of the Rehabilitation, title for the Building shall be sold and transferred to the Sponsor by the NPC.
-
-
-
-
-
-
-*§ 35-09 Project Operation After Disposition to Sponsor.* ::
-
-
-(a)  Regulatory Agreement. A Sponsor may be required to execute a regulatory agreement with HPD as a condition for the Project. The regulatory agreement shall be recorded and shall run with the land for the period set forth therein. The regulatory agreement shall require the Sponsor and all of Sponsor's successors and assigns to comply with Project requirements.
-
-(b) Use Restrictions. HPD may impose restrictions upon the use of a Building and may require Sponsor to agree to comply with such restrictions as a condition for Disposition or Subsidy. Such use restrictions may be enforced by any means which HPD determines to be necessary or appropriate, including, but not limited to, provisions in any deed, land disposition agreement, regulatory agreement, note, mortgage, security agreement, lien, restrictive declaration, or other legal document. HPD may require a Sponsor to provide security for its compliance with use restrictions in such types and amounts as are determined by HPD to be necessary or desirable. Such types of security may include, but shall not be limited to, surety bonds, letters of credit, or cash.
-
-
-
-
-
-
-*§ 35-10 Rental Assistance.* ::
-
-
-(a)  HPD will assist eligible Tenants in applying for existing rental assistance programs during the period of the Building's participation in the Program. HPD will provide Tenants with applications for § 8 of the United States Housing Act of 1973, as amended, and senior citizen rent increase exemptions, advise Tenants which rental assistance program is most suitable for their individual needs, and assist Tenants in completing rental assistance applications.
-
-(b) Each Tenant who applies for rental assistance is solely responsible for supplying all required documentation and materials necessary to process an application: i.e., attending required interviews providing the necessary income certification and complying with all procedures to process an application.
-
-(c) HPD shall review all applications for rental assistance and make a preliminary determination of a Tenant's eligibility within sixty (60) days of receipt of a completed application. HPD shall promptly notify the NPC or the Sponsor, as applicable, of all applicants for rental assistance and shall forward to the NPC or the Sponsor, as applicable, copies of the applications, letters granting or denying rental assistance, Interim Payment Agreements entered into, and letters extending or terminating Interim Payment Agreements. Upon a finding of preliminary eligibility, HPD will provide the Tenant with an Interim Payment Agreement, which shall be signed by the Tenant, HPD and the NPC or the Sponsor, as applicable, before it becomes effective. This Interim Payment Agreement shall include:
-
-   (1) the amount of the increased rent for the apartment;
-
-   (2) the amount of rent that the Tenant must pay pending the final eligibility determination of the rental assistance application (as such amount is determined in accordance with subdivision (d) of this section);
-
-   (3) a statement of the grounds for termination pursuant to subdivision (e) of this section; and
-
-   (4) notice to the Tenant that s(he) remains liable for the full amount of the rent retroactive to the effective date of the increase if, at any time, the rental assistance application is denied by HPD or the Interim Payment Agreement is terminated pursuant to paragraphs one, three or four of subdivision (e) of this section, provided, however, that if the Interim Payment Agreement is terminated pursuant to paragraph one of subdivision (e) of this section, the Tenant shall not be liable for the full amount of the rent increase retroactive to its effective date if s(he) notifies HPD within thirty (30) days of any change in household income which renders the Tenant ineligible for rental assistance.
-
-(d) A Tenant who receives an Interim Payment Agreement will be required to pay the greater of (1) the amount set forth in the Interim Payment Agreement, which is the amount that s(he) would pay on a monthly basis if the rental assistance application is approved, or (2) the rent charged prior to implementation of the rent increase.
-
-(e) The Interim Payment Agreement will terminate one year after the date of issuance or upon the earlier occurrence of any of the following:
-
-   (1) any change in the Tenant's household income which renders the Tenant ineligible for rental assistance; or
-
-   (2) any change in the rent charged by the City; or
-
-   (3) failure by the Tenant to comply with any of the requirements necessary to process the application for rental assistance; or
-
-   (4) failure by the Tenant to pay, within thirty (30) days of the date due, the rent payable under the Interim Payment Agreement pursuant to subdivision (d) of this section, unless payment of such rent is being withheld for lack of services which the Tenant has given written notice of to the Sponsor; or
-
-   (5) receipt by Tenant of rental assistance pursuant to a rental assistance application filed in accordance with this section.
-
-(f) HPD will permit any Tenant who has applied for rental assistance in accordance with subdivision (b) of this section and who has not been provided with an Interim Payment Agreement pursuant to subdivision (c) of this section, to pay a rent increase in stages of $10.00 per room per quarter.
-
-
-
-
-
-
-*§ 35-11 Miscellaneous Provisions.* ::
-
-
-(a)  HPD Discretion. All determinations to be made by HPD in accordance with these Rules shall be in the sole discretion of HPD.
-
-(b) Statutory Authority not Limited. Nothing in these Rules shall be deemed to limit HPD's authority pursuant to applicable Laws.
-
-(c) Method of Notification. Unless otherwise provided herein, notification shall be in English and Spanish, and shall either be posted in a common area of the Building and affixed to or placed under each apartment door of the Building, or mailed to every apartment in the Building, as determined by HPD.
-
-(d) Technical Violations. Provided that there has been a good faith effort to comply with these Rules, technical violations of these Rules shall not invalidate any action taken pursuant to these Rules, nor shall such technical violations give rise to any rights, claims, or causes of action. The Commissioner, upon good cause shown, may alter the timing or sequence of the actions described in these Rules, provided all affected parties are given reasonable notice.
-
-(e) Funding Source Requirements. Notwithstanding any provision of these Rules to the contrary, if the requirements of any funding source for a Project conflict with the requirements of these Rules, the requirements of the funding source shall govern.
+(Repealed City Record 2/25/2020, eff. 3/26/2020)
 
 
 

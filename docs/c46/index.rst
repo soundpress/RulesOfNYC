@@ -801,7 +801,7 @@ A public pay telephone shall comply with the requirements set forth in this subc
 
       (vii) 3 feet from a subway grate, utility hole cover, or transformer vault;
 
-      (viii) 15 feet of a sidewalk café;
+      (viii) 15 feet of a sidewalk cafe;
 
       (ix) 15 feet of a bus stop zone unless the public pay telephone is attached to a bus stop shelter within the zone or is installed at the building line and does not obstruct pedestrian passage on the sidewalk;
 

@@ -714,7 +714,7 @@ Worker decontamination enclosure system. "Worker decontamination enclosure syste
 
    (2) no existing building materials, as the term "building materials" is defined in these rules, are to be disturbed by the proposed work; or
 
-   (3) the activities being performed include work on one of the following: Awnings Cranes not anchored to building or structure Emergency power not involving hard wiring, e.g. battery packs Exterior concrete work (e.g. sidewalks, curb cuts, traffic islands) except if waterproofing compound is present Exterior scaffolding not anchored to building or structure Exterior trenching and drainage Ground-mounted flagpoles New storefronts in existing masonry openings (no disturbance of existing building) Radio antennas (free-standing towers) Relocating free-standing parking lot sheds Replacing rooftop air conditioning (no modification of ductwork or disturbance of building) Roadway asphalt Sealing unsafe or abandoned buildings with cinderblock and mortar Sidewalk sheds, bridges, fences, elevators, hoists and café signs (no penetration of building materials) Street furniture, e.g. candy or newsstands, bus shelters, kiosks Installation of new outdoor swimming pool Free-standing tents Erection of temporary structures (e.g. trailers) with electric/water lines only
+   (3) the activities being performed include work on one of the following: Awnings Cranes not anchored to building or structure Emergency power not involving hard wiring, e.g. battery packs Exterior concrete work (e.g. sidewalks, curb cuts, traffic islands) except if waterproofing compound is present Exterior scaffolding not anchored to building or structure Exterior trenching and drainage Ground-mounted flagpoles New storefronts in existing masonry openings (no disturbance of existing building) Radio antennas (free-standing towers) Relocating free-standing parking lot sheds Replacing rooftop air conditioning (no modification of ductwork or disturbance of building) Roadway asphalt Sealing unsafe or abandoned buildings with cinderblock and mortar Sidewalk sheds, bridges, fences, elevators, hoists and cafe signs (no penetration of building materials) Street furniture, e.g. candy or newsstands, bus shelters, kiosks Installation of new outdoor swimming pool Free-standing tents Erection of temporary structures (e.g. trailers) with electric/water lines only
 
 (c) Asbestos Assessment Report (ACP-5 Form). If, after a survey performed by a DEP-certified asbestos investigator, it is determined that the building (or portion thereof) affected by the work is free of asbestos-containing material, the ACM present will not be disturbed by the work, or the amount of ACM to be abated constitutes a minor project, said asbestos investigator must complete, sign, and affix his or her seal to the asbestos assessment report (ACP-5 Form) which shall be submitted with a fee of $47.00 to DEP in accordance with 15 RCNY § 1-22(b)(1).
 
@@ -10145,149 +10145,201 @@ Chapter 19: Use of the Public Sewers
 
 For the purpose of this chapter, the meaning of terms shall be as follows (unless the context specifically indicates otherwise):
 
-Allowable Runoff. “Allowable runoff” shall mean non-stormwater discharges associated with firefighting activities or as otherwise authorized by the Commissioner, pursuant to this chapter.
+Allowable Runoff. "Allowable runoff" means non-stormwater discharges associated with firefighting activities or as otherwise authorized by the Commissioner pursuant to this chapter.
 
-Articles. "Articles" shall mean clothing, garments, textiles, fabrics, leather goods, and the like, that are dry cleaned.
+Articles. "Articles" means clothing, garments, textiles, fabrics, leather goods, and the like, that are dry cleaned.
+
+Automatic grease removal device. "Automatic grease removal device" means a plumbing appurtenance that is installed in a drainage system to intercept grease-laden waste from a wastewater discharge. Such device operates on a time- or event-controlled basis and has the ability to remove free-floating fat, oil and grease automatically without intervention from the user, except for maintenance.
 
 Best Management Practices ("BMP"). "Best Management Practices" or "BMP" include, but are not limited to, a schedule of activities, prohibitions, maintenance policies, and other management procedures that are implemented to prevent or reduce the discharge of pollutants into the public sewer system. Best Management Practices also include pretreatment requirements, operating procedures, and practices to control plant site runoff, spillage or leaks, sludge or waste disposal, or drainage from raw material storage.
 
-Best Management Practice Plan ("BMPP"). "Best Management Practices Plan or "BMPP", for the purposes of this regulation, shall mean an operational methodology prepared in accordance with the requirements of this Section and established by any person pursuant to this Chapter 19 Title 15 of the RCNY or by order of the Commissioner to prevent or reduce the discharge of any substance regulated under this Chapter, consistent with the principles of Best Management Practices, to the public sewer system.
+Best Management Practices Plan ("BMPP"). "Best Management Practices Plan" or "BMPP", for the purposes of this regulation, means an operational methodology prepared in accordance with the requirements of this section and established by any person pursuant to this 15 RCNY Chapter 19 or by order of the Commissioner to prevent or reduce the discharge of any substance regulated under this Chapter, consistent with the principles of Best Management Practices, to the public sewer system.
 
-BOD (denoting Biochemical Oxygen Demand). "BOD" shall mean the laboratory determination of the quantity of oxygen utilized in the biochemical oxidation of organic matter in a given time and at a specified temperature. It is expressed in parts per million (ppm) or (mg/L) of oxygen used in a period of five days at 20°C.
+BOD (denoting Biochemical Oxygen Demand). "BOD" means the laboratory determination of the quantity of oxygen utilized in the biochemical oxidation of organic matter in a given time and at a specified temperature. It is expressed in parts per million (ppm) or (mg/L) of oxygen used in a period of five days at 20°C.
 
-Catch basin. "Catch basin" shall mean a structure or device designed to collect and convey stormwater to a storm or combined sewer. It captures some of the debris and heavy solids carried by the flow in a settlement chamber and stores this material for periodic removal.
+Building drain. "Building drain," also known as "house drain," means that part of the lowest piping of a drainage system that receives the discharge from soil, waste and other drainage pipes inside and that extends to the exterior face of the exterior building wall, or the outlet of the most downstream trap, private manhole, catch basin, detention tank, or similar fixture or equipment, and conveys the drainage directly to the building sewer or, in the absence of a building sewer, to an approved place of disposal.
 
-Combined sewage. "Combined sewage" shall mean sewage originating from sanitary and/or industrial wastewater and stormwater.
+Building drainage system. "Building drainage system," also known as "house drainage system," means that part of the plumbing system which receives, conveys and removes liquid and waterborne wastes to a public or private sewer.
 
-Combined sewer. "Combined sewer" shall mean a sewer receiving sanitary and/or industrial wastewater, commingled with stormwater.
+Building sewer. "Building sewer," also known as "house sewer," means that part of the drainage system that extends from the end of the building drain, or the outlet of the most downstream trap, private manhole, catch basin, detention tank or similar fixture or equipment, and conveys the discharge to a public sewer.
 
-Commissioner. "Commissioner" shall mean the Commissioner of Environmental Protection.
+Bypass. "Bypass" means the intentional diversion of wastes from any portion of a treatment system.
 
-Contributory area. "Contributory area" shall mean the area from which the intercepted sewage flow is controlled by a regulator chamber.
+Catch basin. "Catch basin" means a structure or device designed to collect and convey stormwater to a storm or combined sewer. It captures some of the debris and heavy solids carried by the flow in a settlement chamber and stores this material for periodic removal.
 
-Cooling water. "Cooling water" shall mean the water discharged from any system of condensation, air conditioning, cooling, refrigeration, or other sources. It shall contain no polluting substances which would produce BOD or SS in excess of 10 mg/L or toxic substances in concentrations or amounts greater than those specified herein.
+Clear water waste. "Clear water waste" means clear water drips from pumps and equipment, coil condensate, steam condensate, single pass refrigeration discharge, reduced pressure zone device discharge, and similar clear water drippage.
 
-Cost per pound of removing pollutants. "Cost per pound of removing pollutants" shall mean the cost per pound (in dollars) of removing from sewage the BOD and SS contained in wastewater discharged into the sewerage system expressed to the nearest tenth of a cent as certified by the Commissioner pursuant to Paragraph 14 of Subdivision a of § 24-523 of the Administrative Code.
+Combined sewage. "Combined sewage" means sewage originating from sanitary and/or industrial wastewater and stormwater.
 
-Department. "Department" shall mean the Department of Environmental Protection of the City of New York.
+Combined sewer. "Combined sewer" means a sewer receiving a combination of sewage, stormwater, groundwater and nonpotable clear water waste.
 
-Dip tank. "Dip tank" shall mean a separate tank that contains perchloroethylene and is used for purposes other than dry cleaning.
+Commissioner. "Commissioner" means the Commissioner of Environmental Protection.
 
-Direct discharge. "Direct discharge" shall mean a discharge to a public sewer from a house sewer.
+Contributory area. "Contributory area" means the area from which the intercepted sewage flow is controlled by a regulator chamber.
 
-Discharge. "Discharge" shall mean the introduction or release of any substance, whether knowing or unknowing, accidental or otherwise, to a public sewer or private sewer connected to a public sewer and shall include both direct and indirect discharges as defined herein.
+Cooling water. "Cooling water" means the water discharged from any system of condensation, air conditioning, cooling, refrigeration, or other similar temperature reducing sources. It shall contain no polluting substances which would produce BOD or SS in excess of 10 mg/L or toxic substances in concentrations or amounts greater than those specified herein.
 
-Diversion chamber. "Diversion chamber" shall mean a structure which diverts sanitary sewage into a regulator chamber under dry-weather conditions. During wet-weather it directs combined sewage, in excess of treatment plant capacity, to overflow into a tide gate chamber.
+Cost per pound of removing pollutants. "Cost per pound of removing pollutants" means the cost per pound (in dollars) of removing from sewage the BOD and SS contained in wastewater discharged into the sewerage system expressed to the nearest tenth of a cent as certified by the Commissioner pursuant to Paragraph 14 of Subdivision a of § 24-523 of the Administrative Code.
 
-Drainage area. "Drainage area" shall mean the geographical area which contributes flow to a particular location in the sewerage system.
+Department. "Department" means the Department of Environmental Protection of the City of New York.
 
-Dry cleaning. "Dry cleaning" shall mean the process used to remove soil, greases, paints and other unwanted substances from articles with the use of perchloroethylene.
+Dip tank. "Dip tank" means a separate tank that contains perchloroethylene and is used for purposes other than dry cleaning.
 
-Dry cleaning equipment. "Dry cleaning equipment" shall mean any machine, device, or apparatus used to dry clean articles.
+Discharge. "Discharge" means the introduction, placement, or release of any substance, whether knowing or unknowing, accidental or otherwise, into a public sewer or private sewer connected to a public sewer and shall include indirect discharges as defined herein.
 
-Dry cleaning facility. "Dry cleaning facility" shall mean an establishment with one or more dry cleaning systems.
+Diversion chamber. "Diversion chamber" means a structure which diverts sanitary sewage into a regulator chamber under dry-weather conditions. During wet-weather it directs combined sewage, in excess of wastewater resource recovery facility capacity, to overflow into a tide gate chamber.
 
-Dry cleaning system. "Dry cleaning system" shall mean all of the following equipment, devices, or apparatus associated with the perchloroethylene dry cleaning operations, including, but not limited to: dry cleaning equipment; filter or purification systems; waste holding; treatment or disposal systems; water separators; perchloro- ethylene supply systems; dip tanks; pumps; gaskets; piping, ducting, fittings, valves, or flanges that convey perchloroethylene-contaminated air; and dry cleaning control systems.
+Drainage area. "Drainage area" means the geographical area which contributes flow to a particular location in the sewerage system.
 
-Effluent. "Effluent" shall mean wastewater, treated or untreated, which is discharged directly or indirectly to a public sewer.
+Dry cleaning. "Dry cleaning" means the process used to remove soil, greases, paints and other unwanted substances from articles with the use of perchloroethylene.
 
-Flammable. "Flammable" shall mean any waste stream with a closed cup flash point of less than 100 degrees Fahrenheit or 38 degrees Centigrade using the test methods specified in the definition of "flash point" in New York City Fire Code Section FC 3402.
+Dry cleaning equipment. "Dry cleaning equipment" means any machine, device, or apparatus used to dry clean articles.
 
-Groundwater. "Groundwater" shall mean any water removed from the ground, including water from springs, and natural underground streams but excluding water from wells used for the delivery of potable or process water.
+Dry cleaning facility. "Dry cleaning facility" means an establishment with one or more dry cleaning systems.
 
-House drain (building drain). "House drain" shall mean that part of the lowest horizontal piping of a house drainage system which receives the discharge from soil, waste and other drainage pipes of the building and conveys such drainage to the house sewer.
+Dry cleaning system. "Dry cleaning system" means all of the following equipment, devices, or apparatus associated with the perchloroethylene dry cleaning operations, including, but not limited to: dry cleaning equipment; filter or purification systems; waste holding; treatment or disposal systems; water separators; perchloroethylene supply systems; dip tanks; pumps; gaskets; piping, ducting, fittings, valves, or flanges that convey perchloroethylene-contaminated air; and dry cleaning control systems.
 
-House drainage system. "House drainage system" shall mean that part of the plumbing system which receives, conveys and removes liquid and waterborne wastes to a public or private sewer.
+Effluent. "Effluent" means wastewater, treated or untreated, which is discharged directly or indirectly to a combined or sanitary sewer.
 
-House sewer. "House sewer" shall mean that part of a house drainage system which extends from a house drain to a connection with a public or private sewer.
+Flammable. "Flammable" means any waste stream with a closed cup flash point of less than 100 degrees Fahrenheit or 38 degrees Centigrade using the test methods specified in the definition of "flash point" in New York City Fire Code Section FC 3402.
 
-Indirect discharge. "Indirect discharge" shall mean a discharge from a private sewer to a public sewer, or a discharge to any street, gutter, pipe, channel, pumping station, catch basin, drain, waterway, or other conveyance leading to or connecting with a public sewer, including but not limited to the placement or abandonment of any substance which could reasonably enter a public sewer under the force of stormwater or other influence.
+Flushable. "Flushable" means meeting the International Water Services Flushability Group (IWSFG) testing criteria for flushability, as currently set forth in the 2018 IWSFG Publicly Available Specification (PAS) documents 1, 2, and 3, and in any successor documents.
 
-Industrial wastes. "Industrial wastes" shall mean any liquid, gaseous or solid substances, or a combination thereof, resulting from any process of industry, manufacturing, trade or business or from the development or recovery of any natural resources.
+Food waste disposal. See "food waste disposer."
 
-Influent. "Influent" shall mean wastewater which flows into a pretreatment device or facility, or into a sewage treatment plant.
+Food waste disposer. "Food waste disposer" also known as "food waste disposal," means an electric motor driven device installed between a sink’s drain and trap, for grinding food waste and disposing of such ground food waste through the plumbing drainage system.
 
-Interceptor. "Interceptor" shall mean a sewer which receives the dry-weather flow from a number of transverse combined or sanitary sewers and conducts such sewage to a water pollution control plant. During storms it receives predetermined quantities of dry-weather flow admixed with stormwater and conducts commingled sewage to a water pollution control plant.
+Gravity grease interceptor. "Gravity grease interceptor" means a grease interceptor that utilizes gravity flow and retention time as the primary means of separating fat, oil, and grease from the facility waste stream prior to it entering the public sewer. Gravity grease interceptors are predominantly located outside due to their large size.
 
-Interceptor-collector. "Interceptor-collector" shall mean a sewer which not only intercepts existing combined sewers to convey the flow to a sewage treatment plant, but also serves as a local sanitary sewer.
+Grease interceptor. "Grease interceptor" means a plumbing appurtenance that is installed in a drainage system to intercept grease-laden wastes from a wastewater discharge. Such device has the ability to intercept free-floating fat, oil, and grease.
 
-Laboratory determination. "Laboratory determination" shall mean the measurements, tests and analyses of the characteristics of waters and wastes in accordance with the methods contained in the latest edition at the time of any such measurements, tests and analysis, of "Standard Methods for Examination of Water and Waste Water," a joint publication of the American Public Health Association, the American Waterworks Association and the Water Pollution Control Federation or in accordance with any other methods prescribed by the Commissioner in these Rules and Regulations or in any other Rules and Regulations.
+Grease retention capacity. "Grease retention capacity" means the maximum amount of grease that a grease interceptor or automatic grease removal device is able to hold in accordance with its testing and rating certification, without compromising its ability to remove an average of 90 percent or more of the grease or other extractable matter in the wastewater.
+
+Green infrastructure. "Green infrastructure" means the range of city-owned measures that use plant or soil systems, permeable pavement or other permeable surfaces or substrates, stormwater harvest or reuse, or landscaping to store, infiltrate or evapotranspirate stormwater and reduce flows to sewer systems or to surface waters.
+
+Groundwater. "Groundwater" means water located beneath the ground surface in soil pore spaces and in the fractures of rock formations and any water removed from the ground, including water from springs, and natural underground streams but excluding water from wells used for the delivery of potable or process water.
+
+House drain. See "building drain".
+
+House drainage system. See "building drainage system".
+
+House sewer. See "building sewer".
+
+Hydromechanical grease interceptor. "Hydromechanical grease interceptor" means a grease interceptor that utilizes hydraulic flow action, internal baffling, and air entrainment as the primary means of separating fat, oil, and grease from the fixture waste stream. Hydromechanical grease interceptors are predominantly located indoors, compact in size, and located in proximity to the fixtures they serve.
+
+Indirect discharge. "Indirect discharge" means a discharge from a private sewer to a public sewer, or a discharge to any street, gutter, pipe, channel, pumping station, catch basin, drain, waterway, or other conveyance leading to or connecting with a public sewer, including but not limited to the placement or abandonment of any substance which could reasonably enter a public sewer under the force of stormwater or other influence.
+
+Industrial wastes. "Industrial wastes" means any liquid, gaseous or solid substances, or a combination thereof, resulting from any process of industry, manufacturing, trade or business or from the development or recovery of any natural resources.
+
+Influent. "Influent" means wastewater which flows into a pretreatment device or facility, or into a wastewater resource recovery facility.
+
+Interceptor. "Interceptor" means a sewer which receives the dry-weather flow from a number of transverse combined or sanitary sewers and conducts such sewage to a wastewater resource recovery facility. During storms it receives predetermined quantities of dry-weather flow admixed with stormwater and conducts commingled sewage to a wastewater resource recovery facility.
+
+Interceptor-collector. "Interceptor-collector" means a sewer which not only intercepts existing combined sewers to convey the flow to a wastewater resource recovery facility, but also serves as a local sanitary sewer.
+
+Laboratory determination. "Laboratory determination" means the measurements, tests and analyses of the characteristics of waters and wastes in accordance with the methods contained in the latest edition at the time of any such measurements, tests and analysis, of "Standard Methods for Examination of Water and Waste Water," a joint publication of the American Public Health Association, the American Waterworks Association and the Water Pollution Control Federation or in accordance with any other methods prescribed by the Commissioner in these Rules and Regulations or in any other Rules and Regulations.
 
 May. "May" is permissive.
 
-mg/L. "mg/L" shall mean a unit of concentration expressed in milligrams per litre.
+mg/L. "mg/L" means a unit of concentration expressed in milligrams per liter.
 
-Non-polar material. "Non-polar material" shall mean that portion of the oil and grease that is not eliminated from a solution containing N-Hexane, or any other extraction solvent the EPA shall prescribe, by silica gel adsorption.
+Non-polar material. "Non-polar material" means that portion of the oil and grease that is not eliminated from a solution containing N-Hexane, or any other extractant the EPA shall prescribe, by silica gel or any other means of adsorption the EPA shall prescribe.
 
-Oil and grease. "Oil and grease" shall mean the matter extractable from a wastewater sample using N-Hexane or any other extraction solvent the EPA shall prescribe.
+Oil and grease. "Oil and grease" means the matter extractable from a wastewater sample using N-Hexane or any other extractant the EPA shall prescribe.
 
-Other wastes. "Other wastes" shall mean garbage (shredded or unshredded), refuse, decayed wood, sawdust, shavings, bark, sand, lime, cinder, ashes, and all other discarded matter not sewage or industrial waste.
+Other wastes. "Other wastes" means garbage (shredded or unshredded), refuse, decayed wood, sawdust, shavings, bark, sand, lime, cinder, ashes, and all other discarded matter not sewage or industrial waste.
 
-Perchloroethylene."Perchloroethylene" shall mean a colorless, volatile chlorinated hydrocarbon. Perc is also known as tetrachloroethylene and PCE. The chemical formula for perc is Cl2C:CCl2. The CAS (chemical abstract service) registry number for perc is 00127-18-4.
+Perchloroethylene. "Perchloroethylene" means a colorless, volatile chlorinated hydrocarbon. Perc is also known as tetrachloroethylene and PCE. The chemical formula for perc is Cl2C:CCl2. The CAS (chemical abstract service) registry number for perc is 00127-18-4.
 
-Person. "Person" shall mean any individual, firm, company, association, society, corporation, institution or group.
+Person. "Person" means any individual, firm, company, association, society, corporation, institution or group.
 
-pH. "pH" shall mean the logarithm of the reciprocal of the hydrogen ion concentration. It indicates the intensity of acidity or alkalinity expressed in terms of pH scale running from 0 to 14. A pH value of 7.O, the midpoint of the scale, represents neutrality. Values above 7.0 indicate alkalinity and those below 7.0 acidity.
+pH. "pH" means the logarithm of the reciprocal of the hydrogen ion concentration. It indicates the intensity of acidity or alkalinity expressed in terms of pH scale running from 0 to 14. A pH value of 7.0, the midpoint of the scale, represents neutrality. Values above 7.0 indicate alkalinity and those below 7.0 acidity.
 
-Pollutants. "Pollutants" shall mean substances that may be present in sewage, industrial waste or other waste, whether gaseous, liquid or solid.
+Pollutants. "Pollutants" means substances that may be present in sewage, industrial waste or other waste, whether gaseous, liquid or solid.
 
-ppb. "ppb" shall mean parts per billion by volume in air or by weight in water.
+ppb. "ppb" means parts per billion by volume in air or by weight in water.
 
-Premises. "Premises" shall mean any parcel of real property including land, improvements or appurtenances, such as buildings.
+Potable water. "Potable water" means water free from impurities present in amounts sufficient to cause disease or harmful physiological effects and conforming to the bacteriological and chemical quality requirements of the New York State Sanitary Code.
 
-Pretreatment. "Pretreatment" shall mean any measures to be taken by a user of the public sewer that are necessary in order that the characteristics or amounts of substances discharged to a public sewer, either directly or indirectly, comply with 15 RCNY §§ 19-03 or 19-04, including but not limited to the alteration of plant or processes, the installation of equipment and/or the implementation of procedures designed to reduce or eliminate the discharge of pollutants and toxic substances or eliminate any discharge so that compliance with 15 RCNY §§ 19-03 or 19-04 is attained.
+Premises. "Premises" means any parcel of real property including land, improvements or appurtenances, such as buildings.
 
-Private sewer. "Private sewer" shall mean a sewer located either in public or private property, which is privately owned and is controlled by public authority to the extent provided by law.
+Pre-rinse sink. See "scraper sink".
 
-Public sewer. "Public sewer" shall mean a sewer which is owned by the City of New York.
+Pretreatment. "Pretreatment" means any measures to be taken by a user of the public sewer that are necessary in order that the characteristics or amounts of substances discharged to a combined or sanitary sewer, either directly or indirectly, comply with 15 RCNY §§ 19-03 or 19-04, including but not limited to the alteration of plant or processes, the installation of equipment and/or the implementation of procedures designed to reduce or eliminate the discharge of pollutants and toxic substances or eliminate any discharge so that compliance with 15 RCNY §§ 19-03 or 19-04 is attained.
 
-Pumping station. "Pumping station" shall mean a structure in the sewerage system housing pumps and appurtenances to lift sewage from a lower to a higher level.
+Private sewer. "Private sewer" means a private sanitary, storm, or combined sewer that is designed and constructed in accordance with the requirements of the City drainage plan.
 
-Regulator. "Regulator" shall mean a device or apparatus for controlling the quantity of combined sewage from a contributory area admitted to an interceptor or interceptor collector. It is usually comprised of a regulator chamber, a diversion chamber and a tide gate chamber.
+Process water. "Process water" means any water which, during manufacturing or processing, comes into direct contact with or results from the production or use of any raw material, intermediate product, finished product, by-product, or waste product.
 
-Regulator chamber. "Regulator chamber" shall mean a structure and related appurtenances, which limits the quantity of flow to an interceptor or interceptor-collector.
+Process wastewater. "Process wastewater" means process water that has been discharged or discarded.
 
-Sanitary sewer. "Sanitary sewer" shall mean a sewer which conveys only sanitary or industrial sewage.
+Public sewer. "Public sewer" means a sewer that is owned by the City of New York.
 
-Sanitary wastes. "Sanitary wastes" shall mean bodily wastes, wash water, or similar matter.
+Pumping station. "Pumping station" means a structure in the sewerage system housing pumps and appurtenances to lift sewage from a lower to a higher level.
 
-Scavenger wastes. "Scavenger wastes" shall mean the sludge derived from sanitary wastewater discharged into cesspools, septic tanks or privies located within the City of New York.
+Receiving water. "Receiving water" means a channel, canal, stream, creek, river, pond, lake, ocean, or other body of water.
 
-Sewage. "Sewage" shall mean and include, for purpose of these Regulations, water and waterborne materials and substances of every kind and description which are present in a sewer, including but not limited to wastewater, human or animal wastes, industrial waste or other waste, or infiltration and inflow.
+Reduced pressure zone device. "Reduced pressure zone device" means a minimum of two independently acting check valves, with an automatically operated pressure differential relief valve located between the two check valves.
 
-Sewage treatment works, sewage treatment plant or water pollution control plant. "Sewage treatment works," "sewage treatment plant" or "water pollution control plant" shall mean a City-owned facility for the treatment of sewage.
+Regulator. "Regulator" means a device or apparatus for controlling the quantity of combined sewage from a contributory area admitted to an interceptor or interceptor collector. It is usually comprised of a regulator chamber, a diversion chamber and a tide gate chamber.
 
-Sewer. "Sewer" shall mean a pipe or conduit for carrying sewage and/or stormwater. Except where otherwise specified or where the context clearly dictates otherwise, the term "sewer" as used in this chapter shall refer to a public sewer.
+Regulator chamber. "Regulator chamber" means a structure and related appurtenances, which limits the quantity of flow to an interceptor or interceptor-collector.
 
-Sewer surcharge. "Sewer surcharge" shall mean a charge which may be applied by the New York City Water Board to premises or users discharging wastewater, directly or indirectly, into a public sewer which contains BOD and/or SS in concentrations exceeding those which may be specified by rule of said board.
+Sanitary sewer. "Sanitary sewer" means a sewer that conveys only sewage.
 
-Sewerage system or sewer system. "Sewerage system" or "sewer system" shall mean and include all sewers, including storm sewers, sanitary sewers, combined sewers and intercepting sewers and manholes, sewage pumping treatment and disposal works and any other plants, works or equipment and accessories within the City, which are used or useful in connection with the collection, treatment or disposal of sewage and waste, and which are owned, operated or maintained by the City as part of the public sewer system.
+Sanitary wastes. "Sanitary wastes" means bodily wastes, wash water, or similar matter.
+
+Scavenger wastes. "Scavenger wastes" means the sludge derived from sanitary wastewater discharged into cesspools, septic tanks or privies located within the City of New York.
+
+Scraper sink. "Scraper sink," also known as "pre-rinse sink" means a sink used for scraping food scraps, particles, and residue off of dishes.
+
+Scullery sink. "Scullery sink" means a sink used for cleaning dishes and cooking utensils.
+
+Sewage. "Sewage" means, for purposes of these Regulations, water and waterborne materials and substances of every kind and description which are typically conveyed through a sewer, including but not limited to, liquid wastes, chemicals, wastewater, human, animal, or plant wastes, industrial waste, nonpotable clear water waste or other waste, or infiltration and inflow.
+
+Sewage treatment works, sewage treatment plant or wastewater resource recovery facility. "Sewage treatment works," "sewage treatment plant" or " wastewater resource recovery facility" means a City-owned facility for the treatment of sewage.
+
+Sewer. "Sewer" means a pipe or conduit for carrying sewage and/or stormwater. Except where otherwise specified or where the context clearly dictates otherwise, the term "sewer" as used in this chapter shall refer to a public sewer.
+
+Sewer surcharge. "Sewer surcharge" means a charge which may be applied by the New York City Water Board to premises or users discharging wastewater, directly or indirectly, into a combined or sanitary sewer which contains BOD and/or SS in concentrations exceeding those which may be specified by rule of said board.
+
+Sewerage system or sewer system. "Sewerage system" or "sewer system" means and includes all sewers, including storm sewers, sanitary sewers, combined sewers and intercepting sewers and manholes, sewage pumping treatment and disposal works and any other plants, works or equipment, accessories, and green infrastructure within the City, which are used or are useful in connection with the collection, treatment or disposal of sewage, waste, or stormwater, and which are owned, operated or maintained by the City as part of the public sewer system.
 
 Shall. "Shall" is mandatory.
 
-Shredded garbage. "Shredded garbage" shall mean garbage shredded to such a degree that all particles will be carried freely under flow conditions normally prevailing in public sewers, with no particle having a dimension greater than 1/2 inch in any direction.
+Shredded garbage. "Shredded garbage" means garbage shredded to such a degree that all particles will be carried freely under flow conditions normally prevailing in combined or sanitary sewers, with no particle having a dimension greater than 1/2 inch in any direction.
 
 Silver-Rich Solutions. "Silver-Rich Solutions" include, but are not limited to, fixers, bleach-fixes, stabilizers (e.g. plumbless stabilizers and chemical washes), low-flow washes, and all functionally-similar solutions.
 
-SS (denoting suspended solids). "SS" shall mean the laboratory determination of the dry weight expressed in parts per million (ppm) or mg/L of solids that either float on the surface or are in suspension in sewage and can be removed by filtration.
+SS (denoting suspended solids). "SS" means the laboratory determination of the dry weight expressed in parts per million (ppm) or mg/L of solids that either float on the surface or are in suspension in sewage and can be removed by filtration.
 
-Storm sewer. "Storm sewer" shall mean a sewer, the primary purpose of which is to carry stormwater.
+Storm sewer. "Storm sewer" means a sewer, the primary purpose of which is to carry stormwater.
 
-Stormwater. "Stormwater" shall mean runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground.
+Stormwater. "Stormwater" means runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground.
 
-Tide gate chamber. "Tide gate chamber" shall mean a structure and related appurtenances which allows bypassing or overflow of excess combined sewage of a combined sewer or the flow of stormwater of a storm sewer to enter the receiving waters and prevents back flow of the receiving waters into the sewerage system.
+Tide gate chamber. "Tide gate chamber" means a structure and related appurtenances which allows bypassing or overflow of excess combined sewage of a combined sewer or the flow of stormwater of a storm sewer to enter the receiving waters and prevents back flow of the receiving waters into the sewerage system.
 
-Total silver halide process wastewater. "Total silver halide process wastewater" shall mean the sum of all aqueous solutions used in any silver halide imaging process, including, but not limited to, photography film developers, fixers, bleach-fix, stabilizers, washes, rinse waters, and all functionally-similar solutions.
+Tilting braiser. "Tilting braiser," also known as "tilting skillet" means a cooking device that can be used in various different cooking operations such as braising, frying, stewing, broiling, grilling, roasting, etc., which is drained after usage by tilting the cooking compartment and pouring out its liquid waste.
 
-Toxic substance. "Toxic substance" shall mean any substance on the list of toxic pollutants or combination of pollutants published by the Administrator of the Federal Environmental Protection Agency pursuant to § 307(a)(1) of the Federal Water Pollution Control Act, commonly referred to as the Clean Water Act, as amended, or any substance whether gaseous, liquid or solid, which when discharged to the sewerage system may tend to (1) interfere with or inhibit any sewage treatment plant process or disposal operation or (2) be detrimental to the health of human beings, animals or to aquatic life.
+Tilting skillet. See "tilting braiser."
 
-Unshredded garbage. "Unshredded garbage" shall mean solid waste from preparation, cooking and dispensing of food or food products and from handling, storing and sale of produce.
+Total silver halide process wastewater. "Total silver halide process wastewater" means the sum of all aqueous solutions used in any silver halide imaging process, including, but not limited to, photography film developers, fixers, bleach-fix, stabilizers, washes, rinse waters, and all functionally-similar solutions.
 
-User. "User" shall mean any person which causes a direct or indirect discharge to a public sewer.
+Toxic substance. "Toxic substance" means any substance on the list of toxic pollutants or combination of pollutants published by the Administrator of the Federal Environmental Protection Agency pursuant to § 307(a)(1) of the Federal Water Pollution Control Act, commonly referred to as the Clean Water Act, as amended, or any substance whether gaseous, liquid or solid, which when discharged to the sewerage system may tend to (1) interfere with or inhibit any wastewater resource recovery facility process or disposal operation or (2) be detrimental to the health of human beings, animals or to aquatic life.
 
-Wastewater. "Wastewater" shall mean liquid carried sanitary, industrial or other wastes.
+Unshredded garbage. "Unshredded garbage" means solid waste from preparation, cooking and dispensing of food or food products and from handling, storing and sale of produce.
 
-Water separator. "Water separator" shall mean a vessel that uses gravity to physically separate liquid perc from liquid water.
+User. "User" means any person which causes a direct or indirect discharge to a public sewer.
+
+Wastewater. "Wastewater" means liquid-carried sanitary, industrial or other wastes, contaminated stormwater runoff, or any liquid that is conveyed by means of a pump or a hose into a public sidewalk, street, sewer, or sewer appurtenance, including but not limited to a catch basin or manhole.
+
+Water separator. "Water separator" means a vessel that uses gravity to physically separate liquid perc from liquid water.
+
+Wipe. "Wipe" means a non-woven disposable product that is designed, marketed, or used for personal hygiene, or for household, commercial, or industrial cleaning purposes.
+
+Wok. "Wok" means a bowl-shaped pan used especially for frying and steaming.
+
+Yellow grease. "Yellow grease" means waste cooking oil.
 
 
 
@@ -10299,49 +10351,73 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 *§ 19-02 Disposal of Wastewater, Stormwater and Groundwater.* ::
 
 
-(a) Except with the written approval of the Commissioner, no stormwater outlet such as from a building, yard, or catchbasin, nor any drain from a body of water such as a lake, swamp, pond or swimming pool shall be connected to a public sewer, or to a private sewer connected to a public sewer, or to an interceptor-collector.
+(a) Except with the written approval of the Commissioner and in compliance with the terms and conditions of such approval, no stormwater outlet such as from a building, yard, or catch basin, nor any drain from a body of water such as a lake, swamp, pond or swimming pool shall be connected to a public sewer, or to a private sewer connected to a public sewer, or to an interceptor-collector.
 
-(b) No stormwater shall be allowed to enter a house drainage system within any area served by a separate sanitary sewerage system. Within any such area, no down spout or leader, gutter or other pipe, drain or channel which may at any time carry stormwater, subsurface drainage derived from hydraulic pressure or from well points, cooling water, or sea water shall be connected to any sanitary sewer. No down spout or leader shall be used as a soil, waste or vent pipe. Every joint in the connection of a house drain to a sanitary sewer shall be made watertight so that no leakage into or from any such drain shall occur.
+(b) No stormwater shall be allowed to enter a building drainage system within any area served by a separate sanitary sewer. Within any such area, no down spout or leader, gutter or other pipe, drain or channel which may at any time carry stormwater, subsurface drainage derived from hydraulic pressure or from well points, cooling water, or sea water shall be connected to any sanitary sewer. No down spout or leader shall be used as a soil, waste or vent pipe. Every joint in the connection of a building drain to a sanitary sewer must be made watertight so that no leakage into or from any such drain shall occur.
 
 (c) No person shall discharge or cause to be discharged, directly or indirectly, into any storm sewer any substance other than stormwater or allowable runoff.
 
-(d) No connection to the sewerage system shall be made without the written approval of the Commissioner.
+(d) (1) No connection to the sewerage system including but not limited to conveyance through hard pipe, hose, or channel shall be made without the written approval of the Commissioner and compliance with the terms and conditions of such approval.
 
-(e) No person shall discharge or cause to be discharged, directly or indirectly, into any catch basin or manhole any substance other than stormwater or allowable runoff.
+   (2) The owner of any parcel of real property with an unauthorized connection to the sewerage system shall be liable for removing any such connection, and if needed, for reconnecting to a proper sewer as authorized, directed, or ordered by the Commissioner, and for all associated costs and expenses.
 
-(f) (1) No person shall discharge, or cause to be discharged, directly or indirectly, over 10,000 gallons per day of groundwater, into a public sewer without a groundwater discharge permit from the Commissioner.
+   (3) The Commissioner, when circumstances may warrant, may direct the Department to undertake such disconnection and/or reconnection in lieu of said owner, the costs and expenses of which shall become due and payable by the owner and shall constitute a lien against such property in the manner described in § 24-512 of the Administrative Code.
 
-   (2) The Commissioner may impose any terms or conditions in a groundwater discharge permit that he deems necessary. If those terms or conditions are not complied with at all times, the permit may be revoked.
+   (4) Pursuant to 15 RCNY § 19-10(d)(1) and (d)(2), the Commissioner, his or her deputies and any other employees of the Department, when authorized by such Commissioner, may enter upon such property and bring in the necessary equipment at reasonable hours, for the purpose of exercising the powers or performing the duties of the Department under this section. Refusal to permit such entry or bring in such necessary equipment shall be a violation of these regulations.
 
-   (3) The Commissioner may consult with the United States Environmental Protection Agency and the New York State Department of Environmental Conservation prior to granting a groundwater discharge permit, for discharges to combined or sanitary sewers, and at their suggestion, may include such conditions as he deems appropriate.
+(e) (1) No person shall discharge or cause to be discharged, directly or indirectly, into any catch basin or manhole any substance other than stormwater or allowable runoff.
 
-(g) The Commissioner may approve an application for a groundwater discharge permit upon demonstration by the applicant, satisfactory to the Commissioner, that:
+   (2) No person shall discharge or cause to be discharged, directly or indirectly, into any green infrastructure any substance other than stormwater.
+
+(f) (1) (i) No person shall discharge, or cause to be discharged, directly or indirectly, groundwater into a public sewer without a groundwater discharge permit from the Department’s Bureau of Customer Services; provided that no person shall discharge, or cause to be discharged, directly or indirectly, over 10,000 gallons per day of groundwater, into a public sewer without a letter of groundwater quality approval from the Department’s Bureau of Wastewater Treatment, a letter of approval contingent upon a review of the capacity and capabilities of the receiving sewer from the Department’s Bureau of Water and Sewer Operations, and a groundwater discharge permit from the Department’s Bureau of Customer Services.
+
+      (ii) Such letters of approval are also required for groundwater discharges of 10,000 gallons per day or less when the applicant’s New York State Professional Engineer determines that such groundwater may contain any materials or substances prohibited or regulated by any provision of this title.
+
+      (iii) For groundwater discharges of 10,000 gallons per day or less that are in compliance with these Rules, the Commissioner may allow a New York State Professional Engineer to submit a statement on a form provided by the Department certifying that representative groundwater samples have been collected and that they have been properly handled, preserved, and analyzed in accordance with 40 C.F.R. Part 136, or, if 40 C.F.R. Part 136 does not cover the pollutant in question, in accordance with the latest edition of "Standard Methods for the Examination of Water and Wastewater," and that the analysis of such samples by a New York State Health Department certified wastewater laboratory shows compliance with the toxic discharge limits set by the Commissioner pursuant to 15 RCNY § 19-03(a)(11)(ii). The owner of the premises is required to maintain the laboratory results for said analysis for a minimum of either five years or such longer period as may be required by other applicable laws or regulations, and must make them available to the Department upon request.
+
+      (iv) The owner and/or operator of the premises from which the groundwater originates shall remain liable for what is discharged into the public sewer, and shall be subject to the applicable fines, penalties and other sanctions provided in § 24-524 of the Administrative Code of the City of New York if such discharge is not in compliance with applicable provisions of the Administrative Code and Rules of the Department.
+
+      (v) No such self-certification shall be deemed to waive, nor shall any such self-certification be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations, or of the Administrative Code or of any other law. The Department shall not incur any liabilities or obligations for the failure of the discharge from such self-certified premises to comply with this chapter or any other regulations, the Administrative Code or any other law.
+
+      (vi) Any groundwater discharges to a storm sewer which discharges directly to a receiving water, regardless of the amount, shall require a State Pollution Discharge Elimination System (SPDES) permit, a non-jurisdictional determination letter, or such other written approval as may be required from the New York State Department of Environmental Conservation in addition to a groundwater discharge permit from the Department’s Bureau of Customer Services, and if over 10,000 gallons per day, a letter of approval contingent upon a review of the capacity and capabilities of the receiving sewer from the Department’s Bureau of Water and Sewer Operations.
+
+   (2) The Commissioner may impose any terms or conditions in a groundwater discharge permit and/or letter of groundwater quality approval that he or she deems necessary. If those terms or conditions are not complied with at all times, the permit and/or letters of approval may be immediately revoked pursuant to paragraph (7) of this subdivision.
+
+   (3) The Commissioner may consult with the United States Environmental Protection Agency and the New York State Department of Environmental Conservation prior to granting a groundwater discharge permit and/or letters of approval, and at their suggestion, may include such conditions as he or she deems appropriate.
+
+(g) The Commissioner may approve an application for a groundwater discharge permit and/or letters of approval upon demonstration by the applicant, satisfactory to the Commissioner, that:
 
    (1) substantial property damage will result unless such groundwater is removed;
 
-   (2) there is no feasible alternative method of disposal;
+   (2) there are no feasible alternative methods of disposal;
 
-   (3) allowing the discharge will not overload the hydraulic capacity of the sewer; and
+   (3) allowing the discharge will not overload the hydraulic capacity of the sewer;
 
-   (4) such discharge will not cause an unacceptable dilution of the influent to the water pollution control plant receiving the groundwater discharge.
+   (4) such discharge will not cause an unacceptable dilution of the influent to the wastewater resource recovery facility receiving the groundwater discharge, so as not to adversely impact the facility’s operation; and
 
-(h) (1) Permits for the discharge of groundwater into storm sewers shall require, at a minimum, compliance with the following conditions:
+   (5) such discharge will be temporary.
 
-      (i) the discharger shall develop and implement, pursuant to a schedule set by the Commissioner, an alternative method of disposal, unless the applicant demonstrates to the satisfaction of the Commissioner that no such alternative method of disposal exists or can be developed or implemented;
+(h) (1) Permits and/or letters of approval for the temporary discharge of groundwater into storm sewers shall require, at a minimum, compliance with the following conditions:
 
-      (ii) the discharger shall indemnify and hold the City of New York harmless for any damage or liability incurred by the City of New York either directly or indirectly, in the event that the discharge results in overloading the capacity of such storm sewer, or otherwise causes flooding, and shall also post and maintain such cash or surety bond as may be required and will be satisfactory to the Commissioner and shall supply evidence of such bond when required;
+      (i) the discharger must develop and implement, pursuant to a schedule set by the Commissioner, an alternative method of disposal, unless the applicant demonstrates to the satisfaction of the Commissioner that no such alternative method of disposal exists or can be developed or implemented;
 
-      (iii) the discharger shall pay a sewer rent or charge equivalent to the one imposed by the Department pursuant to § 24-514 of the Administrative Code.
+      (ii) the discharger must indemnify and hold the City of New York harmless for any damage or liability incurred by the City of New York either directly or indirectly, in the event that the discharge results in overloading the capacity of such storm sewer, or otherwise causes flooding, and shall also post and maintain such cash or surety bond as may be required and will be satisfactory to the Commissioner and must supply evidence of such bond when required;
 
-   (2) Approvals for the discharge of groundwater into either combined or sanitary sewers, shall require, at a minimum, compliance with the following conditions:
+      (iii) the discharger must pay a sewer use fee or charge equivalent to the one imposed by the Department pursuant to § 24-514 of the Administrative Code;
 
-      (i) the discharger shall develop and implement, pursuant to a schedule set by the Commissioner, an alternative method of disposal, unless the applicant demonstrates to the satisfaction of the Commissioner that no such alternative method of disposal exists or can be developed and implemented;
+      (iv) the discharger must install a flow meter to measure the flow of groundwater to the storm sewer.
 
-      (ii) the discharger shall indemnify and hold the City of New York harmless for any damage or liability incurred by the City of New York either directly, or indirectly, in the event that the discharge results in overloading the capacity of such sewer, causes a bypass away from the sewage treatment plant to which it would have otherwise flowed, or otherwise causes flooding, and shall also post and maintain such cash or surety bend, as may be required and will be satisfactory to the Commissioner and shall supply evidence of such bond when required;
+   (2) Permits and/or letters of approval for the temporary discharge of groundwater into either combined or sanitary sewers, shall require, at a minimum, compliance with the following conditions:
 
-      (iii) the discharger shall pay a sewer rent or charge equivalent to that imposed by the Department pursuant to § 24-514 of the Administrative Code.
+      (i) the discharger must develop and implement, pursuant to a schedule set by the Commissioner, an alternative method of disposal, unless the applicant demonstrates to the satisfaction of the Commissioner that no such alternative method of disposal exists or can be developed and implemented;
 
-(i) A groundwater discharge permit issued by the Commissioner, unless sooner terminated or revoked; is effective for one year. The permit may be renewed by the Commissioner thereafter for additional one-year periods upon new application by the discharger.
+      (ii) the discharger must indemnify and hold the City of New York harmless for any damage or liability incurred by the City of New York either directly, or indirectly, in the event that the discharge results in overloading the capacity of such combined or sanitary sewer, causes a bypass away from the sewage treatment plant to which it would have otherwise flowed, or otherwise causes flooding, and must also post and maintain such cash or surety bend, as may be required and will be satisfactory to the Commissioner and must supply evidence of such bond when required;
+
+      (iii) the discharger must pay a sewer use fee or charge equivalent to that imposed by the Department pursuant to § 24-514 of the Administrative Code;
+
+      (iv) the discharger must install a flow meter to measure the flow of groundwater to the combined or sanitary sewer.
+
+(i) A permit and/or letters of approval issued by the Commissioner for the temporary discharge of groundwater, unless sooner terminated or revoked; is effective for one year. The permit and/or letters of approval may be renewed by the Commissioner thereafter for additional one-year periods upon new application by the discharger.
 
 (j) General application for non-stormwater discharges into storm sewers.
 
@@ -10353,9 +10429,9 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
    (4) The Commissioner shall disapprove an application for a discharge, pursuant to this section if, in the determination of the Commissioner, the discharge is reasonably likely to be:
 
-      (a) Inconsistent with the proper maintenance and purpose of the city’s storm sewers, including but not limited to the capacity of such storm sewers; or
+      (i) Inconsistent with the proper maintenance and purpose of the city’s storm sewers, including but not limited to the capacity of such storm sewers; or
 
-      (b) A significant contributor of pollutants to the sewer system or to surface waters of the state, or otherwise inconsistent with the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York City, SPDES No. NY-0287890 or its successor.
+      (ii) A significant contributor of pollutants to the sewer system or to surface waters of the state, or otherwise inconsistent with the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York City, SPDES No. NY-0287890 or its successor.
 
    (5) The Commissioner may impose such terms and conditions that he or she deems necessary to protect the sewer system, the surface waters of the state, or to protect the public health or the environment.
 
@@ -10370,20 +10446,20 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 
 
-*§ 19-03 Materials and Substances Excluded from Public Sewers.* ::
+*§ 19-03 Materials and Substances Excluded from Combined and Sanitary Sewers.* ::
 
 
-(a)  Except as hereinafter provided, any person that discharges or causes to be discharged, including any run, leak, or escape into any public sewer, pipe, channel, pumping station, catch basins or any other sewer appurtenances, or waterway connecting with any public sewer, or into any private sewer connected with a public sewer any of the following described materials, substances or wastes, except such small quantities as may be present in normal household wastes, shall be strictly liable, without regard to fault:
+(a) Except as hereinafter provided, any person that discharges or causes to be discharged, including any placement, run, leak, or escape into any combined or sanitary sewer, pipe, channel, pumping station, catch basins, drain connecting with any combined or sanitary sewer or any other sewer appurtenances, or green infrastructure, or waterway connecting with any combined or sanitary sewer, or into any private sewer connected with a combined or sanitary sewer any of the following described materials, substances or wastes, except as authorized in writing by the Commissioner or such small quantities through a building drainage system as may be present in normal household wastes, shall be strictly liable, without regard to fault:
 
-   (1) Construction materials, ashes, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastic, wood, paunch manure, coffee grounds, fur, wax, or any solids or viscous substances capable of causing obstruction to the flow in sewers or other interference with the proper operation of the sewerage system;
+   (1) Construction materials, concrete or concrete contaminated water, ashes, cinders, sand, mud, straw, shavings, metal, glass, rags, feathers, tar, plastic, wood, paunch manure, coffee grounds, fur, wax, power wash waste, building wash waste, fats, oils, grease, or any solids or viscous substances capable of causing obstruction to the flow in sewers or other interference with the proper operation of the sewerage system. No amount of the following shall be considered normal household wastes for purposes of this section: wipes that are not flushable, diapers, paper towels, floss, condoms, razors, hypodermic needles, contact lenses, bandages, sanitary pads, tampons, tampon applicators, gauze, cotton balls, swabs, any other personal hygiene products, drinking straws, any other items that are not toilet paper, sanitary waste, or items that have otherwise been authorized in writing by the Commissioner;
 
-   (2) Snow and ice at unauthorized locations;
+   (2) Snow and ice at locations not authorized in writing by the Commissioner;
 
    (3) Steam or wastewater above 150°F;
 
-   (4) Flammable or explosive liquids, solids or gases, including but not limited to gasoline, benzene and naphtha (notwithstanding anything to the contrary contained in these Regulations, under no circumstances may any such substances be discharged into the sewerage system);
+   (4) Flammable or explosive liquids, solids or gases, including but not limited to gasoline, benzene and naphtha (notwithstanding anything to the contrary contained in these Regulations, under no circumstances may any such substances be discharged into the sewerage system, even if diluted prior to or after discharge);
 
-   (5) Oil sludges, waste oil, motor oil, diesel and other fuels, dielectric fluid, brake fluid, transmission fluid, hydraulic fluid, or other similar substances;
+   (5) Oil sludges, waste oil, motor oil, heating oil, diesel and other fuels, dielectric fluid, brake fluid, transmission fluid, hydraulic fluid, or other similar substances;
 
    (6) Non-polar material, as defined in 15 RCNY § 19-01, in concentrations greater than 50 mg/L for any given time;
 
@@ -10391,21 +10467,21 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
    (8) Paints and related paint waste products from any source that tend to clog or otherwise interfere with the operation of the sewerage system;
 
-   (9) Wastewater having a pH lower than 5.0 or higher than 12.0 or having any other corrosive property likely to cause damage to structures or equipment of the sewerage system or create a hazard to personnel;
+   (9) Corrosive wastewater having a pH lower than 5.0 or higher than 12.0 or having any other corrosive property likely to cause damage to structures or equipment of the sewerage system or create a hazard to personnel;
 
-   (10) Toxic substances in such quantities, which the person knows or has reason to know, may when discharged from a single source or in combination with other sources:
+   (10) Toxic substances in such quantities, which may when discharged from a single source or in combination with other sources:
 
       (i) interfere with any sewage treatment process, including sludge digestion;
 
-      (ii) limit the City's options for operating its sewerage system or disposing of the sewage sludge, grit or scum generated at water pollution control plants;
+      (ii) limit the City’s options for operating its sewerage system or disposing of the sewage sludge, grit or scum generated at wastewater resource recovery facilities;
 
       (iii) be detrimental to the health of human beings, animals, or aquatic life;
 
-      (iv) create any adverse effect in the receiving waters; or
+      (iv) have any negative impact on the receiving waters; or
 
       (v) violate federal or state laws or regulations or the requirements of a discharge permit of a sewage treatment plant issued pursuant to § 402 of the Federal Water Pollution Control Act, commonly referred to as the Clean Water Act, as amended, or any other permit issued pursuant to federal or state law.
 
-   (11) Toxic substances in such quantities which, when discharged from a single source or in combination with other sources:
+   (11) Toxic substances in such quantities which may, when discharged from a single source or in combination with other sources:
 
       (i) violate any federal or state laws, regulations, rules or standards governing such discharge; or
 
@@ -10417,27 +10493,43 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
    (13) Any noxious or malodorous gas or substance capable of creating a public nuisance;
 
-   (14) Any wastewater or substance, which in the opinion of the Commissioner, will result in a violation of any applicable federal, state or local water quality standard concerning discoloration or other undesirable physical change in the appearance of the receiving waters.
+   (14) Any wastewater or substance, which in the opinion of the Commissioner, will result in a violation of any applicable federal, state or local water quality standard concerning discoloration or other undesirable physical change in the appearance of the receiving waters;
 
-   (15) Any still bottom or sludge residues resulting from dry cleaning processes including, but not limited to, dirt, lint, soil and any other deposits or residues extracted as a result of any dry cleaning processes. The discharge of filters or filter media used in dry cleaning processes is also prohibited.
+   (15) Any still bottom or sludge residues resulting from dry cleaning processes including, but not limited to, dirt, lint, soil and any other deposits or residues extracted as a result of any dry cleaning processes. The discharge of filters or filter media used in dry cleaning processes is also prohibited;
 
-(b) Under no circumstances will the discharge of unshredded garbage or refuse be permitted into a public sewer. Only stormwater may be directed to a receiving water without first passing through a sewage treatment plant or its bypass.
+   (16) Antifreeze;
 
-(c) When in the opinion of the Commissioner the solids in an industrial waste or other wastes require comminution before discharge to the public sewer, not only must the necessary comminution facilities be approved by the Commissioner for adequacy but also the operating results must satisfactorily, in the opinion of the Commissioner, abate the problem which such solids may tend to create in the sewerage system.
+   (17) Hazardous waste pharmaceuticals, as defined in the Code of Federal Regulations, in 40 C.F.R. Part 266.500.
 
-(d) (1) Every person shall provide protection from accidental discharge of any materials or substances prohibited or regulated by any provision of any section of any title of these Regulations. Facilities to prevent accidental discharges, such as spill prevention equipment, shall be provided and maintained by the person at his expense. The Commissioner may require the construction and/or installation of special facilities to prevent accidental discharges and the submission of detailed plans, for review, prior to the construction and/or installation.
+(b) Food waste disposers shall be permitted only within dwelling units. Under no circumstances will the discharge of garbage or refuse whether shredded or unshredded, other than ground putrescible food waste from food waste disposers in dwelling units, be permitted into a combined or sanitary sewer.
 
-   (2) In the event of a discharge in violation of any provision of any section of any title of these Regulations, the person involved in the accidental discharge, shall immediately notify the Department, at any hour, by telephone at 311, and shall give such other additional notice as the Commissioner may direct. The telephone notification shall include, the name of the person reporting the discharge, the exact time and location of the discharge, the nature of the discharge, including quantity, what it contains and any other information the Commissioner may request. The Commissioner may require additional notification and reporting, including written reports in a form he may prescribe.
+(c) Except with the written approval of the New York State Department of Environmental Conservation, and in compliance with the terms and conditions thereof, only stormwater and allowable runoff may enter a receiving water without first passing through a wastewater resource recovery facility or its bypass.
 
-   (3) All establishments using or storing toxic or other substances the discharge of which would be prohibited, restricted, or regulated by these Regulations, shall post a notice of the procedures to be followed in the event of an accidental discharge. The Commissioner may prescribe the size, form and content of this notice. This notice shall be posted at the location of the storage and use of toxic and other substances, the discharge of which would be prohibited, restricted or regulated by these Regulations.
+(d) (1) Every person must provide protection from accidental discharge and from spillage with the potential to cause a discharge of any materials or substances prohibited or regulated by any provision of any section of any title of these Regulations. Facilities to prevent accidental discharges and spills, such as spill prevention equipment, must be provided and maintained by the person at his or her expense. The Commissioner may require the construction and/or installation of special facilities to prevent accidental discharges and spills and the submission of detailed plans, for review, prior to the construction and/or installation.
 
-   (4) In the event of a discharge that enters or has the potential to enter the public sewers, in violation of any provision of any section of any title of these regulations, any person involved in the discharge shall immediately take steps to mitigate the affects of such discharge and commence clean-up procedures of such discharge in accordance with all applicable Federal, State and City laws, rules and regulations.
+   (2) In the event of a discharge in violation of any provision of any section of any title of these Regulations, the person involved in the accidental discharge must immediately notify the Department, at any hour, by telephone at 311, and must give such other additional notice as the Commissioner may direct. The telephone notification must include, the name of the person reporting the discharge, the exact time and location of the discharge, the nature of the discharge, including quantity, what it contains and any other information the Commissioner may request. The Commissioner may require additional notification and reporting, including written reports in a form he or she may prescribe.
 
-(e) The control of all odors which arise in premises from a public sewer shall at all times be the responsibility of the owner or occupiers of premises. The cost of such control shall be borne by the owner or occupiers of premises.
+   (3) All establishments using or storing toxic or other substances the discharge of which would be prohibited, restricted, or regulated by these Regulations, must post a notice of the procedures to be followed in the event of an accidental discharge. The Commissioner may prescribe the size, form and content of this notice. This notice must be posted at the location of the storage and use of toxic and other substances, the discharge of which would be prohibited, restricted or regulated by these Regulations.
 
-(f) All pretreatment and monitoring devices, including but not limited to a grease or oil interceptor, whether required to be installed by order of the commissioner or by any other law or regulation and located on any premises, shall be the proper device and correctly installed, maintained and operated.
+   (4) In the event of a discharge that enters or has the potential to enter the public sewers, in violation of any provision of any section of any title of these regulations, any person involved in the discharge must immediately take steps to mitigate the effects of such discharge and commence clean-up procedures of such discharge in accordance with all applicable Federal, State and City laws, rules and regulations.
+
+(e) The control of all odors which arise in premises from a public sewer must at all times be the responsibility of the owner or occupiers of premises. The cost of such control shall be borne by the owner or occupiers of premises.
+
+(f) (1) All pretreatment and monitoring devices, including but not limited to a grease or oil interceptor or automatic grease removal device, whether required to be installed by order of the commissioner or by any other law or regulation and located on any premises, shall be the proper device and correctly installed, maintained in good working order, and operated properly to ensure that the requirements of this section and other applicable sections of the regulations are met.
+
+   (2) Bypass of pretreatment systems is prohibited except under the conditions and subject to the limitations specified in 15 RCNY § 19-04(d)(2).
 
 (g) No person shall discharge or cause to be discharged any radioactive material either directly or indirectly into the sewerage system, unless all restrictions, prohibitions, and requirements of 24 RCNY Health Code Article 175 are fully complied with.
+
+(h) (1) Interceptors and separators must be provided to prevent the discharge of oil, grease, sand and other substances harmful or hazardous to the building drainage system, the public sewer, the private sewage disposal system, or the wastewater resource recovery facility or processes.
+
+   (2) The size, type and location of grease interceptors and automatic grease removal devices must be designed and installed in accordance with the manufacturer’s instructions and the requirements of 15 RCNY § 19-11 based on the anticipated conditions of use.
+
+   (3) The size, type and location of other types of interceptors and separators, including but not limited to oil separators, and sand interceptors must be designed and installed in accordance with the manufacturer’s instructions and the requirements of Section 1003 of the New York City Plumbing Code based on the anticipated conditions of use.
+
+   (4) Wastes that do not require treatment or separation must not be discharged into any interceptor or separator.
+
+
 
 
 
@@ -10447,7 +10539,8 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 *§ 19-04 Toxic Substances Accepted Conditionally.* ::
 
 
-(a) The concentration in wastewater of any of the following toxic substances shall not exceed the specified concentrations listed below before discharge to a public sewer;
+(a) The concentration in wastewater of any of the following toxic substances must not exceed the specified concentrations listed below before discharge to a combined or sanitary sewer; 
+										
 
  
 
@@ -10456,45 +10549,79 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
     :header-rows: 1
 
     * - Toxic Substance
-      - Permissible Maximum Concentration for any given time (mg/L) 
-      - Daily Average Maximum Concentration (mg/L) 
+      - Permissible Maximum Concentration for any given time (mg/L)
+      - Daily Average Maximum Concentration (mg/L)
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - Cadmium
-      - 2      
-      - 0.69 
+      - 2 
+      - 0.69
     * - Chromium (hexavalent)
-      - 5      
-      -  – 
+      - 5 
+      - -
     * - Copper
-      - 5      
-      -  – 
+      - 5 
+      - -
     * - Cyanide (amenable)
-      - 0.2   
-      -  – 
+      - 0.2 
+      - -
     * - Lead
-      - 2      
-      -  – 
+      - 2 
+      - -
     * - Mercury
-      - 0.05 
-      -  – 
+      - 0.05
+      - -
     * - Nickel
-      - 3      
-      -  – 
+      - 3 
+      - -
     * - Zinc
-      - 5      
-      -  – 
+      - 5 
+      - -
 ~
 
  
 
-(b) (1) Notwithstanding anything contained in 15 RCNY § 19-04(a) above, when the volume of a single toxic discharge or the combined toxic discharges of a group of establishments within a single drainage area is large enough, in the opinion of the Commissioner, to create unacceptable total concentrations of a toxic substance either in the influent entering a sewage treatment plant or in the receiving waters, the Commissioner may by order impose more stringent concentration limits than those listed in 15 RCNY § 19-04(a), or impose mass limits upon the person or persons so discharging. Conversely, when a toxic discharge is sufficiently diluted or rendered innocuous before reaching a sewage treatment plant or the receiving waters, the Commissioner may, in his absolute discretion, grant written permission for discharge concentrations greater than those listed in 15 RCNY § 19-04(a).
+(b) (1) Notwithstanding anything contained in 15 RCNY § 19-04(a) above, when the volume of a single toxic discharge or the combined toxic discharges of a group of establishments within a single drainage area is large enough, in the opinion of the Commissioner, to create unacceptable total concentrations of a toxic substance either in the influent entering a sewage treatment plant or in the receiving waters, the Commissioner may by order impose more stringent concentration limits than those listed in 15 RCNY § 19-04(a), or impose mass limits upon the person or persons so discharging. Conversely, when a toxic discharge is sufficiently diluted or rendered innocuous before reaching a sewage treatment plant or the receiving waters, the Commissioner may, in his or her absolute discretion, grant written permission for discharge concentrations greater than those listed in 15 RCNY § 19-04(a).
 
-   (2) The Commissioner may by order impose maximum amounts or concentrations of a toxic substance which may be discharged directly or indirectly to a public sewer from an industrial source notwithstanding that such amounts or concentrations are less than those demanded by other subdivisions of this section or that the substance is not regulated by such subdivisions for that source, provided that such amounts or concentrations are economically achievable by that source as determined by the Commissioner. Within 20 days after service of the Commissioner's determination and order, the person discharging the toxic substance may request a hearing at which evidence may be presented only upon the issue of the economic achievability of the maximum amounts or concentrations of the toxic substance, as imposed by the Commissioner, to be discharged to the public sewer. Following such hearing, the hearing officer designated by the Commissioner shall report his findings and recommendations to the Commissioner who, in his discretion, may sustain, revoke, or modify his original determination and order. The Commissioner shall, upon his decision to sustain or modify his original determination and order, issue a final order to the person discharging the toxic substance to comply with such decision.
+   (2) The Commissioner may by order impose maximum amounts or concentrations of a toxic substance which may be discharged directly or indirectly to a combined or sanitary sewer from an industrial source notwithstanding that such amounts or concentrations are less than those demanded by other subdivisions of this section or that the substance is not regulated by such subdivisions for that source, provided that such amounts or concentrations are economically achievable by that source as determined by the Commissioner. Within 20 days after service of the Commissioner’s determination and order, the person discharging the toxic substance may request a hearing at which evidence may be presented only upon the issue of the economic achievability of the maximum amounts or concentrations of the toxic substance, as imposed by the Commissioner, to be discharged to the combined or sanitary sewer. Following such hearing, the hearing officer designated by the Commissioner shall report his or her findings and recommendations to the Commissioner who, in his or her discretion, may sustain, revoke, or modify the original determination and order. The Commissioner shall, upon his or her decision to sustain or modify the original determination and order, issue a final order to the person discharging the toxic substance to comply with such decision.
 
-(c) Pursuant to § 24-523(e)(2) of the Administrative Code, all pretreatment standards and requirements promulgated pursuant to the Federal Water Pollution Control Act, commonly referred to as the Clean Water Act, as amended, including time limitations for compliance with such standards, monitoring of wastewater and the reporting of the results of such monitoring are hereby incorporated into these regulations and all such reports shall also be made to the Commissioner. All sources of pollutants or toxic substances to the public sewers, subject to such pretreatment standards, shall discharge wastewaters to the public sewers in conformance with such standards, provided however, that if a more stringent standard is applicable under 15 RCNY §§ 19-04(a) or 19-04(b) or any other section of these Regulations then the said more stringent standard shall be controlling.
+(c) Pursuant to § 24-523(e)(2) of the Administrative Code, all pretreatment standards and requirements promulgated pursuant to the Federal Water Pollution Control Act, commonly referred to as the Clean Water Act, as amended, including time limitations for compliance with such standards, monitoring of wastewater and the reporting of the results of such monitoring are hereby incorporated into these regulations and all such reports must also be made to the Commissioner. All sources of pollutants or toxic substances to the combined or sanitary sewers, subject to such pretreatment standards, must discharge wastewaters to the combined or sanitary sewers in conformance with such standards, provided however, that if a more stringent standard is applicable under 15 RCNY § 19-04(a) or (b) or any other section of these Regulations then the more stringent standard shall be controlling.
 
-(d) Pretreatment systems shall be maintained in good working order and operated properly so as to insure continued compliance with 15 RCNY §§ 19-03 and 19-04.
+(d) (1) Pretreatment systems must be correctly installed, maintained in good working order, and operated properly so as to ensure continued compliance with 15 RCNY §§ 19-03 and 19-04.
+
+   (2) Bypass of Pretreatment Facilities.
+
+      (i) Bypass is prohibited unless:
+
+         (A) it is unavoidable to prevent loss of life, personal injury, or severe property damage, no feasible alternatives exist, and the Industrial User submits notification as required by subparagraph (b) of this paragraph; or
+
+         (B) it is for essential maintenance to assure efficient operation, it does not cause pretreatment standards or requirements to be violated, and the Industrial User submits notification as required by subparagraph (b) of this paragraph.
+
+      (ii) Notification of bypass:
+
+         (A) Anticipated bypass. If the Industrial User knows in advance of the need for a bypass, it must submit prior written notice, at least ten days before the date of the bypass, to the Department.
+
+         (B) Unanticipated bypass. The Industrial User shall immediately notify the Department by calling 311, and must submit a written notice to the Department within 5 days after the bypass. This report shall specify:
+
+            1. a description of the bypass, its cause and duration;
+
+            2. whether the bypass has been corrected; and
+
+            3. the steps being taken or to be taken to reduce, eliminate and prevent a recurrence of the bypass.
+
+         When calling 311 the Industrial User must ask for and record the complaint number for proof of compliance with the notification requirements.
 
 (e) No person shall increase the use of process water or in any way attempt to dilute a discharge as a partial or complete substitute means of pretreatment in order to comply with any provision of any section of these Regulations.
+
+
 
 
 
@@ -10504,37 +10631,39 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 *§ 19-05 Permit for Industrial Wastewater Discharge.* ::
 
 
-(a)  The following persons may not discharge wastewater to the public sewers without an industrial wastewater discharge permit, or equivalent control mechanism:
+(a) The following persons may not discharge process wastewater to the combined or sanitary sewers without an industrial wastewater discharge permit, or equivalent control mechanism:
 
    (1) Significant Industrial Users, as defined in the Code of Federal Regulations, in 40 C.F.R. Part 403.3(v); and
 
-   (2) Any other person for which the Commissioner determines that a wastewater discharge permit or equivalent control mechanism is necessary to protect the sewer system or the treatment processes thereof or to protect the public health or welfare.
+   (2) Any other person for whom the Commissioner determines that a wastewater discharge permit or equivalent control mechanism is necessary to protect the sewer system or the treatment processes thereof or to protect the public health or welfare.
 
-(b) (1)  The applicant for a wastewater discharge permit or equivalent control mechanism shall complete and file an application in the form prescribed by the Department and containing such information as the Commissioner may direct. Any person who has been issued a permit shall apply for renewal of that permit at least 120 days prior to the expiration date contained therein.
+(b) (1) The applicant for a wastewater discharge permit or equivalent control mechanism must complete and file an application in the form prescribed by the Department and containing such information as the Commissioner may direct. Any person who has been issued a permit must apply for renewal of that permit at least 120 days prior to its expiration date.
 
-   (2) The Commissioner, in his discretion, may issue wastewater discharge permits and may impose such terms and conditions he deems necessary to protect the sewer system or the treatment processes thereof or to protect the public health or welfare. Non-compliance with any of the terms and conditions of the permit, shall be grounds for revocation of the permit to discharge wastewater into the public sewer; such revocation shall be effective immediately upon notice to the permittee of such revocation.
+   (2) The Commissioner, in his or her discretion, may issue wastewater discharge permits and may impose such terms and conditions he or she deems necessary to protect the sewer system or the treatment processes thereof or to protect the public health or welfare. Non-compliance with any of the terms and conditions of the permit, shall be grounds for revocation of the permit to discharge wastewater into the combined or sanitary sewer; such revocation shall be effective immediately upon notice to the permittee of such revocation.
 
-(c) (1) Upon direction or order by the Commissioner, any user of a public sewer shall:
+(c) (1) Upon direction or order by the Commissioner, any user of a combined or sanitary sewer must:
 
       (i) complete an industrial wastes questionnaire form;
 
-      (ii) allow an inspection of the user's processes which contribute wastewater to a public sewer;
+      (ii) allow an inspection of the user’s processes which contribute wastewater to a combined or sanitary sewer;
 
-      (iii) measure and sample for the purposes of determining volume and characteristics of effluents which are discharged to a public sewer. Any information included in the industrial wastes questionnaire which is designated confidential business information by the user of the public sewer, except effluent characteristics, is to be treated in accordance with applicable law and procedures established by the Commissioner.
+      (iii) measure and sample for the purposes of determining volume and characteristics of effluents which are discharged to a public sewer. Any information included in the industrial wastes questionnaire which is designated confidential business information by the user of the combined or sanitary sewer, except effluent characteristics, is to be treated in accordance with applicable law and procedures established by the Commissioner.
 
    (2) An industrial waste questionnaire shall include:
 
       (i) Details of production, number of employees, water consumption and usage, waste disposal facilities, and other pertinent data to enable the Commissioner to properly determine the nature of the waste being discharged;
 
-      (ii) A plan of the property showing accurately all sewers, drains and house sewer connections;
+      (ii) A plan of the property showing accurately all sewers, drains and building sewer connections;
 
-      (iii) A laboratory determination of the characteristics of the wastewater discharged to a public sewer, if required by the Commissioner. Such a laboratory determination shall be made at the expense of the applicant, and when the applicant has neither the facilities nor professional personnel to properly perform this laboratory determination in accordance with the methods prescribed in the definition of laboratory determination under 15 RCNY § 19-01, he shall have the laboratory determination performed and attested to by a person or agency of recognized professional standing. The samples of wastewater for which a laboratory determination is to be made shall be taken in accordance with the direction of the Commissioner and the results shall be transmitted to the Commissioner.
+      (iii) A laboratory determination of the characteristics of the wastewater discharged to a combined or sanitary sewer, if required by the Commissioner. Such a laboratory determination shall be made at the expense of the applicant, and when the applicant has neither the facilities nor professional personnel to properly perform this laboratory determination in accordance with the methods prescribed in the definition of laboratory determination under 15 RCNY § 19-01, he or she must have the laboratory determination performed and attested to by a person or agency of recognized professional standing. The samples of wastewater for which a laboratory determination is to be made must be taken in accordance with the direction of the Commissioner and the results must be transmitted to the Commissioner.
 
-(d) For discharges which conform or are expected to conform to 15 RCNY § 19-03 or 19-04 herein, the Commissioner, nevertheless, may require the installation and maintenance, by a date set by the Commissioner, at the sole expense of the user of the public sewer, of facilities or equipment for the measurement and sampling by departmental personnel of wastewater discharged to a public sewer.
+(d) For discharges which conform or are expected to conform to 15 RCNY § 19-03 or 15 RCNY § 19-04, the Commissioner, nevertheless, may require the installation and maintenance, by a date set by the Commissioner, at the sole expense of the user of the public sewer, of facilities or equipment for the measurement and sampling by departmental personnel of wastewater discharged to a public sewer.
 
-(e) No person shall cause or allow a new connection to a public sewer of premises, in which one or more establishments that will discharge industrial wastes or other wastes, as defined in this chapter, are to be located, without a written permit from the Commissioner, pursuant to § 24-509 of the Administrative Code. No such permit shall issue unless the Commissioner shall have determined that the characteristics of such discharges will comply with the provisions of 15 RCNY § 19-03 or 19-04 herein and approves such connection. If pretreatment is required in order that the discharge to the public sewer comply with 15 RCNY § 19-03 or 19-04 herein, review and/or approval by the Commissioner of plans for such pretreatment shall be limited by him or her to the determination of whether such plans conform in principle to the accepted practices in the field of wastewater treatment. No such permit or approval shall be deemed to waive, nor shall any such permit or approval be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations of the Administrative Code or of any other law. The Department, by such permit or approval, shall not incur any liabilities or obligations for the failure of the effluent from such pretreatment to comply with this chapter or any other regulations, the Administrative Code or any other law.
+(e) No person shall cause or allow a new connection to a public sewer of premises, in which one or more establishments that will discharge industrial wastes or other wastes, as defined in this chapter, are to be located, without a written permit from the Commissioner, pursuant to § 24-509 of the Administrative Code. No such permit shall issue unless the Commissioner shall have determined that the characteristics of such discharges will comply with the provisions of 15 RCNY § 19-03 or 15 RCNY § 19-04 and approves such connection. If pretreatment is required in order that the discharge to the combined or sanitary sewer complies with 15 RCNY § 19-03 or 15 RCNY § 19-04, review and/or approval by the Commissioner of plans for such pretreatment shall be limited by him or her to the determination of whether such plans conform in principle to the accepted practices in the field of wastewater treatment. No such permit or approval shall be deemed to waive, nor shall any such permit or approval be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations of the Administrative Code or of any other law. The Department, by such permit or approval, shall not incur any liabilities or obligations for the failure of the effluent from such pretreatment to comply with this chapter or any other regulations, the Administrative Code or any other law.
 
-(f) For a non-residential direct or indirect discharger of animal fats and/or vegetable oils that either (a) requires a new sewer-connection permit and/or approval, or (b) requires a filing at the New York City Department of Buildings for an alteration and/or repair or the like, of an operation listed in 15 RCNY § 19-11(a), or (c) requires the installation of a grease interceptor pursuant to any section of these Rules or any other regulations or law, the Commissioner shall allow a New York State Professional Engineer or a New York State Registered Architect to submit to the Department an application that includes, at a minimum, plans containing grease interceptor sizing calculations and a statement certifying that the sizing and design of any required grease interceptor complies with 15 RCNY § 19-11. A sworn Affidavit of Completion shall be submitted to the Department by a New York City Licensed Master Plumber in accordance with all applicable requirements. The sworn affidavit must affirm that the grease interceptor was installed and is operating in accordance with the self-certification application. The owner and/or operator of the establishment where the grease interceptor is installed shall remain liable for the proper installation, operation and maintenance of the interceptor, and shall be subject to the applicable fines, penalties and other sanctions provided in § 24-524 of the Administrative Code of the City of New York if the interceptor is not installed, operated and maintained in conformance with applicable provisions of the Administrative Code and Rules of the Department. No such self-certification shall be deemed to waive, nor shall any such self-certification be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations, or of the Administrative Code or of any other law. The Department shall not incur any liabilities or obligations for the failure of the effluent from such self-certified premises to comply with this chapter or any other regulations, the Administrative Code or any other law.
+(f) For any non-residential discharge of animal fats and/or vegetable oils that either (a) requires a new sewer-connection permit and/or approval, or (b) requires a filing at the New York City Department of Buildings for an alteration and/or repair or the like, of an operation listed in 15 RCNY § 19-11(a), or (c) requires the installation of a grease interceptor or automatic grease removal device pursuant to any section of these Rules or any other regulations or law, the Commissioner shall allow a New York State Professional Engineer or a New York State Registered Architect to submit to the Department an application that includes, at a minimum, plans containing grease interceptor or automatic grease removal device sizing calculations and a statement certifying that the sizing and design of any required grease interceptor or automatic grease removal device complies with 15 RCNY § 19-11. A sworn Affidavit of Completion must be submitted to the Department by a New York City Licensed Master Plumber in accordance with all applicable requirements. The sworn affidavit must affirm that the grease interceptor or automatic grease removal device was installed and is operating in accordance with the self-certification application. The owner and/or operator of the establishment where the grease interceptor or automatic grease removal device is installed shall remain liable for the proper installation, operation and maintenance of such equipment, and shall be subject to the applicable fines, penalties and other sanctions provided in § 24-524 of the Administrative Code of the City of New York if such equipment is not installed, operated and maintained in conformance with applicable provisions of the Administrative Code and Rules of the Department. No such self-certification shall be deemed to waive, nor shall any such self-certification be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations, or of the Administrative Code or of any other law. The Department shall not incur any liabilities or obligations for the failure of the effluent from such self-certified premises to comply with this chapter or any other regulations, the Administrative Code or any other law.
+
+
 
 
 
@@ -10544,17 +10673,21 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 *§ 19-06 Removal, Transportation and Disposition of Scavenger Wastes.* ::
 
 
-(a) (1) Scavenger wastes shall be admitted into the sewerage system at designated manholes only. The discharge, directly or indirectly, of scavenger wastes into the sewerage system without a valid permit or in contravention of the terms of a permit shall constitute a violation of this section. Persons desiring to discharge scavenger wastes at such designated manholes shall be required to obtain a scavenger wastes permit from the Commissioner.
+(a) (1) Scavenger wastes must be admitted into the sewerage system at designated manholes only. The discharge, directly or indirectly, of scavenger wastes into the sewerage system without a valid permit or in contravention of the terms of a permit shall constitute a violation of this section. Persons desiring to discharge scavenger wastes at such designated manholes shall be required to obtain a scavenger wastes permit from the Commissioner.
 
-   (2) The disposal of such wastes to the City's sewerage system from sources outside of New York City is prohibited.
+   (2) The disposal of such wastes to the City’s sewerage system from sources outside of New York City is prohibited.
 
-   (3) Sludges from cesspools or septic tanks containing substances derived from non-sanitary wastewater will not be admitted into the sewerage system except by special permit issued by the Commissioner.
+   (3) Wastes from cesspools or septic tanks containing substances derived from non-sanitary wastewater will not be admitted into the sewerage system except by special permit issued by the Commissioner. All non-scavenger waste is prohibited from discharge to a designated scavenger waste manhole except by special permit issued by the Commissioner.
 
-   (4) The discharge of these wastes shall be made only at a designated manhole location on a combined or sanitary sewer as shall be stated in said permits or as may be relocated by the Commissioner.
+   (4) The discharge of these wastes must be made only at a designated manhole location on a combined or sanitary sewer as shall be stated in said permits or as may be relocated by the Commissioner.
 
-(b) The applicant for scavenger wastes permit or special permit shall be the owner or lessee of the vehicle to which the permit is to apply. Any false, untruthful or misleading statements in any application for a scavenger wastes permit or special permit or in any material submitted in support of said application will invalidate the permit. All scavenger wastes permit or special permits issued by the Commissioner shall be for one (1) year, unless stated otherwise. A copy of the scavenger wastes permit or special permit must be carried in every truck for which a scavenger wastes permit or special permit has been issued, and must be presented on demand of the Commissioner. The person shall at all times conduct discharging operations so as to maintain the safety and cleanliness, of the designated manhole and its surrounding area. The scavenger wastes permit or special permit may be suspended or revoked at any time by the Commissioner for violation of this section.
+(b) The applicant for scavenger wastes permit or special permit must be the owner or lessee of the vehicle to which the permit is to apply. Any false, untruthful or misleading statements in any application for a scavenger wastes permit or special permit or in any material submitted in support of said application will invalidate the permit. All scavenger wastes permit or special permits issued by the Commissioner shall be for one (1) year, unless stated otherwise. A copy of the scavenger wastes permit or special permit must be carried in every truck for which a scavenger wastes permit or special permit has been issued, and must be presented on demand of the Commissioner.
 
-(c) All applicants for a permit to discharge scavenger wastes into the sewerage system shall furnish, at a minimum, the following information with each application:
+The person must at all times conduct discharging operations so as to maintain the safety and cleanliness, of the designated manhole and its surrounding area.
+
+The scavenger wastes permit or special permit may be immediately suspended or revoked at any time by the Commissioner for violation of this section.
+
+(c) All applicants for a permit to discharge scavenger wastes into the sewerage system must furnish, at a minimum, the following information with each application:
 
    (1) Name of firm or individual and address;
 
@@ -10562,7 +10695,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
    (3) Number of scavenger vehicles in collection service.
 
-   (4) Completed copy of the New York State Department of Environmental Conservation Waste Transporter Permit.
+   (4) Completed copy of the New York State Department of Environmental Conservation Waste Transporter Permit if such exists at the time of application; if not, any scavenger waste permit issued will be conditioned upon obtaining such Waste Transporter Permit.
 
 (d) The scavenger waste permit is applicable for vehicles transporting only scavenger wastes and is not valid for vehicles which, at times, transport other wastes.
 
@@ -10573,36 +10706,40 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 
 
+
+
 *§ 19-07 Best Management Practices Plans (BMPPs) for Persons Discharging Total Silver Halide Process Wastewater to the Public Sewer System.* ::
 
 
-(a)  Any person that discharges total silver halide process wastewater to the public sewer system, including, but not limited to, photofinishers, printers, publishers, hospitals, dentists, and X-ray laboratories, shall prepare and implement a Best Management Practices Plan (BMPP) in accordance with the applicable provisions of subdivision (i) of this section.
+(a) Any person that discharges total silver halide process wastewater to the public sewer system, including, but not limited to, photofinishers, printers, publishers, hospitals, dentists, and X-ray laboratories, must prepare and implement a Best Management Practices Plan (BMPP) in accordance with the applicable provisions of subdivision (i) of this section.
 
-(b) All pretreatment technology installed pursuant to this section shall be appropriately sized, per manufacturer's specifications, to achieve the minimum percent recovery of silver, as required by the applicable subsections of this regulation, from silver-rich solutions. The pretreatment technology shall be installed, operated, and maintained as per manufacturer's specifications. Written records concerning the selected sizing criteria and recommended specifications shall be maintained at the facility at all times.
+(b) All pretreatment technology for the recovery of silver at such facilities must be installed pursuant to this section and must be appropriately sized, per manufacturer’s specifications, to achieve the minimum percent recovery of silver, as required by the applicable subdivisions of this section, from silver-rich solutions. The pretreatment technology must be installed, operated, and maintained as per manufacturer’s specifications. Written records concerning the selected sizing criteria and recommended specifications must be maintained at the facility at all times.
 
-(c) In lieu of complying with the requirements of this Section applicable to on-site recovery, any person discharging total silver halide process wastewater to the public sewer system may have all silver-rich solutions transported off-site for recovery, reclamation, and/or refinement in accordance with all applicable City, State and Federal regulations. Any person that exercises this option shall retain (1) the most recent manifest and/or (2) a vendor certification, and/or (3) other documentation regarding the disposal of silver-rich solutions. Such documentation shall include, but is not limited to, the name of the transporter, the quantity of silver-rich solutions removed from their facility, and where and how the silver-rich solutions were disposed of.
+(c) In lieu of complying with the requirements of this section applicable to on-site recovery, any person discharging total silver halide process wastewater to the public sewer system may have all silver-rich solutions transported off-site for recovery, reclamation, and/or refinement in accordance with all applicable City, State and Federal regulations. Any person that exercises this option must retain (1) the most recent manifest and/or (2) a vendor certification, and/or (3) other documentation regarding the disposal of silver-rich solutions. Such documentation must include, but is not limited to, the name of the transporter, the quantity of silver-rich solutions removed from their facility, and where and how the silver-rich solutions were disposed of.
 
-(d) All required records and measurements made by persons at their facility pursuant to this section shall be available at all times at the person's facility, for the time periods indicated in the applicable subsections of Section (i) of these regulations, for inspection and copying by authorized representatives of the Department. For persons employing outside contractors to maintain their pretreatment systems, a certification from the vendor that the applicable requirements of these regulations are being complied with must be kept at the person's facility, for the time periods indicated in Section (i) of these regulations, for inspection and copying, upon request by authorized representatives of the Department.
+(d) All required records and measurements made by persons at their facility pursuant to this section must be available at all times at the person’s facility, for the time periods indicated in the applicable provisions of subdivision (i) of this section, for inspection and copying by authorized representatives of the Department. For persons employing outside contractors to maintain their pretreatment systems, a certification from the vendor that the applicable requirements of these regulations are being complied with must be kept at the person’s facility, for the time periods indicated in subdivision (i) of this section, for inspection and copying, upon request by authorized representatives of the Department.
 
 (e) Any person defined as Significant Industrial Users, pursuant to 40 C.F.R. Part 403, must obtain an Industrial Wastewater Discharge Permit to discharge to the public sewers.
 
-(f) Persons subject to the requirements of this Section must install and operate the applicable pretreatment technology(ies). Equivalent pretreatment technology(s) may only be used if preapproved by the Commissioner.
+(f) Persons subject to the requirements of this section must install and operate the applicable pretreatment technology. Equivalent pretreatment technology may only be used if preapproved by the Commissioner.
 
-(g) Design and operation of pretreatment technology shall be based upon percent recovery of Silver-Rich Solutions. The Department may, upon written request, consider reducing the design-recovery percentages required in these regulations for persons utilizing silver-halide processes with in-line recovery, such as closed loop or recirculated electrolytic desilvering.
+(g) Design and operation of pretreatment technology shall be based upon percent recovery of silver-rich solutions. The Department may, upon written request, consider reducing the design-recovery percentages required in these regulations for persons utilizing silver-halide processes with in-line recovery, such as closed loop or recirculated electrolytic desilvering.
 
-(h) For persons performing on-site recovery, the quantities of all Total Silver-Halide Process Wastewater Discharges (i.e. flow rates) shall be gauged and recorded in a log book as follows:
+(h) For persons performing on-site recovery, the quantities of all total silver-halide process wastewater discharges (i.e. flow rates) shall be gauged and recorded in a log book as follows:
 
    (1) one day per month, for persons discharging 100 gallons or more of total silver halide process wastewater; or
 
    (2) one day per calendar quarter, for persons discharging less than 100 gallons per day of total silver halide process wastewater; or
 
-   (3) one day per calendar year, for persons discharging less than 100 gallons per day of total silver halide process wastewater and who are complying with subsection (i)(1)(ii)(b) of this regulation. Flows shall be recorded as the daily amount of all Total Silver Halide Process Wastewater that are discharged to the public sewer. The day that is selected for gauging and for sampling must be representative of a normal production day. Flows should be determined either through the use of: (i) fixed metering equipment, (ii) timed filling of a vessel of known volume, or (iii) through calculation, utilizing estimated amounts of make-up (replenishment) solutions.
+   (3) one day per calendar year, for persons discharging less than 100 gallons per day of total silver halide process wastewater and who are complying with subdivision (i)(1)(ii)(B) of this section.
 
-(i) The BMPP shall include but not be limited to the following:
+Flows shall be recorded as the daily amount of all total silver-halide process wastewater that is discharged to the public sewer. The day that is selected for gauging and for sampling must be representative of a normal production day. Flows should be determined either through the use of: (i) fixed metering equipment, (ii) timed filling of a vessel of known volume, or (iii) through calculation, utilizing estimated amounts of make-up (replenishment) solutions.
 
-   (1) Discharges of less than 100 gallons per day. Any person that discharges less than 100 gallons per day of total silver halide process wastewater shall:
+(i) The BMPP must include but not be limited to the following:
 
-      (i) install and continually operate metallic replacement pretreatment technology designed to recover at least 90% of the silver from the Silver-Rich Solutions processed;
+   (1) Discharges of less than 100 gallons per day. Any person that discharges less than 100 gallons per day of total silver halide process wastewater must:
+
+      (i) install and continually operate metallic replacement pretreatment technology designed to recover at least 90% of the silver from the silver-rich solutions processed;
 
       (ii) test for the silver concentration in the influent and effluent from the silver recovery unit(s) using silver estimating paper/wire and/or test kits at least:
 
@@ -10610,7 +10747,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
          (B) once per calendar year on a day that is representative of normal operations, only if the person maintains a log of the amount of silver-rich solutions being treated and discharged.
 
-      (iii) measure representative daily quantities of Total Silver Halide Process Wastewater discharged to the public sewer;
+      (iii) measure representative daily quantities of total silver-halide process wastewater discharged to the public sewer;
 
       (iv) keep written records of pretreatment technology maintenance;
 
@@ -10618,9 +10755,9 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (vi) keep all measurements and records required by this section at their facility for at least one year from the date such records and measurements are made.
 
-   (2) Discharges of 100 up to but not including 1,000 gallons per day. Any person that discharges from 100 up to but not including 1,000 gallons per day of total silver halide process wastewater shall:
+   (2) Discharges of 100 up to but not including 1,000 gallons per day. Any person that discharges from 100 up to but not including 1,000 gallons per day of total silver halide process wastewater must:
 
-      (i) install and continually operate one of the following pretreatment technologies designed to recover at least 90% of the silver from the Silver-Rich Solutions processed:
+      (i) install and continually operate one of the following pretreatment technologies designed to recover at least 90% of the silver from silver-rich solutions processed:
 
          (A) two metallic replacement units installed in series and operated simultaneously; or
 
@@ -10630,7 +10767,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (ii) test for the silver concentration in the influent and effluent from the silver recovery unit(s) using silver estimating paper/wire and/or test kits at least once per month on a day that is representative of normal operations;
 
-      (iii) measure representative daily quantities of Total Silver Halide Process Wastewater discharged to the public sewer;
+      (iii) measure representative daily quantities of total silver-halide process wastewater discharged to the public sewer;
 
       (iv) keep written records of pretreatment technology maintenance;
 
@@ -10638,9 +10775,9 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (vi) keep all measurements and records required by this section at their facility for at least three years from the date such records and measurements are made.
 
-   (3) Discharges of 1,000 up to but not including 10,000 gallons per day. Any person that discharges from 1,000 up to but not including 10,000 gallons per day of Total Silver Halide Process Wastewater shall:
+   (3) Discharges of 1,000 up to but not including 10,000 gallons per day. Any person that discharges from 1,000 up to but not including 10,000 gallons per day of total silver-halide process wastewater must:
 
-      (i) install and continually operate one of the following pretreatment technologies designed to recover at least 95% of the silver from Silver-Rich Solutions processed:
+      (i) install and continually operate one of the following pretreatment technologies designed to recover at least 95% of the silver from silver-rich solutions processed:
 
          (A) electrolytic recovery and metallic replacement; or
 
@@ -10652,7 +10789,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (iii) perform one composite sampling of the influent and effluent at least once every two years on a day that is representative of normal operations and have the sample analyzed for silver by a laboratory certified by the New York State Department of Health;
 
-      (iv) measure representative daily quantities of Total Silver Halide Process Wastewater discharged to the public sewer;
+      (iv) measure representative daily quantities of total silver-halide process wastewater discharged to the public sewer;
 
       (v) keep written records of pretreatment technology maintenance;
 
@@ -10660,9 +10797,9 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (vii) keep all measurements and records required by this section at their facility for at least three years from the date such records and measurements are made.
 
-   (4) Discharges of 10,000 gallons per day or more. Any person that discharges 10,000 gallons per day or more of Total Silver Halide Process Wastewater shall:
+   (4) Discharges of 10,000 gallons per day or more. Any person that discharges 10,000 gallons per day or more of total silver-halide process wastewater must:
 
-      (i) install and continually operate one of the following pretreatment technologies designed to recover at least 99% of the silver from Silver-Rich Solutions processed:
+      (i) install and continually operate one of the following pretreatment technologies designed to recover at least 99% of the silver from silver-rich solutions processed:
 
          (A) two metallic replacement units installed in series and operated simultaneously and one electrolytic recovery unit; or
 
@@ -10672,13 +10809,15 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (iii) perform one daily composite sampling of the influent and effluent at least once every calendar year on a day that is representative of normal operations and have the sample analyzed for silver by a laboratory certified by the New York State Department of Health;
 
-      (iv) measure representative daily quantities of Total Silver Halide Process Wastewater discharged to the public sewer;
+      (iv) measure representative daily quantities of total silver-halide process wastewater discharged to the public sewer;
 
       (v) keep written records of pretreatment technology maintenance;
 
       (vi) record the date any new pretreatment technology is brought into service; and
 
-      (vii) keep all measurements and records required by this section at such person's facility for at least three years from the date such records and measurements are made.
+      (vii) keep all measurements and records required by this section at such person’s facility for at least three years from the date such records and measurements are made.
+
+
 
 
 
@@ -10688,71 +10827,71 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 *§ 19-08 House and Trailer Connections.* ::
 
 
-(a) Conditional house connection. 
+(a) Conditional house connection.
 
    (1) Conditional House Connection Permits are issued under a variety of situations among which the two (2) most common are:
 
-      (i) The Developer/Builder does not have a Prospectus at the time house connection permits have to be issued as consequence of a hardship.
+      (i) The developer/builder does not have a prospectus at the time house connection permits have to be issued as consequence of a hardship.
 
-      (ii) The Developer/Builder does not have a Prospectus which is most likely early on in the construction sequence of his Building Construction, however needs one or several connections to drain his construction site.
+      (ii) The developer/builder does not have a prospectus which is most likely early on in the construction sequence of his or her building construction, however needs one or several connections to drain the construction site.
 
-   (2) The manner in which conditional House Connection Permits are issued is as follows: The Local Office will approve a Permit Application conditionally by indicating on it that the Certificate of Inspections are not to be released until a Prospectus has been secured.
+   (2) The manner in which conditional House Connection Permits are issued is as follows: The Local Office of the Department’s Permit Control Section will approve a permit application conditionally by indicating on it that the Certificate of Inspection is not to be released until a prospectus has been secured.
 
 (b) Trailer connections. Basically there are two types of trailer connections:
 
-   (1) A construction trailer that is necessitated by the construction of a Building. The trailer connection(s) in such a case should be tied in with the certification of the Site Connection Proposal and the issuance of the House Connections Permits for this building as follows:
+   (1) A construction trailer connection that is necessitated by the construction of a building. Such connection should be tied in with the certification of the site connection proposal and the issuance of the House Connection Permits for such building as follows:
 
-      (i) The Plumber requesting the trailer connection should present a copy of the certified Site Connection Proposal with his Permit Application.
+      (i) The Plumber requesting the trailer connection should present a copy of the certified site connection proposal with the Permit Application.
 
       (ii) The Local Office will issue a house connection permit subject to the following condition: We will withhold the Certificate of Inspection for at least one of the Buildings House Connections until the plug for the trailer connection is performed.
 
-   (2) If the construction trailer is necessitated by D.O.T. (or any other Agency's) Capital Project the plumber should present an original letter from D.O.T. (or any other Agency) to D.E.P. indicating the following:
+   (2) If the construction trailer is necessitated by the Department of Transportation (or any other Agency’s) Capital Project, the plumber should present an original letter from the appropriate agency to the Department indicating:
 
       (i) The number and size of connections needed.
 
       (ii) The duration of the construction operations at the end of which the plumber will plug the trailer connection(s).
 
-      (iii) Guarantee from D.O.T. (or any other Agency) that the Plumber will obtain a plug permit(s) at the end of their construction operations to plug the trailer connection(s). The Local Office will not issue any other trailer connections to the agency in question if it is common knowledge that a job has been completed and there are outstanding open connections.
+      (iii) Guarantee from DOT (or any other Agency) that the Plumber will obtain a plug permit(s) at the end of their construction operations to plug the trailer connection(s).
 
-(c) BSA letter. Letters to the Board of Standards and Appeals for situations where there are no allowable storm/combined sewer outlets for storm discharge within 500 feet will be sent out upon verification by D.E.P. provided: The filing Engineer/Architect requests such a letter and encloses the following:
+The Local Office will not issue any other trailer connections to the agency in question if it is common knowledge that a job has been completed and there are outstanding open connections.
 
-   (1) NB/BN/ALT numbers
+(c) Board of Standards and Appeals (BSA) letter. Letters to the Board of Standards and Appeals for situations where there are no allowable storm/combined sewer outlets for storm discharge within 500 feet will be sent out upon verification by the Department provided: The filing Engineer/Architect requests such a letter and encloses the following:
 
-   (2) Street address
+   (1) NB/BN/ALT numbers.
 
-   (3) Block &amp; Lot
+   (2) Street address.
 
-   (4) Site Plans
+   (3) Block and Lot.
 
-   (5) Tentative Lot Sheets
+   (4) Site Plans.
 
-   (6) Survey
+   (5) Tentative Lot Sheets.
+
+   (6) Survey.
 
 (d) House connection charges (private sewers).
 
-   (1) For private sewers that are still recoupable. (meaning either/or:
-
-      (i) All property owners abutting the sewer have not paid their proportionate part of the sewer cost for sewers built prior to 1963)
-
-      (ii) For sewers where the Construction Permits were obtained after January 1, 1963 the seven year period is not up and all the abutting property have not paid their share of the private sewer cost.)
+   (1) For private sewers that are still recoupable (meaning either: (i) All property owners abutting the sewer have not paid their proportionate part of the sewer cost for sewers built prior to 1963; or (ii) For sewers where the Construction Permits were obtained after January 1, 1963, the seven year period is not up and all the abutting property owners have not paid their share of the private sewer cost),
 
    (2) The following procedure is to be followed:
 
-      (i) Case I (Plumber has "Consent Letter"). At the time of applying for the House Connection Permit the Plumber will present the "Proof of Payment Letter" (Sewer Owner's Consent Letter) to the Local Office of the Permit Control Section in order to be able to connect to the Private Sewer.
+      (i) Case I (Plumber has "Consent Letter"). At the time of applying for the House Connection Permit the Plumber will present the "Proof of Payment Letter" (Sewer Owner’s Consent Letter) to the Local Office in order to be able to connect to the Private Sewer.
 
       (ii) Case II (Missing Sewer Owner). At the time of applying for the House Connection Permit the plumber will present the following additional documents:
 
-(A) Registered Letter Envelope with Post Office Stamp: Return to sender not at this address or something similar. (The addressee on the envelope should be the latest address we have on record which would prove that an attempt was made to contact the sewer owner.)
+         (A) Registered Letter Envelope with Post Office Stamp: Return to sender not at this address or something similar. (The addressee on the envelope should be the latest address we have on record which would prove that an attempt was made to contact the sewer owner.)
 
-(B) A properly executed Missing Owner Affidavit.
+         (B) A properly executed Missing Owner Affidavit.
 
-(C) A House Connection Bond for a six year period which should be the House Connection Charge to the Private Sewer plus 25 percent (the computation of the House Connection Charge is determined/provided by the Local Office).
+         (C) A House Connection Bond for a six year period which should be the House Connection Charge to the Private Sewer plus 25 percent (the computation of the House Connection Charge is determined/provided by the Local Office).
 
       (iii) Case III (House Connection Charge Dispute with Sewer Owner). At the time of applying for the House Connection Permit the plumber will present the following additional documents:
 
-(A) A properly executed "Fee in Dispute Affidavit".
+         (A) A properly executed "Fee in Dispute Affidavit".
 
-(B) A House Connection Bond for a six year period which should be the House Connection Charge to the Private Sewer plus 25 percent (the computation of the House Connection Charge is determined/provided by the Local Office).
+         (B) A House Connection Bond for a six year period which should be the House Connection Charge to the Private Sewer plus 25 percent (the computation of the House Connection Charge is determined/provided by the Local Office).
+
+
 
 
 
@@ -10762,13 +10901,13 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 *§ 19-09 Business Confidentiality Procedures.* ::
 
 
-(a)  Scope. These procedures concern all information submitted to the Department pursuant to either the New York City Department of Environmental Protection rules and regulations relating to the use of the Public Sewers or to §§ 24-501 et seq. of Chapter 5 of Title 24 of the Administrative Code of the City of New York. All requests for confidentiality will be evaluated in accordance with Article 6 of the New York State Public Officers Law.
+(a) Scope. These procedures concern all information submitted to the Department pursuant to either the New York City Department of Environmental Protection rules and regulations relating to the use of the Public Sewers or to §§ 24-501 et seq. of Chapter 5 of Title 24 of the Administrative Code of the City of New York. All requests for confidentiality will be evaluated in accordance with Article 6 of the New York State Public Officers Law.
 
 (b) Submission of Business Confidentiality Claims ("Claims") in Response to Requests for Information by the Department.
 
-   (1) Method and time to assert a claim. A business may assert a claim concerning information requested by the Department, by placing a cover sheet, stamped legend or any other suitable form of notice on the information, employing language such as "trade secret", "proprietary" or "company confidential" at the time such information is submitted. Allegedly confidential parts of otherwise non-confidential documents should be clearly marked as such. Effluent data, as defined in Part 2.302 of Title 40 of the Code of Federal Regulations, cannot be treated as confidential.
+   (1) Method and time to assert a claim. A business may assert a claim concerning information requested by the Department, by placing a cover sheet, stamped legend or any other suitable form of notice on the information, employing language such as "trade secret", "proprietary" or "company confidential" at the time such information is submitted. Allegedly confidential parts of otherwise non-confidential documents should be clearly marked as such. Effluent data, as defined in 40 C.F.R. Part 2.302, cannot be treated as confidential.
 
-   (2) Failure to submit a timely claim. If a business submits information in response to a Department request, without a claim accompanying such information at the time it is received by the Department, the Department need not make further inquiries to the business concerning confidentiality of the submitted information; the information may be made available for public inspection. If a claim is submitted after the Department has received the information, the Department may make efforts that are administratively practicable to process the late claim with the previously submitted information.
+   (2) Failure to submit a timely claim. If a business submits information in response to a Department request, without a claim accompanying such information at the time it is received by the Department, the Department need not make further inquiries to the business concerning confidentiality of the submitted information, and the information may be made available for public inspection. If a claim is submitted after the Department has received the information, the Department may make efforts that are administratively practicable to process the late claim with the previously submitted information.
 
 (c) Department requests for comments and their submission by claimants.
 
@@ -10799,10 +10938,12 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 
 
+
+
 *§ 19-10 General Provisions.* ::
 
 
-(a)  Delegation of authority. All actions or approvals required by or permitted to the Commissioner pursuant to this chapter may be taken by any Deputy or Assistant Commissioner of the Department or by an authorized representative of the Commissioner or any Deputy or Assistant Commissioner.
+(a) Delegation of authority. All actions or approvals required by or permitted to the Commissioner pursuant to this chapter may be taken by any Deputy or Assistant Commissioner of the Department or by an authorized representative of the Commissioner or any Deputy or Assistant Commissioner.
 
 (b) Protection from damage.
 
@@ -10812,15 +10953,15 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 (c) Non-interference with authorized employees. Authorized employees of the Department shall be in charge of the operation of the sewerage system and no person or persons shall interfere with such employees in the performance of their duties nor shall any material which will impair the operation of such system be thrown or placed or cause to be thrown or placed in or about such system, or in or about the parts or appurtenances of the operating machinery, or devices of such system. No person shall in any way interfere with or obstruct the operation of the machinery or devices of such system and no person other than an authorized employee or agent of the Department shall operate or attempt to operate or change the operation of any appurtenance of a sewage treatment works.
 
-(d) (1) An authorized representative of the Department may enter on any property to inspect for compliance with this chapter or Chapter 5 of Title 24 of the administrative code or to execute orders of the Commissioner issued pursuant thereto. If entry to such property is denied, the Department may seek judicial authorization, and such representative may enter, pursuant to such authorization. In the event of exigent circumstances, an authorized representative of the Department may enter on any property without such judicial authorization to inspect for compliance with these rules or Chapter 5 of Title 24 of the administrative code or to execute orders of the Commissioner issued pursuant thereto. Inspections, pursuant to this paragraph may include observation, sampling and testing as necessary.
+(d) (1) An authorized representative of the Department may enter on any property to inspect for compliance with this chapter or Chapter 5 of Title 24 of the Administrative Code or to execute orders of the Commissioner issued pursuant thereto. If entry to such property is denied, the Department may seek judicial authorization, and such representative may enter, pursuant to such authorization. In the event of exigent circumstances, an authorized representative of the Department may enter on any property without such judicial authorization to inspect for compliance with these rules or Chapter 5 of Title 24 of the Administrative Code or to execute orders of the Commissioner issued pursuant thereto. Inspections, pursuant to this paragraph may include observation, sampling and testing as necessary.
 
-   (2) No person shall interfere with or obstruct a duly authorized representative of the Department, bearing proper credentials and identification, from inspecting or from otherwise entering all properties, public or private, including providing access to equipment, plumbing, or industrial or commercial processes as necessary for the completion of such inspection, in accordance with Paragraph (1) of this subdivision, for the purpose of inspection, observation, sampling and testing as necessary to determine compliance with this chapter, Chapter 5 of Title 24 of the administrative code or to execute the orders of the Commissioner issued pursuant thereto.
+   (2) No person shall interfere with or obstruct a duly authorized representative of the Department, bearing proper credentials and identification, from inspecting or from otherwise entering all properties, public or private, including providing access to equipment, plumbing, or industrial or commercial processes as necessary for the completion of such inspection, in accordance with Paragraph (1) of this subdivision, for the purpose of inspection, observation, sampling and testing as necessary to determine compliance with this chapter, Chapter 5 of Title 24 of the Administrative Code or to execute the orders of the Commissioner issued pursuant thereto.
 
    (3) Tampering with any device placed within the premises for purposes of sampling or testing shall be a violation of this chapter.
 
 (e) Cooperation by private persons, water companies and public agencies.
 
-   (1) The Commissioner may require every person who owns or occupies real property within the City, and every private water company supplying water to property within the City, to furnish him with such information as may be necessary to carry out the provisions of this chapter.
+   (1) The Commissioner may require every person who owns or occupies real property within the City, and every private water company supplying water to property within the City, to furnish him with such information, as may be necessary to carry out the provisions of this chapter.
 
    (2) The Commissioner shall have the power to hold hearings and subpoena any such persons or company, or any officer, employee or agent of any such company, and direct the production of books and records in order to carry out the provisions of this chapter.
 
@@ -10828,7 +10969,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 (f) Penalties and sanctions. Any person who is in violation of, or fails to comply with any provision of any section of these Regulations or any order or determination issued pursuant to this chapter shall be subject to the fines, penalties and other sanctions provided in § 24-524 of the Administrative Code of the City of New York.
 
-(g) The Commissioner shall cause to be published annually, in a newspaper of general circulation that provides meaningful public notice within the City of New York, a list of persons that, at any time during the previous twelve months, were in significant noncompliance with applicable pretreatment requirements, as defined in Part 403.8(f)(2)(viii) of Title 40 of the Code of Federal Regulations.
+(g) The Commissioner shall cause to be published annually, in a newspaper of general circulation that provides meaningful public notice within the City of New York, a list of persons that, at any time during the previous twelve months, were in significant noncompliance with applicable pretreatment requirements, as defined in 40 C.F.R. Part 403.8(f)(2)(viii).
 
 (h) Nothing contained in any section of this chapter shall be deemed to waive any requirement of the New York City Administrative Code or of any other city, state or federal law or regulation.
 
@@ -10839,14 +10980,23 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 
 
-*§ 19-11 Best Management Practices (BMPs) for Non-Residential Direct and Indirect Dischargers of Grease to the Public Sewer System.* ::
+*§ 19-11 Best Management Practices (BMPs) for All Non-Residential Dischargers of Fat, Oil, and Grease to the Public Sewer System.* ::
 
 
-(a)  Grease interceptors shall be installed in waste lines which may receive grease from non-residential direct and indirect dischargers, including but not limited to those leading from pot wash sinks, woks, soup or stock kettles, food scrap sinks, scullery sinks, meat and/or poultry and/or fish preparation sinks, floor drains, automatic dishwashers, scraper sinks, or other similar plumbing fixtures, in all restaurants, kitchens, cafeterias, clubs, butcher shops, slaughterhouses, fish markets, supermarket food processing areas, delicatessens, or other non-residential establishments where grease may be introduced into the drainage system. Sizing of grease interceptors shall comply with the criteria specified in this section, including applicable Tables I and/or II.
+(a) Grease interceptors or automatic grease removal devices must be installed by a New York City Licensed Master Plumber in waste lines which may receive fat, oil, and/or grease from all non-residential dischargers, including, but not limited to, those leading from pot sinks, wok stations, soup or stock kettles or similar devices, scraper sinks (pre-rinse sinks), scullery sinks, meat and/or poultry and/or fish preparation sinks, sinks or drains receiving discharges from dairy products, automatic hood wash units, floor drains including but not limited to floor sinks into which kettles are drained, automatic dishwashers which use chemical sanitizers, scraper sinks or other similar plumbing fixtures, vessels, receptacles, and equipment in all restaurants, kitchens (including but not limited to those serving the central eating areas in residential health care facilities, nursing homes, senior centers, rehabilitation facilities, and community centers), hospitals, bars, cafeterias (including but not limited to school cafeterias), clubs, catering halls, butcher shops, slaughterhouses, fish markets, supermarket food processing areas, delicatessens, bakeries, ice cream and yogurt shops, commissaries where food is prepared for off-site food service establishments, grocery stores, coffee shops, tea shops, donut shops, pastry shops, or other non-residential establishments where fat, oil, and/or grease may be introduced into the drainage system.
 
-(b) All prefabricated grease interceptors shall be approved by the New York City Board of Standards &amp; Appeals prior to July 10, 1991, approved by the New York City Department of Buildings Materials and Equipment Acceptance Division prior to July 1, 2008, or shall conform to PDI G101, ASME A112.14.3 or ASME A112.14.4 and shall be installed in accordance with the manufacturer's instructions.
+A grease interceptor or an automatic grease removal device shall not be required for individual dwelling units, any private living quarters, work place pantries used exclusively by employees to prepare meals for themselves where no food or drink is sold, or non-culinary schools which only contain residential type stoves and sinks intended only for teaching basic home cooking skills.
 
-(c) The method for determining the minimum size/capacity of a grease interceptor is provided in Tables I and II below: 
+Sizing of grease interceptors and automatic grease removal devices must comply with the criteria specified in this section, including applicable Tables I and/or II.
+
+For grease interceptor sizing, the required minimum flow rate in gallons per minute (gpm) and minimum grease retention capacity in pounds (lb) shall be applicable to hydromechanical grease interceptors. To determine the corresponding minimum size for gravity grease interceptors, such minimum flow rate in gallons per minute shall be multiplied by 3. The resulting number shall be the minimum storage capacity in gallons that shall be required if a gravity grease interceptor is installed.
+
+If a grease interceptor or automatic grease removal device model is not manufactured in the required size then the next higher size for that model shall be the required size.
+
+(b) All prefabricated grease interceptors and automatic grease removal devices shall either have been approved by the New York City Board of Standards &amp; Appeals prior to July 10, 1991, approved by the New York City Department of Buildings Materials and Equipment Acceptance Division prior to July 1, 2008, or shall be designed and tested in accordance with the Plumbing and Drainage Institute standard PDI G101, or the American Society of Mechanical Engineers standards ASME A112.14.3 or ASME A112.14.4 and shall be installed in accordance with the manufacturer’s instructions. The design, construction, and installation of all grease interceptors and automatic grease removal devices must not hinder the ability to perform a dye test for the purpose of ascertaining connections to waste lines, unless installed with a dye testing port for such purposes, upstream of the inlet of such interceptors and devices. Neither shall such design, construction, and installation hinder the ability to perform such other inspection as may be necessary for determining compliance with these regulations. Grease interceptors and automatic grease removal devices that are installed below grade which have lids that are unequal in surface area to that of the body of such interceptors and devices must either have an opening just under where the lid sits that is of a different width from that of all other models made by the same manufacturer, or alternatively must have another tamper-proof distinguishing feature subject to Department approval, so that the model can be readily identified when installed below grade. No grease interceptor or automatic grease removal device shall be installed below grade, if the model is not readily identifiable visually when installed below grade, except where the Department identifies the model visually at the time of installation or subsequent thereto upon excavation of such interceptor or device.
+
+(c) The method for determining the minimum flow rate in gallons per minute (gpm) and the minimum grease retention capacity in pounds (lb) of a grease interceptor or automatic grease removal device is provided in Tables I and II below: 
+										
 
  
 
@@ -10854,121 +11004,163 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 .. list-table::
     :header-rows: 1
 
-    * - Table I 
-      - 
+    * - Table I
       - 
       - Table II
       - 
-    * - Aggregate volume in cubic inches of all fixtures listed in this table. 
-      - Minimum grease interceptor retaining capacity for: pot sinks, food prep. sinks, scullery sinks, and floor drains which are used for washdown purposes only.* 
-      - 
-      - Aggregate volume in cubic inches of all fixtures, vessels and receptacles listed in this table. 
-      - Minimum grease interceptor retaining capacity for: scraper sinks, woks, automatic dishwashers, and any fixture receiving discharge from soup and stock kettles.* 
-    * - up to 2,462 
-      - 8 (lb) 
-      - 
-      - up to 1,231 
-      - 8 (lb) 
-    * - 2,463 to 4,312 
-      - 14 (lb) 
-      - 
-      - 1,232 to 2,156 
-      - 14 (lb) 
-    * - 4,313 to 6,160 
-      - 20 (lb) 
-      - 
-      - 2,157 to 3,080 
-      - 20 (lb) 
-    * - 6,161 to 9,240 
-      - 30 (lb) 
-      - 
-      - 3,081 to 4,620 
-      - 30 (lb) 
-    * - 9,241 to 12,320 
-      - 40 (lb) 
-      - 
-      - 4,621 to 6,160 
-      - 40 (lb) 
-    * - 12,321 to 15,400 
-      - 50 (lb) 
-      - 
-      - 6,161 to 7,700 
-      - 50 (lb) 
-    * - 15,401 to 21,560 
-      - 70 (lb) 
-      - 
-      - 7,701 to 10,780 
-      - 70 (lb) 
-    * - 21,561 to 30,800 
-      - 100 (lb) 
-      - 
-      - 10,781 to 15,400 
-      - 100 (lb) 
-    * - 30,801 to 46,200 
-      - 150 (lb) 
-      - 
-      - 15,401 to 23,100 
-      - 150 (lb) 
-    * - 46,201 to 61,600 
-      - 200 (lb) 
-      - 
-      - 23,101 to 30,800 
-      - 200 (lb) 
-    * - 61,601 to 92,400 
-      - 300 (lb) 
-      - 
-      - 30,801 to 46,200 
-      - 300 (lb) 
-    * - 92,401 to 123,000 
-      - 400 (lb) 
-      - 
-      - 46,201 to 61,600 
-      - 400 (lb) 
+    * - Aggregate volume in cubic inches of all plumbing fixtures, vessels, receptacles, and equipment listed in this table.
+      - Minimum grease interceptor or automatic grease removal device flow rate and grease retention capacity for pot sinks, food prep. sinks, scullery sinks, combination ovens, tilting braisers/tilting skillets, any plumbing fixture receiving discharge from soup and stock kettles, and floor drains which are used for washdown purposes only.*
+      - Aggregate volume in cubic inches of all plumbing fixtures, vessels, receptacles, and equipment listed in this table.
+      - Minimum grease interceptor or automatic grease removal device flow rate and grease retention capacity for: scraper/ pre-rinse sinks, woks, automatic hood wash units, rotisserie machines, and automatic dishwashers.*
+    * - Up to 2,464
+      - 4 gpm / 8 (lb)
+      - Up to 1,232
+      - 4 gpm / 8 (lb)
+    * - 2,465 to 4,312
+      - 7 gpm / 14 (lb)
+      - 1,233 to 2,156
+      - 7 gpm / 14 (lb)
+    * - 4,313 to 6,160
+      - 10 gpm / 20 (lb)
+      - 2,157 to 3,080
+      - 10 gpm / 20 (lb)
+    * - 6,161 to 9,240
+      - 15 gpm / 30 (lb)
+      - 3,081 to 4,620
+      - 15 gpm / 30 (lb)
+    * - 9,241 to 12,320
+      - 20 gpm / 40 (lb)
+      - 4,621 to 6,160
+      - 20 gpm / 40 (lb)
+    * - 12,321 to 15,400
+      - 25 gpm / 50 (lb)
+      - 6,161 to 7,700
+      - 25 gpm / 50 (lb)
+    * - 15,401 to 21,560
+      - 35 gpm / 70 (lb)
+      - 7,701 to 10,780
+      - 35 gpm / 70 (lb)
+    * - 21,561 to 30,800
+      - 50 gpm / 100 (lb)
+      - 10,781 to 15,400
+      - 50 gpm / 100 (lb)
+    * - 30,801 to 46,200
+      - 75 gpm / 150 (lb)
+      - 15,401 to 23,100
+      - 75 gpm / 150 (lb)
+    * - 46,201 to 61,600
+      - 100 gpm / 200 (lb)
+      - 23,101 to 30,800
+      - 100 gpm / 200 (lb)
+    * - 61,601 to 92,400
+      - 150 gpm / 300 (lb)
+      - 30,801 to 46,200
+      - 150 gpm / 300 (lb)
+    * - 92,401 to 123,200
+      - 200 gpm / 400 (lb)
+      - 46,201 to 61,600
+      - 200 gpm / 400 (lb)
+    * - 123,201 to 154,000
+      - 250 gpm / 500 (lb)
+      - 61,601 to 77,000
+      - 250 gpm / 500 (lb)
+    * - 154,001 to 184,800
+      - 300 gpm / 600 (lb)
+      - 77,001 to 92,400
+      - 300 gpm / 600 (lb)
+    * - 184,801 to 215,600
+      - 350 gpm / 700 (lb)
+      - 92,401 to 107,800
+      - 350 gpm / 700 (lb)
+    * - 215,601 to 246,400
+      - 400 gpm / 800 (lb)
+      - 107,801 to 123,200
+      - 400 gpm / 800 (lb)
+    * - 246,401 to 277,200
+      - 450 gpm / 900 (lb)
+      - 123,201 to 138,600
+      - 450 gpm / 900 (lb)
+    * - 277,201 to 308,000
+      - 500 gpm / 1000 (lb)
+      - 138,601 to 154,000
+      - 500 gpm / 1,000 (lb)
+    * - 308,001 to 616,000
+      - 1,000 gpm / 2,000 (lb)
+      - 154,001 to 308,000
+      - 1,000 gpm / 2,000 (lb)
+    * - 616,001 to 924,000
+      - 1,500 gpm / 3,000 (lb)
+      - 308,001 to 462,000
+      - 1,500 gpm / 3,000 (lb)
+    * - 924,001 to 1,232,000
+      - 2,000 gpm / 4,000 (lb)
+      - 462,001 to 616,000
+      - 2,000 gpm / 4,000 (lb)
+    * - 1,232,001 to 1,540,000
+      - 2,500 gpm / 5,000 (lb)
+      - 616,001 to 770,000
+      - 2,500 gpm / 5,000 (lb)
 ~
 
  
 
-Note: Aggregate volume is the maximum volume (e.g. length times width times height to the overflow if rectangular) in cubic inches of all fixtures, vessels and receptables that may flow simultaneously through the interceptor. * Subject to the sizing requirements specified in 15 RCNY § 19-11(i) through (p). If a premises contains fixtures listed in Table I and fixtures, vessels and/or receptacles listed in Table II, all of which are tributary to the same grease interceptor, then the method for determining the minimum grease interceptor retaining capacity, in pounds, shall be to separately calculate the retaining capacities for the fixtures in Table I, and the fixtures, vessels and/or receptacles in Table II. These retaining capacities shall then be added together to obtain the total minimum grease interceptor retaining capacity required for such premises. If the aggregate volumes listed in Tables I and II are exceeded then a New York State Licensed Professional Engineer or a New York State Registered Architect shall extrapolate the appropriate grease interceptor sizing requirements.
+Note: Aggregate volume is the maximum volume (e.g. length times width times height to the overflow if rectangular) in cubic inches of all plumbing fixtures, vessels, receptacles, and equipment that are connected to the grease interceptor or automatic grease removal device.
 
-(d) Vented flow control fittings shall be installed to insure that the flow capacity of the grease interceptor, as specified by the manufacturer, is not exceeded. Flow-control valves and/or fittings that are manually adjustable may not be used to limit flow to an interceptor.
+*Subject to the sizing requirements specified in 15 RCNY § 19-11(i) through (p).
 
-(e) Grease interceptors must have a retention capacity, in pounds, of at least twice the numerical flow through rating in gallons per minute.
+If a premises contains plumbing fixtures, vessels, receptacles, and/or equipment listed in Table I and plumbing fixtures, vessels, receptacles, and/or equipment listed in Table II, all of which are connected to the same grease interceptor, or automatic grease removal device then the method for determining the minimum flow rate in gallons per minute and the minimum retention capacity, in pounds, for the grease interceptor or automatic grease removal device shall be to separately calculate the aggregate volumes for the plumbing fixtures, vessels, receptacles, and/or equipment in Table I, and the plumbing fixtures, vessels, receptacles, and/or equipment in Table II. The aggregate volume for the plumbing fixtures, vessels, receptacles, and/or equipment in Table II shall be doubled and added to the aggregate volume for the plumbing fixtures, vessels, receptacles, and/or equipment in Table I. The sum of the two shall then be used under the aggregate volume column of Table I to obtain the corresponding total minimum flow rate and total minimum grease retention capacity that is required for the grease interceptor or automatic grease removal device.
 
-(f) Grease interceptors shall remove an average of 90 percent or more of the grease or other extractable matter in the wastewater.
+If the aggregate volumes listed in Tables I and II are exceeded, then a New York State Licensed Professional Engineer or a New York State Registered Architect shall extrapolate the appropriate grease interceptor or automatic grease removal device sizing requirements.
 
-(g) The temperature of water entering a grease interceptor shall not exceed 180°F.
+(d)  Grease interceptors and automatic grease removal devices must be equipped with devices to control the rate of water flow so that the water flow does not exceed the rated flow. The flow control device must be vented and terminate not less than 6 inches (152 mm) above the flood rim level or be installed in accordance with the manufacturer’s instructions. Flow-control valves and/or fittings that are manually adjustable may not be used to limit flow to a grease interceptor or automatic grease removal device.
 
-(h) All grease interceptors must be readily accessible for inspection by duly authorized employees of the Department.
+(e) Grease interceptors and automatic grease removal devices must be rated by flow rate in gallons per minute and grease retention capacity in pounds. The grease retention capacity, in pounds, must be at least twice the numerical flow rate in gallons per minute. Both the minimum required grease retention capacity in pounds and the minimum required flow rate in gallons per minute must be satisfied when determining grease interceptor and automatic grease removal device sizing.
 
-(i) Grease interceptors for scraper sinks shall be sized in accordance with Table II, except that the minimum retaining capacity shall be at least 30 pounds. When determining the aggregate volume of all fixtures, vessels and receptacles specified in Table II that may flow simultaneously through an interceptor, a minimum of 3,465 cubic inches, per scraper sink, shall be used.
+(f) Grease interceptors and automatic grease removal devices shall remove an average of 90 percent or more of the grease or other extractable matter in the wastewater before their rated grease retention capacity is exceeded.
 
-(j) Discharges from automatic dishwashers must be tributary to a grease interceptor. Whether connected separately or in conjunction with other fixtures, the total volume, in gallons, of each automatic dishwasher shall be converted to cubic inches and added to the aggregate volume of Table II.
+(g) The temperature of water entering a grease interceptor or automatic grease removal device must not exceed 180°F, except where only waste lines discharging water above 180°F are connected to such interceptor or device. The Department may require a dedicated grease interceptor or automatic grease removal device of sufficient capacity for waste lines that only discharge water above 180°F.
 
-(k) Discharges from high-temperature sanitizer cycles of automatic dishwashers or from dedicated sanitization compartments of sinks need not be tributary to a grease interceptor.
+(h) All grease interceptors and automatic grease removal devices must be installed in locations such that they are readily accessible for routine maintenance and inspection. Establishments must provide access to and open their grease interceptors and automatic grease removal devices for inspection by the Department upon request, and must have the necessary tools readily available.
 
-(l) Floor drains which may receive grease must be tributary to a grease interceptor. The size of such grease interceptor shall be determined as follows:
+(i) Grease interceptors and automatic grease removal devices for scraper sinks must be sized in accordance with Table II, except that the minimum flow rate and grease retention capacity must be 15 gallons per minute and 30 pounds, respectively. When determining the aggregate volume of all plumbing fixtures, vessels, receptacles, and equipment specified in Table II that are connected to a grease interceptor or automatic grease removal device, a minimum of 3,465 cubic inches per scraper sink must be used.
 
-   (1) For floor drains where grease may be discharged during washdowns, Table I shall be used and an additional 1,540 cubic inches, per floor drain, shall be added to the aggregate volume.
+(j) Discharges from automatic dishwashers which use chemical sanitizers must drain to a grease interceptor or automatic grease removal device. The minimum flow rate of the required grease interceptor or automatic grease removal device as per Table II for a single rack automatic dishwasher must be equivalent to the dishwasher’s discharge rate in gallons per minute, as indicated on the manufacturer’s specification sheet, or based on the number of gallons of water the device uses per wash cycle, or a minimum of 1,100 cubic inches, whichever is greater. The minimum flow rate of the required grease interceptor or automatic grease removal device as per Table II for a conveyor or multi-rack automatic dishwasher must be equivalent to the dishwasher’s discharge rate in gallons per minute, as indicated on the manufacturer’s specification sheet, or based on the number of gallons of water the device uses per wash cycle, or a minimum of 2,200 cubic inches, whichever is greater. The minimum grease retention capacity in pounds must be that which corresponds to such flow rate in Table II.
 
-   (2) Grease interceptors for floor drains, which receive discharges directly from fixtures, receptacles and/or vessels, shall be sized in accordance with the grease interceptor sizing requirements for the fixtures, vessels and/or receptacles tributary to it.
+(k) Discharges from high-temperature sanitizer cycles of automatic dishwashers must not drain to a grease interceptor or automatic grease removal device, except where only waste lines discharging water above 180°F are connected to such interceptor or device. The Department may require a dedicated grease interceptor or automatic grease removal device of sufficient capacity for waste lines that only discharge water above 180°F.
 
-   (3) For floor drains having a diameter larger than 3 inches or for trench and/or trough drains, a New York State Licensed Professional Engineer or a New York State Registered Architect shall extrapolate the appropriate sizing requirements of the tributary grease interceptor based on (1) and/or (2) above.
+(l) Floor drains, including but not limited to floor sinks, trench, and trough drains, which may receive grease must be connected to a grease interceptor or automatic grease removal device. The size of such grease interceptor or automatic grease removal device shall be determined as follows:
 
-(m) For soup and/or stock kettles, the calculation of aggregate volume to be used in Table II shall be made based upon the total volume of all soup and stock kettles tributary to the grease interceptor, even if discharges from these vessels are made to a floor drain or similar fixture.
+   (1) For floor drains up to 3 inches in diameter where grease may be discharged during washdowns, Table I shall be used, and 1,540 cubic inches per floor drain shall be added to the aggregate volume. For floor drains up to 4 inches in diameter, 2,738 cubic inches per floor drain shall be added to the aggregate volume. For floor drains up to 5 inches in diameter, 4,278 cubic inches per floor drain shall be added to the aggregate volume. For floor drains up to 6 inches in diameter, 6,160 cubic inches per floor drain shall be added to the aggregate volume. Trench and trough drains shall be sized in accordance with the above requirements using their corresponding drain diameters except that the actual volume of the trench or trough shall be used if greater than the above minimum volumes.
 
-(n) Where woks, either alone or in conjunction with other types of fixtures are tributary to a grease interceptor, each wok shall be deemed to contribute 1,617 cubic inches to the aggregate volume of Table II.
+   (2) Grease interceptors and automatic grease removal devices for floor drains which receive discharges directly from plumbing fixtures, receptacles, vessels, and/or equipment must be sized in accordance with paragraph (1) above except that where the volume of the plumbing fixtures, receptacles, vessels, and/or equipment is greater than that of the volume in cubic inches specified in paragraph (1) above for the diameter of the floor drain, or in the case of trench and trough drains, greater than the actual volume of the trench or trough, the grease interceptors and automatic grease removal devices must be sized in accordance with the Table and corresponding sizing requirements applicable to such plumbing fixtures, vessels, receptacles, and/or equipment.
 
-(o) Discharges from the cleaning of kitchen hoods, which may extract grease from cooking operations, must be made to receptacles or floor drains that are tributary to a grease interceptor. The sizing of the tributary grease interceptor must account for such discharges using standard engineering practice. For kitchen hoods with automatic rinse cycles, the tributary grease interceptor must be sized to account for the peak flow from the automatic rinse cycle as specified by the manufacturer.
+   (3) Floor drains receiving discharges from a grease interceptor or automatic grease removal device must be surrounded by a water-proof collar a minimum of 1 1/2 inches in height for the purpose of preventing liquids from the floor from entering such drains. If installing such a collar would create a trip hazard, a properly sized grease interceptor or automatic grease removal device must be installed downstream of the drain instead.
 
-(p) Interceptors smaller than those described in Tables I and II may be used, but only if connected in parallel to another interceptor(s), and the aggregate capacity of such interceptors must either equal or exceed the interceptor capacity required by Tables I and/or II. For parallel connections, vented flow control fixtures must be installed on each interceptor.
+(m) For soup and/or stock kettles, the calculation of aggregate volume to be used in Table I must be made based upon the total volume of all soup and stock kettles connected to the grease interceptor or automatic grease removal device even if the discharges from these vessels are made to a floor drain or similar plumbing fixture.
 
-(q) Grease interceptors shall be properly installed, maintained and operated, to insure that the requirements of this section and other applicable sections of the regulations are met. This shall include routine cleaning and grease removal from the interceptor, as needed to insure the proper operation of the interceptors.
+(n) (1) Where a wok table, either alone or combined with other types of plumbing fixtures, is connected to a grease interceptor or automatic grease removal device, each wok shall be deemed to contribute 1,617 cubic inches to the aggregate volume of Table II. For the purpose of determining such volume, the number of woks shall be deemed to be equivalent to the number of gas burners at the corresponding wok table, regardless of the actual number of woks that are used.
 
-(r) New York State Licensed Professional Engineers and New York State Registered Architects may petition the Commissioner, in writing, for acceptance of an alternate pretreatment device, technology, equipment, or procedures varying from, but equivalent to, those listed in this section. Such a petition must contain detailed documentation and calculations substantiating their equivalency. In no event shall any alternative pretreatment device, technology, equipment or procedures be less stringent than the requirements of this section.
+   (2) A minimum of 3,234 cubic inches shall be added to the aggregate volume of Table I when calculating the grease interceptor or automatic grease removal device for 1/2 size or smaller combination ovens with automatic or manual cleaning systems, or calculated based on the actual amount of water usage during the wash cycle, or the discharge rate in gallons per minute, whichever is greater. A minimum of 4,851 cubic inches shall be added to the aggregate volume of Table I when calculating the grease interceptor or automatic grease removal device for 2/3 size combination ovens with automatic or manual cleaning systems, or calculated based on the actual amount of water usage during the wash cycle, or the discharge rate in gallons per minute, whichever is greater. A minimum of 6,468 cubic inches shall be added to the aggregate volume of Table I when calculating the grease interceptor or automatic grease removal device for full size combination ovens with automatic or manual cleaning systems, or calculated based on the actual amount of water usage during the wash cycle, or the discharge rate in gallons per minute, whichever is greater.
 
-(s) Notwithstanding any other provision of this section, (1) existing grease interceptors shall conform to the specific requirements of this section no later than one year after the effective date of this section and (2) grease interceptors installed after the effective date of this section pursuant to an application filed before such effective date shall conform to the specific requirements of this section no later than 90 days after such effective date.
+(o) Discharges from the cleaning of kitchen hoods which may extract grease from cooking operations must be made to receptacles or floor drains that are connected to a grease interceptor or automatic grease removal device. The minimum flow rate of the required grease interceptor or automatic grease removal device as per Table II for an automatic hood wash unit shall be equivalent to such unit’s discharge rate in gallons per minute, as indicated on the manufacturer’s specification sheet or based on the number of gallons of water the device uses per wash cycle, or based on the length of the hood system (0.7 gallons per minute per foot), whichever is greater. The minimum flow rate of the required grease interceptor or automatic grease removal device as per Table I for an electrostatic precipitator shall be equivalent to the precipitator’s discharge rate in gallons per minute, as indicated on the manufacturer’s specification sheet, or based on the number of gallons of water the precipitator uses per wash cycle, whichever is greater. The minimum grease retention capacity in pounds shall be that which corresponds to such flow rate in Table II.
 
-(t) Notwithstanding anything contained in 15 RCNY § 19-11 the Commissioner, in his discretion, may require any grease interceptor to be installed, at any time, and to have a retention capacity equal to those listed in Tables I and/or II.
+(p) Grease interceptors or automatic grease removal devices smaller than those described in Tables I and II may be used, but only if connected in parallel to another grease interceptor or automatic grease removal device, and the aggregate flow rate and grease retention capacity of such interceptors or devices must either equal or exceed the minimum flow-through rate and grease retention capacity required by Tables I and/or II. For parallel connections, vented flow control fixtures must be installed on each grease interceptor or automatic grease removal device. Grease interceptors or automatic grease removal devices connected in parallel must be of equal flow rate in gallons per minute and grease retention capacity in pounds. The flow of wastewater must be evenly distributed into each grease interceptor or automatic grease removal device.
+
+(q) Grease interceptors and automatic grease removal devices must be correctly installed, maintained in good working order, and operated properly to ensure that the requirements of this section and other applicable sections of the regulations are met. This must include routine cleaning and fat, oil, grease, and solids removal as needed to ensure proper operation and to prevent the rated grease retention capacity from being exceeded. However, the minimum cleaning frequency shall be such that the accumulated fat, oil, grease, and solids do not exceed 25% of the total liquid depth that the grease interceptor or automatic grease removal device was designed to hold.
+
+(r) New York State Licensed Professional Engineers and New York State Registered Architects may petition the Commissioner in writing for acceptance of an alternative pretreatment device, technology, equipment or procedures varying from, but equivalent to, those listed in this section. Such a petition must contain detailed documentation and calculations substantiating their equivalency. In no event shall any alternative pretreatment device, technology, equipment or procedures be less stringent than the requirements of this section.
+
+(s) Notwithstanding any other provision of this section, (1) existing grease interceptors and automatic grease removal devices must conform to the specific requirements of this section, as amended, no later than one year after the effective date of the amendments to this section, except where engineering plans showing such interceptors and devices and the specific plumbing fixtures, vessels, receptacles, or equipment they are connected to had been approved by the Department and such interceptors and devices and plumbing fixtures, vessels, receptacles, or equipment are in accordance with the approved plans, conformity with the specific requirements of this section, as amended, must be attained upon replacement of such interceptors and devices; no such plans shall be deemed to waive, nor be held to limit the power of the Commissioner to enforce any requirements of this section where such plans fail to accurately and completely represent such installations, or their actual use, or fail to show a connection to a properly sized grease interceptor or automatic grease removal device and (2) grease interceptors and automatic grease removal devices installed after the effective date of the amendments to this section pursuant to an application filed before such effective date must conform to the specific requirements of this section, as amended, no later than 90 days after such effective date.
+
+(t) Notwithstanding anything contained in 15 RCNY § 19-11, the Commissioner, in his or her discretion, may require any grease interceptor or automatic grease removal device to be installed at any time and to have a flow rate and a retention capacity equal to those listed in Tables I and/or II.
+
+(u) The use of emulsifiers, enzymes, chemicals, microbial agents, or other additives in grease interceptors or automatic grease removal devices is prohibited.
+
+(v) (1) Yellow grease (waste cooking oil) must only be disposed of through collection by a carter having a trade waste removal license from the City of New York Business Integrity Commission, and that provides written proof of collection to the establishment that generated the yellow grease, each time a pickup is made from the establishment. The written proof must be maintained by such establishment on site for at least one year from the date of disposal, and must be made available to the Department upon request.
+
+   (2) It is the responsibility of all yellow grease generating establishments to secure their yellow grease from theft so as to ensure that the written proof required in Subdivision (v)(1) above is obtained for every batch of yellow grease disposed of.
+
+
 
 
 
@@ -10978,9 +11170,9 @@ Note: Aggregate volume is the maximum volume (e.g. length times width times heig
 *§ 19-12 Best Management Practices for Perchloroethylene Discharges to the Public Sewer System from Dry Cleaning Facilities.* ::
 
 
-(a)  Perc-contaminated wastewater management. Perc-contaminated wastewater generated by all new and existing perc dry cleaning facilities shall be managed as follows:
+(a) Perc-contaminated wastewater management. Perc-contaminated wastewater generated by all new and existing perc dry cleaning facilities must be managed as follows:
 
-   (1) Perc-contaminated wastewater discharges. Perc-contaminated wastewater that is discharged to the public sewer shall be treated by physical separation (water separator) and double carbon filtration, or an equivalent control which has been approved by the New York State Department of Environmental Conservation, which has been properly designed to assure an effluent quality that is less than or equal to 20ppb perc without evaporation; and
+   (1) Perc-contaminated wastewater discharges. Perc-contaminated wastewater that is discharged to the public sewer must be treated by physical separation (water separator) and double carbon filtration, or an equivalent control which has been approved by the New York State Department of Environmental Conservation, which has been properly designed to assure an effluent quality that is less than or equal to 20 ppb perc without evaporation; and
 
    (2) Evaporation of perc-contaminated wastewater. Perc-contaminated wastewater that is evaporated must be treated by physical separation (water separator) and double carbon filtration prior to evaporation.
 
@@ -10988,27 +11180,27 @@ Note: Aggregate volume is the maximum volume (e.g. length times width times heig
 
 (c) Operation and maintenance.
 
-   (1) Dry cleaning facilities must be maintained and operated to minimize the release of perc to the environment. All components of the dry cleaning system shall be properly operated and maintained in accordance with the provisions of these, as well as applicable Federal, State and other local, regulations.
+   (1) Dry cleaning facilities must be maintained and operated to minimize the release of perc to the environment. All components of the dry cleaning system must be properly operated and maintained in accordance with the provisions of these, as well as applicable Federal, State and other local, regulations.
 
    (2) Perc-contaminated wastewater treatment units.
 
-      (i) Carbon filtration units. Carbon cartridges shall be replaced according to a schedule as specified by the manufacturer to assure an effluent quality that does not exceed 20ppb perc.
+      (i) Carbon filtration units. Carbon cartridges must be replaced according to a schedule as specified by the manufacturer to assure an effluent quality that does not exceed 20 ppb perc.
 
-      (ii) Evaporators. Perc-contaminated wastewater evaporators shall be operated to ensure that no liquid perc or visible emulsion is allowed to vaporize.
+      (ii) Evaporators. Perc-contaminated wastewater evaporators must be operated to ensure that no liquid perc or visible emulsion is allowed to vaporize.
 
-      (iii) Water Separators. Water separators shall be maintained as recommended by manufacturer specifications.
+      (iii) Water Separators. Water separators must be maintained as recommended by manufacturer specifications.
 
 (d) Preparedness and prevention. All dry cleaning operations must be equipped with the following:
 
    (1) adequate spill control equipment including sorbent materials, or alternative methods for absorbing spills;
 
-   (2) vapor-proof containers dedicated exclusively for storing spill-contaminated material and labeled "FOR SPILL CONTAINMENT USE ONLY" and
+   (2) vapor-proof containers dedicated exclusively for storing spill-contaminated material and labeled "FOR SPILL CONTAINMENT USE ONLY"; and
 
    (3) fire control equipment.
 
 (e) Reporting and record keeping.
 
-   (1) Each owner or operator of a dry cleaning facility or their designees shall record the following:
+   (1) Each owner or operator of a dry cleaning facility or their designees must record the following:
 
       (i) The date, duration and nature of any malfunction, spill, incident, or emergency response at the facility, the notification procedures and the corrective action taken;
 
@@ -11022,11 +11214,13 @@ Note: Aggregate volume is the maximum volume (e.g. length times width times heig
 
       (vi) The dates of maintenance of water separators.
 
-   (2) Each owner or operator of a dry cleaning facility shall keep receipts of perc purchases, and a log listing the volume of perc purchased each month by the dry cleaning facility, and the number of loads dry cleaned each month.
+   (2) Each owner or operator of a dry cleaning facility must keep receipts of perc purchases, and a log listing the volume of perc purchased each month by the dry cleaning facility, and the number of loads dry cleaned each month.
 
-   (3) Each owner or operator of a dry cleaning facility shall retain on site a copy of the design specifications and the operating manuals for each dry cleaning system and each emission control device located at the dry cleaning facility.
+   (3) Each owner or operator of a dry cleaning facility must retain on site a copy of the design specifications and the operating manuals for each dry cleaning system and each emission control device located at the dry cleaning facility.
 
-   (4) All records must be maintained on site for at least five years and must be made available to the Department upon written or verbal request.
+   (4) All records must be maintained on site for at least five years and must be made available to the Department upon request.
+
+
 
 
 
@@ -11036,7 +11230,7 @@ Note: Aggregate volume is the maximum volume (e.g. length times width times heig
 *§ 19-13 Appeal of Commissioner’s Orders.* ::
 
 
-(a) Within the time specified for compliance in a Commissioner’s Order issued, pursuant to Subdivision (a) of Section 24-524 or Section 24-581 of Administrative Code, and/or as otherwise specified in the Order, the party named in the Order may submit a written statement appealing the Commissioner’s Order in the manner directed on the Order. In the event that the Department determines that non-compliance with the Order poses a significant risk of imminent harm to public health or safety or to the environment, the party shall be so notified and shall comply with the order forthwith, or otherwise within the time specified by the Department, notwithstanding that an appeal is taken.
+(a) Within the time specified for compliance in a Commissioner’s Order issued, pursuant to Subdivision (a) of § 24-524 or § 24-581 of Administrative Code, and/or as otherwise specified in the Order, the party named in the Order may submit a written statement appealing the Commissioner’s Order in the manner directed on the Order. In the event that the Department determines that non-compliance with the Order poses a significant risk of imminent harm to public health or safety or to the environment, the party shall be so notified and shall comply with the order forthwith, or otherwise within the time specified by the Department, notwithstanding that an appeal is taken.
 
 (b) Appeals shall be reviewed by the Department and a final determination regarding the appeal shall be made within a reasonable period of time.
 
@@ -12430,7 +12624,7 @@ Upon declaration of the Commissioner of a Stage I Drought Emergency, no person o
 
 (f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in 15 RCNY § 20-08(b);
 
-(g) The serving of water from the city water system to any patron of a restaurant, club, hotel, café, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
+(g) The serving of water from the city water system to any patron of a restaurant, club, hotel, cafe, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
 
 (h) The use of city water to fill or maintain the water level in any swimming pool, except that pools operated with recirculating equipment may be filled with city water once during each calendar year and may thereafter use the minimum amount of city water necessary to maintain the water level at a level no greater than that necessary to ensure continued operation of such recirculating equipment;
 
@@ -12469,7 +12663,7 @@ Upon declaration of the Commissioner of a Stage II Drought Emergency, no person 
 
 (f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in 15 RCNY § 20-08(b);
 
-(g) The serving of water from the city water system to any patron of a restaurant, club, hotel, café, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
+(g) The serving of water from the city water system to any patron of a restaurant, club, hotel, cafe, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
 
 (h) The use of city water to fill or maintain the water level in any swimming pool, except that city water may be used to fill municipally-operated swimming pools and other swimming pools open to the general public, that are operated with recirculating equipment and are filled once during each calendar year, and thereafter may be used as necessary to maintain the water level in such pools open to the general public at a level no greater than that necessary to ensure continued operation of such recirculating equipment;
 
@@ -12508,7 +12702,7 @@ Upon declaration of the Commissioner of a Stage III Drought Emergency, no person
 
 (f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in 15 RCNY § 20-08(b);
 
-(g) The serving of water from the city water system to any patron of a restaurant, club, hotel, café, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
+(g) The serving of water from the city water system to any patron of a restaurant, club, hotel, cafe, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
 
 (h) The use of city water to fill or maintain the water level in any swimming pool, except that city water may be used to fill municipally-operated swimming pools and other swimming pools open to the general public, that are operated with recirculating equipment and are filled once during each calendar year, and thereafter may be used as necessary to maintain the water level in such pools open to the general public at a level no greater than that necessary to ensure continued operation of such recirculating equipment;
 
@@ -17623,6 +17817,65 @@ A Required Permit must be applied for and issued in accordance with the provisio
 
 
 
+Chapter 49: Spraying Insulating Material
+--------------------------------------------------
+
+
+
+*§ 49-01 Definitions.* ::
+
+
+For the purposes of this chapter, the following term has the following meaning:
+
+Insulating Material. “Insulating Material” means any material or combination of materials, except spray on foam, that restricts the flow of heat energy.
+
+
+
+
+
+
+
+
+*§ 49-02 Applicability.* ::
+
+
+This chapter is not applicable to new construction.
+
+
+
+
+
+
+
+
+*§ 49-03 Precautions to be Taken During Spraying of Insulating Material.* ::
+
+
+No person may cause or permit the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, unless he or she complies with the following precautions.
+
+(1) Before the start of spraying operations all floor areas must be shoveled clean. Before the application of insulating material commences, the floor of the areas must be cleared of all objects, material and equipment other than that employed in the application of the insulating material, or all objects, material, and equipment must be covered with plastic or other approved tarpaulins in a manner that prevents the subsequent dispersal of dust.
+
+(2) The entire floor, or the part of the floor to be insulated, must be enclosed with plastic or other approved tarpaulins in a manner that prevents the escape of dust from the enclosure. All interior open areas, such as elevator shafts and stairwells must be enclosed in a manner that prevents the escape of dust from the working area. Stack effect of the shafts and stairwells must be considered in providing proper enclosures. An enclosure will be considered satisfactory only if visible insulating material cannot escape from the enclosure.
+
+(3) Wet insulating material that has fallen to the floor must be shoveled and scraped to prevent dispersal of dried material. This material must be removed no later than the end of the working day. Shoveled and scraped material must be placed in a heavy plastic bag strong enough to resist tearing or breaking under normal handling conditions and clearly marked as containing insulating material waste. The bags must then be placed into containers, pursuant to Section BC 3303.4.2 of the New York City Building Code. The contents of the aforementioned plastic bags must not be transferred to another container and must not be combined with any designated recyclable materials, pursuant to §§ 16-305, 16-306, 16-306.1, 16-307, 16-308 and 16-314 of the Administrative Code of the City of New York. The plastic bags must be placed upon a vehicle for either transfer to a solid waste transfer station, pursuant to 16 RCNY Ch. 4 or disposal at a site approved by the commissioner and regulated under 6 NYCRR Part 360 if located in New York State or that is consistent with the regulations adopted by any locality where such disposal site is located if outside New York State.
+
+(4) All areas used for opening bags containing insulating material and/or changing of containers must be vacuumed with a HEPA air filtration vacuum or a dust collection system.
+
+(5) Signs must be posted outside enclosures warning persons that entering the enclosure without appropriate apparel may be a hazard.
+
+(6) Facilities must be provided and procedures instituted and supervised that prevent the removal and dispersal of insulating material from the construction site on the clothing or other accessories of persons leaving the area. All persons involved in the spraying of insulating material at the site must be furnished with personal protective equipment specified in the applicable Safety Data Sheet, including suitable coveralls which must be left at the site until properly disposed of in plastic garbage bags. No person will be permitted in an area in which spraying or handling of insulating material is underway or has taken place until the final vacuuming referred to in paragraph four of this subdivision has been accomplished, unless such person is furnished with or wears personal protective equipment in accordance with this paragraph.
+
+(7) Any plenum or structures coated with insulating material which are intended for use in circulation of air in the building must be thoroughly cleaned of all debris, dust and waste insulation. All applied insulation material within a plenum or duct must comply with Section MC 602.2.1 of the New York City Mechanical Code.
+
+(8) A person who is fully trained in accordance with current standard industry practice must be assigned the full-time responsibility of supervising the spraying, preparation and clean-up operations to ensure that no insulating material is released from the construction site.
+
+(9) In case of emission of insulation material from the construction site, immediate steps must be taken to cease such emissions which may include work stoppage at the source of the emissions. There must then be immediate and complete clean-up of all material that has escaped the construction site using control measures including but not limited to the use of a water hose and HEPA vacuum that prevent further dispersal of any insulating material into the atmosphere.
+
+
+
+
+
+
 Chapter 48: Green Infrastructure Grant Program
 --------------------------------------------------
 
@@ -17856,65 +18109,6 @@ To be eligible for a Grant, Applicants must be in compliance with the following:
 (i) The City has the unrestricted right to use the designs for any Projects for which Grants are awarded for any future Projects or purposes at no additional cost to the City.
 
 (j) The City has the right to publish photographs of completed Projects. The Grantee must indicate in any statements to the press or in any materials for publication in any media of communication (print, news, television, radio, internet, etc.) that the Project was funded wholly or in part by the Department.
-
-
-
-
-
-
-Chapter 49: Spraying Insulating Material
---------------------------------------------------
-
-
-
-*§ 49-01 Definitions.* ::
-
-
-For the purposes of this chapter, the following term has the following meaning:
-
-Insulating Material. “Insulating Material” means any material or combination of materials, except spray on foam, that restricts the flow of heat energy.
-
-
-
-
-
-
-
-
-*§ 49-02 Applicability.* ::
-
-
-This chapter is not applicable to new construction.
-
-
-
-
-
-
-
-
-*§ 49-03 Precautions to be Taken During Spraying of Insulating Material.* ::
-
-
-No person may cause or permit the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, unless he or she complies with the following precautions.
-
-(1) Before the start of spraying operations all floor areas must be shoveled clean. Before the application of insulating material commences, the floor of the areas must be cleared of all objects, material and equipment other than that employed in the application of the insulating material, or all objects, material, and equipment must be covered with plastic or other approved tarpaulins in a manner that prevents the subsequent dispersal of dust.
-
-(2) The entire floor, or the part of the floor to be insulated, must be enclosed with plastic or other approved tarpaulins in a manner that prevents the escape of dust from the enclosure. All interior open areas, such as elevator shafts and stairwells must be enclosed in a manner that prevents the escape of dust from the working area. Stack effect of the shafts and stairwells must be considered in providing proper enclosures. An enclosure will be considered satisfactory only if visible insulating material cannot escape from the enclosure.
-
-(3) Wet insulating material that has fallen to the floor must be shoveled and scraped to prevent dispersal of dried material. This material must be removed no later than the end of the working day. Shoveled and scraped material must be placed in a heavy plastic bag strong enough to resist tearing or breaking under normal handling conditions and clearly marked as containing insulating material waste. The bags must then be placed into containers, pursuant to Section BC 3303.4.2 of the New York City Building Code. The contents of the aforementioned plastic bags must not be transferred to another container and must not be combined with any designated recyclable materials, pursuant to §§ 16-305, 16-306, 16-306.1, 16-307, 16-308 and 16-314 of the Administrative Code of the City of New York. The plastic bags must be placed upon a vehicle for either transfer to a solid waste transfer station, pursuant to 16 RCNY Ch. 4 or disposal at a site approved by the commissioner and regulated under 6 NYCRR Part 360 if located in New York State or that is consistent with the regulations adopted by any locality where such disposal site is located if outside New York State.
-
-(4) All areas used for opening bags containing insulating material and/or changing of containers must be vacuumed with a HEPA air filtration vacuum or a dust collection system.
-
-(5) Signs must be posted outside enclosures warning persons that entering the enclosure without appropriate apparel may be a hazard.
-
-(6) Facilities must be provided and procedures instituted and supervised that prevent the removal and dispersal of insulating material from the construction site on the clothing or other accessories of persons leaving the area. All persons involved in the spraying of insulating material at the site must be furnished with personal protective equipment specified in the applicable Safety Data Sheet, including suitable coveralls which must be left at the site until properly disposed of in plastic garbage bags. No person will be permitted in an area in which spraying or handling of insulating material is underway or has taken place until the final vacuuming referred to in paragraph four of this subdivision has been accomplished, unless such person is furnished with or wears personal protective equipment in accordance with this paragraph.
-
-(7) Any plenum or structures coated with insulating material which are intended for use in circulation of air in the building must be thoroughly cleaned of all debris, dust and waste insulation. All applied insulation material within a plenum or duct must comply with Section MC 602.2.1 of the New York City Mechanical Code.
-
-(8) A person who is fully trained in accordance with current standard industry practice must be assigned the full-time responsibility of supervising the spraying, preparation and clean-up operations to ensure that no insulating material is released from the construction site.
-
-(9) In case of emission of insulation material from the construction site, immediate steps must be taken to cease such emissions which may include work stoppage at the source of the emissions. There must then be immediate and complete clean-up of all material that has escaped the construction site using control measures including but not limited to the use of a water hose and HEPA vacuum that prevent further dispersal of any insulating material into the atmosphere.
 
 
 

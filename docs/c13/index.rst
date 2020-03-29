@@ -5289,7 +5289,7 @@ When used in this Chapter, the following terms have the following meanings:
 
 (d) Licensed means that the dog's owner has obtained the dog license required by Chapter 115 of the Laws of 1894, as amended, or that the owner, if not a resident of New York City, has obtained a license to own or harbor the dog as required by the laws of the jurisdiction in which the owner resides.
 
-(e) Outdoor dining area means an area operated and controlled by a food service establishment that is located outdoors and is used by patrons of the establishment to dine. Such areas include, but are not limited to, (i) a licensed unenclosed sidewalk café as defined in the § 20-223(c) of the Administrative Code of the City of New York (Administrative Code) or successor provision, and (ii) an outdoor dining area not located on a sidewalk that is accessed directly from the street or through a passage of the establishment, if such passage is completely separated from any dining, food preparation or food, equipment or utensil storage areas of the establishment. An enclosed sidewalk café, as defined in § 20-223(b) of the Administrative Code, is not an outdoor dining area.
+(e) Outdoor dining area means an area operated and controlled by a food service establishment that is located outdoors and is used by patrons of the establishment to dine. Such areas include, but are not limited to, (i) a licensed unenclosed sidewalk cafe as defined in the § 20-223(c) of the Administrative Code of the City of New York (Administrative Code) or successor provision, and (ii) an outdoor dining area not located on a sidewalk that is accessed directly from the street or through a passage of the establishment, if such passage is completely separated from any dining, food preparation or food, equipment or utensil storage areas of the establishment. An enclosed sidewalk cafe, as defined in § 20-223(b) of the Administrative Code, is not an outdoor dining area.
 
 (f) Permittee means the person or entity holding a permit issued pursuant to 24 RCNY Health Code § 81.05 to operate a food service establishment that has a designated outdoor dining area.
 
@@ -5317,7 +5317,7 @@ When used in this Chapter, the following terms have the following meanings:
 
    (3) Access limited to outdoor dining areas. Dogs other than service dogs are not allowed in any area of a food service establishment that is not an outdoor dining area as defined in 24 RCNY § 32-01.
 
-   (4) Aisle space. Dogs may not obstruct the 36-inch aisle space between tables in unenclosed sidewalk cafés, as required by 6 RCNY § 2-55(a), or successor provision.
+   (4) Aisle space. Dogs may not obstruct the 36-inch aisle space between tables in unenclosed sidewalk cafes, as required by 6 RCNY § 2-55(a), or successor provision.
 
 
 

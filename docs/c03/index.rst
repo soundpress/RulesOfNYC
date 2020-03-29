@@ -9,29 +9,11 @@ Chapter 1: License Enforcement
 *§ 1-01 Fingerprinting.* ::
 
 
-(a) Applicants for the following licenses and permits must appear in person at the License Issuance Division of the Department and be fingerprinted. This requirement applies to: an individual, if the applicant is an individual; the general partners, if the applicant is a partnership; and the officers, directors and stockholders owning 10 percent or more of the stock of the corporation ("principal stockholder"), if the applicant is a corporation.
-
-   (1) Auctioneer; Night Auctioneer
-
-   (2) Commercial Refuse Removal
-
-   (3) Employment Agency; Employment Agency Manager
-
-   (4) Home Improvement Contractor; Home Improvement Salesman
-
-   (5) Junk Dealer
-
-   (6) Locksmith; Locksmith Apprentice; Keymaker
-
-   (7) Pawnbroker
-
-   (8) Process Server
-
-   (9) Secondhand Dealer
-
-   (10) Television, Radio and Audio Equipment Service Dealer and Service Manager
+(a) The Department may require applicants to appear in person at the Department or a location designated by the Department to be fingerprinted. This requirement applies to: an individual, if the applicant is an individual; the general partners, if the applicant is a partnership; the officers, directors and stockholders owning more than ten percent of the stock of the corporation ("principal stockholders"), if the applicant is a corporation; and the members, if the applicant is a limited liability company.
 
 (b) The Commissioner may, in his or her discretion, waive the fingerprint requirement if a person required to be fingerprinted is unavailable, or for other good cause shown.
+
+
 
 
 
@@ -41,11 +23,13 @@ Chapter 1: License Enforcement
 *§ 1-01.1 Applications.* ::
 
 
-(a)  No applicant for a license or a renewal thereof shall fail to provide complete and truthful responses to all the information requested on an application for such license or renewal thereof and any documents related thereto.
+(a) All applicants for a license or a license renewal must provide complete and truthful responses to all the information requested on an application for such license or license renewal and any related documents.
 
-(b) No applicant for a license or renewal thereof shall conceal any information, make a false statement or falsify or allow to be falsified any certificate, form, signed statement, application or report required to be filed with an application for a license that is to be issued by the department or for a renewal thereof.
+(b) No applicant for a license or a license renewal shall conceal any information, make a false statement or falsify or allow to be falsified any certificate, form, signed statement, application or report required to be filed with an application for a license or license renewal to be issued by the department.
 
-(c) Unless otherwise provided by law or rule, no applicant for a license or renewal thereof, or licensee, including the general partners, officers, directors, and principal stockholders of such applicant or licensee, whose application or renewal thereof is denied or whose license is revoked by the Department may submit a new application for the same license for a period of 12 months from the date the initial application or renewal was denied or the license was revoked. This subsection shall only apply if the initial application or renewal was denied, or the license was revoked, because the applicant or licensee concealed information, made a false statement, or falsified or allowed to be falsified any certificate, form, signed statement, application or report required to be filed with an application for a license that is to be issued by the department or for a renewal thereof.
+(c) Unless otherwise provided by law or rule, no applicant for a license or renewal thereof, or licensee, including the general partners, officers, directors, members, and principal stockholders of such applicant or licensee, whose application or renewal thereof is denied or whose license is revoked by the Department may submit a new application for the same license for a period of 12 months from the date the initial application or renewal was denied or the license was revoked. This subsection shall only apply if the initial application or renewal was denied, or the license was revoked, because the applicant or licensee concealed information, made a false statement, or falsified or allowed to be falsified any certificate, form, signed statement, application or report required to be filed with an application for a license that is to be issued by the Department or for a renewal thereof.
+
+(d) The commissioner may deny any license application or refuse to renew any license, and may, after due notice and opportunity to be heard, suspend or revoke such license, if the applicant or person holding such license, or where applicable, any of its officers, principals, directors, members, managers, employees, or stockholders owning ten percent or more of the outstanding stock of the corporation, has been found to have violated subdivisions a or b of this section in connection with the application or licensed business.
 
 
 
@@ -57,7 +41,8 @@ Chapter 1: License Enforcement
 *§ 1-02 Term and Expiration Date of Licenses.* ::
 
 
-(a)  The licenses and permits listed below shall be for a two-year term and shall expire on the dates indicated:
+(a)  The licenses and permits listed below expire on the dates indicated: 
+											
 
  
 
@@ -77,7 +62,7 @@ Chapter 1: License Enforcement
 .. list-table::
     :header-rows: 1
 
-    * - Amusement Devices, Arcades and Operators
+    * - Amusement Arcades
       - January 16 of Even Years 
     * - Auctioneer and Night Auction Sales
       - June 15 of Even Years
@@ -85,10 +70,6 @@ Chapter 1: License Enforcement
       - August 1 of Odd Years
     * - Booting of Motor Vehicles
       - December 31 of Odd Years
-    * - Cabaret
-      - September 30 of Even Years
-    * - Catering Establishment
-      - September 30 of Even Years
     * - Debt Collection Agency
       - January 31 of Odd Years
     * - Electronic or Home Appliance Service Dealers
@@ -100,35 +81,35 @@ Chapter 1: License Enforcement
     * - Garage, Parking Lot
       - March 31 of Odd Years
     * - Home Improvement Contractor
-      - February 28 of Every Odd Year
+      - February 28 of Odd Years
     * - Home Improvement Salesperson
-      - February 28 of Every Odd Year
+      - February 28 of Odd Years
     * - Horse Drawn Cab
       - March 31 of Even Years
     * - Horse Drawn Cab Driver
       - May 31 of Even Years
-    * - Laundry
+    * - Laundry – Retail, Industrial, and Industrial Delivery
       - December 31 of Odd Years
     * - Locksmith; Locksmith Apprentice
       - May 31 of Odd Years
-    * - Motion Picture Operators
-      - December 31 of Even Years
     * - Process Server
       - February 28 of Even Years
     * - Products-for-the-Disabled Dealer
       - March 15 of Odd Years
     * - Secondhand Dealer
       - July 31 of Odd Years
-    * - Sidewalk Stand
-      - March 31 of Even Years
     * - Sightseeing Bus
       - March 31 of Even Years
     * - Sightseeing Guide
       - March 31 of Even Years
+    * - Stoop Line Stand
+      - March 31 of Even Years
     * - Storage Warehouse
       - April 1 of Odd Years
-    * - Towing Vehicles
-      - December 31 of Odd Years
+    * - Towing Vehicles Company
+      - April 30 of Even Years
+    * - Towing Vehicles Driver
+      - October 31 of Even Years
 ~
 
  
@@ -147,13 +128,13 @@ Chapter 1: License Enforcement
 
       C. April 15 if the last digit of the license number of the sidewalk café ends in an odd number that is not evenly divisible by three;
 
-   2. The grant during the same calendar year of a license to operate an unenclosed sidewalk café license as the year in which the revocable consent to operate such unenclosed sidewalk café is granted shall be for a term that expires on the same date on which such revocable consent expires in accordance with paragraph 1 of this subdivision.
+   2. The grant during the same calendar year of a license to operate an unenclosed sidewalk café license as the year in which the revocable consent to operate such unenclosed sidewalk cafe is granted shall be for a term that expires on the same date on which such revocable consent expires in accordance with paragraph 1 of this subdivision.
 
    3. The licenses that are renewed thereafter shall be for two year terms that expire on the day and month in the second calendar year of such term as specified in paragraph 1 of this subdivision.
 
    4. Revocable consents that are renewed thereafter will be for two consecutive license periods and shall be concurrent with license periods that expire on the day and month in the last year of the second license period of such term as specified in paragraph 1 of this subdivision.
 
-(e) After the effective date of this subdivision, the expiration dates for revocable consents and licenses to operate an enclosed sidewalk café shall be as follows:
+(e) After the effective date of this subdivision, the expiration dates for revocable consents and licenses to operate an enclosed sidewalk cafe shall be as follows:
 
    1.  The grant of a revocable consent to operate an enclosed sidewalk café shall be for one license period and will be concurrent with such license period that expires in the second calendar year following the calendar year in which such consent and license are granted, and such term shall expire on the day and month in such second calendar year as specified below:
 
@@ -161,7 +142,7 @@ Chapter 1: License Enforcement
 
       B. May 15 of the first odd numbered year that is at least two years after the date such revocable consent is issued or renewed if the last digit of the license number of such sidewalk café is an odd number.
 
-   2. The grant during the same calendar year of a license to operate an enclosed sidewalk café license as the year in which the revocable consent to operate such enclosed sidewalk café is granted shall be for a term that expires in the same year in which such revocable consent expires in accordance with paragraph 1 of this subdivision.
+   2. The grant during the same calendar year of a license to operate an enclosed sidewalk café license as the year in which the revocable consent to operate such enclosed sidewalk cafe is granted shall be for a term that expires in the same year in which such revocable consent expires in accordance with paragraph 1 of this subdivision.
 
    3. The licenses that are renewed thereafter shall be for two year terms that expire on the day in the month in the second calendar year of such term as specified in paragraph 1 of this subdivision.
 
@@ -180,22 +161,44 @@ Chapter 1: License Enforcement
 
 
 
-*§ 1-03 Display of Sign and License Information.* ::
+*§ 1-03 Display of License Sign.* ::
 
 
-(a)  Every licensee, except for those licensed to operate a sidewalk café as described in subdivision (b) of this section, must post conspicuously at his or her place of business a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, and other pertinent information for consumers as the Department deems appropriate. A licensee may post a copy of such sign at the licensee's place of business only if the original is available at such place of business for inspection by any person. A licensee having no fixed place of business must exhibit his or her license upon the request of any person.
+(a) Every licensee, except for those licensed to operate a sidewalk cafe as described in subdivision b of this section, must post conspicuously at his or her place of business the license sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, and other important information for consumers as the Department deems appropriate. A licensee may post a copy of such sign at the licensee's place of business only if the original is available at such place of business for inspection by any person. A licensee having no fixed place of business must exhibit his or her license upon the request of any person.
 
-(b) Every licensee licensed to operate a sidewalk café pursuant to § 20-224 of subchapter 6 of Chapter 2 of Title 20 of the Administrative Code of the City of New York is required to post a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, the maximum number of tables and chairs permitted for the sidewalk café, and any other pertinent information for consumers as the Department deems appropriate, at a location from which it must be visible to persons on that portion of the sidewalk adjacent to such licensee's sidewalk café. A licensee may post a copy of such sign at a location as described in this subdivision only if the original is available at the licensee's place of business for inspection by any person.
-
-
-
+(b) Every licensee licensed to operate a sidewalk cafe pursuant to § 20-224 of subchapter 6 of Chapter 2 of Title 20 of the Administrative Code of the City of New York is required to post a sign provided by the Department that includes the license information, instructions on contacting the Department to file a complaint, the maximum number of tables and chairs permitted for the sidewalk cafe, and any other pertinent information for consumers as the Department deems appropriate, at a location from which it must be visible to persons on that portion of the sidewalk adjacent to such licensee's sidewalk cafe. A licensee may post a copy of such sign at a location as described in this subdivision only if the original is available at the licensee's place of business for inspection by any person.
 
 
 
-*§ 1-04 [Reserved]* ::
 
 
-Any advertisement, letterhead, receipt or other printed matter of a licensee must contain the license number assigned to the licensee by the New York City Department of Consumer Affairs. The license number must be clearly identified as a New York City Department of Consumer Affairs license number and must be disclosed and disseminated in a lawful manner. Any telephone listing consisting solely of the name, address, and telephone number of the licensee need not specify the licensee's license number. Licensees holding licenses for more than one location must also include their respective license number(s) clearly identified as New York City Department of Consumer Affairs license number(s) on all correspondence and other printed matter which contains or makes reference to one or more of such licensees' licensed location(s).
+
+
+
+*§ 1-04 Making False Representations and Altering or Falsifying Department Documents.* ::
+
+
+(a) No licensee or employee or agent of such licensee shall make a false representation to the Department or falsify or allow to be falsified any certificate, form, signed statement, application or report required to be filed with the Department.
+
+(b) No licensee or employee or agent of such licensee shall forge, counterfeit, alter, fabricate, or falsely make any document issued by the Department or purported to be issued by the Department, including, but not limited to, Department licenses, permits, and letterhead.
+
+(c) No licensee or employee or agent of such licensee shall use, attempt to use, possess, obtain, accept, receive, or provide to another any document prohibited by subdivision b of this section.
+
+(d) The commissioner may deny any license application or refuse to renew any license, and may, after due notice and opportunity to be heard, suspend or revoke such license, if the applicant or person holding such license, or where applicable, any of its officers, principals, directors, members, managers, employees, or stockholders owning ten percent or more of the outstanding stock of the corporation, has been found to have violated subdivisions a, b, or c of this section in connection with the application or licensed business.
+
+
+
+
+
+
+
+
+*§ 1-05 License Number in Advertisements and Other Printed and Electronic Matter.* ::
+
+
+Any advertisement, letterhead, receipt, online media, website, electronic advertisement, or other printed or electronic matter of a licensee must contain the license number assigned to the licensee by the Department. If a licensee uses email to communicate with consumers, the licensee's email must contain the license number assigned to the licensee by the Department. The license number must be clearly identified as a New York City Department of Consumer Affairs license number and must be disclosed and disseminated in a lawful manner. Any telephone listing consisting solely of the name, address, and telephone number of the licensee need not specify the licensee's license number. Licensees holding licenses for more than one location must also include their respective license number(s) clearly identified as New York City Department of Consumer Affairs license number(s) on all correspondence and other matter which contains or makes reference to one or more of such licensees' licensed location(s).
+
+
 
 
 
@@ -251,9 +254,11 @@ Any application for a license renewal that is filed sixty days or more after the
 
 (b) Mutilated license or license plate. Should a license or license plate issued by the Department to any licensee become mutilated or otherwise illegible, the holder of the license or plate shall promptly surrender it to the Department and request the issuance of a new license or plate. The request shall be made upon a form provided by the Department.
 
-(c) Fee. A fee of fifteen dollars ($15) shall be charged for the issuance of a replacement license, and a fee of twenty-five dollars ($25) shall be charged for the issuance of a replacement license plate. This fee shall be paid when the affidavit for a lost license or plate is filed or when a mutilated or otherwise illegible license or plate is surrendered and a request for the issuance of a new license or plate is filed. This fee will be refunded should the Department decide not to issue the replacement license or plate.
+(c) Fee. A fee of fifteen dollars ($15) shall be charged for the issuance of a replacement license, and a fee of twenty-five dollars ($25) shall be charged for the issuance of a replacement license plate. This fee must be paid when the affidavit for a lost license or plate is filed or when a mutilated or otherwise illegible license or plate is surrendered and a request for the issuance of a new license or plate is filed. This fee will be refunded should the Department decide not to issue the replacement license or plate. This fee shall not be charged if the license or license plate is not received by the licensee and the Department receives a certification from the licensee that such license or license plate was not received within 30 days of the license or license plate being issued.
 
 (d) Lost or stolen records. A licensee shall report to the Department, in an affidavit, the loss or theft of any records required to be maintained by it under Chapters 1 and 2 of Title 20 of the New York City Administrative Code, within ten calendar days of such loss or theft.
+
+
 
 
 
@@ -270,10 +275,10 @@ Any licensee or license applicant who, in payment of a license fee, renewal fee,
 
 
 
-*§ 1-12 Compliance with the Consumer Protection Law.* ::
+*§ 1-12 Compliance with the Consumer Protection Law. [Repealed]* ::
 
 
-Every licensee and applicant must comply with the Consumer Protection Law of 1969, as amended, and all regulations promulgated under that law.
+
 
 
 
@@ -283,17 +288,49 @@ Every licensee and applicant must comply with the Consumer Protection Law of 196
 *§ 1-13 Response to Complaints.* ::
 
 
-A licensee or license applicant must respond in writing to the Department about any complaint sent to the licensee or applicant by the Department. The response must be made within 20 days of the date the complaint is sent to the licensee or applicant and must set forth the licensee's or applicant's position regarding the transaction which is the subject of the complaint, including the facts which the licensee or applicant believes justify its position. The licensee or applicant must respond to subsequent communications from the Department concerning the complaint within 10 days after receiving a communication.
+A licensee or license applicant must respond in writing to the Department about any complaint sent to the licensee or applicant by the Department. The response must be made within 20 days of the date the complaint is sent to the licensee or applicant and must set forth the licensee's or applicant's position regarding the transaction which is the subject of the complaint, including the facts which the licensee or applicant believes justify its position. The licensee or applicant must also provide with its response any documents in its possession related to the transaction which is the subject of the complaint. The licensee or applicant must respond to subsequent communications from the Department concerning the complaint within 10 days after receiving a communication. The Department may rely on any complaint, regardless of whether it has been resolved, or any response to such complaint, in any subsequent Department action, including, but not limited to, decisions to deny, suspend, or revoke an application or license.
 
 
 
 
 
 
-*§ 1-14 Notice of Hearing and Subpoena Duces Tecum.* ::
 
 
-A licensee must appear in person at the Department to answer a notice of hearing or a subpoena duces tecum served upon that licensee. If the licensee is an individual, he or she must appear; if a partnership, one of its general partners must appear; and if a corporation, one of its officers must appear. A notice of hearing or subpoena duces tecum may be served by ordinary mail addressed to the licensee's place of business. They may also be served by ordinary mail addressed to the residence of an individual licensee; the residence of a general partner of a partnership licensee; or the residence of an officer or principal stockholder of a corporate licensee.
+*§ 1-14 Requests for Documents, Subpoenas, Interrogatories, and Notices of Deposition.* ::
+
+
+(a) This section applies to requests for documents, subpoenas, interrogatories, or notices of depositions issued to licensees or applicants pursuant to section 2203 of the New York City Charter, title 20 of the New York City Administrative Code, or any other provisions of law or rule within the jurisdiction of the Department.
+
+(b) A licensee must reply to a subpoena, a request for documents or interrogatories within twenty days of the date the request was mailed or otherwise served upon the licensee.
+
+   (1) If the licensee fails to respond to a subpoena, a request for documents or interrogatories, the licensee is liable for a separate violation for each day the licensee fails to respond to the requests.
+
+   (2) If the licensee provides an incomplete response to a subpoena, a request for documents or interrogatories, the Department may send a deficiency letter to the licensee. If the licensee does not provide a complete response within 14 days of the deficiency letter being sent, the licensee is liable for a separate violation for each day the licensee fails to provide a complete response. If the licensee provides an incomplete response to a subpoena, a request for documents or interrogatories, or to a subsequent deficiency letter, there will be a presumption that the licensee has neglected to respond to each such subpoena, request for documents, interrogatory, or deficiency letter unless the licensee states that the licensee has no responsive documents to that particular request or no information responsive to that particular interrogatory.
+
+   (3) Licensees must include a notarized certification that each subpoena, request for documents or interrogatory was answered fully and truthfully, accompanying their response. Responses to a subpoena, request for documents or interrogatories will not be deemed complete until they are accompanied by such certification.
+
+(c) A licensee must appear at a time and place designated by the Department for a deposition. Failure to appear for a noticed deposition will be grounds for revocation of the licensee's license upon notice and opportunity to be heard. If the licensee is an individual, he or she must appear; if a partnership, one of its general partners with relevant knowledge of the partnership must appear; and if a corporation or limited liability company, one of its members or officers with relevant knowledge of the corporation must appear.
+
+(d) The Department may serve subpoenas, interrogatories, requests for documents, and notices of deposition upon an applicant regarding materials related to a license or renewal application. Failure by the applicant to fully respond to a subpoena, interrogatories or a request for documents, or to appear for a deposition, within twenty days of the mailing date of the request or of the date indicated on the notice of deposition will be grounds for denial of the license application.
+
+(e) Subpoenas, interrogatories, requests for documents and notices of deposition pursuant to this section may be served by ordinary mail addressed to the licensee's or applicant's place of business. They may also be served by ordinary mail addressed to the residence of an individual licensee; the residence of a general partner of a partnership licensee; the residence of an officer or principal stockholder of a corporate licensee, or the residence of a member of a limited liability company licensee. They may also be served by email if an email address has been provided by the licensee or applicant.
+
+(f) Upon good cause shown, the Department may extend the time to respond as required under this section.
+
+
+
+
+
+
+
+
+*§ 1-14.1 Notices of Hearing.* ::
+
+
+A licensee must appear at the Office of Administrative Trials and Hearings to answer a notice of hearing served upon that licensee. If the licensee is an individual, he or she must appear; if a partnership, one of its general partners must appear; if a corporation, one of its officers must appear; and if a limited liability company, one of its members must appear. A notice of hearing pursuant to this section may be served by ordinary mail addressed to the licensee’s place of business. It may also be served by ordinary mail addressed to the residence of an individual licensee; the residence of a general partner of a partnership licensee; the residence of an officer or principal stockholder of a corporate licensee, or the residence of a member of a limited liability company licensee. It may also be served by email if an email address has been provided by the licensee or applicant. Notices of hearing includes summonses, petitions, and other notices of violation filed by the Department.
+
+
 
 
 
@@ -346,10 +383,12 @@ No licensee or employee or agent of such licensee shall purchase, procure, or ha
 
 
 
-*§ 1-18 Surrender of Identification Documents Issued by the Department.* ::
+*§ 1-18 Destruction of Identification Documents Issued by the Department.* ::
 
 
-Whenever any licensee has not renewed a license upon its expiration, such former licensee shall, within not later than 10 business days after the expiration of such license, destroy all license and identification documents that have been issued to such licensee and to any of its employees or agents.
+Whenever any licensee has not renewed a license upon its expiration, such former licensee must, not later than 10 business days after the expiration of such license, destroy all license and identification documents that have been issued to such licensee and to any of its employees or agents.
+
+
 
 
 
@@ -361,11 +400,13 @@ Whenever any licensee has not renewed a license upon its expiration, such former
 
 (a) Unless otherwise specified in the notice, if the Department, on notice, charges a business or individual with engaging in activity without a license required under Chapter 2 of Title 20 of the New York City Administrative Code or under provisions of state law enforced by the Department, there shall be a rebuttable presumption that the unlicensed activity continued every day, without interruption, from the date specified by the Department in the notice as the first date of unlicensed activity through the hearing date.
 
-(b) The first date of unlicensed activity specified by the Department in the notice may be the date of an inspection at which unlicensed activity is identified or any other date on which unlicensed activity first occurred, such as the date the business or individual entered into a contract to conduct business for which a license was required or the first date a business or individual advertised or offered services for which a license was required.
+(b) The first date of unlicensed activity specified by the Department in the notice may be the date of an inspection at which unlicensed activity is identified, the date on which a previously-held license expired, was suspended or revoked, or became void by operation of law, or any other date on which unlicensed activity first occurred, such as the date the business or individual entered into a contract to conduct business for which a license was required or the first date a business or individual advertised or offered services for which a license was required.
 
 (c) Regardless of the date specified by the Department in the notice, if the Department presents at the hearing a copy of a decision or order from a prior proceeding finding that the business or individual engaged in the same unlicensed activity, or a copy of a settlement from a prior proceeding resolving a charge of the same unlicensed activity, there shall be a rebuttable presumption that the unlicensed activity continued every day, without interruption, from the date of the decision, order or settlement through the date of the hearing, unless the decision, order or settlement specifically provides otherwise.
 
-(d) A party may present credible evidence at the hearing to rebut the presumption of continued unlicensed activity, such as written proof that the party obtained a license; receipts or other documentation indicating that merchandise was returned to distributors; written termination of leases or agreements; or photographs demonstrating the discontinuance of the unlicensed activity.
+(d) Regardless of the date specified by the Department in the notice, if the Department presents at the hearing a copy of a decision or order from a prior proceeding revoking or suspending the license to engage in the same activity forming the basis of the charge of unlicensed activity, or a copy of a settlement from a prior proceeding that includes such license revocation or suspension, there shall be a rebuttable presumption that the unlicensed activity continued every day, without interruption, from the date following the decision, order or settlement through the date of the hearing.
+
+(e) A party may present credible evidence at the hearing to rebut the presumption of continued unlicensed activity, such as written proof that the party obtained a license; receipts or other documentation indicating that merchandise was returned to distributors; written termination of leases or agreements; or photographs demonstrating the discontinuance of the unlicensed activity.
 
 
 
@@ -407,6 +448,8 @@ Whenever any licensee has not renewed a license upon its expiration, such former
 
    3. The entity or legal representative against whom the judgment, order or decision was entered on default fails to move to vacate the judgment, order or decision within sixty (60) of the date entered.
 
+(e) The Department reserves the right to take any action on an application or license for any monies owed to the Department regardless of the criteria provided in this section.
+
 
 
 
@@ -432,6 +475,18 @@ Whenever any licensee has not renewed a license upon its expiration, such former
    (3) “Unlawfully imprison” shall mean to restrict a person’s movements intentionally and unlawfully in such manner as to interfere substantially with his or her liberty by moving him or her from one place to another, or by confining him or her either in the place where the restriction commences or in a place to which he or she has been moved, without consent and with knowledge that the restriction is unlawful. A person is so moved or confined “without consent” when such is accomplished by physical force, intimidation or deception.
 
    (4) “Harass” shall mean to intentionally and repeatedly harass another person by following such person in or about a public place or places or by engaging in a course of conduct or by repeatedly committing acts which places such person in reasonable fear of physical injury.
+
+
+
+
+
+
+
+
+*§ 1-22 Reservation of Rights.* ::
+
+
+Nothing in this chapter shall impair, diminish, or otherwise affect any other authority granted to the Department by any general, special or local law or any rule promulgated pursuant thereto to deny an application for a license, permit or registration, or suspend, terminate or revoke a license, permit or registration.
 
 
 
@@ -2908,6 +2963,36 @@ A seller may not state that it is not liable for damages caused by negligence, i
 
 
 It is a deceptive trade practice for any seller to collect sales tax on the sale of any good or service that is not subject to such tax under Article 28 of the New York State Tax Law or the rules and regulations promulgated thereunder.
+
+
+
+
+
+
+
+
+*§ 5-42 Unlawful Price Gouging.* ::
+
+
+(a) Definitions.
+
+   "Covered goods or services." The term "covered goods or service" means any good or service that:
+
+      (i) is reasonably believed by a consumer to aid in diagnosing or monitoring disease symptoms, preventing the spread of disease, or treating disease; or
+
+      (ii) is marketed by a merchant as aiding in diagnosing or monitoring disease symptoms, preventing the spread of disease, or treating disease.
+
+   "Excessive price increase." The term "excessive price increase" means an increase of 10 percent or more above the price at which the same or similar good or service could have been obtained by consumers in the City of New York 30 - 60 days prior to the adoption of this rule.
+
+   "Imminent threat to public health." The term "imminent threat to public health" means an outbreak of disease, found to be an imminent threat to public health or safety by the City of New York or the subject of a State of Emergency within the City of New York.
+
+   "Merchant." The term "merchant" means a seller, lessor, or creditor or any other person who makes available either directly or indirectly, goods, services or credit, to consumers. "Merchant" includes manufacturers, wholesalers and others who are responsible for any act or practice prohibited by this subchapter.
+
+(b) (1) It shall be an unconscionable trade practice for a merchant to sell or offer for sale covered goods or services with an excessive price increase during an imminent threat to public health.
+
+   (2) An increase in price shall be considered lawful if the merchant establishes that the increase was directly attributable to additional costs imposed on it by the supplier of the goods, or directly attributable to additional costs for labor or materials used to provide the services, provided that the increase charged to the consumer is comparable to the increase incurred by the merchant.
+
+   (3) Each sale or offer for sale in violation of this rule constitutes a separate violation.
 
 
 

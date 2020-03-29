@@ -66,109 +66,6 @@ The Commission may, upon the adoption of a motion, close the hearing and leave t
 
 
 
-Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines) [Repealed]
---------------------------------------------------
-
-
-
-*§ 3-01 Introduction. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-02 Repairs, Rehabilitation and Restoration. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-03 Storm Windows. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-04 Replacement of Sash and Frames. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-05 Master Plans. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-06 Application Procedure. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-07 Pre-Qualified Open Market Manufactured Windows. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*Appendix A: Illustrations of Windows. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*Appendix B: Parts of a Double-Hung Window. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*Appendix C: Window Guidelines – Definitions. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 2: Approval of Proposed Work on Designated Buildings and Structures
 --------------------------------------------------
 
@@ -2624,6 +2521,109 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 
 **Appendix A: Resources for Historic Photographs &amp; Drawings**
 
+Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines) [Repealed]
+--------------------------------------------------
+
+
+
+*§ 3-01 Introduction. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-02 Repairs, Rehabilitation and Restoration. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-03 Storm Windows. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-04 Replacement of Sash and Frames. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-05 Master Plans. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-06 Application Procedure. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-07 Pre-Qualified Open Market Manufactured Windows. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*Appendix A: Illustrations of Windows. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*Appendix B: Parts of a Double-Hung Window. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*Appendix C: Window Guidelines – Definitions. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 4: Designated Broadway Theaters
 --------------------------------------------------
 
@@ -3228,153 +3228,6 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 
-Chapter 9: Alterations To Designated Bank Interiors
---------------------------------------------------
-
-
-
-*§ 9-01 Introduction.* ::
-
-
-(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
-
-(b) These rules are based on the following principles:
-
-   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
-
-   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
-
-   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
-
-(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
-
-(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
-
-
-
-
-
-
-*§ 9-02 Definitions.* ::
-
-
-As used in these Rules, the following terms shall have the following meanings:
-
-Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
-
-Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
-
-Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
-
-Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
-
-LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
-
-Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
-
-Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
-
-Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
-
-State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
-
-
-
-
-
-
-*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
-
-
-(a)  The following interior landmarks are subject to these rules:
-
-   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
-
-   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
-
-   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
-
-   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
-
-   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
-
-   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
-
-   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
-
-   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
-
-   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
-
-   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
-
-   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
-
-
-
-
-
-
-*§ 9-04 Changes to Non-significant Features.* ::
-
-
-(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
-
-   (1) The visible volume and configuration of the banking interior is maintained; and
-
-   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
-
-
-
-
-
-
-*§ 9-05 State-of-the-Art Banking Changes.* ::
-
-
-(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
-
-   (1) the visible volume and configuration of the banking interior is maintained; and
-
-   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
-
-   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
-
-(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (C of A) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
-
-
-
-
-
-
-*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
-
-
-(a)  Any C of A application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
-
-(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the C of A.
-
-
-
-
-
-
-*§ 9-07 Application Procedures.* ::
-
-
-(a)  Submission of Application. See 63 RCNY Chapter 2, Subchapter A ("Application Procedure") of these Rules.
-
-(b) Review Procedure.
-
-   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
-
-   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
-
-   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
-
-
-
-
 Chapter 8: Proposed Alterations and New Construction of Storefronts In the Jackson Heights Historic District
 --------------------------------------------------
 
@@ -3735,6 +3588,153 @@ EXAMPLE THREE – BUILDING WITH MULTIPLE STOREFRONTS
 
 
 
+Chapter 9: Alterations To Designated Bank Interiors
+--------------------------------------------------
+
+
+
+*§ 9-01 Introduction.* ::
+
+
+(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
+
+(b) These rules are based on the following principles:
+
+   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
+
+   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
+
+   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
+
+(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
+
+(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
+
+
+
+
+
+
+*§ 9-02 Definitions.* ::
+
+
+As used in these Rules, the following terms shall have the following meanings:
+
+Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
+
+Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
+
+Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
+
+Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+
+Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
+
+Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
+
+Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
+
+State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
+
+
+
+
+
+
+*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
+
+
+(a)  The following interior landmarks are subject to these rules:
+
+   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
+
+   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
+
+   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
+
+   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
+
+   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
+
+   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
+
+   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
+
+   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
+
+   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
+
+   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
+
+   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
+
+
+
+
+
+
+*§ 9-04 Changes to Non-significant Features.* ::
+
+
+(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
+
+   (1) The visible volume and configuration of the banking interior is maintained; and
+
+   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
+
+
+
+
+
+
+*§ 9-05 State-of-the-Art Banking Changes.* ::
+
+
+(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
+
+   (1) the visible volume and configuration of the banking interior is maintained; and
+
+   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
+
+   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
+
+(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (C of A) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
+
+
+
+
+
+
+*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
+
+
+(a)  Any C of A application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
+
+(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the C of A.
+
+
+
+
+
+
+*§ 9-07 Application Procedures.* ::
+
+
+(a)  Submission of Application. See 63 RCNY Chapter 2, Subchapter A ("Application Procedure") of these Rules.
+
+(b) Review Procedure.
+
+   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
+
+   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
+
+   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+
+
+
+
 Chapter 10: Notification To Lessees of Landmarks Designation and Permit Requirements
 --------------------------------------------------
 
@@ -3885,79 +3885,6 @@ Service. A stop work order may be served: (1) by mailing the stop work order to 
 “C of A” means “Certificate of Appropriateness”; “CNE” means “Certificate of No Effect”; “PMW” means “Permit for Minor Work”
 
 
-
-
-
-
-Chapter 13: Fees
---------------------------------------------------
-
-
-
-*§ 13-01 Requirement of Fee.* ::
-
-
-All applicants for a certificate of appropriateness or a certificate of no effect shall pay a fee, as established in accordance with the provisions of this Chapter, except that no fees shall be payable by an owner of the designated building or property affected if the owner is a corporation or association organized and operated exclusively for religious, charitable or educational purposes, or for one or more such purposes, no part of the earnings of which enures to the benefit of any private shareholder or individual, and provided that the property affected is used exclusively by such corporation or association for one or more of such purposes.
-
-
-
-
-
-
-*§ 13-02 Fee for Approval and Consideration of Applications.* ::
-
-
-The fees required to be paid under this Chapter are for filing and processing of aplications for certificates of appropriateness and certificates of no effect. The total fee for such work shall be paid by or on behalf of the owner or lessee of the designated building or property before the Department of Buildings issues a work permit or other approval for such work approved in the certificate of appropriateness or certificate of no effect. The fees required to be paid under this Chapter shall be payable each time the owner or lessee of the designated building or property shall apply for a permit or approval from the Department of Buildings for work approved in a certificate of appropriateness or certificate of no effect.
-
-
-
-
-
-
-*§ 13-03 Definitions.* ::
-
-
-"Administrative Code" shall mean the Administrative Code of the City of New York.
-
-"Designated building or property" shall mean an improvement designated as a landmark, interior landmark or as part of a historic district, and the landmark site(s) associated with such designation, pursuant to § 25-303 of the Administrative Code.
-
-
-
-
-
-
-*§ 13-04 Computation of Fees.* ::
-
-
-Fees shall be computed as hereinafter provided:
-
-(a) New buildings. The fees for permits to construct new buildings shall be computed as follows:
-
-   (1) a fee of twenty-five cents per square foot or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings, other than one, two or three family dwellings.
-
-   (2) a fee of fifteen cents per square foot, or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings that are one, two or three family dwellings.
-
-(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § 28-112.2 of the Administrative Code.
-
-(c) Demolition and removal. A fee computed by multiplying the street frontage in feet by the number of stories of the building times one dollar, but not less than one hundred dollars, shall be paid for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code. For corner lots, use the longer street frontage.
-
-(d) Signs. A fee of one hundred dollars to erect, install or alter a sign shall be paid for each sign subject to a fee payable to the Department of Buildings pursuant to § 28-112.2. An additional fee shall be payable for signs as follows:
-
-   (1) A fee of fifty dollars shall be paid for each ground sign subject to a fee pursuant to § 28-112.2 of the Administrative Code.
-
-   (2) A fee of fifty dollars shall be paid for each roof sign having a tight, closed or solid surface, where such sign is subject to a fee pursuant to § 28-112.2 of the Administrative Code.
-
-   (3) A fee of fifty dollars shall be paid for each roof sign that does not have a tight, closed or solid surface and where such sign does not extend beyond thirty-one feet above the roof level, where such sign is subject to a fee pursuant to § [26-212(6)(a)(3)] 28-112.2 of the Administrative Code. A fee of one hundred shall be paid for each roof sign that exceeds thirty-one feet above the roof level.
-
-
-
-
-
-
-*§ 13-05 Effective Date.* ::
-
-
-The fees required pursuant to this Chapter shall apply to certificates of appropriateness and certificates of no effect issued on or after July 1, 2004.
 
 
 
@@ -4267,6 +4194,79 @@ Terms not otherwise defined in these rules or the District Master Plan shall hav
       (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
 
       (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+
+
+
+
+Chapter 13: Fees
+--------------------------------------------------
+
+
+
+*§ 13-01 Requirement of Fee.* ::
+
+
+All applicants for a certificate of appropriateness or a certificate of no effect shall pay a fee, as established in accordance with the provisions of this Chapter, except that no fees shall be payable by an owner of the designated building or property affected if the owner is a corporation or association organized and operated exclusively for religious, charitable or educational purposes, or for one or more such purposes, no part of the earnings of which enures to the benefit of any private shareholder or individual, and provided that the property affected is used exclusively by such corporation or association for one or more of such purposes.
+
+
+
+
+
+
+*§ 13-02 Fee for Approval and Consideration of Applications.* ::
+
+
+The fees required to be paid under this Chapter are for filing and processing of aplications for certificates of appropriateness and certificates of no effect. The total fee for such work shall be paid by or on behalf of the owner or lessee of the designated building or property before the Department of Buildings issues a work permit or other approval for such work approved in the certificate of appropriateness or certificate of no effect. The fees required to be paid under this Chapter shall be payable each time the owner or lessee of the designated building or property shall apply for a permit or approval from the Department of Buildings for work approved in a certificate of appropriateness or certificate of no effect.
+
+
+
+
+
+
+*§ 13-03 Definitions.* ::
+
+
+"Administrative Code" shall mean the Administrative Code of the City of New York.
+
+"Designated building or property" shall mean an improvement designated as a landmark, interior landmark or as part of a historic district, and the landmark site(s) associated with such designation, pursuant to § 25-303 of the Administrative Code.
+
+
+
+
+
+
+*§ 13-04 Computation of Fees.* ::
+
+
+Fees shall be computed as hereinafter provided:
+
+(a) New buildings. The fees for permits to construct new buildings shall be computed as follows:
+
+   (1) a fee of twenty-five cents per square foot or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings, other than one, two or three family dwellings.
+
+   (2) a fee of fifteen cents per square foot, or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings that are one, two or three family dwellings.
+
+(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § 28-112.2 of the Administrative Code.
+
+(c) Demolition and removal. A fee computed by multiplying the street frontage in feet by the number of stories of the building times one dollar, but not less than one hundred dollars, shall be paid for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code. For corner lots, use the longer street frontage.
+
+(d) Signs. A fee of one hundred dollars to erect, install or alter a sign shall be paid for each sign subject to a fee payable to the Department of Buildings pursuant to § 28-112.2. An additional fee shall be payable for signs as follows:
+
+   (1) A fee of fifty dollars shall be paid for each ground sign subject to a fee pursuant to § 28-112.2 of the Administrative Code.
+
+   (2) A fee of fifty dollars shall be paid for each roof sign having a tight, closed or solid surface, where such sign is subject to a fee pursuant to § 28-112.2 of the Administrative Code.
+
+   (3) A fee of fifty dollars shall be paid for each roof sign that does not have a tight, closed or solid surface and where such sign does not extend beyond thirty-one feet above the roof level, where such sign is subject to a fee pursuant to § [26-212(6)(a)(3)] 28-112.2 of the Administrative Code. A fee of one hundred shall be paid for each roof sign that exceeds thirty-one feet above the roof level.
+
+
+
+
+
+
+*§ 13-05 Effective Date.* ::
+
+
+The fees required pursuant to this Chapter shall apply to certificates of appropriateness and certificates of no effect issued on or after July 1, 2004.
 
 
 
