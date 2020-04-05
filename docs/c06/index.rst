@@ -17817,65 +17817,6 @@ A Required Permit must be applied for and issued in accordance with the provisio
 
 
 
-Chapter 49: Spraying Insulating Material
---------------------------------------------------
-
-
-
-*§ 49-01 Definitions.* ::
-
-
-For the purposes of this chapter, the following term has the following meaning:
-
-Insulating Material. “Insulating Material” means any material or combination of materials, except spray on foam, that restricts the flow of heat energy.
-
-
-
-
-
-
-
-
-*§ 49-02 Applicability.* ::
-
-
-This chapter is not applicable to new construction.
-
-
-
-
-
-
-
-
-*§ 49-03 Precautions to be Taken During Spraying of Insulating Material.* ::
-
-
-No person may cause or permit the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, unless he or she complies with the following precautions.
-
-(1) Before the start of spraying operations all floor areas must be shoveled clean. Before the application of insulating material commences, the floor of the areas must be cleared of all objects, material and equipment other than that employed in the application of the insulating material, or all objects, material, and equipment must be covered with plastic or other approved tarpaulins in a manner that prevents the subsequent dispersal of dust.
-
-(2) The entire floor, or the part of the floor to be insulated, must be enclosed with plastic or other approved tarpaulins in a manner that prevents the escape of dust from the enclosure. All interior open areas, such as elevator shafts and stairwells must be enclosed in a manner that prevents the escape of dust from the working area. Stack effect of the shafts and stairwells must be considered in providing proper enclosures. An enclosure will be considered satisfactory only if visible insulating material cannot escape from the enclosure.
-
-(3) Wet insulating material that has fallen to the floor must be shoveled and scraped to prevent dispersal of dried material. This material must be removed no later than the end of the working day. Shoveled and scraped material must be placed in a heavy plastic bag strong enough to resist tearing or breaking under normal handling conditions and clearly marked as containing insulating material waste. The bags must then be placed into containers, pursuant to Section BC 3303.4.2 of the New York City Building Code. The contents of the aforementioned plastic bags must not be transferred to another container and must not be combined with any designated recyclable materials, pursuant to §§ 16-305, 16-306, 16-306.1, 16-307, 16-308 and 16-314 of the Administrative Code of the City of New York. The plastic bags must be placed upon a vehicle for either transfer to a solid waste transfer station, pursuant to 16 RCNY Ch. 4 or disposal at a site approved by the commissioner and regulated under 6 NYCRR Part 360 if located in New York State or that is consistent with the regulations adopted by any locality where such disposal site is located if outside New York State.
-
-(4) All areas used for opening bags containing insulating material and/or changing of containers must be vacuumed with a HEPA air filtration vacuum or a dust collection system.
-
-(5) Signs must be posted outside enclosures warning persons that entering the enclosure without appropriate apparel may be a hazard.
-
-(6) Facilities must be provided and procedures instituted and supervised that prevent the removal and dispersal of insulating material from the construction site on the clothing or other accessories of persons leaving the area. All persons involved in the spraying of insulating material at the site must be furnished with personal protective equipment specified in the applicable Safety Data Sheet, including suitable coveralls which must be left at the site until properly disposed of in plastic garbage bags. No person will be permitted in an area in which spraying or handling of insulating material is underway or has taken place until the final vacuuming referred to in paragraph four of this subdivision has been accomplished, unless such person is furnished with or wears personal protective equipment in accordance with this paragraph.
-
-(7) Any plenum or structures coated with insulating material which are intended for use in circulation of air in the building must be thoroughly cleaned of all debris, dust and waste insulation. All applied insulation material within a plenum or duct must comply with Section MC 602.2.1 of the New York City Mechanical Code.
-
-(8) A person who is fully trained in accordance with current standard industry practice must be assigned the full-time responsibility of supervising the spraying, preparation and clean-up operations to ensure that no insulating material is released from the construction site.
-
-(9) In case of emission of insulation material from the construction site, immediate steps must be taken to cease such emissions which may include work stoppage at the source of the emissions. There must then be immediate and complete clean-up of all material that has escaped the construction site using control measures including but not limited to the use of a water hose and HEPA vacuum that prevent further dispersal of any insulating material into the atmosphere.
-
-
-
-
-
-
 Chapter 48: Green Infrastructure Grant Program
 --------------------------------------------------
 
@@ -18109,6 +18050,65 @@ To be eligible for a Grant, Applicants must be in compliance with the following:
 (i) The City has the unrestricted right to use the designs for any Projects for which Grants are awarded for any future Projects or purposes at no additional cost to the City.
 
 (j) The City has the right to publish photographs of completed Projects. The Grantee must indicate in any statements to the press or in any materials for publication in any media of communication (print, news, television, radio, internet, etc.) that the Project was funded wholly or in part by the Department.
+
+
+
+
+
+
+Chapter 49: Spraying Insulating Material
+--------------------------------------------------
+
+
+
+*§ 49-01 Definitions.* ::
+
+
+For the purposes of this chapter, the following term has the following meaning:
+
+Insulating Material. “Insulating Material” means any material or combination of materials, except spray on foam, that restricts the flow of heat energy.
+
+
+
+
+
+
+
+
+*§ 49-02 Applicability.* ::
+
+
+This chapter is not applicable to new construction.
+
+
+
+
+
+
+
+
+*§ 49-03 Precautions to be Taken During Spraying of Insulating Material.* ::
+
+
+No person may cause or permit the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, unless he or she complies with the following precautions.
+
+(1) Before the start of spraying operations all floor areas must be shoveled clean. Before the application of insulating material commences, the floor of the areas must be cleared of all objects, material and equipment other than that employed in the application of the insulating material, or all objects, material, and equipment must be covered with plastic or other approved tarpaulins in a manner that prevents the subsequent dispersal of dust.
+
+(2) The entire floor, or the part of the floor to be insulated, must be enclosed with plastic or other approved tarpaulins in a manner that prevents the escape of dust from the enclosure. All interior open areas, such as elevator shafts and stairwells must be enclosed in a manner that prevents the escape of dust from the working area. Stack effect of the shafts and stairwells must be considered in providing proper enclosures. An enclosure will be considered satisfactory only if visible insulating material cannot escape from the enclosure.
+
+(3) Wet insulating material that has fallen to the floor must be shoveled and scraped to prevent dispersal of dried material. This material must be removed no later than the end of the working day. Shoveled and scraped material must be placed in a heavy plastic bag strong enough to resist tearing or breaking under normal handling conditions and clearly marked as containing insulating material waste. The bags must then be placed into containers, pursuant to Section BC 3303.4.2 of the New York City Building Code. The contents of the aforementioned plastic bags must not be transferred to another container and must not be combined with any designated recyclable materials, pursuant to §§ 16-305, 16-306, 16-306.1, 16-307, 16-308 and 16-314 of the Administrative Code of the City of New York. The plastic bags must be placed upon a vehicle for either transfer to a solid waste transfer station, pursuant to 16 RCNY Ch. 4 or disposal at a site approved by the commissioner and regulated under 6 NYCRR Part 360 if located in New York State or that is consistent with the regulations adopted by any locality where such disposal site is located if outside New York State.
+
+(4) All areas used for opening bags containing insulating material and/or changing of containers must be vacuumed with a HEPA air filtration vacuum or a dust collection system.
+
+(5) Signs must be posted outside enclosures warning persons that entering the enclosure without appropriate apparel may be a hazard.
+
+(6) Facilities must be provided and procedures instituted and supervised that prevent the removal and dispersal of insulating material from the construction site on the clothing or other accessories of persons leaving the area. All persons involved in the spraying of insulating material at the site must be furnished with personal protective equipment specified in the applicable Safety Data Sheet, including suitable coveralls which must be left at the site until properly disposed of in plastic garbage bags. No person will be permitted in an area in which spraying or handling of insulating material is underway or has taken place until the final vacuuming referred to in paragraph four of this subdivision has been accomplished, unless such person is furnished with or wears personal protective equipment in accordance with this paragraph.
+
+(7) Any plenum or structures coated with insulating material which are intended for use in circulation of air in the building must be thoroughly cleaned of all debris, dust and waste insulation. All applied insulation material within a plenum or duct must comply with Section MC 602.2.1 of the New York City Mechanical Code.
+
+(8) A person who is fully trained in accordance with current standard industry practice must be assigned the full-time responsibility of supervising the spraying, preparation and clean-up operations to ensure that no insulating material is released from the construction site.
+
+(9) In case of emission of insulation material from the construction site, immediate steps must be taken to cease such emissions which may include work stoppage at the source of the emissions. There must then be immediate and complete clean-up of all material that has escaped the construction site using control measures including but not limited to the use of a water hose and HEPA vacuum that prevent further dispersal of any insulating material into the atmosphere.
 
 
 
