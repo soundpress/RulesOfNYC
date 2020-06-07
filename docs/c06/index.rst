@@ -18394,391 +18394,6 @@ Chapter 54: Community Right-To-Know Law Penalty Schedule
 
 
 
-Chapter 57: Rules Concerning Drilling and Excavation
---------------------------------------------------
-
-
-
-*§ 57-01 Purpose and Applicability.* ::
-
-
-(a) Purpose. The purpose of these rules is to protect Department and Water Board water tunnels and shafts in the five boroughs of New York City from potential damage due to drilling or excavation.
-
-(b) Applicability.
-
-   (1) These rules apply to any proposed drilling or excavation, for any purpose, to a depth greater than fifty (50) feet below ground surface in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan, or greater than 100 feet in the borough of Brooklyn, Queens or Staten Island or south of 135th Street in the borough of Manhattan, in a corridor within the City of New York or to any depth within 200 feet horizontal distance of a water tunnel shaft.
-
-   (2) These rules do not apply to any drilling or excavation conducted by, or on behalf of, the Department for water supply or wastewater projects.
-
-   (3) These rules do not apply to drilling and excavation projects permitted by the New York City Department of Buildings prior to the effective date of these rules.
-
-
-
-
-
-
-
-
-*§ 57-02 Definitions.* ::
-
-
-For the purposes of these rules, the following definitions apply:
-
-Application. "Application" means the Department Drilling and Excavation Permit Application, including all information and documentation required by the Commissioner and these rules.
-
-Azimuth. "Azimuth" means an angle used to define the apparent position of an object, relative to a specific observation point.
-
-Blowout preventer. "Blowout preventer" means a safety device used to prevent the uncontrolled flow of liquids and gases during well drilling operations.
-
-Borehole. "Borehole" means a narrow shaft bored in the ground as part of a geotechnical investigation.
-
-Commissioner. "Commissioner" means the Commissioner of Environmental Protection or his or her designee.
-
-Corridor. "Corridor" means a block that has any part of its boundary falling within five hundred (500) feet horizontal distance from the centerline of any water tunnel or shaft as measured at or near the surface.
-
-Crown. "Crown" means the topmost point of a water tunnel.
-
-Datum Plane. "Datum Plane" means the horizontal plane from which heights and depths are calculated.
-
-Department. "Department" means the New York City Department of Environmental Protection and its authorized agents.
-
-Deviation. "Deviation" means a borehole's departure from a true vertical line, measured in degrees.
-
-Deviation survey. "Deviation survey" means an investigative procedure conducted using generally accepted engineering principles and practices to establish the position of a tip of a borehole or well, with respect to a true vertical line, and the orientation of such tip with respect to north direction.
-
-Directional drilling. "Directional drilling" means a method used to control the location and the direction of the drill bit.
-
-Drill or Drilling. "Drill" or "Drilling" means using shaft-like equipment with a drill bit to bore a hole to below ground surface.
-
-Elevation. "Elevation" means the height above or below a specific datum plane.
-
-Excavate or Excavation. "Excavate" or "Excavation" means any man-made cut, cavity, trench, or depression in an earth surface formed by earth removal.
-
-Geothermal well. "Geothermal well" means a well which taps into the natural geothermal energy found beneath the Earth's crust in order to harness the heat energy produced by the earth underground.
-
-Gyroscopic probe. "Gyroscopic probe" means a device used for measuring or maintaining position or orientation.
-
-Invert. "Invert" means the lowest inside surface or floor of a water tunnel.
-
-No Drilling/Excavation Zone. "No Drilling/Excavation Zone" means a boundary area defined as two hundred feet (200') on either side of the centerline of the water tunnel and vertical distances of one hundred fifty feet (150') above the crown of the water tunnel and one hundred fifty feet (150') below the invert of the water tunnel; or, except as otherwise indicated, two hundred feet (200') feet on either side of the centerline of the water tunnel shaft.
-
-Owner. "Owner" means any person who holds legal title to a property or any person who holds a leasehold of at least twenty (20) years over a property, where the property is a proposed drilling or excavation site.
-
-Permit. "Permit" means a written document issued by the Department granting an owner approval, if owner meets required conditions, to drill and/or excavate on a property in close proximity to a water tunnel or shaft.
-
-Permittee. "Permittee" means an owner to whom the Department has issued a permit.
-
-Person. "Person" means an individual, firm, partnership, company, corporation, association, society, institution, organization, governmental agency, administration, department, or other group of individuals or legal entity, or an officer or employee thereof.
-
-Site plan. "Site plan" means a plan of the area of a proposed drilling or excavation operation.
-
-Stratigraphic well. "Stratigraphic well" means a well drilled for stratigraphic information, i.e., information about rock strata, especially the distribution, deposition, and age of sedimentary rocks.
-
-Verticality probe. "Verticality probe" means a device used to measure inclination and to provide accurate information on the precise location of underground features intersected by a borehole.
-
-Water Board. "Water Board" means the New York City Water Board.
-
-Water Tunnel. "Water Tunnel" means any tunnel or covered aqueduct, including a water tunnel shaft, used to convey the supply of drinking water, that is owned, leased or operated by the City of New York, the Water Board, or the Department and located in the five boroughs of New York City.
-
-Water tunnel shaft or shaft. "Water tunnel shaft or shaft" means a shaft of a water tunnel consisting of a vertical pathway that conveys water from an underground tunnel to a chamber at the surface. A shaft is constructed with pipes connected to a concrete lined circular opening in bedrock.
-
-Water tunnel shaft structure or shaft structure. "Water tunnel shaft structure or shaft structure" means the shaft superstructure and substructure including any building, building foundation, or below grade chamber associated with a shaft facility.
-
-
-
-
-
-
-
-
-*§ 57-03 Standards for Drilling and Excavation.* ::
-
-
-No person may drill or excavate in a corridor within the City of New York, to a depth greater than fifty (50) feet below ground surface in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan; or greater than 100 feet in the borough of Brooklyn, Queens or Staten Island or south of 135th Street in the borough of Manhattan or to any depth within 200 feet horizontal distance of a water tunnel shaft, without obtaining a permit from the Department.
-
-A person with a permit may drill or excavate in a corridor within the City of New York only to the extent allowed under the permit. Any other drilling or excavation will be a violation of these rules.
-
-
-
-
-
-
-
-
-*§ 57-04 Application for Drilling and Excavation Permit.* ::
-
-
-(a) Pre-Application Assessment Submittal. Every person drilling to a depth greater than 50 feet (15 240 mm) in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan, or greater than 100 feet (30 480mm) in the borough of Brooklyn, Queens, or Staten Island or south of 135th Street in the borough of Manhattan, must submit to the Department a pre-application for proposed drilling and/or excavation. A Pre-Application Assessment Form is available on the Department's website at www.nyc.gov/DEP, or by request in person or by mail, from the DEP Bureau of Water and Sewer Operations Permitting Office at the address on the Department's website.
-
-   (1) Pre-Application Requirements. The pre-application assessment submission must include the following information:
-
-      (i) the name, address, and telephone number of the owner and project engineer, architect or contractor;
-
-      (ii) the proposed location and depth of the drilling and/or excavation, as applicable, by way of address, block and lot, and a survey of the proposed location in reference to the applicable block and lot.
-
-   (2) Within ten (10) business days from receipt of a pre-application assessment submission, the Department will notify the applicant that:
-
-      (i) proposed drilling and/or excavation is located in a corridor and within a No Drilling/Excavation Zone, and that no drilling or excavation is permitted; or
-
-      (ii) a permit is not required to drill and/or excavate because the proposed drilling and/or excavation is not located in a corridor; or
-
-      (iii) a permit is not required to drill and/or excavate because the drilling or excavation is more than fifteen feet (15') from the outer wall of a shaft structure and less than fifteen feet (15') below ground surface; or
-
-      (iv) proposed drilling and/or excavation is located in a corridor, and a permit application must be submitted to the Department with the required documentation in accordance with 15 RCNY § 57-04(b) et seq.
-
-(b) Permit Application Form and Fee. To obtain a permit, an owner must file an application with the Department. An application form is available on the Department's website at www.nyc.gov/ DEP, or by request, in person or by mail, from the DEP Bureau of Water and Sewer Operations Permitting Office at the address on the Department's website. The application must be accompanied by a filing fee, as established by the latest New York City Water Board Water and Sewer Rate schedule, in the form of a bank check, certified check, or money order made payable to the New York City Water Board.
-
-   (1) Application Requirements. The application must include the following information:
-
-      (i) the name, address, and telephone number of the owner;
-
-      (ii) the name, address, and telephone number of the company performing the drilling or excavation, and the name of a contact person;
-
-      (iii) the name, address, telephone number, and email address of the project engineer; and
-
-      (iv) the proposed location of the drilling and/or excavation, as applicable, by way of address, block and lot, and a survey of the proposed location in reference to the applicable block and lot, prepared and sealed by a land surveyor licensed to practice in the State of New York.
-
-   (2) Additional Information. The Department may at its discretion require an owner to submit additional information to complete the application, including but not limited to:
-
-      (i) the site plan of the borehole or well location, prepared and sealed by a professional engineer licensed to practice in the State of New York. The site plan must indicate the ground surface elevation of the borehole or well, the proposed depth and elevation of the bottom of the borehole or well, and the diameter of the borehole or well;
-
-      (ii) the purpose of the drilling and/or excavation, as applicable, which may include but is not limited to drilling a geothermal well or stratigraphic well or excavating as part of an environmental investigation;
-
-      (iii) the proposed methods to measure deviation from the vertical and azimuth of the borehole or well;
-
-      (iv) the anticipated start and end dates of drilling and/or excavation, as applicable;
-
-      (v) the site plan of the drilling and/or excavation, as applicable. The site plan must indicate the ground surface elevation of the drilling and/or excavation, the proposed depth and elevation of the bottom of the drilling and/or excavation, and the length and width of the excavation or diameter of the drilling;
-
-      (vi) the proposed method of excavation and drilling stamped and signed by a professional engineer; and
-
-      (vii) upon preliminary notification from the Department that drilling and/or excavation at a proposed location requires insurance, proof of insurance as further delineated in 15 RCNY § 57-06.
-
-
-
-
-
-
-
-
-*§ 57-05 Issuance of Drilling and Excavation Permit.* ::
-
-
-(a) Standards for Issuance. Within thirty (30) days from receipt of an application and processing fee:
-
-   (1) If the proposed drilling and/or excavation is located in a corridor and inside the No Drilling and/or Excavation zone, the Department will deny a permit.
-
-   (2) If the proposed drilling and/or excavation is located in a corridor but outside of the No Drilling and/or Excavation zone and the Department believes that the drilling and/or excavation will not impair the stability of a water tunnel or shaft, the Department will issue a permit upon its further determination that the drilling and/or excavation complies with all standards and requirements of these rules, including but not limited to, engineering, legal, and insurance standards and requirements. The Department will not issue a permit unless proof of insurance required by the Department under these rules has been submitted to and accepted by the Department in accordance with the requirements of 15 RCNY § 57-06(b).
-
-(b) General Permit Conditions.
-
-   (1) The permittee or the contractor must notify the Department 30 days prior to commencing any drilling or excavation activity.
-
-   (2) Permittee is authorized to drill and/or excavate only to the depth specified by the permit as shown on approved plan.
-
-   (3) The permittee must abandon any borehole or well within two hundred feet (200') horizontal distance from the center line of a water tunnel, where the tip of the borehole or well comes within one hundred fifty feet (150') above the crown of a water tunnel or within one hundred fifty (150') below the invert of a water tunnel.
-
-      (i) The permittee must seal any abandoned borehole or well through the full drilling depth with Departmentapproved material, and
-
-      (ii) The permittee must bear all costs and expenses associated with the sealing of such borehole or well.
-
-   (4) The permittee must abandon any excavation within two hundred feet (200') horizontal distance from the centerline of a water tunnel, where the elevation of the bottom of the excavation comes within one hundred fifty feet (150') above the crown of a water tunnel.
-
-      (i) The permittee must fill any abandoned excavation throughout its full depth with Department-approved material, and
-
-      (ii) The permittee must bear all costs and expenses associated with the filling of such excavation.
-
-   (5) The permittee must abandon any borehole or well within two hundred feet (200') horizontal distance from a shaft.
-
-      (i) The permittee must seal any abandoned borehole or well through the full drilling depth with cement grout or other suitable material and
-
-      (ii) The permittee shall bear all costs and expenses associated with the plugging of such borehole or well.
-
-   (6) The permittee must abandon any excavation within two hundred feet (200') horizontal distance from a shaft.
-
-      (i) The permittee must fill any abandoned excavation throughout its full depth with Department-approved material, and
-
-      (ii) The permittee must bear all costs and expenses associated with the filling of such excavation.
-
-   (7) The permittee may be required to utilize a blowout preventer, when the Department. determines that its use is necessary to prevent damage to the water tunnel or shaft.
-
-   (8) The permittee must comply with all applicable laws and regulations.
-
-   (9) The permittee must not perform work in such a way that damages any water tunnel or shaft.
-
-   (10) Within thirty (30) days after completing drilling and/or excavation, the permittee must provide documentation to the Department indicating the depth and azimuth of the finished borehole or well and/or the depth of the excavation, as applicable. A professional engineer or licensed land surveyor must stamp such certification.
-
-   (11) The permittee must conduct, at a frequency specified by the Department, all deviation surveys deemed necessary by the Commissioner. The frequency will vary depending on the type of drilling equipment utilized and the location of the borehole or well. If the Department requires the applicant to perform a deviation survey:
-
-      (i) The permittee must engage an experienced specialty surveyor licensed as a land surveyor in the State of New York, who has experience conducting deviation surveys;
-
-      (ii) The permittee must conduct a deviation survey that measures borehole or well inclination and azimuth;
-
-      (iii) The permittee must conduct the deviation survey utilizing a gyroscopic probe or another suitable verticality probe;
-
-      (iv) The drilling company or engineering firm must process the deviation survey output to produce a log containing tabular and graphical representations of the borehole or well inclination, azimuth, and depth; must maintain the log on site; must update the log at least once per shift or every 8 hours, whichever is sooner; and must make the log readily available for a Department inspector to review;
-
-      (v) If the Department determines that the deviation survey is inadequate or the drilling is not proceeding as approved, the Department may require the permittee to retain an independent deviation surveyor and bear all costs and expenses associated with that surveyor; permittee must submit the credentials of the independent surveyor to DEP for review and approval
-
-   (12) The permit shall be valid for a period not to exceed three (3) years from the date of issuance.
-
-(c) Stop Work Order or Independent Inspector. Whenever the department finds that drilling and/or excavation is in violation of this section or creates a danger to water tunnel or shaft the department may:
-
-   (1) Issue a stop work order, or
-
-   (2) Require the permittee to retain an inspector independent of the contractor at the drilling and/or excavation site in order to observe the drilling and/or excavation activities, verify the drilling results, or for any other purpose the Commissioner deems necessary. Such inspector must be an architect or professional engineer licensed in New York State with a minimum of five (5) years of drilling/excavation experience; the permittee must submit the inspector's credentials to DEP for review and approval. The permittee must bear all costs and expenses associated with the inspection personnel.
-
-(d) Revocation of permit.
-
-   (1) The Department may revoke a permit on written notice to the permittee, when the Department finds that permittee failed to comply with any of the requirements of subdivision (b). Such notice shall inform the permittee of the reasons for the proposed revocation and that the applicant has the right to present to the commissioner or his or her representative, within 10 business days of delivery of the notice by hand or 15 calendar days of mailing of the notice, information as to why the Department should not revoke the permit. When a permit is revoked, all activity at the drilling and/or excavation site shall cease and not resume until the permittee corrects the non-compliance and reapplies for the permit and the Department issues a new permit.
-
-   (2) Non-compliance that creates an immediate danger will result in the automatic revocation of a permit. A permittee may correct the non-compliance and reapply for the permit. Alternatively, a permittee may appeal the revocation in writing to the Department's Commissioner. Within 30 days of receiving such appeal, the Department must issue a written determination upholding or reversing the revocation.
-
-
-
-
-
-
-
-
-*§ 57-06 Assumption of Risk, Indemnification, and Insurance.* ::
-
-
-(a) Assumption of Risk. The permittee and contractor assume the risk of, and shall be responsible for any loss or damage to property of the City of New York or the Water Board, arising out of or in any way related to operations for which the Department has issued a permit.
-
-(b) Indemnification. The permittee and the contractor shall defend, indemnify, and hold harmless the City of New York and the Water Board, including their respective officials and employees, against any and all claims, liens, demands, judgments, penalties, fines, liabilities, settlements, damages, costs and expenses of whatever kind or nature (including, without limitation, attorneys' fees and disbursements), known or unknown, contingent or otherwise, allegedly arising out of or in any way related to operations for which the Department has issued a permit and/or the permittee's and/or contractor's failure to comply with any of the requirements set forth herein or law. Insofar as the facts and law would preclude the City of New York, Water Board, or their respective officials and employees from being completely indemnified by the permittee and contractor, the City of New York and the Water Board, including their respective officials and employees, shall be partially indemnified by the permittee and contractor to the fullest extent permitted by law.
-
-(c) Insurance.
-
-   (1) Workers' Compensation, Employers' Liability, Disability Benefits, and Paid Family Leave Benefits Insurance.
-
-      (i) The permittee must maintain workers' compensation insurance, employers' liability insurance, disability benefits insurance, and paid family leave benefits insurance in accordance with the laws of the State of New York on behalf of, or in regard to, all employees engaged in operations under the permit.
-
-      (ii) The permittee shall submit proof of its workers' compensation insurance, disability benefits insurance, and paid family leave benefits insurance or a Certificate of Attestation of Exemption to the Department in a form approved by the New York State Workers' Compensation Board. ACORD forms are not acceptable proof of such insurance. The following forms are acceptable:
-
-         •   Form C-105.2, Certificate of Workers' Compensation Insurance;
-
-         •   Form U-26.3, State Insurance Fund Certificate of Workers' Compensation Insurance;
-
-         •   Form SI-12, Certificate of Workers' Compensation Self- Insurance;
-
-         •   Form GSI-105.2, Certificate of Participation in Workers' Compensation Group Self-Insurance;
-
-         •   Form DB-120.1, Certificate of Disability and Paid Family Leave Benefits Insurance;
-
-         •   Form DB-120.2, Certificate of Participation in Disability or Disability and Paid Family Leave Benefits Group Self- Insurance;
-
-         •   Form DB-155, Certificate of Disability and Paid Family Leave Benefits Self-Insurance;
-
-         •   Form CE-200, Certificate of Attestation of Exemption from New York State Workers' Compensation and/or Disability and Paid Family Leave Benefits Insurance Coverage; • Other forms approved by the New York State Workers' Compensation Board; or
-
-         •   Other proof of insurance in a form acceptable to the Department.
-
-   (2) Commercial General Liability Insurance.
-
-      (i) The permittee must maintain commercial general liability insurance ("CGL") for the operations under this permit. Such insurance must meet the following requirements:
-
-         a. Unless otherwise approved by the Department, the CGL limits must be at least twenty million dollars ($20,000,000) per occurrence, one million dollars ($1,000,000) for personal and advertising injury, twenty million dollars ($20,000,000) products/ completed operations coverage, and twenty million dollars ($20,000,000) aggregate on a "per project basis."
-
-            i. Such limits may be satisfied by a primary policy or a combination of a primary policy, an umbrella policy, and/or an excess policy, so long as all policies provide the scope of coverage required herein.
-
-            ii. The products/completed operations coverage must be maintained for at least three years after the completion of operations under this permit.
-
-         b. The CGL policy must be at least as broad as that provided by the most recently issued Insurance Services Office ("ISO") Form CG 00 01 and it must not include any exclusions or limitations other than those incorporated in the standard form. By way of example and not limitation, no CGL and excess/ umbrella policy maintained hereunder shall include the following exclusions:
-
-            i. XCU exclusion for property damage from explosion, collapse or underground hazard, or construction defects;
-
-            ii. "Labor Law" or other gravity-related injuries exclusions;
-
-            iii. independent contractors exclusion;
-
-            iv. an insured contract exclusion broader than any contained in the most recent edition of ISO Form CG 00 01;
-
-            v. exclusion for work performed in New York City;
-
-            vi. exclusion for any of the operations allowed under the permit;
-
-            vii. exclusions with respect to the Additional Insureds for claims arising from the permittee's employees or the permittee's contractor's employees.
-
-         c. The CGL policy shall be "occurrence" based, not "claims-made."
-
-         d. The CGL policy must list the City of New York and the Water Board, including their respective officials and employees ("the Additional Insureds"), with coverage at least as broad as that provided by the most recently issued ISO Form CG 20 26 and CG 20 37.
-
-            i. The coverage for the Additional Insureds under ISO Form CG 20 37 must be maintained for at least three years after the completion of operations under this permit.
-
-            ii. The Additional Insureds' limits of CGL shall be the greater of (i) the minimum limits set forth in these rules or (ii) the limits provided to the permittee under all primary, excess, and umbrella policies covering operations under a permit.
-
-         e. The CGL policy must be "occurrence" based (not "claims-made") and primary and non-contributing to any insurance or self-insurance maintained by the Additional Insureds.
-
-         f. The CGL coverage must be provided by a company or companies that may lawfully issue such policy and have an A.M. Best rating of at least A-/"VII," a Standard &amp; Poor's rating of at least A, a Moody's Investors Service rating of at least A3, a Fitch Ratings rating of at least A- or a similar rating by any other nationally recognized statistical rating organization acceptable to the Department unless prior written approval is obtained from the Department.
-
-      (ii) If the permittee enters into a contract for any of the work done under the permit, the permittee shall cause its contractor to maintain CGL insurance compliant with this 15 RCNY § 57-06(c), including the requirement that such CGL insurance cover the Additional Insureds.
-
-      (iii) Proof of Insurance.
-
-         a. The permittee must submit the following proof of its and its contractors' (if any) CGL insurance to the Department: (1) a certificate of liability insurance; (2) a Certification of Insurance Broker or Agency; and (3) the required additional insured endorsement(s) covering ongoing and products/ completed operations.
-
-         b. Prior to the expiration of the CGL insurance policy for which proof has been provided, proof of a new or renewal CGL insurance policy in the form required in (c)(2)(iii)a., above, must be provided.
-
-         c. Acceptance or approval by the Department of proof of insurance or any other insurance-related document does not waive the permittee's obligation to ensure that insurance fully consistent with the requirements of these rules is maintained, nor does it relieve the permittee from liability for its failure to do so.
-
-         d. Upon request of the Department, Water Board or the New York City Law Department, the permittee must provide or shall cause its contractor to provide to the City and the Water Board the CGL insurance policy required by this rule.
-
-         e. If the permittee or its contractor receives notice, from an insurance company or other person that the CGL policy will expire or be cancelled or terminated (or has expired or has been cancelled or terminated) for any reason, the permittee shall or shall cause its contractor to immediately forward a copy of such notice to the Department. Notwithstanding the abovementioned, the permittee must ensure that there is no interruption in any of the insurance coverage required under these rules.
-
-      (iv) Miscellaneous.
-
-         a. The Additional Insureds shall not be responsible for the payment of any premiums, deductibles, selfinsured retentions, or other costs relating to the insurance required by this section.
-
-         b. There must be no self-insurance program.
-
-         c. Where a CGL policy, maintained in accordance with these rules, requires a notice of a claim or of an occurrence or an offense that may result in a claim, the permittee must provide and cause its contractors (if any) to provide a written notice to the CGL insurance carriers within the time required by the policy that expressly states that, "this notice is being given on behalf of the City of New York and the New York City Water Board, including their respective officials and employees as Additional Insureds as well as the Named Insureds." Such notice must also contain the following information to the extent known: the number of the insurance policy, the name of the named insured, the date and location of the damage, occurrence, or accident, and the identity of the persons or things injured, damaged, or lost. Simultaneously, a copy of such notice must be sent to the City of New York c/o Insurance Claims Specialist, Affirmative Litigation Division, New York City Law Department, 100 Church Street, New York, NY 10007.
-
-         d. The failure to secure and maintain insurance in complete conformity with these rules, or to give the insurance carrier timely notice on behalf of the Additional Insureds, or to do anything else required by these rules will constitute violation of these rules. Such breach is not waived or otherwise excused by any action or inaction by an Additional Insured at any time.
-
-         e. Insurance coverage in the minimum amounts provided for in these rules shall not relieve the permittee or contractors of any liability under a permit, nor must it preclude the Additional Insureds from exercising any rights or taking such other actions as are available to it under these rules or the law.
-
-         f. In the event of any occurrence or offense that does or can give rise to a claim under the CGL insurance policy required under these rules, the permittee must at all times fully cooperate and must cause its contractors to fully cooperate with the City and the Water Board with regard to such potential or actual claim.
-
-         g. Where notice to the Department is required under this 15 RCNY § 57-06, such notice must be in writing and must be sent by certified mail, return receipt requested or by nationally recognized overnight mail courier to the New York City Department of Environmental Protection, Attention: Commissioner, 59-17 Junction Boulevard, Flushing, NY 11373.
-
-
-
-
-
-
-
-
-*§ 57-07 Variance Requests.* ::
-
-
-(a) Unless otherwise prohibited by Federal, State, or Local law or regulation, the Department may, upon written request from any owner who is subject to these rules, grant a variance from 15 RCNY § 57-05(a)(1). A Variance Request Form is available on the Department's website at www.nyc.gov/DEP, and in person or by mail from the DEP Bureau of Water and Sewer Operations Permitting Office at the address on the Department's website.
-
-(b) An owner wishing to request a variance must submit the completed form to the New York City Department of Environmental Protection, Bureau of Water and Sewer Operations, Permitting Section, at the address on the Department's website. The Variance Request Form must be accompanied by a filing fee in accordance with 15 RCNY § 57-04(b), in the form of a bank check, certified check, or money order made payable to the New York City Water Board.
-
-(c) Every variance request must demonstrate that the proposed means and methods of the drilling and/or excavation will not have any adverse impact on a water tunnel or shaft and will be performed consistently with all of the conditions set forth in these rules. The said demonstration must be signed and stamped by a NYS professional engineer and accompanied by Proof of Insurance in compliance with the conditions outlined in 15 RCNY § 57-06(b).
-
-(d) The Department will issue or deny a variance within sixty (60) days from receipt of a completed request, including receipt of any requested additional information. In granting a variance under this subchapter, the Department may impose additional conditions to ensure that the drilling and/or excavation does not cause any significant adverse impact on the public health, safety, or welfare, on the environment, or on natural resources.
-
-
-
-
-
-
-
-
-*§ 57-08 Penalties and Sanctions.* ::
-
-
-(a) Any person who fails to comply with any section of these rules or any condition of a permit issued under these rules will be subject to issuance of a Notice of Violation returnable to the Environmental Control Board, as provided in § 24-346 of the Administrative Code of the City of New York.
-
-(b) A person must bear all costs and expenses associated with any and all damage resulting from unpermitted or non-compliant drilling and/or excavation.
-
-
-
-
-
-
 Chapter 55: Stormwater Penalty Schedule
 --------------------------------------------------
 
@@ -19526,6 +19141,391 @@ Chapter 55: Stormwater Penalty Schedule
 ~
 
  
+
+
+
+
+
+
+Chapter 57: Rules Concerning Drilling and Excavation
+--------------------------------------------------
+
+
+
+*§ 57-01 Purpose and Applicability.* ::
+
+
+(a) Purpose. The purpose of these rules is to protect Department and Water Board water tunnels and shafts in the five boroughs of New York City from potential damage due to drilling or excavation.
+
+(b) Applicability.
+
+   (1) These rules apply to any proposed drilling or excavation, for any purpose, to a depth greater than fifty (50) feet below ground surface in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan, or greater than 100 feet in the borough of Brooklyn, Queens or Staten Island or south of 135th Street in the borough of Manhattan, in a corridor within the City of New York or to any depth within 200 feet horizontal distance of a water tunnel shaft.
+
+   (2) These rules do not apply to any drilling or excavation conducted by, or on behalf of, the Department for water supply or wastewater projects.
+
+   (3) These rules do not apply to drilling and excavation projects permitted by the New York City Department of Buildings prior to the effective date of these rules.
+
+
+
+
+
+
+
+
+*§ 57-02 Definitions.* ::
+
+
+For the purposes of these rules, the following definitions apply:
+
+Application. "Application" means the Department Drilling and Excavation Permit Application, including all information and documentation required by the Commissioner and these rules.
+
+Azimuth. "Azimuth" means an angle used to define the apparent position of an object, relative to a specific observation point.
+
+Blowout preventer. "Blowout preventer" means a safety device used to prevent the uncontrolled flow of liquids and gases during well drilling operations.
+
+Borehole. "Borehole" means a narrow shaft bored in the ground as part of a geotechnical investigation.
+
+Commissioner. "Commissioner" means the Commissioner of Environmental Protection or his or her designee.
+
+Corridor. "Corridor" means a block that has any part of its boundary falling within five hundred (500) feet horizontal distance from the centerline of any water tunnel or shaft as measured at or near the surface.
+
+Crown. "Crown" means the topmost point of a water tunnel.
+
+Datum Plane. "Datum Plane" means the horizontal plane from which heights and depths are calculated.
+
+Department. "Department" means the New York City Department of Environmental Protection and its authorized agents.
+
+Deviation. "Deviation" means a borehole's departure from a true vertical line, measured in degrees.
+
+Deviation survey. "Deviation survey" means an investigative procedure conducted using generally accepted engineering principles and practices to establish the position of a tip of a borehole or well, with respect to a true vertical line, and the orientation of such tip with respect to north direction.
+
+Directional drilling. "Directional drilling" means a method used to control the location and the direction of the drill bit.
+
+Drill or Drilling. "Drill" or "Drilling" means using shaft-like equipment with a drill bit to bore a hole to below ground surface.
+
+Elevation. "Elevation" means the height above or below a specific datum plane.
+
+Excavate or Excavation. "Excavate" or "Excavation" means any man-made cut, cavity, trench, or depression in an earth surface formed by earth removal.
+
+Geothermal well. "Geothermal well" means a well which taps into the natural geothermal energy found beneath the Earth's crust in order to harness the heat energy produced by the earth underground.
+
+Gyroscopic probe. "Gyroscopic probe" means a device used for measuring or maintaining position or orientation.
+
+Invert. "Invert" means the lowest inside surface or floor of a water tunnel.
+
+No Drilling/Excavation Zone. "No Drilling/Excavation Zone" means a boundary area defined as two hundred feet (200') on either side of the centerline of the water tunnel and vertical distances of one hundred fifty feet (150') above the crown of the water tunnel and one hundred fifty feet (150') below the invert of the water tunnel; or, except as otherwise indicated, two hundred feet (200') feet on either side of the centerline of the water tunnel shaft.
+
+Owner. "Owner" means any person who holds legal title to a property or any person who holds a leasehold of at least twenty (20) years over a property, where the property is a proposed drilling or excavation site.
+
+Permit. "Permit" means a written document issued by the Department granting an owner approval, if owner meets required conditions, to drill and/or excavate on a property in close proximity to a water tunnel or shaft.
+
+Permittee. "Permittee" means an owner to whom the Department has issued a permit.
+
+Person. "Person" means an individual, firm, partnership, company, corporation, association, society, institution, organization, governmental agency, administration, department, or other group of individuals or legal entity, or an officer or employee thereof.
+
+Site plan. "Site plan" means a plan of the area of a proposed drilling or excavation operation.
+
+Stratigraphic well. "Stratigraphic well" means a well drilled for stratigraphic information, i.e., information about rock strata, especially the distribution, deposition, and age of sedimentary rocks.
+
+Verticality probe. "Verticality probe" means a device used to measure inclination and to provide accurate information on the precise location of underground features intersected by a borehole.
+
+Water Board. "Water Board" means the New York City Water Board.
+
+Water Tunnel. "Water Tunnel" means any tunnel or covered aqueduct, including a water tunnel shaft, used to convey the supply of drinking water, that is owned, leased or operated by the City of New York, the Water Board, or the Department and located in the five boroughs of New York City.
+
+Water tunnel shaft or shaft. "Water tunnel shaft or shaft" means a shaft of a water tunnel consisting of a vertical pathway that conveys water from an underground tunnel to a chamber at the surface. A shaft is constructed with pipes connected to a concrete lined circular opening in bedrock.
+
+Water tunnel shaft structure or shaft structure. "Water tunnel shaft structure or shaft structure" means the shaft superstructure and substructure including any building, building foundation, or below grade chamber associated with a shaft facility.
+
+
+
+
+
+
+
+
+*§ 57-03 Standards for Drilling and Excavation.* ::
+
+
+No person may drill or excavate in a corridor within the City of New York, to a depth greater than fifty (50) feet below ground surface in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan; or greater than 100 feet in the borough of Brooklyn, Queens or Staten Island or south of 135th Street in the borough of Manhattan or to any depth within 200 feet horizontal distance of a water tunnel shaft, without obtaining a permit from the Department.
+
+A person with a permit may drill or excavate in a corridor within the City of New York only to the extent allowed under the permit. Any other drilling or excavation will be a violation of these rules.
+
+
+
+
+
+
+
+
+*§ 57-04 Application for Drilling and Excavation Permit.* ::
+
+
+(a) Pre-Application Assessment Submittal. Every person drilling to a depth greater than 50 feet (15 240 mm) in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan, or greater than 100 feet (30 480mm) in the borough of Brooklyn, Queens, or Staten Island or south of 135th Street in the borough of Manhattan, must submit to the Department a pre-application for proposed drilling and/or excavation. A Pre-Application Assessment Form is available on the Department's website at www.nyc.gov/DEP, or by request in person or by mail, from the DEP Bureau of Water and Sewer Operations Permitting Office at the address on the Department's website.
+
+   (1) Pre-Application Requirements. The pre-application assessment submission must include the following information:
+
+      (i) the name, address, and telephone number of the owner and project engineer, architect or contractor;
+
+      (ii) the proposed location and depth of the drilling and/or excavation, as applicable, by way of address, block and lot, and a survey of the proposed location in reference to the applicable block and lot.
+
+   (2) Within ten (10) business days from receipt of a pre-application assessment submission, the Department will notify the applicant that:
+
+      (i) proposed drilling and/or excavation is located in a corridor and within a No Drilling/Excavation Zone, and that no drilling or excavation is permitted; or
+
+      (ii) a permit is not required to drill and/or excavate because the proposed drilling and/or excavation is not located in a corridor; or
+
+      (iii) a permit is not required to drill and/or excavate because the drilling or excavation is more than fifteen feet (15') from the outer wall of a shaft structure and less than fifteen feet (15') below ground surface; or
+
+      (iv) proposed drilling and/or excavation is located in a corridor, and a permit application must be submitted to the Department with the required documentation in accordance with 15 RCNY § 57-04(b) et seq.
+
+(b) Permit Application Form and Fee. To obtain a permit, an owner must file an application with the Department. An application form is available on the Department's website at www.nyc.gov/ DEP, or by request, in person or by mail, from the DEP Bureau of Water and Sewer Operations Permitting Office at the address on the Department's website. The application must be accompanied by a filing fee, as established by the latest New York City Water Board Water and Sewer Rate schedule, in the form of a bank check, certified check, or money order made payable to the New York City Water Board.
+
+   (1) Application Requirements. The application must include the following information:
+
+      (i) the name, address, and telephone number of the owner;
+
+      (ii) the name, address, and telephone number of the company performing the drilling or excavation, and the name of a contact person;
+
+      (iii) the name, address, telephone number, and email address of the project engineer; and
+
+      (iv) the proposed location of the drilling and/or excavation, as applicable, by way of address, block and lot, and a survey of the proposed location in reference to the applicable block and lot, prepared and sealed by a land surveyor licensed to practice in the State of New York.
+
+   (2) Additional Information. The Department may at its discretion require an owner to submit additional information to complete the application, including but not limited to:
+
+      (i) the site plan of the borehole or well location, prepared and sealed by a professional engineer licensed to practice in the State of New York. The site plan must indicate the ground surface elevation of the borehole or well, the proposed depth and elevation of the bottom of the borehole or well, and the diameter of the borehole or well;
+
+      (ii) the purpose of the drilling and/or excavation, as applicable, which may include but is not limited to drilling a geothermal well or stratigraphic well or excavating as part of an environmental investigation;
+
+      (iii) the proposed methods to measure deviation from the vertical and azimuth of the borehole or well;
+
+      (iv) the anticipated start and end dates of drilling and/or excavation, as applicable;
+
+      (v) the site plan of the drilling and/or excavation, as applicable. The site plan must indicate the ground surface elevation of the drilling and/or excavation, the proposed depth and elevation of the bottom of the drilling and/or excavation, and the length and width of the excavation or diameter of the drilling;
+
+      (vi) the proposed method of excavation and drilling stamped and signed by a professional engineer; and
+
+      (vii) upon preliminary notification from the Department that drilling and/or excavation at a proposed location requires insurance, proof of insurance as further delineated in 15 RCNY § 57-06.
+
+
+
+
+
+
+
+
+*§ 57-05 Issuance of Drilling and Excavation Permit.* ::
+
+
+(a) Standards for Issuance. Within thirty (30) days from receipt of an application and processing fee:
+
+   (1) If the proposed drilling and/or excavation is located in a corridor and inside the No Drilling and/or Excavation zone, the Department will deny a permit.
+
+   (2) If the proposed drilling and/or excavation is located in a corridor but outside of the No Drilling and/or Excavation zone and the Department believes that the drilling and/or excavation will not impair the stability of a water tunnel or shaft, the Department will issue a permit upon its further determination that the drilling and/or excavation complies with all standards and requirements of these rules, including but not limited to, engineering, legal, and insurance standards and requirements. The Department will not issue a permit unless proof of insurance required by the Department under these rules has been submitted to and accepted by the Department in accordance with the requirements of 15 RCNY § 57-06(b).
+
+(b) General Permit Conditions.
+
+   (1) The permittee or the contractor must notify the Department 30 days prior to commencing any drilling or excavation activity.
+
+   (2) Permittee is authorized to drill and/or excavate only to the depth specified by the permit as shown on approved plan.
+
+   (3) The permittee must abandon any borehole or well within two hundred feet (200') horizontal distance from the center line of a water tunnel, where the tip of the borehole or well comes within one hundred fifty feet (150') above the crown of a water tunnel or within one hundred fifty (150') below the invert of a water tunnel.
+
+      (i) The permittee must seal any abandoned borehole or well through the full drilling depth with Departmentapproved material, and
+
+      (ii) The permittee must bear all costs and expenses associated with the sealing of such borehole or well.
+
+   (4) The permittee must abandon any excavation within two hundred feet (200') horizontal distance from the centerline of a water tunnel, where the elevation of the bottom of the excavation comes within one hundred fifty feet (150') above the crown of a water tunnel.
+
+      (i) The permittee must fill any abandoned excavation throughout its full depth with Department-approved material, and
+
+      (ii) The permittee must bear all costs and expenses associated with the filling of such excavation.
+
+   (5) The permittee must abandon any borehole or well within two hundred feet (200') horizontal distance from a shaft.
+
+      (i) The permittee must seal any abandoned borehole or well through the full drilling depth with cement grout or other suitable material and
+
+      (ii) The permittee shall bear all costs and expenses associated with the plugging of such borehole or well.
+
+   (6) The permittee must abandon any excavation within two hundred feet (200') horizontal distance from a shaft.
+
+      (i) The permittee must fill any abandoned excavation throughout its full depth with Department-approved material, and
+
+      (ii) The permittee must bear all costs and expenses associated with the filling of such excavation.
+
+   (7) The permittee may be required to utilize a blowout preventer, when the Department. determines that its use is necessary to prevent damage to the water tunnel or shaft.
+
+   (8) The permittee must comply with all applicable laws and regulations.
+
+   (9) The permittee must not perform work in such a way that damages any water tunnel or shaft.
+
+   (10) Within thirty (30) days after completing drilling and/or excavation, the permittee must provide documentation to the Department indicating the depth and azimuth of the finished borehole or well and/or the depth of the excavation, as applicable. A professional engineer or licensed land surveyor must stamp such certification.
+
+   (11) The permittee must conduct, at a frequency specified by the Department, all deviation surveys deemed necessary by the Commissioner. The frequency will vary depending on the type of drilling equipment utilized and the location of the borehole or well. If the Department requires the applicant to perform a deviation survey:
+
+      (i) The permittee must engage an experienced specialty surveyor licensed as a land surveyor in the State of New York, who has experience conducting deviation surveys;
+
+      (ii) The permittee must conduct a deviation survey that measures borehole or well inclination and azimuth;
+
+      (iii) The permittee must conduct the deviation survey utilizing a gyroscopic probe or another suitable verticality probe;
+
+      (iv) The drilling company or engineering firm must process the deviation survey output to produce a log containing tabular and graphical representations of the borehole or well inclination, azimuth, and depth; must maintain the log on site; must update the log at least once per shift or every 8 hours, whichever is sooner; and must make the log readily available for a Department inspector to review;
+
+      (v) If the Department determines that the deviation survey is inadequate or the drilling is not proceeding as approved, the Department may require the permittee to retain an independent deviation surveyor and bear all costs and expenses associated with that surveyor; permittee must submit the credentials of the independent surveyor to DEP for review and approval
+
+   (12) The permit shall be valid for a period not to exceed three (3) years from the date of issuance.
+
+(c) Stop Work Order or Independent Inspector. Whenever the department finds that drilling and/or excavation is in violation of this section or creates a danger to water tunnel or shaft the department may:
+
+   (1) Issue a stop work order, or
+
+   (2) Require the permittee to retain an inspector independent of the contractor at the drilling and/or excavation site in order to observe the drilling and/or excavation activities, verify the drilling results, or for any other purpose the Commissioner deems necessary. Such inspector must be an architect or professional engineer licensed in New York State with a minimum of five (5) years of drilling/excavation experience; the permittee must submit the inspector's credentials to DEP for review and approval. The permittee must bear all costs and expenses associated with the inspection personnel.
+
+(d) Revocation of permit.
+
+   (1) The Department may revoke a permit on written notice to the permittee, when the Department finds that permittee failed to comply with any of the requirements of subdivision (b). Such notice shall inform the permittee of the reasons for the proposed revocation and that the applicant has the right to present to the commissioner or his or her representative, within 10 business days of delivery of the notice by hand or 15 calendar days of mailing of the notice, information as to why the Department should not revoke the permit. When a permit is revoked, all activity at the drilling and/or excavation site shall cease and not resume until the permittee corrects the non-compliance and reapplies for the permit and the Department issues a new permit.
+
+   (2) Non-compliance that creates an immediate danger will result in the automatic revocation of a permit. A permittee may correct the non-compliance and reapply for the permit. Alternatively, a permittee may appeal the revocation in writing to the Department's Commissioner. Within 30 days of receiving such appeal, the Department must issue a written determination upholding or reversing the revocation.
+
+
+
+
+
+
+
+
+*§ 57-06 Assumption of Risk, Indemnification, and Insurance.* ::
+
+
+(a) Assumption of Risk. The permittee and contractor assume the risk of, and shall be responsible for any loss or damage to property of the City of New York or the Water Board, arising out of or in any way related to operations for which the Department has issued a permit.
+
+(b) Indemnification. The permittee and the contractor shall defend, indemnify, and hold harmless the City of New York and the Water Board, including their respective officials and employees, against any and all claims, liens, demands, judgments, penalties, fines, liabilities, settlements, damages, costs and expenses of whatever kind or nature (including, without limitation, attorneys' fees and disbursements), known or unknown, contingent or otherwise, allegedly arising out of or in any way related to operations for which the Department has issued a permit and/or the permittee's and/or contractor's failure to comply with any of the requirements set forth herein or law. Insofar as the facts and law would preclude the City of New York, Water Board, or their respective officials and employees from being completely indemnified by the permittee and contractor, the City of New York and the Water Board, including their respective officials and employees, shall be partially indemnified by the permittee and contractor to the fullest extent permitted by law.
+
+(c) Insurance.
+
+   (1) Workers' Compensation, Employers' Liability, Disability Benefits, and Paid Family Leave Benefits Insurance.
+
+      (i) The permittee must maintain workers' compensation insurance, employers' liability insurance, disability benefits insurance, and paid family leave benefits insurance in accordance with the laws of the State of New York on behalf of, or in regard to, all employees engaged in operations under the permit.
+
+      (ii) The permittee shall submit proof of its workers' compensation insurance, disability benefits insurance, and paid family leave benefits insurance or a Certificate of Attestation of Exemption to the Department in a form approved by the New York State Workers' Compensation Board. ACORD forms are not acceptable proof of such insurance. The following forms are acceptable:
+
+         •   Form C-105.2, Certificate of Workers' Compensation Insurance;
+
+         •   Form U-26.3, State Insurance Fund Certificate of Workers' Compensation Insurance;
+
+         •   Form SI-12, Certificate of Workers' Compensation Self- Insurance;
+
+         •   Form GSI-105.2, Certificate of Participation in Workers' Compensation Group Self-Insurance;
+
+         •   Form DB-120.1, Certificate of Disability and Paid Family Leave Benefits Insurance;
+
+         •   Form DB-120.2, Certificate of Participation in Disability or Disability and Paid Family Leave Benefits Group Self- Insurance;
+
+         •   Form DB-155, Certificate of Disability and Paid Family Leave Benefits Self-Insurance;
+
+         •   Form CE-200, Certificate of Attestation of Exemption from New York State Workers' Compensation and/or Disability and Paid Family Leave Benefits Insurance Coverage; • Other forms approved by the New York State Workers' Compensation Board; or
+
+         •   Other proof of insurance in a form acceptable to the Department.
+
+   (2) Commercial General Liability Insurance.
+
+      (i) The permittee must maintain commercial general liability insurance ("CGL") for the operations under this permit. Such insurance must meet the following requirements:
+
+         a. Unless otherwise approved by the Department, the CGL limits must be at least twenty million dollars ($20,000,000) per occurrence, one million dollars ($1,000,000) for personal and advertising injury, twenty million dollars ($20,000,000) products/ completed operations coverage, and twenty million dollars ($20,000,000) aggregate on a "per project basis."
+
+            i. Such limits may be satisfied by a primary policy or a combination of a primary policy, an umbrella policy, and/or an excess policy, so long as all policies provide the scope of coverage required herein.
+
+            ii. The products/completed operations coverage must be maintained for at least three years after the completion of operations under this permit.
+
+         b. The CGL policy must be at least as broad as that provided by the most recently issued Insurance Services Office ("ISO") Form CG 00 01 and it must not include any exclusions or limitations other than those incorporated in the standard form. By way of example and not limitation, no CGL and excess/ umbrella policy maintained hereunder shall include the following exclusions:
+
+            i. XCU exclusion for property damage from explosion, collapse or underground hazard, or construction defects;
+
+            ii. "Labor Law" or other gravity-related injuries exclusions;
+
+            iii. independent contractors exclusion;
+
+            iv. an insured contract exclusion broader than any contained in the most recent edition of ISO Form CG 00 01;
+
+            v. exclusion for work performed in New York City;
+
+            vi. exclusion for any of the operations allowed under the permit;
+
+            vii. exclusions with respect to the Additional Insureds for claims arising from the permittee's employees or the permittee's contractor's employees.
+
+         c. The CGL policy shall be "occurrence" based, not "claims-made."
+
+         d. The CGL policy must list the City of New York and the Water Board, including their respective officials and employees ("the Additional Insureds"), with coverage at least as broad as that provided by the most recently issued ISO Form CG 20 26 and CG 20 37.
+
+            i. The coverage for the Additional Insureds under ISO Form CG 20 37 must be maintained for at least three years after the completion of operations under this permit.
+
+            ii. The Additional Insureds' limits of CGL shall be the greater of (i) the minimum limits set forth in these rules or (ii) the limits provided to the permittee under all primary, excess, and umbrella policies covering operations under a permit.
+
+         e. The CGL policy must be "occurrence" based (not "claims-made") and primary and non-contributing to any insurance or self-insurance maintained by the Additional Insureds.
+
+         f. The CGL coverage must be provided by a company or companies that may lawfully issue such policy and have an A.M. Best rating of at least A-/"VII," a Standard &amp; Poor's rating of at least A, a Moody's Investors Service rating of at least A3, a Fitch Ratings rating of at least A- or a similar rating by any other nationally recognized statistical rating organization acceptable to the Department unless prior written approval is obtained from the Department.
+
+      (ii) If the permittee enters into a contract for any of the work done under the permit, the permittee shall cause its contractor to maintain CGL insurance compliant with this 15 RCNY § 57-06(c), including the requirement that such CGL insurance cover the Additional Insureds.
+
+      (iii) Proof of Insurance.
+
+         a. The permittee must submit the following proof of its and its contractors' (if any) CGL insurance to the Department: (1) a certificate of liability insurance; (2) a Certification of Insurance Broker or Agency; and (3) the required additional insured endorsement(s) covering ongoing and products/ completed operations.
+
+         b. Prior to the expiration of the CGL insurance policy for which proof has been provided, proof of a new or renewal CGL insurance policy in the form required in (c)(2)(iii)a., above, must be provided.
+
+         c. Acceptance or approval by the Department of proof of insurance or any other insurance-related document does not waive the permittee's obligation to ensure that insurance fully consistent with the requirements of these rules is maintained, nor does it relieve the permittee from liability for its failure to do so.
+
+         d. Upon request of the Department, Water Board or the New York City Law Department, the permittee must provide or shall cause its contractor to provide to the City and the Water Board the CGL insurance policy required by this rule.
+
+         e. If the permittee or its contractor receives notice, from an insurance company or other person that the CGL policy will expire or be cancelled or terminated (or has expired or has been cancelled or terminated) for any reason, the permittee shall or shall cause its contractor to immediately forward a copy of such notice to the Department. Notwithstanding the abovementioned, the permittee must ensure that there is no interruption in any of the insurance coverage required under these rules.
+
+      (iv) Miscellaneous.
+
+         a. The Additional Insureds shall not be responsible for the payment of any premiums, deductibles, selfinsured retentions, or other costs relating to the insurance required by this section.
+
+         b. There must be no self-insurance program.
+
+         c. Where a CGL policy, maintained in accordance with these rules, requires a notice of a claim or of an occurrence or an offense that may result in a claim, the permittee must provide and cause its contractors (if any) to provide a written notice to the CGL insurance carriers within the time required by the policy that expressly states that, "this notice is being given on behalf of the City of New York and the New York City Water Board, including their respective officials and employees as Additional Insureds as well as the Named Insureds." Such notice must also contain the following information to the extent known: the number of the insurance policy, the name of the named insured, the date and location of the damage, occurrence, or accident, and the identity of the persons or things injured, damaged, or lost. Simultaneously, a copy of such notice must be sent to the City of New York c/o Insurance Claims Specialist, Affirmative Litigation Division, New York City Law Department, 100 Church Street, New York, NY 10007.
+
+         d. The failure to secure and maintain insurance in complete conformity with these rules, or to give the insurance carrier timely notice on behalf of the Additional Insureds, or to do anything else required by these rules will constitute violation of these rules. Such breach is not waived or otherwise excused by any action or inaction by an Additional Insured at any time.
+
+         e. Insurance coverage in the minimum amounts provided for in these rules shall not relieve the permittee or contractors of any liability under a permit, nor must it preclude the Additional Insureds from exercising any rights or taking such other actions as are available to it under these rules or the law.
+
+         f. In the event of any occurrence or offense that does or can give rise to a claim under the CGL insurance policy required under these rules, the permittee must at all times fully cooperate and must cause its contractors to fully cooperate with the City and the Water Board with regard to such potential or actual claim.
+
+         g. Where notice to the Department is required under this 15 RCNY § 57-06, such notice must be in writing and must be sent by certified mail, return receipt requested or by nationally recognized overnight mail courier to the New York City Department of Environmental Protection, Attention: Commissioner, 59-17 Junction Boulevard, Flushing, NY 11373.
+
+
+
+
+
+
+
+
+*§ 57-07 Variance Requests.* ::
+
+
+(a) Unless otherwise prohibited by Federal, State, or Local law or regulation, the Department may, upon written request from any owner who is subject to these rules, grant a variance from 15 RCNY § 57-05(a)(1). A Variance Request Form is available on the Department's website at www.nyc.gov/DEP, and in person or by mail from the DEP Bureau of Water and Sewer Operations Permitting Office at the address on the Department's website.
+
+(b) An owner wishing to request a variance must submit the completed form to the New York City Department of Environmental Protection, Bureau of Water and Sewer Operations, Permitting Section, at the address on the Department's website. The Variance Request Form must be accompanied by a filing fee in accordance with 15 RCNY § 57-04(b), in the form of a bank check, certified check, or money order made payable to the New York City Water Board.
+
+(c) Every variance request must demonstrate that the proposed means and methods of the drilling and/or excavation will not have any adverse impact on a water tunnel or shaft and will be performed consistently with all of the conditions set forth in these rules. The said demonstration must be signed and stamped by a NYS professional engineer and accompanied by Proof of Insurance in compliance with the conditions outlined in 15 RCNY § 57-06(b).
+
+(d) The Department will issue or deny a variance within sixty (60) days from receipt of a completed request, including receipt of any requested additional information. In granting a variance under this subchapter, the Department may impose additional conditions to ensure that the drilling and/or excavation does not cause any significant adverse impact on the public health, safety, or welfare, on the environment, or on natural resources.
+
+
+
+
+
+
+
+
+*§ 57-08 Penalties and Sanctions.* ::
+
+
+(a) Any person who fails to comply with any section of these rules or any condition of a permit issued under these rules will be subject to issuance of a Notice of Violation returnable to the Environmental Control Board, as provided in § 24-346 of the Administrative Code of the City of New York.
+
+(b) A person must bear all costs and expenses associated with any and all damage resulting from unpermitted or non-compliant drilling and/or excavation.
 
 
 

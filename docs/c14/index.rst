@@ -19081,83 +19081,6 @@ The criteria used to evaluate prospective Pilot Program Buildings for distress s
 
 
 
-Chapter 55: [Stove Knob Covers]
---------------------------------------------------
-
-
-
-*§ 55-01 Records.* ::
-
-
-An owner must keep a record of the following documents for five years, and produce such documents upon request of the Department:
-
-(1) a documented notification of refusal of stove knob covers by tenants;
-
-(2) documentation of attempts by the owner to make stove knob covers available for apartments where the owner knows or reasonably should know that a child under age six resides, for which the tenant did not return the annual notice to the owner;
-
-(3) a list of units for which stove knob covers were made available;
-
-(4) a list of tenants who requested stove knob covers.
-
-(5) a list of units where stove knob covers could not be made available for the particular stove in the unit, with documented proof that compatible knob covers for such stove are unavailable or that the stove was not a gas-powered stove.
-
-
-
-
-
-
-
-
-*§ 55-02 Annual Notice.* ::
-
-
-On or prior to January 5, 2019, and every year thereafter, an owner of a unit in a multiple dwelling, other than a dwelling unit in a multiple dwelling owned as a condominium or cooperative and used as the primary residence of such owner, must provide an annual notice to each tenant of a unit with a gas-powered stove regarding the owner¡¦s obligation to provide stove knob covers pursuant to New York City Administrative Code Section 27-2046.4(a). Such notice may be combined with other annual notices required to be provided to tenants. Such notice must provide the following information:
-
-ENGLISH VERSION: ANNUAL NOTICE REGARDING INSTALLATION OF STOVE KNOB COVERS
-
-The owner of this building is required, by Administrative Code § 27-2046.4(a), to provide stove knob covers for each knob located on the front of each gas-powered stove to tenants in each dwelling unit in which a child under six years of age resides, unless there is no available stove knob cover that is compatible with the knobs on the stove. Tenants may refuse stove knob covers by marking the appropriate box on this form. Tenants may also request stove knob covers even if they do not have a child under age six residing with them, by marking the appropriate box on this form. The owner must make the stove knob covers available within 30 days of this notice. Please also note that an owner is only required to provide replacement stove knob covers twice within any one-year period. You may request or refuse stove knob covers by checking the appropriate box on the form below, and by returning it to the owner at the address provided. If you do not refuse stove knob covers in writing, the owner will attempt to make them available to you.
-
-Please complete this form by checking the appropriate box, filling out the information requested, and signing. Please return the form to the owner at the address provided by (INSERT DATE):
-
-__ Yes, I want stove knob covers or replacement stove knob covers for my stove, and I have a child under age six residing in my apartment.
-
-__ Yes, I want stove knob covers or replacement stove knob covers for my stove, even though I do not have a child under age six residing in my apartment.
-
-__ No, I DO NOT want stove knob covers for my stove, even though I have a child under age six residing in my apartment.
-
-__ No, I DO NOT want stove knob covers for my stove. There is no child under age six residing in my apartment.
-
-   (Tenant Signature)       (DATE)
-
-Print Name, Address, and Apartment Number:____________________________________________________________________________________________________________
-
-Return this form to: (Owner address):____________________________________________________________________________________________________________
-
-SPANISH VERSION: AVISO ANUAL RESPECTO A LA INSTALACION DE PROTECTORES PARA PERILLAS DE COCINA
-
-Segun la § 27-2046.4(a) del Codigo Administrativo, el dueno de este edificio debe proporcionar a cada inquilino/a protectores para todas las perillas frontales de cada cocina a gas que haya en las unidades de vivienda donde residan ninos menores de seis anos, salvo que no haya protectores que sean compatibles con las perillas de la cocina. Si desean rechazar los protectores para perillas de cocina, los inquilinos deben tildar la opcion correspondiente en este formulario. Los inquilinos tambien pueden solicitar los protectores aunque no residan con ninos menores de seis anos, para lo cual deberan tildar la opcion correspondiente. El propietario tiene un plazo de 30 dias a partir de este aviso para poner los protectores para perillas de cocina a disposicion de los inquilinos. Cabe senalar que el propietario tiene la obligacion de reemplazar los protectores solo dos veces en el periodo de un ano. Para solicitar o rechazar los protectores, marque la casilla correspondiente mas adelante en este formulario y envieselo al propietario a la direccion proporcionada. Si usted no rechaza los protectores por escrito, el propietario tratara de ponerlos a su disposicion.
-
-Para completar este formulario, marque la casilla correspondiente, escriba la informacion solicitada y firme. Envie el formulario al propietario, a la direccion proporcionada, antes del (INDICAR FECHA):
-
-__ Si, quiero los protectores para perillas de cocina o el reemplazo de estos para mi cocina, y tengo un nino menor de seis anos que reside en mi apartamento.
-
-__ Si, quiero los protectores para perillas de cocina o el reemplazo de estos para mi cocina a pesar de que no residen ninos menores de seis anos en mi apartamento.
-
-__ No, NO quiero los protectores para perillas de cocina a pesar de que un nino de seis anos reside en mi apartamento.
-
-__ No, NO quiero los protectores para perillas de cocina para mi cocina. En mi apartamento, no residen ninos menores de seis anos.
-
-   (Firma del inquilino)       (FECHA)
-
-Nombre en letra de imprenta, direccion y numero de apartamento:______________________________________________________________________________________________________________
-
-Devolver este formulario a (direccion del propietario):______________________________________________________________________________________________________________
-
-
-
-
-
-
 Chapter 54: [Indoor Allergen Hazards]
 --------------------------------------------------
 
@@ -19323,6 +19246,83 @@ Firmado:Nombre en letra de molde:
 
 
 .. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15678-img$3.0$p=
+
+
+
+
+
+
+Chapter 55: [Stove Knob Covers]
+--------------------------------------------------
+
+
+
+*§ 55-01 Records.* ::
+
+
+An owner must keep a record of the following documents for five years, and produce such documents upon request of the Department:
+
+(1) a documented notification of refusal of stove knob covers by tenants;
+
+(2) documentation of attempts by the owner to make stove knob covers available for apartments where the owner knows or reasonably should know that a child under age six resides, for which the tenant did not return the annual notice to the owner;
+
+(3) a list of units for which stove knob covers were made available;
+
+(4) a list of tenants who requested stove knob covers.
+
+(5) a list of units where stove knob covers could not be made available for the particular stove in the unit, with documented proof that compatible knob covers for such stove are unavailable or that the stove was not a gas-powered stove.
+
+
+
+
+
+
+
+
+*§ 55-02 Annual Notice.* ::
+
+
+On or prior to January 5, 2019, and every year thereafter, an owner of a unit in a multiple dwelling, other than a dwelling unit in a multiple dwelling owned as a condominium or cooperative and used as the primary residence of such owner, must provide an annual notice to each tenant of a unit with a gas-powered stove regarding the owner¡¦s obligation to provide stove knob covers pursuant to New York City Administrative Code Section 27-2046.4(a). Such notice may be combined with other annual notices required to be provided to tenants. Such notice must provide the following information:
+
+ENGLISH VERSION: ANNUAL NOTICE REGARDING INSTALLATION OF STOVE KNOB COVERS
+
+The owner of this building is required, by Administrative Code § 27-2046.4(a), to provide stove knob covers for each knob located on the front of each gas-powered stove to tenants in each dwelling unit in which a child under six years of age resides, unless there is no available stove knob cover that is compatible with the knobs on the stove. Tenants may refuse stove knob covers by marking the appropriate box on this form. Tenants may also request stove knob covers even if they do not have a child under age six residing with them, by marking the appropriate box on this form. The owner must make the stove knob covers available within 30 days of this notice. Please also note that an owner is only required to provide replacement stove knob covers twice within any one-year period. You may request or refuse stove knob covers by checking the appropriate box on the form below, and by returning it to the owner at the address provided. If you do not refuse stove knob covers in writing, the owner will attempt to make them available to you.
+
+Please complete this form by checking the appropriate box, filling out the information requested, and signing. Please return the form to the owner at the address provided by (INSERT DATE):
+
+__ Yes, I want stove knob covers or replacement stove knob covers for my stove, and I have a child under age six residing in my apartment.
+
+__ Yes, I want stove knob covers or replacement stove knob covers for my stove, even though I do not have a child under age six residing in my apartment.
+
+__ No, I DO NOT want stove knob covers for my stove, even though I have a child under age six residing in my apartment.
+
+__ No, I DO NOT want stove knob covers for my stove. There is no child under age six residing in my apartment.
+
+   (Tenant Signature)       (DATE)
+
+Print Name, Address, and Apartment Number:____________________________________________________________________________________________________________
+
+Return this form to: (Owner address):____________________________________________________________________________________________________________
+
+SPANISH VERSION: AVISO ANUAL RESPECTO A LA INSTALACION DE PROTECTORES PARA PERILLAS DE COCINA
+
+Segun la § 27-2046.4(a) del Codigo Administrativo, el dueno de este edificio debe proporcionar a cada inquilino/a protectores para todas las perillas frontales de cada cocina a gas que haya en las unidades de vivienda donde residan ninos menores de seis anos, salvo que no haya protectores que sean compatibles con las perillas de la cocina. Si desean rechazar los protectores para perillas de cocina, los inquilinos deben tildar la opcion correspondiente en este formulario. Los inquilinos tambien pueden solicitar los protectores aunque no residan con ninos menores de seis anos, para lo cual deberan tildar la opcion correspondiente. El propietario tiene un plazo de 30 dias a partir de este aviso para poner los protectores para perillas de cocina a disposicion de los inquilinos. Cabe senalar que el propietario tiene la obligacion de reemplazar los protectores solo dos veces en el periodo de un ano. Para solicitar o rechazar los protectores, marque la casilla correspondiente mas adelante en este formulario y envieselo al propietario a la direccion proporcionada. Si usted no rechaza los protectores por escrito, el propietario tratara de ponerlos a su disposicion.
+
+Para completar este formulario, marque la casilla correspondiente, escriba la informacion solicitada y firme. Envie el formulario al propietario, a la direccion proporcionada, antes del (INDICAR FECHA):
+
+__ Si, quiero los protectores para perillas de cocina o el reemplazo de estos para mi cocina, y tengo un nino menor de seis anos que reside en mi apartamento.
+
+__ Si, quiero los protectores para perillas de cocina o el reemplazo de estos para mi cocina a pesar de que no residen ninos menores de seis anos en mi apartamento.
+
+__ No, NO quiero los protectores para perillas de cocina a pesar de que un nino de seis anos reside en mi apartamento.
+
+__ No, NO quiero los protectores para perillas de cocina para mi cocina. En mi apartamento, no residen ninos menores de seis anos.
+
+   (Firma del inquilino)       (FECHA)
+
+Nombre en letra de imprenta, direccion y numero de apartamento:______________________________________________________________________________________________________________
+
+Devolver este formulario a (direccion del propietario):______________________________________________________________________________________________________________
 
 
 

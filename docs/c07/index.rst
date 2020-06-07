@@ -3888,39 +3888,6 @@ If any portion of these Rules and Regulations are lawfully determined to be inva
 
 
 
-Chapter 10: Adjudications
---------------------------------------------------
-
-
-
-*§ 10-01 Conduct of Department of Sanitation Adjudicatory Proceedings.* ::
-
-
-All adjudications which the Department of Sanitation is authorized by law to conduct may be conducted by a department employee designated by the Commissioner, or the New York City Office of Administrative Trials and Hearings (OATH), as determined by the Commissioner.
-
-
-
-
-
-
-*§ 10-02 Adjudication Procedures.* ::
-
-
-Adjudications conducted either by OATH or by the Commissioner's designee shall be conducted in conformance with the rules and procedures of OATH.
-
-
-
-
-
-
-*§ 10-03 Findings of Fact and Determinations.* ::
-
-
-After a hearing has been conducted by OATH or the Commissioner's designee, the Administrative Law Judges of OATH or the Commissioner's designee shall make written proposed findings of fact and shall recommend decisions to the Commissioner of the Department who, in the Commissioner's sole discretion, shall make the final determi- nations.
-
-
-
-
 Chapter 9: Tripartite General Orders
 --------------------------------------------------
 
@@ -4196,6 +4163,39 @@ The Departments of Sanitation, Housing Preservation and Development and Health f
 
 
 This order may be amended or repealed only upon joint order of the Department of Health, the Department of Housing Preservation and Development and the Department of Sanitation pursuant to § 1043 of the New York City Charter.
+
+
+
+
+Chapter 10: Adjudications
+--------------------------------------------------
+
+
+
+*§ 10-01 Conduct of Department of Sanitation Adjudicatory Proceedings.* ::
+
+
+All adjudications which the Department of Sanitation is authorized by law to conduct may be conducted by a department employee designated by the Commissioner, or the New York City Office of Administrative Trials and Hearings (OATH), as determined by the Commissioner.
+
+
+
+
+
+
+*§ 10-02 Adjudication Procedures.* ::
+
+
+Adjudications conducted either by OATH or by the Commissioner's designee shall be conducted in conformance with the rules and procedures of OATH.
+
+
+
+
+
+
+*§ 10-03 Findings of Fact and Determinations.* ::
+
+
+After a hearing has been conducted by OATH or the Commissioner's designee, the Administrative Law Judges of OATH or the Commissioner's designee shall make written proposed findings of fact and shall recommend decisions to the Commissioner of the Department who, in the Commissioner's sole discretion, shall make the final determi- nations.
 
 
 
@@ -4528,6 +4528,51 @@ All notices required by these Rules shall be sent by certified, return receipt m
 
 
 
+Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
+--------------------------------------------------
+
+
+
+*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equipment.* ::
+
+
+(a) Prohibition.
+
+   (1) Pursuant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
+
+   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with Subdivision (e) of 1 RCNY § 24-01 of the Rules of Department of Buildings of the City of New York governing fireproofing.
+
+   (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
+
+(b) Request for change in Department of Sanitation collection service.
+
+   (1) If, as a result of the cessation of operation and removal and sealing of refuse burning equipment, the owner of a residential building which contains such equipment and currently receives Department of Sanitation collection service determines that a change from its existing form of collection service (e.g., curbside or containerized collection) is necessary, he/she shall notify the Department of Sanitation in writing no later than June 28, 1993. Such notice shall be addressed to the New York City Department of Sanitation, Office of Collection and Containerization, 125 Worth Street, Room 821A, New York, New York 10013, and shall provide:
+
+      (i) The type of collection service the building is presently receiving (i.e., curbside or containerized). Curbside collection service means placing garbage receptacles at the curb which are then manually serviced by Department of Sanitation personnel. Containerized collection service means placing garbage bags/refuse into a container(s) in an area accessible to a Department of Sanitation mechanized collection vehicle. The owner of the building currently receiving Department of Sanitation collection service shall state whether he/she requests:
+
+         (A) continuation of containerized collection service or eligibility to receive containerized service; or
+
+         (B) continuation of curbside collection service, all requests are subject to Department of Sanitation approval based on availability of collection equipment, facilities, necessary support resources and operational feasibility; and
+
+      (ii) Proof of legal authorization and occupancy for building. The owner of a building currently receiving Department of Sanitation collection shall submit a copy of the certificate of occupancy for such building, or, if such building is not legally required to operate pursuant to a certificate of occupancy, a notarized statement from the building owner stating the number of stories the building contains and the number of families authorized by law to occupy the building.
+
+   (2) Upon the Department of Sanitation's receipt of the information set forth in subdivision (1) of this section, a Department of Sanitation representative shall visit the subject residential building and determine whether the request for change in collection service should be granted.
+
+   (3) Owners of commercial incinerators which cease to operate and are removed and sealed are required by law to arrange with their private carter for collection of the solid waste which they generate.
+
+(c) Department of Buildings requiremeents for renovation and alteration of refuse and/or chute rooms.
+
+   (1) If an owner of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989, renovates or alters the refuse and/or chute room, by, a method which includes, but is not limited to, the installation of a refuse chute or compactor, such owner shall comply with §§ 27-836, 27-837 and/or 27-875 of the Administrative Code of the City of New York and Department of Buildings Rules governing the construction and maintenance of refuse chutes and refuse rooms.
+
+   (2) Such owner shall obtain authorization from the borough office of the Department of Buildings in which his/her building is located in the form of the alteration application/permit, as required by Articles four, nine, ten and twelve of Subchapter one of Chapter one of Article twenty-seven of the Administrative Code of the City of New York.
+
+   (3) Such owner shall mail a copy of the approved alteration application/permit and a notarized statement that the owner has complied with all applicable rules and laws of the Department of Buildings to: Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
+
+(d) Department of Environmental Protection requirements for notice of cessation and removal and sealing of refuse burning equipment. All owners of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989 shall notify the Department of Environmental Protection in writing of such cessation and removal and sealing in accordance with subdivision (f) of § 24-122 of the Administrative Code of the City of New York, and mail such notice to: John Penn, Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
+
+
+
+
 Chapter 14: Street Events
 --------------------------------------------------
 
@@ -4675,51 +4720,6 @@ At least one week prior to the street event, the sponsor or his or her represent
 
 
 
-Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
---------------------------------------------------
-
-
-
-*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equipment.* ::
-
-
-(a) Prohibition.
-
-   (1) Pursuant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
-
-   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with Subdivision (e) of 1 RCNY § 24-01 of the Rules of Department of Buildings of the City of New York governing fireproofing.
-
-   (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
-
-(b) Request for change in Department of Sanitation collection service.
-
-   (1) If, as a result of the cessation of operation and removal and sealing of refuse burning equipment, the owner of a residential building which contains such equipment and currently receives Department of Sanitation collection service determines that a change from its existing form of collection service (e.g., curbside or containerized collection) is necessary, he/she shall notify the Department of Sanitation in writing no later than June 28, 1993. Such notice shall be addressed to the New York City Department of Sanitation, Office of Collection and Containerization, 125 Worth Street, Room 821A, New York, New York 10013, and shall provide:
-
-      (i) The type of collection service the building is presently receiving (i.e., curbside or containerized). Curbside collection service means placing garbage receptacles at the curb which are then manually serviced by Department of Sanitation personnel. Containerized collection service means placing garbage bags/refuse into a container(s) in an area accessible to a Department of Sanitation mechanized collection vehicle. The owner of the building currently receiving Department of Sanitation collection service shall state whether he/she requests:
-
-         (A) continuation of containerized collection service or eligibility to receive containerized service; or
-
-         (B) continuation of curbside collection service, all requests are subject to Department of Sanitation approval based on availability of collection equipment, facilities, necessary support resources and operational feasibility; and
-
-      (ii) Proof of legal authorization and occupancy for building. The owner of a building currently receiving Department of Sanitation collection shall submit a copy of the certificate of occupancy for such building, or, if such building is not legally required to operate pursuant to a certificate of occupancy, a notarized statement from the building owner stating the number of stories the building contains and the number of families authorized by law to occupy the building.
-
-   (2) Upon the Department of Sanitation's receipt of the information set forth in subdivision (1) of this section, a Department of Sanitation representative shall visit the subject residential building and determine whether the request for change in collection service should be granted.
-
-   (3) Owners of commercial incinerators which cease to operate and are removed and sealed are required by law to arrange with their private carter for collection of the solid waste which they generate.
-
-(c) Department of Buildings requiremeents for renovation and alteration of refuse and/or chute rooms.
-
-   (1) If an owner of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989, renovates or alters the refuse and/or chute room, by, a method which includes, but is not limited to, the installation of a refuse chute or compactor, such owner shall comply with §§ 27-836, 27-837 and/or 27-875 of the Administrative Code of the City of New York and Department of Buildings Rules governing the construction and maintenance of refuse chutes and refuse rooms.
-
-   (2) Such owner shall obtain authorization from the borough office of the Department of Buildings in which his/her building is located in the form of the alteration application/permit, as required by Articles four, nine, ten and twelve of Subchapter one of Chapter one of Article twenty-seven of the Administrative Code of the City of New York.
-
-   (3) Such owner shall mail a copy of the approved alteration application/permit and a notarized statement that the owner has complied with all applicable rules and laws of the Department of Buildings to: Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
-
-(d) Department of Environmental Protection requirements for notice of cessation and removal and sealing of refuse burning equipment. All owners of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989 shall notify the Department of Environmental Protection in writing of such cessation and removal and sealing in accordance with subdivision (f) of § 24-122 of the Administrative Code of the City of New York, and mail such notice to: John Penn, Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
-
-
-
-
 Chapter 15: Residential Enforcement Routing
 --------------------------------------------------
 
@@ -4830,137 +4830,6 @@ Unsolicited advertisement. "Unsolicited advertisement" shall mean an advertiseme
 
 
 Nothing in this chapter shall be construed to preclude an enforcement agent from issuing a notice of violation based on his or her own observations, or in any other way to limit the authority of any enforcement agent.
-
-
-
-
-Chapter 18: Publicly Accessible Collection Bins
---------------------------------------------------
-
-
-
-*§ 18-01 Definitions.* ::
-
-
-When used in this chapter:
-
-"Commissioner" means the Commissioner of Sanitation.
-
-"Department" means the Department of Sanitation.
-
-"ECB" means the Environmental Control Board.
-
-"Publicly accessible collection bin" means any outdoor container, other than any container placed by any government or governmental agency, or its contractors or licensees, that allows for any member of the public to deposit items into the container for the purpose of collection by the owner of such container.
-
-"Public property" means any city property, or property maintained by the city, or any public sidewalk or roadway.
-
-
-
-
-
-
-*§ 18-02 Placement of Publicly Accessible Collection Bins.* ::
-
-
-(a) No publicly accessible collection bin may be placed on any public property.
-
-(b) No publicly accessible collection bin may be placed on any private property without the written permission of the property owner or the property owner's designated agent.
-
-
-
-
-
-
-*§ 18-03 Registration Requirements.* ::
-
-
-(a) By April 1, 2015, all owners of publicly accessible collection bins that are placed on private property with written permission of the property owner or the property owner's designated agent must register with the Department. Registration forms may be obtained from the Department's website or by written request to:
-
-   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin--Registration
-
-(b) The Registration must include:
-
-   (1) the name, address and telephone number of the owner. A post office box is not an acceptable address;
-
-   (2) the location of the owner's publicly accessible collection bin(s); and
-
-   (3) the type of material collected in the bin(s).
-
-(c) It is unlawful for the owner of any publicly accessible collection bin to fail to register with the Department.
-
-
-
-
-
-
-*§ 18-04 Maintenance Requirements.* ::
-
-
-(a) Each individual publicly accessible collection bin must prominently display on the front and on at least one other side of the bin the name, address and telephone number of the owner of the bin. This information must be printed in characters that are plainly visible. A post office box is not an acceptable address.
-
-(b) The owner of a publicly accessible collection bin and the owner of the private property where such bin is located must maintain the bin in a clean and neat condition.
-
-
-
-
-
-
-*§ 18-05 Annual Reporting.* ::
-
-
-(a) By August 1, 2015 and annually thereafter, each owner of any publicly accessible collection bin must submit a report to the commissioner identifying the weight of the material collected from July first of the year before the year the report is due and ending on June 30 of the year the report is due. Forms for completing the reports may be obtained from the Department's website or by written request to:
-
-   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin – Annual Report
-
-(b) It is unlawful for the owner of any publicly accessible collection bin to submit a report containing false or misleading information or to fail to submit a report in accordance with this section.
-
-
-
-
-
-
-*§ 18-06 Redemption Procedures for Publicly Accessible Collection Bins Placed on Public Property.* ::
-
-
-(a) When the Department removes any publicly accessible collection bin placed on public property, as provided by § 10-169 of the Administrative Code, provided that the name and address of the bin owner are legibly located on the bin, the Commissioner will notify the owner of the bin by certified mail, return receipt requested, that the bin was removed by the Department. The notification will state that the owner has 30 days from the date the notification was issued by the Department to redeem the bin from the possession of the Department. The notification will also contain a brief description of the publicly accessible collection bin and the location from which it was removed, as well as the address of the office at which an application to redeem the publicly accessible collection bin may be made and a statement as to applicable charges, fees and penalties due.
-
-(b) Whenever the Department removes any publicly accessible collection bin, as provided by § 10-169 of the administrative code, the bin will not be released until the bin owner has:
-
-   (1) submitted proof of ownership to the Commissioner. Proof may include, but need not be limited to, a bill of sale or a picture of the publicly accessible collection bin;
-
-   (2) exhibited proof to the Commissioner that the ECB proceedings against the owner have been disposed of and that applicable penalties, if any, have been paid; and
-
-   (3) paid the storage charge and the removal charge, as specified in the notification set forth in subdivision (a), for each day or fraction thereof since the removal of the publicly accessible collection bin, unless the owner was found not liable for violating § 10-169 of the Administrative Code by the ECB. The storage charge is $20.00 for each of the first 3 days and $25.00 for each additional day. The removal fee is $280.00 per collection bin.
-
-
-
-
-
-
-*§ 18-07 Failure to Redeem Collection Bin.* ::
-
-
-(a) The Department will send any collection bin, including any contents, that is not redeemed and removed from the Department's possession within the applicable time provided by this chapter to a recycling facility or otherwise provide for its disposal.
-
-(b) If a bin owner has met some, but not all, of the requirements for redemption included in 16 RCNY § 18-06, the Department may send a written request to the owner asking him or her to remove the bin from the Department's possession. The owner will have 30 days from the issuance of the written request by the Department to collect the bin. If the owner does not remove the bin from the Department's possession within 30 days of the issuance of the request, the Department will send the bin, including any contents, to a recycling facility or otherwise provide for its disposal.
-
-
-
-
-
-
-*§ 18-08 Enforcement.* ::
-
-
-(a) It is a violation for any owner to place a publicly accessible collection bin on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $250.00 for the first offense and $500.00 for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
-
-(b) It is a violation for any owner to attach or enclose by any means any publicly accessible collection bin to or on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $500.00 dollars for the first offense and $1,000.00 dollars for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
-
-(c) It is a violation for any bin owner to fail to have his or her bin prominently display on the front and on at least one other side of the bin, the name, address and telephone number of the bin owner. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
-
-(d) It is a violation for any bin owner, and/or the owner of the private property on which the bin is located, to fail to maintain the bin in a clean and neat condition. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
-
-(e) It is a violation for any bin owner to fail to submit a registration or to submit an annual report containing false or misleading information or to fail to submit an annual report required by this chapter. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
 
 
 
@@ -5098,6 +4967,188 @@ When used in this chapter:
 
 
 
+Chapter 18: Publicly Accessible Collection Bins
+--------------------------------------------------
+
+
+
+*§ 18-01 Definitions.* ::
+
+
+When used in this chapter:
+
+"Commissioner" means the Commissioner of Sanitation.
+
+"Department" means the Department of Sanitation.
+
+"ECB" means the Environmental Control Board.
+
+"Publicly accessible collection bin" means any outdoor container, other than any container placed by any government or governmental agency, or its contractors or licensees, that allows for any member of the public to deposit items into the container for the purpose of collection by the owner of such container.
+
+"Public property" means any city property, or property maintained by the city, or any public sidewalk or roadway.
+
+
+
+
+
+
+*§ 18-02 Placement of Publicly Accessible Collection Bins.* ::
+
+
+(a) No publicly accessible collection bin may be placed on any public property.
+
+(b) No publicly accessible collection bin may be placed on any private property without the written permission of the property owner or the property owner's designated agent.
+
+
+
+
+
+
+*§ 18-03 Registration Requirements.* ::
+
+
+(a) By April 1, 2015, all owners of publicly accessible collection bins that are placed on private property with written permission of the property owner or the property owner's designated agent must register with the Department. Registration forms may be obtained from the Department's website or by written request to:
+
+   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin--Registration
+
+(b) The Registration must include:
+
+   (1) the name, address and telephone number of the owner. A post office box is not an acceptable address;
+
+   (2) the location of the owner's publicly accessible collection bin(s); and
+
+   (3) the type of material collected in the bin(s).
+
+(c) It is unlawful for the owner of any publicly accessible collection bin to fail to register with the Department.
+
+
+
+
+
+
+*§ 18-04 Maintenance Requirements.* ::
+
+
+(a) Each individual publicly accessible collection bin must prominently display on the front and on at least one other side of the bin the name, address and telephone number of the owner of the bin. This information must be printed in characters that are plainly visible. A post office box is not an acceptable address.
+
+(b) The owner of a publicly accessible collection bin and the owner of the private property where such bin is located must maintain the bin in a clean and neat condition.
+
+
+
+
+
+
+*§ 18-05 Annual Reporting.* ::
+
+
+(a) By August 1, 2015 and annually thereafter, each owner of any publicly accessible collection bin must submit a report to the commissioner identifying the weight of the material collected from July first of the year before the year the report is due and ending on June 30 of the year the report is due. Forms for completing the reports may be obtained from the Department's website or by written request to:
+
+   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin – Annual Report
+
+(b) It is unlawful for the owner of any publicly accessible collection bin to submit a report containing false or misleading information or to fail to submit a report in accordance with this section.
+
+
+
+
+
+
+*§ 18-06 Redemption Procedures for Publicly Accessible Collection Bins Placed on Public Property.* ::
+
+
+(a) When the Department removes any publicly accessible collection bin placed on public property, as provided by § 10-169 of the Administrative Code, provided that the name and address of the bin owner are legibly located on the bin, the Commissioner will notify the owner of the bin by certified mail, return receipt requested, that the bin was removed by the Department. The notification will state that the owner has 30 days from the date the notification was issued by the Department to redeem the bin from the possession of the Department. The notification will also contain a brief description of the publicly accessible collection bin and the location from which it was removed, as well as the address of the office at which an application to redeem the publicly accessible collection bin may be made and a statement as to applicable charges, fees and penalties due.
+
+(b) Whenever the Department removes any publicly accessible collection bin, as provided by § 10-169 of the administrative code, the bin will not be released until the bin owner has:
+
+   (1) submitted proof of ownership to the Commissioner. Proof may include, but need not be limited to, a bill of sale or a picture of the publicly accessible collection bin;
+
+   (2) exhibited proof to the Commissioner that the ECB proceedings against the owner have been disposed of and that applicable penalties, if any, have been paid; and
+
+   (3) paid the storage charge and the removal charge, as specified in the notification set forth in subdivision (a), for each day or fraction thereof since the removal of the publicly accessible collection bin, unless the owner was found not liable for violating § 10-169 of the Administrative Code by the ECB. The storage charge is $20.00 for each of the first 3 days and $25.00 for each additional day. The removal fee is $280.00 per collection bin.
+
+
+
+
+
+
+*§ 18-07 Failure to Redeem Collection Bin.* ::
+
+
+(a) The Department will send any collection bin, including any contents, that is not redeemed and removed from the Department's possession within the applicable time provided by this chapter to a recycling facility or otherwise provide for its disposal.
+
+(b) If a bin owner has met some, but not all, of the requirements for redemption included in 16 RCNY § 18-06, the Department may send a written request to the owner asking him or her to remove the bin from the Department's possession. The owner will have 30 days from the issuance of the written request by the Department to collect the bin. If the owner does not remove the bin from the Department's possession within 30 days of the issuance of the request, the Department will send the bin, including any contents, to a recycling facility or otherwise provide for its disposal.
+
+
+
+
+
+
+*§ 18-08 Enforcement.* ::
+
+
+(a) It is a violation for any owner to place a publicly accessible collection bin on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $250.00 for the first offense and $500.00 for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
+
+(b) It is a violation for any owner to attach or enclose by any means any publicly accessible collection bin to or on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $500.00 dollars for the first offense and $1,000.00 dollars for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
+
+(c) It is a violation for any bin owner to fail to have his or her bin prominently display on the front and on at least one other side of the bin, the name, address and telephone number of the bin owner. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
+
+(d) It is a violation for any bin owner, and/or the owner of the private property on which the bin is located, to fail to maintain the bin in a clean and neat condition. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
+
+(e) It is a violation for any bin owner to fail to submit a registration or to submit an annual report containing false or misleading information or to fail to submit an annual report required by this chapter. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
+
+
+
+
+Chapter 19: Penalty Schedule
+--------------------------------------------------
+
+
+
+*§ 19-101 Definitions.* ::
+
+
+Default penalty. “Default penalty” shall mean the penalty imposed by the Office of Administrative Trials and Hearings acting pursuant to Section 1049-a of the Charter of the City of New York in accordance with subparagraph (d) of paragraph one of subdivision d of Section 1049-a of such Charter.
+
+
+
+
+
+
+
+
+*§ 19-102 General.* ::
+
+
+(a) Unless otherwise indicated, all citations are to the New York City Administrative Code.
+
+(b) Sections marked with an asterisk (*) indicate that a repeat violation is:
+
+   (1) a violation by the same respondent of the same section of law; and
+
+   (2) a violation that occurred within 12 months of the dates of 12 or more violations issued to the same respondent; and
+
+   (3) a violation that occurred at the same place of occurrence as the previous 12 violations.
+
+(c) Sections marked with two asterisks (**) indicate that a second or third violation is:
+
+   (1) a violation by the same respondent of the same section of law as the previous violation(s); and
+
+   (2) a violation that occurred within 12 months of the date of the last violation issued to the same respondent.
+
+
+
+
+
+
+
+
+*§ 19-103 Sanitation Penalty Schedule.* ::
+
+
+
+
+
+
+
 Chapter 20: Commercial Waste Zones
 --------------------------------------------------
 
@@ -5175,57 +5226,6 @@ a. The geographic area of the city of New York shall be divided into 20 commerci
 ~
 
  
-
-
-
-
-
-
-Chapter 19: Penalty Schedule
---------------------------------------------------
-
-
-
-*§ 19-101 Definitions.* ::
-
-
-Default penalty. “Default penalty” shall mean the penalty imposed by the Office of Administrative Trials and Hearings acting pursuant to Section 1049-a of the Charter of the City of New York in accordance with subparagraph (d) of paragraph one of subdivision d of Section 1049-a of such Charter.
-
-
-
-
-
-
-
-
-*§ 19-102 General.* ::
-
-
-(a) Unless otherwise indicated, all citations are to the New York City Administrative Code.
-
-(b) Sections marked with an asterisk (*) indicate that a repeat violation is:
-
-   (1) a violation by the same respondent of the same section of law; and
-
-   (2) a violation that occurred within 12 months of the dates of 12 or more violations issued to the same respondent; and
-
-   (3) a violation that occurred at the same place of occurrence as the previous 12 violations.
-
-(c) Sections marked with two asterisks (**) indicate that a second or third violation is:
-
-   (1) a violation by the same respondent of the same section of law as the previous violation(s); and
-
-   (2) a violation that occurred within 12 months of the date of the last violation issued to the same respondent.
-
-
-
-
-
-
-
-
-*§ 19-103 Sanitation Penalty Schedule.* ::
-
 
 
 
