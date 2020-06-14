@@ -3796,6 +3796,131 @@ Title 52: Campaign Finance Board*
 
 
 
+*§ 18-01 Records Available to the Public.* ::
+
+
+The New York State Freedom of Information Law (FOIL) (Public Officers Law, Article 6, § 84 et seq.) governs public access to the Board's records. The Board may deny access to records or portions of records that are exempted from disclosure by state or federal law.
+
+
+
+
+
+
+
+
+*§ 18-02 Records Access Officer.* ::
+
+
+The Board's records access officer is designated by the Executive Director and is responsible for ensuring appropriate agency response to public requests for access to records.
+
+
+
+
+
+
+
+
+*§ 18-03 Requesting Records.* ::
+
+
+(a) A candidate may request access to records such candidate submitted to the Board by contacting the Candidate Guidance and Policy Unit, which may, at its discretion, provide access to such records without a FOIL request.
+
+(b) To request access to Board records, a member of the public must:
+
+   (i) make a written FOIL request in person, by mail, or by email, addressed to the Board's records access officer;
+
+   (ii) reasonably describe the records sought;
+
+   (iii) provide the requestor's name and mailing or email address; and
+
+   (iv) specify preference for inspection of records or copies of records.
+
+(c) Within five business days of receipt of a FOIL request made in accordance with subdivision (b) above, the Board will:
+
+   (i) grant or deny the request, in whole or in part, in writing; or
+
+   (ii) provide:
+
+      (A) a written acknowledgment of the request and state the approximate date on which the request will be granted or denied; or
+
+      (B) where circumstances prevent granting or denying the request within 20 business days of the written acknowledgment,
+
+         (1) a written statement of the reasons for the delay in making a determination; and
+
+         (2) a date, within a reasonable period depending on the circumstances, when the request will be granted or denied.
+
+(d) Where the Board is unable to locate records responsive to the request, the Board, upon request, will certify that:
+
+   (i) the Board is not the custodian of such records; or
+
+   (ii) such records cannot be found after a diligent search.
+
+(e) Where the request is granted, the Board will:
+
+   (i) make records available for inspection:
+
+      (A) between the hours of 10:00 a.m. and 4:00 p.m., on business days, Monday through Friday;
+
+      (B) at the offices of the Board or another location chosen by the Board;
+
+      (C) in quantities that may be limited to the amount available at the time; and
+
+      (D) contingent on the requester's promise that the records will not be removed, damaged, marked, or changed in any way during the inspection; or
+
+   (ii) make copies of records available in the medium requested, where practicable, upon payment of fees as described in this chapter, and provide, on request, a certification that the copies are true copies;
+
+(f) Where a request is denied, the Board will explain the reasons for the denial in writing and set forth the right to appeal.
+
+
+
+
+
+
+
+
+*§ 18-04 Appealing a Denial of Access to Records.* ::
+
+
+(a) To appeal a denial of access to records, the requester must, within 30 days of the denial, submit a written appeal to the Board's General Counsel including:
+
+   (i) a copy of the original request;
+
+   (ii) a reasonable description of the records to which access was denied; and
+
+   (iii) the name and address of the requester.
+
+(b) Upon receipt of an appeal, the Board's General Counsel shall, within 10 business days:
+
+   (i) decide the appeal and send a copy of the written decision to the requester; and
+
+   (ii) send a copy of the appeal and a copy of the written decision to the Committee on Open Government of the Department of State of the State of New York.
+
+
+
+
+
+
+
+
+*§ 18-05 Fees.* ::
+
+
+The Board may require payment for copies of records, as follows:
+
+(a) 25 cents per page for photocopies not exceeding 8-1/2 inches by 14 inches; or
+
+(b) the actual cost of reproducing any other record, in accordance with § 87 of the New York Public Officers Law.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
 *§ 17-01 Definitions.* ::
 
 
@@ -3986,131 +4111,6 @@ Except as otherwise provided, the definitions set forth in 52 RCNY § 1-02 apply
 
 
 Notwithstanding any other provision of this chapter, the Board shall take such actions as are practicable to prepare, publish, and distribute a Voter Guide in a timely manner for an election that is not held as initially scheduled.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
-*§ 18-01 Records Available to the Public.* ::
-
-
-The New York State Freedom of Information Law (FOIL) (Public Officers Law, Article 6, § 84 et seq.) governs public access to the Board's records. The Board may deny access to records or portions of records that are exempted from disclosure by state or federal law.
-
-
-
-
-
-
-
-
-*§ 18-02 Records Access Officer.* ::
-
-
-The Board's records access officer is designated by the Executive Director and is responsible for ensuring appropriate agency response to public requests for access to records.
-
-
-
-
-
-
-
-
-*§ 18-03 Requesting Records.* ::
-
-
-(a) A candidate may request access to records such candidate submitted to the Board by contacting the Candidate Guidance and Policy Unit, which may, at its discretion, provide access to such records without a FOIL request.
-
-(b) To request access to Board records, a member of the public must:
-
-   (i) make a written FOIL request in person, by mail, or by email, addressed to the Board's records access officer;
-
-   (ii) reasonably describe the records sought;
-
-   (iii) provide the requestor's name and mailing or email address; and
-
-   (iv) specify preference for inspection of records or copies of records.
-
-(c) Within five business days of receipt of a FOIL request made in accordance with subdivision (b) above, the Board will:
-
-   (i) grant or deny the request, in whole or in part, in writing; or
-
-   (ii) provide:
-
-      (A) a written acknowledgment of the request and state the approximate date on which the request will be granted or denied; or
-
-      (B) where circumstances prevent granting or denying the request within 20 business days of the written acknowledgment,
-
-         (1) a written statement of the reasons for the delay in making a determination; and
-
-         (2) a date, within a reasonable period depending on the circumstances, when the request will be granted or denied.
-
-(d) Where the Board is unable to locate records responsive to the request, the Board, upon request, will certify that:
-
-   (i) the Board is not the custodian of such records; or
-
-   (ii) such records cannot be found after a diligent search.
-
-(e) Where the request is granted, the Board will:
-
-   (i) make records available for inspection:
-
-      (A) between the hours of 10:00 a.m. and 4:00 p.m., on business days, Monday through Friday;
-
-      (B) at the offices of the Board or another location chosen by the Board;
-
-      (C) in quantities that may be limited to the amount available at the time; and
-
-      (D) contingent on the requester's promise that the records will not be removed, damaged, marked, or changed in any way during the inspection; or
-
-   (ii) make copies of records available in the medium requested, where practicable, upon payment of fees as described in this chapter, and provide, on request, a certification that the copies are true copies;
-
-(f) Where a request is denied, the Board will explain the reasons for the denial in writing and set forth the right to appeal.
-
-
-
-
-
-
-
-
-*§ 18-04 Appealing a Denial of Access to Records.* ::
-
-
-(a) To appeal a denial of access to records, the requester must, within 30 days of the denial, submit a written appeal to the Board's General Counsel including:
-
-   (i) a copy of the original request;
-
-   (ii) a reasonable description of the records to which access was denied; and
-
-   (iii) the name and address of the requester.
-
-(b) Upon receipt of an appeal, the Board's General Counsel shall, within 10 business days:
-
-   (i) decide the appeal and send a copy of the written decision to the requester; and
-
-   (ii) send a copy of the appeal and a copy of the written decision to the Committee on Open Government of the Department of State of the State of New York.
-
-
-
-
-
-
-
-
-*§ 18-05 Fees.* ::
-
-
-The Board may require payment for copies of records, as follows:
-
-(a) 25 cents per page for photocopies not exceeding 8-1/2 inches by 14 inches; or
-
-(b) the actual cost of reproducing any other record, in accordance with § 87 of the New York Public Officers Law.
 
 
 

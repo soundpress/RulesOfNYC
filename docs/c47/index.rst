@@ -1011,6 +1011,992 @@ The amount of food and administrative funds allocated to each provider may be ch
 
 
 
+Chapter 6: IDNYC Program
+--------------------------------------------------
+
+
+
+*§ 6-01 Definitions.* ::
+
+
+For the purposes of this chapter:
+
+(a) “Caretaker” means a birth parent; adoptive parent; step parent; court-appointed guardian, custodian, or conservator; foster care parent; a sponsor of a minor appointed by the United States Department of Health and Human Services, Office of Refugee Resettlement (ORR); an employee from the New York City Administration for Children’s Services (ACS), New York State Office for People with Developmental Disabilities (OPWDD), New York State Department of Health (NYS DOH), New York State Office of Mental Health (NYS OMH), New York City Department of Health and Mental Hygiene (NYC DOHMH), a designated ACS foster care agency, or an agency or facility, including a residential care facility, that is operated, licensed, certified or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH; a cohabitant of an applicant who has been determined by OPWDD to be a person with a developmental disability; an applicant’s Social Security representative payee; or such other categories of individuals that HRA may designate as caretakers in the future pursuant to subdivision (f) of 68 RCNY § 6-07.
+
+(b) "IDNYC Card" has the same meaning as "New York City identity card," as provided in § 3-115(a) of the Administrative Code of the City of New York.
+
+(c) "HRA" means the New York City Human Resources Administration.
+
+(d) "Individual who lacks a stable residence" means a person who lacks permanent housing, who may live on the streets, in a vehicle or abandoned building, or reside at a location where there is a maximum stay of 30 days or less.
+
+(e) “Machine readable” describes a document with data that can be verified by electronic means by the IDNYC Card Program application system.
+
+(f) A “new applicant” means an individual who is applying for their first IDNYC card or who was previously issued an IDNYC card that expired and is outside the renewal period as established by HRA pursuant to 68 RCNY § 6-10(b).
+
+(g) A “qualifying school” is any New York City Department of Education or accredited charter, parochial or private school located in New York City that HRA has designated as a school that it will accept a school verification form from pursuant to 68 RCNY § 6-04(d).
+
+(h) “Renewal period” means the time period established by HRA pursuant to 68 RCNY § 6-10(b) in which a cardholder can renew their card and not be treated as a new applicant.
+
+(i) “Resident” has the same meaning as provided in § 3-115(a) of the Administrative Code of the City of New York.
+
+(j) "State" means any of the 50 states of the United States, and shall also be deemed to include the District of Columbia, and any of the territories of the United States.
+
+(k) "Territories" means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the U.S. Virgin Islands.
+
+(l) "Submitted" means submitted to HRA, as administering agency of the IDNYC Program, in accordance with this chapter.
+
+
+
+
+
+
+
+
+*§ 6-02 The IDNYC Card.* ::
+
+
+(a) The IDNYC Card will display the cardholder's photograph, name, date of birth, an expiration date, signature, eye color, height, identification number, and, except as provided in this section, a street address located within New York City. The card will also, at the cardholder's option, display the cardholder's self-designated gender, preferred language, veteran status and such additional information as HRA may in the future display. Additionally, for a cardholder under 14 years of age, the cardholder’s designated emergency contact information will appear on the card. For a cardholder 14 years of age or older, the cardholder’s designated emergency contact information may appear on the card at the cardholder’s option. Cards issued pursuant to 68 RCNY § 6-04(e) will also display the name of the cardholder’s school.
+
+(b) The IDNYC Card will not display a home address in the following circumstances:
+
+   (1) Where the applicant is 10 - 13 years old, the applicant's caretaker may choose to omit the address from the card.
+
+   (2) Where an applicant is an individual who lacks a stable residence or is a survivor of domestic violence and provides evidence of residency pursuant to 68 RCNY § 6-06(c)(2), the IDNYC Card will display either no address at all or a "care of" address, as described in that section.
+
+   (3) Where an applicant resides in a residential care program that is operated or overseen by HRA's Emergency Intervention Services for the purpose of providing shelter, services and care to survivors of domestic violence and presents a Letter from a Residential Care Program as described in the table set forth in 68 RCNY § 6-06(c)(2), the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant's preference.
+
+   (4) Where an applicant provides evidence that they participate in the New York State Address Confidentiality Program (ACP) established by New York Executive Law § 108 for victims of domestic violence, the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant's preference. An applicant who participates in the ACP must still establish residency under this chapter.
+
+   (5) Where an applicant is a college or university student, employee or other person who resides in housing affiliated with a school and receives mail at a central school-based location different from where the applicant resides, the IDNYC card will display the address where the applicant receives mail and the name of their school provided the applicant submits a Letter from a College or University Administrator as described in the table set forth in 68 RCNY § 6-06(c)(1).
+
+   (6) IDNYC Cards issued pursuant to 68 RCNY § 6-04(e) will not display a home address.
+
+
+
+
+
+
+
+
+*§ 6-03 Eligibility and Application Process for New Applicants.* ::
+
+
+(a) The IDNYC Card will be available to any resident of New York City ten years of age or older who:
+
+   (1) submits an application in a format and in a manner established by the Commissioner; and
+
+   (2) establishes identity and residency:
+
+      (A) by providing a single 4-point document from the chart set forth in 68 RCNY § 6-04(a);
+
+      (B) by providing identity documents totaling at least 3 points pursuant to 68 RCNY § 6-05 and at least one additional residency document pursuant to 68 RCNY § 6-06;
+
+      (C) pursuant to subdivisions (b), (c), (d), (e) or (f) of 68 RCNY § 6-04; or
+
+      (D) pursuant to the caretaker provisions set forth in 68 RCNY § 6-07.
+
+(b) No expired documentation will be accepted, except as provided in this chapter or where HRA makes provisions for the acceptance of expired documentation when allowing additional documents pursuant to 68 RCNY §§ 6-05(b), 6-06(b) and 6-07(f).
+
+(c) Only original documents or copies of documents that have been certified by the original issuing agency will be accepted. Data or electronic versions of documents received from the issuing agency may be deemed to constitute an original document if HRA determines in its discretion that the data have sufficient indicia of reliability. Documents with any alterations or erasures, or that are cancelled or invalidated, will not be accepted. IDNYC reserves the right to not accept any document, or type of document, whose validity it is not able to verify and, where relying on data or electronic versions of documents, to request additional information from the applicant.
+
+(d) Except as provided in 68 RCNY § 6-06(a), all documents used to establish identity and residency must include the name of the individual whose identity and residency is being established. If any of the documents used to establish identity and residency bear a name that is not consistent with the one on the IDNYC application, the applicant must also present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change.
+
+(e) Applicants must present documents in person at an enrollment site designated by HRA in accordance with § 3-115(b)(2) of the Administrative Code of the City of New York. IDNYC provides free on-site document translation services to applicants who provide original documents that are not in English. Original documents will be returned immediately to the applicant before they leave the enrollment center. IDNYC will not make copies of or digitally scan any documents used by applicants to establish identity or residency.
+
+(f) Wherever a photo identification is required, the photo must bear a reasonable likeness to the person whose identity is being established. The person's gender identity or gender expression will not be the basis for rejection of a photo.
+
+(g) Except for students who are applying for an IDNYC Card at a participating middle school pursuant to 68 RCNY § 6-04(e), applicants ages ten to thirteen years of age must be accompanied at enrollment by a caretaker who must sign the application on behalf of the applicant. Students applying for a card pursuant to 68 RCNY § 6-04(e) need not be accompanied by a caretaker, but will be required to submit an application signed by their parent as defined in Chancellor’s Regulation Number A-820.
+
+
+
+
+
+
+
+
+*§ 6-04 Proof of Identity and Residency.* ::
+
+
+(a) An applicant may provide a single document that is worth the four points needed to establish both identity and residency. The documents listed below meet this four point requirement, provided that they include a photo of the applicant, the date of birth of the applicant, and the applicant's current residential address in New York City.
+
+The following documents are worth four points and establish identity and residency:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document
+      - Description
+      - Acceptable as Photo ID?
+      - Point Value for Proof of ID &amp; Residency
+      - Acceptable as Proof of Date of Birth?
+    * - New York State (NYS) Department of Motor Vehicles (DMV) Driver's License or Learner's Permit
+      - New York State Driver's License, including Commercial Driver's License, or Learner's Permit with current home address, date of birth, photo and expiration date issued by NYS DMV. An expired NYS DMV license or permit will be accepted if presented with an unexpired DMV interim permit bearing the same identification number as the license or permit.
+      - Yes
+      - 4
+      - Yes
+    * - Non-Driver NYS DMV Identification Card
+      - Non-driver photo identification card with current home address, date of birth, and expiration date issued by NYS DMV. An expired NYS DMV identification card will be accepted if presented with an unexpired DMV interim ID card bearing the same identification number as the identification card.
+      - Yes 
+      - 4 
+      - Yes
+    * - U.S. Department of State Driver's License or Non-Driver Identification Card
+      - U.S. Department of State Driver's License or Non-Driver Identification Card with current home address, date of birth, photo and expiration date.
+      - Yes
+      - 4
+      - Yes
+    * - IDNYC Card with Current Home Address
+      - A current IDNYC Card or an expired IDNYC Card with a current home address. If the card is expired, then the card must be within the renewal period.
+      - Yes
+      - 4
+      - Yes
+    * - New York City Police Department (NYPD) Restricted Handgun License
+      - NYPD-issued Restricted Handgun License including current home address, photo of applicant and expiration date.
+      - Yes 
+      - 4 
+      - Yes
+~
+
+
+
+ 
+
+(b) For applicants who are clients of the New York City Department of Probation (DOP), IDNYC will accept the DOP's verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOP, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC Card.
+
+(c) For applicants who are students at qualifying schools and are not applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the school’s verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school ("school verification"), and additional identity documents pursuant to 68 RCNY § 6-05, other than a school transcript, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card, as follows:
+
+   (1) If the school verification is provided to IDNYC at a temporary enrollment site located at the school in which the applicant is enrolled, IDNYC will accept any identity document listed in 68 RCNY § 6-05. Such document need not include a photo identification.
+
+   (2) If the school verification is provided to IDNYC at any other enrollment site, the applicant must also present:
+
+      (A) a student identification card issued by the same school issuing the school verification; and
+
+      (B) either:
+
+         (i) at least one additional identity document listed in 68 RCNY § 6-05, if the student identification card includes a photo; or
+
+         (ii) identity documents listed in 68 RCNY § 6-05 worth at least a total of two points, one of which must be accepted as a photo identification, if the student identification card does not include a photo.
+
+(d) For applicants who are students at qualifying schools and are applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the school’s verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school ("school verification"), as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card.
+
+(e) For applicants applying at participating DOE middle schools to be jointly agreed upon by HRA and DOE, IDNYC will accept the school’s verification of the applicant’s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school as sufficient proof of the applicant’s identity and residency to establish eligibility for the IDNYC card. Cards issued pursuant to this subdivision will include the school’s name and will expire on the student’s expected graduation date from the school.
+
+(f) For applicants who participate in the Summer Youth Employment Program (SYEP) of the New York City Department of Youth and Community Development (DYCD), IDNYC will accept DYCD's verification of the applicant's identity and residency, provided to IDNYC, in a format and in a manner to be agreed upon by HRA and DYCD, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card if presented along with a photo identification pursuant to 68 RCNY § 6-05.
+
+(g) For applicants who are clients of the New York City Department of Social Services (DSS), IDNYC may, at the applicant's request, verify the applicant's identity and/or residency using information from systems maintained by DSS, provided such data can be accessed for purposes of such verification and, once accessed, is deemed sufficiently reliable. Such information will be worth three points toward establishing the identity of the applicant if an original photo and related demographic data, including full name and date of birth, are available in DSS's systems; or one point toward establishing identity if only the name and date of birth, but no photo, are available in DSS's system; and one point towards establishing residency if the applicant's address is also in DSS's system.
+
+
+
+
+
+
+
+
+*§ 6-05 Proof of Identity.* ::
+
+
+(a) Except as otherwise provided in this chapter, in order to establish identity, an applicant will be required to meet the following criteria:
+
+   (1) An applicant must provide documents from the charts set forth in 68 RCNY § 6-05(c) below that in aggregate total at least three points;
+
+   (2) An applicant must provide photo identification; and
+
+   (3) One of the documents submitted must contain the applicant's date of birth.
+
+(b) HRA may determine in the future that additional documents, including data or electronic versions of documents received from the issuing agency, may be accepted and will be afforded the value of one point toward establishing the identity of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of new documents or data, including, but not limited to, publication on the IDNYC website.
+
+(c) (1) The following documents establish the identity of the applicant (3 points):
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document 
+      - Description
+      - Acceptable as Photo ID?
+      - Point Value for Proof of ID
+      - Acceptable as Proof of Date of Birth?
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - U.S. Passport or U.S. Passport Card 
+      - U.S. passport or passport card. 
+      - Yes 
+      - 3 
+      - Yes
+    * - Foreign Passport (Machine Readable)
+      - A machine readable Foreign Passport. 
+      - Yes 
+      - 3 
+      - Yes
+    * - U.S. State Driver's License or Learner's Permit Photo ID
+      - Photo identification card issued by U.S. state (other than New York State Driver's License with current New York City address) or territory granting driving privileges, with address, date of birth, and expiration date.
+      - Yes 
+      - 3 
+      - Yes
+    * - U.S. State Identification Card 
+      - Photo identification card issued by U.S. state (other than New York State Identification Card with current New York City address) or territory with address, date of birth, and expiration date.
+      - Yes 
+      - 3 
+      - Yes
+    * - U.S. Permanent Resident Card
+      - Alien registration card (I-551), also known as a permanent resident or green card. Must include expiration date. Unexpired I-551 stamps in passport also accepted for permanent residents awaiting issuance of their green cards.
+      - Yes 
+      - 3 
+      - Yes
+    * - NYS Benefit Card with Photo
+      - Welfare/Medicaid/NY Food Stamp Card, also known as an Electronic Benefit Transfer (EBT) Card or Common Identification Benefit Card (CBIC), with Photo and date of birth.
+      - Yes 
+      - 3 
+      - Yes
+    * - Common Access Card
+      - Department of Defense (DOD)-issued photo identification card with date of birth, date of issuance, expiration date, blood type, and DOD identification number, issued to active duty, retiree or reservist military personnel only.
+      - Yes 
+      - 3 
+      - Yes
+    * - Current U.S. Work Permit
+      - Employment Authorization Document (EAD) or work permit issued by U.S. Citizenship and Immigration Services (USCIS) that proves that the holder is authorized to work in the U.S. with date of birth and expiration date.
+      - Yes 
+      - 3 
+      - Yes
+    * - Certificate of Citizenship/ Naturalization
+      - U.S. Certificate of Citizenship (N-560 or N-561); Certificate of Naturalization (N-550, N-570 or N-568).
+      - Yes 
+      - 3 
+      - Yes
+    * - U.S. Merchant Mariner Credential
+      - Photo identification card issued by U.S. Coast Guard National Maritime Center, with address, date of birth, and issue and expiration dates.
+      - Yes
+      - 3
+      - Yes
+    * - U.S. Department of State Driver's License or Non-Driver Identification Card without Current Home Address
+      - U.S. Department of State Driver's License or Non-Driver Identification Card with date of birth, photo and expiration date, but without current home address.
+      - Yes
+      - 3
+      - Yes
+    * - NYS Department of Corrections and Community Supervision (DOCCS) Released Offender Identification Card
+      - Photo identification card issued by DOCCS, with identification number, date of birth and cardholder release date no more than one year prior to the date submitted. Acceptable even if the card has expired.
+      - Yes
+      - 3
+      - Yes
+    * - NYS Unified Court System Attorney Secure Pass ID Card
+      - Photo identification card issued by the NYS Unified Court System to attorneys. Includes color photo, date of birth, attorney registration number, and expiration date.
+      - Yes
+      - 3
+      - Yes
+    * - U.S. Tribal ID
+      - A U.S. Tribal photo ID with photo, address, signature, date of birth, and expiration date.
+      - Yes 
+      - 3 
+      - Yes
+    * - IDNYC Card without Current Home Address
+      - A current or expired IDNYC Card without a current home address. If the card is expired, the card must be within the renewal period.
+      - Yes 
+      - 3 
+      - Yes
+~
+
+ 
+
+   (2) The following documents are worth two points toward establishing the identity of the applicant:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document 
+      - Description
+      - Acceptable as Photo ID?
+      - Point Value for Proof of ID
+      - Acceptable as Proof of Date of Birth?
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Foreign Passport (Not Machine Readable)
+      - Foreign Passport that is not machine readable.
+      - Yes 
+      - 2 
+      - Yes
+    * - Expired U.S. Passport or Passport Card
+      - U.S. Passport or Passport Card that has expired no more than three years prior to the date submitted.
+      - Yes
+      - 2
+      - Yes
+    * - Expired Foreign Passport
+      - Foreign passport that is machine readable and has expired no more than three years prior to the date submitted
+      - Yes
+      - 2
+      - Yes
+    * - Expired IDNYC Card
+      - IDNYC Card that has expired less than three years before the date submitted but is outside the renewal period.
+      - Yes
+      - 2
+      - Yes
+    * - Consular Identification Card
+      - Photo identification card with address, date of birth, and expiration date, issued by foreign governments recognized by the U.S. to their citizens, who are outside the issuing country.
+      - Yes 
+      - 2 
+      - Yes
+    * - Veterans Identification Card issued by U.S. Department of Veterans Affairs (VA)
+      - Must include photo and member ID number.
+      - Yes
+      - 2
+      - No
+    * - Veterans Health Identification Card issued by VA
+      - Must include photo and member ID number.
+      - Yes
+      - 2
+      - No
+    * - U.S. Federal, State, or Local Government Employee ID 
+      - Federal, state or local government employee photo ID card.
+      - Yes 
+      - 2 
+      - No
+    * - U.S. Birth Certificate
+      -  Certificate of birth issued by a State or Territory, or a locality of a State or Territory, or by the U.S. State Department, including Consular Report of Birth Abroad. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rican law.
+      - No 
+      - 2 
+      - Yes
+    * - Visa Issued by U.S. State Department
+      - U.S. State Department-issued immigrant or non-immigrant visa with photo identification.
+      - Yes 
+      - 2 
+      - Yes
+    * - Foreign Driver's License (Machine Readable)
+      - Machine readable photo identification card granting driving privileges with address, date of birth, and expiration date.
+      - Yes 
+      - 2 
+      - Yes
+    * - Foreign National Identification Card (Machine Readable)
+      - Machine readable national identification card with photo and date of birth or age. Must be accepted for purposes of re-entry to issuing country. Includes machine readable voter registration cards that serve as national identification cards.
+      - Yes 
+      - 2 
+      - Yes, if date of birth included.
+    * - Social Security Card
+      - The following types of Social Security Cards (unrestricted and restricted) issued by the U.S. Social Security Administration will be accepted: (i) a card that enables the holder to work without restriction; (ii) a card that permits an individual with authorization from the Department of Homeland Security to work on a temporary basis; and (iii) a card marked"not valid for employment."
+      - No 
+      - 2 
+      - No
+    * - U.S. Individual Taxpayer Identification Number Assignment Letter
+      - Letter from U.S. Internal Revenue Service (IRS) assigning ITIN number to applicant with date of birth. (IRS Notice CP565)
+      - No 
+      - 2 
+      - No
+    * - U.S. Uniformed Services ID
+      - Photo identification card with date of birth and expiration date issued to military retiree or military family member to access military service benefits or privileges.
+      - Yes 
+      - 2 
+      - Yes
+    * - NYS Education Department Professional Identification Card
+      - Photo identification card issued by the NYS Education Department, Office of the Professions, with profession, license number and expiration date.
+      - Yes
+      - 2
+      - No
+    * - I-94 Form with Photo and Fingerprint Issued by U.S. Department of Homeland Security
+      - I-94 Arrival/Departure Record issued by the U.S. Department of Homeland Security with date of birth, photo, and fingerprint.
+      - Yes
+      - 2
+      - Yes
+    * - NYS Interim Driver's License, Learner's Permit, or Non-Driver's Identification Card
+      - Interim driver's license, learner's permit, or non-driver's identification card, issued by NYS Department of Motor Vehicles.
+      - No
+      - 2
+      - Yes
+    * - Approval Notice on Form I-797, I-797A, I-797B or I-797D Issued by U.S. Citizenship and Immigration Services (USCIS)
+      - Notice from USCIS approving applicant for an immigration benefit that either is currently valid or does not have an expiration date.
+      - No 
+      - 2 
+      - No
+~
+
+ 
+
+   (3) The following documents are worth one point toward establishing the identity of the applicant:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document 
+      - Description
+      - Acceptable as Photo ID?
+      - Point Value for Proof of ID
+      - Acceptable as Proof of Date of Birth?
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Educational Institution ID Card: middle, secondary, post-secondary schools, colleges and universities
+      - Photo ID issued by an accredited U.S. educational institution, including New York City Department of Education and CUNY schools.
+      - Yes 
+      - 1 
+      - Yes, if date of birth included.
+    * - Foreign Driver's License (Not Machine Readable)
+      - Photo identification card granting driving privileges with address, date of birth, and expiration date, that is not machine readable.
+      - Yes
+      - 1 
+      - Yes
+    * - Foreign National Identification Card(Not Machine Readable)
+      - National identification card with photo and date of birth or age, that is not machine readable. Must be accepted for purposes of reentry to issuing country. Includes voter registration cards which are used as national IDs.
+      - Yes 
+      - 1 
+      - Yes, if date of birth included.
+    * - Foreign Military Photo Identification Card
+      - Photo identification card issued to active duty, retiree or reservist military personnel by foreign country.
+      - Yes 
+      - 1 
+      - Yes, if date of birth included.
+    * - Foreign Birth Certificate
+      - Certificate of birth issued by current or former sovereign nation.
+      - No 
+      - 1 
+      - Yes
+    * - U.S. Birth Certificate of Applicant's Child
+      - Birth certificate of applicant's child, issued by a State or Territory, or a locality of a State or Territory, or by the U.S. State Department, including Consular Report of Birth Abroad listing applicant as birth parent. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
+      - No 
+      - 1 
+      - Yes
+    * - NYS Benefit Identification Card without Photo
+      - Welfare/Medicaid/NY Food Stamp Card, also known as an Electronic Benefit Transfer (EBT) Card or Common Identification Benefit Card (CBIC), without Photo and with date of birth.
+      - No 
+      - 1 
+      - Yes
+    * - NYC Summer Youth Employment Program Identification Card
+      - Photo identification card issued by a community based organization that administers the NYC Summer Youth Employment Program.
+      - Yes 
+      - 1 
+      - No
+    * - U.S. School Transcript From High School or Post-Secondary School, College, or University
+      - Official copy of academic transcript, including terms and dates attended or attending, cumulative academic record, and, if applicable, degrees awarded.
+      - No 
+      - 1 
+      - No
+    * - Diploma from a U.S. High School, High School Equivalency Program, or U.S. Post-Secondary School, College, or University
+      - U.S. High School Diploma, High School Equivalency Diploma granted based on General Educational Development (GED) and Test Assessing Secondary Completion (TASC) exams, or U.S. postsecondary school, college, or university diploma.
+      - No 
+      - 1 
+      - No
+    * - Employee, Consultant or Board Member Identification Card from Organization Located in U.S.
+      - Photo identification card with organization name and address identifying applicant as employee, consultant, board member or as having another similar position. Includes clergy identification cards issued by a religious organization.
+      - Yes 
+      - 1 
+      - No
+    * - U.S. Union Photo ID
+      - Card identifying holder as a member of a union that represents employees working in the United States.
+      - Yes 
+      - 1
+      - No
+    * - Certificate of marriage, domestic partnership, civil union, divorce or dissolution of marriage, domestic partnership or civil union
+      - Certificate of marriage, domestic partnership, civil union, divorce or dissolution of marriage, domestic partnership or civil union
+      - No 
+      - 1 
+      - Yes
+    * - Reduced Fare MetroCard for Seniors and People with Disabilities
+      - Must include photo identification and be issued by Metropolitan Transportation Authority.
+      - Yes 
+      - 1 
+      - No
+    * - Access-A-Ride ID Card
+      - Photo identification card issued by Metropolitan Transportation Authority.
+      - Yes 
+      - 1 
+      - No
+    * - NYC Department of Parks and Recreation issued Recreation Center Membership Card
+      - Photo identification card issued by the NYC Department of Parks and Recreation for Recreation Center Membership when the applicant was at least 18 years old.
+      - Yes 
+      - 1 
+      - No
+    * - U.S. Voter Registration Card
+      - Voter registration card issued by any State or Territory.
+      - Yes, if photo included.
+      - 1 
+      - No
+    * - Selective Service Registration Card
+      - A card issued by the U.S. Selective Service System to men ages 18 - 25, who have registered with the Selective Service.
+      - No 
+      - 1 
+      - Yes
+    * - Medicare Card
+      - Medicare identification card with name, Medicare claim number, and signature.
+      - No
+      - 1
+      - No
+    * - U.S. Individual Taxpayer Identification Number (ITIN) Card
+      - ITIN card  from U.S. Internal Revenue Service (IRS), with cardholder's ITIN number, name, and signature.
+      - No
+      - 1
+      - No
+    * - NYS Office of Mental Health (NYS OMH) Facility Photo ID Card
+      - Identification card issued by NYS-OMH operated psychiatric facility, with name and photo.
+      - Yes
+      - 1
+      - No
+~
+
+ 
+
+
+
+
+
+
+
+
+*§ 6-06 Proof of Residency.* ::
+
+
+(a) Except as provided in paragraph (2) of subdivision (c) of this section or in 68 RCNY §§ 6-04 or 6-07, in order to establish residency, an applicant will be required to produce a document from section 68 RCNY § 6-06(c)(1) or a document authorized by subdivision (b) of this section displaying the applicant's residential street address located in New York City. The document must display the applicant's name, except where the document displays the name of the applicant's spouse or domestic partner and the applicant presents: (i) a certificate of marriage, civil union or domestic partnership or birth certificate that demonstrates the relationship to the spouse or domestic partner; and (ii) an attestation signed by the spouse or domestic partner, on a form and in a format established by the Commissioner, that the applicant resides with the spouse.
+
+(b) HRA may determine in the future that additional documents, including data and electronic versions of documents received from the issuing agency, may be accepted and will be afforded the value of one point toward establishing the residency of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of the new documents or data, including on the IDNYC website.
+
+(c) (1) The following documents are worth one point and establish residency. The address on the document will be shown on the card, except as provided in 68 RCNY § 6-02(b):
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document 
+      - Description
+      - Point Value for Proof of Residency
+      - Acceptable as Proof of Address?
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Cable, Phone, or Utility Bill or Statement
+      - Must be dated no more than 60 days prior to the date submitted and include home address of applicant. Includes account summary sheets and account statements.
+      - 1 
+      - Yes
+    * - Residential Property Lease or Sublease
+      - Must be a current lease. All leases must include name of applicant, address of the unit rented, term of the lease, amount of rent, terms regarding utilities, and contact information for the lessor. If the phone number of the lessor does not appear on the lease, then the applicant must provide the phone number separately.
+      - 1 
+      - Yes
+    * - Local Property Tax Statement
+      - Property tax statement including home address, dated no more than one year prior to the date submitted.
+      - 1 
+      - Yes
+    * - Property Mortgage Payment Receipt
+      - Mortgage payment receipt including home address, dated no more than 60 days prior to the date submitted.
+      - 1 
+      - Yes
+    * - Banking, Financial or Credit Card Account Bill, Statement or Notice
+      - Bill, statement or notice from credit card company, bank or other financial institution. Must be dated no more than 60 days prior to the date submitted and include home address and account number. Includes bank account statements, credit card statements, credit union account statements, account summary sheets, loan statements, and notices from banks and credit unions confirming the opening of an account. Other types of banking, financial, or credit card documents will be accepted only as provided under 68 RCNY § 6-06(b).
+      - 1 
+      - Yes
+    * - Employment Pay Stub
+      - Must include employer's name, applicant's home address and be dated no more than 60 days prior to date submitted.
+      - 1 
+      - Yes
+    * - Statement, bill, or record from health institution
+      - Statement, bill, or record from any hospital or clinic operated by the NYC Health and Hospitals Corporation, or a Federally Qualified Health Center, or a public or private hospital located in New York City. Must include account or patient identification number and home address of applicant and be dated no more than one year prior to date submitted.
+      - 1 
+      - Yes
+    * - Jury Summons or Court Order Issued by New York State Court (including NYC Courts such as Housing Court, Family Court and Surrogate's Court) or Federal Court
+      - Must be dated no more than 60 days prior to the date submitted and include home address.
+      - 1 
+      - Yes
+    * - IRS Forms W-2, 1099-MISC, 1095-A, 1095-B and 1095-C
+      - Must include employer's name, applicant's home address. Accepted through April 15 of the year following the tax year on the form.
+      - 1
+      - Yes
+    * - Letter or Document Issued by the U.S. Internal Revenue Service (IRS), or the NYS Department of Taxation and Finance (DTF)
+      - Letter or document issued by IRS or DTF, addressed to applicant, regarding applicant's personal tax status. Examples include tax return transcript, statement of tax or refund due, or refund check. Must be dated no more than one year prior to the date submitted.
+      - 1
+      - Yes
+    * - Tax Return with Proof of Filing
+      - U.S. federal, state, or local tax return submitted with proof of filing such as IRS Tax Return Transcript, NYS Department of Taxation and Finance account summary, NYC Department of Finance proof of property tax payment history, or other satisfactory proof of filing. Filing date must be no more than one year prior to the date submitted.
+      - 1
+      - Yes
+    * - Insurance Bill, Statement or Record (homeowner's, life, renter's, automobile, or health insurance)
+      - Insurance bill, statement or record including home address and dated no more than 60 days prior to the date submitted.
+      - 1 
+      - Yes
+    * - Letter from Homeless Shelter that receives City Funding
+      - Signed letter from executive-level official at homeless shelter receiving City funding stating that applicant has been a current resident for at least 15 days and that the shelter allows residents to remain in residence for longer than 30 days. Must be dated no more than 60 days prior to the date submitted.
+      - 1 
+      - Yes
+    * - Letter from Residential Care Facility operated, certified, or funded by NYS Office for People with Developmental Disabilities (OPWDD), NYS Department of Health (NYS DOH), New York State Office of Mental Health (OMH), or NYC Department of Health and Mental Hygiene (NYC DOHMH)
+      - Signed letter from an executive-level official at a residential care facility located in New York City and operated, licensed, certified, or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH, establishing the applicant's residence at the facility. Must be dated no more than 60 days prior to the date submitted. Acceptable only when applicant is accompanied by a caretaker who is an employee of the facility issuing the letter.
+      - 1
+      - Yes
+    * - Letter from New York City Housing Authority (NYCHA)
+      - Signed letter from manager of NYCHA residential development, indicating that applicant is listed on the current lease or is otherwise authorized by NYCHA to reside in the apartment, dated no more than 60 days prior to the date submitted.
+      - 1 
+      - Yes
+    * - NYCHA Lease Addendum and Rent Notice
+      - NYCHA document listing applicant as lessee and/or authorized tenant of NYCHA residential unit. Must be dated no more than one year prior to the date submitted.
+      - 1
+      - Yes
+    * - Letter from Head Start, Early Learn, Preschool, Elementary, Intermediate or High School located in New York City or any NYC Department of Education (DOE) School Where Applicant's Child is Enrolled
+      - Signed letter from principal or executive official or the principal or executive official's designee at a public, private, or parochial Head Start, Early Learn, preschool, elementary, intermediate or high school located in New York City or any DOE school where applicant's child is a currently enrolled student. Letter must confirm student's home address and be dated no more than 60 days prior to the date submitted.Applicant must also provide proof of relationship to the student named in the letter, using one of the documents listed in 68 RCNY § 6-07(b).
+      - 1
+      - Yes
+    * - Letter from Private or Parochial Intermediate or High School located in New York City Where Applicant is Enrolled
+      - Signed letter from principal or executive official or the principal or executive official's designee at a private or parochial intermediate or high school located in New York City where applicant is a currently enrolled student. Letter must confirm home address and be dated no more than 60 days prior to the date submitted. Schools may require parental consent to issue such a letter for a student younger than age 18.Applicant must present a student identification card from the school issuing the letter.(Applicant students wishing to have the DOE assist them with establishing residency may do so via 68 RCNY § 6-03(a)(2)(C).)
+      - 1
+      - Yes
+    * - Letter from NYC Administration for Children's Services (ACS) Foster Care Agency
+      - Signed letter from executive level official at ACS or ACS designated NYC foster care agency establishing residency of foster youth applicant, dated no more than 60 days prior to the date submitted. Acceptable only when applicant is accompanied by a caretaker who is an employee of the facility issuing the letter.
+      - 1 
+      - Yes
+    * - United States Postal Service (USPS) Change of Address Confirmation
+      - Must be addressed to applicant at the same address that appears on the IDNYC application. Must be dated no more than 60 days prior to the date submitted.
+      - 1
+      - Yes
+    * - NYC Housing Preservation and Development (HPD) Section 8 Rent Breakdown Form
+      - Must be dated within no more than one year prior to the date submitted and include home address.
+      - 1
+      - Yes
+    * - Case Composition Summary Report Generated from the New York State Welfare Management System
+      - Case composition summary report generated from the New York State Welfare Management System with current home address. Must be dated no more than 60 days prior to the date submitted.
+      - 1
+      - Yes
+    * - New York State Office of Mental Health (OMH) Facility Inpatient Photo ID Card
+      - Inpatient identification card issued by NYS OMH-operated psychiatric facility, with name, photo and facility address.
+      - 1
+      - Yes
+    * - "Verification of Release"form issued by the U.S. Department of Health and Human Services, Office of Refugee Resettlement, Division of Children's Services
+      - "Verification of Release"document from U.S. Department of Health and Human Services, Office of Refugee Resettlement (ORR), including photo, date of birth, and name and address of applicant's sponsor. Includes Form ORR UAC/R-1, Form ORR R-535, and any form used by ORR for verifying release. Must be dated no more than one year prior to date submitted.
+      - 1
+      - Yes
+    * - U.S. Immigration and Customs Enforcement (ICE) Order of Supervision
+      - Order of Supervision issued by U.S. Immigration and Customs Enforcement (ICE), dated no more than one year prior to the date submitted and including current home address. May be issued by U.S. ICE as Form I-220B.
+      - 1
+      - Yes
+    * - New York State Interim Driver's License, Learner's Permit, or Non-Driver's Identification Card
+      - Interim driver's license, learner's permit, or nondriver's identification card, issued by NYS Department of Motor Vehicles, with current home address.
+      - 1
+      - Yes
+    * - Notice of Decision or Determination of Developmental Disability issued by NYS Office for People with Developmental Disabilities (OPWDD)
+      - Notice of decision or determination issued by OPWDD establishing that applicant qualifies for care. Must include applicant's home address and be dated no more than one year prior to the date submitted.
+      - 1
+      - Yes
+    * - Residency Confirmation Letter for United Nations (UN) Diplomats and Their Families
+      - Residency Confirmation Letter for UN Diplomats and Families Issued by the U.S. Department of State, UN, or a Country's Permanent Mission to the UN. Must include applicant's home address and be dated no more than 60 days prior to the date submitted.
+      - 1
+      - Yes
+    * - College/University Housing Agreement
+      - Current agreement issued by an institution of higher education located in New York City, in letter, lease, or other format. Must indicate that applicant is permitted to reside in housing affiliated with the institution; and must include applicant’s name, the street address of the residence, and the dates during which the student may reside there.The document must be presented with a photo ID from the institution issuing the agreement.
+      - 1
+      - Yes
+    * - Letter from College or University Administrator
+      - Signed letter from a school administrator indicating that the applicant: (i) is enrolled, employed or otherwise connected with the school; (ii) resides in housing in New York City that is affiliated with the school; (iii) receives mail at a central school-based location different from where the applicant resides; and (iv) the school mail box and/or street address where applicant’s mail is delivered.This document must be presented with a photo ID from the institution issuing the letter.The IDNYC card will display the name of the school and the address where the applicant receives mail.
+      - 1
+      - Yes
+~
+
+ 
+
+   (2) The following documents are worth one point and establish residency for an individual who lacks a stable residence or is a survivor of domestic violence, as applicable. When applicants submit one of these documents for proof of residency, no home address will appear on the card:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document 
+      - Description
+      - Point Value for Proof of Residency
+      - Acceptable as Proof of Address?
+    * - Letter Issued by New York City Agency, Nonprofit Organization or Religious Institution Located within New York City Serving Homeless Individuals
+      - Signed letter from executive-level official from a City agency, nonprofit organization or religious institution that provides services to homeless individuals. The letter must indicate applicant has resided in New York City for at least 15 days and lacks a stable residence; letter must be dated no more than 30 days prior to the date submitted.No address will appear on the card.
+      - 1 
+      - No
+    * - Letter Issued by New York City Agency, Nonprofit Organization, or Religious Institution that Provides Services to Survivors of Domestic Violence
+      - Signed letter from executive-level official from a New York City agency, nonprofit organization, or religious institution that provides services to survivors of domestic violence. The letter must indicate that applicant has resided in New York City for at least 15 days and has security concerns about an address appearing on the IDNYC Card; letter must be dated no more than 30 days prior to the date submitted.No address will appear on the card.
+      - 1 
+      - No
+    * - Letter Issued by a Hospital or Health Clinic Located in New York City
+      - Signed letter from executive-level official at hospital or health clinic indicating that applicant has resided at the facility for at least 15 days over the previous 60 day period; letter must be dated no more than 30 days prior to the date submitted.No address will appear on the card.
+      - 1 
+      - No
+    * - Letter Issued by Nonprofit Organization or Religious Institution Located within New York City Serving Homeless Individuals or Survivors of Domestic Violence indicating"Care Of"Address
+      - Signed letter from executive-level official from a nonprofit organization or religious institution that provides services to homeless individuals or survivors of domestic violence. The organization must currently receive City funding. To establish use of the nonprofit organization's or religious institution's address for mailing purposes, the letter must indicate that: (1) the applicant has received services from the entity for the past 60 days, (2) the applicant may use the entity's address for mailing purposes, and (3) the applicant lacks a stable address or has security concerns about an address appearing on the IDNYC Card. The letter must be dated no more than 14 days prior to the date submitted. The card issued will indicate the address is"Care of"the organization that has written the letter.
+      - 1 
+      - Yes
+    * - Letter from a Residential Care Program Funded, Administered, and/or Overseen by the NYC HRA-Emergency &amp; Intervention Services - Office of Domestic Violence
+      - Signed letter from an executive-level official at a residential care program located within New York City which is funded, administered, and/or overseen by the NYC HRA-Emergency &amp; Intervention Services - Office of Domestic Violence. The letter must indicate that the applicant has resided in New York City for at least 15 days; has security concerns about a home address appearing on his/her IDNYC card: and that s/he is permitted to receive mail at a Post Office Box affiliated with the program. The letter must be dated no more than 30 days prior to the date submitted.The card issues will display the P.O. Box or no address at all.
+      - 1
+      - Yes
+~
+
+
+
+ 
+
+(d) IDNYC will also accept the following as proof of residency and address worth one point:
+
+   (1) Verification from the New York City Housing Authority (NYCHA), provided in a format and in a manner to be agreed upon by HRA and NYCHA: (1) that the applicant resides in NYCHA housing; and (2) of the applicant’s address;
+
+   (2) Verification from the New York City Department of Finance (DOF), in a format and in a manner to be agreed upon by HRA and DOF: (1) that the applicant is enrolled in the Senior Citizen Rent Increase Exemption programs (SCRIE programs), and (2) of the applicant’s address.
+
+
+
+
+
+
+
+
+*§ 6-07 Applicants with Caretakers.* ::
+
+
+An applicant is not required to provide photo identification if accompanied by a caretaker who can demonstrate proof of a relationship to the applicant pursuant to this section. For HRA to issue an IDNYC Card to such an applicant without photo identification, each of the following criteria must be met:
+
+(a) The applicant must provide documents worth a total of at least two points from the proof of identity lists set forth in 68 RCNY § 6-05(c);
+
+(b) If the applicant is 21 years of age or younger, the applicant and caretaker must demonstrate proof of relationship by providing at least one document from the charts set forth in paragraph (1) or (2) of this subdivision or a document authorized pursuant to subdivision (f) of this section. If the applicant is 22 years of age or older, the applicant and caretaker must demonstrate proof of relationship by providing at least one of the documents from the chart set forth in paragraph (2) of this subdivision.
+
+   (1) The following documents, in addition to those set forth in paragraph (2) of this subdivision, will demonstrate proof of relationship between an applicant age 21 or younger and his or her caretaker:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document 
+      - Description
+      - Acceptable as Proof of Date of Birth of Applicant?
+    * - Where Caretaker is Parent: Applicant's Birth Certificate
+      - Applicant's birth certificate displaying caretaker's name as parent. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
+      - Yes
+    * - Where Caretaker is Parent: Adoption Decree, Certificate of Adoption or NYS Department of Health (NYS DOH) Report of Adoption
+      - Applicant's adoption decree, certificate of adoption or NYS DOH Report of Adoption, displaying caretaker's name as parent.
+      - Yes
+    * - Where Caretaker is Parent: Acknowledgment of Paternity Form issued by NYC Department of Health and Mental Hygiene (DOHMH), and NYS Office of Temporary and Disability Assistance (OTDA)
+      - Form LDSS-4418 displaying caretaker's name as parent of the applicant.
+      - Yes
+    * - Where Caretaker is Parent: Court Order of Paternity/Filiation
+      - Court order establishing caretaker as applicant's legal parent.
+      - Yes
+    * - Where Caretaker is Court-Appointed Guardian: Court Decree
+      - Court decree displaying caretaker's name as legal guardian.
+      - Yes
+    * - Where Caretaker is Foster Parent: (1) Signed letter from ACS Foster Care Agency; AND (2) Foster Parent License Certification
+      - Two documents (both are required):(1) Signed letter from ACS Foster Care Agency on agency letterhead naming the Caretaker as the Applicant’s foster parent (must be dated 60 days from the date submitted); and(2) The Caretaker’s Foster Parent License Certification
+      - Yes
+    * - Where Caretaker is Employee of ACS or of ACS Foster Care Agency: Letter from ACS or ACS Foster Care Agency
+      - Signed letter from executive-level official at ACS or ACS designated NYC foster care agency establishing relationship of youth applicant to agency. Must be dated no more than 60 days prior to the date submitted. If the caretaker is an employee of ACS or an ACS designated foster care agency, then the letter: (1) must also authorize the employee to represent the agency and accompany the applicant at the IDNYC enrollment site and (2) will be accepted only if the caretaker also presents employee ID issued by ACS or the designated agency.
+      - Yes
+    * - Where Caretaker is Adult Sponsor of Minor Appointed by U.S. Department of Health and Human Services, Office of Refugee Resettlement: U.S. Department of Health and Human Services"Verification of Release"form
+      - "Verification of Release"document from U.S. Department of Health and Human Services, Office of Refugee Resettlement, Division of Children's Services including photo, date of birth, and name and address of child's adult sponsor. Includes Form ORR UAC/R-1, Form ORR R-535, and any form used by ORR to verify release.
+      - Yes
+    * - Where Caretaker is Stepparent: (1) Applicant’s Birth Certificate AND (2) Stepparent’s Marriage Certificate
+      - Two documents (both are required)Applicant's birth certificate, in addition to the caretaker's certificate of marriage, civil union or domestic partnership showing that the caretaker is married to, or the domestic partner of, a parent named on applicant's birth certificate. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
+      - Yes
+~
+
+ 
+
+   (2) The following documents will establish proof of relationship between an applicant of any age and his or her caretaker:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Document
+      - Description
+      - Acceptable as Proof of Date of Birth of Applicant?
+    * - Where Caretaker is Applicant's Court-Appointed Guardian, Custodian or Conservator: Court Order
+      - Court order from a court located in the United States appointing the Caretaker as applicant's legal guardian, custodian or conservator.
+      - Yes
+    * - Where Caretaker is Cohabitant of Developmentally Disabled Applicant: (1) Notice of Decision or Determination (NOD) of Developmental Disability issued by the New York State Office for People with Developmental Disabilities (OPWDD) AND (2) Proof of Residency for Caretaker and Applicant
+      - (1) Notice of Decision or Determination of Developmental Disability issued by OPWDD establishing that applicant qualifies for care, and (2) Either a residency document from 68 RCNY § 6-06 showing that the caretaker resides at the address on the NOD, or if applicant no longer resides at the address on the NOD, residency documents from 68 RCNY § 6-06 showing that applicant and caretaker currently reside at same address.This provision does not apply to an applicant living in a residential care facility.
+      - Yes (Notice of Decision may be used to establish date of birth)
+    * - Where Caretaker is Residential Care Facility Employee: Signed Letter
+      - Signed letter from an executive-level official at a residential care facility located in New York City and operated, licensed, certified, or funded by OPWDD, NYS DOH, NYS OMH, or NYC DOHMH, establishing the applicant's residence at the facility. Must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the agency and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the facility.
+      - Yes
+    * - Where an individual Caretaker is applicant's Social Security Representative Payee: Letter from Social Security Administration (SSA) establishing Representative Payee status
+      - Letter from SSA establishing that the Caretaker is the applicant's Social Security representative payee. The letter must be dated no more than one year prior to the date submitted.
+      - Yes
+    * - Where Caretaker is an employee of an organization that is applicant's Social Security Representative Payee (RP): (1) Letter from Social Security Administration (SSA) establishing RP status; AND (2) Letter from executive-level official from the RP organization
+      - Two letters (both are required):(1) Letter from SSA establishing that the organization is the applicant's Social Security Representative Payee, dated no more than one year prior to the date submitted; and(2) An additional letter signed by an executive-level official from the representative payee organization establishing that its employee is authorized to represent the organization with respect to the applicant's IDNYC application. This letter must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the organization and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the organization.
+      - Yes (Letter from SSA may be used to establish date of birth)
+    * - Where Caretaker is an Employee of the NYS Office for People with Developmental Disabilities (OPWDD) NYS Department of Health (DOH), NYS Office of Mental Health (NYS OMH) or NYC Department of Health and Mental Hygiene (NYC DOHMH) or an Agency or Facility that is Licensed, Certified or Funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH: Signed Letter
+      - Signed letter from executive-level official at OPWDD, NYS DOH, NYS OMH or NYC DOHMH or an agency or facility that is operated, licensed, certified or funded by one of those agencies, establishing relationship of applicant to the agency or facility. Must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the agency or facility and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the agency or facility.
+      - Yes
+~
+
+
+
+ 
+
+(c) At least one of the documents provided pursuant to subdivision (a) or (b) of this section must include the applicant's date of birth;
+
+(d) The caretaker must demonstrate proof of the caretaker's own identity worth at least three points from the lists set forth in 68 RCNY § 6-05(c), including a photo identification; and
+
+(e) The applicant's residency must be established by: (i) the applicant establishing residency in accordance with 68 RCNY § 6-06 or (ii) the caretaker establishing residency for the applicant by establishing the caretaker's own residency in accordance with 68 RCNY § 6-06 and providing an attestation, on a form and in a format established by the Commissioner, that the applicant resides with the caretaker.
+
+(f) HRA may designate additional categories of individuals who will be considered caretakers under this chapter and determine that additional documents may be accepted to establish proof of relationship between an applicant and a caretaker. In the event that HRA exercises its authority under this subdivision, it will publicize the addition of new caretaker categories and its acceptance of new documents, including on the IDNYC website.
+
+
+
+
+
+
+
+
+*§ 6-08 Changes of Name, Address and Gender.* ::
+
+
+(a) An individual with an unexpired IDNYC card must report a change of name or address within 10 days of such change. A person may choose to update the gender on their card at any time.
+
+(b) To obtain a card with an updated name, the cardholder must present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change. Only original documents or documents certified by the issuing agency will be accepted.
+
+(c) To obtain a card with an updated address, the cardholder must establish residency pursuant to either 68 RCNY § 6-04, 6-06 or 6-07, unless HRA is able to verify the cardholder's new address by other means. Documents submitted to IDNYC to demonstrate a change of address need not be originals.
+
+
+
+
+
+
+
+
+*§ 6-09 Fees.* ::
+
+
+(a) HRA will not charge a fee to an applicant in connection with the issuance of an applicant's first IDNYC Card, the issuance of a renewal card pursuant to 68 RCNY § 6-10, or where a cardholder is requesting a new card to update their name, address, gender or veteran status or to correct an error by IDNYC. Nor will HRA charge a fee for an individual to replace a card if the individual can establish that the card was stolen.
+
+(b) In all other instances, HRA will charge a $10 fee for the issuance of a card.
+
+(c) HRA will waive the fee set forth in 68 RCNY § 6-09(b) on behalf of individuals who submit a self attestation indicating that they cannot afford the cost of such fee.
+
+
+
+
+
+
+
+
+*§ 6-10 Expiration and Renewal.* ::
+
+
+(a) IDNYC Cards issued after the effective date of this rule will expire five years from the date of application approval, except that cards issued pursuant to 68 RCNY § 6-04(e) will expire on the date that the cardholder is expected to graduate from middle school, and cards issued to any other individuals under 16 years of age will expire two years from date of application approval. IDNYC Cards issued prior to the effective date of this rule will be valid until the expiration date that appears on the face of the card unless invalidated pursuant to 68 RCNY § 6-12.
+
+(b) Renewal cards will be available to individuals who have previously been issued an IDNYC card that will expire in less than 60 days, or such other longer timeframe that HRA may designate in the future, or that expired less than six months ago, or such other longer timeframe that IDNYC may designate in the future, and who submit a renewal application on or after December 2, 2019 in a format and in a manner established by the Commissioner. In most instances, cardholders seeking renewal of their card will not be required to re-establish their identity pursuant to the provisions of 68 RCNY §§ 6-04 and 6-05 of this title, but if they are seeking to update their name or address must meet the requirements of subdivision (b) or (c) of 68 RCNY § 6-08, as applicable. However, IDNYC reserves the right to have cardholders re-establish their identity pursuant to 68 RCNY § 6-04 or 6-05 if the program cannot confirm by other means that the individual seeking renewal is the individual to whom the card was issued.
+
+
+
+
+
+
+
+
+*§ 6-11 Confidentiality of IDNYC Card Eligibility Information.* ::
+
+
+(a) Information collected about applicants for the card will be treated as confidential to the maximum extent allowable by applicable federal and state law and may only be disclosed if:
+
+   (1) Authorized in writing by the individual to whom such information pertains, or if such individual is a minor or is otherwise not legally competent, by such individual's parent or legal guardian;
+
+   (2) So ordered by a court of competent jurisdiction;
+
+   (3) To a requesting city agency for the limited purpose of administering the IDNYC Card Program or determining or facilitating the applicant's eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal and state privacy laws and regulations, and subject to the further requirement that such information will not be redisclosed to any other governmental agency or entity, or third party; or
+
+   (4) To a law enforcement agency that serves the administering agency a judicial subpoena or judicial warrant.
+
+(b) HRA will not indicate on the IDNYC Card application forms the type of records provided by an applicant to establish residency or identity.
+
+
+
+
+
+
+
+
+*§ 6-12 Secondary Review Conferences and Reapplications Following Denial of IDNYC Card Applications.* ::
+
+
+(a) An applicant who has been denied an IDNYC Card may request a secondary review of their eligibility for the card by submitting a review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of issuance of the denial.
+
+(b) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the applicant’s documents and eligibility for the card and the applicant will have the opportunity to reapply for the card. Secondary reviews will be offered only at specially designated locations.
+
+(c) The IDNYC program will offer the applicant a date, time, and location for the review conference that is within 30 days of receipt of the request. If the date, time, and location offered are not convenient for the applicant, the program will work with the applicant to find another date, time, and location, but cannot guarantee that the conference will take place within 30 days of the request.
+
+(d) If the applicant chooses to reapply following the review conference, IDNYC staff will notify the applicant of its determination on the application by mail. If IDNYC does not issue a determination within 30 days of the date of the conference, then the determination that triggered the review request shall become the final decision on the application.
+
+
+
+
+
+
+
+
+*§ 6-13 Card Invalidations.* ::
+
+
+(a) IDNYC will invalidate a card issued to an individual in the following circumstances:
+
+   (i) When IDNYC issues a new card to the individual;
+
+   (ii) When IDNYC learns that the individual has died;
+
+   (iii) In the circumstances described in subdivisions (b) - (e) of this section.
+
+(b) When the Executive Director of IDNYC or their designee determines that an individual may have obtained a card under a false identity, it will immediately suspend the card, promptly notify the individual of the suspension and provide the individual with an opportunity to challenge the suspension by submitting a secondary review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of notification. Secondary reviews will be offered only at specially designated locations.
+
+(c) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the individual’s documents and eligibility for the card.
+
+(d) The IDNYC program will offer the individual a date, time, and location for the review conference that is within 14 days of receipt of the request. If the date, time, and location offered are not convenient for the individual, the program will work with the individual to find another date, time, and location, but cannot guarantee that the conference will take place within 14 days of the request.
+
+(e) Following the review conference, IDNYC will notify the individual by mail of its determination. If IDNYC does not issue a determination within 14 days of the date of the conference, then the secondary review request will be deemed to have been denied.
+
+
+
+
+
+
 Chapter 7: LINC Programs
 --------------------------------------------------
 
@@ -2143,992 +3129,6 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 (i) If a program participant is evicted or moves from the residence to which LINC VI rental assistance payments have been or are being applied, the primary occupant must return any over-payment to HRA.
 
 (j) Any residence to which LINC VI rental assistance shall be applied must pass a safety and habitability inspection. Additionally, if the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
-
-
-
-
-
-
-Chapter 6: IDNYC Program
---------------------------------------------------
-
-
-
-*§ 6-01 Definitions.* ::
-
-
-For the purposes of this chapter:
-
-(a) “Caretaker” means a birth parent; adoptive parent; step parent; court-appointed guardian, custodian, or conservator; foster care parent; a sponsor of a minor appointed by the United States Department of Health and Human Services, Office of Refugee Resettlement (ORR); an employee from the New York City Administration for Children’s Services (ACS), New York State Office for People with Developmental Disabilities (OPWDD), New York State Department of Health (NYS DOH), New York State Office of Mental Health (NYS OMH), New York City Department of Health and Mental Hygiene (NYC DOHMH), a designated ACS foster care agency, or an agency or facility, including a residential care facility, that is operated, licensed, certified or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH; a cohabitant of an applicant who has been determined by OPWDD to be a person with a developmental disability; an applicant’s Social Security representative payee; or such other categories of individuals that HRA may designate as caretakers in the future pursuant to subdivision (f) of 68 RCNY § 6-07.
-
-(b) "IDNYC Card" has the same meaning as "New York City identity card," as provided in § 3-115(a) of the Administrative Code of the City of New York.
-
-(c) "HRA" means the New York City Human Resources Administration.
-
-(d) "Individual who lacks a stable residence" means a person who lacks permanent housing, who may live on the streets, in a vehicle or abandoned building, or reside at a location where there is a maximum stay of 30 days or less.
-
-(e) “Machine readable” describes a document with data that can be verified by electronic means by the IDNYC Card Program application system.
-
-(f) A “new applicant” means an individual who is applying for their first IDNYC card or who was previously issued an IDNYC card that expired and is outside the renewal period as established by HRA pursuant to 68 RCNY § 6-10(b).
-
-(g) A “qualifying school” is any New York City Department of Education or accredited charter, parochial or private school located in New York City that HRA has designated as a school that it will accept a school verification form from pursuant to 68 RCNY § 6-04(d).
-
-(h) “Renewal period” means the time period established by HRA pursuant to 68 RCNY § 6-10(b) in which a cardholder can renew their card and not be treated as a new applicant.
-
-(i) “Resident” has the same meaning as provided in § 3-115(a) of the Administrative Code of the City of New York.
-
-(j) "State" means any of the 50 states of the United States, and shall also be deemed to include the District of Columbia, and any of the territories of the United States.
-
-(k) "Territories" means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the U.S. Virgin Islands.
-
-(l) "Submitted" means submitted to HRA, as administering agency of the IDNYC Program, in accordance with this chapter.
-
-
-
-
-
-
-
-
-*§ 6-02 The IDNYC Card.* ::
-
-
-(a) The IDNYC Card will display the cardholder's photograph, name, date of birth, an expiration date, signature, eye color, height, identification number, and, except as provided in this section, a street address located within New York City. The card will also, at the cardholder's option, display the cardholder's self-designated gender, preferred language, veteran status and such additional information as HRA may in the future display. Additionally, for a cardholder under 14 years of age, the cardholder’s designated emergency contact information will appear on the card. For a cardholder 14 years of age or older, the cardholder’s designated emergency contact information may appear on the card at the cardholder’s option. Cards issued pursuant to 68 RCNY § 6-04(e) will also display the name of the cardholder’s school.
-
-(b) The IDNYC Card will not display a home address in the following circumstances:
-
-   (1) Where the applicant is 10 - 13 years old, the applicant's caretaker may choose to omit the address from the card.
-
-   (2) Where an applicant is an individual who lacks a stable residence or is a survivor of domestic violence and provides evidence of residency pursuant to 68 RCNY § 6-06(c)(2), the IDNYC Card will display either no address at all or a "care of" address, as described in that section.
-
-   (3) Where an applicant resides in a residential care program that is operated or overseen by HRA's Emergency Intervention Services for the purpose of providing shelter, services and care to survivors of domestic violence and presents a Letter from a Residential Care Program as described in the table set forth in 68 RCNY § 6-06(c)(2), the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant's preference.
-
-   (4) Where an applicant provides evidence that they participate in the New York State Address Confidentiality Program (ACP) established by New York Executive Law § 108 for victims of domestic violence, the IDNYC Card will display either a P.O. Box associated with the applicable program or no address at all, depending on the applicant's preference. An applicant who participates in the ACP must still establish residency under this chapter.
-
-   (5) Where an applicant is a college or university student, employee or other person who resides in housing affiliated with a school and receives mail at a central school-based location different from where the applicant resides, the IDNYC card will display the address where the applicant receives mail and the name of their school provided the applicant submits a Letter from a College or University Administrator as described in the table set forth in 68 RCNY § 6-06(c)(1).
-
-   (6) IDNYC Cards issued pursuant to 68 RCNY § 6-04(e) will not display a home address.
-
-
-
-
-
-
-
-
-*§ 6-03 Eligibility and Application Process for New Applicants.* ::
-
-
-(a) The IDNYC Card will be available to any resident of New York City ten years of age or older who:
-
-   (1) submits an application in a format and in a manner established by the Commissioner; and
-
-   (2) establishes identity and residency:
-
-      (A) by providing a single 4-point document from the chart set forth in 68 RCNY § 6-04(a);
-
-      (B) by providing identity documents totaling at least 3 points pursuant to 68 RCNY § 6-05 and at least one additional residency document pursuant to 68 RCNY § 6-06;
-
-      (C) pursuant to subdivisions (b), (c), (d), (e) or (f) of 68 RCNY § 6-04; or
-
-      (D) pursuant to the caretaker provisions set forth in 68 RCNY § 6-07.
-
-(b) No expired documentation will be accepted, except as provided in this chapter or where HRA makes provisions for the acceptance of expired documentation when allowing additional documents pursuant to 68 RCNY §§ 6-05(b), 6-06(b) and 6-07(f).
-
-(c) Only original documents or copies of documents that have been certified by the original issuing agency will be accepted. Data or electronic versions of documents received from the issuing agency may be deemed to constitute an original document if HRA determines in its discretion that the data have sufficient indicia of reliability. Documents with any alterations or erasures, or that are cancelled or invalidated, will not be accepted. IDNYC reserves the right to not accept any document, or type of document, whose validity it is not able to verify and, where relying on data or electronic versions of documents, to request additional information from the applicant.
-
-(d) Except as provided in 68 RCNY § 6-06(a), all documents used to establish identity and residency must include the name of the individual whose identity and residency is being established. If any of the documents used to establish identity and residency bear a name that is not consistent with the one on the IDNYC application, the applicant must also present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change.
-
-(e) Applicants must present documents in person at an enrollment site designated by HRA in accordance with § 3-115(b)(2) of the Administrative Code of the City of New York. IDNYC provides free on-site document translation services to applicants who provide original documents that are not in English. Original documents will be returned immediately to the applicant before they leave the enrollment center. IDNYC will not make copies of or digitally scan any documents used by applicants to establish identity or residency.
-
-(f) Wherever a photo identification is required, the photo must bear a reasonable likeness to the person whose identity is being established. The person's gender identity or gender expression will not be the basis for rejection of a photo.
-
-(g) Except for students who are applying for an IDNYC Card at a participating middle school pursuant to 68 RCNY § 6-04(e), applicants ages ten to thirteen years of age must be accompanied at enrollment by a caretaker who must sign the application on behalf of the applicant. Students applying for a card pursuant to 68 RCNY § 6-04(e) need not be accompanied by a caretaker, but will be required to submit an application signed by their parent as defined in Chancellor’s Regulation Number A-820.
-
-
-
-
-
-
-
-
-*§ 6-04 Proof of Identity and Residency.* ::
-
-
-(a) An applicant may provide a single document that is worth the four points needed to establish both identity and residency. The documents listed below meet this four point requirement, provided that they include a photo of the applicant, the date of birth of the applicant, and the applicant's current residential address in New York City.
-
-The following documents are worth four points and establish identity and residency:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document
-      - Description
-      - Acceptable as Photo ID?
-      - Point Value for Proof of ID &amp; Residency
-      - Acceptable as Proof of Date of Birth?
-    * - New York State (NYS) Department of Motor Vehicles (DMV) Driver's License or Learner's Permit
-      - New York State Driver's License, including Commercial Driver's License, or Learner's Permit with current home address, date of birth, photo and expiration date issued by NYS DMV. An expired NYS DMV license or permit will be accepted if presented with an unexpired DMV interim permit bearing the same identification number as the license or permit.
-      - Yes
-      - 4
-      - Yes
-    * - Non-Driver NYS DMV Identification Card
-      - Non-driver photo identification card with current home address, date of birth, and expiration date issued by NYS DMV. An expired NYS DMV identification card will be accepted if presented with an unexpired DMV interim ID card bearing the same identification number as the identification card.
-      - Yes 
-      - 4 
-      - Yes
-    * - U.S. Department of State Driver's License or Non-Driver Identification Card
-      - U.S. Department of State Driver's License or Non-Driver Identification Card with current home address, date of birth, photo and expiration date.
-      - Yes
-      - 4
-      - Yes
-    * - IDNYC Card with Current Home Address
-      - A current IDNYC Card or an expired IDNYC Card with a current home address. If the card is expired, then the card must be within the renewal period.
-      - Yes
-      - 4
-      - Yes
-    * - New York City Police Department (NYPD) Restricted Handgun License
-      - NYPD-issued Restricted Handgun License including current home address, photo of applicant and expiration date.
-      - Yes 
-      - 4 
-      - Yes
-~
-
-
-
- 
-
-(b) For applicants who are clients of the New York City Department of Probation (DOP), IDNYC will accept the DOP's verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and DOP, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC Card.
-
-(c) For applicants who are students at qualifying schools and are not applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the school’s verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school ("school verification"), and additional identity documents pursuant to 68 RCNY § 6-05, other than a school transcript, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card, as follows:
-
-   (1) If the school verification is provided to IDNYC at a temporary enrollment site located at the school in which the applicant is enrolled, IDNYC will accept any identity document listed in 68 RCNY § 6-05. Such document need not include a photo identification.
-
-   (2) If the school verification is provided to IDNYC at any other enrollment site, the applicant must also present:
-
-      (A) a student identification card issued by the same school issuing the school verification; and
-
-      (B) either:
-
-         (i) at least one additional identity document listed in 68 RCNY § 6-05, if the student identification card includes a photo; or
-
-         (ii) identity documents listed in 68 RCNY § 6-05 worth at least a total of two points, one of which must be accepted as a photo identification, if the student identification card does not include a photo.
-
-(d) For applicants who are students at qualifying schools and are applying with a caretaker pursuant to 68 RCNY § 6-07, IDNYC will accept the school’s verification of the applicant's identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school ("school verification"), as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card.
-
-(e) For applicants applying at participating DOE middle schools to be jointly agreed upon by HRA and DOE, IDNYC will accept the school’s verification of the applicant’s identity and residency, provided to IDNYC in a format and in a manner to be agreed upon by HRA and the school as sufficient proof of the applicant’s identity and residency to establish eligibility for the IDNYC card. Cards issued pursuant to this subdivision will include the school’s name and will expire on the student’s expected graduation date from the school.
-
-(f) For applicants who participate in the Summer Youth Employment Program (SYEP) of the New York City Department of Youth and Community Development (DYCD), IDNYC will accept DYCD's verification of the applicant's identity and residency, provided to IDNYC, in a format and in a manner to be agreed upon by HRA and DYCD, as sufficient proof of the applicant's identity and residency to establish eligibility for the IDNYC card if presented along with a photo identification pursuant to 68 RCNY § 6-05.
-
-(g) For applicants who are clients of the New York City Department of Social Services (DSS), IDNYC may, at the applicant's request, verify the applicant's identity and/or residency using information from systems maintained by DSS, provided such data can be accessed for purposes of such verification and, once accessed, is deemed sufficiently reliable. Such information will be worth three points toward establishing the identity of the applicant if an original photo and related demographic data, including full name and date of birth, are available in DSS's systems; or one point toward establishing identity if only the name and date of birth, but no photo, are available in DSS's system; and one point towards establishing residency if the applicant's address is also in DSS's system.
-
-
-
-
-
-
-
-
-*§ 6-05 Proof of Identity.* ::
-
-
-(a) Except as otherwise provided in this chapter, in order to establish identity, an applicant will be required to meet the following criteria:
-
-   (1) An applicant must provide documents from the charts set forth in 68 RCNY § 6-05(c) below that in aggregate total at least three points;
-
-   (2) An applicant must provide photo identification; and
-
-   (3) One of the documents submitted must contain the applicant's date of birth.
-
-(b) HRA may determine in the future that additional documents, including data or electronic versions of documents received from the issuing agency, may be accepted and will be afforded the value of one point toward establishing the identity of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of new documents or data, including, but not limited to, publication on the IDNYC website.
-
-(c) (1) The following documents establish the identity of the applicant (3 points):
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document 
-      - Description
-      - Acceptable as Photo ID?
-      - Point Value for Proof of ID
-      - Acceptable as Proof of Date of Birth?
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - U.S. Passport or U.S. Passport Card 
-      - U.S. passport or passport card. 
-      - Yes 
-      - 3 
-      - Yes
-    * - Foreign Passport (Machine Readable)
-      - A machine readable Foreign Passport. 
-      - Yes 
-      - 3 
-      - Yes
-    * - U.S. State Driver's License or Learner's Permit Photo ID
-      - Photo identification card issued by U.S. state (other than New York State Driver's License with current New York City address) or territory granting driving privileges, with address, date of birth, and expiration date.
-      - Yes 
-      - 3 
-      - Yes
-    * - U.S. State Identification Card 
-      - Photo identification card issued by U.S. state (other than New York State Identification Card with current New York City address) or territory with address, date of birth, and expiration date.
-      - Yes 
-      - 3 
-      - Yes
-    * - U.S. Permanent Resident Card
-      - Alien registration card (I-551), also known as a permanent resident or green card. Must include expiration date. Unexpired I-551 stamps in passport also accepted for permanent residents awaiting issuance of their green cards.
-      - Yes 
-      - 3 
-      - Yes
-    * - NYS Benefit Card with Photo
-      - Welfare/Medicaid/NY Food Stamp Card, also known as an Electronic Benefit Transfer (EBT) Card or Common Identification Benefit Card (CBIC), with Photo and date of birth.
-      - Yes 
-      - 3 
-      - Yes
-    * - Common Access Card
-      - Department of Defense (DOD)-issued photo identification card with date of birth, date of issuance, expiration date, blood type, and DOD identification number, issued to active duty, retiree or reservist military personnel only.
-      - Yes 
-      - 3 
-      - Yes
-    * - Current U.S. Work Permit
-      - Employment Authorization Document (EAD) or work permit issued by U.S. Citizenship and Immigration Services (USCIS) that proves that the holder is authorized to work in the U.S. with date of birth and expiration date.
-      - Yes 
-      - 3 
-      - Yes
-    * - Certificate of Citizenship/ Naturalization
-      - U.S. Certificate of Citizenship (N-560 or N-561); Certificate of Naturalization (N-550, N-570 or N-568).
-      - Yes 
-      - 3 
-      - Yes
-    * - U.S. Merchant Mariner Credential
-      - Photo identification card issued by U.S. Coast Guard National Maritime Center, with address, date of birth, and issue and expiration dates.
-      - Yes
-      - 3
-      - Yes
-    * - U.S. Department of State Driver's License or Non-Driver Identification Card without Current Home Address
-      - U.S. Department of State Driver's License or Non-Driver Identification Card with date of birth, photo and expiration date, but without current home address.
-      - Yes
-      - 3
-      - Yes
-    * - NYS Department of Corrections and Community Supervision (DOCCS) Released Offender Identification Card
-      - Photo identification card issued by DOCCS, with identification number, date of birth and cardholder release date no more than one year prior to the date submitted. Acceptable even if the card has expired.
-      - Yes
-      - 3
-      - Yes
-    * - NYS Unified Court System Attorney Secure Pass ID Card
-      - Photo identification card issued by the NYS Unified Court System to attorneys. Includes color photo, date of birth, attorney registration number, and expiration date.
-      - Yes
-      - 3
-      - Yes
-    * - U.S. Tribal ID
-      - A U.S. Tribal photo ID with photo, address, signature, date of birth, and expiration date.
-      - Yes 
-      - 3 
-      - Yes
-    * - IDNYC Card without Current Home Address
-      - A current or expired IDNYC Card without a current home address. If the card is expired, the card must be within the renewal period.
-      - Yes 
-      - 3 
-      - Yes
-~
-
- 
-
-   (2) The following documents are worth two points toward establishing the identity of the applicant:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document 
-      - Description
-      - Acceptable as Photo ID?
-      - Point Value for Proof of ID
-      - Acceptable as Proof of Date of Birth?
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Foreign Passport (Not Machine Readable)
-      - Foreign Passport that is not machine readable.
-      - Yes 
-      - 2 
-      - Yes
-    * - Expired U.S. Passport or Passport Card
-      - U.S. Passport or Passport Card that has expired no more than three years prior to the date submitted.
-      - Yes
-      - 2
-      - Yes
-    * - Expired Foreign Passport
-      - Foreign passport that is machine readable and has expired no more than three years prior to the date submitted
-      - Yes
-      - 2
-      - Yes
-    * - Expired IDNYC Card
-      - IDNYC Card that has expired less than three years before the date submitted but is outside the renewal period.
-      - Yes
-      - 2
-      - Yes
-    * - Consular Identification Card
-      - Photo identification card with address, date of birth, and expiration date, issued by foreign governments recognized by the U.S. to their citizens, who are outside the issuing country.
-      - Yes 
-      - 2 
-      - Yes
-    * - Veterans Identification Card issued by U.S. Department of Veterans Affairs (VA)
-      - Must include photo and member ID number.
-      - Yes
-      - 2
-      - No
-    * - Veterans Health Identification Card issued by VA
-      - Must include photo and member ID number.
-      - Yes
-      - 2
-      - No
-    * - U.S. Federal, State, or Local Government Employee ID 
-      - Federal, state or local government employee photo ID card.
-      - Yes 
-      - 2 
-      - No
-    * - U.S. Birth Certificate
-      -  Certificate of birth issued by a State or Territory, or a locality of a State or Territory, or by the U.S. State Department, including Consular Report of Birth Abroad. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rican law.
-      - No 
-      - 2 
-      - Yes
-    * - Visa Issued by U.S. State Department
-      - U.S. State Department-issued immigrant or non-immigrant visa with photo identification.
-      - Yes 
-      - 2 
-      - Yes
-    * - Foreign Driver's License (Machine Readable)
-      - Machine readable photo identification card granting driving privileges with address, date of birth, and expiration date.
-      - Yes 
-      - 2 
-      - Yes
-    * - Foreign National Identification Card (Machine Readable)
-      - Machine readable national identification card with photo and date of birth or age. Must be accepted for purposes of re-entry to issuing country. Includes machine readable voter registration cards that serve as national identification cards.
-      - Yes 
-      - 2 
-      - Yes, if date of birth included.
-    * - Social Security Card
-      - The following types of Social Security Cards (unrestricted and restricted) issued by the U.S. Social Security Administration will be accepted: (i) a card that enables the holder to work without restriction; (ii) a card that permits an individual with authorization from the Department of Homeland Security to work on a temporary basis; and (iii) a card marked"not valid for employment."
-      - No 
-      - 2 
-      - No
-    * - U.S. Individual Taxpayer Identification Number Assignment Letter
-      - Letter from U.S. Internal Revenue Service (IRS) assigning ITIN number to applicant with date of birth. (IRS Notice CP565)
-      - No 
-      - 2 
-      - No
-    * - U.S. Uniformed Services ID
-      - Photo identification card with date of birth and expiration date issued to military retiree or military family member to access military service benefits or privileges.
-      - Yes 
-      - 2 
-      - Yes
-    * - NYS Education Department Professional Identification Card
-      - Photo identification card issued by the NYS Education Department, Office of the Professions, with profession, license number and expiration date.
-      - Yes
-      - 2
-      - No
-    * - I-94 Form with Photo and Fingerprint Issued by U.S. Department of Homeland Security
-      - I-94 Arrival/Departure Record issued by the U.S. Department of Homeland Security with date of birth, photo, and fingerprint.
-      - Yes
-      - 2
-      - Yes
-    * - NYS Interim Driver's License, Learner's Permit, or Non-Driver's Identification Card
-      - Interim driver's license, learner's permit, or non-driver's identification card, issued by NYS Department of Motor Vehicles.
-      - No
-      - 2
-      - Yes
-    * - Approval Notice on Form I-797, I-797A, I-797B or I-797D Issued by U.S. Citizenship and Immigration Services (USCIS)
-      - Notice from USCIS approving applicant for an immigration benefit that either is currently valid or does not have an expiration date.
-      - No 
-      - 2 
-      - No
-~
-
- 
-
-   (3) The following documents are worth one point toward establishing the identity of the applicant:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document 
-      - Description
-      - Acceptable as Photo ID?
-      - Point Value for Proof of ID
-      - Acceptable as Proof of Date of Birth?
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Educational Institution ID Card: middle, secondary, post-secondary schools, colleges and universities
-      - Photo ID issued by an accredited U.S. educational institution, including New York City Department of Education and CUNY schools.
-      - Yes 
-      - 1 
-      - Yes, if date of birth included.
-    * - Foreign Driver's License (Not Machine Readable)
-      - Photo identification card granting driving privileges with address, date of birth, and expiration date, that is not machine readable.
-      - Yes
-      - 1 
-      - Yes
-    * - Foreign National Identification Card(Not Machine Readable)
-      - National identification card with photo and date of birth or age, that is not machine readable. Must be accepted for purposes of reentry to issuing country. Includes voter registration cards which are used as national IDs.
-      - Yes 
-      - 1 
-      - Yes, if date of birth included.
-    * - Foreign Military Photo Identification Card
-      - Photo identification card issued to active duty, retiree or reservist military personnel by foreign country.
-      - Yes 
-      - 1 
-      - Yes, if date of birth included.
-    * - Foreign Birth Certificate
-      - Certificate of birth issued by current or former sovereign nation.
-      - No 
-      - 1 
-      - Yes
-    * - U.S. Birth Certificate of Applicant's Child
-      - Birth certificate of applicant's child, issued by a State or Territory, or a locality of a State or Territory, or by the U.S. State Department, including Consular Report of Birth Abroad listing applicant as birth parent. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
-      - No 
-      - 1 
-      - Yes
-    * - NYS Benefit Identification Card without Photo
-      - Welfare/Medicaid/NY Food Stamp Card, also known as an Electronic Benefit Transfer (EBT) Card or Common Identification Benefit Card (CBIC), without Photo and with date of birth.
-      - No 
-      - 1 
-      - Yes
-    * - NYC Summer Youth Employment Program Identification Card
-      - Photo identification card issued by a community based organization that administers the NYC Summer Youth Employment Program.
-      - Yes 
-      - 1 
-      - No
-    * - U.S. School Transcript From High School or Post-Secondary School, College, or University
-      - Official copy of academic transcript, including terms and dates attended or attending, cumulative academic record, and, if applicable, degrees awarded.
-      - No 
-      - 1 
-      - No
-    * - Diploma from a U.S. High School, High School Equivalency Program, or U.S. Post-Secondary School, College, or University
-      - U.S. High School Diploma, High School Equivalency Diploma granted based on General Educational Development (GED) and Test Assessing Secondary Completion (TASC) exams, or U.S. postsecondary school, college, or university diploma.
-      - No 
-      - 1 
-      - No
-    * - Employee, Consultant or Board Member Identification Card from Organization Located in U.S.
-      - Photo identification card with organization name and address identifying applicant as employee, consultant, board member or as having another similar position. Includes clergy identification cards issued by a religious organization.
-      - Yes 
-      - 1 
-      - No
-    * - U.S. Union Photo ID
-      - Card identifying holder as a member of a union that represents employees working in the United States.
-      - Yes 
-      - 1
-      - No
-    * - Certificate of marriage, domestic partnership, civil union, divorce or dissolution of marriage, domestic partnership or civil union
-      - Certificate of marriage, domestic partnership, civil union, divorce or dissolution of marriage, domestic partnership or civil union
-      - No 
-      - 1 
-      - Yes
-    * - Reduced Fare MetroCard for Seniors and People with Disabilities
-      - Must include photo identification and be issued by Metropolitan Transportation Authority.
-      - Yes 
-      - 1 
-      - No
-    * - Access-A-Ride ID Card
-      - Photo identification card issued by Metropolitan Transportation Authority.
-      - Yes 
-      - 1 
-      - No
-    * - NYC Department of Parks and Recreation issued Recreation Center Membership Card
-      - Photo identification card issued by the NYC Department of Parks and Recreation for Recreation Center Membership when the applicant was at least 18 years old.
-      - Yes 
-      - 1 
-      - No
-    * - U.S. Voter Registration Card
-      - Voter registration card issued by any State or Territory.
-      - Yes, if photo included.
-      - 1 
-      - No
-    * - Selective Service Registration Card
-      - A card issued by the U.S. Selective Service System to men ages 18 - 25, who have registered with the Selective Service.
-      - No 
-      - 1 
-      - Yes
-    * - Medicare Card
-      - Medicare identification card with name, Medicare claim number, and signature.
-      - No
-      - 1
-      - No
-    * - U.S. Individual Taxpayer Identification Number (ITIN) Card
-      - ITIN card  from U.S. Internal Revenue Service (IRS), with cardholder's ITIN number, name, and signature.
-      - No
-      - 1
-      - No
-    * - NYS Office of Mental Health (NYS OMH) Facility Photo ID Card
-      - Identification card issued by NYS-OMH operated psychiatric facility, with name and photo.
-      - Yes
-      - 1
-      - No
-~
-
- 
-
-
-
-
-
-
-
-
-*§ 6-06 Proof of Residency.* ::
-
-
-(a) Except as provided in paragraph (2) of subdivision (c) of this section or in 68 RCNY §§ 6-04 or 6-07, in order to establish residency, an applicant will be required to produce a document from section 68 RCNY § 6-06(c)(1) or a document authorized by subdivision (b) of this section displaying the applicant's residential street address located in New York City. The document must display the applicant's name, except where the document displays the name of the applicant's spouse or domestic partner and the applicant presents: (i) a certificate of marriage, civil union or domestic partnership or birth certificate that demonstrates the relationship to the spouse or domestic partner; and (ii) an attestation signed by the spouse or domestic partner, on a form and in a format established by the Commissioner, that the applicant resides with the spouse.
-
-(b) HRA may determine in the future that additional documents, including data and electronic versions of documents received from the issuing agency, may be accepted and will be afforded the value of one point toward establishing the residency of the applicant. In the event that HRA exercises its authority pursuant to this subdivision, HRA will publicize its acceptance of the new documents or data, including on the IDNYC website.
-
-(c) (1) The following documents are worth one point and establish residency. The address on the document will be shown on the card, except as provided in 68 RCNY § 6-02(b):
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document 
-      - Description
-      - Point Value for Proof of Residency
-      - Acceptable as Proof of Address?
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Cable, Phone, or Utility Bill or Statement
-      - Must be dated no more than 60 days prior to the date submitted and include home address of applicant. Includes account summary sheets and account statements.
-      - 1 
-      - Yes
-    * - Residential Property Lease or Sublease
-      - Must be a current lease. All leases must include name of applicant, address of the unit rented, term of the lease, amount of rent, terms regarding utilities, and contact information for the lessor. If the phone number of the lessor does not appear on the lease, then the applicant must provide the phone number separately.
-      - 1 
-      - Yes
-    * - Local Property Tax Statement
-      - Property tax statement including home address, dated no more than one year prior to the date submitted.
-      - 1 
-      - Yes
-    * - Property Mortgage Payment Receipt
-      - Mortgage payment receipt including home address, dated no more than 60 days prior to the date submitted.
-      - 1 
-      - Yes
-    * - Banking, Financial or Credit Card Account Bill, Statement or Notice
-      - Bill, statement or notice from credit card company, bank or other financial institution. Must be dated no more than 60 days prior to the date submitted and include home address and account number. Includes bank account statements, credit card statements, credit union account statements, account summary sheets, loan statements, and notices from banks and credit unions confirming the opening of an account. Other types of banking, financial, or credit card documents will be accepted only as provided under 68 RCNY § 6-06(b).
-      - 1 
-      - Yes
-    * - Employment Pay Stub
-      - Must include employer's name, applicant's home address and be dated no more than 60 days prior to date submitted.
-      - 1 
-      - Yes
-    * - Statement, bill, or record from health institution
-      - Statement, bill, or record from any hospital or clinic operated by the NYC Health and Hospitals Corporation, or a Federally Qualified Health Center, or a public or private hospital located in New York City. Must include account or patient identification number and home address of applicant and be dated no more than one year prior to date submitted.
-      - 1 
-      - Yes
-    * - Jury Summons or Court Order Issued by New York State Court (including NYC Courts such as Housing Court, Family Court and Surrogate's Court) or Federal Court
-      - Must be dated no more than 60 days prior to the date submitted and include home address.
-      - 1 
-      - Yes
-    * - IRS Forms W-2, 1099-MISC, 1095-A, 1095-B and 1095-C
-      - Must include employer's name, applicant's home address. Accepted through April 15 of the year following the tax year on the form.
-      - 1
-      - Yes
-    * - Letter or Document Issued by the U.S. Internal Revenue Service (IRS), or the NYS Department of Taxation and Finance (DTF)
-      - Letter or document issued by IRS or DTF, addressed to applicant, regarding applicant's personal tax status. Examples include tax return transcript, statement of tax or refund due, or refund check. Must be dated no more than one year prior to the date submitted.
-      - 1
-      - Yes
-    * - Tax Return with Proof of Filing
-      - U.S. federal, state, or local tax return submitted with proof of filing such as IRS Tax Return Transcript, NYS Department of Taxation and Finance account summary, NYC Department of Finance proof of property tax payment history, or other satisfactory proof of filing. Filing date must be no more than one year prior to the date submitted.
-      - 1
-      - Yes
-    * - Insurance Bill, Statement or Record (homeowner's, life, renter's, automobile, or health insurance)
-      - Insurance bill, statement or record including home address and dated no more than 60 days prior to the date submitted.
-      - 1 
-      - Yes
-    * - Letter from Homeless Shelter that receives City Funding
-      - Signed letter from executive-level official at homeless shelter receiving City funding stating that applicant has been a current resident for at least 15 days and that the shelter allows residents to remain in residence for longer than 30 days. Must be dated no more than 60 days prior to the date submitted.
-      - 1 
-      - Yes
-    * - Letter from Residential Care Facility operated, certified, or funded by NYS Office for People with Developmental Disabilities (OPWDD), NYS Department of Health (NYS DOH), New York State Office of Mental Health (OMH), or NYC Department of Health and Mental Hygiene (NYC DOHMH)
-      - Signed letter from an executive-level official at a residential care facility located in New York City and operated, licensed, certified, or funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH, establishing the applicant's residence at the facility. Must be dated no more than 60 days prior to the date submitted. Acceptable only when applicant is accompanied by a caretaker who is an employee of the facility issuing the letter.
-      - 1
-      - Yes
-    * - Letter from New York City Housing Authority (NYCHA)
-      - Signed letter from manager of NYCHA residential development, indicating that applicant is listed on the current lease or is otherwise authorized by NYCHA to reside in the apartment, dated no more than 60 days prior to the date submitted.
-      - 1 
-      - Yes
-    * - NYCHA Lease Addendum and Rent Notice
-      - NYCHA document listing applicant as lessee and/or authorized tenant of NYCHA residential unit. Must be dated no more than one year prior to the date submitted.
-      - 1
-      - Yes
-    * - Letter from Head Start, Early Learn, Preschool, Elementary, Intermediate or High School located in New York City or any NYC Department of Education (DOE) School Where Applicant's Child is Enrolled
-      - Signed letter from principal or executive official or the principal or executive official's designee at a public, private, or parochial Head Start, Early Learn, preschool, elementary, intermediate or high school located in New York City or any DOE school where applicant's child is a currently enrolled student. Letter must confirm student's home address and be dated no more than 60 days prior to the date submitted.Applicant must also provide proof of relationship to the student named in the letter, using one of the documents listed in 68 RCNY § 6-07(b).
-      - 1
-      - Yes
-    * - Letter from Private or Parochial Intermediate or High School located in New York City Where Applicant is Enrolled
-      - Signed letter from principal or executive official or the principal or executive official's designee at a private or parochial intermediate or high school located in New York City where applicant is a currently enrolled student. Letter must confirm home address and be dated no more than 60 days prior to the date submitted. Schools may require parental consent to issue such a letter for a student younger than age 18.Applicant must present a student identification card from the school issuing the letter.(Applicant students wishing to have the DOE assist them with establishing residency may do so via 68 RCNY § 6-03(a)(2)(C).)
-      - 1
-      - Yes
-    * - Letter from NYC Administration for Children's Services (ACS) Foster Care Agency
-      - Signed letter from executive level official at ACS or ACS designated NYC foster care agency establishing residency of foster youth applicant, dated no more than 60 days prior to the date submitted. Acceptable only when applicant is accompanied by a caretaker who is an employee of the facility issuing the letter.
-      - 1 
-      - Yes
-    * - United States Postal Service (USPS) Change of Address Confirmation
-      - Must be addressed to applicant at the same address that appears on the IDNYC application. Must be dated no more than 60 days prior to the date submitted.
-      - 1
-      - Yes
-    * - NYC Housing Preservation and Development (HPD) Section 8 Rent Breakdown Form
-      - Must be dated within no more than one year prior to the date submitted and include home address.
-      - 1
-      - Yes
-    * - Case Composition Summary Report Generated from the New York State Welfare Management System
-      - Case composition summary report generated from the New York State Welfare Management System with current home address. Must be dated no more than 60 days prior to the date submitted.
-      - 1
-      - Yes
-    * - New York State Office of Mental Health (OMH) Facility Inpatient Photo ID Card
-      - Inpatient identification card issued by NYS OMH-operated psychiatric facility, with name, photo and facility address.
-      - 1
-      - Yes
-    * - "Verification of Release"form issued by the U.S. Department of Health and Human Services, Office of Refugee Resettlement, Division of Children's Services
-      - "Verification of Release"document from U.S. Department of Health and Human Services, Office of Refugee Resettlement (ORR), including photo, date of birth, and name and address of applicant's sponsor. Includes Form ORR UAC/R-1, Form ORR R-535, and any form used by ORR for verifying release. Must be dated no more than one year prior to date submitted.
-      - 1
-      - Yes
-    * - U.S. Immigration and Customs Enforcement (ICE) Order of Supervision
-      - Order of Supervision issued by U.S. Immigration and Customs Enforcement (ICE), dated no more than one year prior to the date submitted and including current home address. May be issued by U.S. ICE as Form I-220B.
-      - 1
-      - Yes
-    * - New York State Interim Driver's License, Learner's Permit, or Non-Driver's Identification Card
-      - Interim driver's license, learner's permit, or nondriver's identification card, issued by NYS Department of Motor Vehicles, with current home address.
-      - 1
-      - Yes
-    * - Notice of Decision or Determination of Developmental Disability issued by NYS Office for People with Developmental Disabilities (OPWDD)
-      - Notice of decision or determination issued by OPWDD establishing that applicant qualifies for care. Must include applicant's home address and be dated no more than one year prior to the date submitted.
-      - 1
-      - Yes
-    * - Residency Confirmation Letter for United Nations (UN) Diplomats and Their Families
-      - Residency Confirmation Letter for UN Diplomats and Families Issued by the U.S. Department of State, UN, or a Country's Permanent Mission to the UN. Must include applicant's home address and be dated no more than 60 days prior to the date submitted.
-      - 1
-      - Yes
-    * - College/University Housing Agreement
-      - Current agreement issued by an institution of higher education located in New York City, in letter, lease, or other format. Must indicate that applicant is permitted to reside in housing affiliated with the institution; and must include applicant’s name, the street address of the residence, and the dates during which the student may reside there.The document must be presented with a photo ID from the institution issuing the agreement.
-      - 1
-      - Yes
-    * - Letter from College or University Administrator
-      - Signed letter from a school administrator indicating that the applicant: (i) is enrolled, employed or otherwise connected with the school; (ii) resides in housing in New York City that is affiliated with the school; (iii) receives mail at a central school-based location different from where the applicant resides; and (iv) the school mail box and/or street address where applicant’s mail is delivered.This document must be presented with a photo ID from the institution issuing the letter.The IDNYC card will display the name of the school and the address where the applicant receives mail.
-      - 1
-      - Yes
-~
-
- 
-
-   (2) The following documents are worth one point and establish residency for an individual who lacks a stable residence or is a survivor of domestic violence, as applicable. When applicants submit one of these documents for proof of residency, no home address will appear on the card:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document 
-      - Description
-      - Point Value for Proof of Residency
-      - Acceptable as Proof of Address?
-    * - Letter Issued by New York City Agency, Nonprofit Organization or Religious Institution Located within New York City Serving Homeless Individuals
-      - Signed letter from executive-level official from a City agency, nonprofit organization or religious institution that provides services to homeless individuals. The letter must indicate applicant has resided in New York City for at least 15 days and lacks a stable residence; letter must be dated no more than 30 days prior to the date submitted.No address will appear on the card.
-      - 1 
-      - No
-    * - Letter Issued by New York City Agency, Nonprofit Organization, or Religious Institution that Provides Services to Survivors of Domestic Violence
-      - Signed letter from executive-level official from a New York City agency, nonprofit organization, or religious institution that provides services to survivors of domestic violence. The letter must indicate that applicant has resided in New York City for at least 15 days and has security concerns about an address appearing on the IDNYC Card; letter must be dated no more than 30 days prior to the date submitted.No address will appear on the card.
-      - 1 
-      - No
-    * - Letter Issued by a Hospital or Health Clinic Located in New York City
-      - Signed letter from executive-level official at hospital or health clinic indicating that applicant has resided at the facility for at least 15 days over the previous 60 day period; letter must be dated no more than 30 days prior to the date submitted.No address will appear on the card.
-      - 1 
-      - No
-    * - Letter Issued by Nonprofit Organization or Religious Institution Located within New York City Serving Homeless Individuals or Survivors of Domestic Violence indicating"Care Of"Address
-      - Signed letter from executive-level official from a nonprofit organization or religious institution that provides services to homeless individuals or survivors of domestic violence. The organization must currently receive City funding. To establish use of the nonprofit organization's or religious institution's address for mailing purposes, the letter must indicate that: (1) the applicant has received services from the entity for the past 60 days, (2) the applicant may use the entity's address for mailing purposes, and (3) the applicant lacks a stable address or has security concerns about an address appearing on the IDNYC Card. The letter must be dated no more than 14 days prior to the date submitted. The card issued will indicate the address is"Care of"the organization that has written the letter.
-      - 1 
-      - Yes
-    * - Letter from a Residential Care Program Funded, Administered, and/or Overseen by the NYC HRA-Emergency &amp; Intervention Services - Office of Domestic Violence
-      - Signed letter from an executive-level official at a residential care program located within New York City which is funded, administered, and/or overseen by the NYC HRA-Emergency &amp; Intervention Services - Office of Domestic Violence. The letter must indicate that the applicant has resided in New York City for at least 15 days; has security concerns about a home address appearing on his/her IDNYC card: and that s/he is permitted to receive mail at a Post Office Box affiliated with the program. The letter must be dated no more than 30 days prior to the date submitted.The card issues will display the P.O. Box or no address at all.
-      - 1
-      - Yes
-~
-
-
-
- 
-
-(d) IDNYC will also accept the following as proof of residency and address worth one point:
-
-   (1) Verification from the New York City Housing Authority (NYCHA), provided in a format and in a manner to be agreed upon by HRA and NYCHA: (1) that the applicant resides in NYCHA housing; and (2) of the applicant’s address;
-
-   (2) Verification from the New York City Department of Finance (DOF), in a format and in a manner to be agreed upon by HRA and DOF: (1) that the applicant is enrolled in the Senior Citizen Rent Increase Exemption programs (SCRIE programs), and (2) of the applicant’s address.
-
-
-
-
-
-
-
-
-*§ 6-07 Applicants with Caretakers.* ::
-
-
-An applicant is not required to provide photo identification if accompanied by a caretaker who can demonstrate proof of a relationship to the applicant pursuant to this section. For HRA to issue an IDNYC Card to such an applicant without photo identification, each of the following criteria must be met:
-
-(a) The applicant must provide documents worth a total of at least two points from the proof of identity lists set forth in 68 RCNY § 6-05(c);
-
-(b) If the applicant is 21 years of age or younger, the applicant and caretaker must demonstrate proof of relationship by providing at least one document from the charts set forth in paragraph (1) or (2) of this subdivision or a document authorized pursuant to subdivision (f) of this section. If the applicant is 22 years of age or older, the applicant and caretaker must demonstrate proof of relationship by providing at least one of the documents from the chart set forth in paragraph (2) of this subdivision.
-
-   (1) The following documents, in addition to those set forth in paragraph (2) of this subdivision, will demonstrate proof of relationship between an applicant age 21 or younger and his or her caretaker:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document 
-      - Description
-      - Acceptable as Proof of Date of Birth of Applicant?
-    * - Where Caretaker is Parent: Applicant's Birth Certificate
-      - Applicant's birth certificate displaying caretaker's name as parent. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
-      - Yes
-    * - Where Caretaker is Parent: Adoption Decree, Certificate of Adoption or NYS Department of Health (NYS DOH) Report of Adoption
-      - Applicant's adoption decree, certificate of adoption or NYS DOH Report of Adoption, displaying caretaker's name as parent.
-      - Yes
-    * - Where Caretaker is Parent: Acknowledgment of Paternity Form issued by NYC Department of Health and Mental Hygiene (DOHMH), and NYS Office of Temporary and Disability Assistance (OTDA)
-      - Form LDSS-4418 displaying caretaker's name as parent of the applicant.
-      - Yes
-    * - Where Caretaker is Parent: Court Order of Paternity/Filiation
-      - Court order establishing caretaker as applicant's legal parent.
-      - Yes
-    * - Where Caretaker is Court-Appointed Guardian: Court Decree
-      - Court decree displaying caretaker's name as legal guardian.
-      - Yes
-    * - Where Caretaker is Foster Parent: (1) Signed letter from ACS Foster Care Agency; AND (2) Foster Parent License Certification
-      - Two documents (both are required):(1) Signed letter from ACS Foster Care Agency on agency letterhead naming the Caretaker as the Applicant’s foster parent (must be dated 60 days from the date submitted); and(2) The Caretaker’s Foster Parent License Certification
-      - Yes
-    * - Where Caretaker is Employee of ACS or of ACS Foster Care Agency: Letter from ACS or ACS Foster Care Agency
-      - Signed letter from executive-level official at ACS or ACS designated NYC foster care agency establishing relationship of youth applicant to agency. Must be dated no more than 60 days prior to the date submitted. If the caretaker is an employee of ACS or an ACS designated foster care agency, then the letter: (1) must also authorize the employee to represent the agency and accompany the applicant at the IDNYC enrollment site and (2) will be accepted only if the caretaker also presents employee ID issued by ACS or the designated agency.
-      - Yes
-    * - Where Caretaker is Adult Sponsor of Minor Appointed by U.S. Department of Health and Human Services, Office of Refugee Resettlement: U.S. Department of Health and Human Services"Verification of Release"form
-      - "Verification of Release"document from U.S. Department of Health and Human Services, Office of Refugee Resettlement, Division of Children's Services including photo, date of birth, and name and address of child's adult sponsor. Includes Form ORR UAC/R-1, Form ORR R-535, and any form used by ORR to verify release.
-      - Yes
-    * - Where Caretaker is Stepparent: (1) Applicant’s Birth Certificate AND (2) Stepparent’s Marriage Certificate
-      - Two documents (both are required)Applicant's birth certificate, in addition to the caretaker's certificate of marriage, civil union or domestic partnership showing that the caretaker is married to, or the domestic partner of, a parent named on applicant's birth certificate. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
-      - Yes
-~
-
- 
-
-   (2) The following documents will establish proof of relationship between an applicant of any age and his or her caretaker:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Document
-      - Description
-      - Acceptable as Proof of Date of Birth of Applicant?
-    * - Where Caretaker is Applicant's Court-Appointed Guardian, Custodian or Conservator: Court Order
-      - Court order from a court located in the United States appointing the Caretaker as applicant's legal guardian, custodian or conservator.
-      - Yes
-    * - Where Caretaker is Cohabitant of Developmentally Disabled Applicant: (1) Notice of Decision or Determination (NOD) of Developmental Disability issued by the New York State Office for People with Developmental Disabilities (OPWDD) AND (2) Proof of Residency for Caretaker and Applicant
-      - (1) Notice of Decision or Determination of Developmental Disability issued by OPWDD establishing that applicant qualifies for care, and (2) Either a residency document from 68 RCNY § 6-06 showing that the caretaker resides at the address on the NOD, or if applicant no longer resides at the address on the NOD, residency documents from 68 RCNY § 6-06 showing that applicant and caretaker currently reside at same address.This provision does not apply to an applicant living in a residential care facility.
-      - Yes (Notice of Decision may be used to establish date of birth)
-    * - Where Caretaker is Residential Care Facility Employee: Signed Letter
-      - Signed letter from an executive-level official at a residential care facility located in New York City and operated, licensed, certified, or funded by OPWDD, NYS DOH, NYS OMH, or NYC DOHMH, establishing the applicant's residence at the facility. Must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the agency and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the facility.
-      - Yes
-    * - Where an individual Caretaker is applicant's Social Security Representative Payee: Letter from Social Security Administration (SSA) establishing Representative Payee status
-      - Letter from SSA establishing that the Caretaker is the applicant's Social Security representative payee. The letter must be dated no more than one year prior to the date submitted.
-      - Yes
-    * - Where Caretaker is an employee of an organization that is applicant's Social Security Representative Payee (RP): (1) Letter from Social Security Administration (SSA) establishing RP status; AND (2) Letter from executive-level official from the RP organization
-      - Two letters (both are required):(1) Letter from SSA establishing that the organization is the applicant's Social Security Representative Payee, dated no more than one year prior to the date submitted; and(2) An additional letter signed by an executive-level official from the representative payee organization establishing that its employee is authorized to represent the organization with respect to the applicant's IDNYC application. This letter must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the organization and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the organization.
-      - Yes (Letter from SSA may be used to establish date of birth)
-    * - Where Caretaker is an Employee of the NYS Office for People with Developmental Disabilities (OPWDD) NYS Department of Health (DOH), NYS Office of Mental Health (NYS OMH) or NYC Department of Health and Mental Hygiene (NYC DOHMH) or an Agency or Facility that is Licensed, Certified or Funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH: Signed Letter
-      - Signed letter from executive-level official at OPWDD, NYS DOH, NYS OMH or NYC DOHMH or an agency or facility that is operated, licensed, certified or funded by one of those agencies, establishing relationship of applicant to the agency or facility. Must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the agency or facility and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the agency or facility.
-      - Yes
-~
-
-
-
- 
-
-(c) At least one of the documents provided pursuant to subdivision (a) or (b) of this section must include the applicant's date of birth;
-
-(d) The caretaker must demonstrate proof of the caretaker's own identity worth at least three points from the lists set forth in 68 RCNY § 6-05(c), including a photo identification; and
-
-(e) The applicant's residency must be established by: (i) the applicant establishing residency in accordance with 68 RCNY § 6-06 or (ii) the caretaker establishing residency for the applicant by establishing the caretaker's own residency in accordance with 68 RCNY § 6-06 and providing an attestation, on a form and in a format established by the Commissioner, that the applicant resides with the caretaker.
-
-(f) HRA may designate additional categories of individuals who will be considered caretakers under this chapter and determine that additional documents may be accepted to establish proof of relationship between an applicant and a caretaker. In the event that HRA exercises its authority under this subdivision, it will publicize the addition of new caretaker categories and its acceptance of new documents, including on the IDNYC website.
-
-
-
-
-
-
-
-
-*§ 6-08 Changes of Name, Address and Gender.* ::
-
-
-(a) An individual with an unexpired IDNYC card must report a change of name or address within 10 days of such change. A person may choose to update the gender on their card at any time.
-
-(b) To obtain a card with an updated name, the cardholder must present either a court order, a certificate of marriage or divorce, or another government-issued document that establishes a lawful name change. Only original documents or documents certified by the issuing agency will be accepted.
-
-(c) To obtain a card with an updated address, the cardholder must establish residency pursuant to either 68 RCNY § 6-04, 6-06 or 6-07, unless HRA is able to verify the cardholder's new address by other means. Documents submitted to IDNYC to demonstrate a change of address need not be originals.
-
-
-
-
-
-
-
-
-*§ 6-09 Fees.* ::
-
-
-(a) HRA will not charge a fee to an applicant in connection with the issuance of an applicant's first IDNYC Card, the issuance of a renewal card pursuant to 68 RCNY § 6-10, or where a cardholder is requesting a new card to update their name, address, gender or veteran status or to correct an error by IDNYC. Nor will HRA charge a fee for an individual to replace a card if the individual can establish that the card was stolen.
-
-(b) In all other instances, HRA will charge a $10 fee for the issuance of a card.
-
-(c) HRA will waive the fee set forth in 68 RCNY § 6-09(b) on behalf of individuals who submit a self attestation indicating that they cannot afford the cost of such fee.
-
-
-
-
-
-
-
-
-*§ 6-10 Expiration and Renewal.* ::
-
-
-(a) IDNYC Cards issued after the effective date of this rule will expire five years from the date of application approval, except that cards issued pursuant to 68 RCNY § 6-04(e) will expire on the date that the cardholder is expected to graduate from middle school, and cards issued to any other individuals under 16 years of age will expire two years from date of application approval. IDNYC Cards issued prior to the effective date of this rule will be valid until the expiration date that appears on the face of the card unless invalidated pursuant to 68 RCNY § 6-12.
-
-(b) Renewal cards will be available to individuals who have previously been issued an IDNYC card that will expire in less than 60 days, or such other longer timeframe that HRA may designate in the future, or that expired less than six months ago, or such other longer timeframe that IDNYC may designate in the future, and who submit a renewal application on or after December 2, 2019 in a format and in a manner established by the Commissioner. In most instances, cardholders seeking renewal of their card will not be required to re-establish their identity pursuant to the provisions of 68 RCNY §§ 6-04 and 6-05 of this title, but if they are seeking to update their name or address must meet the requirements of subdivision (b) or (c) of 68 RCNY § 6-08, as applicable. However, IDNYC reserves the right to have cardholders re-establish their identity pursuant to 68 RCNY § 6-04 or 6-05 if the program cannot confirm by other means that the individual seeking renewal is the individual to whom the card was issued.
-
-
-
-
-
-
-
-
-*§ 6-11 Confidentiality of IDNYC Card Eligibility Information.* ::
-
-
-(a) Information collected about applicants for the card will be treated as confidential to the maximum extent allowable by applicable federal and state law and may only be disclosed if:
-
-   (1) Authorized in writing by the individual to whom such information pertains, or if such individual is a minor or is otherwise not legally competent, by such individual's parent or legal guardian;
-
-   (2) So ordered by a court of competent jurisdiction;
-
-   (3) To a requesting city agency for the limited purpose of administering the IDNYC Card Program or determining or facilitating the applicant's eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal and state privacy laws and regulations, and subject to the further requirement that such information will not be redisclosed to any other governmental agency or entity, or third party; or
-
-   (4) To a law enforcement agency that serves the administering agency a judicial subpoena or judicial warrant.
-
-(b) HRA will not indicate on the IDNYC Card application forms the type of records provided by an applicant to establish residency or identity.
-
-
-
-
-
-
-
-
-*§ 6-12 Secondary Review Conferences and Reapplications Following Denial of IDNYC Card Applications.* ::
-
-
-(a) An applicant who has been denied an IDNYC Card may request a secondary review of their eligibility for the card by submitting a review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of issuance of the denial.
-
-(b) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the applicant’s documents and eligibility for the card and the applicant will have the opportunity to reapply for the card. Secondary reviews will be offered only at specially designated locations.
-
-(c) The IDNYC program will offer the applicant a date, time, and location for the review conference that is within 30 days of receipt of the request. If the date, time, and location offered are not convenient for the applicant, the program will work with the applicant to find another date, time, and location, but cannot guarantee that the conference will take place within 30 days of the request.
-
-(d) If the applicant chooses to reapply following the review conference, IDNYC staff will notify the applicant of its determination on the application by mail. If IDNYC does not issue a determination within 30 days of the date of the conference, then the determination that triggered the review request shall become the final decision on the application.
-
-
-
-
-
-
-
-
-*§ 6-13 Card Invalidations.* ::
-
-
-(a) IDNYC will invalidate a card issued to an individual in the following circumstances:
-
-   (i) When IDNYC issues a new card to the individual;
-
-   (ii) When IDNYC learns that the individual has died;
-
-   (iii) In the circumstances described in subdivisions (b) - (e) of this section.
-
-(b) When the Executive Director of IDNYC or their designee determines that an individual may have obtained a card under a false identity, it will immediately suspend the card, promptly notify the individual of the suspension and provide the individual with an opportunity to challenge the suspension by submitting a secondary review request, in a manner established by the Commissioner, to the IDNYC Card Program within 30 days of notification. Secondary reviews will be offered only at specially designated locations.
-
-(c) The secondary review will consist of a conference at which a designee of the Executive Director of the IDNYC program will review the individual’s documents and eligibility for the card.
-
-(d) The IDNYC program will offer the individual a date, time, and location for the review conference that is within 14 days of receipt of the request. If the date, time, and location offered are not convenient for the individual, the program will work with the individual to find another date, time, and location, but cannot guarantee that the conference will take place within 14 days of the request.
-
-(e) Following the review conference, IDNYC will notify the individual by mail of its determination. If IDNYC does not issue a determination within 14 days of the date of the conference, then the secondary review request will be deemed to have been denied.
 
 
 
@@ -4449,299 +4449,6 @@ An applicant or program participant may request an agency review conference and/
 
 
 
-Chapter 11: Pathway Home
---------------------------------------------------
-
-
-
-*§ 11-01 Definitions.* ::
-
-
-(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
-
-(b) "DHS" means the New York City Department of Homeless Services.
-
-(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
-
-(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
-
-(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
-
-(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
-
-(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
-
-(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
-
-(i) "HRA" means the New York City Human Resources Administration.
-
-(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
-
-(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
-
-(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
-
-(m) The "Pathway Home Program" means the program established pursuant to this chapter.
-
-(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
-
-(o) A "program participant" means an adult household member.
-
-(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
-
-(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
-
-
-
-
-
-
-
-
-*§ 11-02 Administration of the Pathway Home Program.* ::
-
-
-HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
-
-
-
-
-
-
-
-
-*§ 11-03 Eligibility.* ::
-
-
-(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
-
-   (1) The household must meet one of the following conditions:
-
-      (A) The household resides in DHS shelter and
-
-         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
-
-         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
-
-      (B) The household is street homeless; or
-
-      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
-
-   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
-
-   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
-
-   (4) All members of the household who are eligible for PA must be in receipt of PA.
-
-   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
-
-   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
-
-   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
-
-   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
-
-(b) Qualifying Shelter Stay and Limitations.
-
-   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
-
-   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
-
-(c) Applications must be submitted on a form and in a format established by HRA.
-
-(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
-
-
-
-
-
-
-
-
-*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
-
-
-(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Pathway Home Payments
-      - 
-      - 
-      - 
-    * - Household Size
-      - 1 or 2
-      - 3 or 4
-      - 5+
-    * - Monthly Payment to Host
-      - $1,200
-      -  $1,500
-      - $1,800
-~
-
-
-
- 
-
-(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
-
-(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
-
-
-
-
-
-
-
-
-*§ 11-05 Moves.* ::
-
-
-(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
-
-(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
-
-
-
-
-
-
-
-
-*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
-
-
-(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
-
-(b) Agency Review Conference.
-
-   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
-
-   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
-
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
-
-   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
-
-(c) Request for a DSS Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
-
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
-
-(d) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
-
-   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
-
-(e) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
-
-   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
-
-   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
-
-      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
-
-(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
-
-(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
-
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
-
-(i) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
-
-   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
-
-(j) Abandonment of Request for Administrative Hearing.
-
-   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
-
-      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
-
-   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
-
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
-
-(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
-
-   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
-
-   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
-
-(m) Additional appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
-
-   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
-
-   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
-
-   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
-
-
-
-
-
-
-
-
-*§ 11-07 Additional Provisions.* ::
-
-
-(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
-
-(b) Waitlists will not be maintained for the Pathway Home Program.
-
-(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
-
-(d) Shelter residents are responsible for identifying potential host families.
-
-(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
-
-(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
-
-(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
-
-(h) Any host family residence must pass a safety and habitability inspection. Additionally:
-
-   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
-
-   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
-
-(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
-
-(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
-
-
-
-
-
-
 Chapter 10: City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS)
 --------------------------------------------------
 
@@ -5358,6 +5065,299 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 (h) HRA in its discretion may offer payments to landlords of units that are subject to the HPD/HDC Marketing Handbook pursuant to a regulatory agreement or similar instrument, for which HPD or HDC is requiring or approving such units to be filled by homeless individuals or families instead of or subsequent to a lottery, where such payments are needed to make up the difference between the CityFHEPS maximum rent under 68 RCNY § 10-05 and the regulatory rent.
 
 (Added City Record 9/28/2018, eff. 10/28/2018; amended City Record 2/7/2020, eff. 2/7/2020)
+
+
+
+
+Chapter 11: Pathway Home
+--------------------------------------------------
+
+
+
+*§ 11-01 Definitions.* ::
+
+
+(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+
+(b) "DHS" means the New York City Department of Homeless Services.
+
+(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
+
+(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
+
+(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+
+(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+
+(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
+
+(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
+
+(i) "HRA" means the New York City Human Resources Administration.
+
+(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+
+(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(m) The "Pathway Home Program" means the program established pursuant to this chapter.
+
+(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
+
+(o) A "program participant" means an adult household member.
+
+(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+
+(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+
+
+
+
+
+
+
+
+*§ 11-02 Administration of the Pathway Home Program.* ::
+
+
+HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
+
+
+
+
+
+
+
+
+*§ 11-03 Eligibility.* ::
+
+
+(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
+
+   (1) The household must meet one of the following conditions:
+
+      (A) The household resides in DHS shelter and
+
+         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
+
+         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
+
+      (B) The household is street homeless; or
+
+      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
+
+   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+
+   (4) All members of the household who are eligible for PA must be in receipt of PA.
+
+   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
+
+   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
+
+   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
+
+(b) Qualifying Shelter Stay and Limitations.
+
+   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
+
+   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
+
+(c) Applications must be submitted on a form and in a format established by HRA.
+
+(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
+
+
+
+
+
+
+
+
+*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
+
+
+(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Pathway Home Payments
+      - 
+      - 
+      - 
+    * - Household Size
+      - 1 or 2
+      - 3 or 4
+      - 5+
+    * - Monthly Payment to Host
+      - $1,200
+      -  $1,500
+      - $1,800
+~
+
+
+
+ 
+
+(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
+
+(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
+
+
+
+
+
+
+
+
+*§ 11-05 Moves.* ::
+
+
+(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
+
+(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
+
+
+
+
+
+
+
+
+*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+
+
+(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference.
+
+   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for a DSS Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+
+   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
+
+   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
+
+(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
+
+(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
+
+      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+
+   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+
+(m) Additional appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+
+
+
+
+
+
+
+*§ 11-07 Additional Provisions.* ::
+
+
+(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
+
+(b) Waitlists will not be maintained for the Pathway Home Program.
+
+(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
+
+(d) Shelter residents are responsible for identifying potential host families.
+
+(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
+
+(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
+
+(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
+
+(h) Any host family residence must pass a safety and habitability inspection. Additionally:
+
+   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
+
+   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
+
+(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
+
+(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
+
+
 
 
 

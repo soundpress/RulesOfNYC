@@ -2624,109 +2624,6 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-Chapter 4: Designated Broadway Theaters
---------------------------------------------------
-
-
-
-*§ 4-01 Treatment of Designated Broadway Theater Interiors (Theater Interior Guidelines).* ::
-
-
-(a) Preface. Work may be done on designated interior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
-
-   (1) For production-related work, no application to Landmarks Preservation Commission is needed if the guidelines set forth in 63 RCNY § 4-01(b)(1) below are followed, but owner must submit a written description to the Landmarks Preservation Commission (LPC), prior to undertaking the work, clearly delineating the scope of the proposed work. This description should also include steps to be taken after the end of the production to return the interior to its prior condition if significant architectural features are proposed to be altered, unless further changes are mandated by an incoming production, in which case the interior would be returned to its prior condition following the latter production.
-
-   (2) For permanent alterations, application to LPC is necessary and a CNE will be issued by staff if in accordance with the guidelines set forth in 63 RCNY § 4-01(b)(2) below.
-
-   (3) Applications for work not in accordance with the guidelines will be subject to the usual landmark review procedure as set forth in Chapter 3 of Title 25 of the Administrative Code.
-
-Note: The guidelines are keyed to underlined portions of the Description Section of the Designation Reports, which identify architecturally significant features requiring protection.
-
-(b) Guidelines. 
-
-   (1) Production-related changes. No permit needed for work, if the following conditions are met:
-
-      (i) Interior configuration of the theater is maintained.
-
-      (ii) Any alteration to architectural features underlined in the Description Section of the Designation Report is reversible. (It should be noted that alterations to certain architectural features may not be reversible; for example, murals or heavily three-dimensional decorative features such as putti.)
-
-      (iii) Following a production in which a theater interior is to be painted in a non-contrasting color scheme, the theater interior will be painted in contrasting colors, unless some other color scheme is mandated by the incoming production, in which case the interior would be painted in contrasting colors following the latter production. (A contrasting color scheme is one in which the ornamental architectural details are painted a different color or a different value or hue of the same color than the background.)
-
-      (iv) If the Buildings Department requires a permit for the work, a CNE will be issued by staff within five working days of the receipt of a completed application.
-
-   (2) Permanent changes. A CNE will be issued by the staff within five working days of receipt of a completed application for alterations to the theater if the following conditions are met:
-
-      (i) Interior configuration is maintained.
-
-      (ii) Staff has determined that the alteration would not affect significant architectural features underlined in the Description Section of the Designation Report. In theaters which are only designated on the interior, such alterations could include exterior build-overs.
-
-      (iii) Any installation of state-of-the-art changes, as certified by the owner, such as light bridges, sound booths, and balcony rail light housings, provided that staff finds that
-
-(A) their installation will have no effect on the physical fabric of the significant architectural features of the interior, or
-
-(B) that such effect is reversible and that adequate steps will be taken to assure that affected features can be replaced in the future.
-
-
-
-
-
-
-*§ 4-02 Treatment of Designated Broadway Theater Exteriors (Theater Exterior Guidelines).* ::
-
-
-(a) Preface. Work may be done on designated exterior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
-
-   (1) For production-related work, no application to LPC is needed if the guidelines set forth in 63 RCNY § 4-02(b)(1) below are followed, but the owner must submit a written description to the LPC, prior to undertaking the work, clearly delineating the scope of the proposed work. This description should also include steps to be taken after the end of the production to return the exterior to its prior condition if significant architectural features are proposed to be altered.
-
-   (2) For permanent alterations, application to LPC is necessary and a CNE will be issued by staff if in accordance with the guidelines set forth in 63 RCNY § 4-02(b)(2) below.
-
-   (3) Applications for work not in accordance with the guidelines will be subject to the usual landmark review procedure as set forth in Chapter 3 of Title 25 of the Administrative Code.
-
-Note: The guidelines are keyed to underlined portions of the Description Section of the Designation Reports, which identify architecturally significant features requiring protection.
-
-(b) Guidelines. 
-
-   (1) Production-related changes. No permit is needed for the following work, if the stated conditions are met:
-
-      (i) The installation of new signage or alteration of existing signage, lighting, or other advertisement, provided that anchorages do not physically affect architectural features underlined in the designation report description. (Changing of light box fillers, posters, photos, etc. would not require review or notice to the Commission.)
-
-      (ii) Painting of exterior surfaces, if they were previously painted.
-
-      (iii) Alterations or additions to any undeveloped portions of the theatre exterior, provided that the protected features of a designated interior are not affected.
-
-      (iv) Any alterations to underlined exterior architectural features in the report that are reversible. (A reversible alteration is one in which the altered feature can be returned to its appearance prior to the alteration.)
-
-      (v) Removal of any feature which has not been identified in the Description Section of the Designation Report of the theater.
-
-      (vi) For theaters in which the exterior is designated only for cultural and historical significance, any alteration to the facade may be made provided that:
-
-(A) Lighted signage and advertisements for productions are utilized.
-
-(B) Continuous entrance doors are maintained between the lobby and the street and the auditorium and the street, where they presently exist.
-
-(C) A marquee is utilized to shelter the sidewalk adjacent to the entrance doors referred to in 63 RCNY § 4-02(b)(1)(vi)(B).
-
-   (2) Permanent changes. A CNE will be issued by the staff within five working days of receipt of completed application for the following work, if the stated conditions are met.
-
-      (i) The installation of new signage or alteration of existing signage, lighting, awnings, marquees or other advertisements, provided that anchorages do not physically affect architectural features underlined in the Description Section of the Designation Report and that the signage, lighting, or awning of marquee is not architecturally significant in itself.
-
-      (ii) Any alteration or additions to any portion of the theater exterior not visible from the public way, provided that the protected features of the exterior of any designated interior are not affected.
-
-      (iii) Removal of any feature which has not been identified and underlined in the Description Section of the Designation Report of the theater.
-
-      (iv) For theaters in which exterior is designated only for cultural or historical significance, any alterations to the exterior of the theater may be made provided that:
-
-(A) Lighted signage and advertisements for productions are utilized.
-
-(B) Continuous entrance doors are maintained between the lobby and the street and the auditorium exit and the street, where they presently exist.
-
-(C) A marquee is utilized to shelter the sidewalk adjacent to the entrance doors referred to in 63 RCNY § 4-02(b)(2)(iv)(B).
-
-(D) The existing proportions of the facade (width to height) are not altered.
-
-
-
-
 Chapter 5: Historic Preservation Grant Program
 --------------------------------------------------
 
@@ -2868,6 +2765,109 @@ In addition to any other material required by LPC Staff, the following documents
       (ii) If the grant recipient transfers the property within such five-year period, the grant recipient must return to the Landmarks Preservation Commission the grant on a pro-rated basis as follows: one hundred (100) percent of the grant if the property is transferred during the first year after final payment; eighty (80) percent if transferred during the second year; sixty (60) percent if transferred during the third year; forty (40) percent if transferred during the fourth year; and twenty (20) percent if transferred during the fifth year after the final payment.
 
 
+
+
+
+
+Chapter 4: Designated Broadway Theaters
+--------------------------------------------------
+
+
+
+*§ 4-01 Treatment of Designated Broadway Theater Interiors (Theater Interior Guidelines).* ::
+
+
+(a) Preface. Work may be done on designated interior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
+
+   (1) For production-related work, no application to Landmarks Preservation Commission is needed if the guidelines set forth in 63 RCNY § 4-01(b)(1) below are followed, but owner must submit a written description to the Landmarks Preservation Commission (LPC), prior to undertaking the work, clearly delineating the scope of the proposed work. This description should also include steps to be taken after the end of the production to return the interior to its prior condition if significant architectural features are proposed to be altered, unless further changes are mandated by an incoming production, in which case the interior would be returned to its prior condition following the latter production.
+
+   (2) For permanent alterations, application to LPC is necessary and a CNE will be issued by staff if in accordance with the guidelines set forth in 63 RCNY § 4-01(b)(2) below.
+
+   (3) Applications for work not in accordance with the guidelines will be subject to the usual landmark review procedure as set forth in Chapter 3 of Title 25 of the Administrative Code.
+
+Note: The guidelines are keyed to underlined portions of the Description Section of the Designation Reports, which identify architecturally significant features requiring protection.
+
+(b) Guidelines. 
+
+   (1) Production-related changes. No permit needed for work, if the following conditions are met:
+
+      (i) Interior configuration of the theater is maintained.
+
+      (ii) Any alteration to architectural features underlined in the Description Section of the Designation Report is reversible. (It should be noted that alterations to certain architectural features may not be reversible; for example, murals or heavily three-dimensional decorative features such as putti.)
+
+      (iii) Following a production in which a theater interior is to be painted in a non-contrasting color scheme, the theater interior will be painted in contrasting colors, unless some other color scheme is mandated by the incoming production, in which case the interior would be painted in contrasting colors following the latter production. (A contrasting color scheme is one in which the ornamental architectural details are painted a different color or a different value or hue of the same color than the background.)
+
+      (iv) If the Buildings Department requires a permit for the work, a CNE will be issued by staff within five working days of the receipt of a completed application.
+
+   (2) Permanent changes. A CNE will be issued by the staff within five working days of receipt of a completed application for alterations to the theater if the following conditions are met:
+
+      (i) Interior configuration is maintained.
+
+      (ii) Staff has determined that the alteration would not affect significant architectural features underlined in the Description Section of the Designation Report. In theaters which are only designated on the interior, such alterations could include exterior build-overs.
+
+      (iii) Any installation of state-of-the-art changes, as certified by the owner, such as light bridges, sound booths, and balcony rail light housings, provided that staff finds that
+
+(A) their installation will have no effect on the physical fabric of the significant architectural features of the interior, or
+
+(B) that such effect is reversible and that adequate steps will be taken to assure that affected features can be replaced in the future.
+
+
+
+
+
+
+*§ 4-02 Treatment of Designated Broadway Theater Exteriors (Theater Exterior Guidelines).* ::
+
+
+(a) Preface. Work may be done on designated exterior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
+
+   (1) For production-related work, no application to LPC is needed if the guidelines set forth in 63 RCNY § 4-02(b)(1) below are followed, but the owner must submit a written description to the LPC, prior to undertaking the work, clearly delineating the scope of the proposed work. This description should also include steps to be taken after the end of the production to return the exterior to its prior condition if significant architectural features are proposed to be altered.
+
+   (2) For permanent alterations, application to LPC is necessary and a CNE will be issued by staff if in accordance with the guidelines set forth in 63 RCNY § 4-02(b)(2) below.
+
+   (3) Applications for work not in accordance with the guidelines will be subject to the usual landmark review procedure as set forth in Chapter 3 of Title 25 of the Administrative Code.
+
+Note: The guidelines are keyed to underlined portions of the Description Section of the Designation Reports, which identify architecturally significant features requiring protection.
+
+(b) Guidelines. 
+
+   (1) Production-related changes. No permit is needed for the following work, if the stated conditions are met:
+
+      (i) The installation of new signage or alteration of existing signage, lighting, or other advertisement, provided that anchorages do not physically affect architectural features underlined in the designation report description. (Changing of light box fillers, posters, photos, etc. would not require review or notice to the Commission.)
+
+      (ii) Painting of exterior surfaces, if they were previously painted.
+
+      (iii) Alterations or additions to any undeveloped portions of the theatre exterior, provided that the protected features of a designated interior are not affected.
+
+      (iv) Any alterations to underlined exterior architectural features in the report that are reversible. (A reversible alteration is one in which the altered feature can be returned to its appearance prior to the alteration.)
+
+      (v) Removal of any feature which has not been identified in the Description Section of the Designation Report of the theater.
+
+      (vi) For theaters in which the exterior is designated only for cultural and historical significance, any alteration to the facade may be made provided that:
+
+(A) Lighted signage and advertisements for productions are utilized.
+
+(B) Continuous entrance doors are maintained between the lobby and the street and the auditorium and the street, where they presently exist.
+
+(C) A marquee is utilized to shelter the sidewalk adjacent to the entrance doors referred to in 63 RCNY § 4-02(b)(1)(vi)(B).
+
+   (2) Permanent changes. A CNE will be issued by the staff within five working days of receipt of completed application for the following work, if the stated conditions are met.
+
+      (i) The installation of new signage or alteration of existing signage, lighting, awnings, marquees or other advertisements, provided that anchorages do not physically affect architectural features underlined in the Description Section of the Designation Report and that the signage, lighting, or awning of marquee is not architecturally significant in itself.
+
+      (ii) Any alteration or additions to any portion of the theater exterior not visible from the public way, provided that the protected features of the exterior of any designated interior are not affected.
+
+      (iii) Removal of any feature which has not been identified and underlined in the Description Section of the Designation Report of the theater.
+
+      (iv) For theaters in which exterior is designated only for cultural or historical significance, any alterations to the exterior of the theater may be made provided that:
+
+(A) Lighted signage and advertisements for productions are utilized.
+
+(B) Continuous entrance doors are maintained between the lobby and the street and the auditorium exit and the street, where they presently exist.
+
+(C) A marquee is utilized to shelter the sidewalk adjacent to the entrance doors referred to in 63 RCNY § 4-02(b)(2)(iv)(B).
+
+(D) The existing proportions of the facade (width to height) are not altered.
 
 
 
@@ -3228,6 +3228,153 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 
+Chapter 9: Alterations To Designated Bank Interiors
+--------------------------------------------------
+
+
+
+*§ 9-01 Introduction.* ::
+
+
+(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
+
+(b) These rules are based on the following principles:
+
+   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
+
+   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
+
+   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
+
+(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
+
+(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
+
+
+
+
+
+
+*§ 9-02 Definitions.* ::
+
+
+As used in these Rules, the following terms shall have the following meanings:
+
+Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
+
+Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
+
+Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
+
+Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+
+Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
+
+Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
+
+Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
+
+State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
+
+
+
+
+
+
+*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
+
+
+(a)  The following interior landmarks are subject to these rules:
+
+   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
+
+   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
+
+   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
+
+   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
+
+   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
+
+   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
+
+   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
+
+   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
+
+   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
+
+   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
+
+   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
+
+
+
+
+
+
+*§ 9-04 Changes to Non-significant Features.* ::
+
+
+(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
+
+   (1) The visible volume and configuration of the banking interior is maintained; and
+
+   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
+
+
+
+
+
+
+*§ 9-05 State-of-the-Art Banking Changes.* ::
+
+
+(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
+
+   (1) the visible volume and configuration of the banking interior is maintained; and
+
+   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
+
+   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
+
+(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (C of A) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
+
+
+
+
+
+
+*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
+
+
+(a)  Any C of A application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
+
+(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the C of A.
+
+
+
+
+
+
+*§ 9-07 Application Procedures.* ::
+
+
+(a)  Submission of Application. See 63 RCNY Chapter 2, Subchapter A ("Application Procedure") of these Rules.
+
+(b) Review Procedure.
+
+   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
+
+   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
+
+   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+
+
+
+
 Chapter 8: Proposed Alterations and New Construction of Storefronts In the Jackson Heights Historic District
 --------------------------------------------------
 
@@ -3584,153 +3731,6 @@ EXAMPLE TWO – STOREFRONT WITH CENTER ENTRANCE
 .. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-358-img$3.0$p=
 
 EXAMPLE THREE – BUILDING WITH MULTIPLE STOREFRONTS
-
-
-
-
-Chapter 9: Alterations To Designated Bank Interiors
---------------------------------------------------
-
-
-
-*§ 9-01 Introduction.* ::
-
-
-(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
-
-(b) These rules are based on the following principles:
-
-   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
-
-   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
-
-   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
-
-(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
-
-(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
-
-
-
-
-
-
-*§ 9-02 Definitions.* ::
-
-
-As used in these Rules, the following terms shall have the following meanings:
-
-Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
-
-Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
-
-Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
-
-Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
-
-LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
-
-Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
-
-Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
-
-Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
-
-State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
-
-
-
-
-
-
-*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
-
-
-(a)  The following interior landmarks are subject to these rules:
-
-   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
-
-   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
-
-   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
-
-   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
-
-   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
-
-   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
-
-   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
-
-   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
-
-   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
-
-   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
-
-   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
-
-
-
-
-
-
-*§ 9-04 Changes to Non-significant Features.* ::
-
-
-(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
-
-   (1) The visible volume and configuration of the banking interior is maintained; and
-
-   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
-
-
-
-
-
-
-*§ 9-05 State-of-the-Art Banking Changes.* ::
-
-
-(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
-
-   (1) the visible volume and configuration of the banking interior is maintained; and
-
-   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
-
-   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
-
-(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (C of A) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
-
-
-
-
-
-
-*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
-
-
-(a)  Any C of A application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
-
-(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the C of A.
-
-
-
-
-
-
-*§ 9-07 Application Procedures.* ::
-
-
-(a)  Submission of Application. See 63 RCNY Chapter 2, Subchapter A ("Application Procedure") of these Rules.
-
-(b) Review Procedure.
-
-   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
-
-   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
-
-   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
 
 
