@@ -978,843 +978,6 @@ If any of these Rules, or application thereof to any person or circumstances, is
 
 
 
-Chapter 3: Rules Governing the West 79th Street Boat Basin, the Sheepshead Bay Piers and the World's Fair Marina
---------------------------------------------------
-
-
-
-*§ 3-01 Application.* ::
-
-
-These rules apply to the permissible use of the marinas operated by the Department, including but not limited to the West 79th Street Boat Basin which is located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan; the Sheepshead Bay Piers adjacent to Emmons Avenue in Brooklyn; the World's Fair Marina in Flushing Bay in Flushing Meadows Corona Park, Queens, provided they are not covered by a concession agreement with the Department. These special rules supplement the general rules which govern the use of City parkland set forth in chapters one and two of this title. To the extent that they are not inconsistent herewith, the rules set forth in chapters one and two of this title apply to the use of the Department's Marinas.
-
-
-
-
-
-
-
-
-*§ 3-02 Definitions.* ::
-
-
-Boat Basin. "Boat Basin" means the West 79th Street Boat Basin located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan.
-
-Boat Launch. "Boat Launch" means any location designated by the Commissioner for the launching of Vessels of any kind via the use of an automobile or other motorized vehicle down a fixed ramp.
-
-Chief Dockmaster. "Chief Dockmaster" means the person appointed by the Commissioner that is responsible for the overall administration of the Marinas and enforcement of Department policies and rules.
-
-Commercial Permit. "Commercial Permit" means a permit to store, dock or launch a Vessel used for commercial operations.
-
-Commissioner. "Commissioner" means the Commissioner of the Department of Parks and Recreation or the chief executive officer of any successor agency.
-
-Department. "Department" refers to the Department of Parks and Recreation of the City of New York or any successor agency.
-
-Dinghy. "Dinghy" means a Vessel with a total length of fourteen feet or less.
-
-Dockmaster. "Dockmaster" refers to the person who administers, manages or maintains the Marinas at the direction of the Supervisory Dockmaster or Chief Dockmaster.
-
-Dyckman Marina. "Dyckman Marina" refers to the Dyckman Marina on the east bank of the Hudson River at Dyckman Street
-
-Emergency. "Emergency" means any situation which the Dockmaster determines threatens imminent personal injury, property damage or environmental damage.
-
-Garage. "Garage" means the underground parking garage at the rotunda in the Boat Basin.
-
-Guest. "Guest" means a person who enters the Marinas at the invitation of a Permittee to board the Permittee's Vessel.
-
-Houseboat. "Houseboat" means any Vessel which has been designed primarily for use as a dwelling place as opposed to active recreational use, including but not limited to boats unable to operate in open water when subject to moderate winds and strong currents and boats designed with a rectangular main deck and full or square-shaped underwater hull as opposed to the tapered bow of a conventional recreational Vessel.
-
-Marina. "Marina" means the World's Fair Marina, Sheepshead Bay Piers, West 79th Street Boat Basin, and any other marina operated by the Department.
-
-Parking Permit. "Parking Permit" means a dated written permission to park at the World's Fair Marina parking lot or Boat Basin Garage.
-
-Permit. "Permit" means a permit to store, dock, moor or launch a Vessel at the Marinas. Such term includes, but is not limited to, seasonal dockage permits issued for the 6 month summer season or 12 month terms, transient dockage permits issued on a daily basis, permits to launch kayaks or canoes at the Marinas, permits for commercial Vessel operations and special permits for educational research events and special events, including filming. Such term does not include Parking Permits.
-
-Permittee. "Permittee" means the person whose name appears on a permit.
-
-Permittee Family. "Permittee Family" means the members of a Permittee's immediate family, which is restricted to husband, wife, son, daughter or domestic partner, listed on the front page of the Permit application. Permittee family members are not designated as guests and do not have any interest in the permit, except for spouses or domestic partners who jointly hold permits.
-
-Personal Watercraft. "Personal Watercraft" or "PWC" or "Jet Ski" means any small power-driven Vessel where by design the operator and passengers stand or sit astride the watercraft as opposed to sitting within the hull of a conventional boat. Personal Watercraft traditionally are gasoline-powered and can be propeller-driven or propelled by water jet.
-
-Sheepshead Bay Piers. "Sheepshead Bay Piers" means the piers located on the northern side of Sheepshead Bay, adjacent to Emmons Avenue in Brooklyn.
-
-Supervisory Dockmaster. "Supervisory Dockmaster" means the individual responsible for the administration of the marina division facilities and enforcement of Department policies and rules under the direction of the Chief Dockmaster.
-
-Vessel. "Vessel" means a floating craft of any kind, including but not limited to a boat, sailboat, motorboat, dinghies, canoe and kayak.
-
-Waiting list. "Waiting list" means a list maintained by the Department of persons interested in obtaining seasonal dockage permits and mooring permits at the Boat Basin. This list is the sole method of obtaining a dockage or mooring permit at the Boat Basin.
-
-World's Fair Marina. "World's Fair Marina" means the World's Fair Marina in Flushing Bay, located in Flushing Meadows Corona Park, Queens.
-
-
-
-
-
-
-
-
-*§ 3-03 Access.* ::
-
-
-(a)  The Marinas are open to Permittees, Permittee Family, Guests, contractors and other persons who have obtained the permission of the Department to enter. All private contractors must be properly licensed and insured, proof of which shall be registered with the Department. In addition, the Department shall establish and post regular hours during which the public shall have access to specified portions of the World's Fair Marina and Boat Basin.
-
-(b) Keys are issued to the World's Fair Marina and Boat Basin piers each year for Permittees. To receive a key, Permittees must have paid for the full seasonal dockage or mooring and have no other outstanding charges, and must sign an agreement regarding the Department's key policy. Permittees must also have completed a dockage or mooring permit application and provided all required Vessel insurance and registration as required by 56 RCNY § 3-06(d) and (q).
-
-
-
-
-
-
-
-
-*§ 3-04 Guests.* ::
-
-
-Access to the the Marinas by Guests is subject to the following conditions:
-
-(a) All Guests and Permittee Family must comply with these rules. Anyone who fails to comply with such rules may be expelled from the Marinas. Anyone who repeatedly fails to comply with the rules may be permanently barred from the Marinas. Permittees are responsible for the conduct of their guests and family members. Violations of these rules by Guests and/or Permittee Family can be grounds for termination of the Permittee's Permit in accordance with 56 RCNY § 3-06(g).
-
-(b) In the interest of safety, the Dockmaster may limit the number of occupants on a Vessel. In no cases shall the number of persons on board a Vessel exceed the manufacturer's builders plate.
-
-(c) A Permittee must notify the Dockmaster in writing of any person who will be boarding his or her Vessel when the Permittee is not in the relevant Marina.
-
-(d) If a Permittee intends to have a Guest remain overnight on his or her Vessel while the Permittee is not on board, a pass must be obtained from the Dockmaster. Guests may not stay overnight on a Vessel when the Permittee is not on board without a pass from the Dockmaster. The Dockmaster may refuse or terminate the pass if he or she has reason to believe there has been a transfer of the right to occupy the Vessel by the Permittee to the Guest. This pass may be issued for up to one month. No Guest may remain in the World's Fair Marina or Boat Basin for longer than one month while the Permittee is absent, although the Dockmaster has discretion to extend this limit for good cause.
-
-
-
-
-
-
-
-
-*§ 3-05 Inspections.* ::
-
-
-All Vessels in the Marinas may be boarded by authorized officers and employees of the Department or other City, State and federal agencies if necessary to respond to an emergency or urgent health or safety hazard, as part of the general health or safety inspection or as otherwise permitted by applicable law. It shall be a violation of these rules for a Permittee to refuse to allow, prevent or interfere with such boarding.
-
-
-
-
-
-
-
-
-*§ 3-06 Permits.* ::
-
-
-(a) No person shall dock, store or launch a Vessel at a Marina without an appropriate Permit from the Department and without payment of all required fees.
-
-(b) All payments must be in the form of money order, credit card, or check in a form acceptable to the Department.
-
-(c) All recreational Vessels must be personally owned and such ownership reflected on registration or U.S. Coast Guard documentation. Permits for recreational Vessels shall be issued to a natural person and not to a business or corporate entity.
-
-(d) For security and emergency purposes, Permittees must provide State or federal issued photo identification to the Department for photocopying and retention in the customer folder.
-
-(e) A Permit shall not be issued for a Vessel that is unsafe or likely to cause injury to people or damage to property as determined by the Dockmaster.
-
-(f) (1) Dockage permits shall only be issued for Vessels that the Chief Dockmaster determines are capable of operating in open water. All Vessels (transient, seasonal, mooring or year round) must be and remain in safe operational condition. Any existing Permittee with an operational and seaworthy Vessel must continuously maintain an operational and seaworthy Vessel. All Vessels brought to any Department Marina must be seaworthy and must meet operational requirements to the original manufacturer's specifications. The Chief Dockmaster shall require a demonstration of a Vessel's seaworthiness and compliance with the manufacturer's specifications, and shall require that any modifications to the Vessel be approved by a certified naval architect to ensure compliance with original manufacturers' specifications. Before issuing a Permit and otherwise upon reasonable notice, the Chief Dockmaster may inspect a Vessel and/or require a demonstration of the Vessel's operational capability in open water.
-
-   (2) For the Boat Basin only, the Department may offer up to 52 winter season permits at any time (less any existing winter permits) first, to existing summer season permit holders in seniority order and second, to individuals on the Waiting List in list order, creating 12 month or year-round dockage permits. The location of winter season slips will be determined by the Chief Dockmaster and allocated by seniority order. However, the Chief Dockmaster may change the location and/or number of these slips as necessary to ensure the safety of Vessels and the Boat Basin.
-
-   (3) Except for Vessels permitted to dock at the Boat Basin prior to November 1, 2010, no permit, summer or winter, shall be issued to a Houseboat.
-
-(g) Dockage permits shall not be issued unless the applicant presents evidence of hull and liability insurance, either New York State registration or documentation by the U.S. Coast Guard and successful completion of a U.S. Coast Guard boating safety course or sufficient nautical experience as determined by the Dockmaster. In addition, the Vessel for which the Permit is to be issued must be well maintained and seaworthy.
-
-(h) A Permit shall be issued to the named Permittee for a particular Vessel and is not transferable. A Permit can be held jointly by spouses or domestic partners. If a Permittee replaces a Vessel, the Dockmaster may only approve the new Vessel after a suitable slip has been found before it may be docked pursuant to the permit. The Dockmaster shall reject a replacement Vessel that is not capable of operating in open water, not properly insured or which is neither New York State registered nor documented by the U.S. Coast Guard. The Dockmaster may inspect and/or require a demonstration of the replacement Vessel's operational capability in open water.
-
-(i) All completed Permit applications must be submitted to the Department. All outstanding fees, charges, fines or civil penalties must be paid before a renewal application will be considered.
-
-(j) The Supervisory Dockmaster may revoke, terminate or refuse to renew any Permit issued pursuant to this section:
-
-   (1) where the Permittee or applicant for the renewal has been found liable in a proceeding before the Office of Administrative Trials and Hearings (OATH) or in a court of three or more violations of these rules set forth in 56 RCNY Chapters 1 and 2;
-
-   (2) where the applicant for renewal or Permittee has failed to pay any outstanding fees, charges, fines or civil penalties within 15 days of the date of mailing of a written notice of such outstanding amount;
-
-   (3) where the Permittee or applicant for renewal has been found liable in a proceeding before the OATH or in a court of engaging in disorderly behavior as defined in 56 RCNY § 1-04(l); or
-
-   (4) as provided in subdivision o of this section, in accordance with the needs or requirements of the Department or the interests of the City as determined by the supervisory Dockmaster.
-
-(k) Reserved.
-
-(l) The Supervisory Dockmaster shall mail or hand deliver notice of the intention to revoke, refuse to renew or terminate a Permit and the reasons therefor. If a mailing address is unknown or mail is returned undelivered, such notice may, in lieu of mailing or hand delivery, be posted in a conspicuous place on the Vessel.
-
-(m) (1) If a permit is revoked or terminated or a renewal is refused, a Permittee or applicant for renewal may file written objections with the Chief Dockmaster within 10 days from the date of such mailing, delivery or posting. The objections must set forth the reasons why the Permit should not be terminated or revoked or should be renewed, and include any evidence supporting the objection. The filing of objections will not prevent the Chief Dockmaster from barring the Permittee from the Marina if the Chief Dockmaster specifically finds that it is in the public interest to do so. After considering any objections raised by the applicant or Permittee, the Chief Dockmaster shall make a determination whether to revoke, refuse to renew or terminate the Permit and shall provide notice of such determination to the Permittee or applicant for renewal in the above manner.
-
-   (2) A Permittee or applicant for renewal may file written objections with the Commissioner within 10 days from the date of the written decision of the Chief Dockmaster. The objections must set forth the reasons why the Permit should not be terminated or revoked or should be renewed, and include any evidence supporting the objection. After considering any objections raised by the applicant or Permittee, the Commissioner shall make a final determination whether to affirm or reverse the Chief Dockmaster's determination to revoke, refuse to renew or terminate the Permit and shall provide notice of such determination to the Permittee or applicant for renewal in the above manner.
-
-(n) Nothing in this chapter shall be construed to create a property right in any Permit. All permits issued by the Department are by their nature terminable at will by the Commissioner in accordance with the needs or the requirements of the Department or in the interest of the City as determined by the Commissioner.
-
-(o) An applicant for renewal or a former Permittee who has been found liable in a proceeding before OATH or in a court violating any provisions of these rules or the rules set forth in chapters 1 and 2 of this title or who has delinquent payment record may be required to provide current credit card information and/or make a security deposit before a renewal application will be considered. Such Permittee's credit card shall be charged for any balances accrued by the Permittee that remain unpaid after 45 days of mailing of such outstanding charges. Any security deposit received from the Permittee will be returned to the Permittee without interest upon departure from the Marinas, provided the Permittee has settled all outstanding charges.
-
-(p) All Permittees must maintain hull and liability insurance policies naming the City as an additional insured on the policy for docked Vessels and provide the Dockmaster with a copy of the insurance certificate. Proof of such insurance must be submitted to the Dockmaster by May 1 of each year. The insurance must be valid for the length of the Permit and any lapse in coverage will be considered automatic grounds for termination of the permit.
-
-(q) The Dockmaster may impose other reasonable conditions on the issuance or renewal of a Permit to protect public safety or to safeguard the interests of the City.
-
-(r) (1) Where a Permit expires or is revoked, terminated or not renewed, the Vessel must be removed from the Marina within 10 days after written notice by the Supervisory Dockmaster to remove it is mailed or hand-delivered to the applicant or Permittee. If a mailing address is unknown or mail is returned undelivered, such notice may in lieu of such mailing be posted in a conspicuous place on the Vessel. Where the Vessel is not removed within 10 days, the Department may remove the Vessel or cause the Vessel to be removed from the Marina. Except where a Vessel enters a Marina due to an emergency, the Dockmaster may immediately and without notice remove any Vessel which enters or remains in a Marina without an appropriate permit.
-
-   (2) The Permittee or owner shall be liable for the costs of removal and storage of the Vessel, payable prior to release of the Vessel. Any Vessel removed from a Marina which is not claimed within 30 days shall be deemed to be abandoned and shall be treated in accordance with applicable law.
-
-(s) Every applicant and Permittee must provide the Dockmaster with a day and evening telephone number as well as an e-mail and/or mailing address in writing at which he or she may receive notice required by these rules or other applicable law. Any change in telephone number, e-mail, or mailing address must be reported in writing to the Dockmaster within 10 days.
-
-(t) Upon accepting a Permit to dock at the Boat Basin, the Permittee must within two years, dock a Vessel, meeting all the requirements of this chapter. If an existing Boat Basin Permittee removes his or her Vessel for any reason, the Permittee must dock a Vessel, meeting all the requirements of this chapter, within two years from the date they removed their Vessel. The minimum dockage fee will be charged for each permitted season until a Vessel is brought in. If no Vessel is docked within two years, the Permit will be revoked as per 56 RCNY § 3-06(l).
-
-(u) A Permittee may choose to postpone keeping a Vessel at the Boat Basin for any particular season without payment only once in the life of the permit. Permittees must submit a letter to the Chief Dockmaster at least 90 days prior to the start of the season in question stating that they will be opting to keep the Vessel out of the Boat Basin.
-
-(v) Permits will be immediately revoked for any of the following reasons:
-
-   (1) Conduct endangering the safety of any person.
-
-   (2) Fire aboard a Vessel that is determined to be caused by improper upkeep of the Vessel.
-
-   (3) The improper use of heating equipment, including the storing of kerosene, installation or repair of electrical equipment by other than a qualified electrician.
-
-   (4) A violation of 56 RCNY § 3-13.
-
-   (5) Trespassing aboard another Vessel docked or moored at a Marina.
-
-   (6) Violation of this subdivision by guests or immediate family members of a Permit holder.
-
-   (7) Renting or subletting of permits.
-
-   (8) Any other action which interferes with the safe operation of Department facilities, including but not limited to violations of 56 RCNY § 3-08.
-
-(w) Any person who docks or abandons a Vessel at the Marinas without authorization and who refuses to remove the vessel immediately upon written notice, will not be eligible to request or receive a Permit or berth of any type for any Marina for a minimum of 24 months. Objections to the denial of Permit eligibility shall be available under subdivision n of 56 RCNY § 3-06.
-
-
-
-
-
-
-
-
-*§ 3-07 Waiting List.* ::
-
-
-The Department shall maintain and utilize a Waiting List for the issuance of Boat Basin seasonal dockage permits and mooring permits, which shall be available upon request from the Department. Applications to be added to the Waiting List must be mailed to the Department of Parks &amp; Recreation, Revenue Office, The Arsenal, 830 5th Avenue, New York, NY 10065 Attn: Boat Basin Waiting List via return receipt U.S. mail on forms supplied by the Department and accompanied by a processing fee of $75. Only natural persons shall be eligible for Boat Basin permits. No person already holding a Permit may apply for a Boat Basin Permit.
-
-
-
-
-
-
-
-
-*§ 3-08 Conduct and Clean Boating.* ::
-
-
-(a) No person shall urinate or defecate into the water or along the docks and walkways of a Marina. No person shall use a toilet which discharges into the water without marine sanitation devices approved by the New York State Department of Environmental Conservation.
-
-(b) Composting toilet systems are not permitted.
-
-(c) All Vessels with waste holding tanks must discharge waste through the pump out station or by other methods approved by the New York State Department of Environmental Conservation.
-
-(d) No person shall discharge into the water or on the docks and walkways any oil, spirits, drift, debris, inflammable liquids, rubbish or refuse.
-
-(e) No person shall bring or park a motor vehicle on the promenade or docks without the prior written approval of the Dockmaster.
-
-(f) No person shall make or cause or allow to be made unreasonable noise so as to cause public inconvenience, annoyance, or harm. Unreasonable noise means any excessive or unusually loud sound that disturbs the peace, comfort, or repose of a reasonable person of normal sensitivity or injures or endangers the health or safety of a reasonable person of normal sensitivity. The Dockmaster may restrict the outdoor use of radios, record players, compact disc players, television receivers, tape recorders, digital music players and other sound reproduction devices after 10 p.m. Sunday through Thursday and after midnight on Friday and Saturday.
-
-(g) Garbage must be placed in plastic bags and deposited in designated receptacles.
-
-(h) No person shall make an open flame or operate a barbecue grill in a Marina, on the docks or walkways or on any Vessel.
-
-(i) No person shall store or use any machinery or equipment for welding or burning where such storage or use is prohibited by the fire code or other law or rule.
-
-(j) No person shall ride or store a bicycle or other vehicle on the walkways and docks.
-
-(k) No person shall run or skate on the dock.
-
-(l) No person shall swim, dive, or fish from Vessel, docks, or finger piers, except in areas specifically designed for such purposes.
-
-(m) No person shall leave any entrance gate to the World's Fair Marina or Boat Basin open or unlocked.
-
-(n) No person shall admit someone unfamiliar to themselves into the World's Fair Marina or Boat Basin. Any unfamiliar person is to be directed to the World's Fair Marina or Boat Basin office.
-
-(o) No person shall advertise from a Vessel while docked or moored at a Department Marina.
-
-(p) No person shall discharge any sewage in "No Discharge Zones" (NDZ) designated by the Environmental Protection Agency, including the Hudson River and Jamaica Bay.
-
-(q) On water bodies that are not designated NDZ, boaters must discharge treated sewage from a Type I or Type II United States Coast Guard certified Marine Sanitation Device (MSD) unless at least three nautical miles or more from shore.
-
-(r) No person shall transport cans of fuel on docks or piers at the Marinas unless authorized by the Dockmaster in the Dockmaster's reasonable discretion. Vessels must fuel at gas docks.
-
-(s) As per New York State Department of Environmental Conservation regulations, Vessel owners must receive pre-approval from the Dockmaster before applying anti-fouling paint to their Vessel. Paint scrapping must be disposed of in designated areas. Containment systems must be used and boat maintenance may not be performed near water or sewer drains.
-
-(t) Hoses and water lines must be turned to the closed position upon completion of use. Water lines must never be left running unattended or for extended periods of time.
-
-(u) Any person who engages in disorderly behavior as defined in 56 RCNY § 1-04(i) may, in addition to any other applicable penalties, be expelled immediately from the Marinas.
-
-(v) No person may offer or provide any form of tip, money, gift or any other gratuity to any City employee. No person may procure any services from Department staff except as specifically allowed under these rules. Violations of this provision will result in termination of any Permit and will bar the violator from any Department Marina for a minimum of 24 months. Objections to termination of a Permit or denial of Permit eligibility shall be available under subdivision n of 56 RCNY § 3-06.
-
-
-
-
-
-
-
-
-*§ 3-09 Docking of Vessels.* ::
-
-
-(a)  Vessels must be docked at slips designated by the dockmaster. Slips will be assigned using an appropriate ration of slip length, width, depth of water and strength of docks to a vessel's length, beam, draft and tonnage. If two vessels of equal characteristics are vying for the same slip, seniority will be the determining factor. Seniority is established by holding a valid permit and being in good standing for the longest period of time. Good standing means that all accounts with the Department are paid in full and dockage/moorage application and valid insurance and registration are on file. Slips may not be changed or exchanged without the prior written approval of the dockmaster. Inoperable vessels will not be assigned to slips that are designated by the Department for running vessels.
-
-(b) All vessels shall be adequately tied to the dock and shall have sufficient fenders and dock lines to secure the vessel in all wind and weather conditions. The dockmaster may require the replacement of dock lines which he or she finds to be inadequate or, where necessary, may in his or her discretion replace the dock lines and charge the cost to the permittee or owner of the vessel.
-
-(c) Vessels may be temporarily relocated within or outside the facility in an emergency or to accommodate construction work at the facility. When a vessel must be moved to accommodate construction work the dockmaster will give the permittee or owner 48 hours written notice to move the vessel. If the vessel is not moved within the required time the dockmaster may move the vessel or cause the vessel to be moved and charge all costs associated with moving or storage to the permittee or owner.
-
-(d) Vessels which are improperly secured in an unassigned slip or area may be towed to the assigned slip by the dockmaster or marina division staff, and the appropriate Labor Rate shall be charged to the owner of such vessel.
-
-
-
-
-
-
-*§ 3-10 Condition of Vessels.* ::
-
-
-(a) All Vessels in the Marinas and all equipment thereon must be maintained in good order and free of any hazard to persons, Vessels or facility structures. In addition, all Vessels docked at the Sheepshead Bay Piers or the World's Fair Marina must be seaworthy.
-
-(b) No structural modifications may be made to the superstructure of a Vessel docked at a Marina and/or permitted to use a Marina without the express written consent of the Dockmaster. Prior to any modification, the Department may require an evaluation from an experienced certified marine surveyor in good standing with a national recognized marine surveying society or association, or from a New York State licensed naval architectural engineer. Such evaluation shall be performed at the Permittee's expense and a detailed report of such evaluation shall be provided to the Department. No modifications shall be made which will in any way limit the movement of the Vessel, change the center of gravity to the extent that the Vessel is unseaworthy, restrict the navigation by removal of the helm station, inhibit the line of sight forward from the helm, increase the height of the Vessel or extend the Vessel over water beyond the existing hull, or increase the load beyond the manufacturer's hull design capacity.
-
-(c) The Dockmaster may refuse dockage of any Vessel that does not meet the above requirements.
-
-
-
-
-
-
-
-
-*§ 3-11 Operation of Vessels.* ::
-
-
-(a) All Vessels entering, leaving or moving within the Marinas must be operated under mechanical power, not sail, except in an emergency. All Vessels in the Marinas must be operated at speeds so as not to create a wake.
-
-(b) A Vessel that enters the World's Fair Marina or Boat Basin must be berthed or moored only where ordered and maneuvered as directed by Department staff.
-
-(c) Vessels entering the Marinas under emergency conditions must promptly be reported by their owners to Department staff.
-
-(d) A Permittee holding a seasonal dockage permit must notify the Dockmaster in writing prior to removing a Vessel from a Marina for more than 48 hours. To maximize access to the World's Fair Marina or Boat Basin, the Dockmaster may issue a transient dockage permit for the Permittee's assigned slip during such absence. A Permittee who fails to notify the Dockmaster of his or her scheduled return time or who returns before his or her scheduled return time may be required to remain outside the World's Fair Marina or Boat Basin until a vacant slip is available.
-
-(e) In the event of an emergency, including unsafe condition on a ship, mooring, or Vessel, the Department may order a Permittee to take specific remedial measures within a reasonable period of time, as determined by the Dockmaster. A Permittee who fails to take such measures within the specified time period shall be subject to the penalties set forth herein.
-
-
-
-
-
-
-
-
-*§ 3-12 Required Safety Equipment.* ::
-
-
-All vessels docked in the facility shall have on board at all times all equipment required by the Coast Guard, as well as for vessels longer than 25 feet:
-
-(a) Two 10-pound CO
-										2
-										 canister fire extinguishers or two dry chemical 20 pound ABC fire extinguishers approved for marine use and stored at opposite ends of the vessel.
-
-(b) No fewer than two operable automatic smoke alarms.
-
-
-
-
-
-
-*§ 3-13 Utilities.* ::
-
-
-(a) Vessels docked at the Marinas may only be supplied with electricity through the metered electrical hook up at its assigned slip. All electrical or utility connections must be free of defects. No person shall tamper or interfere with an electric meter. A Permittee must pay all metered charges for electricity. Electrical lines shall not be rigged or positioned so as to obstruct walkways or docks.
-
-(b) Electricity shall not be used for heating a Vessel. The Dockmaster may issue orders limiting or restricting the installation and use of appliances which he or she determines require quantities of electricity that may disrupt electrical service at the Marinas.
-
-(c) If the Department does not supply fresh water to Vessels docked at the Marinas, Permittees may fill on-board tanks from a water line at the head of the dock. Hoses shall not be rigged or positioned so as to obstruct walkways and docks, or to cause leakage or ice accumulation.
-
-
-
-
-
-
-
-
-*§ 3-14 Maintenance and Use of Docks.* ::
-
-
-(a) Except as hereinafter provided, personal property shall not be stored on piers, docks or walkways. Personal property may be stored by a Permittee in a dock box no larger than 30 cubic feet and no higher than 30 inches located on a fixed pier. At the World's Fair Marina, personal property may also be stored in dock boxes on floating docks if permission is granted by the Dockmaster. The name of the Permittee must be clearly posted on the dock box. The dock box must be positioned so as not to obstruct the walkway or impede access to the Vessels. The location of the dock box shall be subject to the approval of the Dockmaster. No dock boxes shall be permitted on floating piers at the Boat Basin.
-
-(b) Personal property left unattended on a pier in violation of this provision, including noncomplying dock boxes, shall be subject to removal by the Dockmaster. The Dockmaster shall give notice to the owner of the property prior to such removal if the identity of and an address for such person are reasonably ascertainable or to the Permittee of the Vessel docked in the slip adjacent to the place from which the property was removed. The cost of the removal and storage of such property shall be charged to the owner or Permittee and shall be payable prior to release of the property. Any personal property which is unclaimed after thirty days shall be deemed to be abandoned and shall be turned over to the police property clerk for disposal pursuant to law.
-
-(c) It shall be unlawful to construct, reconstruct, alter, add to, extend or physically alter in any manner any slip, dock or pilings without the prior written approval of the Dockmaster. Permittees may utilize boarding steps approved by the Dockmatser.
-
-(d) A Permittee must keep the dock adjacent to his or her Vessel, including the finger pier, free of refuse, rubbish and litter at all times.
-
-
-
-
-
-
-
-
-*§ 3-15 Sunken, Abandoned or Delinquent Vessels, Dinghies and Trailers; Trailer Storage.* ::
-
-
-(a) The Dockmaster may require that any Vessel which sinks be removed from a Marina until appropriate repairs are made. A sunken Vessel must be removed from the Marina within 48 hours after oral or written notice by the Dockmaster to remove the Vessel. Upon request of the Permittee or owner, the Dockmaster may in writing extend the time for removal of the Vessel. If the Vessel is not removed within the allowed time, the Dockmaster may remove the Vessel or cause it to be removed and may recover the cost of the removal and storage or disposal of the Vessel from the Permittee or owner of the Vessel. If the Dockmaster determines that a sunken Vessel is discharging pollutants into the water or causing any other kind of emergency, the Department may take action to stop the cause of pollution and may remove or cause the Vessel to be removed, without prior notice to the Permittee or owner of the Vessel, and recover all costs associated with the containment, removal and storage or disposal of the Vessel from the Permittee or owner of the Vessel.
-
-(b) If a Permittee or Vessel owner fails to pay for a Permit or the repair and service of a Vessel and equipment, the Department may detain the Vessel until such sum is paid. If such outstanding sum is not paid in full within 90 days, the Department may secure the Vessel with chains and/or locks, or cause the Vessel and equipment to be moved to a non-active slip or pier, be disposed of as abandoned property, or be sold at auction. The Permittee will be responsible for all costs related to storage, disposal, and sale of the Vessel and all outstanding obligations.
-
-(c) The World's Fair Marina will assess a fee for Vessels that remain in the World's Fair Marina boat yard after the published winter season or after work on such Vessel has been completed. This fee shall be determined by the daily transient dockage rate in effect at the World's Fair Marina at the time of yard storage.
-
-(d) Vessel trailers may be used for delivery and removal of owner's Vessel from the World's Fair Marina and/or storage of the Vessel at the World's Fair Marina during the winter season only. All trailers brought to the World's Fair Marina must be identified by the owner to Department staff. Empty trailers may not be stored at the World's Fair Marina and must be removed within 24 hours of launch of Vessel. The yard manager will coordinate with owners of Vessels that are to be hauled out and placed on trailer. Any empty trailer remaining at the World's Fair Marina for more than 24 hours will be disposed of as abandoned property, salvaged as scrap metal, or sold at auction. The Permittee will be responsible for all costs related to the removal, disposal and/or sale of the trailer.
-
-(e) The Department may designate a limited number of storage spaces for trailers belonging to World's Fair Marina Permittees. Such storage shall be offered via waitlist, first to customers receiving winter land storage and then to customers receiving winter water storage. The World's Fair Marina accepts no responsibility for the security or condition of trailers stored on World's Fair Marina property. Permittees must secure their own trailers with a lock. Trailers must have valid Department of Motor Vehicles registration and must be clearly labeled with Vessel registration number printed on the trailer to be considered for storage. The Department reserves the right to cancel this arrangement for operational or safety needs at any time.
-
-
-
-
-
-
-
-
-*§ 3-16 Dinghies, Kayaks and Canoes.* ::
-
-
-(a) (1) Any dinghy over 14 feet in length must be stored on the vessel with a valid permit from the Department. Any dinghy over 14 feet in length and stored in water will be considered a separate vessel and require an independent transient permit. Any dinghy 14 feet or less must be stored on the vessel or in a designated dinghy area as determined by the Department. Only one dinghy shall be permitted per vessel.
-
-   (2) All dinghies stored in the water or at dinghy docks must be identified with the registration number of corresponding vessel.
-
-   (3) Kayaks and canoes may either be stored on the vessel with a valid permit from the Department, or in the areas specifically designed by the Department for such storage.
-
-(b) Boat Launches: A Department permit is required to launch a vessel operated by a motor at a Department managed boat launch. The Department will set and post specific rules at each agency managed boat launch. Failure to comply with posted rules will result in loss of access to the launch.
-
-(c) Boating or use of a personal watercraft adjacent to any authorized bathing beach is prohibited. Use of personal watercraft is prohibited upon any waters under the jurisdiction of the Department, unless the Commissioner specifically authorizes use of personal watercraft in such area.
-
-
-
-
-
-
-*§ 3-17 Parking of Motor Vehicles.* ::
-
-
-(a) No person shall park at the Boat Basin Garage or the World's Fair Marina parking lot without a Parking Permit issued by the Department. The Department shall seek to accommodate year-round and seasonal Permittees first in providing parking at the facilities. At the Boat Basin, spaces will be assigned first to Permittees seeking year-round parking, followed by those seeking seasonal parking, then by Permittees who hold kayak permits. Non-Permittees shall be eligible for parking spaces on a month-to-month basis, subject to availability. If there are more Permittees than available spaces, the Department shall maintain a waiting list of the Permittees eligible for Parking Permits, which shall be available upon request. Parking Permits are issued to the person named on the permits and are valid only for the registered vehicle or vehicles identified on the permit. Parking Permits are not transferable. Any assignment or attempted assignment of a Garage Parking Permit shall result in the cancellation of such permit.
-
-(b) No person shall remain overnight in the Garage or parking lot or in a vehicle parked in the Garage or parking lot. The Department may remove or cause to be removed any vehicle which is parked in the Garage or parking lot without a current Parking Permit or without payment of all required fees. The cost of towing and storage of the vehicle shall be charged to the Permittee or owner of the vehicle and shall be payable prior to release of the vehicle. Any vehicle which is unclaimed after thirty days shall be deemed to be an abandoned vehicle and shall be disposed of, pursuant to the procedures set in § 1224 of the Vehicle and Traffic Law.
-
-
-
-
-
-
-
-
-*§ 3-18 Pets.* ::
-
-
-(a) It is a violation of these rules to keep an animal as a pet where the keeping of such animal is prohibited by the City Health Code or any other City, State or Federal law or rule.
-
-(b) The owner or other person in charge or control of a pet must without delay, remove, clean or clear all feces or vomit deposited by the pet from the walkways and docks.
-
-(c) The Dockmaster may order the removal of a pet from a Marina where the owner or other person in charge or control of the pet has failed or refused to prevent the pet from harassing or harming other persons, or has failed or refused repeatedly to remove, clear or clean feces or vomit deposited by the pet on the walkways or docks.
-
-(d) All pets must be kept on a leash, or in appropriate carrying cases or cages, when not confined aboard a Vessel.
-
-
-
-
-
-
-
-
-*§ 3-19 Orders.* ::
-
-
-In addition to the orders specifically referred to in these rules, the Department may issue any other orders which may be necessary or appropriate to enforce compliance with these rules or the rules set forth in chapters 1 and 2 of this title or to safeguard persons or property at the facility. It shall be a violation of these rules to fail or refuse to comply with such orders.
-
-
-
-
-
-
-*§ 3-20 Unlawful Use of Slip or Vessel.* ::
-
-
-No person shall permit or cause any slip or vessel or any portion thereof to be used or occupied for an illegal purpose.
-
-
-
-
-
-
-*§ 3-21 Liability.* ::
-
-
-(a) Permittee agrees to maintain current Vessel insurance, including hull and liability insurance, collision and fire, and extended coverage insurance. Insurance policies must name the City of New York as an additional insured. Each insurer shall waive subrogation. Each Permittee will be held responsible for damage he or she causes to other boats in the Marinas or to the structure of facilities thereof. The Department assumes no responsibility for Permittee's boat or equipment.
-
-(b) Permittee acknowledges that the Department makes no representation regarding the adequacy of water levels for egress and ingress. The Department is not responsible for damages resulting directly or indirectly from low water levels.
-
-(c) The Department assumes no responsibility for the safety of any Vessel at the Marinas and shall not be responsible for loss or damage or injury to persons or property due to wind, waves, theft, collision, chafing, vandalism, fire, low water levels, or any other cause except for the negligence of Department employees acting in the performance of their duties. The Department shall not be liable for any damage to the Vessel occurring before, during, or after a severe storm, hurricane, or other emergency, for services performed, or for the failure to provide services. Permittee must pay for all services performed, and for all goods or materials used in all work performed, in a reasonable effort to protect and safeguard the Vessel, regardless of the success of such efforts.
-
-(d) Permittee waives all claims against the City, its agents and employees for any damage to a Vessel and its contents arising out of the removal, relocation, storage and/or disposal of a Vessel by the Department pursuant to 56 RCNY §§ 3-06(o), 3-09(c) and 3-15, except for gross negligence or willful misconduct by the Department. In accordance with such rules, Permittee shall be responsible for all costs incurred by the Department associated with such removal, relocating, storage and/or disposal.
-
-(e) Permits are for dockage or moorage only, and no injury, loss or damage to the Permittee's Vessel, Permittee, members of his or her family, guests, employees or agents is assumed by the Department, nor will the Department be held liable for any loss or damage caused by weather, acts of God, or other incidents beyond the control of the Department.
-
-(f) Unless the Department receives a specific written work order to do so and suitable charge is applied and paid for, the Department does not guarantee inspection of any vessel or equipment during any storage period and is not responsible for any damage an inspection may have prevented.
-
-(g) The Department and its staff assumes no responsibility for delays in hauling, repairing, cleaning or launching of Vessels at the Marinas.
-
-
-
-
-
-
-
-
-*§ 3-22 Commercial Permits.* ::
-
-
-(a) Commercial Permits may be issued at the World's Fair Marina, Boat Basin, and Dyckman Marina to operators of commercial Vessels upon terms to be determined by the Department. The Dockmaster is authorized to exempt holders of these Commercial Permits from certain rules set forth in this 56 RCNY Chapter 3. Vessels docked under non-commercial permits may not engage in commercial activity without the express written approval of the Department. This approval must be attained on an annual basis. Complete commercial plans must be provided to the Department and no advertising may take place at the World's Fair Marina, Boat Basin, and Dyckman Marina. The Department may refuse such permission or terminate any authorization previously granted if it determines that such use may interfere with the public use or the operation of the facility or will not be in the best interest of the City. Approval will not be granted unless the Permittee presents a valid United States Coast Guard Captain's license and evidence of insurance coverage for liability and property damage, which must be deemed sufficient by the Dockmaster.
-
-(b) Commercial trips with 6 passengers or less must pay the commercial pickup fee (6 passengers or less) for each trip in addition to regular dockage.
-
-(c) Vessels planning commercial trips involving more than 6 passengers must obtain a Commercial Permit and may not operate under a non-commercial permit.
-
-
-
-
-
-
-
-
-*§ 3-23 Fees.* ::
-
-
-(a) Permit fees are strictly in accordance with published schedules. Vessel length shall include all bowsprits, outboard brackets, swim platforms, pulpits, anchors, davit overhangs, and related. Permit fees at the World's Fair Marina and 79th Street Boat Basin must be paid in advance to cover the full boating season. Yearly dockage at the Sheepshead Bay Piers shall be billed in 12 monthly installments with dockage paid in advance of each month. All services must be paid in advance except for electric and emergency repairs. No refunds shall be made in any instance.
-
-(b) Charges for all services, which will be sent in writing to the address of the owner on file, must be paid within 15 days of receipt of billing or a 2% late fee will be assessed each month. If the Permittee fails to pay for the rental of space or the repair and service of their boat and equipment, the agency may detain the boat until such sum is paid. If the outstanding sum is not paid in full within 90 days, the Department may move the boat and equipment to a non-active slip or pier, disposed of it as abandoned property, or sell it at auction. The Permittee will be responsible for all costs related to storage of the boat, disposal, and all outstanding charges.
-
-(c) No cash will be accepted for transactions. All financial transactions must take place in a Department office. No financial transaction may take place aboard a private boat.
-
-(d) Depending on available space, summer seasonal customers at the World's Fair Marina, Boat Basin, and Dyckman Marina may be allowed to arrive prior to May 1 and/or depart after October 31. In such instances, a half-month pro-rate, based on the associated six-month summer permit, will be applied from April 15 to April 30 and/or from November 1 to November 15. Any seasonal Permittee arriving prior to April 15 and/or departing after November 15 will be billed the daily transient rate for the period of time at the relevant Marina prior to April 15 and/or after November 15. Extensions are solely at the discretion of the Department.
-
-(e) Depending on available space, winter seasonal customers at the World's Fair Marina and Dyckman Marina may be allowed to arrive prior to November 1 and/or depart after April 30. In such instances, a half-month pro-rate, based on the associated six-month winter permit, will be applied from October 15 to October 31 and/or from May 1 to May 15. Any winter Permittees arriving prior to October 15 and/or departing after May 15 will be billed the daily transient rate for the period of time at the World's Fair Marina and Dyckman Marina, prior to October 15 and/or after May 15. Extensions are solely at the discretion of the the Department.
-
-(f) Pro-rated monthly dockage, moorage or storage services of three months or more may be authorized by the Department. All requests for pro-rated services are subject to Department approval. Pro-rated rates will not be applied for any services with a waiting list.
-
-(e)*   The Department may, at its sole discretion, retain a Vessel from being removed or released from the Marinas where there is an outstanding fee or fees owed to the Department associated with Vessel storage, labor, and/or other services. Such notice of non-release will be provided in writing to the Permittee.
-
-*Editor's note: As lettered in the original rule.
-
-(f)*   In addition to any penalties provided for in the chapter, violations of these rules shall be punishable as provided in 56 RCNY § 1-07.
-
-*Editor's note: As lettered in the original rule.
-
-(g) West 79th Street Boat Basin
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Seasonal Dockage
-      - Summer(May 1 to October 31)
-      - $120/linear foot or $3,000, whichever shall be greater
-    * -  
-      - Winter(November 1 to April 30) – Current Winter Permittees only
-      - $105/linear foot or $2,625, whichever shall be greater
-    * - Transient Dockage(Non-commercial boats only)
-      -  
-      - $3.50/linear foot per day for up to 14 days$42.00/linear foot for stays of 15 to 29 days$75.00/linear foot for stays over 29 days
-    * - Passenger Pickup/Drop off(Non-commercial boats only)
-      - 40 feet or less41 feet or more
-      - $25$40
-    * - Dinghy Landing OnlyNon-permit holders, non-transient dockage
-      - 14 feet or less
-      - $26/day
-    * - Dock &amp; Dine(4 hour maximum)
-      -  
-      - $1.25/linear foot
-    * - Commercial Landing Fee
-      - 30 minutes for loading and30 minutes for unloading maximum
-      - $4/linear foot
-    * - Commercial Pickup(Non-commercial boats only)
-      - 6 passengers or less
-      - $32/trip
-    * - Mooring
-      - DailyWeeklyEntire Season (May 1 to Oct 31)
-      - $30$180$1,550
-    * - Electricity
-      - For permit holders only
-      - Billed monthly based on rate paid by Department 
-    * - Transient Electricity
-      - 30 amp50 amp100 amp
-      - $10/day$20/day$35/day
-    * - Labor Rate
-      -  
-      - $75/hour
-    * - Sanitation Waste System Pump Out
-      - Commercial Vessels only
-      - $80 plus labor
-    * - Water Pump Out
-      - Per pump provided
-      - $65 plus labor
-    * - Towing Outside Marina
-      - Non commercial boats only
-      - $150/hour
-    * - Kayak/Canoe Storage
-      - Yearly, per Vessel(May 1 to April 30)
-      - $350
-    * - Team Canoe Storage
-      - Summer only, competition canoes, per Vessel
-      - $750
-    * - Dinghy/Motor Storage(November 1 to April 30 only)
-      - No auxiliary fuel tanks allowed
-      - $175/winter
-    * - Key Deposit or Replacement
-      -  
-      - $10
-    * - Slip Dockage Waiting List
-      - Application
-      - $75
-    * - Parking Pass
-      - Daily
-      - $10
-    * - Parking
-      - Rotunda parking garage; permit holders only
-      - $275/month
-~
-
- 
-
-(h) World's Fair Marina
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Summer Dockage
-      - 20 feet or less21 to 26 feet27 to 35 feet36 to 45 feet46 to 65 feet66 feet or greater
-      - $1,325$70/linear foot$73/linear foot$78/linear foot$95/linear foot$118/linear foot
-    * - Commercial Charter Boat
-      - May 1 to October 31November 1 to April 30
-      - $135/linear foot$52/linear foot
-    * - Winter StorageWater storage available
-      - WaterLand 
-      - $35/linear foot or $700, whichever shall be greater$50/linear foot or $1,000, whichever shall be greater
-    * - Transient Dockage
-      - Non-commercial boats only
-      - $2/linear foot/day (24 hours)
-    * -  
-      - Sporting events/concerts in the park(event duration only)/dock &amp; dine
-      - $1/linear foot
-    * -  
-      - Commercial Vessels(does not include passenger loading/unloading fee)
-      - $2.50/linear foot/day (24 hours)
-    * - Passenger Pickup/Drop off(Non-commercial boats only)
-      - 40 feet or less41 feet or more
-      - $20$30
-    * - Dinghy Landing Only(Non-permit holders, non-transient dockage)
-      - 14 feet or less
-      - $22/day
-    * - Commercial Landing Fee
-      - 30 minutes for loading and 30 minutes for unloading maximum
-      - $3/linear foot
-    * - Commercial Pickup(Non-commercial boats only)
-      - 6 passengers or less
-      - $28/trip
-    * - Electricity
-      - For permit holders only
-      - Billed monthly based on rate paid by Department.
-    * - Transient Electricity
-      - 30 amp50 amp100 amp
-      - $7/day$12/day$40/day
-    * - Team Canoe Storage
-      - SummerWinter
-      - $500/boat$250/boat
-    * - Hydrohoist Wet Storage(No Vessel)
-      - Winter
-      - $500
-    * - Vessel or Dinghy Trailer Storage(Limited space via waitlist, winter Permittees only)
-      - Summer
-      - $400
-    * - Key Deposit or Replacement
-      -  
-      - $10
-~
-
- 
-
-WORLD'S FAIR LABOR RATES
-
-A fifty percent deposit must be pre-paid for any work order estimated by the Dockmaster or yard manager to be greater than $400. In addition, the following fees must be paid in full in advance of services being rendered: Haul Out, Launch, Move One Way, Block, Load on Trailer, Pressure Wash Bottom, Step or Unstep Mast. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Labor Rate
-      -  
-      - $75/hour 
-    * - Parts (Parts sold over-the-counter in the marina must be paid for in full prior to receipt)
-      - Boat repair, maintenance
-      - Sold at Manufacturer Suggested Retail Price (MSRP)
-    * - Sanitation System Pump Out
-      - Commercial Vessels only
-      - $80 plus labor
-    * - Water Pump Out
-      - Per pump provided
-      - $45 plus labor
-    * - Crane Service
-      -  
-      - $100/hour
-    * - Travel Lift
-      -  
-      - $100/hour
-    * - Forklift
-      -  
-      - $90/hour
-    * - Haul Out
-      -  
-      - $2.50/linear foot
-    * - Launch
-      - Using travel lift
-      - $2.50/linear foot
-    * - Move One Way
-      -  
-      - $2.50/linear foot
-    * - Block
-      -  
-      - $2.50/linear foot
-    * - Load On Trailer
-      - Using travel lift
-      - $2.50/linear foot
-    * - Pressure Wash Bottom
-      -  
-      - $2.50/linear foot
-    * - Step or Unstep Mast
-      -  
-      - $5/linear foot
-    * - Towing Inside Marina
-      -  
-      - $75.00/hour
-    * - Towing Outside Marina
-      -  
-      - $150.00/hour
-    * - Bottom Painting
-      - 30 feet or less31 feet or more
-      - $13.75/linear foot$14.75/linear foot
-~
-
- 
-
-(i) Sheepshead Bay Piers
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Yearly Dockage
-      -  
-      - $125.00/linear foot
-    * - Transient Dockage
-      - Non-commercial boats onlyUp to 24 hours
-      - $2 /linear foot/day
-    * - Commercial Vessels
-      - Loading and Unloading
-      - $3/foot/30 minutes loading and unloading maximum$3/foot/hour beyond 30 minutesloading/unloading 
-    * - Dock &amp; Dine
-      - Non-commercial Vessels onlyUp to 4 hours
-      - $1/linear foot 
-~
-
-
-
- 
-
-(j) Dyckman Marina. Dyckman Marina does not operate a launch service. Vessels on moorings or at anchor must have a motorized dinghy to come ashore. Dinghy landing is available at no additional charge.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Summer Dockage
-      - May 1 to October 31
-      - $170 per linear foot or $4,250, whichever is greater
-    * - Winter Storage(storage on customer-owned trailer)
-      - November 1 to April 30
-      - $140 per linear foot or $3,500, whichever is greater
-    * - Transient Dockage
-      - Up to 14 days15 - 29 days30 days
-      - $4.50 per linear foot per day$60 per linear foot$100 per linear foot
-    * - Moorage
-      - May 1 to October 31
-      - $2,000
-    * - Transient Moorage
-      -  
-      - $40 per day$240 per week
-    * - Anchorage
-      -  
-      - $35 per day
-    * - Dock &amp; Dine
-      - 4 hour maximum
-      - $3 per linear foot
-    * - Touch &amp; Go
-      -  
-      - $1.25 per linear foot
-    * - Commercial Pick-Up/Drop-Off(includes inspected and uninspected Vessel charters)
-      -  
-      - $7 per linear foot
-    * - Boat Launch (self-launch)
-      -  
-      - $20
-    * - Trailer Parking
-      -  
-      - $40 per day
-    * - Trailer Storage
-      - May 1 to October 31
-      - $2,000
-    * - Electricity(permit holders only)
-      -  
-      - $0.30 per kWh
-    * - Transient Electricity
-      -  
-      - $10 per day for 30 amp$20 per day for 50 amp$35 per day for 100 amp
-    * - Dinghy Storage
-      - November 1 to April 30
-      - $425
-    * - Kayak/Canoe/SUP Storage
-      - May 1 to April 30
-      - $500 per Vessel per year
-    * - Labor Rate
-      -  
-      - $95 per hour
-~
-
- 
-
-
-
-
-
-
-
-
-*§ 3-25 Special Events and Filming.* ::
-
-
-Special events and filming at the marina, piers, and boat basin must be pre-approved by the marina manager or marina administrator, and will be considered on a case-by-case basis. Those wishing to host an event or film at the marina, piers, or boat basin must adhere to the terms and fees set forth by the Department's Special Events office. Hourly labor rate shall apply for any services required of marina staff. Associated permits from the Mayor's Office of Film, Theatre and Broadcasting may be required.
-
-
-
-
 Chapter 2: Permits and Fee Schedules
 --------------------------------------------------
 
@@ -3288,119 +2451,839 @@ The Department will place automated external defibrillators in the following loc
 
 
 
-Chapter 5: Rules Governing Tree Replacement
+Chapter 3: Rules Governing the West 79th Street Boat Basin, the Sheepshead Bay Piers and the World's Fair Marina
 --------------------------------------------------
 
 
 
-*§ 5-01 Removal of Trees.* ::
+*§ 3-01 Application.* ::
 
 
-(a) Any person who intends to remove any tree under the jurisdiction of the Department shall apply for and obtain a permit under this chapter prior to such removal.
-
-(b) If the Department approves a removal request for a tree, issuance of a permit under this chapter shall require the applicant to pay a fee to the Department sufficient to cover the cost of replacing any tree proposed to be removed as set forth in this chapter, unless otherwise permitted by law. The applicant shall indicate in writing whether they intend to plant the required number of replacement trees, as directed by the Department, or requests that the Department plant such replacement trees at applicant's cost.
-
-(c) In addition to all other legal remedies, the Department shall seek damages, as applicable, as determined under 56 RCNY § 5-02(d)-(f), from any person who violates 56 RCNY § 1-04(b)(1)(i).
+These rules apply to the permissible use of the marinas operated by the Department, including but not limited to the West 79th Street Boat Basin which is located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan; the Sheepshead Bay Piers adjacent to Emmons Avenue in Brooklyn; the World's Fair Marina in Flushing Bay in Flushing Meadows Corona Park, Queens, provided they are not covered by a concession agreement with the Department. These special rules supplement the general rules which govern the use of City parkland set forth in chapters one and two of this title. To the extent that they are not inconsistent herewith, the rules set forth in chapters one and two of this title apply to the use of the Department's Marinas.
 
 
 
 
 
 
-*§ 5-02 Determination of Replacement Trees.* ::
 
 
-(a) Determination of replacement trees. The number of trees needed to replace each tree approved for removal shall be determined by calculating the size, condition, species and location rating of the tree proposed for removal. If a removal permit is approved by the Commissioner, the Department, no later than ninety (90) days following the filing of a completed application for a permit, shall inform the applicant, based on the factors herein, the number and size of replacement trees to be planted and the period of time during which the replacement trees shall be planted and the fee for such replacements. In order to determine the applicable rating for any tree approved for removal the Department horticultural officer shall take into consideration the following:
+*§ 3-02 Definitions.* ::
 
-   (1) Size. The size rating of a tree shall be determined by measuring the diameter of the tree at breast height (four and one half (4 1/2) feet above the ground) and then calculating the cross sectional area of the trunk in square inches.
 
-   (2) Condition. The condition rating of a tree shall be based on the following factors:
+Boat Basin. "Boat Basin" means the West 79th Street Boat Basin located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan.
 
-      a. The structure and health of its roots;
+Boat Launch. "Boat Launch" means any location designated by the Commissioner for the launching of Vessels of any kind via the use of an automobile or other motorized vehicle down a fixed ramp.
 
-      b. The structure and health of its trunk;
+Chief Dockmaster. "Chief Dockmaster" means the person appointed by the Commissioner that is responsible for the overall administration of the Marinas and enforcement of Department policies and rules.
 
-      c. The structure and health of its branches;
+Commercial Permit. "Commercial Permit" means a permit to store, dock or launch a Vessel used for commercial operations.
 
-      d. The health of its small branches and twigs; and
+Commissioner. "Commissioner" means the Commissioner of the Department of Parks and Recreation or the chief executive officer of any successor agency.
 
-      e. The health of its foliage and/or buds. However, if the Department determines, after consulting with the applicant, that a tree requested for removal is dead or seriously diseased, or otherwise represents a hazard to public safety, such tree will not result in any required replacement trees unless the hazard was caused by actions of the applicant.
+Department. "Department" refers to the Department of Parks and Recreation of the City of New York or any successor agency.
 
-   (3) Species. The species rating of a tree shall be based on the magnitude and longevity of the services and benefits the species provides in the City. Magnitude and longevity are established by tree stature at maturity (i.e., mature height), and expected tree lifespan.
+Dinghy. "Dinghy" means a Vessel with a total length of fourteen feet or less.
 
-   (4) Location. The location factor of a tree shall be determined by considering how well the site supports the tree's biological, physical and chemical needs; and a tree's placement in the landscape with respect to both the tree's positioning within and its relationship to its surroundings.
+Dockmaster. "Dockmaster" refers to the person who administers, manages or maintains the Marinas at the direction of the Supervisory Dockmaster or Chief Dockmaster.
 
-      a. The rating of the site where a tree is growing is established by considering the following:
+Dyckman Marina. "Dyckman Marina" refers to the Dyckman Marina on the east bank of the Hudson River at Dyckman Street
 
-         i. whether the site is in a park or landscaped area with ample belowground and overhead growing space;
+Emergency. "Emergency" means any situation which the Dockmaster determines threatens imminent personal injury, property damage or environmental damage.
 
-         ii. whether the site is in the street but there is enough above and below ground space to support the tree;
+Garage. "Garage" means the underground parking garage at the rotunda in the Boat Basin.
 
-         iii. whether the species of tree is tolerant of the site's difficult growing conditions, if any;
+Guest. "Guest" means a person who enters the Marinas at the invitation of a Permittee to board the Permittee's Vessel.
 
-         iv. whether the site is physically limiting to the tree, but the tree's stature and root system are appropriate for current adjacent infrastructure (e.g., small stature under utility wires or next to a building or retaining wall);
+Houseboat. "Houseboat" means any Vessel which has been designed primarily for use as a dwelling place as opposed to active recreational use, including but not limited to boats unable to operate in open water when subject to moderate winds and strong currents and boats designed with a rectangular main deck and full or square-shaped underwater hull as opposed to the tapered bow of a conventional recreational Vessel.
 
-         v. whether the tree is negatively impacted by existing site infrastructure;
+Marina. "Marina" means the World's Fair Marina, Sheepshead Bay Piers, West 79th Street Boat Basin, and any other marina operated by the Department.
 
-         vi. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally sound species;
+Parking Permit. "Parking Permit" means a dated written permission to park at the World's Fair Marina parking lot or Boat Basin Garage.
 
-         vii. whether physical space limitations at the site will challenge the success of the tree over time;
+Permit. "Permit" means a permit to store, dock, moor or launch a Vessel at the Marinas. Such term includes, but is not limited to, seasonal dockage permits issued for the 6 month summer season or 12 month terms, transient dockage permits issued on a daily basis, permits to launch kayaks or canoes at the Marinas, permits for commercial Vessel operations and special permits for educational research events and special events, including filming. Such term does not include Parking Permits.
 
-         viii. whether the species of tree is only moderately tolerant of the site's difficult growing conditions, if any;
+Permittee. "Permittee" means the person whose name appears on a permit.
 
-         ix. whether the tree's stature or root system is inappropriate for adjacent current site infrastructure (e.g., large tree under utility wires or too close to a building foundation or bridge parapet); and
+Permittee Family. "Permittee Family" means the members of a Permittee's immediate family, which is restricted to husband, wife, son, daughter or domestic partner, listed on the front page of the Permit application. Permittee family members are not designated as guests and do not have any interest in the permit, except for spouses or domestic partners who jointly hold permits.
 
-         x. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally weak species.
+Personal Watercraft. "Personal Watercraft" or "PWC" or "Jet Ski" means any small power-driven Vessel where by design the operator and passengers stand or sit astride the watercraft as opposed to sitting within the hull of a conventional boat. Personal Watercraft traditionally are gasoline-powered and can be propeller-driven or propelled by water jet.
 
-      b. The rating for a tree's placement in its surrounding landscape is determined by considering the following:
+Sheepshead Bay Piers. "Sheepshead Bay Piers" means the piers located on the northern side of Sheepshead Bay, adjacent to Emmons Avenue in Brooklyn.
 
-         i. whether the tree is a native species in or adjacent to a natural area or large park;
+Supervisory Dockmaster. "Supervisory Dockmaster" means the individual responsible for the administration of the marina division facilities and enforcement of Department policies and rules under the direction of the Chief Dockmaster.
 
-         ii. whether the tree is a historic specimen or part of a grove, or is an original planting in a historic landscape;
+Vessel. "Vessel" means a floating craft of any kind, including but not limited to a boat, sailboat, motorboat, dinghies, canoe and kayak.
 
-         iii. whether the tree is the only, or one of a few, in the area;
+Waiting list. "Waiting list" means a list maintained by the Department of persons interested in obtaining seasonal dockage permits and mooring permits at the Boat Basin. This list is the sole method of obtaining a dockage or mooring permit at the Boat Basin.
 
-         iv. whether the tree is extremely complimentary to or prominent within an adjacent view, land use, structure or natural landscape element;
-
-         v. whether the tree is one of a group of plantings and its individual loss would have minimal visual or environmental impact on the entire group of plantings;
-
-         vi. whether the tree is very important within a group of other plantings, such as an allée or along an even-aged block, and its loss would be of high impact to that planting group; and
-
-         vii. whether the tree provides exceptional services based on its location (e.g., shade in a playground or sitting area, property value in front of a building, stormwater absorption in or near a wetland).
-
-   (5) a. Number of Replacement Trees. Based on the factors established in 56 RCNY § 5-02(a)(1) - (4), the Department will determine the required number of replacement trees.
-
-      b. In no case shall the number of replacement trees equal less than one caliper inch of replacement tree for each caliper inch of tree removed.
-
-   (6) Calculation of Fee for a Tree Removal Permit. The Department will determine the total fee for a tree removal permit pursuant to 56 RCNY § 5-01(a) by multiplying the number of required replacement trees by the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree as derived from all Department planting contracts for the City fiscal year preceding the date of the permit application.
-
-   (7) The timing for planting replacement trees shall be determined by the Department's horticultural officer and stated within the permit unless otherwise permitted by law. However, each replacement tree under such a permit shall be planted no later than sixty (60) days after the project for which the tree removal was requested has been completed, or in the next ensuing spring or fall season after such project is completed or earlier as agreed by the applicant and the Department.
-
-   (8) Size of Replacement Trees. All replacement trees will be three (3) inch caliper, unless otherwise authorized by the Department.
-
-(b) Payment to the Department.
-
-   (1) If a person granted a permit pursuant to 56 RCNY § 5-01(a) requests that the Department plant any required replacement trees, such person shall pay the required fee to the Department prior to the issuance of any such permit unless otherwise permitted by law.
-
-   (2) If a person granted a permit pursuant to 56 RCNY § 5-01(a) and subject to paragraph one of this subdivision intends to plant any required replacement trees, such person shall notify the Department in advance and pay the required fee to the Department prior to the issuance of any such permit. If the required replacement tree(s) are planted by the permittee as directed by the Department, the Department shall return any such fee within sixty (60) days of confirmation by the Department that such trees were properly planted by permittee. If any such tree(s) is not replanted as directed by the Department by the time specified within the permit, the Department shall retain such fee for the purpose of planting said replacement trees.
-
-(c) Irreparable Tree Damage. If a tree is damaged beyond recovery or if it is damaged so that it poses a safety risk, as determined by the Department, it shall be removed, including its stump, at the permittee's expense if a permit is in effect pursuant to 56 RCNY § 5-01(a), or at the expense of the person responsible for such damage if no permit is in effect. In such instances, the tree shall be evaluated for replacement purposes pursuant to 56 RCNY § 5-02(a) based on its condition prior to suffering irreparable damage.
-
-(d) Destruction and Tree Removal. If a tree is destroyed and removed without a permit pursuant to 56 RCNY § 5-01(a), there shall be a rebuttable presumption that such tree was in perfect condition prior to such removal. In this instance the tree shall be evaluated pursuant to 56 RCNY § 5-02(a) for all other factors. However, the size of the removed tree shall be determined either by the diameter of the remaining stump or from existing Department records. The cost of the total number of replacement trees to be planted shall equal the appraised value of the destroyed or removed tree.
-
-(e) Injured Trees. If a tree is damaged or injured, but not destroyed or removed, a Department horticultural officer will make the following two (2) appraisals using the method established in 56 RCNY § 5-02(a) in order to determine the value of the damaged or injured tree. The first appraisal shall account for the tree's condition prior to damage or injury. The second appraisal shall account for the tree's condition after damage or injury, with all other factors being equal. The difference between the two appraisals shall equal the replacement value caused by the injury and the sum for which the permit holder or person responsible for the injury is responsible.
-
-(f) The location of replacement trees shall be determined by the Department's horticultural officer unless otherwise permitted by law. To the extent practicable, replacement trees shall be planted within the same community district from which the tree(s) that were the subject of the permit were removed. Where the horticultural officer determines that it is not feasible to plant the total number of replacement trees at the subject location, the person granted the permit under 56 RCNY § 5-01(a) shall be required to plant the remaining replacement trees at locations capable of accommodating such planting, either as close as possible to the property from which the original trees were removed, destroyed or severely damaged, or as the horticultural officer deems feasible. The person granted the permit under 56 RCNY § 5-01(a) may propose in writing to the horticultural officer alternate locations, so that provision may be made for the planting of all required replacement trees. Where the horticultural officer determines that a proposed alternate location or the number of replacement trees proposed to be planted at an alternate location is not feasible, the horticultural officer may select other locations to accommodate the planting of all required replacement trees.
+World's Fair Marina. "World's Fair Marina" means the World's Fair Marina in Flushing Bay, located in Flushing Meadows Corona Park, Queens.
 
 
 
 
 
 
-*§ 5-03 Tree Planting in Lieu of Obligations under the Zoning Requirements.* ::
 
 
-If a person or entity is required under Zoning Resolution Article 2, Chapter 6, Section 41 to plant street trees, but pursuant to the Zoning Resolution such person or entity is required or opts to have the Department plant such trees on such person or entity's behalf, then the person or entity must deposit the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree based on Department planting contracts for the preceding City fiscal year, in an account of the City as directed by the Department, unless otherwise permitted by law.
+*§ 3-03 Access.* ::
+
+
+(a)  The Marinas are open to Permittees, Permittee Family, Guests, contractors and other persons who have obtained the permission of the Department to enter. All private contractors must be properly licensed and insured, proof of which shall be registered with the Department. In addition, the Department shall establish and post regular hours during which the public shall have access to specified portions of the World's Fair Marina and Boat Basin.
+
+(b) Keys are issued to the World's Fair Marina and Boat Basin piers each year for Permittees. To receive a key, Permittees must have paid for the full seasonal dockage or mooring and have no other outstanding charges, and must sign an agreement regarding the Department's key policy. Permittees must also have completed a dockage or mooring permit application and provided all required Vessel insurance and registration as required by 56 RCNY § 3-06(d) and (q).
+
+
+
+
+
+
+
+
+*§ 3-04 Guests.* ::
+
+
+Access to the the Marinas by Guests is subject to the following conditions:
+
+(a) All Guests and Permittee Family must comply with these rules. Anyone who fails to comply with such rules may be expelled from the Marinas. Anyone who repeatedly fails to comply with the rules may be permanently barred from the Marinas. Permittees are responsible for the conduct of their guests and family members. Violations of these rules by Guests and/or Permittee Family can be grounds for termination of the Permittee's Permit in accordance with 56 RCNY § 3-06(g).
+
+(b) In the interest of safety, the Dockmaster may limit the number of occupants on a Vessel. In no cases shall the number of persons on board a Vessel exceed the manufacturer's builders plate.
+
+(c) A Permittee must notify the Dockmaster in writing of any person who will be boarding his or her Vessel when the Permittee is not in the relevant Marina.
+
+(d) If a Permittee intends to have a Guest remain overnight on his or her Vessel while the Permittee is not on board, a pass must be obtained from the Dockmaster. Guests may not stay overnight on a Vessel when the Permittee is not on board without a pass from the Dockmaster. The Dockmaster may refuse or terminate the pass if he or she has reason to believe there has been a transfer of the right to occupy the Vessel by the Permittee to the Guest. This pass may be issued for up to one month. No Guest may remain in the World's Fair Marina or Boat Basin for longer than one month while the Permittee is absent, although the Dockmaster has discretion to extend this limit for good cause.
+
+
+
+
+
+
+
+
+*§ 3-05 Inspections.* ::
+
+
+All Vessels in the Marinas may be boarded by authorized officers and employees of the Department or other City, State and federal agencies if necessary to respond to an emergency or urgent health or safety hazard, as part of the general health or safety inspection or as otherwise permitted by applicable law. It shall be a violation of these rules for a Permittee to refuse to allow, prevent or interfere with such boarding.
+
+
+
+
+
+
+
+
+*§ 3-06 Permits.* ::
+
+
+(a) No person shall dock, store or launch a Vessel at a Marina without an appropriate Permit from the Department and without payment of all required fees.
+
+(b) All payments must be in the form of money order, credit card, or check in a form acceptable to the Department.
+
+(c) All recreational Vessels must be personally owned and such ownership reflected on registration or U.S. Coast Guard documentation. Permits for recreational Vessels shall be issued to a natural person and not to a business or corporate entity.
+
+(d) For security and emergency purposes, Permittees must provide State or federal issued photo identification to the Department for photocopying and retention in the customer folder.
+
+(e) A Permit shall not be issued for a Vessel that is unsafe or likely to cause injury to people or damage to property as determined by the Dockmaster.
+
+(f) (1) Dockage permits shall only be issued for Vessels that the Chief Dockmaster determines are capable of operating in open water. All Vessels (transient, seasonal, mooring or year round) must be and remain in safe operational condition. Any existing Permittee with an operational and seaworthy Vessel must continuously maintain an operational and seaworthy Vessel. All Vessels brought to any Department Marina must be seaworthy and must meet operational requirements to the original manufacturer's specifications. The Chief Dockmaster shall require a demonstration of a Vessel's seaworthiness and compliance with the manufacturer's specifications, and shall require that any modifications to the Vessel be approved by a certified naval architect to ensure compliance with original manufacturers' specifications. Before issuing a Permit and otherwise upon reasonable notice, the Chief Dockmaster may inspect a Vessel and/or require a demonstration of the Vessel's operational capability in open water.
+
+   (2) For the Boat Basin only, the Department may offer up to 52 winter season permits at any time (less any existing winter permits) first, to existing summer season permit holders in seniority order and second, to individuals on the Waiting List in list order, creating 12 month or year-round dockage permits. The location of winter season slips will be determined by the Chief Dockmaster and allocated by seniority order. However, the Chief Dockmaster may change the location and/or number of these slips as necessary to ensure the safety of Vessels and the Boat Basin.
+
+   (3) Except for Vessels permitted to dock at the Boat Basin prior to November 1, 2010, no permit, summer or winter, shall be issued to a Houseboat.
+
+(g) Dockage permits shall not be issued unless the applicant presents evidence of hull and liability insurance, either New York State registration or documentation by the U.S. Coast Guard and successful completion of a U.S. Coast Guard boating safety course or sufficient nautical experience as determined by the Dockmaster. In addition, the Vessel for which the Permit is to be issued must be well maintained and seaworthy.
+
+(h) A Permit shall be issued to the named Permittee for a particular Vessel and is not transferable. A Permit can be held jointly by spouses or domestic partners. If a Permittee replaces a Vessel, the Dockmaster may only approve the new Vessel after a suitable slip has been found before it may be docked pursuant to the permit. The Dockmaster shall reject a replacement Vessel that is not capable of operating in open water, not properly insured or which is neither New York State registered nor documented by the U.S. Coast Guard. The Dockmaster may inspect and/or require a demonstration of the replacement Vessel's operational capability in open water.
+
+(i) All completed Permit applications must be submitted to the Department. All outstanding fees, charges, fines or civil penalties must be paid before a renewal application will be considered.
+
+(j) The Supervisory Dockmaster may revoke, terminate or refuse to renew any Permit issued pursuant to this section:
+
+   (1) where the Permittee or applicant for the renewal has been found liable in a proceeding before the Office of Administrative Trials and Hearings (OATH) or in a court of three or more violations of these rules set forth in 56 RCNY Chapters 1 and 2;
+
+   (2) where the applicant for renewal or Permittee has failed to pay any outstanding fees, charges, fines or civil penalties within 15 days of the date of mailing of a written notice of such outstanding amount;
+
+   (3) where the Permittee or applicant for renewal has been found liable in a proceeding before the OATH or in a court of engaging in disorderly behavior as defined in 56 RCNY § 1-04(l); or
+
+   (4) as provided in subdivision o of this section, in accordance with the needs or requirements of the Department or the interests of the City as determined by the supervisory Dockmaster.
+
+(k) Reserved.
+
+(l) The Supervisory Dockmaster shall mail or hand deliver notice of the intention to revoke, refuse to renew or terminate a Permit and the reasons therefor. If a mailing address is unknown or mail is returned undelivered, such notice may, in lieu of mailing or hand delivery, be posted in a conspicuous place on the Vessel.
+
+(m) (1) If a permit is revoked or terminated or a renewal is refused, a Permittee or applicant for renewal may file written objections with the Chief Dockmaster within 10 days from the date of such mailing, delivery or posting. The objections must set forth the reasons why the Permit should not be terminated or revoked or should be renewed, and include any evidence supporting the objection. The filing of objections will not prevent the Chief Dockmaster from barring the Permittee from the Marina if the Chief Dockmaster specifically finds that it is in the public interest to do so. After considering any objections raised by the applicant or Permittee, the Chief Dockmaster shall make a determination whether to revoke, refuse to renew or terminate the Permit and shall provide notice of such determination to the Permittee or applicant for renewal in the above manner.
+
+   (2) A Permittee or applicant for renewal may file written objections with the Commissioner within 10 days from the date of the written decision of the Chief Dockmaster. The objections must set forth the reasons why the Permit should not be terminated or revoked or should be renewed, and include any evidence supporting the objection. After considering any objections raised by the applicant or Permittee, the Commissioner shall make a final determination whether to affirm or reverse the Chief Dockmaster's determination to revoke, refuse to renew or terminate the Permit and shall provide notice of such determination to the Permittee or applicant for renewal in the above manner.
+
+(n) Nothing in this chapter shall be construed to create a property right in any Permit. All permits issued by the Department are by their nature terminable at will by the Commissioner in accordance with the needs or the requirements of the Department or in the interest of the City as determined by the Commissioner.
+
+(o) An applicant for renewal or a former Permittee who has been found liable in a proceeding before OATH or in a court violating any provisions of these rules or the rules set forth in chapters 1 and 2 of this title or who has delinquent payment record may be required to provide current credit card information and/or make a security deposit before a renewal application will be considered. Such Permittee's credit card shall be charged for any balances accrued by the Permittee that remain unpaid after 45 days of mailing of such outstanding charges. Any security deposit received from the Permittee will be returned to the Permittee without interest upon departure from the Marinas, provided the Permittee has settled all outstanding charges.
+
+(p) All Permittees must maintain hull and liability insurance policies naming the City as an additional insured on the policy for docked Vessels and provide the Dockmaster with a copy of the insurance certificate. Proof of such insurance must be submitted to the Dockmaster by May 1 of each year. The insurance must be valid for the length of the Permit and any lapse in coverage will be considered automatic grounds for termination of the permit.
+
+(q) The Dockmaster may impose other reasonable conditions on the issuance or renewal of a Permit to protect public safety or to safeguard the interests of the City.
+
+(r) (1) Where a Permit expires or is revoked, terminated or not renewed, the Vessel must be removed from the Marina within 10 days after written notice by the Supervisory Dockmaster to remove it is mailed or hand-delivered to the applicant or Permittee. If a mailing address is unknown or mail is returned undelivered, such notice may in lieu of such mailing be posted in a conspicuous place on the Vessel. Where the Vessel is not removed within 10 days, the Department may remove the Vessel or cause the Vessel to be removed from the Marina. Except where a Vessel enters a Marina due to an emergency, the Dockmaster may immediately and without notice remove any Vessel which enters or remains in a Marina without an appropriate permit.
+
+   (2) The Permittee or owner shall be liable for the costs of removal and storage of the Vessel, payable prior to release of the Vessel. Any Vessel removed from a Marina which is not claimed within 30 days shall be deemed to be abandoned and shall be treated in accordance with applicable law.
+
+(s) Every applicant and Permittee must provide the Dockmaster with a day and evening telephone number as well as an e-mail and/or mailing address in writing at which he or she may receive notice required by these rules or other applicable law. Any change in telephone number, e-mail, or mailing address must be reported in writing to the Dockmaster within 10 days.
+
+(t) Upon accepting a Permit to dock at the Boat Basin, the Permittee must within two years, dock a Vessel, meeting all the requirements of this chapter. If an existing Boat Basin Permittee removes his or her Vessel for any reason, the Permittee must dock a Vessel, meeting all the requirements of this chapter, within two years from the date they removed their Vessel. The minimum dockage fee will be charged for each permitted season until a Vessel is brought in. If no Vessel is docked within two years, the Permit will be revoked as per 56 RCNY § 3-06(l).
+
+(u) A Permittee may choose to postpone keeping a Vessel at the Boat Basin for any particular season without payment only once in the life of the permit. Permittees must submit a letter to the Chief Dockmaster at least 90 days prior to the start of the season in question stating that they will be opting to keep the Vessel out of the Boat Basin.
+
+(v) Permits will be immediately revoked for any of the following reasons:
+
+   (1) Conduct endangering the safety of any person.
+
+   (2) Fire aboard a Vessel that is determined to be caused by improper upkeep of the Vessel.
+
+   (3) The improper use of heating equipment, including the storing of kerosene, installation or repair of electrical equipment by other than a qualified electrician.
+
+   (4) A violation of 56 RCNY § 3-13.
+
+   (5) Trespassing aboard another Vessel docked or moored at a Marina.
+
+   (6) Violation of this subdivision by guests or immediate family members of a Permit holder.
+
+   (7) Renting or subletting of permits.
+
+   (8) Any other action which interferes with the safe operation of Department facilities, including but not limited to violations of 56 RCNY § 3-08.
+
+(w) Any person who docks or abandons a Vessel at the Marinas without authorization and who refuses to remove the vessel immediately upon written notice, will not be eligible to request or receive a Permit or berth of any type for any Marina for a minimum of 24 months. Objections to the denial of Permit eligibility shall be available under subdivision n of 56 RCNY § 3-06.
+
+
+
+
+
+
+
+
+*§ 3-07 Waiting List.* ::
+
+
+The Department shall maintain and utilize a Waiting List for the issuance of Boat Basin seasonal dockage permits and mooring permits, which shall be available upon request from the Department. Applications to be added to the Waiting List must be mailed to the Department of Parks &amp; Recreation, Revenue Office, The Arsenal, 830 5th Avenue, New York, NY 10065 Attn: Boat Basin Waiting List via return receipt U.S. mail on forms supplied by the Department and accompanied by a processing fee of $75. Only natural persons shall be eligible for Boat Basin permits. No person already holding a Permit may apply for a Boat Basin Permit.
+
+
+
+
+
+
+
+
+*§ 3-08 Conduct and Clean Boating.* ::
+
+
+(a) No person shall urinate or defecate into the water or along the docks and walkways of a Marina. No person shall use a toilet which discharges into the water without marine sanitation devices approved by the New York State Department of Environmental Conservation.
+
+(b) Composting toilet systems are not permitted.
+
+(c) All Vessels with waste holding tanks must discharge waste through the pump out station or by other methods approved by the New York State Department of Environmental Conservation.
+
+(d) No person shall discharge into the water or on the docks and walkways any oil, spirits, drift, debris, inflammable liquids, rubbish or refuse.
+
+(e) No person shall bring or park a motor vehicle on the promenade or docks without the prior written approval of the Dockmaster.
+
+(f) No person shall make or cause or allow to be made unreasonable noise so as to cause public inconvenience, annoyance, or harm. Unreasonable noise means any excessive or unusually loud sound that disturbs the peace, comfort, or repose of a reasonable person of normal sensitivity or injures or endangers the health or safety of a reasonable person of normal sensitivity. The Dockmaster may restrict the outdoor use of radios, record players, compact disc players, television receivers, tape recorders, digital music players and other sound reproduction devices after 10 p.m. Sunday through Thursday and after midnight on Friday and Saturday.
+
+(g) Garbage must be placed in plastic bags and deposited in designated receptacles.
+
+(h) No person shall make an open flame or operate a barbecue grill in a Marina, on the docks or walkways or on any Vessel.
+
+(i) No person shall store or use any machinery or equipment for welding or burning where such storage or use is prohibited by the fire code or other law or rule.
+
+(j) No person shall ride or store a bicycle or other vehicle on the walkways and docks.
+
+(k) No person shall run or skate on the dock.
+
+(l) No person shall swim, dive, or fish from Vessel, docks, or finger piers, except in areas specifically designed for such purposes.
+
+(m) No person shall leave any entrance gate to the World's Fair Marina or Boat Basin open or unlocked.
+
+(n) No person shall admit someone unfamiliar to themselves into the World's Fair Marina or Boat Basin. Any unfamiliar person is to be directed to the World's Fair Marina or Boat Basin office.
+
+(o) No person shall advertise from a Vessel while docked or moored at a Department Marina.
+
+(p) No person shall discharge any sewage in "No Discharge Zones" (NDZ) designated by the Environmental Protection Agency, including the Hudson River and Jamaica Bay.
+
+(q) On water bodies that are not designated NDZ, boaters must discharge treated sewage from a Type I or Type II United States Coast Guard certified Marine Sanitation Device (MSD) unless at least three nautical miles or more from shore.
+
+(r) No person shall transport cans of fuel on docks or piers at the Marinas unless authorized by the Dockmaster in the Dockmaster's reasonable discretion. Vessels must fuel at gas docks.
+
+(s) As per New York State Department of Environmental Conservation regulations, Vessel owners must receive pre-approval from the Dockmaster before applying anti-fouling paint to their Vessel. Paint scrapping must be disposed of in designated areas. Containment systems must be used and boat maintenance may not be performed near water or sewer drains.
+
+(t) Hoses and water lines must be turned to the closed position upon completion of use. Water lines must never be left running unattended or for extended periods of time.
+
+(u) Any person who engages in disorderly behavior as defined in 56 RCNY § 1-04(i) may, in addition to any other applicable penalties, be expelled immediately from the Marinas.
+
+(v) No person may offer or provide any form of tip, money, gift or any other gratuity to any City employee. No person may procure any services from Department staff except as specifically allowed under these rules. Violations of this provision will result in termination of any Permit and will bar the violator from any Department Marina for a minimum of 24 months. Objections to termination of a Permit or denial of Permit eligibility shall be available under subdivision n of 56 RCNY § 3-06.
+
+
+
+
+
+
+
+
+*§ 3-09 Docking of Vessels.* ::
+
+
+(a)  Vessels must be docked at slips designated by the dockmaster. Slips will be assigned using an appropriate ration of slip length, width, depth of water and strength of docks to a vessel's length, beam, draft and tonnage. If two vessels of equal characteristics are vying for the same slip, seniority will be the determining factor. Seniority is established by holding a valid permit and being in good standing for the longest period of time. Good standing means that all accounts with the Department are paid in full and dockage/moorage application and valid insurance and registration are on file. Slips may not be changed or exchanged without the prior written approval of the dockmaster. Inoperable vessels will not be assigned to slips that are designated by the Department for running vessels.
+
+(b) All vessels shall be adequately tied to the dock and shall have sufficient fenders and dock lines to secure the vessel in all wind and weather conditions. The dockmaster may require the replacement of dock lines which he or she finds to be inadequate or, where necessary, may in his or her discretion replace the dock lines and charge the cost to the permittee or owner of the vessel.
+
+(c) Vessels may be temporarily relocated within or outside the facility in an emergency or to accommodate construction work at the facility. When a vessel must be moved to accommodate construction work the dockmaster will give the permittee or owner 48 hours written notice to move the vessel. If the vessel is not moved within the required time the dockmaster may move the vessel or cause the vessel to be moved and charge all costs associated with moving or storage to the permittee or owner.
+
+(d) Vessels which are improperly secured in an unassigned slip or area may be towed to the assigned slip by the dockmaster or marina division staff, and the appropriate Labor Rate shall be charged to the owner of such vessel.
+
+
+
+
+
+
+*§ 3-10 Condition of Vessels.* ::
+
+
+(a) All Vessels in the Marinas and all equipment thereon must be maintained in good order and free of any hazard to persons, Vessels or facility structures. In addition, all Vessels docked at the Sheepshead Bay Piers or the World's Fair Marina must be seaworthy.
+
+(b) No structural modifications may be made to the superstructure of a Vessel docked at a Marina and/or permitted to use a Marina without the express written consent of the Dockmaster. Prior to any modification, the Department may require an evaluation from an experienced certified marine surveyor in good standing with a national recognized marine surveying society or association, or from a New York State licensed naval architectural engineer. Such evaluation shall be performed at the Permittee's expense and a detailed report of such evaluation shall be provided to the Department. No modifications shall be made which will in any way limit the movement of the Vessel, change the center of gravity to the extent that the Vessel is unseaworthy, restrict the navigation by removal of the helm station, inhibit the line of sight forward from the helm, increase the height of the Vessel or extend the Vessel over water beyond the existing hull, or increase the load beyond the manufacturer's hull design capacity.
+
+(c) The Dockmaster may refuse dockage of any Vessel that does not meet the above requirements.
+
+
+
+
+
+
+
+
+*§ 3-11 Operation of Vessels.* ::
+
+
+(a) All Vessels entering, leaving or moving within the Marinas must be operated under mechanical power, not sail, except in an emergency. All Vessels in the Marinas must be operated at speeds so as not to create a wake.
+
+(b) A Vessel that enters the World's Fair Marina or Boat Basin must be berthed or moored only where ordered and maneuvered as directed by Department staff.
+
+(c) Vessels entering the Marinas under emergency conditions must promptly be reported by their owners to Department staff.
+
+(d) A Permittee holding a seasonal dockage permit must notify the Dockmaster in writing prior to removing a Vessel from a Marina for more than 48 hours. To maximize access to the World's Fair Marina or Boat Basin, the Dockmaster may issue a transient dockage permit for the Permittee's assigned slip during such absence. A Permittee who fails to notify the Dockmaster of his or her scheduled return time or who returns before his or her scheduled return time may be required to remain outside the World's Fair Marina or Boat Basin until a vacant slip is available.
+
+(e) In the event of an emergency, including unsafe condition on a ship, mooring, or Vessel, the Department may order a Permittee to take specific remedial measures within a reasonable period of time, as determined by the Dockmaster. A Permittee who fails to take such measures within the specified time period shall be subject to the penalties set forth herein.
+
+
+
+
+
+
+
+
+*§ 3-12 Required Safety Equipment.* ::
+
+
+All vessels docked in the facility shall have on board at all times all equipment required by the Coast Guard, as well as for vessels longer than 25 feet:
+
+(a) Two 10-pound CO
+										2
+										 canister fire extinguishers or two dry chemical 20 pound ABC fire extinguishers approved for marine use and stored at opposite ends of the vessel.
+
+(b) No fewer than two operable automatic smoke alarms.
+
+
+
+
+
+
+*§ 3-13 Utilities.* ::
+
+
+(a) Vessels docked at the Marinas may only be supplied with electricity through the metered electrical hook up at its assigned slip. All electrical or utility connections must be free of defects. No person shall tamper or interfere with an electric meter. A Permittee must pay all metered charges for electricity. Electrical lines shall not be rigged or positioned so as to obstruct walkways or docks.
+
+(b) Electricity shall not be used for heating a Vessel. The Dockmaster may issue orders limiting or restricting the installation and use of appliances which he or she determines require quantities of electricity that may disrupt electrical service at the Marinas.
+
+(c) If the Department does not supply fresh water to Vessels docked at the Marinas, Permittees may fill on-board tanks from a water line at the head of the dock. Hoses shall not be rigged or positioned so as to obstruct walkways and docks, or to cause leakage or ice accumulation.
+
+
+
+
+
+
+
+
+*§ 3-14 Maintenance and Use of Docks.* ::
+
+
+(a) Except as hereinafter provided, personal property shall not be stored on piers, docks or walkways. Personal property may be stored by a Permittee in a dock box no larger than 30 cubic feet and no higher than 30 inches located on a fixed pier. At the World's Fair Marina, personal property may also be stored in dock boxes on floating docks if permission is granted by the Dockmaster. The name of the Permittee must be clearly posted on the dock box. The dock box must be positioned so as not to obstruct the walkway or impede access to the Vessels. The location of the dock box shall be subject to the approval of the Dockmaster. No dock boxes shall be permitted on floating piers at the Boat Basin.
+
+(b) Personal property left unattended on a pier in violation of this provision, including noncomplying dock boxes, shall be subject to removal by the Dockmaster. The Dockmaster shall give notice to the owner of the property prior to such removal if the identity of and an address for such person are reasonably ascertainable or to the Permittee of the Vessel docked in the slip adjacent to the place from which the property was removed. The cost of the removal and storage of such property shall be charged to the owner or Permittee and shall be payable prior to release of the property. Any personal property which is unclaimed after thirty days shall be deemed to be abandoned and shall be turned over to the police property clerk for disposal pursuant to law.
+
+(c) It shall be unlawful to construct, reconstruct, alter, add to, extend or physically alter in any manner any slip, dock or pilings without the prior written approval of the Dockmaster. Permittees may utilize boarding steps approved by the Dockmatser.
+
+(d) A Permittee must keep the dock adjacent to his or her Vessel, including the finger pier, free of refuse, rubbish and litter at all times.
+
+
+
+
+
+
+
+
+*§ 3-15 Sunken, Abandoned or Delinquent Vessels, Dinghies and Trailers; Trailer Storage.* ::
+
+
+(a) The Dockmaster may require that any Vessel which sinks be removed from a Marina until appropriate repairs are made. A sunken Vessel must be removed from the Marina within 48 hours after oral or written notice by the Dockmaster to remove the Vessel. Upon request of the Permittee or owner, the Dockmaster may in writing extend the time for removal of the Vessel. If the Vessel is not removed within the allowed time, the Dockmaster may remove the Vessel or cause it to be removed and may recover the cost of the removal and storage or disposal of the Vessel from the Permittee or owner of the Vessel. If the Dockmaster determines that a sunken Vessel is discharging pollutants into the water or causing any other kind of emergency, the Department may take action to stop the cause of pollution and may remove or cause the Vessel to be removed, without prior notice to the Permittee or owner of the Vessel, and recover all costs associated with the containment, removal and storage or disposal of the Vessel from the Permittee or owner of the Vessel.
+
+(b) If a Permittee or Vessel owner fails to pay for a Permit or the repair and service of a Vessel and equipment, the Department may detain the Vessel until such sum is paid. If such outstanding sum is not paid in full within 90 days, the Department may secure the Vessel with chains and/or locks, or cause the Vessel and equipment to be moved to a non-active slip or pier, be disposed of as abandoned property, or be sold at auction. The Permittee will be responsible for all costs related to storage, disposal, and sale of the Vessel and all outstanding obligations.
+
+(c) The World's Fair Marina will assess a fee for Vessels that remain in the World's Fair Marina boat yard after the published winter season or after work on such Vessel has been completed. This fee shall be determined by the daily transient dockage rate in effect at the World's Fair Marina at the time of yard storage.
+
+(d) Vessel trailers may be used for delivery and removal of owner's Vessel from the World's Fair Marina and/or storage of the Vessel at the World's Fair Marina during the winter season only. All trailers brought to the World's Fair Marina must be identified by the owner to Department staff. Empty trailers may not be stored at the World's Fair Marina and must be removed within 24 hours of launch of Vessel. The yard manager will coordinate with owners of Vessels that are to be hauled out and placed on trailer. Any empty trailer remaining at the World's Fair Marina for more than 24 hours will be disposed of as abandoned property, salvaged as scrap metal, or sold at auction. The Permittee will be responsible for all costs related to the removal, disposal and/or sale of the trailer.
+
+(e) The Department may designate a limited number of storage spaces for trailers belonging to World's Fair Marina Permittees. Such storage shall be offered via waitlist, first to customers receiving winter land storage and then to customers receiving winter water storage. The World's Fair Marina accepts no responsibility for the security or condition of trailers stored on World's Fair Marina property. Permittees must secure their own trailers with a lock. Trailers must have valid Department of Motor Vehicles registration and must be clearly labeled with Vessel registration number printed on the trailer to be considered for storage. The Department reserves the right to cancel this arrangement for operational or safety needs at any time.
+
+
+
+
+
+
+
+
+*§ 3-16 Dinghies, Kayaks and Canoes.* ::
+
+
+(a) (1) Any dinghy over 14 feet in length must be stored on the vessel with a valid permit from the Department. Any dinghy over 14 feet in length and stored in water will be considered a separate vessel and require an independent transient permit. Any dinghy 14 feet or less must be stored on the vessel or in a designated dinghy area as determined by the Department. Only one dinghy shall be permitted per vessel.
+
+   (2) All dinghies stored in the water or at dinghy docks must be identified with the registration number of corresponding vessel.
+
+   (3) Kayaks and canoes may either be stored on the vessel with a valid permit from the Department, or in the areas specifically designed by the Department for such storage.
+
+(b) Boat Launches: A Department permit is required to launch a vessel operated by a motor at a Department managed boat launch. The Department will set and post specific rules at each agency managed boat launch. Failure to comply with posted rules will result in loss of access to the launch.
+
+(c) Boating or use of a personal watercraft adjacent to any authorized bathing beach is prohibited. Use of personal watercraft is prohibited upon any waters under the jurisdiction of the Department, unless the Commissioner specifically authorizes use of personal watercraft in such area.
+
+
+
+
+
+
+*§ 3-17 Parking of Motor Vehicles.* ::
+
+
+(a) No person shall park at the Boat Basin Garage or the World's Fair Marina parking lot without a Parking Permit issued by the Department. The Department shall seek to accommodate year-round and seasonal Permittees first in providing parking at the facilities. At the Boat Basin, spaces will be assigned first to Permittees seeking year-round parking, followed by those seeking seasonal parking, then by Permittees who hold kayak permits. Non-Permittees shall be eligible for parking spaces on a month-to-month basis, subject to availability. If there are more Permittees than available spaces, the Department shall maintain a waiting list of the Permittees eligible for Parking Permits, which shall be available upon request. Parking Permits are issued to the person named on the permits and are valid only for the registered vehicle or vehicles identified on the permit. Parking Permits are not transferable. Any assignment or attempted assignment of a Garage Parking Permit shall result in the cancellation of such permit.
+
+(b) No person shall remain overnight in the Garage or parking lot or in a vehicle parked in the Garage or parking lot. The Department may remove or cause to be removed any vehicle which is parked in the Garage or parking lot without a current Parking Permit or without payment of all required fees. The cost of towing and storage of the vehicle shall be charged to the Permittee or owner of the vehicle and shall be payable prior to release of the vehicle. Any vehicle which is unclaimed after thirty days shall be deemed to be an abandoned vehicle and shall be disposed of, pursuant to the procedures set in § 1224 of the Vehicle and Traffic Law.
+
+
+
+
+
+
+
+
+*§ 3-18 Pets.* ::
+
+
+(a) It is a violation of these rules to keep an animal as a pet where the keeping of such animal is prohibited by the City Health Code or any other City, State or Federal law or rule.
+
+(b) The owner or other person in charge or control of a pet must without delay, remove, clean or clear all feces or vomit deposited by the pet from the walkways and docks.
+
+(c) The Dockmaster may order the removal of a pet from a Marina where the owner or other person in charge or control of the pet has failed or refused to prevent the pet from harassing or harming other persons, or has failed or refused repeatedly to remove, clear or clean feces or vomit deposited by the pet on the walkways or docks.
+
+(d) All pets must be kept on a leash, or in appropriate carrying cases or cages, when not confined aboard a Vessel.
+
+
+
+
+
+
+
+
+*§ 3-19 Orders.* ::
+
+
+In addition to the orders specifically referred to in these rules, the Department may issue any other orders which may be necessary or appropriate to enforce compliance with these rules or the rules set forth in chapters 1 and 2 of this title or to safeguard persons or property at the facility. It shall be a violation of these rules to fail or refuse to comply with such orders.
+
+
+
+
+
+
+*§ 3-20 Unlawful Use of Slip or Vessel.* ::
+
+
+No person shall permit or cause any slip or vessel or any portion thereof to be used or occupied for an illegal purpose.
+
+
+
+
+
+
+*§ 3-21 Liability.* ::
+
+
+(a) Permittee agrees to maintain current Vessel insurance, including hull and liability insurance, collision and fire, and extended coverage insurance. Insurance policies must name the City of New York as an additional insured. Each insurer shall waive subrogation. Each Permittee will be held responsible for damage he or she causes to other boats in the Marinas or to the structure of facilities thereof. The Department assumes no responsibility for Permittee's boat or equipment.
+
+(b) Permittee acknowledges that the Department makes no representation regarding the adequacy of water levels for egress and ingress. The Department is not responsible for damages resulting directly or indirectly from low water levels.
+
+(c) The Department assumes no responsibility for the safety of any Vessel at the Marinas and shall not be responsible for loss or damage or injury to persons or property due to wind, waves, theft, collision, chafing, vandalism, fire, low water levels, or any other cause except for the negligence of Department employees acting in the performance of their duties. The Department shall not be liable for any damage to the Vessel occurring before, during, or after a severe storm, hurricane, or other emergency, for services performed, or for the failure to provide services. Permittee must pay for all services performed, and for all goods or materials used in all work performed, in a reasonable effort to protect and safeguard the Vessel, regardless of the success of such efforts.
+
+(d) Permittee waives all claims against the City, its agents and employees for any damage to a Vessel and its contents arising out of the removal, relocation, storage and/or disposal of a Vessel by the Department pursuant to 56 RCNY §§ 3-06(o), 3-09(c) and 3-15, except for gross negligence or willful misconduct by the Department. In accordance with such rules, Permittee shall be responsible for all costs incurred by the Department associated with such removal, relocating, storage and/or disposal.
+
+(e) Permits are for dockage or moorage only, and no injury, loss or damage to the Permittee's Vessel, Permittee, members of his or her family, guests, employees or agents is assumed by the Department, nor will the Department be held liable for any loss or damage caused by weather, acts of God, or other incidents beyond the control of the Department.
+
+(f) Unless the Department receives a specific written work order to do so and suitable charge is applied and paid for, the Department does not guarantee inspection of any vessel or equipment during any storage period and is not responsible for any damage an inspection may have prevented.
+
+(g) The Department and its staff assumes no responsibility for delays in hauling, repairing, cleaning or launching of Vessels at the Marinas.
+
+
+
+
+
+
+
+
+*§ 3-22 Commercial Permits.* ::
+
+
+(a) Commercial Permits may be issued at the World's Fair Marina, Boat Basin, and Dyckman Marina to operators of commercial Vessels upon terms to be determined by the Department. The Dockmaster is authorized to exempt holders of these Commercial Permits from certain rules set forth in this 56 RCNY Chapter 3. Vessels docked under non-commercial permits may not engage in commercial activity without the express written approval of the Department. This approval must be attained on an annual basis. Complete commercial plans must be provided to the Department and no advertising may take place at the World's Fair Marina, Boat Basin, and Dyckman Marina. The Department may refuse such permission or terminate any authorization previously granted if it determines that such use may interfere with the public use or the operation of the facility or will not be in the best interest of the City. Approval will not be granted unless the Permittee presents a valid United States Coast Guard Captain's license and evidence of insurance coverage for liability and property damage, which must be deemed sufficient by the Dockmaster.
+
+(b) Commercial trips with 6 passengers or less must pay the commercial pickup fee (6 passengers or less) for each trip in addition to regular dockage.
+
+(c) Vessels planning commercial trips involving more than 6 passengers must obtain a Commercial Permit and may not operate under a non-commercial permit.
+
+
+
+
+
+
+
+
+*§ 3-23 Fees.* ::
+
+
+(a) Permit fees are strictly in accordance with published schedules. Vessel length shall include all bowsprits, outboard brackets, swim platforms, pulpits, anchors, davit overhangs, and related. Permit fees at the World's Fair Marina and 79th Street Boat Basin must be paid in advance to cover the full boating season. Yearly dockage at the Sheepshead Bay Piers shall be billed in 12 monthly installments with dockage paid in advance of each month. All services must be paid in advance except for electric and emergency repairs. No refunds shall be made in any instance.
+
+(b) Charges for all services, which will be sent in writing to the address of the owner on file, must be paid within 15 days of receipt of billing or a 2% late fee will be assessed each month. If the Permittee fails to pay for the rental of space or the repair and service of their boat and equipment, the agency may detain the boat until such sum is paid. If the outstanding sum is not paid in full within 90 days, the Department may move the boat and equipment to a non-active slip or pier, disposed of it as abandoned property, or sell it at auction. The Permittee will be responsible for all costs related to storage of the boat, disposal, and all outstanding charges.
+
+(c) No cash will be accepted for transactions. All financial transactions must take place in a Department office. No financial transaction may take place aboard a private boat.
+
+(d) Depending on available space, summer seasonal customers at the World's Fair Marina, Boat Basin, and Dyckman Marina may be allowed to arrive prior to May 1 and/or depart after October 31. In such instances, a half-month pro-rate, based on the associated six-month summer permit, will be applied from April 15 to April 30 and/or from November 1 to November 15. Any seasonal Permittee arriving prior to April 15 and/or departing after November 15 will be billed the daily transient rate for the period of time at the relevant Marina prior to April 15 and/or after November 15. Extensions are solely at the discretion of the Department.
+
+(e) Depending on available space, winter seasonal customers at the World's Fair Marina and Dyckman Marina may be allowed to arrive prior to November 1 and/or depart after April 30. In such instances, a half-month pro-rate, based on the associated six-month winter permit, will be applied from October 15 to October 31 and/or from May 1 to May 15. Any winter Permittees arriving prior to October 15 and/or departing after May 15 will be billed the daily transient rate for the period of time at the World's Fair Marina and Dyckman Marina, prior to October 15 and/or after May 15. Extensions are solely at the discretion of the the Department.
+
+(f) Pro-rated monthly dockage, moorage or storage services of three months or more may be authorized by the Department. All requests for pro-rated services are subject to Department approval. Pro-rated rates will not be applied for any services with a waiting list.
+
+(e)*   The Department may, at its sole discretion, retain a Vessel from being removed or released from the Marinas where there is an outstanding fee or fees owed to the Department associated with Vessel storage, labor, and/or other services. Such notice of non-release will be provided in writing to the Permittee.
+
+*Editor's note: As lettered in the original rule.
+
+(f)*   In addition to any penalties provided for in the chapter, violations of these rules shall be punishable as provided in 56 RCNY § 1-07.
+
+*Editor's note: As lettered in the original rule.
+
+(g) West 79th Street Boat Basin
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Seasonal Dockage
+      - Summer(May 1 to October 31)
+      - $120/linear foot or $3,000, whichever shall be greater
+    * -  
+      - Winter(November 1 to April 30) – Current Winter Permittees only
+      - $105/linear foot or $2,625, whichever shall be greater
+    * - Transient Dockage(Non-commercial boats only)
+      -  
+      - $3.50/linear foot per day for up to 14 days$42.00/linear foot for stays of 15 to 29 days$75.00/linear foot for stays over 29 days
+    * - Passenger Pickup/Drop off(Non-commercial boats only)
+      - 40 feet or less41 feet or more
+      - $25$40
+    * - Dinghy Landing OnlyNon-permit holders, non-transient dockage
+      - 14 feet or less
+      - $26/day
+    * - Dock &amp; Dine(4 hour maximum)
+      -  
+      - $1.25/linear foot
+    * - Commercial Landing Fee
+      - 30 minutes for loading and30 minutes for unloading maximum
+      - $4/linear foot
+    * - Commercial Pickup(Non-commercial boats only)
+      - 6 passengers or less
+      - $32/trip
+    * - Mooring
+      - DailyWeeklyEntire Season (May 1 to Oct 31)
+      - $30$180$1,550
+    * - Electricity
+      - For permit holders only
+      - Billed monthly based on rate paid by Department 
+    * - Transient Electricity
+      - 30 amp50 amp100 amp
+      - $10/day$20/day$35/day
+    * - Labor Rate
+      -  
+      - $75/hour
+    * - Sanitation Waste System Pump Out
+      - Commercial Vessels only
+      - $80 plus labor
+    * - Water Pump Out
+      - Per pump provided
+      - $65 plus labor
+    * - Towing Outside Marina
+      - Non commercial boats only
+      - $150/hour
+    * - Kayak/Canoe Storage
+      - Yearly, per Vessel(May 1 to April 30)
+      - $350
+    * - Team Canoe Storage
+      - Summer only, competition canoes, per Vessel
+      - $750
+    * - Dinghy/Motor Storage(November 1 to April 30 only)
+      - No auxiliary fuel tanks allowed
+      - $175/winter
+    * - Key Deposit or Replacement
+      -  
+      - $10
+    * - Slip Dockage Waiting List
+      - Application
+      - $75
+    * - Parking Pass
+      - Daily
+      - $10
+    * - Parking
+      - Rotunda parking garage; permit holders only
+      - $275/month
+~
+
+ 
+
+(h) World's Fair Marina
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Summer Dockage
+      - 20 feet or less21 to 26 feet27 to 35 feet36 to 45 feet46 to 65 feet66 feet or greater
+      - $1,325$70/linear foot$73/linear foot$78/linear foot$95/linear foot$118/linear foot
+    * - Commercial Charter Boat
+      - May 1 to October 31November 1 to April 30
+      - $135/linear foot$52/linear foot
+    * - Winter StorageWater storage available
+      - WaterLand 
+      - $35/linear foot or $700, whichever shall be greater$50/linear foot or $1,000, whichever shall be greater
+    * - Transient Dockage
+      - Non-commercial boats only
+      - $2/linear foot/day (24 hours)
+    * -  
+      - Sporting events/concerts in the park(event duration only)/dock &amp; dine
+      - $1/linear foot
+    * -  
+      - Commercial Vessels(does not include passenger loading/unloading fee)
+      - $2.50/linear foot/day (24 hours)
+    * - Passenger Pickup/Drop off(Non-commercial boats only)
+      - 40 feet or less41 feet or more
+      - $20$30
+    * - Dinghy Landing Only(Non-permit holders, non-transient dockage)
+      - 14 feet or less
+      - $22/day
+    * - Commercial Landing Fee
+      - 30 minutes for loading and 30 minutes for unloading maximum
+      - $3/linear foot
+    * - Commercial Pickup(Non-commercial boats only)
+      - 6 passengers or less
+      - $28/trip
+    * - Electricity
+      - For permit holders only
+      - Billed monthly based on rate paid by Department.
+    * - Transient Electricity
+      - 30 amp50 amp100 amp
+      - $7/day$12/day$40/day
+    * - Team Canoe Storage
+      - SummerWinter
+      - $500/boat$250/boat
+    * - Hydrohoist Wet Storage(No Vessel)
+      - Winter
+      - $500
+    * - Vessel or Dinghy Trailer Storage(Limited space via waitlist, winter Permittees only)
+      - Summer
+      - $400
+    * - Key Deposit or Replacement
+      -  
+      - $10
+~
+
+ 
+
+WORLD'S FAIR LABOR RATES
+
+A fifty percent deposit must be pre-paid for any work order estimated by the Dockmaster or yard manager to be greater than $400. In addition, the following fees must be paid in full in advance of services being rendered: Haul Out, Launch, Move One Way, Block, Load on Trailer, Pressure Wash Bottom, Step or Unstep Mast. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Labor Rate
+      -  
+      - $75/hour 
+    * - Parts (Parts sold over-the-counter in the marina must be paid for in full prior to receipt)
+      - Boat repair, maintenance
+      - Sold at Manufacturer Suggested Retail Price (MSRP)
+    * - Sanitation System Pump Out
+      - Commercial Vessels only
+      - $80 plus labor
+    * - Water Pump Out
+      - Per pump provided
+      - $45 plus labor
+    * - Crane Service
+      -  
+      - $100/hour
+    * - Travel Lift
+      -  
+      - $100/hour
+    * - Forklift
+      -  
+      - $90/hour
+    * - Haul Out
+      -  
+      - $2.50/linear foot
+    * - Launch
+      - Using travel lift
+      - $2.50/linear foot
+    * - Move One Way
+      -  
+      - $2.50/linear foot
+    * - Block
+      -  
+      - $2.50/linear foot
+    * - Load On Trailer
+      - Using travel lift
+      - $2.50/linear foot
+    * - Pressure Wash Bottom
+      -  
+      - $2.50/linear foot
+    * - Step or Unstep Mast
+      -  
+      - $5/linear foot
+    * - Towing Inside Marina
+      -  
+      - $75.00/hour
+    * - Towing Outside Marina
+      -  
+      - $150.00/hour
+    * - Bottom Painting
+      - 30 feet or less31 feet or more
+      - $13.75/linear foot$14.75/linear foot
+~
+
+ 
+
+(i) Sheepshead Bay Piers
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Yearly Dockage
+      -  
+      - $125.00/linear foot
+    * - Transient Dockage
+      - Non-commercial boats onlyUp to 24 hours
+      - $2 /linear foot/day
+    * - Commercial Vessels
+      - Loading and Unloading
+      - $3/foot/30 minutes loading and unloading maximum$3/foot/hour beyond 30 minutesloading/unloading 
+    * - Dock &amp; Dine
+      - Non-commercial Vessels onlyUp to 4 hours
+      - $1/linear foot 
+~
+
+
+
+ 
+
+(j) Dyckman Marina. Dyckman Marina does not operate a launch service. Vessels on moorings or at anchor must have a motorized dinghy to come ashore. Dinghy landing is available at no additional charge.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Summer Dockage
+      - May 1 to October 31
+      - $170 per linear foot or $4,250, whichever is greater
+    * - Winter Storage(storage on customer-owned trailer)
+      - November 1 to April 30
+      - $140 per linear foot or $3,500, whichever is greater
+    * - Transient Dockage
+      - Up to 14 days15 - 29 days30 days
+      - $4.50 per linear foot per day$60 per linear foot$100 per linear foot
+    * - Moorage
+      - May 1 to October 31
+      - $2,000
+    * - Transient Moorage
+      -  
+      - $40 per day$240 per week
+    * - Anchorage
+      -  
+      - $35 per day
+    * - Dock &amp; Dine
+      - 4 hour maximum
+      - $3 per linear foot
+    * - Touch &amp; Go
+      -  
+      - $1.25 per linear foot
+    * - Commercial Pick-Up/Drop-Off(includes inspected and uninspected Vessel charters)
+      -  
+      - $7 per linear foot
+    * - Boat Launch (self-launch)
+      -  
+      - $20
+    * - Trailer Parking
+      -  
+      - $40 per day
+    * - Trailer Storage
+      - May 1 to October 31
+      - $2,000
+    * - Electricity(permit holders only)
+      -  
+      - $0.30 per kWh
+    * - Transient Electricity
+      -  
+      - $10 per day for 30 amp$20 per day for 50 amp$35 per day for 100 amp
+    * - Dinghy Storage
+      - November 1 to April 30
+      - $425
+    * - Kayak/Canoe/SUP Storage
+      - May 1 to April 30
+      - $500 per Vessel per year
+    * - Labor Rate
+      -  
+      - $95 per hour
+~
+
+ 
+
+
+
+
+
+
+
+
+*§ 3-25 Special Events and Filming.* ::
+
+
+Special events and filming at the marina, piers, and boat basin must be pre-approved by the marina manager or marina administrator, and will be considered on a case-by-case basis. Those wishing to host an event or film at the marina, piers, or boat basin must adhere to the terms and fees set forth by the Department's Special Events office. Hourly labor rate shall apply for any services required of marina staff. Associated permits from the Mayor's Office of Film, Theatre and Broadcasting may be required.
 
 
 
@@ -3717,6 +3600,123 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
  
+
+
+
+
+Chapter 5: Rules Governing Tree Replacement
+--------------------------------------------------
+
+
+
+*§ 5-01 Removal of Trees.* ::
+
+
+(a) Any person who intends to remove any tree under the jurisdiction of the Department shall apply for and obtain a permit under this chapter prior to such removal.
+
+(b) If the Department approves a removal request for a tree, issuance of a permit under this chapter shall require the applicant to pay a fee to the Department sufficient to cover the cost of replacing any tree proposed to be removed as set forth in this chapter, unless otherwise permitted by law. The applicant shall indicate in writing whether they intend to plant the required number of replacement trees, as directed by the Department, or requests that the Department plant such replacement trees at applicant's cost.
+
+(c) In addition to all other legal remedies, the Department shall seek damages, as applicable, as determined under 56 RCNY § 5-02(d)-(f), from any person who violates 56 RCNY § 1-04(b)(1)(i).
+
+
+
+
+
+
+*§ 5-02 Determination of Replacement Trees.* ::
+
+
+(a) Determination of replacement trees. The number of trees needed to replace each tree approved for removal shall be determined by calculating the size, condition, species and location rating of the tree proposed for removal. If a removal permit is approved by the Commissioner, the Department, no later than ninety (90) days following the filing of a completed application for a permit, shall inform the applicant, based on the factors herein, the number and size of replacement trees to be planted and the period of time during which the replacement trees shall be planted and the fee for such replacements. In order to determine the applicable rating for any tree approved for removal the Department horticultural officer shall take into consideration the following:
+
+   (1) Size. The size rating of a tree shall be determined by measuring the diameter of the tree at breast height (four and one half (4 1/2) feet above the ground) and then calculating the cross sectional area of the trunk in square inches.
+
+   (2) Condition. The condition rating of a tree shall be based on the following factors:
+
+      a. The structure and health of its roots;
+
+      b. The structure and health of its trunk;
+
+      c. The structure and health of its branches;
+
+      d. The health of its small branches and twigs; and
+
+      e. The health of its foliage and/or buds. However, if the Department determines, after consulting with the applicant, that a tree requested for removal is dead or seriously diseased, or otherwise represents a hazard to public safety, such tree will not result in any required replacement trees unless the hazard was caused by actions of the applicant.
+
+   (3) Species. The species rating of a tree shall be based on the magnitude and longevity of the services and benefits the species provides in the City. Magnitude and longevity are established by tree stature at maturity (i.e., mature height), and expected tree lifespan.
+
+   (4) Location. The location factor of a tree shall be determined by considering how well the site supports the tree's biological, physical and chemical needs; and a tree's placement in the landscape with respect to both the tree's positioning within and its relationship to its surroundings.
+
+      a. The rating of the site where a tree is growing is established by considering the following:
+
+         i. whether the site is in a park or landscaped area with ample belowground and overhead growing space;
+
+         ii. whether the site is in the street but there is enough above and below ground space to support the tree;
+
+         iii. whether the species of tree is tolerant of the site's difficult growing conditions, if any;
+
+         iv. whether the site is physically limiting to the tree, but the tree's stature and root system are appropriate for current adjacent infrastructure (e.g., small stature under utility wires or next to a building or retaining wall);
+
+         v. whether the tree is negatively impacted by existing site infrastructure;
+
+         vi. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally sound species;
+
+         vii. whether physical space limitations at the site will challenge the success of the tree over time;
+
+         viii. whether the species of tree is only moderately tolerant of the site's difficult growing conditions, if any;
+
+         ix. whether the tree's stature or root system is inappropriate for adjacent current site infrastructure (e.g., large tree under utility wires or too close to a building foundation or bridge parapet); and
+
+         x. whether the site contains objects, such as houses, power lines, or playgrounds, in the path of tree should it fall and the tree is of a structurally weak species.
+
+      b. The rating for a tree's placement in its surrounding landscape is determined by considering the following:
+
+         i. whether the tree is a native species in or adjacent to a natural area or large park;
+
+         ii. whether the tree is a historic specimen or part of a grove, or is an original planting in a historic landscape;
+
+         iii. whether the tree is the only, or one of a few, in the area;
+
+         iv. whether the tree is extremely complimentary to or prominent within an adjacent view, land use, structure or natural landscape element;
+
+         v. whether the tree is one of a group of plantings and its individual loss would have minimal visual or environmental impact on the entire group of plantings;
+
+         vi. whether the tree is very important within a group of other plantings, such as an allée or along an even-aged block, and its loss would be of high impact to that planting group; and
+
+         vii. whether the tree provides exceptional services based on its location (e.g., shade in a playground or sitting area, property value in front of a building, stormwater absorption in or near a wetland).
+
+   (5) a. Number of Replacement Trees. Based on the factors established in 56 RCNY § 5-02(a)(1) - (4), the Department will determine the required number of replacement trees.
+
+      b. In no case shall the number of replacement trees equal less than one caliper inch of replacement tree for each caliper inch of tree removed.
+
+   (6) Calculation of Fee for a Tree Removal Permit. The Department will determine the total fee for a tree removal permit pursuant to 56 RCNY § 5-01(a) by multiplying the number of required replacement trees by the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree as derived from all Department planting contracts for the City fiscal year preceding the date of the permit application.
+
+   (7) The timing for planting replacement trees shall be determined by the Department's horticultural officer and stated within the permit unless otherwise permitted by law. However, each replacement tree under such a permit shall be planted no later than sixty (60) days after the project for which the tree removal was requested has been completed, or in the next ensuing spring or fall season after such project is completed or earlier as agreed by the applicant and the Department.
+
+   (8) Size of Replacement Trees. All replacement trees will be three (3) inch caliper, unless otherwise authorized by the Department.
+
+(b) Payment to the Department.
+
+   (1) If a person granted a permit pursuant to 56 RCNY § 5-01(a) requests that the Department plant any required replacement trees, such person shall pay the required fee to the Department prior to the issuance of any such permit unless otherwise permitted by law.
+
+   (2) If a person granted a permit pursuant to 56 RCNY § 5-01(a) and subject to paragraph one of this subdivision intends to plant any required replacement trees, such person shall notify the Department in advance and pay the required fee to the Department prior to the issuance of any such permit. If the required replacement tree(s) are planted by the permittee as directed by the Department, the Department shall return any such fee within sixty (60) days of confirmation by the Department that such trees were properly planted by permittee. If any such tree(s) is not replanted as directed by the Department by the time specified within the permit, the Department shall retain such fee for the purpose of planting said replacement trees.
+
+(c) Irreparable Tree Damage. If a tree is damaged beyond recovery or if it is damaged so that it poses a safety risk, as determined by the Department, it shall be removed, including its stump, at the permittee's expense if a permit is in effect pursuant to 56 RCNY § 5-01(a), or at the expense of the person responsible for such damage if no permit is in effect. In such instances, the tree shall be evaluated for replacement purposes pursuant to 56 RCNY § 5-02(a) based on its condition prior to suffering irreparable damage.
+
+(d) Destruction and Tree Removal. If a tree is destroyed and removed without a permit pursuant to 56 RCNY § 5-01(a), there shall be a rebuttable presumption that such tree was in perfect condition prior to such removal. In this instance the tree shall be evaluated pursuant to 56 RCNY § 5-02(a) for all other factors. However, the size of the removed tree shall be determined either by the diameter of the remaining stump or from existing Department records. The cost of the total number of replacement trees to be planted shall equal the appraised value of the destroyed or removed tree.
+
+(e) Injured Trees. If a tree is damaged or injured, but not destroyed or removed, a Department horticultural officer will make the following two (2) appraisals using the method established in 56 RCNY § 5-02(a) in order to determine the value of the damaged or injured tree. The first appraisal shall account for the tree's condition prior to damage or injury. The second appraisal shall account for the tree's condition after damage or injury, with all other factors being equal. The difference between the two appraisals shall equal the replacement value caused by the injury and the sum for which the permit holder or person responsible for the injury is responsible.
+
+(f) The location of replacement trees shall be determined by the Department's horticultural officer unless otherwise permitted by law. To the extent practicable, replacement trees shall be planted within the same community district from which the tree(s) that were the subject of the permit were removed. Where the horticultural officer determines that it is not feasible to plant the total number of replacement trees at the subject location, the person granted the permit under 56 RCNY § 5-01(a) shall be required to plant the remaining replacement trees at locations capable of accommodating such planting, either as close as possible to the property from which the original trees were removed, destroyed or severely damaged, or as the horticultural officer deems feasible. The person granted the permit under 56 RCNY § 5-01(a) may propose in writing to the horticultural officer alternate locations, so that provision may be made for the planting of all required replacement trees. Where the horticultural officer determines that a proposed alternate location or the number of replacement trees proposed to be planted at an alternate location is not feasible, the horticultural officer may select other locations to accommodate the planting of all required replacement trees.
+
+
+
+
+
+
+*§ 5-03 Tree Planting in Lieu of Obligations under the Zoning Requirements.* ::
+
+
+If a person or entity is required under Zoning Resolution Article 2, Chapter 6, Section 41 to plant street trees, but pursuant to the Zoning Resolution such person or entity is required or opts to have the Department plant such trees on such person or entity's behalf, then the person or entity must deposit the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree based on Department planting contracts for the preceding City fiscal year, in an account of the City as directed by the Department, unless otherwise permitted by law.
 
 
 
