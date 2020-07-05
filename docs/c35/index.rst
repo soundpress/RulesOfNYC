@@ -6,6 +6,121 @@ Title 52: Campaign Finance Board*
 
 
 
+*§ 2-01 Filer Registration.* ::
+
+
+A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
+
+(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
+
+(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
+
+(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
+
+(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
+
+(e) Contents. The Filer Registration must include:
+
+   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
+
+   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
+
+   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
+
+   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
+
+   (v) other information as required by the Board.
+
+(f) Small campaign registration.
+
+   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
+
+   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
+
+
+
+
+
+
+
+
+*§ 2-02 Certification.* ::
+
+
+To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
+
+(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
+
+(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
+
+(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
+
+(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
+
+(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
+
+(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
+
+
+
+
+
+
+
+
+*§ 2-03 Amendments to Filer Registration or Certification.* ::
+
+
+The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
+
+
+
+
+
+
+
+
+*§ 2-04 Non-Participants.* ::
+
+
+A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
+
+
+
+
+
+
+
+
+*§ 2-05 Petition for Extraordinary Circumstances.* ::
+
+
+(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
+
+(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
+
+
+
+
+
+
+
+
+*§ 2-06 Training.* ::
+
+
+A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
 *§ 1-01 Scope of Rules.* ::
 
 
@@ -284,121 +399,6 @@ The Board will not accept any electronic disclosure statement or other document,
 (a) If any provision of these rules or portion thereof is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the remainder of these rules.
 
 (b) If the application of any provision of these rules or portion thereof to any individual, entity, or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the application thereof to other individuals, entities, and circumstances.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
-*§ 2-01 Filer Registration.* ::
-
-
-A candidate must submit a Filer Registration, prior to filing disclosure statements, in the form and manner required by the Board, unless such candidate has previously submitted a Certification for the same election.
-
-(a) Not a statement of intent. The submission of a Filer Registration shall not be construed as a statement of intent to run for any particular office or to join the Program.
-
-(b) Applicable requirements. Because the requirements of the Act and these rules apply to financial transactions that take place before a candidate joins the Program, the Board advises candidates to begin compliance with all applicable requirements set forth in the Act and these rules prior to joining the Program.
-
-(c) Deadline. A candidate must submit a complete Filer Registration no later than the day that the candidate files the first disclosure statement for an election.
-
-(d) Form. The Filer Registration must contain any signatures and notarizations as may be required by the Board.
-
-(e) Contents. The Filer Registration must include:
-
-   (i) the candidate's name, residential address information and telephone numbers, email address, and employment information;
-
-   (ii) the name and mailing address, and treasurer name, treasurer residential address information and telephone numbers, treasurer email address, and treasurer employment information, of every political committee authorized by the candidate that has not been terminated, and, in the case of a participant or limited participant, an indication of which such committee is the principal committee;
-
-   (iii) the name, mailing address, email address, and telephone number of any person designated by the candidate to act as liaison with the Board for each committee filing disclosure statements;
-
-   (iv) identification of all bank accounts and other depository accounts, including merchant and payment processor accounts, into which receipts have been, or will be, deposited, and all bank accounts used for the purpose of repaying debt from a previous election; and
-
-   (v) other information as required by the Board.
-
-(f) Small campaign registration.
-
-   (i) If neither the expected total cumulative receipts nor the expected total cumulative expenditures of a campaign, including expenditures made with the candidate's personal funds, exceeds an amount equal to the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate may, instead of submitting a Filer Registration, submit a small campaign registration form, which must contain such information as may be required by the Board. The small campaign registration form must also include an affirmation stating that neither the total cumulative receipts nor the total cumulative expenditures of the campaign, including expenditures made with the candidate's personal funds, will exceed the amount applicable to qualify for the exception provided in § 14-124(4) of the New York State Election Law, and that if such amount is exceeded, beginning on or before the deadline to file the next disclosure statement, the candidate will submit a Filer Registration and all subsequent required disclosure statements, which must include all prior financial activity beginning at the inception of the campaign.
-
-   (ii) A candidate who has filed a small campaign registration form pursuant to this section need not submit disclosure statements. If a candidate who has filed a small campaign registration form raises or spends an amount exceeding the amount necessary to qualify for the exception provided in § 14-124(4) of the New York State Election Law, the candidate must submit a Filer Registration and all subsequent required disclosure statements, beginning on or before the deadline to file the next disclosure statement. The first such statement filed must include all prior financial activity beginning at the inception of the campaign.
-
-
-
-
-
-
-
-
-*§ 2-02 Certification.* ::
-
-
-To join the Program, a candidate must submit a Certification by the election year's deadline date as provided in § 3-703(1)(c) of the Code. A candidate may submit a Certification, in lieu of the Filer Registration, prior to filing disclosure statements.
-
-(a) Applicability. The Certification applies to all covered elections that are held in the same calendar year or to a special election to fill a vacancy in an office covered by the Act. A candidate need only file one Certification for the primary and general election, and any related runoff election. Special elections and all other elections require a separate Certification.
-
-(b) Deadlines. The deadline for filing a Certification shall be: (i) in the case of a primary or general election, the later of the tenth of June in the year of the covered election or the thirtieth day after a special election is held to fill a vacancy for the office sought by the candidate; or (ii) in the case of the declaration of an extraordinary circumstance, on or before the seventh day following the declaration by the Board of the extraordinary circumstance.
-
-(c) Rescission; Failure to timely certify. A candidate may rescind such candidate's Certification by submitting a Certification rescission form on or before the ninth Monday preceding the primary election or prior to the receipt of public funds, whichever occurs first. A candidate who rescinds a Certification in a timely manner or who does not file a timely Certification shall be deemed to be a non-participant.
-
-(d) Form. The Certification must contain any signatures and notarizations as may be required by the Board. A candidate who has already submitted a Filer Registration may submit a Certification in electronic format, except that if a new principal committee treasurer has been appointed since the Filer Registration was submitted, the Certification must be submitted in non-electronic format. A Certification submitted in a non-electronic format must contain an original notarized signature from both the candidate and the principal committee treasurer.
-
-(e) Contents. The Certification must include all filer registration information required by 52 RCNY § 2-01 and such other information as required by the Board, including all information necessary to receive payment by electronic funds transfer. In the Certification, the candidate shall designate a principal committee.
-
-(f) Legal effect. The candidate must comply fully with Program requirements in all elections for which the Certification is submitted, regardless of the office sought and regardless of whether the candidate: (1) meets all the requirements of law to have such candidate's name on the ballot in the election; (2) meets the Act's threshold for eligibility for public funds; (3) accepts public funds; or (4) is otherwise not eligible to receive public funds in the election.
-
-
-
-
-
-
-
-
-*§ 2-03 Amendments to Filer Registration or Certification.* ::
-
-
-The candidate must notify the Board of any material change in the information required to be listed on the candidate's Filer Registration or Certification occurring prior to the covered election or within a period of five years following the covered election, including any new information, or any change to any required information, concerning any political committee, bank account, merchant or payment processor account, candidate or treasurer employment, address, telephone number, or email address, in such manner as may be provided by the Board. Such notification must be submitted no later than the next deadline for filing a disclosure statement, or, in the case of changes that occur after the deadline for the last disclosure statement required to be filed, no later than 30 days after the date of the change; provided, however, that if the candidate has extinguished all outstanding liabilities resulting from the applicable election, including payment of any penalties or repayment of public funds owed to the Board, the candidate need not notify the Board of any material change after the issuance of the candidate's final audit report.
-
-
-
-
-
-
-
-
-*§ 2-04 Non-Participants.* ::
-
-
-A non-participant is not eligible to receive public funds pursuant to § 3-705 of the Code and shall not be subject to the expenditure limitations provided in § 3-706 of the Code. A non-participant is not subject to the contribution limitations set forth in §§ 3-703(1)(f) and (1-a) of the Code when such contributions are made from the non-participant's personal funds or personal property, including funds or property jointly held with the non-participant's spouse, domestic partner, or unemancipated children. A non-participant is subject to the contribution and disclosure requirements provided in § 3-718 of the Code, and may be subject to penalties pursuant to §§ 3-710.5 and 3-711 of the Code for violations of the Act and of these rules.
-
-
-
-
-
-
-
-
-*§ 2-05 Petition for Extraordinary Circumstances.* ::
-
-
-(a) Pursuant to § 3-703(1)(c) of the Code, a Certification may be filed on or before the seventh day after the occurrence of an extraordinary circumstance in a covered election. A candidate in such election may file a petition setting forth facts alleged to constitute an extraordinary circumstance within seven days of the date on which the candidate reasonably believes that the extraordinary circumstance occurred. The Board, following review of the petition, or on its own initiative, may declare an extraordinary circumstance.
-
-(b) An "extraordinary circumstance" includes: (i) the death of a candidate in an election, (ii) the resignation or removal of the person holding the office sought, and (iii) the submission to the Board of a written declaration, sworn to or affirmed by the holder of the office sought, terminating such officeholder's campaign for reelection (which may be submitted together with a petition under subdivision (a)).
-
-
-
-
-
-
-
-
-*§ 2-06 Training.* ::
-
-
-A candidate or such candidate's representative must attend a training provided by the Board concerning compliance with the requirements of the Program and use of the disclosure software. Such training must be completed on or before the financial disclosure cut-off date of the 32-day pre-election primary disclosure statement. The individual attending the training may be the candidate, the candidate's campaign manager or treasurer, or another individual with significant managerial control over a campaign (not including campaign consultants). The training attendee must be listed on the candidate's Filer Registration or Certification.
 
 
 
@@ -1852,6 +1852,103 @@ Title 52: Campaign Finance Board*
 
 
 
+*§ 8-01 Payment Determinations.* ::
+
+
+(a) Candidates who fail to demonstrate compliance with the Act and these rules, including candidates who satisfy one or more criteria for ineligibility as provided in 52 RCNY § 3-01(d), are not eligible to receive a post-election public funds payment.
+
+(b) Candidates have the burden of demonstrating eligibility to retain public funds received prior to the election and to receive additional public funds after the election. Candidates who fail to demonstrate eligibility to retain all or a portion of the public funds previously received may be required to repay such amount to the Fund.
+
+(c) A candidate's post-election payment, if any, will be reduced by the amount of any applicable deductions pursuant to 52 RCNY § 7-07(a), if such amounts were not deducted from pre-election public funds payments.
+
+(d) The post-election payment, repayment, or nonpayment determination shall be the final determination regarding that candidate's public funds payment status, except as provided in 52 RCNY § 8-05.
+
+
+
+
+
+
+
+
+*§ 8-02 Amount of Post-Election Payment.* ::
+
+
+(a) Reasons for post-election payment. A post-election payment shall only be made if, at the conclusion of the post-election audit, a candidate has demonstrated unpaid matching claims, a qualified expenditure surplus, and documented outstanding liabilities.
+
+   (i) Unpaid matching claims. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total valid matchable claims multiplied by the applicable matching rate pursuant to § 3-705(2)(a) of the Code exceed the total pre-election payments received by the candidate.
+
+   (ii) Qualified expenditure surplus. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total qualified expenditures exceed the total pre-election payments received by the candidate.
+
+   (iii) Documented outstanding liabilities. Candidates may be entitled to receive a post-election payment equal to the amount of the candidate's properly reported and documented liabilities that remain outstanding, less the amount remaining in the candidate's principal committee bank account.
+
+      (A) Prior to issuing a post-election payment, the Board may require the candidate to submit any bank statements not previously provided.
+
+      (B) In order to be the basis for a post-election payment, an outstanding liability must be reported on or before the due date for the final disclosure statement required to be submitted for the covered election to which the liability relates.
+
+      (C) To document an outstanding liability for the purpose of receiving a post-election payment, the candidate must provide documentation demonstrating that the reported payee has made a commercially reasonable attempt to collect the debt.
+
+   (iv) Post-election payment is smallest amount. The amount of the post-election payment shall be the lowest of the three amounts detailed in paragraphs (i), (ii), and (iii) of this subdivision. If any of these amounts is zero, the candidate is not entitled to receive a post-election public funds payment.
+
+(b) Statutory maximum. Combined with the total pre-election payments received by the candidate, the post-election payment shall not exceed the maximum payment allowed for each election in which the candidate was a participant pursuant to § 3-705(2)(b) of the Code.
+
+
+
+
+
+
+
+
+*§ 8-03 Use of Final Post-Election Payment.* ::
+
+
+Before the Board makes the final post-election payment determination, if eligible, the candidate must submit to the Board bills or other documentation of outstanding debt for which such payment will be used. Within 60 days after the final public funds payment, the candidate must demonstrate that the public funds were used to pay such outstanding debt. If such demonstration is not made, the candidate must repay the public funds to the Board.
+
+
+
+
+
+
+
+
+*§ 8-04 Disclosure Statement Amendments.* ::
+
+
+The Board shall not make payments based on disclosure statement amendments filed after January 15 in the year following the year of the election; provided, however, that the Board may make payments based upon such amendments solely if they are made in response to invalid matching claims reports or expenditure sample reports to which the Board has requested a response after January 15 in the year following the year of the election.
+
+
+
+
+
+
+
+
+*§ 8-05 Post-Election Petitions for Review.* ::
+
+
+(a) After the Board provides a candidate a written determination specifying the basis for payment or non-payment of public funds after the election, the candidate may petition the Board in writing for reconsideration of such determination.
+
+(b) A petition for review of a post-election payment determination must be submitted within 30 days of the candidate's final audit report, and must include:
+
+   (i) a statement of the grounds for reconsideration;
+
+   (ii) information or documentation that was unavailable to the Board previously and is material to such determination;
+
+   (iii) a showing that the candidate had good cause for the previous failure to provide such information or documentation; and
+
+   (iv) either a request to appear before the Board concerning the petition or a statement that the candidate waives such candidate's right to appear.
+
+(c) The Board shall timely issue a written determination on the subject of the petition. If the petition is denied, the determination shall inform the candidate of the right to appeal such determination pursuant to Article 78 of the Civil Practice Law and Rules.
+
+
+
+
+
+
+Title 52: Campaign Finance Board*
+--------------------------------------------------
+
+
+
 *§ 7-01 Eligibility.* ::
 
 
@@ -2146,103 +2243,6 @@ The Board shall notify the candidate in writing of any non-payment determination
       (D) The Board will respond within five business days of the filing of such petition.
 
    (viii) Appeal. A party may bring a special proceeding as set forth in Article 78 of the Civil Practice Law and Rules within four months of the Board's final determination denying the petition for reconsideration.
-
-
-
-
-
-
-Title 52: Campaign Finance Board*
---------------------------------------------------
-
-
-
-*§ 8-01 Payment Determinations.* ::
-
-
-(a) Candidates who fail to demonstrate compliance with the Act and these rules, including candidates who satisfy one or more criteria for ineligibility as provided in 52 RCNY § 3-01(d), are not eligible to receive a post-election public funds payment.
-
-(b) Candidates have the burden of demonstrating eligibility to retain public funds received prior to the election and to receive additional public funds after the election. Candidates who fail to demonstrate eligibility to retain all or a portion of the public funds previously received may be required to repay such amount to the Fund.
-
-(c) A candidate's post-election payment, if any, will be reduced by the amount of any applicable deductions pursuant to 52 RCNY § 7-07(a), if such amounts were not deducted from pre-election public funds payments.
-
-(d) The post-election payment, repayment, or nonpayment determination shall be the final determination regarding that candidate's public funds payment status, except as provided in 52 RCNY § 8-05.
-
-
-
-
-
-
-
-
-*§ 8-02 Amount of Post-Election Payment.* ::
-
-
-(a) Reasons for post-election payment. A post-election payment shall only be made if, at the conclusion of the post-election audit, a candidate has demonstrated unpaid matching claims, a qualified expenditure surplus, and documented outstanding liabilities.
-
-   (i) Unpaid matching claims. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total valid matchable claims multiplied by the applicable matching rate pursuant to § 3-705(2)(a) of the Code exceed the total pre-election payments received by the candidate.
-
-   (ii) Qualified expenditure surplus. Candidates may be entitled to receive a post-election payment equal to the amount by which the candidate's total qualified expenditures exceed the total pre-election payments received by the candidate.
-
-   (iii) Documented outstanding liabilities. Candidates may be entitled to receive a post-election payment equal to the amount of the candidate's properly reported and documented liabilities that remain outstanding, less the amount remaining in the candidate's principal committee bank account.
-
-      (A) Prior to issuing a post-election payment, the Board may require the candidate to submit any bank statements not previously provided.
-
-      (B) In order to be the basis for a post-election payment, an outstanding liability must be reported on or before the due date for the final disclosure statement required to be submitted for the covered election to which the liability relates.
-
-      (C) To document an outstanding liability for the purpose of receiving a post-election payment, the candidate must provide documentation demonstrating that the reported payee has made a commercially reasonable attempt to collect the debt.
-
-   (iv) Post-election payment is smallest amount. The amount of the post-election payment shall be the lowest of the three amounts detailed in paragraphs (i), (ii), and (iii) of this subdivision. If any of these amounts is zero, the candidate is not entitled to receive a post-election public funds payment.
-
-(b) Statutory maximum. Combined with the total pre-election payments received by the candidate, the post-election payment shall not exceed the maximum payment allowed for each election in which the candidate was a participant pursuant to § 3-705(2)(b) of the Code.
-
-
-
-
-
-
-
-
-*§ 8-03 Use of Final Post-Election Payment.* ::
-
-
-Before the Board makes the final post-election payment determination, if eligible, the candidate must submit to the Board bills or other documentation of outstanding debt for which such payment will be used. Within 60 days after the final public funds payment, the candidate must demonstrate that the public funds were used to pay such outstanding debt. If such demonstration is not made, the candidate must repay the public funds to the Board.
-
-
-
-
-
-
-
-
-*§ 8-04 Disclosure Statement Amendments.* ::
-
-
-The Board shall not make payments based on disclosure statement amendments filed after January 15 in the year following the year of the election; provided, however, that the Board may make payments based upon such amendments solely if they are made in response to invalid matching claims reports or expenditure sample reports to which the Board has requested a response after January 15 in the year following the year of the election.
-
-
-
-
-
-
-
-
-*§ 8-05 Post-Election Petitions for Review.* ::
-
-
-(a) After the Board provides a candidate a written determination specifying the basis for payment or non-payment of public funds after the election, the candidate may petition the Board in writing for reconsideration of such determination.
-
-(b) A petition for review of a post-election payment determination must be submitted within 30 days of the candidate's final audit report, and must include:
-
-   (i) a statement of the grounds for reconsideration;
-
-   (ii) information or documentation that was unavailable to the Board previously and is material to such determination;
-
-   (iii) a showing that the candidate had good cause for the previous failure to provide such information or documentation; and
-
-   (iv) either a request to appear before the Board concerning the petition or a statement that the candidate waives such candidate's right to appear.
-
-(c) The Board shall timely issue a written determination on the subject of the petition. If the petition is denied, the determination shall inform the candidate of the right to appeal such determination pursuant to Article 78 of the Civil Practice Law and Rules.
 
 
 
