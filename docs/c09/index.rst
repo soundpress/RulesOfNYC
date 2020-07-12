@@ -17611,6 +17611,8 @@ Chapter 33: Filing of Income and Expense Statements
 
    (3) Notwithstanding any other provision of this subdivision, an income and expense statement must be filed for the commercial portion of a property owned by a not-for-profit organization or government entity if the property is leased to a commercial tenant, and in such cases, the commercial tenant may file the income and expense statement. Notwithstanding the preceding sentence, no income and expense statement is required if the use of the property by the commercial tenant is an exempt use under the provisions of the Real Property Tax Law and if real property owned by such tenant, if it owned any, is or would be exempt from taxation under the Real Property Tax Law, and if the rent paid by such tenant does not exceed the amount of the carrying, maintenance and depreciation charges of the portion of the property occupied by such tenant.
 
+   (4) Notwithstanding any other provision of this subdivision, the owner of a ground floor or second floor commercial premises, as such terms are defined in subdivision a of section 11-3001 of the Administrative Code of the City of New York, as added by local law number 157 for the year 2019, must file a registration statement and, if applicable, a supplemental registration statement pursuant to section Chapter 30 of Title 11 of the Administrative Code of the City of New York, as added by local law number 157 for the year 2019, in conjunction with the income and expense statement.
+
 (c) Income and expense items.
 
    (1) Income items shall include but shall not be limited to the following:
@@ -17666,6 +17668,8 @@ Chapter 33: Filing of Income and Expense Statements
       (xiii) real estate taxes – total annual real property taxes paid or accrued or in the case of a senior citizen rent increase exemption, the total tax levied; and
 
       (xiv) miscellaneous expenses – other expenses not mentioned above relating to the operation and maintenance of the property, excluding depreciation expenses, mortgage payments or interest expenses of any type.
+
+
 
 
 
@@ -22868,6 +22872,23 @@ An eligible building shall receive an abatement of real property taxes as provid
 (g) If an apportionment or merger occurs after an MCI order is issued by DHCR, the department will make the appropriate allocation of the MCI tax abatement to the successor tax lots.
 
 (h) In enacting the MCI tax abatement the department in no way intends to affect the legal status of any apartment in an eligible building. Should it ever be determined that the receipt of an MCI tax abatement will affect the legal status of an apartment in a building, such as subjecting a decontrolled apartment to rent regulation, the building owner may withdraw its pending application for an MCI tax abatement or renounce an MCI tax abatement that has been received. Such renunciation by the building owner shall be deemed to void the MCI tax abatement ab initio. If an eligible building owner renounces an MCI tax abatement received, the building owner shall have thirty (30) days to pay the revised tax bill without interest being imposed.
+
+
+
+
+
+
+Chapter 57: Ground Floor and Second Floor Commercial Premises Registry
+--------------------------------------------------
+
+
+
+*§ 57-01 Registration and Supplemental Registration Statement Fees.* ::
+
+
+(a) Property owners who must submit registration statements and, if applicable, supplemental registration statements pursuant to Chapter 30 of Title 11 of the Administrative Code of the City of New York, as added by local law number 157 for the year 2019, must pay an annual filing fee of $30. The department will send an invoice to such property owners for the filing fee upon electronic receipt of the registration statement.
+
+(b) No filing fee is required for any class one property or building owned by a not-for-profit organization fully exempt from property taxation under section 420-a or 420-b of the real property tax law or any federal, state or government agency.
 
 
 

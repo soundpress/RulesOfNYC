@@ -982,6 +982,12 @@ Chapter 4: Traffic Rules and Regulations
 
    (10) Restricted area. The Parking Violations Bureau shall be authorized to establish a separate fine schedule for violations committed in the restricted area, as defined herein. Such fine schedule may be higher than the fine schedule for violations committed outside the restricted area. As used herein, restricted area shall mean all of Manhattan, south from the north building line on 96th Street but excluding all of Central Park.
 
+   (11) Temporary Emergency Food Delivery Program.
+
+      (i) Notwithstanding any other provision of these rules, the operator and owner of a vehicle designated by the New York City Department of Emergency Management and engaged in delivering free meals to a recipient of food pursuant to the temporary emergency food delivery program established in Title 72 of the Rules of the City of New York shall be exempt from the parking and standing rules of this section while such operator is actually performing a delivery in such program, not to exceed 20 minutes. It shall be an affirmative defense to any summons issued for violation of such rules that the operator of the vehicle to which such summons was issued was engaged in the activity described in this paragraph, upon presentation by such operator of proof of such activity issued by the City of New York, and that such vehicle, at the time of the issuance of such summons, was parked or standing for 20 minutes or less.
+
+      (ii) The provisions of this paragraph shall be deemed effective as of March 24, 2020.
+
 (b) Violation of posted no stopping rules prohibited. When official signs, markings or traffic-control devices have been posted prohibiting, restricting or limiting the stopping of vehicles, no person shall stop, stand or park any vehicle in violation of the restrictions posted on such signs, markings or traffic-control devices.
 
 (c) Violation of posted no standing rules prohibited. When official signs, markings or traffic-control devices have been posted prohibiting, restricting or limiting the standing of vehicles, no person shall stand or park any vehicle in violation of the restrictions posted on such signs, markings or traffic-control devices, except as otherwise provided herein:
@@ -1700,7 +1706,9 @@ Chapter 4: Traffic Rules and Regulations
 
          (C) in emergency evacuations where necessary to operate wheelchair lifts.
 
+(Amended City Record 10/14/2015, eff. 11/13/2015; amended City Record 3/21/2017, eff. 4/20/2017; amended City Record 9/11/2017, eff. 10/11/2017; amended City Record 7/2/2018, eff. 8/1/2018; amended City Record 5/13/2019, eff. 6/12/2019; amended City Record 5/17/2019, eff. 6/16/2019; amended City Record 2/7/2020, eff. 3/8/2020; amended City Record 6/1/2020, eff. 6/1/2020*)
 
+* Editor's note: Paragraph (a)(11) was added by emergency rule on June 1, 2020. Pursuant to section 1043(i)(2) of the New York City Charter, the emergency rule will remain in effect for not more than 120 days while NYCDOT prepares a permanent rule.
 
 
 

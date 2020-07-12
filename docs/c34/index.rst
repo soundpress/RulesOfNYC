@@ -1177,163 +1177,6 @@ Forgery in the second degree is a Class D felony.
 
 
 
-Chapter 3: Marriages
---------------------------------------------------
-
-
-
-*§ 3-01 Marriage License Application Forms.* ::
-
-
-(a) Both parties must be present in order to obtain a blank marriage license application. The prospective bride and prospective groom must fill out the application in the City Clerk's office and present it for processing.
-
-(b) Under no circumstances shall a clerk give out a blank application for a marriage license unless both the prospective bride and prospective groom are personally present before that clerk, except that where, for religious or health reasons or, in the sole discretion of the City Clerk, by reason of other exigent circumstances, both parties to the marriage cannot be present at the same time, the City Clerk may waive the requirement imposed by subdivision (a) of this section.
-
-(c) The foregoing do not apply to cases where City Clerk personnel must issue a marriage license in a prison or a hospital or where the parties have submitted the application for a marriage license by electronic means.
-
-
-
-
-
-
-*§ 3-02 Issuing Licenses Outside of the Office.* ::
-
-
-Marriage licenses may be issued only at the Marriage Bureau in the ordinary course of the business day. There are only two exceptions to this section: cases where an individual is confined to a hospital, and cases where an individual is confined in prison. Such issuance is strictly a courtesy, and is therefore entirely subject to the availability of personnel and the schedule of the office.
-
-(a) In a hospital case, there are three requirements that must be met before a license may be issued:
-
-   (1) the parties must present a statement from the doctor indicating that the sick party is seriously ill, that he or she will be confined to the hospital for a very long period of time, that there is a possibility that the sick person will not survive the illness, and that the sick person is mentally competent to apply for the marriage license; and
-
-   (2) the parties must call ahead of time or make arrangements for the license to be issued; and
-
-   (3) the parties must be willing to furnish our clerk with transportation to and from the hospital, and must arrange on their own for someone to return to the office to pick up the marriage license after it has been prepared.
-
-(b) In a prison case, the requirements are as follows:
-
-   (1) the parties must present a written statement from the social worker, warden, or other authorized person granting consent for the issuing of the marriage license in the prison; and
-
-   (2) the parties must contact the office ahead of time to request the license to be issued and to make all necessary preparations.
-
-
-
-
-
-
-*§ 3-03 Hearings Pursuant to Domestic Relations Law § 15.* ::
-
-
-(a)  Production of witnesses or notarized affidavits to establish identity. If in the opinion of the issuing clerk there appears to be some question as to the identity of one or both of the parties, the City Clerk, pursuant to the provisions of § 15 of the New York State Domestic Relations Law, may compel the production of witnesses, certified official records or notarized affidavits to establish the identity of the parties.
-
-(b) Request for review of City Clerk's preliminary denial of marriage license.
-
-   (1) Applicants who have been preliminarily denied a marriage license by the City Clerk may request a review of such determination by paying a $25 fee and filing a request for a review on such form as may be provided by the City Clerk no later than 30 days after such preliminary denial. The City Clerk may waive this fee upon a showing of financial hardship.
-
-   (2) Duty of the City Clerk. Within fifteen days of receipt of a request for review the City Clerk shall forward to the Office of Administrative Trials and Hearings (OATH) such request for review, a written statement outlining the reason for the preliminary denial of the marriage license and the documentary evidence supporting the preliminary denial, all of which documentation with the exception of the request for review shall constitute the petition. A copy of the petition shall be mailed contemporaneously to the applicant via certified mail return receipt requested.
-
-   (3) Notice to spouse of record. Where the marriage license was denied because of the existence in the records of the City Clerk of a prior non-terminated marriage, the City Clerk shall exert its best efforts to notify the spouse of record of the impending action. The spouse of record shall be given twenty-one days from the date of mailing to respond to such notification. In such response, the spouse of record may request an opportunity to be heard on the issue, either in writing or at the hearing, if OATH decides a hearing is warranted. Upon request contained in such response, the City Clerk shall forward to the spouse of record all documentation exchanged among OATH, the City Clerk and the applicant.
-
-   (4) Applicant's duty to respond. Applicant shall, no later than thirty days after he or she receives the petition, submit in duplicate an answer to the City Clerk including therein any documentary evidence or other proof which may include notarized affidavits in support of his or her claim. Upon written request of the applicant stating the specific reason for such request, submitted no later than five days prior to the due date for such answer, the City Clerk may for good cause grant an extension of time for applicant to submit the same. Upon receipt of the answer the City Clerk shall forward a copy thereof to OATH. Applicant's failure to respond by the deadline set forth herein, including any extension granted by the City Clerk pursuant to this sub-paragraph, shall be deemed a withdrawal of the applicant's challenge to the City Clerk's preliminary decision and such preliminary decision shall thereafter be deemed final.
-
-   (5) Designation of OATH. Pursuant to Charter § 1048, the City Clerk designates OATH to conduct on its behalf all the reviews and hearings referred to herein.
-
-   (6) The reviewing officer. An administrative law judge ("ALJ") employed by OATH shall review the petition and the answer no later than fifteen days after the date of receipt of both the petition and the answer as well as any documentation presented by the spouse of record, if any. If upon such review the ALJ shall conclude that such evidence is sufficient to form a conclusion then the ALJ shall prepare no later than thirty days after receipt of all of the documents referred to in the first sentence of this paragraph a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition. Alternatively, if the ALJ shall conclude that the evidence presented is insufficient to form a conclusion, the ALJ shall convene a hearing at a date to be determined in such ALJ's sole discretion but no later than sixty days from the date of such initial review. Upon notification thereof by such ALJ, which notification may be electronic, the City Clerk, not later than five days after the date of such notification, shall notify the applicant as well as his or her attorney or other representative, if any, and the spouse of record, if any, of the date of the hearing by certified mail, return receipt requested. Such notification shall be post-marked no later than thirty days prior to the date of such hearing.
-
-   (7) Use of expert witness. It shall be the obligation of any party intending to present the testimony of expert witness or witnesses at the hearing to notify the ALJ and the opposing parties of such intention no later than fifteen days prior to the date of the hearing and to submit to both the ALJ and the opposing parties no later than seven days prior to the date of the hearing copies of any reports, filings or any other documentation produced by such expert witness or witnesses which such party intends to use at the hearing. The ALJ may grant an extension of time to the parties.
-
-   (8) The hearing. The ALJ shall preside over the hearing, make all procedural rulings, and make a statement on the record describing the nature of the proceedings, the issues, and the manner in which the hearing will be conducted. The ALJ shall have all the requisite powers conferred by law to administer oaths, issue subpoenas, require the attendance of witnesses and production of records, rule upon requests for adjournment, rule upon evidentiary matters and to otherwise regulate the hearing, observe the requirements of due process and effectuate the purposes and provisions of applicable law. All testimony shall be given under oath or affirmation administered by the ALJ. The City Clerk shall have the burden of demonstrating by a preponderance of the evidence that the applicant should not be granted a marriage license.
-
-   (9) The applicant and the spouse of record, if any, may be represented by an attorney or other representative of his or her choice.
-
-   (10) The applicant as well as the City Clerk and the spouse of record, if any, may have witnesses, may give testimony and may otherwise present relevant and material evidence on his or her behalf, may cross-examine witnesses and may examine any document or other item offered into evidence.
-
-   (11) A recorded copy of the record of the hearing shall be prepared by OATH; upon request a compact disc audio recording of the hearing, at no cost, or a transcript of the hearing, at a cost to be determined by OATH, may be provided.
-
-   (12) At the discretion of the ALJ, the hearing may be adjourned for good cause upon the request of any of the parties or upon the ALJ's own motion and with notice to the parties.
-
-   (13) The hearing shall be conducted in conformity with procedural requirements of applicable law and the rules of procedure adopted by OATH which are not inconsistent with these rules. In the event of any conflict of laws, the rules of this section shall be determinative and controlling.
-
-   (14) After the conclusion of the hearing, the ALJ shall prepare a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and a recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition.
-
-   (15) Final decision.
-
-      (i) The City Clerk's final decision shall be in writing and shall state reasons for the determinations and, when appropriate, direct specific action. Notwithstanding the foregoing, such final decision need not be a separate formal document and a report submitted to the City Clerk pursuant to paragraph b(6) or b(14) hereof together with a letter from the City Clerk concurring with the recommended findings of fact and recommended disposition shall constitute a final decision. In reaching such final decision, the City Clerk may review the petition and answer and memoranda of law of the parties, if any, and any record of the hearing. The City Clerk shall not be bound by the ALJ's recommendation.
-
-      (ii) A copy of such final decision shall be mailed by the City Clerk to the applicant and his or her attorney or representative, if any, and the spouse of record, if any.
-
-      (iii) Any of the aggrieved parties have the right to judicial review in accordance with the provisions of Article 78 of the Civil Practice Law and Rules.
-
-
-
-
-
-
-*§ 3-04 Marriage Chapel.* ::
-
-
-(a) The Office of the City Clerk performs civil marriage ceremonies only. No references to religion or deity are made.
-
-(b) Where the personal presence of "both parents" at the wedding ceremony is required by § 11-a(c) of the Domestic Relations Law, the Office of the City Clerk shall deem the requirement met when the party or parties whose consent was required for the issuance of the license is/are personally present at the wedding ceremony. All such parties must have proper identification with them showing their signature. In addition, custodial parents must present a divorce decree or death certificate; guardians must present guardianship papers.
-
-(c) Every couple must have at least one witness who must be at least 18 years of age.
-
-(d) Food and drink are not allowed in any City Clerk's Office chapel or chapel waiting room. The throwing of rice or other objects is also prohibited.
-
-
-
-
-
-
-*§ 3-05 Release of Marriage Records.* ::
-
-
-(a) In the ordinary course of business, marriage records shall be released only:
-
-   (1) to the parties to the marriage;
-
-   (2) to individuals presenting written authorization from one of the parties to the marriage (the authorization must be notarized); or
-
-   (3) to attorneys in cases where such records are required as evidence in a legal proceeding. The following restrictions do not apply to records that are at least 50 years old, or to records where both parties to the marriage are deceased.
-
-(b) Where a party to the marriage sends a third party to obtain their marriage record without a letter of authorization, that third party may make the request and pay the fee if that third party consents to having the record mailed directly to the party to the marriage. The record will not be released directly to the unauthorized third party.
-
-(c) If a person requires information regarding a current or prospective spouse's marital history, the Office of the City Clerk will, upon the payment of the appropriate search fee, the furnishing of an approximate marriage date, and sufficient information to search under at least one party's name, confirm only the fact of a prior marriage or a subsequent fraudulent acquisition of a marriage certificate with a party other than the inquiring spouse subsequent to their marriage by a "yes" or "no" answer. Under no circumstances will a copy of the record be provided. Nothing in this rule shall be construed to permit a divorced person to obtain the information described in this sub-paragraph with respect to his or her former spouse.
-
-(d) Any requestors whose requests are refused by the Records Division pursuant to the above subdivisions, but who feel nevertheless that their requests are for a statutorily proper purpose, may send their requests in writing for review by the City Clerk, at 1 Centre Street – Room 265, New York, New York, 10007. Requests may be approved or denied in whole or in part. All approvals shall be in writing.
-
-(e) All over-the-counter requestors must present identification when applying to obtain a marriage record.
-
-(f) Over-the-counter requests may be honored only when accompanied by payment in the form of a money order or certified check.
-
-(g) A person making an over-the-counter record request involving a multi-year search pre-dating 1973 will be asked to return for the results another day, or can have the record mailed to them if they prefer.
-
-
-
-
-
-
-*§ 3-06 Marriage Officiant Registration.* ::
-
-
-Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk will accept the registration of officiants to perform wedding ceremonies within the City of New York upon presentation of documentary proof of authority as outlined below.
-
-(a) In the case of clergy, the person wishing to register (hereafter "the registrant") must comply with one of the following:
-
-   (1) In cases where the denomination publishes a directory of its clergy, the registrant may show that he or she is listed in that directory. If the registrant's name does not yet appear in the denominational directory, the registrant claiming membership in that denomination may instead present written confirmation for that membership from the body that puts out the directory. Such confirmation can also consist of a certificate or letter showing that the registrant graduated from the seminary or theological school pertaining to the denomination.
-
-   (2) In cases where the denomination does not have such a directory, the registrant must show several pieces of documentary proof of authority. First, the registrant must present an ordination certificate accompanied, if necessary, by an English translation thereof. In lieu of an ordination certificate, the registrant must present a "license to minister" or a letter of appointment from his or her religious body, i.e., from its hierarch or its board of trustees. Second, the registrant must present a letter from his or her local congregation verifying that he or she is the pastor or associate pastor of that congregation, and that the congregation therefore consents to the registering of that individual. Lastly, if the church is incorporated, the registrant must present a copy of the articles or incorporation. If the church is not incorporated, the registrant must submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
-
-   (3) In cases where the registrant belongs to a denomination that does not have a directory and does not grant certificates of ordination or license to minister, the registrant must present a letter stating that he or she is the recognized spiritual leader of a congregation, and that the congregation therefore consents to the registering of that individual. The registrant must also submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
-
-(b) In the case of judges, registrants must present identification that shows them to be members of the judiciary of the Unified Court System of the State of New York. In the case of retired judges, registrants must also present proof that they have been certified pursuant to Paragraph (j) of Subdivision two of § 212 of the Judiciary Law.
-
-(c) In the case of all other civil officials authorized to solemnize weddings, registrants must present documentary evidence identifying themselves as holders of their respective offices.
-
-(d) In the case of chaplains of the armed forces of the United States, registrants must present active military identification that indicates their occupation.
-
-
-
-
 Chapter 4: Domestic Partner Registration
 --------------------------------------------------
 
@@ -1513,6 +1356,163 @@ After a domestic partnership has been registered by the City Clerk, such record 
 (a)  Upon receipt of the applicable fee and subsequent to the registration of the domestic partnership, the City Clerk or an emloyee of the City Clerk designated for such purpose shall, upon request, conduct a ceremony in the City Clerk chapel to recognize the formation of a domestic partnership.
 
 (b) No ceremony is required to formalize a domestic partnership.
+
+
+
+
+Chapter 3: Marriages
+--------------------------------------------------
+
+
+
+*§ 3-01 Marriage License Application Forms.* ::
+
+
+(a) Both parties must be present in order to obtain a blank marriage license application. The prospective bride and prospective groom must fill out the application in the City Clerk's office and present it for processing.
+
+(b) Under no circumstances shall a clerk give out a blank application for a marriage license unless both the prospective bride and prospective groom are personally present before that clerk, except that where, for religious or health reasons or, in the sole discretion of the City Clerk, by reason of other exigent circumstances, both parties to the marriage cannot be present at the same time, the City Clerk may waive the requirement imposed by subdivision (a) of this section.
+
+(c) The foregoing do not apply to cases where City Clerk personnel must issue a marriage license in a prison or a hospital or where the parties have submitted the application for a marriage license by electronic means.
+
+
+
+
+
+
+*§ 3-02 Issuing Licenses Outside of the Office.* ::
+
+
+Marriage licenses may be issued only at the Marriage Bureau in the ordinary course of the business day. There are only two exceptions to this section: cases where an individual is confined to a hospital, and cases where an individual is confined in prison. Such issuance is strictly a courtesy, and is therefore entirely subject to the availability of personnel and the schedule of the office.
+
+(a) In a hospital case, there are three requirements that must be met before a license may be issued:
+
+   (1) the parties must present a statement from the doctor indicating that the sick party is seriously ill, that he or she will be confined to the hospital for a very long period of time, that there is a possibility that the sick person will not survive the illness, and that the sick person is mentally competent to apply for the marriage license; and
+
+   (2) the parties must call ahead of time or make arrangements for the license to be issued; and
+
+   (3) the parties must be willing to furnish our clerk with transportation to and from the hospital, and must arrange on their own for someone to return to the office to pick up the marriage license after it has been prepared.
+
+(b) In a prison case, the requirements are as follows:
+
+   (1) the parties must present a written statement from the social worker, warden, or other authorized person granting consent for the issuing of the marriage license in the prison; and
+
+   (2) the parties must contact the office ahead of time to request the license to be issued and to make all necessary preparations.
+
+
+
+
+
+
+*§ 3-03 Hearings Pursuant to Domestic Relations Law § 15.* ::
+
+
+(a)  Production of witnesses or notarized affidavits to establish identity. If in the opinion of the issuing clerk there appears to be some question as to the identity of one or both of the parties, the City Clerk, pursuant to the provisions of § 15 of the New York State Domestic Relations Law, may compel the production of witnesses, certified official records or notarized affidavits to establish the identity of the parties.
+
+(b) Request for review of City Clerk's preliminary denial of marriage license.
+
+   (1) Applicants who have been preliminarily denied a marriage license by the City Clerk may request a review of such determination by paying a $25 fee and filing a request for a review on such form as may be provided by the City Clerk no later than 30 days after such preliminary denial. The City Clerk may waive this fee upon a showing of financial hardship.
+
+   (2) Duty of the City Clerk. Within fifteen days of receipt of a request for review the City Clerk shall forward to the Office of Administrative Trials and Hearings (OATH) such request for review, a written statement outlining the reason for the preliminary denial of the marriage license and the documentary evidence supporting the preliminary denial, all of which documentation with the exception of the request for review shall constitute the petition. A copy of the petition shall be mailed contemporaneously to the applicant via certified mail return receipt requested.
+
+   (3) Notice to spouse of record. Where the marriage license was denied because of the existence in the records of the City Clerk of a prior non-terminated marriage, the City Clerk shall exert its best efforts to notify the spouse of record of the impending action. The spouse of record shall be given twenty-one days from the date of mailing to respond to such notification. In such response, the spouse of record may request an opportunity to be heard on the issue, either in writing or at the hearing, if OATH decides a hearing is warranted. Upon request contained in such response, the City Clerk shall forward to the spouse of record all documentation exchanged among OATH, the City Clerk and the applicant.
+
+   (4) Applicant's duty to respond. Applicant shall, no later than thirty days after he or she receives the petition, submit in duplicate an answer to the City Clerk including therein any documentary evidence or other proof which may include notarized affidavits in support of his or her claim. Upon written request of the applicant stating the specific reason for such request, submitted no later than five days prior to the due date for such answer, the City Clerk may for good cause grant an extension of time for applicant to submit the same. Upon receipt of the answer the City Clerk shall forward a copy thereof to OATH. Applicant's failure to respond by the deadline set forth herein, including any extension granted by the City Clerk pursuant to this sub-paragraph, shall be deemed a withdrawal of the applicant's challenge to the City Clerk's preliminary decision and such preliminary decision shall thereafter be deemed final.
+
+   (5) Designation of OATH. Pursuant to Charter § 1048, the City Clerk designates OATH to conduct on its behalf all the reviews and hearings referred to herein.
+
+   (6) The reviewing officer. An administrative law judge ("ALJ") employed by OATH shall review the petition and the answer no later than fifteen days after the date of receipt of both the petition and the answer as well as any documentation presented by the spouse of record, if any. If upon such review the ALJ shall conclude that such evidence is sufficient to form a conclusion then the ALJ shall prepare no later than thirty days after receipt of all of the documents referred to in the first sentence of this paragraph a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition. Alternatively, if the ALJ shall conclude that the evidence presented is insufficient to form a conclusion, the ALJ shall convene a hearing at a date to be determined in such ALJ's sole discretion but no later than sixty days from the date of such initial review. Upon notification thereof by such ALJ, which notification may be electronic, the City Clerk, not later than five days after the date of such notification, shall notify the applicant as well as his or her attorney or other representative, if any, and the spouse of record, if any, of the date of the hearing by certified mail, return receipt requested. Such notification shall be post-marked no later than thirty days prior to the date of such hearing.
+
+   (7) Use of expert witness. It shall be the obligation of any party intending to present the testimony of expert witness or witnesses at the hearing to notify the ALJ and the opposing parties of such intention no later than fifteen days prior to the date of the hearing and to submit to both the ALJ and the opposing parties no later than seven days prior to the date of the hearing copies of any reports, filings or any other documentation produced by such expert witness or witnesses which such party intends to use at the hearing. The ALJ may grant an extension of time to the parties.
+
+   (8) The hearing. The ALJ shall preside over the hearing, make all procedural rulings, and make a statement on the record describing the nature of the proceedings, the issues, and the manner in which the hearing will be conducted. The ALJ shall have all the requisite powers conferred by law to administer oaths, issue subpoenas, require the attendance of witnesses and production of records, rule upon requests for adjournment, rule upon evidentiary matters and to otherwise regulate the hearing, observe the requirements of due process and effectuate the purposes and provisions of applicable law. All testimony shall be given under oath or affirmation administered by the ALJ. The City Clerk shall have the burden of demonstrating by a preponderance of the evidence that the applicant should not be granted a marriage license.
+
+   (9) The applicant and the spouse of record, if any, may be represented by an attorney or other representative of his or her choice.
+
+   (10) The applicant as well as the City Clerk and the spouse of record, if any, may have witnesses, may give testimony and may otherwise present relevant and material evidence on his or her behalf, may cross-examine witnesses and may examine any document or other item offered into evidence.
+
+   (11) A recorded copy of the record of the hearing shall be prepared by OATH; upon request a compact disc audio recording of the hearing, at no cost, or a transcript of the hearing, at a cost to be determined by OATH, may be provided.
+
+   (12) At the discretion of the ALJ, the hearing may be adjourned for good cause upon the request of any of the parties or upon the ALJ's own motion and with notice to the parties.
+
+   (13) The hearing shall be conducted in conformity with procedural requirements of applicable law and the rules of procedure adopted by OATH which are not inconsistent with these rules. In the event of any conflict of laws, the rules of this section shall be determinative and controlling.
+
+   (14) After the conclusion of the hearing, the ALJ shall prepare a report summarizing the evidence presented, an analysis of the legal and factual issues, recommended findings of fact and a recommended disposition. Such report shall be sent to the City Clerk for a final determination of the facts and a final disposition.
+
+   (15) Final decision.
+
+      (i) The City Clerk's final decision shall be in writing and shall state reasons for the determinations and, when appropriate, direct specific action. Notwithstanding the foregoing, such final decision need not be a separate formal document and a report submitted to the City Clerk pursuant to paragraph b(6) or b(14) hereof together with a letter from the City Clerk concurring with the recommended findings of fact and recommended disposition shall constitute a final decision. In reaching such final decision, the City Clerk may review the petition and answer and memoranda of law of the parties, if any, and any record of the hearing. The City Clerk shall not be bound by the ALJ's recommendation.
+
+      (ii) A copy of such final decision shall be mailed by the City Clerk to the applicant and his or her attorney or representative, if any, and the spouse of record, if any.
+
+      (iii) Any of the aggrieved parties have the right to judicial review in accordance with the provisions of Article 78 of the Civil Practice Law and Rules.
+
+
+
+
+
+
+*§ 3-04 Marriage Chapel.* ::
+
+
+(a) The Office of the City Clerk performs civil marriage ceremonies only. No references to religion or deity are made.
+
+(b) Where the personal presence of "both parents" at the wedding ceremony is required by § 11-a(c) of the Domestic Relations Law, the Office of the City Clerk shall deem the requirement met when the party or parties whose consent was required for the issuance of the license is/are personally present at the wedding ceremony. All such parties must have proper identification with them showing their signature. In addition, custodial parents must present a divorce decree or death certificate; guardians must present guardianship papers.
+
+(c) Every couple must have at least one witness who must be at least 18 years of age.
+
+(d) Food and drink are not allowed in any City Clerk's Office chapel or chapel waiting room. The throwing of rice or other objects is also prohibited.
+
+
+
+
+
+
+*§ 3-05 Release of Marriage Records.* ::
+
+
+(a) In the ordinary course of business, marriage records shall be released only:
+
+   (1) to the parties to the marriage;
+
+   (2) to individuals presenting written authorization from one of the parties to the marriage (the authorization must be notarized); or
+
+   (3) to attorneys in cases where such records are required as evidence in a legal proceeding. The following restrictions do not apply to records that are at least 50 years old, or to records where both parties to the marriage are deceased.
+
+(b) Where a party to the marriage sends a third party to obtain their marriage record without a letter of authorization, that third party may make the request and pay the fee if that third party consents to having the record mailed directly to the party to the marriage. The record will not be released directly to the unauthorized third party.
+
+(c) If a person requires information regarding a current or prospective spouse's marital history, the Office of the City Clerk will, upon the payment of the appropriate search fee, the furnishing of an approximate marriage date, and sufficient information to search under at least one party's name, confirm only the fact of a prior marriage or a subsequent fraudulent acquisition of a marriage certificate with a party other than the inquiring spouse subsequent to their marriage by a "yes" or "no" answer. Under no circumstances will a copy of the record be provided. Nothing in this rule shall be construed to permit a divorced person to obtain the information described in this sub-paragraph with respect to his or her former spouse.
+
+(d) Any requestors whose requests are refused by the Records Division pursuant to the above subdivisions, but who feel nevertheless that their requests are for a statutorily proper purpose, may send their requests in writing for review by the City Clerk, at 1 Centre Street – Room 265, New York, New York, 10007. Requests may be approved or denied in whole or in part. All approvals shall be in writing.
+
+(e) All over-the-counter requestors must present identification when applying to obtain a marriage record.
+
+(f) Over-the-counter requests may be honored only when accompanied by payment in the form of a money order or certified check.
+
+(g) A person making an over-the-counter record request involving a multi-year search pre-dating 1973 will be asked to return for the results another day, or can have the record mailed to them if they prefer.
+
+
+
+
+
+
+*§ 3-06 Marriage Officiant Registration.* ::
+
+
+Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk will accept the registration of officiants to perform wedding ceremonies within the City of New York upon presentation of documentary proof of authority as outlined below.
+
+(a) In the case of clergy, the person wishing to register (hereafter "the registrant") must comply with one of the following:
+
+   (1) In cases where the denomination publishes a directory of its clergy, the registrant may show that he or she is listed in that directory. If the registrant's name does not yet appear in the denominational directory, the registrant claiming membership in that denomination may instead present written confirmation for that membership from the body that puts out the directory. Such confirmation can also consist of a certificate or letter showing that the registrant graduated from the seminary or theological school pertaining to the denomination.
+
+   (2) In cases where the denomination does not have such a directory, the registrant must show several pieces of documentary proof of authority. First, the registrant must present an ordination certificate accompanied, if necessary, by an English translation thereof. In lieu of an ordination certificate, the registrant must present a "license to minister" or a letter of appointment from his or her religious body, i.e., from its hierarch or its board of trustees. Second, the registrant must present a letter from his or her local congregation verifying that he or she is the pastor or associate pastor of that congregation, and that the congregation therefore consents to the registering of that individual. Lastly, if the church is incorporated, the registrant must present a copy of the articles or incorporation. If the church is not incorporated, the registrant must submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
+
+   (3) In cases where the registrant belongs to a denomination that does not have a directory and does not grant certificates of ordination or license to minister, the registrant must present a letter stating that he or she is the recognized spiritual leader of a congregation, and that the congregation therefore consents to the registering of that individual. The registrant must also submit a statement as to the location of the house of worship, the reason for its founding, the number of trustees, the approximate size of its congregation, and how often it meets.
+
+(b) In the case of judges, registrants must present identification that shows them to be members of the judiciary of the Unified Court System of the State of New York. In the case of retired judges, registrants must also present proof that they have been certified pursuant to Paragraph (j) of Subdivision two of § 212 of the Judiciary Law.
+
+(c) In the case of all other civil officials authorized to solemnize weddings, registrants must present documentary evidence identifying themselves as holders of their respective offices.
+
+(d) In the case of chaplains of the armed forces of the United States, registrants must present active military identification that indicates their occupation.
 
 
 

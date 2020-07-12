@@ -2976,21 +2976,19 @@ It is a deceptive trade practice for any seller to collect sales tax on the sale
 
 (a) Definitions.
 
-   "Covered goods or services." The term "covered goods or service" means any good or service that:
+   “Covered goods or services.” The term “covered goods or services” means goods or services that are essential to health, safety or welfare, or are marketed or advertised as such, including but not limited to staple consumer food items such as milk, eggs and bread, goods or services used for emergency cleanup, or emergency supplies such as water, flashlights, radios, batteries, candles, blankets, soaps, diapers, toiletries, medical supplies such as medications, bandages, gauze, isopropyl alcohol, medical masks, and antibacterial products, or gasoline or other motor fuels.
 
-      (i) is reasonably believed by a consumer to aid in diagnosing or monitoring disease symptoms, preventing the spread of disease, or treating disease; or
+   “Excessive price.” The term “excessive price” means 10 percent or more above the price at which the same or similar good or service could have been obtained by a buyer in the City of New York 30 - 60 days prior to the declaration of a state of emergency.
 
-      (ii) is marketed by a merchant as aiding in diagnosing or monitoring disease symptoms, preventing the spread of disease, or treating disease.
+   “Merchant.” The term “merchant” means a seller, lessor, or creditor or any other person who makes available either directly or indirectly, goods, services or credit, to consumers. “Merchant” includes manufacturers, wholesalers and others who are responsible for any act or practice prohibited by this subchapter.
 
-   "Excessive price increase." The term "excessive price increase" means an increase of 10 percent or more above the price at which the same or similar good or service could have been obtained by consumers in the City of New York 30 - 60 days prior to the adoption of this rule.
+(b) (1) It is an unconscionable trade practice for a merchant to sell or offer for sale covered goods or services at an excessive price during a declared state of emergency in the City of New York.
 
-   "Imminent threat to public health." The term "imminent threat to public health" means an outbreak of disease, found to be an imminent threat to public health or safety by the City of New York or the subject of a State of Emergency within the City of New York.
+   (2) Exceptions. A merchant is permitted to sell or offer for sale covered goods or services at an excessive price if such merchant:
 
-   "Merchant." The term "merchant" means a seller, lessor, or creditor or any other person who makes available either directly or indirectly, goods, services or credit, to consumers. "Merchant" includes manufacturers, wholesalers and others who are responsible for any act or practice prohibited by this subchapter.
+      (i) has increased its price of such goods or services to an excessive price as a direct result of costs imposed on such merchant by the supplier of such goods or services, or such increase in the price of such goods or services is directly attributable to additional costs for labor or materials used to provide the goods or services, provided that the increase charged to the buyer is comparable to the increase incurred by the merchant; or
 
-(b) (1) It shall be an unconscionable trade practice for a merchant to sell or offer for sale covered goods or services with an excessive price increase during an imminent threat to public health.
-
-   (2) An increase in price shall be considered lawful if the merchant establishes that the increase was directly attributable to additional costs imposed on it by the supplier of the goods, or directly attributable to additional costs for labor or materials used to provide the services, provided that the increase charged to the consumer is comparable to the increase incurred by the merchant.
+      (ii) sold or offered for sale such covered goods or services to buyers in the City of New York at an excessive price 30 days prior to the declaration of a state of emergency and such merchant has not increased the price of such goods or services during the state of emergency, or in the 30 days prior to such declaration, except in accordance with subdivision (i).
 
    (3) Each sale or offer for sale in violation of this rule constitutes a separate violation.
 
@@ -3955,7 +3953,7 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
    (10) the false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by 15 U.S.C. § 1681a(f);
 
-   (11) the use of distribution of any written communication which simulates or is falsely represented to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, or which creates a false impression as to its source, authorization, or approval;
+   (11) the use or distribution of any written communication which simulates or is falsely represented to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, or which creates a false impression as to its source, authorization, or approval;
 
    (12) the use of any false representation or deceptive means to collect or attempt to collect any debt or to obtain information concerning a consumer;
 
@@ -3965,9 +3963,13 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
    (15) except as otherwise provided under 6 RCNY § 5-77(a) and except for any communication which is required by law or chosen from among alternatives of which one is required by law, the failure to disclose clearly in all communications made to collect a debt or to obtain information about a consumer, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose;
 
-   (16) the use of any name that is not the debt collector's actual name; provided that a debt collector may use a name other than his actual name if he or she uses only that name in communications with respect to a debt and if the debt collector's employer has the name on file so that the true identity of the debt collector can be ascertained; or
+   (16) the use of any name that is not the debt collector's actual name; provided that a debt collector may use a name other than his actual name if he or she uses only that name in communications with respect to a debt and if the debt collector's employer has the name on file so that the true identity of the debt collector can be ascertained;
 
-   (17) any conduct proscribed by New York General Business Law §§ 601(1), (3), (5), (7), (8), or (9).
+   (17) any conduct proscribed by New York General Business Law §§ 601(1), (3), (5), (7), (8), or (9);
+
+   (18) the false, inaccurate, or partial translation of any communication when the debt collector provides translation services; or
+
+   (19) the false representation or omission of a consumer’s language preference when returning, selling or referring for litigation any consumer account, where the debt collector is aware of such preference.
 
 (e) Unfair practices. A debt collector may not use any unfair or unconscionable means to collect or attempt to collect a debt. Such conduct includes:
 
@@ -3993,13 +3995,15 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
       (i) applying a payment to a disputed portion of any debt; or
 
-      (ii) unless otherwise provided by law or contract, failing to apply such payments in accordance with the consumer's instructions accompanying payment. If payment is made by mail, the consumer's instructions must be written. Any communication by a creditor made pursuant to 6 RCNY § 5-77(e)(7)(ii) shall not be deemed communication for the purpose of 6 RCNY § 5-77(b)(1)(iv). The employer of a debt collector may not be held liable in any action brought under 6 RCNY § 5-77(e)(7) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite maintenance of procedures reasonably adapted to avoid any such violation; or
+      (ii) unless otherwise provided by law or contract, failing to apply such payments in accordance with the consumer's instructions accompanying payment. If payment is made by mail, the consumer's instructions must be written. Any communication by a creditor made pursuant to 6 RCNY § 5-77(e)(7)(ii) shall not be deemed communication for the purpose of 6 RCNY § 5-77(b)(1)(iv). The employer of a debt collector may not be held liable in any action brought under 6 RCNY § 5-77(e)(7) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite maintenance of procedures reasonably adapted to avoid any such violation;
 
-   (8) engaging in any conduct prohibited by New York General Business Law §§ 601(2) or (4).
+   (8) engaging in any conduct prohibited by New York General Business Law §§ 601(2) or (4); or
+
+   (9) after institution of debt collection procedures, collecting or attempting to collect a debt without first requesting and recording the language preference of such consumer.
 
 (f) Validation of debts.
 
-   (1) Upon acceleration of the unpaid balance of the debt or demand for the full balance due, the following validation procedures shall be followed by debt collectors who are creditors or who are employed by creditors as defined by 15 U.S.C. § 1602(f) [Truth in Lending Act]; but who are not required to comply with 15 U.S.C. § 1637(a)(8) [;Fair Credit Billing Act];, and who do not provide consumers with an opportunity to dispute the debt which is substantially the same as that outlined in 15 U.S.C. § 1637(a)(8) and regulations promulgated thereunder: Within five days of any further attempt by the creditor itself to collect the debt, it shall send the customer a written notice containing:
+   (1) Upon acceleration of the unpaid balance of the debt or demand for the full balance due, the following validation procedures shall be followed by debt collectors who are creditors or who are employed by creditors as defined by 15 U.S.C. § 1602(f) (Truth in Lending Act) but who are not required to comply with 15 U.S.C. § 1637(a)(8) (Fair Credit Billing Act), and who do not provide consumers with an opportunity to dispute the debt which is substantially the same as that outlined in 15 U.S.C. § 1637(a)(8) and regulations promulgated thereunder: Within five days of any further attempt by the creditor itself to collect the debt, it shall send the customer a written notice containing:
 
       (i) the amount of the debt;
 
@@ -4025,15 +4029,27 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
       (iv) a statement that if the consumer notifies the debt collector in writing within the thirty-day period at the address designated by the debt collector in the notice that the debt, or any portion thereof, is disputed, the debt collector will obtain verification of the debt or a copy of a judgment against the consumer and a copy of such verification or judgment will be mailed to the consumer by the debt collector;
 
-      (v) a statement that, upon the consumer's written request within the thirty-day period sent to the address designated by the debt collector in the notice, the debt collector will provide the consumer with the name and address of the original creditor, if different from the current creditor; and
+      (v) a statement that, upon the consumer's written request within the thirty-day period sent to the address designated by the debt collector in the notice, the debt collector will provide the consumer with the name and address of the original creditor, if different from the current creditor;
 
-      (vi) an address to which the consumer should send any writing which disputes the validity of the debt or any portion thereof or any writing requesting the name and address of the original creditor.
+      (vi) an address to which the consumer should send any writing which disputes the validity of the debt or any portion thereof or any writing requesting the name and address of the original creditor;
+
+      (vii) a statement informing the consumer of any language access services available, including whether the consumer may obtain from the debt collector a translation of any communication into a language other than English; and
+
+      (viii) a statement that a translation and description of commonly-used debt collection terms is available in multiple languages on the Department’s website, www.nyc.gov/dca.
 
    (3) If, pursuant to 6 RCNY §§ 5-77(f)(1) or 5-77(f)(2) of this Regulation the consumer notifies the debt collector in writing within the thirty-day period that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall not attempt to collect the amount in dispute until the debt collector obtains and mails to the consumer verification of the debt or a copy of the judgment or the name and address of the original creditor. The debt collector shall maintain for one year from the date the notice was mailed, records containing documentation of the date such notice was mailed, the date the response, if any, was received and any action taken following such response.
 
    (4) The failure of a consumer to dispute the validity of a debt under 6 RCNY § 5-77(f) shall not be construed by any court as an admission of liability by the consumer.
 
 (g) Liability. The employer of a debt collector is liable for the debt collector's violation of 6 RCNY § 5-77. A debt collector who is employed by another to collect or attempt to collect debts shall not be held liable for violation of 6 RCNY § 5-77.
+
+(h) Public websites. Any debt collector that maintains a website accessible to the public must clearly and conspicuously disclose on such website:
+
+   (1) a statement informing the consumer of any language access services available, including whether the consumer may obtain from the debt collector a translation of any communication into a language other than English; and
+
+   (2) a statement that a translation and description of commonly-used debt collection terms is available in multiple languages on the Department’s website, www.nyc.gov/dca.
+
+
 
 
 

@@ -55,23 +55,49 @@ Chapter 1: Conflicts of Interest
 
 (g) For the purposes of Charter § 2604(b)(5), a public servant who is an elected official or a member of the elected official's staff authorized by the elected official may attend a function given by an organization composed of representatives of business, labor, professions, news media or organizations of a civic, charitable or community nature, when invited by the sponsoring organization. For the purpose of this subdivision, the authorizing elected official for the central staff of the council is the speaker of the council.
 
-(h) (1)  For the purposes of Charter § 2604(b)(5), a public servant's acceptance of travel-related expenses from a private entity can be considered a gift to the City rather than to the public servant, when:
+(h) Travel and Travel-Related Expenses.
 
-(i) the trip is for a City purpose and therefore could properly be paid for with City funds;
+   (1) For the purposes of Charter § 2604(b)(3) and Charter § 2604(b)(5), a public servant may accept travel-related expenses from a third party as a gift to the City provided that the following conditions are met:
 
-      (ii) the travel arrangements are appropriate to that purpose; and
+      i. the trip is for a City purpose and therefore could properly be paid for with City funds;
 
-      (iii) the trip is no longer than reasonably necessary to accomplish the business which is its purpose.
+      ii. the travel arrangements are appropriate to that purpose;
 
-   (2) To avoid an appearance of impropriety, it is recommended that for public servants who are not elected officials, each such trip and the acceptance of payment therefor be approved in advance and in writing by the head of the appropriate agency, or if the public servant is an agency head, by a deputy mayor.
+      iii. the trip is no longer than reasonably necessary to accomplish the governmental business which is its City purpose;
 
-      (i) A public servant should not accept a "valuable gift," as defined herein, from any person or entity engaged in business dealings with the City. If the public servant receives such valuable gift, he or she should return the gift to the donor. If that is not practical, the public servant should report the receipt of a valuable gift to the inspector general of the public servant's agency, who shall determine the appropriate disposition of the gift. Nothing in this section shall be deemed to authorize a public servant to act in violation of any applicable laws, including the criminal law, City agency rules, or Mayoral Executive Orders (including, but not limited to, Executive Order No. 16 of 1978 (as amended)), which may impose additional requirements to report gifts and offers of gifts to the agency's inspector general, whether or not a gift is accepted or returned.
+      iv. the public servant received agency head approval in advance upon presenting such agency head with a detailed itinerary which reflects the trip's City purpose; and
+
+      v. all solicitation for and reporting of travel-related expenses are made in accordance with 53 RCNY § 1-14.
+
+   (2) An elected official whose trip includes both City governmental activities and political activities may accept as a gift to the City travel-related expenses from a third party only to cover the percentage of the costs equal to the time spent on City governmental business. A public servant working in an agency or office headed by an elected official may accompany such elected official on a mixed-purpose trip and use his or her personal time for the political purposes of the trip, but may accept as a gift to the City travel-related expenses from a third party only to cover the percentage of the costs equal to the time spent on governmental business.
+
+   (3) A public servant may use his or her own funds and accrued leave for personal travel before or after a trip taken for a City purpose provided that:
+
+      i. any increased or additional costs resulting from the personal travel are borne solely by the public servant; and
+
+      ii. such personal travel receives agency head approval in advance.
+
+   (4) A public servant may not accept compensation for personal use from a common carrier for the voluntary or involuntary surrender of a seat on a trip taken for a City purpose. A public servant offered compensation for the surrender of the seat must:
+
+      i. request the compensation offered be issued in a form payable or transferable to the City; and
+
+      ii. transfer such compensation to the City.
+
+   (5) A public servant may accept and use vouchers for food, accommodations, and ground transportation offered by a common carrier in connection with delayed City travel, provided that the public servant does not use his or her City position to obtain additional compensation from the common carrier.
+
+   (6) A public servant may accumulate reward points or frequent flyer miles for personal use while traveling on City business, provided that the public servant does not make a travel selection based on receiving or increasing frequent reward points or flyer benefits that result in additional expense to the City.
+
+   (7) For the purposes of this subdivision, agency head approval must be by the head of the agency served by the public servant, or by a deputy mayor if the public servant is an agency head. A public servant who is an elected official, including a District Attorney, is the agency head for the public servants employed by the official's agency or office. A public servant who is an elected official, including a District Attorney, may provide agency head approval for himself or herself.
+
+(i) A public servant should not accept a "valuable gift," as defined herein, from any person or entity engaged in business dealings with the City. If the public servant receives such valuable gift, he or she should return the gift to the donor. If that is not practical, the public servant should report the receipt of a valuable gift to the inspector general of the public servant's agency, who shall determine the appropriate disposition of the gift. Nothing in this section shall be deemed to authorize a public servant to act in violation of any applicable laws, including the criminal law, City agency rules, or Mayoral Executive Orders (including, but not limited to, Executive Order No. 16 of 1978 (as amended)), which may impose additional requirements to report gifts and offers of gifts to the agency's inspector general, whether or not a gift is accepted or returned.
 
 (j) City agencies are encouraged to establish rules concerning gifts for their own employees which may not be less restrictive than as set forth in Charter § 2604(b)(5) as interpreted by this section.
 
 (k) (1)  Nothing in this section shall be deemed to authorize a public servant to accept a gift of any value in violation of any other applicable federal, state or local law, rule or regulation, including but not limited to the New York State Penal Law.
 
    (2) The provisions of this section shall be read in conjunction with the provisions of Charter § 2604(b)(2) and 53 RCNY § 1-13 (prohibiting certain conduct that conflicts with the proper discharge of a public servant's official duties); § 2604(b)(3) of the Charter (prohibiting the use or attempted use of one's City position for private gain); and § 2604(b)(13) of the Charter (prohibiting receipt by public servants of compensation except from the City for performing any official duty and prohibiting receipt of gratuities).
+
+
 
 
 

@@ -4830,7 +4830,7 @@ HRA will administer the CityFHEPS Program and will make eligibility determinatio
 *§ 10-09 Adjustments to CityFHEPS Rental Assistance Payment Amount, Discontinuance of Rental Assistance Payments, or Program Termination Prior to Renewal.* ::
 
 
-(a) At the household's request, where the household's income has decreased prior to renewal, the Commissioner will recalculate the CityFHEPS rental assistance payment amount in accordance with 68 RCNY § 10-06 or 68 RCNY § 10-07, as applicable.
+(a) At the household's request, when the household’s income has changed in such a manner that would decrease the household’s base client contribution, the Commissioner will recalculate the CityFHEPS rental assistance payment amount in accordance with 68 RCNY § 10-06 or 68 RCNY § 10-07, as applicable.
 
 (b) In the event that the household's shelter allowance increases prior to renewal, such that the sum of the CityFHEPS rental assistance payment and the shelter allowance exceeds the household's actual or maximum rent, whichever is less, HRA shall reduce the CityFHEPS rental assistance amount so that it equals the difference between the household's shelter allowance and the lesser of the actual or maximum rent.
 
@@ -4844,7 +4844,7 @@ HRA will administer the CityFHEPS Program and will make eligibility determinatio
 
 (d) A household's participation in the CityFHEPS Program may be terminated prior to renewal where the Commissioner determines that the household has failed or refused without good cause to comply with requirements set forth in 68 RCNY § 10-12.
 
-(Added City Record 9/28/2018, eff. 10/28/2018)
+(Added City Record 9/28/2018, eff. 10/28/2018; amended City Record 4/29/2020, eff. 5/29/2020)
 
 
 
@@ -5062,9 +5062,9 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 
 (g) If HRA offers incentives to landlords to participate in the CityFHEPS program, such incentives shall not be available for the rental of a unit where the previous tenant was receiving CityFHEPS, FHEPS or rental assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8, unless the landlord can show good cause for not renewing such tenant, such as serious or repeated violations of the lease. Good cause will generally not be found unless the landlord has provided the tenant with 30 days written notice of the intent to not renew, including the reasons for non-renewal.
 
-(h) HRA in its discretion may offer payments to landlords of units that are subject to the HPD/HDC Marketing Handbook pursuant to a regulatory agreement or similar instrument, for which HPD or HDC is requiring or approving such units to be filled by homeless individuals or families instead of or subsequent to a lottery, where such payments are needed to make up the difference between the CityFHEPS maximum rent under 68 RCNY § 10-05 and the regulatory rent.
+(h) Notwithstanding any provisions in this chapter to the contrary, HRA in its discretion may offer payments to landlords of units that are subject to the New York City Department of Housing Preservation and Development (“HPD”)/New York City Housing Development Corporation (“HDC”) Marketing Handbook pursuant to a regulatory agreement or similar instrument, for which HPD or HDC is requiring or approving such units to be filled by homeless individuals or families instead of or subsequent to a lottery, where such payments are needed to make up the difference between the CityFHEPS maximum rent under 68 RCNY § 10-05 and the regulatory rent. In such instances, the rent for the unit may exceed the maximum rent levels set forth in 68 RCNY § 10-05, including at the time of initial approval of the CityFHEPS application, but may not exceed the regulatory rent.
 
-(Added City Record 9/28/2018, eff. 10/28/2018; amended City Record 2/7/2020, eff. 2/7/2020)
+(Added City Record 9/28/2018, eff. 10/28/2018; amended City Record 2/7/2020, eff. 2/7/2020; amended City Record 4/29/2020, eff. 5/29/2020)
 
 
 
@@ -5513,7 +5513,7 @@ DSS/HRA will treat information concerning current and former applicants and part
 
 
 
-*§ 12-08 Additional Provisions* ::
+*§ 12-08 Additional Provisions.* ::
 
 
 (a) The Program reserves the right to limit the number of replacement cards it will issue to an individual within a calendar year, in accordance with the Conditions of Use pursuant to DSS/HRA's Memorandum of Understanding with NYCT.
@@ -5523,6 +5523,41 @@ DSS/HRA will treat information concerning current and former applicants and part
 (c) Individuals who have been permanently disqualified from the Program under 68 RCNY § 12-06(b) may petition the Program for reinstatement after one year and may be reinstated if they can demonstrate extraordinary circumstances justifying reinstatement.
 
 
+
+
+
+
+Chapter 13: Changes to Burial Claims During Pendency of COVID-19 Emergency
+--------------------------------------------------
+
+
+
+*§ 13-01 Emergency Provisions.* ::
+
+
+Notwithstanding any provision of 68 RCNY Chapter 2 to the contrary, while this emergency rule amending such chapter remains in effect:
+
+(a) The allowance for burial expenses described in 68 RCNY Chapter 2 that are payable by DSS/HRA is increased to $1,700. This allowance can be used towards burial expenses, as defined in 68 RCNY Chapter 2, including the costs set forth in paragraphs (1) and (2) of subdivision (b) of this section that are disregarded in determining the cap set forth in subdivision (b).
+
+(b) Notwithstanding the provisions of 68 RCNY Chapter 2, the allowance provided for in subdivision (a) of this section shall not be available where the total burial expenses, as defined in 68 RCNY § 2-02, exceed $3,400. In determining whether such $3,400 cap has been exceeded, the following costs will be disregarded:
+
+   (1) the cost of cremation or the burial plot and grave opening; and
+
+   (2) any costs charged by a funeral director that are related to the disinterment of a body that was buried on or after March 12, 2020 on Hart Island.
+
+(c) The time within which any person may submit an application for a burial allowance is increased from sixty (60) days to one hundred and twenty (120) days.
+
+(d) Anyone who is eligible for an allowance for burial expenses under this section may apply for such expenses either prior to or after burial or cremation. The requirement in 68 RCNY § 2-09(d) that DSS/HRA must decide any applications made prior to burial or cremation within two business days is suspended. However, DSS/HRA will make decisions on all applications within a reasonable time.
+
+(e) Applications under this section need not be made in person and may be made online, by email, by fax and by any other remote means as DSS/HRA may designate.
+
+(f) In determining the amount of the allowance, the value of any resources or income that are not liquid or available at the time of the decedent’s death and not available at the time of application shall not be deducted. However, DSS/HRA reserves the right to recover against any such resources consistent with State law.
+
+(g) The provisions of 68 RCNY § 2-09(b)(ii), prohibiting an allowance for veteran burials that occur in private cemeteries other than Calverton Cemetery, are suspended.
+
+(Added City Record 5/11/2020, eff. 5/11/2020*)
+
+*Editor's note: Pursuant to section 1043(i)(2) of the Charter, the emergency rule will remain in effect for not more than 120 days while HRA prepares a permanent rule.
 
 
 

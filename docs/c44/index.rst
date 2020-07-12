@@ -66,109 +66,6 @@ The Commission may, upon the adoption of a motion, close the hearing and leave t
 
 
 
-Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines) [Repealed]
---------------------------------------------------
-
-
-
-*§ 3-01 Introduction. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-02 Repairs, Rehabilitation and Restoration. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-03 Storm Windows. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-04 Replacement of Sash and Frames. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-05 Master Plans. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-06 Application Procedure. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-07 Pre-Qualified Open Market Manufactured Windows. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*Appendix A: Illustrations of Windows. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*Appendix B: Parts of a Double-Hung Window. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*Appendix C: Window Guidelines – Definitions. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 2: Approval of Proposed Work on Designated Buildings and Structures
 --------------------------------------------------
 
@@ -2623,6 +2520,109 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 
 
 **Appendix A: Resources for Historic Photographs &amp; Drawings**
+
+Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines) [Repealed]
+--------------------------------------------------
+
+
+
+*§ 3-01 Introduction. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-02 Repairs, Rehabilitation and Restoration. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-03 Storm Windows. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-04 Replacement of Sash and Frames. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-05 Master Plans. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-06 Application Procedure. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-07 Pre-Qualified Open Market Manufactured Windows. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*Appendix A: Illustrations of Windows. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*Appendix B: Parts of a Double-Hung Window. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*Appendix C: Window Guidelines – Definitions. [Repealed]* ::
+
+
+
+
+
+
 
 Chapter 4: Designated Broadway Theaters
 --------------------------------------------------
