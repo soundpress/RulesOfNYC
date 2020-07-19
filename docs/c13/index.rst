@@ -1522,6 +1522,8 @@ When used in this Chapter, the following terms mean:
 
 "Standard methods" means accepted protocols for sampling, recording, laboratory testing, reporting and other procedures related to environmental and water quality sampling, including, but not limited to, those set forth in Standard Methods for the Examination of Water and Wastewater 22nd Edition, 2012, a publication issued jointly by the American Public Health Association, the American Water Works Association and the Water Environment Federation and the Standards Microbiological Methods (TC 147/SC4) published by the International Organization for Standardization, or successor editions.
 
+“Summertime hyperhalogenation” means a one-time per year dosing of higher than normal levels of chlorine or bromine based biocide conducted between July 1 and August 31 to ensure the maintenance of a minimum of 5 parts per million (ppm) free halogen residual in the cooling tower system for at least 6 hours.
+
 "System shutdown" means shutting off or closing and draining the cooling tower system when cooling is no longer needed.
 
 "System start-up" means commissioning a new system, or putting the cooling tower system into operation after system shutdown or idling.
@@ -1637,6 +1639,18 @@ For each cooling tower system the owner must have a maintenance program and plan
 (d) Cleaning. The cooling tower system must be cleaned whenever routine monitoring indicates a need for cleaning, but no less than twice a year, in accordance with the maintenance program and plan. Cleaning protocol indicated by the manufacturer's instructions or industry standards, and worker protective measures, as required by applicable law must be specified in the maintenance program and plan. Water contact areas such as the basin, sump, fill, spray nozzles and fittings, drift eliminators and air intake louvres must be properly accessed or removed to facilitate cleaning.
 
 (e) Aerosol and mist control. The cooling tower system must be operated at all times to minimize the formation and release of aerosols and mist. Owners must install and maintain drift eliminators in accordance with the manufacturer's specifications and the New York City Construction Codes. The calculated drift loss at maximum design water circulation must not exceed the manufacturer's tested value for maximum drift loss. Counter-flow cooling towers must achieve a reduction of drift loss to no more than 0.002% percent of the recirculated water volume; cross-flow cooling towers must achieve a reduction of drift loss to no more than 0.005% of the recirculated water volume.
+
+(f) Summertime hyperhalogenation.
+
+   (1) A cooling tower system must undergo a summertime hyperhalogenation at least once each year between July 1 and August 31 in accordance with this subdivision. The hyperhalogenation must be performed by a person qualified to apply biocide pursuant to 24 RCNY § 8-05(c)(1). The hyperhalogenation must be performed with a registered chlorine or bromine based biocide that is effective at Legionella control in accordance with 24 RCNY § 8-05(c). A cooling tower system is exempt from this subdivision if it is in full system shutdown and completely drained of water, in accordance with 24 RCNY § 8-06(a), for the entire period between July 1 and August 31.
+
+   (2) Prior to the hyperhalogenation, the cooling tower system must be prepared to ensure that water flow reaches the entire cooling tower system. Biocide applied during the hyperhalogenation must reach all parts of the cooling tower system, including offline or standby equipment that may be out of service, or only used on-demand or during peak demand periods.
+
+   (3) During the hyperhalogenation, a minimum of 5 ppm free halogen residual must be continuously maintained in the cooling tower system for at least six hours. Additionally, the pH and halogen residuals must be measured at two independent sampling locations within the cooling tower system during the hyperhalogenation to verify the minimum biocide residual was achieved and maintained. The water treatment program shall be reviewed by the management and maintenance team to determine if additional chemical inhibitors are desirable to prevent corrosion and scaling.
+
+   (4) A Legionella culture sample must be collected in accordance with 24 RCNY § 8-05(f)(3) within 3 to 45 days after the hyperhalogenation required by paragraph (1) of this subdivision. Sample results must be interpreted, and corrective actions implemented, in accordance with the result levels indicated in Table 8-1 of this Chapter.
+
+   (5) An owner must submit a declaration of summertime hyperhalogenation within 30 days of completion of the hyperhalogenation required by paragraph (1) of this subdivision through the NYC Cooling Tower Registration Portal. The declaration must include the cooling tower system ID; the hyperhalogenation protocol performed, including the name and quantity of biocides and chemicals applied; dose and contact time; effective pH range of biocides; pH and halogen residual monitoring results during hyperhalogenation; service date and name and qualifications of the person who applied the biocide. The declaration must be kept with required cooling tower records in accordance with 24 RCNY § 8-07(a).
 
 
 
@@ -1876,6 +1890,10 @@ The following penalties shall be imposed for sustained initial and repeat violat
       - Aerosol control do not meet manufacturer's design specifications or drift loss reduction requirements in new or existing towers when required
       - $1,000 
       - $2,000
+    * - 24 RCNY § 8-04(f)
+      - Failure to submit declaration of a hyperhalogenation performed at least once each year between July 1 and August 31
+      - $500
+      - $1,000
     * - 24 RCNY § 8-05(a)
       - Daily automatic or approved alternative water treatment plan not provided 
       - $500

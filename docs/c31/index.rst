@@ -5036,7 +5036,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
       (iii) Where a respondent appeals, that respondent must indicate in writing that payment of any fines, penalties or restitution imposed by the decision has been made in full, unless:
 
-         (A) Respondent is granted a waiver of prior payment of fines or penalties due to financial hardship, as provided in subdivision (b) of this section;
+         (A) Respondent is granted a waiver of prior payment of fines, penalties or restitution due to financial hardship, as provided in subdivision (b) of this section;
 
          (B) Respondent received a waiver of prior payment of fines or penalties as otherwise provided in law, rules or regulations;
 
@@ -5046,11 +5046,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
    (2) A party may not appeal a decision rendered on default, a denial of a request for new hearing after default (motion to vacate a default), or a plea admitting the violations charged.
 
-(b) Financial hardship.
-
-   (1) An application to the Tribunal for a waiver of prior payment due to financial hardship must be made before or at the time of the filing of the appeal and must be supported by evidence of financial hardship. The Chief Administrative Law Judge or his or her designee has sole discretion to grant or deny a waiver due to financial hardship. Application for a waiver does not extend the time to appeal.
-
-   (2) Notwithstanding the provisions set forth in subdivision (a)(iii), above, payment of restitution is not subject to waiver due to financial hardship. If a Hearing Officer has ordered payment of restitution, the Respondent must, prior to or at the time of filing the appeal, submit proof that the Respondent has deposited the amount of restitution with the agency responsible for collecting payment, pending determination of the appeal.
+(b) Financial hardship. An application to the Tribunal for a waiver of prior payment due to financial hardship must be made before or at the time of the filing of the appeal and must be supported by evidence of financial hardship. The Chief Administrative Law Judge or his or her designee has sole discretion to grant or deny a waiver due to financial hardship. Application for a waiver does not extend the time to appeal.
 
 (c) Responding to an appeal. Except as provided in 48 RCNY § 5-04, the non-appealing party may file a response to the appeal within thirty (30) days of being served with the appeal, or thirty-five (35) days if served by mail. The response must be in writing, served on the appealing party, and filed with the Tribunal with proof of such service within the time allotted. The response may be on a form prescribed by the Tribunal.
 

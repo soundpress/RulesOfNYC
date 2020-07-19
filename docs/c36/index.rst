@@ -962,137 +962,6 @@ Editor's note: Pursuant to Section 2 of the rule adding this section, subsection
 
 
 
-Chapter 4: Annual Disclosure
---------------------------------------------------
-
-
-
-*§ 4-01 Procedures for Obtaining an Extension of Time Within Which to File a Financial Disclosure Report.* ::
-
-
-(a) Bases for obtaining an extension of time to file.
-
-   (1) A person required to file a financial disclosure report with the Conflicts of Interest Board (the "Board") pursuant to § 12-110 of the Administrative Code of the City of New York (the "Administrative Code") may be granted an extension of time within which to file a report or portion thereof upon a showing of justifiable cause or undue hardship.
-
-   (2) A finding of justifiable cause or undue hardship shall not be based on periods of annual leave, attendance at conferences or meetings, or other pre-scheduled or voluntary absences from work.
-
-(b) General procedures.
-
-   (1) A request for an extension of time within which to file a financial disclosure report or portions thereof which is due by May first shall be postmarked, or delivery made to the Board, no later than April fifteenth of the year in which such report is to be filed. Where Administrative Code § 12-110 requires the filing of such report at a time other than on or before May first, a request for extension of time within which to file shall be postmarked, or delivery made to the Board, no later than fifteen days prior to such filing deadline.
-
-   (2) The request for an extension of time shall be mailed to the Board by certified mail or shall be delivered by hand and, upon request, a receipt may be issued upon acceptance of such delivery.
-
-   (3) The request for an extension of time within which to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship shall contain the following information:
-
-      (i) The name of the person making such request and his or her home address and work address;
-
-      (ii) The title of the position or job classification and name of the agency by which he or she is employed;
-
-      (iii) Explanation of justifiable cause or undue hardship in the form of a written statement with copies of any necessary supporting documents such person wishes the Board to consider;
-
-      (iv) Where the filer is seeking an extension to answer a portion of the report on the grounds that certain information is not yet available, the request shall state what information is not available. Documentation, if available, shall be provided in support of such request (for example, a copy of an application to the Internal Revenue Service for an automatic extension of time within which to file one's income tax return); and
-
-      (v) The additional time requested and the date by which such person intends to comply with the filing requirements.
-
-(c) Time limitations upon extensions. 
-
-   (1) The Board shall not grant an extension of time to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship for a period greater than four months from the original date the report was due.
-
-   (2) An individual who is seeking an extension of time to answer a portion of the financial disclosure report shall nevertheless file his or her report on or before May first, or at such other time required by Administrative Code § 12-110, containing all the information required by such report, except for that information which is not available. A supplemental statement providing information not previously available shall be filed on the date set by the Board. Failure to file such supplemental statement, or the filing of an incomplete or deficient supplemental statement, shall subject the reporting person to the penalties set forth in Administrative Code § 12-110(h).
-
-(d) Board action. 
-
-   (1) Upon receipt of a timely request for an extension of time within which to file a financial disclosure report or portions thereof, the Board shall review the material filed to determine whether an extension is appropriate.
-
-   (2) The Board may in its discretion request, in writing, additional information from the person making the request. Such additional information shall be submitted to the Board within ten business days of the date of the Board's request. In the event the Board does not receive the additional information within ten business days, it may make a determination on the basis of the information it has available.
-
-   (3) The Board shall give written notice of its determination to the person making the request.
-
-      (i) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is approved, such report shall be filed on or before the date indicated by the Board in its determination.
-
-      (ii) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is denied, such report shall be filed before or on the due date set forth in Administrative Code § 12-110 or such date as may thereafter be established by the Board in its determination.
-
-   (4) The Board may delegate to its executive director the authority to act pursuant to this Rule.
-
-(Renumbered from former 53 RCNY § 1-08, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
-
-
-*§ 4-02 Retention of Financial Disclosure Reports.* ::
-
-
-(a) Definitions. As used in this Rule, the following terms shall have the respective meanings set forth below:
-
-   (1) "Administrative Code" shall mean the Administrative Code of the City of New York.
-
-   (2) "Board" shall mean the New York City Conflicts of Interest Board, established pursuant to § 2602 of the New York City Charter.
-
-   (3) "Financial disclosure report" shall mean any financial disclosure report filed or on file with the Board pursuant to § 12-110 of the Aministrative Code, including reports previously filed with the Office of the City Clerk and transferred to the Board's custody.
-
-   (4) "Prior disclosure report" shall mean any Financial Disclosure Report which, as of the effective date of this Rule, has been retained by the Board for a period in excess of six years from December 31 of the calendar year to which such report relates.
-
-(b) Retention of financial disclosure reports.
-
-   (1) Whenever a Financial Disclosure Report is filed with the Board, it shall be retained by the Board for a period commencing on the date such report was filed with the Board and expiring on the sixth anniversary of December 31 of the calendar year to which such report relates. The period during which the Board is required to retain a Financial Disclosure Report, pursuant to this paragraph (1), is hereinafter referred to as the "Required Retention Period" for such report.
-
-   (2) (i) Except as provided in subparagraphs (ii) and (iii) below, upon expiration of the Required Retention Period for a Financial Disclosure Report, pursuant to paragraph (1) above, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any request that the Board return such report must be made in writing to the Board not later than 10 days prior to the expiration of such period.
-
-      (ii) Notwithstanding the provisions of subparagraph (i), if a law enforcement agency requests that the Board retain a Financial Disclosure Report for an additional period of time beyond the expiration of its required retention period, for purposes of an ongoing investigation, the Board shall retain such report for such additional period, provided the request is made in writing and is submitted to the Board not later than 10 days prior to the expiration of such required retention period. Upon expiration of such additional period of time, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any such request must be made in accordance with the provision of subparagraph (i) above.
-
-      (iii) Notwithstanding the provisions of subparagraph (i), all reports shall be retained by the Board for a period of not less than one year from the date such report was filed with the Board.
-
-   (3) In accordance with the provisions of subdivision (e) of Administrative Code § 12-110, as amended by Local Law No. 93 of 1992, the retention period established in paragraph (1) is intended to supersede, and shall be observed by the Board in lieu of, the retention periods set forth in such sudivision (e).
-
-   (4) Notwithstanding any other provision of this section, the Board shall be entitled, upon the effective date of the Rule, to destroy immediately all Prior Financial Disclosure Reports then in its possession.
-
-(Renumbered from former 53 RCNY § 1-10, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
-
-
-*§ 4-03 City Employees Holding Policymaking Positions for Purposes of the Financial Disclosure Law.* ::
-
-
-For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall be deemed to hold a policymaking position, and therefore be required to file a financial disclosure report, if such employee is charged with substantial policy discretion within the meaning of 53 RCNY § 1-02.
-
-(Renumbered from former 53 RCNY § 1-14, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
-
-
-*§ 4-04 City Employees Whose Duties Involve the Negotiation, Authorization, or Approval of Contracts and of Certain Other Matters.* ::
-
-
-(a)  For purposes of Administrative Code § 12-110(b)(3)(a)(4), a City employee shall be deemed to have duties that involve the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits if the employee performs any of the following duties:
-
-   (1) Determines the substantive content of a request for proposals or other bid request or change order;
-
-   (2) Makes a determination as to the responsiveness of a bid or the responsibility of a vendor or bidder;
-
-   (3) Evaluates a bid;
-
-   (4) Negotiates or determines the substantive content of a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order;
-
-   (5) Recommends or determines whether or to whom a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order should be awarded or granted;
-
-   (6) Approves a contract, lease, franchise, revocable consent, or concession or change order on behalf of the City or any agency subject to Administrative Code § 12-110; or
-
-   (7) Determines the content of or promulgates City procurement policies, rules, or regulations.
-
-(b) Clerical personnel and other public servants who, in relation to the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits, perform only ministerial tasks shall not be required to file a financial disclosure report pursuant to Administrative Code § 12-110(b)(3)(a)(4). For example, public servants who are under the supervision of others and are without substantial personal discretion, and who perform only clerical tasks (such as typing, filing, or distributing contracts, leases, franchises, revocable consents, concessions, or zoning changes, variances, or special permits or calendaring meetings or who identify potential bidders or vendors) shall not, on the basis of such tasks alone, be required to file a financial disclosure report. Similarly, public servants who write a request for proposals, bid request, change order, contract, lease, franchise, revocable consent, concession or application for a zoning change, variance, or special permit or procurement policy, rule, or regulation under the direction of a superior but who do not determine the substantive content of the document shall not, on the basis of such tasks alone, be required to file a financial disclosure report.
-
-(Renumbered from former 53 RCNY § 1-15, City Record 12/21/2018, eff. 1/20/2019)
-
-
-
-
 Chapter 5: Legal Defense Trusts
 --------------------------------------------------
 
@@ -1226,6 +1095,149 @@ All information and documents required by this chapter must be submitted by the 
 
 
 The trustee(s) must maintain records and documents sufficient to demonstrate compliance with these rules and must retain these records and documents for 2 years following completion of the final audit upon dissolution of the legal defense trust.
+
+
+
+
+
+
+Chapter 4: Annual Disclosure
+--------------------------------------------------
+
+
+
+*§ 4-01 Procedures for Obtaining an Extension of Time Within Which to File a Financial Disclosure Report.* ::
+
+
+(a) Bases for obtaining an extension of time to file.
+
+   (1) A person required to file a financial disclosure report with the Conflicts of Interest Board (the "Board") pursuant to § 12-110 of the Administrative Code of the City of New York (the "Administrative Code") may be granted an extension of time within which to file a report or portion thereof upon a showing of justifiable cause or undue hardship.
+
+   (2) A finding of justifiable cause or undue hardship shall not be based on periods of annual leave, attendance at conferences or meetings, or other pre-scheduled or voluntary absences from work.
+
+(b) General procedures.
+
+   (1) A request for an extension of time within which to file a financial disclosure report or portions thereof which is due by May first shall be postmarked, or delivery made to the Board, no later than April fifteenth of the year in which such report is to be filed. Where Administrative Code § 12-110 requires the filing of such report at a time other than on or before May first, a request for extension of time within which to file shall be postmarked, or delivery made to the Board, no later than fifteen days prior to such filing deadline.
+
+   (2) The request for an extension of time shall be mailed to the Board by certified mail or shall be delivered by hand and, upon request, a receipt may be issued upon acceptance of such delivery.
+
+   (3) The request for an extension of time within which to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship shall contain the following information:
+
+      (i) The name of the person making such request and his or her home address and work address;
+
+      (ii) The title of the position or job classification and name of the agency by which he or she is employed;
+
+      (iii) Explanation of justifiable cause or undue hardship in the form of a written statement with copies of any necessary supporting documents such person wishes the Board to consider;
+
+      (iv) Where the filer is seeking an extension to answer a portion of the report on the grounds that certain information is not yet available, the request shall state what information is not available. Documentation, if available, shall be provided in support of such request (for example, a copy of an application to the Internal Revenue Service for an automatic extension of time within which to file one's income tax return); and
+
+      (v) The additional time requested and the date by which such person intends to comply with the filing requirements.
+
+(c) Time limitations upon extensions. 
+
+   (1) The Board shall not grant an extension of time to file a financial disclosure report or portions thereof due to justifiable cause or undue hardship for a period greater than four months from the original date the report was due.
+
+   (2) An individual who is seeking an extension of time to answer a portion of the financial disclosure report shall nevertheless file his or her report on or before May first, or at such other time required by Administrative Code § 12-110, containing all the information required by such report, except for that information which is not available. A supplemental statement providing information not previously available shall be filed on the date set by the Board. Failure to file such supplemental statement, or the filing of an incomplete or deficient supplemental statement, shall subject the reporting person to the penalties set forth in Administrative Code § 12-110(h).
+
+(d) Board action. 
+
+   (1) Upon receipt of a timely request for an extension of time within which to file a financial disclosure report or portions thereof, the Board shall review the material filed to determine whether an extension is appropriate.
+
+   (2) The Board may in its discretion request, in writing, additional information from the person making the request. Such additional information shall be submitted to the Board within ten business days of the date of the Board's request. In the event the Board does not receive the additional information within ten business days, it may make a determination on the basis of the information it has available.
+
+   (3) The Board shall give written notice of its determination to the person making the request.
+
+      (i) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is approved, such report shall be filed on or before the date indicated by the Board in its determination.
+
+      (ii) In the event the request for an extension of time within which to file a financial disclosure report or portions thereof is denied, such report shall be filed before or on the due date set forth in Administrative Code § 12-110 or such date as may thereafter be established by the Board in its determination.
+
+   (4) The Board may delegate to its executive director the authority to act pursuant to this Rule.
+
+(Renumbered from former 53 RCNY § 1-08, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-02 Retention of Financial Disclosure Reports.* ::
+
+
+(a) Definitions. As used in this Rule, the following terms shall have the respective meanings set forth below:
+
+   (1) "Administrative Code" shall mean the Administrative Code of the City of New York.
+
+   (2) "Board" shall mean the New York City Conflicts of Interest Board, established pursuant to § 2602 of the New York City Charter.
+
+   (3) "Financial disclosure report" shall mean any financial disclosure report filed or on file with the Board pursuant to § 12-110 of the Aministrative Code, including reports previously filed with the Office of the City Clerk and transferred to the Board's custody.
+
+   (4) "Prior disclosure report" shall mean any Financial Disclosure Report which, as of the effective date of this Rule, has been retained by the Board for a period in excess of six years from December 31 of the calendar year to which such report relates.
+
+(b) Retention of financial disclosure reports.
+
+   (1) Whenever a Financial Disclosure Report is filed with the Board, it shall be retained by the Board for a period commencing on the date such report was filed with the Board and expiring on the sixth anniversary of December 31 of the calendar year to which such report relates. The period during which the Board is required to retain a Financial Disclosure Report, pursuant to this paragraph (1), is hereinafter referred to as the "Required Retention Period" for such report.
+
+   (2) (i) Except as provided in subparagraphs (ii) and (iii) below, upon expiration of the Required Retention Period for a Financial Disclosure Report, pursuant to paragraph (1) above, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any request that the Board return such report must be made in writing to the Board not later than 10 days prior to the expiration of such period.
+
+      (ii) Notwithstanding the provisions of subparagraph (i), if a law enforcement agency requests that the Board retain a Financial Disclosure Report for an additional period of time beyond the expiration of its required retention period, for purposes of an ongoing investigation, the Board shall retain such report for such additional period, provided the request is made in writing and is submitted to the Board not later than 10 days prior to the expiration of such required retention period. Upon expiration of such additional period of time, the Board shall either (i) destroy such report, or (ii) if requested by the individual who filed such report, return such report to such individual. Any such request must be made in accordance with the provision of subparagraph (i) above.
+
+      (iii) Notwithstanding the provisions of subparagraph (i), all reports shall be retained by the Board for a period of not less than one year from the date such report was filed with the Board.
+
+   (3) In accordance with the provisions of subdivision (e) of Administrative Code § 12-110, as amended by Local Law No. 93 of 1992, the retention period established in paragraph (1) is intended to supersede, and shall be observed by the Board in lieu of, the retention periods set forth in such sudivision (e).
+
+   (4) Notwithstanding any other provision of this section, the Board shall be entitled, upon the effective date of the Rule, to destroy immediately all Prior Financial Disclosure Reports then in its possession.
+
+(Renumbered from former 53 RCNY § 1-10, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-03 City Employees Holding Policymaking Positions for Purposes of the Financial Disclosure Law.* ::
+
+
+For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall be deemed to hold a policymaking position, and therefore be required to file a financial disclosure report, if such employee is charged with substantial policy discretion within the meaning of 53 RCNY § 1-02.
+
+(Renumbered from former 53 RCNY § 1-14, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-04 City Employees Whose Duties Involve the Negotiation, Authorization, or Approval of Contracts and of Certain Other Matters.* ::
+
+
+(a)  For purposes of Administrative Code § 12-110(b)(3)(a)(4), a City employee shall be deemed to have duties that involve the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits if the employee performs any of the following duties:
+
+   (1) Determines the substantive content of a request for proposals or other bid request or change order;
+
+   (2) Makes a determination as to the responsiveness of a bid or the responsibility of a vendor or bidder;
+
+   (3) Evaluates a bid;
+
+   (4) Negotiates or determines the substantive content of a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order;
+
+   (5) Recommends or determines whether or to whom a contract, lease, franchise, revocable consent, concession, or application for a zoning change, variance, or special permit or change order should be awarded or granted;
+
+   (6) Approves a contract, lease, franchise, revocable consent, or concession or change order on behalf of the City or any agency subject to Administrative Code § 12-110; or
+
+   (7) Determines the content of or promulgates City procurement policies, rules, or regulations.
+
+(b) Clerical personnel and other public servants who, in relation to the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits, perform only ministerial tasks shall not be required to file a financial disclosure report pursuant to Administrative Code § 12-110(b)(3)(a)(4). For example, public servants who are under the supervision of others and are without substantial personal discretion, and who perform only clerical tasks (such as typing, filing, or distributing contracts, leases, franchises, revocable consents, concessions, or zoning changes, variances, or special permits or calendaring meetings or who identify potential bidders or vendors) shall not, on the basis of such tasks alone, be required to file a financial disclosure report. Similarly, public servants who write a request for proposals, bid request, change order, contract, lease, franchise, revocable consent, concession or application for a zoning change, variance, or special permit or procurement policy, rule, or regulation under the direction of a superior but who do not determine the substantive content of the document shall not, on the basis of such tasks alone, be required to file a financial disclosure report.
+
+(Renumbered from former 53 RCNY § 1-15, City Record 12/21/2018, eff. 1/20/2019)
+
+
+
+
+
+
+*§ 4-05 Filing Deadlines for Candidates Seeking Payment of Public Funds from the New York City Campaign Finance Board.* ::
+
+
+Pursuant to Administrative Code § 12-110(b)(2)(a), each person who has declared his or her intention to seek a designation or nomination for election to an office and who is seeking payment of public funds for the first time in February, March, or April of the election year must submit an annual disclosure report with the Conflicts of Interest Board by the following deadlines: for the payment date of February 15, the annual disclosure report must be submitted by January 21; for the payment date of March 15, the annual disclosure report must be submitted by February 19; and for the payment date of April 15, the annual disclosure report must be submitted by March 21. If the final date to submit the annual disclosure report falls on a Saturday, Sunday, or public holiday, the deadline will be extended to the following business day.
 
 
 
