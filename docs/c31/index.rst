@@ -1,6 +1,348 @@
 Title 48: Office of Administrative Trials and Hearings (OATH)
 ===================================================
 
+Chapter 2: Additional Rules of Practice Applicable To Particular Types of Cases at the OATH Trials Division
+--------------------------------------------------
+
+
+
+
+**Subchapter A: Additional Rules For Prequalified Vendor Appeals**
+
+
+
+*§ 2-01 Applicability.* ::
+
+
+This subchapter applies solely to prequalified vendor appeals pursuant to § 324(b) of the Charter and the rules of the Procurement Policy Board, 9 RCNY § 3-10(m). Chapter 1 also applies to such proceedings except to the extent that it is inconsistent with this subchapter.
+
+
+
+
+
+
+
+
+*§ 2-02 Docketing; Service of the Petition.* ::
+
+
+(a) A vendor must docket an appeal by delivering to OATH a completed intake sheet, with a petition and appropriate proof of service of the petition upon the agency whose prequalification determination is to be reviewed. The petition must include a copy of the determination to be reviewed and must state the nature and basis of the challenge to the determination.
+
+(b) The petition must be accompanied by a notice to the respondent of its time to serve and file an answer. The notice described in 48 RCNY § 1-23(a) is not required.
+
+
+
+
+
+
+
+
+*§ 2-03 Answer; Reply.* ::
+
+
+(a) If the petition is served personally on the respondent, the respondent must file an answer, with appropriate proof of service, within fourteen days of the respondent's receipt of the petition. If the petition is served by mail, it will be presumed that the respondent received the petition five days after it was served.
+
+(b) The answer must include the determination to be reviewed, the basis of the determination, admission, denial or other response to each allegation in the petition, and a statement of any other defenses to the petition. The basis of the determination included in the answer must consist of all documentation and information that was before the agency head, including any submissions by the vendor. To the extent that information in support of the determination was not written, it must be reduced to writing and included in the answer in the form of affidavits or affirmations, documentary exhibits, or other evidentiary material. Also, defenses may be supported by evidentiary material. The answer may be accompanied by a memorandum of law.
+
+(c) If the respondent's attorney or other representative has not already filed a notice of appearance, such notice must be filed with the answer.
+
+(d) Within fifteen days of the service of the answer, or within twenty days if such service Is by mail, the petitioner may file a reply. The reply may include affidavits or affirmations, documentary exhibits, or other evidentiary material in rebuttal of the answer, including information provided to the agency head which was not written. The reply may be accompanied by a memorandum of law.
+
+
+
+
+
+
+
+
+*§ 2-04 Further Proceedings.* ::
+
+
+An appeal will be decided on the petition, answer and reply, unless the administrative law judge directs further written submissions, oral argument, or an evidentiary hearing, as may be necessary to the decision of the appeal.
+
+
+
+
+
+
+
+
+*§ 2-05 Discovery.* ::
+
+
+Discovery may not be permitted except upon order of the administrative law judge in connection with 48 RCNY § 2-04.
+
+
+
+
+
+
+
+
+*§ 2-06 Determination.* ::
+
+
+The administrative law judge will render as expeditiously as possible a determination as to whether the agency's decision is arbitrary or capricious.
+
+
+
+
+
+
+
+
+*§ 2-07 Copies of Determination.* ::
+
+
+The respondent must send copies of the administrative law judge's determination to such non- parties as may be required, for instance, by the rules of the Procurement Policy Board, 9 RCNY § 3-10(m)(5).
+
+
+
+
+
+
+
+
+
+**Subchapter C: Additional Rules For Human Rights Cases**
+
+
+
+*§ 2-21 Applicability.* ::
+
+
+This subchapter applies solely to cases brought by the New York City Commission on Human Rights pursuant to the City Human Rights Law, Title 8 of the New York City Administrative Code. Chapter 1 of this title also applies to such proceedings except to the extent that it is inconsistent with this subchapter.
+
+
+
+
+
+
+
+
+*§ 2-22 Definitions.* ::
+
+
+For purposes of this subchapter:
+
+Commission. "Commission" means the New York City Commission on Human Rights.
+
+Complainant. "Complainant" is defined according to the Commission's rules, 47 RCNY § 1-03.
+
+Party. "Party" is defined according to the Commission's rules, 47 RCNY § 1-03.
+
+Petition. "Petition" means a complaint as defined in the Commission's rules, 47 RCNY §§ 1-11, 1-12.
+
+Petitioner. "Petitioner" means the Law Enforcement Bureau of the Commission.
+
+Report and recommendation. The "report and recommendation" referred to in this title constitutes the recommended decision and order referred to in the Commission's rules.
+
+
+
+
+
+
+
+
+*§ 2-23 Proceedings Before Referral to OATH.* ::
+
+
+Proceedings before the case is docketed at OATH are governed by the Commission's rules (47 RCNY §§ 1-01 to 1-62).
+
+
+
+
+
+
+
+
+*§ 2-24 Docketing the Case at OATH.* ::
+
+
+(a) Notwithstanding the provisions of 48 RCNY § 1-26, only the petitioner may docket a case at OATH. The petitioner must docket a case by delivering to OATH a completed intake sheet, the notice of referral required by the Commission's rules (47 RCNY § 1-71), the pleadings and any amendments to the pleadings, any notices of appearances filed with the petitioner pursuant to the Commission's rules (47 RCNY § 1-15), and any changes of address filed with the petitioner pursuant to the Commission's rules (47 RCNY § 1-16).
+
+(b) Upon docketing the case at OATH, the petitioner must serve notice of trial, if a trial date has been selected, and notice of conference, if a conference date has been selected, in compliance with 48 RCNY § 1-28.
+
+
+
+
+
+
+
+
+*§ 2-25 Intervention.* ::
+
+
+(a) A person may move to intervene as a party at any time before commencement of the trial. Intervention may be permitted, in the discretion of the administrative law judge, if the proposed intervenor demonstrates a substantial interest in the outcome of the case. In determining applications for intervention, the administrative law judge will consider the timeliness of the application, whether the issues in the case would be unduly broadened by grant of the application, the nature and extent of the interest of the proposed intervenor and the prejudice that would be suffered by the intervenor if the application is denied, and such other factors as may be relevant. The administrative law judge may grant the application upon such terms and conditions as he or she may deem appropriate and may limit the scope of an intervenor's participation in the adjudication.
+
+(b) A complainant may be permitted to intervene as of right, upon notice to all parties and the administrative law judge at or before the first conference in the case, or, if no conference is held, before commencement of trial. The Commission's Law Enforcement Bureau will prosecute the complaint. Complainants and respondents may be represented by attorneys or other duly authorized representatives, who must file notices of appearance pursuant to the Commission's rules (47 RCNY § 1-15), if before referral of the case to OATH, or pursuant to 48 RCNY § 1-11, if after such referral.
+
+
+
+
+
+
+
+
+*§ 2-26 Withdrawal or Dismissal of the Petition.* ::
+
+
+After referral of a case to OATH, but before commencement of the hearing, dismissal of the case by the petitioner on the grounds provided in the Commission's rules (47 RCNY § 1-22), or withdrawal of the case by the petitioner pursuant to 48 RCNY § 1-32(f), will be effected by notice to all other parties and to the administrative law judge. The complainant may move to withdraw the complaint at any time before commencement of the hearing. All other motions to withdraw or dismiss the petition are governed by 48 RCNY §§ 1-34 and 1-50.
+
+
+
+
+
+
+
+
+*§ 2-27 Entry of and Relief from Default.* ::
+
+
+(a) If the notice of referral to OATH alleges that a respondent has not complied with the requirements of § 1-14 of the Commission's rules (47 RCNY § 1-14), the respondent must serve and file an affidavit asserting that the respondent has complied with those requirements, or asserting reasons constituting good cause for its failure to comply with those requirements. Such affidavit must be served and filed at or before the first conference in the case, or, if no conference is held, before commencement of the hearing. If the respondent fails to serve and file such an affidavit within the time allowed by this paragraph, the administrative law judge will declare the respondent to be in default and will preclude the respondent from further participation in the adjudication. If the respondent timely serves and files such an affidavit, the administrative law judge will decide the questions presented, and will either declare the respondent to be in default and preclude the respondent from further participation in the adjudication, or will deny the default in full or upon stated terms and conditions which may include such limitations on the respondent's participation in the adjudication as the administrative law judge deems to be equitable.
+
+(b) A respondent against whom a default has been entered pursuant to paragraph (a) of this section may move at any time before issuance of the report and recommendation to open the default. Such a motion must include a showing of good cause for the conduct constituting the default, a showing of good cause for the failure to oppose entry of the default in accordance with paragraph (a) of this section, and a meritorious defense to the petition, in whole or in part. In granting any such motion, the administrative law judge may impose such terms and conditions as he or she deems to be equitable.
+
+
+
+
+
+
+
+
+*§ 2-28 Settlement Conferences.* ::
+
+
+In addition to or instead of the conduct of settlement conferences pursuant to 48 RCNY §§ 1-30 and 1-31, the Administrative Law Judge may in his or her discretion, on the request of any party, refer the case for a settlement conference to be conducted by the Commission's Office of Mediation and Conflict Resolution pursuant to the Commission's Rules (47 RCNY Subchapter F). In the discretion of the Administrative Law Judge, proceedings at OATH may be stayed, in whole or in part, pending completion of such settlement conference or for any shorter period of time.
+
+
+
+
+
+
+*§ 2-29 Discovery.* ::
+
+
+(a) Policy. Although strict compliance with the provisions of Article 31 of the Civil Practice Law and Rules is not required, the principles of that article may be applied to ensure orderly and expeditious preparation of cases for trial.
+
+(b) Scope of discovery.
+
+   (1) With the exception of the substance of any oral or written communications made by and between a complainant or complainant's attorney and the petitioner subsequent to a determination that probable cause exists, the materials contained in the petitioner's investigatory file must be available as of right to any party for inspection and copying subsequent to docketing at OATH upon reasonable notice, unless a default has been entered against that party by the administrative law judge.
+
+   (2) In the absence of an agreement by the parties, the number of interrogatories, including subparts, is limited to fifteen. The administrative law judge may permit additional interrogatories upon application for good cause shown.
+
+   (3) Any party may take the deposition of any other party as of right. Other depositions may be taken only upon leave of the administrative law judge for good cause shown. No person may be deposed by the party conducting the examination for a period aggregating more than seven hours except upon consent of all parties or leave of the administrative law judge for good cause shown. Deposition testimony may be recorded by a stenographer or by videotape or audiotape recording, at the option of the party conducting the deposition. The cost of the recording and transcription of deposition testimony must be borne by the party conducting the deposition.
+
+(c) Sanctions. Failure to comply with or object to a discovery request in a timely fashion as provided by 48 RCNY § 1-33 may result in the imposition of sanctions as appropriate, including those specified in 48 RCNY § 1-33(e).
+
+
+
+
+
+
+
+
+*§ 2-30 Interlocutory Review.* ::
+
+
+(a) Within five days after issuance of any interlocutory order or decision, a party may move for certification by the administrative law judge that such order or decision may be submitted, in whole or in specified part, for review by the chair of the Commission. If the party moving for certification seeks a stay of proceedings, in whole or in part, pending completion of the interlocutory review, the motion for certification must include a statement as to why the failure to grant the requested stay would materially prejudice the party. Certification may also be made, and a stay may be ordered, by the administrative law judge on his or her own motion.
+
+(b) As provided by the Commission's rules (47 RCNY § 1-74), failure of a party to seek interlocutory review of a decision or order does not preclude that party from making such challenge to the Commission in connection with the Commission's review of a report and recommendation in a case, provided that the party timely made its objection known to the administrative law judge and that the grounds for such challenge must be limited to those set forth to the administrative law judge.
+
+
+
+
+
+
+
+
+*§ 2-31 Proceedings After Issuance of Report and Recommendation.* ::
+
+
+Proceedings following issuance by the administrative law judge of the report and recommendation in the case are governed by the Commission's rules (47 RCNY §§ 1-75, 1-76).
+
+
+
+
+
+
+
+
+
+**Subchapter D: Rules For Post-seizure Review of Impoundment of Vehicles**
+
+
+
+*§ 2-41 Applicability.* ::
+
+
+This subchapter applies solely to cases brought to determine the validity of post-seizure retention of vehicles by the Police Department as evidence or for prospective or pending actions to forfeit such vehicles pursuant to § 14-140 of the New York City Administrative Code. Chapter 1 of this title also applies to such cases except to the extent that it is inconsistent with this subchapter or with Krimstock v. Kelly, 99 Civ. 12041 (MBM), order and judgment , and any amendments, modifications and revisions thereof.
+
+
+
+
+
+
+
+
+*§ 2-42 Parties.* ::
+
+
+For purposes of this subchapter, the Police Department will be the petitioner, and the claimant to the vehicle will be the respondent, as defined in 48 RCNY § 1-01.
+
+
+
+
+
+
+
+
+*§ 2-43 Pleadings.* ::
+
+
+(a) The time provided in 48 RCNY § 1-26(d) for service of the notice of trial does not apply.
+
+(b) Notwithstanding 48 RCNY § 1-24, the respondent may serve and file an answer at any time until the commencement of the hearing.
+
+
+
+
+
+
+
+
+*§ 2-44 Trial Continuances.* ::
+
+
+A motion by the petitioner, after the conclusion of the respondent's evidence, for a continuance of trial to present rebuttal evidence in the form of testimony from witnesses not called on the petitioner's case-in-chief, may be granted for good cause shown.
+
+
+
+
+
+
+
+
+*§ 2-45 Default by Vehicle Owner.* ::
+
+
+Pursuant to 48 RCNY § 1-45, where an owner of a vehicle fails to appear for trial, having been properly served with required notices, the petitioner need not prove that such owner "permitted or suffered" the allegedly illegal use of the seized vehicle.
+
+
+
+
+
+
+*§ 2-46 Transcription of Trials.* ::
+
+
+Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedings in the case, whether electronic or stenographic, may not be transcribed except (i) upon request and payment of reasonable transcription costs, (ii) upon direction of the administrative law judge, in his or her discretion, or (iii) as otherwise required by law.
+
+
+
+
+
+
 Chapter 1: Rules of Practice Applicable To Cases at the OATH Trials Division
 --------------------------------------------------
 
@@ -634,344 +976,15 @@ Post-trial motions must be made in writing, in conformity with the requirements 
 
 
 
-Chapter 2: Additional Rules of Practice Applicable To Particular Types of Cases at the OATH Trials Division
+Chapter 4: Fitness and Discipline Hearings For OATH Employees
 --------------------------------------------------
 
 
 
+*§ 4-01 Fitness and Discipline of Employees of the Office of Administrative Trials and Hearings.* ::
 
-**Subchapter A: Additional Rules For Prequalified Vendor Appeals**
 
-
-
-*§ 2-01 Applicability.* ::
-
-
-This subchapter applies solely to prequalified vendor appeals pursuant to § 324(b) of the Charter and the rules of the Procurement Policy Board, 9 RCNY § 3-10(m). Chapter 1 also applies to such proceedings except to the extent that it is inconsistent with this subchapter.
-
-
-
-
-
-
-
-
-*§ 2-02 Docketing; Service of the Petition.* ::
-
-
-(a) A vendor must docket an appeal by delivering to OATH a completed intake sheet, with a petition and appropriate proof of service of the petition upon the agency whose prequalification determination is to be reviewed. The petition must include a copy of the determination to be reviewed and must state the nature and basis of the challenge to the determination.
-
-(b) The petition must be accompanied by a notice to the respondent of its time to serve and file an answer. The notice described in 48 RCNY § 1-23(a) is not required.
-
-
-
-
-
-
-
-
-*§ 2-03 Answer; Reply.* ::
-
-
-(a) If the petition is served personally on the respondent, the respondent must file an answer, with appropriate proof of service, within fourteen days of the respondent's receipt of the petition. If the petition is served by mail, it will be presumed that the respondent received the petition five days after it was served.
-
-(b) The answer must include the determination to be reviewed, the basis of the determination, admission, denial or other response to each allegation in the petition, and a statement of any other defenses to the petition. The basis of the determination included in the answer must consist of all documentation and information that was before the agency head, including any submissions by the vendor. To the extent that information in support of the determination was not written, it must be reduced to writing and included in the answer in the form of affidavits or affirmations, documentary exhibits, or other evidentiary material. Also, defenses may be supported by evidentiary material. The answer may be accompanied by a memorandum of law.
-
-(c) If the respondent's attorney or other representative has not already filed a notice of appearance, such notice must be filed with the answer.
-
-(d) Within fifteen days of the service of the answer, or within twenty days if such service Is by mail, the petitioner may file a reply. The reply may include affidavits or affirmations, documentary exhibits, or other evidentiary material in rebuttal of the answer, including information provided to the agency head which was not written. The reply may be accompanied by a memorandum of law.
-
-
-
-
-
-
-
-
-*§ 2-04 Further Proceedings.* ::
-
-
-An appeal will be decided on the petition, answer and reply, unless the administrative law judge directs further written submissions, oral argument, or an evidentiary hearing, as may be necessary to the decision of the appeal.
-
-
-
-
-
-
-
-
-*§ 2-05 Discovery.* ::
-
-
-Discovery may not be permitted except upon order of the administrative law judge in connection with 48 RCNY § 2-04.
-
-
-
-
-
-
-
-
-*§ 2-06 Determination.* ::
-
-
-The administrative law judge will render as expeditiously as possible a determination as to whether the agency's decision is arbitrary or capricious.
-
-
-
-
-
-
-
-
-*§ 2-07 Copies of Determination.* ::
-
-
-The respondent must send copies of the administrative law judge's determination to such non- parties as may be required, for instance, by the rules of the Procurement Policy Board, 9 RCNY § 3-10(m)(5).
-
-
-
-
-
-
-
-
-
-**Subchapter C: Additional Rules For Human Rights Cases**
-
-
-
-*§ 2-21 Applicability.* ::
-
-
-This subchapter applies solely to cases brought by the New York City Commission on Human Rights pursuant to the City Human Rights Law, Title 8 of the New York City Administrative Code. Chapter 1 of this title also applies to such proceedings except to the extent that it is inconsistent with this subchapter.
-
-
-
-
-
-
-
-
-*§ 2-22 Definitions.* ::
-
-
-For purposes of this subchapter:
-
-Commission. "Commission" means the New York City Commission on Human Rights.
-
-Complainant. "Complainant" is defined according to the Commission's rules, 47 RCNY § 1-03.
-
-Party. "Party" is defined according to the Commission's rules, 47 RCNY § 1-03.
-
-Petition. "Petition" means a complaint as defined in the Commission's rules, 47 RCNY §§ 1-11, 1-12.
-
-Petitioner. "Petitioner" means the Law Enforcement Bureau of the Commission.
-
-Report and recommendation. The "report and recommendation" referred to in this title constitutes the recommended decision and order referred to in the Commission's rules.
-
-
-
-
-
-
-
-
-*§ 2-23 Proceedings Before Referral to OATH.* ::
-
-
-Proceedings before the case is docketed at OATH are governed by the Commission's rules (47 RCNY §§ 1-01 to 1-62).
-
-
-
-
-
-
-
-
-*§ 2-24 Docketing the Case at OATH.* ::
-
-
-(a) Notwithstanding the provisions of 48 RCNY § 1-26, only the petitioner may docket a case at OATH. The petitioner must docket a case by delivering to OATH a completed intake sheet, the notice of referral required by the Commission's rules (47 RCNY § 1-71), the pleadings and any amendments to the pleadings, any notices of appearances filed with the petitioner pursuant to the Commission's rules (47 RCNY § 1-15), and any changes of address filed with the petitioner pursuant to the Commission's rules (47 RCNY § 1-16).
-
-(b) Upon docketing the case at OATH, the petitioner must serve notice of trial, if a trial date has been selected, and notice of conference, if a conference date has been selected, in compliance with 48 RCNY § 1-28.
-
-
-
-
-
-
-
-
-*§ 2-25 Intervention.* ::
-
-
-(a) A person may move to intervene as a party at any time before commencement of the trial. Intervention may be permitted, in the discretion of the administrative law judge, if the proposed intervenor demonstrates a substantial interest in the outcome of the case. In determining applications for intervention, the administrative law judge will consider the timeliness of the application, whether the issues in the case would be unduly broadened by grant of the application, the nature and extent of the interest of the proposed intervenor and the prejudice that would be suffered by the intervenor if the application is denied, and such other factors as may be relevant. The administrative law judge may grant the application upon such terms and conditions as he or she may deem appropriate and may limit the scope of an intervenor's participation in the adjudication.
-
-(b) A complainant may be permitted to intervene as of right, upon notice to all parties and the administrative law judge at or before the first conference in the case, or, if no conference is held, before commencement of trial. The Commission's Law Enforcement Bureau will prosecute the complaint. Complainants and respondents may be represented by attorneys or other duly authorized representatives, who must file notices of appearance pursuant to the Commission's rules (47 RCNY § 1-15), if before referral of the case to OATH, or pursuant to 48 RCNY § 1-11, if after such referral.
-
-
-
-
-
-
-
-
-*§ 2-26 Withdrawal or Dismissal of the Petition.* ::
-
-
-After referral of a case to OATH, but before commencement of the hearing, dismissal of the case by the petitioner on the grounds provided in the Commission's rules (47 RCNY § 1-22), or withdrawal of the case by the petitioner pursuant to 48 RCNY § 1-32(f), will be effected by notice to all other parties and to the administrative law judge. The complainant may move to withdraw the complaint at any time before commencement of the hearing. All other motions to withdraw or dismiss the petition are governed by 48 RCNY §§ 1-34 and 1-50.
-
-
-
-
-
-
-
-
-*§ 2-27 Entry of and Relief from Default.* ::
-
-
-(a) If the notice of referral to OATH alleges that a respondent has not complied with the requirements of § 1-14 of the Commission's rules (47 RCNY § 1-14), the respondent must serve and file an affidavit asserting that the respondent has complied with those requirements, or asserting reasons constituting good cause for its failure to comply with those requirements. Such affidavit must be served and filed at or before the first conference in the case, or, if no conference is held, before commencement of the hearing. If the respondent fails to serve and file such an affidavit within the time allowed by this paragraph, the administrative law judge will declare the respondent to be in default and will preclude the respondent from further participation in the adjudication. If the respondent timely serves and files such an affidavit, the administrative law judge will decide the questions presented, and will either declare the respondent to be in default and preclude the respondent from further participation in the adjudication, or will deny the default in full or upon stated terms and conditions which may include such limitations on the respondent's participation in the adjudication as the administrative law judge deems to be equitable.
-
-(b) A respondent against whom a default has been entered pursuant to paragraph (a) of this section may move at any time before issuance of the report and recommendation to open the default. Such a motion must include a showing of good cause for the conduct constituting the default, a showing of good cause for the failure to oppose entry of the default in accordance with paragraph (a) of this section, and a meritorious defense to the petition, in whole or in part. In granting any such motion, the administrative law judge may impose such terms and conditions as he or she deems to be equitable.
-
-
-
-
-
-
-
-
-*§ 2-28 Settlement Conferences.* ::
-
-
-In addition to or instead of the conduct of settlement conferences pursuant to 48 RCNY §§ 1-30 and 1-31, the Administrative Law Judge may in his or her discretion, on the request of any party, refer the case for a settlement conference to be conducted by the Commission's Office of Mediation and Conflict Resolution pursuant to the Commission's Rules (47 RCNY Subchapter F). In the discretion of the Administrative Law Judge, proceedings at OATH may be stayed, in whole or in part, pending completion of such settlement conference or for any shorter period of time.
-
-
-
-
-
-
-*§ 2-29 Discovery.* ::
-
-
-(a) Policy. Although strict compliance with the provisions of Article 31 of the Civil Practice Law and Rules is not required, the principles of that article may be applied to ensure orderly and expeditious preparation of cases for trial.
-
-(b) Scope of discovery.
-
-   (1) With the exception of the substance of any oral or written communications made by and between a complainant or complainant's attorney and the petitioner subsequent to a determination that probable cause exists, the materials contained in the petitioner's investigatory file must be available as of right to any party for inspection and copying subsequent to docketing at OATH upon reasonable notice, unless a default has been entered against that party by the administrative law judge.
-
-   (2) In the absence of an agreement by the parties, the number of interrogatories, including subparts, is limited to fifteen. The administrative law judge may permit additional interrogatories upon application for good cause shown.
-
-   (3) Any party may take the deposition of any other party as of right. Other depositions may be taken only upon leave of the administrative law judge for good cause shown. No person may be deposed by the party conducting the examination for a period aggregating more than seven hours except upon consent of all parties or leave of the administrative law judge for good cause shown. Deposition testimony may be recorded by a stenographer or by videotape or audiotape recording, at the option of the party conducting the deposition. The cost of the recording and transcription of deposition testimony must be borne by the party conducting the deposition.
-
-(c) Sanctions. Failure to comply with or object to a discovery request in a timely fashion as provided by 48 RCNY § 1-33 may result in the imposition of sanctions as appropriate, including those specified in 48 RCNY § 1-33(e).
-
-
-
-
-
-
-
-
-*§ 2-30 Interlocutory Review.* ::
-
-
-(a) Within five days after issuance of any interlocutory order or decision, a party may move for certification by the administrative law judge that such order or decision may be submitted, in whole or in specified part, for review by the chair of the Commission. If the party moving for certification seeks a stay of proceedings, in whole or in part, pending completion of the interlocutory review, the motion for certification must include a statement as to why the failure to grant the requested stay would materially prejudice the party. Certification may also be made, and a stay may be ordered, by the administrative law judge on his or her own motion.
-
-(b) As provided by the Commission's rules (47 RCNY § 1-74), failure of a party to seek interlocutory review of a decision or order does not preclude that party from making such challenge to the Commission in connection with the Commission's review of a report and recommendation in a case, provided that the party timely made its objection known to the administrative law judge and that the grounds for such challenge must be limited to those set forth to the administrative law judge.
-
-
-
-
-
-
-
-
-*§ 2-31 Proceedings After Issuance of Report and Recommendation.* ::
-
-
-Proceedings following issuance by the administrative law judge of the report and recommendation in the case are governed by the Commission's rules (47 RCNY §§ 1-75, 1-76).
-
-
-
-
-
-
-
-
-
-**Subchapter D: Rules For Post-seizure Review of Impoundment of Vehicles**
-
-
-
-*§ 2-41 Applicability.* ::
-
-
-This subchapter applies solely to cases brought to determine the validity of post-seizure retention of vehicles by the Police Department as evidence or for prospective or pending actions to forfeit such vehicles pursuant to § 14-140 of the New York City Administrative Code. Chapter 1 of this title also applies to such cases except to the extent that it is inconsistent with this subchapter or with Krimstock v. Kelly, 99 Civ. 12041 (MBM), order and judgment , and any amendments, modifications and revisions thereof.
-
-
-
-
-
-
-
-
-*§ 2-42 Parties.* ::
-
-
-For purposes of this subchapter, the Police Department will be the petitioner, and the claimant to the vehicle will be the respondent, as defined in 48 RCNY § 1-01.
-
-
-
-
-
-
-
-
-*§ 2-43 Pleadings.* ::
-
-
-(a) The time provided in 48 RCNY § 1-26(d) for service of the notice of trial does not apply.
-
-(b) Notwithstanding 48 RCNY § 1-24, the respondent may serve and file an answer at any time until the commencement of the hearing.
-
-
-
-
-
-
-
-
-*§ 2-44 Trial Continuances.* ::
-
-
-A motion by the petitioner, after the conclusion of the respondent's evidence, for a continuance of trial to present rebuttal evidence in the form of testimony from witnesses not called on the petitioner's case-in-chief, may be granted for good cause shown.
-
-
-
-
-
-
-
-
-*§ 2-45 Default by Vehicle Owner.* ::
-
-
-Pursuant to 48 RCNY § 1-45, where an owner of a vehicle fails to appear for trial, having been properly served with required notices, the petitioner need not prove that such owner "permitted or suffered" the allegedly illegal use of the seized vehicle.
-
-
-
-
-
-
-*§ 2-46 Transcription of Trials.* ::
-
-
-Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedings in the case, whether electronic or stenographic, may not be transcribed except (i) upon request and payment of reasonable transcription costs, (ii) upon direction of the administrative law judge, in his or her discretion, or (iii) as otherwise required by law.
-
-
+The chief administrative law judge or, upon his or her designation, an administrative law judge, shall conduct administrative hearings regarding OATH employees' fitness and discipline pursuant to N.Y. Civil Service Law, § 71-75, and pursuant to Charter, § 1049(1). If such a hearing is conducted by an administrative law judge other than the chief administrative law judge, the administrative law judge shall make written proposed findings of fact and a recommended decision. The chief administrative law judge shall review the proposed findings and recommendations of the administrative law judge and shall make the final findings of fact and decision in the matter being adjudicated.
 
 
 
@@ -4288,19 +4301,6 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
 
  
-
-
-
-
-Chapter 4: Fitness and Discipline Hearings For OATH Employees
---------------------------------------------------
-
-
-
-*§ 4-01 Fitness and Discipline of Employees of the Office of Administrative Trials and Hearings.* ::
-
-
-The chief administrative law judge or, upon his or her designation, an administrative law judge, shall conduct administrative hearings regarding OATH employees' fitness and discipline pursuant to N.Y. Civil Service Law, § 71-75, and pursuant to Charter, § 1049(1). If such a hearing is conducted by an administrative law judge other than the chief administrative law judge, the administrative law judge shall make written proposed findings of fact and a recommended decision. The chief administrative law judge shall review the proposed findings and recommendations of the administrative law judge and shall make the final findings of fact and decision in the matter being adjudicated.
 
 
 

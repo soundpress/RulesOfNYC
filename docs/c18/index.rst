@@ -3189,7 +3189,7 @@ Local Truck Routes
     * - Maiden Lane
       - South Street to Water Street
     * - Nagle Avenue
-      - Broadway to l0th Avenue
+      - Broadway to 10th Avenue
     * - Pearl Street
       - Water Street to St. James Place
     * - Pike Slip
@@ -3254,9 +3254,9 @@ Local Truck Routes
       - Avenue of the Americas to Broadway
     * - 9th Avenue
       - 14th Street to 59th Street
-    * - l0th Avenue
+    * - 10th Avenue
       - Little West 12th Street to 59th Street
-    * - l0th Avenue
+    * - 10th Avenue
       - Nagle Avenue to Broadway
     * - 11th Avenue
       - Gansevoort Street to 57th Street
@@ -3279,7 +3279,7 @@ Local Truck Routes
     * - 30th Street
       - Broadway to 11th Avenue
     * - 31st Street
-      - 3rd Avenue to l0th Avenue
+      - 3rd Avenue to 10th Avenue
     * - 34th Street
       - 1st Avenue to 12th Avenue
     * - 36th Street
@@ -3451,7 +3451,7 @@ Through Truck Route Network
     * - Jay Street
       - Manhattan Bridge Exit Ramp to Sands Street
     * - McDonald Avenue
-      - l0th Avenue to Church Avenue
+      - 10th Avenue to Church Avenue
     * - Prospect Expressway
       - Gowanus Expressway to Church Avenue
     * - Sands Street
@@ -3460,7 +3460,7 @@ Through Truck Route Network
       - Flatbush Avenue Extension to Brooklyn-Queens Expressway Ramps
     * - 3rd Avenue
       - Flatbush Avenue to Atlantic Avenue
-    * - l0th Avenue
+    * - 10th Avenue
       - Prospect Expressway Exit Ramp to McDonald Avenue
 ~
 
@@ -3672,7 +3672,7 @@ Local Truck Route Network
       - North Henry Street to Bridgewater Street
     * - North Henry Street
       - Greenpoint Avenue to Norman Street
-    * - North l0th Street
+    * - North 10th Street
       - Union Avenue to Kent Avenue
     * - North 11th Street
       - Kent Avenue to Union Avenue
@@ -3772,7 +3772,7 @@ Local Truck Route Network
       - Prospect Expressway to 20th Street; and 65th Street to 92nd Street
     * - 9th Street
       - Clinton Street to 4th Avenue
-    * - l0th Avenue
+    * - 10th Avenue
       - Prospect Expressway to 20th Street
     * - 11th Avenue
       - 18th Street to Terrace Place
@@ -3781,7 +3781,7 @@ Local Truck Route Network
     * - 18th Avenue
       - 86th Street to Cropsey Avenue
     * - 20th Avenue
-      - 3rd Avenue to l0th Avenue
+      - 3rd Avenue to 10th Avenue
     * - 25th Street
       - Cropsey Avenue to 86th Street
     * - 39th Street
@@ -3795,7 +3795,7 @@ Local Truck Route Network
     * - 65th Street
       - 3rd Avenue to McDonald Avenue
     * - 86th Street
-      - Fort Hamilton Parkway to l8th Avenue; and 25th Avenue to Avenue U
+      - Fort Hamilton Parkway to 18th Avenue; and 25th Avenue to Avenue U
     * - 92nd Street
       - Fort Hamilton Parkway to 7th Avenue
 ~

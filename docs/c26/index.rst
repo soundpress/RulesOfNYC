@@ -2767,6 +2767,81 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 
+Chapter 13: Indigent Defense Plan For the City of New York
+--------------------------------------------------
+
+
+
+*§ 13-01 Definitions.* ::
+
+
+Assigned Counsel Panels. Panels of private attorneys certified by Screening and Advisory Committees appointed by the Appellate Division, First and Second Judicial Departments, respectively, to represent indigent persons for purposes of Article 18-B of the County Law.
+
+Office of the Assigned Counsel Plan. The Office of the Assigned Counsel Plan (the "OACP"), established pursuant to subdivision (3) of section 722 of the County Law, is responsible for management of the City's Criminal Defense Panels. The OACP is overseen by two Administrators in consultation with the Presiding Justices of the First and Second Judicial Departments.
+
+Criminal Defense Panels. Panels of attorneys appointed by the Appellate Division, First and Second Judicial Departments, respectively, upon the recommendation of Screening or Advisory Committees established pursuant to the rules of those courts. The panels are administered by the OACP in accordance with the rules of the Appellate Division, First and Second Judicial Departments. Attorneys on the Criminal Defense Panels represent indigent defendants in criminal matters as defined in section 722-a of the County Law, as set forth below.
+
+Family Law Panels. Assigned Counsel Panels administered by the Appellate Division, First and Second Judicial Departments, in accordance with the rules of those courts. Attorneys on the Family Law Panels represent indigent persons in the Appellate Division, First and Second Judicial Departments, and in the Supreme Court, the Surrogate's Court and the Family Court within those Departments, in proceedings under sections 262 or 1120 of the Family Court Act and section 407 of the Surrogate's Court Procedure Act.
+
+Indigent Defense Organization Oversight Committee. Committees established by the Appellate Division, First or Second Judicial Departments, that monitor Providers.
+
+Indigent Person. Any person who is financially unable to obtain counsel and is entitled to representation pursuant to section 722 of the County Law.
+
+Provider. A private institutional legal services organization selected by CJC in accordance with 43 RCNY § 13-02 to represent indigent persons.
+
+
+
+
+
+
+*§ 13-02 Competitive Procurement Process.* ::
+
+
+The Office of the Criminal Justice Coordinator ("CJC") shall select Providers through a competitive procurement process in accordance with the rules of the Procurement Policy Board. These Providers, along with attorneys appointed from appropriate Assigned Counsel Panels of the First and Second Judicial Departments, will provide indigent legal services as described below. Indigent Defense Organization Oversight Committees, as established by the First or Second Judicial Departments, shall monitor the Providers.
+
+
+
+
+
+
+*§ 13-03 Criminal Matters.* ::
+
+
+In classification proceedings under Article 6-C of the Correction Law and in any other criminal matters in which an indigent person is entitled to counsel pursuant to Article 18-B of the County Law, CJC shall select Providers in each of the City's five counties to provide representation at the trial level. In appellate matters in which an indigent person is entitled to counsel pursuant to Article 18-B of the County Law, CJC shall select providers in each of the First and Second Judicial Departments to provide representation in such matters. Providers shall be assigned by the court at the trial and appellate levels. In any case where, due to conflict of interest or other appropriate reason, Providers decline or are unable to represent an indigent person at the trial or on appeal in a criminal matter, counsel shall be furnished by attorneys assigned by the ACP from the appropriate Criminal Defense Panel of the Appellate Division, First or Second Judicial Department, or by alternate providers selected by the CJC through the City's procurement process.
+
+
+
+
+
+
+*§ 13-04 Family Law Matters.* ::
+
+
+Indigent persons who are parties in proceedings brought under sections 262 or 1120 of the Family Court Act or section 407 of the Surrogate's Court Procedure Act shall be represented by attorneys selected by the First and Second Judicial Departments from the Family Law Panels of the Appellate Division, First or Second Judicial Department, and Providers selected by CJC. Attorneys shall be assigned by the court.
+
+
+
+
+
+
+*§ 13-05 Investigative, Expert, and Other Services in Matters Handled by 18-B Attorneys.* ::
+
+
+The authorization to attorneys appointed to represent indigent persons to obtain necessary investigative, expert, or other services and the determination of the amount of reasonable compensation therefor shall be made pursuant to section 722-c of the County Law by the court in which the matter is pending. Expert and Ancillary Services Roster (EASR). The OACP shall compile and administer an Expert and Ancillary Services Roster consisting of the names of investigators, experts and other professionals who have indicated their availability to provide services to attorneys who represent indigent persons in criminal matters pursuant to this chapter, together with the curriculum vitae of such persons. The OACP shall make that roster available on a regular basis to panel members who represent indigent persons pursuant to Article 18-B of the County Law. Persons desiring to be included in the EASR shall apply to the OACP and the outcome of that application shall be subject to a background review which may consist, inter alia, of a criminal background check, verification of credentials, and verification of educational and professional attainments. The Ancillary Services Roster shall be provided simply as an informational service to courts and panel members; inclusion of a name on the roster shall not be construed as an endorsement by the OACP of the qualifications or competence of persons so named and shall not be cited by any person as such an endorsement. Application for Appointment of Investigator, Expert, or other Service Providers. Attorneys representing indigent persons pursuant to this chapter may seek the appointment of an investigator, expert or other service provider pursuant to section 722-c of the County Law, whether or not the name of such person appears on the EASR. Investigators, experts, or other ancillary service providers not listed on the EASR, will be subject to a background review prior to payment being processed for services.
+
+
+
+
+
+
+*§ 13-06 Payment Procedures and Submission of Vouchers in Criminal Matters Handled by Attorneys on Criminal Panels and Experts Assigned to Matters Handled by 18-B Attorneys.* ::
+
+
+Attorneys on the Criminal Panels representing or who have represented indigent persons pursuant to Article 18-B of the County Law and this chapter, and investigators, experts, and other persons providing or who have provided services in accordance with Article 18-B of the County Law and this chapter shall apply to the court in which the representation was furnished or services provided pursuant to sections 722-b and 722-c of the County Law to fix his or her reasonable compensation for such representation or services. Applications shall be made on the appropriate voucher form or template promulgated by the OACP. Vouchers shall be signed by the judge presiding or who presided in the matter in which the attorney provided representation or the person provided ancillary services, approving the amount for which payment is being sought by the voucher, and shall be submitted to the OACP for review prior to payment by the comptroller.
+
+
+
+
 Chapter 12: Waivers from Inclusion In the Doing Business Database
 --------------------------------------------------
 
@@ -2900,81 +2975,6 @@ A waiver may be granted in the following circumstances:
 
 
 A waiver shall be granted only after substantial efforts have been made by the CCPO to obtain the information. Such efforts may include any efforts made by the agency at the direction of the CCPO.
-
-
-
-
-Chapter 13: Indigent Defense Plan For the City of New York
---------------------------------------------------
-
-
-
-*§ 13-01 Definitions.* ::
-
-
-Assigned Counsel Panels. Panels of private attorneys certified by Screening and Advisory Committees appointed by the Appellate Division, First and Second Judicial Departments, respectively, to represent indigent persons for purposes of Article 18-B of the County Law.
-
-Office of the Assigned Counsel Plan. The Office of the Assigned Counsel Plan (the "OACP"), established pursuant to subdivision (3) of section 722 of the County Law, is responsible for management of the City's Criminal Defense Panels. The OACP is overseen by two Administrators in consultation with the Presiding Justices of the First and Second Judicial Departments.
-
-Criminal Defense Panels. Panels of attorneys appointed by the Appellate Division, First and Second Judicial Departments, respectively, upon the recommendation of Screening or Advisory Committees established pursuant to the rules of those courts. The panels are administered by the OACP in accordance with the rules of the Appellate Division, First and Second Judicial Departments. Attorneys on the Criminal Defense Panels represent indigent defendants in criminal matters as defined in section 722-a of the County Law, as set forth below.
-
-Family Law Panels. Assigned Counsel Panels administered by the Appellate Division, First and Second Judicial Departments, in accordance with the rules of those courts. Attorneys on the Family Law Panels represent indigent persons in the Appellate Division, First and Second Judicial Departments, and in the Supreme Court, the Surrogate's Court and the Family Court within those Departments, in proceedings under sections 262 or 1120 of the Family Court Act and section 407 of the Surrogate's Court Procedure Act.
-
-Indigent Defense Organization Oversight Committee. Committees established by the Appellate Division, First or Second Judicial Departments, that monitor Providers.
-
-Indigent Person. Any person who is financially unable to obtain counsel and is entitled to representation pursuant to section 722 of the County Law.
-
-Provider. A private institutional legal services organization selected by CJC in accordance with 43 RCNY § 13-02 to represent indigent persons.
-
-
-
-
-
-
-*§ 13-02 Competitive Procurement Process.* ::
-
-
-The Office of the Criminal Justice Coordinator ("CJC") shall select Providers through a competitive procurement process in accordance with the rules of the Procurement Policy Board. These Providers, along with attorneys appointed from appropriate Assigned Counsel Panels of the First and Second Judicial Departments, will provide indigent legal services as described below. Indigent Defense Organization Oversight Committees, as established by the First or Second Judicial Departments, shall monitor the Providers.
-
-
-
-
-
-
-*§ 13-03 Criminal Matters.* ::
-
-
-In classification proceedings under Article 6-C of the Correction Law and in any other criminal matters in which an indigent person is entitled to counsel pursuant to Article 18-B of the County Law, CJC shall select Providers in each of the City's five counties to provide representation at the trial level. In appellate matters in which an indigent person is entitled to counsel pursuant to Article 18-B of the County Law, CJC shall select providers in each of the First and Second Judicial Departments to provide representation in such matters. Providers shall be assigned by the court at the trial and appellate levels. In any case where, due to conflict of interest or other appropriate reason, Providers decline or are unable to represent an indigent person at the trial or on appeal in a criminal matter, counsel shall be furnished by attorneys assigned by the ACP from the appropriate Criminal Defense Panel of the Appellate Division, First or Second Judicial Department, or by alternate providers selected by the CJC through the City's procurement process.
-
-
-
-
-
-
-*§ 13-04 Family Law Matters.* ::
-
-
-Indigent persons who are parties in proceedings brought under sections 262 or 1120 of the Family Court Act or section 407 of the Surrogate's Court Procedure Act shall be represented by attorneys selected by the First and Second Judicial Departments from the Family Law Panels of the Appellate Division, First or Second Judicial Department, and Providers selected by CJC. Attorneys shall be assigned by the court.
-
-
-
-
-
-
-*§ 13-05 Investigative, Expert, and Other Services in Matters Handled by 18-B Attorneys.* ::
-
-
-The authorization to attorneys appointed to represent indigent persons to obtain necessary investigative, expert, or other services and the determination of the amount of reasonable compensation therefor shall be made pursuant to section 722-c of the County Law by the court in which the matter is pending. Expert and Ancillary Services Roster (EASR). The OACP shall compile and administer an Expert and Ancillary Services Roster consisting of the names of investigators, experts and other professionals who have indicated their availability to provide services to attorneys who represent indigent persons in criminal matters pursuant to this chapter, together with the curriculum vitae of such persons. The OACP shall make that roster available on a regular basis to panel members who represent indigent persons pursuant to Article 18-B of the County Law. Persons desiring to be included in the EASR shall apply to the OACP and the outcome of that application shall be subject to a background review which may consist, inter alia, of a criminal background check, verification of credentials, and verification of educational and professional attainments. The Ancillary Services Roster shall be provided simply as an informational service to courts and panel members; inclusion of a name on the roster shall not be construed as an endorsement by the OACP of the qualifications or competence of persons so named and shall not be cited by any person as such an endorsement. Application for Appointment of Investigator, Expert, or other Service Providers. Attorneys representing indigent persons pursuant to this chapter may seek the appointment of an investigator, expert or other service provider pursuant to section 722-c of the County Law, whether or not the name of such person appears on the EASR. Investigators, experts, or other ancillary service providers not listed on the EASR, will be subject to a background review prior to payment being processed for services.
-
-
-
-
-
-
-*§ 13-06 Payment Procedures and Submission of Vouchers in Criminal Matters Handled by Attorneys on Criminal Panels and Experts Assigned to Matters Handled by 18-B Attorneys.* ::
-
-
-Attorneys on the Criminal Panels representing or who have represented indigent persons pursuant to Article 18-B of the County Law and this chapter, and investigators, experts, and other persons providing or who have provided services in accordance with Article 18-B of the County Law and this chapter shall apply to the court in which the representation was furnished or services provided pursuant to sections 722-b and 722-c of the County Law to fix his or her reasonable compensation for such representation or services. Applications shall be made on the appropriate voucher form or template promulgated by the OACP. Vouchers shall be signed by the judge presiding or who presided in the matter in which the attorney provided representation or the person provided ancillary services, approving the amount for which payment is being sought by the voucher, and shall be submitted to the OACP for review prior to payment by the comptroller.
 
 
 

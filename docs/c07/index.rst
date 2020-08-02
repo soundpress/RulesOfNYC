@@ -817,19 +817,27 @@ Uniform system of billing and acquiring security for collection services to prem
 
    (1) an arena or stadium having a seating capacity of at least fifteen thousand persons;
 
-   (2) a food service establishment that (i) is located within a hotel having at least one hundred fifty sleeping rooms, (ii) operates under common ownership or control of such hotel, and (iii) receives waste collection from the same private carter as such hotel;
+   (2) a food service establishment that is located within a hotel having at least one hundred sleeping rooms;
 
    (3) a food manufacturer that has a floor area of at least twenty-five thousand square feet;
 
    (4) a food wholesaler that has a floor area of at least twenty thousand square feet;
 
-   (5) a food service establishment that has a floor area of at least fifteen thousand square feet;
+   (5) a food service establishment that has a floor area of at least seven thousand square feet;
 
-   (6) (i) a food service establishment that is part of a chain of one hundred or more locations in the City of New York and that (i) operate under common ownership or control; (ii) are individually franchised outlets of a parent business; or (iii) do business under the same corporate name.
+   (6) (i) a food service establishment that is part of a chain of two or more locations in the City of New York, have a combined floor area of at least eight thousand square feet and that (A) operate under common ownership or control; (B) are individually franchised outlets of a parent business; or (C) do business under the same corporate name.
 
-      (ii) Any person who owns or operates two or fewer food service establishments may request a waiver from the sanitation commissioner of the requirements of this section if no single food service establishment has a floor area of at least seven thousand square feet, the food service establishment or establishments are individually franchised outlets of a parent business covered by this subparagraph, and the owner or operator establishes that the food service establishment or establishments do not receive private carting services through a general carting agreement between a parent business and private carter; and
+      (ii) Any person who owns or operates two or fewer food service establishments may request a waiver from the commissioner of the requirements of this section if no single food service establishment has a floor area of at least seven thousand square feet, the food service establishment or establishments are individually franchised outlets of a parent business covered by this subparagraph, and the owner or operator establishes that the food service establishment or establishments do not receive private carting services through a general carting agreement between a parent business and private carter; and
 
-   (7)  a retail food store that has a floor area of at least twenty-five thousand square feet.
+   (7) a retail food store that has a floor area of at least ten thousand square feet, or any retail food store that is part of a chain of three or more retail food stores that have a combined floor area space of at least ten thousand square feet and that operate under common ownership or control and receive waste collection from the same private carter;
+
+   (8) any building or premises where food service establishments having a total combined floor area of at least eight thousand square feet are located and where the owner of the building or premises, or its agent, arranges or contracts with a private carter for the removal of waste from food service establishments having at least eight thousand square feet of such building or premises;
+
+   (9) a location at which a food preparation establishment has a floor area of at least six thousand square feet;
+
+   (10) a catering establishment that is required to provide for the removal of waste pursuant to section 16-116 of the administrative code of the city of New York whenever the anticipated attendance for any particular event is greater than one hundred persons; and
+
+   (11) sponsors of a temporary public event with an anticipated attendance of greater than five hundred persons per day, excluding activities conducted pursuant to a valid permit for filming, demonstration, parade, or block parties.
 
 For purposes of this section, the “floor area” of an establishment has the same meaning as defined under Section 12-10 of Chapter 2 of Article 1 of the Zoning Resolution.
 

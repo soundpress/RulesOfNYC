@@ -4313,7 +4313,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
 .. list-table::
     :header-rows: 1
 
-    * - 20 percent (5% per month for 3 months from June 21 through September 20 and 5% for the fractional part of the month from September 20 through September 30) of the amount due of $l,000 required to be shown on the return
+    * - 20 percent (5% per month for 3 months from June 21 through September 20 and 5% for the fractional part of the month from September 20 through September 30) of the amount due of $1,000 required to be shown on the return
       -  $200
     * - Reduced by the amount of the addition imposed under paragraph (2) for those months
       -  $16
@@ -4828,7 +4828,7 @@ Example 3: A tenant conducts his business in two stores, one located in Brooklyn
 
 Where a tenant pays an undivided rent for premises used by him for both residential purposes and as taxable premises, the tax is applicable to so much of the rent as is ascribable to the portion of such premises used as taxable premises. Where, however, the rent ascribable to so much of such premises as is used as taxable premises does not exceed $50 a month, such rent is to be excluded from such tenant's base rent. However, this shall not be construed to exclude any base rent from tax merely because it is paid as part of an undivided rent for premises which are only partially used as taxable premises. (For tax years beginning on or after June 1, 1981, no tax will be due if the rent ascribable to the portion of the premises used as taxable premises does not exceed the amounts prescribed in 19 RCNY § 7-04(f).)
 
-Example 4: An artist rents a three-room apartment in a residential building for which he pays rent of $l,200 for the tax year beginning June 1, 1977. He uses one room as a studio and the other two rooms as living quarters. For federal income tax purposes, he deducts $400 as his annual rent for the studio used in his work. Since the rent ascribable to the part of the premises used as taxable premises does not exceed $50.00 a month, the rent so ascribable is to be excluded from the tenant's base rent, and the tax is not imposed with respect to his occupancy of the premises.
+Example 4: An artist rents a three-room apartment in a residential building for which he pays rent of $1,200 for the tax year beginning June 1, 1977. He uses one room as a studio and the other two rooms as living quarters. For federal income tax purposes, he deducts $400 as his annual rent for the studio used in his work. Since the rent ascribable to the part of the premises used as taxable premises does not exceed $50.00 a month, the rent so ascribable is to be excluded from the tenant's base rent, and the tax is not imposed with respect to his occupancy of the premises.
 
 Example 5: A dentist is the tenant of a five-room apartment in a residential building, for which he pays rent of $30,000 per year. He uses two of the rooms for professional purposes and the other three rooms as a personal residence. In determining his federal income tax, he deducts two-fifths of his total rent, or $12,000, as rent ascribable to the part of the apartment devoted to his professional pursuits. For the purpose of the tax, it will be conclusively presumed against the tenant that the base rent of his taxable premises is $12,000, and the tax due is $720 (6% × 12,000).
 
@@ -9035,7 +9035,7 @@ Example A: (a) Assume the taxpayer filed his tax return for the quarter ending F
 .. list-table::
     :header-rows: 1
 
-    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
+    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $1,000 required to be shown on the return
       -  $200 
     * - Reduced by the amount of the addition imposed under paragraph (2) for those months
       -  $16 
@@ -11294,7 +11294,7 @@ See § 23-05(b)(8) of these rules for rules governing the exemption from tax of 
 
       (ii) Where the total of mortgages or other liens upon a parcel of realty plus other liabilities assumed, cancelled, or forgiven which are attributable to such parcel exceeds the fair market value of such parcel, that portion of other liabilities which when added to mortgages or liens on the realty exceeds the fair market value of the realty will not be attributed to the realty. Therefore, the tax imposed on the conveyance of each parcel of realty or economic interest therein will be measured by the fair market value of the realty unless there is an outstanding mortgage, lien or other encumbrance on the realty greater in amount than the fair market value of the realty. To illustrate:
 
-Illustration A: X Corporation owns real property in New York City with a fair market value of $1,000,000, encumbered by a mortgage of $900,000. X also owns other assets having a fair market value of $500,000. X is in the process of complete liquidation and has transferred all of its assets to its stockholders in complete cancellation of its outstanding stock. The tax is measured by the fair market value of the realty transferred ($1,000,000). Illustration B: Assume the same facts as in illustration (A) above, except that the mortgage on the realty is $1,100,000. The tax is measured by consideration of $1,100,000. Illustration C: X Corporation owns two parcels of real property in New York City, Parcel A and Parcel B. Parcel A has a fair market value of $l,000,000 and is encumbered by a mortgage of $1,300,000. Parcel B has a fair market value of $700,000 and is encumbered by a mortgage of $600,000. X liquidates. The tax on the transfer of Parcel A is measured by consideration of $1,300,000. The tax on the transfer of Parcel B is measured by its fair market value of $700,000.
+Illustration A: X Corporation owns real property in New York City with a fair market value of $1,000,000, encumbered by a mortgage of $900,000. X also owns other assets having a fair market value of $500,000. X is in the process of complete liquidation and has transferred all of its assets to its stockholders in complete cancellation of its outstanding stock. The tax is measured by the fair market value of the realty transferred ($1,000,000). Illustration B: Assume the same facts as in illustration (A) above, except that the mortgage on the realty is $1,100,000. The tax is measured by consideration of $1,100,000. Illustration C: X Corporation owns two parcels of real property in New York City, Parcel A and Parcel B. Parcel A has a fair market value of $1,000,000 and is encumbered by a mortgage of $1,300,000. Parcel B has a fair market value of $700,000 and is encumbered by a mortgage of $600,000. X liquidates. The tax on the transfer of Parcel A is measured by consideration of $1,300,000. The tax on the transfer of Parcel B is measured by its fair market value of $700,000.
 
       (iii) For liquidations on or after June 9, 1994, the tax is measured by the greater of the fair market value or the consideration as defined in subparagraph B of subparagraph (i) of this paragraph. However, the liquidation may be wholly or partially exempt as a mere change of identity or form of ownership or organization. See 19 RCNY § 23-05(b)(8).
 
@@ -11324,7 +11324,7 @@ Illustration B: Same facts as above except that X Corporation also has cash of $
 
    (4) Credit. If a grantee(s) acquires a controlling economic interest in a corporation, partnership, association, trust or other entity owning real property in a transaction which is taxable under these regulations and, within 24 months of such acquisition, the entity owning the real property is liquidated and the real property is conveyed to the grantee(s) of the controlling economic interest, a credit is available against the transfer tax due on the liquidation in the amount of the transfer tax paid with respect to the original acquisition of the controlling economic interest. In no event shall this credit be greater than the tax payable upon the conveyance in liquidation. To illustrate :
 
-Example 1: A owns 100% of the stock of X Corporation. X owns unencumbered New York City real property with a fair market value of $l,000,000. A sells all of the stock of X to C on January 1, 1992. A $26,250 transfer tax is paid. One year after the sale, C liquidates X and receives the real property. At that time, the fair market value of X's real property is $1,200,000. The measure of the transfer tax will be based on the fair market value of the real property ($1,200,000). The transfer tax, therefore, is 2.625% of $1,200,000, or $31,500. Since this liquidation has occurred within 24 months of the transfer of the stock of X to C, a credit will be available against the $31,500 tax. The amount of the credit may not exceed the amount of tax paid upon the prior transfer of the economic interest in X's real property. Accordingly, a credit of $26,250 will be available against the $31,500 transfer tax due on the liquidation of X. The transfer tax due is $31,500 minus $26,250, or $5,250.
+Example 1: A owns 100% of the stock of X Corporation. X owns unencumbered New York City real property with a fair market value of $1,000,000. A sells all of the stock of X to C on January 1, 1992. A $26,250 transfer tax is paid. One year after the sale, C liquidates X and receives the real property. At that time, the fair market value of X's real property is $1,200,000. The measure of the transfer tax will be based on the fair market value of the real property ($1,200,000). The transfer tax, therefore, is 2.625% of $1,200,000, or $31,500. Since this liquidation has occurred within 24 months of the transfer of the stock of X to C, a credit will be available against the $31,500 tax. The amount of the credit may not exceed the amount of tax paid upon the prior transfer of the economic interest in X's real property. Accordingly, a credit of $26,250 will be available against the $31,500 transfer tax due on the liquidation of X. The transfer tax due is $31,500 minus $26,250, or $5,250.
 
 Example 2: Assume the same facts as in illustration (1) above, except that C sells 40% of X to D prior to the liquidation of X. Upon X's liquidation, C receives 60% of X's realty and D receives the remaining 40%. The transfer tax due is $31,500. The amount of credit available, however, is limited to the percentage of X's realty received by C (60%). Thus, the credit available is $15,750 (60% × $26,250), and the transfer tax due is $15,750 ($31,500 - $15,750).
 
@@ -11422,7 +11422,7 @@ Example 3: A owns 80 shares in a cooperative housing corporation attributable to
 
     * - Cash consideration received for shares
       - $800,000
-    * - 20% of $l,000,000 mortgage
+    * - 20% of $1,000,000 mortgage
       - $200,000
     * - Total consideration
       - $1,000,000
@@ -16631,7 +16631,7 @@ Example 1:
 .. list-table::
     :header-rows: 1
 
-    * - 20 percent (5% per month for the 3 months from April 16 through July 15 and 5% for the fractional part of the month from July 16 through July 30) of the amount due of $l,000 required to be shown on the return
+    * - 20 percent (5% per month for the 3 months from April 16 through July 15 and 5% for the fractional part of the month from July 16 through July 30) of the amount due of $1,000 required to be shown on the return
       -  $200
     * - Reduced by the amount of the addition imposed under paragraph (2) for those months
       -  $16
@@ -22471,7 +22471,7 @@ Application. The term “application” means an application for a merger or app
 
 Apportionment. The term “apportionment” means the division of one separately assessed parcel of real property into two or more parcels of real property.
 
-Build it Back Program. The term “Build it Back Program” means the program developed by the City of New York in 2013 to provide recovery assistance to the owners of one to four unit residential properties damaged by Superstorm Sandy. The Disaster Relief Appropriation Act, Pub.L. No. 113-2, 127 Stat. 4 (2013) appropriated federal funds to the United States Department of Housing and Urban Development for relief from Superstorm Sandy. The Build it Back Program uses funds from the HUD Community Development Block Grant Disaster Recovery program and is designed to assist both owner-occupied and tenant-occupied properties within New York City.
+Build it Back Program. The term “Build it Back Program” means the program developed by the City of New York in 2013 to provide recovery assistance to the owners of one to four unit residential properties damaged by Superstorm Sandy. The Disaster Relief Appropriation Act, Pub. L. No. 113-2, 127 Stat. 4 (2013) appropriated federal funds to the United States Department of Housing and Urban Development for relief from Superstorm Sandy. The Build it Back Program uses funds from the HUD Community Development Block Grant Disaster Recovery program and is designed to assist both owner-occupied and tenant-occupied properties within New York City.
 
 Department. The term “Department” means the Department of Finance of the City of New York.
 

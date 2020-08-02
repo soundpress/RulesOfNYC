@@ -2918,7 +2918,7 @@ Permit. "Permit" shall mean any permit other than a notice to proceed issued by 
 
    (c) "C of A" shall mean certificate of appropriateness as defined by § 25-307 of the Landmarks Law.
 
-Pre-l940 building. "Pre-1940 building" shall mean any building in the Riverdale Historic District built, in whole or in part, prior to January 1, 1940 including buildings which have undergone subsequent remodeling and alterations.
+Pre-1940 building. "Pre-1940 building" shall mean any building in the Riverdale Historic District built, in whole or in part, prior to January 1, 1940 including buildings which have undergone subsequent remodeling and alterations.
 
 Post-1939 building. "Post-1939 building" shall mean any building in the Riverdale Historic District built on or after January 1, 1940.
 

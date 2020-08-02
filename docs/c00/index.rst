@@ -7593,6 +7593,10 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
    (5) Job built equipment. Job built rigging equipment must be designed by a registered design professional who has demonstrated knowledge and experience with rigging. Signed and sealed drawings for the job built rigging equipment must be kept at the site at all times.
 
+   (6) Trimming and balancing loads. Loads must be securely slung and balanced before they are set in motion. Loads must be trimmed to prevent the dislodgment of any part during raising, lowering, swinging, or transit.
+
+   (7) Load suspended beneath another load (“Christmas treeing”) prohibited. No load may be suspended directly beneath an existing load.
+
 (e) Slings. Slings must be utilized in accordance with the requirements of this subdivision and ASME B30.9. Where differences occur between the provisions of this section and referenced standards, the provisions of this section apply.
 
    (1) Repairs, alterations, and modifications. Slings may only be repaired, altered, or modified by the manufacturer of the sling, or an entity authorized by the manufacturer.
@@ -7839,6 +7843,8 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
    HOISTING MECHANISM. A hoist drum and rope reeving system used for lifting and lowering loads.
 
+   INDEPENDENT (peer reviewer). A person who does not engage in any activities that may conflict with their objective judgement or integrity, including but not limited to having a financial and/or other interest in the design, construction, installation, manufacturer, or maintenance of the crane or derrick they are reviewing.
+
    JIB. An extension attached to the boom point to provide added boom length for lifting specified loads. The jib may be in line with the boom or offset to various angles in the vertical plane of the boom.
 
    JUMP (jumping). The process of adding or removing mast or tower sections to equipment that has already been erected.
@@ -7878,6 +7884,8 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
    OUTRIGGERS (crane). Extendable or fixed members attached to the mounting base that rest on supports at the outer ends used to support the crane.
 
    PILE DRIVER. A dedicated pile driver; or a crane or derrick equipped with an attachment or otherwise outfitted to drive, hammer, press, or vibrate piles into the earth (“pile drive”). However, the definition of a pile driver does not include excavating or earth-moving equipment fitted with a pile driving attachment.
+
+   QUALIFIED (peer reviewer). A New York State professional engineer who has the education, training, and experience required for the design of structures of a similar complexity and size as the crane or derrick notice application to be peer reviewed and to perform a complete review of the means, methods, and design proposed by the crane or derrick notice engineer.
 
    QUALIFIED PERSON. A person who by possession of a recognized degree, certificate or professional standing, or who by knowledge, training and experience, has successfully demonstrated his or her ability to solve or resolve problems related to the subject matter, the work, or the project.
 
@@ -8249,13 +8257,19 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
                8.3. Where an environmental load reduction is utilized in accordance with Chapter 16 of the New York City Building Code, an out-of-service wind speed equal to that required by Chapter 16 of the New York City Building Code for the full, unreduced, design wind speed.
 
-         (C) Contain the following information from the manufacturer for the given in-service, out-ofservice, and, where applicable, full, unreduced, design wind speed:
+         (C) Contain the following information from the manufacturer for the given in-service, out-ofservice, and, where applicable, full, unreduced, design wind speed at the center of the tower:
 
-            1. The maximum moment;
+            1. Wind load base shear.
 
-            2. The slewing moment; and
+            2. Wind load overturning moment at the base.
 
-            3. Corresponding vertical loads at the foundation.
+            3. Vertical loads at the base.
+
+            4. Overturning moment at the base center due to vertical loads.
+
+            5. Maximum tower and boom displacements due to wind.
+
+            6. The slewing moment.
 
          (D) Contain a certification from the manufacturer that the information provided per clause (C) above is based on the information provided by the engineer per clause (B) above;
 
@@ -8669,9 +8683,9 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
       (i) Issuance of the certificate of on-site inspection. Prior to the initial use at the site of a crane or derrick that requires a certificate of on-site inspection, the crane or derrick must be inspected and tested as required by subparagraphs (i) and (ii) of paragraph (8) below. Upon successful passage of such inspections and tests, and submittal of the inspection report in accordance with subparagraph (iv) of paragraph (8) below, a certificate of on-site inspection is deemed to be issued.
 
-      (ii) Continued validity of the certificate of on-site inspection for a phase. Where a crane or derrick project includes multiple phases, the continued validity of the certificate of on-site inspection is contingent upon the crane or derrick passing the inspection and tests required by subparagraphs (i) and (ii) of paragraph (8) below for each phase. Upon successful passage of such inspections and tests, and submittal of the inspection report in accordance with subparagraph (iv) of paragraph (8) below, the certificate of on-site inspection is deemed to cover such phase.
+      (ii) Continued validity of the certificate of on-site inspection for a phase or jump. Where a crane or derrick project includes multiple phases or jumps, the continued validity of the certificate of on-site inspection is contingent upon the crane or derrick passing the inspection and tests required by subparagraphs (i) and (ii) of paragraph (8) below for each phase or jump. Upon successful passage of such inspections and tests, and submittal of the inspection report in accordance with subparagraph (iv) of paragraph (8) below, the certificate of on-site inspection is deemed to cover such phase or jump.
 
-      Exception: A phase does not include the relocation of a mobile crane to another location at the site, provided such relocation is indicated on the approved crane or derrick notice plans, and provided such relocation does not require the crane to be assembled or disassembled.
+         Exception: A phase does not include the relocation of a mobile crane to another location at the site, provided such relocation is indicated on the approved crane or derrick notice plans, and provided such relocation does not require the crane to be assembled or disassembled.
 
       (iii) Renewal of the certificate of on-site inspection after one year. Where the crane or derrick remains at the site for a period of one (1) year or longer, the continued validity of the certificate of on-site inspection is contingent upon the crane or derrick passing the inspections and tests required by subparagraph (iii) of paragraph (8) below, and submittal of the inspection report in accordance with subparagraph (iv) of paragraph (8) below, at least eleven (11) months but no more than one (1) year following the last inspection performed in accordance with subparagraphs (i) or (ii) above or this subparagraph.
 
@@ -8739,7 +8753,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
             4. A qualified person employed by the crane or derrick manufacturer or a manufacturer authorized service center, distributor, or service provider; or
 
-            5. For a derrick, a licensed master rigger, or a master rigging foreman.
+            5. A licensed master or tower crane rigger, or, for a derrick, a licensed master rigger or a master rigging foreman.
 
          (E) Special inspections. Special inspections must be completed in accordance with paragraph (6) of subdivision (k) of this section. Prior to and following the setup, assembly, erection, jumping, or climbing of a crane or derrick, the crane or derrick notice engineer, or a qualified person employed and supervised by such engineer, must verify required special inspections have been successfully completed.
 
@@ -8813,9 +8827,107 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
    (12) Conformance with the building code. All loads, material strengths, and calculations provided or utilized in connection with the crane or derrick notice application, or an amendment to such application, must be in accordance with the New York City Building Code.
 
-   Exception: Loads, material strengths, and calculations provided by the manufacturer of the crane or derrick.
+      Exception: Loads, material strengths, and calculations provided by the manufacturer of the crane or derrick.
 
-(h) Crane or derrick log. For a crane or derrick that requires a certificate of on-site inspection, the equipment user must maintain, for the duration of the job, a crane or derrick log. The log may be maintained in an electronic format acceptable to the commissioner. The log must, at a minimum, contain the following information:
+   (13) Peer review. Peer reviews for crane or derrick notice applications must be in accordance with the requirements of subparagraphs (i) through (xiii) below.
+
+      (i) Peer review required. A crane or derrick notice application is subject to a peer review when the crane or derrick notice application proposes any one of the following:
+
+         (A) The use of a mobile crane with a boom, including jibs and any other extensions to the boom, equal to or greater than 300 feet (91.44 m) in length.
+
+         (B) The use of a mobile crane in a configuration where the manufacturer requires, at a wind speed of 20 mph (32.19 kph) or less (sustained or gust):
+
+            1. The boom or boom/jib combination to be laid down;
+
+            2. The boom or boom/jib combination to be placed in a jackknife position; or
+
+            3. Other special protective measures to be implemented.
+
+         (C) The placement of a mobile crane with a maximum manufacturer rated capacity in excess of 10 tons (9.07 metric tons) on any elevation of a building above grade.
+
+      In addition, where other out of the ordinary or complex loading, load paths, configurations, operations, or site conditions exist, or where the crane application requires coordination among city agencies, the commissioner may require peer review.
+
+      (ii) Peer reviewer. The peer review must be performed by a qualified and independent New York State professional engineer who has been retained by or on behalf of the equipment user.
+
+         (A) Peer reviewer to be acceptable to crane or derrick notice engineer. The peer reviewer’s qualifications must be acceptable to the crane or derrick notice engineer.
+
+         (B) Department reserves right to reject peer reviewer. The department reserves the right to reject a peer reviewer on the grounds of lack of qualification or independence.
+
+      (iii) Responsibility of crane or derrick notice engineer. The crane or derrick notice engineer retains sole responsibility for the crane or derrick design indicated on the submitted crane or derrick notice application. The activities and reports of the peer reviewer do not relieve the crane or derrick notice engineer of any responsibility for the crane or derrick design indicated on the submitted crane or derrick application.
+
+      (iv) Standard of care for of peer reviewer. The standard of care to which the peer reviewer must be held in the performance of the peer review and report must be equal to the level of skill and care required to prepare and submit the crane or derrick notice application.
+
+      (v) Scope of the peer review. The peer reviewer must perform an independent review and analysis of the crane or derrick design indicated on the submitted crane or derrick notice application to confirm the design is in general conformance with New York City Codes, rules, and regulations for cranes and derricks. The review and analysis to determine general conformance shall include but not be limited to the following:
+
+         (A) Confirm that drawings are complete, existing conditions and base building construction loading have been accurately represented on the drawings, and that any structures including, but not limited to, vaults, adjacent buildings, overhead wires, transit structures, and utilities are accurately represented on the drawings.
+
+         (B) Confirm that approved load charts have been included and maximum picks represented correctly.
+
+         (C) Where applicable, review the project’s geotechnical report design recommendations and inspection reports to determine that appropriate design criteria for dunnage or foundations has been utilized. If no design criteria have been specified on the crane or derrick notice application design drawings, the peer reviewer must state any assumptions or criteria utilized in the analysis of the crane or derrick notice application design.
+
+         (D) Confirm the assembly/disassembly plan is complete, specific to the configurations shown in the crane or derrick notice application, and able to be fully implemented based upon site conditions.
+
+         (E) Confirm the wind action plan is complete, specific to the configurations shown in the crane or derrick notice application, and able to be fully implemented based upon site conditions.
+
+         (F) Where applicable, confirm that complete pre-operational test procedures, including load test procedures, are included.
+
+         (G) Confirm that the crane or derrick has a complete load path into the base building structure or ground.
+
+         (H) Perform independent calculations for all structural members, connections and systems included in the load path determined in item vii above and verify the foundation and structural elements’ ability to support the crane or derrick loads.
+
+         (I) Other items required by the commissioner.
+
+      (vi) Design criteria and assumptions not shown. If the design criteria and design assumptions are not shown on the crane or derrick notice application drawings or in the computations, the crane or derrick notice engineer must provide a statement of these criteria and assumptions to the peer reviewer. In addition, the crane or derrick notice engineer must provide other information and/or calculations if requested by the peer reviewer.
+
+      (vii) Peer review report. The peer reviewer must submit a report to the department stating his or her opinion regarding the design of the crane or derrick proposed in the crane or derrick notice application and detailing whether or not the crane or derrick design indicated on the submitted crane or derrick notice application is in general conformance with New York City Codes, rules, and regulations for cranes and derricks. The determination of general conformance shall be based upon the review and analysis performed in accordance with subparagraph (v) of this paragraph.
+
+         (A) Report contents. The peer review report must, at a minimum, contain the following information:
+
+            1. Confirmation that the crane or derrick notice application:
+
+               A. Complies with each of the items listed in subparagraph (v) of this paragraph.
+
+               B. All design loads and their combinations are adequate and compliant with New York City codes, rules, and regulations for cranes and derricks and specific project conditions.
+
+               C. The crane and its supporting elements can safely sustain the design loads.
+
+            2. In the introduction to the peer review report, the peer reviewer must list his or her qualifications and include a statement that he or she is independent from the crane or derrick notice engineer.
+
+            3. All calculations, specific conclusions and results of verification calculations performed by the peer reviewer.
+
+            4. A listing of all drawings and reports used in verification (including revision numbers and dates). Where the peer reviewer relied upon reports or data prepared by others, including but not limited reports by specialty consultants (e.g. geotechnical reports), or reports prepared by the crane or derrick manufacturer, the reliance must be disclosed in the peer review report. Such reports or data must be maintained by the peer reviewer for a minimum of six years after the date of project completion, and must be provided to the department upon request.
+
+         (B) Conclusions. The peer review report must provide a clear conclusion either:
+
+            1. Accepting that the crane or derrick design indicated on the submitted crane or derrick notice application is in general conformance with New York City Codes, rules, and regulations for cranes and derricks; or
+
+            2. Rejecting the design.
+
+         (C) Positive statements to be unequivocal. Positive evaluations with conclusions that contain exceptions will not be accepted by the department.
+
+         (D) Basis of report. The peer review report must be based on and reference only the set of documents submitted to the department with the crane or derrick notice application; all drawings and the latest revision dates must be clearly enumerated in the peer review report.
+
+         (E) Changes to be enumerated. Peer review reports must enumerate the changes, if any, made by the crane or derrick notice engineer as a result of discussions following an initial structural peer review evaluation.
+
+         (F) Cover statement. The peer review report must include a cover letter provided by the department and completed by the peer reviewer.
+
+         (G) Signed and sealed. The peer review report and cover statement must be signed and sealed by the peer reviewer.
+
+      (vii) Copy to be provided to equipment user. The peer reviewer must provide a copy of submitted peer review reports and cover statements to the equipment user.
+
+      (viii) [Reserved.]
+
+      (ix)  Phased submission. If the crane or derrick notice application is to be submitted in phases, the peer review and report must be phased. The crane or derrick notice engineer must provide the peer reviewer with sufficient information to make a peer review of the phased submission. The phased peer review report submission must cover the documents submitted for that phase, and must be without any exclusion that would make the review incomplete.
+
+      (x) Log of discussions. The peer reviewer must keep a log of any discussions with the crane or derrick notice engineer. The log must be made available to the commissioner upon request.
+
+      (xi) Modifications to the design. Amendments to the crane or derrick notice application that include changes that substantially modify the basis of the peer review evaluation will not be approved by the department until an amended peer review report and cover statement is submitted to the department by the peer reviewer. The report must provide a statement of acceptance that the design indicated in the amended crane or derrick notice application is in general conformance with New York City codes, rules, and regulations for cranes and derricks. It is the responsibility of the crane or derrick notice engineer to clearly identify on the plans the changes that are substantial and to notify the peer reviewer of any such changes.
+
+      (xii) Disputes. When a dispute arises between the crane or derrick notice engineer and the peer reviewer regarding compliance with New York City Codes, rules, or regulations for cranes and derricks, and which cannot be resolved by the parties, the dispute must be reported to the department in the form of a letter from the crane or derrick notice engineer.
+
+      (xiii) Changes in designated peer reviewer. The peer reviewer cannot be changed without the express consent of the department. The current peer reviewer must submit a written request for withdrawal to the department detailing the reason for the withdrawal request and a report of the peer review findings to date.
+
+(h) Crane or derrick log. For a crane or derrick that requires a certificate of on-site inspection, or that is used under the direct and continuing supervision of a licensed master rigger, the equipment user must maintain, for the duration of the job, a crane or derrick log. The log may be maintained in an electronic format acceptable to the commissioner. The log must, at a minimum, contain the following information:
 
    (1) Equipment user custody of the crane or derrick, as evidenced by an entry noting the corporate name of the equipment user and the date and time the equipment user takes or relinquishes custody over the crane or derrick. Such entry must be signed and dated by an authorized representative of the equipment user;
 
@@ -8895,7 +9007,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
       (i) Inspection items. The frequent inspection must include a check of the following:
 
-         (A) Mobile cranes, other than an articulating boom crane, and dedicated pile drivers. For a mobile crane, other than an articulating boom crane, and for dedicated pile drivers:
+         (A) Mobile cranes and dedicated pile drivers, other than articulating boom cranes. For mobile cranes and dedicated pile drivers, other than articulating boom cranes:
 
             1. Items (a)-(c), (e) and (g)-(j) of Section 5-2.1.2 of ASME B30.5 (2014 edition);
 

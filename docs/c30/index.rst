@@ -1508,6 +1508,32 @@ The following requirements apply with respect to Title 8 of the Administrative C
 
 
 
+
+
+*§ 2-07 Exceptions to the General Prohibition on Preemployment Testing for Tetrahydrocannabinols or Marijuana.* ::
+
+
+(a) Exceptions Based on Significant Impact to Health or Safety: A position is deemed to significantly impact the health or safety of employees or members of the public and to be exempt from the prohibition on preemployment testing for tetrahydrocannabinols or marijuana under section 8-107(31) of the Administrative Code if:
+
+   (1) The position requires that an employee regularly, or within one week of beginning employment, work on an active construction site;
+
+   (2) The position requires that an employee regularly operate heavy machinery;
+
+   (3) The position requires that an employee regularly work on or near power or gas utility lines;
+
+   (4) The position requires that an employee operate a motor vehicle on most work shifts;
+
+   (5) The position requires work relating to fueling an aircraft, providing information regarding aircraft weight and balance, or maintaining or operating aircraft support equipment; or
+
+   (6) Impairment would interfere with the employee’s ability to take adequate care in the carrying out of his or her job duties and would pose an immediate risk of death or serious physical harm to the employee or to other people.
+
+(b) For purposes of this section, a “significant impact on health and safety” does not include concerns that a positive test for tetrahydrocannabinols or marijuana indicates a lack of trustworthiness or lack of moral character.
+
+
+
+
+
+
 Chapter 3: Age Discrimination Exemptions For Public Accommodations
 --------------------------------------------------
 

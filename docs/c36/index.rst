@@ -356,40 +356,40 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
 
 
-*§ 1-13 Conduct Prohibited by City Charter § 2604(b)(2).* ::
+*§ 1-13 Use of City Time and City Resources.* ::
 
 
-(a)  Except as provided in subdivision 3 of this section, it shall be a violation of City Charter § 2604(b)(2) for any public servant to pursue personal and private activities during times when the public servant is required to perform services for the City.
+(a) Except as provided in subdivision 3 of this section, it shall be a violation of City Charter § 2604(b)(2) for any public servant to pursue personal and private activities during times when the public servant is required to perform services for the City.
 
-(b) Except as provided in subdivision 3 of this section, it shall be a violation of City Charter § 2604(b)(2) for any public servant to use City letterhead, personnel, equipment, resources, or supplies for any non-City purpose.
+(b) Except as provided in this section, it shall be a violation of City Charter § 2604(b)(2) for any public servant to use City letterhead, title, personnel, equipment, resources, supplies, or technology assets for any non-City purpose. For purposes of this subdivision "technology assets" includes but is not limited to e-mail accounts, internet access, and official social media accounts.
 
-(c) (1)  A public servant may pursue a personal and private activity during normal business hours and may use City equipment, resources, personnel, and supplies, but not City letterhead, if, (i) the type of activity has been previously approved for employees of the public servant's agency by the Conflicts of Interest Board, upon application by the agency head and upon a determination by the Board that the activity furthers the purposes and interests of the City; and (ii) the public servant shall have received approval to pursue such activity from the head of his or her agency.
+(c) (1) A public servant may perform volunteer services on behalf of a not-for-profit entity during times when such public servant is required to perform work for the City and may use City personnel, equipment, resources, supplies, and technology assets, but not City letterhead, their title or City email account(s), provided that
 
-   (2) In any instance where a particular activity may potentially directly affect another City agency, the employee must obtain approval from his or her agency head to participate in such particular activity. The agency head shall provide written notice to the head of the potentially affected agency at least 10 days prior to approving such activity.
+      (i) the public servant's agency head approves in writing the proposed volunteer services; and
 
-(d) It shall be a violation of City Charter § 2604(b)(2) for any public servant to intentionally or knowingly:
+      (ii) the Board determines that the proposed volunteer services advance the public servant's professional development, further the purposes and interests of the City, or benefit the public at large.
 
-   (1) solicit, request, command, importune, aid, induce or cause another public servant to engage in conduct that violates any provision of City Charter § 2604; or
+   (2) The agency head approval required by paragraph (1) of this subdivision must be by the head of the agency served by the public servant, or by a deputy mayor if the public servant is an agency head. A public servant who is an elected official, including a District Attorney, is the agency head for the public servants employed by the elected official's agency or office. Public servants who are elected officials, including District Attorneys, may approve their own activities as agency heads pursuant to paragraph (1).
 
-   (2) agree with one or more persons to engage in or cause the performance of conduct that violates any provision of City Charter § 2604.
+(d) A public servant engaging in a personal and private activity may use, or permit the use of, their City title in connection with print or online published work, teaching, or paid speaking engagements, under either of the following circumstances:
+
+   (1) their City title is one of several biographical details used to identify such public servant; or
+
+   (2) their City title is used to demonstrate such public servant's relevant professional qualifications provided that their City title is accompanied by a reasonably prominent disclaimer stating that the views expressed in the work, teaching, or speaking engagement do not necessarily represent the views of the agency or the City.
 
 (e) (1) An agency head may designate a public servant to perform work on behalf of a not-for-profit corporation, association, or other such entity that operates on a not-for-profit basis, including serving as a board member or other position with fiduciary responsibilities provided that:
 
-      (i) there is a demonstrated nexus between the proposed work, the public servant’s City job, and the mission of the public servant’s agency;
+      (i) there is a demonstrated nexus between the proposed activity, the public servant's City job, and the mission of the public servant's agency; and such work furthers the agency's mission and is not undertaken primarily for the benefit or interests of the not-forprofit;
 
-      (ii) such work furthers the agency’s mission and is not undertaken primarily for the benefit or interests of the not-for-profit;
+      (ii) the designated public servant takes no part in the entity's business dealings with the City at the entity or at his or her agency, except that Council Members may sponsor and vote on discretionary funding for the entity; and
 
-      (iii) the designated public servant takes no part in the entity’s business dealings with the City at the entity or at his or her agency, except that Council Members may sponsor and vote on discretionary funding for the entity; and
+      (iii) within 30 days the written designation is disclosed to the Conflicts of Interest Board and will be posted on the Board's website.
 
-      (iv) within 30 days the written designation is disclosed to the Conflicts of Interest Board.
+   (2) A public servant designated in accordance with paragraph (1) of this subdivision may take part in such entity's business dealings with the City at the entity and/or at his or her agency if, after written approval of the agency head, the Board determines that there is a demonstrated nexus between the proposed participation, the public servant's City job, and the mission of the public servant's agency; and that such participation furthers the agency's mission and is not undertaken primarily for the benefit or interests of the not-for-profit entity.
 
-   (2) A public servant designated in accordance with Paragraph (1) of this subdivision may take part in such entity’s business dealings with the City at the entity and/or at his or her agency if, after written approval by the agency head, the Board determines that there is a demonstrated nexus between the proposed participation, the public servant’s City job, and the mission of the public servant’s agency and that such participation furthers the agency’s mission and is not undertaken primarily for the benefit or interests of the not-for-profit entity.
+   (3) The designation made pursuant to paragraph (1) and approval made pursuant to paragraph (2) of this subdivision must be by the head of the agency served by the public servant, or by a deputy mayor if the public servant is an agency head. A public servant who is an elected official, including a District Attorney, is the agency head for the public servants employed by the official's agency or office. A public servant who is an elected official, including a District Attorney, may provide the designation pursuant to paragraph (1) and the agency head approval pursuant to paragraph (2) for him or herself.
 
-   (3) The Board will post designations of public servants made pursuant to paragraph (1) on its website. When an agency makes a request pursuant to paragraph (2) of this subdivision for a public servant both to perform work on behalf of a not-for-profit entity and be involved in that entity’s City business, only the Board’s determination will be posted on its website.
-
-   (4) The designation made pursuant to Paragraph (1) and approval made pursuant to Paragraph (2) of this subdivision must be by the head of the agency served by the public servant, or by a deputy mayor if the public servant is an agency head. A public servant who is an elected official, including a district attorney, is the agency head for the public servants employed by the official’s agency or office. A public servant who is an elected official, including a district attorney, may provide the designation, pursuant to Paragraph (1) and the agency head approval, pursuant to Paragraph (2) for him or herself.
-
-(f) Nothing contained in this section shall preclude the Conflicts of Interest Board from finding that conduct other than that proscribed by subdivisions (a) through (d) of this section violates City Charter § 2604(b)(2), although the Board may impose a fine for a violation of City Charter § 2604(b)(2) only if the conduct violates subdivision (a), (b), (c), or (d) of this section. The Board may not impose a fine for violation of subdivision (d) where the public servant induced or caused another public servant to engage in conduct that violates City Charter § 2604(b)(2), unless such other public servant violated subdivision (a), (b), or (c) of this section.
+(f) An elected official, including a District Attorney, may use or permit the use of their City title in an endorsement of a candidate for elective office. No other public servant may use, or permit others to use, their City title to endorse another person's campaign for elective office.
 
 
 
@@ -560,88 +560,20 @@ Editor's note: Former section renumbered as 53 RCNY § 4-04.
 
 
 
-*§ 1-17 Procedures to Appeal a Designation as a Required Filer of a Financial Disclosure Report.* ::
+*§ 1-17 Accomplice Liability.* ::
 
 
-(a) Applicability. Any employee designated as a required filer by his or her agency may appeal the determination that he or she is required to file a financial disclosure report with the Conflicts of Interest Board ("the Board") pursuant to New York City Administrative Code § 12-110, first to his or her agency head and then to the Board.
+(a) It shall be a violation of City Charter § 2604(b)(2) for any public servant to intentionally or knowingly:
 
-(b) Appeal to the Agency Head.
+   (1) solicit, request, command, importune, aid, induce, or cause another public servant to engage in conduct that violates any provision of City Charter § 2604; or
 
-   (1) Any employee seeking to appeal the determination that he or she is required to file a financial disclosure report shall complete a "Notice of Appeal to Agency Head," on such form as the Board shall adopt and make available on the Board's website. The completed form shall include the employee's name, employee identification number ("EIN") or agency identifier, agency name, agency code, civil service title, office title, and a brief statement of the grounds for the appeal.
+   (2) agree with one or more persons to engage in or cause conduct that violates any provision of City Charter § 2604.
 
-   (2) An employee seeking to appeal such agency determination shall file, in the manner designated by the agency, the completed Notice of Appeal form with his or her agency financial disclosure liaison prior to the deadline for filing his or her financial disclosure report but in any event the employee shall have no fewer than twenty-one days within which to file such Notice of Appeal after receiving the notification by the agency that he or she must file a financial disclosure report. Failure to file the Notice of Appeal by the later of twenty-one days after such notification or the deadline for filing, as the case may be, shall constitute a waiver of the right to appeal and the employee will be required to file a financial disclosure report.
+(b) For the purposes of this section, "any provision of City Charter § 2604" shall not include a violation of City Charter § 2604(b)(2) that does not also violate a rule of the Board.
 
-   (3) Upon receipt of the completed Notice of Appeal, the agency financial disclosure liaison shall:
 
-      (i) Time and date stamp the Notice of Appeal form;
 
-      (ii) Provide the employee with a copy of such time and date-stamped form as a receipt;
-
-      (iii) Transmit the Notice of Appeal form forthwith to the agency head or his or her designee; and
-
-      (iv) Within five days of the receipt of the Notice of Appeal, notify the Board by e-mail of the pendency of the appeal and the date that the appeal was received by the agency. Such notice to the Board shall contain the employee's name, agency, EIN (or agency identifier), and the date that the appeal was filed.
-
-   (4) No later than fourteen days after filing the Notice of Appeal, the employee shall submit to his or her agency head or such agency head's designee a written statement and any documentation in support thereof setting forth the reasons that such employee believes he or she should not be designated as a required filer of a financial disclosure report. Failure to submit such written statement within such fourteen-day period shall constitute a waiver of the right to appeal.
-
-   (5) Within fourteen days of the agency's receipt of the employee's written statement, the agency head or his or her designee shall advise in writing or by email the employee, his or her employee's collective bargaining representative, attorney or other representative, if any, and the Board of the agency's decision as to whether or not the employee is required to file. If the agency head or the agency head's designee fails to meet such fourteen-day deadline, the appeal shall be deemed granted upon default.
-
-   (6) A decision of the agency head or his or her designee that denies an appeal shall set forth the reasons for and evidence relied upon in reaching such decision. Such denial shall be predicated on a showing that the employee meets the requirements of at least one of the filing categories set forth in New York City Administrative Code § 12-110(b)(3)(a)(3)-(4) and 53 RCNY §§ 1-02, 1-14, and 1-15. If the agency denies the appeal, the notice to the Board shall state the manner by which the employee was notified and the date of such notification.
-
-   (7) The agency head or his or her designee may consult with the Board prior to rendering its decision.
-
-(c) Procedure Upon Agency's Grant of Appeal. If the agency grants the employee's appeal, the employee's name shall be removed from the Board's list of required filers and the employee will not be required to file a financial disclosure report for that filing year or in future years until or unless the employee's title, position, duties, or responsibilities change in such a way that he or she would be required to file pursuant to the criteria set forth in New York City Administrative Code § 12-110(b).
-
-(d) Procedure Upon Agency's Denial of Appeal.
-
-   (1) An employee whose appeal is denied by his or her agency shall, within thirty days after service of the agency's notice of denial, either:
-
-      (i) file a completed financial disclosure report with the Board, or
-
-      (ii) file with the Board and with the employee's agency head or his or her designee a completed "Notice of Appeal to Board," on such form as the Board shall prescribe and make available on the Board's website. Failure to file either a financial disclosure report or an appeal with the Board within the thirty-day period shall constitute a waiver of the right to a further appeal and shall subject the employee to the imposition of the statutory late filing fine pursuant to Administrative Code § 12-110(g).
-
-   (2) Within thirty days after filing of a Notice of Appeal to the Board, the employee shall file with the Board and file with the employee's agency head or his or her designee the following materials:
-
-      (i) A copy of the statement and any supporting materials previously submitted to the agency head by the employee on the appeal in accordance with paragraph one of subdivision (a) of this section;
-
-      (ii) A copy of the agency head's decision on such appeal; and
-
-      (iii) Any supplemental documents the employee elects to provide.
-
-   (3) Within thirty days after the employee files the materials set forth in paragraph two of this subdivision, the agency shall file with the Board all materials relied upon by the agency in making its determination that the employee is required to file a financial disclosure report, as well as any additional documents in support of the agency's determination.
-
-   (4) Within thirty days after the agency has filed the materials set forth in paragraph three of this subdivision, the employee may file with the Board such additional materials as he or she deems necessary to either rebut evidence produced by the agency or otherwise support his or her position.
-
-   (5) The Board's Director of Financial Disclosure shall review the agency's determination and the documents submitted by the employee and the agency and shall make a recommendation to the Board, or to the Executive Director upon delegation by the Board, as to whether the agency's determination should be upheld or reversed. The agency and employee shall each be served with a copy of the recommendation of the Director of Financial Disclosure and, within thirty days of service of the recommendation, may submit written comments to the Board or Executive Director, as the case may be, upon the proposed recommendation.
-
-   (6) In the event that the Board, in its sole discretion, determines that issues are presented by the written materials filed on the appeal that require an evidentiary hearing, the Board may order such a hearing before the full Board, or, in the discretion of the Chair, before a member or members of the Board or before the Executive Director, designated for that purpose, at which the employee and agency may call witnesses to testify under oath to determine any such issue. If the Board requests additional information, both the employee and the agency shall provide to the Board whatever additional information it requests, within fourteen days after service of such a request in writing or by email by the Board. Failure of either party to timely provide any of the requested information may result in a summary finding adverse to that party.
-
-   (7) The Board or the Executive Director, as the case may be, shall review the recommendation and any comments submitted in response thereto and issue a decision and order either upholding or reversing the agency's decision.
-
-   (8) If the Board grants the appeal, the employee's name shall be removed from the Board's list of required filers and the employee will not be required to file a financial disclosure report for that filing year or in future years until or unless the employee's title, position, duties, or responsibilities change such that he or she would be required to file pursuant to the criteria set forth in New York City Administrative Code § 12-110(b).
-
-   (9) If the appeal is denied, the employee shall either:
-
-      (i) file a financial disclosure report for that filing year within thirty days after service of the denial of the appeal by the Board, and shall file for future years until or unless the employee's title, position, duties, or responsibilities change such that he or she would not be required to file pursuant to the criteria set forth in Administrative Code § 12-110(b); or
-
-      (ii) commence, within the time provided by law, an Article 78 proceeding to review the Board's decision.
-
-(e) General Provisions.
-
-   (1) At all stages of the financial disclosure appeals process, the employee may be represented by a union representative, an attorney or other representative.
-
-   (2) Once an employee files an appeal with the Board, neither the employee nor the agency or their respective representatives may communicate ex parte with any member of the Board staff or Board with respect to the matter, except on consent of the opposing party or in an emergency.
-
-   (3) During the pendency of the appeal and any court proceeding timely brought by the employee to review a denial of the appeal by the Board, the employee need not file a financial disclosure report, and no late filing fines will be assessed for that period.
-
-   (4) Whenever a deadline in the process set forth in this section is measured from the filing or service of notice and notice is filed or served by United States Postal Service mail, five days shall be added to the deadline.
-
-   (5) The Board may, in its discretion and for good cause shown, extend any deadline set forth in this rule. An application for such extension must be made in writing and prior to the expiration of the deadline.
-
-   (6) In the case of any appeal that is decided upon default, whether in favor of the employee or the agency, that decision shall apply to that filing year only and shall not be a determination on the merits.
-
-   (7) Unless otherwise stated, any reference to a number of days specified as a period within which an act is required to be done means such number of calendar days.
-
-   (8) Nothing in this rule shall prevent the Board from determining, pursuant to New York City Administrative Code § 12-110(b)(3)(a)(2)-(3), that any public servant, regardless of an agency's determination, is required to file a financial disclosure report.
+Editor's note: Former section renumbered as 53 RCNY § 4-06.
 
 
 
@@ -1101,6 +1033,96 @@ For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall
 Pursuant to Administrative Code § 12-110(b)(2)(a), each person who has declared his or her intention to seek a designation or nomination for election to an office and who is seeking payment of public funds for the first time in February, March, or April of the election year must submit an annual disclosure report with the Conflicts of Interest Board by the following deadlines: for the payment date of February 15, the annual disclosure report must be submitted by January 21; for the payment date of March 15, the annual disclosure report must be submitted by February 19; and for the payment date of April 15, the annual disclosure report must be submitted by March 21. If the final date to submit the annual disclosure report falls on a Saturday, Sunday, or public holiday, the deadline will be extended to the following business day.
 
 
+
+
+
+
+
+
+*§ 4-06 Procedures to Appeal a Designation as a Required Filer of a Financial Disclosure Report.* ::
+
+
+(a) Applicability. Any employee designated as a required filer by his or her agency may appeal the determination that he or she is required to file a financial disclosure report with the Conflicts of Interest Board ("the Board") pursuant to New York City Administrative Code § 12-110, first to his or her agency head and then to the Board.
+
+(b) Appeal to the Agency Head.
+
+   (1) Any employee seeking to appeal the determination that he or she is required to file a financial disclosure report shall complete a "Notice of Appeal to Agency Head," on such form as the Board shall adopt and make available on the Board's website. The completed form shall include the employee's name, employee identification number ("EIN") or agency identifier, agency name, agency code, civil service title, office title, and a brief statement of the grounds for the appeal.
+
+   (2) An employee seeking to appeal such agency determination shall file, in the manner designated by the agency, the completed Notice of Appeal form with his or her agency financial disclosure liaison prior to the deadline for filing his or her financial disclosure report but in any event the employee shall have no fewer than twenty-one days within which to file such Notice of Appeal after receiving the notification by the agency that he or she must file a financial disclosure report. Failure to file the Notice of Appeal by the later of twenty-one days after such notification or the deadline for filing, as the case may be, shall constitute a waiver of the right to appeal and the employee will be required to file a financial disclosure report.
+
+   (3) Upon receipt of the completed Notice of Appeal, the agency financial disclosure liaison shall:
+
+      (i) Time and date stamp the Notice of Appeal form;
+
+      (ii) Provide the employee with a copy of such time and date-stamped form as a receipt;
+
+      (iii) Transmit the Notice of Appeal form forthwith to the agency head or his or her designee; and
+
+      (iv) Within five days of the receipt of the Notice of Appeal, notify the Board by e-mail of the pendency of the appeal and the date that the appeal was received by the agency. Such notice to the Board shall contain the employee's name, agency, EIN (or agency identifier), and the date that the appeal was filed.
+
+   (4) No later than fourteen days after filing the Notice of Appeal, the employee shall submit to his or her agency head or such agency head's designee a written statement and any documentation in support thereof setting forth the reasons that such employee believes he or she should not be designated as a required filer of a financial disclosure report. Failure to submit such written statement within such fourteen-day period shall constitute a waiver of the right to appeal.
+
+   (5) Within fourteen days of the agency's receipt of the employee's written statement, the agency head or his or her designee shall advise in writing or by email the employee, his or her employee's collective bargaining representative, attorney or other representative, if any, and the Board of the agency's decision as to whether or not the employee is required to file. If the agency head or the agency head's designee fails to meet such fourteen-day deadline, the appeal shall be deemed granted upon default.
+
+   (6) A decision of the agency head or his or her designee that denies an appeal shall set forth the reasons for and evidence relied upon in reaching such decision. Such denial shall be predicated on a showing that the employee meets the requirements of at least one of the filing categories set forth in New York City Administrative Code § 12-110(b)(3)(a)(3)-(4) and 53 RCNY §§ 1-02, 1-14, and 1-15. If the agency denies the appeal, the notice to the Board shall state the manner by which the employee was notified and the date of such notification.
+
+   (7) The agency head or his or her designee may consult with the Board prior to rendering its decision.
+
+(c) Procedure Upon Agency's Grant of Appeal. If the agency grants the employee's appeal, the employee's name shall be removed from the Board's list of required filers and the employee will not be required to file a financial disclosure report for that filing year or in future years until or unless the employee's title, position, duties, or responsibilities change in such a way that he or she would be required to file pursuant to the criteria set forth in New York City Administrative Code § 12-110(b).
+
+(d) Procedure Upon Agency's Denial of Appeal.
+
+   (1) An employee whose appeal is denied by his or her agency shall, within thirty days after service of the agency's notice of denial, either:
+
+      (i) file a completed financial disclosure report with the Board, or
+
+      (ii) file with the Board and with the employee's agency head or his or her designee a completed "Notice of Appeal to Board," on such form as the Board shall prescribe and make available on the Board's website. Failure to file either a financial disclosure report or an appeal with the Board within the thirty-day period shall constitute a waiver of the right to a further appeal and shall subject the employee to the imposition of the statutory late filing fine pursuant to Administrative Code § 12-110(g).
+
+   (2) Within thirty days after filing of a Notice of Appeal to the Board, the employee shall file with the Board and file with the employee's agency head or his or her designee the following materials:
+
+      (i) A copy of the statement and any supporting materials previously submitted to the agency head by the employee on the appeal in accordance with paragraph one of subdivision (a) of this section;
+
+      (ii) A copy of the agency head's decision on such appeal; and
+
+      (iii) Any supplemental documents the employee elects to provide.
+
+   (3) Within thirty days after the employee files the materials set forth in paragraph two of this subdivision, the agency shall file with the Board all materials relied upon by the agency in making its determination that the employee is required to file a financial disclosure report, as well as any additional documents in support of the agency's determination.
+
+   (4) Within thirty days after the agency has filed the materials set forth in paragraph three of this subdivision, the employee may file with the Board such additional materials as he or she deems necessary to either rebut evidence produced by the agency or otherwise support his or her position.
+
+   (5) The Board's Director of Financial Disclosure shall review the agency's determination and the documents submitted by the employee and the agency and shall make a recommendation to the Board, or to the Executive Director upon delegation by the Board, as to whether the agency's determination should be upheld or reversed. The agency and employee shall each be served with a copy of the recommendation of the Director of Financial Disclosure and, within thirty days of service of the recommendation, may submit written comments to the Board or Executive Director, as the case may be, upon the proposed recommendation.
+
+   (6) In the event that the Board, in its sole discretion, determines that issues are presented by the written materials filed on the appeal that require an evidentiary hearing, the Board may order such a hearing before the full Board, or, in the discretion of the Chair, before a member or members of the Board or before the Executive Director, designated for that purpose, at which the employee and agency may call witnesses to testify under oath to determine any such issue. If the Board requests additional information, both the employee and the agency shall provide to the Board whatever additional information it requests, within fourteen days after service of such a request in writing or by email by the Board. Failure of either party to timely provide any of the requested information may result in a summary finding adverse to that party.
+
+   (7) The Board or the Executive Director, as the case may be, shall review the recommendation and any comments submitted in response thereto and issue a decision and order either upholding or reversing the agency's decision.
+
+   (8) If the Board grants the appeal, the employee's name shall be removed from the Board's list of required filers and the employee will not be required to file a financial disclosure report for that filing year or in future years until or unless the employee's title, position, duties, or responsibilities change such that he or she would be required to file pursuant to the criteria set forth in New York City Administrative Code § 12-110(b).
+
+   (9) If the appeal is denied, the employee shall either:
+
+      (i) file a financial disclosure report for that filing year within thirty days after service of the denial of the appeal by the Board, and shall file for future years until or unless the employee's title, position, duties, or responsibilities change such that he or she would not be required to file pursuant to the criteria set forth in Administrative Code § 12-110(b); or
+
+      (ii) commence, within the time provided by law, an Article 78 proceeding to review the Board's decision.
+
+(e) General Provisions.
+
+   (1) At all stages of the financial disclosure appeals process, the employee may be represented by a union representative, an attorney or other representative.
+
+   (2) Once an employee files an appeal with the Board, neither the employee nor the agency or their respective representatives may communicate ex parte with any member of the Board staff or Board with respect to the matter, except on consent of the opposing party or in an emergency.
+
+   (3) During the pendency of the appeal and any court proceeding timely brought by the employee to review a denial of the appeal by the Board, the employee need not file a financial disclosure report, and no late filing fines will be assessed for that period.
+
+   (4) Whenever a deadline in the process set forth in this section is measured from the filing or service of notice and notice is filed or served by United States Postal Service mail, five days shall be added to the deadline.
+
+   (5) The Board may, in its discretion and for good cause shown, extend any deadline set forth in this rule. An application for such extension must be made in writing and prior to the expiration of the deadline.
+
+   (6) In the case of any appeal that is decided upon default, whether in favor of the employee or the agency, that decision shall apply to that filing year only and shall not be a determination on the merits.
+
+   (7) Unless otherwise stated, any reference to a number of days specified as a period within which an act is required to be done means such number of calendar days.
+
+   (8) Nothing in this rule shall prevent the Board from determining, pursuant to New York City Administrative Code § 12-110(b)(3)(a)(2)-(3), that any public servant, regardless of an agency's determination, is required to file a financial disclosure report.
+
+(Renumbered from former 53 RCNY § 1-17, City Record 6/22/2020, eff. 7/22/2020)
 
 
 

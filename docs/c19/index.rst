@@ -1171,6 +1171,309 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
+Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
+--------------------------------------------------
+
+
+
+*§ 54-01 Scope of This Chapter. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-02 Penalties. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-03 Definitions Specific to This Chapter. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-04 Licensing – Requirements. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-04.1 Licensing – Authorization to drive a Street Hail Livery. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-04.2 Licensing – FHV Driver Authorization to drive a Street Hail Livery. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-05 Licensing – Probationary Licenses. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-06 Licensing – Term of License. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-07 Licensing – Fees. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-08 Licensing – Process and Causes for Denial. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-09 Licensing – Transfer of License. [Repealed] [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-10 Licensing – Care and Use of License. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-11 Comply with Laws – Unlicensed Activity Prohibited. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-12 Comply with Laws – Proper Conduct. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-13 Comply with Laws – Traffic Laws &amp; Miscellaneous. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-14 Operations – Passenger and Driver Safety. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-15 Operations – General Rules During Operation of Vehicle. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-16 Operations – Comply with Reasonable Passenger Requests. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-17 Operations – Rates, Charges and Payment. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-18 Operations – Lost Property. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-19 Operations – Passenger Solicitation and Engagement. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-20 Operations – Refusing Passengers. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-21 Operations – Cooperation with Issuing Jurisdictions. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-22 Vehicle – Operation and Condition. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-23 Vehicle – Items Required to be in the Vehicle. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-24 Vehicle – Trip Records. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-25 Vehicle Equipment – Taxicab Technology System (Electronic Trip Record System) for Taxicabs. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-25.1 Vehicle Equipment – Street Hail Livery Technology System (Electronic Trip Record System) for Street Hail Liveries. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-26 Vehicle Equipment – Taximeters. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 54-27 Special Driver Penalty Programs. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 --------------------------------------------------
 
@@ -1715,309 +2018,6 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
  
-
-
-
-
-
-
-Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
---------------------------------------------------
-
-
-
-*§ 54-01 Scope of This Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-02 Penalties. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-03 Definitions Specific to This Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-04 Licensing – Requirements. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-04.1 Licensing – Authorization to drive a Street Hail Livery. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-04.2 Licensing – FHV Driver Authorization to drive a Street Hail Livery. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-05 Licensing – Probationary Licenses. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-06 Licensing – Term of License. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-07 Licensing – Fees. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-08 Licensing – Process and Causes for Denial. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-09 Licensing – Transfer of License. [Repealed] [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-10 Licensing – Care and Use of License. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-11 Comply with Laws – Unlicensed Activity Prohibited. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-12 Comply with Laws – Proper Conduct. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-13 Comply with Laws – Traffic Laws &amp; Miscellaneous. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-14 Operations – Passenger and Driver Safety. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-15 Operations – General Rules During Operation of Vehicle. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-16 Operations – Comply with Reasonable Passenger Requests. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-17 Operations – Rates, Charges and Payment. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-18 Operations – Lost Property. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-19 Operations – Passenger Solicitation and Engagement. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-20 Operations – Refusing Passengers. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-21 Operations – Cooperation with Issuing Jurisdictions. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-22 Vehicle – Operation and Condition. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-23 Vehicle – Items Required to be in the Vehicle. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-24 Vehicle – Trip Records. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-25 Vehicle Equipment – Taxicab Technology System (Electronic Trip Record System) for Taxicabs. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-25.1 Vehicle Equipment – Street Hail Livery Technology System (Electronic Trip Record System) for Street Hail Liveries. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-26 Vehicle Equipment – Taximeters. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 54-27 Special Driver Penalty Programs. [Repealed]* ::
-
 
 
 
