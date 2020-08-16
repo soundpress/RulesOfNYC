@@ -1968,6 +1968,19 @@ Chapter 16: Inspection of Existing Structures During Construction Operations
 
 
 
+Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repealed]
+--------------------------------------------------
+
+
+
+*§ 18-01 Considerations and Evaluation. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 17: Testing Laboratories and Testing Services
 --------------------------------------------------
 
@@ -2001,19 +2014,6 @@ Chapter 17: Testing Laboratories and Testing Services
 (l) Accepted laboratories and testing services shall be permitted to advertise the fact of their acceptance by the Department of Buildings of the City of New York for the testing of materials or equipment only in the field or trade for which they have established their competence.
 
 (m) Any violation of these rules or misrepresentation of facts in any required report or misrepresentation in advertising shall constitute cause for revocation or suspension of acceptance by the Commissioner.
-
-
-
-
-Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repealed]
---------------------------------------------------
-
-
-
-*§ 18-01 Considerations and Evaluation. [Repealed]* ::
-
-
-
 
 
 
@@ -2300,6 +2300,55 @@ However, if in the opinion of the engineer responsible for Controlled Inspection
 
 
 
+Chapter 22: Pressure Tanks
+--------------------------------------------------
+
+
+
+*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
+
+
+(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
+
+(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
+
+   (1) Size and location of high pressure tanks.
+
+   (2) The operating pressures and temperatures.
+
+   (3) The location, type and specifications of pressure relief valves.
+
+(c) Location. 
+
+   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
+
+   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
+
+   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
+
+(d) Installation. 
+
+   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
+
+   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
+
+   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
+
+   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
+
+   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
+
+   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
+
+   (7) All welded piping shall be butt welded.
+
+   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
+
+   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
+
+
+
+
 Chapter 21: Plans
 --------------------------------------------------
 
@@ -2423,6 +2472,47 @@ Chapter 21: Plans
 
 
 
+Chapter 24: Refuse Chutes and Refuse Rooms
+--------------------------------------------------
+
+
+
+*§ 24-01 Construction and Maintenance of Refuse Chutes and Refuse Rooms.* ::
+
+
+(a) Refuse chute enclosures. Refuse chutes used for conveyance of garbage and rubbish from upper floors of a building to a cellar or other location shall be constructed with an enclosure of brick masonry at least eight inches in thickness or of reinforced concrete at least six inches in thickness, except as otherwise provided in this section.
+
+(b) Height and service openings. Refuse chutes shall extend from the refuse collection room to a height of at least six feet above the roof. A spark arrester shall be provided at the top of the chute above the roof. Service openings into the chute shall be equipped with approved self-closing hoppers so constructed that the chute is closed off while the hopper is being loaded and so that no part will project into the chute. The area of service opening shall not exceed one third the area of the chute. Hopper doors shall have a fire resistive rating of at least one hour, unless separated from the corridor by a fireproof, self-closing door in which case they shall be constructed of incombustible material.
+
+(c) Existing flues and refuse chutes. Flues for existing incinerators may be used for refuse chutes provided such flues are in good condition and provided the flues comply with the provisions of subdivisions (a) and (b) of this section. Existing refuse chutes may be continued in use provided they conform to the provisions of subdivisions (a) and (b) of this section, except that existing refuse chutes of other construction, which have been approved by the Department may be retained.
+
+(d) Refuse chutes in new construction. Where refuse compacting systems are required hereafter in new construction, refuse chutes shall be required for conveyance of garbage and rubbish to refuse collection rooms, except that refuse chutes will not be required in class A multiple dwellings which are four stories or less in height. Refuse chutes erected hereafter in new construction shall be of a type approved by the board or shall comply with the requirements of subdivisions (a) and (b) of this section. Chutes shall be constructed straight and plumb, without projections of any kind within the chute. Refuse chutes shall have an inside dimension of at least twenty-four inches for the full height of the chute. All chutes shall be supported on fireproof construction having at least a three hour resistive rating.
+
+(e) Refuse collection rooms. A refuse collection room shall be provided at the bottom of all chutes at the cellar or lowest story level to receive the refuse. Such rooms shall be enclosed with walls and roofs constructed of material having a minimum fire resistive rating of three hours, except that gypsum masonry may not be used for such enclosure walls. Openings to such rooms shall be provided with fireproof, self-closing doors having a minimum fire resistive rating of one and one-half hours. It shall be unlawful to keep such doors open. Refuse chutes shall extend to the underside of the roof of the refuse room or lower. Roofs shall be at least six inches away from combustible floor or wall construction. Refuse rooms shall be used only for receipt of refuse and for refuse compacting equipment. Refuse rooms shall be provided with sufficient sprinklers to sprinkle all parts of the room, with at least two sprinkler heads provided and with sprinklers so separated as to sprinkle a maximum area of the room when one of the sprinklers is blocked or not operating. A hose connection shall be provided within the refuse room. Existing refuse rooms and incinerator rooms that have been approved by the Department for such use may be retained as approved.
+
+(f) Collection room floors. The floor within the room for the collection of refuse shall be constructed of concrete and shall be sloped to a floor drain within the room connected to the house drain. The drain shall be provided with a protective screen to retain solid material. Floor drain traps shall be readily accessible for cleaning.
+
+(g) Use of existing combustion chambers. Existing incinerator combustion chambers may be used in whole or in part as refuse collecting rooms for collection of refuse and for compacting equipment provided the grates are removed and provided they comply with the provisions of subdivision (e) of this section.
+
+(h) Sprinkler operation and water supply. Sprinklers shall be designed to operate automatically at a temperature not exceeding one hundred sixty-five degrees Fahrenheit. They may be electrically controlled provided such sprinklers are approved by the Board of Standards and Appeals. Sprinklers may be connected to the cold water supply of the building at the point where such service enters the building or at the base of a water supply riser provided the piping of such service or riser is of adequate size. No connections, except those for sprinklers, shall be made to the sprinkler piping.
+
+(i) Hoppers, cut off doors and compactors. A hopper and cut off door shall be provided at the bottom of the refuse chute to regulate and guide the flow of refuse into containers. Where compactors are installed so that the refuse flows directly into the compacting equipment, the equipment may be used in place of the hopper and cut off door. Compacting equipment shall be arranged to operate aautomatically when the level of rubbish is not higher than three feet below the lowest door. Compactors shall be located entirely within the enclosure of the refuse room and former combustion chamber where the latter is retained, except that motors, pumps and controls may be installed in adjacent rooms. Where refuse is removed manually, the refuse shall be removed with sufficient frequency so that it will at no time extend less than three feet below the level of the lowest hopper door opening into the chute.
+
+(j) Number of sprinkler heads. Sufficient sprinklers shall be installed in the refuse room and former combustion chamber to provide sprinkler coverage for the entire area of each unit.
+
+   (1) Adequate lighting shall be provided in refuse rooms.
+
+   (2) Refuse chutes, refuse rooms, hoppers and all parts of the refuse collecting system shall be maintained in a clean and sanitary condition at all times, free of vermin, odors and defects, and shall be maintained in good operating condition. Fused sprinkler heads shall be replaced promptly.
+
+   (3) The owner shall establish a program to ensure that the refuse chute and the refuse room and appurtenances will be treated as often as may be necessary to prevent infestation with insects or rodents. The owner shall maintain a record of such treatments which shall be available at all times for inspection by the Department.
+
+(k) These rules shall apply only to refuse chutes in new construction and to refuse chutes resulting from the conversion of existing incinerator flues and to existing refuse chutes.
+
+   (1) Collection and disposal of refuse within premises. The collection and disposal of refuse within any building or on any premises shall be performed as deemed necessary to provide for the safety, health and well being of the occupants of buildings and of the public. The construction, operation, maintenance, cleanliness and sanitation of refuse chutes and refuse rooms and extermination treatment for insects and rodents, and the keeping of records of such treatments for refuse chutes and refuse rooms shall be in accordance with regulations established by this Department in consultation with the Department of Health.
+
+
+
+
 Chapter 23: Noncommercial Greenhouses
 --------------------------------------------------
 
@@ -2476,102 +2566,35 @@ Greenhouse. A greenhouse shall be defined as a glass or slow burning plastic enc
 
 
 
-Chapter 22: Pressure Tanks
---------------------------------------------------
-
-
-
-*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
-
-
-(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
-
-(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
-
-   (1) Size and location of high pressure tanks.
-
-   (2) The operating pressures and temperatures.
-
-   (3) The location, type and specifications of pressure relief valves.
-
-(c) Location. 
-
-   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
-
-   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
-
-   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
-
-(d) Installation. 
-
-   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
-
-   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
-
-   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
-
-   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
-
-   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
-
-   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
-
-   (7) All welded piping shall be butt welded.
-
-   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
-
-   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
-
-
-
-
-Chapter 24: Refuse Chutes and Refuse Rooms
---------------------------------------------------
-
-
-
-*§ 24-01 Construction and Maintenance of Refuse Chutes and Refuse Rooms.* ::
-
-
-(a) Refuse chute enclosures. Refuse chutes used for conveyance of garbage and rubbish from upper floors of a building to a cellar or other location shall be constructed with an enclosure of brick masonry at least eight inches in thickness or of reinforced concrete at least six inches in thickness, except as otherwise provided in this section.
-
-(b) Height and service openings. Refuse chutes shall extend from the refuse collection room to a height of at least six feet above the roof. A spark arrester shall be provided at the top of the chute above the roof. Service openings into the chute shall be equipped with approved self-closing hoppers so constructed that the chute is closed off while the hopper is being loaded and so that no part will project into the chute. The area of service opening shall not exceed one third the area of the chute. Hopper doors shall have a fire resistive rating of at least one hour, unless separated from the corridor by a fireproof, self-closing door in which case they shall be constructed of incombustible material.
-
-(c) Existing flues and refuse chutes. Flues for existing incinerators may be used for refuse chutes provided such flues are in good condition and provided the flues comply with the provisions of subdivisions (a) and (b) of this section. Existing refuse chutes may be continued in use provided they conform to the provisions of subdivisions (a) and (b) of this section, except that existing refuse chutes of other construction, which have been approved by the Department may be retained.
-
-(d) Refuse chutes in new construction. Where refuse compacting systems are required hereafter in new construction, refuse chutes shall be required for conveyance of garbage and rubbish to refuse collection rooms, except that refuse chutes will not be required in class A multiple dwellings which are four stories or less in height. Refuse chutes erected hereafter in new construction shall be of a type approved by the board or shall comply with the requirements of subdivisions (a) and (b) of this section. Chutes shall be constructed straight and plumb, without projections of any kind within the chute. Refuse chutes shall have an inside dimension of at least twenty-four inches for the full height of the chute. All chutes shall be supported on fireproof construction having at least a three hour resistive rating.
-
-(e) Refuse collection rooms. A refuse collection room shall be provided at the bottom of all chutes at the cellar or lowest story level to receive the refuse. Such rooms shall be enclosed with walls and roofs constructed of material having a minimum fire resistive rating of three hours, except that gypsum masonry may not be used for such enclosure walls. Openings to such rooms shall be provided with fireproof, self-closing doors having a minimum fire resistive rating of one and one-half hours. It shall be unlawful to keep such doors open. Refuse chutes shall extend to the underside of the roof of the refuse room or lower. Roofs shall be at least six inches away from combustible floor or wall construction. Refuse rooms shall be used only for receipt of refuse and for refuse compacting equipment. Refuse rooms shall be provided with sufficient sprinklers to sprinkle all parts of the room, with at least two sprinkler heads provided and with sprinklers so separated as to sprinkle a maximum area of the room when one of the sprinklers is blocked or not operating. A hose connection shall be provided within the refuse room. Existing refuse rooms and incinerator rooms that have been approved by the Department for such use may be retained as approved.
-
-(f) Collection room floors. The floor within the room for the collection of refuse shall be constructed of concrete and shall be sloped to a floor drain within the room connected to the house drain. The drain shall be provided with a protective screen to retain solid material. Floor drain traps shall be readily accessible for cleaning.
-
-(g) Use of existing combustion chambers. Existing incinerator combustion chambers may be used in whole or in part as refuse collecting rooms for collection of refuse and for compacting equipment provided the grates are removed and provided they comply with the provisions of subdivision (e) of this section.
-
-(h) Sprinkler operation and water supply. Sprinklers shall be designed to operate automatically at a temperature not exceeding one hundred sixty-five degrees Fahrenheit. They may be electrically controlled provided such sprinklers are approved by the Board of Standards and Appeals. Sprinklers may be connected to the cold water supply of the building at the point where such service enters the building or at the base of a water supply riser provided the piping of such service or riser is of adequate size. No connections, except those for sprinklers, shall be made to the sprinkler piping.
-
-(i) Hoppers, cut off doors and compactors. A hopper and cut off door shall be provided at the bottom of the refuse chute to regulate and guide the flow of refuse into containers. Where compactors are installed so that the refuse flows directly into the compacting equipment, the equipment may be used in place of the hopper and cut off door. Compacting equipment shall be arranged to operate aautomatically when the level of rubbish is not higher than three feet below the lowest door. Compactors shall be located entirely within the enclosure of the refuse room and former combustion chamber where the latter is retained, except that motors, pumps and controls may be installed in adjacent rooms. Where refuse is removed manually, the refuse shall be removed with sufficient frequency so that it will at no time extend less than three feet below the level of the lowest hopper door opening into the chute.
-
-(j) Number of sprinkler heads. Sufficient sprinklers shall be installed in the refuse room and former combustion chamber to provide sprinkler coverage for the entire area of each unit.
-
-   (1) Adequate lighting shall be provided in refuse rooms.
-
-   (2) Refuse chutes, refuse rooms, hoppers and all parts of the refuse collecting system shall be maintained in a clean and sanitary condition at all times, free of vermin, odors and defects, and shall be maintained in good operating condition. Fused sprinkler heads shall be replaced promptly.
-
-   (3) The owner shall establish a program to ensure that the refuse chute and the refuse room and appurtenances will be treated as often as may be necessary to prevent infestation with insects or rodents. The owner shall maintain a record of such treatments which shall be available at all times for inspection by the Department.
-
-(k) These rules shall apply only to refuse chutes in new construction and to refuse chutes resulting from the conversion of existing incinerator flues and to existing refuse chutes.
-
-   (1) Collection and disposal of refuse within premises. The collection and disposal of refuse within any building or on any premises shall be performed as deemed necessary to provide for the safety, health and well being of the occupants of buildings and of the public. The construction, operation, maintenance, cleanliness and sanitation of refuse chutes and refuse rooms and extermination treatment for insects and rodents, and the keeping of records of such treatments for refuse chutes and refuse rooms shall be in accordance with regulations established by this Department in consultation with the Department of Health.
-
-
-
-
 Chapter 25: Climber and Tower Crane Riggers [Repealed]
 --------------------------------------------------
 
 
 
 *§ 25-01 Licensing Persons as Climber or Tower Crane Rigger. [Repealed]* ::
+
+
+
+
+
+
+
+Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting Devices and Systems [Repealed]
+--------------------------------------------------
+
+
+
+*§ 28-01 Required Smoke Detecting Devices and Systems. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 28-02 Required Carbon Monoxide Detecting Devices and Systems. [Repealed]* ::
 
 
 
@@ -2709,29 +2732,6 @@ Chapter 27: Signs
 
 
 *§ 27-04 311 Advisory Signs Required on Construction Sites. [Repealed]* ::
-
-
-
-
-
-
-
-Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting Devices and Systems [Repealed]
---------------------------------------------------
-
-
-
-*§ 28-01 Required Smoke Detecting Devices and Systems. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 28-02 Required Carbon Monoxide Detecting Devices and Systems. [Repealed]* ::
 
 
 
@@ -3559,6 +3559,41 @@ In accordance with section 27-3005(a)(7) of the Administrative Code the Commissi
 
 
 
+Chapter 36: Electrical Contractors
+--------------------------------------------------
+
+
+
+*§ 36-01 Evaluation of Educational Experience of Applicants for Electrical Contractor Licenses.* ::
+
+
+(a) Experience. Any applicant for an electrical contractor's license must have experience in the installation, alteration and repair of wiring and appliances for electrical light, heat and power in or on buildings as set forth in New York City Administrative Code § 27-3010. In evaluating this experience, credit may be given for the educational experience of applicants who have attended courses in a recognized vocational, industrial or trade school in electrical wiring, installation and design, or applied electricity.
+
+(b) Description of course credit in recognized vocational, industrial or trade schools in electrical wiring, installation and design, or applied electricity.
+
+   (1) A recognized vocational, industrial or trade school in electrical wiring, installation and design, or applied electricity, is one offering a comprehensive curriculum of classes and practical laboratories taught in a logical progression to complete a specific course of study in electricity, as set forth in the description of the instructional program in residential, industrial and commercial electricity contained in the New York State Education Department guidelines for trade and industrial education, or the equivalent as determined by the Commissioner of Buildings upon the recommendation of the New York City Electrical License Board.
+
+   (2) A curriculum year of credit shall be no less than 200 classroom hours comprised of 20 percent lecture hours and 80 percent practical laboratory hours, or the equivalent as determined by the Commissioner of Buildings upon the recommendation of the New York City Electrical License Board.
+
+
+
+
+
+
+*§ 36-02 Impact of Periods of Unemployment upon Applications for Electrician's Licenses.* ::
+
+
+(a) Applicability. Pursuant to New York City Administrative Code § 27-3010, any applicant for a master or special electrician's license shall have had, immediately preceding his or her application, at least seven and one-half (71/2) years of experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings. In evaluating this experience, the Department recognizes that periods of unemployment may make continuous employment for the seven and one-half (71/2) years preceding his or her application impossible. Thus, in evaluating whether a master or special electrician's license applicant has sufficient work experience, the Department may exclude periods of unemployment when considering whether work experience immediately preceded the application date, as set forth in this rule.
+
+(b) In accordance with the above, the Commissioner may grant a master or special electrician's license application where the applicant's work experience has occurred within the ten years immediately preceding the application date, if: (i) the applicant has had at least seven and one-half years of such experience, and during such time, a minimum of seventy-five hundred (7,500) hours or the equivalent experience in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings in such ten years immediately preceding the application date; and (ii) during the two calendar years immediately preceding the application date, the applicant has been employed in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings for at least a total of twelve months.
+
+(c) Subdivision (b) shall not apply to electrician's license applicants whose work experience includes electrical work that was not supervised by a licensed electrician, or that was otherwise illegal.
+
+(d) Nothing in this rule shall affect how credit for the seven and one-half (71/2) years of work experience is computed pursuant to New York City Administrative Code § 27-3010(a)-(e).
+
+
+
+
 Chapter 35: Electrical Inspection
 --------------------------------------------------
 
@@ -3639,41 +3674,6 @@ Chapter 37: Reference Standards [Repealed]
 
 
 
-
-
-
-
-Chapter 36: Electrical Contractors
---------------------------------------------------
-
-
-
-*§ 36-01 Evaluation of Educational Experience of Applicants for Electrical Contractor Licenses.* ::
-
-
-(a) Experience. Any applicant for an electrical contractor's license must have experience in the installation, alteration and repair of wiring and appliances for electrical light, heat and power in or on buildings as set forth in New York City Administrative Code § 27-3010. In evaluating this experience, credit may be given for the educational experience of applicants who have attended courses in a recognized vocational, industrial or trade school in electrical wiring, installation and design, or applied electricity.
-
-(b) Description of course credit in recognized vocational, industrial or trade schools in electrical wiring, installation and design, or applied electricity.
-
-   (1) A recognized vocational, industrial or trade school in electrical wiring, installation and design, or applied electricity, is one offering a comprehensive curriculum of classes and practical laboratories taught in a logical progression to complete a specific course of study in electricity, as set forth in the description of the instructional program in residential, industrial and commercial electricity contained in the New York State Education Department guidelines for trade and industrial education, or the equivalent as determined by the Commissioner of Buildings upon the recommendation of the New York City Electrical License Board.
-
-   (2) A curriculum year of credit shall be no less than 200 classroom hours comprised of 20 percent lecture hours and 80 percent practical laboratory hours, or the equivalent as determined by the Commissioner of Buildings upon the recommendation of the New York City Electrical License Board.
-
-
-
-
-
-
-*§ 36-02 Impact of Periods of Unemployment upon Applications for Electrician's Licenses.* ::
-
-
-(a) Applicability. Pursuant to New York City Administrative Code § 27-3010, any applicant for a master or special electrician's license shall have had, immediately preceding his or her application, at least seven and one-half (71/2) years of experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings. In evaluating this experience, the Department recognizes that periods of unemployment may make continuous employment for the seven and one-half (71/2) years preceding his or her application impossible. Thus, in evaluating whether a master or special electrician's license applicant has sufficient work experience, the Department may exclude periods of unemployment when considering whether work experience immediately preceded the application date, as set forth in this rule.
-
-(b) In accordance with the above, the Commissioner may grant a master or special electrician's license application where the applicant's work experience has occurred within the ten years immediately preceding the application date, if: (i) the applicant has had at least seven and one-half years of such experience, and during such time, a minimum of seventy-five hundred (7,500) hours or the equivalent experience in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings in such ten years immediately preceding the application date; and (ii) during the two calendar years immediately preceding the application date, the applicant has been employed in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings for at least a total of twelve months.
-
-(c) Subdivision (b) shall not apply to electrician's license applicants whose work experience includes electrical work that was not supervised by a licensed electrician, or that was otherwise illegal.
-
-(d) Nothing in this rule shall affect how credit for the seven and one-half (71/2) years of work experience is computed pursuant to New York City Administrative Code § 27-3010(a)-(e).
 
 
 
@@ -4076,6 +4076,41 @@ Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dw
 
 
 
+Chapter 42: Entrance Doors, Locks and Intercommunication Systems
+--------------------------------------------------
+
+
+
+*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
+
+
+(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
+
+(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
+
+(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
+
+(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
+
+(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
+
+(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
+
+(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
+
+(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
+
+(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
+
+(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
+
+(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
+
+(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
+
+
+
+
 Chapter 43: Installation of Security Items In Multiple Dwellings
 --------------------------------------------------
 
@@ -4143,41 +4178,6 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 (d) The lights shall be so located as to adequately light all portions of the rear yards, side yards, front yards and courts.
 
 (e) Lights are not required in an inner court that is accessible only from the interior of the building and to which access is restricted for clean-out purposes.
-
-
-
-
-Chapter 42: Entrance Doors, Locks and Intercommunication Systems
---------------------------------------------------
-
-
-
-*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
-
-
-(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
-
-(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
-
-(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
-
-(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
-
-(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
-
-(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
-
-(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
-
-(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
-
-(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
-
-(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
-
-(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
-
-(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
 
 
 
@@ -4717,47 +4717,6 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 
-Chapter 51: Dormitories
---------------------------------------------------
-
-
-
-*§ 51-01 Classification of Student Dormitory.* ::
-
-
-(a) Applicability. Student dormitory is classified under the Zoning Resolution of the City of New York as a Use Group 3, community facility use. The Zoning Resolution allows residences of all kinds, including residences for students, under a Use Group 2 classification. This rule sets forth the criteria the Department shall use to designate a Class A building or part of a building as a Use Group 3 student dormitory. An owner that seeks to classify a rooming unit as a dormitory shall be subject to the provisions set forth in 1 RCNY 15-04(e).
-
-(b) Definition. A student dormitory is a building or part of a building that is (1) operated by, or on behalf of, institution(s) that provide full-time day instruction and a course of study that may be pursued in fulfillment of the requirements of §§ 3204, 3205 and 3210 of the New York State Education Law, or post-secondary institution(s) authorized to grant a degree by the Regents of the University of the State of New York; (2) to house students enrolled at such institution(s). A student dormitory shall not be a single dwelling unit.
-
-(c) Required documentation. No permit shall be issued to create a student dormitory unless the following documentation has been submitted to the Department:
-
-   (1) Proof of ownership or control.
-
-      (i) Copies of documents demonstrating that the owner of the building or part of the building for which such permit is sought is an educational institution that provides a course of study that meets the requirements of subdivision (b) of this section, or
-
-      (ii) Copies of a lease of the building or part of the building for a minimum ten year term by an educational institution that meets the requirements of subdivision (b) of this section, or
-
-      (iii) Copies of documents evidencing (A) the establishment of a non-profit entity, all of whose members, directors, trustees, or other individuals upon whom is conferred the management of the entity, are representatives of participating educational institutions that meet the requirements of subdivision (b) of this section to provide dormitory housing for students of such participating educational institutions; and (B) ownership or control of the building or part of the building by such non-profit entity for such purpose in the form of a deed or lease for a minimum ten-year term.
-
-   (2) Restrictive declaration. Proof of recording of a restrictive declaration executed by Owner of the real property and any other party who holds an enforceable recorded interest that could result in such holder obtaining possession of the building or part of the building designated as a student dormitory. The agreement shall be binding upon all such parties' heirs, legal representatives, successors and assigns. The Declaration shall be in a form acceptable to the Commissioner and shall include the following terms:
-
-      (i) The facility shall only be used as a student dormitory, as defined in this chapter, or other Use Group 3 use.
-
-      (ii) Under no circumstances shall the units in a student dormitory be offered for sale pursuant to a cooperative or condominium plan.
-
-      (iii) Owner agrees to forego defenses to the enforcement of the provisions of this section.
-
-      (iv) Owner agrees to prominently display the name(s) of the school(s) operating the student dormitory on the exterior of building.
-
-(d) Term of certificate of occupancy. Where the student dormitory is not owned by an educational institution, but rather is leased, no certificate of occupancy shall be issued to the building for a term that exceeds the duration of the lease.
-
-(e) Effect on other codes. The designation of a building or a part of a building as a student dormitory shall not by itself be determinative as to the occupancy, construction, or multiple dwelling classifications as determined pursuant to the Building Code, Housing Maintenance Code or Multiple Dwelling Law.
-
-(f) If any clause, sentence, paragraph, subdivision, section, or part of this rule shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
-
-
-
-
 Chapter 50: Distributed Energy Resource Standards
 --------------------------------------------------
 
@@ -4887,6 +4846,47 @@ Chapter 50: Distributed Energy Resource Standards
       (vii) Gas meters shall not be permitted within the mechanical equipment room.
 
       (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
+
+
+
+
+Chapter 51: Dormitories
+--------------------------------------------------
+
+
+
+*§ 51-01 Classification of Student Dormitory.* ::
+
+
+(a) Applicability. Student dormitory is classified under the Zoning Resolution of the City of New York as a Use Group 3, community facility use. The Zoning Resolution allows residences of all kinds, including residences for students, under a Use Group 2 classification. This rule sets forth the criteria the Department shall use to designate a Class A building or part of a building as a Use Group 3 student dormitory. An owner that seeks to classify a rooming unit as a dormitory shall be subject to the provisions set forth in 1 RCNY 15-04(e).
+
+(b) Definition. A student dormitory is a building or part of a building that is (1) operated by, or on behalf of, institution(s) that provide full-time day instruction and a course of study that may be pursued in fulfillment of the requirements of §§ 3204, 3205 and 3210 of the New York State Education Law, or post-secondary institution(s) authorized to grant a degree by the Regents of the University of the State of New York; (2) to house students enrolled at such institution(s). A student dormitory shall not be a single dwelling unit.
+
+(c) Required documentation. No permit shall be issued to create a student dormitory unless the following documentation has been submitted to the Department:
+
+   (1) Proof of ownership or control.
+
+      (i) Copies of documents demonstrating that the owner of the building or part of the building for which such permit is sought is an educational institution that provides a course of study that meets the requirements of subdivision (b) of this section, or
+
+      (ii) Copies of a lease of the building or part of the building for a minimum ten year term by an educational institution that meets the requirements of subdivision (b) of this section, or
+
+      (iii) Copies of documents evidencing (A) the establishment of a non-profit entity, all of whose members, directors, trustees, or other individuals upon whom is conferred the management of the entity, are representatives of participating educational institutions that meet the requirements of subdivision (b) of this section to provide dormitory housing for students of such participating educational institutions; and (B) ownership or control of the building or part of the building by such non-profit entity for such purpose in the form of a deed or lease for a minimum ten-year term.
+
+   (2) Restrictive declaration. Proof of recording of a restrictive declaration executed by Owner of the real property and any other party who holds an enforceable recorded interest that could result in such holder obtaining possession of the building or part of the building designated as a student dormitory. The agreement shall be binding upon all such parties' heirs, legal representatives, successors and assigns. The Declaration shall be in a form acceptable to the Commissioner and shall include the following terms:
+
+      (i) The facility shall only be used as a student dormitory, as defined in this chapter, or other Use Group 3 use.
+
+      (ii) Under no circumstances shall the units in a student dormitory be offered for sale pursuant to a cooperative or condominium plan.
+
+      (iii) Owner agrees to forego defenses to the enforcement of the provisions of this section.
+
+      (iv) Owner agrees to prominently display the name(s) of the school(s) operating the student dormitory on the exterior of building.
+
+(d) Term of certificate of occupancy. Where the student dormitory is not owned by an educational institution, but rather is leased, no certificate of occupancy shall be issued to the building for a term that exceeds the duration of the lease.
+
+(e) Effect on other codes. The designation of a building or a part of a building as a student dormitory shall not by itself be determinative as to the occupancy, construction, or multiple dwelling classifications as determined pursuant to the Building Code, Housing Maintenance Code or Multiple Dwelling Law.
+
+(f) If any clause, sentence, paragraph, subdivision, section, or part of this rule shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
 
 
@@ -10587,6 +10587,141 @@ Table 2
 
 
 
+Chapter 4000: Electrical Code
+--------------------------------------------------
+
+
+
+*§ 4000-01 Electrical work review.* ::
+
+
+(a) Electrical review. Electrical review is required in the following circumstances:
+
+   (1) Electrical installations. Electrical review is required where service equipment totals 1000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1000 KVA or greater, as further detailed below:
+
+      (A) A new installation of equipment totaling 1000 KVA or higher;
+
+      (B) Any change in an installation with a rating of 1000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
+
+      (C) Any addition to an existing installation which would bring the total to 1000 KVA or higher.
+
+      (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
+
+      (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 KVA installation.
+
+   (2) Electrical equipment. Electrical review is required for electrical equipment not specifically addressed in the Electrical Code Technical Standards and any other electrical equipment not bearing the label of approval of an electrical testing laboratory acceptable to the Commissioner.
+
+(b) Filing requirements.
+
+   (1) Electrical installations 1000 KVA or greater, or new or revised installations above 600 volts. Filings for electrical installations 1000 KVA or greater, or new or revised installations above 600 volts must comply with the following:
+
+      (i) Submission must be made in a manner prescribed by the Department, including electronically, by a New York State Licensed and Registered Professional Engineer, New York State Licensed and Registered Architect, or an individual with comparable qualifications from an outside jurisdiction.
+
+      (ii) A filing fee of $650.00 must be paid for each submission.
+
+      (iii) All submissions for service equipment totaling 1000 KVA or more or above 600 Volts must include the following plans/drawings:
+
+         - One line diagram
+
+         - Plan view / service equipment room layout
+
+         - Submissions must be in accordance with, and include, the following requirements:
+
+            (A) All drawings must be clear, legible, and use standard notations.
+
+            (B) Installations that are not all new must clearly mark what is new and what is existing. In addition, all new work must be encircled by a ‘bubble' or ‘cloud' on the drawings.
+
+            (C) For residential installations, the calculations justifying a de-rating of the neutral must be submitted.
+
+            (D) The plan view must be drawn to scale, showing the point of service entrance into the building. If the building sets back from the property line, the underground service feeder must be shown, including wire and raceway sizes.
+
+            (E) The arrangement of service equipment and its proximity to the point of service entrance must be shown, including the manner in which service will be extended to the service equipment. If the switchboard is free standing, the clearance around the switchboard must be shown.
+
+            (F) The location of the main switchboard and/or distribution panels in relation to the service equipment must be shown.
+
+            (G) The location of the electric service room with respect to the surrounding areas must be shown.
+
+            (H) The means of egress from the switchboard room and where it leads to must be shown. The legal exit(s) to which egress door(s) lead must also be shown.
+
+            (I) When there is more than one service location within a building, drawings must contain a notation indicating that signs are posted at the entrance door of each switchboard room showing the location of all the other switchboard rooms. The location and wording of the signs must be specified.
+
+            (J) If the existing service equipment and/or point of service entrance is to be discontinued, the drawings must so state.
+
+            (K) If existing service equipment is to remain in conjunction with new service equipment and is to be supplied by the same service entrance, the drawing must indicate the make and size of the existing service equipment, and the type and size of the fuses in the existing equipment.
+
+            (L) The drawing must show grouping of service equipment at the point of service entrance.
+
+            (M) The drawing must show ventilation of the room when the service equipment totals 2000 KVA or larger (this may be in the form of a note on the drawing).
+
+            (N) The drawing must show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings must be indicated.
+
+            (O) A statement confirming that all fuses and/or circuit breakers have been coordinated for selective short circuit overcurrent protection must be on the drawing.
+
+            (P) A one line diagram must be submitted indicating the service equipment and the distribution equipment up to the 2nd level overcurrent protection, showing all overcurrent devices with their ampere rating, make and type, interrupting current ratings and bus and wire sizes. Frame and trip sizes for circuit breakers must be indicated.
+
+            (Q) Drawings must indicate that transformers are properly grounded. Service and distribution equipment proposed for future installation must be marked on the drawings as "future."
+
+            (R) All voltages must be clearly shown on the drawings, which must include voltages pertaining to all of the equipment overcurrent protection up to and including the second level protection.
+
+            (S) When a generator (or other non-utility source) is part of a 1000 KVA submission and the generator itself is rated below 1000 KVA, a one line diagram must be submitted showing how the generator is connected to the normal service. The drawings must include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1000 KVA or larger, a room layout must be submitted along with a one line diagram.
+
+      (iv) A selective coordination report prepared by a professional engineer must be filed with the Department prior to electrical inspection. Such engineer may be different from the applicant.
+
+      (v) Where installation of equipment differs from the original approved drawings, amended drawings showing the as-built condition must be filed with the Department prior to electrical inspection.
+
+   (2) Special permission. Request for special permission must be made electronically and comply with the following:
+
+      (i) Demonstrate practical difficulty and provide supporting documentation.
+
+      (ii) Proposed equally safe alternative methods must be included.
+
+      (iii) A filing fee of $350.00 must be paid for each submission made where an objection was issued due to failure to obtain prior special permission.
+
+   (3) Office of Technical Certification and Research ("OTCR") review. Filings for OTCR review of electrical equipment not otherwise approved for use by the New York City electrical code must comply with the following:
+
+      (i) The submission, including a cover letter, notarized application and check, must be filed with OTCR or electronically, as the Commissioner may require.
+
+      (ii) A filing fee of $600.00 must be paid for each submission.
+
+      (iii) Payment must be made" in a form and manner as provided by the Commissioner.
+
+      (iv) The submission must contain the following:
+
+         (A) A cover letter indicating the following:
+
+            1. Type/model numbers of material/equipment being submitted for approval.
+
+            2. Items included in support of the submittal.
+
+            3. Explanatory information/comments, if applicable.
+
+         (B) A completed and notarized application for review.
+
+         (C) Two (2) brochures, or catalog data sheets, and a set of unmounted photographs or photographs.
+
+         (D) A complete test report that includes a conclusion sheet from a laboratory acceptable to the Commissioner.
+
+         (E) Equipment samples only when requested by OTCR.
+
+(c) Compliance with the New York City Energy Conservation Code. All electrical submissions must comply with the requirements of the Energy Conservation Code where applicable.
+
+
+
+* Editor's note: Formerly 1 RCNY § 34-05.
+
+
+
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 3600: Appendices
 --------------------------------------------------
 
@@ -11770,141 +11905,6 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 *§ 3616-05 National Fire Protection Association ("NFPA") 13R Amendment Relating to Exemption from Fire Department Connection Requirements in One- and Two-family Residential Buildings. [Repealed]* ::
-
-
-
-
-
-
-
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-01 Electrical work review.* ::
-
-
-(a) Electrical review. Electrical review is required in the following circumstances:
-
-   (1) Electrical installations. Electrical review is required where service equipment totals 1000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1000 KVA or greater, as further detailed below:
-
-      (A) A new installation of equipment totaling 1000 KVA or higher;
-
-      (B) Any change in an installation with a rating of 1000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
-
-      (C) Any addition to an existing installation which would bring the total to 1000 KVA or higher.
-
-      (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
-
-      (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 KVA installation.
-
-   (2) Electrical equipment. Electrical review is required for electrical equipment not specifically addressed in the Electrical Code Technical Standards and any other electrical equipment not bearing the label of approval of an electrical testing laboratory acceptable to the Commissioner.
-
-(b) Filing requirements.
-
-   (1) Electrical installations 1000 KVA or greater, or new or revised installations above 600 volts. Filings for electrical installations 1000 KVA or greater, or new or revised installations above 600 volts must comply with the following:
-
-      (i) Submission must be made in a manner prescribed by the Department, including electronically, by a New York State Licensed and Registered Professional Engineer, New York State Licensed and Registered Architect, or an individual with comparable qualifications from an outside jurisdiction.
-
-      (ii) A filing fee of $650.00 must be paid for each submission.
-
-      (iii) All submissions for service equipment totaling 1000 KVA or more or above 600 Volts must include the following plans/drawings:
-
-         - One line diagram
-
-         - Plan view / service equipment room layout
-
-         - Submissions must be in accordance with, and include, the following requirements:
-
-            (A) All drawings must be clear, legible, and use standard notations.
-
-            (B) Installations that are not all new must clearly mark what is new and what is existing. In addition, all new work must be encircled by a ‘bubble' or ‘cloud' on the drawings.
-
-            (C) For residential installations, the calculations justifying a de-rating of the neutral must be submitted.
-
-            (D) The plan view must be drawn to scale, showing the point of service entrance into the building. If the building sets back from the property line, the underground service feeder must be shown, including wire and raceway sizes.
-
-            (E) The arrangement of service equipment and its proximity to the point of service entrance must be shown, including the manner in which service will be extended to the service equipment. If the switchboard is free standing, the clearance around the switchboard must be shown.
-
-            (F) The location of the main switchboard and/or distribution panels in relation to the service equipment must be shown.
-
-            (G) The location of the electric service room with respect to the surrounding areas must be shown.
-
-            (H) The means of egress from the switchboard room and where it leads to must be shown. The legal exit(s) to which egress door(s) lead must also be shown.
-
-            (I) When there is more than one service location within a building, drawings must contain a notation indicating that signs are posted at the entrance door of each switchboard room showing the location of all the other switchboard rooms. The location and wording of the signs must be specified.
-
-            (J) If the existing service equipment and/or point of service entrance is to be discontinued, the drawings must so state.
-
-            (K) If existing service equipment is to remain in conjunction with new service equipment and is to be supplied by the same service entrance, the drawing must indicate the make and size of the existing service equipment, and the type and size of the fuses in the existing equipment.
-
-            (L) The drawing must show grouping of service equipment at the point of service entrance.
-
-            (M) The drawing must show ventilation of the room when the service equipment totals 2000 KVA or larger (this may be in the form of a note on the drawing).
-
-            (N) The drawing must show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings must be indicated.
-
-            (O) A statement confirming that all fuses and/or circuit breakers have been coordinated for selective short circuit overcurrent protection must be on the drawing.
-
-            (P) A one line diagram must be submitted indicating the service equipment and the distribution equipment up to the 2nd level overcurrent protection, showing all overcurrent devices with their ampere rating, make and type, interrupting current ratings and bus and wire sizes. Frame and trip sizes for circuit breakers must be indicated.
-
-            (Q) Drawings must indicate that transformers are properly grounded. Service and distribution equipment proposed for future installation must be marked on the drawings as "future."
-
-            (R) All voltages must be clearly shown on the drawings, which must include voltages pertaining to all of the equipment overcurrent protection up to and including the second level protection.
-
-            (S) When a generator (or other non-utility source) is part of a 1000 KVA submission and the generator itself is rated below 1000 KVA, a one line diagram must be submitted showing how the generator is connected to the normal service. The drawings must include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1000 KVA or larger, a room layout must be submitted along with a one line diagram.
-
-      (iv) A selective coordination report prepared by a professional engineer must be filed with the Department prior to electrical inspection. Such engineer may be different from the applicant.
-
-      (v) Where installation of equipment differs from the original approved drawings, amended drawings showing the as-built condition must be filed with the Department prior to electrical inspection.
-
-   (2) Special permission. Request for special permission must be made electronically and comply with the following:
-
-      (i) Demonstrate practical difficulty and provide supporting documentation.
-
-      (ii) Proposed equally safe alternative methods must be included.
-
-      (iii) A filing fee of $350.00 must be paid for each submission made where an objection was issued due to failure to obtain prior special permission.
-
-   (3) Office of Technical Certification and Research ("OTCR") review. Filings for OTCR review of electrical equipment not otherwise approved for use by the New York City electrical code must comply with the following:
-
-      (i) The submission, including a cover letter, notarized application and check, must be filed with OTCR or electronically, as the Commissioner may require.
-
-      (ii) A filing fee of $600.00 must be paid for each submission.
-
-      (iii) Payment must be made" in a form and manner as provided by the Commissioner.
-
-      (iv) The submission must contain the following:
-
-         (A) A cover letter indicating the following:
-
-            1. Type/model numbers of material/equipment being submitted for approval.
-
-            2. Items included in support of the submittal.
-
-            3. Explanatory information/comments, if applicable.
-
-         (B) A completed and notarized application for review.
-
-         (C) Two (2) brochures, or catalog data sheets, and a set of unmounted photographs or photographs.
-
-         (D) A complete test report that includes a conclusion sheet from a laboratory acceptable to the Commissioner.
-
-         (E) Equipment samples only when requested by OTCR.
-
-(c) Compliance with the New York City Energy Conservation Code. All electrical submissions must comply with the requirements of the Energy Conservation Code where applicable.
-
-
-
-* Editor's note: Formerly 1 RCNY § 34-05.
-
-
-
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
 
 
 
