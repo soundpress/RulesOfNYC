@@ -1,19 +1,6 @@
 Title 2: Board of Standards and Appeals
 ===================================================
 
-Chapter 2: Automotive Service Stations and Garages
---------------------------------------------------
-
-
-
-*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
-
-
-If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
-
-
-
-
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
 --------------------------------------------------
 
@@ -341,6 +328,19 @@ This table is intended to serve as a summary. Please see the full text of the as
 2 Applications for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver.
 
 This table is intended to serve as a summary. Please see the full text of the associated rule for all requirements.
+
+
+
+
+Chapter 2: Automotive Service Stations and Garages
+--------------------------------------------------
+
+
+
+*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
+
+
+If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
 
 
 

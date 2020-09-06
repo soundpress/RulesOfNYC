@@ -493,895 +493,6 @@ Nothing in this chapter shall impair, diminish, or otherwise affect any other au
 
 
 
-Chapter 4: Market Regulations
---------------------------------------------------
-
-
-
-
-**Subchapter A: Repairs of Second-hand Weighing Or Measuring Devices**
-
-
-
-*§ 4-01 Removal of New York City Security Seal.* ::
-
-
-Immediately upon the completion of any repairs, or replacement or servicing of any component parts thereof, the licensed repairman shall replace the New York City security seal affixed to a weighing or measuring device.
-
-
-
-
-
-
-*§ 4-02 Repairman's Security Seal.* ::
-
-
-The licensed repairman shall replace the New York City security seal with a security seal, bearing the name or initials of the licensed repairman (company) and his or its license number. Said security seal shall have such information clearly and legibly imprinted on each side of the security seal on the sides visible to any interested person.
-
-
-
-
-
-
-*§ 4-03 Use of Initials, Abbreviations, Trademarks and Logos.* ::
-
-
-Any licensed repairman who elects to use initials, abbreviations, trademarks or logos in lieu of his or its full company name, may only do so by first notifying the Commissioner, in writing, in duplicate, of its intention to do so. Said notification must contain an exact replica of the initials, abbreviations, trademark or logo desired. If approved by the Commissioner, one copy of said notification will be returned by the Commissioner to the licensed repairman. The license number must be used in conjunction with said initials, abbreviation, trademark or logo.
-
-
-
-
-
-
-*§ 4-04 Employees' Identification Number or Letter.* ::
-
-
-Each licensed repairman (company) shall, if he or it employs more than one repairman or serviceman, assign an identification number or letter to each such individual. Said identification number or letter must also be imprinted upon the security seal in addition to the information required in 6 RCNY § 4-02.
-
-
-
-
-
-
-*§ 4-05 New Repairmen and Servicemen.* ::
-
-
-Each licensed repairman (company) shall notify the Commissioner, in writing, in duplicate, within three (3) business days of the employment of a new repairman or serviceman, and of the number or letter assigned to said employee. The Commissioner shall acknowledge receipt of said notification by return of the duplicate copy to the licensed repairman. Said receipted copies shall be retained by the licensed repairman for a period of two (2) years.
-
-
-
-
-
-
-*§ 4-06 Cumulative List of Employees. [Repealed]* ::
-
-
-The sign required to be posted pursuant to § 10-134.2 of the Administrative Code of the City of New York shall contain only the following notice within a black bordered box, with the names and titles of the current City officials set off in a separate box. The italicized text included below is instructional, and is not intended to be part of the text required to be included in the sign.
-
-WARNING-LASER POINTERS: Selling or giving a laser pointer to anyone 18 years of age or under is PROHIBITED BY LAW and punishable as a MISDEMEANOR [to be in 54-point type].
-
-New York City Administrative Code Sec. 10-134.2 [in 16-point italic type].
-
-[Insert Name], Commissioner [in 16-point bold type] Department of Consumer Affairs [in 16-point type]
-
-[Insert Name], Commissioner [in 16-point bold type] Police Department [in 16-point type]
-
-City of New York [in 16-point bold type] [Insert name], Mayor
-
-
-
-
-
-
-*§ 4-11 Size of Sign.* ::
-
-
-The sign containing the information specified in 6 RCNY § 4-10 shall not be smaller than eleven inches in length and eight and one-half inches in height, and the letters shall be printed in the font type identified above in italics.
-
-
-
-
-
-
-*§ 4-12 Posting of Signs.* ::
-
-
-The sign required to be posted pursuant to § 10-134.2 of the Administrative Code of the City of New York shall be conspicuously placed within ten feet of a retailer's cash register(s), and shall be clearly visible to consumers prior to the time they pay for their merchandise.
-
-
-
-
-
-
-*§ 4-15 Number of Signs.* ::
-
-
-A retailer shall post a sign at each cash register, except that for cash registers that are placed adjacent to each other, a retailer shall post a sign for every group of four such adjacent cash registers.
-
-
-
-
-
-
-*§ 4-16 Signs in Foreign Languages.* ::
-
-
-The signs required to be posted pursuant to § 10-134.2 of the Administrative Code of the City of New York shall be in English and shall also be in any other language which the retailer uses to attract customers or to transact business.
-
-
-
-
-
-
-
-**Subchapter B*: Language Assistance Notices At Pharmacies**
-
-
-
-*§ 4-11* Content and Form of Language Assistance Sign.* ::
-
-
-(a)  The sign required to be posted at chain pharmacies pursuant to § 20-623 of the administrative code of the City of New York to inform limited English-proficient individuals of their rights to language assistance in the seven languages identified biennially by the Department of City Planning shall include the following statement in English and in each of the languages listed: "Point to your language. Language assistance will be provided at no cost to you."
-
-(b) The statement in each of the required languages shall be in 20 point bold faced, Arial type in a color that sharply contrasts with the background color of the sign. Each such statement shall be enclosed in a box, and there shall be at least a 1/4 inch clear space between adjacent boxes.
-
-(c) The statements in all of the required languages shall be printed on one sign that shall be conspicuously displayed on or at each counter where prescription drug orders are dropped off, where they are picked up, and near every cash register where prescription drugs are paid for. Such signs shall be positioned so that a consumer can easily point to the statement identifying the language in which such person is requesting assistance.
-
-
-
-
-
-
-
-**Subchapter D: Hamburger and Chopped Meat**
-
-
-
-*§ 4-41 Custom Meat Grinding.* ::
-
-
-(a) Custom grinding is defined as a grinding, on the premises, of meat purchased either prepackaged or cut to order and ground at the request of the customer.
-
-(b) Meat grinders used for custom grinding shall be so situated that the customer can have a clear and unobstructed view of the grinding from a position not more than 10 feet from the meat grinder.
-
-(c) No box, carton, package, sign, or other material object shall be so placed as to prevent a meat grinder, used for custom grinding, from being in a clear and unobstructed view of the public.
-
-(d) Where a glass partition or other panel is between the meat-grinder and the customer, such partition or panel must be removed at the time of the custom grinding. If the glass is of the transparent type it need not be removed.
-
-(e) At no time between the purchase of meat and the delivery of the custom ground meat shall the meat be removed from the clear and unobstructed view of the customer.
-
-(f) The location of each meat grinder used for custom grinding shall be inspected by the Commissioner of Consumer Affairs or his representative for conformity to the provisions of § 20-670 of the Administrative Code.
-
-(g) Any person who shall violate any of these rules and regulations shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
-
-
-
-
-
-
-*§ 4-42 Sale of Hamburger.* ::
-
-
-(a) Any product sold, offered, exposed or advertised for sale as hamburger shall conform to the requirements of § 20-668 of the Administrative Code of the City of New York (definition of hamburger).
-
-(b) The term "burger" whether used separately, or in conjunction with another term, shall be applied only to hamburger as defined in § 20-668 of the Administrative Code of the City of New York.
-
-(c) Any sign or poster containing a pictorial representation of a product resembling a hamburger shall be construed to be an offer for sale or advertising for sale of hamburger.
-
-(d) This regulation shall apply only to those products prepared for human consumption which contain meat, or which appear to contain meat.
-
-
-
-
-
-
-
-**Subchapter E: Retail Sales of Petroleum Products**
-
-
-
-*§ 4-51 Testing and Approval of Pumps and Measuring Devices.* ::
-
-
-No person, firm or corporation in the business of selling or offering for sale gasoline or other petroleum products, shall use any pump or measuring device, after installation or repair, unless such device has been tested and approved by the Commissioner of Consumer Affairs or an Inspector of the Department.
-
-
-
-
-
-
-*§ 4-52 Priming of Pumps.* ::
-
-
-Every person, firm or corporation in the business of selling or offering for sale gasoline or other petroleum products for use in a motor vehicle, shall prime each pump every day before serving the public, and shall have an approved and sealed five (5) gallon test measure on the premises to test these pumps daily. The name and address of the premises shall be indelibly imprinted on the five (5) gallon test measure and such markings shall be clear, legible and in letters not less than one inch in height.
-
-
-
-
-
-
-*§ 4-53 Official Seal.* ::
-
-
-The official seal placed on pumps or other measuring devices by an Inspector of the Department, shall not be removed, defaced, or obscured.
-
-
-
-
-
-
-*§ 4-54 Security Seal.* ::
-
-
-The security seal attached to the meter adjustment shall remain unbroken, except that a licensed repairman may break the city seal to make necessary repairs or recalibrations. Immediately upon completion of repair, the licensed repairman shall replace the security seal with his own, bearing proper identification. The repairman shall then notify this Department, in writing, within twenty-four hours, of such repair.
-
-
-
-
-
-
-*§ 4-55 Out-of-Order Pumps.* ::
-
-
-A sign printed with red letters of at least one inch in height, shall be placed over the dial face of any pump which is not in proper working order. The delivery hose must be disconnected therefrom. The sign shall read as follows:
-
-"THIS PUMP IS OUT OF ORDER."
-
-
-
-
-
-
-*§ 4-56 Dispensing Devices.* ::
-
-
-No sale or offer for sale of gasoline or diesel motor fuel shall be made, at retail, from a dispensing device which has a broken interlock and which does not have on its face or dial, in red letters, the following statement, "Gallon and Total Price Indicators Must Be At Zero When Delivery Is Begun, Under Penalty Of Law."
-
-
-
-
-
-
-*§ 4-57 Bottles and Measures.* ::
-
-
-All bottles and measures, used in measuring and selling petroleum products, shall conform to the following specifications:
-
-(a) All bottles must be legal type with a line blown in the bottle, denoting capacity of bottle.
-
-(b) Dented or damaged standard liquid measures are prohibited.
-
-(c) Vendors shall not deliver liquid petroleum products in measures larger than necessary, i.e.:
-
-   1 quart of oil in a 1/2 gallon measure.
-
-   3 quarts of oil in a gallon measure.
-
-
-
-
-
-
-*§ 4-58 Grease Measuring Devices.* ::
-
-
-Grease measuring devices for transmission and differential lubricants.
-
-(a) Each unit must be primed each time before use.
-
-(b) The unit of measure shall be one pint and multiples thereof. Delivery must be made by liquid measure, not pounds.
-
-
-
-
-
-
-*§ 4-59 Inspection Certificates.* ::
-
-
-All owners or users of weighing or measuring devices shall retain, for one year and have available for examination, the inspection certificate issued to them by a Consumer Affairs Inspector, as evidence that these devices have been tested and sealed in accordance with law.
-
-
-
-
-
-
-*§ 4-60 Yard and Delivery Tickets.* ::
-
-
-(a) The driver of each truck making a delivery of gasoline shall be supplied with a yard or delivery ticket, to be kept in his possession until completion of the delivery of the entire load.
-
-(b) Each yard or delivery ticket shall be consecutively numbered.
-
-(c) Each yard or delivery ticket shall indicate clearly the type of gasoline in each compartment.
-
-(d) Yard or delivery tickets shall be made available to Inspectors of the Department at any time during delivery.
-
-(e) The yard or delivery ticket shall be shown to a purchaser upon his or her demand during delivery.
-
-
-
-
-
-
-*§ 4-61 Return and Inspection of Tickets.* ::
-
-
-Upon completion of delivery, the yard or delivery ticket shall be turned in by the driver to the originating terminal, where it shall be kept on file for six (6) months, and shall be made available during business hours, for inspection.
-
-
-
-
-
-
-*§ 4-62 Selector Valves.* ::
-
-
-Selector valves on each truck used for making a delivery of gasoline shall be clearly and indelibly marked and maintained, so that the relationship of the selector valve to the numbered compartment is readily visible.
-
-
-
-
-
-
-*§ 4-63 Signs.* ::
-
-
-(a) Pump-signs.
-
-   (1) Each pump which dispenses gasoline or diesel motor fuel for sale at retail shall display a sign in compliance with the requirements of § 20-672 of the Administrative Code (hereinafter referred to as the "Sign"). The Sign shall be composed of two units, one shall contain the total selling price and the other shall contain the price breakdown box.
-
-   (2) The unit of the Sign setting forth the total selling price shall display the selling price per gallon including all applicable taxes and shall be accompanied by the statement "Includes All Taxes." All numbers used to display the total selling price shall be of uniform size and shall be at least 8 inches in height, and a stroke width of at least 7/8 inch. The statement "Includes All Taxes" shall be in letters of uniform size at least 1/2 inch in height and extending at least 5 1/2 inches.
-
-   (3) The unit of the Sign setting forth the price breakdown box shall be located in the lower right hand corner of the Sign and shall be no less than 6 inches in height and 4 inches in width. The price breakdown box shall include the basic price per gallon, the Federal and State taxes per gallon, the New York City sales tax per gallon, the City lead tax per gallon and the total selling price per gallon. All numbers used in the price breakdown box shall be of uniform size and shall be at least one inch in height with a stroke width of at least 3/16 of an inch.
-
-   (4) Where a tenth of a cent number is used on the Sign, that number must be at least 1/2 the size of the number to which it relates.
-
-   (5) All letters used to explain the information in the price breakdown box of the Sign shall be at least 1/4 inch in height and 1/8 of an inch in width.
-
-   (6) The Sign shall be securely fixed to the pump so that the information may be easily read from the dispensing side of the pump.
-
-   (7) If service of gasoline or diesel motor fuel may be made from more than one side of a pump or dispensing device, the Sign shall be so constructed as to be visible from each side from which dispensing takes place or a Sign shall be posted on each side that dispensing takes place.
-
-   (8) Each pump which dispenses more than two grades of gasoline shall display a sign which shall be not less than 13 inches in height and 26 inches in width and shall contain the total selling price and a price breakdown box for each grade of gasoline dispensed, and shall satisfy the following conditions and paragraphs (4), (6) and (7) of this 6 RCNY § 4-63(a): (i) The width space of the sign shall be equally divided among all of the grades of gasoline dispensed.
-
-      (ii) Each grade subdivision of the sign shall be composed of two units. One shall contain the total selling price and the other shall contain the price breakdown box.
-
-      (iii) The unit of the sign setting forth the total selling price shall display the grades and grade numbers advertised and prices per gallon including all applicable taxes and shall be accompanied by the statement "Includes All Taxes." All numbers used to display the total selling price shall be of uniform size.
-
-      (iv) For signs containing three or more grades of gasoline, the numbers relating to price shall be at least 7 1/2 inches in height and at least 1 1/2 inches in width and a stroke width of 1/2 inch.
-
-      (v) The price breakdown box for each grade subdivision shall be located directly below the total selling price for each grade and grade number advertised and shall be at least 3 3/8 inches in height and as wide as each grade subdivision. The price breakdown box shall include the basic price per gallon, the Federal and State taxes per gallon, the New York City sales tax per gallon, the City lead tax per gallon and the total selling price per gallon. All numbers in the price breakdown box shall be at least 5/8 inch in height and at least 3/8 inch in width with a stroke width of 1/8 inch.
-
-      (vi) All letters used to explain the information in the price breakdown box of the sign shall be at least 1/4 inch in height and at least 1/8 inch in width.
-
-      (vii) All letters and numbers advertising the grades of gasoline dispensed shall be at least one inch in height and at least 1/2 inch in width with a stroke width of at least 1/8 inch. The statement "Includes All Taxes" shall be in letters of uniform size at least one half inch in height.
-
-(b) Petroleum product signs related to price, not located on dispensing equipment.
-
-   (1) Every sign, poster or placard used to display, advertise, or refer to the price of any petroleum product, including gasoline and diesel motor fuel, other than that used on a dispensing device, must clearly display:
-
-      (i) The name, trade name, brand, mark or symbol, and grade or quality classification, if any, and method of processing, of any displayed, advertised, or referred to products, or, if such products are sold without identification, such sign, placard or other display must refer clearly to such products as unbranded;
-
-         (a) If a product displayed, advertised, or referred to is associated with the same brand as the petroleum station offering such product for sale, the name, trade name, brand, mark or symbol of such product may be placed either adjacent to or directly above the grade or quality classification and the price(s) of such product, and all such information shall be deemed to be displayed on the same sign;
-
-         (b) If a product displayed, advertised, or referred to is unbranded or is associated with a different brand than the petroleum station offering such product for sale, the term "unbranded" or the name, trade name, brand, mark or symbol associated with such product must be displayed adjacent to the grade or quality classification and the price(s) of such product;
-
-      (ii) the price, including all applicable taxes, per unit of measure at which such product is customarily sold at retail, which for gasoline or diesel motor fuel must be by gallon;
-
-      (iii) near the price, the legend "Includes All Taxes;"
-
-      (iv) if gasoline is offered for sale, the price of the lowest grade of gasoline offered for sale; and
-
-      (v) if the price charged for a petroleum product displayed, advertised or referred to on the sign, poster or placard varies based on the form of payment, each price charged for that product along with language identifying the product and form or forms of payment associated with each price.
-
-   (2) The total number of signs, posters, and placards used to display, advertise or refer to the price of petroleum products shall not exceed the number of vehicular traffic streets upon which the service station faces. For the purpose of this section, signs used on dispensing devices shall not be included in the number of signs permitted to be displayed and a sandwich or "A" sign, placard, or poster shall be considered one sign.
-
-   (3) Any sign, poster or placard shall be located within the building line of the service station.
-
-   (4) Size requirements for letters and numbers on signs:
-
-      (i) All numbers referring to price must be the same height, width and thickness except when a tenth of a cent number is used, that number must be at least one half the size of the number to which it relates.
-
-      (ii) All letters must be of a height, width, and thickness that is no greater than the size of the largest number on the sign, poster, or placard referring to price.
-
-      (iii) Identification of the petroleum product offered for sale and any non-numerical language distinguishing the prices charged for different forms of payment must be in letters and numbers not less than one-half of the height, width and thickness of the numbers referring to price.
-
-      (iv) All letters and numbers shall be black on a white background or displayed on an illuminated light-emitting diode sign.
-
-
-
-
-
-
-
-
-*§ 4-64 "Fill" and "Stick" Lines – General.* ::
-
-
-The covers of "fill" lines and "stick" lines shall be painted with distinctive colors and, city wide, shall be uniform as to trade name, brand, mark or symbol, and grade or quality classification. The colors on the covers of "fill" and "stick" lines pertaining to the same products shall be identical.
-
-
-
-
-
-
-*§ 4-65 "Fill" and "Stick" Lines – Major Oil Companies.* ::
-
-
-Major oil companies, whose products are sold or offered for sale in the City of New York, shall notify the Department as to the colors currently being used on the covers of "fill" and "stick" lines on premises dispensing their gasoline and diesel motor fuel.
-
-
-
-
-
-
-*§ 4-66 Color Samples.* ::
-
-
-Each company selling gasoline in the City of New York shall supply the Department with one (1) gallon of color sample of each type of gasoline. The color sample may be in either an aqueous solution or in a miscible oil base. Whenever a product is so changed that the color is changed, the company making the change shall supply the Department with a new one (1) gallon sample denoting the new color.
-
-
-
-
-
-
-*§ 4-67 Gauges.* ::
-
-
-Gauges installed where "stick" lines have been sealed pursuant to Fire Department regulations, shall be maintained within a tolerance of 3 percent.
-
-
-
-
-
-
-*§ 4-68 Sale of Petroleum Products Other Than Gasoline and Diesel Motor Fuel.* ::
-
-
-A petroleum product, other than gasoline and diesel motor fuel, shall be sold or offered for sale only in a sealed container if the container of such product has imprinted thereon a name, trade name, brand, mark or symbol or other identification of the product.
-
-
-
-
-
-
-*§ 4-69 Water in Gasoline.* ::
-
-
-(a) Storage tanks on premises from which gasoline or diesel motor fuels are drawn and sold or offered for sale, at retail, for use in motor vehicles shall be checked daily by the operators of the premises for water content. Such test should always be made at a reasonable time after a truck delivery of the product and may be considered as complying with the once-a-day requirement. If one or more inches of water are present in any of the tanks, the operators shall cease dispensing gasoline or diesel oil from those pumps drawing from these storage tanks and shall take immediate steps to remove the water from these storage tanks.
-
-(b) It shall be a violation of these rules and regulations to sell, offer for sale or have available for sale, at retail, for use in a motor vehicle, gasoline or diesel motor fuel from a storage tank, which, on test, is shown to have two or more inches of water.
-
-(c) No operator of service station selling or offering for sale gasoline or diesel motor oil, at retail, for use in a motor vehicle, shall use or allow the use of a dispensing pump which draws gasoline or diesel oil from a storage tank into which a truck is delivering either of these petroleum products.
-
-
-
-
-
-
-*§ 4-70 Octane Posting.* ::
-
-
-(a) Retailers must post the octane rating of all gasoline sold to consumers. The posting is fulfilled by putting at least one label on each face of each gasoline dispenser through which the gasoline is sold. If two or more kinds of gasoline are sold with different octane ratings from a single dispenser, then separate labels must be placed for each kind of gasoline on each face of the dispenser.
-
-(b) (1) The label or labels must be placed conspicuously on the dispenser so as to be in full view of consumers as near as reasonably practical to the price per gallon of the gasoline.
-
-   (2) Petitions for an exemption from the placement requirements are to be submitted in writing to the secretary of the United States Federal Trade Commission. The petition must include the reasons for the desired exemption.
-
-(c) (1) If the gasoline is not blended with other gasoline, then the posting must be consistent with the certified octane rating. If the gasoline is blended with other gasoline, then the posting must be consistent with the determination of the average, weighted by volume, of the certified octane ratings for each gasoline in the blend, or consistent with the lowest octane rating certified for any gasoline in the blend. Whether the gasoline is blended or not, a retailer may choose to post the determination of the octane rating according to the method below, which is in accordance with Part 306.4 of the Federal Trade Commission regulations.
-
-   (2) To Determine Octane Rating.
-
-      (i) Refiners, importers or producers must determine the octane rating of all gasoline before it is transferred. This can be done by the refiner, importer, producer, or through a testing lab.
-
-      (ii) (A) To find the octane rating, add the research octane number and the motor octane number and divide by two as explained by the American Society for Testing and Materials (ASTM) in ASTM-D 439-78, entitled "Standard Specifications for Automotive Gasoline." To determine the research octane number, use ASTM standard test method D 2699-75 and to determine the motor octane number, use ASTM standard test method D 2700-75.
-
-         (B) If ASTM changes these standards, there will be a 30-day comment period, beginning after the Commission publishes the change in the FEDERAL REGISTER. During this time, Commission staff or any person affected by the change may petition the Commission not to adopt the change because it is a change in the procedures for determining octane ratings, or to extend the length of time of the grace period that follows the comment period. If based on comments, the Commission decides to permit incorporation of the change into the rule. The change will become effective 60 days after expiration of the comment period, unless this period is extended by the Commission. If the Commission decides not to permit automatic incorporation, formal procedures may be initiated to evaluate the change.
-
-(d) (1) Retailers must maintain and replace labels as needed to make sure consumers can easily see and read them.
-
-   (2) If the labels are destroyed or are unusable or unreasonable for some unexpected reason, a retailer may post a temporary label as much like the required label as possible. However, the required label must be posted as soon as possible.
-
-   (3) Retailers who receive gasoline from a common carrier, must receive, from the common carrier, a certification of the octane rating of the gasoline, either by letter or on the delivery ticket or other paper.
-
-
-
-
-
-
-*§ 4-71 Octane Posting Labels.* ::
-
-
-All labels must meet the following specifications:
-
-(a) Layout. The label is 3" wide × 2 1/2" long. Helvetica type is used throughout except for the octane rating number which is in Franklin gothic type. Spacing of the label is 1/4" between the top border and the first line of text, 1/8" between the first and second line of text, 1/4" between the octane rating and the line of text above it. All text and numerals are centered within the interior borders.
-
-(b) Type size and setting. The Helvetica series is used for all numbers and letters with the exception of the octane rating number. Helvetica is available in a variety of phototype setting systems and by linotype.The line "MINIMUM OCTANE RATING" is set in 12 point Helvetica Bold, all capitals, with letterspace set at 12 1/2 points. The line "(R M)/2 METHOD" is set in 10 point Helvetica Bold, all capitals, with letterspace set 10 1/2 points. The octane number is set in 96 point Frankl];in gothic condensed with 1/8" space between the numbers.
-
-(c) Colors. The basic color on all labels is process yellow. All type is process black. All borders are process black. Both colors must be non-fade.
-
-(d) Contents. The proper octane rating for each gasoline must be shown. No marks or information other than that called for by this rule may appear on the label.
-
-
-
-
-
-
-
-**Subchapter F: Moisture Content of Processed Meats and Meat Products**
-
-
-
-*§ 4-81 Definitions.* ::
-
-
-Container. "Container" shall mean any carton, box, crate, barrel, half-barrel, hamper, keg, drum, jug, jar, crock, bottle, bag, basket, pail, can, wrapper, parcel or package.
-
-Curing solution. "Curing solution" shall mean the moisture content of a solution, exclusive of any other ingredients which constitute part of the solution, used in the processing of meats and meat products.
-
-Labeling. "Labeling" shall mean a printing, lithographing, embossing or other marking on tags, labels, stickers, seals, wrappers, and receptacles, or a branding.
-
-Person. "Person" shall mean any individual, firm, corporation or association.
-
-Processed meats and meat products. "Processed meats and meat products" shall mean pickled, pumped, cured, or otherwise treated meats and meat products.
-
-Route salesman. "Route salesman" shall mean an employee of a packer, wholesaler or distributor who operates a vehicle loaded with processed meats and meat products owned by his employer and sells and delivers such processed meats and meat products directly off such vehicle.
-
-Sausage. "Sausage" shall mean a meat or meat product, such as "frankfurter," "vienna," "bologna," prepared with meat, or meat and meat by-product, seasoned with condimental proportions of condimental substances.
-
-
-
-
-
-
-*§ 4-82 Labels.* ::
-
-
-(a) Processed meats and meat products of the kind required to be labeled as to moisture content by the Meat Inspection Regulations of the U.S. Department of Agriculture shall be labeled as to moisture content in the manner required by said regulations or with the statement, "not in excess, by weight, of 10 percent of added curing solution or of any other liquid."
-
-(b) Processed meats and meat products of the kind not required to be labeled as to moisture content by the Meat Inspection Regulations of the U.S. Department of Agriculture either may remain unlabeled as to moisture content or, unless prohibited by the Meat Inspection Division of the U.S. Department of Agriculture, may be labeled with the statement, "not in excess, by weight, of 10 percent of added curing solution or of any other liquid," except that processed beef briskets may be labeled with the statement, "not in excess, by weight, of 20 percent of added curing solution or of any other liquid."
-
-
-
-
-
-
-*§ 4-83 Meat and Cheese Products.* ::
-
-
-Processed meats and meat products such as knockwurst and other similar products, headcheese, souse, sulze, scrapple, blood pudding, liver pudding, non-specific loaves, chile con carne, and meat and cheese products when prepared with sufficient cheese to give definite characteristics to the finished products shall not be subject to the moisture content limitations of this subchapter. The Commissioner shall have the power to exempt from the maximum moisture content requirements of this subchapter other similar processed meats and meat products which, upon investigation, warrant such exemption.
-
-
-
-
-
-
-*§ 4-84 Invoices.* ::
-
-
-Every retailer, wholesaler, distributor or jobber receiving processed meats and meat products for resale shall be furnished, at the time of delivery, an invoice stating the net weight of the processed meats and meat products so delivered and containing the statement, "not in excess, by weight, of 10 percent of added curing solution or of any other liquid," except that, for processed beef briskets received by such purchaser, the invoice shall state the net weight and contain the statement, "not in excess, by weight, of 20 percent of added curing solution or of any other liquid." In lieu of said statements as to moisture content, the invoice may contain the statement, "all products comply with applicable maximum moisture requirements of New York City Law."
-
-
-
-
-
-
-*§ 4-85 Inspection of Invoices.* ::
-
-
-Every retailer, wholesaler, distributor or jobber shall have available for inspection by the Commissioner or his authorized representatives all invoices for the processed meats and meat products sold or offered for sale at his establishment at the time of inspection.
-
-
-
-
-
-
-*§ 4-86 Labeler Identified.* ::
-
-
-Processed meats and meat products labeled by a person other than the retailer, shall have on the labels the name and address of the person labeling these products or the official inspection or Health Department permit number of the establishment in which said products were labeled. Processed beef briskets, tongues and other similar processed meats and meat products shall be branded or labeled as to the identity of the processor, packer or wholesaler.
-
-
-
-
-
-
-*§ 4-87 Wholesale Labels.* ::
-
-
-Containers of processed meats and meat products which are not individually labeled, when sold or offered for sale at wholesale, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82. In lieu of such moisture content labeling, said containers may be labeled with the statement, "all products comply with applicable maximum moisture requirements of New York City Law."
-
-
-
-
-
-
-*§ 4-88 Delivery Invoices and Inventory Sheets.* ::
-
-
-Every person transporting or delivering processed meats or meat products shall have available for inspection by the Commissioner or his authorized representatives all purchase and sales invoices of such processed meats or meat products. Every route salesman shall, in lieu of such invoices, have available for such inspection a written inventory of all the processed meats and meat products originally loaded on the vehicle operated by him and all invoices of his sales therefrom. All such invoices and inventory sheets shall contain the statement or statements required by 6 RCNY § 4-84.
-
-
-
-
-
-
-*§ 4-89 Bulk Parts and Cuts.* ::
-
-
-Every bulk part or cut of a processed meat and meat product, offered for sale or sold at retail, shall be labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82 and such labeling as to moisture content shall be identical to the labeling of the whole processed meat or meat product, except that a clear and conspicuous placard or sign stating that "all products comply with applicable maximum moisture requirements of New York City Law," at or near such meat, shall be sufficient to fulfill the requirements of this rule and regulation.
-
-
-
-
-
-
-*§ 4-90 Retail Containers.* ::
-
-
-An individual processed meat or meat product, in a consumer size container, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82. The label on such a container shall bear the name and address of the packer, manufacturer, distributor or wholesaler, or the official inspection or Health Department permit number of the establishment in which the product was packaged in such container.
-
-
-
-
-
-
-*§ 4-91 Variations in Moisture Content.* ::
-
-
-A variation of plus or minus two percent of added curing solution or of any other liquid from the 10 percent, by weight, allowed by law may be permitted in an individual processed sausage sample, provided, however, that consistent plus one to two percent variations shall be deemed to be violations of §§ 20-677 and 20-678 of the Administrative Code.
-
-
-
-
-
-
-*§ 4-92 Display and Legibility.* ::
-
-
-The labeling of processed meats and meat products shall be legible, conspicuous and prominently displayed.
-
-
-
-
-
-
-*§ 4-93 Punishment.* ::
-
-
-Any person who shall violate any such rules and regulations shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
-
-
-
-
-
-
-*§ 4-94 Violations.* ::
-
-
-Any person who shall violate any such rules and regulations shall be guilty of an offense triable by a magistrate, and punishable by a fine of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense or by imprisonment not exceeding ten days, or by both.
-
-
-
-
-
-
-
-**Subchapter G: Etching Acids**
-
-
-
-*§ 4-100 Valid Photo Identification.* ::
-
-
-The valid photo identification that a dealer of etching acid shall request from each purchaser of etching acid must:
-
-(a) be issued by a government entity, including a foreign government or a duly accredited educational institution,
-
-(b) be issued as a tamper-proof document, and
-
-(c) include the name, date of birth and photograph of the person it identifies.
-
-
-
-
-
-
-*§ 4-101 Purchasing Records to be Maintained.* ::
-
-
-(a)  A dealer of etching acid shall record the following information about each sale of etching acid:
-
-   1. the date of the sale;
-
-   2. the name and age of the purchaser as shown on the valid identification provided by the buyer;
-
-   3. a complete description of the valid identification document that was accepted, including the name of the issuing agency, the type of identification document, the expiration date of the document, and any identification number or code appearing on the document;
-
-   4. the amount of etching acid sold to the purchaser; and
-
-   5. the unit price of the etching acid and the total cost of the purchase.
-
-(b) The above information shall be:
-
-   1. recorded in writing on a separate page for each transaction and kept in chronological order by the date of each sale, either in a bound volume or in a separate file, where only such documents are retained; or
-
-   2. retained in an electronic format and maintained in a data base from which the information can be retrieved by the date of the sale, the identity of the purchaser and the type of identification that was used.
-
-
-
-
-
-
-*§ 4-102 Posting of Notice.* ::
-
-
-(a)  The notice of the required information must be conspicuously posted at the point of sale, shall include a statement that reads substantially as follows and shall be printed as indicated in brackets: "NOTICE TO ETCHING ACID PURCHASERS: [To be printed in capital letters in 16-point bold-faced type] You are required by law to furnish us with a valid, government-issued photo identification card, and we are required to record and maintain personal information about you that identifies you. [To be printed in 14-point type]
-
-(b) The sign shall be sufficiently large to contain the statement in the specified print size.
-
-
-
-
-
-
-
-**Subchapter H: Perishable Foods**
-
-
-
-*§ 4-111 Definitions.* ::
-
-
-For the purposes of the application of these 6 RCNY §§ 4-111 through 4-114 (unless the context indicates otherwise) the following definitions apply:
-
-Sell or offer to sell. "Sell" or "offer to sell" shall mean the act of selling, displaying, or offering for sale by a retailer or retail entity to the public for off-premises human consumption.
-
-
-
-
-
-
-*§ 4-112 Display of Required Information.* ::
-
-
-(a) On the containers of all foods specified in 6 RCNY § 4-113 there shall be stamped, printed or otherwise plainly and conspicuously marked, a statement indicating recommended conditions and methods of storage.
-
-(b) On the containers of all foods specified in 6 RCNY § 4-113 there shall be stamped, printed or otherwise plainly and conspicuously marked either the last day or date of sale or the last day or date for recommended usage.
-
-(c) The information required in subdivisions (a) and (b) of this 6 RCNY § 4-112 shall be clearly marked on each and every package or item as follows:
-
-   (1) the information shall appear on the top cover or principal panel of its container, or, on a label affixed thereto; or
-
-   (2) a notice shall appear on the top cover or principal panel or on a label affixed thereto indicating the location on the package of such information.
-
-
-
-
-
-
-*§ 4-113 Perishable Foods Covered.* ::
-
-
-The following commodities shall be labeled in accordance with the provisions of § 20-685 of the Administrative Code "Perishable foods," and 6 RCNY § 4-112 governing the labeling of perishable foods:
-
-(a) Eggs – Grade AA, Grade A and Grade B shell eggs.
-
-(b) All pre-packaged, fully or partially prepared baked goods, which have a moisture content exceeding 18 per cent, with or without additives known as:
-
-   (1) Bread, rolls and buns as defined in Title 21, Chapter 1, Part 17 of the Code of Federal Regulations, except those products traditionally known as "fruit-cake"
-
-   (2) Cakes, pastries and cookies, except those that are offered for sale in individual, portionpack, snack type packages;
-
-   (3) English muffins, corn muffins, bran muffins and other similar products.
-
-(c) The following pre-packaged dairy and dairy-type products:
-
-   (1) Those products with or without additives or flavorings, known as cheese, as defined in Title 21, Chapter 1, Part 19, §§ 19.499 through 19.685 of the Code of Federal Regulations, that contain 50 per cent or more moisture in the finished product.
-
-   (2) Low-fat, multi-vitamin, multi-mineral type milk products, which are normally stored at temperatures between 32 degrees Fahrenheit and 40 degrees Fahrenheit;
-
-   (3) Flavored milk;
-
-   (4) Cultured milk, cultured milk products, cultured skim-milk and cultured skim milk products, with or without fruits, vegetables, meats or cheeses, or other additives;
-
-   (5) Milk shake;
-
-   (6) Eggnog;
-
-   (7) Yogurt, made from skim-milk or whole milk, with or without fruits, vegetables, meats or other additives;
-
-   (8) Whipped cream and instant whipped cream;
-
-   (9) Sour cream, cultured cream, salad cream, and non-cultured sour cream, with or without fruits, vegetables, meats or cheese or other additives;
-
-   (10) Sour half and half, cultured half and half, non-cultured sour half and half and non-cultured half and half;
-
-   (11) Dairy dressing, and dairy dip;
-
-   (12) Non-dairy coffee creamers which are normally stored at temperatures between 32 degrees Fahrenheit and 40 degrees Fahrenheit.
-
-(d) All pre-packaged, prepared foods which require refrigeration.
-
-
-
-
-
-
-*§ 4-114 Exemptions.* ::
-
-
-(a) This subchapter shall not include any product stored in a retail store at or below a temperature of 32 degrees Fahrenheit, in accordance with the recommendations of the manufacturer or processor.
-
-(b) This subchapter shall not include any product hereinabove designated which is sterilized when hermetically sealed and packaged and is so maintained until the time of sale by a retailer to the public.
-
-(c) This subchapter shall not include products made from products after the date marked where such secondary products are the result of an additional processing stage.
-
-(d) Upon written application to the Commissioner, and upon a showing of exceptional circumstances, a manufacturer or processor may be granted an extension in writing, not to exceed six months, in which to comply, in whole or in part, with the requirements of 6 RCNY § 4-112. In the event that a manufacturer or processor has substantially complied with 6 RCNY § 4-112 during the previously granted extension period, but exceptional circumstances exist which render full compliance during the extension period impossible, impracticable, or create undue financial hardship, a manufacturer or processor may apply in writing to the Commissioner for an additional final extension in order to fully comply with 6 RCNY § 4-112. Any request for an additional final extension must be supported by evidence of exceptional circumstances and substantial compliance during the previously granted extension period. The granting of a further extension, if any, shall be in the discretion of the Commissioner.
-
-
-
-
-
-
-
-**Subchapter I: List of All Populations of Endangered Or Threatened Species**
-
-
-
-*§ 4-120 Definitions.* ::
-
-
-(a)  Terms used in this subchapter shall have the meanings specified in § 20-698 of the New York City Administrative Code.
-
-(b) Whenever used in this subchapter, the term:
-
-   (1) "All populations" means every member of the species identified as an endangered or threatened species wherever such members are found.
-
-   (2) "Endangered or threatened species list" or "list" means the information published by the commissioner on the department's website that references endangered or threatened species and that specifically identifies which of such species includes all populations.
-
-
-
-
-
-
-*§ 4-121 Publication of Endangered or Threatened Species List.* ::
-
-
-(a)  The commissioner shall publish the endangered or threatened species list by April 1, 2005 and annually thereafter on the same date or on the first business day thereafter on the website of the department. Such list shall be published in English and in Chinese.
-
-(b) The endangered or threatened species list shall:
-
-   (1) include a description of the contents of, and a link to, the website of the New York Department of Environmental Conservation that identifies all endangered or threatened species; and
-
-   (2) identify by common name such of the endangered or threatened species that includes all populations.
-
-
-
-
-
-
-*§ 4-122 Selection of Species Including All Populations.* ::
-
-
-The commissioner shall, prior to the publication of the endangered or threatened species list, determine which of the threatened and endangered species includes all populations, and shall identify such species by common name in the endangered or threatened species list.
-
-
-
-
-
-
-*§ 4-123 Identification of Prohibited Products.* ::
-
-
-(a)  Any product that is labeled, advertised or described as containing any part or ingredient derived from a species identified as including all populations in the endangered or threatened species list shall be subject to the prohibitions specified in § 20-699 of the New York City Administrative Code.
-
-(b) Any member, or any part derived from a member of an endangered or threatened species identified by the common or scientific name that is listed on the website of the New York State Department of Environmental Conservation, which will be linked to the website of the department, shall be subject to the prohibitions specified in § 20-699 of the New York City Administrative Code.
-
-
-
-
 Chapter 3: Weights and Measures
 --------------------------------------------------
 
@@ -2497,537 +1608,515 @@ Any person engaged in the business of delivering fuel oil to purchasers in the C
 
 
 
-Chapter 7: Office of Labor Policy and Standards
+Chapter 4: Market Regulations
 --------------------------------------------------
 
 
 
 
-**Subchapter A: Office of Labor Policy and Standards**
+**Subchapter A: Repairs of Second-hand Weighing Or Measuring Devices**
 
 
 
-*7-101 Definitions.* ::
+*§ 4-01 Removal of New York City Security Seal.* ::
 
 
-(a) As used in this subchapter, the following terms have the following meanings:
+Immediately upon the completion of any repairs, or replacement or servicing of any component parts thereof, the licensed repairman shall replace the New York City security seal affixed to a weighing or measuring device.
 
-   "Employee" means any person who meets the definition of "employee," as defined by Section 20-912 of the Code, "eligible grocery employee," as defined by Section 22-507 of the Code, "fast food employee," as defined by Section 20-1201 or 20-1301 of the Code, or "retail employee," as defined by Section 20-1201 of the Code.
 
-   "Employer" means any person who meets the definition of "employer," as defined by Section 20-912 of the Code, "successor grocery employer" or "incumbent grocery employer," as defined by Section 22-507 of the Code, "fast food employer," as defined by Section 20-1201 or 20-1301 of the Code, or "retail employer," as defined by Section 20-1201 of the Code.
 
-   "Freelancers Law and rules" means Chapter 10 of Title 20 of the Code and Subchapter E of this chapter.
 
-   "OLPS laws and rules" means Chapters 8, 12, and 13 of Title 20 and Section 22-507 of the Code and Subchapters A, B, D, F, and G of this chapter.
 
-   "Transportation Benefits Law and rules" means Chapter 9 of Title 20 of the Code and Subchapter C of this chapter.
 
-(b) As used in the OLPS laws and rules, the following terms have the following meanings:
+*§ 4-02 Repairman's Security Seal.* ::
 
-   "Code" means the Administrative Code of the City of New York.
 
-   "Department" means the New York City Department of Consumer Affairs.
+The licensed repairman shall replace the New York City security seal with a security seal, bearing the name or initials of the licensed repairman (company) and his or its license number. Said security seal shall have such information clearly and legibly imprinted on each side of the security seal on the sides visible to any interested person.
 
-   "Director" means the director of the office of labor standards established, pursuant to Section 20-a of the charter.
 
-   "Joint employer" means each of two or more employers who has some control over the work or working conditions of an employee or employees. Joint employers may be separate and distinct individuals or entities with separate owners, managers and facilities. A determination of whether or not a joint employment relationship exists will not often be decided by the application of any single criterion; rather the entire relationship shall be viewed in its totality.
 
-   "Office" means the office of labor standards established, pursuant to Section 20-a of the New York City Charter and referred to as the Office of Labor Policy and Standards.
 
-   "Supplements" means all remuneration for employment paid in any medium other than cash, or reimbursement for expenses, or any payments which are not ‘wages' within the meaning of the New York State Labor Law, including, but not limited to, health, welfare, non-occupational disability, retirement, vacation benefits, holiday pay, life insurance, and apprenticeship training.
 
-   "Temporary help firm" means an employer that recruits and hires its own employees and assigns those employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages, or seasonal workloads; or (iii) perform special assignments or projects.
 
-   "Work week" means a fixed and regularly recurring period of 168 hours or seven consecutive 24 hour periods; it may begin on any day of the week and any hour of the day, and need not coincide with a calendar week.
+*§ 4-03 Use of Initials, Abbreviations, Trademarks and Logos.* ::
 
-   "Written" or "writing" means a hand-written or machine-printed or printable communication in physical or electronic format, including a communication that is maintained or transmitted electronically, such as a text message.
 
+Any licensed repairman who elects to use initials, abbreviations, trademarks or logos in lieu of his or its full company name, may only do so by first notifying the Commissioner, in writing, in duplicate, of its intention to do so. Said notification must contain an exact replica of the initials, abbreviations, trademark or logo desired. If approved by the Commissioner, one copy of said notification will be returned by the Commissioner to the licensed repairman. The license number must be used in conjunction with said initials, abbreviation, trademark or logo.
 
 
 
 
 
 
+*§ 4-04 Employees' Identification Number or Letter.* ::
 
-*§ 7-102 Construction.* ::
 
+Each licensed repairman (company) shall, if he or it employs more than one repairman or serviceman, assign an identification number or letter to each such individual. Said identification number or letter must also be imprinted upon the security seal in addition to the information required in 6 RCNY § 4-02.
 
-This chapter shall be liberally construed to permit the Office to accomplish the purposes contained in Section 20-a of the New York City Charter. The provisions of this subchapter shall not be construed to supersede any other provision of the OLPS laws and rules, the Freelancers Law and rules, or the Transportation Benefits Law and rules.
 
 
 
 
 
+*§ 4-05 New Repairmen and Servicemen.* ::
 
 
+Each licensed repairman (company) shall notify the Commissioner, in writing, in duplicate, within three (3) business days of the employment of a new repairman or serviceman, and of the number or letter assigned to said employee. The Commissioner shall acknowledge receipt of said notification by return of the duplicate copy to the licensed repairman. Said receipted copies shall be retained by the licensed repairman for a period of two (2) years.
 
-*§ 7-103 Severability.* ::
 
 
-The rules contained in this chapter shall be separate and severable. If any word, clause, sentence, paragraph, subdivision, section, or portion of these rules or the application thereof to any person, employer, employee, or circumstance is contrary to a Local, State or Federal law or held to be invalid, it shall not affect the validity of the remainder of the rules or the validity of the application of the rules to other persons or circumstances.
 
 
 
+*§ 4-06 Cumulative List of Employees. [Repealed]* ::
 
 
+The sign required to be posted pursuant to § 10-134.2 of the Administrative Code of the City of New York shall contain only the following notice within a black bordered box, with the names and titles of the current City officials set off in a separate box. The italicized text included below is instructional, and is not intended to be part of the text required to be included in the sign.
 
+WARNING-LASER POINTERS: Selling or giving a laser pointer to anyone 18 years of age or under is PROHIBITED BY LAW and punishable as a MISDEMEANOR [to be in 54-point type].
 
+New York City Administrative Code Sec. 10-134.2 [in 16-point italic type].
 
-*§ 7-104 Complainants and Witnesses.* ::
+[Insert Name], Commissioner [in 16-point bold type] Department of Consumer Affairs [in 16-point type]
 
+[Insert Name], Commissioner [in 16-point bold type] Police Department [in 16-point type]
 
-(a) All people, regardless of immigration status, may access resources provided by the Office.
+City of New York [in 16-point bold type] [Insert name], Mayor
 
-(b) Any person who meets the definition of employee in 6 RCNY § 7-101 is entitled to the rights and protections provided by this Subchapter to employees and any applicable provision of the OLPS laws and rules, regardless of immigration status.
 
-(c) The Office shall conduct its work without inquiring into the immigration status of complainants and witnesses.
 
-(d) The Office shall maintain confidential the identity of a complainant or natural person providing information relevant to enforcement of the OLPS laws and rules and the Transportation Benefits Law and rules, unless disclosure is necessary for resolution of the investigation or matter, or otherwise required by law, and the Office, to the extent practicable, notifies such complainant or natural person that the Office will be disclosing such person's identity before such disclosure.
 
-(e) For purposes of effectuating subdivision (d) of this section, the Office shall keep confidential any information that may be used to identify, contact, or locate a single person, or to identify an individual in context.
 
 
+*§ 4-11 Size of Sign.* ::
 
 
+The sign containing the information specified in 6 RCNY § 4-10 shall not be smaller than eleven inches in length and eight and one-half inches in height, and the letters shall be printed in the font type identified above in italics.
 
 
 
 
-*§ 7-105 Joint Employers.* ::
 
 
-(a) Joint employers are individually and jointly liable for violations of all applicable OLPS laws and rules and satisfaction of any penalties or restitution imposed on a joint employer for any violation thereof, regardless of any agreement among joint employers to the contrary.
+*§ 4-12 Posting of Signs.* ::
 
-(b) A joint employer must count every employee it employs for hire or permits to work, whether joint or not, in determining the number of employees employed for hire or permitted to work for the employer. For example, a joint employer who employs three workers from a temporary help firm and also has three permanent employees under its sole control has six employees for purposes of the OLPS laws and rules.
 
+The sign required to be posted pursuant to § 10-134.2 of the Administrative Code of the City of New York shall be conspicuously placed within ten feet of a retailer's cash register(s), and shall be clearly visible to consumers prior to the time they pay for their merchandise.
 
 
 
 
 
 
+*§ 4-15 Number of Signs.* ::
 
-*§ 7-106 Determining Damages Based on Lost Earnings.* ::
 
+A retailer shall post a sign at each cash register, except that for cash registers that are placed adjacent to each other, a retailer shall post a sign for every group of four such adjacent cash registers.
 
-(a) The following provisions apply to the extent necessary in circumstances described in paragraphs (1) and (2) below for the calculation of damages based on lost earnings in an administrative enforcement action:
 
-   (1) When an employer pays a flat rate of pay for work performed, regardless of the number of hours actually worked, an employee's hourly rate of pay shall be based on the most recent hourly rate paid to the employee for the applicable pay period, calculated by adding together the employee's total earnings, including tips, commissions, and supplements, for the most recent work week in which no sick time or other leave was taken and dividing that sum by the number of hours spent performing work during such work week or forty hours, whichever amount of hours is less.
 
-   (2) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the hourly rate of pay shall be the rate of pay that the employee would have been paid during the time that employee would have been performing work but for the employee's absence.
 
-(b) If the methods for calculating the hourly rate described in subdivision (a) produce an hourly rate that is below the full hourly minimum wage, then the employee's lost earnings shall be based on the full hourly minimum wage.
 
 
+*§ 4-16 Signs in Foreign Languages.* ::
 
 
+The signs required to be posted pursuant to § 10-134.2 of the Administrative Code of the City of New York shall be in English and shall also be in any other language which the retailer uses to attract customers or to transact business.
 
 
 
 
-*§ 7-107 Required Notices and Postings.* ::
 
 
-(a) For any notice created by the Office that is made available on the City's website and that is then required by a provision of the OLPS laws and rules to be provided to an employee or posted in the workplace, an employer must provide and/or post such notice in English and in any language spoken as a primary language by at least five percent of employees at the employer's location, provided that the Director has made the notice available in such language. Employers covered by the Earned Safe and Sick Time Act, Chapter 8 of Title 20 of the Code, are required to comply with this subdivision in addition to the requirement, pursuant to Section 20-919 of the Code that an employer provide the notice of rights in an employee's primary language.
 
-(b) (1) For any notice that is not created by the Office and made available on the City's website, that is required to be provided to an employee and/or posted in the workplace by a provision of the OLPS laws and rules, an employer must provide and/or post such notice in English and in any language that the employer customarily uses to communicate with the employee.
+**Subchapter B*: Language Assistance Notices At Pharmacies**
 
-   (2) For any notice that is not created by the Office and made available on the City's website, that is required to be posted in the workplace by a provision of the OLPS laws and rules, an employer must post such notice in English and in any language that the employer customarily uses to communicate with any of the employees at that location.
 
-(c) Any notice, policy, or other writing that is required by a provision of the OLPS laws and rules to be personally provided to an employee must be provided by a method that reasonably ensures personal receipt by the employee and that is consistent with any other applicable law or rule that specifically addresses a method of delivery.
 
-(d) Any notice, policy or, other writing that is required to be posted, pursuant to a provision of the OLPS laws and rules must be posted in a printed format in a conspicuous place accessible to employees where notices to employees are customarily posted, pursuant to State and Federal laws and, except for notices created by the Office, in a form customarily used by the employer to communicate with employees.
+*§ 4-11* Content and Form of Language Assistance Sign.* ::
 
-(e) An employer that places employees to perform work off-site or at dispersed job-sites, such as in private homes, building security posts, or on delivery routes, must comply with any applicable requirement to post a notice, policy or other writing contained in the OLPS laws and rules by providing employees with the required notice personally upon commencement of employment, within fourteen (14) days of the effective date of any changes to the required posting, and upon request by the employee, in addition to the requirements in subdivision (c) of this section.
 
+(a)  The sign required to be posted at chain pharmacies pursuant to § 20-623 of the administrative code of the City of New York to inform limited English-proficient individuals of their rights to language assistance in the seven languages identified biennially by the Department of City Planning shall include the following statement in English and in each of the languages listed: "Point to your language. Language assistance will be provided at no cost to you."
 
+(b) The statement in each of the required languages shall be in 20 point bold faced, Arial type in a color that sharply contrasts with the background color of the sign. Each such statement shall be enclosed in a box, and there shall be at least a 1/4 inch clear space between adjacent boxes.
 
+(c) The statements in all of the required languages shall be printed on one sign that shall be conspicuously displayed on or at each counter where prescription drug orders are dropped off, where they are picked up, and near every cash register where prescription drugs are paid for. Such signs shall be positioned so that a consumer can easily point to the statement identifying the language in which such person is requesting assistance.
 
 
 
 
 
-*§ 7-108 Retaliation.* ::
 
 
-(a) No person shall take any adverse action against an employee that penalizes an employee for, or is reasonably likely to deter an employee from, exercising or attempting to exercise rights under the OLPS laws and rules or interfere with an employee's exercise of rights under the OLPS laws and rules.
+**Subchapter D: Hamburger and Chopped Meat**
 
-(b) Taking an adverse action includes, but is not limited to threatening, intimidating, disciplining, discharging, demoting, suspending, or harassing an employee, reducing the hours of pay of an employee, informing another employer than an employee has engaged in activities protected by the OLPS laws and rules, discriminating against the employee, including actions related to perceived immigration status or work authorization, and maintenance or application of an absence control policy that counts protected leave as an absence that may lead to or result in an adverse action.
 
-(c) An employee need not explicitly refer to a provision of the OLPS laws and rules to be protected from an adverse action.
 
-(d) The Office may establish a causal connection between the exercise, attempted exercise, or anticipated exercise of rights protected by the OLPS laws and rules and an employer's adverse action against an employee or a group of employees by indirect or direct evidence.
+*§ 4-41 Custom Meat Grinding.* ::
 
-(e)  For purposes of this section, retaliation is established when the Office shows that a protected activity was a motivating factor for an adverse action, whether or not other factors motivated the adverse action.
 
+(a) Custom grinding is defined as a grinding, on the premises, of meat purchased either prepackaged or cut to order and ground at the request of the customer.
 
+(b) Meat grinders used for custom grinding shall be so situated that the customer can have a clear and unobstructed view of the grinding from a position not more than 10 feet from the meat grinder.
 
+(c) No box, carton, package, sign, or other material object shall be so placed as to prevent a meat grinder, used for custom grinding, from being in a clear and unobstructed view of the public.
 
+(d) Where a glass partition or other panel is between the meat-grinder and the customer, such partition or panel must be removed at the time of the custom grinding. If the glass is of the transparent type it need not be removed.
 
+(e) At no time between the purchase of meat and the delivery of the custom ground meat shall the meat be removed from the clear and unobstructed view of the customer.
 
+(f) The location of each meat grinder used for custom grinding shall be inspected by the Commissioner of Consumer Affairs or his representative for conformity to the provisions of § 20-670 of the Administrative Code.
 
+(g) Any person who shall violate any of these rules and regulations shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
 
-*§ 7-109 Enforcement and Penalties.* ::
 
 
-(a) The Office may open an investigation to determine compliance with laws enforced by the Office on its own initiative or based on a complaint, except as otherwise provided by Section 20-1309 of Chapter 13 of Title 20 of the Code.
 
-(b) Whether it was issued in person, via mail, or, on written consent of the employer, email, an employer must respond to a written request for information or records by providing the Office with true, accurate, and contemporaneously-made records or information within the following timeframes, except as provided in subdivision (c) of this section, subdivision (c) of Section 20-924 of the Code, 6 RCNY § 7-213 or other applicable law:
 
-   (1) For an initial request for information or records, the employer shall
 
-      i. Within ten (10) days of the date that the request for information was received by the employer provide the following information, if applicable:
+*§ 4-42 Sale of Hamburger.* ::
 
-         A. the employer's correct legal name and business form;
 
-         B. the employer's trade name or DBA;
+(a) Any product sold, offered, exposed or advertised for sale as hamburger shall conform to the requirements of § 20-668 of the Administrative Code of the City of New York (definition of hamburger).
 
-         C. the names and addresses of other businesses associated with the employer;
+(b) The term "burger" whether used separately, or in conjunction with another term, shall be applied only to hamburger as defined in § 20-668 of the Administrative Code of the City of New York.
 
-         D. the employer's Federal Employer Identification Number;
+(c) Any sign or poster containing a pictorial representation of a product resembling a hamburger shall be construed to be an offer for sale or advertising for sale of hamburger.
 
-         E. the employer's addresses where business is conducted;
+(d) This regulation shall apply only to those products prepared for human consumption which contain meat, or which appear to contain meat.
 
-         F. the employer's headquarters and principal place of business addresses;
 
-         G. the name, phone number, email address, and mailing address of the owners, officers, directors, principals, members, partners and/or stockholders of more than 10 percent of the outstanding stock of the employer business and their titles;
 
-         H. the name, phone number, email address, and mailing address of the individuals who have operational control over the business;
 
-         I. the name, phone number, email address, and mailing address of the individuals who supervise employees;
 
-         J. the name and contact information of the individual who the office should contact regarding an investigation of the business and an affirmation granting authority to act; and
 
-      ii. Within fourteen (14) days of the date of that the initial request for information or records was received, provide the remaining information or records requested in that initial request.
 
-   (2) For all requests for information or records after the initial request, an employer must respond within the timeframe prescribed by the Office in the request, which shall not exceed fourteen (14) days from the date that the request was received by the employer, unless a longer timeframe has been agreed to by the Office.
+**Subchapter E: Retail Sales of Petroleum Products**
 
-   (3) Upon good cause shown, the Director may extend response timeframes required, pursuant to this subdivision.
 
-(c) An employer shall respond to a written request for information or records by providing the Office with true, accurate, and contemporaneously-made records or information in a lesser amount of time than provided in paragraphs 2 and 3 of subdivision b of this section if agreed to by the parties or the Office has reason to believe that:
 
-   (1) The employer will destroy or falsify records;
+*§ 4-51 Testing and Approval of Pumps and Measuring Devices.* ::
 
-   (2) The employer is closing, selling, or transferring its business, disposing of assets or is about to declare bankruptcy;
 
-   (3) The employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, OLPS laws and rules, the Freelancers Law and rules, or the Transportation Benefits Law and rules; or
+No person, firm or corporation in the business of selling or offering for sale gasoline or other petroleum products, shall use any pump or measuring device, after installation or repair, unless such device has been tested and approved by the Commissioner of Consumer Affairs or an Inspector of the Department.
 
-   (4) More immediate access to records is necessary to prevent or remedy retaliation against employees.
 
-(d) In accordance with applicable law, the Office may resolve or attempt to resolve an investigation at any point through settlement upon terms that are satisfactory to the Office.
 
-(e) The Office may issue a notice of violation to an employer who fails to provide true and accurate information or records requested by the Office in connection with an investigation.
 
-(f) An employer who fails to timely and fully respond to the request for information or records that is the subject of a notice of violation issued under subdivision (e) of this section on or before the first scheduled appearance date is subject to a penalty of five hundred dollars, in addition to any penalties or remedies imposed as a result of the Office's investigation.
 
-(g) The employer may cure a notice of violation issued in accordance with subdivision (e) of this section without the penalty imposed in connection with subdivision (f) by:
 
-   (1) producing the requested information or records on or before the first scheduled appearance date; or
+*§ 4-52 Priming of Pumps.* ::
 
-   (2) resolving, to the satisfaction of the Office on or before the first scheduled appearance date, the investigation that is the basis for the request for information or records.
 
-(h) A finding that an employer has an official or unofficial policy or practice that denies a right established or protected by the OLPS laws and rules shall constitute a violation of the applicable provision of the OLPS laws and rules for each and every employee subject to such policy or practice.
+Every person, firm or corporation in the business of selling or offering for sale gasoline or other petroleum products for use in a motor vehicle, shall prime each pump every day before serving the public, and shall have an approved and sealed five (5) gallon test measure on the premises to test these pumps daily. The name and address of the premises shall be indelibly imprinted on the five (5) gallon test measure and such markings shall be clear, legible and in letters not less than one inch in height.
 
 
 
 
 
 
+*§ 4-53 Official Seal.* ::
 
 
-*§ 7-110 Service.* ::
+The official seal placed on pumps or other measuring devices by an Inspector of the Department, shall not be removed, defaced, or obscured.
 
 
-Service of documents issued by the Office to employers, including written requests for information or records and notices of violation, shall be made in a manner reasonably calculated to achieve actual notice to the employer. The following are presumed to be reasonably calculated to achieve actual notice: (i) personal service on the employer; (ii) personal service on the employer by regular first-class mail, certified mail, return receipt requested, or private mail delivery services, such as UPS, to an employer's last known business address; or (iii) if an employer has so consented, facsimile, email, including an attachment to an email.
 
 
 
 
+*§ 4-54 Security Seal.* ::
 
 
+The security seal attached to the meter adjustment shall remain unbroken, except that a licensed repairman may break the city seal to make necessary repairs or recalibrations. Immediately upon completion of repair, the licensed repairman shall replace the security seal with his own, bearing proper identification. The repairman shall then notify this Department, in writing, within twenty-four hours, of such repair.
 
 
-*§ 7-111 Recordkeeping.* ::
 
 
-(a) An employer's failure to maintain, retain, or produce a record that is required to be maintained under the OLPS laws and rules that is relevant to a material fact alleged by the Office in a notice of violation issued, pursuant to a provision of the OLPS laws and rules creates a reasonable inference that such fact is true, unless a rebuttable presumption or other adverse inference is provided by applicable law.
 
-(b) An employer that produces records to the department or Office in response to a request for information affirms that the records produced are true and accurate.
 
+*§ 4-55 Out-of-Order Pumps.* ::
 
 
+A sign printed with red letters of at least one inch in height, shall be placed over the dial face of any pump which is not in proper working order. The delivery hose must be disconnected therefrom. The sign shall read as follows:
 
+"THIS PUMP IS OUT OF ORDER."
 
 
 
 
 
-**Subchapter B: Earned Safe and Sick Time**
 
+*§ 4-56 Dispensing Devices.* ::
 
 
-*§ 7-201 Definitions.* ::
+No sale or offer for sale of gasoline or diesel motor fuel shall be made, at retail, from a dispensing device which has a broken interlock and which does not have on its face or dial, in red letters, the following statement, "Gallon and Total Price Indicators Must Be At Zero When Delivery Is Begun, Under Penalty Of Law."
 
 
-(a) As used in this chapter, the terms "calendar year," "employee," "employer," "health care provider," "paid safe/sick time," "safe time," and "sick time" shall have the same meanings as set forth in Section 20-912 of the Administrative Code.
 
-(b) As used in the Earned Safe and Sick Time Act and in this subchapter, the term "domestic worker" means a person who provides care for a child, companionship for a sick, convalescing or elderly person, housekeeping, or any other domestic service in a home or residence whenever such person is directly and solely employed to provide such service by an individual or private household. The term "domestic worker" does not include any person who is employed by an agency whenever such person provides services as an employee of such agency, regardless of whether such person is jointly employed by an individual or private household in the provision of such services.
 
 
 
+*§ 4-57 Bottles and Measures.* ::
 
 
+All bottles and measures, used in measuring and selling petroleum products, shall conform to the following specifications:
 
+(a) All bottles must be legal type with a line blown in the bottle, denoting capacity of bottle.
 
+(b) Dented or damaged standard liquid measures are prohibited.
 
-*§ 7-202 Business Size.* ::
+(c) Vendors shall not deliver liquid petroleum products in measures larger than necessary, i.e.:
 
+   1 quart of oil in a 1/2 gallon measure.
 
-(a) Business size for an employer that has operated for less than one year shall be determined by counting the number of employees performing work for an employer for compensation per week, provided that if the number of employees fluctuates between less than five employees and five or more employees per week, business size may be determined for the current calendar year based on the average number of employees per week who worked for compensation for each week during the 80 days immediately preceding the date the employee used safe time or sick time.
+   3 quarts of oil in a gallon measure.
 
-(b) Business size for an employer that has operated for one year or more is determined by counting the number of employees working for the employer per week at the time the employee uses safe time or sick time, unless the number of employees fluctuates, in which case business size may be determined for the current calendar year based on the average number of employees per week during the previous calendar year. For purposes of this section, "fluctuates" means that at least three times in the most recent calendar quarter the number of employees working for an employer fluctuated between less than five employees and five or more employees.
 
 
 
 
 
+*§ 4-58 Grease Measuring Devices.* ::
 
 
+Grease measuring devices for transmission and differential lubricants.
 
-*§ 7-203 Employees.* ::
+(a) Each unit must be primed each time before use.
 
+(b) The unit of measure shall be one pint and multiples thereof. Delivery must be made by liquid measure, not pounds.
 
-An individual is "employed for hire within the City of New York for more than eighty hours in a calendar year" for purposes of Section 20-912(f) of the Administrative Code if the individual performs work, including work performed by telecommuting, for more than eighty hours while the individual is physically located in New York City, regardless of where the employer is located.
 
-i. Example: An individual who only performs work while physically located outside of New York City, even if the employer is based in New York City, is not "employed for hire within the City of New York" for purposes of Section 20-912(f) for hours worked outside New York City.
 
-ii. Example: An individual performs twenty hours of work in New Jersey and sixty hours of work in New York City in a calendar year. The twenty hours of work performed by the employee in New Jersey do not count towards the employee's eighty hours of work for purposes of Section 20-912(f).
 
 
 
+*§ 4-59 Inspection Certificates.* ::
 
 
+All owners or users of weighing or measuring devices shall retain, for one year and have available for examination, the inspection certificate issued to them by a Consumer Affairs Inspector, as evidence that these devices have been tested and sealed in accordance with law.
 
 
 
-*§ 7-204 Minimum Increments and Fixed Intervals for the Use of Safe Time and Sick Time.* ::
 
 
-(a) Unless otherwise in conflict with State or Federal law or regulations, an employee may decide how much earned safe time or sick time to use, provided however, that an employer may set a minimum increment for the use of safe time and sick time, not to exceed four hours per day, provided such minimum increment is reasonable under the circumstances.
 
-   (i) Example: An employee has worked eighty hours and more than one hundred twenty calendar days have passed since the employee's first day of work for the employer. The employer has set a minimum increment of four hours per day for use of safe time and sick time. The employee has not yet accrued four hours of time, but is entitled to use the time he or she has already accrued. Under these circumstances, it would not be "reasonable under the circumstances" for the employer to require the employee to use a minimum of four hours of safe time or sick time as the minimum increment.
+*§ 4-60 Yard and Delivery Tickets.* ::
 
-   (ii) Example: An employee is scheduled to work from 8:00 A.M. to 4:00 P.M. Mondays. She schedules a doctor's appointment for 9:00 A.M. on a Monday and notifies her employer of her intent to use sick time and return to work the same day. The employer's written sick time policies require a four hour minimum increment of sick time used per day. If she does not go to work before her appointment, she should appear for work by 12:00 P.M.
 
-(b) An employer may set fixed periods of thirty minutes or any smaller amount of time for the use of accrued safe time or sick time beyond the minimum increment described in subdivision (a) of this section and may require fixed start times for such intervals.
+(a) The driver of each truck making a delivery of gasoline shall be supplied with a yard or delivery ticket, to be kept in his possession until completion of the delivery of the entire load.
 
-   Example: The employee in Example (ii) of subdivision (a) of this section arrives to work at 12:17 P.M. Under her employer's written sick time policies, employees must use sick time in half-hour intervals that start on the hour or half-hour. The employer can require the employee to use four-and-a-half hours of her accrued sick time and require her to begin work at 12:30 P.M. Similarly, if the employee wanted to leave work at 8:40 A.M. to go to her 9:00 A.M. doctor's appointment, the employer could require the employee to stop work at 8:30 A.M.
+(b) Each yard or delivery ticket shall be consecutively numbered.
 
+(c) Each yard or delivery ticket shall indicate clearly the type of gasoline in each compartment.
 
+(d) Yard or delivery tickets shall be made available to Inspectors of the Department at any time during delivery.
 
+(e) The yard or delivery ticket shall be shown to a purchaser upon his or her demand during delivery.
 
 
 
 
 
-*§ 7-205 Employee Notification of Use of Safe Time or Sick Time.* ::
 
+*§ 4-61 Return and Inspection of Tickets.* ::
 
-(a) An employer may require an employee to provide reasonable notice of the need to use safe time or sick time.
 
-(b) An employer that requires notice of the need to use safe time or sick time where the need is not foreseeable shall provide a written policy that contains procedures for the employee to provide notice as soon as practicable. Examples of such procedures may include, but are not limited to, instructing the employee to: (1) call a designated phone number at which an employee can leave a message; (2) follow a uniform call-in procedure; or (3) use another reasonable and accessible means of communication identified by the employer. Such procedures for employees to give notice of the need to use safe time or sick time when the need is not foreseeable may not include any requirement that an employee appear in person at a worksite or deliver any document to the employer prior to using safe time or sick time.
+Upon completion of delivery, the yard or delivery ticket shall be turned in by the driver to the originating terminal, where it shall be kept on file for six (6) months, and shall be made available during business hours, for inspection.
 
-(c) In determining when notice is practicable in a given situation, an employer must consider the individual facts and circumstances of the situation.
 
-(d) An employer that requires notice of the need to use safe time or sick time where the need is foreseeable shall have a written policy for the employee to provide reasonable notice. Such policy shall not require more than seven days’ notice prior to the date such safe time or sick time is to begin. The employer may require that such notice be in writing.
 
 
 
 
+*§ 4-62 Selector Valves.* ::
 
 
+Selector valves on each truck used for making a delivery of gasoline shall be clearly and indelibly marked and maintained, so that the relationship of the selector valve to the numbered compartment is readily visible.
 
 
-*§ 7-206 Documentation from Licensed Health Care Provider.* ::
 
 
-(a) When an employee’s use of sick time results in an absence of more than three consecutive work days, an employer may require reasonable written documentation that the use of sick time was for a purpose authorized under Section 20-914(a) of the Administrative Code. Written documentation signed by a licensed health care provider indicating the need for the amount of sick time taken shall be considered reasonable documentation. “Work days” as used in this subdivision and in Section 20-914(a)(2) of the Administrative Code means the days or parts of days the employee would have worked had the employee not used sick time.
 
-(b) If an employer requires an employee to provide written documentation from a licensed health care provider when the employee’s use of sick time resulted in an absence of more than three consecutive work days, the employee shall be allowed a minimum of seven days from the date he or she returns to work to obtain such documentation. The employee is responsible for the cost of such documentation not covered by insurance or any other benefit plan.
 
-(c) If an employee provides written documentation from a licensed health care provider in accordance with subdivision (a) of this section, an employer may not require an employee to obtain documentation from a second licensed health care provider indicating the need for sick time in the amount used by the employee.
+*§ 4-63 Signs.* ::
 
 
+(a) Pump-signs.
 
+   (1) Each pump which dispenses gasoline or diesel motor fuel for sale at retail shall display a sign in compliance with the requirements of § 20-672 of the Administrative Code (hereinafter referred to as the "Sign"). The Sign shall be composed of two units, one shall contain the total selling price and the other shall contain the price breakdown box.
 
+   (2) The unit of the Sign setting forth the total selling price shall display the selling price per gallon including all applicable taxes and shall be accompanied by the statement "Includes All Taxes." All numbers used to display the total selling price shall be of uniform size and shall be at least 8 inches in height, and a stroke width of at least 7/8 inch. The statement "Includes All Taxes" shall be in letters of uniform size at least 1/2 inch in height and extending at least 5 1/2 inches.
 
+   (3) The unit of the Sign setting forth the price breakdown box shall be located in the lower right hand corner of the Sign and shall be no less than 6 inches in height and 4 inches in width. The price breakdown box shall include the basic price per gallon, the Federal and State taxes per gallon, the New York City sales tax per gallon, the City lead tax per gallon and the total selling price per gallon. All numbers used in the price breakdown box shall be of uniform size and shall be at least one inch in height with a stroke width of at least 3/16 of an inch.
 
+   (4) Where a tenth of a cent number is used on the Sign, that number must be at least 1/2 the size of the number to which it relates.
 
+   (5) All letters used to explain the information in the price breakdown box of the Sign shall be at least 1/4 inch in height and 1/8 of an inch in width.
 
-*§ 7-207 Domestic Workers.* ::
+   (6) The Sign shall be securely fixed to the pump so that the information may be easily read from the dispensing side of the pump.
 
+   (7) If service of gasoline or diesel motor fuel may be made from more than one side of a pump or dispensing device, the Sign shall be so constructed as to be visible from each side from which dispensing takes place or a Sign shall be posted on each side that dispensing takes place.
 
-(a) Domestic workers who have worked for the same employer for at least one year and who work more than 80 hours in a calendar year will be entitled to two days of paid safe/sick time per year, as provided in this section.
+   (8) Each pump which dispenses more than two grades of gasoline shall display a sign which shall be not less than 13 inches in height and 26 inches in width and shall contain the total selling price and a price breakdown box for each grade of gasoline dispensed, and shall satisfy the following conditions and paragraphs (4), (6) and (7) of this 6 RCNY § 4-63(a): (i) The width space of the sign shall be equally divided among all of the grades of gasoline dispensed.
 
-(b) The two days of paid safe/sick time must be calculated in the manner that paid days of rest for domestic workers are calculated, pursuant to New York State Labor Law Section 161(1).
+      (ii) Each grade subdivision of the sign shall be composed of two units. One shall contain the total selling price and the other shall contain the price breakdown box.
 
-(c) A domestic worker described in subdivision (a) of this section is entitled to two days of paid safe/sick time on the next date that such domestic worker is entitled to a paid day or days of rest under New York State Labor Law Section 161(1), and annually thereafter.
+      (iii) The unit of the sign setting forth the total selling price shall display the grades and grade numbers advertised and prices per gallon including all applicable taxes and shall be accompanied by the statement "Includes All Taxes." All numbers used to display the total selling price shall be of uniform size.
 
-(d) Safe time and sick time accrued by a domestic worker will carry over to the next calendar year.
+      (iv) For signs containing three or more grades of gasoline, the numbers relating to price shall be at least 7 1/2 inches in height and at least 1 1/2 inches in width and a stroke width of 1/2 inch.
 
+      (v) The price breakdown box for each grade subdivision shall be located directly below the total selling price for each grade and grade number advertised and shall be at least 3 3/8 inches in height and as wide as each grade subdivision. The price breakdown box shall include the basic price per gallon, the Federal and State taxes per gallon, the New York City sales tax per gallon, the City lead tax per gallon and the total selling price per gallon. All numbers in the price breakdown box shall be at least 5/8 inch in height and at least 3/8 inch in width with a stroke width of 1/8 inch.
 
+      (vi) All letters used to explain the information in the price breakdown box of the sign shall be at least 1/4 inch in height and at least 1/8 inch in width.
 
+      (vii) All letters and numbers advertising the grades of gasoline dispensed shall be at least one inch in height and at least 1/2 inch in width with a stroke width of at least 1/8 inch. The statement "Includes All Taxes" shall be in letters of uniform size at least one half inch in height.
 
+(b) Petroleum product signs related to price, not located on dispensing equipment.
 
+   (1) Every sign, poster or placard used to display, advertise, or refer to the price of any petroleum product, including gasoline and diesel motor fuel, other than that used on a dispensing device, must clearly display:
 
+      (i) The name, trade name, brand, mark or symbol, and grade or quality classification, if any, and method of processing, of any displayed, advertised, or referred to products, or, if such products are sold without identification, such sign, placard or other display must refer clearly to such products as unbranded;
 
+         (a) If a product displayed, advertised, or referred to is associated with the same brand as the petroleum station offering such product for sale, the name, trade name, brand, mark or symbol of such product may be placed either adjacent to or directly above the grade or quality classification and the price(s) of such product, and all such information shall be deemed to be displayed on the same sign;
 
-*§ 7-208 Rate of Pay for Safe Time and Sick Time.* ::
+         (b) If a product displayed, advertised, or referred to is unbranded or is associated with a different brand than the petroleum station offering such product for sale, the term "unbranded" or the name, trade name, brand, mark or symbol associated with such product must be displayed adjacent to the grade or quality classification and the price(s) of such product;
 
+      (ii) the price, including all applicable taxes, per unit of measure at which such product is customarily sold at retail, which for gasoline or diesel motor fuel must be by gallon;
 
-(a) Except as provided in subdivision (b) of this section, when using paid safe/sick time, an employee shall be compensated at the same hourly rate that the employee would have earned at the time the paid safe/sick time is taken.
+      (iii) near the price, the legend "Includes All Taxes;"
 
-(b) If the employee uses paid safe/sick time during hours that would have been designated as overtime, the employer is not required to pay the overtime rate of pay.
+      (iv) if gasoline is offered for sale, the price of the lowest grade of gasoline offered for sale; and
 
-(c) An employee is not entitled to compensation for lost tips or gratuities, provided, however, that an employer must pay an employee whose hourly rate of pay or salary is based in whole or in part on tips or gratuities at least the full minimum wage.
+      (v) if the price charged for a petroleum product displayed, advertised or referred to on the sign, poster or placard varies based on the form of payment, each price charged for that product along with language identifying the product and form or forms of payment associated with each price.
 
-(d) For employees who are paid on a commission (whether base wage plus commission or commission only), the hourly rate of pay shall be the base wage or minimum wage, whichever is greater.
+   (2) The total number of signs, posters, and placards used to display, advertise or refer to the price of petroleum products shall not exceed the number of vehicular traffic streets upon which the service station faces. For the purpose of this section, signs used on dispensing devices shall not be included in the number of signs permitted to be displayed and a sandwich or "A" sign, placard, or poster shall be considered one sign.
 
-(e) When an employer pays a flat rate of pay for work performed, regardless of the number of hours actually worked, an employee's hourly rate of pay shall be based on the most recent hourly rate paid to the employee for the applicable pay period, calculated by adding together the employee's total earnings, including tips, commissions, and supplements, for the most recent work week in which no safe time or sick time or other leave was taken and dividing that sum by the number of hours spent performing work during such work week or forty hours, whichever amount of hours is less.
+   (3) Any sign, poster or placard shall be located within the building line of the service station.
 
-(f) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the rate of pay shall be the rate of pay that the employee would have been paid during the time the employee used the safe time or sick time.
+   (4) Size requirements for letters and numbers on signs:
 
-(g) An employer is not required to pay cash in lieu of supplements for safe time or sick time used if remuneration for employment includes supplements. The fact that an employer pays cash in lieu of supplements to an employee does not relieve the employer of the requirements of the Earned Safe and Sick Time Act.
+      (i) All numbers referring to price must be the same height, width and thickness except when a tenth of a cent number is used, that number must be at least one half the size of the number to which it relates.
 
-(h) Under no circumstance can the employer pay the employee less than the minimum wage for paid safe/sick time.
+      (ii) All letters must be of a height, width, and thickness that is no greater than the size of the largest number on the sign, poster, or placard referring to price.
 
+      (iii) Identification of the petroleum product offered for sale and any non-numerical language distinguishing the prices charged for different forms of payment must be in letters and numbers not less than one-half of the height, width and thickness of the numbers referring to price.
 
+      (iv) All letters and numbers shall be black on a white background or displayed on an illuminated light-emitting diode sign.
 
 
 
 
 
 
-*§ 7-209 Payment of Safe/Sick Time.* ::
 
 
-(a) Safe time and sick time must be paid no later than the payday for the next regular payroll period beginning after the safe time or sick time was used by the employee.
+*§ 4-64 "Fill" and "Stick" Lines – General.* ::
 
-(b) If the employer has asked for written documentation or verification of use of safe time or sick time, pursuant to Section 20-914(a), 20-914(b) or 20-914(d) of the Administrative Code, the employer is not required to pay safe time or sick time until the employee has provided such documentation or verification.
 
+The covers of "fill" lines and "stick" lines shall be painted with distinctive colors and, city wide, shall be uniform as to trade name, brand, mark or symbol, and grade or quality classification. The colors on the covers of "fill" and "stick" lines pertaining to the same products shall be identical.
 
 
 
 
 
 
+*§ 4-65 "Fill" and "Stick" Lines – Major Oil Companies.* ::
 
-*§ 7-210 Employer's Sale of Business.* ::
 
+Major oil companies, whose products are sold or offered for sale in the City of New York, shall notify the Department as to the colors currently being used on the covers of "fill" and "stick" lines on premises dispensing their gasoline and diesel motor fuel.
 
-(a) If an employer sells its business or the business is otherwise acquired by another business, an employee will retain and may use all accrued safe time and sick time if the employee continues to perform work within the City of New York for the successor employer.
 
-(b) If the successor employer has fewer than five employees, and the former employer had more than five employees, the employee is entitled to use and be compensated for unused safe time and sick time accrued while working for the former employer, until such safe time and sick time is exhausted.
 
-(c) A successor employer must provide employees with its written safe time and sick time policies at the time of sale or acquisition, or as soon as practicable thereafter, which shall include a policy that complies with this section.
 
 
 
+*§ 4-66 Color Samples.* ::
 
 
+Each company selling gasoline in the City of New York shall supply the Department with one (1) gallon of color sample of each type of gasoline. The color sample may be in either an aqueous solution or in a miscible oil base. Whenever a product is so changed that the color is changed, the company making the change shall supply the Department with a new one (1) gallon sample denoting the new color.
 
 
 
-*§ 7-211 Employer’s Written Safe Time and Sick Time Policies.* ::
 
 
-(a) Every employer shall maintain written safe time and sick time policies in a single writing and follow such written safe time and sick time policies except as allowed in subdivision (d) of this section.
 
-(b) Every employer must distribute its written safe time and sick time policies personally upon commencement of employment, within 14 days of the effective date of any changes to the policy, and upon request by the employee.
+*§ 4-67 Gauges.* ::
 
-(c) An employer's written safe time and sick time policies must meet or exceed all of the requirements of the Earned Safe and Sick Time Act and this chapter and state at a minimum:
 
-   (1) The employer's method of calculating safe time and sick time as follows:
+Gauges installed where "stick" lines have been sealed pursuant to Fire Department regulations, shall be maintained within a tolerance of 3 percent.
 
-      (i) If an employer provides employees with an amount of safe time and sick time that meets or exceeds the requirements of the Earned Safe and Sick Time Act on or before the employee's 120th day of employment and on the first day of each new calendar year, which for the purposes of this section is defined as "frontloaded safe time and sick time," then the employer's written safe time and sick time policy must specify the amount of frontloaded safe time and sick time to be provided;
 
-      (ii) If the employer does not apply frontloaded safe time and sick time, then the employer's written safe time and sick time policy must specify when accrual of safe time and sick time starts, the rate at which an employee accrues safe time and sick time and the maximum number of hours an employee may accrue in a calendar year;
 
-   (2) The employer's policies regarding the use of safe time and sick time, including any limitations or conditions the employer places on the use of safe time and sick time, such as:
 
-      (i) Any requirement that an employee provide notice of a need to use safe time and sick time and the procedures for doing so in accordance with 6 RCNY § 7-205;
 
-      (ii) Any requirement for written documentation or verification of the use of safe time and sick time in accordance with Sections 20-914(a)(2), 20-914(b)(2), or 20-914(d) of the Administrative Code, and the employer's policy regarding any consequences of an employee's failure or delay in providing such documentation or verification;
 
-      (iii) Any reasonable minimum increment or fixed period for the use of accrued safe time and sick time;
+*§ 4-68 Sale of Petroleum Products Other Than Gasoline and Diesel Motor Fuel.* ::
 
-      (iv) Any policy on discipline for employee misuse of safe time and sick time under 6 RCNC § 7-215; and
 
-      (v) A description of the confidentiality requirements of Section 20-921 of the Administrative Code.
+A petroleum product, other than gasoline and diesel motor fuel, shall be sold or offered for sale only in a sealed container if the container of such product has imprinted thereon a name, trade name, brand, mark or symbol or other identification of the product.
 
-   (3) The employer's policy regarding carry-over of unused safe time and sick time at the end of an employer's calendar year in accordance with Section 20-913(h) of the Administrative Code; and,
 
-   (4) If an employer uses a term other than "safe/sick time" or "safe and sick time" to describe leave provided by the employer to meet the requirements of the Earned Safe and Sick Time Act, the employer's policy must state that such leave may be used by an employee for any of the purposes set forth in the Earned Safe and Sick Time Act without any condition prohibited by the Earned Safe and Sick Time Act. Terms used to describe such leave may include, but are not necessarily limited to, "paid time off" ("PTO"), vacation time, personal days, or days of rest.
 
-(d) Nothing in this chapter shall prevent an employer from making exceptions to its written safe time and sick time policy for individual employees that are more generous to the employee than the terms of the employer's written policy.
 
-(e) Requirements relating to an employer's additional and separate obligation to provide employees with a Notice of Rights under the Earned Safe and Sick Time Act are set forth in Section 20-919 of the Administrative Code. An employer may not distribute the Notice of Rights required by Section 20-919 of the Administrative Code or any other department writing in lieu of distributing or posting its own written safe time and sick time policies as required by this section.
 
-(f) An employer that has not provided to the employee a copy of its written safe time and sick time policies along with any forms or procedures required by the employer related to the use of safe time and sick time shall not deny safe time or sick time or payment of safe time or sick time to the employee based on non-compliance with such a policy.
 
+*§ 4-69 Water in Gasoline.* ::
 
 
+(a) Storage tanks on premises from which gasoline or diesel motor fuels are drawn and sold or offered for sale, at retail, for use in motor vehicles shall be checked daily by the operators of the premises for water content. Such test should always be made at a reasonable time after a truck delivery of the product and may be considered as complying with the once-a-day requirement. If one or more inches of water are present in any of the tanks, the operators shall cease dispensing gasoline or diesel oil from those pumps drawing from these storage tanks and shall take immediate steps to remove the water from these storage tanks.
 
+(b) It shall be a violation of these rules and regulations to sell, offer for sale or have available for sale, at retail, for use in a motor vehicle, gasoline or diesel motor fuel from a storage tank, which, on test, is shown to have two or more inches of water.
 
+(c) No operator of service station selling or offering for sale gasoline or diesel motor oil, at retail, for use in a motor vehicle, shall use or allow the use of a dispensing pump which draws gasoline or diesel oil from a storage tank into which a truck is delivering either of these petroleum products.
 
 
 
-*§ 7-212 Employer Records.* ::
 
 
-(a) Employers must retain records demonstrating compliance with the requirements of the Earned Safe and Sick Time Act, including records of any policies required, pursuant to this Chapter, for a period of three years unless otherwise required by any other law, rule or regulation.
 
-(b) An employer must maintain, in an accessible format, contemporaneous, true, and accurate records that show, for each employee:
+*§ 4-70 Octane Posting.* ::
 
-   (1) The employee's name, address, phone number, date(s) of start of employment, date(s) of end of employment (if any), rate of pay, and whether the employee is exempt from the overtime requirements of New York State labor laws and regulations;
 
-   (2) The hours worked each week by the employee, unless the employee is exempt from the overtime requirements of New York State labor laws and regulations and has a regular work week of forty hours or more;
+(a) Retailers must post the octane rating of all gasoline sold to consumers. The posting is fulfilled by putting at least one label on each face of each gasoline dispenser through which the gasoline is sold. If two or more kinds of gasoline are sold with different octane ratings from a single dispenser, then separate labels must be placed for each kind of gasoline on each face of the dispenser.
 
-   (3) The date and time of each instance of safe time or sick time used by the employee and the amount paid for each instance;
+(b) (1) The label or labels must be placed conspicuously on the dispenser so as to be in full view of consumers as near as reasonably practical to the price per gallon of the gasoline.
 
-   (4) Any change in the material terms of employment specific to the employee; and
+   (2) Petitions for an exemption from the placement requirements are to be submitted in writing to the secretary of the United States Federal Trade Commission. The petition must include the reasons for the desired exemption.
 
-   (5) The date that the Notice of Rights as set forth in Section 20-919 of the Administrative Code was provided to the employee and proof that the Notice of Rights was received by the employee.
+(c) (1) If the gasoline is not blended with other gasoline, then the posting must be consistent with the certified octane rating. If the gasoline is blended with other gasoline, then the posting must be consistent with the determination of the average, weighted by volume, of the certified octane ratings for each gasoline in the blend, or consistent with the lowest octane rating certified for any gasoline in the blend. Whether the gasoline is blended or not, a retailer may choose to post the determination of the octane rating according to the method below, which is in accordance with Part 306.4 of the Federal Trade Commission regulations.
 
-(c) If the office issues a written request for information or records, an employer shall provide the office with such information or records, upon appropriate notice, at the department's office. Alternately, an employer shall provide the office with access to such information or records upon appropriate notice and at a mutually agreeable time of day at the employer's place of business.
+   (2) To Determine Octane Rating.
 
-(d) "Appropriate notice" shall mean 30 days' written notice, unless the employer agrees to a lesser amount of time, the office's request for the information or records is a second or subsequent request made to the same employer during the same investigation or case as the first request, or the office has reason to believe that:
+      (i) Refiners, importers or producers must determine the octane rating of all gasoline before it is transferred. This can be done by the refiner, importer, producer, or through a testing lab.
 
-   (1) the employer will destroy or falsify records;
+      (ii) (A) To find the octane rating, add the research octane number and the motor octane number and divide by two as explained by the American Society for Testing and Materials (ASTM) in ASTM-D 439-78, entitled "Standard Specifications for Automotive Gasoline." To determine the research octane number, use ASTM standard test method D 2699-75 and to determine the motor octane number, use ASTM standard test method D 2700-75.
 
-   (2) the employer is closing, selling or transferring its business, disposing of assets or is about to declare bankruptcy;
+         (B) If ASTM changes these standards, there will be a 30-day comment period, beginning after the Commission publishes the change in the FEDERAL REGISTER. During this time, Commission staff or any person affected by the change may petition the Commission not to adopt the change because it is a change in the procedures for determining octane ratings, or to extend the length of time of the grace period that follows the comment period. If based on comments, the Commission decides to permit incorporation of the change into the rule. The change will become effective 60 days after expiration of the comment period, unless this period is extended by the Commission. If the Commission decides not to permit automatic incorporation, formal procedures may be initiated to evaluate the change.
 
-   (3) the employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, or an OLPS law or rule; or
+(d) (1) Retailers must maintain and replace labels as needed to make sure consumers can easily see and read them.
 
-   (4) more immediate access to records is necessary to prevent retaliation against employees.
+   (2) If the labels are destroyed or are unusable or unreasonable for some unexpected reason, a retailer may post a temporary label as much like the required label as possible. However, the required label must be posted as soon as possible.
 
-(e) The office will make two attempts by letter, email or telephone to arrange a mutually agreeable time of day for the employer to provide access to its records in accordance with subdivision (d) of this section. If these attempts are not successful, the office may set a time to access records at the employer's place of business during regular business hours, upon two days' notice.
+   (3) Retailers who receive gasoline from a common carrier, must receive, from the common carrier, a certification of the octane rating of the gasoline, either by letter or on the delivery ticket or other paper.
 
 
 
 
 
 
+*§ 4-71 Octane Posting Labels.* ::
 
 
-*§ 7-213 Enforcement and Penalties.* ::
+All labels must meet the following specifications:
 
+(a) Layout. The label is 3" wide × 2 1/2" long. Helvetica type is used throughout except for the octane rating number which is in Franklin gothic type. Spacing of the label is 1/4" between the top border and the first line of text, 1/8" between the first and second line of text, 1/4" between the octane rating and the line of text above it. All text and numerals are centered within the interior borders.
 
-(a) A finding that an employer has an official or unofficial policy or practice of not providing or refusing to allow the use of safe time or sick time as required under the Earned Safe and Sick Time Act constitutes a violation of Section 20-913 of the Administrative Code for each and every employee affected by the policy and will be subject to penalties as provided in Section 20-924(e) of the Code.
+(b) Type size and setting. The Helvetica series is used for all numbers and letters with the exception of the octane rating number. Helvetica is available in a variety of phototype setting systems and by linotype.The line "MINIMUM OCTANE RATING" is set in 12 point Helvetica Bold, all capitals, with letterspace set at 12 1/2 points. The line "(R M)/2 METHOD" is set in 10 point Helvetica Bold, all capitals, with letterspace set 10 1/2 points. The octane number is set in 96 point Frankl];in gothic condensed with 1/8" space between the numbers.
 
-(b) For purposes of Section 20-924(e) of the Administrative Code, penalties shall be imposed on a per employee basis.
+(c) Colors. The basic color on all labels is process yellow. All type is process black. All borders are process black. Both colors must be non-fade.
 
-(c) If an employer, as a matter of policy or practice, does not allow accrual of safe time and sick time as required under the Earned Safe and Sick Time Act, the relief granted to each and every employee affected by the policy or practice must include either application of 40 hours of safe time and sick time to the employee's safe time and sick time balance or, where such information is known, application of the number of hours of safe time and sick time the employee should have accrued to the employee's safe time and sick time balance, provided that such balance does not exceed 80 hours.
+(d) Contents. The proper octane rating for each gasoline must be shown. No marks or information other than that called for by this rule may appear on the label.
 
 
 
@@ -3035,223 +2124,217 @@ ii. Example: An individual performs twenty hours of work in New Jersey and sixty
 
 
 
+**Subchapter F: Moisture Content of Processed Meats and Meat Products**
 
-*§ 7-214 Accrual, Hours Worked and Carry Over.* ::
 
 
-(a) If an employee is scheduled and available to work for an on-call shift and is compensated for the scheduled time regardless of whether the employee works, the scheduled time constitutes hours worked for the purposes of accrual under the Earned Safe and Sick Time Act.
+*§ 4-81 Definitions.* ::
 
-(b) For employees who are paid on a piecework basis, accrual of safe time and sick time is measured by the actual length of time spent performing work.
 
-(c) For employees who are paid on a commission basis, accrual of safe time and sick time is measured by the actual length of time spent performing work.
+Container. "Container" shall mean any carton, box, crate, barrel, half-barrel, hamper, keg, drum, jug, jar, crock, bottle, bag, basket, pail, can, wrapper, parcel or package.
 
-(d) For employees with indeterminate shift lengths (e.g. a shift defined by business needs), an employer shall base the hours of safe time or sick time used upon the hours worked by the replacement employee for the same shift. If this method is not possible, the hours of safe time or sick time must be based on the hours worked by the employee when the employee most recently worked the same shift in the past.
+Curing solution. "Curing solution" shall mean the moisture content of a solution, exclusive of any other ingredients which constitute part of the solution, used in the processing of meats and meat products.
 
-(e) If an employee is rehired within six months of separation from employment and had not reached the required 120 days to begin using accrued safe time and sick time under Section 20-913(d)(1) of the Administrative Code at the time the employee separated from employment, upon resumption of employment, the employee shall be credited at least his or her previous calendar days towards the 120 day waiting period. For the purposes of this subdivision, "waiting period" shall mean the time period described in Section 20-913(d)(1) of the Administrative Code between the start of employment and the 120th calendar day following the start of employment or July 30, 2014, whichever is later, except for that an employer is not required to allow an employee to begin to use safe time before May 5, 2018.
+Labeling. "Labeling" shall mean a printing, lithographing, embossing or other marking on tags, labels, stickers, seals, wrappers, and receptacles, or a branding.
 
-(f) An employee may carry over up to 40 hours of unused safe and sick time from one calendar year to the next, unless the employer has a policy of paying employees for unused safe time and sick time at the end of the calendar year in which such time is accrued and providing the employee with an amount of paid safe time and sick time that meets or exceeds the requirements of the Earned Safe and Sick Time Act for such employee for the immediately subsequent calendar year on the first day of such year in accordance with Section 20-913(h) of the Administrative Code. Regardless of the number of hours an employee carried over from the previous calendar year, an employer is only required to allow employees to accrue up to 40 hours of safe time and sick time in a calendar year. If an employee's safe time and sick time balance exceeds 40 hours in a single calendar year, an employer is only required to allow the employee to use up to 40 hours in such calendar year.
+Person. "Person" shall mean any individual, firm, corporation or association.
 
-   Example: An employee accrues 40 hours of safe time and sick time in calendar year one and uses 20 hours of safe time and sick time in calendar year one. She carries over 20 hours from calendar year one to calendar year two, accrues 40 hours in calendar year two, and does not use any hours in calendar year two. Her safe time and sick leave balance at the end of calendar year two is 60 hours (20 hours from calendar year two plus 40 hours from calendar year two). She may carry over 40 of those 60 hours into calendar year three and accrue another 40 hours in calendar year three.
+Processed meats and meat products. "Processed meats and meat products" shall mean pickled, pumped, cured, or otherwise treated meats and meat products.
 
+Route salesman. "Route salesman" shall mean an employee of a packer, wholesaler or distributor who operates a vehicle loaded with processed meats and meat products owned by his employer and sells and delivers such processed meats and meat products directly off such vehicle.
 
+Sausage. "Sausage" shall mean a meat or meat product, such as "frankfurter," "vienna," "bologna," prepared with meat, or meat and meat by-product, seasoned with condimental proportions of condimental substances.
 
 
 
 
 
 
-*§ 7-215 Employee Abuse of Safe Time and Sick Time.* ::
+*§ 4-82 Labels.* ::
 
 
-An employer may take disciplinary action, up to and including termination, against an employee who uses safe time or sick time provided under the Earned Safe and Sick Time Act for purposes other than those described in Sections 20-914(a) and Section 20-914(b) of the Administrative Code. Indications of abuse of safe time and sick time may include, but are not limited to a pattern of: (1) use of unscheduled safe time and sick time on or adjacent to weekends, regularly scheduled days off, holidays, vacation or pay day, (2) taking scheduled safe time and sick time on days when other leave has been denied, and (3) taking safe time and sick time on days when the employee is scheduled to work a shift or perform duties perceived as undesirable.
+(a) Processed meats and meat products of the kind required to be labeled as to moisture content by the Meat Inspection Regulations of the U.S. Department of Agriculture shall be labeled as to moisture content in the manner required by said regulations or with the statement, "not in excess, by weight, of 10 percent of added curing solution or of any other liquid."
 
+(b) Processed meats and meat products of the kind not required to be labeled as to moisture content by the Meat Inspection Regulations of the U.S. Department of Agriculture either may remain unlabeled as to moisture content or, unless prohibited by the Meat Inspection Division of the U.S. Department of Agriculture, may be labeled with the statement, "not in excess, by weight, of 10 percent of added curing solution or of any other liquid," except that processed beef briskets may be labeled with the statement, "not in excess, by weight, of 20 percent of added curing solution or of any other liquid."
 
 
 
 
 
 
+*§ 4-83 Meat and Cheese Products.* ::
 
 
-**Subchapter C: Transportation Benefits**
+Processed meats and meat products such as knockwurst and other similar products, headcheese, souse, sulze, scrapple, blood pudding, liver pudding, non-specific loaves, chile con carne, and meat and cheese products when prepared with sufficient cheese to give definite characteristics to the finished products shall not be subject to the moisture content limitations of this subchapter. The Commissioner shall have the power to exempt from the maximum moisture content requirements of this subchapter other similar processed meats and meat products which, upon investigation, warrant such exemption.
 
 
 
-*§ 7-301 Definitions.* ::
 
 
-As used in this chapter and, where applicable, in the Transportation Benefits Law, the following terms have the following meanings:
 
-"Chain business" means a group of establishments that share a common owner or principal who owns a majority of each establishment where such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as defined in general business law section 681.
+*§ 4-84 Invoices.* ::
 
-"Commuter highway vehicle" means a "commuter highway vehicle" as such term is defined in Section 132(f)(5)(B) of the Internal Revenue Code.
 
-"Cure period" means the ninety-day period immediately following a finding of a first violation.
+Every retailer, wholesaler, distributor or jobber receiving processed meats and meat products for resale shall be furnished, at the time of delivery, an invoice stating the net weight of the processed meats and meat products so delivered and containing the statement, "not in excess, by weight, of 10 percent of added curing solution or of any other liquid," except that, for processed beef briskets received by such purchaser, the invoice shall state the net weight and contain the statement, "not in excess, by weight, of 20 percent of added curing solution or of any other liquid." In lieu of said statements as to moisture content, the invoice may contain the statement, "all products comply with applicable maximum moisture requirements of New York City Law."
 
-"Department" means the Department of Consumer Affairs of the City of New York.
 
-"Employee" means an "employee," "manual worker," "railroad worker," "commission salesman," or "clerical or other worker" as such terms are defined in § 190 of the New York State Labor Law. "Employee" does not include partners, sole proprietors, independent contractors, or two-percent shareholders of S-corporations.
 
-"Employer" means an "employer" as such term is defined in § 190 of the New York State Labor Law and that employs twenty or more full-time employees in New York City. The common owner or principal of a chain business shall be considered the employer of the full-time employees of such chain business.
 
-"First violation" means the first finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law since July 1, 2016.
 
-"Full-time employee" means an employee who has worked an average of 30 hours or more per week in the most recent four weeks as of any date of counting, any portion of which was in New York City, for a single employer.
 
-"Earnings" shall have the same meaning as the term "gross income" as used in § 132 of the Internal Revenue Code.
+*§ 4-85 Inspection of Invoices.* ::
 
-"Month" means an employer's regularly established fiscal month.
 
-"Recidivist violation" means any new finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law, after the first finding by the administrative tribunal that the employer had violated the Transportation Benefits Law since July 1, 2016.
+Every retailer, wholesaler, distributor or jobber shall have available for inspection by the Commissioner or his authorized representatives all invoices for the processed meats and meat products sold or offered for sale at his establishment at the time of inspection.
 
-"Subsequent violation" means each continuous thirty-day period after the expiration of the cure period, or after the finding of a recidivist violation by the administrative tribunal, in which the employer has not demonstrated to the department's satisfaction that it is complying with the Transportation Benefits Law.
 
-"Temporary help firm" means an employer that recruits, hires and supplies employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages or seasonal workloads; or (iii) perform special assignments or projects.
 
-"Transportation Benefits Law" means Chapter 9 of Title 20 of the Administrative Code of the City of New York.
 
-"Transportation fringe benefits" means qualified transportation fringe benefits, other than qualified parking, that may be purchased using pre-tax earnings in accordance with § 132 of the Internal Revenue Code.
 
-"Week" means an employer's regularly established payroll week.
 
+*§ 4-86 Labeler Identified.* ::
 
 
+Processed meats and meat products labeled by a person other than the retailer, shall have on the labels the name and address of the person labeling these products or the official inspection or Health Department permit number of the establishment in which said products were labeled. Processed beef briskets, tongues and other similar processed meats and meat products shall be branded or labeled as to the identity of the processor, packer or wholesaler.
 
 
 
 
 
-*§ 7-302 Determination of Size of Employer.* ::
 
+*§ 4-87 Wholesale Labels.* ::
 
-(a) An employer's number of full-time employees is determined by calculating the average number of full-time employees for the most recent consecutive three- month period, provided that for an employer that has operated for less than three months, the number of full-time employees is determined by calculating the average number of full-time employees per week for the period of time in which the employer has been in operation.
 
-(b) Full-time employees at all of an employer's or a chain business's locations in New York City shall be counted in determining the number of full-time employees of the employer.
+Containers of processed meats and meat products which are not individually labeled, when sold or offered for sale at wholesale, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82. In lieu of such moisture content labeling, said containers may be labeled with the statement, "all products comply with applicable maximum moisture requirements of New York City Law."
 
 
 
 
 
 
+*§ 4-88 Delivery Invoices and Inventory Sheets.* ::
 
 
-*§ 7-303 Temporary Help Firms.* ::
+Every person transporting or delivering processed meats or meat products shall have available for inspection by the Commissioner or his authorized representatives all purchase and sales invoices of such processed meats or meat products. Every route salesman shall, in lieu of such invoices, have available for such inspection a written inventory of all the processed meats and meat products originally loaded on the vehicle operated by him and all invoices of his sales therefrom. All such invoices and inventory sheets shall contain the statement or statements required by 6 RCNY § 4-84.
 
 
-(a) Where a temporary help firm supplies a full-time employee to another organization, the temporary help firm shall be the employer of the full-time employee for purposes of the Transportation Benefits Law and must comply with its provisions, regardless of the size of the other organization.
 
-(b) To determine the number of hours worked each week by an employee working for a temporary help firm, the employer must aggregate the number of hours worked by the employee in the most recent four weeks at all placements.
 
 
 
+*§ 4-89 Bulk Parts and Cuts.* ::
 
 
+Every bulk part or cut of a processed meat and meat product, offered for sale or sold at retail, shall be labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82 and such labeling as to moisture content shall be identical to the labeling of the whole processed meat or meat product, except that a clear and conspicuous placard or sign stating that "all products comply with applicable maximum moisture requirements of New York City Law," at or near such meat, shall be sufficient to fulfill the requirements of this rule and regulation.
 
 
 
-*§ 7-304 Employee Eligibility.* ::
 
 
-(a) An employer must offer its full-time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits by January 1, 2016, or four weeks after such employee's commencement of employment as a full-time employee of the employer, whichever is later.
 
-(b) If an employer's work force is reduced to fewer than 20 full-time employees, the employer must continue to offer the opportunity to use pre-tax earnings to purchase transportation fringe benefits to full-time employees who were employer's full-time employees before the work force was reduced.
+*§ 4-90 Retail Containers.* ::
 
 
+An individual processed meat or meat product, in a consumer size container, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82. The label on such a container shall bear the name and address of the packer, manufacturer, distributor or wholesaler, or the official inspection or Health Department permit number of the establishment in which the product was packaged in such container.
 
 
 
 
 
 
-*§ 7-305 Maximum Deductions.* ::
+*§ 4-91 Variations in Moisture Content.* ::
 
 
-Employers must offer full-time employees the opportunity to use the maximum amount of pre-tax earnings permitted under federal law for the purchase of transportation fringe benefits.
+A variation of plus or minus two percent of added curing solution or of any other liquid from the 10 percent, by weight, allowed by law may be permitted in an individual processed sausage sample, provided, however, that consistent plus one to two percent variations shall be deemed to be violations of §§ 20-677 and 20-678 of the Administrative Code.
 
 
 
 
 
 
+*§ 4-92 Display and Legibility.* ::
 
 
-*§ 7-306 Recordkeeping Requirements.* ::
+The labeling of processed meats and meat products shall be legible, conspicuous and prominently displayed.
 
 
-Employers must retain records for two years sufficient to demonstrate (i) that each full-time employee eligible for transportation fringe benefits pursuant to the Transportation Benefits Law and this chapter was offered the opportunity to use pre-tax earnings to purchase transportation fringe benefits in accordance with this chapter; or (ii) records sufficient to demonstrate that the employer provides, at the employer's expense, a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation fringe benefit amount that may be excluded from pre-tax earnings. Employers may use the form provided by the department and available on the department's website to document compliance.
 
 
 
 
+*§ 4-93 Punishment.* ::
 
 
+Any person who shall violate any such rules and regulations shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
 
 
-*§ 7-307 Employer-Funded Transportation Benefits.* ::
 
 
-(a) As an alternative to offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits, an employer may provide at the employer's expense a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle.
 
-(b) If the employer-provided transit pass or similar form of payment is less than the maximum transportation fringe benefit that may be excluded from pre-tax earnings under federal law, then the employer must offer employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits for an amount equal to the difference between the value of the employer-provided transit pass or similar form of payment and the maximum amount that may be excluded from gross earnings under federal law.
 
+*§ 4-94 Violations.* ::
 
 
+Any person who shall violate any such rules and regulations shall be guilty of an offense triable by a magistrate, and punishable by a fine of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense or by imprisonment not exceeding ten days, or by both.
 
 
 
 
 
-*§ 7-308 Financial Hardship Exemption.* ::
 
 
-(a) The department may waive the requirements of the Transportation Benefits Law for an employer if such employer demonstrates to the department's satisfaction that offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits would be a financial hardship for such employer.
+**Subchapter G: Etching Acids**
 
-(b) To qualify for a waiver, an employer must present compelling evidence that complying with the Transportation Benefits Law would be impracticable and create a severe financial hardship.
 
 
+*§ 4-100 Valid Photo Identification.* ::
 
 
+The valid photo identification that a dealer of etching acid shall request from each purchaser of etching acid must:
 
+(a) be issued by a government entity, including a foreign government or a duly accredited educational institution,
 
+(b) be issued as a tamper-proof document, and
 
+(c) include the name, date of birth and photograph of the person it identifies.
 
-*§ 7-309 Enforcement and Penalties.* ::
 
 
-(a) The department may issue a notice of violation pursuant to section 20-926(b) of the Administrative Code.
 
-(b) Any employer found to be in violation of the Transportation Benefits Law will be liable for a civil penalty of two-hundred fifty dollars payable to the city of New York for the first violation, for any and each subsequent violation, and for any and each recidivist violation.
 
-(c) A civil penalty will not be imposed on an employer for the first violation if the employer demonstrates to the satisfaction of the department within the cure period that it is complying with the Transportation Benefits Law.
 
-(d) For the purposes of this section, "satisfaction of the department" with reference to an employer's compliance with the Transportation Benefits Law means proof that the employer has offered its full time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits or that the employer provides, at the employer's expense, a transit pass, or similar form of payment, for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation benefit amount that may be excluded from pre-tax earnings.
+*§ 4-101 Purchasing Records to be Maintained.* ::
 
-(e) An employer seeking to demonstrate that it is complying with the Transportation Benefits Law may do so by submitting the compliance form provided by the department and available on the department's website. The department may require submission of additional information, including documentary evidence, reasonably necessary to prove that a first violation was cured within the cure period.
 
+(a)  A dealer of etching acid shall record the following information about each sale of etching acid:
 
+   1. the date of the sale;
 
+   2. the name and age of the purchaser as shown on the valid identification provided by the buyer;
 
+   3. a complete description of the valid identification document that was accepted, including the name of the issuing agency, the type of identification document, the expiration date of the document, and any identification number or code appearing on the document;
 
+   4. the amount of etching acid sold to the purchaser; and
 
+   5. the unit price of the etching acid and the total cost of the purchase.
 
+(b) The above information shall be:
 
+   1. recorded in writing on a separate page for each transaction and kept in chronological order by the date of each sale, either in a bound volume or in a separate file, where only such documents are retained; or
 
-**Subchapter D: Displaced Grocery Workers**
+   2. retained in an electronic format and maintained in a data base from which the information can be retrieved by the date of the sale, the identity of the purchaser and the type of identification that was used.
 
 
 
-*§ 7-401 Definitions.* ::
 
 
-(a) As used in this chapter, the following terms have the same meanings as set forth in section 22-507 of the Administrative Code: "change in control," "city," "department," "eligible grocery employee," "grocery establishment," "incumbent grocery employer," "person," "successor grocery employer," and "transitional employment period."
 
-(b) As used in this chapter, the following terms shall have the following meanings:
+*§ 4-102 Posting of Notice.* ::
 
-   "Continuous employment" means uninterrupted employment. Separations from employment six months or less in duration for any reason, including, but not limited to, transfer from a grocery establishment that is subject to a change in control to a grocery establishment with the same incumbent grocery employer, paid or unpaid leaves of absence, paid or unpaid time off, and work schedule changes, shall not constitute interruptions in employment.
 
-   "Grocery employer" means incumbent grocery employers and successor grocery employers.
+(a)  The notice of the required information must be conspicuously posted at the point of sale, shall include a statement that reads substantially as follows and shall be printed as indicated in brackets: "NOTICE TO ETCHING ACID PURCHASERS: [To be printed in capital letters in 16-point bold-faced type] You are required by law to furnish us with a valid, government-issued photo identification card, and we are required to record and maintain personal information about you that identifies you. [To be printed in 14-point type]
 
-   "Grocery Worker Retention Act" means section 22-507 of the Administrative Code.
+(b) The sign shall be sufficiently large to contain the statement in the specified print size.
 
 
 
@@ -3259,710 +2342,157 @@ Employers must retain records for two years sufficient to demonstrate (i) that e
 
 
 
+**Subchapter H: Perishable Foods**
 
-*§ 7-402 Eligible Grocery Employees.* ::
 
 
-(a) For purposes of the definition of "eligible grocery employee" in section 22-507(a) of the Administrative Code, "a period" means "a period of continuous employment."
+*§ 4-111 Definitions.* ::
 
-(b) For purposes of section 22-507(a) of the Administrative Code, "confidential employee" means "confidential employee" as defined in the federal Labor Management Relations Act, 22 U.S.C. § 4102(6).
 
-(c) An employee's length of continuous employment at a grocery establishment with the same incumbent grocery employer as the grocery establishment subject to a change in control preceding an employee's transfer to the grocery establishment subject to a change in control shall count towards that employee's continuous employment at the grocery establishment subject to the change in control.
+For the purposes of the application of these 6 RCNY §§ 4-111 through 4-114 (unless the context indicates otherwise) the following definitions apply:
 
+Sell or offer to sell. "Sell" or "offer to sell" shall mean the act of selling, displaying, or offering for sale by a retailer or retail entity to the public for off-premises human consumption.
 
 
 
 
 
 
+*§ 4-112 Display of Required Information.* ::
 
-*§ 7-403 Determining Seniority.* ::
 
+(a) On the containers of all foods specified in 6 RCNY § 4-113 there shall be stamped, printed or otherwise plainly and conspicuously marked, a statement indicating recommended conditions and methods of storage.
 
-For purposes of section 22-507(b)(3) of the Administrative Code, an employee attains seniority as a result of that employee's length of continuous employment in the grocery establishment subject to a change in control, regardless of job position and regardless of full-time or part-time status, or, in the case of an employee transferred to a grocery establishment subject to a change in control, that employee's total length of continuous employment in any of the incumbent grocery employer's grocery establishments.
+(b) On the containers of all foods specified in 6 RCNY § 4-113 there shall be stamped, printed or otherwise plainly and conspicuously marked either the last day or date of sale or the last day or date for recommended usage.
 
+(c) The information required in subdivisions (a) and (b) of this 6 RCNY § 4-112 shall be clearly marked on each and every package or item as follows:
 
+   (1) the information shall appear on the top cover or principal panel of its container, or, on a label affixed thereto; or
 
+   (2) a notice shall appear on the top cover or principal panel or on a label affixed thereto indicating the location on the package of such information.
 
 
 
 
 
-*§ 7-404 Recordkeeping.* ::
 
+*§ 4-113 Perishable Foods Covered.* ::
 
-(a) Grocery employers must retain records demonstrating compliance with the requirements of the Grocery Worker Retention Act for a period of three years unless otherwise required by any other law, rule, or regulation.
 
-(b) Incumbent grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
+The following commodities shall be labeled in accordance with the provisions of § 20-685 of the Administrative Code "Perishable foods," and 6 RCNY § 4-112 governing the labeling of perishable foods:
 
-   (1) The list of eligible grocery employees required under section 22-507(b)(1)(A) of the Administrative Code, the date the list was provided to the successor grocery employer, and written proof that the list was provided to the successor grocery employer; and
+(a) Eggs – Grade AA, Grade A and Grade B shell eggs.
 
-   (2) The notice of change in control required under section 22-507(b)(1)(B) of the Administrative Code, the date it was posted, and proof of posting.
+(b) All pre-packaged, fully or partially prepared baked goods, which have a moisture content exceeding 18 per cent, with or without additives known as:
 
-(c) Successor grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
+   (1) Bread, rolls and buns as defined in Title 21, Chapter 1, Part 17 of the Code of Federal Regulations, except those products traditionally known as "fruit-cake"
 
-   (1) The list of eligible grocery employees received by the successor grocery employer pursuant to section 22-507(b)(1)(A) of the Administrative Code and the date it was received, and the names of those eligible employees retained for the transitional employment period pursuant to section 22-507(b)(2) of the Administrative Code;
+   (2) Cakes, pastries and cookies, except those that are offered for sale in individual, portionpack, snack type packages;
 
-   (2) The preferential hiring list required under section 22-507(b)(3) of the Administrative Code, the date eligible employees on the preferential hiring list were given the right of first refusal to jobs that become available during the transitional employment period, and proof that the right of first refusal was given; and
+   (3) English muffins, corn muffins, bran muffins and other similar products.
 
-   (3) The written performance evaluations as required under section 22-507(b)(5) of the Administrative Code.
+(c) The following pre-packaged dairy and dairy-type products:
 
+   (1) Those products with or without additives or flavorings, known as cheese, as defined in Title 21, Chapter 1, Part 19, §§ 19.499 through 19.685 of the Code of Federal Regulations, that contain 50 per cent or more moisture in the finished product.
 
+   (2) Low-fat, multi-vitamin, multi-mineral type milk products, which are normally stored at temperatures between 32 degrees Fahrenheit and 40 degrees Fahrenheit;
 
+   (3) Flavored milk;
 
+   (4) Cultured milk, cultured milk products, cultured skim-milk and cultured skim milk products, with or without fruits, vegetables, meats or cheeses, or other additives;
 
+   (5) Milk shake;
 
+   (6) Eggnog;
 
+   (7) Yogurt, made from skim-milk or whole milk, with or without fruits, vegetables, meats or other additives;
 
-*§ 7-405 Enforcement.* ::
+   (8) Whipped cream and instant whipped cream;
 
+   (9) Sour cream, cultured cream, salad cream, and non-cultured sour cream, with or without fruits, vegetables, meats or cheese or other additives;
 
-(a) If the grocery employer fails to timely respond to, written request for information or records from the department, a grocery employer must provide the department with access to records and at a mutually agreeable time of day at the employer's place of business.
+   (10) Sour half and half, cultured half and half, non-cultured sour half and half and non-cultured half and half;
 
-(b) The department will make two attempts by any combination of letter, email, or telephone to arrange a mutually agreeable time of day for the grocery employer to provide access to its records in accordance with subdivision (b) of this section. If these attempts are not successful, the department may set a time to access records at the grocery employer's place of business during regular business hours, upon two days' notice to the grocery employer.
+   (11) Dairy dressing, and dairy dip;
 
-(c) The grocery employer may cure a notice of violation issued to a grocery employer for failure to provide requested information, records or access to records as required by 6 RCNY § 7-405 without penalty by producing the requested information or records on or before the first scheduled hearing date.
+   (12) Non-dairy coffee creamers which are normally stored at temperatures between 32 degrees Fahrenheit and 40 degrees Fahrenheit.
 
-(d) The department may settle a complaint at any time prior to the conclusion of an adjudication. Prior to settling any complaint filed by an eligible grocery employee, pursuant to Section 22-507(d)(1), the department shall provide each complainant with notice of the proposed settlement.
+(d) All pre-packaged, prepared foods which require refrigeration.
 
-(e) A complainant who intends to opt out of a settlement, pursuant to Section 22-507(d)(1)(E) of the Administrative Code must do so in writing to the department. A complainant who intends to withdraw his or her complaint with the department, pursuant to Section 22-507(d)(2) of the Administrative Code must do so in writing to the department prior to bringing a civil action.
 
 
 
 
 
+*§ 4-114 Exemptions.* ::
 
 
+(a) This subchapter shall not include any product stored in a retail store at or below a temperature of 32 degrees Fahrenheit, in accordance with the recommendations of the manufacturer or processor.
 
+(b) This subchapter shall not include any product hereinabove designated which is sterilized when hermetically sealed and packaged and is so maintained until the time of sale by a retailer to the public.
 
-**Subchapter E: Freelance Workers**
+(c) This subchapter shall not include products made from products after the date marked where such secondary products are the result of an additional processing stage.
 
+(d) Upon written application to the Commissioner, and upon a showing of exceptional circumstances, a manufacturer or processor may be granted an extension in writing, not to exceed six months, in which to comply, in whole or in part, with the requirements of 6 RCNY § 4-112. In the event that a manufacturer or processor has substantially complied with 6 RCNY § 4-112 during the previously granted extension period, but exceptional circumstances exist which render full compliance during the extension period impossible, impracticable, or create undue financial hardship, a manufacturer or processor may apply in writing to the Commissioner for an additional final extension in order to fully comply with 6 RCNY § 4-112. Any request for an additional final extension must be supported by evidence of exceptional circumstances and substantial compliance during the previously granted extension period. The granting of a further extension, if any, shall be in the discretion of the Commissioner.
 
 
-*§ 7-501 Definitions.* ::
 
 
-(a) As used in this chapter, the terms “director,” “freelance worker,” and “hiring party” shall have the same meanings as set forth in Section 20-927 of the Administrative Code.
 
-(b) As used in this chapter, the term “adverse action” means any action by a hiring party, their actual or apparent agent, or any other person acting directly or indirectly on behalf of a hiring party, that would constitute a threat, intimidation, discipline, harassment, denial of a work opportunity, or discrimination, or any other act that penalizes a freelance worker for, or is reasonably likely to deter a freelance worker from, exercising or attempting to exercise any right guaranteed under Chapter 10 of Title 20 of the Administrative Code (“the Freelance Isn’t Free Act”).
 
 
+**Subchapter I: List of All Populations of Endangered Or Threatened Species**
 
 
 
+*§ 4-120 Definitions.* ::
 
 
+(a)  Terms used in this subchapter shall have the meanings specified in § 20-698 of the New York City Administrative Code.
 
-*§ 7-502 Coverage.* ::
+(b) Whenever used in this subchapter, the term:
 
+   (1) "All populations" means every member of the species identified as an endangered or threatened species wherever such members are found.
 
-A freelance worker is entitled to the protections of the Freelance Isn’t Free Act regardless of immigration status.
+   (2) "Endangered or threatened species list" or "list" means the information published by the commissioner on the department's website that references endangered or threatened species and that specifically identifies which of such species includes all populations.
 
 
 
 
 
 
+*§ 4-121 Publication of Endangered or Threatened Species List.* ::
 
 
-*§ 7-503 Contract Value.* ::
+(a)  The commissioner shall publish the endangered or threatened species list by April 1, 2005 and annually thereafter on the same date or on the first business day thereafter on the website of the department. Such list shall be published in English and in Chinese.
 
+(b) The endangered or threatened species list shall:
 
-(a) For purposes of Section 20-928(a) of the Administrative Code, the value of a contract between a freelance worker and hiring party, either by itself or when aggregated with all other agreements for services between the same hiring party and freelance worker during the 120 days immediately preceding the agreement that constitutes the contract, shall include the reasonable value of all actual or anticipated services, costs for supplies, and any other expenses under the contract.
+   (1) include a description of the contents of, and a link to, the website of the New York Department of Environmental Conservation that identifies all endangered or threatened species; and
 
-(b) For purposes of Section 20-933(b) of the Administrative Code, the value of the underlying contract between a freelance worker and hiring party shall include the reasonable value of all services performed and/or anticipated, and reasonable costs for supplies and any other expenses reasonably incurred by the freelance worker.
+   (2) identify by common name such of the endangered or threatened species that includes all populations.
 
 
 
 
 
 
+*§ 4-122 Selection of Species Including All Populations.* ::
 
 
-*§ 7-504 Retaliation.* ::
+The commissioner shall, prior to the publication of the endangered or threatened species list, determine which of the threatened and endangered species includes all populations, and shall identify such species by common name in the endangered or threatened species list.
 
 
-(a) Retaliation shall include but is not limited to any adverse action relating to perceived immigration status or work authorization.
 
-(b) A freelance worker may establish a causal connection between the exercise of rights guaranteed under the Freelance Isn’t Free Act and a hiring party’s adverse action either circumstantially, such as with evidence that the protected activity was followed closely by the adverse action, or directly, with evidence of an intention by a hiring party to retaliate against a freelance worker. For purposes of Section 20-930 of the Administrative Code, retaliation may be established when a freelance worker shows that the exercise or attempt to exercise any right under the Freelance Isn’t Free Act was a motivating factor for an adverse action, even if other factors also motivated the adverse action.
 
-(c) Any person who denies a work opportunity to a freelance worker who exercises or attempts to exercise any right guaranteed under the Freelance Isn’t Free Act, or that takes any action reasonably likely to deter a freelance worker from exercising or attempting to exercise any such right, shall be liable for retaliation regardless of whether that person previously has been a party to a contract with the freelance worker or has been the subject of a complaint by the freelance worker.
 
 
+*§ 4-123 Identification of Prohibited Products.* ::
 
 
+(a)  Any product that is labeled, advertised or described as containing any part or ingredient derived from a species identified as including all populations in the endangered or threatened species list shall be subject to the prohibitions specified in § 20-699 of the New York City Administrative Code.
 
-
-
-
-*§ 7-505 Waivers of Rights.* ::
-
-
-(a) Any contract entered into by a hiring party and freelance worker shall not include any prospective waiver or limitation of rights under the Freelance Isn’t Free Act. Any such waiver or limitation shall be invalid as a matter of law.
-
-(b) If a contract includes language that waives or limits a freelance worker’s right to participate in or receive money or any other relief from any class, collective, or representative proceeding, said waiver or limitation is void.
-
-(c) Wherever a hiring party asks a freelance worker to waive or limit, via contract, any other procedural right normally afforded to a party in a civil or administrative action, any such contractual waivers and limitations are void under Section 20-935 of the Administrative Code. Such rights include but are not limited to procedural rights of parties to a civil action established by the New York Civil Practice Law and Rules, the Federal Rules of Evidence, and the Federal Rules of Civil Procedure.
-
-(d) A freelance worker has the right to disclose the terms of a contract with a hiring party to the director. Any private contractual agreement that purports to waive or limit a freelance worker’s right to communicate the terms of such a contract to the director is void as against public policy
-
-
-
-
-
-
-
-
-
-**Subchapter F: Fair Workweek**
-
-
-
-*§ 7-601 Definitions* ::
-
-
-(a) As used in Title 20, Chapter 12 of the New York City Administrative Code and this subchapter, the following terms have the following meanings, except as otherwise provided:
-
-   “Actual hours worked” means the number, dates, times and locations of hours worked by an employee for an employer, whether or not such hours differ from the work schedule provided in advance.
-
-   “Additional shift” is a shift not previously scheduled that would be offered to a new fast food employee but for the requirements of Section 20-1241 of the Fair Workweek Law.
-
-   “Clopening” means two shifts with fewer than 11 hours between the end of the first shift and the beginning of the second shift when the first shift ends the previous calendar day or spans two calendar days.
-
-   “Current fast food employee” as that term is used in Section 20-1241 of the Fair Workweek Law and these rules means a fast food employee who has worked at least eight hours in the preceding 30 days or is otherwise currently on the fast food employer’s payroll.
-
-   “Dates” as that term is used in subdivision (a) of Section 20-1221 of the Fair Workweek Law means days of the week.
-
-   “Directly notify” as that term is used in subdivision (b) of Section 20-1252 of the Fair Workweek Law means to deliver to an individual employee.
-
-   “Engaged primarily in the sale of consumer goods” as that term is used in the definition of “retail employer” in Section 20-1201 of the Fair Workweek Law means greater than fifty percent of sale transactions in a calendar year at one or more locations in the City are to retail consumers.
-
-   “Fair Workweek Law” means Chapter 12 of Title 20 of the Administrative Code of the City of New York.
-
-   “Good faith estimate” means the number of hours a fast food employee can expect to work per week for the duration of the employee’s employment and the expected days, times, and locations of those hours.
-
-   “New fast food employee” means an employee who has not worked at least eight hours in the preceding 30 days for the fast food employer.
-
-   “Overtime pay” means payment (i) at a rate not less than one and one-half times the fast food employee’s regular rate of pay under subsection (a) of Section 207 of Title 29 of the United States Code; or (ii) at a rate governed by the overtime requirements of the labor law or the overtime requirements of any minimum wage order promulgated by the New York commissioner of labor, pursuant to labor law article 19 or 19-A.
-
-   “Premium pay” means a schedule change premium required, pursuant to Section 20-1222 of the Fair Workweek Law or the payment a fast food employer is required to pay to a fast food employee who works a “clopening”, pursuant to Section 20-1231 of the Fair Workweek Law.
-
-   “Retail consumer” means an individual who buys or leases consumer goods and that individual’s co-obligor or surety. Retail consumer shall not include manufacturers, wholesalers, or others who purchase or lease consumer goods for resale as new to others.
-
-   “Salaried” means not covered by the overtime requirements of New York state law or regulations.
-
-   “Shift” means an on-call shift or a regular shift.
-
-   “Shift increment” means a portion of a shift.
-
-   “Subset of shifts” means one or more shifts or shift increments.
-
-   “Time” as that term is used in Section 20-1221(a) of the Fair Workweek Law regarding good faith estimate means start and end times of shifts.
-
-(b) As used in this subchapter, the following terms have the same meanings as set forth in Section 20-1201* of the Fair Workweek Law: “fast food employee,” “fast food employer,” “fast food establishment,” “on-call shift,” “regular shift,” “retail employee,” “retail employer,” “schedule change premium,” “work schedule.”
-
-*Editor's note: The original rule cited Section 12-1201 of the Fair Workweek Law; cite corrected at the discretion of the editor.
-
-
-
-
-
-
-
-
-*§ 7-602 Notice of rights* ::
-
-
-The notice of rights required to be posted, pursuant to Section 20-1205 of the Fair Workweek Law shall be printed on and scaled to fill an 11x17 inch sheet of paper.
-
-
-
-
-
-
-
-
-*§ 7-603 Good faith estimate* ::
-
-
-(a) If a fast food employer makes a long-term or indefinite change to the good faith estimate that has been provided to a fast food employee, the fast food employer shall provide an updated good faith estimate to the fast food employee as soon as possible and before the fast food employee receives the first work schedule following the change.
-
-(b) For purposes of this Section and Section 20-1221 of the Fair Workweek Law, “long-term or indefinite change” includes, but is not limited to:
-
-   i. Three work weeks out of six consecutive work weeks in which the number of actual hours worked differs by twenty percent from the good faith estimate during each of the three weeks;
-
-   ii. Three work weeks out of six consecutive work weeks in which the days differ from the good faith estimate at least once per week;
-
-   iii. Three work weeks out of six consecutive work weeks in which the start and end times of at least one shift per week differs from the good faith estimate by at least one hour and the total number of hours changed for the six week period is at least six hours; or
-
-   iv. Three work weeks out of six consecutive work weeks in which the locations differ from the good faith estimate at least once per week.
-
-(c) Each occurrence of a long-term or indefinite change for which a fast food employer fails to provide an updated good faith estimate before such employee receives the first work schedule following the change constitutes a violation of Section 20-1221(a) of the Fair Workweek Law.
-
-
-
-
-
-
-
-
-*§ 7-604 Work schedules* ::
-
-
-(a) On or before a fast food employee’s first day of work, a fast food employer must provide such fast food employee with written notice of an initial work schedule containing all regular shifts and all on-call shifts the fast food employee will work until the start of the first shift of the next subsequent work schedule. The fast food employer must also issue an updated work schedule as required in paragraph (2) of subdivision (c) of Section 20-1221* of the Fair Workweek Law.
-
-*Editor's note: The original rule cited Section 1221 of the Fair Workweek Law; cite corrected at the discretion of the editor.
-
-(b) A work schedule provided, pursuant to Section 20-1252 of the Fair Workweek Law must span a period of no less than seven days.
-
-
-
-
-
-
-
-
-*§ 7-605 Posted notice of schedules* ::
-
-
-A fast food or retail employer may not post or otherwise disclose to other fast food or retail employees the work schedule of a fast food or retail employee who has been granted an accommodation based on the employee’s status as a survivor of domestic violence, stalking, or sexual assault, where such disclosure would conflict with such accommodation.
-
-
-
-
-
-
-
-
-*§ 7-606 Employee consent and minimal changes to shifts* ::
-
-
-(a) Where a fast food employee’s written consent is required to work additional hours, pursuant to subdivision (d) of Section 20-1221 of the Fair Workweek Law or where a retail employee’s written consent is required to work an additional shift with less than 72 hours’ notice, pursuant to paragraph (3) of subdivision (d) of Section 20-1251 of the Fair Workweek Law, such written consent must be provided in reference to a specific schedule change; general or ongoing consent is insufficient to meet such requirements.
-
-(b) A fast food employer may change a previously scheduled regular shift by 15 minutes or less without being obligated to pay the fast food employee a schedule change premium. A fast food employer will be obligated to pay the fast food employee a schedule change premium if total changes made to one shift exceed 15 minutes.
-
-Example: A fast food employer provides a fast food employee with a schedule that includes a shift on Tuesday from 12:00 P.M. to 5:00 P.M. At approximately 5:00 P.M. on Tuesday, the fast food employer asks the fast food employee to work a few minutes more to assist with a large tour group that just came to the fast food establishment. She agrees in writing and finishes the work at 5:12 P.M. The fast food employer need not pay her the schedule change premium.
-
-
-
-
-
-
-
-
-*§ 7-607 Notice and offer of additional shifts* ::
-
-
-(a) A fast food employer must notify a fast food employee in writing of the method by which additional shifts will be posted in accordance with Section 20-1241 of the Fair Workweek Law upon commencement of a fast food employee’s employment with the fast food employer and within 24 hours of any change to or adoption of a method.
-
-(b) The fast food employer must post notice of additional shifts for three consecutive calendar days. When a fast food employer has less than three days’ notice of a need to fill an additional shift, the fast food employer shall post notice of the additional shift for three consecutive calendar days as soon as practicable and not more than 24 hours after finding out about the need to fill the shift. Where there is less than three days’ notice, any existing fast food employee may be offered, on a temporary basis, additional shifts that take place prior to the conclusion of the three-day notice period.
-
-Example: On Wednesday at 9:00 A.M., a fast food employer receives a call from a fast food employee who tells her that she is quitting and she will not report for her regularly scheduled shift on Friday at 9:00 A.M. The fast food employer knew of the need to fill the shift 48 hours (or two days) in advance. The fast food employer may offer another existing fast food employee the shift on the first Friday, but must post the available shift with three days’ notice to its employees and assign subsequent Friday 9:00 A.M. shifts to its existing fast food employees in accordance with its criteria in accordance with Section 20-1241 of the Fair Workweek Law and this subchapter before hiring a new employee.
-
-(c) A fast food employer that owns 50 or more fast food establishments in New York City may offer additional shifts, in accordance with subdivisions (a), (b), (f) and (g) of Section 20-1241 of the Fair Workweek Law and in compliance with subdivision (b) of this section, to: (1) fast food employees who work at all locations in New York City, or (2) only to its fast food employees who work at its fast food establishments located in the same borough as the location where the shifts will be worked.
-
-(d) As soon as possible after a fast food employer has filled an additional shift, and using the same method compliant with Section 20-1241 of the Fair Workweek Law by which the fast food employer communicated the offer of additional shifts, the fast food employer must notify all accepting fast food employees when the offered shift has been filled.
-
-
-
-
-
-
-
-
-*§ 7-608 Accepting and awarding additional shifts* ::
-
-
-(a) A fast food employee may accept a subset of additional shifts offered by a fast food employer, pursuant to Section 20-1241 of the Fair Workweek Law.
-
-(b) A fast food employer must first award shifts or shift increments to current fast food employees at the location where the shifts will be worked, regardless of the employer’s other criteria prescribed, pursuant to subdivision (b) of Section 20-1241 of the Fair Workweek Law.
-
-(c) A fast food employee may accept an entire shift offered by a fast food employer or any shift increment. A fast food employer is not required to award a fast food employee a shift increment accepted by the fast food employee when the remaining portion of the shift is three hours or less and was not accepted by another fast food employee or other fast food employees.
-
-Example: A fast food employer notified employees of an additional shift on Saturdays from 1:00 P.M. to 9:00 P.M., an eight-hour shift. A fast food employee informs the employer that she can work from 3:00 P.M. to 9:00 P.M., a six-hour shift increment. Two hours remain in the additional shift and no other employee accepted the remaining two hours. Therefore, the employer need not award the six-hour increment to the employee.
-
-(d) When a fast food employee accepts a shift that was offered by a fast food employer, pursuant to Section 20-1241 of the Fair Workweek Law that overlaps with the fast food employee’s existing shift, before hiring a new fast food employee for the offered shift, the fast food employer must award the fast food employee the offered shift in lieu of the fast food employee’s scheduled shift. The fast food employer may not condition the award of the offered shift on a fast food employee’s willingness to work both the non-overlapping hours of the existing shift and the offered shift.
-
-Example: A fast food employee’s work schedule includes a shift on Mondays from 7 am to 3 pm. The fast food employer notifies employees of an additional shift on Mondays from 9:00 A.M. to 5:00 P.M., a shift that overlaps with the fast food employee’s existing shift. The fast food employee accepts the shift because it will allow the employee to drop the employee’s child off at school in the morning without reducing the employee’s overall hours. The fast food employer must award the additional shift to the fast food employee before hiring a new fast food employee for the additional shift, provided the fast food employee otherwise meets the employer’s criteria for distribution of the shift.
-
-(e) When a fast food employee accepts a shift that was offered by a fast food employer, pursuant to Section 20-1241 of the Fair Workweek Law that, if awarded to and worked by the fast food employee, would entitle the fast food employee to overtime pay, the fast food employer is not required to award the fast food employee the entire shift but, before hiring a new fast food employee for the entire offered shift, must award the fast food employee the largest shift increment possible that would not trigger overtime pay, provided that the remaining portion of the shift was accepted by another fast food employee or is three hours or more.
-
-Example: A fast food employer offers a shift on Wednesday from 12:00 A.M. to 6:00 A.M. to its employees. A fast food employee who is scheduled to work 37 hours during the week accepts the additional shift. The employer must award at least three hours to the fast food employee but is not required to award the entire six-hour shift to the employee because working more than forty hours would result in the employee becoming eligible for overtime pay.
-
-
-
-
-
-
-
-
-*§ 7-609 Employer records* ::
-
-
-(a) Fast food and retail employers must maintain and retain, in an electronically accessible format, contemporaneous, true, and accurate records documenting compliance with the requirements of the Fair Workweek Law for a period of three years.
-
-   1. Such records shall include documents that show:
-
-      i. Actual hours worked by each employee each week;
-
-      ii. An employee’s written consent to any schedule changes, where required; and
-
-      iii. Each written schedule provided to an employee.
-
-   2. Additionally, fast food employers must also maintain records in accordance with this subdivision that include documents that show:
-
-      i. Good faith estimates provided to employees, pursuant to Section 20-1221(a) of the Fair Workweek Law; and
-
-      ii. Premium pay to individual fast food employees and the dates and amounts of the payments, whether noted on an employee’s wage stub or other form of written documentation.
-
-(b) Upon request, a fast food or retail employer must provide a fast food or retail employee with such employee’s work schedule for any previous week worked for the past three years within 14 days of the employee’s request.
-
-(c) Upon request, a fast food or retail employer must provide a fast food or retail employee with the most current version of the complete work schedule for all employees who work at the same location within one week of the employee’s request, provided that an employer not disclose the work schedule of any employee who has been granted an accommodation based on the employee’s status as a survivor of domestic violence, stalking, or sexual assault, where such disclosure would conflict with such accommodation.
-
-
-
-
-
-
-
-
-*§ 7-610 Private right of action* ::
-
-
-(a) A person who filed a complaint with the office, pursuant to the Fair Workweek Law and who intends to withdraw the complaint to pursue a civil action shall withdraw the complaint in writing to the office prior to commencing a civil action that includes claims based on the Fair Workweek Law in accordance with paragraph (2) of subdivision (d) of Section 20-1211 of the Fair Workweek Law.
-
-(b) A person who filed a civil action that includes any claims based on the Fair Workweek Law may file a complaint with the office upon a showing that the Fair Workweek Law claims in the civil action have been withdrawn or dismissed without prejudice to further action.
-
-(c) The withdrawal of a complaint filed with the office or the commencement of a civil action by a person does not preclude the office from investigating the fast food or retail employer, or commencing, prosecuting, or settling a case against the employer based on some or all of the same violations.
-
-
-
-
-
-
-
-
-*§ 7-611 Waiver of rights* ::
-
-
-Any agreement by an employee with the intent to prospectively waive or limit the employee’s rights, pursuant to the Fair Workweek Law shall be invalid as a matter of law.
-
-
-
-
-
-
-
-
-
-**Subchapter G: Pay Deductions**
-
-
-
-*§ 7-701 Definitions* ::
-
-
-(a) As used in Title 20, Chapter 13 of the New York City Administrative Code and this subchapter, the following terms have the following meanings:
-
-   “Contact” means “contact person” as defined by this subchapter.
-
-   “Signature” means an original, handwritten signature or an electronic signature.
-
-(b) As used in this subchapter, the following terms have the following meanings:
-
-   “Contact person” means the not-for-profit employee or agent responsible for processing authorizations and requests to revoke authorizations.
-
-   “Electronic signature” means a computer data compilation of any symbol or series of symbols executed, adopted, or authorized by a natural person attached to or logically associated with an electronic record and executed or adopted by a natural person with the intent to sign the record. An electronic signature is considered to be “attached to or logically associated with an electronic record” if the electronic signature is linked to the record during transmission and storage.
-
-   “Pay Deductions Law” means Title 20, Chapter 13 of the New York City Administrative Code.
-
-   "Valid authorization" means a written authorization from a fast food employee to deduct wages from the fast food employee's paycheck for remittance to a not-for-profit that complies with Section 20-1302 of the New York City Administrative Code and 6 RCNY §§ 7-702 and 7-703.
-
-(c) As used in this subchapter, the following terms have the same meaning as set forth in Section 20-1301 of the Pay Deductions Law: “fast food employee,” “fast food employer,” “fast food establishment,” “not-for-profit,” and “office.”
-
-
-
-
-
-
-
-
-*§ 7-702 Valid authorization* ::
-
-
-(a)  A valid authorization must contain the following: (i) the relevant fast food employee’s signature and date that the authorization was signed by the fast food employee; (ii) the fast food employee’s name and physical address; (iii) the amount, frequency, and start date of the contribution; (iv) the name, physical address, email address, web address, if any, and phone number of the not-for-profit; (v) the contact person’s title, telephone number, and email address; and (vi) a statement notifying the fast food employee that contributions are voluntary and that the authorization to deduct wages is revocable at any time by submitting a written revocation to the not-for-profit or contact person.
-
-(b) The statement that an employee may revoke an authorization at any time must be immediately followed by the contact person’s title and not-for-profit’s email address.
-
-(c) Valid authorizations shall be effective with respect to any fast food employer that succeeds another fast food employer in ownership or control of a fast food establishment, whether through merger, pledge, transfer, sale, assignment, operation of law, or otherwise.
-
-(d) A valid authorization may be transmitted to a not-for-profit or a fast food employer by personal delivery, mail, facsimile, email, or other means of electronic transmission.
-
-
-
-
-
-
-
-
-*§ 7-703 Electronic authorization to deduct and remit wages* ::
-
-
-(a) The use of an electronic signature shall have the same validity and effect as the use of a handwritten signature. Each electronic signature shall be unique to one individual.
-
-(b) Each individual shall have a single electronic signature.
-
-(c) Submission of an electronic signature must include verification that the individual is a natural person.
-
-(d) Before a not-for-profit establishes, assigns, certifies or otherwise sanctions an individual’s electronic signature, or any element of such electronic signature, the not-for-profit must send the individual a confirmation of receipt of the authorization by email. Such confirmation must include a copy of the valid authorization electronically signed by the fast food employee.
-
-
-
-
-
-
-
-
-*§ 7-704 Authorization to deduct and remit wages* ::
-
-
-(a) A fast food employer must begin to deduct wages from a fast food employee’s pay check no later than the first pay period after 15 days following receipt of the valid authorization, and remit the deductions to the not-for-profit no later than 15 days after the deduction is made, provided that the not-for-profit has registered with the office and either the fast food employee or not-for-profit has provided a registration letter from the office to the fast food employer.
-
-(b) A valid authorization or registration letter is presumed to have been received by the fast food employer upon the earlier of (i) the date the document is personally delivered to a managerial or supervisory employee or agent of the fast food employer, or (ii) 10 days following service on a managerial or supervisory employee or agent of the fast food employer by mail, email, or facsimile.
-
-(c) A fast food employer must not begin deductions earlier than the start date of contribution a fast food employee indicates on an authorization.
-
-(d) A not-for-profit that has not transmitted the valid authorization and registration to the fast food employer within 180 days of receiving a fast food employee’s valid authorization must, at least 10 days prior to transmitting the authorization and its registration to the fast food employer, send the fast food employee a letter by mail to the address indicated on the authorization or by email, if the not-for-profit has solicited the fast food employee’s email address, that includes (i) the date the not-for-profit plans to transmit the authorization and registration letter to the fast food employer, which must be no earlier than 10 days after the date that the letter to the fast food employee is mailed, (ii) the anticipated date by which deductions will begin, and (iii) the contact person’s title, telephone number, and email address.
-
-
-
-
-
-
-
-
-*§ 7-705 Required disclosures by not-for-profits to fast food employees* ::
-
-
-(a) The not-for-profit must provide a fast food employee with disclosures required by Section 20-1304(a) of the Pay Deductions Law no later than the time at which the fast food employee authorizes remittance of deductions to the not-for-profit.
-
-(b)  Required disclosures, pursuant to Section 20-1304(a) of the Pay Deductions Law must include a list of individuals who performed work for the not-for-profit within the 5 years preceding the date that the fast food employee signed the authorization and who also either (i) are or were trustees of the not-for-profit, or (ii) receive(d) more than $100,000 in compensation from the not-for-profit or a related organization in any single fiscal year. Such list must include the names and titles of such individuals.
-
-(c) A not-for-profit may satisfy the requirements of Section 20-1304(a)(5) of the Pay Deductions Law by submitting the not-for-profit’s form 990 of the Internal Revenue Service of the United States Department of the Treasury or, if the not-for-profit did not file a form 990, another equivalent tax filing that reflects the not-for-profit’s funding, budget, and expenditures, for the three most recent tax years for which such form was filed.
-
-(d)  If a not-for-profit chooses to post its required disclosures on a single webpage, pursuant to Section 20-1304(b) of the Pay Deductions Law:
-
-   i. The text on the webpage must be a sans serif font and in a minimum size of 12 point font; and
-
-   ii. The URL for the webpage containing the required disclosures must be no more than 50 characters in length.
-
-(e)  A not-for-profit must not intentionally make materially false or misleading disclosures to fast food employees.
-
-   i. A disclosure is “materially false” when it is both untrue and would have made a reasonable person more likely to contribute funds to the not-for-profit.
-
-   ii. A disclosure is “misleading” when it is formatted, organized, arranged, or worded in such a way as to neutralize, conceal, or omit information that, if known by the fast food employee, would make a reasonable person less likely to contribute funds to the not-for-profit.
-
-   iii. Disclosure of materially false or misleading information is “intentional” when the not-for-profit was aware that the information was materially false or misleading at the time of disclosure.
-
-   iv. A not-for-profit must cure a materially false or misleading disclosure for each fast food employee who received the false or misleading disclosure within 30 days of being found in violation of this section or Section 20-1307(d) of the Pay Deductions Law by the office of administrative trials and hearings.
-
-
-
-
-
-
-
-
-*§ 7-706 Not-for-profit registration* ::
-
-
-(a) A not-for-profit must register with the office by providing the information required under Section 20-1303(a) of the Pay Deductions Law to the office by email or by personally delivering or mailing one or more CD-Rs or DVD-Rs to the office.
-
-(b) Authorizations submitted, pursuant to Section 20-1303(a)(3) of the Pay Deductions Law must be signed no earlier than 270 days before the date the not-for-profit submits its registration to the office, pursuant to subdivision (a).
-
-(c) Any of the following will constitute acceptable proof of status as an active not-for-profit for purposes of Section 20-1303(a)(2) of the Pay Deductions Law:
-
-   i. A copy of an Internal Revenue Service affirmation or determination letter confirming the not-for-profit’s tax-exempt status issued to the not-for-profit within the 120 days preceding the letter’s submission to the office;
-
-   ii. A letter from a state taxing body or a state attorney general certifying that the organization is a not-for-profit organization operating within the State and no part of its net earnings may lawfully benefit any private shareholder or individual, which is issued to the not-for-profit within the 120 days preceding the letter’s submission to the office for purposes of registration;
-
-   iii. A certified copy of the not-for-profit’s certificate of incorporation or similar document if such document explicitly identifies the organization as an active not-for-profit, and such document was issued within the 120 days preceding its submission to the office for purposes of registration; or
-
-   iv. Proof that the not-for-profit was listed in the Internal Revenue Service’s online database of organizations eligible to receive tax-deductible charitable contributions within the 120 days preceding submission to the office for purposes of registration.
-
-(d) Either of the following will constitute acceptable proof that a not-for-profit has provided the required disclosures to a fast food employee, pursuant to Section 20-1304(a) of the Pay Deductions Law:
-
-   i. Valid authorizations containing the URL of the webpage containing the required disclosures and screenshot(s) depicting each version of the webpage associated with the URL that is written on the authorization during the range of signature dates of the valid authorizations; or
-
-   ii. A written acknowledgement of receipt of the required disclosures signed and dated by each fast food employee who signed the authorizations not covered by item (i) of this clause, submitted, pursuant to Section 20-1303(a)(3) of the Pay Deductions Law along with a copy of the writing containing the required disclosures or screenshot(s) depicting each version of the webpage provided to the fast food employees containing the required disclosures over the period covering the dates on the written acknowledgement of receipt.
-
-(e) The office shall issue a registration letter to the not-for-profit confirming that it has met the conditions required for registration as soon as practicable and in no case more than 14 days after the office has determined that the requirements for registration have been met. A not-for-profit shall be considered registered upon the date of the registration letter from the office.
-
-
-
-
-
-
-
-
-*§ 7-707 Method of and costs associated with remitting deductions* ::
-
-
-(a) A not-for-profit must notify a fast food employer in writing of the method by which deductions authorized by fast food employees shall be remitted to the not-for-profit. Such method and its associated costs must be reasonable and consistent with standard deductions remittance practices for fast food employers, and, where possible, should be compatible with the fast food employer’s existing processes for remitting deductions. Subject to subdivision (b), the maximum amount per transaction per fast food employee that a fast food employer may charge a not-for-profit is $0.30. “Transaction” for purposes of this subsection means the act of both deducting and remitting wages.
-
-(b) A fast food employer may seek an exemption from the maximum amount set forth in subdivision (a) by demonstrating to the office that the employer’s actual costs exceed that maximum amount.
-
-(c) A fast food employer’s request to be reimbursed by the not-for-profit, pursuant to Section 20-1302(g) of the Pay Deductions Law must be made in writing and include the cost calculations prescribed in subdivision (d) of this section.
-
-(d) Costs associated with deductions and remittances shall be calculated based on the actual costs to a fast food employer of making deductions from a fast food employee’s paycheck and remitting those deductions to the not-for-profit the fast food employee designated.
-
-(e) Upon a not-for-profit’s request, a fast food employer remitting deductions to that not-for-profit organization, pursuant to this subchapter must simultaneously with the remittance provide the following information:
-
-   1. Name of the fast food employer;
-
-   2. For each fast food employee for whom the fast food employer is remitting:
-
-      (i) name
-
-      (ii) fast food establishment address
-
-      (iii) home address
-
-      (iv) phone number
-
-      (v) an unique identifier that is distinct from the employee’s social security number or other personally identifiable information, and that is generated by the fast food employer, such as an employee identification number, if any
-
-      (vi) email address, if any
-
-      (vii) amount of deduction and
-
-      (viii) date and payroll period of deduction;
-
-   3. Name of any fast food employee who separated from employment with the fast food employer in the preceding payroll period who had authorized deductions, pursuant to this subchapter.
-
-(f) Pursuant to Section 20-1302(g) of the Pay Deductions Law, a not-for-profit must reimburse a fast food employer as frequently as the fast food employer requests, provided that a not-for-profit need not honor a fast food employer’s request(s) to be reimbursed more frequently than every two weeks.
-
-
-
-
-
-
-
-
-*§ 7-708 Revocations* ::
-
-
-(a) A fast food employee’s revocation by mail, facsimile, email, or web submission to the not-for-profit or contact person will constitute a revocation in writing.
-
-(b) If a fast food employee submits a revocation to a fast food employer instead of to the not-for-profit, the fast food employer must provide a copy of the revocation to the not-for-profit within five business days of receipt.
-
-(c) For purposes of Section 20-1302(e) of the Pay Deductions Law, a revocation is presumed received by the fast food employer upon the earlier of (i) the date of delivery from the not-for-profit to the fast food employer, or, (ii) in the event that a fast food employee delivers the revocation to the fast food employer, the date the revocation is received by the not-for-profit.
-
-(d) A not-for-profit must not submit an authorization that has been revoked in support of an application for a registration letter.
-
-
-
-
-
-
-
-
-*§ 7-709 Petition to re-examine or revoke a not-for-profit’s registration* ::
-
-
-(a) The term “interested party” as used in Section 20-1307(e) of the Pay Deductions Law shall include: any current or former fast food employee, any authorized representative of a current or former fast food employee, any fast food employer required to make deductions, pursuant to the Pay Deductions Law, any not-for-profit, any labor organization or employee organization as those terms are defined in Section 20-1310(b) of the Pay Deductions Law, and the New York State Attorney General.
-
-(b) Petitions to re-examine or revoke a not-for-profit’s registration must be in writing, in the form of a letter addressed to the director, and sent to the office by mail, email, or facsimile.
-
-(c) The office shall not register and shall revoke any previously issued registrations of not-for-profits that collect authorization cards or other documents related to membership in a labor organization or with respect to a showing of interest or vote for certification, decertification, or deauthorization of a labor organization, upon receiving proof that the not-for-profit is engaging in such activities.
-
-
-
-
-
-
-
-
-*§ 7-710 Retaliation* ::
-
-
-For purposes of Section 20-1306 of the Pay Deductions Law, the phrases “any right protected under this chapter” and “activities protected by this chapter” include, but are not limited to, the right to: sign an authorization, submit an authorization, revoke an authorization, file a complaint with the office, file and maintain a civil action based on the Pay Deductions Law, and communicate with any person regarding the above activities.
-
-
-
-
-
-
-
-
-*§ 7-711 Enforcement and penalties* ::
-
-
-(a) A fast food employee or a not-for-profit may file a complaint with the office alleging violations of the Pay Deductions Law by a fast food employer.
-
-(b) A not-for-profit that files a complaint with the office must submit with its complaint a copy of the not-for-profit’s registration letter. The office shall dismiss a complaint filed by a not-for-profit if the not-for-profit’s complaint does not include a copy of its registration letter.
-
-(c) Notwithstanding subdivision (b), the office shall investigate any complaint that alleges retaliation in violation of the Pay Deductions Law, regardless of whether the relevant not-for-profit has registered with the office.
-
-(d) If, as a result of an investigation, the office determines that a fast food employee’s wages were deducted without a valid authorization or after such time as deductions should have ended, pursuant to a revocation, the fast food employer or not-for-profit that retains the deductions shall be liable for the reimbursement and interest prescribed, pursuant to Section 20-1307(c) of the Pay Deductions Law.
-
-(e) A fast food employer found to be in violation of the Pay Deductions Law shall be liable for the civil penalties due, pursuant to Section 20-1307(b)(2)(b) of the Pay Deductions Law. Such civil penalties shall be imposed on a per fast food employee basis.
-
-
-
-
-
-
-
-
-*§ 7-712 Civil actions* ::
-
-
-(a) A fast food employee or not-for-profit who has filed a complaint with the office, pursuant to the Pay Deductions Law must withdraw the complaint in writing to the office prior to commencing a civil action that includes claims based on the Pay Deductions Law.
-
-(b) A fast food employee or not-for-profit who has filed a civil action that includes any claims based on the Pay Deductions Law may file a complaint with the office upon a showing that the Pay Deductions Law claims in the civil action have been withdrawn or dismissed without prejudice to further action.
-
-(c) The withdrawal of a complaint or the commencement of a civil action by a fast food employee or not-for-profit does not preclude the office from investigating a fast food employer, or commencing, prosecuting, or settling a case against a fast food employer.
-
-
-
-
-
-
-
-
-*§ 7-713 Pattern of violations* ::
-
-
-The phrase “pattern of such violations” in Section 20-1309 of the Pay Deductions Law shall include a failure to deduct or remit deductions for a particular fast food employee or group of fast food employees, or a failure to honor the revocation(s) of a particular fast food employee or group of fast food employees more than twice in a six month period.
-
-
-
-
-
-
-
-
-*§ 7-714 Recordkeeping* ::
-
-
-(a) Fast food employers must retain for at least two years copies of fast food employees’ wage statements issued, pursuant to state law requiring the notation of deductions.
-
-(b) A written acknowledgement of receipt of the notice required, pursuant to Section 20-1302(h) of the Pay Deductions Law signed and dated by each fast food employee along with a copy of the distributed notice shall constitute adequate proof of distribution for purposes of Section 20-1305(a)(5) of the Pay Deductions Law.
-
-
-
-
-
-
-
-
-*§ 7-715 Waiver of Rights* ::
-
-
-Any agreement by a fast food employee with the intent to prospectively waive or limit the fast food employee’s rights, pursuant to the Pay Deductions Law shall be invalid as a matter of law.
-
-
+(b) Any member, or any part derived from a member of an endangered or threatened species identified by the common or scientific name that is listed on the website of the New York State Department of Environmental Conservation, which will be linked to the website of the department, shall be subject to the prohibitions specified in § 20-699 of the New York City Administrative Code.
 
 
 
@@ -7418,6 +5948,1476 @@ To report an unlicensed bail bond agent, or a bail bond agent charging illegal f
 To report other illegal business practices, contact the New York City Department of Consumer Affairs (DCA) by calling 311 or visiting nyc.gov/dca. Illegal business practices may include refusing to provide copies of documents; failing to provide a complete receipt or providing an illegal receipt; or false advertising.
 
 _______________________________________________________________________________________
+
+
+
+
+
+
+Chapter 7: Office of Labor Policy and Standards
+--------------------------------------------------
+
+
+
+
+**Subchapter A: Office of Labor Policy and Standards**
+
+
+
+*7-101 Definitions.* ::
+
+
+(a) As used in this subchapter, the following terms have the following meanings:
+
+   "Employee" means any person who meets the definition of "employee," as defined by Section 20-912 of the Code, "eligible grocery employee," as defined by Section 22-507 of the Code, "fast food employee," as defined by Section 20-1201 or 20-1301 of the Code, or "retail employee," as defined by Section 20-1201 of the Code.
+
+   "Employer" means any person who meets the definition of "employer," as defined by Section 20-912 of the Code, "successor grocery employer" or "incumbent grocery employer," as defined by Section 22-507 of the Code, "fast food employer," as defined by Section 20-1201 or 20-1301 of the Code, or "retail employer," as defined by Section 20-1201 of the Code.
+
+   "Freelancers Law and rules" means Chapter 10 of Title 20 of the Code and Subchapter E of this chapter.
+
+   "OLPS laws and rules" means Chapters 8, 12, and 13 of Title 20 and Section 22-507 of the Code and Subchapters A, B, D, F, and G of this chapter.
+
+   "Transportation Benefits Law and rules" means Chapter 9 of Title 20 of the Code and Subchapter C of this chapter.
+
+(b) As used in the OLPS laws and rules, the following terms have the following meanings:
+
+   "Code" means the Administrative Code of the City of New York.
+
+   "Department" means the New York City Department of Consumer Affairs.
+
+   "Director" means the director of the office of labor standards established, pursuant to Section 20-a of the charter.
+
+   "Joint employer" means each of two or more employers who has some control over the work or working conditions of an employee or employees. Joint employers may be separate and distinct individuals or entities with separate owners, managers and facilities. A determination of whether or not a joint employment relationship exists will not often be decided by the application of any single criterion; rather the entire relationship shall be viewed in its totality.
+
+   "Office" means the office of labor standards established, pursuant to Section 20-a of the New York City Charter and referred to as the Office of Labor Policy and Standards.
+
+   "Supplements" means all remuneration for employment paid in any medium other than cash, or reimbursement for expenses, or any payments which are not ‘wages' within the meaning of the New York State Labor Law, including, but not limited to, health, welfare, non-occupational disability, retirement, vacation benefits, holiday pay, life insurance, and apprenticeship training.
+
+   "Temporary help firm" means an employer that recruits and hires its own employees and assigns those employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages, or seasonal workloads; or (iii) perform special assignments or projects.
+
+   "Work week" means a fixed and regularly recurring period of 168 hours or seven consecutive 24 hour periods; it may begin on any day of the week and any hour of the day, and need not coincide with a calendar week.
+
+   "Written" or "writing" means a hand-written or machine-printed or printable communication in physical or electronic format, including a communication that is maintained or transmitted electronically, such as a text message.
+
+
+
+
+
+
+
+
+*§ 7-102 Construction.* ::
+
+
+This chapter shall be liberally construed to permit the Office to accomplish the purposes contained in Section 20-a of the New York City Charter. The provisions of this subchapter shall not be construed to supersede any other provision of the OLPS laws and rules, the Freelancers Law and rules, or the Transportation Benefits Law and rules.
+
+
+
+
+
+
+
+
+*§ 7-103 Severability.* ::
+
+
+The rules contained in this chapter shall be separate and severable. If any word, clause, sentence, paragraph, subdivision, section, or portion of these rules or the application thereof to any person, employer, employee, or circumstance is contrary to a Local, State or Federal law or held to be invalid, it shall not affect the validity of the remainder of the rules or the validity of the application of the rules to other persons or circumstances.
+
+
+
+
+
+
+
+
+*§ 7-104 Complainants and Witnesses.* ::
+
+
+(a) All people, regardless of immigration status, may access resources provided by the Office.
+
+(b) Any person who meets the definition of employee in 6 RCNY § 7-101 is entitled to the rights and protections provided by this Subchapter to employees and any applicable provision of the OLPS laws and rules, regardless of immigration status.
+
+(c) The Office shall conduct its work without inquiring into the immigration status of complainants and witnesses.
+
+(d) The Office shall maintain confidential the identity of a complainant or natural person providing information relevant to enforcement of the OLPS laws and rules and the Transportation Benefits Law and rules, unless disclosure is necessary for resolution of the investigation or matter, or otherwise required by law, and the Office, to the extent practicable, notifies such complainant or natural person that the Office will be disclosing such person's identity before such disclosure.
+
+(e) For purposes of effectuating subdivision (d) of this section, the Office shall keep confidential any information that may be used to identify, contact, or locate a single person, or to identify an individual in context.
+
+
+
+
+
+
+
+
+*§ 7-105 Joint Employers.* ::
+
+
+(a) Joint employers are individually and jointly liable for violations of all applicable OLPS laws and rules and satisfaction of any penalties or restitution imposed on a joint employer for any violation thereof, regardless of any agreement among joint employers to the contrary.
+
+(b) A joint employer must count every employee it employs for hire or permits to work, whether joint or not, in determining the number of employees employed for hire or permitted to work for the employer. For example, a joint employer who employs three workers from a temporary help firm and also has three permanent employees under its sole control has six employees for purposes of the OLPS laws and rules.
+
+
+
+
+
+
+
+
+*§ 7-106 Determining Damages Based on Lost Earnings.* ::
+
+
+(a) The following provisions apply to the extent necessary in circumstances described in paragraphs (1) and (2) below for the calculation of damages based on lost earnings in an administrative enforcement action:
+
+   (1) When an employer pays a flat rate of pay for work performed, regardless of the number of hours actually worked, an employee's hourly rate of pay shall be based on the most recent hourly rate paid to the employee for the applicable pay period, calculated by adding together the employee's total earnings, including tips, commissions, and supplements, for the most recent work week in which no sick time or other leave was taken and dividing that sum by the number of hours spent performing work during such work week or forty hours, whichever amount of hours is less.
+
+   (2) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the hourly rate of pay shall be the rate of pay that the employee would have been paid during the time that employee would have been performing work but for the employee's absence.
+
+(b) If the methods for calculating the hourly rate described in subdivision (a) produce an hourly rate that is below the full hourly minimum wage, then the employee's lost earnings shall be based on the full hourly minimum wage.
+
+
+
+
+
+
+
+
+*§ 7-107 Required Notices and Postings.* ::
+
+
+(a) For any notice created by the Office that is made available on the City's website and that is then required by a provision of the OLPS laws and rules to be provided to an employee or posted in the workplace, an employer must provide and/or post such notice in English and in any language spoken as a primary language by at least five percent of employees at the employer's location, provided that the Director has made the notice available in such language. Employers covered by the Earned Safe and Sick Time Act, Chapter 8 of Title 20 of the Code, are required to comply with this subdivision in addition to the requirement, pursuant to Section 20-919 of the Code that an employer provide the notice of rights in an employee's primary language.
+
+(b) (1) For any notice that is not created by the Office and made available on the City's website, that is required to be provided to an employee and/or posted in the workplace by a provision of the OLPS laws and rules, an employer must provide and/or post such notice in English and in any language that the employer customarily uses to communicate with the employee.
+
+   (2) For any notice that is not created by the Office and made available on the City's website, that is required to be posted in the workplace by a provision of the OLPS laws and rules, an employer must post such notice in English and in any language that the employer customarily uses to communicate with any of the employees at that location.
+
+(c) Any notice, policy, or other writing that is required by a provision of the OLPS laws and rules to be personally provided to an employee must be provided by a method that reasonably ensures personal receipt by the employee and that is consistent with any other applicable law or rule that specifically addresses a method of delivery.
+
+(d) Any notice, policy or, other writing that is required to be posted, pursuant to a provision of the OLPS laws and rules must be posted in a printed format in a conspicuous place accessible to employees where notices to employees are customarily posted, pursuant to State and Federal laws and, except for notices created by the Office, in a form customarily used by the employer to communicate with employees.
+
+(e) An employer that places employees to perform work off-site or at dispersed job-sites, such as in private homes, building security posts, or on delivery routes, must comply with any applicable requirement to post a notice, policy or other writing contained in the OLPS laws and rules by providing employees with the required notice personally upon commencement of employment, within fourteen (14) days of the effective date of any changes to the required posting, and upon request by the employee, in addition to the requirements in subdivision (c) of this section.
+
+
+
+
+
+
+
+
+*§ 7-108 Retaliation.* ::
+
+
+(a) No person shall take any adverse action against an employee that penalizes an employee for, or is reasonably likely to deter an employee from, exercising or attempting to exercise rights under the OLPS laws and rules or interfere with an employee's exercise of rights under the OLPS laws and rules.
+
+(b) Taking an adverse action includes, but is not limited to threatening, intimidating, disciplining, discharging, demoting, suspending, or harassing an employee, reducing the hours of pay of an employee, informing another employer than an employee has engaged in activities protected by the OLPS laws and rules, discriminating against the employee, including actions related to perceived immigration status or work authorization, and maintenance or application of an absence control policy that counts protected leave as an absence that may lead to or result in an adverse action.
+
+(c) An employee need not explicitly refer to a provision of the OLPS laws and rules to be protected from an adverse action.
+
+(d) The Office may establish a causal connection between the exercise, attempted exercise, or anticipated exercise of rights protected by the OLPS laws and rules and an employer's adverse action against an employee or a group of employees by indirect or direct evidence.
+
+(e)  For purposes of this section, retaliation is established when the Office shows that a protected activity was a motivating factor for an adverse action, whether or not other factors motivated the adverse action.
+
+
+
+
+
+
+
+
+*§ 7-109 Enforcement and Penalties.* ::
+
+
+(a) The Office may open an investigation to determine compliance with laws enforced by the Office on its own initiative or based on a complaint, except as otherwise provided by Section 20-1309 of Chapter 13 of Title 20 of the Code.
+
+(b) Whether it was issued in person, via mail, or, on written consent of the employer, email, an employer must respond to a written request for information or records by providing the Office with true, accurate, and contemporaneously-made records or information within the following timeframes, except as provided in subdivision (c) of this section, subdivision (c) of Section 20-924 of the Code, 6 RCNY § 7-213 or other applicable law:
+
+   (1) For an initial request for information or records, the employer shall
+
+      i. Within ten (10) days of the date that the request for information was received by the employer provide the following information, if applicable:
+
+         A. the employer's correct legal name and business form;
+
+         B. the employer's trade name or DBA;
+
+         C. the names and addresses of other businesses associated with the employer;
+
+         D. the employer's Federal Employer Identification Number;
+
+         E. the employer's addresses where business is conducted;
+
+         F. the employer's headquarters and principal place of business addresses;
+
+         G. the name, phone number, email address, and mailing address of the owners, officers, directors, principals, members, partners and/or stockholders of more than 10 percent of the outstanding stock of the employer business and their titles;
+
+         H. the name, phone number, email address, and mailing address of the individuals who have operational control over the business;
+
+         I. the name, phone number, email address, and mailing address of the individuals who supervise employees;
+
+         J. the name and contact information of the individual who the office should contact regarding an investigation of the business and an affirmation granting authority to act; and
+
+      ii. Within fourteen (14) days of the date of that the initial request for information or records was received, provide the remaining information or records requested in that initial request.
+
+   (2) For all requests for information or records after the initial request, an employer must respond within the timeframe prescribed by the Office in the request, which shall not exceed fourteen (14) days from the date that the request was received by the employer, unless a longer timeframe has been agreed to by the Office.
+
+   (3) Upon good cause shown, the Director may extend response timeframes required, pursuant to this subdivision.
+
+(c) An employer shall respond to a written request for information or records by providing the Office with true, accurate, and contemporaneously-made records or information in a lesser amount of time than provided in paragraphs 2 and 3 of subdivision b of this section if agreed to by the parties or the Office has reason to believe that:
+
+   (1) The employer will destroy or falsify records;
+
+   (2) The employer is closing, selling, or transferring its business, disposing of assets or is about to declare bankruptcy;
+
+   (3) The employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, OLPS laws and rules, the Freelancers Law and rules, or the Transportation Benefits Law and rules; or
+
+   (4) More immediate access to records is necessary to prevent or remedy retaliation against employees.
+
+(d) In accordance with applicable law, the Office may resolve or attempt to resolve an investigation at any point through settlement upon terms that are satisfactory to the Office.
+
+(e) The Office may issue a notice of violation to an employer who fails to provide true and accurate information or records requested by the Office in connection with an investigation.
+
+(f) An employer who fails to timely and fully respond to the request for information or records that is the subject of a notice of violation issued under subdivision (e) of this section on or before the first scheduled appearance date is subject to a penalty of five hundred dollars, in addition to any penalties or remedies imposed as a result of the Office's investigation.
+
+(g) The employer may cure a notice of violation issued in accordance with subdivision (e) of this section without the penalty imposed in connection with subdivision (f) by:
+
+   (1) producing the requested information or records on or before the first scheduled appearance date; or
+
+   (2) resolving, to the satisfaction of the Office on or before the first scheduled appearance date, the investigation that is the basis for the request for information or records.
+
+(h) A finding that an employer has an official or unofficial policy or practice that denies a right established or protected by the OLPS laws and rules shall constitute a violation of the applicable provision of the OLPS laws and rules for each and every employee subject to such policy or practice.
+
+
+
+
+
+
+
+
+*§ 7-110 Service.* ::
+
+
+Service of documents issued by the Office to employers, including written requests for information or records and notices of violation, shall be made in a manner reasonably calculated to achieve actual notice to the employer. The following are presumed to be reasonably calculated to achieve actual notice: (i) personal service on the employer; (ii) personal service on the employer by regular first-class mail, certified mail, return receipt requested, or private mail delivery services, such as UPS, to an employer's last known business address; or (iii) if an employer has so consented, facsimile, email, including an attachment to an email.
+
+
+
+
+
+
+
+
+*§ 7-111 Recordkeeping.* ::
+
+
+(a) An employer's failure to maintain, retain, or produce a record that is required to be maintained under the OLPS laws and rules that is relevant to a material fact alleged by the Office in a notice of violation issued, pursuant to a provision of the OLPS laws and rules creates a reasonable inference that such fact is true, unless a rebuttable presumption or other adverse inference is provided by applicable law.
+
+(b) An employer that produces records to the department or Office in response to a request for information affirms that the records produced are true and accurate.
+
+
+
+
+
+
+
+
+
+**Subchapter B: Earned Safe and Sick Time**
+
+
+
+*§ 7-201 Definitions.* ::
+
+
+(a) As used in this chapter, the terms "calendar year," "employee," "employer," "health care provider," "paid safe/sick time," "safe time," and "sick time" shall have the same meanings as set forth in Section 20-912 of the Administrative Code.
+
+(b) As used in the Earned Safe and Sick Time Act and in this subchapter, the term "domestic worker" means a person who provides care for a child, companionship for a sick, convalescing or elderly person, housekeeping, or any other domestic service in a home or residence whenever such person is directly and solely employed to provide such service by an individual or private household. The term "domestic worker" does not include any person who is employed by an agency whenever such person provides services as an employee of such agency, regardless of whether such person is jointly employed by an individual or private household in the provision of such services.
+
+
+
+
+
+
+
+
+*§ 7-202 Business Size.* ::
+
+
+(a) Business size for an employer that has operated for less than one year shall be determined by counting the number of employees performing work for an employer for compensation per week, provided that if the number of employees fluctuates between less than five employees and five or more employees per week, business size may be determined for the current calendar year based on the average number of employees per week who worked for compensation for each week during the 80 days immediately preceding the date the employee used safe time or sick time.
+
+(b) Business size for an employer that has operated for one year or more is determined by counting the number of employees working for the employer per week at the time the employee uses safe time or sick time, unless the number of employees fluctuates, in which case business size may be determined for the current calendar year based on the average number of employees per week during the previous calendar year. For purposes of this section, "fluctuates" means that at least three times in the most recent calendar quarter the number of employees working for an employer fluctuated between less than five employees and five or more employees.
+
+
+
+
+
+
+
+
+*§ 7-203 Employees.* ::
+
+
+An individual is "employed for hire within the City of New York for more than eighty hours in a calendar year" for purposes of Section 20-912(f) of the Administrative Code if the individual performs work, including work performed by telecommuting, for more than eighty hours while the individual is physically located in New York City, regardless of where the employer is located.
+
+i. Example: An individual who only performs work while physically located outside of New York City, even if the employer is based in New York City, is not "employed for hire within the City of New York" for purposes of Section 20-912(f) for hours worked outside New York City.
+
+ii. Example: An individual performs twenty hours of work in New Jersey and sixty hours of work in New York City in a calendar year. The twenty hours of work performed by the employee in New Jersey do not count towards the employee's eighty hours of work for purposes of Section 20-912(f).
+
+
+
+
+
+
+
+
+*§ 7-204 Minimum Increments and Fixed Intervals for the Use of Safe Time and Sick Time.* ::
+
+
+(a) Unless otherwise in conflict with State or Federal law or regulations, an employee may decide how much earned safe time or sick time to use, provided however, that an employer may set a minimum increment for the use of safe time and sick time, not to exceed four hours per day, provided such minimum increment is reasonable under the circumstances.
+
+   (i) Example: An employee has worked eighty hours and more than one hundred twenty calendar days have passed since the employee's first day of work for the employer. The employer has set a minimum increment of four hours per day for use of safe time and sick time. The employee has not yet accrued four hours of time, but is entitled to use the time he or she has already accrued. Under these circumstances, it would not be "reasonable under the circumstances" for the employer to require the employee to use a minimum of four hours of safe time or sick time as the minimum increment.
+
+   (ii) Example: An employee is scheduled to work from 8:00 A.M. to 4:00 P.M. Mondays. She schedules a doctor's appointment for 9:00 A.M. on a Monday and notifies her employer of her intent to use sick time and return to work the same day. The employer's written sick time policies require a four hour minimum increment of sick time used per day. If she does not go to work before her appointment, she should appear for work by 12:00 P.M.
+
+(b) An employer may set fixed periods of thirty minutes or any smaller amount of time for the use of accrued safe time or sick time beyond the minimum increment described in subdivision (a) of this section and may require fixed start times for such intervals.
+
+   Example: The employee in Example (ii) of subdivision (a) of this section arrives to work at 12:17 P.M. Under her employer's written sick time policies, employees must use sick time in half-hour intervals that start on the hour or half-hour. The employer can require the employee to use four-and-a-half hours of her accrued sick time and require her to begin work at 12:30 P.M. Similarly, if the employee wanted to leave work at 8:40 A.M. to go to her 9:00 A.M. doctor's appointment, the employer could require the employee to stop work at 8:30 A.M.
+
+
+
+
+
+
+
+
+*§ 7-205 Employee Notification of Use of Safe Time or Sick Time.* ::
+
+
+(a) An employer may require an employee to provide reasonable notice of the need to use safe time or sick time.
+
+(b) An employer that requires notice of the need to use safe time or sick time where the need is not foreseeable shall provide a written policy that contains procedures for the employee to provide notice as soon as practicable. Examples of such procedures may include, but are not limited to, instructing the employee to: (1) call a designated phone number at which an employee can leave a message; (2) follow a uniform call-in procedure; or (3) use another reasonable and accessible means of communication identified by the employer. Such procedures for employees to give notice of the need to use safe time or sick time when the need is not foreseeable may not include any requirement that an employee appear in person at a worksite or deliver any document to the employer prior to using safe time or sick time.
+
+(c) In determining when notice is practicable in a given situation, an employer must consider the individual facts and circumstances of the situation.
+
+(d) An employer that requires notice of the need to use safe time or sick time where the need is foreseeable shall have a written policy for the employee to provide reasonable notice. Such policy shall not require more than seven days’ notice prior to the date such safe time or sick time is to begin. The employer may require that such notice be in writing.
+
+
+
+
+
+
+
+
+*§ 7-206 Documentation from Licensed Health Care Provider.* ::
+
+
+(a) When an employee’s use of sick time results in an absence of more than three consecutive work days, an employer may require reasonable written documentation that the use of sick time was for a purpose authorized under Section 20-914(a) of the Administrative Code. Written documentation signed by a licensed health care provider indicating the need for the amount of sick time taken shall be considered reasonable documentation. “Work days” as used in this subdivision and in Section 20-914(a)(2) of the Administrative Code means the days or parts of days the employee would have worked had the employee not used sick time.
+
+(b) If an employer requires an employee to provide written documentation from a licensed health care provider when the employee’s use of sick time resulted in an absence of more than three consecutive work days, the employee shall be allowed a minimum of seven days from the date he or she returns to work to obtain such documentation. The employee is responsible for the cost of such documentation not covered by insurance or any other benefit plan.
+
+(c) If an employee provides written documentation from a licensed health care provider in accordance with subdivision (a) of this section, an employer may not require an employee to obtain documentation from a second licensed health care provider indicating the need for sick time in the amount used by the employee.
+
+
+
+
+
+
+
+
+*§ 7-207 Domestic Workers.* ::
+
+
+(a) Domestic workers who have worked for the same employer for at least one year and who work more than 80 hours in a calendar year will be entitled to two days of paid safe/sick time per year, as provided in this section.
+
+(b) The two days of paid safe/sick time must be calculated in the manner that paid days of rest for domestic workers are calculated, pursuant to New York State Labor Law Section 161(1).
+
+(c) A domestic worker described in subdivision (a) of this section is entitled to two days of paid safe/sick time on the next date that such domestic worker is entitled to a paid day or days of rest under New York State Labor Law Section 161(1), and annually thereafter.
+
+(d) Safe time and sick time accrued by a domestic worker will carry over to the next calendar year.
+
+
+
+
+
+
+
+
+*§ 7-208 Rate of Pay for Safe Time and Sick Time.* ::
+
+
+(a) Except as provided in subdivision (b) of this section, when using paid safe/sick time, an employee shall be compensated at the same hourly rate that the employee would have earned at the time the paid safe/sick time is taken.
+
+(b) If the employee uses paid safe/sick time during hours that would have been designated as overtime, the employer is not required to pay the overtime rate of pay.
+
+(c) An employee is not entitled to compensation for lost tips or gratuities, provided, however, that an employer must pay an employee whose hourly rate of pay or salary is based in whole or in part on tips or gratuities at least the full minimum wage.
+
+(d) For employees who are paid on a commission (whether base wage plus commission or commission only), the hourly rate of pay shall be the base wage or minimum wage, whichever is greater.
+
+(e) When an employer pays a flat rate of pay for work performed, regardless of the number of hours actually worked, an employee's hourly rate of pay shall be based on the most recent hourly rate paid to the employee for the applicable pay period, calculated by adding together the employee's total earnings, including tips, commissions, and supplements, for the most recent work week in which no safe time or sick time or other leave was taken and dividing that sum by the number of hours spent performing work during such work week or forty hours, whichever amount of hours is less.
+
+(f) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the rate of pay shall be the rate of pay that the employee would have been paid during the time the employee used the safe time or sick time.
+
+(g) An employer is not required to pay cash in lieu of supplements for safe time or sick time used if remuneration for employment includes supplements. The fact that an employer pays cash in lieu of supplements to an employee does not relieve the employer of the requirements of the Earned Safe and Sick Time Act.
+
+(h) Under no circumstance can the employer pay the employee less than the minimum wage for paid safe/sick time.
+
+
+
+
+
+
+
+
+*§ 7-209 Payment of Safe/Sick Time.* ::
+
+
+(a) Safe time and sick time must be paid no later than the payday for the next regular payroll period beginning after the safe time or sick time was used by the employee.
+
+(b) If the employer has asked for written documentation or verification of use of safe time or sick time, pursuant to Section 20-914(a), 20-914(b) or 20-914(d) of the Administrative Code, the employer is not required to pay safe time or sick time until the employee has provided such documentation or verification.
+
+
+
+
+
+
+
+
+*§ 7-210 Employer's Sale of Business.* ::
+
+
+(a) If an employer sells its business or the business is otherwise acquired by another business, an employee will retain and may use all accrued safe time and sick time if the employee continues to perform work within the City of New York for the successor employer.
+
+(b) If the successor employer has fewer than five employees, and the former employer had more than five employees, the employee is entitled to use and be compensated for unused safe time and sick time accrued while working for the former employer, until such safe time and sick time is exhausted.
+
+(c) A successor employer must provide employees with its written safe time and sick time policies at the time of sale or acquisition, or as soon as practicable thereafter, which shall include a policy that complies with this section.
+
+
+
+
+
+
+
+
+*§ 7-211 Employer’s Written Safe Time and Sick Time Policies.* ::
+
+
+(a) Every employer shall maintain written safe time and sick time policies in a single writing and follow such written safe time and sick time policies except as allowed in subdivision (d) of this section.
+
+(b) Every employer must distribute its written safe time and sick time policies personally upon commencement of employment, within 14 days of the effective date of any changes to the policy, and upon request by the employee.
+
+(c) An employer's written safe time and sick time policies must meet or exceed all of the requirements of the Earned Safe and Sick Time Act and this chapter and state at a minimum:
+
+   (1) The employer's method of calculating safe time and sick time as follows:
+
+      (i) If an employer provides employees with an amount of safe time and sick time that meets or exceeds the requirements of the Earned Safe and Sick Time Act on or before the employee's 120th day of employment and on the first day of each new calendar year, which for the purposes of this section is defined as "frontloaded safe time and sick time," then the employer's written safe time and sick time policy must specify the amount of frontloaded safe time and sick time to be provided;
+
+      (ii) If the employer does not apply frontloaded safe time and sick time, then the employer's written safe time and sick time policy must specify when accrual of safe time and sick time starts, the rate at which an employee accrues safe time and sick time and the maximum number of hours an employee may accrue in a calendar year;
+
+   (2) The employer's policies regarding the use of safe time and sick time, including any limitations or conditions the employer places on the use of safe time and sick time, such as:
+
+      (i) Any requirement that an employee provide notice of a need to use safe time and sick time and the procedures for doing so in accordance with 6 RCNY § 7-205;
+
+      (ii) Any requirement for written documentation or verification of the use of safe time and sick time in accordance with Sections 20-914(a)(2), 20-914(b)(2), or 20-914(d) of the Administrative Code, and the employer's policy regarding any consequences of an employee's failure or delay in providing such documentation or verification;
+
+      (iii) Any reasonable minimum increment or fixed period for the use of accrued safe time and sick time;
+
+      (iv) Any policy on discipline for employee misuse of safe time and sick time under 6 RCNC § 7-215; and
+
+      (v) A description of the confidentiality requirements of Section 20-921 of the Administrative Code.
+
+   (3) The employer's policy regarding carry-over of unused safe time and sick time at the end of an employer's calendar year in accordance with Section 20-913(h) of the Administrative Code; and,
+
+   (4) If an employer uses a term other than "safe/sick time" or "safe and sick time" to describe leave provided by the employer to meet the requirements of the Earned Safe and Sick Time Act, the employer's policy must state that such leave may be used by an employee for any of the purposes set forth in the Earned Safe and Sick Time Act without any condition prohibited by the Earned Safe and Sick Time Act. Terms used to describe such leave may include, but are not necessarily limited to, "paid time off" ("PTO"), vacation time, personal days, or days of rest.
+
+(d) Nothing in this chapter shall prevent an employer from making exceptions to its written safe time and sick time policy for individual employees that are more generous to the employee than the terms of the employer's written policy.
+
+(e) Requirements relating to an employer's additional and separate obligation to provide employees with a Notice of Rights under the Earned Safe and Sick Time Act are set forth in Section 20-919 of the Administrative Code. An employer may not distribute the Notice of Rights required by Section 20-919 of the Administrative Code or any other department writing in lieu of distributing or posting its own written safe time and sick time policies as required by this section.
+
+(f) An employer that has not provided to the employee a copy of its written safe time and sick time policies along with any forms or procedures required by the employer related to the use of safe time and sick time shall not deny safe time or sick time or payment of safe time or sick time to the employee based on non-compliance with such a policy.
+
+
+
+
+
+
+
+
+*§ 7-212 Employer Records.* ::
+
+
+(a) Employers must retain records demonstrating compliance with the requirements of the Earned Safe and Sick Time Act, including records of any policies required, pursuant to this Chapter, for a period of three years unless otherwise required by any other law, rule or regulation.
+
+(b) An employer must maintain, in an accessible format, contemporaneous, true, and accurate records that show, for each employee:
+
+   (1) The employee's name, address, phone number, date(s) of start of employment, date(s) of end of employment (if any), rate of pay, and whether the employee is exempt from the overtime requirements of New York State labor laws and regulations;
+
+   (2) The hours worked each week by the employee, unless the employee is exempt from the overtime requirements of New York State labor laws and regulations and has a regular work week of forty hours or more;
+
+   (3) The date and time of each instance of safe time or sick time used by the employee and the amount paid for each instance;
+
+   (4) Any change in the material terms of employment specific to the employee; and
+
+   (5) The date that the Notice of Rights as set forth in Section 20-919 of the Administrative Code was provided to the employee and proof that the Notice of Rights was received by the employee.
+
+(c) If the office issues a written request for information or records, an employer shall provide the office with such information or records, upon appropriate notice, at the department's office. Alternately, an employer shall provide the office with access to such information or records upon appropriate notice and at a mutually agreeable time of day at the employer's place of business.
+
+(d) "Appropriate notice" shall mean 30 days' written notice, unless the employer agrees to a lesser amount of time, the office's request for the information or records is a second or subsequent request made to the same employer during the same investigation or case as the first request, or the office has reason to believe that:
+
+   (1) the employer will destroy or falsify records;
+
+   (2) the employer is closing, selling or transferring its business, disposing of assets or is about to declare bankruptcy;
+
+   (3) the employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, or an OLPS law or rule; or
+
+   (4) more immediate access to records is necessary to prevent retaliation against employees.
+
+(e) The office will make two attempts by letter, email or telephone to arrange a mutually agreeable time of day for the employer to provide access to its records in accordance with subdivision (d) of this section. If these attempts are not successful, the office may set a time to access records at the employer's place of business during regular business hours, upon two days' notice.
+
+
+
+
+
+
+
+
+*§ 7-213 Enforcement and Penalties.* ::
+
+
+(a) A finding that an employer has an official or unofficial policy or practice of not providing or refusing to allow the use of safe time or sick time as required under the Earned Safe and Sick Time Act constitutes a violation of Section 20-913 of the Administrative Code for each and every employee affected by the policy and will be subject to penalties as provided in Section 20-924(e) of the Code.
+
+(b) For purposes of Section 20-924(e) of the Administrative Code, penalties shall be imposed on a per employee basis.
+
+(c) If an employer, as a matter of policy or practice, does not allow accrual of safe time and sick time as required under the Earned Safe and Sick Time Act, the relief granted to each and every employee affected by the policy or practice must include either application of 40 hours of safe time and sick time to the employee's safe time and sick time balance or, where such information is known, application of the number of hours of safe time and sick time the employee should have accrued to the employee's safe time and sick time balance, provided that such balance does not exceed 80 hours.
+
+
+
+
+
+
+
+
+*§ 7-214 Accrual, Hours Worked and Carry Over.* ::
+
+
+(a) If an employee is scheduled and available to work for an on-call shift and is compensated for the scheduled time regardless of whether the employee works, the scheduled time constitutes hours worked for the purposes of accrual under the Earned Safe and Sick Time Act.
+
+(b) For employees who are paid on a piecework basis, accrual of safe time and sick time is measured by the actual length of time spent performing work.
+
+(c) For employees who are paid on a commission basis, accrual of safe time and sick time is measured by the actual length of time spent performing work.
+
+(d) For employees with indeterminate shift lengths (e.g. a shift defined by business needs), an employer shall base the hours of safe time or sick time used upon the hours worked by the replacement employee for the same shift. If this method is not possible, the hours of safe time or sick time must be based on the hours worked by the employee when the employee most recently worked the same shift in the past.
+
+(e) If an employee is rehired within six months of separation from employment and had not reached the required 120 days to begin using accrued safe time and sick time under Section 20-913(d)(1) of the Administrative Code at the time the employee separated from employment, upon resumption of employment, the employee shall be credited at least his or her previous calendar days towards the 120 day waiting period. For the purposes of this subdivision, "waiting period" shall mean the time period described in Section 20-913(d)(1) of the Administrative Code between the start of employment and the 120th calendar day following the start of employment or July 30, 2014, whichever is later, except for that an employer is not required to allow an employee to begin to use safe time before May 5, 2018.
+
+(f) An employee may carry over up to 40 hours of unused safe and sick time from one calendar year to the next, unless the employer has a policy of paying employees for unused safe time and sick time at the end of the calendar year in which such time is accrued and providing the employee with an amount of paid safe time and sick time that meets or exceeds the requirements of the Earned Safe and Sick Time Act for such employee for the immediately subsequent calendar year on the first day of such year in accordance with Section 20-913(h) of the Administrative Code. Regardless of the number of hours an employee carried over from the previous calendar year, an employer is only required to allow employees to accrue up to 40 hours of safe time and sick time in a calendar year. If an employee's safe time and sick time balance exceeds 40 hours in a single calendar year, an employer is only required to allow the employee to use up to 40 hours in such calendar year.
+
+   Example: An employee accrues 40 hours of safe time and sick time in calendar year one and uses 20 hours of safe time and sick time in calendar year one. She carries over 20 hours from calendar year one to calendar year two, accrues 40 hours in calendar year two, and does not use any hours in calendar year two. Her safe time and sick leave balance at the end of calendar year two is 60 hours (20 hours from calendar year two plus 40 hours from calendar year two). She may carry over 40 of those 60 hours into calendar year three and accrue another 40 hours in calendar year three.
+
+
+
+
+
+
+
+
+*§ 7-215 Employee Abuse of Safe Time and Sick Time.* ::
+
+
+An employer may take disciplinary action, up to and including termination, against an employee who uses safe time or sick time provided under the Earned Safe and Sick Time Act for purposes other than those described in Sections 20-914(a) and Section 20-914(b) of the Administrative Code. Indications of abuse of safe time and sick time may include, but are not limited to a pattern of: (1) use of unscheduled safe time and sick time on or adjacent to weekends, regularly scheduled days off, holidays, vacation or pay day, (2) taking scheduled safe time and sick time on days when other leave has been denied, and (3) taking safe time and sick time on days when the employee is scheduled to work a shift or perform duties perceived as undesirable.
+
+
+
+
+
+
+
+
+
+**Subchapter C: Transportation Benefits**
+
+
+
+*§ 7-301 Definitions.* ::
+
+
+As used in this chapter and, where applicable, in the Transportation Benefits Law, the following terms have the following meanings:
+
+"Chain business" means a group of establishments that share a common owner or principal who owns a majority of each establishment where such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as defined in general business law section 681.
+
+"Commuter highway vehicle" means a "commuter highway vehicle" as such term is defined in Section 132(f)(5)(B) of the Internal Revenue Code.
+
+"Cure period" means the ninety-day period immediately following a finding of a first violation.
+
+"Department" means the Department of Consumer Affairs of the City of New York.
+
+"Employee" means an "employee," "manual worker," "railroad worker," "commission salesman," or "clerical or other worker" as such terms are defined in § 190 of the New York State Labor Law. "Employee" does not include partners, sole proprietors, independent contractors, or two-percent shareholders of S-corporations.
+
+"Employer" means an "employer" as such term is defined in § 190 of the New York State Labor Law and that employs twenty or more full-time employees in New York City. The common owner or principal of a chain business shall be considered the employer of the full-time employees of such chain business.
+
+"First violation" means the first finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law since July 1, 2016.
+
+"Full-time employee" means an employee who has worked an average of 30 hours or more per week in the most recent four weeks as of any date of counting, any portion of which was in New York City, for a single employer.
+
+"Earnings" shall have the same meaning as the term "gross income" as used in § 132 of the Internal Revenue Code.
+
+"Month" means an employer's regularly established fiscal month.
+
+"Recidivist violation" means any new finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law, after the first finding by the administrative tribunal that the employer had violated the Transportation Benefits Law since July 1, 2016.
+
+"Subsequent violation" means each continuous thirty-day period after the expiration of the cure period, or after the finding of a recidivist violation by the administrative tribunal, in which the employer has not demonstrated to the department's satisfaction that it is complying with the Transportation Benefits Law.
+
+"Temporary help firm" means an employer that recruits, hires and supplies employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages or seasonal workloads; or (iii) perform special assignments or projects.
+
+"Transportation Benefits Law" means Chapter 9 of Title 20 of the Administrative Code of the City of New York.
+
+"Transportation fringe benefits" means qualified transportation fringe benefits, other than qualified parking, that may be purchased using pre-tax earnings in accordance with § 132 of the Internal Revenue Code.
+
+"Week" means an employer's regularly established payroll week.
+
+
+
+
+
+
+
+
+*§ 7-302 Determination of Size of Employer.* ::
+
+
+(a) An employer's number of full-time employees is determined by calculating the average number of full-time employees for the most recent consecutive three- month period, provided that for an employer that has operated for less than three months, the number of full-time employees is determined by calculating the average number of full-time employees per week for the period of time in which the employer has been in operation.
+
+(b) Full-time employees at all of an employer's or a chain business's locations in New York City shall be counted in determining the number of full-time employees of the employer.
+
+
+
+
+
+
+
+
+*§ 7-303 Temporary Help Firms.* ::
+
+
+(a) Where a temporary help firm supplies a full-time employee to another organization, the temporary help firm shall be the employer of the full-time employee for purposes of the Transportation Benefits Law and must comply with its provisions, regardless of the size of the other organization.
+
+(b) To determine the number of hours worked each week by an employee working for a temporary help firm, the employer must aggregate the number of hours worked by the employee in the most recent four weeks at all placements.
+
+
+
+
+
+
+
+
+*§ 7-304 Employee Eligibility.* ::
+
+
+(a) An employer must offer its full-time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits by January 1, 2016, or four weeks after such employee's commencement of employment as a full-time employee of the employer, whichever is later.
+
+(b) If an employer's work force is reduced to fewer than 20 full-time employees, the employer must continue to offer the opportunity to use pre-tax earnings to purchase transportation fringe benefits to full-time employees who were employer's full-time employees before the work force was reduced.
+
+
+
+
+
+
+
+
+*§ 7-305 Maximum Deductions.* ::
+
+
+Employers must offer full-time employees the opportunity to use the maximum amount of pre-tax earnings permitted under federal law for the purchase of transportation fringe benefits.
+
+
+
+
+
+
+
+
+*§ 7-306 Recordkeeping Requirements.* ::
+
+
+Employers must retain records for two years sufficient to demonstrate (i) that each full-time employee eligible for transportation fringe benefits pursuant to the Transportation Benefits Law and this chapter was offered the opportunity to use pre-tax earnings to purchase transportation fringe benefits in accordance with this chapter; or (ii) records sufficient to demonstrate that the employer provides, at the employer's expense, a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation fringe benefit amount that may be excluded from pre-tax earnings. Employers may use the form provided by the department and available on the department's website to document compliance.
+
+
+
+
+
+
+
+
+*§ 7-307 Employer-Funded Transportation Benefits.* ::
+
+
+(a) As an alternative to offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits, an employer may provide at the employer's expense a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle.
+
+(b) If the employer-provided transit pass or similar form of payment is less than the maximum transportation fringe benefit that may be excluded from pre-tax earnings under federal law, then the employer must offer employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits for an amount equal to the difference between the value of the employer-provided transit pass or similar form of payment and the maximum amount that may be excluded from gross earnings under federal law.
+
+
+
+
+
+
+
+
+*§ 7-308 Financial Hardship Exemption.* ::
+
+
+(a) The department may waive the requirements of the Transportation Benefits Law for an employer if such employer demonstrates to the department's satisfaction that offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits would be a financial hardship for such employer.
+
+(b) To qualify for a waiver, an employer must present compelling evidence that complying with the Transportation Benefits Law would be impracticable and create a severe financial hardship.
+
+
+
+
+
+
+
+
+*§ 7-309 Enforcement and Penalties.* ::
+
+
+(a) The department may issue a notice of violation pursuant to section 20-926(b) of the Administrative Code.
+
+(b) Any employer found to be in violation of the Transportation Benefits Law will be liable for a civil penalty of two-hundred fifty dollars payable to the city of New York for the first violation, for any and each subsequent violation, and for any and each recidivist violation.
+
+(c) A civil penalty will not be imposed on an employer for the first violation if the employer demonstrates to the satisfaction of the department within the cure period that it is complying with the Transportation Benefits Law.
+
+(d) For the purposes of this section, "satisfaction of the department" with reference to an employer's compliance with the Transportation Benefits Law means proof that the employer has offered its full time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits or that the employer provides, at the employer's expense, a transit pass, or similar form of payment, for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation benefit amount that may be excluded from pre-tax earnings.
+
+(e) An employer seeking to demonstrate that it is complying with the Transportation Benefits Law may do so by submitting the compliance form provided by the department and available on the department's website. The department may require submission of additional information, including documentary evidence, reasonably necessary to prove that a first violation was cured within the cure period.
+
+
+
+
+
+
+
+
+
+**Subchapter D: Displaced Grocery Workers**
+
+
+
+*§ 7-401 Definitions.* ::
+
+
+(a) As used in this chapter, the following terms have the same meanings as set forth in section 22-507 of the Administrative Code: "change in control," "city," "department," "eligible grocery employee," "grocery establishment," "incumbent grocery employer," "person," "successor grocery employer," and "transitional employment period."
+
+(b) As used in this chapter, the following terms shall have the following meanings:
+
+   "Continuous employment" means uninterrupted employment. Separations from employment six months or less in duration for any reason, including, but not limited to, transfer from a grocery establishment that is subject to a change in control to a grocery establishment with the same incumbent grocery employer, paid or unpaid leaves of absence, paid or unpaid time off, and work schedule changes, shall not constitute interruptions in employment.
+
+   "Grocery employer" means incumbent grocery employers and successor grocery employers.
+
+   "Grocery Worker Retention Act" means section 22-507 of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 7-402 Eligible Grocery Employees.* ::
+
+
+(a) For purposes of the definition of "eligible grocery employee" in section 22-507(a) of the Administrative Code, "a period" means "a period of continuous employment."
+
+(b) For purposes of section 22-507(a) of the Administrative Code, "confidential employee" means "confidential employee" as defined in the federal Labor Management Relations Act, 22 U.S.C. § 4102(6).
+
+(c) An employee's length of continuous employment at a grocery establishment with the same incumbent grocery employer as the grocery establishment subject to a change in control preceding an employee's transfer to the grocery establishment subject to a change in control shall count towards that employee's continuous employment at the grocery establishment subject to the change in control.
+
+
+
+
+
+
+
+
+*§ 7-403 Determining Seniority.* ::
+
+
+For purposes of section 22-507(b)(3) of the Administrative Code, an employee attains seniority as a result of that employee's length of continuous employment in the grocery establishment subject to a change in control, regardless of job position and regardless of full-time or part-time status, or, in the case of an employee transferred to a grocery establishment subject to a change in control, that employee's total length of continuous employment in any of the incumbent grocery employer's grocery establishments.
+
+
+
+
+
+
+
+
+*§ 7-404 Recordkeeping.* ::
+
+
+(a) Grocery employers must retain records demonstrating compliance with the requirements of the Grocery Worker Retention Act for a period of three years unless otherwise required by any other law, rule, or regulation.
+
+(b) Incumbent grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
+
+   (1) The list of eligible grocery employees required under section 22-507(b)(1)(A) of the Administrative Code, the date the list was provided to the successor grocery employer, and written proof that the list was provided to the successor grocery employer; and
+
+   (2) The notice of change in control required under section 22-507(b)(1)(B) of the Administrative Code, the date it was posted, and proof of posting.
+
+(c) Successor grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
+
+   (1) The list of eligible grocery employees received by the successor grocery employer pursuant to section 22-507(b)(1)(A) of the Administrative Code and the date it was received, and the names of those eligible employees retained for the transitional employment period pursuant to section 22-507(b)(2) of the Administrative Code;
+
+   (2) The preferential hiring list required under section 22-507(b)(3) of the Administrative Code, the date eligible employees on the preferential hiring list were given the right of first refusal to jobs that become available during the transitional employment period, and proof that the right of first refusal was given; and
+
+   (3) The written performance evaluations as required under section 22-507(b)(5) of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 7-405 Enforcement.* ::
+
+
+(a) If the grocery employer fails to timely respond to, written request for information or records from the department, a grocery employer must provide the department with access to records and at a mutually agreeable time of day at the employer's place of business.
+
+(b) The department will make two attempts by any combination of letter, email, or telephone to arrange a mutually agreeable time of day for the grocery employer to provide access to its records in accordance with subdivision (b) of this section. If these attempts are not successful, the department may set a time to access records at the grocery employer's place of business during regular business hours, upon two days' notice to the grocery employer.
+
+(c) The grocery employer may cure a notice of violation issued to a grocery employer for failure to provide requested information, records or access to records as required by 6 RCNY § 7-405 without penalty by producing the requested information or records on or before the first scheduled hearing date.
+
+(d) The department may settle a complaint at any time prior to the conclusion of an adjudication. Prior to settling any complaint filed by an eligible grocery employee, pursuant to Section 22-507(d)(1), the department shall provide each complainant with notice of the proposed settlement.
+
+(e) A complainant who intends to opt out of a settlement, pursuant to Section 22-507(d)(1)(E) of the Administrative Code must do so in writing to the department. A complainant who intends to withdraw his or her complaint with the department, pursuant to Section 22-507(d)(2) of the Administrative Code must do so in writing to the department prior to bringing a civil action.
+
+
+
+
+
+
+
+
+
+**Subchapter E: Freelance Workers**
+
+
+
+*§ 7-501 Definitions.* ::
+
+
+(a) As used in this chapter, the terms “director,” “freelance worker,” and “hiring party” shall have the same meanings as set forth in Section 20-927 of the Administrative Code.
+
+(b) As used in this chapter, the term “adverse action” means any action by a hiring party, their actual or apparent agent, or any other person acting directly or indirectly on behalf of a hiring party, that would constitute a threat, intimidation, discipline, harassment, denial of a work opportunity, or discrimination, or any other act that penalizes a freelance worker for, or is reasonably likely to deter a freelance worker from, exercising or attempting to exercise any right guaranteed under Chapter 10 of Title 20 of the Administrative Code (“the Freelance Isn’t Free Act”).
+
+
+
+
+
+
+
+
+*§ 7-502 Coverage.* ::
+
+
+A freelance worker is entitled to the protections of the Freelance Isn’t Free Act regardless of immigration status.
+
+
+
+
+
+
+
+
+*§ 7-503 Contract Value.* ::
+
+
+(a) For purposes of Section 20-928(a) of the Administrative Code, the value of a contract between a freelance worker and hiring party, either by itself or when aggregated with all other agreements for services between the same hiring party and freelance worker during the 120 days immediately preceding the agreement that constitutes the contract, shall include the reasonable value of all actual or anticipated services, costs for supplies, and any other expenses under the contract.
+
+(b) For purposes of Section 20-933(b) of the Administrative Code, the value of the underlying contract between a freelance worker and hiring party shall include the reasonable value of all services performed and/or anticipated, and reasonable costs for supplies and any other expenses reasonably incurred by the freelance worker.
+
+
+
+
+
+
+
+
+*§ 7-504 Retaliation.* ::
+
+
+(a) Retaliation shall include but is not limited to any adverse action relating to perceived immigration status or work authorization.
+
+(b) A freelance worker may establish a causal connection between the exercise of rights guaranteed under the Freelance Isn’t Free Act and a hiring party’s adverse action either circumstantially, such as with evidence that the protected activity was followed closely by the adverse action, or directly, with evidence of an intention by a hiring party to retaliate against a freelance worker. For purposes of Section 20-930 of the Administrative Code, retaliation may be established when a freelance worker shows that the exercise or attempt to exercise any right under the Freelance Isn’t Free Act was a motivating factor for an adverse action, even if other factors also motivated the adverse action.
+
+(c) Any person who denies a work opportunity to a freelance worker who exercises or attempts to exercise any right guaranteed under the Freelance Isn’t Free Act, or that takes any action reasonably likely to deter a freelance worker from exercising or attempting to exercise any such right, shall be liable for retaliation regardless of whether that person previously has been a party to a contract with the freelance worker or has been the subject of a complaint by the freelance worker.
+
+
+
+
+
+
+
+
+*§ 7-505 Waivers of Rights.* ::
+
+
+(a) Any contract entered into by a hiring party and freelance worker shall not include any prospective waiver or limitation of rights under the Freelance Isn’t Free Act. Any such waiver or limitation shall be invalid as a matter of law.
+
+(b) If a contract includes language that waives or limits a freelance worker’s right to participate in or receive money or any other relief from any class, collective, or representative proceeding, said waiver or limitation is void.
+
+(c) Wherever a hiring party asks a freelance worker to waive or limit, via contract, any other procedural right normally afforded to a party in a civil or administrative action, any such contractual waivers and limitations are void under Section 20-935 of the Administrative Code. Such rights include but are not limited to procedural rights of parties to a civil action established by the New York Civil Practice Law and Rules, the Federal Rules of Evidence, and the Federal Rules of Civil Procedure.
+
+(d) A freelance worker has the right to disclose the terms of a contract with a hiring party to the director. Any private contractual agreement that purports to waive or limit a freelance worker’s right to communicate the terms of such a contract to the director is void as against public policy
+
+
+
+
+
+
+
+
+
+**Subchapter F: Fair Workweek**
+
+
+
+*§ 7-601 Definitions* ::
+
+
+(a) As used in Title 20, Chapter 12 of the New York City Administrative Code and this subchapter, the following terms have the following meanings, except as otherwise provided:
+
+   “Actual hours worked” means the number, dates, times and locations of hours worked by an employee for an employer, whether or not such hours differ from the work schedule provided in advance.
+
+   “Additional shift” is a shift not previously scheduled that would be offered to a new fast food employee but for the requirements of Section 20-1241 of the Fair Workweek Law.
+
+   “Clopening” means two shifts with fewer than 11 hours between the end of the first shift and the beginning of the second shift when the first shift ends the previous calendar day or spans two calendar days.
+
+   “Current fast food employee” as that term is used in Section 20-1241 of the Fair Workweek Law and these rules means a fast food employee who has worked at least eight hours in the preceding 30 days or is otherwise currently on the fast food employer’s payroll.
+
+   “Dates” as that term is used in subdivision (a) of Section 20-1221 of the Fair Workweek Law means days of the week.
+
+   “Directly notify” as that term is used in subdivision (b) of Section 20-1252 of the Fair Workweek Law means to deliver to an individual employee.
+
+   “Engaged primarily in the sale of consumer goods” as that term is used in the definition of “retail employer” in Section 20-1201 of the Fair Workweek Law means greater than fifty percent of sale transactions in a calendar year at one or more locations in the City are to retail consumers.
+
+   “Fair Workweek Law” means Chapter 12 of Title 20 of the Administrative Code of the City of New York.
+
+   “Good faith estimate” means the number of hours a fast food employee can expect to work per week for the duration of the employee’s employment and the expected days, times, and locations of those hours.
+
+   “New fast food employee” means an employee who has not worked at least eight hours in the preceding 30 days for the fast food employer.
+
+   “Overtime pay” means payment (i) at a rate not less than one and one-half times the fast food employee’s regular rate of pay under subsection (a) of Section 207 of Title 29 of the United States Code; or (ii) at a rate governed by the overtime requirements of the labor law or the overtime requirements of any minimum wage order promulgated by the New York commissioner of labor, pursuant to labor law article 19 or 19-A.
+
+   “Premium pay” means a schedule change premium required, pursuant to Section 20-1222 of the Fair Workweek Law or the payment a fast food employer is required to pay to a fast food employee who works a “clopening”, pursuant to Section 20-1231 of the Fair Workweek Law.
+
+   “Retail consumer” means an individual who buys or leases consumer goods and that individual’s co-obligor or surety. Retail consumer shall not include manufacturers, wholesalers, or others who purchase or lease consumer goods for resale as new to others.
+
+   “Salaried” means not covered by the overtime requirements of New York state law or regulations.
+
+   “Shift” means an on-call shift or a regular shift.
+
+   “Shift increment” means a portion of a shift.
+
+   “Subset of shifts” means one or more shifts or shift increments.
+
+   “Time” as that term is used in Section 20-1221(a) of the Fair Workweek Law regarding good faith estimate means start and end times of shifts.
+
+(b) As used in this subchapter, the following terms have the same meanings as set forth in Section 20-1201* of the Fair Workweek Law: “fast food employee,” “fast food employer,” “fast food establishment,” “on-call shift,” “regular shift,” “retail employee,” “retail employer,” “schedule change premium,” “work schedule.”
+
+*Editor's note: The original rule cited Section 12-1201 of the Fair Workweek Law; cite corrected at the discretion of the editor.
+
+
+
+
+
+
+
+
+*§ 7-602 Notice of rights* ::
+
+
+The notice of rights required to be posted, pursuant to Section 20-1205 of the Fair Workweek Law shall be printed on and scaled to fill an 11x17 inch sheet of paper.
+
+
+
+
+
+
+
+
+*§ 7-603 Good faith estimate* ::
+
+
+(a) If a fast food employer makes a long-term or indefinite change to the good faith estimate that has been provided to a fast food employee, the fast food employer shall provide an updated good faith estimate to the fast food employee as soon as possible and before the fast food employee receives the first work schedule following the change.
+
+(b) For purposes of this Section and Section 20-1221 of the Fair Workweek Law, “long-term or indefinite change” includes, but is not limited to:
+
+   i. Three work weeks out of six consecutive work weeks in which the number of actual hours worked differs by twenty percent from the good faith estimate during each of the three weeks;
+
+   ii. Three work weeks out of six consecutive work weeks in which the days differ from the good faith estimate at least once per week;
+
+   iii. Three work weeks out of six consecutive work weeks in which the start and end times of at least one shift per week differs from the good faith estimate by at least one hour and the total number of hours changed for the six week period is at least six hours; or
+
+   iv. Three work weeks out of six consecutive work weeks in which the locations differ from the good faith estimate at least once per week.
+
+(c) Each occurrence of a long-term or indefinite change for which a fast food employer fails to provide an updated good faith estimate before such employee receives the first work schedule following the change constitutes a violation of Section 20-1221(a) of the Fair Workweek Law.
+
+
+
+
+
+
+
+
+*§ 7-604 Work schedules* ::
+
+
+(a) On or before a fast food employee’s first day of work, a fast food employer must provide such fast food employee with written notice of an initial work schedule containing all regular shifts and all on-call shifts the fast food employee will work until the start of the first shift of the next subsequent work schedule. The fast food employer must also issue an updated work schedule as required in paragraph (2) of subdivision (c) of Section 20-1221* of the Fair Workweek Law.
+
+*Editor's note: The original rule cited Section 1221 of the Fair Workweek Law; cite corrected at the discretion of the editor.
+
+(b) A work schedule provided, pursuant to Section 20-1252 of the Fair Workweek Law must span a period of no less than seven days.
+
+
+
+
+
+
+
+
+*§ 7-605 Posted notice of schedules* ::
+
+
+A fast food or retail employer may not post or otherwise disclose to other fast food or retail employees the work schedule of a fast food or retail employee who has been granted an accommodation based on the employee’s status as a survivor of domestic violence, stalking, or sexual assault, where such disclosure would conflict with such accommodation.
+
+
+
+
+
+
+
+
+*§ 7-606 Employee consent and minimal changes to shifts* ::
+
+
+(a) Where a fast food employee’s written consent is required to work additional hours, pursuant to subdivision (d) of Section 20-1221 of the Fair Workweek Law or where a retail employee’s written consent is required to work an additional shift with less than 72 hours’ notice, pursuant to paragraph (3) of subdivision (d) of Section 20-1251 of the Fair Workweek Law, such written consent must be provided in reference to a specific schedule change; general or ongoing consent is insufficient to meet such requirements.
+
+(b) A fast food employer may change a previously scheduled regular shift by 15 minutes or less without being obligated to pay the fast food employee a schedule change premium. A fast food employer will be obligated to pay the fast food employee a schedule change premium if total changes made to one shift exceed 15 minutes.
+
+Example: A fast food employer provides a fast food employee with a schedule that includes a shift on Tuesday from 12:00 P.M. to 5:00 P.M. At approximately 5:00 P.M. on Tuesday, the fast food employer asks the fast food employee to work a few minutes more to assist with a large tour group that just came to the fast food establishment. She agrees in writing and finishes the work at 5:12 P.M. The fast food employer need not pay her the schedule change premium.
+
+
+
+
+
+
+
+
+*§ 7-607 Notice and offer of additional shifts* ::
+
+
+(a) A fast food employer must notify a fast food employee in writing of the method by which additional shifts will be posted in accordance with Section 20-1241 of the Fair Workweek Law upon commencement of a fast food employee’s employment with the fast food employer and within 24 hours of any change to or adoption of a method.
+
+(b) The fast food employer must post notice of additional shifts for three consecutive calendar days. When a fast food employer has less than three days’ notice of a need to fill an additional shift, the fast food employer shall post notice of the additional shift for three consecutive calendar days as soon as practicable and not more than 24 hours after finding out about the need to fill the shift. Where there is less than three days’ notice, any existing fast food employee may be offered, on a temporary basis, additional shifts that take place prior to the conclusion of the three-day notice period.
+
+Example: On Wednesday at 9:00 A.M., a fast food employer receives a call from a fast food employee who tells her that she is quitting and she will not report for her regularly scheduled shift on Friday at 9:00 A.M. The fast food employer knew of the need to fill the shift 48 hours (or two days) in advance. The fast food employer may offer another existing fast food employee the shift on the first Friday, but must post the available shift with three days’ notice to its employees and assign subsequent Friday 9:00 A.M. shifts to its existing fast food employees in accordance with its criteria in accordance with Section 20-1241 of the Fair Workweek Law and this subchapter before hiring a new employee.
+
+(c) A fast food employer that owns 50 or more fast food establishments in New York City may offer additional shifts, in accordance with subdivisions (a), (b), (f) and (g) of Section 20-1241 of the Fair Workweek Law and in compliance with subdivision (b) of this section, to: (1) fast food employees who work at all locations in New York City, or (2) only to its fast food employees who work at its fast food establishments located in the same borough as the location where the shifts will be worked.
+
+(d) As soon as possible after a fast food employer has filled an additional shift, and using the same method compliant with Section 20-1241 of the Fair Workweek Law by which the fast food employer communicated the offer of additional shifts, the fast food employer must notify all accepting fast food employees when the offered shift has been filled.
+
+
+
+
+
+
+
+
+*§ 7-608 Accepting and awarding additional shifts* ::
+
+
+(a) A fast food employee may accept a subset of additional shifts offered by a fast food employer, pursuant to Section 20-1241 of the Fair Workweek Law.
+
+(b) A fast food employer must first award shifts or shift increments to current fast food employees at the location where the shifts will be worked, regardless of the employer’s other criteria prescribed, pursuant to subdivision (b) of Section 20-1241 of the Fair Workweek Law.
+
+(c) A fast food employee may accept an entire shift offered by a fast food employer or any shift increment. A fast food employer is not required to award a fast food employee a shift increment accepted by the fast food employee when the remaining portion of the shift is three hours or less and was not accepted by another fast food employee or other fast food employees.
+
+Example: A fast food employer notified employees of an additional shift on Saturdays from 1:00 P.M. to 9:00 P.M., an eight-hour shift. A fast food employee informs the employer that she can work from 3:00 P.M. to 9:00 P.M., a six-hour shift increment. Two hours remain in the additional shift and no other employee accepted the remaining two hours. Therefore, the employer need not award the six-hour increment to the employee.
+
+(d) When a fast food employee accepts a shift that was offered by a fast food employer, pursuant to Section 20-1241 of the Fair Workweek Law that overlaps with the fast food employee’s existing shift, before hiring a new fast food employee for the offered shift, the fast food employer must award the fast food employee the offered shift in lieu of the fast food employee’s scheduled shift. The fast food employer may not condition the award of the offered shift on a fast food employee’s willingness to work both the non-overlapping hours of the existing shift and the offered shift.
+
+Example: A fast food employee’s work schedule includes a shift on Mondays from 7 am to 3 pm. The fast food employer notifies employees of an additional shift on Mondays from 9:00 A.M. to 5:00 P.M., a shift that overlaps with the fast food employee’s existing shift. The fast food employee accepts the shift because it will allow the employee to drop the employee’s child off at school in the morning without reducing the employee’s overall hours. The fast food employer must award the additional shift to the fast food employee before hiring a new fast food employee for the additional shift, provided the fast food employee otherwise meets the employer’s criteria for distribution of the shift.
+
+(e) When a fast food employee accepts a shift that was offered by a fast food employer, pursuant to Section 20-1241 of the Fair Workweek Law that, if awarded to and worked by the fast food employee, would entitle the fast food employee to overtime pay, the fast food employer is not required to award the fast food employee the entire shift but, before hiring a new fast food employee for the entire offered shift, must award the fast food employee the largest shift increment possible that would not trigger overtime pay, provided that the remaining portion of the shift was accepted by another fast food employee or is three hours or more.
+
+Example: A fast food employer offers a shift on Wednesday from 12:00 A.M. to 6:00 A.M. to its employees. A fast food employee who is scheduled to work 37 hours during the week accepts the additional shift. The employer must award at least three hours to the fast food employee but is not required to award the entire six-hour shift to the employee because working more than forty hours would result in the employee becoming eligible for overtime pay.
+
+
+
+
+
+
+
+
+*§ 7-609 Employer records* ::
+
+
+(a) Fast food and retail employers must maintain and retain, in an electronically accessible format, contemporaneous, true, and accurate records documenting compliance with the requirements of the Fair Workweek Law for a period of three years.
+
+   1. Such records shall include documents that show:
+
+      i. Actual hours worked by each employee each week;
+
+      ii. An employee’s written consent to any schedule changes, where required; and
+
+      iii. Each written schedule provided to an employee.
+
+   2. Additionally, fast food employers must also maintain records in accordance with this subdivision that include documents that show:
+
+      i. Good faith estimates provided to employees, pursuant to Section 20-1221(a) of the Fair Workweek Law; and
+
+      ii. Premium pay to individual fast food employees and the dates and amounts of the payments, whether noted on an employee’s wage stub or other form of written documentation.
+
+(b) Upon request, a fast food or retail employer must provide a fast food or retail employee with such employee’s work schedule for any previous week worked for the past three years within 14 days of the employee’s request.
+
+(c) Upon request, a fast food or retail employer must provide a fast food or retail employee with the most current version of the complete work schedule for all employees who work at the same location within one week of the employee’s request, provided that an employer not disclose the work schedule of any employee who has been granted an accommodation based on the employee’s status as a survivor of domestic violence, stalking, or sexual assault, where such disclosure would conflict with such accommodation.
+
+
+
+
+
+
+
+
+*§ 7-610 Private right of action* ::
+
+
+(a) A person who filed a complaint with the office, pursuant to the Fair Workweek Law and who intends to withdraw the complaint to pursue a civil action shall withdraw the complaint in writing to the office prior to commencing a civil action that includes claims based on the Fair Workweek Law in accordance with paragraph (2) of subdivision (d) of Section 20-1211 of the Fair Workweek Law.
+
+(b) A person who filed a civil action that includes any claims based on the Fair Workweek Law may file a complaint with the office upon a showing that the Fair Workweek Law claims in the civil action have been withdrawn or dismissed without prejudice to further action.
+
+(c) The withdrawal of a complaint filed with the office or the commencement of a civil action by a person does not preclude the office from investigating the fast food or retail employer, or commencing, prosecuting, or settling a case against the employer based on some or all of the same violations.
+
+
+
+
+
+
+
+
+*§ 7-611 Waiver of rights* ::
+
+
+Any agreement by an employee with the intent to prospectively waive or limit the employee’s rights, pursuant to the Fair Workweek Law shall be invalid as a matter of law.
+
+
+
+
+
+
+
+
+
+**Subchapter G: Pay Deductions**
+
+
+
+*§ 7-701 Definitions* ::
+
+
+(a) As used in Title 20, Chapter 13 of the New York City Administrative Code and this subchapter, the following terms have the following meanings:
+
+   “Contact” means “contact person” as defined by this subchapter.
+
+   “Signature” means an original, handwritten signature or an electronic signature.
+
+(b) As used in this subchapter, the following terms have the following meanings:
+
+   “Contact person” means the not-for-profit employee or agent responsible for processing authorizations and requests to revoke authorizations.
+
+   “Electronic signature” means a computer data compilation of any symbol or series of symbols executed, adopted, or authorized by a natural person attached to or logically associated with an electronic record and executed or adopted by a natural person with the intent to sign the record. An electronic signature is considered to be “attached to or logically associated with an electronic record” if the electronic signature is linked to the record during transmission and storage.
+
+   “Pay Deductions Law” means Title 20, Chapter 13 of the New York City Administrative Code.
+
+   "Valid authorization" means a written authorization from a fast food employee to deduct wages from the fast food employee's paycheck for remittance to a not-for-profit that complies with Section 20-1302 of the New York City Administrative Code and 6 RCNY §§ 7-702 and 7-703.
+
+(c) As used in this subchapter, the following terms have the same meaning as set forth in Section 20-1301 of the Pay Deductions Law: “fast food employee,” “fast food employer,” “fast food establishment,” “not-for-profit,” and “office.”
+
+
+
+
+
+
+
+
+*§ 7-702 Valid authorization* ::
+
+
+(a)  A valid authorization must contain the following: (i) the relevant fast food employee’s signature and date that the authorization was signed by the fast food employee; (ii) the fast food employee’s name and physical address; (iii) the amount, frequency, and start date of the contribution; (iv) the name, physical address, email address, web address, if any, and phone number of the not-for-profit; (v) the contact person’s title, telephone number, and email address; and (vi) a statement notifying the fast food employee that contributions are voluntary and that the authorization to deduct wages is revocable at any time by submitting a written revocation to the not-for-profit or contact person.
+
+(b) The statement that an employee may revoke an authorization at any time must be immediately followed by the contact person’s title and not-for-profit’s email address.
+
+(c) Valid authorizations shall be effective with respect to any fast food employer that succeeds another fast food employer in ownership or control of a fast food establishment, whether through merger, pledge, transfer, sale, assignment, operation of law, or otherwise.
+
+(d) A valid authorization may be transmitted to a not-for-profit or a fast food employer by personal delivery, mail, facsimile, email, or other means of electronic transmission.
+
+
+
+
+
+
+
+
+*§ 7-703 Electronic authorization to deduct and remit wages* ::
+
+
+(a) The use of an electronic signature shall have the same validity and effect as the use of a handwritten signature. Each electronic signature shall be unique to one individual.
+
+(b) Each individual shall have a single electronic signature.
+
+(c) Submission of an electronic signature must include verification that the individual is a natural person.
+
+(d) Before a not-for-profit establishes, assigns, certifies or otherwise sanctions an individual’s electronic signature, or any element of such electronic signature, the not-for-profit must send the individual a confirmation of receipt of the authorization by email. Such confirmation must include a copy of the valid authorization electronically signed by the fast food employee.
+
+
+
+
+
+
+
+
+*§ 7-704 Authorization to deduct and remit wages* ::
+
+
+(a) A fast food employer must begin to deduct wages from a fast food employee’s pay check no later than the first pay period after 15 days following receipt of the valid authorization, and remit the deductions to the not-for-profit no later than 15 days after the deduction is made, provided that the not-for-profit has registered with the office and either the fast food employee or not-for-profit has provided a registration letter from the office to the fast food employer.
+
+(b) A valid authorization or registration letter is presumed to have been received by the fast food employer upon the earlier of (i) the date the document is personally delivered to a managerial or supervisory employee or agent of the fast food employer, or (ii) 10 days following service on a managerial or supervisory employee or agent of the fast food employer by mail, email, or facsimile.
+
+(c) A fast food employer must not begin deductions earlier than the start date of contribution a fast food employee indicates on an authorization.
+
+(d) A not-for-profit that has not transmitted the valid authorization and registration to the fast food employer within 180 days of receiving a fast food employee’s valid authorization must, at least 10 days prior to transmitting the authorization and its registration to the fast food employer, send the fast food employee a letter by mail to the address indicated on the authorization or by email, if the not-for-profit has solicited the fast food employee’s email address, that includes (i) the date the not-for-profit plans to transmit the authorization and registration letter to the fast food employer, which must be no earlier than 10 days after the date that the letter to the fast food employee is mailed, (ii) the anticipated date by which deductions will begin, and (iii) the contact person’s title, telephone number, and email address.
+
+
+
+
+
+
+
+
+*§ 7-705 Required disclosures by not-for-profits to fast food employees* ::
+
+
+(a) The not-for-profit must provide a fast food employee with disclosures required by Section 20-1304(a) of the Pay Deductions Law no later than the time at which the fast food employee authorizes remittance of deductions to the not-for-profit.
+
+(b)  Required disclosures, pursuant to Section 20-1304(a) of the Pay Deductions Law must include a list of individuals who performed work for the not-for-profit within the 5 years preceding the date that the fast food employee signed the authorization and who also either (i) are or were trustees of the not-for-profit, or (ii) receive(d) more than $100,000 in compensation from the not-for-profit or a related organization in any single fiscal year. Such list must include the names and titles of such individuals.
+
+(c) A not-for-profit may satisfy the requirements of Section 20-1304(a)(5) of the Pay Deductions Law by submitting the not-for-profit’s form 990 of the Internal Revenue Service of the United States Department of the Treasury or, if the not-for-profit did not file a form 990, another equivalent tax filing that reflects the not-for-profit’s funding, budget, and expenditures, for the three most recent tax years for which such form was filed.
+
+(d)  If a not-for-profit chooses to post its required disclosures on a single webpage, pursuant to Section 20-1304(b) of the Pay Deductions Law:
+
+   i. The text on the webpage must be a sans serif font and in a minimum size of 12 point font; and
+
+   ii. The URL for the webpage containing the required disclosures must be no more than 50 characters in length.
+
+(e)  A not-for-profit must not intentionally make materially false or misleading disclosures to fast food employees.
+
+   i. A disclosure is “materially false” when it is both untrue and would have made a reasonable person more likely to contribute funds to the not-for-profit.
+
+   ii. A disclosure is “misleading” when it is formatted, organized, arranged, or worded in such a way as to neutralize, conceal, or omit information that, if known by the fast food employee, would make a reasonable person less likely to contribute funds to the not-for-profit.
+
+   iii. Disclosure of materially false or misleading information is “intentional” when the not-for-profit was aware that the information was materially false or misleading at the time of disclosure.
+
+   iv. A not-for-profit must cure a materially false or misleading disclosure for each fast food employee who received the false or misleading disclosure within 30 days of being found in violation of this section or Section 20-1307(d) of the Pay Deductions Law by the office of administrative trials and hearings.
+
+
+
+
+
+
+
+
+*§ 7-706 Not-for-profit registration* ::
+
+
+(a) A not-for-profit must register with the office by providing the information required under Section 20-1303(a) of the Pay Deductions Law to the office by email or by personally delivering or mailing one or more CD-Rs or DVD-Rs to the office.
+
+(b) Authorizations submitted, pursuant to Section 20-1303(a)(3) of the Pay Deductions Law must be signed no earlier than 270 days before the date the not-for-profit submits its registration to the office, pursuant to subdivision (a).
+
+(c) Any of the following will constitute acceptable proof of status as an active not-for-profit for purposes of Section 20-1303(a)(2) of the Pay Deductions Law:
+
+   i. A copy of an Internal Revenue Service affirmation or determination letter confirming the not-for-profit’s tax-exempt status issued to the not-for-profit within the 120 days preceding the letter’s submission to the office;
+
+   ii. A letter from a state taxing body or a state attorney general certifying that the organization is a not-for-profit organization operating within the State and no part of its net earnings may lawfully benefit any private shareholder or individual, which is issued to the not-for-profit within the 120 days preceding the letter’s submission to the office for purposes of registration;
+
+   iii. A certified copy of the not-for-profit’s certificate of incorporation or similar document if such document explicitly identifies the organization as an active not-for-profit, and such document was issued within the 120 days preceding its submission to the office for purposes of registration; or
+
+   iv. Proof that the not-for-profit was listed in the Internal Revenue Service’s online database of organizations eligible to receive tax-deductible charitable contributions within the 120 days preceding submission to the office for purposes of registration.
+
+(d) Either of the following will constitute acceptable proof that a not-for-profit has provided the required disclosures to a fast food employee, pursuant to Section 20-1304(a) of the Pay Deductions Law:
+
+   i. Valid authorizations containing the URL of the webpage containing the required disclosures and screenshot(s) depicting each version of the webpage associated with the URL that is written on the authorization during the range of signature dates of the valid authorizations; or
+
+   ii. A written acknowledgement of receipt of the required disclosures signed and dated by each fast food employee who signed the authorizations not covered by item (i) of this clause, submitted, pursuant to Section 20-1303(a)(3) of the Pay Deductions Law along with a copy of the writing containing the required disclosures or screenshot(s) depicting each version of the webpage provided to the fast food employees containing the required disclosures over the period covering the dates on the written acknowledgement of receipt.
+
+(e) The office shall issue a registration letter to the not-for-profit confirming that it has met the conditions required for registration as soon as practicable and in no case more than 14 days after the office has determined that the requirements for registration have been met. A not-for-profit shall be considered registered upon the date of the registration letter from the office.
+
+
+
+
+
+
+
+
+*§ 7-707 Method of and costs associated with remitting deductions* ::
+
+
+(a) A not-for-profit must notify a fast food employer in writing of the method by which deductions authorized by fast food employees shall be remitted to the not-for-profit. Such method and its associated costs must be reasonable and consistent with standard deductions remittance practices for fast food employers, and, where possible, should be compatible with the fast food employer’s existing processes for remitting deductions. Subject to subdivision (b), the maximum amount per transaction per fast food employee that a fast food employer may charge a not-for-profit is $0.30. “Transaction” for purposes of this subsection means the act of both deducting and remitting wages.
+
+(b) A fast food employer may seek an exemption from the maximum amount set forth in subdivision (a) by demonstrating to the office that the employer’s actual costs exceed that maximum amount.
+
+(c) A fast food employer’s request to be reimbursed by the not-for-profit, pursuant to Section 20-1302(g) of the Pay Deductions Law must be made in writing and include the cost calculations prescribed in subdivision (d) of this section.
+
+(d) Costs associated with deductions and remittances shall be calculated based on the actual costs to a fast food employer of making deductions from a fast food employee’s paycheck and remitting those deductions to the not-for-profit the fast food employee designated.
+
+(e) Upon a not-for-profit’s request, a fast food employer remitting deductions to that not-for-profit organization, pursuant to this subchapter must simultaneously with the remittance provide the following information:
+
+   1. Name of the fast food employer;
+
+   2. For each fast food employee for whom the fast food employer is remitting:
+
+      (i) name
+
+      (ii) fast food establishment address
+
+      (iii) home address
+
+      (iv) phone number
+
+      (v) an unique identifier that is distinct from the employee’s social security number or other personally identifiable information, and that is generated by the fast food employer, such as an employee identification number, if any
+
+      (vi) email address, if any
+
+      (vii) amount of deduction and
+
+      (viii) date and payroll period of deduction;
+
+   3. Name of any fast food employee who separated from employment with the fast food employer in the preceding payroll period who had authorized deductions, pursuant to this subchapter.
+
+(f) Pursuant to Section 20-1302(g) of the Pay Deductions Law, a not-for-profit must reimburse a fast food employer as frequently as the fast food employer requests, provided that a not-for-profit need not honor a fast food employer’s request(s) to be reimbursed more frequently than every two weeks.
+
+
+
+
+
+
+
+
+*§ 7-708 Revocations* ::
+
+
+(a) A fast food employee’s revocation by mail, facsimile, email, or web submission to the not-for-profit or contact person will constitute a revocation in writing.
+
+(b) If a fast food employee submits a revocation to a fast food employer instead of to the not-for-profit, the fast food employer must provide a copy of the revocation to the not-for-profit within five business days of receipt.
+
+(c) For purposes of Section 20-1302(e) of the Pay Deductions Law, a revocation is presumed received by the fast food employer upon the earlier of (i) the date of delivery from the not-for-profit to the fast food employer, or, (ii) in the event that a fast food employee delivers the revocation to the fast food employer, the date the revocation is received by the not-for-profit.
+
+(d) A not-for-profit must not submit an authorization that has been revoked in support of an application for a registration letter.
+
+
+
+
+
+
+
+
+*§ 7-709 Petition to re-examine or revoke a not-for-profit’s registration* ::
+
+
+(a) The term “interested party” as used in Section 20-1307(e) of the Pay Deductions Law shall include: any current or former fast food employee, any authorized representative of a current or former fast food employee, any fast food employer required to make deductions, pursuant to the Pay Deductions Law, any not-for-profit, any labor organization or employee organization as those terms are defined in Section 20-1310(b) of the Pay Deductions Law, and the New York State Attorney General.
+
+(b) Petitions to re-examine or revoke a not-for-profit’s registration must be in writing, in the form of a letter addressed to the director, and sent to the office by mail, email, or facsimile.
+
+(c) The office shall not register and shall revoke any previously issued registrations of not-for-profits that collect authorization cards or other documents related to membership in a labor organization or with respect to a showing of interest or vote for certification, decertification, or deauthorization of a labor organization, upon receiving proof that the not-for-profit is engaging in such activities.
+
+
+
+
+
+
+
+
+*§ 7-710 Retaliation* ::
+
+
+For purposes of Section 20-1306 of the Pay Deductions Law, the phrases “any right protected under this chapter” and “activities protected by this chapter” include, but are not limited to, the right to: sign an authorization, submit an authorization, revoke an authorization, file a complaint with the office, file and maintain a civil action based on the Pay Deductions Law, and communicate with any person regarding the above activities.
+
+
+
+
+
+
+
+
+*§ 7-711 Enforcement and penalties* ::
+
+
+(a) A fast food employee or a not-for-profit may file a complaint with the office alleging violations of the Pay Deductions Law by a fast food employer.
+
+(b) A not-for-profit that files a complaint with the office must submit with its complaint a copy of the not-for-profit’s registration letter. The office shall dismiss a complaint filed by a not-for-profit if the not-for-profit’s complaint does not include a copy of its registration letter.
+
+(c) Notwithstanding subdivision (b), the office shall investigate any complaint that alleges retaliation in violation of the Pay Deductions Law, regardless of whether the relevant not-for-profit has registered with the office.
+
+(d) If, as a result of an investigation, the office determines that a fast food employee’s wages were deducted without a valid authorization or after such time as deductions should have ended, pursuant to a revocation, the fast food employer or not-for-profit that retains the deductions shall be liable for the reimbursement and interest prescribed, pursuant to Section 20-1307(c) of the Pay Deductions Law.
+
+(e) A fast food employer found to be in violation of the Pay Deductions Law shall be liable for the civil penalties due, pursuant to Section 20-1307(b)(2)(b) of the Pay Deductions Law. Such civil penalties shall be imposed on a per fast food employee basis.
+
+
+
+
+
+
+
+
+*§ 7-712 Civil actions* ::
+
+
+(a) A fast food employee or not-for-profit who has filed a complaint with the office, pursuant to the Pay Deductions Law must withdraw the complaint in writing to the office prior to commencing a civil action that includes claims based on the Pay Deductions Law.
+
+(b) A fast food employee or not-for-profit who has filed a civil action that includes any claims based on the Pay Deductions Law may file a complaint with the office upon a showing that the Pay Deductions Law claims in the civil action have been withdrawn or dismissed without prejudice to further action.
+
+(c) The withdrawal of a complaint or the commencement of a civil action by a fast food employee or not-for-profit does not preclude the office from investigating a fast food employer, or commencing, prosecuting, or settling a case against a fast food employer.
+
+
+
+
+
+
+
+
+*§ 7-713 Pattern of violations* ::
+
+
+The phrase “pattern of such violations” in Section 20-1309 of the Pay Deductions Law shall include a failure to deduct or remit deductions for a particular fast food employee or group of fast food employees, or a failure to honor the revocation(s) of a particular fast food employee or group of fast food employees more than twice in a six month period.
+
+
+
+
+
+
+
+
+*§ 7-714 Recordkeeping* ::
+
+
+(a) Fast food employers must retain for at least two years copies of fast food employees’ wage statements issued, pursuant to state law requiring the notation of deductions.
+
+(b) A written acknowledgement of receipt of the notice required, pursuant to Section 20-1302(h) of the Pay Deductions Law signed and dated by each fast food employee along with a copy of the distributed notice shall constitute adequate proof of distribution for purposes of Section 20-1305(a)(5) of the Pay Deductions Law.
+
+
+
+
+
+
+
+
+*§ 7-715 Waiver of Rights* ::
+
+
+Any agreement by a fast food employee with the intent to prospectively waive or limit the fast food employee’s rights, pursuant to the Pay Deductions Law shall be invalid as a matter of law.
 
 
 

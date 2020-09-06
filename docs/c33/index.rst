@@ -1,39 +1,6 @@
 Title 50: Community Assistance Unit
 ===================================================
 
-Chapter 2: Sale of Alcoholic Beverages At Events Authorized By A Street Activity Permit
---------------------------------------------------
-
-
-
-*§ 2-01 Sale of Alcoholic Beverages Prohibited.* ::
-
-
-No sponsor who has received a permit to conduct a street activity from the Street Activity Permit Office (SAPO) shall sell or otherwise distribute alcoholic beverages to any person during the course of such street activity, nor shall such sponsor allow any vendor or any other person or entity that participates in such street activity to sell or otherwise distribute alcoholic beverages to any person during the course of such street activity.
-
-
-
-
-
-
-*§ 2-02 Enforcement.* ::
-
-
-The director of SAPO shall have the authority to deny an application for a street activity permit, to condition the approval of an application for a street activity permit, or to revoke a street activity permit, based on the past or present failure of the applicant or sponsor to comply with the provisions of this chapter.
-
-
-
-
-
-
-*§ 2-03 Exception.* ::
-
-
-This prohibition shall not apply to entities or persons licensed by the New York state liquor authority to sell alcoholic beverages at retail to be consumed on the premises where sold, including those licensees who operate a sidewalk café pursuant to a license issued by the commissioner of consumer affairs.
-
-
-
-
 Chapter 1: Application, Fees and Charges For Street Activity Permits
 --------------------------------------------------
 
@@ -456,6 +423,39 @@ Vendor means an individual, entity or organization that sells or offers for sale
 (i) The Director of SAPO shall have the authority to require that full or partial payment of the fee be made prior to the date of the activity and to require that any amounts remaining owed to the City be paid within a specified period of time following the date of such activity.
 
 
+
+
+
+
+Chapter 2: Sale of Alcoholic Beverages At Events Authorized By A Street Activity Permit
+--------------------------------------------------
+
+
+
+*§ 2-01 Sale of Alcoholic Beverages Prohibited.* ::
+
+
+No sponsor who has received a permit to conduct a street activity from the Street Activity Permit Office (SAPO) shall sell or otherwise distribute alcoholic beverages to any person during the course of such street activity, nor shall such sponsor allow any vendor or any other person or entity that participates in such street activity to sell or otherwise distribute alcoholic beverages to any person during the course of such street activity.
+
+
+
+
+
+
+*§ 2-02 Enforcement.* ::
+
+
+The director of SAPO shall have the authority to deny an application for a street activity permit, to condition the approval of an application for a street activity permit, or to revoke a street activity permit, based on the past or present failure of the applicant or sponsor to comply with the provisions of this chapter.
+
+
+
+
+
+
+*§ 2-03 Exception.* ::
+
+
+This prohibition shall not apply to entities or persons licensed by the New York state liquor authority to sell alcoholic beverages at retail to be consumed on the premises where sold, including those licensees who operate a sidewalk café pursuant to a license issued by the commissioner of consumer affairs.
 
 
 

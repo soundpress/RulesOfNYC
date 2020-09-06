@@ -894,145 +894,6 @@ Editor's note: Pursuant to Section 2 of the rule adding this section, subsection
 
 
 
-Chapter 5: Legal Defense Trusts
---------------------------------------------------
-
-
-
-*§ 5-01 Definitions.* ::
-
-
-"In-kind donation" means any donation of any value, other than money, such as the use of space, materials, supplies, or perishables. The donation value of an in-kind donation will be established by a reasonable estimate of that portion of its fair market value that is not paid or reimbursed by the trust. Personal expenses paid by the trustee(s) or volunteer clerical staff for the purpose of administering the trust are not in-kind donations.
-
-"Pro bono assistance" means the provision of professional services, including but not limited to legal, accounting, and fundraising services. The donation value of pro bono assistance will be established by a reasonable estimate of that portion of its fair market value that is not paid or reimbursed by the trust. Pro bono assistance does not include uncompensated work by the trustee(s) for the purpose of administering the trust or volunteer clerical assistance.
-
-
-
-
-
-
-
-
-*§ 5-02 Donations.* ::
-
-
-(a) Multiple donations made by a person shall be aggregated for the purposes of the:
-
-   (1) $5,000 donation limit established in Administrative Code § 3-1102(e)(1); and
-
-   (2) $100 reporting threshold established in Administrative Code § 3-1103(a)(1).
-
-(b) A legal defense trust may not accept cash totaling $100 or more from a single donor.
-
-(c) A legal defense trust may not accept a donation without having received the signed disclosure document from the donor as required by Administrative Code § 3-1102(e)(3).
-
-(d) In-kind donations and pro bono assistance may only be accepted for the purposes of administering the trust, pursuant to Administrative Code § 3-1102(f)(1)(b).
-
-
-
-
-
-
-
-
-*§ 5-03 Reporting and Disclosure.* ::
-
-
-(a) In addition to the information required by Administrative Code § 3-1103(a)(1) regarding the reporting of donations, the trustee(s) must:
-
-   (1) Disclose
-
-      (i) the description and use of any in-kind donation and any pro bono assistance accepted; and
-
-      (ii) the date and amount of any refund to a donor.
-
-   (2) Submit the following documents:
-
-      (i) a copy of the receipt, check, or other document establishing that the donation was made by the donor;
-
-      (ii) a copy of the receipt, check, or other document establishing that a refund, if any, was made by the legal defense trust;
-
-      (iii) a copy of the receipt or other written record establishing the value of in-kind donations or pro bono assistance; and
-
-      (iv) a copy of the donor's signed disclosure document.
-
-(b) In addition to the information required by Administrative Code § 3-1103(a)(2) regarding the reporting of expenditures, the trustee(s) must:
-
-   (1) Disclose
-
-      (i) the date the expense was incurred;
-
-      (ii) the date the expense was paid; and
-
-      (iii) the amount, if any, returned to the trust, pursuant to Administrative Code § 3-1102(f)(4).
-
-   (2) Submit the following documents:
-
-      (i) a copy of the itemized receipt for each expense; and
-
-      (ii) a copy of the check or other document establishing that the expenditure was paid by the legal defense trust.
-
-(c) Quarterly reports submitted by the legal defense trust must include all bank, credit card, and merchant account statements received by the trust during the reporting period.
-
-
-
-
-
-
-
-
-*§ 5-04 Dissolution.* ::
-
-
-(a) If the trustee(s) returns donations on dissolution of a legal defense trust, the trustee(s) must submit in the last disclosure report, pursuant to Administrative Code § 3-1103:
-
-   (1) the name and address of each donor receiving a refund;
-
-   (2) the amount of the refund;
-
-   (3) the date of the refund; and
-
-   (4) a copy of the check or other document establishing that the refund was made.
-
-(b) If the trustee(s) transfers donations to a charitable organization upon dissolution of a legal defense trust, the trustee(s) must submit in the last disclosure report submitted, pursuant to Administrative Code § 3-1103:
-
-   (1) the name and address of each charitable organization receiving a transfer;
-
-   (2) the amount of the transfer;
-
-   (3) the date of the transfer; and
-
-   (4) a copy of the check or other document establishing that the transfer was made.
-
-
-
-
-
-
-
-
-*§ 5-05 Electronic Submission of Compliance Documents.* ::
-
-
-All information and documents required by this chapter must be submitted by the trustee(s) using the reporting website maintained by the Board.
-
-
-
-
-
-
-
-
-*§ 5-06 Record Retention.* ::
-
-
-The trustee(s) must maintain records and documents sufficient to demonstrate compliance with these rules and must retain these records and documents for 2 years following completion of the final audit upon dissolution of the legal defense trust.
-
-
-
-
-
-
 Chapter 4: Annual Disclosure
 --------------------------------------------------
 
@@ -1262,6 +1123,145 @@ Pursuant to Administrative Code § 12-110(b)(2)(a), each person who has declared
    (8) Nothing in this rule shall prevent the Board from determining, pursuant to New York City Administrative Code § 12-110(b)(3)(a)(2)-(3), that any public servant, regardless of an agency's determination, is required to file a financial disclosure report.
 
 (Renumbered from former 53 RCNY § 1-17, City Record 6/22/2020, eff. 7/22/2020)
+
+
+
+
+Chapter 5: Legal Defense Trusts
+--------------------------------------------------
+
+
+
+*§ 5-01 Definitions.* ::
+
+
+"In-kind donation" means any donation of any value, other than money, such as the use of space, materials, supplies, or perishables. The donation value of an in-kind donation will be established by a reasonable estimate of that portion of its fair market value that is not paid or reimbursed by the trust. Personal expenses paid by the trustee(s) or volunteer clerical staff for the purpose of administering the trust are not in-kind donations.
+
+"Pro bono assistance" means the provision of professional services, including but not limited to legal, accounting, and fundraising services. The donation value of pro bono assistance will be established by a reasonable estimate of that portion of its fair market value that is not paid or reimbursed by the trust. Pro bono assistance does not include uncompensated work by the trustee(s) for the purpose of administering the trust or volunteer clerical assistance.
+
+
+
+
+
+
+
+
+*§ 5-02 Donations.* ::
+
+
+(a) Multiple donations made by a person shall be aggregated for the purposes of the:
+
+   (1) $5,000 donation limit established in Administrative Code § 3-1102(e)(1); and
+
+   (2) $100 reporting threshold established in Administrative Code § 3-1103(a)(1).
+
+(b) A legal defense trust may not accept cash totaling $100 or more from a single donor.
+
+(c) A legal defense trust may not accept a donation without having received the signed disclosure document from the donor as required by Administrative Code § 3-1102(e)(3).
+
+(d) In-kind donations and pro bono assistance may only be accepted for the purposes of administering the trust, pursuant to Administrative Code § 3-1102(f)(1)(b).
+
+
+
+
+
+
+
+
+*§ 5-03 Reporting and Disclosure.* ::
+
+
+(a) In addition to the information required by Administrative Code § 3-1103(a)(1) regarding the reporting of donations, the trustee(s) must:
+
+   (1) Disclose
+
+      (i) the description and use of any in-kind donation and any pro bono assistance accepted; and
+
+      (ii) the date and amount of any refund to a donor.
+
+   (2) Submit the following documents:
+
+      (i) a copy of the receipt, check, or other document establishing that the donation was made by the donor;
+
+      (ii) a copy of the receipt, check, or other document establishing that a refund, if any, was made by the legal defense trust;
+
+      (iii) a copy of the receipt or other written record establishing the value of in-kind donations or pro bono assistance; and
+
+      (iv) a copy of the donor's signed disclosure document.
+
+(b) In addition to the information required by Administrative Code § 3-1103(a)(2) regarding the reporting of expenditures, the trustee(s) must:
+
+   (1) Disclose
+
+      (i) the date the expense was incurred;
+
+      (ii) the date the expense was paid; and
+
+      (iii) the amount, if any, returned to the trust, pursuant to Administrative Code § 3-1102(f)(4).
+
+   (2) Submit the following documents:
+
+      (i) a copy of the itemized receipt for each expense; and
+
+      (ii) a copy of the check or other document establishing that the expenditure was paid by the legal defense trust.
+
+(c) Quarterly reports submitted by the legal defense trust must include all bank, credit card, and merchant account statements received by the trust during the reporting period.
+
+
+
+
+
+
+
+
+*§ 5-04 Dissolution.* ::
+
+
+(a) If the trustee(s) returns donations on dissolution of a legal defense trust, the trustee(s) must submit in the last disclosure report, pursuant to Administrative Code § 3-1103:
+
+   (1) the name and address of each donor receiving a refund;
+
+   (2) the amount of the refund;
+
+   (3) the date of the refund; and
+
+   (4) a copy of the check or other document establishing that the refund was made.
+
+(b) If the trustee(s) transfers donations to a charitable organization upon dissolution of a legal defense trust, the trustee(s) must submit in the last disclosure report submitted, pursuant to Administrative Code § 3-1103:
+
+   (1) the name and address of each charitable organization receiving a transfer;
+
+   (2) the amount of the transfer;
+
+   (3) the date of the transfer; and
+
+   (4) a copy of the check or other document establishing that the transfer was made.
+
+
+
+
+
+
+
+
+*§ 5-05 Electronic Submission of Compliance Documents.* ::
+
+
+All information and documents required by this chapter must be submitted by the trustee(s) using the reporting website maintained by the Board.
+
+
+
+
+
+
+
+
+*§ 5-06 Record Retention.* ::
+
+
+The trustee(s) must maintain records and documents sufficient to demonstrate compliance with these rules and must retain these records and documents for 2 years following completion of the final audit upon dissolution of the legal defense trust.
+
+
 
 
 

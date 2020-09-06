@@ -16664,45 +16664,6 @@ Editor's note: the bracketed title of this 28 RCNY § 38-03 was added by the cod
 
 
 
-Chapter 40: [Electronic Submission of Certifications of Correction of Housing Maintenance Code Violations]
---------------------------------------------------
-
-
-
-*§ 40-01 Definitions.* ::
-
-
-For purposes of this chapter:
-
-(a) "Authorized Certifier" shall mean a person authorized to certify correction of violations of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
-
-(b) "Electronic Certification" shall mean an electronic form and any other forms or affidavits required to certify correction of a violation of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
-
-(c) "Housing Maintenance Code" shall mean chapter two of title 27 of the Administrative Code.
-
-(d) "HPD" shall mean the Department of Housing Preservation and Development of the City of New York or its successor.
-
-
-
-
-
-
-*§ 40-02 Electronic Certification Program.* ::
-
-
-(a)  An Authorized Certifier may certify correction of violations of the Housing Maintenance Code to HPD electronically, pursuant to this chapter, after enrolling in the Electronic Certification program, provided, however, that Electronic Certification may not be used to certify correction of any violation of article 14 of subchapter two of the Housing Maintenance Code.
-
-(b) To enroll in the Electronic Certification program or to change any information connected to an existing enrollment, an Authorized Certifier shall submit an application to HPD. Such application shall be submitted both electronically and by mail, in such form as HPD shall approve. The copy submitted by mail shall include a notarized signature. Such form shall require the Authorized Certifier to provide a telephone number and e-mail address for the purpose of receiving a single-use transaction identification code from HPD. HPD shall approve only one Authorized Certifier for each dwelling registered pursuant to the Housing Maintenance Code.
-
-(c) An Authorized Certifier who has been approved for enrollment in the Electronic Certification program will receive a user ID and password for submission of Electronic Certifications. An Authorized Certifier shall protect such user ID and password to ensure against unauthorized use. Such unauthorized use or the submission of a false Electronic Certification may result in revocation of such enrollment and may subject such Authorized Certifier to applicable fines and penalties, including fines and penalties under the Housing Maintenance Code.
-
-(d) Only one certification, whether electronic or by mail, for any one or group of violations may be submitted to HPD. The submission date of an Electronic Certification shall be the date that such certification is electronically time stamped by HPD. The submission date of a mailed certification shall be the postmark date. Where more than one certification is submitted, the certification that has the earliest date shall be the only certification accepted by HPD.
-
-(e) An Authorized Certifier shall be required to inform HPD if there have been any changes that would require a new enrollment in the Electronic Certification program, such as a change in any person or entity that is an Authorized Certifier for such building, or any other changes in information provided in connection with an existing enrollment, such as a change in the Authorized Certifier's telephone number or e-mail address. The existing enrollment shall continue and remain active as long as the building remains validly registered and no changes to the Authorized Certifier enrollment information have been submitted to HPD. Where the Authorized Certifier notifies HPD that there are any such changes, either a new application shall be filed pursuant to subdivision b of this section or the Authorized Certifier shall provide any changed information in accordance with the instructions of HPD. Failure to register a dwelling pursuant to the Housing Maintenance Code, or to notify HPD regarding a change in ownership or management of such dwelling, shall result in revocation of such enrollment.
-
-
-
-
 Chapter 39: Revocation of Tax Benefits
 --------------------------------------------------
 
@@ -16864,185 +16825,41 @@ HPD shall deliver all Initial Notices, Pre-Hearing Notices, Hearing Notices, and
 
 
 
-Chapter 42: Greenthumb Gardens
+Chapter 40: [Electronic Submission of Certifications of Correction of Housing Maintenance Code Violations]
 --------------------------------------------------
 
 
 
-*§ 42-01 Definitions.* ::
+*§ 40-01 Definitions.* ::
 
 
-As used in this chapter, the following terms will have the meanings set forth below:
+For purposes of this chapter:
 
-"Accelerated Default." A Default based in whole or in part upon any conduct, activity, or condition occurring in or immediately adjacent to the Lot and caused by the Gardening Group or circumstances under its control that (i) is contrary to law, (ii) constitutes a public nuisance, or (iii) affects, or poses a threat to, the health or safety of the community in which the Lot and Garden are located.
+(a) "Authorized Certifier" shall mean a person authorized to certify correction of violations of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
 
-"Alternate Garden Contact Person." An individual registered with GreenThumb as the secondary representative of a Gardening Group.
+(b) "Electronic Certification" shall mean an electronic form and any other forms or affidavits required to certify correction of a violation of the Housing Maintenance Code pursuant to subdivision (f) of § 27-2115 of such Code.
 
-"Alternate Site List." Either (i) a list of available City-owned vacant land within one-half mile of the Lot upon which an existing Garden is located, including the address, block and lot, and approximate size of each parcel of land contained therein, (ii) where there is no such available City-owned vacant land within one half mile of such Lot, a list of available City-owned vacant land within the community district in which such Lot is located, including the address, block and lot, and approximate size of each parcel of land contained therein; or (iii) a statement that there is no available City-owned vacant land within either one-half mile of such Lot or within the community district in which such Lot is located.
+(c) "Housing Maintenance Code" shall mean chapter two of title 27 of the Administrative Code.
 
-"Alternate Site Notice." A notice that transmits an Alternate Site List to a Garden Contact Person and Alternate Garden Contact Person and, if such Alternate Site List contains available City-owned vacant land, states that (i) the Garden Contact Person may select any site from such Alternate Site List and inform HPD and GreenThumb of such selection in writing within 45 days after the date of such notice, (ii) failure to inform HPD and GreenThumb of the selection of a site from the Alternate Site List within 45 days after the date of such notice will be deemed to be a rejection of the offer, (iii) rejection of the offer may result in a Transfer without relocation of the Garden, and (iv) if the Garden Contact Person accepts a site from the Alternate Site List, GreenThumb will offer an opportunity to register and license such new site. The Alternate Site List may be incorporated into the text of, and will in any event be deemed to be incorporated by reference in, the Alternate Site Notice.
+(d) "HPD" shall mean the Department of Housing Preservation and Development of the City of New York or its successor.
 
-"City." The City of New York.
 
-"Default." A Gardening Group's failure or refusal to (i) comply with GreenThumb Registration requirements, (ii) complete the Registration process, (iii) comply with the terms of its Registration, (iv) comply with GreenThumb License requirements, (v) enter into a License, or (vi) comply with its License.
 
-"Default Notice." A notice from DPR directing a Gardening Group to cure an Accelerated Default within 30 days after the date of such notice or a notice to cure a Default within 6 months after the date of such notice. Copies of such notices shall be sent to the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located.
 
-"DPR." The City's Department of Parks and Recreation.
 
-"Garden." A community garden that is registered and licensed with GreenThumb and located on a Lot.
 
-"Garden Contact Person." An individual registered with GreenThumb as the primary representative of a Gardening Group.
+*§ 40-02 Electronic Certification Program.* ::
 
-"Garden Review Process." The process set forth in 28 RCNY § 42-05 to be followed in connection with the Transfer of any Lot.
 
-"Garden Review Statement." A written statement, prepared by HPD in accordance with 28 RCNY § 42-05(b)(4), describing a Lot, the existing Garden on such Lot, and the proposed Transfer of such Lot.
+(a)  An Authorized Certifier may certify correction of violations of the Housing Maintenance Code to HPD electronically, pursuant to this chapter, after enrolling in the Electronic Certification program, provided, however, that Electronic Certification may not be used to certify correction of any violation of article 14 of subchapter two of the Housing Maintenance Code.
 
-"Gardening Group." An organized group of individuals who maintain a Garden and are collectively represented by the Garden Contact Person. The Garden Contact Person shall by April 15 of each calendar year provide a list to GreenThumb of the names and contact information for all members of the Gardening Group.
+(b) To enroll in the Electronic Certification program or to change any information connected to an existing enrollment, an Authorized Certifier shall submit an application to HPD. Such application shall be submitted both electronically and by mail, in such form as HPD shall approve. The copy submitted by mail shall include a notarized signature. Such form shall require the Authorized Certifier to provide a telephone number and e-mail address for the purpose of receiving a single-use transaction identification code from HPD. HPD shall approve only one Authorized Certifier for each dwelling registered pursuant to the Housing Maintenance Code.
 
-"GreenThumb." A division within DPR responsible for New York City's urban gardening program.
+(c) An Authorized Certifier who has been approved for enrollment in the Electronic Certification program will receive a user ID and password for submission of Electronic Certifications. An Authorized Certifier shall protect such user ID and password to ensure against unauthorized use. Such unauthorized use or the submission of a false Electronic Certification may result in revocation of such enrollment and may subject such Authorized Certifier to applicable fines and penalties, including fines and penalties under the Housing Maintenance Code.
 
-"HPD." The City's Department of Housing Preservation and Development.
+(d) Only one certification, whether electronic or by mail, for any one or group of violations may be submitted to HPD. The submission date of an Electronic Certification shall be the date that such certification is electronically time stamped by HPD. The submission date of a mailed certification shall be the postmark date. Where more than one certification is submitted, the certification that has the earliest date shall be the only certification accepted by HPD.
 
-"License." An agreement between HPD and a Licensee providing a license to operate a Garden on a Lot for a set term subject to requirements set forth therein, unless earlier terminated.
-
-"Licensee." A Gardening Group, acting through its Garden Contact Person, pursuant to a License.
-
-"Lot." A parcel of City-owned land under the jurisdiction of HPD that contains a Garden at any time on or after September 17, 2010.
-
-"Other Agency." A governmental agency or entity other than HPD.
-
-"Retention Agreement." A written agreement between the City, acting by and through HPD or an Other Agency, and a Gardening Group, acting by and through its Garden Contact Person, providing for (i) the retention of part or all of a Garden as a community garden and/or open space as part of a project to be developed, or (ii) the relocation of the Garden to an alternate site. Gardens that are retained or relocated pursuant to a Retention Agreement remain subject to the GreenThumb Registration and License requirements and this chapter.
-
-"Registration." Written acknowledgment by GreenThumb that a Gardening Group has complied with the criteria set forth by DPR to demonstrate eligibility for a License pursuant to 56 RCNY § 6-03.
-
-"Transfer." The conveyance of a Lot for the purpose of devoting such Lot to a use other than as a garden or open space.
-
-"Uncured Default." A Default that remains uncured six months after the date of a Default Notice or an Accelerated Default that remains uncured 30 days after the date of a Default Notice.
-
-
-
-
-
-
-*§ 42-02 Application.* ::
-
-
-This chapter establishes certain procedures with respect to the operation of Gardens registered and licensed on September 17, 2010, or first registered and licensed within the exercise of DPR's and HPD's discretion after September 17, 2010. This chapter also establishes certain procedures with respect to the Transfer of the Lots upon which such Gardens are located.
-
-
-
-
-
-
-*§ 42-03 Licenses.* ::
-
-
-(a) HPD will issue a License if the proposed Licensee and Garden meet the Registration criteria established by GreenThumb. HPD may renew such License if the Licensee complies with the terms and conditions set forth therein and continues to meet the Registration criteria established by GreenThumb. If the Licensee has not complied with the terms of or fails to renew the License, or fails to meet the Registration criteria established by GreenThumb, abandons the Garden, or if an Uncured Default has occurred, HPD may offer a License for the Garden to a new Gardening Group.
-
-(b) Licenses will set forth terms and conditions under which the Licensee will design and install a plant garden on a Lot and will thereafter maintain such Garden and all plants and conforming structures contained therein (including, but not limited to, all raised plant beds, planters, tables, benches, and other ornamental items) in a safe and orderly condition. HPD, in consultation with GreenThumb, may permit other uses of the Lot that are compatible with gardening and are authorized pursuant to the License.
-
-(c) Any license agreement from the City to any party performing work on the Lot or development work on an adjacent property that affects the Lot shall require the licensee to return the Garden to a condition similar to that which existed prior to commencement of said work.
-
-(d) The License will provide that (i) the Licensee accepts the Lot "as is," in whatever condition it may be on the date the License is fully executed, (ii) the City makes no representation or warranty of fitness of the Lot for gardening purposes, (iii) the Licensee must meet GreenThumb's Registration and License requirements; (iv) the Licensee must comply with all applicable federal, state, and local laws, rules, regulations, codes, and ordinances, and (v) the Licensee must comply with such other requirements as GreenThumb or HPD may establish.
-
-(e) The City will retain title to the Lot and the Licensee will not have any leasehold or other interest in the land comprising such Lot, any improvement thereon, or any equipment provided by GreenThumb.
-
-
-
-
-
-
-*§ 42-04 Lots Used as Gardens or as Open Space; Gardens not Deemed Mapped Parkland.* ::
-
-
-Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
-
-
-
-
-
-
-*§ 42-05 Garden Review Process.* ::
-
-
-(a) HPD will comply with the Garden Review Process before any Transfer.
-
-(b) Under the Garden Review Process:
-
-   (1) HPD will notify the Garden Contact Person and the Alternate Garden Contact Person of the proposed Transfer. Such notice may, but will not be required to, be included within the Alternate Site Notice.
-
-   (2) HPD will provide an Alternate Site Notice to the Garden Contact Person and Alternate Garden Contact Person.
-
-      a. The Garden Contact Person may select one site from the Alternate Site List for relocation of the Garden and inform HPD and GreenThumb of such selection in writing within 45 calendar days after the date of the Alternate Site Notice.
-
-      b. The offer contained in the Alternate Site Notice will be deemed rejected, and the Garden Contact Person will have no further right to select a site from the Alternate Site List for relocation of the Garden if (i) HPD and GreenThumb do not receive, within 45 calendar days after the date of the Alternate Site Notice, written notice from the Garden Contact Person that the Gardening Group has selected a site from the Alternate Site List for relocation of the Garden, or (ii) HPD or GreenThumb receives written notice from the Garden Contact Person at any time that the Gardening Group will not select a site from the Alternate Site List for relocation of the Garden.
-
-      c. If the Alternate Site List states that there is no available City-owned vacant land within one-half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 28 RCNY § 42-05(b)(2)(a) and (b)(2)(b) will not apply.
-
-   (3) Any site on the Alternate Site List will be offered "as is," and a Gardening Group will be responsible for performing all necessary work on such lot. DPR will, upon request and contingent upon staff availability and resources, assist the Gardening Group with its relocation and gardening efforts at the alternate site. The City will offer the Gardening Group an opportunity to register with GreenThumb for the alternate site, and once registered, obtain a License.
-
-   (4) Before any Transfer, HPD will prepare a Garden Review Statement that includes the following, to the extent that such information exists and/or is contained in HPD's files:
-
-      a. a description of each affected Lot (including the address, block, and lot of such Lot) and the existing Garden located thereon;
-
-      b. the name, address, and telephone number of the Garden Contact Person and Alternate Garden Contact Person;
-
-      c. the date that GreenThumb licensed each affected Lot for the first time;
-
-      d. copies of the most recent Registration form submitted to GreenThumb by the Garden Contact Person; the two most recent site visit forms prepared by GreenThumb; and at least two photographs of the existing Garden;
-
-      e. the Alternate Site List and a statement of whether the Garden Contact Person has accepted or rejected any sites on such Alternate Site List; and
-
-      f. a description of any proposed Transfer of each affected Lot.
-
-      g. A description provided by the Gardening Group of any programs, activities and events in, and existing features of, the Garden. The above description, which shall be no more than four legal size pages in length, will be included in the Garden Review Statement if submitted to HPD before submission of any application for approval as set forth in 28 RCNY § 42-05(b)(6).
-
-   (5) HPD will send a Garden Review Statement to the Garden Contact Person, the Alternate Garden Contact Person, the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located by written notice not less than 45 calendar days before any Transfer. The sending of such notice will constitute notice of the proposed Transfer.
-
-   (6) HPD will include a Garden Review Statement in any application for approval of a Transfer pursuant to section 197-c of the City Charter, in any application to the City Council or the Mayor for approval of a Transfer pursuant to Article 15 of the General Municipal Law, Article 16 of the General Municipal Law, or Article XI of the Private Housing Finance Law, and in any application to a Borough Board for approval of a Transfer pursuant to section 384(b)(4) of the City Charter.
-
-(c) If the Transfer of a Lot is disapproved through an applicable public review process, a Garden may remain on such Lot, subject to Registration, execution of a License, and compliance with all GreenThumb program requirements, until approval of a future Transfer of such Lot. Any new approval of such future Transfer will be subject to the Garden Review Process.
-
-(d) In order to facilitate the Transfer of a Lot, HPD may, by notice to the Garden Contact Person and Alternate Garden Contact Person at any time after the Transfer of such Lot is approved through the applicable public review process, terminate or decline to renew the License and direct the Gardening Group to vacate the Lot.
-
-
-
-
-
-
-*§ 42-06 Exemptions.* ::
-
-
-(a) The following Lots will not be subject to any of the requirements set forth in this chapter:
-
-   (1) Bronx: Block 2418; Lot 6; Block 2786; Lots 12, 13; Block 2867; Lot 128; Block 2979; Lot 1; Block 3540; Lots 1, 29, 40.
-
-   (2) Brooklyn: Block 1028; Lot 7; Block 1432; Lot 48; Block 1447; Lots 68 - 70; Block 1450; Lot 14; Block 1450; Lots 8, 11; Block 1476; Lot 34; Block 1484; Lots 6, 8; Block 1484; Lots 35, 41, 43; Block 1486; Lots 15, 16; Block 1663; Lot 82; Block 1664; Lot 40; Block 1755; Lots 54 - 57; Block 1792; Lots 22 - 25, 61; Block 3514; Lot 6; Block 3600; Lots 29, 31, 32, 34, 134; Block 3603; Lot 25; Block 3613; Lots 31 - 33; Block 3791; Lots 26, 28; Block 3841; Lot 32; Block 4000; Lot 3; Block 4009; Lot 47; Block 4015; Lots 22, 23; Block 4067; Lots 13, 14; Block 7050; Lot 74;
-
-   (3) Queens: Block 16088; Lot 15.
-
-   (4) Manhattan: Block 372; Lot 11; Block 372; Lot 49; Block 1645; Lots 3, 71; Block 1790; Lot 41; Block 1918; Lot 51.
-
-(b) Upon execution of a Retention Agreement that provides for the relocation of a Garden to an alternate site, (i) the Lot from which such Garden is to be relocated will no longer be subject to any of the requirements set forth in this chapter, and (ii) the Lot to which such Garden is to be relocated will be subject to the requirements set forth in this chapter.
-
-(c) After the execution of a Retention Agreement that provides for the retention of part or all of a Garden as a community garden as part of a project to be developed, the Transfer that is the subject of such Retention Agreement will no longer be subject to any of the requirements set forth in 28 RCNY § 42-05 of this chapter.
-
-(d) Except as set forth in 28 RCNY § 42-03(a), after the occurrence of an Uncured Default, the Lot that is the subject of such Uncured Default will no longer be subject to any of the requirements set forth in this chapter.
-
-
-
-
-
-
-*§ 42-07 Miscellaneous.* ::
-
-
-(a) Any determination by HPD pursuant to this chapter will be made in HPD's sole discretion.
-
-(b) Any notices required pursuant to this chapter will be in writing and will be delivered by regular mail, certified mail, registered mail, or personal delivery, and will also be posted at or near the Garden entrance. Any such notice will be deemed delivered when deposited in an official United States Postal Service receptacle. HPD will make reasonable efforts to provide translations for notices required pursuant to this chapter into the predominant language of the Gardening Group as identified by the Gardener of Record to GreenThumb.
-
-(c) Any Garden must comply with all applicable federal, state, and local laws, rules, regulations, codes and ordinances and is subject to the GreenThumb Registration and License requirements and this chapter.
+(e) An Authorized Certifier shall be required to inform HPD if there have been any changes that would require a new enrollment in the Electronic Certification program, such as a change in any person or entity that is an Authorized Certifier for such building, or any other changes in information provided in connection with an existing enrollment, such as a change in the Authorized Certifier's telephone number or e-mail address. The existing enrollment shall continue and remain active as long as the building remains validly registered and no changes to the Authorized Certifier enrollment information have been submitted to HPD. Where the Authorized Certifier notifies HPD that there are any such changes, either a new application shall be filed pursuant to subdivision b of this section or the Authorized Certifier shall provide any changed information in accordance with the instructions of HPD. Failure to register a dwelling pursuant to the Housing Maintenance Code, or to notify HPD regarding a change in ownership or management of such dwelling, shall result in revocation of such enrollment.
 
 
 
@@ -17656,6 +17473,189 @@ For New Construction Affordable Housing, Assisted Affordable Units shall not gen
 
 
 
+Chapter 42: Greenthumb Gardens
+--------------------------------------------------
+
+
+
+*§ 42-01 Definitions.* ::
+
+
+As used in this chapter, the following terms will have the meanings set forth below:
+
+"Accelerated Default." A Default based in whole or in part upon any conduct, activity, or condition occurring in or immediately adjacent to the Lot and caused by the Gardening Group or circumstances under its control that (i) is contrary to law, (ii) constitutes a public nuisance, or (iii) affects, or poses a threat to, the health or safety of the community in which the Lot and Garden are located.
+
+"Alternate Garden Contact Person." An individual registered with GreenThumb as the secondary representative of a Gardening Group.
+
+"Alternate Site List." Either (i) a list of available City-owned vacant land within one-half mile of the Lot upon which an existing Garden is located, including the address, block and lot, and approximate size of each parcel of land contained therein, (ii) where there is no such available City-owned vacant land within one half mile of such Lot, a list of available City-owned vacant land within the community district in which such Lot is located, including the address, block and lot, and approximate size of each parcel of land contained therein; or (iii) a statement that there is no available City-owned vacant land within either one-half mile of such Lot or within the community district in which such Lot is located.
+
+"Alternate Site Notice." A notice that transmits an Alternate Site List to a Garden Contact Person and Alternate Garden Contact Person and, if such Alternate Site List contains available City-owned vacant land, states that (i) the Garden Contact Person may select any site from such Alternate Site List and inform HPD and GreenThumb of such selection in writing within 45 days after the date of such notice, (ii) failure to inform HPD and GreenThumb of the selection of a site from the Alternate Site List within 45 days after the date of such notice will be deemed to be a rejection of the offer, (iii) rejection of the offer may result in a Transfer without relocation of the Garden, and (iv) if the Garden Contact Person accepts a site from the Alternate Site List, GreenThumb will offer an opportunity to register and license such new site. The Alternate Site List may be incorporated into the text of, and will in any event be deemed to be incorporated by reference in, the Alternate Site Notice.
+
+"City." The City of New York.
+
+"Default." A Gardening Group's failure or refusal to (i) comply with GreenThumb Registration requirements, (ii) complete the Registration process, (iii) comply with the terms of its Registration, (iv) comply with GreenThumb License requirements, (v) enter into a License, or (vi) comply with its License.
+
+"Default Notice." A notice from DPR directing a Gardening Group to cure an Accelerated Default within 30 days after the date of such notice or a notice to cure a Default within 6 months after the date of such notice. Copies of such notices shall be sent to the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located.
+
+"DPR." The City's Department of Parks and Recreation.
+
+"Garden." A community garden that is registered and licensed with GreenThumb and located on a Lot.
+
+"Garden Contact Person." An individual registered with GreenThumb as the primary representative of a Gardening Group.
+
+"Garden Review Process." The process set forth in 28 RCNY § 42-05 to be followed in connection with the Transfer of any Lot.
+
+"Garden Review Statement." A written statement, prepared by HPD in accordance with 28 RCNY § 42-05(b)(4), describing a Lot, the existing Garden on such Lot, and the proposed Transfer of such Lot.
+
+"Gardening Group." An organized group of individuals who maintain a Garden and are collectively represented by the Garden Contact Person. The Garden Contact Person shall by April 15 of each calendar year provide a list to GreenThumb of the names and contact information for all members of the Gardening Group.
+
+"GreenThumb." A division within DPR responsible for New York City's urban gardening program.
+
+"HPD." The City's Department of Housing Preservation and Development.
+
+"License." An agreement between HPD and a Licensee providing a license to operate a Garden on a Lot for a set term subject to requirements set forth therein, unless earlier terminated.
+
+"Licensee." A Gardening Group, acting through its Garden Contact Person, pursuant to a License.
+
+"Lot." A parcel of City-owned land under the jurisdiction of HPD that contains a Garden at any time on or after September 17, 2010.
+
+"Other Agency." A governmental agency or entity other than HPD.
+
+"Retention Agreement." A written agreement between the City, acting by and through HPD or an Other Agency, and a Gardening Group, acting by and through its Garden Contact Person, providing for (i) the retention of part or all of a Garden as a community garden and/or open space as part of a project to be developed, or (ii) the relocation of the Garden to an alternate site. Gardens that are retained or relocated pursuant to a Retention Agreement remain subject to the GreenThumb Registration and License requirements and this chapter.
+
+"Registration." Written acknowledgment by GreenThumb that a Gardening Group has complied with the criteria set forth by DPR to demonstrate eligibility for a License pursuant to 56 RCNY § 6-03.
+
+"Transfer." The conveyance of a Lot for the purpose of devoting such Lot to a use other than as a garden or open space.
+
+"Uncured Default." A Default that remains uncured six months after the date of a Default Notice or an Accelerated Default that remains uncured 30 days after the date of a Default Notice.
+
+
+
+
+
+
+*§ 42-02 Application.* ::
+
+
+This chapter establishes certain procedures with respect to the operation of Gardens registered and licensed on September 17, 2010, or first registered and licensed within the exercise of DPR's and HPD's discretion after September 17, 2010. This chapter also establishes certain procedures with respect to the Transfer of the Lots upon which such Gardens are located.
+
+
+
+
+
+
+*§ 42-03 Licenses.* ::
+
+
+(a) HPD will issue a License if the proposed Licensee and Garden meet the Registration criteria established by GreenThumb. HPD may renew such License if the Licensee complies with the terms and conditions set forth therein and continues to meet the Registration criteria established by GreenThumb. If the Licensee has not complied with the terms of or fails to renew the License, or fails to meet the Registration criteria established by GreenThumb, abandons the Garden, or if an Uncured Default has occurred, HPD may offer a License for the Garden to a new Gardening Group.
+
+(b) Licenses will set forth terms and conditions under which the Licensee will design and install a plant garden on a Lot and will thereafter maintain such Garden and all plants and conforming structures contained therein (including, but not limited to, all raised plant beds, planters, tables, benches, and other ornamental items) in a safe and orderly condition. HPD, in consultation with GreenThumb, may permit other uses of the Lot that are compatible with gardening and are authorized pursuant to the License.
+
+(c) Any license agreement from the City to any party performing work on the Lot or development work on an adjacent property that affects the Lot shall require the licensee to return the Garden to a condition similar to that which existed prior to commencement of said work.
+
+(d) The License will provide that (i) the Licensee accepts the Lot "as is," in whatever condition it may be on the date the License is fully executed, (ii) the City makes no representation or warranty of fitness of the Lot for gardening purposes, (iii) the Licensee must meet GreenThumb's Registration and License requirements; (iv) the Licensee must comply with all applicable federal, state, and local laws, rules, regulations, codes, and ordinances, and (v) the Licensee must comply with such other requirements as GreenThumb or HPD may establish.
+
+(e) The City will retain title to the Lot and the Licensee will not have any leasehold or other interest in the land comprising such Lot, any improvement thereon, or any equipment provided by GreenThumb.
+
+
+
+
+
+
+*§ 42-04 Lots Used as Gardens or as Open Space; Gardens not Deemed Mapped Parkland.* ::
+
+
+Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
+
+
+
+
+
+
+*§ 42-05 Garden Review Process.* ::
+
+
+(a) HPD will comply with the Garden Review Process before any Transfer.
+
+(b) Under the Garden Review Process:
+
+   (1) HPD will notify the Garden Contact Person and the Alternate Garden Contact Person of the proposed Transfer. Such notice may, but will not be required to, be included within the Alternate Site Notice.
+
+   (2) HPD will provide an Alternate Site Notice to the Garden Contact Person and Alternate Garden Contact Person.
+
+      a. The Garden Contact Person may select one site from the Alternate Site List for relocation of the Garden and inform HPD and GreenThumb of such selection in writing within 45 calendar days after the date of the Alternate Site Notice.
+
+      b. The offer contained in the Alternate Site Notice will be deemed rejected, and the Garden Contact Person will have no further right to select a site from the Alternate Site List for relocation of the Garden if (i) HPD and GreenThumb do not receive, within 45 calendar days after the date of the Alternate Site Notice, written notice from the Garden Contact Person that the Gardening Group has selected a site from the Alternate Site List for relocation of the Garden, or (ii) HPD or GreenThumb receives written notice from the Garden Contact Person at any time that the Gardening Group will not select a site from the Alternate Site List for relocation of the Garden.
+
+      c. If the Alternate Site List states that there is no available City-owned vacant land within one-half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 28 RCNY § 42-05(b)(2)(a) and (b)(2)(b) will not apply.
+
+   (3) Any site on the Alternate Site List will be offered "as is," and a Gardening Group will be responsible for performing all necessary work on such lot. DPR will, upon request and contingent upon staff availability and resources, assist the Gardening Group with its relocation and gardening efforts at the alternate site. The City will offer the Gardening Group an opportunity to register with GreenThumb for the alternate site, and once registered, obtain a License.
+
+   (4) Before any Transfer, HPD will prepare a Garden Review Statement that includes the following, to the extent that such information exists and/or is contained in HPD's files:
+
+      a. a description of each affected Lot (including the address, block, and lot of such Lot) and the existing Garden located thereon;
+
+      b. the name, address, and telephone number of the Garden Contact Person and Alternate Garden Contact Person;
+
+      c. the date that GreenThumb licensed each affected Lot for the first time;
+
+      d. copies of the most recent Registration form submitted to GreenThumb by the Garden Contact Person; the two most recent site visit forms prepared by GreenThumb; and at least two photographs of the existing Garden;
+
+      e. the Alternate Site List and a statement of whether the Garden Contact Person has accepted or rejected any sites on such Alternate Site List; and
+
+      f. a description of any proposed Transfer of each affected Lot.
+
+      g. A description provided by the Gardening Group of any programs, activities and events in, and existing features of, the Garden. The above description, which shall be no more than four legal size pages in length, will be included in the Garden Review Statement if submitted to HPD before submission of any application for approval as set forth in 28 RCNY § 42-05(b)(6).
+
+   (5) HPD will send a Garden Review Statement to the Garden Contact Person, the Alternate Garden Contact Person, the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located by written notice not less than 45 calendar days before any Transfer. The sending of such notice will constitute notice of the proposed Transfer.
+
+   (6) HPD will include a Garden Review Statement in any application for approval of a Transfer pursuant to section 197-c of the City Charter, in any application to the City Council or the Mayor for approval of a Transfer pursuant to Article 15 of the General Municipal Law, Article 16 of the General Municipal Law, or Article XI of the Private Housing Finance Law, and in any application to a Borough Board for approval of a Transfer pursuant to section 384(b)(4) of the City Charter.
+
+(c) If the Transfer of a Lot is disapproved through an applicable public review process, a Garden may remain on such Lot, subject to Registration, execution of a License, and compliance with all GreenThumb program requirements, until approval of a future Transfer of such Lot. Any new approval of such future Transfer will be subject to the Garden Review Process.
+
+(d) In order to facilitate the Transfer of a Lot, HPD may, by notice to the Garden Contact Person and Alternate Garden Contact Person at any time after the Transfer of such Lot is approved through the applicable public review process, terminate or decline to renew the License and direct the Gardening Group to vacate the Lot.
+
+
+
+
+
+
+*§ 42-06 Exemptions.* ::
+
+
+(a) The following Lots will not be subject to any of the requirements set forth in this chapter:
+
+   (1) Bronx: Block 2418; Lot 6; Block 2786; Lots 12, 13; Block 2867; Lot 128; Block 2979; Lot 1; Block 3540; Lots 1, 29, 40.
+
+   (2) Brooklyn: Block 1028; Lot 7; Block 1432; Lot 48; Block 1447; Lots 68 - 70; Block 1450; Lot 14; Block 1450; Lots 8, 11; Block 1476; Lot 34; Block 1484; Lots 6, 8; Block 1484; Lots 35, 41, 43; Block 1486; Lots 15, 16; Block 1663; Lot 82; Block 1664; Lot 40; Block 1755; Lots 54 - 57; Block 1792; Lots 22 - 25, 61; Block 3514; Lot 6; Block 3600; Lots 29, 31, 32, 34, 134; Block 3603; Lot 25; Block 3613; Lots 31 - 33; Block 3791; Lots 26, 28; Block 3841; Lot 32; Block 4000; Lot 3; Block 4009; Lot 47; Block 4015; Lots 22, 23; Block 4067; Lots 13, 14; Block 7050; Lot 74;
+
+   (3) Queens: Block 16088; Lot 15.
+
+   (4) Manhattan: Block 372; Lot 11; Block 372; Lot 49; Block 1645; Lots 3, 71; Block 1790; Lot 41; Block 1918; Lot 51.
+
+(b) Upon execution of a Retention Agreement that provides for the relocation of a Garden to an alternate site, (i) the Lot from which such Garden is to be relocated will no longer be subject to any of the requirements set forth in this chapter, and (ii) the Lot to which such Garden is to be relocated will be subject to the requirements set forth in this chapter.
+
+(c) After the execution of a Retention Agreement that provides for the retention of part or all of a Garden as a community garden as part of a project to be developed, the Transfer that is the subject of such Retention Agreement will no longer be subject to any of the requirements set forth in 28 RCNY § 42-05 of this chapter.
+
+(d) Except as set forth in 28 RCNY § 42-03(a), after the occurrence of an Uncured Default, the Lot that is the subject of such Uncured Default will no longer be subject to any of the requirements set forth in this chapter.
+
+
+
+
+
+
+*§ 42-07 Miscellaneous.* ::
+
+
+(a) Any determination by HPD pursuant to this chapter will be made in HPD's sole discretion.
+
+(b) Any notices required pursuant to this chapter will be in writing and will be delivered by regular mail, certified mail, registered mail, or personal delivery, and will also be posted at or near the Garden entrance. Any such notice will be deemed delivered when deposited in an official United States Postal Service receptacle. HPD will make reasonable efforts to provide translations for notices required pursuant to this chapter into the predominant language of the Gardening Group as identified by the Gardener of Record to GreenThumb.
+
+(c) Any Garden must comply with all applicable federal, state, and local laws, rules, regulations, codes and ordinances and is subject to the GreenThumb Registration and License requirements and this chapter.
+
+
+
+
 Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residential Real Property]
 --------------------------------------------------
 
@@ -17864,37 +17864,6 @@ As used in this chapter, the following terms have the following meaning:
 
 
 
-Chapter 46: [Housing Information Guide for Tenants and Owners]
---------------------------------------------------
-
-
-
-*§ 46-01 [Housing Information Guide for Tenants and Owners.]* ::
-
-
-Every owner of a multiple dwelling shall post the following notice in at least 11 point type in a conspicuous place within view of the area in the multiple dwelling to which mail is delivered.
-
-HOUSING INFORMATION GUIDE FOR TENANTS AND OWNERS
-
-A housing information guide, the "ABCs of Housing," is available on the New York City Department of Housing Preservation and Development's website at www.nyc.gov/hpd. This guide is also available in print by calling 311.
-
-The guide contains information about the following topics:
-
-•   Eviction•   Heat and hot water•   Pest management•   Tenant organizations•   Rent-regulated leases•   Rental assistance for elderly or disabled tenants•   Housing discrimination•   Repairs and maintenance•   Tenant response to owner notifications•   Access for owner inspections and repair•   Free and low-cost legal services
-
- 
-
-GUIA DE INFORMACION DE VIVIENDA PARA INQUILINOS Y DUEÑOS
-
-Un guia de informacion de vivienda los "ABC's de Vivienda" esta disponible en la pagina web del Departamento de Preservacion de Viviendas y Desarrollo de la Ciudad de Nueva York en www.nyc.gov/hpd. Este guia imprimido también esta disponible llamando al 311.
-
-El gua contiene informacion sobre los siguientes temas:
-
-•   Desalojo•   Calefaccion y agua caliente•   Manejo de plagas•   Organizacion de inquilinos•   Alquilar de arrendamientos regulados•   Asistencia de alquiler para ancianos o inquilinos deshabilitados•   Discriminacion de vivienda•   Reparaciones y mantenimiento•   Respuesta de Inquilinos a notificaciones del dueño•   Acceso para inspecciones de dueños para reparaciones•   Servicios legales gratis y a bajo costo
-
-
-
-
 Chapter 45: Temporary Posting of Emergency Information
 --------------------------------------------------
 
@@ -17954,6 +17923,37 @@ __ Not applicable, OR
 __ All non-permanent objects such as furniture and flower pots must be removed from the roof, balconies, and any other outside platform or window.
 
 ADDITIONAL INFORMATION (Owners may add any additional information here)
+
+
+
+
+Chapter 46: [Housing Information Guide for Tenants and Owners]
+--------------------------------------------------
+
+
+
+*§ 46-01 [Housing Information Guide for Tenants and Owners.]* ::
+
+
+Every owner of a multiple dwelling shall post the following notice in at least 11 point type in a conspicuous place within view of the area in the multiple dwelling to which mail is delivered.
+
+HOUSING INFORMATION GUIDE FOR TENANTS AND OWNERS
+
+A housing information guide, the "ABCs of Housing," is available on the New York City Department of Housing Preservation and Development's website at www.nyc.gov/hpd. This guide is also available in print by calling 311.
+
+The guide contains information about the following topics:
+
+•   Eviction•   Heat and hot water•   Pest management•   Tenant organizations•   Rent-regulated leases•   Rental assistance for elderly or disabled tenants•   Housing discrimination•   Repairs and maintenance•   Tenant response to owner notifications•   Access for owner inspections and repair•   Free and low-cost legal services
+
+ 
+
+GUIA DE INFORMACION DE VIVIENDA PARA INQUILINOS Y DUEÑOS
+
+Un guia de informacion de vivienda los "ABC's de Vivienda" esta disponible en la pagina web del Departamento de Preservacion de Viviendas y Desarrollo de la Ciudad de Nueva York en www.nyc.gov/hpd. Este guia imprimido también esta disponible llamando al 311.
+
+El gua contiene informacion sobre los siguientes temas:
+
+•   Desalojo•   Calefaccion y agua caliente•   Manejo de plagas•   Organizacion de inquilinos•   Alquilar de arrendamientos regulados•   Asistencia de alquiler para ancianos o inquilinos deshabilitados•   Discriminacion de vivienda•   Reparaciones y mantenimiento•   Respuesta de Inquilinos a notificaciones del dueño•   Acceso para inspecciones de dueños para reparaciones•   Servicios legales gratis y a bajo costo
 
 
 

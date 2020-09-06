@@ -14419,117 +14419,6 @@ All solid waste or recyclable materials contracts shall specify that diesel fuel
 
 
 
-Chapter 29: Commercial Music Noise Mitigation Rules
---------------------------------------------------
-
-
-
-*§ 29-100 Definitions.* ::
-
-
-As used in this Chapter, the following terms shall have the following meanings:
-
-a. "Board" shall mean the New York City Environmental Control Board.
-
-b. "Code" shall mean the New York City Administrative Code.
-
-c. "Commissioner" shall mean the Commissioner of the Department of Environmental Protection.
-
-d. "Department" shall mean the New York City Department of Environmental Protection.
-
-e. "Noise Consultant" shall mean any person on the "Approved Noise Consultants" list maintained by DEP whose appearance on such list was obtained in accordance with 15 RCNY § 29-101.
-
-
-
-
-
-
-*§ 29-101 Noise Consultants.* ::
-
-
-a. DEP shall maintain an "Approved Noise Consultants" list in order to effectively carry out the requirements of § 24-231 and § 24-206  of the Code and this chapter. The following persons are eligible to appear on such list, provided that they submit in detail their experience, qualifications, and references to DEP and request that their names be included on such list:
-
-   (1) A licensed New York State professional engineer possessing at least two years of experience measuring sound levels utilizing the ANSI standards. At least one year of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
-
-   (2) A person possessing a Bachelor of Science degree or a Bachelor of Engineering degree  from an accredited college or university with at least four years of experience measuring sound levels utilizing the ANSI standards. Two of such four years of experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
-
-   (3) A person possessing ten years of experience measuring sound levels utilizing the ANSI standards. Five years of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
-
-b. A person may be removed from the "Approved Noise Consultants" list for cause. If it is determined that a Noise Consultant provided false, misleading or materially incorrect information to DEP in the course of providing reports as specified in this chapter, or providing test results under § 24-206 of the Code, as amended by Local Law No. 113 of 2005, such person shall be removed from such list after a hearing before an administrative law judge. The burden of proof in such hearing shall be on DEP to establish a cause for removal from the list based on a preponderance of the evidence.
-
-
-
-
-
-
-*§ 29-102 Certification to the Department.* ::
-
-
-a. Pursuant to paragraph 1 of subdivision b of § 24-231 of the Code, the Commissioner shall recommend to the Board that there be no civil penalty imposed for a first violation of subdivision a of § 24-231 of such Code provided that, within 30 days after the issuance of such violation or, if applicable, within the time granted by the Commissioner pursuant to paragraph two of such subdivision of the Code, the respondent admits liability for the violation, and files a certification with the Department in the form and manner and containing the information and documentation prescribed in subdivision b of this section.
-
-b. The certification referenced in subdivision a of this section shall be made by a Noise Consultant, retained by the owner of the subject commercial music establishment or enterprise and acceptable to the Department. Such Noise Consultant shall certify a written report to the Department that shall include the following information and documentation:
-
-   (1) A certification that the commercial music establishment is in compliance with the sound levels set forth in subdivision a of § 24-231 of the Code at the establishment's maximum decibel musical performance level.
-
-   (2) A description of all permanent improvements and modifications made at such commercial music establishment to achieve compliance with such sound levels, including but not limited to, the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials, and diagrams of such work, together with copies of all bills and receipts for such work, and;
-
-   (3) All sound level measurements taken at a location within the two closest receiving properties abutting the establishment and/or in a location specified by the Department. Should there be difficulty gaining entry to any abutting location, DEP shall be informed and DEP will set an alternate location. All such measurements shall be performed by a Noise Consultant. Such measurements shall be in accordance with the ANSI standards in § 24-231 of the Code, and shall be taken using an ANSI meter operating in the A and/or C weighted scales and/or third octave bands.
-
-   (4) A description of the method by which the maximum allowable amplified sound level in the A and/or C weighted scales and/or third octave bands shall be permanently set within the commercial music establishment.
-
-c. The report referenced in subdivision b of this section shall be submitted to the Department within six weeks of the date of violation. The respondent may ask DEP to grant an adjournment for an additional 30 days to submit such report upon a showing of substantial hardship due to site conditions or limitations.
-
-d. If the Commissioner accepts the certified report referenced in subdivisions a, b, and c of this section, he or she shall recommend to the Board that no civil penalty be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-231 of the Code.
-
-
-
-
-
-
-*§ 29-103 Application for a Variance From the Decibel Limits for Commercial Music Establishments and Enterprises.* ::
-
-
-a. In accordance with subdivision d of § 24-231 of the Code, the Commissioner may grant a variance from strict compliance with the decibel limits set forth in subdivision a of § 24-231 of the Code to a commercial establishment or enterprise if:
-
-   (1) the commercial music establishment or music enterprise was in existence and was operating at the same location prior to the date of enactment of § 24-231 of the Code; and
-
-   (2) the owner of the subject commercial music establishment or enterprise submits sufficient evidence or data to the Department showing that strict compliance with such decibel levels would cause practical difficulties or unnecessary hardship due to the physical condition of the premises or zoning district conditions, including irregularity in lot size characteristics and zoning changes. Such evidence or data shall be submitted in accordance with subdivision b of this section.
-
-b. Applications for a variance shall include the following evidence or data and shall be submitted in the following form and manner:
-
-   (1) Applications for a variance shall be submitted on forms provided by the Department and shall contain the information required by this section as well as any other documentation requested by the Department to verify the eligibility of the subject commercial music establishment or enterprise for a variance under the law.
-
-   (2) An application for a variance must include decibel measurements demonstrating that such establishment or enterprise is currently in compliance with the decibel limits that were previously set forth in § 24-241.1 of the prior Code.
-
-   (3) An application for a variance must include a written report to the Department certified by a Noise Consultant retained by the applicant and acceptable to the Department. Such report shall include, but not necessarily be limited to, the following information and documentation:
-
-      i. A certification that strict compliance by the subject commercial music establishment or enterprise with the decibel levels in subdivision a of § 24-231 of the Code will result in a substantial hardship due to site conditions or limitations.
-
-      ii. A description of all proposed permanent improvements and modifications to be performed upon the subject commercial music establishment or enterprise to meet the intent of § 24-231 of the Code to practically minimize noise emanating from the location. Such description shall include an estimate of the cost of such improvements and a timetable for their completion.
-
-      iii. All sound level measurements taken at locations within the two closest receiving properties abutting the establishment and/or in alternative locations specified by the Department. All reported measurements shall be performed in accordance with ANSI standards as indicated in § 24-231 of the Code and using an ANSI compliant meter operating in the A and/or C weighted scales and/or third octave bands.
-
-      iv. A description of the method by which the maximum allowable amplified sound level shall be permanently set within the subject commercial music establishment or enterprise. The sound levels shall be measured in the A and/or C weighted scales and/or third octave bands.
-
-   (4) An application for a variance must also include competent evidence, in a form acceptable to the Department, that 51% of the outstanding shares as of the date of such application are held by the same person or persons who owned the entity as of the date of enactment of the Noise Code, December 29, 2005. If the subject entity is a corporation, such evidence shall include, at a minimum, corporate records, certified in a manner acceptable to the Department, demonstrating that at least 51% of the voting securities of such entity were owned as of the date of such application by the same person or persons owning at least 51% of such voting securities as of December 29, 2005.
-
-c. The Department shall afford all documents submitted such confidentiality as may be provided by applicable law.
-
-d. Variance limitations.
-
-   (1) A variance granted under this section to an applicant/owner of a commercial music establishment or enterprise shall be a one-time variance only.
-
-   (2) A variance granted under this section shall only be applicable to the business for which it is issued, and shall not be transferable to a new owner in accordance with subdivision d of § 24-231 of the Code and paragraph (4) of subdivision b of this section. Any change in ownership, as defined in paragraph (4) of subdivision b of this section, of a commercial establishment or enterprise, shall automatically void the variance. A change in the size or location of the commercial establishment or enterprise, or a change in the type of business shall also negate the variance.
-
-   (3) A change in the size or location of the music establishment or enterprise from its original size or original location prior to the enactment of § 24-231 of the Code shall negate any right of the establishment to apply for a variance.
-
-   (4) In granting a variance, the Commissioner may impose such terms and conditions as he or she deems necessary to carry out the intent of § 24-231 of the Code to minimize noise emissions from the location. Violation of the conditions of any variance shall be deemed to be a violation of subdivision d of § 24-231 of the Code.
-
-e. A violation of the terms of the variance by the establishment shall constitute violation of § 24-231 of the Code, where applicable, and shall result in the immediate cancellation of the variance.
-
-
-
-
 Chapter 28: Citywide Construction Noise Mitigation
 --------------------------------------------------
 
@@ -15387,6 +15276,117 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
 
 
 
+Chapter 29: Commercial Music Noise Mitigation Rules
+--------------------------------------------------
+
+
+
+*§ 29-100 Definitions.* ::
+
+
+As used in this Chapter, the following terms shall have the following meanings:
+
+a. "Board" shall mean the New York City Environmental Control Board.
+
+b. "Code" shall mean the New York City Administrative Code.
+
+c. "Commissioner" shall mean the Commissioner of the Department of Environmental Protection.
+
+d. "Department" shall mean the New York City Department of Environmental Protection.
+
+e. "Noise Consultant" shall mean any person on the "Approved Noise Consultants" list maintained by DEP whose appearance on such list was obtained in accordance with 15 RCNY § 29-101.
+
+
+
+
+
+
+*§ 29-101 Noise Consultants.* ::
+
+
+a. DEP shall maintain an "Approved Noise Consultants" list in order to effectively carry out the requirements of § 24-231 and § 24-206  of the Code and this chapter. The following persons are eligible to appear on such list, provided that they submit in detail their experience, qualifications, and references to DEP and request that their names be included on such list:
+
+   (1) A licensed New York State professional engineer possessing at least two years of experience measuring sound levels utilizing the ANSI standards. At least one year of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
+
+   (2) A person possessing a Bachelor of Science degree or a Bachelor of Engineering degree  from an accredited college or university with at least four years of experience measuring sound levels utilizing the ANSI standards. Two of such four years of experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
+
+   (3) A person possessing ten years of experience measuring sound levels utilizing the ANSI standards. Five years of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
+
+b. A person may be removed from the "Approved Noise Consultants" list for cause. If it is determined that a Noise Consultant provided false, misleading or materially incorrect information to DEP in the course of providing reports as specified in this chapter, or providing test results under § 24-206 of the Code, as amended by Local Law No. 113 of 2005, such person shall be removed from such list after a hearing before an administrative law judge. The burden of proof in such hearing shall be on DEP to establish a cause for removal from the list based on a preponderance of the evidence.
+
+
+
+
+
+
+*§ 29-102 Certification to the Department.* ::
+
+
+a. Pursuant to paragraph 1 of subdivision b of § 24-231 of the Code, the Commissioner shall recommend to the Board that there be no civil penalty imposed for a first violation of subdivision a of § 24-231 of such Code provided that, within 30 days after the issuance of such violation or, if applicable, within the time granted by the Commissioner pursuant to paragraph two of such subdivision of the Code, the respondent admits liability for the violation, and files a certification with the Department in the form and manner and containing the information and documentation prescribed in subdivision b of this section.
+
+b. The certification referenced in subdivision a of this section shall be made by a Noise Consultant, retained by the owner of the subject commercial music establishment or enterprise and acceptable to the Department. Such Noise Consultant shall certify a written report to the Department that shall include the following information and documentation:
+
+   (1) A certification that the commercial music establishment is in compliance with the sound levels set forth in subdivision a of § 24-231 of the Code at the establishment's maximum decibel musical performance level.
+
+   (2) A description of all permanent improvements and modifications made at such commercial music establishment to achieve compliance with such sound levels, including but not limited to, the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials, and diagrams of such work, together with copies of all bills and receipts for such work, and;
+
+   (3) All sound level measurements taken at a location within the two closest receiving properties abutting the establishment and/or in a location specified by the Department. Should there be difficulty gaining entry to any abutting location, DEP shall be informed and DEP will set an alternate location. All such measurements shall be performed by a Noise Consultant. Such measurements shall be in accordance with the ANSI standards in § 24-231 of the Code, and shall be taken using an ANSI meter operating in the A and/or C weighted scales and/or third octave bands.
+
+   (4) A description of the method by which the maximum allowable amplified sound level in the A and/or C weighted scales and/or third octave bands shall be permanently set within the commercial music establishment.
+
+c. The report referenced in subdivision b of this section shall be submitted to the Department within six weeks of the date of violation. The respondent may ask DEP to grant an adjournment for an additional 30 days to submit such report upon a showing of substantial hardship due to site conditions or limitations.
+
+d. If the Commissioner accepts the certified report referenced in subdivisions a, b, and c of this section, he or she shall recommend to the Board that no civil penalty be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-231 of the Code.
+
+
+
+
+
+
+*§ 29-103 Application for a Variance From the Decibel Limits for Commercial Music Establishments and Enterprises.* ::
+
+
+a. In accordance with subdivision d of § 24-231 of the Code, the Commissioner may grant a variance from strict compliance with the decibel limits set forth in subdivision a of § 24-231 of the Code to a commercial establishment or enterprise if:
+
+   (1) the commercial music establishment or music enterprise was in existence and was operating at the same location prior to the date of enactment of § 24-231 of the Code; and
+
+   (2) the owner of the subject commercial music establishment or enterprise submits sufficient evidence or data to the Department showing that strict compliance with such decibel levels would cause practical difficulties or unnecessary hardship due to the physical condition of the premises or zoning district conditions, including irregularity in lot size characteristics and zoning changes. Such evidence or data shall be submitted in accordance with subdivision b of this section.
+
+b. Applications for a variance shall include the following evidence or data and shall be submitted in the following form and manner:
+
+   (1) Applications for a variance shall be submitted on forms provided by the Department and shall contain the information required by this section as well as any other documentation requested by the Department to verify the eligibility of the subject commercial music establishment or enterprise for a variance under the law.
+
+   (2) An application for a variance must include decibel measurements demonstrating that such establishment or enterprise is currently in compliance with the decibel limits that were previously set forth in § 24-241.1 of the prior Code.
+
+   (3) An application for a variance must include a written report to the Department certified by a Noise Consultant retained by the applicant and acceptable to the Department. Such report shall include, but not necessarily be limited to, the following information and documentation:
+
+      i. A certification that strict compliance by the subject commercial music establishment or enterprise with the decibel levels in subdivision a of § 24-231 of the Code will result in a substantial hardship due to site conditions or limitations.
+
+      ii. A description of all proposed permanent improvements and modifications to be performed upon the subject commercial music establishment or enterprise to meet the intent of § 24-231 of the Code to practically minimize noise emanating from the location. Such description shall include an estimate of the cost of such improvements and a timetable for their completion.
+
+      iii. All sound level measurements taken at locations within the two closest receiving properties abutting the establishment and/or in alternative locations specified by the Department. All reported measurements shall be performed in accordance with ANSI standards as indicated in § 24-231 of the Code and using an ANSI compliant meter operating in the A and/or C weighted scales and/or third octave bands.
+
+      iv. A description of the method by which the maximum allowable amplified sound level shall be permanently set within the subject commercial music establishment or enterprise. The sound levels shall be measured in the A and/or C weighted scales and/or third octave bands.
+
+   (4) An application for a variance must also include competent evidence, in a form acceptable to the Department, that 51% of the outstanding shares as of the date of such application are held by the same person or persons who owned the entity as of the date of enactment of the Noise Code, December 29, 2005. If the subject entity is a corporation, such evidence shall include, at a minimum, corporate records, certified in a manner acceptable to the Department, demonstrating that at least 51% of the voting securities of such entity were owned as of the date of such application by the same person or persons owning at least 51% of such voting securities as of December 29, 2005.
+
+c. The Department shall afford all documents submitted such confidentiality as may be provided by applicable law.
+
+d. Variance limitations.
+
+   (1) A variance granted under this section to an applicant/owner of a commercial music establishment or enterprise shall be a one-time variance only.
+
+   (2) A variance granted under this section shall only be applicable to the business for which it is issued, and shall not be transferable to a new owner in accordance with subdivision d of § 24-231 of the Code and paragraph (4) of subdivision b of this section. Any change in ownership, as defined in paragraph (4) of subdivision b of this section, of a commercial establishment or enterprise, shall automatically void the variance. A change in the size or location of the commercial establishment or enterprise, or a change in the type of business shall also negate the variance.
+
+   (3) A change in the size or location of the music establishment or enterprise from its original size or original location prior to the enactment of § 24-231 of the Code shall negate any right of the establishment to apply for a variance.
+
+   (4) In granting a variance, the Commissioner may impose such terms and conditions as he or she deems necessary to carry out the intent of § 24-231 of the Code to minimize noise emissions from the location. Violation of the conditions of any variance shall be deemed to be a violation of subdivision d of § 24-231 of the Code.
+
+e. A violation of the terms of the variance by the establishment shall constitute violation of § 24-231 of the Code, where applicable, and shall result in the immediate cancellation of the variance.
+
+
+
+
 Chapter 30: Minimal Noise Impact Construction Activities
 --------------------------------------------------
 
@@ -16157,67 +16157,6 @@ Chapter 31: Rule Governing House/site Connections To the Sewer System
 
 
 
-Chapter 33: Sale of Tax Liens and Complaint Resolution
---------------------------------------------------
-
-
-
-*§ 33-01 Sale of Liens Arising from Outstanding Water and Wastewater Charges.* ::
-
-
-Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 1, Sale of Liens Arising from Outstanding Water and Wastewater Charges.
-
-
-
-
-
-
-*§ 33-02 Installment Agreements.* ::
-
-
-(a) Generally. A property owner may enter into an installment payment agreement with the Department of Environmental Protection or the Water Board for delinquent charges. Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agree- ments.
-
-(b) Down payment. Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
-
-(c) Payment schedule. An installment agreement must provide that the property owner will make payments on a monthly basis.
-
-(d) Term of agreement. Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
-
-(e) Default.
-
-   (1) Definition of default: Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
-
-   (2) Consequences of default; cure of default: Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
-
-   (3) Bar from executing future installment agreements: Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
-
-   (4) "Extenuating circumstances" in which default in an installment agreement would be forgiven:
-
-      (i) "Extenuating circumstances" shall mean (1) the death of the signatory to the agreement, of any person named on the deed for the property or of a contributing household member, (2) a loss of income to the signatory, to any person named on the deed for the property or to a contributing household member due to his or her involuntary absence from the property for any consecutive period of six months or more for treatment of an illness, for military service, or pursuant to a court order, that results in a default of the agreement or inability to cure the default prior to the date of sale of the tax lien or tax liens or (3) a loss of income to the signatory to the agreement, to any person named on the deed for the property or to a contributing household member due to his or her unemployment for any consecutive period of six months or more that results in a default of the agreement or inability to cure the default prior to the date of sale of the tax lien or tax liens.
-
-      (ii) For purposes of this paragraph, "contributing household member" shall mean any person eighteen years of age or older who has lived in the property that is the subject of the installment agreement at least since the execution of the agreement and has paid household expenses since the execution of the agreement in an amount equal to at least fifty percent of each installment amount due under the agreement.
-
-      (iii) An application for a finding of extenuating circumstances may be made only on a form prepared by the Commissioner of Environmental Protection or his or her designee and shall include a certification by the applicant that extenuating circumstances exist. The Department of Environmental Protection may require additional documentation to support a claim of extenuating circumstances by a property owner. If the Department of Environmental Protection determines that the applicant has provided inaccurate information in the application, any installment agreement entered into based on the finding of extenuating circumstances shall be revoked and the property owner shall not be eligible to enter into an installment agreement with the department for the subject property for five years from the date of sale. The determination on an application for a finding of extenuating circumstances or on the accuracy of such application will be made by the Bureau of Customer Services of the Department of Environmental Protection. If the application is denied or if the information in the application is determined to be inaccurate, the property owner may appeal the determination within 30 days to the Commissioner of Environmental Protection or his or her designee.
-
-      (iv) No signatory to an installment agreement who has defaulted on such agreement and who, as a result of a finding of extenuating circumstances, has been allowed to enter into a second installment agreement for the subject property, shall be eligible to enter into any subsequent agreement on the subject property by applying for a finding of extenuating circumstances for the default of such second installment agreement. The same restriction shall apply to any other person whose change of circumstances was the basis, in whole or in part, for the original finding of extenuating circumstances.
-
-(f) Information regarding exemptions. Property owners will be given information regarding eligibility for real property tax exemption programs prior to entering into an installment agreement under this section.
-
-(g) Consolidated monthly bill. Beginning January 1, 2012, any property owner who has entered into an installment agreement with the Department of Environmental Protection and who has automated meter reading shall receive a consolidated monthly bill for current sewer rents, sewer surcharges and water rents and any payment due under such installment agreement.
-
-
-
-
-
-
-*§ 33-03 Complaint Resolution and Appeal Process.* ::
-
-
-Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part IX – Customer Account Information and Complaint Resolution, Section 2, Complaint Resolution and Appeal Process for existing procedures governing challenges to the validity of any sewer rent, sewer surcharge, or water rent charge.
-
-
-
-
 Chapter 32: Adjudications
 --------------------------------------------------
 
@@ -16323,73 +16262,63 @@ New York City Department of Environmental Protection hearings regarding the fitn
 
 
 
-Chapter 35: Voluntary Master Environmental Hazard Remediation Technician Registration Program
+Chapter 33: Sale of Tax Liens and Complaint Resolution
 --------------------------------------------------
 
 
 
-*§ 35-01 Definitions.* ::
+*§ 33-01 Sale of Liens Arising from Outstanding Water and Wastewater Charges.* ::
 
 
-"Certificate of completion" means any license, certificate, diploma or other NYC Department of Environmental Protection approved documentation indicating that the applicant has satisfactorily completed department approved training programs or courses by a department approved training provider or providers.
-
-"Master environmental hazard remediation technician" means a person registered with the NYC Department of Environmental Protection after successfully presenting to the commissioner current documentation of having completed required environmental remediation training programs or courses from a department approved training provider as demonstrated by a certificate of completion.
-
-"Training provider" means training programs or courses approved by the department covering topics identified in section 24-1002 of the administrative code conducted by any entity approved by the NYC Department of Environmental Protection, including but not limited to: a registered New York State Department of Labor apprenticeship program, an educational institution or school chartered, licensed, or registered by the New York state education department, or the institute of inspection, cleaning, and restoration certification. Each program or course must be offered by an instructor or institution authorized by the appropriate governing authority to conduct such training.
+Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 1, Sale of Liens Arising from Outstanding Water and Wastewater Charges.
 
 
 
 
 
 
-*§ 35-02 Requirements for Registration.* ::
+*§ 33-02 Installment Agreements.* ::
 
 
-(a) For an applicant to be eligible to become a master environmental hazard remediation technician, he/she must meet all of the qualifications set forth in section 24-1002(a) of the administrative code.
+(a) Generally. A property owner may enter into an installment payment agreement with the Department of Environmental Protection or the Water Board for delinquent charges. Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agree- ments.
 
-(b) All licenses or certifications held by a master environmental hazard remediation technician associated with asbestos handling and lead training must remain current for the applicant to be eligible for registration. The master environmental hazard remediation technician's registration will not be considered valid if the applicant does not possess a valid certificate from the New York State Department of Labor for asbestos handling, and a United States Environmental Protection Agency certification in lead.
+(b) Down payment. Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
 
-(c) The applicant must complete a registration form that will be available on the NYC Department of Environmental Protection website that contains the following information at a minimum:
+(c) Payment schedule. An installment agreement must provide that the property owner will make payments on a monthly basis.
 
-   (1) Names of Training Providers.
+(d) Term of agreement. Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
 
-   (2) Names of Training Programs or Courses Completed.
+(e) Default.
 
-   (3) Number of Hours Attended Programs or Courses.
+   (1) Definition of default: Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
 
-   (4) Certificates of Completion.
+   (2) Consequences of default; cure of default: Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
 
+   (3) Bar from executing future installment agreements: Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part VIII – Collection Enforcement, Section 4, Installment Payment Agreements.
 
+   (4) "Extenuating circumstances" in which default in an installment agreement would be forgiven:
 
+      (i) "Extenuating circumstances" shall mean (1) the death of the signatory to the agreement, of any person named on the deed for the property or of a contributing household member, (2) a loss of income to the signatory, to any person named on the deed for the property or to a contributing household member due to his or her involuntary absence from the property for any consecutive period of six months or more for treatment of an illness, for military service, or pursuant to a court order, that results in a default of the agreement or inability to cure the default prior to the date of sale of the tax lien or tax liens or (3) a loss of income to the signatory to the agreement, to any person named on the deed for the property or to a contributing household member due to his or her unemployment for any consecutive period of six months or more that results in a default of the agreement or inability to cure the default prior to the date of sale of the tax lien or tax liens.
 
+      (ii) For purposes of this paragraph, "contributing household member" shall mean any person eighteen years of age or older who has lived in the property that is the subject of the installment agreement at least since the execution of the agreement and has paid household expenses since the execution of the agreement in an amount equal to at least fifty percent of each installment amount due under the agreement.
 
+      (iii) An application for a finding of extenuating circumstances may be made only on a form prepared by the Commissioner of Environmental Protection or his or her designee and shall include a certification by the applicant that extenuating circumstances exist. The Department of Environmental Protection may require additional documentation to support a claim of extenuating circumstances by a property owner. If the Department of Environmental Protection determines that the applicant has provided inaccurate information in the application, any installment agreement entered into based on the finding of extenuating circumstances shall be revoked and the property owner shall not be eligible to enter into an installment agreement with the department for the subject property for five years from the date of sale. The determination on an application for a finding of extenuating circumstances or on the accuracy of such application will be made by the Bureau of Customer Services of the Department of Environmental Protection. If the application is denied or if the information in the application is determined to be inaccurate, the property owner may appeal the determination within 30 days to the Commissioner of Environmental Protection or his or her designee.
 
-*§ 35-03 Expiration Date.* ::
+      (iv) No signatory to an installment agreement who has defaulted on such agreement and who, as a result of a finding of extenuating circumstances, has been allowed to enter into a second installment agreement for the subject property, shall be eligible to enter into any subsequent agreement on the subject property by applying for a finding of extenuating circumstances for the default of such second installment agreement. The same restriction shall apply to any other person whose change of circumstances was the basis, in whole or in part, for the original finding of extenuating circumstances.
 
+(f) Information regarding exemptions. Property owners will be given information regarding eligibility for real property tax exemption programs prior to entering into an installment agreement under this section.
 
-A master environmental hazard remediation technician registration shall expire four years from the applicant's most recent birthday at the time the application is submitted.
-
-
-
-
-
-
-*§ 35-04 Fees for Registration.* ::
-
-
-(a) The fee to register with the department as a master environmental hazard remediation technician shall be $375.
-
-(b) The fee to renew the master environmental hazard remediation technician registration shall be $375.
+(g) Consolidated monthly bill. Beginning January 1, 2012, any property owner who has entered into an installment agreement with the Department of Environmental Protection and who has automated meter reading shall receive a consolidated monthly bill for current sewer rents, sewer surcharges and water rents and any payment due under such installment agreement.
 
 
 
 
 
 
-*§ 35-05 Effect of Certification.* ::
+*§ 33-03 Complaint Resolution and Appeal Process.* ::
 
 
-The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
+Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part IX – Customer Account Information and Complaint Resolution, Section 2, Complaint Resolution and Appeal Process for existing procedures governing challenges to the validity of any sewer rent, sewer surcharge, or water rent charge.
 
 
 
@@ -17041,6 +16970,77 @@ The fees for equipment approvals are as follows:
 
 
 
+Chapter 35: Voluntary Master Environmental Hazard Remediation Technician Registration Program
+--------------------------------------------------
+
+
+
+*§ 35-01 Definitions.* ::
+
+
+"Certificate of completion" means any license, certificate, diploma or other NYC Department of Environmental Protection approved documentation indicating that the applicant has satisfactorily completed department approved training programs or courses by a department approved training provider or providers.
+
+"Master environmental hazard remediation technician" means a person registered with the NYC Department of Environmental Protection after successfully presenting to the commissioner current documentation of having completed required environmental remediation training programs or courses from a department approved training provider as demonstrated by a certificate of completion.
+
+"Training provider" means training programs or courses approved by the department covering topics identified in section 24-1002 of the administrative code conducted by any entity approved by the NYC Department of Environmental Protection, including but not limited to: a registered New York State Department of Labor apprenticeship program, an educational institution or school chartered, licensed, or registered by the New York state education department, or the institute of inspection, cleaning, and restoration certification. Each program or course must be offered by an instructor or institution authorized by the appropriate governing authority to conduct such training.
+
+
+
+
+
+
+*§ 35-02 Requirements for Registration.* ::
+
+
+(a) For an applicant to be eligible to become a master environmental hazard remediation technician, he/she must meet all of the qualifications set forth in section 24-1002(a) of the administrative code.
+
+(b) All licenses or certifications held by a master environmental hazard remediation technician associated with asbestos handling and lead training must remain current for the applicant to be eligible for registration. The master environmental hazard remediation technician's registration will not be considered valid if the applicant does not possess a valid certificate from the New York State Department of Labor for asbestos handling, and a United States Environmental Protection Agency certification in lead.
+
+(c) The applicant must complete a registration form that will be available on the NYC Department of Environmental Protection website that contains the following information at a minimum:
+
+   (1) Names of Training Providers.
+
+   (2) Names of Training Programs or Courses Completed.
+
+   (3) Number of Hours Attended Programs or Courses.
+
+   (4) Certificates of Completion.
+
+
+
+
+
+
+*§ 35-03 Expiration Date.* ::
+
+
+A master environmental hazard remediation technician registration shall expire four years from the applicant's most recent birthday at the time the application is submitted.
+
+
+
+
+
+
+*§ 35-04 Fees for Registration.* ::
+
+
+(a) The fee to register with the department as a master environmental hazard remediation technician shall be $375.
+
+(b) The fee to renew the master environmental hazard remediation technician registration shall be $375.
+
+
+
+
+
+
+*§ 35-05 Effect of Certification.* ::
+
+
+The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
+
+
+
+
 Chapter 36: Cure Period for Certain Air and Noise Code Violations
 --------------------------------------------------
 
@@ -17273,31 +17273,6 @@ The manufacturer or owner of an emissions control device may seek department cer
 
 
 
-Chapter 39: Engine Idling Adjacent To Any Public or Non-public School
---------------------------------------------------
-
-
-
-*§ 39-01 Definitions.* ::
-
-
-Marginal Street. "Marginal street" shall have the meaning set forth in 34 RCNY § 4-01.
-
-Street. "Street" shall have the meaning set forth in subdivision 13 of § 1-112 of the Administrative Code of the City of New York, except that for the purposes of this rule "street" shall include "marginal streets".
-
-
-
-
-
-
-*§ 39-02 Adjacent to Any Public or Non-Public School.* ::
-
-
-"Adjacent" shall mean on each and every street on which a school is located and has entrances and/or exits to such street. School shall include any building or structure, playground, athletic field or other property that is part of the school.
-
-
-
-
 Chapter 38: Emissions Reduction Technologies for New Cook Stoves
 --------------------------------------------------
 
@@ -17463,6 +17438,31 @@ UL means Underwriters Laboratories. Wet scrubber system means any emission contr
 (b) Retention of Records. All records required by this section must be retained for at least one year and must be made available to the Department upon request.
 
 
+
+
+
+
+Chapter 39: Engine Idling Adjacent To Any Public or Non-public School
+--------------------------------------------------
+
+
+
+*§ 39-01 Definitions.* ::
+
+
+Marginal Street. "Marginal street" shall have the meaning set forth in 34 RCNY § 4-01.
+
+Street. "Street" shall have the meaning set forth in subdivision 13 of § 1-112 of the Administrative Code of the City of New York, except that for the purposes of this rule "street" shall include "marginal streets".
+
+
+
+
+
+
+*§ 39-02 Adjacent to Any Public or Non-Public School.* ::
+
+
+"Adjacent" shall mean on each and every street on which a school is located and has entrances and/or exits to such street. School shall include any building or structure, playground, athletic field or other property that is part of the school.
 
 
 
