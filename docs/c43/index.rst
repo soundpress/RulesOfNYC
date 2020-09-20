@@ -946,6 +946,169 @@ The CCC reviews:
 
 
 
+Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
+--------------------------------------------------
+
+
+
+*§ 6-01 Purpose and Authority.* ::
+
+
+(a) Authority. These rules of procedure and minimum standards are established for the review of plans for the development, growth and improvement of the city, its boroughs and communities. Such plans may be sponsored by the Mayor, the City Planning Commission (the "Commission"), the Department of City Planning (the "Department"), and any Borough President, borough board or community board, (which agencies shall be referred to as the "sponsor" herein) pursuant to § 197-a(b) of the New York City Charter.
+
+(b) Policy Guidance. An adopted plan shall serve as a policy to guide subsequent actions by city agencies. The Commission shall consider pertinent such consideration as is consistent with the City Charter and general law. Agencies are urged to consider adopted 197-a plans as guidance for pertinent actions, whether or not such actions are subject to Commission review. The existence of an adopted 197-a plan shall not preclude the sponsor or any other city agency from developing other plans or taking actions not contemplated by the 197-a plan that may affect the same geographic area or subject matter.
+
+
+
+
+
+
+*§ 6-02 Plan Submission.* ::
+
+
+(a) Notification of Intent. To assist the Department in anticipating the need for technical assistance for the preparation of plans in the efficient scheduling of their review, the sponsor of a plan shall notify the Department of its intent to prepare and submit a plan. This notice shall be given not less than ninety (90) days prior to the submission of a proposed plan. Periodically, the Department shall report to the Commission on the notices received and on the progress of 197-a plans underway.
+
+(b) Submission. All proposed plans shall be submitted to the Department of City Planning through its website or at 120 Broadway, 31st Floor, New York, NY 10271. If a plan has been initiated by a community board, borough board or Borough President, this initial submission shall include a summary record of the public hearing held by the board or Borough President. The submission shall also include the name(s) and address(es) of the person(s) designated by the sponsor to be its representative(s) in any discussions of the plan.
+
+
+
+
+
+
+
+
+*§ 6-03 Threshold Review and Determination.* ::
+
+
+(a) Department Review. Each proposed plan shall be reviewed by the Department staff who shall report to the Commission not later than 90 days after the plan's submission as to whether the plan appears to meet the standards for form and content and for consistency with sound planning, as set forth in 62 RCNY § 6-04. Prior to making the report, the staff shall inform the sponsor of all deficiencies with respect to form and content and any changes, additions or deletions which, in the opinion of the staff, may correct such deficiencies. The sponsor may, thereupon, indicate its willingness to make such changes, additions or deletions in which case the Department will defer its report to the Commission until the changes have been made. The sponsor may, instead, request that the plan be presented without change to the Commission for its threshold findings of form and content and sound planning policy. At the time of any Department report on a proposed plan, the Commission may receive a similar report from representatives of the sponsor.
+
+(b) City Planning Commission Determination. Within 30 days after its presentation by the Department staff, the Commission shall determine, when required by the Charter and in accordance with the standards set forth in 63 RCNY § 6-04, whether the proposed plan is of appropriate form and sufficient content, and whether it is in accordance with sound planning policy. If the Commission has determined that a proposed plan does not meet the standards for form or content or for sound planning policy, it shall direct the plan back to the sponsor with a statement explaining its deficiencies. When the Commission has determined that a proposed plan is of appropriate form and content and is in accordance with sound planning policy, it shall direct the Department to undertake the necessary environmental review if the plan has been sponsored by a community board in accordance with 62 RCNY Chapter 5. If the plan has been sponsored by an agency other than a community board the Commission shall determine whether a Type II declaration, a negative declaration, or a notice of completion of a draft EIS has been issued, and if so, it shall direct the Department to distribute the plan in accordance with 62 RCMU § 6-06.
+
+(c) Coordination of Plan Review. The Commission may determine that, despite its finding of appropriate form and content and sound planning policy, a proposed plan should not immediately proceed because there are other planning efforts, ULURP reviews or environmental studies underway which should be coordinated with the plan. In such a case, the Commission may direct the Department to work with the sponsor and any other interested agencies in developing an appropriate timetable and strategy for the plan, and to report back to the Commission.
+
+(d) Progress Report. When 180 days has elapsed following a threshold determination pursuant to subdivision (b), if a proposed plan has not been distributed for review either because the environmental review remains incomplete, or because the plan has been delayed pursuant to subdivision (c), the sponsoring agency may make a written request to the Commission to expedite the plan's distribution. The Commission shall direct the Department to report in writing within a fixed period of time the progress of the plan, including any outstanding aspects of the environmental review, or any continuing problems of coordination delaying its review. Upon receipt of the report, the Commission may direct the Department to complete the review within a reasonable period of time.
+
+
+
+
+
+
+
+
+*§ 6-04 Standards.* ::
+
+
+(a) Plan Form and Content. The form and content of all proposed plans shall be consistent with the following:
+
+   (1) A plan may take the form of a comprehensive or master plan for a neighborhood, community district, borough or other broad geographic area of the city. Such a plan would combine elements related to housing, industrial and commercial uses, transportation, land use regulation, open space, recreation, community facilities and other infrastructure and service improvements which promote the orderly growth, improvement and future development of the community, borough or city.
+
+   (2) A plan may take the form of a targeted plan which considers one or a small number of elements of neighborhood, community districts, borough or citywide problems or needs. Such a plan shall have as its focus issues that are related to the use, development and improvement of land within the sponsor's geographic jurisdiction and may give consideration to the provision of various city services necessary to support orderly growth, development and improvement of that area.
+
+   (3) A plan shall not be limited to a single zoning lot or a specific parcel in private ownership. A plan shall cover an identifiable, cohesive geographic area or neighborhood.
+
+   (4) Plans shall be presented in clear language and coherent form with elements, chapters or sections that are organized in logical sequence.
+
+   (5) Plans shall state their goals, objectives or purposes clearly and succinctly. Policy statements or recommendations shall contain documentation and explanation of the data, analysis or rationale underlying each. Plans shall demonstrate a serious attempt to analyze and propose policies that address the problems they identify.
+
+   (6) A plan shall contain, as appropriate, inventories or description and analysis of existing conditions, problems or needs; projections of future conditions, problems or needs; and recommended goals and strategies to address those conditions, problems or needs. The level of detail and analysis shall be appropriate to the goals and recommendations presented in the plan. The information and analysis relied upon to support its recommendations shall be sufficiently identified so that when the plan is later under review, the accuracy and validity of the information and analysis may be understood. Supporting information may be contained in the form of narrative, maps, charts, tables, technical appendices or the like.
+
+   (7) Plans shall be accompanied by documentation of the public participation in their formulation and preparation, such as workshops, hearings or technical advisory committees.
+
+(b) Sound Planning Policy. 
+
+   (1) All plans, no matter what their form and content, shall include discussion of their long-range consequences, their impact on economic and housing opportunity for all persons (particularly those of low and moderate income), their provision of future growth and development opportunities, their ability to improve the physical environment and their effect on the fair geographic distribution of city facilities. In determining whether a proposed plan contains sufficient discussion of these issues, the Commission shall not evaluate the merits of the plan.
+
+   (2) A plan shall set forth goals, objectives, purposes, policies or recommendations that are within the legal authority of the city to undertake.
+
+   (3) A plan which considers issues which are under the jurisdiction of specific city or state agencies shall contain evidence that such agencies have been consulted and shall disclose any comments of such agencies.
+
+   (4) A plan shall show consideration of its relationship to applicable policy documents including the Ten Year Capital Strategy, the Zoning and Planning report, the borough and mayoral Strategic Policy Statements and any 197-a plan of a neighboring or superior jurisdiction.
+
+
+
+
+
+
+*§ 6-05 Environmental Review.* ::
+
+
+(a) Lead Agency. The City Planning Commission shall be the lead agency for all 197-a plans in accordance with the City Environmental Quality Review Regulations. For a plan sponsored by the mayor, the Commission may transfer the lead status to another city agency if it determines that the proposed plan is part of a broader set of actions for which the sponsoring agency is principally responsible.
+
+(b) Community Board Plans The Department of City Planning, together with the Office of Environmental Coordination, shall conduct or cause to be conducted the required environmental review of any plan submitted by a community board.
+
+(c) Other Agency Plans. The Department, on behalf of the Commission as lead agency, shall determine in consultation with any sponsor of a proposed plan which is not a community board, the appropriate scheduling and division of responsibilities for environmental review.
+
+
+
+
+
+
+*§ 6-06 Plan Distribution and Review.* ::
+
+
+(a) Plan Distribution. When pursuant to 62 RCNY § 6-03(b), the Commission directs the Department to distribute a proposed plan, the Department shall transmit the plan simultaneously to all affected community boards, Borough Presidents and borough boards, as defined in Charter §§ 196 and 197-a(c). The Commission may also direct its distribution to other agencies whose interests may be affected including neighboring community boards and Borough Presidents, and any city and state agency with jurisdiction over elements of the plan.
+
+(b) Community Board Review. Each community board which has received from the Department of City Planning a proposed plan affecting land in its district shall conduct a public hearing on the plan except when a single borough-wide hearing is to be held on a borough plan. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules for community board public hearings. Subsequent to the public hearing and within a period of sixty (60) days following its receipt of the plan, the community board shall transmit its written recommendation to the City Planning Commission with copies to the Borough President, City Council and the sponsor. The Community board which is the sponsor of a plan and which held a hearing on it prior to filing with the Department, need not hold a second hearing.
+
+(c) Borough president review. The Borough President shall have one hundred twenty (120) days following the receipt of a proposed plan in which to review the plan and submit written recommendation to the City Planning Commission with copies to the City Council and sponsor. The Borough President may choose to conduct a public hearing on the plan.
+
+(d) Borough board review. Each borough board which has received from the Department of City Planning a proposed plan affecting land in two or more community districts in its borough shall conduct a public hearing on the plan. Such public hearing shall take place and the report of the borough board shall be transmitted within one hundred twenty (120) days following its receipt of the plan. In the case of a plan affecting the entire borough, a single borough-wide public hearing may be held in lieu of separate hearings by the community boards. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing borough board hearings. The borough board shall transmit its written recommendation to the City Planning Commission with copies to the City Council and the sponsor.
+
+(e) Request for review. Any community board or borough board may make a written request to the Department to receive and review a proposed plan which does not involve land within its district or borough. In its request the Community board or borough board shall state the reason why the plan significantly affects the welfare of its district or borough. Upon receipt of the plan, the community board or borough board may conduct a public hearing and may make any recommendation to the City Planning Commission with copies to the City Council and sponsor. When it transmits such a plan, the Department shall notify the community board or borough board of the remaining time period during which it may review and comment on the plan.
+
+(f) Other requests. A borough president may make a written request to the Department to receive and review a proposed plan for a district or area outside the borough. Any other interested party may similarly request a copy. Such request may be made to either the Department or the sponsor.
+
+
+
+
+
+
+
+
+*§ 6-07 City Planning Commission Review.* ::
+
+
+(a) Schedule for Review. When the affected community board(s), Borough President(s) and/or borough boards shall have completed their review of any proposed plan involving land in their respective districts, the City Planning Commission shall commence its review and schedule a public hearing. Such hearing shall take place within a period of sixty (60) days following receipt of the last affected community board's, borough board's or Borough President's recommendation, or the final day of the time period provided for their respective review(s), whichever is earlier.
+
+(b) Public hearing. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing Commission hearings.
+
+(c) Commission resolution. The Commission shall vote by resolution to approve, approve with modifications or disapprove the plan. Such vote shall be taken within 60 days following the public hearing; however, if the Commission finds that it is unable to vote within that time period it shall give a written statement of explanation to the sponsor. In its review of the substance of the plan, the Commission shall give consideration to the community, borough and citywide impacts and to the long-term efforts that could result from the actions or policies recommended by the plan. It shall consider the impact of the plan on economic and housing opportunity, on future growth and development, and on the physical environment. Such consideration shall include the consistency of the plan with other Charter-defined plans and reports such as the mayoral and borough Strategic Policy Statements, the Ten-Year Capital Strategy, the Report on Social Indicators, the Zoning and Planning Report, and any other pertinent adopted 197-a plans. It shall also consider the fair share criteria adopted pursuant to § 203 of the City Charter in weighing any recommendation with respect to proposed city facilities.
+
+(d) Commission Report. The Commission shall accompany its resolution with a report which sets forth its considerations and any explanation for its determination. The report may identify any environmental issues which may arise in conjunction with any actions recommended by the Plan, it may set forth proposals for additional study and consideration that the Commission deems necessary to carry out any recommendations made by the plan and it may include recommendations for the implementation of plan elements. The report and resolution shall be transmitted to the Mayor, the affected community board(s) and Borough President(s), the City Council and the sponsor.
+
+
+
+
+
+
+*§ 6-08 Modifications.* ::
+
+
+(a) If the City Council, acting pursuant to the City Charter § 197-d(d) has transmitted to the Commission a proposed modification of a plan, the Commission shall, within fifteen (15) days, review the proposed modification and transmit back to the Council its findings and recommendations. In determining whether the modification must be subject to additional environmental review, the Commission may consult appropriate staff or the Office of Environmental Coordination, and it must consult the lead agency if the lead has not been the Commission itself. In determining whether the modification requires a new process of community, borough and Commission review, the Commission shall consider whether the proposed modification:
+
+   (1) would incorporate new elements* that were not a part of and are not related to the plan as it was previously reviewed.
+
+   (2) would delete entire elements or remove from the plan consideration of significant long-range consequences, impacts on economic and housing opportunity for all persons, provision of future opportunities for growth and development, ability to improve the physical environment, or effects on the fair geographic distribution of city facilities.
+
+
+
+
+
+
+*§ 6-09 Filing, Review and Revision.* ::
+
+
+(a) Filing. Upon final adoption of a plan by the City Council, the plan shall be filed and indexed by the Calendar Officer of the Department. The Department shall make the plan available for review by the public and shall transmit the plan to all affected agencies for their use.
+
+(b) Revision of Plans. A plan may be periodically reviewed and revised by its sponsor or the Commission may initiate such review. Any such revision may be presented for adoption as an amendment to the plan in accordance with the procedures set forth in these rules.
+
+(c) Summary of Plans. In each Zoning and Planning Report adopted pursuant to Charter § 192(b), the Commission shall include a summary of all 197-a plans adopted during the preceding four years.
+
+
+
+
+
+
 Chapter 5: City Environmental Quality Review (CEQR)
 --------------------------------------------------
 
@@ -1784,169 +1947,6 @@ The following actions shall not be subject to the provisions of this chapter:
    (1) (See City Planning Rules 62 RCNY § 5-02(d).) Type II actions will never require the preparation of an EIS because they are determined not to have a significant effect on the environment, except where such actions may directly affect a critical area or an historic resource enumerated in paragraphs (22) and (23), respectively, of subdivision (a) of § 617.12 of 6 NYCRR 617.
 
    (2) (Inapplicable. Replaced by State Type II list 6 NYCRR Part 617.13. See City Planning Rules 62 RCNY § 5-02(a) and 62 RCNY § 5-02(b)(2).)
-
-
-
-
-
-
-Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
---------------------------------------------------
-
-
-
-*§ 6-01 Purpose and Authority.* ::
-
-
-(a) Authority. These rules of procedure and minimum standards are established for the review of plans for the development, growth and improvement of the city, its boroughs and communities. Such plans may be sponsored by the Mayor, the City Planning Commission (the "Commission"), the Department of City Planning (the "Department"), and any Borough President, borough board or community board, (which agencies shall be referred to as the "sponsor" herein) pursuant to § 197-a(b) of the New York City Charter.
-
-(b) Policy Guidance. An adopted plan shall serve as a policy to guide subsequent actions by city agencies. The Commission shall consider pertinent such consideration as is consistent with the City Charter and general law. Agencies are urged to consider adopted 197-a plans as guidance for pertinent actions, whether or not such actions are subject to Commission review. The existence of an adopted 197-a plan shall not preclude the sponsor or any other city agency from developing other plans or taking actions not contemplated by the 197-a plan that may affect the same geographic area or subject matter.
-
-
-
-
-
-
-*§ 6-02 Plan Submission.* ::
-
-
-(a) Notification of Intent. To assist the Department in anticipating the need for technical assistance for the preparation of plans in the efficient scheduling of their review, the sponsor of a plan shall notify the Department of its intent to prepare and submit a plan. This notice shall be given not less than ninety (90) days prior to the submission of a proposed plan. Periodically, the Department shall report to the Commission on the notices received and on the progress of 197-a plans underway.
-
-(b) Submission. All proposed plans shall be submitted to the Department of City Planning through its website or at 120 Broadway, 31st Floor, New York, NY 10271. If a plan has been initiated by a community board, borough board or Borough President, this initial submission shall include a summary record of the public hearing held by the board or Borough President. The submission shall also include the name(s) and address(es) of the person(s) designated by the sponsor to be its representative(s) in any discussions of the plan.
-
-
-
-
-
-
-
-
-*§ 6-03 Threshold Review and Determination.* ::
-
-
-(a) Department Review. Each proposed plan shall be reviewed by the Department staff who shall report to the Commission not later than 90 days after the plan's submission as to whether the plan appears to meet the standards for form and content and for consistency with sound planning, as set forth in 62 RCNY § 6-04. Prior to making the report, the staff shall inform the sponsor of all deficiencies with respect to form and content and any changes, additions or deletions which, in the opinion of the staff, may correct such deficiencies. The sponsor may, thereupon, indicate its willingness to make such changes, additions or deletions in which case the Department will defer its report to the Commission until the changes have been made. The sponsor may, instead, request that the plan be presented without change to the Commission for its threshold findings of form and content and sound planning policy. At the time of any Department report on a proposed plan, the Commission may receive a similar report from representatives of the sponsor.
-
-(b) City Planning Commission Determination. Within 30 days after its presentation by the Department staff, the Commission shall determine, when required by the Charter and in accordance with the standards set forth in 63 RCNY § 6-04, whether the proposed plan is of appropriate form and sufficient content, and whether it is in accordance with sound planning policy. If the Commission has determined that a proposed plan does not meet the standards for form or content or for sound planning policy, it shall direct the plan back to the sponsor with a statement explaining its deficiencies. When the Commission has determined that a proposed plan is of appropriate form and content and is in accordance with sound planning policy, it shall direct the Department to undertake the necessary environmental review if the plan has been sponsored by a community board in accordance with 62 RCNY Chapter 5. If the plan has been sponsored by an agency other than a community board the Commission shall determine whether a Type II declaration, a negative declaration, or a notice of completion of a draft EIS has been issued, and if so, it shall direct the Department to distribute the plan in accordance with 62 RCMU § 6-06.
-
-(c) Coordination of Plan Review. The Commission may determine that, despite its finding of appropriate form and content and sound planning policy, a proposed plan should not immediately proceed because there are other planning efforts, ULURP reviews or environmental studies underway which should be coordinated with the plan. In such a case, the Commission may direct the Department to work with the sponsor and any other interested agencies in developing an appropriate timetable and strategy for the plan, and to report back to the Commission.
-
-(d) Progress Report. When 180 days has elapsed following a threshold determination pursuant to subdivision (b), if a proposed plan has not been distributed for review either because the environmental review remains incomplete, or because the plan has been delayed pursuant to subdivision (c), the sponsoring agency may make a written request to the Commission to expedite the plan's distribution. The Commission shall direct the Department to report in writing within a fixed period of time the progress of the plan, including any outstanding aspects of the environmental review, or any continuing problems of coordination delaying its review. Upon receipt of the report, the Commission may direct the Department to complete the review within a reasonable period of time.
-
-
-
-
-
-
-
-
-*§ 6-04 Standards.* ::
-
-
-(a) Plan Form and Content. The form and content of all proposed plans shall be consistent with the following:
-
-   (1) A plan may take the form of a comprehensive or master plan for a neighborhood, community district, borough or other broad geographic area of the city. Such a plan would combine elements related to housing, industrial and commercial uses, transportation, land use regulation, open space, recreation, community facilities and other infrastructure and service improvements which promote the orderly growth, improvement and future development of the community, borough or city.
-
-   (2) A plan may take the form of a targeted plan which considers one or a small number of elements of neighborhood, community districts, borough or citywide problems or needs. Such a plan shall have as its focus issues that are related to the use, development and improvement of land within the sponsor's geographic jurisdiction and may give consideration to the provision of various city services necessary to support orderly growth, development and improvement of that area.
-
-   (3) A plan shall not be limited to a single zoning lot or a specific parcel in private ownership. A plan shall cover an identifiable, cohesive geographic area or neighborhood.
-
-   (4) Plans shall be presented in clear language and coherent form with elements, chapters or sections that are organized in logical sequence.
-
-   (5) Plans shall state their goals, objectives or purposes clearly and succinctly. Policy statements or recommendations shall contain documentation and explanation of the data, analysis or rationale underlying each. Plans shall demonstrate a serious attempt to analyze and propose policies that address the problems they identify.
-
-   (6) A plan shall contain, as appropriate, inventories or description and analysis of existing conditions, problems or needs; projections of future conditions, problems or needs; and recommended goals and strategies to address those conditions, problems or needs. The level of detail and analysis shall be appropriate to the goals and recommendations presented in the plan. The information and analysis relied upon to support its recommendations shall be sufficiently identified so that when the plan is later under review, the accuracy and validity of the information and analysis may be understood. Supporting information may be contained in the form of narrative, maps, charts, tables, technical appendices or the like.
-
-   (7) Plans shall be accompanied by documentation of the public participation in their formulation and preparation, such as workshops, hearings or technical advisory committees.
-
-(b) Sound Planning Policy. 
-
-   (1) All plans, no matter what their form and content, shall include discussion of their long-range consequences, their impact on economic and housing opportunity for all persons (particularly those of low and moderate income), their provision of future growth and development opportunities, their ability to improve the physical environment and their effect on the fair geographic distribution of city facilities. In determining whether a proposed plan contains sufficient discussion of these issues, the Commission shall not evaluate the merits of the plan.
-
-   (2) A plan shall set forth goals, objectives, purposes, policies or recommendations that are within the legal authority of the city to undertake.
-
-   (3) A plan which considers issues which are under the jurisdiction of specific city or state agencies shall contain evidence that such agencies have been consulted and shall disclose any comments of such agencies.
-
-   (4) A plan shall show consideration of its relationship to applicable policy documents including the Ten Year Capital Strategy, the Zoning and Planning report, the borough and mayoral Strategic Policy Statements and any 197-a plan of a neighboring or superior jurisdiction.
-
-
-
-
-
-
-*§ 6-05 Environmental Review.* ::
-
-
-(a) Lead Agency. The City Planning Commission shall be the lead agency for all 197-a plans in accordance with the City Environmental Quality Review Regulations. For a plan sponsored by the mayor, the Commission may transfer the lead status to another city agency if it determines that the proposed plan is part of a broader set of actions for which the sponsoring agency is principally responsible.
-
-(b) Community Board Plans The Department of City Planning, together with the Office of Environmental Coordination, shall conduct or cause to be conducted the required environmental review of any plan submitted by a community board.
-
-(c) Other Agency Plans. The Department, on behalf of the Commission as lead agency, shall determine in consultation with any sponsor of a proposed plan which is not a community board, the appropriate scheduling and division of responsibilities for environmental review.
-
-
-
-
-
-
-*§ 6-06 Plan Distribution and Review.* ::
-
-
-(a) Plan Distribution. When pursuant to 62 RCNY § 6-03(b), the Commission directs the Department to distribute a proposed plan, the Department shall transmit the plan simultaneously to all affected community boards, Borough Presidents and borough boards, as defined in Charter §§ 196 and 197-a(c). The Commission may also direct its distribution to other agencies whose interests may be affected including neighboring community boards and Borough Presidents, and any city and state agency with jurisdiction over elements of the plan.
-
-(b) Community Board Review. Each community board which has received from the Department of City Planning a proposed plan affecting land in its district shall conduct a public hearing on the plan except when a single borough-wide hearing is to be held on a borough plan. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules for community board public hearings. Subsequent to the public hearing and within a period of sixty (60) days following its receipt of the plan, the community board shall transmit its written recommendation to the City Planning Commission with copies to the Borough President, City Council and the sponsor. The Community board which is the sponsor of a plan and which held a hearing on it prior to filing with the Department, need not hold a second hearing.
-
-(c) Borough president review. The Borough President shall have one hundred twenty (120) days following the receipt of a proposed plan in which to review the plan and submit written recommendation to the City Planning Commission with copies to the City Council and sponsor. The Borough President may choose to conduct a public hearing on the plan.
-
-(d) Borough board review. Each borough board which has received from the Department of City Planning a proposed plan affecting land in two or more community districts in its borough shall conduct a public hearing on the plan. Such public hearing shall take place and the report of the borough board shall be transmitted within one hundred twenty (120) days following its receipt of the plan. In the case of a plan affecting the entire borough, a single borough-wide public hearing may be held in lieu of separate hearings by the community boards. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing borough board hearings. The borough board shall transmit its written recommendation to the City Planning Commission with copies to the City Council and the sponsor.
-
-(e) Request for review. Any community board or borough board may make a written request to the Department to receive and review a proposed plan which does not involve land within its district or borough. In its request the Community board or borough board shall state the reason why the plan significantly affects the welfare of its district or borough. Upon receipt of the plan, the community board or borough board may conduct a public hearing and may make any recommendation to the City Planning Commission with copies to the City Council and sponsor. When it transmits such a plan, the Department shall notify the community board or borough board of the remaining time period during which it may review and comment on the plan.
-
-(f) Other requests. A borough president may make a written request to the Department to receive and review a proposed plan for a district or area outside the borough. Any other interested party may similarly request a copy. Such request may be made to either the Department or the sponsor.
-
-
-
-
-
-
-
-
-*§ 6-07 City Planning Commission Review.* ::
-
-
-(a) Schedule for Review. When the affected community board(s), Borough President(s) and/or borough boards shall have completed their review of any proposed plan involving land in their respective districts, the City Planning Commission shall commence its review and schedule a public hearing. Such hearing shall take place within a period of sixty (60) days following receipt of the last affected community board's, borough board's or Borough President's recommendation, or the final day of the time period provided for their respective review(s), whichever is earlier.
-
-(b) Public hearing. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing Commission hearings.
-
-(c) Commission resolution. The Commission shall vote by resolution to approve, approve with modifications or disapprove the plan. Such vote shall be taken within 60 days following the public hearing; however, if the Commission finds that it is unable to vote within that time period it shall give a written statement of explanation to the sponsor. In its review of the substance of the plan, the Commission shall give consideration to the community, borough and citywide impacts and to the long-term efforts that could result from the actions or policies recommended by the plan. It shall consider the impact of the plan on economic and housing opportunity, on future growth and development, and on the physical environment. Such consideration shall include the consistency of the plan with other Charter-defined plans and reports such as the mayoral and borough Strategic Policy Statements, the Ten-Year Capital Strategy, the Report on Social Indicators, the Zoning and Planning Report, and any other pertinent adopted 197-a plans. It shall also consider the fair share criteria adopted pursuant to § 203 of the City Charter in weighing any recommendation with respect to proposed city facilities.
-
-(d) Commission Report. The Commission shall accompany its resolution with a report which sets forth its considerations and any explanation for its determination. The report may identify any environmental issues which may arise in conjunction with any actions recommended by the Plan, it may set forth proposals for additional study and consideration that the Commission deems necessary to carry out any recommendations made by the plan and it may include recommendations for the implementation of plan elements. The report and resolution shall be transmitted to the Mayor, the affected community board(s) and Borough President(s), the City Council and the sponsor.
-
-
-
-
-
-
-*§ 6-08 Modifications.* ::
-
-
-(a) If the City Council, acting pursuant to the City Charter § 197-d(d) has transmitted to the Commission a proposed modification of a plan, the Commission shall, within fifteen (15) days, review the proposed modification and transmit back to the Council its findings and recommendations. In determining whether the modification must be subject to additional environmental review, the Commission may consult appropriate staff or the Office of Environmental Coordination, and it must consult the lead agency if the lead has not been the Commission itself. In determining whether the modification requires a new process of community, borough and Commission review, the Commission shall consider whether the proposed modification:
-
-   (1) would incorporate new elements* that were not a part of and are not related to the plan as it was previously reviewed.
-
-   (2) would delete entire elements or remove from the plan consideration of significant long-range consequences, impacts on economic and housing opportunity for all persons, provision of future opportunities for growth and development, ability to improve the physical environment, or effects on the fair geographic distribution of city facilities.
-
-
-
-
-
-
-*§ 6-09 Filing, Review and Revision.* ::
-
-
-(a) Filing. Upon final adoption of a plan by the City Council, the plan shall be filed and indexed by the Calendar Officer of the Department. The Department shall make the plan available for review by the public and shall transmit the plan to all affected agencies for their use.
-
-(b) Revision of Plans. A plan may be periodically reviewed and revised by its sponsor or the Commission may initiate such review. Any such revision may be presented for adoption as an amendment to the plan in accordance with the procedures set forth in these rules.
-
-(c) Summary of Plans. In each Zoning and Planning Report adopted pursuant to Charter § 192(b), the Commission shall include a summary of all 197-a plans adopted during the preceding four years.
 
 
 
