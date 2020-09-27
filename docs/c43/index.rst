@@ -1953,6 +1953,63 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
+Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursuant To Section 93-82 of the Zoning Resolution
+--------------------------------------------------
+
+
+
+*§ 8-01 Purpose.* ::
+
+
+These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to § 93-82 of the Zoning Resolution (ZR).
+
+
+
+
+
+
+
+
+*§ 8-02 Pre-Filing Process.* ::
+
+
+(a) Pre-Filing Review.
+
+   (i) The applicant shall submit for review a draft application which shall include zoning calculations for the site from which the number of permitted spaces for the site may be ascertained. Such draft applications shall be submitted to the Department of City Planning, Director of the Department's Manhattan Office (hereinafter, "Director"). Upon receipt, the Director shall record the date and time of receipt. All applications shall be reviewed for completeness in order of receipt
+
+   (ii) The Department, acting by and through the Director, shall review each application for accuracy and completeness in order of receipt. The Director shall notify the applicant whether or not the application is complete and may be filed in accordance with the provisions of 62 RCNY § 8-03, or whether the application is inaccurate or incomplete and requires revision. Such notification may be transmitted to the applicant's representative, together with a specification of the portions of the application which are inaccurate or incomplete and require revision, if applicable.
+
+   (iii) The Director shall record the date and time of receipt of any revised draft application submitted in response to a notification provided under subparagraph (ii). A revised draft application shall be reviewed for completeness in order of receipt and the applicant's representative shall be notified of the Director's determination, pursuant to the procedure set forth subparagraph (ii) of this Section.
+
+
+
+
+
+
+
+
+*§ 8-03 Filing of Applications.* ::
+
+
+(a) Filing. Following notification pursuant to 62 RCNY § 8-02(a)(ii) that a draft application is complete, the applicant shall file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications which have not been reviewed and determined to be complete pursuant to 62 RCNY § 8-02 shall not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance herewith shall be stamped by the Department with the date and time of filing.
+
+
+
+
+
+
+
+
+*§ 8-04 Certification for Permitted Parking Spaces.* ::
+
+
+(a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR § 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR § 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR § 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
+
+(b) Applicant Reduces Existing Spaces On Site. Notwithstanding the provisions of paragraph (a), if an applicant intends to eliminate existing parking spaces at the site that is the subject of the application, a certification for permitted parking spaces may be granted to the extent that elimination of existing parking spaces allows such determination to be made pursuant to ZR § 93-821 (e)(1) and (2), provided: (i) that such existing parking spaces shall be eliminated prior to issuance of the certification. The elimination of such existing parking spaces shall be evidenced by: (aa) an acknowledgement from the New York City Department of Consumer Affairs that license(s) issued by such agency for the operation of public parking at the site have been surrendered or, if such license(s) are pending renewal at the time, that the licensee has stated to the New York City Department of Consumer Affairs in writing that the license(s) will not be renewed; or (bb) if the licensee is no longer in control of the premises, in the form of an affidavit from the owner or applicant attesting to the fact that the licensee is not in control of the premises and is not authorized to operate at the premises; and (ii) a restrictive declaration executed by all parties-in-interest, as such term is defined in ZR § 12-10, providing that any resumption of use of the eliminated spaces prior to or during construction shall be prohibited, has been recorded in the office of the City Register. If the number of parking spaces requested in the application exceeds the number of permitted spaces available by reason of the elimination of existing spaces, any subsequent certifications with respect to additional spaces shall be made in accordance with the provisions of paragraph (a) above.
+
+
+
+
 Chapter 7: Rules For the Definition of Major Concessions
 --------------------------------------------------
 
@@ -2028,63 +2085,6 @@ Notwithstanding any other provision of these rules the following shall not be co
 (h) A concession on wharf property for purposes other than "waterfront commerce" or in "furtherance of navigation" which is granted pursuant to § 1301.2(h) of the City Charter; or
 
 (i) A concession for an open air market which operates two (2) or fewer days per week, or, if a green market, three (3) or fewer days per week.
-
-
-
-
-Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursuant To Section 93-82 of the Zoning Resolution
---------------------------------------------------
-
-
-
-*§ 8-01 Purpose.* ::
-
-
-These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to § 93-82 of the Zoning Resolution (ZR).
-
-
-
-
-
-
-
-
-*§ 8-02 Pre-Filing Process.* ::
-
-
-(a) Pre-Filing Review.
-
-   (i) The applicant shall submit for review a draft application which shall include zoning calculations for the site from which the number of permitted spaces for the site may be ascertained. Such draft applications shall be submitted to the Department of City Planning, Director of the Department's Manhattan Office (hereinafter, "Director"). Upon receipt, the Director shall record the date and time of receipt. All applications shall be reviewed for completeness in order of receipt
-
-   (ii) The Department, acting by and through the Director, shall review each application for accuracy and completeness in order of receipt. The Director shall notify the applicant whether or not the application is complete and may be filed in accordance with the provisions of 62 RCNY § 8-03, or whether the application is inaccurate or incomplete and requires revision. Such notification may be transmitted to the applicant's representative, together with a specification of the portions of the application which are inaccurate or incomplete and require revision, if applicable.
-
-   (iii) The Director shall record the date and time of receipt of any revised draft application submitted in response to a notification provided under subparagraph (ii). A revised draft application shall be reviewed for completeness in order of receipt and the applicant's representative shall be notified of the Director's determination, pursuant to the procedure set forth subparagraph (ii) of this Section.
-
-
-
-
-
-
-
-
-*§ 8-03 Filing of Applications.* ::
-
-
-(a) Filing. Following notification pursuant to 62 RCNY § 8-02(a)(ii) that a draft application is complete, the applicant shall file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications which have not been reviewed and determined to be complete pursuant to 62 RCNY § 8-02 shall not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance herewith shall be stamped by the Department with the date and time of filing.
-
-
-
-
-
-
-
-
-*§ 8-04 Certification for Permitted Parking Spaces.* ::
-
-
-(a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR § 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR § 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR § 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
-
-(b) Applicant Reduces Existing Spaces On Site. Notwithstanding the provisions of paragraph (a), if an applicant intends to eliminate existing parking spaces at the site that is the subject of the application, a certification for permitted parking spaces may be granted to the extent that elimination of existing parking spaces allows such determination to be made pursuant to ZR § 93-821 (e)(1) and (2), provided: (i) that such existing parking spaces shall be eliminated prior to issuance of the certification. The elimination of such existing parking spaces shall be evidenced by: (aa) an acknowledgement from the New York City Department of Consumer Affairs that license(s) issued by such agency for the operation of public parking at the site have been surrendered or, if such license(s) are pending renewal at the time, that the licensee has stated to the New York City Department of Consumer Affairs in writing that the license(s) will not be renewed; or (bb) if the licensee is no longer in control of the premises, in the form of an affidavit from the owner or applicant attesting to the fact that the licensee is not in control of the premises and is not authorized to operate at the premises; and (ii) a restrictive declaration executed by all parties-in-interest, as such term is defined in ZR § 12-10, providing that any resumption of use of the eliminated spaces prior to or during construction shall be prohibited, has been recorded in the office of the City Register. If the number of parking spaces requested in the application exceeds the number of permitted spaces available by reason of the elimination of existing spaces, any subsequent certifications with respect to additional spaces shall be made in accordance with the provisions of paragraph (a) above.
 
 
 
