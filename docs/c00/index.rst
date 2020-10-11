@@ -10587,141 +10587,6 @@ Table 2
 
 
 
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-01 Electrical work review.* ::
-
-
-(a) Electrical review. Electrical review is required in the following circumstances:
-
-   (1) Electrical installations. Electrical review is required where service equipment totals 1000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1000 KVA or greater, as further detailed below:
-
-      (A) A new installation of equipment totaling 1000 KVA or higher;
-
-      (B) Any change in an installation with a rating of 1000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
-
-      (C) Any addition to an existing installation which would bring the total to 1000 KVA or higher.
-
-      (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
-
-      (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 KVA installation.
-
-   (2) Electrical equipment. Electrical review is required for electrical equipment not specifically addressed in the Electrical Code Technical Standards and any other electrical equipment not bearing the label of approval of an electrical testing laboratory acceptable to the Commissioner.
-
-(b) Filing requirements.
-
-   (1) Electrical installations 1000 KVA or greater, or new or revised installations above 600 volts. Filings for electrical installations 1000 KVA or greater, or new or revised installations above 600 volts must comply with the following:
-
-      (i) Submission must be made in a manner prescribed by the Department, including electronically, by a New York State Licensed and Registered Professional Engineer, New York State Licensed and Registered Architect, or an individual with comparable qualifications from an outside jurisdiction.
-
-      (ii) A filing fee of $650.00 must be paid for each submission.
-
-      (iii) All submissions for service equipment totaling 1000 KVA or more or above 600 Volts must include the following plans/drawings:
-
-         - One line diagram
-
-         - Plan view / service equipment room layout
-
-         - Submissions must be in accordance with, and include, the following requirements:
-
-            (A) All drawings must be clear, legible, and use standard notations.
-
-            (B) Installations that are not all new must clearly mark what is new and what is existing. In addition, all new work must be encircled by a ‘bubble' or ‘cloud' on the drawings.
-
-            (C) For residential installations, the calculations justifying a de-rating of the neutral must be submitted.
-
-            (D) The plan view must be drawn to scale, showing the point of service entrance into the building. If the building sets back from the property line, the underground service feeder must be shown, including wire and raceway sizes.
-
-            (E) The arrangement of service equipment and its proximity to the point of service entrance must be shown, including the manner in which service will be extended to the service equipment. If the switchboard is free standing, the clearance around the switchboard must be shown.
-
-            (F) The location of the main switchboard and/or distribution panels in relation to the service equipment must be shown.
-
-            (G) The location of the electric service room with respect to the surrounding areas must be shown.
-
-            (H) The means of egress from the switchboard room and where it leads to must be shown. The legal exit(s) to which egress door(s) lead must also be shown.
-
-            (I) When there is more than one service location within a building, drawings must contain a notation indicating that signs are posted at the entrance door of each switchboard room showing the location of all the other switchboard rooms. The location and wording of the signs must be specified.
-
-            (J) If the existing service equipment and/or point of service entrance is to be discontinued, the drawings must so state.
-
-            (K) If existing service equipment is to remain in conjunction with new service equipment and is to be supplied by the same service entrance, the drawing must indicate the make and size of the existing service equipment, and the type and size of the fuses in the existing equipment.
-
-            (L) The drawing must show grouping of service equipment at the point of service entrance.
-
-            (M) The drawing must show ventilation of the room when the service equipment totals 2000 KVA or larger (this may be in the form of a note on the drawing).
-
-            (N) The drawing must show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings must be indicated.
-
-            (O) A statement confirming that all fuses and/or circuit breakers have been coordinated for selective short circuit overcurrent protection must be on the drawing.
-
-            (P) A one line diagram must be submitted indicating the service equipment and the distribution equipment up to the 2nd level overcurrent protection, showing all overcurrent devices with their ampere rating, make and type, interrupting current ratings and bus and wire sizes. Frame and trip sizes for circuit breakers must be indicated.
-
-            (Q) Drawings must indicate that transformers are properly grounded. Service and distribution equipment proposed for future installation must be marked on the drawings as "future."
-
-            (R) All voltages must be clearly shown on the drawings, which must include voltages pertaining to all of the equipment overcurrent protection up to and including the second level protection.
-
-            (S) When a generator (or other non-utility source) is part of a 1000 KVA submission and the generator itself is rated below 1000 KVA, a one line diagram must be submitted showing how the generator is connected to the normal service. The drawings must include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1000 KVA or larger, a room layout must be submitted along with a one line diagram.
-
-      (iv) A selective coordination report prepared by a professional engineer must be filed with the Department prior to electrical inspection. Such engineer may be different from the applicant.
-
-      (v) Where installation of equipment differs from the original approved drawings, amended drawings showing the as-built condition must be filed with the Department prior to electrical inspection.
-
-   (2) Special permission. Request for special permission must be made electronically and comply with the following:
-
-      (i) Demonstrate practical difficulty and provide supporting documentation.
-
-      (ii) Proposed equally safe alternative methods must be included.
-
-      (iii) A filing fee of $350.00 must be paid for each submission made where an objection was issued due to failure to obtain prior special permission.
-
-   (3) Office of Technical Certification and Research ("OTCR") review. Filings for OTCR review of electrical equipment not otherwise approved for use by the New York City electrical code must comply with the following:
-
-      (i) The submission, including a cover letter, notarized application and check, must be filed with OTCR or electronically, as the Commissioner may require.
-
-      (ii) A filing fee of $600.00 must be paid for each submission.
-
-      (iii) Payment must be made" in a form and manner as provided by the Commissioner.
-
-      (iv) The submission must contain the following:
-
-         (A) A cover letter indicating the following:
-
-            1. Type/model numbers of material/equipment being submitted for approval.
-
-            2. Items included in support of the submittal.
-
-            3. Explanatory information/comments, if applicable.
-
-         (B) A completed and notarized application for review.
-
-         (C) Two (2) brochures, or catalog data sheets, and a set of unmounted photographs or photographs.
-
-         (D) A complete test report that includes a conclusion sheet from a laboratory acceptable to the Commissioner.
-
-         (E) Equipment samples only when requested by OTCR.
-
-(c) Compliance with the New York City Energy Conservation Code. All electrical submissions must comply with the requirements of the Energy Conservation Code where applicable.
-
-
-
-* Editor's note: Formerly 1 RCNY § 34-05.
-
-
-
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 3600: Appendices
 --------------------------------------------------
 
@@ -11912,6 +11777,141 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 
+Chapter 4000: Electrical Code
+--------------------------------------------------
+
+
+
+*§ 4000-01 Electrical work review.* ::
+
+
+(a) Electrical review. Electrical review is required in the following circumstances:
+
+   (1) Electrical installations. Electrical review is required where service equipment totals 1000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1000 KVA or greater, as further detailed below:
+
+      (A) A new installation of equipment totaling 1000 KVA or higher;
+
+      (B) Any change in an installation with a rating of 1000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
+
+      (C) Any addition to an existing installation which would bring the total to 1000 KVA or higher.
+
+      (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
+
+      (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 KVA installation.
+
+   (2) Electrical equipment. Electrical review is required for electrical equipment not specifically addressed in the Electrical Code Technical Standards and any other electrical equipment not bearing the label of approval of an electrical testing laboratory acceptable to the Commissioner.
+
+(b) Filing requirements.
+
+   (1) Electrical installations 1000 KVA or greater, or new or revised installations above 600 volts. Filings for electrical installations 1000 KVA or greater, or new or revised installations above 600 volts must comply with the following:
+
+      (i) Submission must be made in a manner prescribed by the Department, including electronically, by a New York State Licensed and Registered Professional Engineer, New York State Licensed and Registered Architect, or an individual with comparable qualifications from an outside jurisdiction.
+
+      (ii) A filing fee of $650.00 must be paid for each submission.
+
+      (iii) All submissions for service equipment totaling 1000 KVA or more or above 600 Volts must include the following plans/drawings:
+
+         - One line diagram
+
+         - Plan view / service equipment room layout
+
+         - Submissions must be in accordance with, and include, the following requirements:
+
+            (A) All drawings must be clear, legible, and use standard notations.
+
+            (B) Installations that are not all new must clearly mark what is new and what is existing. In addition, all new work must be encircled by a ‘bubble' or ‘cloud' on the drawings.
+
+            (C) For residential installations, the calculations justifying a de-rating of the neutral must be submitted.
+
+            (D) The plan view must be drawn to scale, showing the point of service entrance into the building. If the building sets back from the property line, the underground service feeder must be shown, including wire and raceway sizes.
+
+            (E) The arrangement of service equipment and its proximity to the point of service entrance must be shown, including the manner in which service will be extended to the service equipment. If the switchboard is free standing, the clearance around the switchboard must be shown.
+
+            (F) The location of the main switchboard and/or distribution panels in relation to the service equipment must be shown.
+
+            (G) The location of the electric service room with respect to the surrounding areas must be shown.
+
+            (H) The means of egress from the switchboard room and where it leads to must be shown. The legal exit(s) to which egress door(s) lead must also be shown.
+
+            (I) When there is more than one service location within a building, drawings must contain a notation indicating that signs are posted at the entrance door of each switchboard room showing the location of all the other switchboard rooms. The location and wording of the signs must be specified.
+
+            (J) If the existing service equipment and/or point of service entrance is to be discontinued, the drawings must so state.
+
+            (K) If existing service equipment is to remain in conjunction with new service equipment and is to be supplied by the same service entrance, the drawing must indicate the make and size of the existing service equipment, and the type and size of the fuses in the existing equipment.
+
+            (L) The drawing must show grouping of service equipment at the point of service entrance.
+
+            (M) The drawing must show ventilation of the room when the service equipment totals 2000 KVA or larger (this may be in the form of a note on the drawing).
+
+            (N) The drawing must show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings must be indicated.
+
+            (O) A statement confirming that all fuses and/or circuit breakers have been coordinated for selective short circuit overcurrent protection must be on the drawing.
+
+            (P) A one line diagram must be submitted indicating the service equipment and the distribution equipment up to the 2nd level overcurrent protection, showing all overcurrent devices with their ampere rating, make and type, interrupting current ratings and bus and wire sizes. Frame and trip sizes for circuit breakers must be indicated.
+
+            (Q) Drawings must indicate that transformers are properly grounded. Service and distribution equipment proposed for future installation must be marked on the drawings as "future."
+
+            (R) All voltages must be clearly shown on the drawings, which must include voltages pertaining to all of the equipment overcurrent protection up to and including the second level protection.
+
+            (S) When a generator (or other non-utility source) is part of a 1000 KVA submission and the generator itself is rated below 1000 KVA, a one line diagram must be submitted showing how the generator is connected to the normal service. The drawings must include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1000 KVA or larger, a room layout must be submitted along with a one line diagram.
+
+      (iv) A selective coordination report prepared by a professional engineer must be filed with the Department prior to electrical inspection. Such engineer may be different from the applicant.
+
+      (v) Where installation of equipment differs from the original approved drawings, amended drawings showing the as-built condition must be filed with the Department prior to electrical inspection.
+
+   (2) Special permission. Request for special permission must be made electronically and comply with the following:
+
+      (i) Demonstrate practical difficulty and provide supporting documentation.
+
+      (ii) Proposed equally safe alternative methods must be included.
+
+      (iii) A filing fee of $350.00 must be paid for each submission made where an objection was issued due to failure to obtain prior special permission.
+
+   (3) Office of Technical Certification and Research ("OTCR") review. Filings for OTCR review of electrical equipment not otherwise approved for use by the New York City electrical code must comply with the following:
+
+      (i) The submission, including a cover letter, notarized application and check, must be filed with OTCR or electronically, as the Commissioner may require.
+
+      (ii) A filing fee of $600.00 must be paid for each submission.
+
+      (iii) Payment must be made" in a form and manner as provided by the Commissioner.
+
+      (iv) The submission must contain the following:
+
+         (A) A cover letter indicating the following:
+
+            1. Type/model numbers of material/equipment being submitted for approval.
+
+            2. Items included in support of the submittal.
+
+            3. Explanatory information/comments, if applicable.
+
+         (B) A completed and notarized application for review.
+
+         (C) Two (2) brochures, or catalog data sheets, and a set of unmounted photographs or photographs.
+
+         (D) A complete test report that includes a conclusion sheet from a laboratory acceptable to the Commissioner.
+
+         (E) Equipment samples only when requested by OTCR.
+
+(c) Compliance with the New York City Energy Conservation Code. All electrical submissions must comply with the requirements of the Energy Conservation Code where applicable.
+
+
+
+* Editor's note: Formerly 1 RCNY § 34-05.
+
+
+
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 6000: Fuel Gas Code [Repealed]
 --------------------------------------------------
 
@@ -11939,37 +11939,6 @@ Chapter 7000: Mechanical Code [Repealed]
 
 
 
-
-
-
-
-Chapter 9000: Zoning
---------------------------------------------------
-
-
-
-*§ 9000-01 Adult Establishments.* ::
-
-
-Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.
-
-(a) The date of establishment of an adult establishment, house of worship, or school in existence and operating prior to August 8, 2001 shall be the date of issuance of an appropriate department permit or, if no permit was required, the date that it commenced operation, as determined by the department.
-
-(b) Except as otherwise provided in subdivision a of this section, the date of establishment of an adult establishment, house of worship, or school shall be the date of issuance of an appropriate department permit, subject to the following qualifications:
-
-   (1) With respect to a new building permit or alteration permit:
-
-      (i) significant progress must be shown toward completion of the work under the permit. For the purposes of this paragraph, the term "significant progress" means the issuance of a temporary certificate of occupancy or, if applicable, department signoff of the work within one year of issuance of the permit, except that upon application, the commissioner or his or her designee, may extend the one year period in accordance with subdivision c of this section for a period of time not exceeding one year, and
-
-      (ii) the use or operation for which the building is constructed or altered must commence within six months after the issuance of a temporary certificate of occupancy or, if applicable, within six months after a department signoff that the work has been completed, except that upon application, the commissioner or his or her designee, may extend the six month period in accordance with subdivision c of this section for a period of time not exceeding six months.
-
-   (2) With respect to applications for permits filed solely to establish priority, where no work requiring a building permit is proposed, the use or operation for which the permit is issued must commence within two months of the issuance of such permit, except that upon application, the commissioner or his or her designee may extend such two month period in accordance with subdivision c of this section for a period of time not exceeding two months.
-
-(c) An extension of time pursuant to subdivision b of this section may be granted where the permittee submits an application no later than 30 days prior to the expiration of the applicable time period together with satisfactory evidence that significant progress or the commencement of use or operations within the applicable time period is impracticable. The commissioner or his or her designee shall make a determination and notify the applicant in writing of his or her determination not later than 30 days after receipt of the application by the department. If the application is denied, the commissioner or his or her designee shall state the reason(s) therefor. If the commissioner or his or her designee fails to act upon the application within such 30-day period, the application shall be deemed to be granted.
-
-(d) An adult establishment, otherwise in compliance with the zoning resolution, may be established within 500 feet of a discontinued adult establishment, house of worship or school. For the purposes of this subdivision, once established, an adult establishment, house of worship, or school shall not be deemed to be discontinued until it has ceased operation for a continuous period of one year or longer.
-
-(e) The time periods set forth in this section for significant progress of work or for commencement of operations shall commence to run as of the effective date of this section or issuance of the permit, whichever is later.
 
 
 
@@ -13276,6 +13245,37 @@ Table 7Special Inspection
  
 
 
+
+
+
+
+Chapter 9000: Zoning
+--------------------------------------------------
+
+
+
+*§ 9000-01 Adult Establishments.* ::
+
+
+Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.
+
+(a) The date of establishment of an adult establishment, house of worship, or school in existence and operating prior to August 8, 2001 shall be the date of issuance of an appropriate department permit or, if no permit was required, the date that it commenced operation, as determined by the department.
+
+(b) Except as otherwise provided in subdivision a of this section, the date of establishment of an adult establishment, house of worship, or school shall be the date of issuance of an appropriate department permit, subject to the following qualifications:
+
+   (1) With respect to a new building permit or alteration permit:
+
+      (i) significant progress must be shown toward completion of the work under the permit. For the purposes of this paragraph, the term "significant progress" means the issuance of a temporary certificate of occupancy or, if applicable, department signoff of the work within one year of issuance of the permit, except that upon application, the commissioner or his or her designee, may extend the one year period in accordance with subdivision c of this section for a period of time not exceeding one year, and
+
+      (ii) the use or operation for which the building is constructed or altered must commence within six months after the issuance of a temporary certificate of occupancy or, if applicable, within six months after a department signoff that the work has been completed, except that upon application, the commissioner or his or her designee, may extend the six month period in accordance with subdivision c of this section for a period of time not exceeding six months.
+
+   (2) With respect to applications for permits filed solely to establish priority, where no work requiring a building permit is proposed, the use or operation for which the permit is issued must commence within two months of the issuance of such permit, except that upon application, the commissioner or his or her designee may extend such two month period in accordance with subdivision c of this section for a period of time not exceeding two months.
+
+(c) An extension of time pursuant to subdivision b of this section may be granted where the permittee submits an application no later than 30 days prior to the expiration of the applicable time period together with satisfactory evidence that significant progress or the commencement of use or operations within the applicable time period is impracticable. The commissioner or his or her designee shall make a determination and notify the applicant in writing of his or her determination not later than 30 days after receipt of the application by the department. If the application is denied, the commissioner or his or her designee shall state the reason(s) therefor. If the commissioner or his or her designee fails to act upon the application within such 30-day period, the application shall be deemed to be granted.
+
+(d) An adult establishment, otherwise in compliance with the zoning resolution, may be established within 500 feet of a discontinued adult establishment, house of worship or school. For the purposes of this subdivision, once established, an adult establishment, house of worship, or school shall not be deemed to be discontinued until it has ceased operation for a continuous period of one year or longer.
+
+(e) The time periods set forth in this section for significant progress of work or for commencement of operations shall commence to run as of the effective date of this section or issuance of the permit, whichever is later.
 
 
 
