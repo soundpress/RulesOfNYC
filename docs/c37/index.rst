@@ -1791,6 +1791,169 @@ The names of successful candidates in the license examinations listed above will
 
 
 
+Chapter 13: [Filming and Photography Authorized By the Department]
+--------------------------------------------------
+
+
+
+*§ 13-01 Scope.* ::
+
+
+These rules shall be applicable to all film and photography shoots and related activities conducted on properties and within facilities under the jurisdiction of, and with permission from, the Department of Citywide Administrative Services that shall be authorized by a permit issued by the Mayor's Office of Film, Theatre and Broadcasting. Nothing contained herein shall preclude the requirement to comply with any other applicable law, rule or case law governing such activities.
+
+
+
+
+
+
+*§ 13-02 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms shall have the following meanings:
+
+(a) Commissioner. "Commissioner" shall mean the Commissioner of the Department of Citywide Administrative Services ("DCAS").
+
+(b) Court properties or facilities. "Court properties or facilities" shall mean the interiors and exteriors of buildings under the jurisdiction of the New York State Unified Court System that are managed by DCAS, and shall include the property adjacent to such buildings that is under the jurisdiction of DCAS.
+
+(c) DCAS Film Office. "DCAS Film Office" shall mean the unit of DCAS that oversees the filming, photography and related activities that are conducted on properties and within facilities under the jurisdiction of DCAS.
+
+(d) Equipment. "Equipment" shall include, but not be limited to, television, photographic, film or videocameras or transmitting television equipment, including radio remotes, props, sets, lights, electric and grip equipment, dolly tracks, screens, or microphone devices, and any and all production related materials. "Equipment" shall not include (1) "hand-held devices," as defined in 43 RCNY § 9-02 of the Mayor's Office of Film, Theatre and Broadcasting Film Permit Rules, and (2) vehicles, as defined in section one hundred fifty-nine of the New York Vehicle and Traffic Law, that are used solely to transport a person or persons while engaged in the activity of filming or photography from within such vehicle, operated in compliance with relevant traffic laws and rules.
+
+(e) Filming. "Filming" shall mean the taking of motion pictures, the taking of still photography or the use and operation of television cameras or transmitting television equipment, including radio remotes and any preparatory activity associated therewith, and shall include events that include, but are not limited to, the making of feature or documentary films, television serials, webcasts, simulcasts or specials.
+
+(f) Holding. "Holding" shall mean the temporary accommodation of cast or crew members and other individuals associated with a production in a space in which filming is not taking place. "Holding" may include the space in which an independent company provides meals or catering services to cast or crew members and other individuals associated with a production.
+
+(g) MOFTB Film Permit Rules. "MOFTB Film Permit Rules" shall mean the rules promulgated by the Mayor's Office of Film, Theatre and Broadcasting ("MOFTB"), codified as Chapter 9 of Title 43 of the Rules of the City of New York, as amended from time to time.
+
+(h) Permittee. "Permittee" shall mean the holder of a Required Permit issued by the Mayor's Office of Film, Theatre and Broadcasting in accordance with 43 RCNY § 9-01 of the MOFTB Film Permit Rules.
+
+(i) Photography. "Photography" shall mean the taking of moving or still images.
+
+(j) Required Permit. "Required Permit" shall mean the permit for filming or photography issued by MOFTB in accordance with 43 RCNY § 9-01 of the MOFTB Film Permit Rules.
+
+(k) Rigging/de-rigging. "Rigging/de-rigging" shall mean the loading in or loading out, loading or unloading, of any shooting or production related equipment, including, but not limited to, props, sets, electric and grip equipment, at any location, time and date where film or production is not occurring. Such term shall have the same meaning as the commonly used term "prepping/wrapping."
+
+(l) Scouting. "Scouting" shall mean the act of viewing, assessing and photographing locations for filming or photography during pre-production or production for, including, but not limited to, still photography, feature films, television series, mini-series or specials.
+
+(m) Shooting. "Shooting" shall mean filming on properties, in the interiors or on exteriors of buildings or facilities under the jurisdiction of DCAS.
+
+
+
+
+
+
+*§ 13-03 Pre-Production Scouting.* ::
+
+
+(a)  Prior to conducting any scouting related activities on properties or within facilities under the jurisdiction of DCAS, a scouting permit shall be obtained from MOFTB.
+
+(b) After a scouting permit is obtained from MOFTB, an appointment shall be scheduled with the DCAS Film Office to make arrangements for such scouting activities.
+
+(c) If after conducting scouting related activities it is determined that a filming or photography project or production will be pursued, the scouting permit holder shall submit the documentation and resolve production issues described in 55 RCNY § 13-04.
+
+
+
+
+
+
+*§ 13-04 Required Documentation and Approvals from DCAS.* ::
+
+
+(a)  The following forms and documents, which are required for DCAS review and approval prior to obtaining a Required Permit from MOFTB, shall be submitted to the DCAS Film Office no later than four (4) business days prior to the date on which the prepping or rigging for film and/or photography shoots is sought to commence:
+
+   (1) Completed "Properties and Facilities Under DCAS Jurisdiction Activity Approval Form" signed by the applicant;
+
+   (2) DCAS "Letter of Intent" signed by the applicant;
+
+   (3) "Prohibited Conduct" Memorandum signed by the applicant;
+
+   (4) Accurate and updated information concerning an applicant's forwarding postal address and, if available, an e-mail address, telephone number and facsimile number for purposes of receiving reimbursement notification from DCAS; and
+
+   (5) Any other documents, including, but not limited to, equipment specifications and architectural renderings, that may be required by the DCAS Film Office. The Commissioner or his or her designee may approve an exception to the four (4) business day minimum time frame referenced in subdivision (a) of this section if the nature and scope of the activity to be undertaken support a request that a shorter time within which to submit requisite forms and documents be granted.
+
+(b) In addition to reviewing the documentation required by subdivision (a) of this section, DCAS shall review and issue determinations concerning the following types of issues prior to completing the approvals necessary for MOFTB's Required Permit:
+
+   (1) Structural conditions, landmark status issues, equipment specifics, weight, load and other similar considerations.
+
+   (2) The use of smoke, pyrotechnics, firearms, weapons, animals and other special effects or unusual scenes, which shall also be subject to all applicable laws, rules and   other governmental policies regarding such activities.
+
+(c) Where appropriate, an applicant may be required to attend a security meeting with DCAS staff, depending on the nature and location of the activity to be undertaken.
+
+(d) Determinations about all DCAS staffing matters, including decisions regarding the scope, type, number or level of staff required, shall be made by DCAS.
+
+(e) The DCAS Film Office shall review the documentation provided in accordance with subdivision (a) of this section, and shall attempt to accommodate particular technical needs and any other special circumstances, including approvals from City agency tenants and DCAS engineers or other personnel, that may be presented by the applicant.
+
+(f) Where the DCAS Film Office has approved an application, it shall notify MOFTB about such approval. DCAS shall also notify the applicant that they can proceed by submitting the documentation to MOFTB necessary for obtaining a Required Permit.
+
+
+
+
+
+
+*§ 13-05 Application for Required Permit from MOFTB.* ::
+
+
+(a)  A Required Permit shall be applied for and issued in accordance with the provisions of 43 RCNY § 9-02 of the MOFTB Film Permit Rules after the requisite DCAS documentation has been completed by the applicant and reviewed by DCAS; production issues have been resolved with DCAS; and DCAS approval has been received.
+
+(b) A non-refundable fee of $3,200.00 shall accompany any application submitted to MOFTB for a Required Permit. Such fee shall be in the form of a certified bank check or money order, payable to the New York City Department of Finance.
+
+(c) The fee required by this section shall be imposed for each instance in which prepping or rigging commences, is followed by shooting and/or photography for such production, and then is concluded by wrapping, de-rigging and/or related activities.
+
+
+
+
+
+
+*§ 13-06 Indemnification and Insurance Requirements.* ::
+
+
+(a)  Prior to the commencement of prepping or rigging for film and/or photography shoots on properties or within facilities under the jurisdiction of DCAS, a permittee shall provide to the DCAS Film Office a copy of insurance documentation and a copy of the Required Permit in order to obtain final DCAS authorization for such production.
+
+(b) By obtaining a Required Permit from MOFTB, a permittee who is authorized to conduct film shoot and/or photography shoot activities on properties or within facilities under the jurisdiction of DCAS agrees to protect all persons and property from damage, loss or injury arising from any of the operations performed by or on behalf of such permittee, and to indemnify and hold harmless the City of New York, to the fullest extent permitted by law, from all claims, losses and expenses, including attorneys' fees, that may result therefrom.
+
+(c) A permittee who has been authorized by DCAS to conduct film shoot and/or photography shoot activities on properties or within facilities under the jurisdiction of DCAS, and has obtained a Required Permit from MOFTB, shall maintain, during the entire course of its operations, a liability insurance policy with a limit of not less than one million dollars ($1,000,000) per occurrence. Such policy shall name the City of New York as an additional insured with coverage at least as broad as provided by Insurance Services Office (ISO) form CG 20 12 (07/98 ed.). The permittee shall provide to MOFTB the original certificate of insurance signed in ink to which a copy of the required endorsement is attached. For currently enrolled film students, proof of insurance obtained through their school and proof of the student's current attendance shall satisfy this requirement.
+
+(d) If it is determined, in light of the activity for which a Required Permit has been sought, that such activity may increase the potential for injury to individuals and/or damage to property, and that the minimum limit of insurance should be higher than one million dollars ($1,000,000) per occurrence referenced in subdivision (c) of this section, it shall be determined what higher minimum limit is to be required and the permittee shall be advised of such higher limit. Factors to be considered shall include, but shall not be limited to, the number of people involved, the location of the activity and the nature of the activity. The permittee shall thereafter provide proof of such insurance in accordance with this section. Such determination may be appealed by written request to the Commissioner, who may reverse, affirm or modify the determination and provide a written explanation of his or her decision.
+
+
+
+
+
+
+*§ 13-07 Production Requirements.* ::
+
+
+(a)  Holding on properties and within facilities under the jurisdiction of DCAS is available only for those productions taking place on or within such properties or facilities, upon the approval of the Commissioner or his or her designee.
+
+(b) DCAS shall provide security personnel to protect City property under its jurisdiction during production activities at non-court properties and facilities, the cost of which shall be reimbursed by the permittee.
+
+(c) All individuals affiliated with the permittee and the production shall be required to present a valid, government-issued photo identification card to receive security clearance to have access to properties and facilities under the jurisdiction of DCAS where the production and related activities are taking place.
+
+(d) All individuals affiliated with the permittee and the production shall wear a laminated identification card on non-court properties and within non-court facilities under the jurisdiction of DCAS. The identification cards shall be similar in form and include the name of the production. Failure to display such identification cards at all times may lead to ejection from such properties and facilities.
+
+(e) All production equipment and props brought to properties and facilities under the jurisdiction of DCAS shall be subject to inspection at any time prior to or during the production.
+
+(f) DCAS shall not be responsible for any injury to persons and/or damage or loss to any property on properties and within facilities under the jurisdiction of DCAS arising from any of the operations performed by or on behalf of the permittee.
+
+(g) In addition to the fee referenced in 55 RCNY § 13-05 and any other costs identified in 55 RCNY § 13-08, a permittee requesting use of properties and facilities under the jurisdiction of DCAS for twenty-eight (28) days or longer shall be required to enter into an agreement providing for the payment of renting or leasing such space in an amount not to exceed $5,000.00 per month, in accordance with Administrative Code § 4-203(b).
+
+
+
+
+
+
+*§ 13-08 Post-Production Requirements.* ::
+
+
+(a)  A permittee is responsible for cleaning and restoring the properties and facilities under the jurisdiction of DCAS after the rigging, shooting and/or holding. The cost of any DCAS employee time incurred due to a permittee failing to clean and/or restore such properties and facilities following the rigging, shooting and/or holding shall be borne by the permittee and reimbursed to DCAS.
+
+(b) Any fixtures, furniture, books, doors, windows, walls, and other structures and/or objects shall be returned to their original position and/or restored to their original condition by the permittee during the de-rigging, unless the permittee has obtained prior approval from the Commissioner or his or her designee. The permittee shall immediately remove any props used during the production from properties and facilities under the jurisdiction of DCAS. The permittee shall reimburse DCAS for any property and facility damage arising from such production activities.
+
+(c) At the conclusion of all film and photography shoots, the permittee shall reimburse DCAS for all production related costs including, but not limited to, DCAS personnel costs contemplated by 55 RCNY § 13-04(d) and subdivision (a) of this section, and reimbursement for any property or facility damage in accordance with subdivision (b) of this section. If the permittee cancels any of its production related activities twenty-four (24) hours or less prior to the scheduled commencement of such activities on properties or within facilities under the jurisdiction of DCAS, the permittee may be subject to the reimbursement of costs for DCAS personnel assigned to staff such production.
+
+
+
+
 Chapter 12: Municipal Employees' Charitable Contributions
 --------------------------------------------------
 
@@ -1968,169 +2131,6 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 (e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in 55 RCNY § 12-06, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
 
 (f) When an employee's paycheck is refunded by the employee's agency to the Department of Finance, any charitable contribution deducted for the period covered by such paycheck shall be returned to the City by the coordinating agency, or recovered by the City from the Combined Municipal Campaign by deduction from subsequent payments.
-
-
-
-
-Chapter 13: [Filming and Photography Authorized By the Department]
---------------------------------------------------
-
-
-
-*§ 13-01 Scope.* ::
-
-
-These rules shall be applicable to all film and photography shoots and related activities conducted on properties and within facilities under the jurisdiction of, and with permission from, the Department of Citywide Administrative Services that shall be authorized by a permit issued by the Mayor's Office of Film, Theatre and Broadcasting. Nothing contained herein shall preclude the requirement to comply with any other applicable law, rule or case law governing such activities.
-
-
-
-
-
-
-*§ 13-02 Definitions.* ::
-
-
-For the purposes of this chapter, the following terms shall have the following meanings:
-
-(a) Commissioner. "Commissioner" shall mean the Commissioner of the Department of Citywide Administrative Services ("DCAS").
-
-(b) Court properties or facilities. "Court properties or facilities" shall mean the interiors and exteriors of buildings under the jurisdiction of the New York State Unified Court System that are managed by DCAS, and shall include the property adjacent to such buildings that is under the jurisdiction of DCAS.
-
-(c) DCAS Film Office. "DCAS Film Office" shall mean the unit of DCAS that oversees the filming, photography and related activities that are conducted on properties and within facilities under the jurisdiction of DCAS.
-
-(d) Equipment. "Equipment" shall include, but not be limited to, television, photographic, film or videocameras or transmitting television equipment, including radio remotes, props, sets, lights, electric and grip equipment, dolly tracks, screens, or microphone devices, and any and all production related materials. "Equipment" shall not include (1) "hand-held devices," as defined in 43 RCNY § 9-02 of the Mayor's Office of Film, Theatre and Broadcasting Film Permit Rules, and (2) vehicles, as defined in section one hundred fifty-nine of the New York Vehicle and Traffic Law, that are used solely to transport a person or persons while engaged in the activity of filming or photography from within such vehicle, operated in compliance with relevant traffic laws and rules.
-
-(e) Filming. "Filming" shall mean the taking of motion pictures, the taking of still photography or the use and operation of television cameras or transmitting television equipment, including radio remotes and any preparatory activity associated therewith, and shall include events that include, but are not limited to, the making of feature or documentary films, television serials, webcasts, simulcasts or specials.
-
-(f) Holding. "Holding" shall mean the temporary accommodation of cast or crew members and other individuals associated with a production in a space in which filming is not taking place. "Holding" may include the space in which an independent company provides meals or catering services to cast or crew members and other individuals associated with a production.
-
-(g) MOFTB Film Permit Rules. "MOFTB Film Permit Rules" shall mean the rules promulgated by the Mayor's Office of Film, Theatre and Broadcasting ("MOFTB"), codified as Chapter 9 of Title 43 of the Rules of the City of New York, as amended from time to time.
-
-(h) Permittee. "Permittee" shall mean the holder of a Required Permit issued by the Mayor's Office of Film, Theatre and Broadcasting in accordance with 43 RCNY § 9-01 of the MOFTB Film Permit Rules.
-
-(i) Photography. "Photography" shall mean the taking of moving or still images.
-
-(j) Required Permit. "Required Permit" shall mean the permit for filming or photography issued by MOFTB in accordance with 43 RCNY § 9-01 of the MOFTB Film Permit Rules.
-
-(k) Rigging/de-rigging. "Rigging/de-rigging" shall mean the loading in or loading out, loading or unloading, of any shooting or production related equipment, including, but not limited to, props, sets, electric and grip equipment, at any location, time and date where film or production is not occurring. Such term shall have the same meaning as the commonly used term "prepping/wrapping."
-
-(l) Scouting. "Scouting" shall mean the act of viewing, assessing and photographing locations for filming or photography during pre-production or production for, including, but not limited to, still photography, feature films, television series, mini-series or specials.
-
-(m) Shooting. "Shooting" shall mean filming on properties, in the interiors or on exteriors of buildings or facilities under the jurisdiction of DCAS.
-
-
-
-
-
-
-*§ 13-03 Pre-Production Scouting.* ::
-
-
-(a)  Prior to conducting any scouting related activities on properties or within facilities under the jurisdiction of DCAS, a scouting permit shall be obtained from MOFTB.
-
-(b) After a scouting permit is obtained from MOFTB, an appointment shall be scheduled with the DCAS Film Office to make arrangements for such scouting activities.
-
-(c) If after conducting scouting related activities it is determined that a filming or photography project or production will be pursued, the scouting permit holder shall submit the documentation and resolve production issues described in 55 RCNY § 13-04.
-
-
-
-
-
-
-*§ 13-04 Required Documentation and Approvals from DCAS.* ::
-
-
-(a)  The following forms and documents, which are required for DCAS review and approval prior to obtaining a Required Permit from MOFTB, shall be submitted to the DCAS Film Office no later than four (4) business days prior to the date on which the prepping or rigging for film and/or photography shoots is sought to commence:
-
-   (1) Completed "Properties and Facilities Under DCAS Jurisdiction Activity Approval Form" signed by the applicant;
-
-   (2) DCAS "Letter of Intent" signed by the applicant;
-
-   (3) "Prohibited Conduct" Memorandum signed by the applicant;
-
-   (4) Accurate and updated information concerning an applicant's forwarding postal address and, if available, an e-mail address, telephone number and facsimile number for purposes of receiving reimbursement notification from DCAS; and
-
-   (5) Any other documents, including, but not limited to, equipment specifications and architectural renderings, that may be required by the DCAS Film Office. The Commissioner or his or her designee may approve an exception to the four (4) business day minimum time frame referenced in subdivision (a) of this section if the nature and scope of the activity to be undertaken support a request that a shorter time within which to submit requisite forms and documents be granted.
-
-(b) In addition to reviewing the documentation required by subdivision (a) of this section, DCAS shall review and issue determinations concerning the following types of issues prior to completing the approvals necessary for MOFTB's Required Permit:
-
-   (1) Structural conditions, landmark status issues, equipment specifics, weight, load and other similar considerations.
-
-   (2) The use of smoke, pyrotechnics, firearms, weapons, animals and other special effects or unusual scenes, which shall also be subject to all applicable laws, rules and   other governmental policies regarding such activities.
-
-(c) Where appropriate, an applicant may be required to attend a security meeting with DCAS staff, depending on the nature and location of the activity to be undertaken.
-
-(d) Determinations about all DCAS staffing matters, including decisions regarding the scope, type, number or level of staff required, shall be made by DCAS.
-
-(e) The DCAS Film Office shall review the documentation provided in accordance with subdivision (a) of this section, and shall attempt to accommodate particular technical needs and any other special circumstances, including approvals from City agency tenants and DCAS engineers or other personnel, that may be presented by the applicant.
-
-(f) Where the DCAS Film Office has approved an application, it shall notify MOFTB about such approval. DCAS shall also notify the applicant that they can proceed by submitting the documentation to MOFTB necessary for obtaining a Required Permit.
-
-
-
-
-
-
-*§ 13-05 Application for Required Permit from MOFTB.* ::
-
-
-(a)  A Required Permit shall be applied for and issued in accordance with the provisions of 43 RCNY § 9-02 of the MOFTB Film Permit Rules after the requisite DCAS documentation has been completed by the applicant and reviewed by DCAS; production issues have been resolved with DCAS; and DCAS approval has been received.
-
-(b) A non-refundable fee of $3,200.00 shall accompany any application submitted to MOFTB for a Required Permit. Such fee shall be in the form of a certified bank check or money order, payable to the New York City Department of Finance.
-
-(c) The fee required by this section shall be imposed for each instance in which prepping or rigging commences, is followed by shooting and/or photography for such production, and then is concluded by wrapping, de-rigging and/or related activities.
-
-
-
-
-
-
-*§ 13-06 Indemnification and Insurance Requirements.* ::
-
-
-(a)  Prior to the commencement of prepping or rigging for film and/or photography shoots on properties or within facilities under the jurisdiction of DCAS, a permittee shall provide to the DCAS Film Office a copy of insurance documentation and a copy of the Required Permit in order to obtain final DCAS authorization for such production.
-
-(b) By obtaining a Required Permit from MOFTB, a permittee who is authorized to conduct film shoot and/or photography shoot activities on properties or within facilities under the jurisdiction of DCAS agrees to protect all persons and property from damage, loss or injury arising from any of the operations performed by or on behalf of such permittee, and to indemnify and hold harmless the City of New York, to the fullest extent permitted by law, from all claims, losses and expenses, including attorneys' fees, that may result therefrom.
-
-(c) A permittee who has been authorized by DCAS to conduct film shoot and/or photography shoot activities on properties or within facilities under the jurisdiction of DCAS, and has obtained a Required Permit from MOFTB, shall maintain, during the entire course of its operations, a liability insurance policy with a limit of not less than one million dollars ($1,000,000) per occurrence. Such policy shall name the City of New York as an additional insured with coverage at least as broad as provided by Insurance Services Office (ISO) form CG 20 12 (07/98 ed.). The permittee shall provide to MOFTB the original certificate of insurance signed in ink to which a copy of the required endorsement is attached. For currently enrolled film students, proof of insurance obtained through their school and proof of the student's current attendance shall satisfy this requirement.
-
-(d) If it is determined, in light of the activity for which a Required Permit has been sought, that such activity may increase the potential for injury to individuals and/or damage to property, and that the minimum limit of insurance should be higher than one million dollars ($1,000,000) per occurrence referenced in subdivision (c) of this section, it shall be determined what higher minimum limit is to be required and the permittee shall be advised of such higher limit. Factors to be considered shall include, but shall not be limited to, the number of people involved, the location of the activity and the nature of the activity. The permittee shall thereafter provide proof of such insurance in accordance with this section. Such determination may be appealed by written request to the Commissioner, who may reverse, affirm or modify the determination and provide a written explanation of his or her decision.
-
-
-
-
-
-
-*§ 13-07 Production Requirements.* ::
-
-
-(a)  Holding on properties and within facilities under the jurisdiction of DCAS is available only for those productions taking place on or within such properties or facilities, upon the approval of the Commissioner or his or her designee.
-
-(b) DCAS shall provide security personnel to protect City property under its jurisdiction during production activities at non-court properties and facilities, the cost of which shall be reimbursed by the permittee.
-
-(c) All individuals affiliated with the permittee and the production shall be required to present a valid, government-issued photo identification card to receive security clearance to have access to properties and facilities under the jurisdiction of DCAS where the production and related activities are taking place.
-
-(d) All individuals affiliated with the permittee and the production shall wear a laminated identification card on non-court properties and within non-court facilities under the jurisdiction of DCAS. The identification cards shall be similar in form and include the name of the production. Failure to display such identification cards at all times may lead to ejection from such properties and facilities.
-
-(e) All production equipment and props brought to properties and facilities under the jurisdiction of DCAS shall be subject to inspection at any time prior to or during the production.
-
-(f) DCAS shall not be responsible for any injury to persons and/or damage or loss to any property on properties and within facilities under the jurisdiction of DCAS arising from any of the operations performed by or on behalf of the permittee.
-
-(g) In addition to the fee referenced in 55 RCNY § 13-05 and any other costs identified in 55 RCNY § 13-08, a permittee requesting use of properties and facilities under the jurisdiction of DCAS for twenty-eight (28) days or longer shall be required to enter into an agreement providing for the payment of renting or leasing such space in an amount not to exceed $5,000.00 per month, in accordance with Administrative Code § 4-203(b).
-
-
-
-
-
-
-*§ 13-08 Post-Production Requirements.* ::
-
-
-(a)  A permittee is responsible for cleaning and restoring the properties and facilities under the jurisdiction of DCAS after the rigging, shooting and/or holding. The cost of any DCAS employee time incurred due to a permittee failing to clean and/or restore such properties and facilities following the rigging, shooting and/or holding shall be borne by the permittee and reimbursed to DCAS.
-
-(b) Any fixtures, furniture, books, doors, windows, walls, and other structures and/or objects shall be returned to their original position and/or restored to their original condition by the permittee during the de-rigging, unless the permittee has obtained prior approval from the Commissioner or his or her designee. The permittee shall immediately remove any props used during the production from properties and facilities under the jurisdiction of DCAS. The permittee shall reimburse DCAS for any property and facility damage arising from such production activities.
-
-(c) At the conclusion of all film and photography shoots, the permittee shall reimburse DCAS for all production related costs including, but not limited to, DCAS personnel costs contemplated by 55 RCNY § 13-04(d) and subdivision (a) of this section, and reimbursement for any property or facility damage in accordance with subdivision (b) of this section. If the permittee cancels any of its production related activities twenty-four (24) hours or less prior to the scheduled commencement of such activities on properties or within facilities under the jurisdiction of DCAS, the permittee may be subject to the reimbursement of costs for DCAS personnel assigned to staff such production.
 
 
 
