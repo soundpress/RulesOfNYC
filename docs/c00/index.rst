@@ -3630,6 +3630,19 @@ Chapter 35: Electrical Inspection
 
 
 
+Chapter 37: Reference Standards [Repealed]
+--------------------------------------------------
+
+
+
+*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 36: Electrical Contractors
 --------------------------------------------------
 
@@ -3661,19 +3674,6 @@ Chapter 36: Electrical Contractors
 (c) Subdivision (b) shall not apply to electrician's license applicants whose work experience includes electrical work that was not supervised by a licensed electrician, or that was otherwise illegal.
 
 (d) Nothing in this rule shall affect how credit for the seven and one-half (71/2) years of work experience is computed pursuant to New York City Administrative Code § 27-3010(a)-(e).
-
-
-
-
-Chapter 37: Reference Standards [Repealed]
---------------------------------------------------
-
-
-
-*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
-
-
-
 
 
 
@@ -4076,41 +4076,6 @@ Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dw
 
 
 
-Chapter 42: Entrance Doors, Locks and Intercommunication Systems
---------------------------------------------------
-
-
-
-*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
-
-
-(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
-
-(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
-
-(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
-
-(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
-
-(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
-
-(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
-
-(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
-
-(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
-
-(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
-
-(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
-
-(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
-
-(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
-
-
-
-
 Chapter 43: Installation of Security Items In Multiple Dwellings
 --------------------------------------------------
 
@@ -4178,6 +4143,41 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 (d) The lights shall be so located as to adequately light all portions of the rear yards, side yards, front yards and courts.
 
 (e) Lights are not required in an inner court that is accessible only from the interior of the building and to which access is restricted for clean-out purposes.
+
+
+
+
+Chapter 42: Entrance Doors, Locks and Intercommunication Systems
+--------------------------------------------------
+
+
+
+*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
+
+
+(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
+
+(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
+
+(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
+
+(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
+
+(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
+
+(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
+
+(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
+
+(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
+
+(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
+
+(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
+
+(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
+
+(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
 
 
 
@@ -4717,6 +4717,47 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 
+Chapter 51: Dormitories
+--------------------------------------------------
+
+
+
+*§ 51-01 Classification of Student Dormitory.* ::
+
+
+(a) Applicability. Student dormitory is classified under the Zoning Resolution of the City of New York as a Use Group 3, community facility use. The Zoning Resolution allows residences of all kinds, including residences for students, under a Use Group 2 classification. This rule sets forth the criteria the Department shall use to designate a Class A building or part of a building as a Use Group 3 student dormitory. An owner that seeks to classify a rooming unit as a dormitory shall be subject to the provisions set forth in 1 RCNY 15-04(e).
+
+(b) Definition. A student dormitory is a building or part of a building that is (1) operated by, or on behalf of, institution(s) that provide full-time day instruction and a course of study that may be pursued in fulfillment of the requirements of §§ 3204, 3205 and 3210 of the New York State Education Law, or post-secondary institution(s) authorized to grant a degree by the Regents of the University of the State of New York; (2) to house students enrolled at such institution(s). A student dormitory shall not be a single dwelling unit.
+
+(c) Required documentation. No permit shall be issued to create a student dormitory unless the following documentation has been submitted to the Department:
+
+   (1) Proof of ownership or control.
+
+      (i) Copies of documents demonstrating that the owner of the building or part of the building for which such permit is sought is an educational institution that provides a course of study that meets the requirements of subdivision (b) of this section, or
+
+      (ii) Copies of a lease of the building or part of the building for a minimum ten year term by an educational institution that meets the requirements of subdivision (b) of this section, or
+
+      (iii) Copies of documents evidencing (A) the establishment of a non-profit entity, all of whose members, directors, trustees, or other individuals upon whom is conferred the management of the entity, are representatives of participating educational institutions that meet the requirements of subdivision (b) of this section to provide dormitory housing for students of such participating educational institutions; and (B) ownership or control of the building or part of the building by such non-profit entity for such purpose in the form of a deed or lease for a minimum ten-year term.
+
+   (2) Restrictive declaration. Proof of recording of a restrictive declaration executed by Owner of the real property and any other party who holds an enforceable recorded interest that could result in such holder obtaining possession of the building or part of the building designated as a student dormitory. The agreement shall be binding upon all such parties' heirs, legal representatives, successors and assigns. The Declaration shall be in a form acceptable to the Commissioner and shall include the following terms:
+
+      (i) The facility shall only be used as a student dormitory, as defined in this chapter, or other Use Group 3 use.
+
+      (ii) Under no circumstances shall the units in a student dormitory be offered for sale pursuant to a cooperative or condominium plan.
+
+      (iii) Owner agrees to forego defenses to the enforcement of the provisions of this section.
+
+      (iv) Owner agrees to prominently display the name(s) of the school(s) operating the student dormitory on the exterior of building.
+
+(d) Term of certificate of occupancy. Where the student dormitory is not owned by an educational institution, but rather is leased, no certificate of occupancy shall be issued to the building for a term that exceeds the duration of the lease.
+
+(e) Effect on other codes. The designation of a building or a part of a building as a student dormitory shall not by itself be determinative as to the occupancy, construction, or multiple dwelling classifications as determined pursuant to the Building Code, Housing Maintenance Code or Multiple Dwelling Law.
+
+(f) If any clause, sentence, paragraph, subdivision, section, or part of this rule shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
+
+
+
+
 Chapter 50: Distributed Energy Resource Standards
 --------------------------------------------------
 
@@ -4846,47 +4887,6 @@ Chapter 50: Distributed Energy Resource Standards
       (vii) Gas meters shall not be permitted within the mechanical equipment room.
 
       (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
-
-
-
-
-Chapter 51: Dormitories
---------------------------------------------------
-
-
-
-*§ 51-01 Classification of Student Dormitory.* ::
-
-
-(a) Applicability. Student dormitory is classified under the Zoning Resolution of the City of New York as a Use Group 3, community facility use. The Zoning Resolution allows residences of all kinds, including residences for students, under a Use Group 2 classification. This rule sets forth the criteria the Department shall use to designate a Class A building or part of a building as a Use Group 3 student dormitory. An owner that seeks to classify a rooming unit as a dormitory shall be subject to the provisions set forth in 1 RCNY 15-04(e).
-
-(b) Definition. A student dormitory is a building or part of a building that is (1) operated by, or on behalf of, institution(s) that provide full-time day instruction and a course of study that may be pursued in fulfillment of the requirements of §§ 3204, 3205 and 3210 of the New York State Education Law, or post-secondary institution(s) authorized to grant a degree by the Regents of the University of the State of New York; (2) to house students enrolled at such institution(s). A student dormitory shall not be a single dwelling unit.
-
-(c) Required documentation. No permit shall be issued to create a student dormitory unless the following documentation has been submitted to the Department:
-
-   (1) Proof of ownership or control.
-
-      (i) Copies of documents demonstrating that the owner of the building or part of the building for which such permit is sought is an educational institution that provides a course of study that meets the requirements of subdivision (b) of this section, or
-
-      (ii) Copies of a lease of the building or part of the building for a minimum ten year term by an educational institution that meets the requirements of subdivision (b) of this section, or
-
-      (iii) Copies of documents evidencing (A) the establishment of a non-profit entity, all of whose members, directors, trustees, or other individuals upon whom is conferred the management of the entity, are representatives of participating educational institutions that meet the requirements of subdivision (b) of this section to provide dormitory housing for students of such participating educational institutions; and (B) ownership or control of the building or part of the building by such non-profit entity for such purpose in the form of a deed or lease for a minimum ten-year term.
-
-   (2) Restrictive declaration. Proof of recording of a restrictive declaration executed by Owner of the real property and any other party who holds an enforceable recorded interest that could result in such holder obtaining possession of the building or part of the building designated as a student dormitory. The agreement shall be binding upon all such parties' heirs, legal representatives, successors and assigns. The Declaration shall be in a form acceptable to the Commissioner and shall include the following terms:
-
-      (i) The facility shall only be used as a student dormitory, as defined in this chapter, or other Use Group 3 use.
-
-      (ii) Under no circumstances shall the units in a student dormitory be offered for sale pursuant to a cooperative or condominium plan.
-
-      (iii) Owner agrees to forego defenses to the enforcement of the provisions of this section.
-
-      (iv) Owner agrees to prominently display the name(s) of the school(s) operating the student dormitory on the exterior of building.
-
-(d) Term of certificate of occupancy. Where the student dormitory is not owned by an educational institution, but rather is leased, no certificate of occupancy shall be issued to the building for a term that exceeds the duration of the lease.
-
-(e) Effect on other codes. The designation of a building or a part of a building as a student dormitory shall not by itself be determinative as to the occupancy, construction, or multiple dwelling classifications as determined pursuant to the Building Code, Housing Maintenance Code or Multiple Dwelling Law.
-
-(f) If any clause, sentence, paragraph, subdivision, section, or part of this rule shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
 
 

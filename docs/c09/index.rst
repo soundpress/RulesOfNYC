@@ -12208,6 +12208,195 @@ Example 4: The facts are the same as in Example 3 except that X Corp. made the o
 
 
 
+Chapter 26: Creation and Retention of Books and Records
+--------------------------------------------------
+
+
+
+*§ 26-01 Purpose.* ::
+
+
+The purpose of these rules is to define the requirements imposed on taxpayers for the maintenance and retention of books, records, and other sources of information under §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York and to address these requirements where all or a part of the taxpayer's records are received, created, maintained or generated through various computer, electronic and imaging processes and systems.
+
+
+
+
+
+
+*§ 26-02 Definitions.* ::
+
+
+Unless the context requires otherwise, the following definitions apply in these rules:
+
+Database Management System. The term "Database Management System" or DMS means a software system that controls, relates, retrieves, and provides accessibility to data stored in a database.
+
+Department. The term "Department" means the Department of Finance of the City of New York.
+
+Electronic Data Interchange. The term "Electronic Data Interchange" or "EDI" means the computer-to-computer exchange of business transactions in a standardized structured electronic format.
+
+Hard copy. The term "Hard copy" means any documents, records, reports or other data printed on paper.
+
+Machine-sensible record. The term "Machine-sensible record" means a collection of related information in an electronic format. Machine-sensible records do not include hard copy records that are created or recorded on paper or stored in or by an imaging system such as microfilm, microfiche, or storage-only imaging systems.
+
+Storage-only imaging system. The term "Storage-only imaging system" means a system of computer hardware and software that provides for the storage, retention and retrieval of documents originally created on paper. It does not include any system, or part of a system, that manipulates or processes any information or data contained on the document in any manner other than to reproduce the document in hard copy or as an optical image.
+
+Taxpayer. The term "Taxpayer" as used in these rules means any individual or entity subject to the provisions of Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York.
+
+
+
+
+
+
+*§ 26-03 General.* ::
+
+
+(a)  A taxpayer shall maintain all records that are necessary to a determination of the correct tax liability under Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York. All required records must be made available on request by the Department or its authorized representatives as provided for in §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York. Such records shall include, but not be necessarily limited to permanent books of account or record, including inventories where applicable, as are sufficient to establish the amount of gross income, deductions, credits and other matters required to be shown by the taxpayer in any tax return required under the above chapters of the Administrative Code.
+
+(b) If a taxpayer retains records required to be retained under these rules in both machine-sensible and hard copy formats, the taxpayer shall make the records available to the Department in machine-sensible format upon request of the Department.
+
+(c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
+
+(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
+
+(e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
+
+(f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
+
+(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
+
+(h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
+
+
+
+
+
+
+*§ 26-04 Recordkeeping Requirements – Machine-Sensible Records.* ::
+
+
+(a)  General.
+
+   (1) Machine-sensible records used to establish tax compliance shall contain sufficient transaction-level detail information so that the details underlying the machine-sensible records can be identified and made available to the Department upon request. A taxpayer has discretion to discard duplicated records and redundant information provided its responsibilities under these rules are met.
+
+   (2) At the time of an examination, the retained records must be capable of being retrieved and converted to a standard record format as specified by the Department.
+
+   (3) Taxpayers are not required to construct machine-sensible records other than those created in the ordinary course of business. A taxpayer who does not create the electronic equivalent of a traditional paper document in the ordinary course of business is not required to construct such a record for tax purposes.
+
+   (4) Any system for creating, maintaining and retrieving machine-sensible records must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000 correctly and without ambiguity.
+
+(b) Electronic Data Interchange Requirements.
+
+   (1) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transaction, must be equivalent to that contained in an acceptable paper record. The retained records should contain such information as vendor name, invoice date, product description, quantity purchased, price, amount of tax and indication of tax status (where applicable), shipping detail, etc. Codes may be used to identify some or all of the data elements, provided that the taxpayer provides a method which allows the Department to interpret the coded information.
+
+   (2) The taxpayer may capture the information necessary to satisfy paragraph (1) of this subdivision at any level within the accounting system and need not retain the original EDI transaction records provided the audit trail, authenticity, and integrity of the retained records can be established.
+
+Example: A taxpayer using electronic data interchange technology receives electronic invoices from its suppliers. The taxpayer decides to retain the invoice data from completed and verified EDI transactions in its accounts payable system rather than to retain the EDI transactions themselves. Since neither the EDI transaction nor the accounts payable system captures information from the invoice pertaining to product description and vendor name (i.e., they contain only codes for that information), the taxpayer also retains other records, such as its vendor master file and product code description lists and makes them available to the Department. In this example, the taxpayer need not retain its EDI transaction for tax purposes.
+
+(c) Electronic Data Processing Systems Requirements. The requirements for an electronic data processing accounting system should be similar to that of a manual accounting system in that an adequately designed accounting system should incorporate methods and records that will satisfy the requirements of these rules. An electronic data processing accounting system must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000, correctly and without ambiguity.
+
+(d) Business Process Information.
+
+   (1) Upon the request of the Department, the taxpayer shall provide a description of the business process that created the retained records. Such description shall include the relationship between the records and the tax documents prepared by the taxpayer and the measures employed to ensure the integrity of the records.
+
+   (2) The taxpayer must be capable of demonstrating:
+
+      (i) the functions being performed as they relate to the flow of data through the system;
+
+      (ii) the internal controls used to ensure accurate and reliable processing; and
+
+      (iii) the internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.
+
+   (3) The following specific documentation for all retained files must also be kept:
+
+      (i) record formats (including the meaning of all "codes" used to represent information);
+
+      (ii) flowcharts for a system and a program;
+
+      (iii) label descriptions;
+
+      (iv) source program listings of programs that created the retained files;
+
+      (v) detailed charts of accounts (for specific periods);
+
+      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
+
+      (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
+
+   (4) Any change to a data processing system that affects the accounting system and/or subsystems, together with their effective dates, must be documented in order to preserve an accurate chronological record. This record should include any changes to software or systems and any changes to the formats of files.
+
+   (5) Every taxpayer must be able to process the retained records at the time of a Department examination. Processing must include the ability to print a hard copy of any record. When the data processing system that created the records is being replaced by a system with which the records would be incompatible, the taxpayer must convert pre-existing records to a format that is compatible with the new system.
+
+   (6) At the time of an examination, every taxpayer must provide the Department with computer resources (e.g., terminal access, computer time and personnel) that are necessary for the processing of the retained records.
+
+   (7) Every taxpayer that utilizes a Database Management System must create a sequential file(s) that contains all the detail necessary to identify the underlying source documents. In addition to the documentation described in paragraphs (2), (3) and (4) of this subdivision the following documentation must be retained:
+
+      (i) data base description including vendor, name and version;
+
+      (ii) record layouts of each segment with respect to the fields in the segment;
+
+      (iii) systems control language; and
+
+      (iv) programs associated with the DMS including a description of what each program does.
+
+   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
+
+   (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
+
+      (i) The taxpayer may arrange to provide the Department with the hardware, software and personnel resources to access the machine-sensible records.
+
+      (ii) The taxpayer may arrange for a third party to provide the hardware, software and personnel resources necessary to access the machine-sensible records.
+
+      (iii) The taxpayer may convert the machine-sensible records to a standard record format specified by the Department, including copies of files, on a magnetic medium that is agreed to by the Department.
+
+
+
+
+
+
+*§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
+
+
+(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
+
+(b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
+
+
+
+
+
+
+*§ 26-06 Alternative Storage Media for Hard Copy Documents.* ::
+
+
+(a)  For purposes of storage and retention, taxpayers may convert hard copy documents received or produced in the normal course of business and required to be retained under this rule to microfilm, microfiche or another storage-only imaging system and may discard the original hard copy documents, provided the conditions of this section are met. Documents that may be stored on these media include, but are not limited to general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates and credit memoranda.
+
+(b) Microfilm, microfiche and other storage-only imaging systems must meet the following requirements:
+
+   (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
+
+   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
+
+   (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
+
+   (4) When displayed on such equipment or reproduced on paper, the documents must exhibit a high degree of legibility and readability. For this purpose, legibility is defined as the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals. Readability is defined as the quality of a group of letters or numerals being recognizable as words or complete numbers.
+
+   (5) All data stored on microfilm, microfiche or other storage-only imaging system must be maintained and arranged in a manner that permits the location of any particular record.
+
+(c) Any imaging system meeting the requirements of an electronic storage system under Rev. Proc. 97-22, as promulgated by the Internal Revenue Service, must be deemed to satisfy the requirements of this section, provided it is able to accept date information input, provide date output and store dates before, on and after January 1, 2000 correctly and without ambiguity.
+
+
+
+
+
+
+*§ 26-07 Records Retention – Time Period.* ::
+
+
+All records required to be retained under these rules must be preserved pursuant to §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York unless the Department has provided in writing that the records are no longer required.
+
+
+
+
 Chapter 25: Retail Licensees of the State Liquor Authority
 --------------------------------------------------
 
@@ -12663,195 +12852,6 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
 (d) The provisions of the regulations of the Commissioner relating to the mailing rules for New York City income and excise tax apply with respect to retail licensee tax returns and payments. Generally, those regulations provide that if a tax return or payment properly addressed with sufficient postage prepaid is delivered to the Department of Finance by U.S. mail after the due date, the date of the U.S. Postal Service postmark stamped on the envelope will be deemed the date of delivery, provided the postmark date falls on or before the due date. Non-U.S. Postal Service postmarks will also be recognized, provided delivery to the Department of Finance occurs within five days of the postmark date. If the five-day limit is exceeded, the taxpayer must establish that the item was actually deposited in the mail by the due date, that the delay in receipt was due to a delay in the transmission of the mail, and the cause of the delay.
 
 (e) When the last day prescribed in these regulations for filing a return or paying a tax (including the last day covered by an extension of time) falls on Saturday, Sunday or a legal holiday in the State of New York, the filing of such return or paying of such tax will be considered timely if it is filed or paid on the next succeeding date which is not a Saturday, Sunday or legal holiday.
-
-
-
-
-Chapter 26: Creation and Retention of Books and Records
---------------------------------------------------
-
-
-
-*§ 26-01 Purpose.* ::
-
-
-The purpose of these rules is to define the requirements imposed on taxpayers for the maintenance and retention of books, records, and other sources of information under §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York and to address these requirements where all or a part of the taxpayer's records are received, created, maintained or generated through various computer, electronic and imaging processes and systems.
-
-
-
-
-
-
-*§ 26-02 Definitions.* ::
-
-
-Unless the context requires otherwise, the following definitions apply in these rules:
-
-Database Management System. The term "Database Management System" or DMS means a software system that controls, relates, retrieves, and provides accessibility to data stored in a database.
-
-Department. The term "Department" means the Department of Finance of the City of New York.
-
-Electronic Data Interchange. The term "Electronic Data Interchange" or "EDI" means the computer-to-computer exchange of business transactions in a standardized structured electronic format.
-
-Hard copy. The term "Hard copy" means any documents, records, reports or other data printed on paper.
-
-Machine-sensible record. The term "Machine-sensible record" means a collection of related information in an electronic format. Machine-sensible records do not include hard copy records that are created or recorded on paper or stored in or by an imaging system such as microfilm, microfiche, or storage-only imaging systems.
-
-Storage-only imaging system. The term "Storage-only imaging system" means a system of computer hardware and software that provides for the storage, retention and retrieval of documents originally created on paper. It does not include any system, or part of a system, that manipulates or processes any information or data contained on the document in any manner other than to reproduce the document in hard copy or as an optical image.
-
-Taxpayer. The term "Taxpayer" as used in these rules means any individual or entity subject to the provisions of Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York.
-
-
-
-
-
-
-*§ 26-03 General.* ::
-
-
-(a)  A taxpayer shall maintain all records that are necessary to a determination of the correct tax liability under Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York. All required records must be made available on request by the Department or its authorized representatives as provided for in §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York. Such records shall include, but not be necessarily limited to permanent books of account or record, including inventories where applicable, as are sufficient to establish the amount of gross income, deductions, credits and other matters required to be shown by the taxpayer in any tax return required under the above chapters of the Administrative Code.
-
-(b) If a taxpayer retains records required to be retained under these rules in both machine-sensible and hard copy formats, the taxpayer shall make the records available to the Department in machine-sensible format upon request of the Department.
-
-(c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
-
-(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
-
-(e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
-
-(f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
-
-(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
-
-(h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
-
-
-
-
-
-
-*§ 26-04 Recordkeeping Requirements – Machine-Sensible Records.* ::
-
-
-(a)  General.
-
-   (1) Machine-sensible records used to establish tax compliance shall contain sufficient transaction-level detail information so that the details underlying the machine-sensible records can be identified and made available to the Department upon request. A taxpayer has discretion to discard duplicated records and redundant information provided its responsibilities under these rules are met.
-
-   (2) At the time of an examination, the retained records must be capable of being retrieved and converted to a standard record format as specified by the Department.
-
-   (3) Taxpayers are not required to construct machine-sensible records other than those created in the ordinary course of business. A taxpayer who does not create the electronic equivalent of a traditional paper document in the ordinary course of business is not required to construct such a record for tax purposes.
-
-   (4) Any system for creating, maintaining and retrieving machine-sensible records must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000 correctly and without ambiguity.
-
-(b) Electronic Data Interchange Requirements.
-
-   (1) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transaction, must be equivalent to that contained in an acceptable paper record. The retained records should contain such information as vendor name, invoice date, product description, quantity purchased, price, amount of tax and indication of tax status (where applicable), shipping detail, etc. Codes may be used to identify some or all of the data elements, provided that the taxpayer provides a method which allows the Department to interpret the coded information.
-
-   (2) The taxpayer may capture the information necessary to satisfy paragraph (1) of this subdivision at any level within the accounting system and need not retain the original EDI transaction records provided the audit trail, authenticity, and integrity of the retained records can be established.
-
-Example: A taxpayer using electronic data interchange technology receives electronic invoices from its suppliers. The taxpayer decides to retain the invoice data from completed and verified EDI transactions in its accounts payable system rather than to retain the EDI transactions themselves. Since neither the EDI transaction nor the accounts payable system captures information from the invoice pertaining to product description and vendor name (i.e., they contain only codes for that information), the taxpayer also retains other records, such as its vendor master file and product code description lists and makes them available to the Department. In this example, the taxpayer need not retain its EDI transaction for tax purposes.
-
-(c) Electronic Data Processing Systems Requirements. The requirements for an electronic data processing accounting system should be similar to that of a manual accounting system in that an adequately designed accounting system should incorporate methods and records that will satisfy the requirements of these rules. An electronic data processing accounting system must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000, correctly and without ambiguity.
-
-(d) Business Process Information.
-
-   (1) Upon the request of the Department, the taxpayer shall provide a description of the business process that created the retained records. Such description shall include the relationship between the records and the tax documents prepared by the taxpayer and the measures employed to ensure the integrity of the records.
-
-   (2) The taxpayer must be capable of demonstrating:
-
-      (i) the functions being performed as they relate to the flow of data through the system;
-
-      (ii) the internal controls used to ensure accurate and reliable processing; and
-
-      (iii) the internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.
-
-   (3) The following specific documentation for all retained files must also be kept:
-
-      (i) record formats (including the meaning of all "codes" used to represent information);
-
-      (ii) flowcharts for a system and a program;
-
-      (iii) label descriptions;
-
-      (iv) source program listings of programs that created the retained files;
-
-      (v) detailed charts of accounts (for specific periods);
-
-      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
-
-      (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
-
-   (4) Any change to a data processing system that affects the accounting system and/or subsystems, together with their effective dates, must be documented in order to preserve an accurate chronological record. This record should include any changes to software or systems and any changes to the formats of files.
-
-   (5) Every taxpayer must be able to process the retained records at the time of a Department examination. Processing must include the ability to print a hard copy of any record. When the data processing system that created the records is being replaced by a system with which the records would be incompatible, the taxpayer must convert pre-existing records to a format that is compatible with the new system.
-
-   (6) At the time of an examination, every taxpayer must provide the Department with computer resources (e.g., terminal access, computer time and personnel) that are necessary for the processing of the retained records.
-
-   (7) Every taxpayer that utilizes a Database Management System must create a sequential file(s) that contains all the detail necessary to identify the underlying source documents. In addition to the documentation described in paragraphs (2), (3) and (4) of this subdivision the following documentation must be retained:
-
-      (i) data base description including vendor, name and version;
-
-      (ii) record layouts of each segment with respect to the fields in the segment;
-
-      (iii) systems control language; and
-
-      (iv) programs associated with the DMS including a description of what each program does.
-
-   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
-
-   (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
-
-      (i) The taxpayer may arrange to provide the Department with the hardware, software and personnel resources to access the machine-sensible records.
-
-      (ii) The taxpayer may arrange for a third party to provide the hardware, software and personnel resources necessary to access the machine-sensible records.
-
-      (iii) The taxpayer may convert the machine-sensible records to a standard record format specified by the Department, including copies of files, on a magnetic medium that is agreed to by the Department.
-
-
-
-
-
-
-*§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
-
-
-(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
-
-(b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
-
-
-
-
-
-
-*§ 26-06 Alternative Storage Media for Hard Copy Documents.* ::
-
-
-(a)  For purposes of storage and retention, taxpayers may convert hard copy documents received or produced in the normal course of business and required to be retained under this rule to microfilm, microfiche or another storage-only imaging system and may discard the original hard copy documents, provided the conditions of this section are met. Documents that may be stored on these media include, but are not limited to general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates and credit memoranda.
-
-(b) Microfilm, microfiche and other storage-only imaging systems must meet the following requirements:
-
-   (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
-
-   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
-
-   (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
-
-   (4) When displayed on such equipment or reproduced on paper, the documents must exhibit a high degree of legibility and readability. For this purpose, legibility is defined as the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals. Readability is defined as the quality of a group of letters or numerals being recognizable as words or complete numbers.
-
-   (5) All data stored on microfilm, microfiche or other storage-only imaging system must be maintained and arranged in a manner that permits the location of any particular record.
-
-(c) Any imaging system meeting the requirements of an electronic storage system under Rev. Proc. 97-22, as promulgated by the Internal Revenue Service, must be deemed to satisfy the requirements of this section, provided it is able to accept date information input, provide date output and store dates before, on and after January 1, 2000 correctly and without ambiguity.
-
-
-
-
-
-
-*§ 26-07 Records Retention – Time Period.* ::
-
-
-All records required to be retained under these rules must be preserved pursuant to §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York unless the Department has provided in writing that the records are no longer required.
 
 
 
